@@ -1,0 +1,107 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN back_pain|ST column|NN curvature|NN region|NN column|NN 
+back_pain|ST pain|ST back|NN 
+back|NN neck|NN pain|ST middle|NN back_pain|ST back_pain|ST lumbar|NN coccydynia|NN pain|ST segment|NN lumbar|NN area|NN area|NN back_pain|ST duration|NN 
+pain|ST ache|NN shoot|NN pain|ST sensation|NN 
+arm|NN hand|NN leg|NN feet|NN numbness|NN weakness|ST leg|NN arm|NN 
+majority|NN back_pain|ST cause|NN mechanism|NN change|NN discs|NN facet|NN joint|NN pain|ST muscle|NN nerve|NN pain|ST bone|NN joint|NN extremity|NN disease|NN inflammation|NN pancrea|NN aorta|NN kidney|NN pain|ST back|NN tumor|NN vertebrae|NN tissue|NN structure|NN back_pain|ST 
+back_pain|ST adult|NN point|NN life|NN adult|NN year|NN estimate|NN people|NN back_pain|ST point|NN lifetime|NN cause|NN pain|ST contributor|NN work|NN disability|NN individual|NN back_pain|ST 
+case|NN disk|NN stenosis|NN rest|NN injection|NN surgery|NN pain|ST resolution|NN outcome|NN average|NN year|NN 
+united|NN states|NN back_pain|ST reason|NN physician|NN visit|NN cause|NN day|NN work|NN cause|NN disability|NN content|NN 
+classification|NN cause|NN disc|NN disease|NN disease|NN infection|NN cancer|DS pain|ST risk|NN factor|NN diagnosis|NN image|NN laboratory|NN study|NN flag|NN prevention|NN management|NN pain|ST surgery|NN pregnancy|NN economics|NN reference|NN link|NN 
+back_pain|ST term|NN duration|NN symptom|NN 
+back_pain|ST week|NN back_pain|ST week|NN 
+back_pain|ST week|NN 
+cause|NN back_pain|ST blood|NN vessel|NN organ|NN infection|NN autoimmune|NN cause|NN percent|NN people|NN back_pain|ST back_pain|ST pathology|NN percent|NN people|NN cause|NN image|NN percent|NN factor|NN cancer|DS infection|NN abscess|NN account|NN percent|NN cause|NN cause|NN people|NN back_pain|ST compression|NN fracture|NN cancer|DS infection|NN 004|NN 
+percent|NN case|NN cause|NN abnormality|NN test|NN back_pain|ST back|NN 
+cause|NN injury|NN muscle|NN ligament|NN 
+patient|NN cause|NN pain|ST case|NN pain|ST 
+back_pain|ST people|NN scan|NN sensitization|NN injury|NN state|NN sensitivity|NN pain|ST 
+state|NN pain|ST injury|NN treatment|NN sensitization|NN dose|NN anti-depressant|NN rehabilitation|NN therapy|NN disc|NN disease|NN 
+disk|NN disease|NN nucleus|NN material|NN core|NN disc|NN rupture|NN nucleus|NN pulposus|NN compression|NN nerve|NN root|NN 
+symptom|NN region|NN spine|NN 
+region|NN disk|NN disease|NN l4-l5|NN l5-s1|NN 
+risk|NN lumbar|NN disc|NN disease|NN individual|NN force|NN nucleus|NN 
+cord|NN compression|NN emergency|NN decompression|NN motor|NN function|NN 
+syndrome|NN compression|NN cauda|NN pain|ST motor|NN bladder|NN incontinence|NN stage|NN cauda|NN syndrome|NN 
+arthritis|DS spine|NN disc|NN change|NN disc|NN cushion|NN vertebrae|NN 
+association|NN disc|NN space|NN narrow|NN lumbar|NN spine|NN pain|ST space|NN vertebrae|NN compression|NN irritation|NN nerve|NN 
+shift|NN vertebra|NN vertebra|NN 
+change|NN trauma|NN anomaly|NN 
+stenosis|NN case|NN spondylosis|NN age|NN thicken|NN flavum|NN 
+stenosis|NN narrow|NN canal|NN patient|NN year|NN age|NN 
+case|NN lumbar|NN stenosis|NN present|NN symptom|NN pain|ST back|NN buttock|NN leg|NN stand|NN 
+compression|NN fracture|NN percent|NN patient|NN care|NN back_pain|ST risk|NN factor|NN age|NN female|NN gender|NN history|NN osteoporosis|DS glucocorticoid|NN use|NN 
+trauma|NN case|NN 
+cause|NN back_pain|ST diskitis|NN abscess|NN abscess|NN cause|NN back_pain|ST structure|NN spine|NN 
+infection|NN bone|NN 
+risk|NN factor|NN skin|NN infection|NN tract|NN infection|NN catheter|NN use|NN drug|NN use|NN lung|NN disease|NN 
+abscess|NN infection|NN 
+risk|NN factor|NN drug|NN use|NN infection|NN 
+spread|NN cancer|DS bone|NN cord|NN back_pain|ST 
+bone|NN site|NN lesion|NN 
+patient|NN history|NN malignancy|NN 
+type|NN cancer|DS present|NN back_pain|ST myeloma|NN lymphoma|DS cord|NN tumor|NN prostate|NN cancer|DS back_pain|ST patient|NN cancer|DS cause|NN back_pain|ST affect|NN lumbar|NN spine|NN spine|NN pain|ST symptom|NN weight_loss|ST chill|NN fever|ST nausea|ST vomit|NN cause|NN back_pain|ST back_pain|ST rest|NN 
+bone|NN risk|NN cord|NN compression|NN fracture|NN treatment|NN 
+back_pain|ST vertebrae|NN discs|NN 
+spondylitis|DS arthritis|DS arthritis|DS lupus|NN level|NN destruction|NN 
+arthritide|NN spondylitis|DS back_pain|ST due|NN destruction|NN component|NN spine|NN 
+men|NN present|NN range|NN symptom|NN psoriasis|DS bowel|NN disease|NN 
+back_pain|ST pain|ST source|NN 
+pain|ST pain|ST location|NN source|NN pain|ST 
+disease|NN process|NN back_pain|ST pancreatitis|NN kidney|NN stone|NN tract|NN infection|NN aneurysm|DS risk|NN factor|NN 
+lift|NN obesity|NN lifestyle|NN lack|NN exercise|NN person|NN risk|NN back_pain|ST people|NN experience|NN back_pain|ST posture|NN weight_gain|ST pregnancy|NN risk|NN factor|NN back_pain|ST 
+fatigue|ST pain|ST 
+study|NN factor|NN stress|NN family|NN relationship|NN back_pain|ST abnormality|NN x-ray|NN image|NN scan|NN diagnosis|NN work-up|NN back_pain|ST 
+assessment|NN back_pain|ST history|NN examination|NN feature|NN back_pain|ST location|NN duration|NN severity|NN history|NN back_pain|ST trauma|NN 
+component|NN patient|NN history|NN age|NN trauma|NN history|NN cancer|DS fever|ST weight_loss|ST incontinence|NN weakness|ST change|NN flag|NN condition|NN 
+examination|NN back|NN posture|NN deformity|ST 
+pain|ST structure|NN area|NN 
+exam|NN change|NN gait|NN sensation|NN motor|NN function|NN 
+symptom|NN pain|ST numbness|NN weakness|ST limb|NN cause|NN back_pain|ST 
+leg|NN test|NN presence|NN radiculopathy|NN 
+irritation|NN nerve|NN root|NN symptom|NN numbness|NN tingle|NN 
+back_pain|ST injury|NN muscle|NN ligament|NN disease|NN disk|NN disk|NN stenosis|NN cause|NN 
+image|NN spine|NN laboratory|NN test|NN phase|NN reason|NN person|NN problem|NN case|NN pain|ST week|NN people|NN diagnosis|NN image|NN outcome|NN condition|NN image|NN 
+resonance|NN image|NN modality|NN evaluation|NN back_pain|ST bone|NN tissue|NN nerve|NN ligament|NN 
+x-ray|NN option|NN patient|NN suspicion|NN infection|NN malignancy|NN laboratory|NN study|NN interpretation|NN 
+image|NN majority|NN individual|NN back_pain|ST 
+case|NN back_pain|ST mry|NN individual|NN risk|NN suspicion|NN cancer|DS infection|NN deficit|NN patient|NN subacute|NN back_pain|ST mry|NN risk|NN factor|NN cancer|DS risk|NN factor|NN risk|NN factor|NN compression|NN fracture|NN trauma|NN stenosis|NN 
+image|NN study|NN phase|NN care|NN prognosis|NN patient|NN image|NN find|NN severity|NN outcome|NN laboratory|NN study|NN 
+laboratory|NN study|NN suspicion|NN autoimmune|NN cause|NN infection|NN malignancy|NN laboratory|NN test|NN blood|NN cell|NN wbc|NN count|NN erythrocyte|NN sedimentation|NN rate|NN esr|NN protein|NN crp|NN 
+elevated|NN esr|NN infection|NN malignancy|NN disease|NN inflammation|NN trauma|NN tissue|NN crp|NN level|NN infection|NN 
+ct|NN scan|NN spine|NN calcification|NN ligament|NN 
+image|NN diagnosis|NN treatment|NN back_pain|ST 
+flag|NN symptom|NN radiograph|NN x-ray|NN ct|NN scan|NN resonance|NN image|NN mry|NN 
+history|NN cancer|DS weight_loss|ST infection|NN drug|NN use|NN use|NN corticosteroid|NN back_pain|ST management|NN history|NN trauma|NN fall|NN lift|NN onset|NN retention|NN overflow|NN incontinence|NN loss|NN tone|NN incontinence|NN saddle|NN motor|NN weakness|ST limb|NN 
+quality|NN evidence|NN combination|NN education|NN exercise|NN individual|NN risk|NN episode|NN back_pain|ST quality|NN evidence|NN point|NN deterrent|NN risk|NN onset|NN condition|NN management|NN pain|ST 
+patient|NN back_pain|ST return|NN activity|NN 
+management|NN goal|NN back_pain|ST reduction|NN pain|ST intensity|NN individual|NN ability|NN function|NN activity|NN patient|NN pain|ST side-effect|NN therapy|NN patient|NN passage|NN impediment|NN recovery|NN 
+goal|NN pain|ST level|NN progress|NN rehabilitation|NN pain|ST relief|NN 
+people|NN goal|NN therapy|NN pain|ST surgery|NN surgery|NN way|NN 
+treatment|NN work|NN condition|NN individual|NN condition|NN treatment|NN option|NN 
+stage|NN condition|NN factor|NN choice|NN treatment|NN 
+minority|NN people|NN back_pain|ST estimate|NN surgery|NN 
+back_pain|ST therapy|NN use|NN medication|NN 
+heat|NN massage|NN acupuncture|NN manipulation|NN therapy|NN 
+heat|NN therapy|NN back|NN spasm|NN condition|NN 
+review|NN heat|NN therapy|NN symptom|NN low-|NN back_pain|ST activity|NN stretch|NN exercise|NN back_pain|ST outcome|NN therapy|NN muscle|NN abdomen|NN spine|NN exercise|NN patient|NN satisfaction|NN improvement|NN review|NN exercise|NN back_pain|ST pain|ST supervision|NN health|NN massage|NN therapy|NN pain|ST relief|NN improvement|NN back_pain|ST pain|ST relief|NN improvement|NN pack|NN pain|ST benefit|NN month|NN treatment|NN effect|NN massage|NN acupuncture|NN relief|NN back_pain|ST 
+research|NN evidence|NN need|NN manipulation|NN treatment|NN back|NN school|NN intervention|NN education|NN exercise|NN evidence|NN use|NN back|NN school|NN sub-acute|NN back_pain|ST 
+measure|NN medication|NN 
+drug|NN nsaids|NN nsaids|NN placebo|NN paracetamol|NN use|NN opioid|NN order|NN back_pain|ST back_pain|ST nsaids|NN acetaminophen|NN opioid|NN 
+citation|NN nsaids|NN antidepressant|NN back_pain|ST regard|NN pain|ST relief|NN gain|NN function|NN muscle|NN term|NN use|NN relief|NN back_pain|ST evidence|NN effect|NN medication|NN side-effect|NN people|NN nerve|NN root|NN pain|ST evidence|NN dose|NN steroid|NN dexamethasone|NN pain|ST relief|NN injection|NN esy|NN procedure|NN medication|NN space|NN 
+medication|NN inflammation|NN decrease|NN pain|ST function|NN esy|NN back_pain|ST study|NN lack|NN efficacy|NN back_pain|ST 
+surgery|NN back_pain|ST resort|NN deficit|NN review|NN back|NN surgery|NN study|NN diagnose|NN surgery|NN treatment|NN benefit|NN surgery|NN decline|NN term|NN 
+surgery|NN people|NN myelopathy|NN cauda|NN syndrome|NN cause|NN deficit|NN disc|NN stenosis|NN disc|NN disease|NN tumor|NN infection|NN nerve|NN root|NN cord|NN option|NN back_pain|ST option|NN cause|NN pain|ST 
+disc|NN nerve|NN root|NN laminectomy|NN material|NN nerve|NN laminectomy|NN canal|NN case|NN stenosis|NN 
+foraminotomy|NN vertebrae|NN nerve|NN root|NN compression|NN discectomy|NN disc|NN 
+disc|NN portion|NN place|NN pressure|NN nerve|NN root|NN disc|NN replacement|NN source|NN pain|ST disc|NN mobility|NN disc|NN discectomy|NN vertebrae|NN fusion|NN surgery|NN 
+fusion|NN procedure|NN bone|NN graft|NN metal|NN hardware|NN vertebrae|NN bone|NN column|NN cord|NN nerve|NN root|NN 
+infection|NN abscess|NN source|NN back_pain|ST surgery|NN trial|NN antibiotics|NN evacuation|NN hematoma|NN blood|NN product|NN pregnancy|NN 
+women|NN experience|NN back_pain|ST pregnancy|NN study|NN women|NN back_pain|ST pregnancy|NN risk|NN back_pain|ST pregnancy|NN pain|ST disability|NN women|NN back_pain|ST week|NN gestation|NN peak|NN week|NN gestation|NN women|NN back_pain|ST pregnancy|NN report|NN back_pain|ST year|NN pregnancy|NN back_pain|ST risk|NN back_pain|ST pregnancy|NN 
+factor|NN pregnancy|NN back_pain|ST curvature|NN back|NN lumbar|NN weight|NN abdomen|NN hormone|NN pregnancy|NN tissue|NN pelvis|NN back|NN delivery|NN 
+soften|NN flexibility|NN ligament|NN joint|NN back_pain|ST back_pain|ST pregnancy|NN symptom|NN fetus|NN plexus|NN lumbar|NN plexus|NN pelvis|NN 
+factor|NN back_pain|ST pregnancy|NN stand|NN lift|NN walk|NN 
+back_pain|ST pregnancy|NN pain|ST thigh|NN buttock|NN pain|ST patient|NN pain|ST night-time|NN pain|ST day-time|NN 
+heat|NN paracetamol|NN massage|NN pain|ST 
+stand|NN period|NN time|NN economics|NN 
+back_pain|ST disability|NN contributor|NN physician|NN visit|NN work|NN day|NN united|NN states|NN cause|NN disability|NN academy|NN surgeon|NN report|NN visit|NN doctor|NN office|NN year|NN back_pain|ST work|NN disability|NN back_pain|ST cost|NN year|NN united|NN states|NN kingdom|NN year|NN expense|NN disability|NN back_pain|ST 

@@ -1,0 +1,113 @@
+Meningoencephalitis,herpes meningoencephalitis
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+	
+Meningoencephalitis
+Other names	Herpes meningoencephalitis[1][2]
+Meninges-en.svg
+Meninges
+Specialty	Infectious disease, neurology
+
+Meningoencephalitis (/mɪˌnɪŋɡoʊɛnˌsɛfəˈlaɪtɪs, -ˌnɪndʒoʊ-, -ən-, -ˌkɛ-/;[3][4] from Greek μῆνιγξ meninx, "membrane", ἐγκέφαλος, enképhalos "brain", and the medical suffix -itis, "inflammation"), also known as herpes meningoencephalitis, is a medical condition that simultaneously resembles both meningitis, which is an infection or inflammation of the meninges, and encephalitis, which is an infection or inflammation of the brain.
+Contents
+
+    1 Signs and symptoms
+    2 Causes
+        2.1 Bacterial
+        2.2 Viral
+        2.3 Autoimmune
+        2.4 Protozoal
+        2.5 Animal
+        2.6 Other/multiple
+    3 Diagnosis
+    4 Treatment
+    5 See also
+    6 References
+    7 External links
+
+Signs and symptoms
+
+Signs of meningeoncephalitis include unusual behavior, personality changes, and thinking problems.[1][5]
+
+Symptoms may include headache, fever, pain in neck movement, light sensitivity, and seizure.[2]
+Causes
+
+Causative organisms include protozoans, viral and bacterial pathogens.
+
+Specific types include:
+Bacterial
+
+Veterinarians have observed meningoencephalitis in animals infected with listeriosis, caused by the pathogenic bacteria L. monocytogenes. Meningitis and encaphilitis already present in the brain or spinal cord of an animal may form simultaneously into meningeoencaphilitis.[6] The bacterium commonly targets the sensitive structures of the brain stem. L. monocytogenes meningoencephalitis has been documented to significantly increase the number of cytokines, such as IL-1β, IL-12, IL-15, leading to toxic effects on the brain.[7]
+
+Meningoencephalitis may be one of the severe complications of diseases originating from several Rickettsia species, such as Rickettsia rickettsii (agent of Rocky Mountain spotted fever (RMSF)), Rickettsia conorii, and Rickettsia africae. It can cause impairments to the cranial nerves, paralysis to the eyes, and sudden hearing loss.[8][9] Meningoencephalitis is a rare, late-stage manifestation of tick-borne ricksettial diseases, such as RMSF and Human monocytotropic ehrlichiosis (HME), caused by Ehrlichia chaffeensis (a species of rickettsiales bacteria).[10]
+
+Other bacteria that can cause it are Mycoplasma pneumoniae, Tuberculosis, Borrelia (Lyme disease) and Leptospirosis.
+Viral
+
+    Tick-borne encephalitis.
+    West Nile virus.
+    Measles.
+    Epstein-Barr virus.
+    Varicella-zoster virus.
+    Enterovirus.
+    Herpes simplex virus type 1.
+    Herpes simplex virus type 2.
+    Rabies virus.
+    Mumps, a relatively common cause of meningoencephalitis. However, most cases are mild, and mumps meningoencephalitis generally does not result in death or neurologic sequelae.[11]
+    HIV, a very small number of individuals exhibit meningoencephalitis at the primary stage of infection.[12][13]
+
+Autoimmune
+
+    Antibodies targeting amyloid beta peptide proteins which have been used during research on Alzheimer's disease.[14]
+    Anti-N-methyl-D-aspartate (anti-NMDA) receptor antibodies, which are also associated with seizures and a movement disorder, and related to Anti-NMDA receptor encephalitis
+    NAIM or "Nonvasculitic autoimmune inflammatory meningoencephalitis" (NAIM).[15] They can be divided into GFAP- and GFAP+ cases. The second is related to the Autoimmune GFAP Astrocytopathy.
+
+Protozoal
+
+    Primary amoebic meningoencephalitis, e.g., Naegleria fowleri, Balamuthia mandrillaris, Sappinia diploidea
+    Trypanosoma brucei
+    Toxoplasma gondii (sporozoa)
+
+Amoebic pathogens exist as free-living protozoans. Nevertheless, these pathogens cause rare and uncommon CNS infections. N. fowleri produces primary amoebic meningoencephalitis (PAM). The symptoms of PAM are indistinguishable from acute bacterial meningitis. Other amoebae cause granulomatous amoebic encephalitis (GAE), which is a more subacute and can even a non-symptomatic chronic infection. Amoebic meningoencephalitis can mimic a brain abscess, aseptic or chronic meningitis, or CNS malignancy.[16]
+Animal
+
+    Halicephalobus gingivalis
+
+Animal pathogens exist as facultative parasites. They are an exceptionally rare cause of meningoencephalitis.[17]
+Other/multiple
+
+    Granulomatous meningoencephalitis.
+    The fungus, Cryptococcus neoformans, can be symptomatically manifested within the CNS as meningoencephalitis with hydrocephalus being a very characteristic finding due to the unique thick polysaccharide capsule of the organism.
+    Vasculitis.
+
+Diagnosis
+
+Clinical diagnosis includes evaluation for the presence of recurrent or recent herpes infection, fever, headache, altered mental status, convulsions, disturbance of consciousness, and focal signs.
+
+CSF, EEG, CT, MRI are responsive to specific antivirus agent.
+
+Definite diagnosis – besides the above, the following are needed: CSF: HSV－antigen, HSV－Antibody, brain biopsy or pathology: Cowdry in intranuclear
+
+CSF: the DNA of the HSV(PCR)
+
+cerebral tissue or specimen of the CSF:HSV
+
+except other viral encephalitis
+Treatment
+	
+This section needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Meningoencephalitis" – news · newspapers · books · scholar · JSTOR (April 2019) (Learn how and when to remove this template message)
+
+Antiviral therapy, such as acyclovir and ganciclovir, work best when applied as early as possible. May also be treated with interferon as an immune therapy.
+
+Symptomatic therapy can be applied as needed. High fever can be treated by physical regulation of body temperature. Seizure can be treated with antiepileptic drugs. High intracranial pressure can be treated with drugs such as mannitol.
+
+If caused by an infection then the infection can be treated with antibiotic drugs.
+See also
+
+    Meningitis
+    Meningism
+    Primary amoebic meningoencephalitis
+    Encephalitis
+    Naegleria fowleri

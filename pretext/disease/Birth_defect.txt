@@ -1,0 +1,726 @@
+birth_defect|DS birth_defect|DS disorder|NN condition|NN present|NN birth|NN regardless|NN of|NN cause|NN 
+birth_defect|DS in|NN disability|NN developmental|NN 
+disability|NN mild|NN 
+birth_defect|DS type|NN disorder|NN in|NN problem|NN shape|NN of|NN body|NN part|NN disorder|NN in|NN problem|NN body|NN part|NN 
+disorder|NN 
+birth_defect|DS disorder|NN 
+disorder|NN name|NN birth_defect|DS disorder|NN disease|NN deformity|ST anomaly|NN birth_defect|DS disorder|NN exposure|NN medication|NN chemical|NN infection|NN pregnancy|NN 
+risk|NN factor|NN deficiency|NN alcohol|NN smoke|NN pregnancy|NN diabetes|DS mother|NN age|NN of|NN year|NN 
+multiple|NN factor|NN 
+birth_defect|DS birth|NN test|NN 
+number|NN of|NN defect|NN birth|NN test|NN 
+defect|NN treatment|NN vary|NN in|NN question|NN 
+therapy|NN medication|NN technology|NN 
+birth_defect|DS surgery|NN people|NN of|NN 
+in|NN state|NN in|NN of|NN newborn|NN 
+in|NN death|NN in|NN down|NN in|NN 
+type|NN number|NN of|NN death|NN heart|NN disease|NN tube|NN defect|NN 
+content|NN boy|NN down_syndrome|DS of|NN common|NN birth_defect|DS genetics|NN pediatrics|NN disability|NN onset|NN type|NN risk|NN factor|NN disability|NN disability|NN present|NN birth|NN genetics|NN exposure|NN medication|NN chemical|NN infection|NN pregnancy|NN acid|NN alcohol|NN smoke|NN diabetes|DS mother|NN age|NN of|NN treatment|NN therapy|NN medication|NN surgery|NN technology|NN frequency|NN of|NN newborn|NN alcohol|NN exposure|NN toxic|NN substance|NN infection|NN lack|NN of|NN nutrient|NN restraint|NN genetics|NN socioeconomics|NN parent|NN age|NN prevention|NN epidemiology|NN state|NN link|NN of|NN language|NN condition|NN map|NN condition|NN condition|NN 
+condition|NN expression|NN condition|NN link|NN 
+condition|NN in|NN basis|NN system|NN 
+term|NN abnormality|NN 
+of|NN condition|NN term|NN in|NN condition|NN 
+terminology|NN anomaly|NN abnormality|NN of|NN structure|NN of|NN body|NN part|NN 
+problem|NN condition|NN 
+people|NN anomaly|NN 
+example|NN of|NN anomaly|NN curvature|NN of|NN fifth|NN finger|NN clinodactyly|NN nipple|NN indentation|NN of|NN skin|NN ear|NN pit|NN shortness|NN of|NN metacarpal|NN metatarsal|NN bone|NN dimple|NN spine|NN dimple|NN 
+anomaly|NN clue|NN abnormality|NN 
+birth_defect|DS term|NN malformation|NN 
+congenital|NN anomaly|NN birth|NN problem|NN 
+center|NN disease|NN control|NN prevention|NN cdc|NN birth_defect|DS mix|NN of|NN factor|NN genetics|NN environment|NN behavior|NN birth_defect|DS cause|NN 
+example|NN of|NN birth_defect|DS palate|NN week|NN of|NN gestation|NN 
+body|NN tissue|NN cell|NN side|NN of|NN head|NN center|NN of|NN face|NN 
+face|NN 
+cleave|NN split|NN separation|NN roof|NN of|NN mouth|NN palate|NN 
+malformation|NN anomaly|NN 
+defect|NN problem|NN 
+combination|NN of|NN malformation|NN body|NN part|NN malformation|NN syndrome|NN 
+condition|NN abnormal|NN tissue|NN development|NN malformation|NN disorder|NN of|NN tissue|NN development|NN 
+malformation|NN in|NN trimester|NN 
+dysplasia|NN disorder|NN level|NN problem|NN tissue|NN development|NN 
+condition|NN tissue|NN deformation|NN condition|NN stress|NN tissue|NN 
+deformation|NN in|NN trimester|NN oligohydramnios|NN 
+disruption|NN of|NN tissue|NN 
+multiple|NN effect|NN in|NN order|NN sequence|NN 
+order|NN syndrome|NN 
+example|NN of|NN congenital|NN disorder|NN limb|NN anomaly|NN dysmelia|NN 
+form|NN of|NN anomaly|NN amelia|NN ectrodactyly|NN phocomelia|NN polymelia|NN polydactyly|NN syndactyly|NN polysyndactyly|NN oligodactyly|NN brachydactyly|NN achondroplasia|NN aplasia|NN hypoplasia|NN band|NN syndrome|NN dysostosis|NN 
+heart|NN defect|NN ductus|NN arteriosus|NN septal|NN defect|NN septal|NN defect|NN tetralogy|NN of|NN fallot|NN 
+anomaly|NN of|NN system|NN tube|NN defect|NN spina|NN bifida|NN encephalocele|NN anencephaly|NN 
+anomaly|NN of|NN system|NN chiari|NN malformation|NN malformation|NN hydrocephalus|NN microencephaly|NN megalencephaly|NN lissencephaly|NN polymicrogyria|NN holoprosencephaly|NN agenesis|NN of|NN corpus|NN callosum|NN 
+anomaly|NN of|NN gastrointestinal|NN system|NN form|NN of|NN stenosis|NN atresia|NN perforation|NN gastroschisis|NN 
+anomaly|NN of|NN kidney|NN urinary|NN tract|NN parenchyma|NN kidney|NN urinary|NN collect|NN system|NN 
+defect|NN defect|NN in|NN child|NN 
+disease|NN error|NN of|NN metabolism|NN 
+of|NN defect|NN 
+structure|NN of|NN body|NN part|NN function|NN 
+condition|NN production|NN of|NN hormone|NN receptor|NN protein|NN ion|NN channel|NN 
+cause|NN alcohol|NN mother|NN consumption|NN of|NN alcohol|NN pregnancy|NN continuum|NN of|NN birth_defect|DS abnormality|NN brain|NN damage|NN disability|NN heart|NN disease|NN kidney|NN abnormality|NN anomaly|NN abnormality|NN 
+prevalence|NN of|NN child|NN 1|NN in|NN in|NN canada|NN 
+study|NN link|NN alcohol|NN use|NN health|NN 
+animal|NN research|NN correlation|NN alcohol|NN exposure|NN birth|NN weight|NN 
+disorder|NN difficulty|NN learn|NN memory|NN hyperactivity|NN stress|NN tolerance|NN alcohol|NN ingestion|NN 
+stress|NN management|NN skill|NN of|NN animal|NN parent|NN alcohol|NN response|NN child|NN fetal|NN alcohol|NN syndrome|NN display|NN of|NN alcohol|NN use|NN 
+birth_defect|DS disorder|NN in|NN case|NN of|NN alcohol|NN ingestion|NN 
+in|NN animal|NN study|NN alcohol|NN exposure|NN difference|NN in|NN size|NN risk|NN of|NN defect|NN birth|NN 
+toxic|NN substance|NN substance|NN toxicity|NN disorder|NN teratogen|NN drug|NN in|NN pregnancy|NN toxin|NN in|NN pregnancy|NN 
+review|NN in|NN mechanism|NN medication|NN use|NN folate|NN antagonism|NN crest|NN cell|NN disruption|NN disruption|NN stress|NN disruption|NN teratogenesis|NN 
+of|NN birth_defect|DS exposure|NN agent|NN 
+exposure|NN medication|NN drug|NN exposure|NN infection|NN disease|NN occupational|NN exposure|NN 
+smoke|NN use|NN risk|NN of|NN birth_defect|DS childhood|NN cancer|DS offspring|NN germline|NN undergo|NN damage|NN use|NN 
+birth_defect|DS 
+of|NN woman|NN medication|NN gestation|NN 
+pregnancy|NN woman|NN teratogen|NN clothe|NN toxin|NN fluid|NN of|NN partner|NN 
+study|NN of|NN individual|NN counsel|NN exposure|NN teratogen|NN 
+medication|NN supplement|NN drug|NN 
+end|NN of|NN chemie|NN grünenthal|NN aid|NN 
+of|NN ability|NN nausea|ST woman|NN in|NN country|NN 
+mcbride|NN study|NN withdrawal|NN market|NN child|NN 
+disorder|NN thalidomide|NN deformity|ST of|NN bone|NN of|NN extremity|NN 
+phocomelia|NN deformity|ST effect|NN of|NN drug|NN 
+malformation|NN thalidomide|NN of|NN ear|NN eye|NN brain|NN kidney|NN heart|NN respiratory|NN tract|NN of|NN child|NN birth|NN 
+thalidomide|NN today|NN treatment|NN multiple|NN myeloma|NN leprosy|NN birth|NN of|NN child|NN in|NN spite|NN of|NN use|NN of|NN contraception|NN patient|NN 
+vitamin|NN vitamin|NN in|NN dose|NN example|NN in|NN multivitamin|NN metabolite|NN retinoic|NN acid|NN role|NN molecule|NN in|NN development|NN of|NN tisues|NN organ|NN 
+precursor|NN consumption|NN of|NN liver|NN malformation|NN liver|NN store|NN vitamin|NN retinol|NN 
+isotretinoin|NN brand|NN name|NN roaccutane|NN analog|NN acne|DS teratogen|NN dose|NN woman|NN in|NN birth_defect|DS 
+of|NN effect|NN country|NN system|NN in|NN place|NN woman|NN patient|NN of|NN pregnancy|NN month|NN treatment|NN 
+guideline|NN woman|NN intake|NN potential|NN in|NN excess|NN 
+vitamin|NN substance|NN abortion|NN birth_defect|DS of|NN eye|NN microphthalmia|NN ear|NN thymus|NN face|NN deformity|ST microcephalia|NN cardiovascular|NN defect|NN retardation|NN 
+tetracycline|NN woman|NN of|NN age|NN child|NN of|NN impact|NN bone|NN mineralization|NN mineralization|NN 
+teeth|NN colour|NN result|NN of|NN development|NN of|NN dentine|NN enamel|NN of|NN teeth|NN 
+phenytoin|NN anticonvulsant|NN diphenylhydantoin|NN carbamazepine|NN fetal|NN hydantoin|NN syndrome|NN base|NN cleave|NN lip|NN palate|NN microcephalia|NN nail|NN finger|NN growth|NN restriction|NN retardation|NN 
+trimethadione|NN pregnancy|NN fetal|NN trimethadione|NN syndrome|NN cardiovascular|NN malformation|NN delay|NN in|NN development|NN 
+valproate|NN effect|NN tube|NN defect|NN bifida|NN 
+iq|NN autism|DS result|NN of|NN valproate|NN exposure|NN 
+contraception|NN harmless|NN embryo|NN 
+peterka|NN novotná|NN state|NN progestines|NN miscarriage|ST in|NN masculinization|NN of|NN organ|NN of|NN newborn|NN activity|NN 
+diethylstilbestrol|NN estrogen|NN exposition|NN adenocarcinoma|NN of|NN vagina|NN 
+study|NN risk|NN tumor|NN malformation|NN of|NN sex|NN organ|NN sex|NN 
+cytostatics|NN teratogen|NN abortion|NN pregnancy|NN chemotherapy|NN 
+aminopterin|NN drug|NN effect|NN abortion|NN 
+in|NN case|NN abortion|NN newborn|NN fetal|NN aminopterin|NN syndrome|NN consist|NN of|NN growth|NN retardation|NN craniosynostosis|NN hydrocephalus|NN dismorphities|NN retardation|NN leg|NN defomities|NN substance|NN water|NN medium|NN toxin|NN 
+metal|NN element|NN nitrate|NN nitrite|NN water|NN cause|NN congenital|NN disorder|NN 
+nitrate|NN in|NN water|NN grind|NN source|NN teratogen|NN 
+control|NN study|NN in|NN australia|NN report|NN of|NN mortality|NN malformation|NN groundwater|NN water|NN risk|NN of|NN birth|NN child|NN system|NN disorder|NN defect|NN defect|NN 
+solvent|NN benzene|NN trichloroethylene|NN water|NN supply|NN oversight|NN in|NN waste|NN disposal|NN 
+study|NN area|NN leukemia|DS in|NN child|NN of|NN woburn|NN massachusetts|NN rate|NN time|NN rate|NN of|NN incidence|NN 
+investigation|NN connection|NN occurrence|NN of|NN leukemia|DS error|NN in|NN water|NN distribution|NN water|NN town|NN contamination|NN manufacture|NN waste|NN trichloroethylene|NN 
+endocrine|NN disruptor|NN ddt|NN miscarriage|ST development|NN of|NN system|NN hypothyroidism|NN childhood|NN obesity|NN 
+transmitted|NN water|NN level|NN teratogen|NN 
+report|NN exposure|NN china|NN education|NN level|NN of|NN parent|NN child|NN parent|NN ppm|NN fluoride|NN iq|NN average|NN point|NN counterpart|NN parent|NN water|NN ppm|NN fluoride|NN 
+in|NN study|NN rat|NN fluoride|NN in|NN drink|NN water|NN acetylcholinesterase|NN level|NN brain|NN development|NN 
+effect|NN level|NN of|NN ppm|NN 
+fetus|NN carbon|NN monoxide|NN intake|NN pregnancy|NN tobacco|NN smoke|NN 
+concentration|NN of|NN carbon|NN monoxide|NN in|NN infant|NN nonsmoking|NN mother|NN 2|NN concentration|NN range|NN of|NN mother|NN tobacco|NN 
+source|NN of|NN carbon|NN monoxide|NN intoxication|NN gas|NN combustion|NN motor|NN use|NN of|NN dichloromethane|NN thinner|NN remover|NN in|NN area|NN gas|NN water|NN heater|NN indoor|NN barbeque|NN flame|NN in|NN area|NN exposure|NN in|NN area|NN 
+exposure|NN monoxide|NN level|NN trimester|NN of|NN pregnancy|NN growth|NN restriction|NN baby|NN growth|NN of|NN baby|NN gestational|NN age|NN 
+effect|NN of|NN chronic|NN exposure|NN monoxide|NN stage|NN of|NN pregnancy|NN in|NN mother|NN 
+exposure|NN stage|NN consequence|NN dysgenesis|NN difficulty|NN infancy|NN reduction|NN of|NN cerebellum|NN volume|NN 
+skeletal|NN defect|NN exposure|NN monoxide|NN stage|NN hand|NN foot|NN malformation|NN hip|NN dysplasia|NN hip|NN subluxation|NN agenesis|NN of|NN limb|NN atresia|NN glossoptosis|NN 
+carbon|NN monoxide|NN exposure|NN day|NN of|NN development|NN risk|NN of|NN child|NN cleave|NN palate|NN 
+exposure|NN monoxide|NN ozone|NN exposure|NN defect|NN of|NN septal|NN pulmonary|NN artery|NN heart|NN valve|NN 
+effect|NN of|NN carbon|NN monoxide|NN exposure|NN in|NN fetal|NN development|NN fetal|NN stage|NN encephalopathy|NN 
+pollution|NN defect|NN 
+period|NN of|NN year|NN chisso|NN corporation|NN petrochemical|NN plastic|NN company|NN water|NN of|NN minamata|NN bay|NN ton|NN of|NN methylmercury|NN water|NN supply|NN 
+people|NN in|NN area|NN minamata|NN disease|NN 
+methylmercury|NN teratogen|NN mercury|NN poison|NN of|NN bay|NN in|NN defect|NN in|NN offspring|NN 
+infant|NN in|NN utero|NN predisposition|NN cerebral_palsy|DS ataxia|ST psychomotor|NN development|NN retardation|NN 
+landfill|NN site|NN effect|NN fetal|NN development|NN 
+research|NN landfill|NN effect|NN baby|NN mother|NN site|NN birth|NN weight|NN birth_defect|DS abortion|NN fetal|NN mortality|NN 
+study|NN love|NN canal|NN site|NN fall|NN lipari|NN landfill|NN in|NN jersey|NN proportion|NN of|NN baby|NN community|NN landfill|NN 
+study|NN in|NN california|NN correlation|NN time|NN quantity|NN of|NN birth|NN weight|NN death|NN 
+study|NN in|NN kingdom|NN correlation|NN woman|NN site|NN risk|NN of|NN disorder|NN tube|NN defect|NN hypospadias|NN epispadia|NN abdominal|NN wall|NN defect|NN gastroschisis|NN exomphalos|NN 
+study|NN welsh|NN community|NN increase|NN incidence|NN of|NN gastroschisis|NN 
+study|NN site|NN km|NN risk|NN of|NN birth|NN infant|NN birth_defect|DS distance|NN land|NN risk|NN 
+birth_defect|DS tube|NN defect|NN malformation|NN of|NN septum|NN anomaly|NN of|NN artery|NN vein|NN anomaly|NN 
+community|NN landfill|NN site|NN justice|NN 
+majority|NN of|NN site|NN black|NN community|NN 
+example|NN early|NN of|NN houston|NN population|NN black|NN 
+of|NN landfill|NN incinerator|NN time|NN in|NN black|NN community|NN 
+issue|NN justice|NN poison|NN 
+fetus|NN pregnancy|NN in|NN difficulty|NN growth|NN 
+paint|NN lead|NN 
+woman|NN in|NN home|NN paint|NN dust|NN lead|NN exposure|NN in|NN fetus|NN 
+pipe|NN drink|NN water|NN cook|NN water|NN water|NN lead|NN fetus|NN toxin|NN 
+issue|NN in|NN poorer|NN community|NN family|NN home|NN pipe|NN 
+smoke|NN conception|NN risk|NN of|NN abnormality|NN in|NN 
+cause|NN mutation|NN in|NN germline|NN of|NN father|NN offspring|NN 
+cigarette|NN smoke|NN chemical|NN mutagen|NN germ|NN cell|NN dna|NN 
+germ|NN cell|NN damage|NN effect|NN in|NN altered|NN mrna|NN production|NN infertility|ST issue|NN side|NN effect|NN in|NN fetal|NN stage|NN of|NN development|NN 
+damage|NN in|NN modification|NN of|NN father|NN germline|NN 
+fetal|NN lymphocyte|NN result|NN of|NN father|NN smoke|NN habit|NN conception|NN 
+correlation|NN smoke|NN risk|NN of|NN childhood|NN cancer|DS acute|NN leukemia|DS brain_tumor|DS lymphoma|NN age|NN 
+smoke|NN damage|NN fetus|NN window|NN of|NN time|NN in|NN father|NN smoke|NN 
+infection|NN transmitted|NN infection|NN infection|NN bacteria|NN virus|NN in|NN case|NN parasite|NN transmitted|NN mother|NN embryo|NN fetus|NN baby|NN pregnancy|NN childbirth|NN 
+mother|NN infection|NN disease|NN in|NN pregnancy|NN 
+disorder|NN result|NN of|NN factor|NN 
+in|NN early|NN ophthalmologist|NN gregg|NN pattern|NN in|NN infant|NN surgery|NN cataract|DS rate|NN factor|NN 
+gregg|NN paper|NN of|NN child|NN cataract|DS in|NN utero|NN rubella|DS outbreak|NN in|NN army|NN camp|NN 
+find|NN in|NN fact|NN cause|NN disorder|NN 
+rubella|DS abnormality|NN of|NN eye|NN ear|NN heart|NN teeth|NN 
+fetal|NN exposure|NN rubella|DS week|NN of|NN development|NN week|NN cataract|DS microphthalmia|NN in|NN eye|NN 
+mother|NN rubella|DS week|NN week|NN ear|NN development|NN destruction|NN of|NN organ|NN of|NN corti|NN deafness|NN 
+in|NN heart|NN ductus|NN arteriosus|NN birth|NN hypertension|DS 
+rubella|DS septal|NN defect|NN in|NN heart|NN 
+rubella|DS in|NN trimester|NN fetus|NN system|NN malformation|NN 
+infection|NN of|NN rubella|DS in|NN mother|NN abnormality|NN in|NN child|NN life|NN incidence|NN of|NN birth_defect|DS rubella|DS 
+time|NN of|NN mother|NN s|NN infection|NN fetal|NN development|NN risk|NN type|NN of|NN birth_defect|DS 
+embryo|NN risk|NN of|NN abnormality|NN decrease|NN 
+rubella|DS virus|NN week|NN risk|NN of|NN malformation|NN 
+exposure|NN week|NN create|NN chance|NN week|NN chance|NN exist|NN exposure|NN week|NN 
+exposure|NN week|NN of|NN development|NN birth|NN fetal|NN death|NN 
+number|NN inspection|NN of|NN infant|NN birth|NN 
+defect|NN in|NN percentage|NN in|NN child|NN life|NN 
+number|NN 
+agent|NN cytomegalovirus|NN herpes_simplex|DS virus|NN hyperthermia|NN toxoplasmosis|NN syphilis|DS 
+exposure|NN microcephaly|DS cerebral|NN calcification|NN blindness|NN chorioretinitis|NN blindness|NN meningoencephalitis|DS in|NN fetus|NN 
+microcephaly|DS disorder|NN in|NN fetus|NN head|NN cerebral|NN brain|NN calcium|NN deposit|NN calcification|NN area|NN of|NN meningoencephalitis|DS enlargement|NN of|NN brain|NN 
+disorder|NN abnormal|NN brain|NN function|NN retardation|NN 
+hepatosplenomegaly|NN enlargement|NN of|NN liver|NN spleen|NN problem|NN 
+kernicterus|NN petechia|ST 
+kernicterus|NN yellow|NN pigmentation|NN of|NN skin|NN brain|NN damage|NN deafness|NN 
+petechaie|NN capillary|NN in|NN spot|NN skin|NN 
+cytomegalovirus|NN in|NN embryo|NN 
+herpes_simplex|DS virus|NN microcephaly|DS microphthalmus|NN eyeball|NN dysplasia|NN hepatosplenomegaly|NN retardation|NN 
+microphthalmus|NN dysplasia|NN blindness|NN 
+common|NN symptom|NN in|NN infant|NN response|NN week|NN of|NN life|NN 
+hyperthermia|NN anencephaly|NN part|NN of|NN brain|NN skull|NN in|NN infant|NN 
+mother|NN exposure|NN cerebral|NN calcification|NN hydrocephalus|NN disability|NN retardation|NN in|NN infant|NN 
+birth|NN abnormality|NN chorioretinitis|NN microphthalmus|NN defect|NN 
+syphilis|DS cause|NN deafness|NN retardation|NN fibrosis|NN in|NN organ|NN liver|NN lung|NN embryo|NN 
+lack|NN of|NN nutrient|NN example|NN lack|NN of|NN acid|NN b|NN vitamin|NN in|NN diet|NN of|NN mother|NN tube|NN deformity|ST in|NN spina|NN bifida|NN 
+disorder|NN tube|NN deformity|ST mother|NN mg|NN of|NN acid|NN conception|NN week|NN of|NN pregnancy|NN 
+acid|NN vitamin|NN b9|NN development|NN of|NN system|NN 
+study|NN mouse|NN food|NN deprivation|NN of|NN male|NN mouse|NN conception|NN lead|NN blood|NN glucose|NN level|NN 
+restraint|NN shock|NN constraint|NN growth|NN in|NN space|NN in|NN deformation|NN separation|NN of|NN structure|NN in|NN abnormal|NN shape|NN structure|NN 
+example|NN syndrome|NN oligohydramnios|NN 
+find|NN understand|NN of|NN genetics|NN individual|NN disease|NN obesity|NN diabetes|DS cancer|DS 
+organism|NN in|NN womb|NN interference|NN presence|NN of|NN organism|NN twin|NN in|NN mass|NN cell|NN in|NN manner|NN growth|NN pattern|NN of|NN cell|NN mass|NN 
+mass|NN duplicate|NN merge|NN structure|NN 
+result|NN in|NN condition|NN twin|NN organism|NN birth|NN environment|NN of|NN womb|NN process|NN 
+genetics|NN cause|NN of|NN birth_defect|DS inheritance|NN of|NN abnormal|NN gene|NN mother|NN father|NN mutation|NN in|NN of|NN germ|NN cell|NN rise|NN fetus|NN 
+germ|NN cell|NN rate|NN cell|NN father|NN age|NN dna|NN of|NN germ|NN cell|NN 
+egg|NN sperm|NN dna|NN possibility|NN fetus|NN 
+disorder|NN birth|NN in|NN life|NN 
+disorder|NN defect|NN disorder|NN defect|NN 
+defect|NN abnormality|NN of|NN copy|NN of|NN gene|NN recessive|NN disorder|NN of|NN of|NN copy|NN disorder|NN 
+condition|NN deletion|NN abnormality|NN of|NN gene|NN chromosome|NN 
+disorder|NN loss|NN duplication|NN of|NN portion|NN of|NN chromosome|NN chromosome|NN hundred|NN of|NN gene|NN 
+abnormality|NN effect|NN body|NN part|NN system|NN 
+socioeconomics|NN status|NN in|NN neighborhood|NN exposure|NN stressor|NN risk|NN factor|NN 
+inequality|NN morris|NN score|NN index|NN of|NN multiple|NN deprivation|NN deprivation|NN index|NN jarman|NN score|NN 
+jarman|NN score|NN example|NN consider|NN unemployment|NN parent|NN live|NN ethnicity|NN class|NN mobility|NN 
+in|NN index|NN effect|NN of|NN s|NN neighborhood|NN health|NN 
+in|NN data|NN study|NN 
+vos|NN correlation|NN adversity|NN neighborhood|NN 
+study|NN s|NN development|NN of|NN fetus|NN in|NN utero|NN growth|NN retardation|NN 
+study|NN child|NN in|NN s|NN family|NN birth|NN weight|NN birth_defect|DS disability|NN fetal|NN alcohol|NN syndrome|NN aid|NN 
+bradley|NN corwyn|NN disorder|NN mother|NN lack|NN of|NN nutrition|NN lifestyle|NN substance|NN abuse|NN live|NN in|NN neighborhood|NN hazard|NN fetal|NN development|NN waste|NN dump|NN 
+in|NN inequality|NN health|NN neighborhood|NN behavior|NN smoke|NN drug|NN alcohol|NN use|NN 
+factor|NN ethnicity|NN study|NN association|NN outcome|NN mortality|NN birth|NN 
+radiation|NN survivor|NN of|NN bomb|NN of|NN hiroshima|NN nagasaki|NN hibakusha|NN increase|NN of|NN birth|NN malformation|NN later|NN child|NN in|NN later|NN child|NN of|NN cancer|DS survivor|NN radiotherapy|NN 
+woman|NN of|NN hiroshima|NN nagasaki|NN amount|NN of|NN radiation|NN child|NN incidence|NN of|NN defect|NN in|NN population|NN whole|NN 
+study|NN effect|NN of|NN radiation|NN exposure|NN 
+disaster|NN in|NN 1990s|NN line|NN of|NN father|NN mutation|NN in|NN dna|NN descendant|NN 
+world|NN health|NN organization|NN state|NN child|NN father|NN exposure|NN difference|NN in|NN mutation|NN frequency|NN 
+increase|NN researcher|NN child|NN of|NN liquidator|NN 
+study|NN do|NN of|NN irradiation|NN of|NN mouse|NN in|NN birth_defect|DS of|NN offspring|NN 
+in|NN prevalence|NN of|NN leukemia|DS case|NN in|NN child|NN processing|NN plant|NN in|NN cumbria|NN researcher|NN cancer|DS result|NN of|NN radiation|NN exposure|NN 
+association|NN irradiation|NN cancer|DS research|NN area|NN processing|NN plant|NN result|NN 
+cluster|NN in|NN hypothesis|NN influx|NN of|NN worker|NN rate|NN of|NN leukemia|DS race|NN average|NN in|NN cluster|NN of|NN child|NN cumbria|NN 
+parent|NN age|NN birth|NN complication|NN in|NN age|NN year|NN 
+complication|NN fetal|NN growth|NN restriction|NN preeclampsia|NN abruption|NN birth|NN stillbirth|NN 
+complication|NN child|NN risk|NN mother|NN 
+effect|NN of|NN father|NN age|NN effect|NN of|NN mother|NN age|NN 
+father|NN mutation|NN germ|NN cell|NN mother|NN age|NN mutation|NN 
+human|NN age|NN germ|NN cell|NN mutation|NN rate|NN cell|NN 
+increase|NN in|NN incidence|NN of|NN defect|NN septal|NN defect|NN patent|NN ductus|NN arteriosus|NN in|NN offspring|NN age|NN 
+age|NN risk|NN of|NN achondroplasia|NN syndrome|NN 
+father|NN age|NN of|NN show|NN risk|NN of|NN patent|NN ductus|NN arteriosus|NN septal|NN defect|NN tetralogy|NN of|NN fallot|NN 
+exposure|NN choice|NN 
+research|NN correlation|NN age|NN risk|NN of|NN birth_defect|DS limb|NN anomaly|NN syndrome|NN multiple|NN system|NN down_syndrome|DS 
+study|NN of|NN down_syndrome|DS case|NN effect|NN find|NN 
+evidence|NN age|NN likelihood|NN mother|NN miscarriage|ST fetal|NN death|NN 
+progress|NN in|NN etiology|NN of|NN birth_defect|DS cause|NN 
+term|NN cause|NN occurrence|NN regardless|NN of|NN live|NN condition|NN recurrence|NN risk|NN child|NN 
+of|NN anomaly|NN cause|NN interaction|NN of|NN multiple|NN anomaly|NN risk|NN factor|NN 
+of|NN anomaly|NN cause|NN 
+infection|NN illness|NN drug|NN abuse|NN in|NN mother|NN 
+of|NN anomaly|NN cause|NN 
+of|NN majority|NN anomaly|NN 
+prevention|NN folate|NN supplement|NN risk|NN of|NN defect|NN 
+evidence|NN role|NN of|NN arginine|NN in|NN risk|NN of|NN growth|NN restriction|NN 
+screen|NN test|NN in|NN early|NN disorder|NN 
+mass|NN spectrometry|NN gas|NN spectrometry|NN dna|NN analysis|NN range|NN of|NN disorder|NN 
+activity|NN blood|NN spot|NN sample|NN 
+screen|NN test|NN in|NN order|NN disorder|NN extent|NN 
+early|NN diagnosis|NN readiness|NN of|NN information|NN replacement|NN therapy|NN transplant|NN 
+country|NN screen|NN number|NN of|NN disorder|NN error|NN of|NN metabolism|NN disorder|NN cystic_fibrosis|DS duchenne|NN dystrophy|NN 
+mass|NN spectroscopy|NN iem|NN investigation|NN of|NN infant|NN death|NN baby|NN syndrome|NN 
+screen|NN ultrasonography|NN scan|NN scan|NN 
+scan|NN information|NN of|NN anomaly|NN 
+epidemiology|NN anomaly|NN in|NN death|NN year|NN in|NN down|NN in|NN 
+type|NN death|NN heart|NN defect|NN tube|NN defect|NN 
+anomaly|NN death|NN person|NN in|NN study|NN frequency|NN of|NN occurrence|NN of|NN malformation|NN sex|NN of|NN child|NN 
+example|NN stenosis|NN in|NN male|NN hip|NN dislocation|NN time|NN in|NN female|NN 
+child|NN kidney|NN male|NN whereas|NN child|NN kidney|NN time|NN female|NN 
+pattern|NN infant|NN number|NN of|NN rib|NN vertebra|NN teeth|NN organ|NN in|NN process|NN of|NN evolution|NN female|NN 
+infant|NN scarcity|NN male|NN 
+anencephaly|NN occur|NN in|NN female|NN 
+number|NN of|NN boy|NN finger|NN time|NN number|NN of|NN girl|NN 
+technique|NN anomaly|NN in|NN fetus|NN birth|NN 
+significance|NN 
+of|NN newborn|NN major|NN anomaly|NN anomaly|NN congenital|NN abnormality|NN cause|NN of|NN mortality|NN in|NN state|NN of|NN death|NN 
+percent|NN of|NN child|NN care|NN birth_defect|DS 
+life|NN year|NN anomaly|NN inhabitant|NN in|NN 
+data|NN sex|NN ratio|NN of|NN patient|NN malformation|NN sex|NN ratio|NN defect|NN predominance|NN hip|NN dislocation|NN 1|NN 1|NN 1|NN 1|NN cleave|NN palate|NN anencephaly|NN aplasia|NN of|NN lung|NN herniation|NN diverticulum|NN of|NN stomach|NN defect|NN hypoplasia|NN of|NN tibia|NN spina|NN bifida|NN atresia|NN of|NN intestine|NN microcephaly|DS esophageal|NN atresia|NN hydrocephalus|NN defect|NN predominance|NN diverticulum|NN of|NN colon|NN atresia|NN of|NN agenesis|NN schistocystis|NN cleave|NN lip|NN agenesis|NN 1|NN 1|NN 1|NN 2|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 1|NN 2|NN 1|NN 2|NN 1|NN 1|NN 2|NN 1|NN 2|NN 1|NN 1|NN 1|NN anomaly|NN of|NN system|NN 1|NN stenosis|NN meckel|NN diverticulum|NN congenital|NN megacolon|NN 1|NN 1|NN common|NN in|NN boy|NN common|NN in|NN 1|NN 1|NN data|NN twin|NN 
+data|NN in|NN period|NN rajewski|NN sherman|NN frequency|NN of|NN anomaly|NN in|NN relation|NN system|NN of|NN organism|NN 
+prevalence|NN of|NN men|NN anomaly|NN of|NN organ|NN system|NN 
+in|NN respect|NN of|NN etiology|NN distinction|NN differentiation|NN of|NN male|NN gonad|NN development|NN week|NN 
+testosterone|NN level|NN in|NN 
+hormonal|NN distinction|NN of|NN male|NN embryo|NN difference|NN in|NN frequency|NN of|NN defect|NN 
+difference|NN in|NN frequency|NN of|NN birth_defect|DS sex|NN detail|NN of|NN function|NN influence|NN of|NN factor|NN 
+cdc|NN birth_defect|DS project|NN incidence|NN of|NN birth_defect|DS in|NN 
+find|NN down_syndrome|DS common|NN condition|NN prevalence|NN of|NN birth|NN diagnosis|NN year|NN 
+baby|NN cleave|NN palate|NN cleave|NN lip|NN 
+prevalence|NN estimate|NN number|NN of|NN case|NN in|NN state|NN birth_defect|DS case|NN system|NN defect|NN number|NN of|NN case|NN prevalence|NN birth|NN bifida|NN encephalocele|NN eye|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN microphthalmia|NN cardiovascular|NN defect|NN 1|NN in|NN common|NN truncus|NN transposition|NN of|NN artery|NN tetralogy|NN of|NN fallot|NN defect|NN heart|NN syndrome|NN defect|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN cleave|NN palate|NN cleave|NN lip|NN 1|NN in|NN cleave|NN lip|NN palate|NN gastrointestinal|NN defect|NN fistula|NN rectal|NN musculoskeletal|NN defect|NN reduction|NN deformity|ST limb|NN reduction|NN deformity|ST gastroschisis|NN hernia|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN anomaly|NN down_syndrome|DS see|NN 1|NN in|NN 1|NN in|NN 1|NN in|NN syndrome|NN chapter|NN q|NN malformation|NN deformation|NN abnormality|NN list|NN of|NN disorder|NN list|NN of|NN code|NN anomaly|NN march|NN of|NN dime|NN disease|NN body|NN part|NN ruth|NN hannon|NN 
+pathophysiology|NN concept|NN of|NN altered|NN health|NN state|NN http|NN ed|NN 
+philadelphia|NN pa|NN wolters|NN williams|NN wilkins|NN 
+2|NN 
+birth_defect|DS http|NN 
+dec|NN jan|NN 
+birth_defect|DS condition|NN information|NN http|NN 
+december|NN 
+type|NN of|NN birth_defect|DS 
+http|NN 
+december|NN 
+birth_defect|DS 
+http|NN 
+december|NN 
+people|NN risk|NN birth_defect|DS 
+http|NN 
+december|NN 
+fact|NN birth_defect|DS http|NN 
+center|NN disease|NN control|NN prevention|NN 
+december|NN 
+treatment|NN birth_defect|DS 
+http|NN 
+december|NN 
+gbd|NN mortality|NN cause|NN of|NN death|NN collaborator|NN 
+life|NN expectancy|NN mortality|NN mortality|NN cause|NN of|NN death|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+health|NN care|NN provider|NN birth_defect|DS 
+http|NN 
+december|NN 
+gbd|NN disease|NN injury|NN incidence|NN prevalence|NN collaborator|NN 
+incidence|NN prevalence|NN year|NN disability|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN c5055577|NN 
+pmid|NN http|NN 
+gbd|NN mortality|NN cause|NN of|NN death|NN collaborator|NN december|NN 
+mortality|NN cause|NN of|NN death|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+birth_defect|DS research|NN http|NN http|NN wayback|NN machine|NN 
+center|NN disease|NN control|NN prevention|NN 
+fact|NN cleave|NN lip|NN cleave|NN palate|NN birth_defect|DS cdc|NN http|NN 
+communication|NN 
+cleave|NN lip|NN cleave|NN palate|NN http|NN 
+academy|NN of|NN neck|NN surgery|NN 
+graham|NN john|NN whichello|NN 
+smith|NN pattern|NN of|NN human|NN deformation|NN edition|NN 
+philadelphia|NN saunders|NN 
+overview|NN of|NN anomaly|NN of|NN kidney|NN urinary|NN tract|NN cakut|NN http|NN t|NN 
+wolters|NN health|NN 
+october|NN 
+jones|NN k|NN smith|NN d|NN 
+fetal|NN alcohol|NN syndrome|NN 
+teratology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+clarren|NN alvord|NN e|NN sumi|NN s|NN smith|NN d|NN 
+brain|NN malformation|NN exposure|NN 
+j|NN pediatr|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+abel|NN el|NN rj|NN 
+fetal|NN alcohol|NN syndrome|NN cause|NN of|NN retardation|NN 
+lancet|NN 
+2|NN http|NN 
+pmid|NN http|NN 
+strömland|NN k|NN m|NN 
+involvement|NN in|NN fetal|NN alcohol|NN syndrome|NN model|NN study|NN 
+alcohol|NN alcohol|NN 
+1|NN 
+http|NN 
+pmid|NN tps|NN 
+gossage|NN jp|NN 
+prevalence|NN of|NN fetal|NN alcohol|NN syndrome|NN 
+http|NN 
+alcohol|NN health|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+santis|NN marco|NN cesari|NN elena|NN annafranca|NN serena|NN visconti|NN daniela|NN caruso|NN alessandro|NN 
+exposure|NN counsel|NN experience|NN of|NN teratology|NN information|NN service|NN 
+toxicology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+trasler|NN jacquetta|NN tonia|NN 
+teratogen|NN update|NN risk|NN 
+teratology|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+abel|NN 
+contribution|NN fetal|NN alcohol|NN syndrome|NN 
+addiction|NN biology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+alliance|NN health|NN district|NN of|NN department|NN of|NN 
+substance|NN abuse|NN http|NN 
+alliance|NN 
+gelder|NN mm|NN rooij|NN ia|NN miller|NN rk|NN zielhuis|NN ga|NN berg|NN lt|NN roeleveld|NN n|NN 
+mechanism|NN of|NN drug|NN 
+hum|NN reprod|NN update|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+ronan|NN müller|NN 
+human|NN embryology|NN teratology|NN 
+york|NN li|NN 
+zhu|NN vestergaard|NN m|NN j|NN 
+age|NN malformation|NN 
+human|NN reproduction|NN 
+http|NN 
+pmid|NN http|NN 
+ji|NN shu|NN 
+zheng|NN ying|NN linet|NN wacholder|NN gao|NN jin|NN 
+cigarette|NN smoke|NN risk|NN of|NN childhood|NN cancer|DS of|NN mother|NN 
+journal|NN of|NN cancer|DS institute|NN 
+http|NN 
+pmid|NN http|NN 
+mb|NN holford|NN tr|NN holford|NN 
+exposure|NN drug|NN in|NN pregnancy|NN association|NN malformation|NN 
+obstetrics|NN gynecology|NN 
+pmid|NN http|NN 
+anderson|NN diana|NN thomase|NN baumgartner|NN adolf|NN 
+toxicity|NN http|NN 
+journal|NN of|NN andrology|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+chia|NN shi|NN 1|NN march|NN 
+review|NN of|NN study|NN occupation|NN birth_defect|DS http|NN 
+occupational|NN medicine|NN 
+p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cr|NN 
+counsel|NN teratogen|NN exposure|NN 
+obstetrics|NN gynecology|NN 
+http|NN 
+pmid|NN http|NN 
+novotná|NN miroslav|NN peterka|NN božena|NN 
+úvod|NN teratologie|NN mechanizmy|NN vzniku|NN vrozených|NN vad|NN vyd|NN 
+praha|NN karolinum|NN press|NN 
+hunt|NN jr|NN 
+teratogenicity|NN of|NN vitamin|NN intake|NN 
+engl|NN 
+http|NN 
+pmid|NN http|NN 
+hartmann|NN s|NN brørs|NN o|NN bock|NN j|NN al|NN 
+exposure|NN acid|NN in|NN woman|NN intake|NN liver|NN meal|NN 
+journal|NN vitamin|NN nutrition|NN research|NN 
+http|NN 
+pmid|NN http|NN 
+search|NN jablonski|NN syndrome|NN database|NN http|NN 
+state|NN library|NN of|NN medicine|NN 
+croen|NN lisa|NN todoroff|NN karen|NN 
+exposure|NN drink|NN water|NN diet|NN risk|NN tube|NN defect|NN http|NN 
+journal|NN of|NN epidemiology|NN 
+http|NN 
+pmid|NN http|NN 
+costa|NN 
+condon|NN 
+study|NN of|NN childhood|NN leukemia|DS in|NN woburn|NN massachusetts|NN relationship|NN leukemia|DS incidence|NN exposure|NN drink|NN water|NN 
+science|NN of|NN environment|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+in|NN harm|NN way|NN toxic|NN threat|NN development|NN http|NN 
+december|NN 
+ritz|NN fruin|NN chapa|NN harris|NN j|NN 
+air|NN pollution|NN risk|NN of|NN birth_defect|DS in|NN california|NN http|NN pdf|NN 
+journal|NN of|NN epidemiology|NN 
+1|NN 
+http|NN 
+pmid|NN tps|NN 
+december|NN 
+aubard|NN yves|NN magne|NN isabelle|NN 
+carbon|NN monoxide|NN poison|NN in|NN pregnancy|NN http|NN 
+journal|NN of|NN obstetrics|NN gynaecology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+griesbauer|NN laura|NN 
+methylmercury|NN contamination|NN in|NN http|NN 
+csa|NN 
+csa|NN december|NN 
+rushton|NN lesley|NN 
+health|NN hazard|NN waste|NN management|NN http|NN 
+bulletin|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+bullard|NN robert|NN 
+justice|NN http|NN 
+humanity|NN center|NN 
+december|NN 
+lead|NN poison|NN http|NN 
+mayo|NN clinic|NN 
+december|NN 
+sadler|NN 
+langman|NN embryology|NN http|NN 
+baltimore|NN william|NN wilkins|NN 
+pp|NN 
+http|NN 
+microcephaly|DS http|NN 
+mayo|NN clinic|NN 
+december|NN 
+cerebral|NN calcification|NN http|NN p|NN 
+december|NN 
+cause|NN treatment|NN http|NN 
+symptom|NN treatment|NN r|NN 
+december|NN 
+kernicterus|NN http|NN 
+encyclopedia|NN 
+december|NN 
+petechia|ST http|NN 
+mayo|NN clinic|NN 
+december|NN 
+microphthalmus|NN http|NN 
+school|NN blind|NN 
+december|NN 
+fact|NN anencephaly|NN http|NN 
+center|NN disease|NN control|NN prevention|NN 
+december|NN 
+hydrocephalus|NN http|NN 
+mayo|NN clinic|NN 
+december|NN 
+raats|NN monique|NN 
+preconception|NN 
+london|NN health|NN education|NN authority|NN 
+anderson|NN lucy|NN riffle|NN lisa|NN wilson|NN ralph|NN alvord|NN gregory|NN 
+fast|NN of|NN father|NN alter|NN glucose|NN in|NN of|NN mouse|NN http|NN 
+nutrition|NN 
+http|NN 
+pmid|NN http|NN 
+sartorius|NN 
+age|NN reproduction|NN 
+human|NN reproduction|NN update|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+savitz|NN keel|NN martha|NN ann|NN 
+influence|NN of|NN age|NN smoke|NN alcohol|NN consumption|NN anomaly|NN 
+teratology|NN 
+http|NN 
+pmid|NN http|NN 
+johanna|NN steegers|NN 
+bonsel|NN j|NN 
+inequality|NN in|NN health|NN 
+opinion|NN in|NN obstetrics|NN gynecology|NN 
+2|NN http|NN ec9b0|NN 
+pmid|NN http|NN 
+vos|NN bonsel|NN steegers|NN 
+denktaş|NN semiha|NN 
+neighborhood|NN outcome|NN review|NN 
+acta|NN gynecologica|NN scandinavica|NN 
+http|NN 
+pmid|NN http|NN 
+bradley|NN corwyn|NN 
+s|NN c|NN d|NN http|NN 
+review|NN of|NN psychology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+health|NN risk|NN assessment|NN accident|NN east|NN japan|NN earthquake|NN tsunami|NN dose|NN estimation|NN http|NN pdf|NN 
+world|NN health|NN organization|NN 
+heath|NN clark|NN 
+child|NN of|NN bomb|NN survivor|NN study|NN http|NN 
+jama|NN journal|NN of|NN association|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+difference|NN in|NN frequency|NN of|NN birth_defect|DS stillbirth|NN etc|NN concern|NN radiation|NN epidemic|NN of|NN child|NN kalter|NN harold|NN 
+teratology|NN in|NN century|NN ten|NN http|NN 
+springer|NN netherlands|NN 
+october|NN 
+winther|NN j|NN f|NN boice|NN j|NN d|NN l|NN schull|NN j|NN stovall|NN m|NN olsen|NN 
+sex|NN ratio|NN of|NN childhood|NN cancer|DS survivor|NN radiotherapy|NN http|NN 
+journal|NN of|NN cancer|DS 
+http|NN 
+pmc|NN s|NN 
+pmid|NN http|NN 
+birth_defect|DS child|NN of|NN survivor|NN http|NN 
+radiation|NN effect|NN research|NN foundation|NN 
+voosen|NN paul|NN 
+crisis|NN hiroshima|NN cast|NN radiation|NN science|NN http|NN 
+e|NN news|NN 
+october|NN 
+dubrova|NN yuri|NN jeffreys|NN j|NN 
+human|NN mutation|NN rate|NN accident|NN 
+nature|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+bennett|NN burton|NN carr|NN zhanat|NN ed|NN 
+health|NN effect|NN of|NN accident|NN health|NN care|NN programme|NN report|NN of|NN chernobyl|NN forum|NN group|NN health|NN http|NN 
+pdf|NN pdf|NN 
+geneva|NN world|NN health|NN organization|NN 
+katsumi|NN 
+mutation|NN increase|NN in|NN child|NN of|NN chernobyl|NN liquidator|NN 
+mutation|NN toxicology|NN mutagenesis|NN 
+http|NN 
+pmid|NN http|NN 
+dickinson|NN ho|NN parker|NN l|NN 
+effect|NN of|NN population|NN childhood|NN leukaemia|NN risk|NN seascale|NN cluster|NN http|NN 
+journal|NN of|NN cancer|DS 
+1|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+derricott|NN hayley|NN jones|NN heazell|NN alexander|NN 
+age|NN pregnancy|NN outcome|NN review|NN http|NN 
+plo|NN 
+e0186287|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+olshan|NN schnitzer|NN baird|NN 
+july|NN 
+age|NN risk|NN of|NN heart|NN defect|NN 
+teratology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+yang|NN 
+leader|NN chen|NN 
+lipson|NN walker|NN december|NN 
+age|NN birth_defect|DS association|NN 
+human|NN reproduction|NN 
+http|NN 
+pmid|NN http|NN 
+zofnat|NN auslender|NN ron|NN dirnfeld|NN martha|NN december|NN 
+age|NN outcome|NN http|NN 
+journal|NN of|NN andrology|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bezerra|NN guimarães|NN mj|NN marque|NN filho|NN da|NN 
+taux|NN disparités|NN sociales|NN recife|NN du|NN du|NN brésil|NN http|NN mortality|NN rate|NN disparity|NN recife|NN metropolis|NN of|NN of|NN brazil|NN 
+sante|NN in|NN french|NN 
+2|NN 
+pmid|NN http|NN 
+kumar|NN abbas|NN fausto|NN robbins|NN cotran|NN pathologic|NN basis|NN of|NN disease|NN edition|NN 
+chen|NN j|NN x|NN chen|NN p|NN k|NN zhang|NN x|NN 
+effect|NN of|NN citrate|NN growth|NN restriction|NN http|NN 
+bmc|NN pregnancy|NN childbirth|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+simonsen|NN h|NN 
+screen|NN of|NN newborn|NN error|NN of|NN metabolism|NN mass|NN spectrometry|NN 
+ugeskrift|NN laeger|NN 
+pmid|NN http|NN 
+wilcken|NN b|NN wiley|NN v|NN 
+screen|NN 
+pathology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+ezgu|NN f|NN 
+error|NN of|NN metabolism|NN 
+advance|NN in|NN chemistry|NN 
+pp|NN 
+http|NN 
+isbn|NN pmid|NN http|NN 
+screen|NN dmd|NN show|NN model|NN http|NN 
+child|NN hospital|NN 
+disease|NN injury|NN country|NN estimate|NN http|NN 
+world|NN health|NN organization|NN 
+gittelsohn|NN milham|NN s|NN 
+study|NN of|NN http|NN 
+journal|NN of|NN health|NN nation|NN health|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+fernando|NN j|NN p|NN smith|NN 
+sex|NN liability|NN defect|NN 
+journal|NN of|NN disease|NN of|NN child|NN 
+http|NN 
+pmid|NN http|NN 
+lubinsky|NN 
+sex|NN anomaly|NN 
+journal|NN of|NN genetics|NN 
+ajmg1|NN http|NN 2|NN 
+pmid|NN http|NN 
+j|NN 
+sex|NN difference|NN in|NN prevalence|NN of|NN human|NN birth_defect|DS study|NN 
+teratology|NN 
+http|NN 
+pmid|NN http|NN 
+cui|NN w|NN chang|NN v|NN rao|NN m|NN resnick|NN j|NN 
+sex|NN difference|NN in|NN birth_defect|DS study|NN of|NN twin|NN 
+birth_defect|DS research|NN part|NN teratology|NN 
+s|NN 
+pmid|NN http|NN 
+world|NN health|NN organization|NN report|NN 
+malformation|NN 
+descent|NN of|NN man|NN selection|NN in|NN relation|NN sex|NN 
+london|NN john|NN murray|NN ed|NN 
+diagnosis|NN birth_defect|DS cdc|NN http|NN 
+center|NN disease|NN control|NN prevention|NN 
+kumar|NN abbas|NN fausto|NN robbins|NN cotran|NN pathologic|NN basis|NN of|NN disease|NN edition|NN 
+dicke|NN jm|NN 
+teratology|NN principle|NN practice|NN 
+clin|NN 
+http|NN 
+pmid|NN http|NN 
+importance|NN of|NN gender|NN in|NN epidemiology|NN of|NN tumor|NN approach|NN 
+in|NN treatment|NN of|NN information|NN 
+montagu|NN 
+superiority|NN of|NN woman|NN press|NN 
+riley|NN j|NN 
+birth_defect|DS in|NN victoria|NN melbourne|NN 
+shaw|NN carmichael|NN z|NN harris|NN 
+risk|NN male|NN female|NN malformation|NN california|NN birth|NN 
+birth_defect|DS research|NN part|NN teratology|NN 
+http|NN 
+pmid|NN http|NN 
+reyes|NN boroditsky|NN winter|NN faiman|NN c|NN 
+study|NN human|NN development|NN 
+ii|NN 
+fetal|NN serum|NN gonadotropin|NN sex|NN steroid|NN concentration|NN 
+journal|NN of|NN endocrinology|NN metabolism|NN 
+http|NN 
+pmid|NN http|NN 
+find|NN birth|NN prevalence|NN estimate|NN birth_defect|DS in|NN state|NN http|NN 
+cdc|NN 
+center|NN disease|NN control|NN prevention|NN cdc|NN birth_defect|DS prevention|NN network|NN 
+1|NN link|NN center|NN birth_defect|DS disability|NN http|NN classification|NN mesh|NN d009358|NN d|NN http|NN diseasesdb|NN http|NN http|NN page|NN 2|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

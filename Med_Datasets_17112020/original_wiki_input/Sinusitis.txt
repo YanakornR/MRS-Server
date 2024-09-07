@@ -1,0 +1,197 @@
+Sinusitis,sinus infection,rhinosinusitis
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For the joint inflammation condition, see Synovitis.
+Sinusitis
+Other names	Sinus infection, rhinosinusitis
+Ethmoidinfection.png
+A CT scan showing sinusitis of the ethmoid sinus
+Specialty	Otorhinolaryngology
+Symptoms	Thick nasal mucus, plugged nose, pain in the face, fever[1][2][3]
+Causes	Infection (bacterial, fungal), allergies, air pollution, structural problems in the nose[2]
+Risk factors	Asthma, cystic fibrosis, poor immune function[1]
+Diagnostic method	Usually based on symptoms[1]
+Differential diagnosis	Migraine[4]
+Prevention	Handwashing, avoiding smoking, immunization[2]
+Treatment	Pain medications, nasal steroids, nasal irrigation, antibiotic[1][5]
+Frequency	10–30% each year (developed world)[1][6]
+
+Sinusitis, also known as a sinus infection or rhinosinusitis, is inflammation of the mucous membrane that lines the sinuses resulting in symptoms.[1][7] Common symptoms include thick nasal mucus, a plugged nose, and facial pain.[1][7] Other signs and symptoms may include fever, headaches, a poor sense of smell, sore throat, and a cough.[2][3] The cough is often worse at night.[3] Serious complications are rare.[3] It is defined as acute sinusitis if it lasts less than 4 weeks, and as chronic sinusitis if it lasts for more than 12 weeks.[1]
+
+Sinusitis can be caused by infection, allergies, air pollution, or structural problems in the nose.[2] Most cases are caused by a viral infection.[2] A bacterial infection may be present if symptoms last more than ten days or if a person worsens after starting to improve.[1] Recurrent episodes are more likely in persons with asthma, cystic fibrosis, and poor immune function.[1] X-rays are not usually needed unless complications are suspected.[1] In chronic cases confirmatory testing is recommended by either direct visualization or computed tomography.[1]
+
+Some cases may be prevented by hand washing, avoiding smoking, and immunization.[2] Pain killers such as naproxen, nasal steroids, and nasal irrigation may be used to help with symptoms.[1][5] Recommended initial treatment for acute sinusitis is watchful waiting.[1] If symptoms do not improve in 7–10 days or get worse, then an antibiotic may be used or changed.[1] In those in whom antibiotics are used, either amoxicillin or amoxicillin/clavulanate is recommended first line.[1] Surgery may occasionally be used in people with chronic disease.[8]
+
+Sinusitis is a common condition.[1] It affects between about 10% and 30% of people each year in the United States and Europe.[1][6] Women are more often affected than men.[9] Chronic sinusitis affects approximately 12.5% of people.[10] Treatment of sinusitis in the United States results in more than US$11 billion in costs.[1] The unnecessary and ineffective treatment of viral sinusitis with antibiotics is common.[1]
+Contents
+
+    1 Classification
+    2 Signs and symptoms
+        2.1 By location
+        2.2 Complications
+    3 Causes
+        3.1 Acute
+        3.2 Chronic
+    4 Pathophysiology
+    5 Diagnosis
+        5.1 Acute
+        5.2 Chronic
+    6 Treatment
+        6.1 Antibiotics
+        6.2 Corticosteroids
+        6.3 Surgery
+    7 Epidemiology
+    8 Research
+    9 See also
+    10 References
+    11 External links
+
+Classification
+Illustration depicting sinusitis
+
+Sinusitis (or rhinosinusitis) is defined as an inflammation of the mucous membrane that lines the paranasal sinuses and is classified chronologically into several categories:[11]
+
+    Acute sinusitis – A new infection that may last up to four weeks and can be subdivided symptomatically into severe and non-severe. Some use definitions up to 12 weeks.[1]
+    Recurrent acute sinusitis – Four or more full episodes of acute sinusitis that occur within one year
+    Subacute sinusitis – An infection that lasts between four and 12 weeks, and represents a transition between acute and chronic infection
+    Chronic sinusitis – When the signs and symptoms last for more than 12 weeks.[1]
+    Acute exacerbation of chronic sinusitis – When the signs and symptoms of chronic sinusitis exacerbate, but return to baseline after treatment
+
+Roughly 90 percent of adults have had sinusitis at some point in their life.[12]
+Signs and symptoms
+
+Headache/facial pain or pressure of a dull, constant, or aching sort over the affected sinuses is common with both acute and chronic stages of sinusitis. This pain is usually localized to the involved sinus and may worsen when the affected person bends over or when lying down. Pain often starts on one side of the head and progresses to both sides.[13] Acute sinusitis may be accompanied by thick nasal discharge that is usually green in color and may contain pus or blood.[14] Often a localized headache or toothache is present, and it is these symptoms that distinguish a sinus-related headache from other types of headaches, such as tension and migraine headaches. Another way to distinguish between toothache and sinusitis is that the pain in sinusitis is usually worsened by tilting the head forwards and with valsalva maneuvers.[15]
+
+Infection of the eye socket is possible, which may result in the loss of sight and is accompanied by fever and severe illness. Another possible complication is the infection of the bones (osteomyelitis) of the forehead and other facial bones – Pott's puffy tumor.[13]
+
+Sinus infections can also cause middle ear problems due to the congestion of the nasal passages. This can be demonstrated by dizziness, "a pressurized or heavy head", or vibrating sensations in the head. Post-nasal drip is also a symptom of chronic rhinosinusitis.
+
+Halitosis (bad breath) is often stated to be a symptom of chronic rhinosinusitis; however, gold standard breath analysis techniques have not been applied. Theoretically, there are several possible mechanisms of both objective and subjective halitosis that may be involved.[15]
+
+A 2004 study suggested that up to 90% of "sinus headaches" are actually migraines.[16][17][verification needed] The confusion occurs in part because migraine involves activation of the trigeminal nerves, which innervate both the sinus region and the meninges surrounding the brain. As a result, it is difficult to accurately determine the site from which the pain originates. People with migraines do not typically have the thick nasal discharge that is a common symptom of a sinus infection.[18]
+By location
+
+There are four paired paranasal sinuses, the frontal, ethmoidal, maxillary, and sphenoidal sinuses. The ethmoidal sinuses are further subdivided into anterior and posterior ethmoid sinuses, the division of which is defined as the basal lamella of the middle nasal concha. In addition to the severity of disease, discussed below, sinusitis can be classified by the sinus cavity which it affects:
+
+    Maxillary – can cause pain or pressure in the maxillary (cheek) area (e.g., toothache,[15] or headache) (J01.0/J32.0)
+    Frontal – can cause pain or pressure in the frontal sinus cavity (located above the eyes), headache, particularly in the forehead (J01.1/J32.1)
+    Ethmoidal – can cause pain or pressure pain between/behind the eyes, the sides of the upper part of the nose (the medial canthi), and headaches (J01.2/J32.2)[19]
+    Sphenoidal – can cause pain or pressure behind the eyes, but is often felt in the top of the head, over the mastoid processes, or the back of the head.[19]
+
+Complications
+Stage 	Description
+I 	Preseptal cellulitis
+II 	Orbital cellulitis
+III 	Subperiosteal abscess
+IV 	Orbital abscess
+V 	Cavernous sinus septic thrombosis
+
+The proximity of the brain to the sinuses makes the most dangerous complication of sinusitis, particularly involving the frontal and sphenoid sinuses, infection of the brain by the invasion of anaerobic bacteria through the bones or blood vessels. Abscesses, meningitis, and other life-threatening conditions may result. In extreme cases, the patient may experience mild personality changes, headache, altered consciousness, visual problems, seizures, coma, and possibly death.[13]
+
+Sinus infection can spread through anastomosing veins or by direct extension to close structures. Orbital complications were categorized by Chandler et al. into five stages according to their severity (see table).[20] Contiguous spread to the orbit may result in periorbital cellulitis, subperiosteal abscess, orbital cellulitis, and abscess. Orbital cellulitis can complicate acute ethmoiditis if anterior and posterior ethmoidal veins thrombophlebitis enables the spread of the infection to the lateral or orbital side of the ethmoid labyrinth. Sinusitis may extend to the central nervous system, where it may cause cavernous sinus thrombosis, retrograde meningitis, and epidural, subdural, and brain abscesses.[21] Orbital symptoms frequently precede intracranial spread of the infection . Other complications include sinobronchitis, maxillary osteomyelitis, and frontal bone osteomyelitis.[22][23][24][25] Osteomyelitis of the frontal bone often originates from a spreading thrombophlebitis. A periostitis of the frontal sinus causes an osteitis and a periostitis of the outer membrane, which produces a tender, puffy swelling of the forehead.[citation needed]
+
+The diagnosis of these complications can be assisted by noting local tenderness and dull pain, and can be confirmed by CT and nuclear isotope scanning. The most common microbial causes are anaerobic bacteria and S. aureus. Treatment includes performing surgical drainage and administration of antimicrobial therapy. Surgical debridement is rarely required after an extended course of parenteral antimicrobial therapy.[26] Antibiotics should be administered for at least 6 weeks. Continuous monitoring of patients for possible intracranial complication is advised.[citation needed]
+Causes
+
+Maxillary sinusitis may also develop from problems with the teeth, and these cases make up between 10 and 40% of cases.[27] The cause of this situation is usually a periapical or periodontal infection of a maxillary posterior tooth, where the inflammatory exudate has eroded through the bone superiorly to drain into the maxillary sinus. Once an odontogenic infection involves the maxillary sinus, it is possible that it may then spread to the orbit or to the ethmoid sinus, the nasal cavity, and frontal sinuses, and in unusual instances can spread from the maxillary sinus causing orbital cellulitis, blindness, meningitis, subdural empyema, brain abscess and life-threatening cavernous sinus thrombosis.[28][29] Limited field CBCT imaging, as compared to periapical radiographs, improves the ability to detect the teeth as the sources for sinusitis.[29] Treatment focuses on removing the infection and preventing reinfection, by removing of the microorganisms, their by-products, and pulpal debris from the infected root canal.[29] Systemic antibiotics is ineffective as a definitive solution, but may afford temporary relief of symptoms by improving sinus clearing, and may be appropriate for rapidly spreading infections, but debridement and disinfection of the root canal system at the same time is necessary.[29]
+
+Chronic sinusitis can also be caused indirectly through a common but slight abnormality in the auditory or eustachian tube, which is connected to the sinus cavities and the throat. Other diseases such as cystic fibrosis and granulomatosis with polyangiitis can also cause chronic sinusitis. This tube is usually almost level with the eye sockets, but when this sometimes hereditary abnormality is present, it is below this level and sometimes level with the vestibule or nasal entrance.[citation needed]
+Acute
+
+Acute sinusitis is usually precipitated by an earlier upper respiratory tract infection, generally of viral origin, mostly caused by rhinoviruses, coronaviruses, and influenza viruses, others caused by adenoviruses, human parainfluenza viruses, human respiratory syncytial virus, enteroviruses other than rhinoviruses, and metapneumovirus. If the infection is of bacterial origin, the most common three causative agents are Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis.[30] Until recently, Haemophilus influenzae was the most common bacterial agent to cause sinus infections. However, introduction of the H. influenza type B (Hib) vaccine has dramatically decreased H. influenza type B infections and now non-typable H. influenza (NTHI) are predominantly seen in clinics. Other sinusitis-causing bacterial pathogens include Staphylococcus aureus and other streptococci species, anaerobic bacteria and, less commonly, gram negative bacteria. Viral sinusitis typically lasts for 7 to 10 days,[30] whereas bacterial sinusitis is more persistent. Approximately 0.5% to 2% of viral sinusitis results in subsequent bacterial sinusitis. It is thought that nasal irritation from nose blowing leads to the secondary bacterial infection.[31]
+
+Acute episodes of sinusitis can also result from fungal invasion. These infections are typically seen in patients with diabetes or other immune deficiencies (such as AIDS or transplant patients on immunosuppressive anti-rejection medications) and can be life-threatening. In type I diabetics, ketoacidosis can be associated with sinusitis due to mucormycosis.[32]
+
+Chemical irritation can also trigger sinusitis, commonly from cigarette smoke and chlorine fumes.[33] It may also be caused by a tooth infection.[30]
+Chronic
+
+By definition chronic sinusitis lasts longer than 12 weeks and can be caused by many different diseases that share chronic inflammation of the sinuses as a common symptom. Symptoms of chronic sinusitis may include any combination of the following: nasal congestion, facial pain, headache, night-time coughing, an increase in previously minor or controlled asthma symptoms, general malaise, thick green or yellow discharge, feeling of facial 'fullness' or 'tightness' that may worsen when bending over, dizziness, aching teeth, and/or bad breath.[11] Each of these symptoms has multiple other possible causes, which should be considered and investigated as well. Often chronic sinusitis can lead to anosmia, the inability to smell objects.[11] In a small number of cases, acute or chronic maxillary sinusitis is associated with a dental infection. Vertigo, lightheadedness, and blurred vision are not typical in chronic sinusitis and other causes should be investigated.[citation needed]
+
+Chronic sinusitis cases are subdivided into cases with polyps and cases without polyps. When polyps are present, the condition is called chronic hyperplastic sinusitis; however, the causes are poorly understood[30] and may include allergy, environmental factors such as dust or pollution, bacterial infection, or fungus (either allergic, infective, or reactive).[citation needed]
+
+Chronic rhinosinusitis represents a multifactorial inflammatory disorder, rather than simply a persistent bacterial infection.[30] The medical management of chronic rhinosinusitis is now focused upon controlling the inflammation that predisposes patients to obstruction, reducing the incidence of infections. However, all forms of chronic rhinosinusitis are associated with impaired sinus drainage and secondary bacterial infections. Most individuals require initial antibiotics to clear any infection and intermittently afterwards to treat acute exacerbations of chronic rhinosinusitis.[citation needed]
+
+A combination of anaerobic and aerobic bacteria are detected in conjunction with chronic sinusitis. Also isolated are Staphylococcus aureus, including methicillin-resistant S. aureus, and coagulase-negative Staphylococci and gram-negative enteric bacteria can be isolated.[citation needed]
+
+Attempts have been made to provide a more consistent nomenclature for subtypes of chronic sinusitis. The presence of eosinophils in the mucous lining of the nose and paranasal sinuses has been demonstrated for many patients, and this has been termed eosinophilic mucin rhinosinusitis (EMRS). Cases of EMRS may be related to an allergic response, but allergy is not often documented, resulting in further subcategorization into allergic and non-allergic EMRS.[34]
+
+A more recent, and still debated, development in chronic sinusitis is the role that fungi play in this disease.[35] It remains unclear if fungi are a definite factor in the development of chronic sinusitis and if they are, what the difference may be between those who develop the disease and those who remain free of symptoms. Trials of antifungal treatments have had mixed results.[citation needed]
+
+Recent theories of sinusitis indicate that it often occurs as part of a spectrum of diseases that affect the respiratory tract (i.e., the "one airway" theory) and is often linked to asthma.[36][37] All forms of sinusitis may either result in, or be a part of, a generalized inflammation of the airway, so other airway symptoms, such as cough, may be associated with it.[citation needed]
+
+Both smoking and secondhand smoke are associated with chronic rhinosinusitis.[10]
+Pathophysiology
+
+It has been hypothesized that biofilm bacterial infections may account for many cases of antibiotic-refractory chronic sinusitis.[38][39][40] Biofilms are complex aggregates of extracellular matrix and inter-dependent microorganisms from multiple species, many of which may be difficult or impossible to isolate using standard clinical laboratory techniques.[41] Bacteria found in biofilms have their antibiotic resistance increased up to 1000 times when compared to free-living bacteria of the same species. A recent study found that biofilms were present on the mucosa of 75% of people undergoing surgery for chronic sinusitis.[42]
+Diagnosis
+Acute
+
+Health care providers distinguish bacterial and viral sinusitis by watchful waiting.[1] If a person has had sinusitis for fewer than 10 days without the symptoms becoming worse, then the infection is presumed to be viral.[1] When symptoms last more than 10 days or get worse in that time, then the infection is considered bacterial sinusitis.[43] Pain in the teeth and bad breath are also more indicative of bacterial disease.[44]
+
+Imaging by either X-ray, CT or MRI is generally not recommended unless complications develop.[43] Pain caused by sinusitis is sometimes confused for pain caused by pulpitis (toothache) of the maxillary teeth, and vice versa. Classically, the increased pain when tilting the head forwards separates sinusitis from pulpitis.[citation needed]
+Chronic
+
+For sinusitis lasting more than 12 weeks a CT scan is recommended.[43] On a CT scan, acute sinus secretions have a radiodensity of 10 to 25 Hounsfield units (HU), but in a more chronic state they become more viscous, with a radiodensity of 30 to 60 HU.[45]
+
+Nasal endoscopy and clinical symptoms are also used to make a positive diagnosis.[30] A tissue sample for histology and cultures can also be collected and tested.[46] Allergic fungal sinusitis (AFS) is often seen in people with asthma and nasal polyps. In rare cases, sinusoscopy may be made.[citation needed]
+
+Nasal endoscopy involves inserting a flexible fiber-optic tube with a light and camera at its tip into the nose to examine the nasal passages and sinuses. This is generally a completely painless (although uncomfortable) procedure which takes between five and ten minutes to complete.
+
+    CT of chronic sinusitis
+
+    CT scan of chronic sinusitis, showing a filled right maxillary sinus with sclerotic thickened bone.
+
+    MRI image showing sinusitis. Edema and mucosal thickening appears in both maxillary sinuses.
+
+    Maxillary sinusitis caused by a dental infection associated with periorbital cellulitis
+
+    Frontal sinusitis
+
+    X-ray of left-sided maxillary sinusitis marked by an arrow. There is lack of the air transparency indicating fluid in contrast to the other side.
+
+Treatment
+Treatments[47][48]
+Treatment 	Indication 	Rationale
+Time 	Viral and some bacterial sinusitis 	Sinusitis is usually caused by a virus which is not affected by antibiotics.[47]
+Antibiotics 	Bacterial sinusitis 	Cases accompanied by extreme pain, skin infection, or which last a long time may be caused by bacteria.[47]
+Nasal irrigation 	Nasal congestion 	Can provide relief by helping decongest.[47]
+Drink liquids 	Thick phlegm 	Remaining hydrated loosens mucus.[47]
+Antihistamines 	Concern with allergies 	Antihistamines do not relieve typical sinusitis or cold symptoms much; this treatment is not needed in most cases.[47]
+Nasal spray 	Desire for temporary relief 	Tentative evidence that it helps symptoms.[5] Does not treat cause. Not recommended for more than three days' use.[47]
+
+Recommended treatments for most cases of sinusitis include rest and drinking enough water to thin the mucus.[49] Antibiotics are not recommended for most cases.[49][50]
+
+Breathing low-temperature steam such as from a hot shower or gargling can relieve symptoms.[49][51] There is tentative evidence for nasal irrigation in acute sinusitis, for example during upper respiratory infections.[5] Decongestant nasal sprays containing oxymetazoline may provide relief, but these medications should not be used for more than the recommended period. Longer use may cause rebound sinusitis.[52] It is unclear if nasal irrigation, antihistamines, or decongestants work in children with acute sinusitis.[53]
+Antibiotics
+
+Most sinusitis cases are caused by viruses and resolve without antibiotics.[30] However, if symptoms do not resolve within 10 days, amoxicillin is a reasonable antibiotic for first treatment,[30] with amoxicillin/clavulanate being indicated if symptoms do not improve after 7 days on amoxicillin alone.[43] A 2012 Cochrane review, however, found only a small benefit between 7 and 14 days, and could not recommend the practice when compared to potential complications and risk of developing resistance.[54][needs update] Antibiotics are specifically not recommended in those with mild / moderate disease during the first week of infection due to risk of adverse effects, antibiotic resistance, and cost.[55]
+
+Fluoroquinolones, and a newer macrolide antibiotic such as clarithromycin or a tetracycline like doxycycline, are used in those who have severe allergies to penicillins.[56] Because of increasing resistance to amoxicillin the 2012 guideline of the Infectious Diseases Society of America recommends amoxicillin-clavulanate as the initial treatment of choice for bacterial sinusitis.[57] The guidelines also recommend against other commonly used antibiotics, including azithromycin, clarithromycin, and trimethoprim/sulfamethoxazole, because of growing antibiotic resistance. The FDA recommends against the use of fluoroquinolones when other options are available due to higher risks of serious side effects.[58]
+
+A short-course (3–7 days) of antibiotics seems to be just as effective as the typical longer-course (10–14 days) of antibiotics for those with clinically diagnosed acute bacterial sinusitis without any other severe disease or complicating factors.[59] The IDSA guideline suggest five to seven days of antibiotics is long enough to treat a bacterial infection without encouraging resistance. The guidelines still recommend children receive antibiotic treatment for ten days to two weeks.[57]
+Corticosteroids
+
+For unconfirmed acute sinusitis, nasal sprays using corticosteroids have not been found to be better than a placebo either alone or in combination with antibiotics.[60] For cases confirmed by radiology or nasal endoscopy, treatment with corticosteroids alone or in combination with antibiotics is supported.[61] The benefit, however, is small.[62]
+
+There is only limited evidence to support short treatment with oral corticosteroids for chronic rhinosinusitis with nasal polyps.[63][64]
+Surgery
+
+For chronic or recurring sinusitis, referral to an otolaryngologist may be indicated, and treatment options may include nasal surgery. Surgery should only be considered for those people who do not benefit with medication.[63][65] It is unclear how benefits of surgery compare to medical treatments in those with nasal polyps as this has been poorly studied.[66]
+
+Maxillary antral washout involves puncturing the sinus and flushing with saline to clear the mucus. A 1996 study of patients with chronic sinusitis found that washout confers no additional benefits over antibiotics alone.[67]
+
+A number of surgical approaches can be used to access the sinuses and these have generally shifted from external/extranasal approaches to intranasal endoscopic ones. The benefit of functional endoscopic sinus surgery (FESS) is its ability to allow for a more targeted approach to the affected sinuses, reducing tissue disruption, and minimizing post-operative complications.[68] The use of drug eluting stents such as propel mometasone furoate implant may help in recovery after surgery.[69]
+
+Another recently developed treatment is balloon sinuplasty. This method, similar to balloon angioplasty used to "unclog" arteries of the heart, utilizes balloons in an attempt to expand the openings of the sinuses in a less invasive manner.[citation needed]
+
+For persistent symptoms and disease in patients who have failed medical and the functional endoscopic approaches, older techniques can be used to address the inflammation of the maxillary sinus, such as the Caldwell-luc antrostomy. This surgery involves an incision in the upper gum, opening in the anterior wall of the antrum, removal of the entire diseased maxillary sinus mucosa and drainage is allowed into inferior or middle meatus by creating a large window in the lateral nasal wall.[70]
+Epidemiology
+
+Sinusitis is a common condition, with between 24 and 31 million cases occurring in the United States annually.[71][72] Chronic sinusitis affects approximately 12.5% of people.[10]
+Research
+
+Based on recent theories on the role that fungus may play in the development of chronic sinusitis, antifungal treatments have been used, on a trial basis. These trials have had mixed results.[30]
+See also
+
+    Fungal sinusitis

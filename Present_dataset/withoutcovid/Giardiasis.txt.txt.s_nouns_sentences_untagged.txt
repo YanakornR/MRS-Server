@@ -1,0 +1,77 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN disease|NN 
+parasite|NN giardiasis|DS 
+giardiasis|DS name|NN giardiasis|DS giardiasis|DS giardiasis|DS sem|NN 8698|NN giardiasis|DS cell|NN sem|NN disease|NN symptom|NN pain|ST weight_loss|ST onset|NN week|NN exposure|NN cause|NN giardiasis|DS method|NN stool|NN test|NN diagnosis|NN bowel|NN syndrome|NN prevention|NN sanitation|NN metronidazole|NN frequency|NN world|NN world|NN 
+giardiasis|DS giardiasis|DS disease|NN giardiasis|DS lamblia|NN symptom|NN symptom|NN pain|ST weight_loss|ST blood|NN stool|NN fever|ST symptom|NN week|NN exposure|NN treatment|NN week|NN 
+giardiasis|DS giardiasis|DS lamblia|NN cyst|NN food|NN water|NN people|NN animal|NN factor|NN travel|NN world|NN chang|NN diaper|NN food|NN cook|NN dog|NN cyst|NN month|NN water|NN diagnosis|NN stool|NN test|NN 
+prevention|NN hygiene|NN symptom|NN treatment|NN symptom|NN treatment|NN tinidazole|NN metronidazole|NN people|NN lactose|NN infection|NN milk|NN week|NN resistance|NN treatment|NN 
+giardiasis|DS disease|NN 2013|NN people|NN giardiasis|DS rate|NN world|NN world|NN world|NN health|NN organization|NN disease|NN content|NN 
+sign|NN symptom|NN cause|NN risk|NN factor|NN transmission|NN diagnosis|NN prevention|NN treatment|NN epidemiology|NN research|NN animal|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN diarrhea|ST absorption|NN nutrient|NN symptom|NN day|NN exposure|NN day|NN 
+symptom|NN week|NN month|NN diarrhea|ST tendency|NN characteristic|NN number|NN symptom|NN ga|NN cramp|DS nausea|ST people|NN skin|NN hive|NN swell|NN eye|NN joint|NN 
+disease|NN diarrhea|ST malabsorption|NN nutrient|NN intestine|NN malabsorption|NN result|NN stool|NN weight_loss|ST fatigue|ST suffer|NN giardiasis|DS difficulty|NN lactose|NN vitamin|NN folate|NN vitamin|NN children|NN giardiasis|DS failure|NN development|NN 
+infection|NN lactose|NN intolerance|NN cause|NN 
+giardiasis|DS giardiasis|DS infection|NN animal|NN beaver|NN nickname|NN cow|NN rodent|NN sheep|NN animal|NN role|NN infection|NN environment|NN 
+g|NN duodenalis|NN assemblage|NN 
+genotyping|NN g|NN host|NN assemblage|NN b|NN range|NN host|NN specy|NN g|NN assemblage|NN human|NN factor|NN 
+cdc|NN risk|NN country|NN giardiasis|DS people|NN child|NN care|NN set|NN contact|NN disease|NN people|NN drink|NN water|NN backpacker|NN camper|NN water|NN lake|NN river|NN people|NN contact|NN animal|NN disease|NN men|NN sex|NN men|NN 
+united|NN states|NN giardiasis|DS summer|NN 
+amount|NN time|NN activity|NN travel|NN wilderness|NN transmission|NN 
+giardiasis|DS route|NN ingestion|NN cyst|NN route|NN contact|NN water|NN food|NN cyst|NN month|NN water|NN 
+people|NN giardiasis|DS infection|NN symptom|NN disease|NN 
+giardiasis|DS protozoan|NN expression|NN brush|NN border|NN enzyme|NN change|NN microvillus|NN cell|NN death|NN cell|NN 
+invasion|NN giardiasis|DS morphology|NN microscopy|NN 
+attachment|NN cause|NN flatten|NN inhibition|NN enzyme|NN sugar|NN intestine|NN 
+community|NN microorganism|NN live|NN intestine|NN cause|NN symptom|NN idea|NN 
+alteration|NN villy|NN inability|NN nutrient|NN water|NN absorption|NN intestine|NN symptom|NN 
+case|NN giardiasis|DS malabsorption|NN change|NN intestine|NN 
+degree|NN malabsorption|NN case|NN 
+specy|NN giardiasis|DS use|NN enzyme|NN protein|NN villy|NN brush|NN border|NN crypt|NN cell|NN proliferation|NN crypt|NN length|NN crypt|NN cell|NN side|NN villy|NN 
+level|NN host|NN lymphocyte|NN attack|NN cell|NN order|NN cell|NN 
+disruption|NN protein|NN brush|NN border|NN cell|NN 
+result|NN permeability|NN 
+increase|NN cell|NN death|NN giardiasis|DS intestinalis|NN barrier|NN permeability|NN 
+cell|NN death|NN cascade|NN parasite|NN downregulation|NN protein|NN protein|NN 
+connection|NN role|NN apoptosis|NN pathogenesis|NN giardiasis|DS 
+giardiasis|DS growth|NN formation|NN ga|NN oxide|NN arginine|NN amino|NN acid|NN oxide|NN 
+starvation|NN cause|NN cell|NN death|NN removal|NN agent|NN diagnosis|NN 
+cdc|NN detection|NN antigen|NN surface|NN organism|NN stool|NN specimen|NN test|NN choice|NN diagnosis|NN giardiasis|DS sensitivity|NN microscopy|NN technique|NN stain|NN stool|NN method|NN giardiasis|DS examination|NN stool|NN trophozoite|NN oval|NN cyst|NN 
+entero-test|NN gelatin|NN capsule|NN thread|NN 
+end|NN aspect|NN patient|NN cheek|NN capsule|NN 
+thread|NN release|NN microscope|NN 
+assay|NN elisa|NN test|NN 
+test|NN detection|NN rate|NN giardiasis|DS lamblia|NN delay|NN diagnosis|NN test|NN period|NN 
+hydrogen|NN breath|NN test|NN rate|NN carbohydrate|NN absorption|NN asymptomatically|NN test|NN infection|NN prevention|NN 
+cdc|NN food|NN water|NN 
+suspect|NN water|NN minute|NN method|NN water|NN drink|NN microorganism|NN giardiasis|DS doubt|NN water|NN chemical|NN disinfectant|NN filter|NN 
+evidence|NN drink|NN water|NN north|NN wilderness|NN giardiasis|DS number|NN study|NN concern|NN cdc|NN giardiasis|DS outbreak|NN water|NN 
+surveillance|NN data|NN 2013|NN 2014|NN report|NN outbreak|NN case|NN giardiasis|DS river|NN stream|NN spring|NN giardiasis|DS case|NN outbreak|NN 
+transmission|NN account|NN majority|NN giardiasis|DS infection|NN hygiene|NN sanitation|NN 
+giardiasis|DS surface|NN ground|NN soil|NN food|NN water|NN hand|NN clean|NN handle|NN transmission|NN ingestion|NN water|NN 
+outbreak|NN water|NN system|NN surface|NN water|NN 
+transmission|NN contamination|NN 
+chang|NN hand|NN wash|NN risk|NN factor|NN transmission|NN children|NN 
+epidemics|NN giardiasis|DS contamination|NN food|NN treatment|NN 
+treatment|NN infection|NN 
+illness|NN symptom|NN medication|NN medication|NN metronidazole|NN tinidazole|NN 
+world|NN health|NN organization|NN disease|NN society|NN america|NN metronidazole|NN line|NN therapy|NN cdc|NN list|NN metronidazole|NN therapy|NN nitazoxanide|NN tinidazole|NN treatment|NN giardiasis|DS fda|NN meta-analysis|NN cochrane|NN collaboration|NN standard|NN metronidazole|NN efficacy|NN side|NN effect|NN issue|NN conclusion|NN medication|NN day|NN course|NN albendazole|NN day|NN metronidazole|NN time|NN day|NN 
+evidence|NN metronidazole|NN alternative|NN tinidazole|NN quality|NN side|NN effect|NN efficacy|NN metronidazole|NN dose|NN 
+resistance|NN nitroimidazole|NN albendazole|NN resistance|NN research|NN laboratory|NN mechanism|NN resistance|NN medication|NN case|NN strain|NN giardiasis|DS drug|NN efficacy|NN treatment|NN nitazoxanide|NN zinc|NN 
+pregnancy|NN paromomycin|NN treatment|NN drug|NN absorption|NN exposure|NN fetus|NN metronidazole|NN trimester|NN experience|NN use|NN trichomona|NN pregnancy|NN epidemiology|NN rate|NN giardiasis|DS united|NN states|NN 
+country|NN giardiasis|DS population|NN united|NN states|NN population|NN 
+center|NN disease|NN control|NN number|NN case|NN 
+2012|NN number|NN case|NN 
+united|NN states|NN time|NN period|NN state|NN giardiasis|DS disease|NN case|NN giardiasis|DS 
+mississippi|NN north|NN carolina|NN oklahoma|NN tennessee|NN texas|NN kentucky|NN center|NN disease|NN control|NN giardiasis|DS case|NN 
+state|NN prevalence|NN giardiasis|DS 2011-2012|NN new|NN york|NN state|NN minnesota|NN ohio|NN florida|NN washington|NN california|NN center|NN disease|NN control|NN 
+trend|NN giardiasis|DS 
+july|NN august|NN september|NN month|NN prevalence|NN giardiasis|DS united|NN states|NN 
+giardiasis|DS distribution|NN prevalence|NN percent|NN 
+country|NN child|NN development|NN 
+centre|NN disease|NN prevention|NN control|NN report|NN data|NN giardiasis|DS case|NN country|NN member|NN eueea|NN 
+germany|NN number|NN case|NN 
+germany|NN uk|NN giardiasis|DS case|NN 
+account|NN case|NN research|NN 
+infection|NN role|NN bowel|NN syndrome|NN sequelae|NN animal|NN 
+cat|NN giardiasis|DS metronidazole|NN cat|NN malformation|NN 
+alternative|NN drug|NN 

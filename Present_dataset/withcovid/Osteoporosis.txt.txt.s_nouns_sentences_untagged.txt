@@ -1,0 +1,190 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN osteoporosis|DS woman|NN osteoporosis|DS back|NN compression|NN fracture|NN back|NN bone|NN 
+rheumatology|NN symptom|NN risk|NN bone|NN complication|NN pain|ST onset|NN age|NN risk|NN factor|NN alcoholism|NN anorexia|ST disease|NN removal|NN ovary|NN kidney|NN disease|NN smoke|NN medication|NN method|NN bone|NN density|NN scan|NN treatment|NN diet|NN exercise|NN fall|NN prevention|NN smoke|NN frequency|NN year|NN old|NN year|NN old|NN 
+osteoporosis|DS disease|NN bone|NN weaken|NN risk|NN bone|NN reason|NN bone|NN bone|NN vertebrae|NN spine|NN bone|NN forearm|NN hip|NN bone|NN symptom|NN bone|NN degree|NN break|NN stress|NN pain|ST ability|NN activity|NN bone|NN 
+osteoporosis|DS bone|NN mass|NN bone|NN loss|NN bone|NN loss|NN increase|NN menopause|NN level|NN osteoporosis|DS number|NN disease|NN treatment|NN alcoholism|NN anorexia|ST kidney|NN disease|NN removal|NN ovary|NN medication|NN rate|NN bone|NN loss|NN medication|NN chemotherapy|NN proton|NN pump|NN inhibitor|NN serotonin|NN reuptake|NN inhibitor|NN smoke|NN exercise|NN risk|NN factor|NN osteoporosis|DS bone|NN density|NN deviation|NN adult|NN x-ray|NN 
+prevention|NN osteoporosis|DS diet|NN childhood|NN effort|NN medication|NN rate|NN bone|NN loss|NN effort|NN bone|NN osteoporosis|DS diet|NN exercise|NN fall|NN prevention|NN lifestyle|NN change|NN smoke|NN drink|NN alcohol|NN medication|NN bone|NN osteoporosis|DS osteoporosis|DS bone|NN number|NN medication|NN 
+osteoporosis|DS age|NN caucasian|NN women|NN men|NN world|NN method|NN diagnosis|NN male|NN female|NN rate|NN disease|NN world|NN women|NN men|NN union|NN osteoporosis|DS united|NN states|NN women|NN men|NN osteoporosis|DS people|NN risk|NN word|NN osteoporosis|DS term|NN bone|NN content|NN 
+sign|NN symptom|NN risk|NN fall|NN risk|NN factor|NN disorder|NN diagnosis|NN radiography|NN x-ray|NN tool|NN screen|NN prevention|NN nutrition|NN exercise|NN management|NN lifestyle|NN hip|NN fracture|NN fracture|NN fracture|NN rib|NN fracture|NN epidemiology|NN history|NN reference|NN link|NN 
+sign|NN symptom|NN illustration|NN stand|NN posture|NN osteoporosis|DS 
+osteoporosis|DS symptom|NN consequence|NN risk|NN bone|NN fracture|NN 
+fracture|NN situation|NN people|NN bone|NN fragility|NN fracture|NN 
+fragility|NN fracture|NN column|NN rib|NN hip|NN wrist|NN 
+symptom|NN osteoporosis|DS disability|NN pain|ST fracture|NN osteoporosis|DS disability|NN mortality|NN fracture|NN 
+osteoporotic|NN fracture|NN wrist|NN spine|NN shoulder|NN hip|NN 
+symptom|NN collapse|NN compression|NN fracture|NN back_pain|ST pain|ST shoot|NN pain|ST nerve|NN root|NN compression|NN cord|NN compression|NN syndrome|NN 
+fracture|NN lead|NN posture|NN loss|NN height|NN pain|ST reduction|NN mobility|NN 
+fractures|NN bone|NN mobility|NN surgery|NN 
+hip|NN fracture|NN surgery|NN risk|NN vein|NN thrombosis|NN embolism|NN mortality|NN 
+risk|NN calculator|NN risk|NN fracture|NN criteria|NN bone|NN mineral|NN density|NN age|NN smoke|NN alcohol|NN usage|NN weight|NN gender|NN 
+term|NN osteoporosis|DS bone|NN osteoporosis|DS osteoporosis|DS part|NN frailty|NN syndrome|NN 
+risk|NN fall|NN 
+risk|NN fall|NN 
+fall|NN damage|NN wrist|NN spine|NN hip|NN knee|NN foot|NN ankle|NN 
+part|NN fall|NN risk|NN eyesight|NN cause|NN glaucoma|DS degeneration|NN balance_disorder|DS movement|NN disorder|NN 
+disease|NN dementia|DS loss|NN muscle|NN 
+collapse|NN loss|NN tone|NN loss|NN consciousness|NN 
+cause|NN syncope|NN arrhythmia|ST heart|NN syncope|NN hypotension|NN drop|NN blood|NN pressure|NN seizure|NN 
+removal|NN obstacle|NN carpet|NN live|NN environment|NN fall|NN 
+fall|NN gait|NN balance_disorder|DS risk|NN risk|NN factor|NN 
+risk|NN factor|NN fracture|NN nonmodifiable|NN 
+addition|NN osteoporosis|DS complication|NN disease|NN disorder|NN 
+use|NN case|NN use|NN medication|NN osteoporosis|DS risk|NN 
+caffeine|NN risk|NN factor|NN osteoporosis|DS 
+female|NN male|NN bone|NN density|NN peak|NN year|NN age|NN 
+women|NN bone|NN mass|NN men|NN 
+risk|NN factor|NN osteoporosis|DS age|NN men|NN women|NN sex|NN deficiency|NN menopause|NN removal|NN ovary|NN reduction|NN bone|NN mineral|NN density|NN men|NN decrease|NN testosterone|NN level|NN effect|NN osteoporosis|DS people|NN group|NN ancestry|NN osteoporosis|DS family|NN history|NN fracture|NN osteoporosis|DS risk|NN heritability|NN fracture|NN bone|NN mineral|NN density|NN 
+gene|NN development|NN osteoporosis|DS fracture|NN fracture|NN age|NN sex|NN menopausehysterectomy|NN factor|NN 
+stature|NN risk|NN factor|NN development|NN osteoporosis|DS 
+alcohol|NN amount|NN alcohol|NN bone|NN density|NN increase|NN alcohol|NN intake|NN drink|NN alcohol|NN intake|NN unitsday|NN fracture|NN risk|NN effect|NN bone|NN density|NN vitamin|NN d|NN deficiency|NN vitamin|NN vitamin|NN d|NN insufficiency|NN hormone|NN production|NN bone|NN resorption|NN bone|NN loss|NN 
+association|NN serum|NN level|NN bone|NN mineral|NN density|NN bone|NN mineral|NN density|NN tobacco|NN study|NN smoke|NN bone|NN health|NN mechanism|NN 
+tobacco|NN smoke|NN activity|NN osteoblast|NN risk|NN factor|NN osteoporosis|DS smoke|NN result|NN breakdown|NN body|NN weight|NN menopause|NN bone|NN mineral|NN density|NN nutrition|NN role|NN maintenance|NN bone|NN 
+risk|NN factor|NN calcium|NN phosphorus|NN magnesium|NN zinc|NN boron|NN iron|NN fluoride|NN copper|NN vitamin|NN skin|NN exposure|NN sunlight|NN supply|NN 
+sodium|NN risk|NN factor|NN 
+blood|NN acidity|NN antagonist|NN bone|NN protein|NN intake|NN peak|NN bone|NN mass|NN adolescence|NN bone|NN mineral|NN density|NN population|NN protein|NN intake|NN factor|NN protein|NN cause|NN acidity|NN 
+imbalance|NN omega-6|NN fat|NN risk|NN factor|NN protein|NN animal|NN source|NN research|NN association|NN diet|NN animal|NN protein|NN calcium|NN increase|NN fracture|NN relevance|NN observation|NN bone|NN density|NN protein|NN diet|NN absorption|NN calcium|NN diet|NN bone|NN density|NN protein|NN diet|NN bone|NN health|NN trial|NN protein|NN prevention|NN treatment|NN osteoporosis|DS bone|NN response|NN stress|NN inactivity|NN bone|NN loss|NN weight|NN bear|NN exercise|NN peak|NN bone|NN mass|NN adolescence|NN correlation|NN bone|NN strength|NN muscle|NN strength|NN incidence|NN osteoporosis|DS people|NN endurance|NN train|NN endurance|NN athlete|NN volume|NN train|NN bone|NN density|NN risk|NN osteoporosis|DS effect|NN train|NN menstruation|NN amenorrhea|DS part|NN athlete|NN triad|NN athlete|NN situation|NN study|NN bone|NN density|NN elite|NN male|NN endurance|NN athlete|NN leg|NN bone|NN density|NN metal|NN association|NN cadmium|NN lead|NN bone|NN disease|NN 
+exposure|NN cadmium|NN loss|NN bone|NN mineral|NN density|NN gender|NN pain|ST risk|NN fracture|NN female|NN 
+cadmium|NN exposure|NN result|NN soften|NN bone|NN drink|NN study|NN drink|NN acid|NN risk|NN osteoporosis|DS women|NN drink|NN drink|NN diet|NN osteoporosis|DS proton|NN pump|NN inhibitor|NN esomeprazole|NN omeprazole|NN decrease|NN stomach|NN acid|NN risk|NN bone|NN fracture|NN year|NN absorption|NN calcium|NN stomach|NN 
+disorder|NN body|NN calcium|NN homeostasis|NN pathway|NN blood|NN calcium|NN level|NN pathway|NN blood|NN calcium|NN level|NN 
+disease|NN disorder|NN osteoporosis|DS mechanism|NN bone|NN metabolism|NN cause|NN 
+cause|NN bone|NN loss|NN use|NN rule|NN 
+example|NN osteoporosis|DS immobilization|NN limb|NN cast|NN 
+people|NN bone|NN example|NN athlete|NN 
+example|NN bone|NN loss|NN space|NN flight|NN people|NN use|NN wheelchair|NN reason|NN 
+state|NN osteoporosis|DS 
+turner|NN syndrome|NN syndrome|NN syndrome|NN anorexia_nervosa|DS amenorrhea|DS hyperprolactinemia|DS female|NN effect|NN hypogonadism|DS deficiency|NN 
+menopause|NN year|NN premenopausal|NN year|NN 
+removal|NN ovary|NN failure|NN cause|NN estrogen|NN production|NN 
+male|NN testosterone|NN deficiency|NN cause|NN example|NN removal|NN teste|NN 
+disorder|NN bone|NN loss|NN syndrome|NN hypothyroidism|DS diabete|NN mellitus|NN type|NN insufficiency|NN nutrition|NN malabsorption|NN osteoporosis|DS 
+disorder|NN osteoporosis|DS disease|NN people|NN disease|NN colitis|DS fibrosis|DS surgery|NN gastrectomy|NN bypass|NN surgery|NN bowel|NN resection|NN liver|NN disease|NN cirrhosis|NN people|NN lactose|NN intolerance|NN milk|NN allergy|NN osteoporosis|DS due|NN restriction|NN food|NN individual|NN bulimia|NN osteoporosis|DS 
+calcium|NN intake|NN osteoporosis|DS due|NN inability|NN calcium|NN vitamin|NN d|NN 
+micronutrient|NN vitamin|NN vitamin|NN deficiency|NN 
+people|NN disorder|NN arthritis|DS lupus|NN arthritis|DS risk|NN osteoporosis|DS part|NN disease|NN risk|NN factor|NN therapy|NN 
+disease|NN amyloidosis|NN sarcoidosis|DS osteoporosis|DS 
+insufficiency|NN osteodystrophy|NN 
+disorder|NN osteoporosis|DS myeloma|NN gammopathy|NN lymphoma|DS hemophilia|NN disease|NN thalassemia|DS 
+disorder|NN osteoporosis|DS 
+syndrome|NN hypophosphatasia|DS glycogen_storage_disease|DS syndrome|NN syndrome|NN bullosa|NN disease|NN 
+people|NN scoliosis|DS cause|NN risk|NN osteoporosis|DS 
+bone|NN loss|NN feature|NN pain|ST syndrome|NN 
+people|NN disease|NN disease|NN 
+people|NN disease|NN risk|NN bone|NN 
+balance|NN bone|NN density|NN disease|NN link|NN loss|NN neuron|NN calcium|NN metabolism|NN iron|NN metabolism|NN stiffen|NN skeleton|NN kyphosis|DS 
+medication|NN increase|NN osteoporosis|DS risk|NN evidence|NN regard|NN drug|NN 
+osteoporosis|DS siop|NN use|NN syndrome|NN skeleton|NN 
+glucocorticoid|NN prescription|NN drug|NN prednisone|NN candidate|NN intake|NN 
+guideline|NN prophylaxis|NN patient|NN equivalent|NN mg|NN mg|NN prednisolone|NN excess|NN month|NN calcium|NN vitamin|NN d|NN prevention|NN day|NN use|NN complication|NN phenytoin|NN enzyme-induce|NN metabolism|NN vitamin|NN d|NN l-thyroxine|NN osteoporosis|DS fashion|NN thyrotoxicosis|NN hypothyroidism|DS 
+drug|NN example|NN inhibitor|NN breast_cancer|DS antimetabolite|NN drug|NN depot|NN progesterone|NN hormone|NN agonist|NN 
+use|NN heparin|NN decrease|NN bone|NN density|NN warfarin|NN coumarin|NN risk|NN fracture|NN use|NN proton|NN pump|NN inhibitor|NN drug|NN production|NN stomach|NN acid|NN calcium|NN absorption|NN phosphate|NN bind|NN antacid|NN diabete|NN inhibitor|NN ppar|NN risk|NN osteoporosis|DS fracture|NN lithium|NN therapy|NN osteoporosis|DS 
+bone|NN loss|NN human|NN bone|NN primate|NN specy|NN bone|NN human|NN frequency|NN osteoporosis|DS osteoporosis|DS fracture|NN vulnerability|NN osteoporosis|DS cost|NN advantage|NN bipedalism|NN vulnerability|NN byproduct|NN bone|NN stress|NN surface|NN primate|NN counterpart|NN surface|NN force|NN addition|NN porosity|NN flexibility|NN lighter|NN skeleton|NN support|NN consideration|NN diet|NN amount|NN calcium|NN diet|NN primate|NN ancestor|NN human|NN likelihood|NN sign|NN osteoporosis|DS pathogenesis|NN osteoporosis|DS location|NN 
+mechanism|NN case|NN osteoporosis|DS imbalance|NN bone|NN resorption|NN bone|NN formation|NN 
+bone|NN matrix|NN remodel|NN bone|NN bone|NN mass|NN point|NN time|NN 
+process|NN place|NN bone|NN unit|NN frost|NN thomas|NN osteoclast|NN transcription|NN factor|NN bone|NN matrix|NN bone|NN matrix|NN 
+bone|NN mass|NN density|NN bone|NN matrix|NN osteoblast|NN bone|NN 
+mechanism|NN osteoporosis|DS peak|NN bone|NN mass|NN skeleton|NN mass|NN strength|NN growth|NN bone|NN resorption|NN formation|NN bone|NN due|NN msc|NN osteoblast|NN marrow|NN lineage|NN interplay|NN mechanism|NN development|NN bone|NN tissue|NN factor|NN rate|NN bone|NN resorption|NN lack|NN result|NN menopause|NN increase|NN bone|NN resorption|NN deposition|NN bone|NN place|NN bone|NN 
+amount|NN estrogen|NN process|NN uterus|NN breast|NN gland|NN 
+-form|NN receptor|NN bone|NN turnover|NN addition|NN calcium|NN metabolism|NN role|NN bone|NN turnover|NN deficiency|NN calcium|NN vitamin|NN d|NN bone|NN deposition|NN addition|NN gland|NN calcium|NN level|NN hormone|NN parathormone|NN bone|NN resorption|NN calcium|NN blood|NN 
+role|NN calcitonin|NN hormone|NN thyroid|NN bone|NN deposition|NN 
+activation|NN osteoclast|NN signal|NN receptor|NN activator|NN factor|NN ligand|NN 
+molecule|NN osteoblast|NN cell|NN lymphocyte|NN receptor|NN activator|NN factor|NN 
+opg|NN opportunity|NN rank|NN ability|NN increase|NN bone|NN resorption|NN 
+rank|NN tumor|NN necrosis|NN factor|NN receptor|NN 
+role|NN wnt|NN pathway|NN 
+production|NN eicosanoid|NN interleukin|NN regulation|NN bone|NN turnover|NN excess|NN production|NN mediator|NN development|NN osteoporosis|DS 
+bone|NN bone|NN bone|NN end|NN bone|NN vertebrae|NN 
+bone|NN shell|NN bone|NN middle|NN bone|NN 
+osteoblasts|NN osteoclasts|NN surface|NN bone|NN bone|NN subject|NN bone|NN turnover|NN remodel|NN 
+bone|NN density|NN microarchitecture|NN bone|NN 
+spicule|NN bone|NN break|NN bone|NN 
+osteoporotic|NN fracture|NN site|NN wrist|NN hip|NN spine|NN trabecular|NN bone|NN bone|NN ratio|NN 
+area|NN bone|NN strength|NN remodel|NN area|NN remodel|NN 
+citation|NN age|NN 3035|NN bone|NN loss|NN 
+women|NN men|NN 
+micrograph|NN osteoclast|NN characteristics|NN cell|NN nucley|NN cytosol|NN 
+micrograph|NN golgy|NN apparatus|NN osteocyte|NN 
+collapse|NN vertebra|NN left|NN 
+diagnosis|NN osteoporotic|NN wedge|NN fracture|NN thoraco-lumbar|NN spine|NN x-ray|NN 
+diagnosis|NN osteoporosis|DS radiography|NN bone|NN mineral|NN density|NN method|NN bmd|NN x-ray|NN 
+addition|NN detection|NN bmd|NN diagnosis|NN osteoporosis|DS investigation|NN cause|NN blood|NN test|NN 
+likelihood|NN problem|NN investigation|NN cancer|DS metastasis|NN bone|NN myeloma|NN disease|NN cause|NN 
+radiography|NN conjunction|NN ct|NN mry|NN complication|NN bone|NN mass|NN osteoporosis|DS fracture|NN diagnosis|NN osteopenia|NN examination|NN set|NN tissue|NN hyperparathyroidism|DS osteomalacia|DS osteodystrophy|NN 
+radiography|NN detection|NN disease|NN amount|NN bone|NN loss|NN x-ray|NN image|NN 
+feature|NN osteoporosis|DS thine|NN radiolucency|NN 
+complication|NN osteoporosis|DS fracture|NN radiography|NN diagnosis|NN follow-up|NN 
+height|NN measurement|NN x-ray|NN method|NN height|NN loss|NN area|NN reduction|NN deformity|ST t4-l4|NN fracture|NN index|NN account|NN number|NN vertebrae|NN 
+involvement|NN body|NN kyphosis|DS spine|NN hump|NN 
+x-ray|NN scan|NN gold|NN standard|NN diagnosis|NN osteoporosis|DS 
+osteoporosis|DS bone|NN mineral|NN density|NN deviation|NN adult|NN women|NN reference|NN population|NN 
+bone|NN density|NN age|NN people|NN world|NN health|NN organization|NN guideline|NN category|NN range|NN women|NN 
+fragility|NN fracture|NN 
+society|NN densitometry|NN position|NN diagnosis|NN osteoporosis|DS men|NN year|NN age|NN basis|NN criteria|NN 
+women|NN comparison|NN age|NN group|NN peak|NN bone|NN mass|NN diagnosis|NN osteoporosis|DS women|NN basis|NN criteria|NN 
+biomarker|NN tool|NN bone|NN degradation|NN 
+enzyme|NN k|NN collagen|NN constituent|NN bone|NN 
+antibody|NN fragment|NN neoepitope|NN way|NN osteoporosis|DS excretion|NN c-telopeptide|NN collagen|NN breakdown|NN product|NN biomarker|NN osteoporosis|DS comparison|NN bone|NN pathology|NN 
+condition|NN calcium|NN phosphate|NN phosphatase|NN hormone|NN comment|NN bone|NN mass|NN unaffectedcitation|NN bone|NN marble|NN bone|NN ricket|NN bone|NN brown|NN disease|NN bone|NN variable|NN stage|NN disease|NN bone|NN architecture|NN tool|NN 
+tomography|NN dxa|NN estimate|NN bmd|NN trabecular|NN bone|NN report|NN mineral|NN density|NN mgcm3|NN z-score|NN 
+advantage|NN site|NN ct|NN scan|NN radiation|NN dose|NN time|NN region|NN size|NN shape|NN tissue|NN muscle|NN air|NN knowledge|NN patient|NN order|NN score|NN z-score|NN female|NN age|NN 
+disadvantage|NN radiation|NN dose|NN ct|NN scanner|NN practice|NN result|NN 
+qct|NN limitation|NN dxa|NN qct|NN 
+ultrasound|NN advantage|NN osteoporosis|DS 
+modality|NN radiation|NN measurement|NN cost|NN device|NN dxa|NN qct|NN device|NN 
+calcaneus|NN site|NN ultrasound|NN assessment|NN percentage|NN bone|NN bone|NN evidence|NN change|NN 
+calcaneus|NN reposition|NN error|NN 
+method|NN children|NN neonate|NN preterm|NN infant|NN adult|NN ultrasound|NN device|NN tibia|NN screen|NN 
+service|NN task|NN force|NN women|NN year|NN age|NN bone|NN screen|NN women|NN risk|NN factor|NN evidence|NN recommendation|NN interval|NN screen|NN age|NN screen|NN 
+men|NN harm|NN benefit|NN screen|NN osteoporosis|DS state|NN need|NN test|NN osteoporosis|DS bone|NN fracture|NN society|NN densitometry|NN test|NN men|NN risk|NN 
+number|NN tool|NN prevention|NN 
+lifestyle|NN prevention|NN osteoporosis|DS aspect|NN inverse|NN risk|NN factor|NN tobacco|NN smoke|NN alcohol|NN intake|NN osteoporosis|DS smoke|NN cessation|NN moderation|NN alcohol|NN intake|NN way|NN 
+people|NN disease|NN adherence|NN diet|NN risk|NN osteoporosis|DS bone|NN density|NN diet|NN calcium|NN intake|NN gram|NN vitamin|NN d|NN level|NN supplement|NN nutrition|NN calcium|NN intake|NN adult|NN 400-500|NN 700-800|NN vitamin|NN d|NN serum|NN level|NN adult|NN 50-74|NN 
+study|NN benefit|NN supplementation|NN calcium|NN vitamin|NN d|NN study|NN people|NN intake|NN review|NN uspstf|NN evidence|NN routine|NN use|NN calcium|NN vitamin|NN d|NN supplement|NN supplement|NN risk|NN fracture|NN male|NN adult|NN community|NN history|NN vitamin|NN deficiency|NN osteoporosis|DS fracture|NN review|NN evidence|NN combination|NN vitamin|NN calcium|NN supplementation|NN risk|NN kidney|NN stone|NN population|NN evidence|NN supplementation|NN vitamin|NN d|NN calcium|NN combination|NN effect|NN risk|NN cancer|DS disease|NN death|NN cause|NN uspstf|NN dose|NN supplementation|NN g|NN calcium|NN iu|NN vitamin|NN postmenopausal|NN women|NN difference|NN fracture|NN risk|NN review|NN data|NN supplementation|NN calcium|NN risk|NN fracture|NN 
+meta-analyse|NN benefit|NN vitamin|NN supplement|NN calcium|NN fracture|NN benefit|NN vitamin|NN supplement|NN 
+supplementation|NN risk|NN death|NN risk|NN infarction|NN calcium|NN supplementation|NN kidney|NN stone|NN stomach|NN problem|NN 
+vitamin|NN k|NN deficiency|NN risk|NN factor|NN fracture|NN 
+gene|NN ggcx|NN vitamin|NN k|NN 
+polymorphism|NN gene|NN variation|NN bone|NN metabolism|NN bmd|NN 
+vitamin|NN k2|NN mean|NN treatment|NN osteoporosis|DS polymorphism|NN ggcx|NN variation|NN response|NN treatment|NN vitamin|NN exercise|NN 
+review|NN benefit|NN exercise|NN bone|NN density|NN postmenopausal|NN women|NN chance|NN fracture|NN difference|NN people|NN average|NN bone|NN loss|NN spine|NN hip|NN 
+evidence|NN exercise|NN pain|ST quality|NN life|NN people|NN fracture|NN management|NN lifestyle|NN 
+endurance|NN exercise|NN exercise|NN muscle|NN bone|NN strength|NN osteoporosis|DS aerobics|NN weight|NN bear|NN resistance|NN exercise|NN postmenopausal|NN women|NN fall|NN prevention|NN osteoporosis|DS complication|NN 
+evidence|NN hip|NN protector|NN care|NN home|NN 
+risk|NN fracture|NN fracture|NN osteoporosis|DS benefit|NN year|NN evidence|NN use|NN bisphosphonate|NN treatment|NN osteoporosis|DS bisphosphonate|NN risk|NN reduction|NN bone|NN concern|NN fracture|NN osteonecrosis|DS jaw|NN use|NN risk|NN evidence|NN benefit|NN year|NN light|NN event|NN treatment|NN time|NN organization|NN year|NN medication|NN mouth|NN year|NN medication|NN risk|NN treatment|NN risk|NN year|NN medication|NN mouth|NN year|NN treatment|NN 
+osteoporosis|DS fracture|NN evidence|NN reduction|NN fracture|NN risk|NN risedronate|NN alendronate|NN fracture|NN spine|NN effect|NN type|NN fracture|NN medication|NN year|NN treatment|NN bone|NN mineral|NN density|NN review|NN evidence|NN benefit|NN male|NN osteoporosis|DS 
+supplementation|NN postmenopausal|NN osteoporosis|DS bone|NN density|NN risk|NN fracture|NN 
+parathyroid|NN hormone|NN treatment|NN women|NN postmenopausal|NN osteoporosis|DS evidence|NN strontium|NN ranelate|NN risk|NN fracture|NN postmenopausal|NN women|NN osteoporosis|DS hormone|NN replacement|NN therapy|NN osteoporosis|DS women|NN symptom|NN osteoporosis|DS fracture|NN risk|NN fracture|NN risk|NN breast_cancer|DS risk|NN blood|NN clot|NN stroke|NN fracture|NN women|NN evidence|NN benefit|NN male|NN men|NN testosterone|NN bone|NN quantity|NN quality|NN study|NN effect|NN fracture|NN risk|NN men|NN testosterone|NN level|NN risk|NN cancer|DS effect|NN fracture|NN risk|NN 
+medication|NN risedronate|NN strontium|NN ranelate|NN fragility|NN fracture|NN postmenopausal|NN women|NN osteoporosis|DS evidence|NN medicine|NN benefit|NN bone|NN mineral|NN density|NN hip|NN fracture|NN category|NN age|NN age|NN osteoporosis|DS 
+people|NN osteoporosis|DS mortality|NN complication|NN fracture|NN fracture|NN 
+hip|NN fracture|NN mobility|NN risk|NN complication|NN thrombosis|NN embolism|NN pneumonia|DS 
+mortality|NN rate|NN hip|NN fracture|NN proportion|NN assistance|NN hip|NN fracture|NN 
+fracture|NN impact|NN mortality|NN pain|ST origin|NN deformity|ST 
+fracture|NN hunch|NN back|NN pressure|NN organ|NN ability|NN 
+risk|NN death|NN complication|NN fracture|NN quality|NN life|NN 
+condition|NN fracture|NN lumbar|NN vertebrae|NN hip|NN wrist|NN 
+fracture|NN rib|NN men|NN 
+hip|NN fracture|NN 
+hip|NN fracture|NN consequence|NN osteoporosis|DS 
+united|NN states|NN hip|NN fracture|NN osteoporosis|DS woman|NN lifetime|NN risk|NN fracture|NN femur|NN 
+incidence|NN hip|NN fracture|NN decade|NN women|NN men|NN population|NN 
+incidence|NN men|NN women|NN age|NN vertebral|NN fracture|NN 
+women|NN fracture|NN 
+united|NN states|NN fracture|NN 
+series|NN women|NN average|NN year|NN fracture|NN entry|NN study|NN fracture|NN risk|NN women|NN fracture|NN fracture|NN 
+united|NN states|NN wrist|NN fracture|NN osteoporosis|DS fracture|NN type|NN fracture|NN 
+lifetime|NN risk|NN fracture|NN women|NN 
+time|NN women|NN age|NN wrist|NN fracture|NN rib|NN fracture|NN 
+fracture|NN rib|NN men|NN age|NN 
+sign|NN osteoporosis|DS men|NN fracture|NN course|NN activity|NN 
+example|NN result|NN water|NN sky|NN jet|NN sky|NN 
+test|NN individual|NN testosterone|NN level|NN diagnosis|NN fracture|NN individual|NN risk|NN 
+epidemiology|NN hip|NN fracture|NN rate|NN low|NN medium|NN high|NN 
+people|NN osteoporosis|DS osteoporosis|DS age|NN caucasian|NN women|NN men|NN world|NN method|NN diagnosis|NN male|NN female|NN rate|NN disease|NN world|NN 
+fracture|NN year|NN osteoporosis|DS women|NN men|NN age|NN fracture|NN data|NN united|NN states|NN decrease|NN osteoporosis|DS population|NN women|NN white|NN people|NN risk|NN people|NN descent|NN risk|NN fracture|NN osteoporosis|DS risk|NN death|NN fracture|NN 
+latitude|NN risk|NN fracture|NN area|NN latitude|NN northern|NN europe|NN vitamin|NN d|NN sunlight|NN region|NN equator|NN fracture|NN rate|NN comparison|NN latitude|NN example|NN men|NN women|NN risk|NN hip|NN fracture|NN age|NN risk|NN men|NN women|NN diet|NN factor|NN difference|NN vitamin|NN d|NN calcium|NN magnesium|NN folate|NN bone|NN mineral|NN density|NN 
+women|NN men|NN union|NN osteoporosis|DS united|NN states|NN women|NN men|NN osteoporosis|DS place|NN burden|NN healthcare|NN system|NN cost|NN treatment|NN disability|NN loss|NN productivity|NN population|NN 
+eu|NN euro|NN year|NN healthcare|NN cost|NN osteoporosis|DS usd|NN healthcare|NN cost|NN history|NN 
+link|NN reduction|NN bone|NN density|NN fracture|NN risk|NN astley|NN cooper|NN term|NN osteoporosis|DS recognition|NN appearance|NN pathologist|NN jean|NN endocrinologist|NN fuller|NN albright|NN osteoporosis|DS postmenopausal|NN state|NN 
+anthropologist|NN remain|NN loss|NN bone|NN density|NN change|NN malnutrition|NN area|NN individual|NN 
+deformation|NN labor|NN agriculture|NN malnutrition|NN osteoporosis|DS radiograph|NN remain|NN 
+osteoporosis|DS bone|NN 
+mean|NN bone|NN 
+mean|NN pore|NN 

@@ -1,0 +1,60 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN pericarditis|NN pericarditis|NN ecg|NN pericarditis|NN 
+st|NN elevation|NN lead|NN st|NN depression|ST 
+symptom|NN chest_pain|ST fever|ST complication|NN constrictive|NN pericarditis|NN onset|NN duration|NN day|NN week|NN cause|NN infection|NN tuberculosis|DS pericarditis|NN heart_attack|DS cancer|DS autoimmune|NN disorder|NN chest|NN trauma|NN method|NN symptom|NN electrocardiogram|NN fluid|NN heart|NN diagnosis|NN heart_attack|DS treatment|NN nsaids|NN colchicine|NN corticosteroid|NN frequency|NN year|NN 
+pericarditis|NN inflammation|NN pericardium|NN sac|NN heart|NN symptom|NN onset|NN chest_pain|ST pain|ST shoulder|NN neck|NN back|NN symptom|NN fever|ST weakness|ST palpitation|NN shortness|NN breath|NN onset|NN symptom|NN 
+cause|NN pericarditis|NN infection|NN cause|NN infection|NN tuberculosis|DS uremic|NN pericarditis|NN heart_attack|DS cancer|DS autoimmune|NN disorder|NN chest|NN trauma|NN cause|NN diagnosis|NN chest_pain|ST rub|NN electrocardiogram|NN ecg|NN change|NN fluid|NN heart|NN condition|NN symptom|NN heart_attack|DS 
+treatment|NN case|NN nsaids|NN steroid|NN symptom|NN day|NN week|NN month|NN complication|NN tamponade|NN pericarditis|NN cause|NN chest_pain|ST people|NN year|NN male|NN age|NN episode|NN content|NN 
+sign|NN symptom|NN examination|NN complication|NN cause|NN diagnosis|NN laboratory|NN test|NN image|NN classification|NN treatment|NN epidemiology|NN reference|NN link|NN 
+sign|NN symptom|NN 
+chest_pain|ST radiation|NN ridge|NN bottom|NN portion|NN scapula|NN back_pain|ST pericarditis|NN 
+pain|ST position|NN inspiration|NN breath|NN pain|ST angina|NN pericarditis|NN pain|ST change|NN body|NN position|NN heart_attack|DS pain|ST 
+symptom|NN pericarditis|NN cough|ST fever|ST fatigue|ST anxiety|ST 
+similarity|NN pain|ST infarction|NN heart_attack|DS pericarditis|NN heart_attack|DS 
+infarction|NN pericarditis|NN symptom|NN warrant|NN diagnosis|NN 
+table|NN presentation|NN pericarditis|NN differential|NN infarction|NN characteristic|NN pericarditis|NN infarction|NN pain|ST description|NN sharp|NN pleuritic|NN sternum|NN chest_pain|ST pain|ST 
+elephant|NN chest|NN 
+radiation|NN pain|ST ridge|NN portion|NN scapula|NN back|NN radiation|NN 
+pain|ST jaw|NN arm|NN 
+pain|ST pain|ST position|NN pain|ST position|NN inspiration|NN breath|NN pain|ST hour|NN day|NN patient|NN er|NN pain|ST paroxysm|NN hour|NN patient|NN er|NN examination|NN 
+sign|NN pericarditis|NN friction|NN rub|NN stethoscope|NN examination|NN border|NN sign|NN patient|NN distress|NN chest_pain|ST sweate|NN possibility|NN heart|NN failure|NN form|NN pericardial|NN paradoxus|NN triad|NN blood|NN pressure|NN output|NN heart|NN sound|NN distension|NN jugular|NN vein|NN 
+complication|NN heart|NN membrane|NN pericardium|NN fluid|NN muscle|NN r|NN 
+pericarditis|NN effusion|NN 
+patient|NN sign|NN pericarditis|NN sign|NN relief|NN progress|NN sign|NN tamponade|NN alertness|NN lethargy|NN decrease|NN mmhg|NN blood|NN pressure|NN inspiration|NN blood|NN pressure|NN index|NN jugular|NN vein|NN distention|NN right|NN heart|NN failure|NN fluid|NN overload|NN heart|NN sound|NN auscultation|NN equilibration|NN blood|NN pressure|NN constriction|NN pericardium|NN fluid|NN 
+case|NN tamponade|NN monitor|NN alternan|NN heart|NN fluid|NN refil|NN collapse|NN status|NN hypoperfusion|NN body|NN organ|NN heart|NN blood|NN 
+diagnosis|NN tamponade|NN echocardiography|NN pericardial|NN effusion|NN collapse|NN ventricle|NN atrium|NN 
+chest|NN x-ray|NN silhouette|NN water|NN bottle|NN appearance|NN lung|NN 
+congestion|NN equalization|NN pressure|NN wedge|NN pressure|NN pressure|NN pressure|NN 
+cause|NN figure|NN location|NN heart|NN heart|NN sac|NN heart|NN 
+inset|NN image|NN cross-section|NN pericardium|NN layer|NN tissue|NN fluid|NN layer|NN 
+figure|NN heart|NN pericarditis|NN 
+inset|NN image|NN cross-section|NN layer|NN 
+pericarditis|NN infection|NN 
+world|NN viruse|NN cause|NN case|NN world|NN tuberculosis|DS cause|NN world|NN cause|NN mump|NN virus|NN hiv|DS 
+pericarditis|NN form|NN 
+bacteria|NN cause|NN pericarditis|NN host|NN candida|NN coccidioides|NN 
+citation|NN cause|NN pericarditis|NN pericarditis|NN tuberculosis|DS 
+cause|NN routine|NN test|NN disease|NN fever|ST disease|NN infarction|NN syndrome|NN heart|NN pericarditis|NN cancer|DS side|NN effect|NN medication|NN hydralazine|NN heparin|NN radiation|NN dissection|NN surgery|NN 
+diagnosis|NN laboratory|NN test|NN st|NN elevation|NN male|NN myocarditis|DS pericarditis|NN ecg|NN pericarditis|NN 
+st|NN elevation|NN lead|NN st|NN depression|ST 
+laboratory|NN value|NN urea|NN blood|NN creatinine|NN case|NN pericarditis|NN 
+laboratory|NN value|NN infarction|NN heart_attack|DS stress|NN heart|NN laboratory|NN value|NN marker|NN lactase|NN dehydrogenase|NN 
+test|NN ecg|NN electrocardiogram|NN saddle-shap|NN elevation|NN lead|NN avr|NN depression|ST lead|NN sinus|NN tachycardia|DS qr|NN complexe|NN level|NN effusion|NN 
+pr|NN depression|ST process|NN atria|NN ventricle|NN process|NN pericardium|NN 
+century|NN diagnosis|NN pericarditis|NN find|NN adhesion|NN pericardium|NN 
+pericarditis|NN cause|NN percent|NN patient|NN pericarditis|NN 
+citation|NN image|NN 
+effusion|NN pericarditis|NN 
+effusion|NN cxr|NN pericarditis|NN 
+pericarditis|NN composition|NN fluid|NN heart|NN 
+type|NN pericarditis|NN 
+purulent|NN hemorrhagic|NN 
+time|NN presentation|NN duration|NN pericarditis|NN form|NN 
+pericarditis|NN pericarditis|NN complication|NN infection|NN condition|NN result|NN heart_attack|DS infarction|NN syndrome|NN 
+pericarditis|NN form|NN pericarditis|NN 
+follow|NN classification|NN 
+week|NN week|NN month|NN month|NN 
+treatment|NN pericarditis|NN aspirin|NN drug|NN nsaids|NN risk|NN episode|NN pericarditis|NN 
+antibiotics|NN tuberculosis|DS cause|NN 
+steroid|NN pericarditis|NN chance|NN pericarditis|NN 
+case|NN surgery|NN case|NN pericarditis|NN pericardiectomy|NN 
+people|NN pericarditis|NN pericarditis|NN cause|NN episode|NN 

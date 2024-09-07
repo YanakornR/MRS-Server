@@ -1,0 +1,166 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN Amnesia|Disease disambiguation|NN
+album|NN Amnesia|Disease album|NN
+film|NN Amnesia|Disease film|NN
+article|NN issue|NN
+issue|NN talk|NN page|NN
+template|NN message|NN article|NN citation|NN verification|NN
+march|NP article|NN source|NN
+march|NP Amnesia|Disease name|NN Amnesia|Disease psychiatry|NN
+Amnesia|Disease deficit|NN memory|NN brain|NN damage|NN disease|NN use|NN sedative|NN drug|NN
+memory|NN extent|NN damage|NN type|NN Amnesia|Disease retrograde|NN Amnesia|Disease Amnesia|Disease
+Amnesia|Disease inability|NN information|NN date|NN date|NN accident|NN operation|NN case|NN memory|NN loss|NN decade|NN person|NN month|NN memory|NN
+Amnesia|Disease inability|NN information|NN store|NN store|NN
+people|NN type|NN Amnesia|Disease thing|NN period|NN time|NN
+case|NN study|NN Amnesia|Disease damage|NN lobe|NN
+addition|NN area|NN hippocampus|NN region|NN memory|NN
+research|NN area|NN diencephalon|NN Amnesia|Disease
+study|NN correlation|NN deficiency|NN protein|NN memory|NN loss|NN
+scientist|NN mice|NN memory|NN level|NN protein|NN mice|NN
+citation|NN people|NN Amnesia|Disease ability|NN information|NN citation|NN source|NN memory|NN
+reduction|NN ability|NN material|NN information|NN
+patient|NN knowledge|NN
+addition|NN prime|NN Amnesia|Disease cs|NN learn|NN non-declarative|NN knowledge|NN patient|NN skill|NN impairment|NN ability|NN information|NN learn|NN episode|NN
+term|NN mean|NN forgetfulness|NN
+mean|NN memory|NN
+sign|NN symptom|NN information|NN information|NN cause|NN diagnosis|NN type|NN treatment|NN history|NN henry|NP patient|NN rb|NP patient|NN fiction|NN reference|NN link|NN
+sign|NN symptom|NN
+people|NN Amnesia|Disease information|NN knowledge|NN
+people|NN anterograde|NN Amnesia|Disease episode|NN information|NN
+patient|NN Amnesia|Disease information|NN knowledge|NN
+hm|NP floor|NN plan|NN home|NN surgery|NN year|NN
+reason|NN patient|NN memory|NN region|NN hippocampus|NN lesion|NN hippocampus|NN connection|NN cortex|NN
+episode|NN surgery|NN mry|NN patient|NN rb|NP hippocampus|NN lesion|NN cellsbetter|NN source|NN information|NN
+retrograde|NN anterograde|NN amnesics|NN memory|NN learn|NN learn|NN
+example|NN patient|NN improvement|NN sequence|NN experiment|NN people|NN
+learn|NN brain|NN system|NN memory|NN
+study|NN acquisition|NN memory|NN ganglia|NN cortex|NN motor|NN area|NN region|NN formation|NN memory|NN
+type|NN dissociation|NN memory|NN patient|NN Amnesia|Disease syndrome|NN
+example|NN patient|NN kc|NP hm|NP damage|NN anterograde|NN Amnesia|Disease prime|NN
+patient|NN word|NN fragment|NN completion|NN source|NN cause|NN
+category|NN Amnesia|Disease person|NN
+category|NN head|NN trauma|NN example|NN head|NN injury|NN event|NN example|NN mind|NN deficiency|NN example|NN atrophy|NN hippocampus|NN
+majority|NN Amnesia|Disease memory|NN issue|NN category|NN subcategory|NN
+head|NN trauma|NN range|NN kind|NN injury|NN action|NN brain|NN Amnesia|Disease
+Amnesia|Disease event|NN example|NN cause|NN therapy|NN patient|NN
+event|NN event|NN mind|NN deal|NN stress|NN
+example|NN Amnesia|Disease event|NN Amnesia|Disease person|NN event|NN example|NN person|NN car|NN accident|NN
+deficiency|NN head|NN trauma|NN deficiency|NN issue|NN
+cause|NN Amnesia|Disease
+therapy|NN seizure|NN patient|NN effect|NN effect|NN retrograde|NN Amnesia|Disease alcohol|NN blackout|NN effect|NN memory|NN formation|NN
+diagnosis|NN type|NN
+Amnesia|Disease inability|NN memory|NN brain|NN damage|NN memory|NN event|NN
+brain|NN damage|NN effect|NN alcoholism|NN malnutrition|NN stroke|NN head|NN trauma|NN encephalitis|NN surgery|NN syndrome|NN event|NN trauma|NN brain|NN region|NN condition|NN lobe|NN diencephalon|NN
+Amnesia|Disease method|NN loss|NN treatment|NN patient|NN routine|NN step|NN memory|NN
+support|NN quality|NN life|NN Amnesia|Disease sufferer|NN use|NN user|NN cause|NN cluster|NN case|NN boston|NP ma|NP Amnesia|Disease inability|NN memory|NN onset|NN Amnesia|Disease
+memory|NN incident|NN
+head|NN trauma|NN brain|NN damage|NN part|NN brain|NN hippocampus|NN
+hippocampus|NN memory|NN
+memory|NN memory|NN
+damage|NN head|NN trauma|NN accident|NN stroke|NN tumor|NN hypoxia|NN encephalitis|NN alcoholism|NN
+people|NN suffer|NN retrograde|NN Amnesia|Disease knowledge|NN specifics|NN
+memory|NN memory|NN source|NN Amnesia|Disease memory|NN source|NN type|NN consolidation|NN process|NN memory|NN brain|NN period|NN week|NN month|NN year|NN transfer|NN information|NN hippocampus|NN storage|NN site|NN cortex|NN
+operation|NN consolidation|NN process|NN retrograde|NN Amnesia|Disease patient|NN damage|NN memory|NN childhood|NN experience|NN year|NN time|NN
+kirwan|NP et|NP Amnesia|Disease head|NN injury|NN example|NN fall|NN knock|NN head|NN
+Amnesia|Disease retrograde|NN type|NN
+extent|NN period|NN Amnesia|Disease degree|NN injury|NN indication|NN prognosis|NN recovery|NN function|NN
+trauma|NN car|NN accident|NN result|NN whiplash|NN occupant|NN car|NN memory|NN moment|NN accident|NN interruption|NN memory|NN transfer|NN mechanism|NN
+sufferer|NN knowledge|NN people|NN
+period|NN Amnesia|Disease consciousness|NN injury|NN indication|NN recovery|NN concussion|NN symptom|NN Amnesia|Disease result|NN cause|NN damage|NN brain|NN head|NN injury|NN trauma|NN disease|NN Amnesia|Disease
+Amnesia|Disease memory|NN inability|NN information|NN event|NN person|NN live|NN attack|NN disaster|NN
+memory|NN memory|NN access|NN defense|NN mechanism|NN
+person|NN capacity|NN information|NN recovery|NN memory|NN
+fugue|NN fugue|NN fugue|NN state|NN
+individual|NN fugue|NN disorder|NN identity|NN journey|NN surround|NN identity|NN merck|NP manual|NN episode|NN Amnesia|Disease patient|NN past|NN identity|NN identity|NN
+episode|NN result|NN trauma|NN stress|NN
+fugue|NN travel|NN home|NN
+source|NN fiction|NN
+Amnesia|Disease event|NN hypnosis|NN memory|NN
+failure|NN event|NN suggestion|NN hypnosis|NN Amnesia|Disease loss|NN memory|NN event|NN
+childhood|NN Amnesia|Disease Amnesia|Disease inability|NN event|NN childhood|NN
+sigmund|NP freud|NP repression|NN approache|NN aspect|NN brain|NN development|NN psychology|NN language|NN development|NN people|NN event|NN
+researcher|NN memory|NN
+piano|NN example|NN memory|NN speak|NN activity|NN time|NN morn|NN
+memory|NN hand|NN word|NN
+time|NN meet|NN teacher|NN example|NN memory|NN Amnesia|Disease phenomenon|NN
+form|NN Amnesia|Disease abnormality|NN hippocampus|NN form|NN resonance|NN image|NN brain|NN image|NN
+symptom|NN day|NN factor|NN deficit|NN
+cause|NN syndrome|NN
+hypothesis|NN syndrome|NN blood|NN flow|NN seizure|NN type|NN migraine|NN
+patient|NN event|NN minute|NN past|NN recal|NN
+source|NN Amnesia|Disease inability|NN information|NN knowledge|NN syndrome|NN alcoholism|NN malnutrition|NN
+brain|NN damage|NN vitamin|NN deficiency|NN alcohol|NN intake|NN nutrition|NN pattern|NN
+problem|NN combination|NN type|NN Amnesia|Disease
+person|NN memory|NN person|NN time|NN story|NN word|NN source|NN
+Amnesia|Disease injection|NN drug|NN patient|NN surgery|NN procedure|NN anesthesia|NN
+2-halogenate|NN midazolam|NN drug|NN choice|NN drug|NN application|NN
+memory|NN time-frame|NN procedure|NN drug|NN memory|NN
+Amnesia|Disease variety|NN circumstance|NN example|NN offence|NN child|NN abuse|NN
+narrow|NN consciousness|NN attention|NN detail|NN event|NN memory|NN
+Amnesia|Disease form|NN lobe|NN epilepsy|NN memory|NN loss|NN
+syndrome|NN drug|NN Amnesia|Disease memory|NN form|NN problem|NN language|NN use|NN acquisition|NN
+form|NN Amnesia|Disease fix|NN source|NN
+way|NN memory|NN loss|NN case|NN
+way|NN therapy|NN
+therapy|NN Amnesia|Disease memory|NN skill|NN technique|NN memory|NN retrieval|NN path|NN strategy|NN information|NN understand|NN conversation|NN
+cope|NN mechanism|NN advantage|NN assistance|NN device|NN track|NN task|NN
+reminder|NN appointment|NN medication|NN birthday|NN event|NN
+picture|NN Amnesia|Disease cs|NN name|NN friend|NN family|NN co-worker|NN notebook|NN wall|NN calendar|NN pill|NN reminder|NN photograph|NN people|NN place|NN memory|NN aid|NN
+medication|NN Amnesia|Disease condition|NN memory|NN
+condition|NN function|NN liver|NN kidney|NN disease|NN stroke|NN depression|NN disorder|NN blood|NN clot|NN source|NN
+syndrome|NN lack|NN thiamin|NN vitamin|NN food|NN cereal|NN legume|NN bean|NN lentil|NN nut|NN pork|NN source|NN alcoholism|NN alcohol|NN drug|NN use|NN damage|NN case|NN memory|NN
+improvement|NN patient|NN treatment|NN cure|NN remedy|NN Amnesia|Disease
+extent|NN patient|NN Amnesia|Disease type|NN severity|NN lesion|NN history|NN
+psychologist|NN scientist|NN study|NN Amnesia|Disease
+law|NN time|NN gradient|NN retrograde|NN Amnesia|Disease
+law|NN progression|NN memory|NN loss|NN disease|NN
+patient|NN memory|NN memory|NN memory|NN
+case|NN study|NN role|NN discovery|NN Amnesia|Disease part|NN brain|NN
+study|NN insight|NN Amnesia|Disease brain|NN
+study|NN scientist|NN resource|NN knowledge|NN Amnesia|Disease insight|NN cure|NN prevention|NN
+case|NN study|NN henry|NP rb|NP
+henry|NP molaison|NP
+henry|NP hm|NP way|NN people|NN thought|NN memory|NN
+case|NN paper|NN william|NP beecher|NP brenda|NP milner|NP patient|NN epilepsy|NN bicycle|NN accident|NN age|NN
+physician|NN seizure|NN drug|NN neurosurgeon|NN approach|NN brain|NN surgery|NN
+lobe|NN lobectomy|NN
+epilepsy|NN ability|NN memory|NN Amnesia|Disease
+memory|NN ability|NN
+list|NN word|NN minute|NN time|NN
+fact|NN list|NN place|NN think|NN list|NN term|NN memory|NN
+researcher|NN evidence|NN memory|NN fact|NN process|NN list|NN thing|NN memory|NN
+psychologist|NN piece|NN paper|NN paper|NN mirror|NN
+psychologist|NN thing|NN
+study|NN lifetime|NN Amnesia|Disease researcher|NN follow-up|NN study|NN
+period|NN week|NN Amnesia|Disease
+year|NN thing|NN surgery|NN
+thing|NN operation|NN
+researcher|NN question|NN event|NN memory|NN death|NN brain|NN science|NN area|NN brain|NN lesion|NN Amnesia|Disease case|NN study|NN insight|NN area|NN brain|NN Amnesia|Disease Amnesia|Disease
+patient|NP rb|NP
+patient|NP rb|NP man|NN age|NN
+age|NN angina|NN surgery|NN heart|NN problem|NN occasion|NN
+episode|NN reduction|NN blood|NN brain|NN heart|NN bypass|NN surgery|NN rb|NP loss|NN memory|NN loss|NN retrograde|NN memory|NN exception|NN couple|NN year|NN surgery|NN sign|NN impairment|NN
+death|NN researcher|NN chance|NN brain|NN lesion|NN portion|NN hippocampus|NN
+case|NN study|NN research|NN role|NN hippocampus|NN function|NN memory|NN patient|NN
+male|NN navy|NN
+failure|NN treatment|NN rest|NN life|NN
+hospital|NN parathyroidectomy|NN
+thyroid|NN loss|NN blood|NN lobe|NN
+problem|NN result|NN surgery|NN
+day|NN hospital|NN
+memory|NN impairment|NN process|NN
+research|NN memory|NN test|NN doctor|NN memory|NN problem|NN year|NN death|NN
+brain|NN science|NN study|NN fiction|NN
+Amnesia|Disease motif|NN fiction|NN reality|NN
+introduction|NN anthology|NN vintage|NN book|NN Amnesia|Disease jonathan|NP lethem|NP
+diagnosable|NN Amnesia|Disease people|NN head|NN name|NN rumor|NN world|NN
+book|NN movie|NN version|NN Amnesia|Disease episode|NN mission|NN metafictional|NN absurdist|NN masterpiece|NN stop|NN
+Amnesia|Disease Amnesia|Disease character|NN book|NN movy|NN dream|NN
+root|NN Amnesia|Disease franz|NP kafka|NP samuel|NP beckett|NP part|NN seep|NN culture|NN work|NN sigmund|NP freud|NP genre|NN film|NN film|NN noir|NN
+Amnesia|Disease plot|NN device|NN film|NN dialogue|NN victim|NN
+name|NN bill|NN
+movy|NN television|NN sitcom|NN soap|NN opera|NN second|NN blow|NN head|NN Amnesia|Disease
+reality|NN deficit|NN problem|NN case|NN swell|NN brain|NN syndrome|NN
+citation|NN Amnesia|Disease wiktionary|NN dictionary|NN
+betrayal|NN emotion|NN memory|NN memory|NN figure|NN test|NN list|NN film|NN illness|NN memory|NN erasure|NN nostalgia|NN memory|NN Amnesia|Disease
+Amnesia|Disease cs|NN
+benjaman|NP kyle|NP clive|NP doug|NP bruce|NP kc|NP patient|NN scott|NP bolzan|NP skeid|NP

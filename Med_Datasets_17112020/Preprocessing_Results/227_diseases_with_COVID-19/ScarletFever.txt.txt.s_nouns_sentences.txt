@@ -1,0 +1,142 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN Scarlet fever|Disease disambiguation|NN
+Scarlet fever|Disease name|NN Scarlet fever|Disease Scarlet fever|Disease strawberry|NN tongue|NN Scarlet fever|Disease disease|NN symptom|NN throat|NN fever|NN headache|NN lymph|NN node|NN characteristic|NN rash|NN complication|NN heart|NN disease|NN arthritis|NN onset|NN year|NN cause|NN throat|NN skin|NN infection|NN method|NN throat|NN culture|NN prevention|NN item|NN people|NN treatment|NN antibiotics|NN
+Scarlet fever|Disease disease|NN result|NN group|NN group|NN infection|NN streptococcus|NN sign|NN symptom|NN throat|NN fever|NN headache|NN lymph|NN node|NN rash|NN rash|NN sandpaper|NN tongue|NN children|NN year|NN age|NN
+Scarlet fever|Disease number|NN people|NN throat|NN skin|NN infection|NN bacteria|NN people|NN cough|NN person|NN object|NN bacteria|NN mouth|NN nose|NN rash|NN toxin|NN substance|NN type|NN bacterium|NN diagnosis|NN throat|NN
+vaccine|NN prevention|NN item|NN people|NN disease|NN antibiotics|NN complication|NN outcome|NN Scarlet fever|Disease complication|NN result|NN Scarlet fever|Disease kidney|NN disease|NN heart|NN disease|NN arthritis|NN cause|NN death|NN children|NN century|NN content|NN
+sign|NN symptom|NN throat|NN mouth|NN presentation|NN course|NN complication|NN cause|NN microbiology|NN diagnosis|NN diagnosis|NN prevention|NN treatment|NN resistance|NN epidemiology|NN history|NN dick|NP test|NN reference|NN link|NN
+sign|NN symptom|NN strawberry|NN tongue|NN characteristic|NN Scarlet fever|Disease rash|NN Scarlet fever|Disease cheek|NN area|NN mouth|NN Scarlet fever|Disease cheek|NN rash|NN Scarlet fever|Disease
+appearance|NN spread|NN pattern|NN process|NN strawberry|NN tongue|NN
+tongue|NN coat|NN papillae|NN tongue|NN
+protrusion|NN papillae|NN coat|NN tongue|NN strawberry|NN appearance|NN
+day|NN process|NN shed|NN tissue|NN coat|NN whiteness|NN red|NN papillae|NN strawberry|NN appearance|NN involvement|NN tongue|NN part|NN rash|NN characteristic|NN Scarlet fever|Disease line|NN line|NN petechiae|NN area|NN arm|NN pit|NN elbow|NN pit|NN
+pain|NN throat|NN
+symptom|NN pharyngitis|NN throat|NN
+throat|NN swallow|NN fever|NN c|NP f|NP fatigue|NN tonsil|NN exudate|NN exudative|NN lymph|NN node|NN front|NN neck|NN
+symptom|NN cough|NN hoarseness|NN nose|NN presence|NN infection|NN
+rash|NN day|NN onset|NN symptom|NN strep|NN throat|NN fever|NN fatigue|NN characteristic|NN rash|NN scarlatiniform|NN redness|NN skin|NN papule|NN bump|NN goose|NN pimple|NN bump|NN sandpaper|NN texture|NN rash|NN
+skin|NN pressure|NN
+skin|NN trunk|NN arm|NN leg|NN palm|NN sole|NN face|NN rash|NN
+face|NN cheek|NN ring|NN paleness|NN mouth|NN rash|NN crease|NN skin|NN skin|NN fold|NN region|NN body|NN area|NN line|NN pattern|NN week|NN onset|NN rash|NN process|NN desquamation|NN shed|NN layer|NN skin|NN week|NN process|NN face|NN body|NN desquamation|NN skin|NN appearance|NN mouth|NN throat|NN child|NN throat|NN culture|NN pharyngitis|NN
+pharyngitis|NN presentation|NN Scarlet fever|Disease combination|NN rash|NN tonsil|NN
+palate|NN infection|NN
+involvement|NN palate|NN red|NN round|NN spot|NN spot|NN presentation|NN
+feature|NN Scarlet fever|Disease age|NN race|NN person|NN
+children|NN year|NN presentation|NN
+children|NN year|NN congestion|NN grade|NN fever|NN infant|NN irritability|NN appetite|NN
+children|NN skin|NN presentation|NN redness|NN skin|NN rash|NN ring|NN paleness|NN mouth|NN suspicion|NN symptom|NN study|NN case|NN
+exposure|NN hour|NN day|NN onset|NN symptom|NN
+fever|NN fatigue|NN throat|NN
+characteristic|NN rash|NN hour|NN
+day|NN development|NN generalization|NN line|NN strawberry|NN tongue|NN rash|NN day|NN desquamation|NN rash|NN week|NN month|NN case|NN Scarlet fever|Disease recovery|NN fever|NN symptom|NN process|NN desquamation|NN day|NN complication|NN
+complication|NN Scarlet fever|Disease category|NN
+complication|NN complication|NN spread|NN structure|NN site|NN infection|NN case|NN Scarlet fever|Disease pharynx|NN
+problem|NN method|NN spread|NN abscess|NN mastoiditis|NN sinusitis|NN
+infection|NN spread|NN system|NN blood|NN area|NN body|NN pharynx|NN
+example|NN complication|NN method|NN spread|NN pneumonia|NN meningitis|NN
+complication|NN complication|NN subtype|NN group|NN streptococcy|NN cause|NN autoimmune|NN response|NN body|NN mimicry|NN
+antibody|NN person|NN system|NN group|NN streptococcy|NN case|NN person|NN tissue|NN
+complication|NN result|NN tissue|NN person|NN body|NN antibody|NN
+fever|NN complication|NN week|NN group|NN infection|NN tract|NN country|NN antibiotic|NN treatment|NN infection|NN illness|NN manifestation|NN jones|NP criteria|NN
+criteria|NN arthritis|NN issue|NN skin|NN find|NN
+evidence|NN group|NN infection|NN tract|NN pharyngitis|NN Scarlet fever|Disease
+carditis|NN result|NN response|NN person|NN heart|NN tissue|NN sequelae|NN fever|NN
+involvement|NN heart|NN tissue|NN heart|NN disease|NN
+case|NN heart|NN disease|NN valve|NN stenosis|NN inflammation|NN kidney|NN week|NN group|NN pharyngitis|NN
+episode|NN impetigo|NN group|NN infection|NN skin|NN fever|NN group|NN pharyngitis|NN result|NN autoimmune|NN response|NN infection|NN part|NN kidney|NN
+person|NN nephritic|NN syndrome|NN blood|NN pressure|NN swell|NN abnormality|NN
+abnormality|NN blood|NN protein|NN urine|NN urine|NN production|NN overal|NN arthritis|NN presentation|NN arthritis|NN episode|NN group|NN pharyngitis|NN suspicion|NN fever|NN jones|NP criteria|NN complication|NN
+arthritis|NN symptom|NN arthritis|NN
+arthritis|NN variety|NN joint|NN body|NN arthritis|NN fever|NN joint|NN knee|NN joint|NN
+day|NN group|NN pharyngitis|NN
+spread|NN throat|NN contact|NN droplet|NN example|NN saliva|NN discharge|NN person|NN contact|NN person|NN group|NN pharyngitis|NN chance|NN children|NN group|NN pharyngitis|NN Scarlet fever|Disease pathophysiology|NN
+rash|NN Scarlet fever|Disease disease|NN group|NN step|NN throat|NN strain|NN group|NN streptococcus|NN pyrogenic|NN toxin|NN strain|NN cause|NN Scarlet fever|Disease people|NN antibody|NN
+pyrogenic|NN b|NP c|NP spea|NP
+exotoxin|NN toxin|NN rash|NN Scarlet fever|Disease strain|NN group|NN streptococcus|NN cause|NN Scarlet fever|Disease bacteriophage|NN order|NN production|NN
+bacteriophage|NN t12|NN production|NN pyrogenic|NN spea|NN case|NN Scarlet fever|Disease sequelae|NN fever|NN poststreptococcal|NN
+toxin|NN superantigen|NN response|NN body|NN activation|NN cell|NN person|NN system|NN body|NN toxin|NN antibody|NN toxin|NN
+antibody|NN person|NN group|NN infection|NN pyrogenic|NN microbiology|NN
+disease|NN secretion|NN exotoxin|NN streptococcus|NN bacteria|NN spea|NN toxin|NN
+bacteriophage|NN genome|NN toxin|NN
+phage|NN trna|NN gene|NN chromosome|NN
+virus|NN taxon|NN committee|NN taxonomy|NN viruse|NN
+dna|NN genome|NN ground|NN member|NN siphoviridae|NN
+gene|NN base|NN pair|NN length|NN 29244|NN kda|NN protein|NN
+protein|NN 30-|NN amino-acid|NN signal|NN peptide|NN removal|NN signal|NN sequence|NN weight|NN kda|NN protein|NN
+promoter|NN site|NN sequence|NN gene|NN
+terminator|NN base|NN termination|NN codon|NN
+terminal|NN portion|NN protein|NN homology|NN terminus|NN staphylococcus|NP aureus|NN
+gene|NN diagnosis|NN
+presentation|NN Scarlet fever|Disease test|NN illness|NN history|NN exposure|NN throat|NN method|NN suspicion|NN Scarlet fever|Disease antigen|NN detection|NN test|NN throat|NN culture|NN
+antigen|NN detection|NN test|NN test|NN
+result|NN group|NN antigen|NN person|NN group|NN strep|NN antibiotics|NN
+antigen|NN detection|NN test|NN group|NN strep|NN throat|NN culture|NN result|NN throat|NN culture|NN gold|NN standard|NN diagnosis|NN
+test|NN antibody|NN body|NN infection|NN antistreptolysin-o|NN b|NP
+body|NN week|NN antibody|NN type|NN test|NN infection|NN
+person|NN complication|NN infection|NN
+throat|NN culture|NN antibiotic|NN therapy|NN infection|NN
+throat|NN swab|NN individual|NN infection|NN diagnosis|NN
+infection|NN rash|NN morbilliform|NN maculopapular|NN
+type|NN rash|NN period|NN cough|NN nose|NN addition|NN fever|NN indicative|NN process|NN contact|NN dermatitis|NN appearance|NN skin|NN distribution|NN rash|NN Scarlet fever|Disease drug|NN eruption|NN side|NN effect|NN drug|NN
+maculopapular|NN rash|NN result|NN fever|NN kawasaki|NP disease|NN children|NN disease|NN strawberry|NN tongue|NN process|NN palm|NN sole|NN
+children|NN year|NN fever|NN day|NN criteria|NN sign|NN redness|NN lip|NN Scarlet fever|Disease shock|NN syndrome|NN bacteria|NN syndrome|NN
+manifestation|NN rash|NN desquamation|NN palm|NN sole|NN
+Scarlet fever|Disease blood|NN pressure|NN lack|NN sandpaper|NN texture|NN system|NN involvement|NN skin|NN syndrome|NN disease|NN children|NN toxin|NN strain|NN bacteria|NN staphylococcus|NN
+start|NN fever|NN sunburn|NN appearance|NN rash|NN Scarlet fever|Disease
+rash|NN tenderness|NN blister|NN formation|NN
+blister|NN pop|NN skin|NN peel|NN Scarlet fever|Disease rash|NN Scarlet fever|Disease distribution|NN texture|NN skin|NN rash|NN
+method|NN use|NN antibiotics|NN group|NN infection|NN
+method|NN people|NN complication|NN attack|NN fever|NN heart|NN disease|NN
+antibiotics|NN ability|NN infection|NN variety|NN subtype|NN group|NN streptococcy|NN infection|NN
+vaccine|NN approach|NN likelihood|NN group|NN infection|NN vaccine|NN formulation|NN subtype|NN bacteria|NN vaccine|NN george|NP gladys|NP dick|NP efficacy|NN introduction|NN antibiotics|NN
+difficulty|NN vaccine|NN development|NN strain|NN variety|NN group|NN present|NN environment|NN amount|NN time|NN number|NN people|NN trial|NN safety|NN efficacy|NN vaccine|NN attempt|NN vaccine|NN past|NN decade|NN
+vaccine|NN development|NN phase|NN expose|NN person|NN protein|NN surface|NN group|NN streptococcy|NN response|NN person|NN fight|NN infection|NN
+diphtheria|NN Scarlet fever|Disease vaccine|NN product|NN end|NN world|NN war|NN
+antibiotics|NN infection|NN mainstay|NN treatment|NN Scarlet fever|Disease
+administration|NN antibiotics|NN length|NN illness|NN
+peeling|NP layer|NN skin|NN treatment|NN goal|NN treatment|NN child|NN suppurative|NN nonsuppurative|NN complication|NN fever|NN antibiotics|NN day|NN child|NN fever|NN therapy|NN development|NN poststreptococcal|NN reason|NN treatment|NN antibiotics|NN ability|NN transmission|NN infection|NN children|NN
+individual|NN infection|NN person|NN week|NN child|NN infection|NN child|NN hour|NN antibiotics|NN
+antibiotic|NN choice|NN penicillin|NN mouth|NN pill|NN form|NN
+children|NN pill|NN amoxicillin|NN form|NN
+duration|NN treatment|NN day|NN g|NP time|NN injection|NN alternative|NN pill|NN person|NN family|NN antibiotics|NN penicillin|NN amoxicillin|NN part|NN antibiotics|NN generation|NN antibiotics|NN reaction|NN people|NN reaction|NN penicillin|NN type|NN reaction|NN
+treatment|NN pharyngitis|NN
+fact|NN person|NN group|NN streptococcus|NN tonsil|NN resistance|NN
+strain|NN Scarlet fever|Disease antibiotics|NN antibiotics|NN penicillin|NN hong|NP kong|NP account|NN death|NN citythe|NN decade|NN strain|NN group|NN streptococcus|NN cause|NN Scarlet fever|Disease hong|NP kong|NP antibiotics|NN professor|NN head|NN hong|NP kong|NP microbiology|NN department|NN
+resistance|NN rate|NN increase|NN result|NN overuse|NN antibiotics|NN year|NN
+Scarlet fever|Disease male|NN female|NN children|NN year|NN
+infection|NN time|NN year|NN infection|NN rate|NN peak|NN winter|NN spring|NN month|NN climate|NN
+morbidity|NN mortality|NN Scarlet fever|Disease century|NN epidemics|NN disease|NN mortality|NN rate|NN place|NN improvement|NN prognosis|NN use|NN penicillin|NN treatment|NN disease|NN frequency|NN Scarlet fever|Disease case|NN century|NN
+outbreak|NN disease|NN country|NN decade|NN reason|NN increase|NN community|NN
+2013|NN population|NN rate|NN Scarlet fever|Disease england|NP hospital|NN admission|NN Scarlet fever|Disease history|NN
+description|NN disease|NN hippocrates|NP write|NN bc|NP condition|NN person|NN skin|NN fever|NN
+description|NN disease|NN literature|NN book|NN de|NP tumoribus|NP naturam|NN anatomist|NN physician|NN giovanni|NP filippo|NP
+point|NN presentation|NN characteristics|NN measle|NN johann|NP epidemic|NN germany|NP anginosa|NN
+description|NN Scarlet fever|Disease book|NN coyttarus|NN poitiers|NP de|NP purpura|NP duo|NN paris|NP
+daniel|NP sennert|NP wittenberg|NP Scarlet fever|Disease desquamation|NN arthritis|NN Scarlet fever|Disease ascite|NN disease|NN
+term|NN Scarlet fever|Disease Scarlet fever|Disease thomas|NP sydenham|NP physician|NN
+richard|NP bright|NP involvement|NN system|NN Scarlet fever|Disease
+association|NN streptococcy|NN disease|NN theodor|NP people|NN skin|NN infection|NN genus|NN name|NN
+friedrich|NP julius|NP rosenbach|NP name|NN streptococcus|NN bacteria|NN skin|NN lesion|NN organism|NN surgeon|NN friedrich|NP fehleisen|NP lesion|NN
+physician|NN friedrich|NP loeffler|NP presence|NN streptococcy|NN throat|NN people|NN Scarlet fever|Disease
+people|NN streptococcy|NN Scarlet fever|Disease find|NN time|NN
+association|NN streptococcy|NN Scarlet fever|Disease alphonse|NP george|NP gladys|NP dick|NP
+clement|NP dukes|NP disease|NN form|NN rubella|NN duke|NN illness|NN dukes|NP disease|NN disease|NN disease|NN
+keith|NP powell|NP fact|NN illness|NN form|NN Scarlet fever|Disease exotoxin|NN skin|NN syndrome|NN
+Scarlet fever|Disease serum|NN horse|NN treatment|NN children|NN mortality|NN rate|NN
+austrian|NN clemens|NP von|NP pirquet|NP complexe|NN nephritis|NN Scarlet fever|Disease
+work|NN felix|NP
+association|NN Scarlet fever|Disease group|NN streptococcy|NN development|NN group|NN scheme|NN
+george|NP gladys|NP dick|NP filtrate|NN reaction|NN characteristic|NN Scarlet fever|Disease reaction|NN toxin|NN
+extract|NN serum|NN globulin|NN lighten|NN agent|NN Scarlet fever|Disease basis|NN dick|NP test|NN
+association|NN Scarlet fever|Disease
+antitoxin|NN Scarlet fever|Disease
+toxin|NN disease|NN weeks|NP ferretti|NP discovery|NN penicillin|NN use|NN mortality|NN disease|NN
+report|NN case|NN Scarlet fever|Disease year|NN rise|NN
+country|NN england|NP wales|NP south|NP korea|NP vietnam|NP china|NP hong|NP kong|NP
+researcher|NN spike|NN case|NN disease|NN dick|NP test|NN
+dick|NP test|NN Scarlet fever|Disease dick|NP test|NN strain|NN streptococcy|NN cause|NN Scarlet fever|Disease person|NN skin|NN
+reaction|NN skin|NN site|NN injection|NN people|NN Scarlet fever|Disease
+reaction|NN hour|NN injection|NN hour|NN
+reaction|NN skin|NN person|NN immunity|NN disease|NN risk|NN
+otto|NP kalischer|NP thesis|NN Scarlet fever|Disease
+poster|NN spread|NN disease|NN Scarlet fever|Disease milk|NN supply|NN
+gladys|NP henry|NP dick|NP george|NP frederick|NP dick|NP antitoxin|NN vaccine|NN Scarlet fever|Disease penicillin|NN

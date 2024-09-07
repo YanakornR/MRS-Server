@@ -1,0 +1,177 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN food|NN safety|NN food|NN safety|NN term|NN 
+foodborne|NN illness|NN hazard|NN analysis|NN control|NN point|NN hazard|NN analysis|NN control|NN control|NN point|NN 
+tom|NN ph|NN water|NN activity|NN 
+escherichia|NN coly|NN salmonella|NN spp|NN 
+hepatitis|DS rotavirus|NN 
+cryptosporidium|NN giardia|NN 
+foodborne|NN illness|NN foodborne|NN illness|NN foodborne|NN illness|NN illness|NN spoilage|NN food|NN bacteria|NN viruse|NN parasite|NN food|NN toxin|NN mushroom|NN specy|NN bean|NN minute|NN 
+symptom|NN cause|NN article|NN 
+generalization|NN incubation|NN period|NN range|NN hour|NN day|NN cause|NN quantity|NN consumption|NN 
+incubation|NN period|NN sufferer|NN symptom|NN item|NN cause|NN sufferer|NN symptom|NN gastroenteritis|DS example|NN 
+symptom|NN vomit|NN fever|ST ache|NN 
+bouts|NN vomit|NN delay|NN food|NN stomach|NN bout|NN microbe|NN bacteria|NN stomach|NN intestine|NN 
+type|NN microbe|NN intestine|NN toxin|NN bloodstream|NN body|NN tissue|NN 
+cause|NN bacteria|NN pathogen|NN foodborne|NN illness|NN mycotoxicose|NN viruse|NN toxin|NN agent|NN poison|NN mechanism|NN incubation|NN period|NN dose|NN epidemiology|NN infant|NN united|NN states|NN france|NN australia|NN comparison|NN country|NN society|NN culture|NN united|NN kingdom|NN united|NN states|NN organization|NN food|NN safety|NN authority|NN network|NN prioritisation|NN pathogen|NN step|NN reference|NN read|NN periodical|NN book|NN link|NN 
+cause|NN food|NN refrigerator|NN 
+foodborne|NN illness|NN handle|NN preparation|NN food|NN storage|NN 
+hygiene|NN practice|NN food|NN preparation|NN chance|NN illness|NN 
+consensus|NN health|NN community|NN hand-wash|NN defense|NN spread|NN foodborne|NN illness|NN 
+action|NN monitor|NN food|NN foodborne|NN illness|NN food|NN safety|NN 
+foodborne|NN illness|NN variety|NN toxin|NN environment|NN 
+foodborne|NN illness|NN pesticide|NN medicine|NN food|NN substance|NN mushroom|NN reef|NN fish|NN 
+bacteria|NN cause|NN foodborne|NN illness|NN 
+kingdom|NN bacteria|NN campylobacter|NN salmonella|NN escherichia|NN coly|NN infection|NN place|NN capability|NN test|NN norovirus|NN surveillance|NN agent|NN 
+infection|NN bacteria|NN need|NN time|NN 
+result|NN symptom|NN intoxication|NN hour|NN food|NN 
+case|NN foodborne|NN illness|NN onset|NN illness|NN minute|NN food|NN salmonella|NN 
+foodborne|NN pathogen|NN 
+campylobacter|NN syndrome|NN clostridium|NN cafeteria|NN germ|NN salmonella|NN spp|NN s|NN typhimurium|NN infection|NN consumption|NN egg|NN poultry|NN human-animal|NN pathogen|NN escherichia|NN coly|NN ehec|NN syndrome|NN 
+foodborne|NN pathogen|NN 
+bacillus|NN escherichia|NN coly|NN virulence|NN property|NN enteropathogenic|NN enteroaggregative|NN listeria|NN spp|NN 
+staphylococcus|NN aureus|NN enteritis|NN cholerae|NN o1|NN vibrio|NN yersinia|NN pseudotuberculosis|NN 
+coxiella|NN q_fever|DS 
+addition|NN disease|NN infection|NN foodborne|NN illness|NN es|NN exotoxin|NN intestine|NN 
+illness|NN microbe|NN 
+appearance|NN toxin|NN onset|NN case|NN enterotoxin|NN staphylococcus|NN aureus|NN symptom|NN hour|NN cause|NN vomit|NN enteritis|NN staphylococcal|NN enterotoxin|NN case|NN poison|NN food|NN competition|NN biota|NN food|NN human|NN cause|NN contamination|NN percentage|NN human|NN carrier|NN s|NN aureus|NN cdc|NN case|NN year|NN united|NN states|NN 
+botulinum|NN bacillus|NN 
+disease|NN bacterium|NN low-acid|NN food|NN toxin|NN 
+specy|NN pseudomona|NN vibrio|NN bacteria|NN tetrodotoxin|NN tissue|NN animal|NN specy|NN product|NN decomposition|NN 
+foodborne|NN pathogen|NN 
+hydrophila|NN sobria|NN 
+foodborne|NN illness|NN storage|NN refrigeration|NN food|NN help|NN prevention|NN foodborne|NN illness|NN 
+prevention|NN role|NN state|NN definition|NN rule|NN hygiene|NN service|NN survey|NN animal|NN product|NN food|NN chain|NN farm|NN transformation|NN industry|NN delivery|NN shop|NN restaurant|NN 
+product|NN origin|NN ingredient|NN farm|NN identification|NN harvest|NN animal|NN origin|NN illness|NN product|NN sale|NN problem|NN enforcement|NN hygiene|NN procedure|NN chain|NN power|NN control|NN law|NN enforcement|NN veterinarian|NN 
+august|NN united|NN states|NN food|NN drug|NN administration|NN therapy|NN spray|NN meat|NN viruse|NN bacteria|NN infection|NN 
+concern|NN label|NN consumer|NN meat|NN poultry|NN product|NN spray|NN 
+home|NN prevention|NN food|NN safety|NN practice|NN 
+form|NN poison|NN cook|NN toxin|NN heat|NN treatment|NN 
+technique|NN help|NN food|NN illness|NN kitchen|NN hand|NN wash|NN rinse|NN produce|NN storage|NN cook|NN temperature|NN 
+bacteria|NN heate|NN food|NN parasite|NN viruse|NN bacteria|NN 
+bacteria|NN range|NN temperature|NN f|NN c|NN danger|NN zone|NN 
+food|NN danger|NN zone|NN production|NN toxin|NN 
+leftover|NN food|NN container|NN cool|NN hour|NN 
+food|NN temperature|NN f|NN c|NN bacteria|NN mycotoxicose|NN 
+term|NN mycotoxicosis|NN effect|NN poison|NN mycotoxin|NN food|NN consumption|NN 
+term|NN mycotoxin|NN product|NN fungy|NN crop|NN 
+effect|NN animal|NN health|NN 
+example|NN outbreak|NN uk|NN death|NN turkey|NN peanut|NN meal|NN 
+ussr|NN world|NN war|NN people|NN aleukia|NN ala|NN foodborne|NN 
+parasiticus|NN aspergillus|NN 
+tree|NN nut|NN peanut|NN maize|NN sorghum|NN oilsee|NN corn|NN cottonsee|NN 
+form|NN aflatoxin|NN target|NN liver|NN necrosis|NN cirrhosis|NN carcinoma|NN level|NN aflatoxin|NN food|NN 
+document|NN altertoxin|NN aoh|NN methyl|NN ether|NN alt|NN acid|NN rad|NN spp|NN 
+toxin|NN sorghum|NN wheat|NN tomatoe|NN research|NN toxin|NN grain|NN commodity|NN manufacture|NN storage|NN grain|NN commodity|NN practice|NN acid|NN alkaloid|NN alkaloid|NN crop|NN corn|NN fungy|NN moniliforme|NN fumonisin|NN lem|NN horse|NN syndrome|NN pe|NN pig|NN liver|NN cancer|DS rat|NN cancer|DS human|NN animal|NN health|NN fda|NN ec|NN content|NN level|NN toxin|NN food|NN animal|NN feed|NN acid|NN acid|NN alkaloid|NN acid|NN ochratoxin|NN australia|NN limit|NN report|NN level|NN ochratoxin|NN analyse|NN diet|NN survey|NN gkg|NN ec|NN content|NN ota|NN gkg|NN cereal|NN commodity|NN product|NN gkg|NN vine|NN fruit|NN toxin|NN fruit|NN product|NN 
+ec|NN fda|NN gkg|NN fruit|NN juice|NN fruit|NN nectar|NN limit|NN gkg|NN fruit|NN product|NN gkg|NN baby|NN food|NN ec|NN phomopsin|NN sterigmatocystin|NN mold|NN meat|NN 
+trichothecene|NN myrothecium|NN 
+toxin|NN maize|NN wheat|NN corn|NN peanut|NN rice|NN animal|NN feed|NN hay|NN straw|NN toxin|NN toxin|NN deoxynivalenol|NN don|NN human|NN animal|NN 
+consequence|NN intake|NN exposure|NN toxin|NN aleukia|NN anemia|DS skin|NN irritation|NN fda|NN document|NN content|NN limit|NN don|NN food|NN animal|NN feed|NN level|NN patent|NN farmer|NN crop|NN 
+infection|NN case|NN foodborne|NN illness|NN country|NN 
+case|NN foodborne|NN illness|NN outbreak|NN 
+infection|NN day|NN incubation|NN period|NN illness|NN individual|NN form|NN 
+hepatitis|DS cause|NN week|NN incubation|NN period|NN ability|NN stomach|NN intestine|NN liver|NN 
+jaundice|ST yellow|NN skin|NN liver|NN dysfunction|NN 
+virus|NN cause|NN infection|NN consumption|NN produce|NN contamination|NN hepatitis_e|DS norovirus|NN 
+saginata|NN hepatica|NN 
+lumbricoide|NN sp|NN 
+spiralis|NN protozoa|NN amoebae|NN cryptosporidium|NN entamoeba|NN giardia|NN 
+giardia|NN lamblia|NN sarcocystis|NN gondiy|NN 
+food|NN toxin|NN bacteria|NN 
+plant|NN animal|NN 
+term|NN animal|NN plant|NN poison|NN substance|NN example|NN capsaicin|NN chily|NN pepper|NN sulfur|NN compound|NN garlic|NN onion|NN 
+animal|NN poison|NN animal|NN plant|NN animal|NN action|NN 
+poison|NN honey|NN intoxication|NN mushroom|NN toxin|NN kidney|NN bean|NN poison|NN alkaloid|NN toxin|NN shellfish|NN poison|NN shellfish|NN poison|NN shellfish|NN poison|NN shellfish|NN poison|NN fish|NN poison|NN fish|NN poison|NN 
+plant|NN substance|NN dose|NN property|NN dosage|NN 
+hemlock|NN conium|NN use|NN 
+disease|NN variant|NN 
+professor|NN salmy|NN bologna|NN name|NN pt|NN 
+ma|NN fall|NN body|NN corpse|NN alkaloid|NN animal|NN vegetable|NN matter|NN name|NN bulletin|NN name|NN product|NN origin|NN alkaloid|NN comma|NN bacillus|NN 
+lancet|NN ferment|NN system|NN ptomaine|NN influence|NN 
+influence|NN action|NN bacteria|NN alkaloid|NN 
+use|NN phrase|NN poison|NN 
+potato|NN salad|NN convention|NN massillon|NN ohio|NN washington|NN dc|NN cruise|NN boat|NN incident|NN week|NN attention|NN danger|NN ptomaine|NN poison|NN page|NN new|NN time|NN newspaper|NN article|NN person|NN chicago|NN poison|NN rice|NN pude|NN chain|NN restaurant|NN mechanism|NN incubation|NN period|NN 
+delay|NN consumption|NN food|NN appearance|NN symptom|NN illness|NN incubation|NN period|NN 
+range|NN hour|NN day|NN month|NN year|NN case|NN listeriosis|DS encephalopathy|NN agent|NN 
+symptom|NN hour|NN food|NN toxin|NN chemical|NN bacteria|NN 
+incubation|NN period|NN foodborne|NN illness|NN es|NN sufferer|NN symptom|NN gastroenteritis|DS 
+incubation|NN period|NN microbe|NN stomach|NN intestine|NN cell|NN wall|NN 
+type|NN microbe|NN intestine|NN toxin|NN bloodstream|NN body|NN tissue|NN 
+symptom|NN type|NN microbe|NN dose|NN 
+dose|NN amount|NN agent|NN rise|NN symptom|NN foodborne|NN illness|NN agent|NN consumer|NN age|NN health|NN 
+dose|NN example|NN minimum|NN dose|NN unit|NN staphylococcus|NN aureus|NN estimate|NN 
+case|NN salmonella|NN inoculum|NN organism|NN symptom|NN volunteer|NN salmonellae|NN acid|NN 
+stomach|NN ph|NN level|NN acidity|NN number|NN bacteria|NN cause|NN symptom|NN factor|NN 
+infection|NN spread|NN disease|NN staphylococcus|NN aureus|NN campylobacter|NN salmonella|NN v|NN example|NN united|NN states|NN people|NN carrier|NN salmonella|NN infant|NN article|NN infant|NN food|NN safety|NN 
+infant|NN population|NN foodborne|NN illness|NN 
+world|NN health|NN organization|NN recommendation|NN preparation|NN use|NN storage|NN formula|NN 
+breastfeed|NN measure|NN protection|NN infection|NN infant|NN united|NN states|NN 
+united|NN states|NN data|NN 20002007|NN cdc|NN foodborne|NN illness|NN es|NN year|NN case|NN inhabitant|NN pathogen|NN 
+inhabitant|NN year|NN people|NN inhabitant|NN year|NN 
+cause|NN foodborne|NN illness|NN cause|NN case|NN rate|NN inhabitant|NN case|NN salmonella|NN case|NN clostridium|NN case|NN campylobacter|NN case|NN 
+cause|NN death|NN foodborne|NN illness|NN cause|NN death|NN rate|NN inhabitant|NN salmonella|NN case|NN toxoplasma|NN gondiy|NN case|NN case|NN case|NN 
+data|NN case|NN pathogen|NN population|NN estimate|NN illness|NN united|NN states|NN 
+france|NN case|NN inhabitant|NN 
+people|NN emergency|NN department|NN hospital|NN inhabitant|NN people|NN inhabitant|NN people|NN inhabitant|NN 
+cause|NN foodborne|NN illness|NN france|NN cause|NN hospitalization|NN rate|NN inhabitant|NN salmonella|NN case|NN campylobacter|NN case|NN 
+case|NN case|NN case|NN hepatitis|DS case|NN 
+cause|NN death|NN foodborne|NN illness|NN france|NN cause|NN rate|NN inhabitant|NN salmonella|NN case|NN case|NN case|NN toxoplasma|NN campylobacter|NN case|NN hepatitis|DS case|NN 
+study|NN university|NN november|NN 2014|NN case|NN gastroenteritis|DS australia|NN average|NN year|NN case|NN illness|NN 
+study|NN department|NN health|NN food|NN standard|NN australia|NN new|NN zealand|NN nsw|NN food|NN authority|NN 
+cause|NN escherichia|NN coly|NN campylobacter|NN spp|NN salmonella|NN spp|NN cause|NN illness|NN 
+1342|NN episode|NN gastroenteritis|DS australia|NN food|NN 
+average|NN episode|NN gastroenteritis|DS year|NN person|NN 
+data|NN number|NN hospitalisation|NN death|NN occurrence|NN foodborne|NN illness|NN 
+gastroenteritis|DS sequelae|NN 31920|NN due|NN foodborne|NN illness|NN death|NN foodborne|NN illness|NN 
+study|NN rate|NN estimate|NN canada|NN 
+aim|NN study|NN foodborne|NN illness|NN incidence|NN time|NN 
+study|NN method|NN assessment|NN data|NN rate|NN gastroenteritis|DS time|NN 
+estimate|NN number|NN gastroenteritis|DS episode|NN year|NN proportion|NN 
+episode|NN gastroenteritis|DS 
+proportion|NN episode|NN food|NN incidence|NN gastroenteritis|DS episode|NN gastroenteritis|DS interval|NN overlap|NN 
+account|NN change|NN population|NN size|NN method|NN decrease|NN rate|NN gastroenteritis|DS overlap|NN interval|NN 
+study|NN estimate|NN case|NN illness|NN australia|NN year|NN 
+death|NN death|NN inhabitant|NN day|NN work|NN doctor|NN consultation|NN prescription|NN antibiotics|NN 
+foodborne|NN illness|NN outbreak|NN australia|NN egg|NN poultry|NN food|NN safety|NN information|NN council|NN case|NN foodborne|NN illness|NN home|NN comparison|NN country|NN country|NN death|NN inhabitant|NN hospitalization|NN inhabitant|NN usa|NN france|NN australia|NN article|NN foodborne|NN illness|NN incident|NN 
+majority|NN case|NN foodborne|NN illness|NN individual|NN case|NN 
+origin|NN case|NN 
+united|NN states|NN people|NN home|NN case|NN food|NN facility|NN data|NN 
+outbreak|NN people|NN illness|NN food|NN source|NN 
+combination|NN event|NN outbreak|NN example|NN food|NN room|NN temperature|NN hour|NN bacteria|NN cook|NN failure|NN level|NN 
+outbreak|NN health|NN staff|NN increase|NN laboratory|NN result|NN strain|NN bacteria|NN 
+detection|NN investigation|NN united|NN states|NN health|NN jurisdiction|NN district|NN district|NN 
+society|NN culture|NN united|NN kingdom|NN 
+aberdeen|NN case|NN outbreak|NN typhoid|DS beef|NN argentina|NN beef|NN plant|NN river|NN water|NN plate|NN estuary|NN 
+defect|NN meat|NN 
+meat|NN meat|NN slicer|NN shop|NN aberdeen|NN lack|NN machinery|NN contamination|NN meat|NN slicer|NN 
+meat|NN people|NN aberdeen|NN 
+outbreak|NN foodborne|NN illness|NN change|NN uk|NN food|NN safety|NN law|NN 
+death|NN patient|NN stanley|NN royd|NN hospital|NN outbreak|NN encephalopathy|NN bse|NN cow|NN disease|NN outbreak|NN 
+death|NN people|NN outbreak|NN e|NN coly|NN precursor|NN establishment|NN food|NN standard|NN agency|NN tony|NN blair|NN paper|NN force|NN change|NN cm|NN interest|NN consumer|NN 
+year|NN food|NN standard|NN agency|NN food|NN safety|NN week|NN chicken|NN challenge|NN 
+focus|NN handle|NN chicken|NN home|NN cater|NN facility|NN drive|NN level|NN foodborne|NN illness|NN bacterium|NN 
+anne|NN hardy|NN education|NN food|NN hygiene|NN media|NN tv|NN cookery|NN programme|NN advertisement|NN 
+example|NN society|NN united|NN states|NN article|NN food|NN safety|NN united|NN states|NN 
+center|NN science|NN interest|NN united|NN states|NN department|NN agriculture|NN meat|NN cord|NN process|NN cattle|NN carcass|NN consumption|NN measure|NN risk|NN infection|NN variant|NN disease|NN 
+petition|NN health|NN association|NN consumer|NN federation|NN america|NN government|NN accountability|NN project|NN consumer|NN league|NN table|NN priority|NN cattlemen|NN beef|NN association|NN renderer|NN association|NN meat|NN association|NN pork|NN producer|NN council|NN sheep|NN raiser|NN milk|NN producer|NN turkey|NN federation|NN organization|NN food|NN industry|NN 
+department|NN health|NN service|NN target|NN incidence|NN infection|NN 
+report|NN june|NN nbcs|NN minneapolis|NN station|NN research|NN cdc|NN minnesota|NN department|NN health|NN foodborne|NN illness|NN rise|NN cdc|NN case|NN foodborne|NN illness|NN year|NN 
+expert|NN handle|NN food|NN human|NN contributor|NN outbreak|NN parasite|NN e|NN coly|NN cyclospora|NN matter|NN 
+world|NN health|NN organization|NN department|NN food|NN safety|NN fo|NN advice|NN organization|NN public|NN issue|NN safety|NN food|NN 
+mission|NN burden|NN foodborne|NN illness|NN health|NN security|NN development|NN member|NN state|NN 
+disease|NN people|NN children|NN 
+food|NN agriculture|NN organization|NN nation|NN fao|NN address|NN food|NN safety|NN issue|NN food|NN production|NN production|NN method|NN risk|NN analysis|NN 
+method|NN tool|NN food|NN safety|NN health|NN development|NN 
+food|NN safety|NN authority|NN network|NN 
+food|NN safety|NN authority|NN network|NN infosan|NN program|NN fao|NN 
+authority|NN globe|NN goal|NN spread|NN food|NN foodborne|NN illness|NN strengthen|NN food|NN safety|NN system|NN 
+exchange|NN information|NN food|NN safety|NN event|NN information|NN food|NN safety|NN issue|NN interest|NN partnership|NN collaboration|NN country|NN country|NN capacity|NN food|NN safety|NN risk|NN 
+membership|NN infosan|NN representative|NN government|NN authority|NN letter|NN designation|NN 
+nature|NN food|NN safety|NN collaboration|NN designation|NN point|NN authority|NN stake|NN food|NN safety|NN emergency|NN contact|NN point|NN authority|NN responsibility|NN food|NN safety|NN emergency|NN country|NN member|NN infosan|NN share|NN information|NN food|NN safety|NN authority|NN infosan|NN member|NN 
+definition|NN food|NN safety|NN authority|NN authority|NN food|NN policy|NN risk|NN assessment|NN food|NN control|NN management|NN food|NN inspection|NN service|NN foodborne|NN illness|NN surveillance|NN response|NN laboratory|NN service|NN monitor|NN surveillance|NN food|NN foodborne|NN illness|NN food|NN safety|NN information|NN education|NN communication|NN continuum|NN 
+prioritisation|NN pathogen|NN 
+food|NN agriculture|NN organization|NN nation|NN world|NN health|NN organization|NN rank|NN parasite|NN rank|NN tool|NN solium|NN echinococcus|NN gondiy|NN 
+method|NN food-borne|NN parasite|NN europe|NN rank|NN relevance|NN gondiy|NN trichinella|NN 
+food|NN stage|NN food|NN production|NN retail|NN 
+order|NN contamination|NN authority|NN europe|NN measure|NN 
+commission|NN regulation|NN ec|NN 20732005|NN november|NN committee|NN standard|NN method|NN detection|NN norovirus|NN hepatitis|DS virus|NN food|NN product|NN shellfish|NN fruit|NN vegetable|NN surface|NN water|NN committee|NN food|NN hygiene|NN guideline|NN application|NN principle|NN food|NN hygiene|NN control|NN viruse|NN food|NN 
+attack|NN north|NN coly|NN outbreak|NN health|NN association|NN 
+food|NN allergy|NN food|NN microbiology|NN food|NN quality|NN food|NN safety|NN food|NN food|NN test|NN strip|NN list|NN foodborne|NN illness|NN outbreak|NN country|NN open|NN stop|NN foodborne|NN illness|NN united|NN states|NN disease|NN control|NN prevention|NN pathogen|NN 

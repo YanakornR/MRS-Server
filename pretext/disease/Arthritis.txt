@@ -1,0 +1,450 @@
+arthritis|DS arthritis|DS term|NN disorder|NN joint|NN 
+symptom|NN pain|ST stiffness|NN 
+symptom|NN redness|NN warmth|NN swelling|ST range|NN of|NN motion|NN of|NN joint|NN 
+in|NN type|NN of|NN arthritis|DS organ|NN 
+onset|NN 
+type|NN of|NN arthritis|DS 
+common|NN form|NN osteoarthritis|DS joint|NN disease|NN arthritis|DS 
+osteoarthritis|DS age|NN finger|NN knee|NN hip|NN 
+rheumatoid|NN arthritis|DS disorder|NN hand|NN foot|NN 
+type|NN gout|NN lupus|NN fibromyalgia|NN arthritis|DS 
+type|NN of|NN disease|NN 
+include|NN exercise|NN treatment|NN ice|NN heat|NN 
+weight|NN 
+loss|NN medication|NN form|NN of|NN arthritis|DS 
+pain|ST medication|NN paracetamol|NN acetaminophen|NN 
+in|NN circumstance|NN replacement|NN 
+ibuprofen|NN arthritis|DS hand|NN arthritis|DS form|NN of|NN arthritis|DS pronunciation|NN specialty|NN rheumatology|NN symptom|NN type|NN treatment|NN joint|NN pain|ST stiffness|NN redness|NN swelling|ST range|NN of|NN motion|NN common|NN osteoarthritis|DS arthritis|DS rest|NN ice|NN heat|NN weight_loss|ST exercise|NN replacement|NN ibuprofen|NN paracetamol|NN acetaminophen|NN osteoarthritis|DS of|NN people|NN arthritis|DS affect|NN of|NN people|NN 
+gout|NN of|NN population|NN point|NN in|NN life|NN 
+in|NN australia|NN of|NN people|NN in|NN state|NN type|NN of|NN arthritis|DS 
+disease|NN common|NN age|NN 
+arthritis|DS common|NN reason|NN people|NN work|NN in|NN quality|NN of|NN life|NN 
+term|NN joint|NN inflammation|NN 
+medication|NN content|NN classification|NN sign|NN symptom|NN disability|NN diagnosis|NN osteoarthritis|DS rheumatoid|NN arthritis|DS lupus|NN gout|NN comparison|NN of|NN type|NN treatment|NN therapy|NN medication|NN aid|NN epidemiology|NN history|NN terminology|NN see|NN link|NN classification|NN disease|NN joint|NN pain|ST feature|NN 
+person|NN arthritis|DS of|NN disease|NN osteoarthritis|DS rheumatoid|NN arthritis|DS gout|NN arthritis|DS spondylitis|NN juvenile|NN arthritis|DS disease|NN joint|NN pain|ST symptom|NN of|NN disease|NN 
+in|NN case|NN arthritis|DS disease|NN psoriasis|NN arthritis|DS reactive|NN arthritis|DS syndrome|NN haemochromatosis|NN hepatitis|DS lyme_disease|DS sjögren|NN disease|NN hashimoto|NN thyroiditis|NN disease|NN sensitivity|NN inflammatory|NN bowel|NN disease|NN crohn|NN disease|NN ulcerative_colitis|DS purpura|ST hyperimmunoglobulinemia|NN d|NN fever|ST sarcoidosis|NN whipple|NN disease|NN tnf|NN receptor|NN syndrome|NN granulomatosis|NN polyangiitis|NN vasculitis|NN syndrome|NN mediterranean|NN fever|ST systemic_lupus_erythematosus|DS arthritis|DS arthritis|DS disease|NN category|NN early|NN stage|NN of|NN disease|NN 
+sign|NN symptom|NN pain|ST in|NN severity|NN common|NN symptom|NN in|NN type|NN of|NN arthritis|DS 
+symptom|NN swelling|ST stiffness|NN 
+disorder|NN lupus|NN arthritis|DS organ|NN in|NN body|NN variety|NN of|NN symptom|NN 
+symptom|NN inability|NN hand|NN walk|NN stiffness|NN in|NN morning|NN use|NN malaise|ST fatigue|ST weight_loss|ST sleep|NN muscle|NN ache|NN pain|ST difficulty|NN feature|NN of|NN disease|NN nodule|NN vasculitis|NN lesions|NN lymphadenopathy|ST inflammation|NN urethritis|NN tenosynovitis|NN sheath|NN effusion|NN bursitis|NN bursa|NN diarrhea|DS ulceration|NN common|NN in|NN arthritis|DS change|NN 
+example|NN symptom|NN person|NN exercise|NN effect|NN muscle_weakness|ST loss|NN of|NN flexibility|NN fitness|NN change|NN in|NN addition|NN symptom|NN impact|NN quality|NN of|NN life|NN 
+disability|NN arthritis|DS common|NN cause|NN of|NN disability|NN in|NN state|NN 
+individual|NN arthritis|DS limitation|NN in|NN function|NN basis|NN 
+absenteeism|NN visit|NN physician|NN common|NN in|NN individual|NN arthritis|DS 
+arthritis|DS individual|NN home|NN bind|NN 
+illustration|NN of|NN gout|NN foot|NN 
+cost|NN of|NN arthritis|DS case|NN of|NN earn|NN 
+year|NN arthritis|DS result|NN in|NN 1|NN hospitalization|NN visit|NN health|NN care|NN center|NN 
+mobility|NN in|NN combination|NN above|NN symptom|NN individual|NN risk|NN of|NN obesity|NN cholesterol|NN vulnerability|NN heart|NN disease|NN 
+people|NN arthritis|DS risk|NN of|NN depression|ST response|NN factor|NN fear|NN of|NN symptom|NN 
+diagnosis|NN diagnosis|NN examination|NN health|NN professional|NN test|NN radiology|NN blood|NN test|NN type|NN of|NN arthritis|DS 
+arthritides|NN pain|ST 
+pain|ST pattern|NN arthritides|NN location|NN 
+rheumatoid|NN arthritis|DS in|NN morning|NN stiffness|NN last|NN minute|NN 
+in|NN early|NN stage|NN patient|NN symptom|NN shower|NN 
+osteoarthritis|DS hand|NN morning|NN stiffness|NN movement|NN exercise|NN 
+in|NN age|NN child|NN pain|ST present|NN feature|NN patient|NN patient|NN refuse|NN limb|NN 
+element|NN of|NN history|NN of|NN disorder|NN guide|NN diagnosis|NN 
+feature|NN time|NN of|NN onset|NN pattern|NN of|NN involvement|NN symmetry|NN of|NN symptom|NN early|NN morning|NN stiffness|NN tenderness|NN inactivity|NN factor|NN systemic|NN symptom|NN 
+examination|NN diagnosis|NN systemic|NN disease|NN 
+radiograph|NN progression|NN severity|NN 
+blood|NN test|NN of|NN joint|NN diagnosis|NN 
+blood|NN test|NN arthritides|NN 
+factor|NN factor|NN anf|NN antigen|NN antibody|NN 
+osteoarthritis|DS osteoarthritis|DS common|NN form|NN of|NN arthritis|DS 
+joint|NN of|NN body|NN hand|NN wrist|NN foot|NN back|NN hip|NN knee|NN 
+disease|NN wear|NN tear|NN of|NN joint|NN osteoarthritis|DS result|NN of|NN injury|NN 
+in|NN year|NN deformity|ST overcoverage|NN dysplasia|NN predispose|NN factor|NN knee|NN hip|NN osteoarthritis|DS 
+osteoarthritis|DS in|NN cartilage|NN bone|NN 
+condition|NN pain|ST activity|NN pain|ST in|NN state|NN of|NN rest|NN 
+pain|ST activity|NN 
+osteoarthritis|DS joint|NN back|NN knee|NN hip|NN 
+arthritis|DS osteoarthritis|DS disease|NN of|NN 
+predictor|NN of|NN osteoarthritis|DS age|NN ability|NN of|NN chondrocytes|NN integrity|NN of|NN cartilage|NN 
+percent|NN of|NN woman|NN degree|NN of|NN osteoarthritis|DS age|NN risk|NN factor|NN osteoarthritis|DS trauma|NN obesity|NN lifestyle|NN 
+rheumatoid|NN arthritis|DS rheumatoid|NN arthritis|DS ra|NN disorder|NN in|NN body|NN immune|NN system|NN attack|NN body|NN tissue|NN 
+attack|NN part|NN of|NN body|NN 
+in|NN arthritis|DS damage|NN line|NN cartilage|NN result|NN in|NN erosion|NN of|NN bone|NN 
+ra|NN joint|NN in|NN finger|NN wrist|NN knee|NN elbow|NN side|NN of|NN body|NN deformity|ST in|NN year|NN 
+ra|NN in|NN people|NN 
+in|NN child|NN disorder|NN skin|NN rash|ST fever|ST pain|ST disability|NN limitation|NN in|NN activity|NN 
+diagnosis|NN treatment|NN individual|NN quality|NN of|NN life|NN ra|NN onset|NN 
+risk|NN factor|NN association|NN arthritis|DS sex|NN family|NN history|NN of|NN rheumatoid|NN arthritis|DS exposure|NN smoke|NN 
+bone|NN erosion|NN arthritis|DS 
+bone|NN erosion|NN feature|NN of|NN arthritis|DS 
+bone|NN action|NN of|NN bone|NN resorb|NN osteoclast|NN bone|NN form|NN osteoblast|NN 
+of|NN trigger|NN of|NN bone|NN erosion|NN in|NN joint|NN in|NN arthritis|DS inflammation|NN of|NN synovium|NN in|NN part|NN production|NN of|NN cytokine|NN receptor|NN activator|NN of|NN factor|NN kappa|NN b|NN ligand|NN rankl|NN cell|NN surface|NN protein|NN in|NN th17|NN cell|NN osteoblast|NN 
+activity|NN osteoblast|NN mechanism|NN 
+lupus|NN lupus|NN common|NN collagen|NN disorder|NN arthritis|DS 
+feature|NN of|NN lupus|NN skin|NN rash|ST photosensitivity|NN hair_loss|DS kidney|NN problem|NN lung|NN fibrosis|NN joint|NN pain|ST 
+gout|NN gout|NN deposition|NN of|NN acid|NN crystal|NN in|NN inflammation|NN 
+form|NN of|NN gouty|NN arthritis|DS formation|NN of|NN crystal|NN of|NN calcium|NN pyrophosphate|NN pseudogout|NN 
+in|NN early|NN stage|NN gouty|NN arthritis|DS in|NN joint|NN time|NN in|NN joint|NN 
+joint|NN in|NN gout|NN function|NN 
+gouty|NN arthritis|DS painful|NN gout|NN 
+acid|NN level|NN gout|NN symptom|NN standard|NN gout|NN medicine|NN production|NN of|NN acid|NN elimination|NN body|NN kidney|NN probenecid|NN refractory|NN chronic|NN gout|NN rcg|NN 
+comparison|NN of|NN type|NN comparison|NN of|NN major|NN form|NN of|NN arthritis|DS osteoarthritis|DS rheumatoid|NN arthritis|DS gouty|NN arthritis|DS speed|NN of|NN onset|NN location|NN month|NN joint|NN knee|NN hip|NN column|NN hand|NN interphalangeal|NN joint|NN ankle|NN knee|NN hip|NN inflammation|NN in|NN arthritis|DS yes|NN hour|NN attack|NN toe|NN ankle|NN knee|NN change|NN space|NN osteosclerosis|NN cyst|NN find|NN none|NN space|NN bone|NN erosion|NN bone|NN erosion|NN anemia|DS esr|NN protein|NN crp|NN factor|NN protein|NN antibody|NN crystal|NN in|NN joint|NN systemic|NN sign|NN bouchard|NN heberden|NN node|NN feature|NN common|NN deviation|NN deformity|ST of|NN hand|NN tophus|NN nephrolithiasis|NN arthritis|DS form|NN of|NN arthritis|DS 
+onset|NN of|NN chills|ST fever|ST pain|ST 
+condition|NN bacteria|NN in|NN body|NN 
+arthritis|DS damage|NN 
+psoriasis|NN arthritis|DS 
+arthritis|DS individual|NN skin|NN problem|NN arthritis|DS 
+feature|NN of|NN joint|NN pain|ST stiffness|NN swelling|ST 
+disease|NN period|NN of|NN remission|NN cure|NN disorder|NN 
+percentage|NN painful|NN form|NN of|NN arthritis|DS joint|NN in|NN hand|NN disability|NN loss|NN of|NN hand|NN function|NN 
+treatment|NN cure|NN rheumatoid|NN osteoarthritis|DS 
+treatment|NN option|NN type|NN of|NN arthritis|DS therapy|NN change|NN exercise|NN weight|NN control|NN brace|NN medication|NN 
+replacement|NN surgery|NN in|NN form|NN of|NN arthritis|DS 
+medication|NN inflammation|NN in|NN pain|ST 
+inflammation|NN damage|NN 
+therapy|NN in|NN study|NN exercise|NN of|NN joint|NN term|NN pain|ST relief|NN 
+exercise|NN of|NN joint|NN health|NN of|NN joint|NN body|NN of|NN person|NN 
+individual|NN arthritis|DS occupational|NN therapy|NN 
+in|NN arthritis|DS joint|NN range|NN of|NN movement|NN 
+therapy|NN function|NN decrease|NN pain|ST need|NN intervention|NN in|NN case|NN 
+exercise|NN therapist|NN medication|NN in|NN osteoarthritis|DS of|NN knee|NN 
+exercise|NN muscle|NN strength|NN endurance|NN flexibility|NN 
+in|NN case|NN exercise|NN balance|NN 
+occupational|NN therapy|NN assistance|NN activity|NN 
+technology|NN tool|NN person|NN disability|NN barrier|NN use|NN of|NN body|NN part|NN amputation|NN 
+technology|NN device|NN patient|NN 
+medication|NN type|NN of|NN medication|NN treatment|NN of|NN arthritis|DS 
+treatment|NN medication|NN side|NN effect|NN medication|NN 
+type|NN of|NN arthritis|DS medication|NN 
+example|NN line|NN treatment|NN osteoarthritis|DS paracetamol|NN arthritis|DS drug|NN nsaid|NN ibuprofen|NN 
+opioids|NN nsaid|NN 
+nsaid|NN safety|NN profile|NN nsaid|NN 
+case|NN of|NN osteoarthritis|DS corticosteroid|NN injection|NN 
+drug|NN arthritis|DS ra|NN range|NN corticosteroid|NN antibody|NN 
+nature|NN of|NN ra|NN treatment|NN pain|ST medication|NN drug|NN category|NN of|NN drug|NN drug|NN dmards|NN 
+treatment|NN dmards|NN down|NN progression|NN of|NN ra|NN immune|NN response|NN in|NN part|NN t|NN helper|NN th|NN cell|NN cell|NN 
+th17|NN cell|NN in|NN quantity|NN site|NN of|NN bone|NN destruction|NN in|NN joint|NN cytokine|NN inflammation|NN 
+surgery|NN number|NN of|NN intervention|NN in|NN treatment|NN of|NN arthritis|DS 
+arthroscopic|NN surgery|NN osteoarthritis|DS of|NN knee|NN benefit|NN therapy|NN 
+aid|NN people|NN hand|NN arthritis|DS trouble|NN activity|NN of|NN live|NN task|NN adls|NN key|NN in|NN lock|NN open|NN jar|NN activity|NN painful|NN 
+aid|NN device|NN ad|NN task|NN product|NN function|NN 
+print|NN aid|NN source|NN hardware|NN patient|NN cost|NN 
+aid|NN arthritis|DS patient|NN majority|NN of|NN arthritis|DS 
+medicine|NN research|NN nerve|NN stimulation|NN ten|NN knee|NN osteoarthritis|DS pain|ST 
+level|NN laser|NN therapy|NN relief|NN of|NN pain|ST stiffness|NN arthritis|DS 
+evidence|NN of|NN benefit|NN 
+field|NN therapy|NN evidence|NN function|NN evidence|NN of|NN pain|ST in|NN osteoarthritis|DS 
+fda|NN pemf|NN treatment|NN of|NN arthritis|DS 
+in|NN canada|NN pemf|NN device|NN health|NN canada|NN treatment|NN of|NN pain|ST condition|NN 
+epidemiology|NN arthritis|DS disease|NN of|NN child|NN disease|NN 
+arthritis|DS common|NN in|NN woman|NN men|NN age|NN race|NN group|NN culture|NN 
+in|NN cdc|NN survey|NN data|NN adult|NN arthritis|DS of|NN arthritis|DS activity|NN limitation|NN aaal|NN 
+population|NN number|NN 
+adult|NN condition|NN heart|NN disease|NN diabetes|DS obesity|NN prevalence|NN of|NN arthritis|DS 
+disability|NN disorder|NN of|NN osteoarthritis|DS major|NN health|NN condition|NN 
+report|NN prevalence|NN of|NN condition|NN data|NN africa|NN 
+review|NN prevalence|NN of|NN arthritis|DS in|NN africa|NN study|NN 
+majority|NN of|NN study|NN twelve|NN africa|NN 
+study|NN study|NN of|NN quality|NN study|NN 
+result|NN of|NN review|NN arthritis|DS in|NN algeria|NN set|NN in|NN republic|NN of|NN congo|NN set|NN in|NN set|NN in|NN in|NN egypt|NN set|NN in|NN lesotho|NN set|NN osteoarthritis|DS in|NN africa|NN set|NN in|NN african|NN year|NN knee|NN osteoarthritis|DS prevalence|NN type|NN of|NN osteoarthritis|DS in|NN south|NN spondylitis|NN in|NN africa|NN set|NN arthritis|DS in|NN africa|NN set|NN gout|NN in|NN africa|NN set|NN juvenile|NN arthritis|DS in|NN egypt|NN history|NN evidence|NN of|NN osteoarthritis|DS arthritis|DS in|NN dinosaur|NN 
+trace|NN of|NN human|NN arthritis|DS date|NN back|NN bc|NN 
+in|NN early|NN report|NN arthritis|DS common|NN ailment|NN of|NN people|NN 
+in|NN remain|NN of|NN american|NN in|NN tennessee|NN part|NN of|NN kansa|NN 
+evidence|NN of|NN arthritis|DS history|NN ötzi|NN mummy|NN bc|NN border|NN of|NN italy|NN austria|NN mummy|NN bc|NN 
+in|NN edition|NN of|NN work|NN symptomatica|NN arthritis|DS effect|NN 
+jacob|NN resident|NN physician|NN saltpêtrière|NN asylum|NN in|NN france|NN person|NN symptom|NN of|NN arthritis|DS 
+classification|NN of|NN arthritis|DS relative|NN of|NN gout|NN dissertation|NN others|NN disease|NN 
+terminology|NN term|NN ancient|NN greek|NN ἄρθρον|NN árthron|NN light|NN 
+limb|NN itis|NN light|NN 
+suffix|NN inflammation|NN 
+word|NN group|NN of|NN condition|NN 
+see|NN arthritis|DS care|NN charity|NN in|NN uk|NN arthritis|DS foundation|NN knee|NN arthritis|DS osteoimmunology|NN weather|NN reference|NN 1|NN 
+arthritis|DS definition|NN picture|NN pronunciation|NN note|NN learner|NN http|NN 
+december|NN 
+2|NN 
+arthritis|DS disease|NN http|NN 
+niams|NN 
+http|NN september|NN 
+arthritis|DS type|NN http|NN 
+cdc|NN 
+june|NN http|NN september|NN september|NN 
+athanasiou|NN darling|NN hu|NN jerry|NN duraine|NN grayson|NN reddi|NN hari|NN 
+cartilage|NN http|NN pa105|NN 
+press|NN 
+isbn|NN http|NN 
+arthritis|DS basic|NN http|NN 
+cdc|NN 
+http|NN september|NN september|NN 
+live|NN arthritis|DS health|NN information|NN basic|NN family|NN http|NN 
+niams|NN 
+http|NN september|NN 
+arthritis|DS overview|NN http|NN 
+orthoinfo|NN 
+http|NN september|NN september|NN 
+arthritis|DS http|NN 
+cdc|NN 
+http|NN september|NN september|NN 
+march|NN l|NN smith|NN eu|NN hoy|NN dg|NN cross|NN mj|NN l|NN blyth|NN f|NN buchbinder|NN r|NN vos|NN t|NN woolf|NN ad|NN 
+burden|NN of|NN disability|NN msk|NN disorder|NN 
+practice|NN research|NN 
+rheumatology|NN 
+http|NN 
+pmid|NN http|NN 
+richette|NN p|NN bardin|NN t|NN 
+gout|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+health|NN survey|NN http|NN opendocument|NN 
+ab|NN 
+december|NN http|NN ab|NN ment|NN 
+pirotta|NN m|NN 
+arthritis|DS disease|NN use|NN of|NN therapy|NN 
+family|NN physician|NN 
+pmid|NN http|NN 
+waite|NN maurice|NN ed|NN 
+paperback|NN oxford|NN dictionary|NN http|NN book|NN 
+oup|NN oxford|NN 
+isbn|NN http|NN id|NN 
+pc|NN 
+terminology|NN http|NN ok|NN 
+health|NN science|NN 
+isbn|NN 
+guandalini|NN s|NN mar|NN 
+disease|NN review|NN 
+jama|NN pediatr|NN 
+http|NN 
+pmid|NN http|NN 
+fasano|NN sapone|NN zevallos|NN v|NN d|NN 
+gluten|NN sensitivity|NN 
+gastroenterology|NN 
+http|NN 
+pmid|NN http|NN 
+volta|NN u|NN caio|NN g|NN r|NN henriksen|NN c|NN g|NN ke|NN 
+sensitivity|NN entity|NN in|NN spectrum|NN of|NN disorder|NN 
+pract|NN gastroenterol|NN 
+http|NN 
+pmid|NN http|NN 
+catassi|NN c|NN j|NN bonaz|NN b|NN bouma|NN g|NN carroccio|NN castillejo|NN g|NN ciacci|NN c|NN f|NN j|NN francavilla|NN r|NN l|NN p|NN w|NN koehler|NN p|NN s|NN c|NN sander|NN m|NN schuppan|NN d|NN r|NN volta|NN u|NN zevallos|NN v|NN sapone|NN fasano|NN 
+sensitivity|NN frontier|NN of|NN gluten|NN disorder|NN http|NN 
+nutrient|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+j|NN zeidler|NN h|NN 
+arthritis|DS arthritis|DS 
+opinion|NN in|NN rheumatology|NN 
+s|NN 
+pmid|NN http|NN 
+swash|NN m|NN glynn|NN ed|NN 
+hutchison|NN method|NN 
+edinburgh|NN 
+saunders|NN 
+arthritis|DS nation|NN common|NN cause|NN of|NN disability|NN http|NN http|NN wayback|NN machine|NN center|NN disease|NN prevention|NN health|NN promotion|NN 
+arthritis|DS nation|NN common|NN cause|NN of|NN disability|NN http|NN http|NN wayback|NN machine|NN center|NN disease|NN control|NN 
+cost|NN of|NN condition|NN in|NN estimate|NN report|NN http|NN 
+arthritis|DS heart|NN disease|NN risk|NN atherosclerosis|DS heart|NN attack|NN ttp|NN 
+http|NN 
+depression|ST rheumatoid|NN arthritis|DS http|NN 
+http|NN p|NN 
+arthritis|DS 
+arthritis|DS research|NN uk|NN http|NN 
+http|NN 
+nancy|NN garrick|NN director|NN 
+rheumatoid|NN arthritis|DS http|NN 
+institute|NN of|NN arthritis|DS musculoskeletal|NN skin|NN disease|NN 
+vanitallie|NN tb|NN 
+gout|NN epitome|NN of|NN painful|NN arthritis|DS 
+metab|NN 
+clin|NN 
+exp|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+pereira|NN duarte|NN ramos|NN branco|NN jaime|NN 
+osteoarthritis|DS 
+acta|NN medica|NN portuguesa|NN 
+1|NN 
+http|NN 
+pmid|NN p|NN 
+zhang|NN y|NN jordan|NN j|NN 
+epidemiology|NN of|NN osteoarthritis|DS http|NN 
+clin|NN geriatr|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+h|NN s|NN hattori|NN h|NN ishigatsubo|NN y|NN 
+bone|NN erosion|NN in|NN arthritis|DS reduction|NN in|NN disease|NN activity|NN drug|NN http|NN 
+arthritis|DS research|NN therapy|NN 
+r76|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rheumatoid|NN arthritis|DS ra|NN arthritis|DS cdc|NN http|NN 
+question|NN faq|NN arthritis|DS cdc|NN http|NN 
+staff|NN familydoctor|NN editorial|NN 
+arthritis|DS 
+symptom|NN treatment|NN http|NN 
+deane|NN kevin|NN kelmenson|NN jill|NN holers|NN michael|NN 
+risk|NN factor|NN rheumatoid|NN arthritis|DS http|NN 
+practice|NN research|NN rheumatology|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+chabaud|NN m|NN garnero|NN p|NN dayer|NN jm|NN pa|NN fossiez|NN f|NN miossec|NN p|NN 
+contribution|NN of|NN destruction|NN in|NN arthritis|DS 
+cytokine|NN 
+http|NN 
+pmid|NN http|NN 
+hy|NN ja|NN park|NN z|NN song|NN j|NN hy|NN jang|NN sm|NN se|NN rhee|NN y|NN hwang|NN e|NN bae|NN ma|NN 
+bone|NN loss|NN rankl|NN t|NN cell|NN in|NN mouse|NN http|NN 
+plo|NN 
+e18168|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+arthritis|DS diagnosis|NN http|NN becker|NN 
+arthritis|DS condition|NN textbook|NN of|NN rheumatology|NN edition|NN lippincott|NN williams|NN wilkins|NN 
+pp|NN 
+s|NN 
+treatment|NN failure|NN gout|NN 
+medicine|NN health|NN rhode|NN island|NN 
+citeseerx|NN http|NN 
+pmid|NN http|NN 
+in|NN box|NN reference|NN agabegi|NN 
+http|NN icine0000agab|NN 
+series|NN 
+hagerstwon|NN md|NN lippincott|NN wilkins|NN 
+p|NN 
+diagnosis|NN lag|NN time|NN of|NN week|NN diagnosis|NN lag|NN time|NN of|NN week|NN chan|NN kw|NN felson|NN dt|NN yood|NN ra|NN walker|NN 
+lag|NN time|NN onset|NN of|NN symptom|NN diagnosis|NN of|NN rheumatoid|NN arthritis|DS 
+arthritis|DS rheumatism|DS 
+http|NN 
+pmid|NN http|NN 
+schaider|NN jeffrey|NN wolfson|NN allan|NN w|NN hendey|NN ling|NN l|NN rosen|NN 
+practice|NN of|NN emergency|NN medicine|NN practice|NN of|NN emergency|NN medicine|NN http|NN 
+hagerstwon|NN md|NN lippincott|NN wilkins|NN 
+pp|NN 
+right|NN of|NN page|NN 
+http|NN 
+arthritis|DS disease|NN fact|NN http|NN http|NN wayback|NN machine|NN arthritis|DS http|NN 
+wayback|NN machine|NN mayo|NN clinic|NN 
+ettinger|NN wh|NN burn|NN r|NN sp|NN applegate|NN w|NN wj|NN t|NN shumaker|NN s|NN berry|NN mj|NN m|NN j|NN t|NN 
+trial|NN exercise|NN resistance|NN exercise|NN health|NN education|NN program|NN in|NN adult|NN knee|NN osteoarthritis|DS 
+fitness|NN arthritis|DS senior|NN trial|NN fast|NN 
+jama|NN journal|NN of|NN association|NN 
+1|NN 
+tps|NN 
+pmid|NN http|NN 
+m|NN crosbie|NN j|NN j|NN 
+therapy|NN patient|NN osteoarthritis|DS of|NN knee|NN randomize|NN trial|NN http|NN 
+rheumatol|NN 
+1|NN 
+pmid|NN http|NN 
+role|NN of|NN occupational|NN therapy|NN in|NN technology|NN device|NN service|NN http|NN 
+arthritis|DS drug|NN http|NN 
+http|NN july|NN 
+reid|NN mc|NN r|NN parker|NN sj|NN 
+management|NN of|NN pain|ST in|NN adult|NN http|NN 
+journal|NN of|NN nurse|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+lynch|NN 
+diagnosis|NN treatment|NN of|NN osteoarthritis|DS 
+care|NN clinic|NN in|NN office|NN practice|NN 
+http|NN 
+pmid|NN http|NN 
+kurebayashi|NN y|NN s|NN koyasu|NN s|NN 
+advance|NN in|NN mechanism|NN of|NN development|NN function|NN of|NN th17|NN cell|NN http|NN 
+gene|NN cell|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kirkley|NN birmingham|NN tb|NN litchfield|NN rb|NN giffin|NN jr|NN kr|NN cj|NN bg|NN donner|NN griffin|NN sh|NN lm|NN pope|NN je|NN fowler|NN pj|NN 
+trial|NN of|NN arthroscopic|NN surgery|NN osteoarthritis|DS of|NN knee|NN 
+engl|NN 
+http|NN 
+pmid|NN http|NN 
+arthritis|DS gadget|NN arthritis|DS center|NN health|NN http|NN 
+print|NN offer|NN hand|NN people|NN arthritis|DS http|NN 
+orthofeed|NN 
+gallup|NN n|NN bow|NN jk|NN pearce|NN jm|NN 
+potential|NN manufacture|NN of|NN aid|NN arthritis|DS patient|NN in|NN http|NN 
+geriatrics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+yeung|NN kt|NN lin|NN ch|NN teng|NN yl|NN chen|NN ff|NN sz|NN chen|NN cl|NN 
+use|NN of|NN perceive|NN device|NN in|NN individual|NN disability|NN in|NN taiwan|NN http|NN 
+plo|NN 
+e0152707|NN 
+http|NN y|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rutjes|NN aw|NN e|NN r|NN kalichman|NN l|NN hendriks|NN e|NN m|NN brosseau|NN l|NN reichenbach|NN s|NN jüni|NN p|NN 
+electrostimulation|NN osteoarthritis|DS of|NN knee|NN http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN cd002823|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+brosseau|NN l|NN welch|NN v|NN g|NN tugwell|NN p|NN r|NN harman|NN k|NN shea|NN b|NN morin|NN m|NN 
+level|NN laser|NN therapy|NN osteoarthritis|DS arthritis|DS metaanalysis|NN 
+journal|NN of|NN rheumatology|NN 
+pmid|NN http|NN 
+brosseau|NN l|NN robinson|NN v|NN g|NN debie|NN r|NN harman|NN k|NN m|NN shea|NN b|NN tugwell|NN p|NN 
+level|NN laser|NN therapy|NN class|NN ii|NN iii|NN rheumatoid|NN arthritis|DS 
+cochrane|NN database|NN of|NN review|NN cd002049|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+p|NN f|NN o|NN dorotka|NN r|NN 
+effectiveness|NN of|NN field|NN therapy|NN in|NN management|NN of|NN osteoarthritis|DS of|NN knee|NN analysis|NN of|NN trial|NN 
+journal|NN of|NN rehabilitation|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+juvenile|NN arthritis|DS encyclopedia|NN http|NN 
+barbour|NN kamil|NN helmick|NN michael|NN j|NN 
+sign|NN prevalence|NN of|NN arthritis|DS activity|NN limitation|NN state|NN http|NN 
+mmwr|NN 
+morbidity|NN mortality|NN report|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+country|NN collaboration|NN 
+gbd|NN country|NN result|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+usenbo|NN kramer|NN v|NN t|NN 
+prevalence|NN of|NN arthritis|DS in|NN africa|NN review|NN http|NN pmc4524637|NN 
+plo|NN 
+e0133858|NN 
+http|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+joel|NN delisa|NN gans|NN nicholas|NN walsh|NN 
+medicine|NN rehabilitation|NN principle|NN practice|NN http|NN c|NN 
+lippincott|NN wilkins|NN 
+pp|NN 
+http|NN ycvkoc|NN 
+blumberg|NN b|NN sokoloff|NN l|NN 
+coalescence|NN of|NN vertebra|NN in|NN dinosaur|NN diplodocus|NN 
+arthritis|DS rheum|NN 
+http|NN 
+pmid|NN http|NN 
+bridge|NN 
+arthritis|DS in|NN america|NN 
+review|NN of|NN anthropology|NN 
+http|NN 
+arthritis|DS history|NN http|NN http|NN 
+aspx|NN wayback|NN machine|NN news|NN alick|NN cameron|NN musgrave|NN william|NN dictionary|NN of|NN biography|NN oxford|NN university|NN press|NN entezami|NN p|NN da|NN clapham|NN pj|NN chung|NN kc|NN 
+perspective|NN etiology|NN of|NN rheumatoid|NN arthritis|DS http|NN 
+hand|NN clinic|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+link|NN arthritis|DS http|NN college|NN of|NN rheumatology|NN http|NN society|NN of|NN rheumatologist|NN institute|NN of|NN arthritis|DS musculoskeletal|NN skin|NN disease|NN http|NN classification|NN d|NN http|NN m14|NN http|NN http|NN http|NN http|NN 
+p|NN hx|NN d001168|NN tps|NN ter|NN diseasesdb|NN http|NN medlineplus|NN http|NN emedicine|NN s|NN resource|NN institute|NN of|NN arthritis|DS musculoskeletal|NN skin|NN disease|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

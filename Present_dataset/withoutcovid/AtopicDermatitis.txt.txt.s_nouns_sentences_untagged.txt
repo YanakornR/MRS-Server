@@ -1,0 +1,44 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN atopic_dermatitis|DS name|NN atopic_dermatitis|DS atopic_dermatitis|DS atopic_dermatitis|DS atopic_dermatitis|DS atopic_dermatitis|DS atopic_dermatitis|DS crease|NN elbow|NN 
+symptom|NN skin|NN complication|NN skin|NN infection|NN hay|NN fever|ST asthma|DS onset|NN childhood|NN cause|NN risk|NN factor|NN family|NN history|NN live|NN city|NN climate|NN method|NN symptom|NN rule|NN cause|NN diagnosis|NN contact_dermatitis|DS psoriasis|DS dermatitis|NN treatment|NN thing|NN condition|NN bath|NN cream|NN steroid|NN cream|NN flare|NN frequency|NN time|NN 
+atopic_dermatitis|DS atopic_dermatitis|DS atopic_dermatitis|DS type|NN inflammation|NN skin|NN dermatitis|NN skin|NN fluid|NN area|NN time|NN condition|NN age|NN childhood|NN severity|NN year|NN children|NN year|NN age|NN body|NN children|NN back|NN knee|NN front|NN elbow|NN area|NN adult|NN hand|NN feet|NN area|NN symptom|NN people|NN risk|NN skin|NN infection|NN people|NN atopic_dermatitis|DS hay|NN fever|ST asthma|DS 
+cause|NN genetics|NN system|NN dysfunction|NN exposure|NN difficulty|NN permeability|NN skin|NN twin|NN chance|NN condition|NN city|NN climate|NN exposure|NN chemical|NN hand|NN wash|NN symptom|NN stress|NN symptom|NN cause|NN disorder|NN diagnosis|NN sign|NN symptom|NN disease|NN diagnosis|NN contact_dermatitis|DS psoriasis|DS dermatitis|NN 
+treatment|NN thing|NN condition|NN bath|NN application|NN cream|NN cream|NN flare|NN medication|NN thing|NN wool|NN cloth|NN soap|NN perfume|NN chlorine|NN dust|NN cigarette|NN smoke|NN people|NN pill|NN cream|NN inhibitor|NN measure|NN antibiotics|NN mouth|NN infection|NN change|NN food|NN allergy|NN 
+atopic_dermatitis|DS people|NN point|NN live|NN children|NN male|NN female|NN people|NN condition|NN atopic_dermatitis|DS eczema|DS term|NN group|NN skin|NN condition|NN name|NN atopic_dermatitis|DS eczema|DS atopic_dermatitis|DS atopic_dermatitis|DS atopic_dermatitis|DS content|NN 
+sign|NN symptom|NN cause|NN genetics|NN hygiene|NN hypothesis|NN role|NN staphylococcus|NN aureus|NN water|NN diagnosis|NN treatment|NN lifestyle|NN diet|NN light|NN medicine|NN epidemiology|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN pattern|NN atopic_dermatitis|DS age|NN 
+people|NN atopic_dermatitis|DS skin|NN body|NN area|NN red|NN lesion|NN form|NN bend|NN arm|NN leg|NN face|NN neck|NN 
+atopic_dermatitis|DS eyelid|NN sign|NN fold|NN fissure|NN pigmentation|NN hyperpigmentation|NN neck|NN neck|NN appearance|NN 
+excoriation|NN erosion|NN crust|NN trunk|NN infection|NN 
+distribution|NN edge|NN hyperlinearity|NN wrist|NN finger|NN knuckle|NN ankle|NN feet|NN hand|NN cause|NN 
+cause|NN atopic_dermatitis|DS evidence|NN factor|NN genetics|NN 
+people|NN atopic_dermatitis|DS family|NN history|NN 
+reaction|NN type|NN hypersensitivity|DS reaction|NN asthma|DS food|NN allergy|NN atopic_dermatitis|DS hay|NN fever|ST 
+people|NN atopic_dermatitis|DS mutation|NN gene|NN production|NN filaggrin|NN increase|NN risk|NN onset|NN atopic_dermatitis|DS asthma|DS hygiene|NN hypothesis|NN 
+hygiene|NN hypothesis|NN children|NN allergen|NN environment|NN age|NN system|NN children|NN environment|NN allergen|NN age|NN allergy|NN 
+support|NN hypothesis|NN respect|NN atopic_dermatitis|DS dog|NN risk|NN atopic_dermatitis|DS support|NN study|NN role|NN helminth|NN atopic_dermatitis|DS children|NN hygiene|NN risk|NN atopic_dermatitis|DS children|NN milk|NN 
+percentage|NN case|NN atopic_dermatitis|DS sensitization|NN food|NN exposure|NN allergen|NN food|NN environment|NN atopic_dermatitis|DS exposure|NN dust|NN mite|NN example|NN risk|NN atopic_dermatitis|DS diet|NN fruit|NN effect|NN atopic_dermatitis|DS opposite|NN food|NN atopic_dermatitis|DS disease|NN gluten|NN sensitivity|NN improvement|NN diet|NN gluten|NN agent|NN case|NN role|NN staphylococcus|NN aureus|NN 
+colonization|NN skin|NN bacterium|NN aureus|NN atopic_dermatitis|DS study|NN abnormality|NN skin|NN barrier|NN person|NN atopic_dermatitis|DS s|NN aureus|NN trigger|NN cytokine|NN expression|NN condition|NN water|NN 
+atopic_dermatitis|DS children|NN level|NN calcium|NN carbonate|NN hardness|NN household|NN water|NN drink|NN find|NN children|NN united|NN kingdom|NN spain|NN japan|NN pathophysiology|NN 
+pathophysiology|NN mixture|NN type|NN type|NN hypersensitivity|DS reaction|NN diagnosis|NN 
+atopic_dermatitis|DS mean|NN sign|NN symptom|NN test|NN form|NN criteria|NN research|NN aid|NN diagnosis|NN uk|NN criteria|NN work|NN hanifin|NN rajka|NN uk|NN criteria|NN people|NN skin|NN evidence|NN rub|NN scratch|NN skin|NN crease|NN dermatitis|NN front|NN ankle|NN popliteal|NN skin|NN eye|NN neck|NN cheek|NN children|NN history|NN asthma|DS rhinitis|NN family|NN history|NN condition|NN patient|NN child|NN 
+year|NN symptom|NN age|NN patient|NN 
+year|NN history|NN skin|NN year|NN dermatitis|NN surface|NN patient|NN 
+age|NN cheek|NN forehead|NN extensor|NN surface|NN treatment|NN 
+cure|NN atopic_dermatitis|DS treatment|NN severity|NN frequency|NN flare|NN lifestyle|NN 
+moisturiser|NN skin|NN need|NN medication|NN person|NN improvement|NN skin|NN hydration|NN parallel|NN improvement|NN atopic_dermatitis|DS symptom|NN 
+health|NN professional|NN person|NN atopic_dermatitis|DS bath|NN salt|NN water|NN skin|NN cloth|NN atopic_dermatitis|DS 
+silk|NN cloth|NN bleach|NN bath|NN atopic_dermatitis|DS diet|NN 
+role|NN vitamin|NN atopic_dermatitis|DS evidence|NN vitamin|NN d|NN supplementation|NN symptom|NN 
+study|NN role|NN chain|NN acid|NN supplementation|NN status|NN prevention|NN treatment|NN disease|NN result|NN 
+intake|NN acid|NN role|NN acid|NN consumption|NN disease|NN 
+probiotics|NN effect|NN reduction|NN rate|NN atopic_dermatitis|DS evidence|NN strain|NN bacteria|NN 
+people|NN disease|NN gluten|NN sensitivity|NN gluten|NN diet|NN symptom|NN occurrence|NN outbreak|NN 
+corticosteroid|NN atopic_dermatitis|DS corticosteroid|NN moisturiser|NN treatment|NN inhibitor|NN tacrolimus|NN use|NN study|NN risk|NN skin|NN cancer|DS lymphoma|DS meta-analysis|NN pimecrolimus|NN corticosteroid|NN tacrolimus|NN meta-analysis|NN tacrolimus|NN picrolemus|NN dose|NN corticosteroid|NN evidence|NN risk|NN malignancy|NN skin|NN atrophy|DS alternative|NN interferon|NN mofetil|NN azathioprine|NN control|NN pruritus|NN crisaborole|NN treatment|NN eczema|DS 2017|NN agent|NN eczema|DS 
+evidence|NN allergy|NN atopic_dermatitis|DS quality|NN evidence|NN treatment|NN series|NN injection|NN drop|NN tongue|NN solution|NN allergen|NN 
+antibiotics|NN mouth|NN target|NN overgrowth|NN staphylococcus|NN aureus|NN skin|NN people|NN atopic_dermatitis|DS 
+meta-analysis|NN evidence|NN benefit|NN light|NN 
+form|NN treatment|NN exposure|NN light|NN 
+radiation|NN exposure|NN immunomodulatory|NN effect|NN tissue|NN severity|NN frequency|NN flare|NN usage|NN uva1|NN flare|NN uvb|NN management|NN scenario|NN radiation|NN type|NN skin|NN cancer|DS treatment|NN risk|NN alternative|NN medicine|NN 
+medicine|NN atopic_dermatitis|DS evidence|NN treatment|NN mouth|NN severity|NN eczema|DS children|NN adult|NN epidemiology|NN 
+begine|NN century|NN disorder|NN atopic_dermatitis|DS example|NN disease|NN 
+children|NN adult|NN country|NN united|NN states|NN year|NN adult|NN children|NN atopic_dermatitis|DS research|NN evidence|NN pathogenesis|NN atopic_dermatitis|DS rationale|NN inhibitor|NN people|NN atopic_dermatitis|DS staphylococcus|NN aureus|NN live|NN role|NN play|NN pathogenesis|NN 

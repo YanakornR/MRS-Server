@@ -1,0 +1,297 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN Stroke|Disease disambiguation|NN
+Stroke|Disease name|NN Stroke|Disease Stroke|Disease Stroke|Disease Stroke|Disease Stroke|Disease mca|NP territory|NN ct|NN scan|NN brain|NN right-side|NN Stroke|Disease blockage|NN artery|NN
+change|NN ct|NN symptom|NN inability|NN move|NN side|NN body|NN problem|NN understand|NN dizziness|NN loss|NN vision|NN side|NN complication|NN state|NN cause|NN blockage|NN risk|NN factor|NN blood|NN pressure|NN tobacco|NN smoke|NN obesity|NN blood|NN cholesterol|NN diabete|NN mellitus|NN fibrillation|NN method|NN symptom|NN image|NN rule|NN diagnosis|NN blood|NN sugar|NN treatment|NN type|NN life|NN expectancy|NN year|NN frequency|NN death|NN
+Stroke|Disease condition|NN blood|NN flow|NN brain|NN result|NN cell|NN death|NN type|NN Stroke|Disease due|NN lack|NN blood|NN flow|NN due|NN result|NN part|NN brain|NN sign|NN symptom|NN Stroke|Disease inability|NN side|NN body|NN problem|NN understand|NN dizziness|NN loss|NN vision|NN side|NN sign|NN symptom|NN Stroke|Disease symptom|NN hour|NN ischemic|NN attack|NN Stroke|Disease Stroke|Disease headache|NN symptom|NN Stroke|Disease complication|NN pneumonia|NN loss|NN bladder|NN control|NN
+risk|NN factor|NN Stroke|Disease blood|NN pressure|NN risk|NN factor|NN tobacco|NN smoke|NN obesity|NN blood|NN cholesterol|NN diabete|NN mellitus|NN tia|NN fibrillation|NN Stroke|Disease blockage|NN blood|NN vessel|NN cause|NN Stroke|Disease brain|NN space|NN brain|NN membrane|NN brain|NN aneurysm|NN diagnosis|NN exam|NN image|NN ct|NN scan|NN scan|NN ct|NN scan|NN ct|NN scan|NN test|NN electrocardiogram|NN ecg|NN blood|NN test|NN risk|NN factor|NN rule|NN cause|NN blood|NN sugar|NN symptom|NN
+prevention|NN risk|NN factor|NN aspirin|NN surgery|NN artery|NN brain|NN narrow|NN warfarin|NN fibrillation|NN Stroke|Disease emergency|NN care|NN ischemic|NN Stroke|Disease hour|NN medication|NN clot|NN aspirin|NN Stroke|Disease benefit|NN surgery|NN treatment|NN function|NN Stroke|Disease rehabilitation|NN place|NN Stroke|Disease unit|NN world|NN
+people|NN ischemic|NN Stroke|Disease people|NN Stroke|Disease people|NN Stroke|Disease number|NN Stroke|Disease year|NN world|NN world|NN Stroke|Disease second|NN cause|NN death|NN artery|NN disease|NN account|NN death|NN total|NN death|NN Stroke|Disease death|NN Stroke|Disease people|NN Stroke|Disease year|NN Stroke|Disease year|NN content|NN
+classification|NN definition|NN sign|NN symptom|NN recognition|NN symptom|NN cause|NN Stroke|Disease Stroke|Disease hypoperfusion|NN thrombosis|NN Stroke|Disease diagnosis|NN examination|NN image|NN cause|NN prevention|NN risk|NN factor|NN women|NN Stroke|Disease management|NN Stroke|Disease Stroke|Disease Stroke|Disease unit|NN rehabilitation|NN epidemiology|NN history|NN research|NN stent|NN reference|NN read|NN link|NN
+classification|NN category|NN Stroke|Disease
+top|NN blood|NN clot|NN artery|NN brain|NN death|NN area|NN
+bottom|NN blood|NN leak|NN brain|NN blood|NN vessel|NN blood|NN pool|NN area|NN pressure|NN brain|NN
+slice|NN brain|NN autopsy|NN person|NN middle|NN artery|NN mca|NP Stroke|Disease
+Stroke|Disease category|NN Stroke|Disease interruption|NN blood|NN supply|NN brain|NN Stroke|Disease result|NN rupture|NN blood|NN vessel|NN structure|NN
+Stroke|Disease rest|NN
+area|NN ischemia|NN condition|NN transformation|NN
+hemorrhagic|NN Stroke|Disease Stroke|Disease definition|NN
+world|NN health|NN organization|NN Stroke|Disease deficit|NN cause|NN hour|NN death|NN hour|NN word|NN Stroke|Disease century|NN
+definition|NN reversibility|NN tissue|NN damage|NN purpose|NN time|NN frame|NN hour|NN
+limit|NN Stroke|Disease attack|NN syndrome|NN Stroke|Disease symptom|NN hour|NN availability|NN treatment|NN Stroke|Disease severity|NN terminology|NN Stroke|Disease syndrome|NN heart|NN attack|NN syndrome|NN urgency|NN Stroke|Disease symptom|NN need|NN article|NN infarction|NN brain|NN
+ischemic|NN Stroke|Disease blood|NN supply|NN part|NN brain|NN dysfunction|NN brain|NN tissue|NN area|NN
+obstruction|NN blood|NN vessel|NN blood|NN clot|NN obstruction|NN embolus|NN body|NN decrease|NN blood|NN supply|NN shock|NN sinus|NN thrombosis|NN
+Stroke|Disease explanation|NN origin|NN ischemic|NN Stroke|Disease
+classification|NN system|NN ischemic|NN Stroke|Disease
+oxford|NP community|NN Stroke|Disease project|NN classification|NN bamford|NP oxford|NP classification|NN symptom|NN extent|NN symptom|NN Stroke|Disease episode|NN circulation|NN infarct|NN circulation|NN infarct|NN infarct|NN circulation|NN infarct|NN
+entity|NN extent|NN Stroke|Disease area|NN brain|NN cause|NN prognosis|NN toast|NN trial|NN 10172|NN Stroke|Disease treatment|NN classification|NN symptom|NN result|NN investigation|NN basis|NN Stroke|Disease thrombosis|NN embolism|NN atherosclerosis|NN artery|NN embolism|NN heart|NN blockage|NN blood|NN vessel|NN cause|NN cause|NN cause|NN cause|NN investigation|NN user|NN stimulant|NN cocaine|NN risk|NN Stroke|Disease article|NN hemorrhage|NN ct|NN scan|NN bleed|NN bottom|NN arrow|NN arrow|NN
+type|NN Stroke|Disease
+hemorrhage|NN brain|NN artery|NN brain|NN burst|NN tissue|NN blood|NN intraparenchymal|NN brain|NN tissue|NN bleed|NN brain|NN system|NN
+hemorrhage|NN brain|NN tissue|NN skull|NN mater|NN mater|NN layer|NN layer|NN meninge|NN brain|NN
+type|NN Stroke|Disease form|NN hemorrhage|NN accumulation|NN blood|NN vault|NN form|NN hemorrhage|NN skull|NN mater|NN layer|NN meninge|NN brain|NN bleed|NN space|NN Stroke|Disease
+Stroke|Disease background|NN alteration|NN blood|NN vessel|NN brain|NN amyloid|NN arteriovenous|NN malformation|NN aneurysm|NN hemorrhage|NN
+addition|NN impairment|NN Stroke|Disease symptom|NN instance|NN headache|NN headache|NN evidence|NN head|NN injury|NN
+sign|NN symptom|NN
+Stroke|Disease symptom|NN second|NN minute|NN case|NN
+symptom|NN area|NN brain|NN
+area|NN brain|NN function|NN
+form|NN Stroke|Disease symptom|NN
+example|NN hemorrhage|NN area|NN structure|NN
+form|NN Stroke|Disease headache|NN hemorrhage|NN thrombosis|NN hemorrhage|NN
+citation|NN recognition|NN
+system|NN increase|NN recognition|NN Stroke|Disease
+find|NN presence|NN absence|NN Stroke|Disease degree|NN
+face|NN weakness|NN arm|NN drift|NN person|NN arm|NN arm|NN drift|NN speech|NN find|NN identification|NN case|NN Stroke|Disease likelihood|NN
+likelihood|NN Stroke|Disease likelihood|NN ratio|NN 039|NN find|NN Stroke|Disease fact|NN set|NN
+mnemonic|NN warn|NN sign|NN Stroke|Disease droop|NN arm|NN weakness|NN speech|NN difficulty|NN time|NN emergency|NN service|NN department|NN health|NN united|NP kingdom|NP Stroke|Disease association|NN Stroke|Disease association|NN Stroke|Disease association|NN los|NP angeles|NP Stroke|Disease screen|NN cincinnati|NP prehospital|NN Stroke|Disease scale|NN use|NN scale|NN guideline|NN
+people|NN emergency|NN room|NN recognition|NN Stroke|Disease test|NN treatment|NN
+score|NN system|NN recognition|NN Stroke|Disease emergency|NN room|NN purpose|NN feature|NN history|NN examination|NN
+area|NN brain|NN system|NN tract|NN tract|NN columnmedial|NN pathway|NN symptom|NN
+muscle|NN weakness|NN face|NN numbness|NN reduction|NN sensation|NN initial|NN muscle|NN tone|NN spasticity|NN muscle|NN tone|NN reflexe|NN synergy|NN
+case|NN symptom|NN side|NN body|NN
+part|NN brain|NN defect|NN brain|NN side|NN body|NN
+pathway|NN cord|NN lesion|NN symptom|NN presence|NN symptom|NN Stroke|Disease
+addition|NN cns|NP pathway|NN brainstem|NN rise|NN nerve|NN
+brainstem|NN Stroke|Disease brainstem|NN brain|NN symptom|NN deficit|NN nervescitation|NN
+smell|NN taste|NN hear|NN vision|NN total|NN eyelid|NN weakness|NN muscle|NN reflexe|NN gag|NN swallow|NN pupil|NN reactivity|NN sensation|NN muscle|NN weakness|NN face|NN balance|NN problem|NN breath|NN heart|NN rate|NN weakness|NN muscle|NN inability|NN turn|NN head|NN side|NN weakness|NN tongue|NN inability|NN stick|NN tongue|NN side|NN side|NN
+cortex|NN cns|NP pathway|NN symptom|NN
+aphasia|NN difficulty|NN expression|NN comprehension|NN read|NN write|NN area|NN motor|NN speech|NN disorder|NN injury|NN apraxia|NN movement|NN field|NN defect|NN memory|NN deficit|NN involvement|NN lobe|NN involvement|NN lobe|NN think|NN confusion|NN gesture|NN involvement|NN lobe|NN lack|NN insight|NN Stroke|Disease -relate|NN disability|NN
+walk|NN gait|NN movement|NN coordination|NN vertigo|NN disequilibrium|NN
+loss|NN consciousness|NN headache|NN Stroke|Disease thrombosis|NN pressure|NN blood|NN brain|NN
+symptom|NN onset|NN cause|NN hemorrhage|NN Stroke|Disease
+cause|NN Stroke|Disease illustration|NN embolic|NN Stroke|Disease blockage|NN blood|NN vessel|NN
+thrombotic|NP Stroke|Disease thrombus|NN blood|NN clot|NN plaque|NN
+blockage|NN artery|NN onset|NN thrombotic|NN Stroke|Disease Stroke|Disease
+thrombus|NN blood|NN vessel|NN embolic|NN Stroke|Disease thrombus|NN bloodstream|NN point|NN embolus|NN
+type|NN thrombosis|NN Stroke|Disease
+vessel|NN disease|NN artery|NN artery|NN circle|NN willis|NP disease|NN vessel|NN incidence|NN atherosclerosis|NN vasoconstriction|NN tighten|NN artery|NN artery|NN dissection|NN disease|NN blood|NN vessel|NN wall|NN cell|NN noninflammatory|NN disease|NN dysplasia|NN
+vessel|NN disease|NN artery|NN brain|NN branche|NN circle|NN willis|NP middle|NN artery|NN stem|NN artery|NN artery|NN disease|NN vessel|NN incidence|NN build-up|NN hyaline|NN matter|NN blood|NN vessel|NN result|NN blood|NN pressure|NN age|NN degeneration|NN Stroke|Disease vessel|NN lacunar|NN Stroke|Disease plaque|NN
+anemia|NN blood|NN cell|NN block|NN blood|NN vessel|NN Stroke|Disease
+Stroke|Disease cause|NN death|NN people|NN air|NN pollution|NN Stroke|Disease risk|NN Stroke|Disease
+Stroke|Disease embolism|NN blockage|NN artery|NN embolus|NN particle|NN debris|NN bloodstream|NN
+embolus|NN thrombus|NN number|NN substance|NN fat|NN bone|NN marrow|NN bone|NN air|NN cancer|NN cell|NN clump|NN bacteria|NN endocarditis|NN
+embolus|NN therapy|NN problem|NN
+source|NN embolus|NN
+blockage|NN onset|NN symptom|NN start|NN
+symptom|NN embolus|NN move|NN location|NN
+heart|NN fibrillation|NN tree|NN
+embolism|NN vein|NN thrombosis|NN septal|NN defect|NN heart|NN brain|NN
+cause|NN Stroke|Disease heart|NN
+risk|NN fibrillation|NN fibrillation|NN disease|NN mitral|NN valve|NN disease|NN heart|NN valve|NN thrombus|NN atrium|NN ventricle|NN sinus|NN syndrome|NN flutter|NN infarction|NN infarction|NN ejection|NN fraction|NN percent|NN heart|NN failure|NN ejection|NN fraction|NN percent|NN cardiomyopathy|NN marantic|NN endocarditis|NN myxoma|NN artery|NN bypass|NN graft|NN surgery|NN
+riskpotential|NN calcification|NN ring|NN valve|NN patent|NN foramen|NN septal|NN aneurysm|NN septal|NN aneurysm|NN patent|NN foramen|NN aneurysm|NN thrombus|NN smoke|NN stenosis|NN fibrillation|NN complex|NN atheroma|NN aorta|NN arch|NN
+blockage|NN artery|NN risk|NN Stroke|Disease side|NN percent|NN year|NN
+form|NN Stroke|Disease Stroke|Disease source|NN
+subset|NN Stroke|Disease brain|NN infarct|NN stenosis|NN cardioembolic|NN source|NN
+ischemic|NN Stroke|Disease hypoperfusion|NN
+hypoperfusion|NN reduction|NN blood|NN flow|NN part|NN brain|NN
+reduction|NN part|NN brain|NN cause|NN
+heart|NN failure|NN arrest|NN arrhythmia|NN output|NN result|NN infarction|NN embolism|NN effusion|NN
+citation|NN blood|NN oxygen|NN content|NN hypoperfusion|NN
+reduction|NN blood|NN flow|NN part|NN brain|NN watersh|NN zone|NN region|NN artery|NN
+watersh|NN Stroke|Disease condition|NN blood|NN supply|NN area|NN
+blood|NN flow|NN area|NN point|NN brain|NN damage|NN
+sinus|NN thrombosis|NN Stroke|Disease pressure|NN pressure|NN artery|NN
+transformation|NN leak|NN blood|NN area|NN type|NN Stroke|Disease intracerebral|NN
+artery|NN arteriole|NN hypertension|NN malformation|NN angioma|NN malformation|NN amyloid|NN hemorrhage|NN cause|NN trauma|NN disorder|NN drug|NN use|NN amphetamine|NN cocaine|NN
+hematoma|NN pressure|NN tissue|NN growth|NN empty|NN system|NN csf|NP surface|NN
+bleed|NN brain|NN
+mortality|NN rate|NN percent|NN day|NN Stroke|Disease subarachnoid|NN type|NN Stroke|Disease
+cause|NN spasm|NN artery|NN
+cocaine|NN Stroke|Disease
+Stroke|Disease Stroke|Disease symptom|NN patient|NN Stroke|Disease
+symptom|NN Stroke|Disease brain|NN patient|NN risk|NN attack|NN Stroke|Disease future|NN
+Stroke|Disease risk|NN Stroke|Disease study|NN people|NN Stroke|Disease united|NP states|NP
+Stroke|Disease mry|NN
+Stroke|Disease cause|NN lesion|NN use|NN
+Stroke|Disease time|NN rate|NN Stroke|Disease risk|NN Stroke|Disease increase|NN age|NN adult|NN children|NN anemia|NN necrosis|NN find|NN Stroke|Disease image|NN autopsy|NN
+micrograph|NP cortex|NN neuron|NN loss|NN astrocyte|NN person|NN Stroke|Disease
+Stroke|Disease loss|NN blood|NN supply|NN part|NN brain|NN cascade|NN brain|NN tissue|NN function|NN oxygen|NN hour|NN injury|NN death|NN tissue|NN infarction|NN
+alteplase|NN hour|NN onset|NN Stroke|Disease
+blood|NN supply|NN lumen|NN blood|NN vessel|NN reduction|NN blood|NN flow|NN formation|NN blood|NN clot|NN vessel|NN shower|NN emboly|NN disintegration|NN plaque|NN infarction|NN system|NN heart|NN consequence|NN fibrillation|NN artery|NN circulation|NN lodge|NN block|NN brain|NN blood|NN vessel|NN
+blood|NN vessel|NN brain|NN brain|NN energy|NN metabolism|NN region|NN brain|NN tissue|NN
+metabolism|NN adenosine|NN triphosphate|NN atp|NN by-product|NN acid|NN
+acid|NN irritant|NN cell|NN acid|NN acid-base|NN balance|NN brain|NN
+area|NN penumbra|NN
+oxygen|NN glucose|NN brain|NN tissue|NN production|NN energy|NN phosphate|NN compound|NN adenosine|NN triphosphate|NN atp|NN failure|NN process|NN ion|NN pump|NN tissue|NN cell|NN survival|NN
+set|NN series|NN event|NN result|NN injury|NN death|NN
+cause|NN injury|NN release|NN neurotransmitter|NN glutamate|NN
+concentration|NN glutamate|NN cell|NN system|NN uptake|NN carrier|NN concentration|NN gradient|NN ion|NN cell|NN membrane|NN
+Stroke|Disease cut|NN supply|NN oxygen|NN glucose|NN ion|NN pump|NN gradient|NN
+result|NN transmembrane|NN ion|NN gradient|NN glutamate|NN transporter|NN direction|NN glutamate|NN space|NN
+act|NN receptor|NN nerve|NN cell|NN nmda|NN receptor|NN influx|NN calcium|NN enzyme|NN cell|NN protein|NN lipid|NN material|NN
+calcium|NN influx|NN failure|NN mitochondria|NN energy|NN depletion|NN cell|NN death|NN cell|NN death|NN
+production|NN oxygen|NN radical|NN oxygen|NN specy|NN
+number|NN element|NN
+blood|NN vessel|NN line|NN endothelium|NN
+fact|NN antioxidant|NN acid|NN work|NN level|NN endothelium|NN brain|NN se|NN
+radical|NN element|NN cell|NN death|NN cascade|NN mean|NN redox|NN
+process|NN type|NN tissue|NN cascade|NN
+brain|NN tissue|NN reserve|NN metabolism|NN organ|NN
+addition|NN effect|NN brain|NN cell|NN infarction|NN loss|NN integrity|NN brain|NN tissue|NN blood|NN vessel|NN release|NN matrix|NN enzyme|NN collagen|NN acid|NN element|NN tissue|NN
+protease|NN process|NN
+loss|NN integrity|NN result|NN breakdown|NN blood|NN brain|NN barrier|NN edema|NN progression|NN brain|NN injury|NN
+Stroke|Disease pathology|NN
+cause|NN Stroke|Disease aneurysm|NN av|NN fistula|NN transformation|NN ischemic|NN infarction|NN drug|NN tissue|NN injury|NN compression|NN tissue|NN hematoma|NN hematoma|NN
+addition|NN pressure|NN loss|NN blood|NN supply|NN tissue|NN infarction|NN blood|NN brain|NN effect|NN brain|NN tissue|NN inflammation|NN brain|NN injury|NN diagnosis|NN ct|NN sign|NN artery|NN Stroke|Disease loss|NN definition|NN gyry|NN boundary|NN den|NN media|NN sign|NN patient|NN artery|NN infarction|NN left|NN
+image|NN hour|NN
+Stroke|Disease technique|NN examination|NN ct|NN scan|NN contrast|NN enhancement|NN scan|NN doppler|NP ultrasound|NN arteriography|NN
+diagnosis|NN Stroke|Disease assistance|NN image|NN technique|NN
+image|NN technique|NN subtype|NN cause|NN Stroke|Disease
+blood|NN test|NN Stroke|Disease diagnosis|NN blood|NN test|NN help|NN find|NN cause|NN Stroke|Disease examination|NN
+examination|NN history|NN symptom|NN status|NN evaluation|NN location|NN severity|NN Stroke|Disease
+score|NN nih|NN Stroke|Disease scale|NN
+blockage|NN Stroke|Disease emergency|NN set|NN
+ct|NN scan|NN contrast|NN enhancement|NN
+sensitivity|NN hour|NN symptom|NN onset|NN specificity|NN
+sensitivity|NN specificity|NN
+Stroke|Disease emergency|NN set|NN
+ct|NN scan|NN contrast|NN enhancement|NN
+sensitivity|NN specificity|NN
+sensitivity|NN specificity|NN
+assessment|NN Stroke|Disease medicine|NN scan|NN
+document|NN blood|NN flow|NN pet|NN isotope|NN activity|NN neuron|NN
+ct|NN scan|NN ischemic|NN Stroke|Disease onset|NN brainstem|NN cerebellum|NN area|NN
+ct|NN scan|NN rule|NN Stroke|Disease mimics|NN cause|NN ecg|NN patient|NN Stroke|Disease
+ecg|NN change|NN people|NN Stroke|Disease brain|NN disorder|NN
+Stroke|Disease study|NN cause|NN
+treatment|NN diagnosis|NN option|NN importance|NN source|NN
+test|NN selection|NN cause|NN Stroke|Disease age|NN presentation|NN
+study|NN artery|NN stenosis|NN dissection|NN artery|NN electrocardiogram|NN ecg|NN echocardiogram|NN arrhythmia|NN clot|NN heart|NN brain|NN vessel|NN bloodstream|NN monitor|NN study|NN heart|NN rhythm|NN angiogram|NN vasculature|NN bleed|NN aneurysm|NN malformation|NN blood|NN test|NN blood|NN cholesterol|NN tendency|NN process|NN
+hemorrhagic|NP Stroke|Disease ct|NN scan|NN contrast|NN abnormality|NN brain|NN artery|NN source|NN mry|NN cause|NN
+reason|NN angiography|NN access|NN bloodstream|NN catheter|NN Stroke|Disease complication|NN insertion|NN site|NN investigation|NN situation|NN symptom|NN hemorrhage|NN result|NN thrombosis|NN ct|NN venography|NN vein|NN
+people|NN Stroke|Disease misdiagnose|NN time|NN Stroke|Disease chameleon|NN Stroke|Disease
+people|NN Stroke|Disease Stroke|Disease
+clot-bust|NN case|NN time|NN people|NN Stroke|Disease
+treatment|NN health|NN care|NN cost|NN
+guideline|NN state|NN start|NN tpa|NN mimics|NN delay|NN treatment|NN test|NN
+women|NN pacific|NP islander|NN condition|NN Stroke|Disease fact|NN Stroke|Disease
+addition|NN adult|NN years-of-age|NN time|NN Stroke|Disease adult|NN
+case|NN people|NN circulation|NN center|NN mry|NN study|NN person|NN likelihood|NN Stroke|Disease
+person|NN Stroke|Disease medication|NN prevention|NN
+disease|NN burden|NN Stroke|Disease prevention|NN health|NN concern|NN prevention|NN prevention|NN number|NN Stroke|Disease year|NN guideline|NN detail|NN evidence|NN prevention|NN Stroke|Disease aspirin|NN people|NN infarction|NN risk|NN protection|NN Stroke|Disease Stroke|Disease treatment|NN medication|NN aspirin|NN
+service|NN task|NN force|NN screen|NN artery|NN stenosis|NN symptom|NN factor|NN
+modifiable|NN risk|NN factor|NN Stroke|Disease blood|NN pressure|NN fibrillation|NN size|NN effect|NN people|NN year|NN Stroke|Disease modifiable|NN risk|NN factor|NN blood|NN cholesterol|NN level|NN diabete|NN mellitus|NN cigarette|NN smoke|NN alcohol|NN use|NN drug|NN use|NN lack|NN activity|NN obesity|NN meat|NN consumption|NN diet|NN smoke|NN cigarette|NN day|NN risk|NN alcohol|NN use|NN Stroke|Disease intracerebral|NN hemorrhage|NN mechanism|NN example|NN hypertension|NN fibrillation|NN rebound|NN platelet|NN aggregation|NN clote|NN disturbance|NN drug|NN amphetamine|NN cocaine|NN Stroke|Disease damage|NN blood|NN vessel|NN brain|NN hypertension|NN migraine|NN aura|NN person|NN risk|NN Stroke|Disease disease|NN presence|NN symptom|NN cause|NN Stroke|Disease children|NN adult|NN
+level|NN activity|NN risk|NN Stroke|Disease lack|NN quality|NN study|NN effort|NN lifestyle|NN factor|NN body|NN evidence|NN management|NN Stroke|Disease advice|NN diet|NN exercise|NN smoke|NN alcohol|NN use|NN medication|NN method|NN Stroke|Disease prevention|NN endarterectomy|NN method|NN Stroke|Disease
+blood|NN pressure|NN
+blood|NN pressure|NN account|NN 3550|NN Stroke|Disease risk|NN blood|NN pressure|NN reduction|NN mmhg|NN mmhg|NN risk|NN Stroke|Disease lower|NN blood|NN pressure|NN Stroke|Disease prevention|NN patient|NN year|NN hypertension|NN benefit|NN therapy|NN evidence|NN difference|NN Stroke|Disease prevention|NN factor|NN protection|NN form|NN disease|NN cost|NN routine|NN use|NN beta-blocker|NN Stroke|Disease tia|NN result|NN benefit|NN blood|NN lipid|NN
+cholesterol|NN level|NN Stroke|Disease risk|NN Stroke|Disease lipid-lower|NN drug|NN risk|NN effect|NN mechanism|NN effect|NN diabete|NN mellitus|NN
+diabete|NN mellitus|NN risk|NN Stroke|Disease time|NN
+blood|NN sugar|NN control|NN blood|NN vessel|NN complication|NN kidney|NN damage|NN damage|NN retina|NN eye|NN blood|NN vessel|NN complication|NN Stroke|Disease drug|NN
+anticoagulant|NN mainstay|NN Stroke|Disease prevention|NN year|NN
+study|NN aspirin|NN antiplatelet|NN prevention|NN Stroke|Disease ischemic|NN attack|NN dose|NN aspirin|NN example|NN mg|NN dose|NN side|NN effect|NN dose|NN ticlopidine|NN aspirin|NN risk|NN bleed|NN aspirin|NN clopidogrel|NN week|NN Stroke|Disease risk|NN clopidogrel|NN side|NN effect|NN dipyridamole|NN aspirin|NN therapy|NN benefit|NN headache|NN side|NN effect|NN aspirin|NN Stroke|Disease prevention|NN infarction|NN
+fibrillation|NN year|NN risk|NN Stroke|Disease risk|NN fibrillation|NN Stroke|Disease risk|NN medication|NN aspirin|NN prevention|NN people|NN fibrillation|NN anticoagulant|NN Stroke|Disease benefit|NN risk|NN
+prevention|NN drug|NN risk|NN ischemic|NN Stroke|Disease risk|NN study|NN effect|NN aspirin|NN Stroke|Disease women|NN surgery|NN
+endarterectomy|NN angioplasty|NN narrow|NN artery|NN
+evidence|NN procedure|NN case|NN stenosis|NN Stroke|Disease artery|NN stent|NN people|NN surgery|NN age|NN gender|NN degree|NN stenosis|NN time|NN symptom|NN person|NN preference|NN surgery|NN risk|NN Stroke|Disease patient|NN stenosis|NN year|NN risk|NN
+number|NN procedure|NN cure|NN patient|NN surgery|NN week|NN Stroke|Disease week|NN
+screen|NN artery|NN narrow|NN test|NN population|NN study|NN intervention|NN artery|NN stenosis|NN symptom|NN decrease|NN risk|NN Stroke|Disease complication|NN rate|NN surgery|NN
+surgery|NN patient|NN Stroke|Disease Stroke|Disease surgery|NN Stroke|Disease surgery|NN Stroke|Disease -free|NN intervention|NN diet|NN
+nutrition|NN diet|NN potential|NN risk|NN Stroke|Disease lower|NN level|NN homocysteine|NN acid|NN risk|NN Stroke|Disease women|NN
+number|NN recommendation|NN women|NN aspirin|NN week|NN pregnancy|NN history|NN blood|NN pressure|NN blood|NN pressure|NN medication|NN pregnancy|NN blood|NN pressure|NN
+risk|NN factor|NN Stroke|Disease
+blood|NN pressure|NN mmhg|NN ischemic|NN Stroke|Disease
+people|NN fibrillation|NN Stroke|Disease agent|NN Stroke|Disease meta-analysis|NN harm|NN anticoagulation|NP embolic|NN Stroke|Disease Stroke|Disease prevention|NN treatment|NN fibrillation|NN score|NN
+Stroke|Disease patient|NN fibrillation|NN agent|NN number|NN agent|NN dabigatran|NN alternative|NN prothrombin|NN time|NN monitor|NN
+Stroke|Disease procedure|NN
+study|NN artery|NN stenosis|NN person|NN degree|NN function|NN side|NN removal|NN stenosis|NN risk|NN recurrence|NN Stroke|Disease
+management|NN ischemic|NN Stroke|Disease
+aspirin|NN risk|NN recurrence|NN benefit|NN therapy|NN hour|NN blockage|NN clot|NN thrombolysis|NN
+premise|NN importance|NN Stroke|Disease intervention|NN time|NN brain|NN
+year|NN idea|NN blood|NN flow|NN restoration|NN result|NN brain|NN cell|NN
+blood|NN sugar|NN control|NN hour|NN outcome|NN harm|NN blood|NN pressure|NN mix|NN pig|NN brain|NN tissue|NN ischemic|NN Stroke|Disease country|NN outcome|NN risk|NN event|NN
+tissue|NN plasminogen|NN activator|NN ischemic|NN Stroke|Disease hour|NN symptom|NN onset|NN result|NN benefit|NN respect|NN live|NN disability|NN chance|NN survival|NN benefit|NN hour|NN effect|NN review|NN increase|NN number|NN people|NN disability|NN month|NN risk|NN death|NN term|NN hour|NN thrombolysis|NN outcome|NN benefit|NN lack|NN benefit|NN age|NN person|NN way|NN bleed|NN find|NN tissue|NN image|NN hour|NN hour|NN Stroke|Disease result|NN benefit|NN
+use|NN heart|NN association|NN academy|NN neurology|NN treatment|NN Stroke|Disease hour|NN onset|NN symptom|NN contraindication|NN lab|NN value|NN blood|NN pressure|NN surgery|NN
+position|NN tpa|NN find|NN study|NN group|NN investigator|NN tpa|NN chance|NN outcome|NN
+hour|NN thrombolysis|NN outcome|NN mortality|NN people|NN Stroke|Disease brain|NN bleed|NN complication|NN tpa|NN part|NN reason|NN term|NN mortality|NN academy|NN emergency|NN medicine|NN evidence|NN efficacy|NN safety|NN applicability|NN tpa|NN Stroke|Disease classification|NN standard|NN care|NN catheter|NN artery|NN brain|NN medication|NN site|NN thrombosis|NN outcome|NN people|NN ischemic|NN Stroke|Disease treatment|NN
+removal|NN blood|NN clot|NN Stroke|Disease thrombectomy|NN treatment|NN occlusion|NN artery|NN artery|NN
+review|NN safety|NN efficacy|NN procedure|NN hour|NN onset|NN symptom|NN risk|NN death|NN disability|NN use|NN thrombolysis|NN people|NN case|NN hour|NN onset|NN symptom|NN
+Stroke|Disease portion|NN brain|NN brain|NN swell|NN brain|NN injury|NN tissue|NN
+phenomenon|NN Stroke|Disease brain|NN tissue|NN artery|NN blood|NN supply|NN infarction|NN prognosis|NN
+relief|NN pressure|NN medication|NN removal|NN skull|NN side|NN head|NN
+risk|NN death|NN people|NN disability|NN Stroke|Disease
+people|NN hemorrhage|NN care|NN blood|NN pressure|NN control|NN
+people|NN change|NN level|NN consciousness|NN blood|NN sugar|NN oxygenation|NN level|NN
+citation|NN proportion|NN intervention|NN blood|NN cause|NN location|NN size|NN hemorrhage|NN factor|NN research|NN question|NN people|NN hemorrhage|NN
+treatment|NN aneurysm|NN risk|NN
+site|NN aneurysm|NN surgery|NN skull|NN endovascularly|NN blood|NN vessel|NN Stroke|Disease unit|NN
+people|NN Stroke|Disease Stroke|Disease unit|NN ward|NN area|NN hospital|NN nurse|NN therapist|NN experience|NN Stroke|Disease treatment|NN
+people|NN Stroke|Disease unit|NN chance|NN hospital|NN doctor|NN experience|NN Stroke|Disease rehabilitation|NN
+Stroke|Disease rehabilitation|NN process|NN Stroke|Disease treatment|NN life|NN skill|NN live|NN
+survivor|NN difficulty|NN complication|NN family|NN member|NN role|NN
+rehabilitation|NN team|NN staff|NN skill|NN patient|NN
+physician|NN rehabilitation|NN medicine|NN pharmacist|NN staff|NN physiotherapist|NN therapist|NN speech|NN language|NN therapist|NN orthotist|NN
+team|NN psychologist|NN worker|NN people|NN post|NN Stroke|Disease depression|NN
+instrument|NN scale|NN likelihood|NN Stroke|Disease patient|NN home|NN support|NN discharge|NN hospital|NN
+nurse|NN care|NN skin|NN care|NN feed|NN hydration|NN position|NN monitor|NN sign|NN temperature|NN pulse|NN blood|NN pressure|NN
+Stroke|Disease rehabilitation|NN
+people|NN Stroke|Disease therapy|NN pt|NN therapy|NN ot|NN pathology|NN cornerstone|NN rehabilitation|NN process|NN
+technology|NN wheelchair|NN walker|NN cane|NN
+mobility|NN problem|NN use|NN ankle|NN foot|NN pt|NN ot|NN area|NN expertise|NN pt|NN range|NN motion|NN strength|NN exercise|NN task|NN bed|NN mobility|NN walk|NN motor|NN function|NN
+patient|NN awareness|NN use|NN side|NN
+rehabilitation|NN work|NN ability|NN movement|NN ability|NN task|NN pattern|NN
+emphasis|NN task|NN people|NN goal|NN
+example|NN physiotherapist|NN motor|NN learn|NN movement|NN therapy|NN
+practice|NN patient|NN use|NN limb|NN activity|NN change|NN ot|NN train|NN activity|NN activity|NN live|NN eate|NN drink|NN dress|NN bath|NN cook|NN read|NN write|NN toilet|NN
+speech|NN language|NN therapy|NN people|NN speech|NN production|NN disorder|NN apraxia|NN speech|NN aphasia|NN impairment|NN problem|NN
+patient|NN problem|NN dysphagia|NN material|NN lung|NN cause|NN aspiration|NN pneumonia|NN
+condition|NN time|NN interim|NN tube|NN food|NN stomach|NN
+swallow|NN gastrostomy|NN peg|NN tube|NN
+treatment|NN spasticity|NN Stroke|Disease physiotherapist|NN elongation|NN muscle|NN stretch|NN position|NN improvement|NN range|NN motion|NN pattern|NN limb|NN range|NN therapist|NN limb|NN position|NN skin|NN breakdown|NN disuse|NN limb|NN use|NN splint|NN tool|NN cold|NN form|NN ice|NN wrap|NN ice|NN pack|NN spasticity|NN fire|NN rate|NN stimulation|NN antagonist|NN muscle|NN vibration|NN success|NN
+Stroke|Disease rehabilitation|NN day|NN year|NN
+return|NN function|NN month|NN improvement|NN window|NN state|NN rehabilitation|NN unit|NN month|NN chance|NN improvement|NN
+patient|NN year|NN ability|NN write|NN walk|NN run|NN
+rehabilitation|NN exercise|NN part|NN Stroke|Disease patient|NN routine|NN
+recovery|NN patient|NN extent|NN diet|NN exercise|NN brain|NN
+therapy|NN method|NN use|NN reality|NN video|NN game|NN rehabilitation|NN
+form|NN rehabilitation|NN offer|NN potential|NN patient|NN therapy|NN task|NN form|NN clinics|NN hospital|NN use|NN device|NN exercise|NN interaction|NN rehabilitation|NN clinic|NN home|NN mirror|NN therapy|NN motor|NN function|NN extremity|NN patient|NN Stroke|Disease rehabilitation|NN method|NN therapy|NN motor|NN function|NN Stroke|Disease patient|NN stimulation|NN stimulation|NN therapy|NN
+Stroke|Disease people|NN fitness|NN fitness|NN capacity|NN rehabilitation|NN health|NN exercise|NN part|NN rehabilitation|NN program|NN Stroke|Disease cardiorespiratory|NN fitness|NN train|NN walk|NN rehabilitation|NN speed|NN tolerance|NN independence|NN walk|NN balance|NN data|NN effect|NN exercise|NN train|NN death|NN dependence|NN disability|NN Stroke|Disease future|NN area|NN research|NN exercise|NN prescription|NN term|NN health|NN benefit|NN exercise|NN
+effect|NN train|NN cognition|NN
+ability|NN community|NN Stroke|Disease
+effect|NN outcome|NN walk|NN program|NN treatment|NN
+Stroke|Disease ability|NN quality|NN
+program|NN train|NN Stroke|Disease survivor|NN Stroke|Disease consequence|NN skill|NN challenge|NN set|NN goal|NN recovery|NN process|NN
+program|NN target|NN audience|NN expert|NN Stroke|Disease consequence|NN professional|NN Stroke|Disease survivor|NN peer|NN
+review|NN program|NN quality|NN life|NN Stroke|Disease effect|NN
+people|NN Stroke|Disease life|NN train|NN
+disability|NN Stroke|Disease survivor|NN employability|NN Stroke|Disease people|NN combination|NN
+result|NN Stroke|Disease size|NN location|NN lesion|NN area|NN brain|NN
+disability|NN Stroke|Disease muscle|NN weakness|NN numbness|NN pressure|NN sore|NN pneumonia|NN incontinence|NN apraxia|NN inability|NN movement|NN difficulty|NN activity|NN appetite|NN loss|NN speech|NN loss|NN vision|NN loss|NN pain|NN
+Stroke|Disease location|NN part|NN brainstem|NN coma|NN death|NN
+problem|NN Stroke|Disease damage|NN center|NN brain|NN frustration|NN difficulty|NN limitation|NN
+Stroke|Disease difficulty|NN anxiety|NN panic|NN attack|NN flat|NN affect|NN failure|NN emotion|NN mania|NN apathy|NN psychosis|NN
+difficulty|NN ability|NN emotion|NN expression|NN body|NN language|NN voice|NN
+disruption|NN self-identity|NN relationship|NN well-be|NN consequence|NN Stroke|Disease due|NN lack|NN ability|NN
+people|NN communication|NN impairment|NN Stroke|Disease issue|NN impairment|NN
+aspect|NN care|NN impact|NN speech|NN impairment|NN difficulty|NN speech|NN Stroke|Disease Stroke|Disease risk|NN paralysis|NN self|NN body|NN image|NN issue|NN
+Stroke|Disease survivor|NN Stroke|Disease depression|NN lethargy|NN irritability|NN sleep|NN disturbance|NN self-esteem|NN withdrawal|NN depression|NN motivation|NN outcome|NN family|NN support|NN psychotherapy|NN case|NN antidepressant|NN
+psychotherapy|NN session|NN effect|NN mood|NN depression|NN Stroke|Disease psychotherapy|NN depression|NN Stroke|Disease medication|NN depression|NN Stroke|Disease
+consequence|NN Stroke|Disease person|NN high|NN low|NN emotion|NN instance|NN excess|NN provocation|NN
+expression|NN emotion|NN person|NN emotion|NN form|NN lability|NN person|NN laugh|NN cry|NN regard|NN context|NN emotion|NN people|NN opposite|NN example|NN cry|NN lability|NN Stroke|Disease
+hemisphere|NN Stroke|Disease empathy|NN problem|NN communication|NN
+deficit|NN Stroke|Disease disorder|NN aphasia|NN dementia|NN problem|NN attention|NN memory|NN Stroke|Disease sufferer|NN disability|NN condition|NN
+condition|NN neglect|NN person|NN side|NN space|NN opposite|NN hemisphere|NN
+outcome|NN Stroke|Disease age|NN Stroke|Disease Stroke|Disease baseline|NN function|NN history|NN brain|NN pathology|NN
+people|NN Stroke|Disease seizure|NN week|NN event|NN severity|NN Stroke|Disease likelihood|NN seizure|NN epidemiology|NN Stroke|Disease death|NN person|NN 58316|NN 467518|NN 772974|NN life|NN year|NN disease|NN inhabitant|NN data|NN 775950|NN
+Stroke|Disease second|NN cause|NN death|NN account|NN death|NN total|NN people|NN Stroke|Disease people|NN Stroke|Disease number|NN Stroke|Disease world|NN world|NN Stroke|Disease year|NN south|NN asian|NN risk|NN Stroke|Disease account|NN Stroke|Disease death|NN
+heart|NN disease|NN cancer|NN united|NP states|NP Stroke|Disease cause|NN disability|NN cause|NN death|NN disparity|NN Stroke|Disease incidence|NN existence|NN Stroke|Disease belt|NN united|NP states|NP cause|NN disparity|NN
+risk|NN Stroke|Disease increase|NN year|NN age|NN cause|NN age|NN age|NN Stroke|Disease risk|NN factor|NN Stroke|Disease people|NN age|NN Stroke|Disease age|NN person|NN risk|NN Stroke|Disease age|NN
+Stroke|Disease age|NN childhood|NN
+family|NN member|NN tendency|NN Stroke|Disease lifestyle|NN Stroke|Disease
+level|NN von|NP factor|NN people|NN Stroke|Disease time|NN result|NN study|NN factor|NN person|NN blood|NN type|NN
+Stroke|Disease past|NN risk|NN future|NN Stroke|Disease
+men|NN Stroke|Disease women|NN death|NN Stroke|Disease women|NN women|NN average|NN Stroke|Disease risk|NN factor|NN Stroke|Disease women|NN
+pregnancy|NN childbirth|NN menopause|NN treatment|NN hrt|NN
+history|NN Stroke|Disease hippocrates|NP paralysis|NN Stroke|Disease
+episodes|NP Stroke|Disease Stroke|Disease millennium|NN mesopotamia|NP persia|NP hippocrates|NP bc|NP phenomenon|NN paralysis|NN
+word|NN mean|NN violence|NN write|NN phenomenon|NN word|NN Stroke|Disease synonym|NN seizure|NN translation|NN term|NN
+apoplexia|NN johann|NP jacob|NP 16201695|NP cause|NN hemorrhagic|NN Stroke|Disease people|NN apoplexy|NN bleed|NN brain|NN artery|NN brain|NN artery|NN cause|NN type|NN Stroke|Disease infarction|NN apoplexy|NN blockage|NN vessel|NN mechanism|NN thromboembolism|NN factor|NN
+term|NN Stroke|Disease awareness|NN acceptance|NN theory|NN recognition|NN consequence|NN disruption|NN supply|NN brain|NN use|NN number|NN neurology|NN textbook|NN reason|NN connotation|NN fortuitousness|NN word|NN accident|NN modifiability|NN risk|NN factor|NN Stroke|Disease
+term|NN Stroke|Disease use|NN nature|NN Stroke|Disease Stroke|Disease association|NN term|NN ischemic|NN Stroke|Disease research|NN stent|NN
+stent|NN option|NN treatment|NN ischemic|NN Stroke|Disease
+stent|NN stenosis|NN rate|NN success|NN reduction|NN stenosis|NN 9098|NN rate|NN peri-procedural|NN complication|NN
+rate|NN restenosis|NN Stroke|Disease treatment|NN
+data|NN trial|NN advantage|NN measure|NN
+agent|NN antioxidant|NN oxygen|NN specy|NN cell|NN death|NN neurotransmitter|NN tissue|NN injury|NN
+trial|NN agent|NN exception|NN barbiturate-induce|NN coma|NN
+sodium|NN derivative|NN phenylbutylnitrone|NN agent|NN work|NN level|NN blood|NN vessel|NN line|NN
+result|NN trial|NN trial|NN benefit|NN sodium|NN
+oxygen|NN therapy|NN measure|NN 2014|NN benefit|NN research|NN activation|NN polarization|NN Stroke|Disease injury|NN brain|NN repair|NN
+disease|NN syndrome|NN independence|NN measure|NN syndrome|NN mechanism|NN depolarization|NN brain|NN thrombolysis|NN

@@ -1,0 +1,125 @@
+Hypotension,low blood pressure
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+	
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed.
+Find sources: "Hypotension" – news · newspapers · books · scholar · JSTOR (January 2009) (Learn how and when to remove this template message)
+Hypotension
+Specialty	Critical care medicine
+
+Hypotension is low blood pressure, especially in the arteries of the left sided systemic circulation.[1] Blood pressure is the force of blood pushing against the walls of the arteries as the heart pumps out blood. A systolic blood pressure of less than 90 millimeters of mercury (mm Hg) or diastolic of less than 60 mm Hg is generally considered to be hypotension.[2][3] However, in practice, blood pressure is considered too low only if noticeable symptoms are present.[4]
+
+Hypotension is the opposite of hypertension, which is high blood pressure. It is best understood as a physiological state rather than a disease. Severely low blood pressure can deprive the brain and other vital organs of oxygen and nutrients, leading to a life-threatening condition called shock.
+
+For some people who exercise and are in top physical condition, low blood pressure is a sign of good health and fitness.[5] A single session of exercise can induce hypotension and water-based exercise can induce important hypotension response.[6] For many people, excessively low blood pressure can cause dizziness and fainting or indicate serious heart, endocrine or neurological disorders.
+
+Treatment of hypotension may include the use of intravenous fluids or vasopressors. When using vasopressors, trying to achieve a mean arterial pressure (MAP) of greater than 70 mm Hg does not appear to result in better outcomes than trying to achieve a MAP of greater than 65 mm Hg in adults.[7]
+Contents
+
+    1 Signs and symptoms
+    2 Causes
+        2.1 Syndromes
+    3 Pathophysiology
+    4 Diagnosis
+    5 Treatment
+        5.1 Other
+    6 Etymology
+    7 See also
+    8 References
+    9 External links
+
+Signs and symptoms
+
+The primary symptoms of hypotension are lightheadedness or dizziness.[8]
+
+If the blood pressure is sufficiently low, fainting may occur.
+
+Low blood pressure is sometimes associated with certain symptoms, many of which are related to causes rather than effects of hypotension:
+
+    chest pain
+    shortness of breath
+    irregular heartbeat
+    fever higher than 38.3 °C (101 °F)
+    headache
+    stiff neck
+    severe upper back pain
+    cough with sputum
+    Prolonged diarrhea or vomiting
+    dyspepsia (indigestion)
+    dysuria (painful urination)
+    acute, life-threatening allergic reaction
+    seizures
+    loss of consciousness
+    profound fatigue
+    temporary blurring or loss of vision
+    Black tarry stools
+
+Causes
+
+Low blood pressure can be caused by low blood volume, hormonal changes, widening of blood vessels, medicine side effects, anemia, heart problems or endocrine problems.
+
+Reduced blood volume, hypovolemia, is the most common cause of hypotension. This can result from hemorrhage; insufficient fluid intake, as in starvation; or excessive fluid losses from diarrhea or vomiting. Hypovolemia is often induced by excessive use of diuretics. Low blood pressure may also be attributed to heat stroke. The body may have enough fluid but does not retain electrolytes. Absence of perspiration, light headedness and dark coloured urine are also indicators.
+
+Other medications can produce hypotension by different mechanisms. Chronic use of alpha blockers or beta blockers can lead to hypotension. Beta blockers can cause hypotension both by slowing the heart rate and by decreasing the pumping ability of the heart muscle.
+
+Decreased cardiac output despite normal blood volume, due to severe congestive heart failure, large myocardial infarction, heart valve problems, or extremely low heart rate (bradycardia), often produces hypotension and can rapidly progress to cardiogenic shock. Arrhythmias often result in hypotension by this mechanism.
+
+Some heart conditions can lead to low blood pressure, including extremely low heart rate (bradycardia), heart valve problems, heart attack and heart failure. These conditions may cause low blood pressure because they prevent the body from being able to circulate enough blood.
+
+Excessive vasodilation, or insufficient constriction of the resistance blood vessels (mostly arterioles), causes hypotension. This can be due to decreased sympathetic nervous system output or to increased parasympathetic activity occurring as a consequence of injury to the brain or spinal cord or of dysautonomia, an intrinsic abnormality in autonomic system functioning. Excessive vasodilation can also result from sepsis, acidosis, or medications, such as nitrate preparations, calcium channel blockers, or AT1 receptor antagonists (Angiotensin II acts on AT1 receptors). Many anesthetic agents and techniques, including spinal anesthesia and most inhalational agents, produce significant vasodilation.
+
+Meditation, yoga, or other mental-physiological disciplines may reduce hypotensive effects.[9]
+
+Lower blood pressure is a side effect of certain herbal medicines,[10] which can also interact with hypotensive medications. An example is the theobromine in Theobroma cacao, which lowers blood pressure[11] through its actions as both a vasodilator and a diuretic,[12] and has been used to treat high blood pressure.[13][14]
+Syndromes
+
+Orthostatic hypotension, also called postural hypotension, is a common form of low blood pressure. It occurs after a change in body position, typically when a person stands up from either a seated or lying position. It is usually transient and represents a delay in the normal compensatory ability of the autonomic nervous system. It is commonly seen in hypovolemia and as a result of various medications. In addition to blood pressure-lowering medications, many psychiatric medications, in particular antidepressants, can have this side effect. Simple blood pressure and heart rate measurements while lying, seated, and standing (with a two-minute delay in between each position change) can confirm the presence of orthostatic hypotension. Orthostatic hypotension is indicated if there is a drop in 20 mmHg of systolic pressure (and a 10 mmHg drop in diastolic pressure in some facilities) and a 20 beats per minute increase in heart rate.
+
+Vasovagal syncope is a form of dysautonomia characterized by an inappropriate drop in blood pressure while in the upright position. Vasovagal syncope occurs as a result of increased activity of the vagus nerve, the mainstay of the parasympathetic nervous system .
+
+Another, but rarer form, is postprandial hypotension, a drastic decline in blood pressure that occurs 30 to 75 minutes after eating substantial meals.[15] When a great deal of blood is diverted to the intestines (a kind of "splanchnic blood pooling") to facilitate digestion and absorption, the body must increase cardiac output and peripheral vasoconstriction to maintain enough blood pressure to perfuse vital organs, such as the brain. Postprandial hypotension is believed to be caused by the autonomic nervous system not compensating appropriately, because of aging or a specific disorder.
+
+Hypotension is a feature of Flammer syndrome, which is characterized by cold hands and feet and predisposes to normal tension glaucoma.[16]
+
+Hypotension can be a symptom of relative energy deficiency in sport, sometimes known as the female athlete triad, although it can also affect men.[17]
+Pathophysiology
+
+Blood pressure is continuously regulated by the autonomic nervous system, using an elaborate network of receptors, nerves, and hormones to balance the effects of the sympathetic nervous system, which tends to raise blood pressure, and the parasympathetic nervous system, which lowers it. The vast and rapid compensation abilities of the autonomic nervous system allow normal individuals to maintain an acceptable blood pressure over a wide range of activities and in many disease states.
+Diagnosis
+
+The diagnosis of hypotension is made by first obtaining a blood pressure, either non-invasively with a sphygmomanometer or invasively with an arterial catheter (mostly in an intensive care setting). If the MAP (Mean Arterial Pressure) is <65mmHg, this is generally considered hypotension.[18]
+
+For most adults, the healthiest blood pressure is at or below 120/80 mmHg. A small drop in blood pressure, even as little as 20 mmHg, can result in transient hypotension.[19]
+
+Evaluation of vasovagal syncope is done with a tilt table test.
+
+Besides the definitive threshold, an abrupt fall in systolic blood pressure around 30 mmHg from one's typical average systolic pressure can also be diagnosed with hypotension.[20]
+Treatment
+
+The treatment for hypotension depends on its cause. Chronic hypotension rarely exists as more than a symptom. Asymptomatic hypotension in healthy people usually does not require treatment. Adding electrolytes to a diet can relieve symptoms of mild hypotension. A morning dose of caffeine can also be effective. In mild cases, where the patient is still responsive, laying the person in dorsal decubitus (lying on the back) position and lifting the legs increases venous return, thus making more blood available to critical organs in the chest and head. The Trendelenburg position, though used historically, is no longer recommended.[21]
+
+Hypotensive shock treatment always follows the first four following steps. Outcomes, in terms of mortality, are directly linked to the speed that hypotension is corrected. Still-debated methods are in parentheses, as are benchmarks for evaluating progress in correcting hypotension. A study on septic shock provided the delineation of these general principles.[22] However, since it focuses on hypotension due to infection, it is not applicable to all forms of severe hypotension.
+
+    Volume resuscitation (usually with crystalloid)
+    Blood pressure support with a vasopressor (all seem equivalent with respect to risk of death, with norepinephrine possibly better than dopamine).[23] Trying to achieve a mean arterial pressure (MAP) of greater than 70 mmHg does not appear to result in better outcomes than trying to achieve a MAP of greater than 65 mm Hg in adults.[7]
+    Ensure adequate tissue perfusion (maintain SvO2 >70 with use of blood or dobutamine)
+    Address the underlying problem (i.e., antibiotic for infection, stent or CABG (coronary artery bypass graft surgery) for infarction, steroids for adrenal insufficiency, etc...)
+
+The best way to determine if a person will benefit from fluids is by doing a passive leg raise followed by measuring the output from the heart.[24]
+Other
+
+Medium-term (and less well-demonstrated) treatments of hypotension include:
+
+    Blood sugar control
+    Early nutrition (by mouth or by tube to prevent ileus)
+    Steroid support
+
+Etymology
+
+Hypotension, from Ancient Greek hypo-, meaning "under" or "less" + English tension, meaning "'strain" or "tightness".[25] This refers to the under-constriction of the blood vessels and arteries which leads to low blood pressure.
+See also
+
+    Dysautonomia
+    Hypotensive transfusion reaction
+    Orthostatic intolerance

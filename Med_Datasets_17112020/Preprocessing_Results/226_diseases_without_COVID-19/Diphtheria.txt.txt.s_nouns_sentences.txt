@@ -1,0 +1,120 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN
+genus|NN moth|NN moth|NN
+Diphtheria|Disease Diphtheria|Disease bull|NN Diphtheria|Disease neck|NN bull|NN neck|NN disease|NN symptom|NN throat|NN fever|NN cough|NN onset|NN day|NN cause|NN Diphtheria|Disease spread|NN contact|NN air|NN method|NN throat|NN appearance|NN culture|NN prevention|NN Diphtheria|Disease vaccine|NN treatment|NN antibiotics|NN frequency|NN death|NN
+Diphtheria|Disease infection|NN bacterium|NN Diphtheria|Disease sign|NN symptom|NN day|NN exposure|NN symptom|NN throat|NN fever|NN case|NN patch|NN throat|NN airway|NN cough|NN croup|NN neck|NN part|NN lymph|NN node|NN form|NN Diphtheria|Disease skin|NN eye|NN genital|NN complication|NN inflammation|NN nerve|NN kidney|NN problem|NN problem|NN level|NN platelet|NN heart|NN rate|NN inflammation|NN nerve|NN paralysis|NN
+Diphtheria|Disease people|NN contact|NN air|NN object|NN people|NN bacterium|NN symptom|NN disease|NN type|NN c|NP Diphtheria|Disease cause|NN severity|NN disease|NN symptom|NN toxin|NN bacterium|NN diagnosis|NN appearance|NN throat|NN confirmation|NN culture|NN infection|NN future|NN infection|NN
+Diphtheria|Disease vaccine|NN prevention|NN number|NN formulation|NN dose|NN tetanus|NN vaccine|NN pertussis|NN vaccine|NN childhood|NN dose|NN Diphtheria|Disease vaccine|NN year|NN protection|NN level|NN blood|NN Diphtheria|Disease antibiotics|NN antibiotics|NN prevention|NN infection|NN tracheotomy|NN airway|NN case|NN
+case|NN case|NN year|NN Diphtheria|Disease africa|NP india|NP indonesia|NP death|NN death|NN area|NN children|NN world|NN vaccination|NN vaccination|NN rate|NN decrease|NN united|NP states|NP case|NN death|NN disease|NN century|NN hippocrates|NP bacterium|NN edwin|NP content|NN
+sign|NN symptom|NN croup|NN transmission|NN mechanism|NN diagnosis|NN laboratory|NN criteria|NN criteria|NN case|NN classification|NN prevention|NN treatment|NN epidemiology|NN history|NN reference|NN read|NN link|NN
+sign|NN symptom|NN adherent|NN grey|NN tonsil|NN Diphtheria|Disease
+Diphtheria|Disease skin|NN lesion|NN leg|NN
+symptom|NN Diphtheria|Disease day|NN infection|NN
+symptom|NN Diphtheria|Disease fever|NN c|NP f|NP chill|NN fatigue|NN skin|NN coloration|NN throat|NN hoarseness|NN cough|NN headache|NN difficulty|NN swallow|NN difficulty|NN breath|NN foul-smel|NN discharge|NN lymphadenopathy|NN day|NN Diphtheria|Disease tissue|NN system|NN
+tissue|NN coat|NN throat|NN nose|NN
+coat|NN pseudomembrane|NN tissue|NN nose|NN tonsil|NN voice|NN box|NN throat|NN symptom|NN arrhythmia|NN nerve|NN
+Diphtheria|Disease neck|NN throat|NN bull|NN neck|NN
+throat|NN condition|NN cough|NN hoarseness|NN difficulty|NN breath|NN croup|NN croup|NN croup|NN croup|NN country|NN Diphtheria|Disease vaccination|NN
+result|NN term|NN croup|NN illness|NN symptom|NN transmission|NN
+transmission|NN Diphtheria|Disease air|NN cough|NN sneeze|NN
+particle|NN individual|NN infection|NN contact|NN lesion|NN skin|NN transmission|NN Diphtheria|Disease infection|NN
+individual|NN surface|NN object|NN bacteria|NN
+evidence|NN Diphtheria|Disease potential|NN
+ulceran|NN animal|NN mechanism|NN
+Diphtheria|Disease toxin|NN c|NP Diphtheria|Disease bacteriophage|NN element|NN bacteria|NN
+Diphtheria|Disease toxin|NN 60-kda-molecular|NN weight|NN protein|NN peptide|NN chain|NN fragment|NN fragment|NN b|NP bond|NN
+fragment|NN recognition|NN subunit|NN toxin|NN entry|NN host|NN cell|NN bind|NN domain|NN growth|NN factor|NN cell|NN surface|NN
+signal|NN cell|NN toxin|NN endosome|NN endocytosis|NN
+endosome|NN toxin|NN protease|NN individual|NN fragment|NN
+acidity|NN endosome|NN fragment|NN pore|NN membrane|NN release|NN fragment|NN cell|NN cytoplasm|NN
+fragment|NN synthesis|NN protein|NN cell|NN adp-ribosylation|NN elongation|NN factor|NN protein|NN translation|NN step|NN protein|NN synthesis|NN
+adp-ribosylation|NN transfer|NN adp-ribose|NN nad|NN diphthamide|NN histidine|NN residue|NN protein|NN
+move|NN trna|NN a-site|NN p-site|NN protein|NN translation|NN adp-ribosylation|NN ef-2|NN protein|NN synthesis|NN
+adp-ribosylation|NP ef-2|NP dose|NN nicotinamide|NN form|NN vitamin|NN reaction|NN end|NN product|NN amount|NN reaction|NN direction|NN diagnosis|NN
+case|NN definition|NN Diphtheria|Disease united|NP states|NP center|NN disease|NN control|NN prevention|NN laboratory|NN criteria|NN
+laboratory|NN criteria|NN
+isolation|NN c|NP Diphtheria|Disease gram|NN stain|NN throat|NN culture|NN specimen|NN diagnosis|NN Diphtheria|Disease stain|NN
+tract|NN illness|NN throat|NN fever|NN c|NP f|NP adherent|NN grey|NN aspect|NN pharynx|NN case|NN tracheobronchial|NN tree|NN
+case|NN classification|NN
+case|NN case|NN case|NN case|NN
+treatment|NN patient|NN suspicion|NN Diphtheria|Disease
+prevention|NN article|NN Diphtheria|Disease vaccine|NN
+vaccine|NN combination|NN vaccine|NN baby|NN Diphtheria|Disease childhood|NN disease|NN Diphtheria|Disease vaccine|NN tetanus|NN vaccine|NN pertussis|NN dtp|NN vaccine|NN
+disease|NN case|NN lymph|NN node|NN neck|NN breath|NN swallow|NN
+people|NN stage|NN attention|NN obstruction|NN throat|NN intubation|NN tracheotomy|NN
+rhythm|NN course|NN illness|NN week|NN heart|NN failure|NN
+Diphtheria|Disease paralysis|NN eye|NN neck|NN throat|NN muscle|NN
+patient|NN case|NN hospital|NN care|NN unit|NN Diphtheria|Disease antibody|NN serum|NN horse|NN Diphtheria|Disease toxin|NN toxin|NN tissue|NN administration|NN risk|NN death|NN
+decision|NN Diphtheria|Disease antitoxin|NN diagnosis|NN laboratory|NN confirmation|NN
+antibiotics|NN heal|NN infection|NN Diphtheria|Disease patient|NN
+antibiotics|NN patient|NN carrier|NN c|NP Diphtheria|Disease transmission|NN
+center|NN disease|NN control|NN prevention|NN
+injection|NN day|NN day|NN maximum|NN penicillin|NN day|NN ud|NN patient|NN kg|NN ud|NN weigh|NN kg|NN patient|NN allergy|NN penicillin|NN
+case|NN progress|NN throat|NN infection|NN Diphtheria|Disease toxin|NN spread|NN blood|NN complication|NN organ|NN heart|NN kidney|NN
+heart|NN toxin|NN heart|NN ability|NN pump|NN blood|NN kidney|NN ability|NN waste|NN
+nerve|NN damage|NN paralysis|NN
+epidemiology|NN life|NN year|NN Diphtheria|Disease inhabitant|NN data|NN
+Diphtheria|Disease case|NN world|NN health|NN organization|NN data|NN case|NN case|NN case|NN
+Diphtheria|Disease case|NN
+children|NN year|NN adult|NN year|NN fatality|NN rate|NN death|NN death|NN
+number|NN case|NN course|NN decade|NN country|NN
+standard|NN live|NN mass|NN immunization|NN diagnosis|NN prompt|NN treatment|NN health|NN care|NN decrease|NN case|NN
+outbreak|NN nation|NN germany|NP children|NN
+breakup|NN union|NN vaccination|NN rate|NN constituent|NN country|NN explosion|NN Diphtheria|Disease case|NN
+case|NN Diphtheria|Disease ussr|NP
+case|NN commonwealth|NN state|NN death|NN history|NN
+spain|NP epidemic|NN Diphtheria|Disease
+year|NN el|NP de|NP los|NP year|NN strangulation|NN history|NN spain|NP
+Diphtheria|Disease epidemic|NN new|NP england|NP
+Diphtheria|Disease name|NN world|NN
+england|NP boulogne|NP throat|NN france|NP
+pierre|NP bretonneau|NP disease|NN name|NN leather|NN appearance|NN pseudomembrane|NN throat|NN
+victor|NP fourgeaud|NP epidemic|NN Diphtheria|Disease california|NP
+queen|NN daughter|NN princess|NP alice|NP family|NN Diphtheria|Disease death|NN princess|NP marie|NP hesse|NP rhine|NP princess|NP alice|NP
+edwin|NP klebs|NP bacterium|NN Diphtheria|Disease bacterium|NN
+club|NN shape|NN bacterium|NN edwin|NP bacteria|NN
+period|NN time|NN bacillus|NN Diphtheria|Disease mycobacterium|NN Diphtheria|Disease
+nomenclature|NN Diphtheria|Disease
+friedrich|NP loeffler|NP person|NN c|NP Diphtheria|Disease e|NP postulate|NN association|NN c|NP Diphtheria|Disease Diphtheria|Disease
+bacillus|NN exotoxin|NN
+citation|NN Diphtheria|Disease immunisation|NN scheme|NN london|NP
+joseph|NP p|NP
+tube|NN intubation|NN patient|NN larynx|NN
+emergency|NN intubation|NN method|NN
+emile|NP roux|NP alexandre|NP yersin|NP substance|NN c|NP Diphtheria|Disease e|NP symptom|NN Diphtheria|Disease animal|NN
+shibasaburo|NN emil|NP von|NP guinea|NN pig|NN Diphtheria|Disease toxin|NN goat|NN horse|NN way|NN antitoxin|NN serum|NN animal|NN disease|NN animal|NN
+antitoxin|NN antibody|NN toxin|NN c|NP Diphtheria|Disease trial|NN
+treatment|NN patient|NN antitoxin|NN production|NN quantification|NN antitoxin|NN von|NP behring|NP nobel|NP prize|NN medicine|NN work|NN Diphtheria|Disease
+mulford|NP company|NN philadelphia|NP production|NN test|NN Diphtheria|Disease antitoxin|NN united|NP states|NP park|NN biggs|NP method|NN serum|NN horse|NN use|NN Diphtheria|Disease treatment|NN
+paul|NP ehrlich|NP unit|NN measure|NN Diphtheria|Disease antitoxin|NN
+standardization|NN product|NN role|NN work|NN vaccine|NN
+louis|NP children|NN Diphtheria|Disease
+horse|NN antitoxin|NN tetanus|NN
+incident|NN tetanus|NN outbreak|NN camden|NP new|NP jersey|NP part|NN regulation|NN product|NN
+january|NP ruth|NP cleveland|NP Diphtheria|Disease age|NN year|NN princeton|NP new|NP jersey|NP
+ruth|NP daughter|NN president|NN grover|NP cleveland|NP lady|NN frances|NP folsom|NP
+franklin|NP hospital|NN paper|NN treatment|NN Diphtheria|Disease dose|NN antitoxin|NN clemens|NP serum|NN sickness|NN children|NN quantity|NN antitoxin|NN
+bla|NN test|NN immunity|NN Diphtheria|Disease person|NN
+campaign|NN dr|NP
+part|NN campaign|NN piece|NN literature|NN life|NN insurance|NN company|NN appeal|NN parent|NN child|NN Diphtheria|Disease
+vaccine|NN decade|NN death|NN poster|NN kingdom|NN advertise|NN Diphtheria|Disease immunisation|NN
+dallas|NP texas|NP children|NN antitoxin|NN test|NN new|NP york|NP state|NN health|NN department|NN
+mulford|NP company|NN philadelphia|NP manufacturer|NN damage|NN case|NN
+case|NN Diphtheria|Disease year|NN united|NP states|NP death|NN year|NN children|NN majority|NN case|NN fatality|NN
+outbreak|NN Diphtheria|Disease nome|NP alaska|NP race|NN mercy|NN Diphtheria|Disease antitoxin|NN trail|NN dog|NN race|NN
+alexander|NP thomas|NP glenny|NP effectiveness|NN Diphtheria|Disease version|NN toxin|NN vaccination|NN salt|NN vaccination|NN toxoid|NP
+Diphtheria|Disease outbreak|NN war|NN disruption|NN europe|NP
+case|NN europe|NP death|NN
+children|NN Diphtheria|Disease immunization|NN manufacture|NN phosphate|NN
+world|NN health|NN organization|NN vaccine|NN programme|NN immunization|NN country|NN
+outbreak|NN Diphtheria|Disease seattle|NP washington|NP
+federation|NN Diphtheria|Disease case|NN
+contrast|NN case|NN Diphtheria|Disease death|NN country|NN union|NN
+case|NN Diphtheria|Disease port-au-prince|NP haiti|NP haiti|NP earthquake|NN
+patient|NN worker|NN
+2013|NP children|NN Diphtheria|Disease hyderabad|NP india|NP
+june|NP case|NN Diphtheria|Disease university|NN hospital|NN barcelona|NP spain|NP
+child|NN illness|NN opposition|NN vaccination|NN case|NN Diphtheria|Disease country|NN el|NP
+march|NP girl|NN Diphtheria|Disease university|NN hospital|NN antwerp|NP belgium|NP
+june|NP 5-year-old|NN girl|NN Diphtheria|Disease kedah|NP malacca|NP sabah|NP malaysia|NP
+january|NP case|NN venezuela|NP
+november|NP december|NP outbreak|NN Diphtheria|Disease indonesia|NP case|NN fatality|NN

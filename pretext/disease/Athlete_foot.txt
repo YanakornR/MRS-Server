@@ -1,0 +1,264 @@
+athlete|NN foot|NN athlete|NN foot|NN tinea|NN pedis|NN common|NN skin|NN infection|NN of|NN foot|NN fungus|NN 
+sign|NN symptom|NN redness|NN 
+in|NN case|NN skin|NN blister|ST 
+athlete|NN foot|NN fungus|NN part|NN of|NN foot|NN toe|NN 
+common|NN area|NN bottom|NN of|NN foot|NN 
+fungus|NN nail|NN hand|NN 
+member|NN of|NN group|NN of|NN disease|NN tinea|NN 
+athlete|NN foot|NN tinea|NN pedis|NN ringworm|NN of|NN foot|NN foot|NN specie|NN of|NN athlete|NN foot|NN number|NN of|NN fungi|NN trichophyton|NN epidermophyton|NN microsporum|NN 
+condition|NN contact|NN environment|NN 
+skin|NN common|NN place|NN fungi|NN pool|NN in|NN locker|NN room|NN 
+animal|NN 
+diagnosis|NN sign|NN symptom|NN culture|NN hypha|NN microscope|NN 
+in|NN method|NN of|NN prevention|NN barefoot|NN in|NN shower|NN toenail|NN shoe|NN sock|NN 
+foot|NN dry|NN sandal|NN 
+treatment|NN medication|NN skin|NN clotrimazole|NN infection|NN medication|NN mouth|NN terbinafine|NN 
+use|NN of|NN cream|NN week|NN 
+case|NN of|NN athlete|NN foot|NN specialty|NN symptom|NN itch|ST scale|NN redness|NN of|NN disease|NN foot|NN fungi|NN trichophyton|NN epidermophyton|NN microsporum|NN symptom|NN culture|NN microscopy|NN method|NN prevention|NN barefoot|NN in|NN shower|NN toenail|NN shoe|NN sock|NN treatment|NN medication|NN skin|NN mouth|NN frequency|NN of|NN population|NN athlete|NN foot|NN in|NN 
+athlete|NN foot|NN of|NN population|NN 
+male|NN female|NN 
+in|NN child|NN adult|NN 
+condition|NN in|NN 1900s|NN use|NN of|NN shoe|NN health|NN club|NN war|NN travel|NN 
+content|NN sign|NN symptom|NN complication|NN transmission|NN risk|NN factor|NN prevention|NN treatment|NN treatment|NN treatment|NN epidemiology|NN link|NN sign|NN symptom|NN foot|NN category|NN presentation|NN chronic|NN athlete|NN foot|NN plantar|NN chronic|NN scaly|NN athlete|NN foot|NN foot|NN ulcerative|NN tinea|NN pedis|NN athlete|NN foot|NN 
+toe|NN 
+plantar|NN sole|NN of|NN foot|NN 
+ulcerative|NN condition|NN lesions|NN border|NN 
+maceration|NN soften|NN down|NN of|NN skin|NN exposure|NN moisture|NN 
+disease|NN type|NN of|NN disease|NN vesicle|NN bulla|NN blister|ST 
+vesicle|NN bulla|NN lesions|NN size|NN vesicle|NN mm|NN bulla|NN mm|NN definition|NN 
+athlete|NN foot|NN athlete|NN foot|NN toe|NN space|NN fifth|NN digit|NN 
+case|NN of|NN athlete|NN foot|NN trichophyton|NN rubrum|NN symptomless|NN itch|ST skin|NN toe|NN ulcerative|NN white|NN skin|NN wet|NN 
+ulcerative|NN variant|NN of|NN athlete|NN foot|NN mentagrophytes|NN pain|ST maceration|NN of|NN skin|NN erosion|NN fissure|NN of|NN skin|NN crust|NN odor|NN infection|NN 
+plantar|NN athlete|NN foot|NN foot|NN rubrum|NN plaque|NN area|NN of|NN redness|NN of|NN skin|NN plantar|NN surface|NN of|NN foot|NN scale|NN 
+type|NN of|NN athlete|NN foot|NN common|NN mentagrophytes|NN outbreak|NN of|NN blister|ST vesicle|NN base|NN sole|NN of|NN foot|NN 
+subtype|NN of|NN athlete|NN foot|NN infection|NN streptococcus|NN pyogenes|NN staphylococcus|NN aureus|NN 
+complication|NN disease|NN skin|NN skin|NN infection|NN inflammation|NN of|NN vessel|NN 
+foot|NN fungus|NN toenail|NN keratin|NN in|NN condition|NN onychomycosis|DS 
+athlete|NN foot|NN itch|ST scratch|NN reflex|NN host|NN area|NN 
+skin|NN condition|NN fungus|NN spread|NN thrive|NN 
+sensation|NN athlete|NN foot|NN host|NN excoriation|NN wind|NN infection|NN 
+scratch|NN scab|NN heal|NN process|NN 
+area|NN fungus|NN finger|NN fingernail|NN 
+finger|NN fingernail|NN in|NN skin|NN in|NN nail|NN underneath|NN 
+person|NN touch|NN part|NN of|NN body|NN environment|NN 
+skin|NN scale|NN environment|NN spread|NN 
+athlete|NN foot|NN fungus|NN skin|NN particle|NN environment|NN clothe|NN shoe|NN bathroom|NN 
+scratch|NN people|NN infect|NN host|NN 
+example|NN foot|NN sock|NN shoe|NN foot|NN fungus|NN spore|NN wear|NN 
+ease|NN fungus|NN spread|NN area|NN of|NN body|NN finger|NN complication|NN 
+fungus|NN part|NN of|NN body|NN back|NN foot|NN foot|NN 
+condition|NN something|NN in|NN place|NN hold|NN corporis|NN ringworm|NN cruris|NN itch|ST person|NN disease|NN 
+individual|NN allergic|NN response|NN fungus|NN id|NN reaction|NN in|NN blister|ST vesicle|NN in|NN area|NN hand|NN chest|NN arm|NN 
+treatment|NN of|NN infection|NN result|NN in|NN disappearance|NN of|NN reaction|NN 
+athlete|NN foot|NN form|NN of|NN dermatophytosis|DS infection|NN of|NN skin|NN dermatophytes|NN fungi|NN of|NN layer|NN of|NN skin|NN keratin|NN 
+dermatophytes|NN fungi|NN human|NN host|NN 
+athlete|NN foot|NN mold|NN trichophyton|NN rubrum|NN mentagrophytes|NN epidermophyton|NN floccosum|NN 
+case|NN of|NN athlete|NN foot|NN in|NN population|NN rubrum|NN majority|NN of|NN athlete|NN foot|NN case|NN in|NN athlete|NN t|NN 
+mentagrophytes|NN 
+transmission|NN uk|NN health|NN service|NN foot|NN contact|NN 
+disease|NN others|NN infection|NN 
+people|NN contract|NN disease|NN contact|NN item|NN clothe|NN towel|NN 
+surface|NN bathroom|NN shower|NN locker|NN room|NN floor|NN 
+fungi|NN athlete|NN foot|NN environment|NN 
+fungi|NN of|NN finger|NN foot|NN skin|NN cell|NN body|NN 
+athlete|NN foot|NN fungi|NN skin|NN particle|NN flake|NN sock|NN shoe|NN clothe|NN people|NN pet|NN pet|NN sheet|NN bathtub|NN shower|NN sink|NN counter|NN towel|NN rug|NN floor|NN carpet|NN 
+fungus|NN pet|NN hand|NN finger|NN of|NN people|NN 
+pet|NN itch|ST of|NN tinea|NN 
+way|NN contract|NN athlete|NN foot|NN infection|NN body|NN 
+athlete|NN foot|NN area|NN of|NN body|NN foot|NN area|NN fungus|NN finger|NN foot|NN 
+fungus|NN name|NN of|NN condition|NN change|NN body|NN infection|NN 
+example|NN infection|NN tinea|NN corporis|NN torso|NN limb|NN cruris|NN itch|ST itch|ST groin|NN 
+clothe|NN shoe|NN body|NN heat|NN sweat|NN skin|NN warm|NN moist|NN environment|NN fungus|NN 
+risk|NN factor|NN of|NN mode|NN of|NN transmission|NN risk|NN factor|NN chance|NN of|NN athlete|NN foot|NN 
+person|NN foot|NN 
+adult|NN athlete|NN foot|NN child|NN 
+men|NN chance|NN of|NN athlete|NN foot|NN woman|NN 
+people|NN diabetes|DS system|NN disease|NN 
+hiv/aids|DS immune|NN system|NN risk|NN of|NN athlete|NN foot|NN 
+hyperhidrosis|DS sweat|NN risk|NN of|NN infection|NN treatment|NN 
+diagnosis|NN doctor|NN diagnosis|NN procedure|NN apply|NN 
+patient|NN history|NN record|NN risk|NN factor|NN interview|NN doctor|NN question|NN itch|ST scratch|NN examination|NN 
+athlete|NN foot|NN inspection|NN of|NN skin|NN symptom|NN itch|ST of|NN area|NN 
+diagnosis|NN microscopy|NN of|NN potassium|NN preparation|NN of|NN skin|NN scrap|NN test|NN diagnosis|NN of|NN athlete|NN foot|NN help|NN rule|NN cause|NN candidiasis|NN keratolysis|NN erythrasma|NN contact|NN dermatitis|DS eczema|NN psoriasis|NN 
+dermatophytes|NN athlete|NN foot|NN multiple|NN septate|NN branch|NN hypha|NN microscopy|NN 
+microscopic|NN view|NN of|NN athlete|NN foot|NN wood|NN lamp|NN black|NN light|NN in|NN infection|NN of|NN scalp|NN capitis|NN in|NN athlete|NN foot|NN common|NN cause|NN disease|NN light|NN 
+prevention|NN foot|NN hygiene|NN measure|NN athlete|NN foot|NN recurrence|NN 
+of|NN foot|NN dry|NN toenail|NN nail|NN clipper|NN toenail|NN sock|NN cotton|NN moisture|NN material|NN moisture|NN skin|NN dry|NN footwear|NN sock|NN sandal|NN area|NN shower|NN locker|NN room|NN 
+center|NN disease|NN control|NN prevention|NN nail|NN clean|NN 
+nail|NN house|NN infection|NN 
+recurrence|NN of|NN athlete|NN foot|NN use|NN of|NN powder|NN foot|NN 
+fungi|NN mold|NN cause|NN athlete|NN foot|NN require|NN warmth|NN moisture|NN 
+risk|NN of|NN infection|NN exposure|NN environment|NN boot|NN foot|NN in|NN environment|NN shower|NN pool|NN treatment|NN tub|NN 
+chlorine|NN bleach|NN common|NN household|NN cleaner|NN mold|NN 
+surface|NN chlorine|NN bleach|NN solution|NN disease|NN contact|NN 
+bathtub|NN shower|NN bathroom|NN floor|NN sink|NN counter|NN bleach|NN spread|NN of|NN disease|NN reinfection|NN 
+sock|NN shoe|NN bleach|NN in|NN wash|NN way|NN fungi|NN hold|NN spread|NN 
+share|NN of|NN boot|NN shoe|NN way|NN transmission|NN 
+athlete|NN foot|NN transmitted|NN footwear|NN person|NN 
+purchase|NN shoe|NN form|NN of|NN 
+common|NN towel|NN one|NN 
+treatment|NN athlete|NN foot|NN medication|NN resolve|NN in|NN of|NN case|NN 
+medication|NN rate|NN of|NN cure|NN 
+treatment|NN foot|NN application|NN of|NN medication|NN 
+outer|NN skin|NN layer|NN reinfection|NN treatment|NN layer|NN of|NN skin|NN week|NN symptom|NN 
+foot|NN dry|NN hygiene|NN in|NN section|NN prevention|NN fungus|NN reinfection|NN 
+foot|NN 
+sock|NN shoe|NN fungi|NN infect|NN foot|NN 
+sock|NN in|NN wash|NN bleach|NN in|NN water|NN 
+bleach|NN shoe|NN way|NN contract|NN disease|NN pair|NN of|NN shoe|NN of|NN shoe|NN 
+treatment|NN area|NN toenail|NN hand|NN torso|NN 
+infection|NN back|NN area|NN 
+example|NN infection|NN of|NN nail|NN back|NN rest|NN of|NN foot|NN athlete|NN foot|NN 
+allylamines|NN terbinafine|NN azoles|NN treatment|NN of|NN athlete|NN foot|NN 
+skin|NN infection|NN treatment|NN medication|NN 
+treatment|NN antifungal|NN drug|NN in|NN treatment|NN of|NN athlete|NN foot|NN miconazole|NN nitrate|NN clotrimazole|NN tolnaftate|NN thiocarbamate|NN hydrochloride|NN hydrochloride|NN acid|NN 
+infection|NN antifungal|NN agent|NN form|NN of|NN spray|NN powder|NN cream|NN gel|NN 
+application|NN of|NN cream|NN butenafine|NN week|NN terbinafine|NN week|NN in|NN case|NN of|NN athlete|NN foot|NN application|NN of|NN miconazole|NN clotrimazole|NN 
+type|NN athlete|NN foot|NN treatment|NN presence|NN of|NN skin|NN sole|NN of|NN foot|NN 
+medication|NN acid|NN whitfield|NN ointment|NN acid|NN medication|NN penetration|NN of|NN agent|NN skin|NN 
+glucocorticoid|NN inflammation|NN itch|ST infection|NN 
+solution|NN of|NN 1|NN potassium|NN permanganate|NN in|NN water|NN drug|NN 
+potassium|NN permanganate|NN salt|NN oxidize|NN agent|NN 
+treatment|NN case|NN of|NN athlete|NN foot|NN terbinafine|NN griseofulvin|NN 
+fluconazole|NN itraconazole|NN athlete|NN foot|NN infection|NN 
+effect|NN medication|NN gastrointestinal|NN upset|NN 
+epidemiology|NN infection|NN of|NN population|NN of|NN adult|NN 
+athlete|NN foot|NN common|NN in|NN individual|NN rubber|NN boot|NN vinyl|NN shoe|NN 
+country|NN region|NN barefoot|NN common|NN experience|NN rate|NN of|NN athlete|NN foot|NN population|NN shoe|NN result|NN disease|NN penalty|NN of|NN civilization|NN 
+study|NN men|NN time|NN woman|NN 
+see|NN fungus|NN tinea|NN unguium|NN infection|NN toenail|NN foot|NN reference|NN rapini|NN bolognia|NN jorizzo|NN joseph|NN 
+dermatology|NN set|NN 
+louis|NN mosby|NN 
+se|NN torgerson|NN dj|NN 
+treatment|NN infection|NN of|NN skin|NN of|NN foot|NN http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd003584|NN 
+http|NN 
+pmid|NN http|NN 
+disease|NN http|NN 
+cdc|NN 
+december|NN http|NN http|NN 
+kaushik|NN pujalte|NN gg|NN st|NN 
+infection|NN 
+care|NN 
+http|NN 
+pmid|NN http|NN 
+people|NN risk|NN ringworm|NN http|NN 
+cdc|NN 
+december|NN http|NN http|NN september|NN 
+symptom|NN of|NN ringworm|NN http|NN 
+cdc|NN 
+december|NN http|NN 
+moriarty|NN b|NN hay|NN r|NN r|NN 
+diagnosis|NN management|NN of|NN tinea|NN 
+bmj|NN 
+e4380|NN 
+http|NN 
+pmid|NN http|NN 
+hawkins|NN dm|NN 
+infection|NN in|NN child|NN 
+clinic|NN of|NN america|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+homei|NN aya|NN 
+disease|NN in|NN britain|NN state|NN mycoses|NN modernity|NN http|NN j|NN 
+isbn|NN http|NN 
+perfect|NN ghannoum|NN john|NN 
+therapy|NN http|NN 
+york|NN healthcare|NN 
+isbn|NN http|NN s|NN 
+merck|NN edition|NN tinea|NN pedis|NN page|NN http|NN s|NN wayback|NN machine|NN 
+athlete|NN foot|NN http|NN 
+http|NN december|NN 
+tiougan|NN ja|NN cohen|NN sanchez|NN mr|NN 
+skin|NN condition|NN in|NN figure|NN skater|NN player|NN speed|NN skater|NN part|NN dermatosis|NN 
+sport|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN m|NN g|NN 
+dermatology|NN allergist|NN tinea|NN pedis|NN complication|NN http|NN 
+allergy|DS 
+2|NN 1|NN s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hainer|NN bl|NN 
+dermatophyte|NN infection|NN 
+family|NN physician|NN 
+1|NN 
+pmid|NN http|NN 
+jv|NN gj|NN 
+tinea|NN pedis|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN 
+1|NN 1|NN 
+http|NN 
+pmid|NN http|NN 
+likness|NN lp|NN 
+common|NN infection|NN in|NN athlete|NN guideline|NN 
+journal|NN of|NN association|NN 
+http|NN 
+pmid|NN http|NN 
+health|NN service|NN webpage|NN athlete|NN foot|NN http|NN http|NN wayback|NN machine|NN 
+flint|NN ww|NN cain|NN jd|NN 
+nail|NN skin|NN disorder|NN of|NN foot|NN 
+clinic|NN of|NN america|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+ilkit|NN m|NN durdu|NN m|NN 
+reaction|NN review|NN of|NN manifestation|NN epidemiology|NN etiology|NN management|NN 
+review|NN in|NN microbiology|NN 
+http|NN 
+pmid|NN http|NN 
+havlickova|NN b|NN czaika|NN va|NN 
+trend|NN in|NN skin|NN mycoses|NN worldwide|NN 
+mycoses|NN 
+http|NN 
+pmid|NN http|NN 
+rivera|NN z|NN l|NN 
+back|NN future|NN dermatophyte|NN genomics|NN http|NN 
+mbio|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+andrew|NN md|NN burn|NN m|NN 
+common|NN tinea|NN infection|NN in|NN child|NN http|NN 
+family|NN physician|NN 
+pmid|NN http|NN 
+http|NN 
+health|NN service|NN webpage|NN athlete|NN foot|NN cause|NN http|NN http|NN http|NN wayback|NN machine|NN mayo|NN website|NN athlete|NN foot|NN risk|NN factor|NN http|NN http|NN wayback|NN machine|NN merck|NN edition|NN 
+tinea|NN pedis|NN http|NN http|NN wayback|NN machine|NN del|NN palacio|NN garau|NN teresa|NN calvo|NN 
+trend|NN in|NN treatment|NN of|NN dermatophytosis|DS http|NN pdf|NN 
+biology|NN of|NN dermatophytes|NN fungi|NN 
+http|NN pdf|NN july|NN october|NN 
+jf|NN adam|NN bb|NN 
+skin|NN manifestation|NN of|NN athlete|NN in|NN summer|NN olympics|NN sport|NN medicine|NN physician|NN 
+sport|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+center|NN disease|NN control|NN webpage|NN athlete|NN foot|NN http|NN http|NN http|NN wayback|NN machine|NN 
+foot|NN remedy|NN http|NN tps|NN wayback|NN machine|NN family|NN physician|NN crawford|NN f|NN 
+crawford|NN fay|NN 
+treatment|NN infection|NN of|NN skin|NN nail|NN of|NN foot|NN http|NN review|NN 
+cochrane|NN database|NN of|NN review|NN cd001434|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+copy|NN http|NN pdf|NN 
+pdf|NN september|NN september|NN 
+rotta|NN i|NN sanchez|NN gonçalves|NN pr|NN correr|NN cj|NN 
+efficacy|NN safety|NN of|NN antifungal|NN in|NN treatment|NN of|NN dermatomycosis|NN review|NN 
+journal|NN of|NN dermatology|NN 
+tps|NN 
+pmid|NN http|NN 
+potassium|NN permanganate|NN http|NN 
+http|NN march|NN 
+gill|NN david|NN mark|NN robin|NN 
+review|NN of|NN epidemiology|NN of|NN tinea|NN unguium|NN in|NN community|NN 
+australas|NN j|NN dermatol|NN 
+1|NN 
+p|NN 
+pmid|NN http|NN 
+link|NN media|NN foot|NN common|NN classification|NN d|NN p|NN http|NN mesh|NN d014008|NN http|NN i|NN diseasesdb|NN http|NN medlineplus|NN http|NN emedicine|NN http|NN erview|NN resource|NN http|NN page|NN 1|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

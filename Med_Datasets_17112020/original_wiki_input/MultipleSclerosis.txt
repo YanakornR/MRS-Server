@@ -1,0 +1,266 @@
+Multiple sclerosis,MS,disseminated sclerosis,encephalomyelitis disseminata
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Multiple sclerosis
+Other names	Disseminated sclerosis, encephalomyelitis disseminata
+MS Demyelinisation CD68 10xv2.jpg
+CD68-stained tissue shows several macrophages in the area of a demyelinated lesion caused by MS.
+Specialty	Neurology
+Symptoms	Double vision, blindness in one eye, muscle weakness, trouble with sensation, trouble with coordination[1]
+Usual onset	Age 20–50[2]
+Duration	Long term[1]
+Causes	Unknown[3]
+Diagnostic method	Based on symptoms and medical tests[4]
+Treatment	Medications, physical therapy[1]
+Prognosis	5–10 year shorter life expectancy[5]
+Frequency	2 million (2015)[6]
+Deaths	18,900 (2015)[7]
+
+Multiple sclerosis (MS) is a demyelinating disease in which the insulating covers of nerve cells in the brain and spinal cord are damaged.[1] This damage disrupts the ability of parts of the nervous system to communicate, resulting in a range of signs and symptoms, including physical, mental, and sometimes psychiatric problems.[5][8][9] Specific symptoms can include double vision, blindness in one eye, muscle weakness, trouble with sensation, or coordination.[1] MS takes several forms, with new symptoms either occurring in isolated attacks (relapsing forms) or building up over time (progressive forms).[10] Between attacks, symptoms may disappear completely; however, permanent neurological problems often remain, especially with the advancement of the disease.[10]
+
+While the cause is unclear, the underlying mechanism is thought to be either destruction by the immune system or failure of the myelin-producing cells.[3] Proposed causes for this include genetics and environmental factors such as being triggered by a viral infection.[8][11] MS is usually diagnosed based on the presenting signs and symptoms and the results of supporting medical tests.[4]
+
+There is no known cure for multiple sclerosis.[1] Treatments attempt to improve function after an attack and prevent new attacks.[8] Medications used to treat MS, while modestly effective, can have side effects and be poorly tolerated.[1] Physical therapy can help with people's ability to function.[1] Many people pursue alternative treatments, despite a lack of evidence of benefit.[12] The long-term outcome is difficult to predict, with good outcomes more often seen in women, those who develop the disease early in life, those with a relapsing course, and those who initially experienced few attacks.[13] Life expectancy is on average 5 to 10 years lower than that of an unaffected population.[5]
+
+Multiple sclerosis is the most common immune-mediated disorder affecting the central nervous system.[14] In 2015, about 2.3 million people were affected globally with rates varying widely in different regions and among different populations.[6][15] That year about 18,900 people died from MS, up from 12,000 in 1990.[7][16] The disease usually begins between the ages of 20 and 50 and is twice as common in women as in men.[2] MS was first described in 1868 by Jean-Martin Charcot.[17] The name multiple sclerosis refers to the numerous scars (sclerae—better known as plaques or lesions) that develop on the white matter of the brain and spinal cord.[17] A number of new treatments and diagnostic methods are under development.[18]
+File:Wikipedia-VideoWiki-Multiple sclerosis.webmPlay media
+Video summary (script)
+Contents
+
+    1 Signs and symptoms
+    2 Causes
+        2.1 Geography
+        2.2 Genetics
+        2.3 Infectious agents
+        2.4 Other
+    3 Pathophysiology
+        3.1 Lesions
+        3.2 Inflammation
+        3.3 Blood–brain barrier
+    4 Diagnosis
+    5 Types
+    6 Management
+        6.1 Acute attacks
+        6.2 Disease-modifying treatments
+        6.3 Associated symptoms
+        6.4 Alternative treatments
+    7 Prognosis
+    8 Epidemiology
+    9 History
+        9.1 Medical discovery
+        9.2 Diagnosis
+        9.3 Historical cases
+    10 Research
+        10.1 Medications
+        10.2 Pathogenesis
+        10.3 Disease biomarkers
+        10.4 Chronic cerebrospinal venous insufficiency
+    11 See also
+    12 References
+    13 External links
+
+Signs and symptoms
+Main article: Multiple sclerosis signs and symptoms
+Main symptoms of multiple sclerosis
+
+A person with MS can have almost any neurological symptom or sign, with autonomic, visual, motor, and sensory problems being the most common.[5] The specific symptoms are determined by the locations of the lesions within the nervous system, and may include loss of sensitivity or changes in sensation such as tingling, pins and needles or numbness, muscle weakness, blurred vision,[19] very pronounced reflexes, muscle spasms, or difficulty in moving; difficulties with coordination and balance (ataxia); problems with speech or swallowing, visual problems (nystagmus, optic neuritis or double vision), feeling tired, acute or chronic pain, and bladder and bowel difficulties, among others.[5] Difficulties thinking and emotional problems such as depression or unstable mood are also common.[5] Uhthoff's phenomenon, a worsening of symptoms due to exposure to higher than usual temperatures, and Lhermitte's sign, an electrical sensation that runs down the back when bending the neck, are particularly characteristic of MS.[5] The main measure of disability and severity is the expanded disability status scale (EDSS), with other measures such as the multiple sclerosis functional composite being increasingly used in research.[20][21][22]
+
+The condition begins in 85% of cases as a clinically isolated syndrome (CIS) over a number of days with 45% having motor or sensory problems, 20% having optic neuritis, and 10% having symptoms related to brainstem dysfunction, while the remaining 25% have more than one of the previous difficulties.[4] The course of symptoms occurs in two main patterns initially: either as episodes of sudden worsening that last a few days to months (called relapses, exacerbations, bouts, attacks, or flare-ups) followed by improvement (85% of cases) or as a gradual worsening over time without periods of recovery (10–15% of cases).[2] A combination of these two patterns may also occur[10] or people may start in a relapsing and remitting course that then becomes progressive later on.[2] Relapses are usually not predictable, occurring without warning.[5] Exacerbations rarely occur more frequently than twice per year.[5] Some relapses, however, are preceded by common triggers and they occur more frequently during spring and summer.[23] Similarly, viral infections such as the common cold, influenza, or gastroenteritis increase their risk.[5] Stress may also trigger an attack.[24] Women with MS who become pregnant experience fewer relapses; however, during the first months after delivery the risk increases.[5] Overall, pregnancy does not seem to influence long-term disability.[5] Many events have been found not to affect relapse rates including vaccination, breast feeding,[5] physical trauma,[25] and Uhthoff's phenomenon.[23]
+Causes
+
+The cause of MS is unknown; however, it is believed to occur as a result of some combination of genetic and environmental factors such as infectious agents.[5] Theories try to combine the data into likely explanations, but none has proved definitive. While there are a number of environmental risk factors and although some are partly modifiable, further research is needed to determine whether their elimination can prevent MS.[26]
+Geography
+
+MS is more common in people who live farther from the equator, although exceptions exist.[5][27] These exceptions include ethnic groups that are at low risk far from the equator such as the Samis, Amerindians, Canadian Hutterites, New Zealand Māori,[28] and Canada's Inuit,[2] as well as groups that have a relatively high risk close to the equator such as Sardinians,[2] inland Sicilians,[29] Palestinians, and Parsi.[28] The cause of this geographical pattern is not clear.[2] While the north-south gradient of incidence is decreasing,[27] as of 2010 it is still present.[2]
+
+MS is more common in regions with northern European populations[5] and the geographic variation may simply reflect the global distribution of these high-risk populations.[2] Decreased sunlight exposure resulting in decreased vitamin D production has also been put forward as an explanation.[30][31][32] A relationship between season of birth and MS lends support to this idea, with fewer people born in the northern hemisphere in November as compared to May being affected later in life.[33] Environmental factors may play a role during childhood, with several studies finding that people who move to a different region of the world before the age of 15 acquire the new region's risk to MS. If migration takes place after age 15, however, the person retains the risk of their home country.[5][26] There is some evidence that the effect of moving may still apply to people older than 15.[5]
+Genetics
+HLA region of Chromosome 6. Changes in this area increase the probability of getting MS.
+
+MS is not considered a hereditary disease; however, a number of genetic variations have been shown to increase the risk.[34] Some of these genes appear to have higher levels of expression in microglial cells than expected by chance.[35] The probability of developing the disease is higher in relatives of an affected person, with a greater risk among those more closely related.[8] In identical twins both are affected about 30% of the time, while around 5% for non-identical twins and 2.5% of siblings are affected with a lower percentage of half-siblings.[5][8][36] If both parents are affected the risk in their children is 10 times that of the general population.[2] MS is also more common in some ethnic groups than others.[37]
+
+Specific genes that have been linked with MS include differences in the human leukocyte antigen (HLA) system—a group of genes on chromosome 6 that serves as the major histocompatibility complex (MHC).[5] That differences in the HLA region are related to susceptibility has been known since the 1980s,[38] and this same region has also been implicated in the development of other autoimmune diseases such as diabetes type I and systemic lupus erythematosus.[38] The most consistent finding is the association between multiple sclerosis and alleles of the MHC defined as DR15 and DQ6.[5] Other loci have shown a protective effect, such as HLA-C554 and HLA-DRB1*11.[5] Overall, it has been estimated that HLA differences account for between 20% and 60% of the genetic predisposition.[38] Modern genetic methods (genome-wide association studies) have revealed at least twelve other genes outside the HLA locus that modestly increase the probability of MS.[38]
+Infectious agents
+
+Many microbes have been proposed as triggers of MS, but none have been confirmed.[8] Moving at an early age from one location in the world to another alters a person's subsequent risk of MS.[11] An explanation for this could be that some kind of infection, produced by a widespread microbe rather than a rare one, is related to the disease.[11] Proposed mechanisms include the hygiene hypothesis and the prevalence hypothesis. The hygiene hypothesis proposes that exposure to certain infectious agents early in life is protective, the disease is a response to a late encounter with such agents.[5] The prevalence hypothesis proposes that the disease is due to an infectious agent more common in regions where MS is common and where, in most individuals, it causes an ongoing infection without symptoms. Only in a few cases and after many years does it cause demyelination.[11][39] The hygiene hypothesis has received more support than the prevalence hypothesis.[11]
+
+Evidence for a virus as a cause include the presence of oligoclonal bands in the brain and cerebrospinal fluid of most people with MS, the association of several viruses with human demyelination encephalomyelitis, and the occurrence of demyelination in animals caused by some viral infections.[40] Human herpes viruses are a candidate group of viruses. Individuals having never been infected by the Epstein–Barr virus are at a reduced risk of getting MS, whereas those infected as young adults are at a greater risk than those having had it at a younger age.[5][11] Although some consider that this goes against the hygiene hypothesis, since the non-infected have probably experienced a more hygienic upbringing,[11] others believe that there is no contradiction, since it is a first encounter with the causative virus relatively late in life that is the trigger for the disease.[5] Other diseases that may be related include measles, mumps and rubella.[5]
+Other
+
+Smoking has been shown to be an independent risk factor for MS.[30] Stress may be a risk factor although the evidence to support this is weak.[26] Association with occupational exposures and toxins—mainly solvents—has been evaluated, but no clear conclusions have been reached.[26] Vaccinations were studied as causal factors; however, most studies show no association.[26] Several other possible risk factors, such as diet and hormone intake, have been looked at; however, evidence on their relation with the disease is "sparse and unpersuasive".[30] Gout occurs less than would be expected and lower levels of uric acid have been found in people with MS. This has led to the theory that uric acid is protective, although its exact importance remains unknown.[41]
+Pathophysiology
+Main article: Pathophysiology of multiple sclerosis
+Multiple sclerosis
+Nerve axon with myelin sheath
+
+The three main characteristics of MS are the formation of lesions in the central nervous system (also called plaques), inflammation, and the destruction of myelin sheaths of neurons. These features interact in a complex and not yet fully understood manner to produce the breakdown of nerve tissue and in turn the signs and symptoms of the disease.[5] Cholesterol crystals are believed to both impair myelin repair and aggravate inflammation.[42][43] MS is believed to be an immune-mediated disorder that develops from an interaction of the individual's genetics and as yet unidentified environmental causes.[8] Damage is believed to be caused, at least in part, by attack on the nervous system by a person's own immune system.[5]
+Lesions
+Demyelination in MS. On Klüver-Barrera myelin staining, decoloration in the area of the lesion can be appreciated
+
+The name multiple sclerosis refers to the scars (sclerae – better known as plaques or lesions) that form in the nervous system. These lesions most commonly affect the white matter in the optic nerve, brain stem, basal ganglia, and spinal cord, or white matter tracts close to the lateral ventricles.[5] The function of white matter cells is to carry signals between grey matter areas, where the processing is done, and the rest of the body. The peripheral nervous system is rarely involved.[8]
+
+To be specific, MS involves the loss of oligodendrocytes, the cells responsible for creating and maintaining a fatty layer—known as the myelin sheath—which helps the neurons carry electrical signals (action potentials).[5] This results in a thinning or complete loss of myelin and, as the disease advances, the breakdown of the axons of neurons. When the myelin is lost, a neuron can no longer effectively conduct electrical signals.[8] A repair process, called remyelination, takes place in early phases of the disease, but the oligodendrocytes are unable to completely rebuild the cell's myelin sheath.[44] Repeated attacks lead to successively less effective remyelinations, until a scar-like plaque is built up around the damaged axons.[44] These scars are the origin of the symptoms and during an attack magnetic resonance imaging (MRI) often shows more than ten new plaques.[5] This could indicate that there are a number of lesions below which the brain is capable of repairing itself without producing noticeable consequences.[5] Another process involved in the creation of lesions is an abnormal increase in the number of astrocytes due to the destruction of nearby neurons.[5] A number of lesion patterns have been described.[45]
+Inflammation
+
+Apart from demyelination, the other sign of the disease is inflammation. Fitting with an immunological explanation, the inflammatory process is caused by T cells, a kind of lymphocyte that plays an important role in the body's defenses.[8] T cells gain entry into the brain via disruptions in the blood–brain barrier. The T cells recognize myelin as foreign and attack it, explaining why these cells are also called "autoreactive lymphocytes".[5]
+
+The attack of myelin starts inflammatory processes, which triggers other immune cells and the release of soluble factors like cytokines and antibodies. A further breakdown of the blood-brain barrier, in turn, causes a number of other damaging effects such as swelling, activation of macrophages, and more activation of cytokines and other destructive proteins.[8] Inflammation can potentially reduce transmission of information between neurons in at least three ways.[5] The soluble factors released might stop neurotransmission by intact neurons. These factors could lead to or enhance the loss of myelin, or they may cause the axon to break down completely.[5]
+Blood–brain barrier
+
+The blood–brain barrier (BBB) is a part of the capillary system that prevents the entry of T cells into the central nervous system. It may become permeable to these types of cells secondary to an infection by a virus or bacteria. After it repairs itself, typically once the infection has cleared, T cells may remain trapped inside the brain.[8] Gadolinium cannot cross a normal BBB and, therefore, gadolinium-enhanced MRI is used to show BBB breakdowns.[46]
+Diagnosis
+Animation showing dissemination of brain lesions in time and space as demonstrated by monthly MRI studies along a year
+Multiple sclerosis as seen on MRI
+
+Multiple sclerosis is typically diagnosed based on the presenting signs and symptoms, in combination with supporting medical imaging and laboratory testing.[4] It can be difficult to confirm, especially early on, since the signs and symptoms may be similar to those of other medical problems.[5][47] The McDonald criteria, which focus on clinical, laboratory, and radiologic evidence of lesions at different times and in different areas, is the most commonly used method of diagnosis[15] with the Schumacher and Poser criteria being of mostly historical significance.[48]
+
+Clinical data alone may be sufficient for a diagnosis of MS if an individual has had separate episodes of neurological symptoms characteristic of the disease.[49] In those who seek medical attention after only one attack, other testing is needed for the diagnosis. The most commonly used diagnostic tools are neuroimaging, analysis of cerebrospinal fluid and evoked potentials. Magnetic resonance imaging of the brain and spine may show areas of demyelination (lesions or plaques). Gadolinium can be administered intravenously as a contrast agent to highlight active plaques and, by elimination, demonstrate the existence of historical lesions not associated with symptoms at the moment of the evaluation.[49][50] Testing of cerebrospinal fluid obtained from a lumbar puncture can provide evidence of chronic inflammation in the central nervous system. The cerebrospinal fluid is tested for oligoclonal bands of IgG on electrophoresis, which are inflammation markers found in 75–85% of people with MS.[49][51] The nervous system in MS may respond less actively to stimulation of the optic nerve and sensory nerves due to demyelination of such pathways. These brain responses can be examined using visual- and sensory-evoked potentials.[52]
+
+While the above criteria allow for a non-invasive diagnosis, and even though some state[5] that the only definitive proof is an autopsy or biopsy where lesions typical of MS are detected,[49][53] currently, as of 2017, there is no single test (including biopsy) that can provide a definitive diagnosis of this disease.[54]
+Types
+
+Several phenotypes (commonly termed types), or patterns of progression, have been described. Phenotypes use the past course of the disease in an attempt to predict the future course. They are important not only for prognosis but also for treatment decisions. Currently, the United States National Multiple Sclerosis Society and the Multiple Sclerosis International Federation, describes four types of MS (revised in 2013):[55][56][57]
+
+    Clinically isolated syndrome (CIS)
+    Relapsing-remitting MS (RRMS)
+    Primary progressive MS (PPMS)
+    Secondary progressive MS (SPMS)
+
+Relapsing-remitting MS is characterized by unpredictable relapses followed by periods of months to years of relative quiet (remission) with no new signs of disease activity. Deficits that occur during attacks may either resolve or leave problems, the latter in about 40% of attacks and being more common the longer a person has had the disease.[5][4] This describes the initial course of 80% of individuals with MS.[5] When deficits always resolve between attacks, this is sometimes referred to as benign MS,[58] although people will still build up some degree of disability in the long term.[5] On the other hand, the term malignant multiple sclerosis is used to describe people with MS having reached significant level of disability in a short period.[59] The relapsing-remitting subtype usually begins with a clinically isolated syndrome (CIS). In CIS, a person has an attack suggestive of demyelination, but does not fulfill the criteria for multiple sclerosis.[5][60] 30 to 70% of persons experiencing CIS later develop MS.[60]
+
+Primary progressive MS occurs in approximately 10–20% of individuals, with no remission after the initial symptoms.[4][61] It is characterized by progression of disability from onset, with no, or only occasional and minor, remissions and improvements.[10] The usual age of onset for the primary progressive subtype is later than of the relapsing-remitting subtype. It is similar to the age that secondary progressive usually begins in relapsing-remitting MS, around 40 years of age.[5]
+
+Secondary progressive MS occurs in around 65% of those with initial relapsing-remitting MS, who eventually have progressive neurologic decline between acute attacks without any definite periods of remission.[5][10] Occasional relapses and minor remissions may appear.[10] The most common length of time between disease onset and conversion from relapsing-remitting to secondary progressive MS is 19 years.[62]
+
+Other, unusual types of MS have been described; these include Devic's disease, Balo concentric sclerosis, Schilder's diffuse sclerosis, and Marburg multiple sclerosis. There is debate on whether they are MS variants or different diseases.[63] Multiple sclerosis behaves differently in children, taking more time to reach the progressive stage.[5] Nevertheless, they still reach it at a lower average age than adults usually do.[5]
+Management
+Main article: Management of multiple sclerosis
+
+Although there is no known cure for multiple sclerosis, several therapies have proven helpful. The primary aims of therapy are returning function after an attack, preventing new attacks, and preventing disability. Starting medications is generally recommended in people after the first attack when more than two lesions are seen on MRI.[64]
+
+As with any medical treatment, medications used in the management of MS have several adverse effects. Alternative treatments are pursued by some people, despite the shortage of supporting evidence.
+Acute attacks
+
+During symptomatic attacks, administration of high doses of intravenous corticosteroids, such as methylprednisolone, is the usual therapy,[5] with oral corticosteroids seeming to have a similar efficacy and safety profile.[65] Although, in general, effective in the short term for relieving symptoms, corticosteroid treatments do not appear to have a significant impact on long-term recovery.[66] The consequences of severe attacks that do not respond to corticosteroids might be treatable by plasmapheresis.[5]
+Disease-modifying treatments
+Relapsing remitting multiple sclerosis
+
+As of 2019, twelve disease-modifying medications are approved by regulatory agencies for relapsing-remitting multiple sclerosis (RRMS). They are interferon beta-1a, interferon beta-1b, glatiramer acetate, mitoxantrone, natalizumab, fingolimod, teriflunomide,[67][68] dimethyl fumarate,[69] alemtuzumab,[70][71] ocrelizumab,[72] siponimod,[73] and cladribine.[74]
+
+Their cost effectiveness as of 2012 is unclear.[75] In March 2017 the FDA approved ocrelizumab, a humanized anti-CD20 monoclonal antibody, as a treatment for RRMS,[76][77] with requirements for several Phase IV clinical trials.[78]
+
+In RRMS they are modestly effective at decreasing the number of attacks.[67] The interferons and glatiramer acetate are first-line treatments[4] and are roughly equivalent, reducing relapses by approximately 30%.[79] Early-initiated long-term therapy is safe and improves outcomes.[80][81] Natalizumab reduces the relapse rate more than first-line agents; however, due to issues of adverse effects is a second-line agent reserved for those who do not respond to other treatments[4] or with severe disease.[79] Mitoxantrone, whose use is limited by severe adverse effects, is a third-line option for those who do not respond to other medications.[4] Treatment of clinically isolated syndrome (CIS) with interferons decreases the chance of progressing to clinical MS.[5][82] Efficacy of interferons and glatiramer acetate in children has been estimated to be roughly equivalent to that of adults.[83] The role of some newer agents such as fingolimod, teriflunomide, and dimethyl fumarate, as of 2011, is not yet entirely clear.[84]
+
+As of 2017, rituximab was widely used off-label to treat RRMS.[85]
+Progressive multiple sclerosis
+
+As of 2017, rituximab has been widely used off-label to treat progressive primary MS.[85] In March 2017 the FDA approved ocrelizumab as a treatment for primary progressive MS, the first drug to gain that approval,[76][77] with requirements for several Phase IV clinical trials.[78]
+
+As of 2011, only one medication, mitoxantrone, has been approved for secondary progressive MS.[86] In this population tentative evidence supports mitoxantrone moderately slowing the progression of the disease and decreasing rates of relapses over two years.[87][88]
+Adverse effects
+Irritation zone after injection of glatiramer acetate.
+
+The disease-modifying treatments have several adverse effects. One of the most common is irritation at the injection site for glatiramer acetate and the interferons (up to 90% with subcutaneous injections and 33% with intramuscular injections).[89] Over time, a visible dent at the injection site, due to the local destruction of fat tissue, known as lipoatrophy, may develop.[89] Interferons may produce flu-like symptoms;[90] some people taking glatiramer experience a post-injection reaction with flushing, chest tightness, heart palpitations, and anxiety, which usually lasts less than thirty minutes.[91] More dangerous but much less common are liver damage from interferons,[92] systolic dysfunction (12%), infertility, and acute myeloid leukemia (0.8%) from mitoxantrone,[87][93] and progressive multifocal leukoencephalopathy occurring with natalizumab (occurring in 1 in 600 people treated).[4][94]
+
+Fingolimod may give rise to hypertension and slowed heart rate, macular edema, elevated liver enzymes or a reduction in lymphocyte levels.[84] Tentative evidence supports the short-term safety of teriflunomide, with common side effects including: headaches, fatigue, nausea, hair loss, and limb pain.[67] There have also been reports of liver failure and PML with its use and it is dangerous for fetal development.[84] Most common side effects of dimethyl fumarate are flushing and gastrointestinal problems.[69][84] While dimethyl fumarate may lead to a reduction in the white blood cell count there were no reported cases of opportunistic infections during trials.[95][96]
+Associated symptoms
+
+Both medications and neurorehabilitation have been shown to improve some symptoms, though neither changes the course of the disease.[97] Some symptoms have a good response to medication, such as an unstable bladder and spasticity, while others are little changed.[5] For neurologic problems, a multidisciplinary approach is important for improving quality of life; however, it is difficult to specify a 'core team' as many health services may be needed at different points in time.[5] Multidisciplinary rehabilitation programs increase activity and participation of people with MS but do not influence impairment level.[98] There is limited evidence for the overall efficacy of individual therapeutic disciplines,[99][100] though there is good evidence that specific approaches, such as exercise,[101][102] and psychological therapies are effective.[103] Cognitive behavioral therapy has shown to be moderately effective for reducing MS fatigue.[104]
+Alternative treatments
+
+Over 50% of people with MS may use complementary and alternative medicine, although percentages vary depending on how alternative medicine is defined.[12] The evidence for the effectiveness for such treatments in most cases is weak or absent.[12][105] Treatments of unproven benefit used by people with MS include dietary supplementation and regimens,[12][106][107] vitamin D,[108] relaxation techniques such as yoga,[12] herbal medicine (including medical cannabis),[12][109][110] hyperbaric oxygen therapy,[111] self-infection with hookworms, reflexology, acupuncture,[12][112] and mindfulness.[113] Regarding the characteristics of users, they are more frequently women, have had MS for a longer time, tend to be more disabled and have lower levels of satisfaction with conventional healthcare.[12]
+Prognosis
+Disability-adjusted life year for multiple sclerosis per 100,000 inhabitants in 2012
+  32-68
+  68-75
+  77-77
+  77-88
+  88-105
+  106-118
+  119-119
+  120-148
+  151-462
+  470-910
+
+The expected future course of the disease depends on the subtype of the disease; the individual's sex, age, and initial symptoms; and the degree of disability the person has.[13] Female sex, relapsing-remitting subtype, optic neuritis or sensory symptoms at onset, few attacks in the initial years and especially early age at onset, are associated with a better course.[13][114]
+
+The average life expectancy is 30 years from the start of the disease, which is 5 to 10 years less than that of unaffected people.[5] Almost 40% of people with MS reach the seventh decade of life.[114] Nevertheless, two-thirds of the deaths are directly related to the consequences of the disease.[5] Suicide is more common, while infections and other complications are especially dangerous for the more disabled.[5] Although most people lose the ability to walk before death, 90% are capable of independent walking at 10 years from onset, and 75% at 15 years.[115][needs update?]
+Epidemiology
+Deaths from multiple sclerosis per million persons in 2012
+  0-0
+  1-1
+  2-2
+  3–5
+  6–12
+  13–25
+
+MS is the most common autoimmune disorder of the central nervous system.[14] As of 2010, the number of people with MS was 2–2.5 million (approximately 30 per 100,000) globally, with rates varying widely in different regions.[15][2] It is estimated to have resulted in 18,000 deaths that year.[116] In Africa rates are less than 0.5 per 100,000, while they are 2.8 per 100,000 in South East Asia, 8.3 per 100,000 in the Americas, and 80 per 100,000 in Europe.[15] Rates surpass 200 per 100,000 in certain populations of Northern European descent.[2] The number of new cases that develop per year is about 2.5 per 100,000.[15]
+
+Rates of MS appear to be increasing; this, however, may be explained simply by better diagnosis.[2] Studies on populational and geographical patterns have been common[39] and have led to a number of theories about the cause.[11][26][30]
+
+MS usually appears in adults in their late twenties or early thirties but it can rarely start in childhood and after 50 years of age.[2][15] The primary progressive subtype is more common in people in their fifties.[61] Similar to many autoimmune disorders, the disease is more common in women, and the trend may be increasing.[5][27] As of 2008, globally it is about two times more common in women than in men.[15] In children, it is even more common in females than males,[5] while in people over fifty, it affects males and females almost equally.[61]
+History
+Medical discovery
+Detail of Carswell's drawing of MS lesions in the brain stem and spinal cord (1838)
+
+Robert Carswell (1793–1857), a British professor of pathology, and Jean Cruveilhier (1791–1873), a French professor of pathologic anatomy, described and illustrated many of the disease's clinical details, but did not identify it as a separate disease.[117] Specifically, Carswell described the injuries he found as "a remarkable lesion of the spinal cord accompanied with atrophy".[5] Under the microscope, Swiss pathologist Georg Eduard Rindfleisch (1836–1908) noted in 1863 that the inflammation-associated lesions were distributed around blood vessels.[118][119]
+
+The French neurologist Jean-Martin Charcot (1825–1893) was the first person to recognize multiple sclerosis as a distinct disease in 1868.[117] Summarizing previous reports and adding his own clinical and pathological observations, Charcot called the disease sclerose en plaques.
+Diagnosis
+
+The first attempt to establish a set of diagnostic criteria was also due to Charcot in 1868. He published what now is known as the "Charcot Triad", consisting in nystagmus, intention tremor, and telegraphic speech (scanning speech)[120] Charcot also observed cognition changes, describing his patients as having a "marked enfeeblement of the memory" and "conceptions that formed slowly".[17]
+
+Diagnosis was based on Charcot triad and clinical observation until Schumacher made the first attempt to standardize criteria in 1965 by introducing some fundamental requirements: Dissemination of the lesions in time (DIT) and space (DIS), and that "signs and symptoms cannot be explained better by another disease process".[120] Both requirements were later inherited by Poser criteria and McDonald criteria, whose 2010 version is currently in use.
+
+During the 20th century, theories about the cause and pathogenesis were developed and effective treatments began to appear in the 1990s.[5] Since the beginning of the 21st century, refinements of the concepts have taken place. The 2010 revision of the McDonald criteria allowed for the diagnosis of MS with only one proved lesion (CIS).[121] Subsequently, three years later, the 2013 revision of the "phenotypes for the disease course" were forced to consider CIS as one of the phenotypes of MS, making obsolete some expressions like "conversion from CIS to MS".[122]
+Historical cases
+Photographic study of locomotion of a female with MS with walking difficulties created in 1887 by Muybridge
+
+There are several historical accounts of people who probably had MS and lived before or shortly after the disease was described by Charcot.
+
+A young woman called Halldora who lived in Iceland around 1200 suddenly lost her vision and mobility but, after praying to the saints, recovered them seven days after. Saint Lidwina of Schiedam (1380–1433), a Dutch nun, may be one of the first clearly identifiable people with MS. From the age of 16 until her death at 53, she had intermittent pain, weakness of the legs, and vision loss—symptoms typical of MS.[123] Both cases have led to the proposal of a "Viking gene" hypothesis for the dissemination of the disease.[124]
+
+Augustus Frederick d'Este (1794–1848), son of Prince Augustus Frederick, Duke of Sussex and Lady Augusta Murray and the grandson of George III of the United Kingdom, almost certainly had MS. D'Este left a detailed diary describing his 22 years living with the disease. His diary began in 1822 and ended in 1846, although it remained unknown until 1948. His symptoms began at age 28 with a sudden transient visual loss (amaurosis fugax) after the funeral of a friend. During his disease, he developed weakness of the legs, clumsiness of the hands, numbness, dizziness, bladder disturbances, and erectile dysfunction. In 1844, he began to use a wheelchair. Despite his illness, he kept an optimistic view of life.[125][126] Another early account of MS was kept by the British diarist W. N. P. Barbellion, nom-de-plume of Bruce Frederick Cummings (1889–1919), who maintained a detailed log of his diagnosis and struggle.[126] His diary was published in 1919 as The Journal of a Disappointed Man.[127]
+Research
+Main article: Multiple sclerosis research
+For the journal formerly known as Multiple Sclerosis, see Multiple Sclerosis Journal.
+Medications
+Chemical structure of alemtuzumab
+
+There is ongoing research looking for more effective, convenient, and tolerable treatments for relapsing-remitting MS; creation of therapies for the progressive subtypes; neuroprotection strategies; and effective symptomatic treatments.[18]
+
+During the 2000s and 2010s, there has been approval of several oral drugs that are expected to gain in popularity and frequency of use.[128] Several more oral drugs are under investigation, including ozanimod, laquinimod, and estriol. Laquinimod was announced in August 2012 and is in a third phase III trial after mixed results in the previous ones.[129] Similarly, studies aimed to improve the efficacy and ease of use of already existing therapies are occurring. This includes the use of new preparations such as the PEGylated version of interferon-β-1a, which it is hoped may be given at less frequent doses with similar effects.[130][131] Estriol, a female sex hormone found at high concentrations during late pregnancy, has been identified as a candidate therapy for women with relapsing-remitting MS and has progressed through Phase II trials.[132][133] Request for approval of peginterferon beta-1a is expected during 2013.[131]
+
+Monoclonal antibodies have also raised high levels of interest. As of 2012 alemtuzumab, daclizumab, and CD20 monoclonal antibodies such as rituximab, ocrelizumab and ofatumumab had all shown some benefit and were under study as potential treatments,[96] and the FDA approved ocrelizumab for relapsing and primary MS in March 2017.[134] Their use has also been accompanied by the appearance of potentially dangerous adverse effects, the most important of which being opportunistic infections.[128] Related to these investigations is the development of a test for JC virus antibodies, which might help to determine who is at greater risk of developing progressive multifocal leukoencephalopathy when taking natalizumab.[128] While monoclonal antibodies will probably have some role in the treatment of the disease in the future, it is believed that it will be small due to the risks associated with them.[128]
+
+Another research strategy is to evaluate the combined effectiveness of two or more drugs.[135] The main rationale for using a number of medications in MS is that the involved treatments target different mechanisms and, therefore, their use is not necessarily exclusive.[135] Synergies, in which one drug improves the effect of another are also possible, but there can also be drawbacks such as the blocking of the action of the other or worsened side-effects.[135] There have been several trials of combined therapy, yet none have shown positive enough results to be considered as a useful treatment for MS.[135]
+
+Research on neuroprotection and regenerative treatments, such as stem cell therapy, while of high importance, are in the early stages.[136] Likewise, there are not any effective treatments for the progressive variants of the disease. Many of the newest drugs as well as those under development are probably going to be evaluated as therapies for PPMS or SPMS.[128]
+Pathogenesis
+
+MS is a clinically defined entity with several atypical presentations. Some auto-antibodies have been found in atypical MS cases, giving birth to separate disease families and restricting the previously wider concept of MS.
+
+First of all, anti-AQP4 autoantibodies were found in neuromyelitis optica (NMO), which was previously considered a MS variant. After that, a whole spectrum of diseases named NMOSD (NMO spectrum diseases) or anti-AQP4 diseases has been accepted.[137]
+
+Later, it was found that some cases of MS were presenting anti-MOG autoantibodies, mainly overlapping with the Marburg variant. Anti-MOG autoantibodies were found to be also present in ADEM, and now a second spectrum of separated diseases is being considered. At this moment, it is named inconsistently across different authors, but it is normally something similar to anti-MOG demyelinating diseases.[137]
+
+Finally, a third kind of auto-antibodies is accepted. They are several anti-neurofascin auto-antibodies which damage the Ranvier nodes of the neurones. These antibodies are more related to the peripheral nervous demyelination, but they were also found in chronic progressive PPMS and combined central and peripheral demyelination (CCPD, which is considered another atypical MS presentation).[138]
+
+Besides all this autoantibodies found, four different patterns of demyelination have been reported in MS, opening the door to consider MS as an heterogeneous disease.[139]
+Disease biomarkers
+MRI brain scan produced using a Gradient-echo phase sequence showing an iron deposit in a white matter lesion (inside green box in the middle of the image; enhanced and marked by red arrow top-left corner)[140]
+
+While diagnostic criteria are not expected to change in the near future, work to develop biomarkers that help with diagnosis and prediction of disease progression is ongoing.[128] New diagnostic methods that are being investigated include work with anti-myelin antibodies, and studies with serum and cerebrospinal fluid, but none of them has yielded reliably positive results.[141]
+
+At the current time, there are no laboratory investigations that can predict prognosis. Several promising approaches have been proposed including: interleukin-6, nitric oxide and nitric oxide synthase, osteopontin, and fetuin-A.[141] Since disease progression is the result of degeneration of neurons, the roles of proteins showing loss of nerve tissue such as neurofilaments, tau, and N-acetylaspartate are under investigation.[141] Other effects include looking for biomarkers that distinguish between those who will and will not respond to medications.[141]
+
+Improvement in neuroimaging techniques such as positron emission tomography (PET) or magnetic resonance imaging (MRI) carry a promise for better diagnosis and prognosis predictions, although the effect of such improvements in daily medical practice may take several decades.[128] Regarding MRI, there are several techniques that have already shown some usefulness in research settings and could be introduced into clinical practice, such as double-inversion recovery sequences, magnetization transfer, diffusion tensor, and functional magnetic resonance imaging.[142] These techniques are more specific for the disease than existing ones, but still lack some standardization of acquisition protocols and the creation of normative values.[142] There are other techniques under development that include contrast agents capable of measuring levels of peripheral macrophages, inflammation, or neuronal dysfunction,[142] and techniques that measure iron deposition that could serve to determine the role of this feature in MS, or that of cerebral perfusion.[142] Similarly, new PET radiotracers might serve as markers of altered processes such as brain inflammation, cortical pathology, apoptosis, or remylienation.[143] Antibiodies against the Kir4.1 potassium channel may be related to MS.[144]
+Chronic cerebrospinal venous insufficiency
+Main article: Chronic cerebrospinal venous insufficiency
+
+In 2008, vascular surgeon Paolo Zamboni suggested that MS involves narrowing of the veins draining the brain, which he referred to as chronic cerebrospinal venous insufficiency (CCSVI). He found CCSVI in all patients with MS in his study, performed a surgical procedure, later called in the media the "liberation procedure" to correct it, and claimed that 73% of participants improved.[145] This theory received significant attention in the media and among those with MS, especially in Canada.[146] Concerns have been raised with Zamboni's research as it was neither blinded nor controlled, and its assumptions about the underlying cause of the disease are not backed by known data.[147] Also, further studies have either not found a similar relationship or found one that is much less strong,[148] raising serious objections to the hypothesis.[149] The "liberation procedure" has been criticized for resulting in serious complications and deaths with unproven benefits.[147] It is, thus, as of 2013 not recommended for the treatment of MS.[150] Additional research investigating the CCSVI hypothesis are under way.[151][needs update]
+See also
+
+    List of multiple sclerosis organizations
+    List of people with multiple sclerosis

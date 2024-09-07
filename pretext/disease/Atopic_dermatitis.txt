@@ -1,0 +1,431 @@
+atopic_dermatitis|DS atopic_dermatitis|DS ad|NN atopic|NN eczema|NN type|NN of|NN inflammation|NN of|NN skin|NN dermatitis|DS 
+result|NN in|NN itchy|NN skin|NN 
+fluid|NN area|NN time|NN 
+condition|NN age|NN in|NN childhood|NN severity|NN year|NN 
+in|NN child|NN year|NN of|NN age|NN of|NN body|NN 
+child|NN back|NN of|NN knee|NN front|NN of|NN elbow|NN common|NN area|NN 
+in|NN adult|NN hand|NN foot|NN area|NN 
+worsen|NN symptom|NN people|NN risk|NN of|NN skin|NN infection|NN 
+people|NN atopic_dermatitis|DS fever|ST asthma|DS 
+cause|NN genetics|NN system|NN dysfunction|NN exposure|NN difficulty|NN permeability|NN of|NN skin|NN 
+twin|NN chance|NN condition|NN 
+in|NN city|NN dry|NN climate|NN 
+exposure|NN chemical|NN hand|NN symptom|NN 
+stress|NN symptom|NN cause|NN 
+disorder|NN 
+diagnosis|NN sign|NN symptom|NN 
+disease|NN diagnosis|NN contact|NN dermatitis|DS psoriasis|NN dermatitis|DS 
+treatment|NN thing|NN condition|NN worse|NN application|NN of|NN moisturise|NN cream|NN afterwards|NN cream|NN flare|NN medication|NN itchiness|NN 
+thing|NN wool|NN clothe|NN soap|NN perfume|NN chlorine|NN dust|NN cigarette|NN smoke|NN 
+phototherapy|NN in|NN people|NN 
+pill|NN cream|NN inhibitor|NN measure|NN 
+antibiotic|NN atopic_dermatitis|DS name|NN atopic|NN eczema|NN eczema|NN prurigo|NN besnier|NN allergic|NN eczema|NN atopic_dermatitis|DS of|NN crease|NN of|NN specialty|NN symptom|NN elbow|NN 
+dermatology|NN itchy|NN skin|NN complication|NN skin|NN infection|NN hay|NN fever|ST onset|NN cause|NN factor|NN diagnosis|NN treatment|NN frequency|NN asthma|DS family|NN history|NN in|NN city|NN dry|NN climate|NN symptom|NN cause|NN dermatitis|DS psoriasis|NN dermatitis|DS thing|NN condition|NN cream|NN cream|NN flare|NN time|NN mouth|NN infection|NN 
+change|NN food|NN allergy|DS 
+atopic_dermatitis|DS of|NN people|NN point|NN in|NN life|NN 
+common|NN in|NN child|NN 
+male|NN female|NN 
+people|NN condition|NN 
+atopic_dermatitis|DS eczema|NN term|NN group|NN of|NN skin|NN condition|NN 
+name|NN eczema|NN eczema|NN prurigo|NN besnier|NN allergic|NN eczema|NN neurodermatitis|NN 
+content|NN sign|NN symptom|NN genetics|NN hypothesis|NN role|NN of|NN staphylococcus|NN aureus|NN water|NN pathophysiology|NN diagnosis|NN treatment|NN medication|NN medicine|NN epidemiology|NN research|NN link|NN sign|NN symptom|NN people|NN ad|NN dry|NN skin|NN body|NN area|NN splotchy|NN lesions|NN in|NN bend|NN of|NN arm|NN legs|NN face|NN neck|NN 
+ad|NN eyelid|NN sign|NN fold|NN fissure|NN pigmentation|NN 
+hyperpigmentation|DS neck|NN neck|NN appearance|NN 
+lichenification|NN excoriation|NN erosion|NN trunk|NN infection|NN 
+distribution|NN edge|NN hyperlinearity|NN wrist|NN finger|NN knuckle|NN ankle|NN foot|NN hand|NN 
+cause|NN of|NN ad|NN evidence|NN of|NN factor|NN 
+genetics|NN people|NN ad|NN family|NN history|NN of|NN atopy|NN 
+atopy|NN allergic|NN reaction|NN type|NN 1|NN hypersensitivity|NN reaction|NN asthma|DS food|NN allergy|DS ad|NN hay|NN fever|ST 
+of|NN people|NN atopic_dermatitis|DS mutation|NN in|NN gene|NN production|NN of|NN filaggrin|NN flg|NN risk|NN early|NN onset|NN of|NN atopic_dermatitis|DS asthma|DS 
+pattern|NN of|NN atopic|NN eczema|NN vary|NN age|NN hygiene|NN hypothesis|NN hygiene|NN hypothesis|NN early|NN childhood|NN exposure|NN microorganism|NN gut|NN flora|NN parasite|NN allergic|NN disease|NN development|NN of|NN immune|NN system|NN 
+exposure|NN in|NN environment|NN immune|NN system|NN allergy|DS substance|NN 
+support|NN hypothesis|NN respect|NN ad|NN 
+dog|NN risk|NN of|NN atopic_dermatitis|DS 
+support|NN study|NN role|NN helminth|NN ad|NN 
+child|NN hygiene|NN risk|NN ad|NN child|NN milk|NN 
+allergen|NN in|NN percentage|NN of|NN case|NN atopic_dermatitis|DS sensitization|NN food|NN 
+exposure|NN allergen|NN food|NN environment|NN atopic_dermatitis|DS 
+exposure|NN mite|NN example|NN risk|NN of|NN ad|NN 
+in|NN fruit|NN effect|NN ad|NN food|NN 
+atopic_dermatitis|DS disease|NN gluten|NN sensitivity|NN improvement|NN gluten|NN agent|NN in|NN case|NN 
+role|NN of|NN staphylococcus|NN aureus|NN colonization|NN of|NN skin|NN bacterium|NN aureus|NN in|NN atopic_dermatitis|DS 
+study|NN abnormality|NN in|NN skin|NN barrier|NN of|NN person|NN ad|NN aureus|NN expression|NN condition|NN 
+water|NN atopic_dermatitis|DS in|NN child|NN level|NN of|NN calcium|NN carbonate|NN of|NN household|NN water|NN 
+find|NN in|NN child|NN kingdom|NN spain|NN japan|NN 
+pathophysiology|NN pathophysiology|NN mixture|NN of|NN type|NN i|NN type|NN hypersensitivity|NN reaction|NN 
+diagnosis|NN atopic_dermatitis|DS sign|NN symptom|NN test|NN 
+form|NN of|NN criterion|NN research|NN in|NN diagnosis|NN 
+of|NN criterion|NN work|NN of|NN hanifin|NN rajka|NN 
+criterion|NN people|NN skin|NN evidence|NN of|NN scratch|NN of|NN follow|NN skin|NN crease|NN dermatitis|DS of|NN front|NN of|NN ankle|NN fossa|NN popliteal|NN fossa|NN skin|NN eye|NN neck|NN cheek|NN child|NN history|NN of|NN asthma|DS allergic_rhinitis|DS family|NN history|NN of|NN condition|NN patient|NN year|NN symptom|NN age|NN 2|NN patient|NN year|NN history|NN of|NN dry|NN skin|NN year|NN dermatitis|DS surface|NN patient|NN cheek|NN forehead|NN extensor|NN surface|NN patient|NN age|NN treatment|NN cure|NN ad|NN treatment|NN severity|NN frequency|NN of|NN flare|NN 
+moisturisers|NN skin|NN need|NN medication|NN 
+person|NN improvement|NN of|NN skin|NN hydration|NN parallel|NN improvement|NN in|NN ad|NN symptom|NN 
+health|NN professional|NN person|NN ad|NN bathe|NN in|NN bath|NN in|NN water|NN skin|NN 
+woollen|NN clothe|NN ad|NN 
+silk|NN clothe|NN 
+dilute|NN bleach|NN bath|NN ad|NN 
+role|NN of|NN d|NN atopic_dermatitis|DS evidence|NN vitamin|NN d|NN supplementation|NN symptom|NN 
+study|NN role|NN of|NN chain|NN fatty|NN acid|NN lcpufa|NN supplementation|NN lcpufa|NN status|NN in|NN prevention|NN treatment|NN of|NN atopic|NN disease|NN result|NN 
+intake|NN of|NN fatty|NN acid|NN preventive|NN role|NN fatty|NN acid|NN consumption|NN atopic|NN disease|NN 
+probiotic|NN effect|NN reduction|NN in|NN rate|NN of|NN atopic_dermatitis|DS 
+evidence|NN multiple|NN strain|NN of|NN bacteria|NN 
+in|NN people|NN disease|NN sensitivity|NN diet|NN symptom|NN occurrence|NN of|NN outbreak|NN 
+medication|NN corticosteroid|NN hydrocortisone|NN in|NN ad|NN 
+corticosteroid|NN moisturisers|NN treatment|NN calcineurin|NN inhibitor|NN tacrolimus|NN pimecrolimus|NN use|NN study|NN risk|NN of|NN skin_cancer|DS lymphoma|NN 
+pimecrolimus|NN corticosteroid|NN tacrolimus|NN 
+analysis|NN tacrolimus|NN picrolemus|NN corticosteroid|NN evidence|NN risk|NN of|NN malignancy|NN skin|NN atrophy|NN 
+medication|NN ad|NN systemic|NN immunosuppressant|NN ciclosporin|NN methotrexate|NN mycophenolate|NN mofetil|NN azathioprine|NN 
+antidepressant|NN naltrexone|NN pruritus|NN itchiness|NN 
+in|NN crisaborole|NN treatment|NN eczema|NN 
+in|NN agent|NN dupilumab|NN eczema|NN 
+inhibitor|NN monteleukast|NN of|NN benefit|NN of|NN 
+evidence|NN allergy|DS immunotherapy|NN in|NN atopic_dermatitis|DS quality|NN of|NN evidence|NN 
+treatment|NN of|NN series|NN of|NN injection|NN drop|NN tongue|NN of|NN solution|NN allergen|NN 
+antibiotic|NN mouth|NN overgrowth|NN of|NN staphylococcus|NN aureus|NN in|NN skin|NN of|NN people|NN atopic_dermatitis|DS 
+evidence|NN of|NN benefit|NN 
+light|NN form|NN of|NN treatment|NN exposure|NN ultraviolet|NN light|NN 
+radiation|NN exposure|NN immunomodulatory|NN effect|NN tissue|NN severity|NN frequency|NN of|NN flare|NN 
+in|NN usage|NN of|NN uva1|NN in|NN acute|NN flare|NN uvb|NN in|NN management|NN scenario|NN 
+radiation|NN in|NN type|NN of|NN skin_cancer|DS treatment|NN risk|NN 
+medicine|NN medicine|NN atopic|NN eczema|NN evidence|NN treatment|NN mouth|NN severity|NN of|NN eczema|NN in|NN child|NN adult|NN 
+epidemiology|NN begin|NN of|NN century|NN disorder|NN common|NN atopic|NN eczema|NN ae|NN example|NN of|NN disease|NN 
+of|NN child|NN of|NN adult|NN in|NN country|NN in|NN state|NN in|NN thirty|NN year|NN 
+adult|NN child|NN atopic_dermatitis|DS 
+research|NN evidence|NN in|NN pathogenesis|NN of|NN ad|NN 
+rationale|NN inhibitor|NN 
+people|NN atopic_dermatitis|DS staphylococcus|NN aureus|NN 
+role|NN in|NN pathogenesis|NN 
+medication|NN in|NN phase|NN iii|NN trial|NN treatment|NN abrocitinib|NN 
+reference|NN williams|NN hywel|NN 
+epidemiology|NN of|NN atopic_dermatitis|DS http|NN ooks|NN 
+york|NN cambridge|NN university|NN press|NN 
+isbn|NN http|NN 
+2|NN 
+handout|NN health|NN atopic_dermatitis|DS type|NN of|NN eczema|NN http|NN 
+institute|NN of|NN arthritis|DS musculoskeletal|NN skin|NN disease|NN 
+http|NN june|NN 
+tollefson|NN mm|NN bruckner|NN al|NN 
+atopic_dermatitis|DS management|NN 
+pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+sf|NN 
+atopic_dermatitis|DS history|NN diagnosis|NN treatment|NN http|NN 
+isrn|NN allergy|DS 
+http|NN 
+pmc|NN p|NN 
+pmid|NN http|NN 
+williams|NN hywel|NN 
+dermatology|NN http|NN sbsqij5xkfyc|NN 
+john|NN wiley|NN son|NN 
+isbn|NN p|NN yc|NN 
+carr|NN ww|NN 
+calcineurin|NN inhibitor|NN atopic_dermatitis|DS review|NN treatment|NN recommendation|NN http|NN 
+drug|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+berke|NN r|NN m|NN 
+atopic_dermatitis|DS overview|NN http|NN pdf|NN 
+family|NN physician|NN 
+1|NN 
+pmid|NN http|NN 
+http|NN 
+pdf|NN 
+kim|NN b|NN 
+fritsch|NN p|NN vinson|NN rp|NN perry|NN v|NN cm|NN jam|NN wd|NN ed|NN 
+atopic_dermatitis|DS http|NN showall|NN 
+medscape|NN reference|NN 
+webmd|NN 
+http|NN p|NN showall|NN march|NN 
+brehler|NN r|NN 
+atopic_dermatitis|DS 
+in|NN lang|NN f|NN 
+encyclopedia|NN of|NN mechanism|NN of|NN disease|NN 
+berlin|NN springer|NN 
+baron|NN se|NN cohen|NN sn|NN cb|NN 
+guidance|NN diagnosis|NN management|NN of|NN atopic|NN eczema|NN 
+dermatology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+j|NN s|NN s|NN svensson|NN von|NN kobyletzki|NN l|NN thomas|NN k|NN p|NN 
+assessment|NN of|NN sign|NN of|NN atopic_dermatitis|DS review|NN recommendation|NN 
+journal|NN of|NN allergy|DS immunology|NN 
+http|NN 
+pmid|NN http|NN 
+sg|NN tey|NN hl|NN sm|NN dabade|NN t|NN chan|NN yh|NN yosipovitch|NN g|NN 
+fissure|NN marker|NN of|NN disease|NN severity|NN in|NN patient|NN atopic_dermatitis|DS p|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+lau|NN 
+case|NN management|NN http|NN 
+university|NN press|NN 
+isbn|NN http|NN s|NN 
+k|NN maguiness|NN s|NN 
+atopic_dermatitis|DS update|NN pediatrician|NN 
+annals|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+park|NN kd|NN pak|NN sc|NN park|NN kk|NN 
+effect|NN of|NN toxin|NN atopic_dermatitis|DS http|NN 
+toxin|NN review|NN 
+1|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+irvine|NN ad|NN wh|NN leung|NN dy|NN 
+mutation|NN skin|NN allergic|NN disease|NN 
+journal|NN of|NN medicine|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+scudellari|NN megan|NN 
+news|NN feature|NN clean|NN hygiene|NN hypothesis|NN http|NN 
+proceed|NN of|NN academy|NN of|NN science|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 2|NN 
+pmid|NN http|NN 
+bieber|NN t|NN 
+atopic_dermatitis|DS 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+c|NN galeone|NN c|NN bach|NN jf|NN c|NN l|NN 
+pet|NN exposure|NN risk|NN of|NN atopic_dermatitis|DS age|NN of|NN birth|NN cohort|NN study|NN 
+journal|NN of|NN allergy|DS immunology|NN 
+http|NN 
+pmid|NN http|NN 
+c|NN j|NN 
+insight|NN epidemiology|NN of|NN childhood|NN atopic_dermatitis|DS 
+allergy|DS 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+mauro|NN g|NN bernardini|NN r|NN barberi|NN s|NN capuano|NN correra|NN angelis|NN id|NN m|NN ghiglioni|NN d|NN mauro|NN d|NN m|NN m|NN gl|NN miniello|NN vl|NN peroni|NN d|NN lr|NN terracciano|NN l|NN vascone|NN c|NN e|NN verga|NN mc|NN chiappini|NN e|NN 
+prevention|NN of|NN food|NN airway|NN allergy|DS consensus|NN of|NN society|NN of|NN paediatrics|NN society|NN of|NN allergy|DS immunology|NN society|NN of|NN pediatrics|NN http|NN 
+world|NN allergy|DS organization|NN journal|NN review|NN 
+tps|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+williams|NN c|NN 
+epidemiology|NN concept|NN atopic_dermatitis|DS http|NN pdf|NN 
+journal|NN of|NN allergy|DS immunology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+fuiano|NN n|NN c|NN 
+cause|NN of|NN atopic_dermatitis|DS in|NN child|NN food|NN mite|NN 
+allergology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+fasano|NN sapone|NN zevallos|NN v|NN d|NN 
+gluten|NN sensitivity|NN 
+gastroenterology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+patient|NN disease|NN atopic|NN disorder|NN 
+percent|NN of|NN patient|NN allergy|DS gi|NN symptom|NN lesions|NN result|NN antibody|NN test|NN dq2|NN genotype|NN celiac|NN disease|NN gi|NN atopic|NN symptom|NN gfds|NN 
+find|NN symptom|NN ingestion|NN 
+gfds|NN diet|NN mansueto|NN p|NN carroccio|NN 
+sensitivity|NN literature|NN review|NN http|NN pdf|NN 
+journal|NN of|NN college|NN of|NN nutrition|NN review|NN 
+1|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+goh|NN cl|NN j|NN giam|NN yc|NN 
+skin|NN colonization|NN of|NN staphylococcus|NN aureus|NN in|NN atopic_dermatitis|DS patient|NN skin|NN centre|NN singapore|NN 
+journal|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+t|NN chen|NN th|NN ka|NN s|NN geha|NN r|NN hata|NN tr|NN gallo|NN rl|NN 
+staphylococcus|NN aureus|NN exploit|NN barrier|NN defect|NN in|NN atopic_dermatitis|DS expression|NN http|NN 
+journal|NN of|NN dermatology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+p|NN 
+health|NN impact|NN of|NN water|NN http|NN 
+journal|NN of|NN medicine|NN review|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mittermann|NN irene|NN aichberger|NN karl|NN bünder|NN robert|NN mothes|NN nadine|NN renz|NN harald|NN valenta|NN rudolf|NN 
+autoimmunity|NN atopic_dermatitis|DS http|NN 
+opinion|NN in|NN allergy|DS immunology|NN 
+pmid|NN http|NN 
+http|NN 
+lf|NN tom|NN wl|NN chamlin|NN sl|NN sr|NN hanifin|NN jm|NN simpson|NN el|NN berger|NN tg|NN bergman|NN jn|NN cohen|NN kd|NN cordoro|NN km|NN davis|NN dm|NN margolis|NN dj|NN paller|NN k|NN ra|NN hc|NN elmets|NN j|NN harrod|NN cg|NN begolka|NN w|NN sidbury|NN r|NN 
+guideline|NN of|NN care|NN management|NN of|NN atopic_dermatitis|DS section|NN diagnosis|NN assessment|NN of|NN atopic_dermatitis|DS http|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+brenninkmeijer|NN ee|NN mm|NN bos|NN jd|NN pi|NN 
+criterion|NN atopic_dermatitis|DS review|NN 
+journal|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+williams|NN burney|NN pg|NN ac|NN hay|NN rj|NN 
+party|NN criterion|NN atopic_dermatitis|DS 
+iii|NN 
+hospital|NN validation|NN 
+journal|NN of|NN dermatology|NN 
+ttps|NN 
+pmid|NN http|NN 
+varothai|NN s|NN s|NN k|NN 
+moisturizers|NN patient|NN atopic_dermatitis|DS http|NN 
+journal|NN of|NN allergy|DS immunology|NN 
+2|NN 
+pmid|NN http|NN 
+pdf|NN 
+lio|NN pa|NN 
+therapy|NN atopic_dermatitis|DS 
+allergy|DS asthma|DS report|NN 
+http|NN 
+pmid|NN http|NN 
+dębińska|NN h|NN m|NN 
+role|NN of|NN vitamin|NN d|NN in|NN atopic_dermatitis|DS 
+dermatitis|DS review|NN 
+http|NN 
+pmid|NN http|NN 
+kim|NN g|NN bae|NN jh|NN 
+vitamin|NN d|NN atopic_dermatitis|DS review|NN http|NN 
+nutrition|NN review|NN 
+p|NN 
+pmid|NN http|NN 
+lohner|NN s|NN role|NN of|NN fatty|NN acid|NN in|NN prevention|NN treatment|NN of|NN atopic|NN disease|NN 
+in|NN fatty|NN acid|NN source|NN property|NN health|NN benefit|NN catalá|NN 
+publisher|NN 
+chapter|NN pp|NN 
+makrgeorgou|NN j|NN fj|NN murrell|NN df|NN tang|NN ml|NN rj|NN 
+probiotic|NN eczema|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd006135|NN 
+http|NN 
+pmid|NN http|NN 
+c|NN l|NN f|NN galeone|NN c|NN moja|NN l|NN bach|NN jf|NN c|NN 
+probiotic|NN supplementation|NN pregnancy|NN infancy|NN prevention|NN of|NN atopic_dermatitis|DS 
+epidemiology|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+chang|NN y|NN trivedi|NN mk|NN jha|NN lin|NN yf|NN dimaano|NN l|NN mt|NN 
+synbiotics|NN prevention|NN treatment|NN of|NN atopic_dermatitis|DS of|NN trial|NN 
+jama|NN pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+copy|NN http|NN 
+http|NN 
+dm|NN chen|NN lc|NN garside|NN r|NN stein|NN k|NN hc|NN 
+pimecrolimus|NN eczema|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd005500|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+cury|NN martin|NN j|NN c|NN v|NN gois|NN af|NN ha|NN da|NN silva|NN em|NN 
+tacrolimus|NN atopic_dermatitis|DS http|NN 
+cochrane|NN database|NN of|NN review|NN cd009864|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kb|NN kj|NN simpson|NN el|NN 
+effect|NN of|NN treatment|NN itch|ST in|NN atopic_dermatitis|DS http|NN 
+therapy|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kim|NN k|NN 
+mechanism|NN of|NN pruritus|NN in|NN atopic_dermatitis|DS role|NN of|NN serotonin|NN http|NN 
+biomolecules|NN therapeutic|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 2|NN 
+approve|NN eczema|NN http|NN 
+food|NN drug|NN administration|NN 
+december|NN 
+eucrisa|NN crisaborole|NN ointment|NN 2|NN use|NN 
+prescribe|NN information|NN http|NN 
+anacor|NN pharmaceutical|NN palo|NN alto|NN usa|NN 
+december|NN 
+drug|NN dupixent|NN http|NN 
+food|NN drug|NN administration|NN 
+march|NN http|NN march|NN march|NN 
+ferguson|NN l|NN futamura|NN m|NN e|NN r|NN sasaki|NN h|NN r|NN 
+receptor|NN antagonist|NN eczema|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011224|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+tam|NN h|NN calderon|NN ma|NN manikam|NN l|NN h|NN núñez|NN i|NN hc|NN durham|NN s|NN rj|NN 
+allergen|NN immunotherapy|NN treatment|NN of|NN atopic|NN eczema|NN http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 
+2|NN cd008774|NN 
+http|NN ub2|NN 
+http|NN 
+pmid|NN ttps|NN 
+birnie|NN aj|NN fj|NN jc|NN hc|NN 
+intervention|NN staphylococcus|NN aureus|NN in|NN management|NN of|NN atopic|NN eczema|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd003871|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+s|NN m|NN h|NN gilleaudeau|NN p|NN m|NN l|NN cardinale|NN i|NN s|NN bowcock|NN krueger|NN jg|NN yassky|NN e|NN 
+reversal|NN of|NN atopic_dermatitis|DS phototherapy|NN biomarkers|NN response|NN http|NN 
+journal|NN of|NN allergy|DS immunology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pe|NN finlan|NN le|NN thomson|NN g|NN hupp|NN tr|NN ibbotson|NN sh|NN 
+effect|NN of|NN ultraviolet|NN a1|NN radiation|NN p53|NN activation|NN p21|NN 
+journal|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+meduri|NN nb|NN vandergriff|NN t|NN rasmussen|NN h|NN jacobe|NN h|NN 
+phototherapy|NN in|NN management|NN of|NN atopic_dermatitis|DS review|NN 
+photodermatology|NN photoimmunology|NN photomedicine|NN 
+http|NN 
+pmid|NN http|NN 
+jan|NN j|NN garinis|NN ga|NN schul|NN w|NN moorhouse|NN m|NN m|NN yg|NN van|NN der|NN velde|NN rijksen|NN y|NN fr|NN van|NN der|NN spek|NN pj|NN hoeijmakers|NN pj|NN van|NN der|NN horst|NN gt|NN 
+role|NN of|NN basal|NN keratinocytes|NN in|NN immunosuppression|NN skin_cancer|DS http|NN 
+biology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gu|NN s|NN yang|NN aw|NN xue|NN cc|NN cg|NN pang|NN c|NN zhang|NN w|NN hc|NN 
+medicine|NN atopic|NN eczema|NN 
+cochrane|NN database|NN of|NN review|NN cd008642|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+saito|NN h|NN 
+skin|NN analysis|NN of|NN atopic|NN eczema|NN 
+archive|NN of|NN allergy|DS immunology|NN 
+http|NN 
+pmid|NN http|NN 
+atopic_dermatitis|DS http|NN 
+1|NN 2|NN 
+bao|NN l|NN shi|NN vy|NN chan|NN l|NN 
+chemotactic|NN gene|NN gene|NN in|NN vivo|NN in|NN vitro|NN relevant|NN in|NN pathogenesis|NN of|NN atopic_dermatitis|DS 
+cytokine|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+lernia|NN v|NN 
+strategy|NN in|NN atopic_dermatitis|DS focus|NN inhibition|NN of|NN approach|NN 
+opinion|NN target|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+totté|NN je|NN van|NN der|NN feltz|NN wt|NN hennekam|NN m|NN van|NN zuuren|NN ej|NN pasmans|NN 
+prevalence|NN odds|NN of|NN staphylococcus|NN aureus|NN carriage|NN in|NN atopic_dermatitis|DS review|NN 
+journal|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+tralokinumab|NN in|NN combination|NN corticosteroid|NN atopic_dermatitis|DS eczema|NN trial|NN 
+http|NN 
+2019|NN 
+study|NN efficacy|NN safety|NN of|NN in|NN subject|NN year|NN atopic_dermatitis|DS http|NN 
+link|NN handout|NN health|NN atopic_dermatitis|DS http|NN http|NN m|NN classification|NN l20|NN d|NN p|NN http|NN omim|NN http|NN mesh|NN d003876|NN http|NN i|NN diseasesdb|NN http|NN medlineplus|NN http|NN resource|NN emedicine|NN http|NN verview|NN ttp|NN http|NN http|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

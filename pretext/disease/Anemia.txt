@@ -1,0 +1,544 @@
+anemia|DS anemia|DS anaemia|NN decrease|NN in|NN amount|NN of|NN blood|NN cell|NN rbc|NN in|NN blood|NN ability|NN of|NN blood|NN oxygen|NN 
+anemia|DS symptom|NN feel|NN weakness|ST shortness_of_breath|ST ability|NN exercise|NN 
+anemia|DS symptom|NN confusion|ST loss_of_consciousness|ST 
+anemia|DS person|NN 
+symptom|NN cause|NN 
+anemia|DS blood|NN loss|NN blood|NN cell|NN production|NN blood|NN cell|NN breakdown|NN 
+cause|NN of|NN blood|NN loss|NN trauma|NN gastrointestinal_bleeding|ST 
+cause|NN of|NN production|NN iron_deficiency|DS b12|NN deficiency|NN thalassemia|DS number|NN of|NN neoplasm|NN of|NN bone|NN marrow|NN 
+cause|NN of|NN breakdown|NN condition|NN sickle|NN cell|NN anemia|DS infection|NN malaria|DS autoimmune|NN disease|NN 
+anemia|DS size|NN of|NN blood|NN cell|NN amount|NN of|NN hemoglobin|NN in|NN cell|NN 
+cell|NN anemia|DS anemia|DS anemia|DS 
+diagnosis|NN of|NN anemia|DS in|NN men|NN hemoglobin|NN of|NN in|NN woman|NN 
+test|NN cause|NN 
+anemia|DS name|NN blood|NN smear|NN person|NN anemia|DS 
+cell|NN 
+pronunciation|NN specialty|NN symptom|NN hematology|NN feel|NN weakness|ST shortness_of_breath|ST blood|NN loss|NN blood|NN cell|NN production|NN blood|NN cell|NN blood|NN hemoglobin|NN method|NN frequency|NN group|NN of|NN individual|NN woman|NN benefit|NN use|NN of|NN iron|NN pill|NN prevention|NN 
+supplementation|NN specific|NN cause|NN 
+use|NN of|NN blood|NN transfusion|NN person|NN sign|NN symptom|NN 
+in|NN symptom|NN hemoglobin|NN level|NN 
+recommendation|NN people|NN bleeding|ST 
+medication|NN in|NN anemia|DS 
+anemia|DS common|NN blood|NN disorder|NN of|NN population|NN 
+deficiency|NN anemia|DS 1|NN people|NN 
+in|NN anemia|DS iron_deficiency|DS in|NN death|NN down|NN death|NN in|NN 
+common|NN in|NN woman|NN men|NN pregnancy|NN in|NN child|NN 
+anemia|DS cost|NN of|NN care|NN person|NN productivity|NN ability|NN 
+name|NN greek|NN ἀναιμία|NN anaimia|NN lack|NN of|NN blood|NN αἷμα|NN haima|NN blood|NN 
+content|NN sign|NN symptom|NN cause|NN production|NN destruction|NN blood|NN loss|NN fluid|NN inflammation|NN diagnosis|NN definition|NN blood|NN cell|NN size|NN production|NN destruction|NN loss|NN hyperanemia|NN refractory|NN anemia|DS transfusion|NN treatment|NN iron|NN iron|NN blood|NN transfusion|NN agent|NN oxygen|NN epidemiology|NN history|NN reference|NN link|NN sign|NN symptom|NN anemia|DS in|NN people|NN symptom|NN 
+symptom|NN cause|NN anemia|DS 
+people|NN anemia|DS report|NN feel|NN of|NN weakness|ST fatigue|ST concentration|NN 
+shortness_of_breath|ST exertion|NN 
+in|NN anemia|DS body|NN lack|NN of|NN capability|NN of|NN blood|NN output|NN 
+patient|NN symptom|NN palpitations|ST angina|NN heart|NN disease|NN claudication|ST of|NN legs|NN symptom|NN of|NN heart_failure|DS 
+examination|NN sign|NN pallor|NN skin|NN mucosa|NN conjunctiva|NN bed|NN sign|NN 
+coloration|NN of|NN sclera|NN in|NN case|NN of|NN deficiency|NN anemia|DS 
+sign|NN of|NN cause|NN of|NN anemia|DS koilonychia|NN in|NN iron_deficiency|DS jaundice|DS anemia|DS result|NN abnormal|NN down|NN of|NN blood|NN cell|NN in|NN anemia|DS bone|NN deformity|ST in|NN thalassemia|DS major|NN ulcer|NN in|NN disease|NN 
+in|NN anemia|DS sign|NN of|NN circulation|NN tachycardia|ST heart|NN rate|NN pulse|NN flow|NN murmur|NN ventricular|NN hypertrophy|NN enlargement|NN 
+sign|NN of|NN heart_failure|DS 
+pica|NN consumption|NN of|NN item|NN ice|NN paper|NN wax|NN grass|NN hair|NN dirt|NN symptom|NN of|NN iron_deficiency|DS level|NN of|NN hemoglobin|NN 
+chronic|NN anemia|DS in|NN disturbance|NN in|NN child|NN result|NN of|NN development|NN in|NN infant|NN performance|NN in|NN child|NN of|NN school|NN age|NN 
+restless_legs_syndrome|DS common|NN in|NN anemia|DS 
+in|NN symptom|NN in|NN anemia|DS cause|NN of|NN anemia|DS blood|NN cell|NN rbc|NN production|NN rbc|NN destruction|NN anemia|DS blood|NN loss|NN fluid|NN overload|NN hypervolemia|NN 
+of|NN anemia|DS 
+common|NN cause|NN of|NN anemia|DS blood|NN loss|NN last|NN symptom|NN rbc|NN production|NN in|NN turn|NN iron_deficiency|DS 
+production|NN disturbance|NN of|NN proliferation|NN differentiation|NN of|NN stem|NN cell|NN cell|NN anemia|DS kind|NN of|NN blood|NN cell|NN 
+fanconi|NN anemia|DS disorder|NN defect|NN anemia|DS abnormality|NN 
+anemia|DS of|NN kidney_failure|DS production|NN of|NN hormone|NN erythropoietin|NN anemia|DS of|NN endocrine|NN disorder|NN disturbance|NN of|NN proliferation|NN maturation|NN of|NN erythroblast|NN hand|NN of|NN person|NN anemia|DS leave|NN right|NN figure|NN blood|NN cell|NN in|NN blood|NN vessel|NN 
+inset|NN image|NN of|NN blood|NN cell|NN hemoglobin|NN 
+anemia|DS form|NN of|NN anemia|DS deficiency|NN dependent|NN absorption|NN of|NN vitamin|NN b12|NN 
+lack|NN of|NN b12|NN anemia|DS anemia|DS of|NN deficiency|NN vitamin|NN b12|NN anemia|DS anemia|DS of|NN prematurity|NN erythropoietin|NN response|NN hematocrit|NN level|NN blood|NN loss|NN test|NN in|NN premature|NN infant|NN week|NN of|NN age|NN 
+iron_deficiency|DS anemia|DS in|NN heme|NN synthesis|NN thalassemia|DS deficient|NN globin|NN synthesis|NN anemia|DS erythropoiesis|NN anemia|DS of|NN kidney_failure|DS stem|NN cell|NN dysfunction|NN mechanism|NN of|NN rbc|NN production|NN anemia|DS myelophthisis|NN type|NN of|NN anemia|DS replacement|NN of|NN bone|NN marrow|NN material|NN tumor|NN fibrosis|NN granuloma|NN 
+syndrome|NN anemia|DS of|NN chronic|NN inflammation|NN anemia|DS lesions|NN in|NN bone|NN marrow|NN prevent|NN production|NN of|NN blood|NN cell|NN 
+destruction|NN anemia|DS of|NN blood|NN cell|NN destruction|NN anemia|DS 
+jaundice|DS lactate|NN dehydrogenase|NN level|NN 
+abnormality|NN destruction|NN 
+of|NN hemoglobinuria|NN disorder|NN 
+spherocytosis|NN defect|NN result|NN in|NN defect|NN in|NN rbc|NN cell|NN membrane|NN erythrocyte|NN spleen|NN 
+elliptocytosis|NN defect|NN in|NN membrane|NN skeleton|NN protein|NN 
+abetalipoproteinemia|NN defect|NN in|NN membrane|NN lipid|NN deficiency|NN kinase|NN hexokinase|NN deficiency|NN defect|NN glycolysis|NN dehydrogenase|NN deficiency|NN glutathione|NN synthetase|NN deficiency|NN stress|NN hemoglobinopathy|NN sickle|NN cell|NN anemia|DS hemoglobinopathy|NN hemoglobin|NN hemoglobinuria|NN extrinsic|NN autoimmune|NN anemia|DS attack|NN blood|NN cell|NN igg|NN 
+common|NN of|NN disease|NN 
+cause|NN disease|NN systemic_lupus_erythematosus|DS malignancy|NN chronic|NN leukemia|DS 
+cold|NN agglutinin|NN anemia|DS igm|NN 
+result|NN condition|NN 
+rh|NN disease|NN of|NN cause|NN of|NN disease|NN of|NN transfusion|NN reaction|NN blood|NN transfusion|NN trauma|NN blood|NN cell|NN anemia|DS purpura|ST coagulation|NN infection|NN malaria|DS heart|NN surgery|NN haemodialysis|NN blood|NN loss|NN anemia|DS of|NN prematurity|NN blood|NN laboratory|NN test|NN rbc|NN production|NN trauma|NN surgery|NN blood|NN loss|NN gastrointestinal|NN tract|NN lesions|NN bleed|NN 
+lesions|NN peptic|NN ulcer|NN chronic|NN blood|NN loss|NN 
+angiodysplasia|NN gynecologic|NN disturbance|NN chronic|NN blood|NN loss|NN menstruation|NN woman|NN woman|NN fibroid|NN type|NN of|NN cancer|DS colorectal_cancer|DS cancer|DS of|NN urinary|NN bladder|NN acute|NN chronic|NN blood|NN loss|NN stage|NN 
+infection|NN nematode|NN blood|NN hookworm|NN whipworm|NN trichuris|NN trichiura|NN 
+root|NN of|NN word|NN anemia|DS refer|NN idea|NN of|NN lack|NN of|NN blood|NN anemia|DS ischemia|NN thing|NN in|NN terminology|NN 
+word|NN anemia|DS imply|NN effect|NN blood|NN blood|NN loss|NN in|NN ability|NN type|NN of|NN hemoglobin|NN erythrocyte|NN problem|NN 
+in|NN contrast|NN word|NN ischemia|NN refer|NN lack|NN of|NN blood|NN perfusion|NN 
+ischemia|NN in|NN body|NN part|NN effect|NN tissue|NN 
+fluid|NN overload|NN fluid|NN overload|NN hypervolemia|NN hemoglobin|NN concentration|NN anemia|DS cause|NN of|NN hypervolemia|NN sodium|NN fluid|NN intake|NN sodium|NN water|NN retention|NN fluid|NN shift|NN space|NN 
+week|NN of|NN pregnancy|NN change|NN increase|NN in|NN mother|NN blood|NN volume|NN increase|NN in|NN plasma|NN 
+inflammation|NN gastrointestinal|NN disorder|NN anemia|DS 
+mechanism|NN malabsorption|NN chronic|NN inflammation|NN dysregulation|NN of|NN hepcidin|NN access|NN of|NN iron|NN circulation|NN 
+helicobacter|NN pylorus|NN infection|NN 
+disorder|NN celiac|NN disease|NN sensitivity|NN 
+anemia|DS manifestation|NN of|NN disease|NN in|NN absence|NN of|NN gastrointestinal|NN symptom|NN 
+bowel|NN disease|NN 
+diagnosis|NN definition|NN number|NN of|NN definition|NN of|NN anemia|DS review|NN comparison|NN contrast|NN of|NN 
+definition|NN decrease|NN in|NN blood|NN cell|NN mass|NN definition|NN ability|NN of|NN blood|NN oxygen|NN 
+definition|NN decrease|NN in|NN concentration|NN of|NN 2|NN deviation|NN mean|NN of|NN reference|NN range|NN 
+peripheral|NN blood|NN microscopy|NN of|NN patient|NN anemia|DS mass|NN hematocrit|NN amount|NN of|NN rbc|NN hemoglobin|NN hb|NN in|NN blood|NN value|NN 
+hematocrit|NN dependent|NN 
+example|NN pregnancy|NN woman|NN mass|NN of|NN increase|NN in|NN blood|NN volume|NN hemoglobin|NN hematocrit|NN 
+example|NN bleeding|ST rbc|NN mass|NN concentration|NN of|NN hemoglobin|NN hematocrit|NN fluid|NN area|NN of|NN body|NN space|NN 
+anemia|DS severity|NN mild|NN anemia|DS in|NN adult|NN male|NN adult|NN non|NN female|NN 
+value|NN in|NN pregnancy|NN child|NN 
+anemia|DS blood|NN count|NN 
+number|NN of|NN blood|NN cell|NN hemoglobin|NN level|NN counter|NN size|NN of|NN blood|NN cell|NN cytometry|NN tool|NN in|NN cause|NN of|NN anemia|DS 
+examination|NN of|NN blood|NN smear|NN microscope|NN necessity|NN in|NN region|NN of|NN world|NN analysis|NN 
+in|NN counter|NN parameter|NN rbc|NN count|NN concentration|NN mcv|NN rdw|NN others|NN hematocrit|NN mch|NN mchc|NN value|NN age|NN sex|NN 
+counter|NN hematocrit|NN measurement|NN 
+hemoglobin|NN threshold|NN anemia|DS 1|NN age|NN gender|NN group|NN hb|NN threshold|NN hb|NN threshold|NN child|NN yr|NN child|NN yr|NN yr|NN woman|NN woman|NN men|NN reticulocyte|NN count|NN approach|NN anemia|DS common|NN in|NN past|NN in|NN center|NN of|NN state|NN nation|NN in|NN part|NN counter|NN capacity|NN count|NN 
+reticulocyte|NN count|NN measure|NN of|NN bone|NN marrow|NN production|NN of|NN blood|NN cell|NN 
+reticulocyte|NN production|NN index|NN calculation|NN of|NN ratio|NN level|NN of|NN anemia|DS extent|NN reticulocyte|NN count|NN in|NN response|NN 
+degree|NN of|NN anemia|DS reticulocyte|NN count|NN response|NN 
+count|NN reticulocyte|NN count|NN stain|NN of|NN blood|NN film|NN 
+in|NN examination|NN activity|NN of|NN bone|NN marrow|NN change|NN in|NN number|NN morphology|NN of|NN rbc|NN examination|NN microscope|NN 
+rbc|NN rbc|NN show|NN polychromasia|NN 
+source|NN of|NN blood|NN loss|NN evaluation|NN of|NN erythropoiesis|NN bone|NN marrow|NN loss|NN rate|NN 
+cause|NN clinician|NN test|NN esr|NN ferritin|NN serum|NN iron|NN transferrin|NN folate|NN level|NN vitamin|NN b12|NN electrophoresis|NN function|NN test|NN 
+creatinine|NN test|NN hypothesis|NN 
+diagnosis|NN bone|NN marrow|NN examination|NN examination|NN of|NN precursor|NN cell|NN painful|NN case|NN pathology|NN need|NN 
+blood|NN cell|NN size|NN in|NN approach|NN anemia|DS size|NN of|NN blood|NN cell|NN examination|NN of|NN peripheral|NN blood|NN smear|NN 
+size|NN in|NN volume|NN mcv|NN 
+cell|NN fl|NN anemia|DS size|NN fl|NN fl|NN anemia|DS 
+of|NN common|NN cause|NN of|NN anemia|DS instance|NN anemia|DS result|NN of|NN iron_deficiency|DS 
+in|NN workup|NN mcv|NN of|NN piece|NN of|NN information|NN clinician|NN approach|NN morphology|NN element|NN of|NN classification|NN diagnosis|NN 
+limitation|NN of|NN mcv|NN case|NN cause|NN combination|NN of|NN factor|NN iron_deficiency|DS cause|NN of|NN microcytosis|NN deficiency|NN cause|NN of|NN macrocytosis|NN result|NN cell|NN 
+production|NN destruction|NN loss|NN approach|NN anemia|DS yield|NN classification|NN of|NN anemia|DS 
+classification|NN evaluation|NN of|NN parameter|NN blood|NN reticulocyte|NN precursor|NN of|NN mature|NN rbc|NN count|NN 
+classification|NN of|NN defect|NN rbc|NN production|NN versus|NN destruction|NN loss|NN 
+sign|NN of|NN loss|NN destruction|NN abnormal|NN peripheral|NN blood|NN smear|NN sign|NN of|NN hemolysis|NN cell|NN destruction|NN sign|NN of|NN bleeding|ST stool|NN find|NN bleeding|ST 
+follow|NN schematic|NN of|NN approach|NN anemia|DS reticulocyte|NN production|NN index|NN production|NN response|NN anemia|DS 
+reticulocyte|NN production|NN index|NN response|NN anemia|DS hemolysis|NN blood|NN loss|NN production|NN problem|NN 
+find|NN hemolysis|NN blood|NN loss|NN disorder|NN of|NN production|NN 
+find|NN abnormal|NN mcv|NN hemolysis|NN loss|NN chronic|NN disorder|NN of|NN 
+find|NN hemolysis|NN loss|NN time|NN bone|NN marrow|NN production|NN 
+anemia|DS anemia|DS anemia|DS mcv|NN instance|NN sickle|NN cell|NN anemia|DS iron_deficiency|DS chronic|NN gastric|NN bleeding|ST b12|NN deficiency|NN instance|NN of|NN anemia|DS cause|NN 
+count|NN combination|NN of|NN reticulocyte|NN production|NN index|NN mcv|NN hemolysis|NN loss|NN in|NN bone|NN marrow|NN failure|NN anemia|DS of|NN chronic|NN disease|NN hemolysis|NN blood|NN loss|NN 
+representation|NN of|NN anemia|DS mcv|NN point|NN anemia|DS anemia|DS anemia|DS anemia|DS reticulocyte|NN count|NN reticulocyte|NN count|NN characteristic|NN peripheral|NN smear|NN clue|NN diagnosis|NN example|NN abnormal|NN white|NN blood|NN cell|NN cause|NN in|NN bone|NN marrow|NN 
+anemia|DS result|NN of|NN hemoglobin|NN synthesis|NN etiology|NN heme|NN synthesis|NN defect|NN iron_deficiency|DS anemia|DS microcytosis|NN anemia|DS of|NN chronic|NN disease|NN anemia|DS globin|NN synthesis|NN defect|NN hbe|NN syndrome|NN hbc|NN syndrome|NN hemoglobin|NN disease|NN defect|NN anemia|DS anemia|DS toxicity|NN anemia|DS iron_deficiency|DS anemia|DS common|NN type|NN of|NN anemia|DS cause|NN 
+rbc|NN paler|NN microscope|NN 
+iron_deficiency|DS anemia|DS intake|NN absorption|NN of|NN iron|NN body|NN need|NN 
+infant|NN toddler|NN woman|NN need|NN 
+iron|NN intake|NN blood|NN loss|NN tract|NN issue|NN blood|NN donation|NN period|NN 
+iron|NN part|NN of|NN hemoglobin|NN iron|NN level|NN in|NN incorporation|NN of|NN hemoglobin|NN blood|NN cell|NN 
+in|NN state|NN of|NN woman|NN of|NN age|NN iron_deficiency|DS 2|NN of|NN adult|NN men|NN 
+incidence|NN woman|NN 
+study|NN iron_deficiency|DS anemia|DS cause|NN school|NN performance|NN iq|NN in|NN girl|NN factor|NN 
+iron_deficiency|DS deficiency|NN state|NN basis|NN 
+cause|NN of|NN abnormal|NN fissure|NN of|NN angular|NN corner|NN section|NN of|NN lip|NN stomatitis|DS 
+in|NN state|NN common|NN cause|NN of|NN iron_deficiency|DS bleeding|ST blood|NN loss|NN gastrointestinal|NN tract|NN 
+fecal|NN occult|NN blood|NN test|NN endoscopy|NN endoscopy|NN bleeding|ST lesions|NN 
+in|NN men|NN woman|NN chance|NN bleeding|ST gastrointestinal|NN tract|NN polyp|NN colorectal_cancer|DS 
+worldwide|NN common|NN cause|NN of|NN iron_deficiency|DS anemia|DS infestation|NN hookworm|NN amebiasis|NN schistosomiasis|NN whipworms|NN 
+mentzer|NN index|NN cell|NN volume|NN rbc|NN count|NN anemia|DS iron_deficiency|DS thalassemia|DS confirmation|NN 
+anemia|DS common|NN cause|NN of|NN anemia|DS deficiency|NN of|NN vitamin|NN b12|NN acid|NN 
+deficiency|NN in|NN folate|NN vitamin|NN b12|NN intake|NN absorption|NN 
+deficiency|NN symptom|NN deficiency|NN 
+anemia|DS lack|NN of|NN factor|NN b12|NN food|NN 
+lack|NN of|NN factor|NN condition|NN parietal|NN cell|NN gastritis|DS factor|NN factor|NN 
+absorption|NN of|NN vitamin|NN b12|NN 
+anemia|DS removal|NN of|NN portion|NN of|NN stomach|NN bypass|NN surgery|NN absorption|NN 
+of|NN anemia|DS procedure|NN 
+hypothyroidism|NN alcoholism|DS macrocytosis|NN anemia|DS 
+type|NN of|NN liver|NN disease|NN macrocytosis|NN 
+drug|NN methotrexate|NN zidovudine|NN substance|NN replication|NN metal|NN anemia|DS anemia|DS anemia|DS 
+cause|NN of|NN anemia|DS failure|NN of|NN dna|NN synthesis|NN synthesis|NN result|NN in|NN cell|NN division|NN of|NN progenitor|NN cell|NN 
+anemia|DS hypersegmentation|NN lobe|NN 
+anemia|DS etiology|NN 
+dna|NN globin|NN synthesis|NN example|NN in|NN alcoholism|DS 
+in|NN addition|NN symptom|NN of|NN anemia|DS feature|NN of|NN vitamin|NN b12|NN deficiency|NN peripheral_neuropathy|DS degeneration|NN of|NN cord|NN balance|NN difficulty|NN column|NN cord|NN pathology|NN 
+feature|NN tongue|NN glossitis|NN 
+treatment|NN anemia|DS william|NN murphy|NN dog|NN substance|NN anything|NN 
+amount|NN of|NN liver|NN disease|NN 
+george|NN minot|NN george|NN whipple|NN substance|NN vitamin|NN b12|NN liver|NN 
+nobel|NN prize|NN in|NN medicine|NN 
+anemia|DS hemoglobin|NN level|NN blood|NN cell|NN size|NN corpuscular|NN volume|NN 
+cause|NN blood|NN loss|NN anemia|DS of|NN chronic|NN disease|NN anemia|DS bone|NN marrow|NN failure|NN anemia|DS appearance|NN peripheral|NN blood|NN smear|NN population|NN of|NN blood|NN cell|NN of|NN size|NN hemoglobin|NN content|NN feature|NN color|NN of|NN blood|NN cell|NN peripheral|NN blood|NN smear|NN 
+example|NN person|NN iron_deficiency|DS iron|NN deficient|NN blood|NN cell|NN rbc|NN rbc|NN of|NN size|NN color|NN 
+person|NN folate|NN vitamin|NN b12|NN deficiency|NN cell|NN population|NN in|NN case|NN patient|NN rbc|NN donor|NN rbc|NN 
+person|NN anemia|DS defect|NN in|NN synthesis|NN alcoholism|DS deficiency|NN disease|NN smear|NN anemia|DS 
+evidence|NN multiple|NN cause|NN rbc|NN distribution|NN width|NN rdw|NN range|NN of|NN cell|NN size|NN in|NN common|NN anemia|DS 
+heinz|NN body|NN anemia|DS body|NN in|NN cytoplasm|NN of|NN rbc|NN dot|NN microscope|NN 
+in|NN animal|NN body|NN anemia|DS cause|NN 
+example|NN in|NN cat|NN dog|NN acetaminophen|NN paracetamol|NN plant|NN substance|NN in|NN cat|NN dog|NN plant|NN genus|NN allium|NN example|NN onion|NN garlic|NN 
+in|NN dog|NN ingestion|NN of|NN zinc|NN example|NN penny|NN 
+in|NN horse|NN dry|NN maple|NN leaf|NN 
+hyperanemia|NN hyperanemia|NN form|NN of|NN anemia|DS in|NN hematocrit|NN 
+refractory|NN anemia|DS refractory|NN anemia|DS anemia|DS treatment|NN syndrome|NN 
+iron_deficiency|DS anemia|DS manifestation|NN of|NN gastrointestinal|NN problem|NN iron|NN absorption|NN cause|NN occult|NN bleeding|ST 
+transfusion|NN transfusion|NN dependent|NN anemia|DS form|NN of|NN anemia|DS blood|NN transfusion|NN 
+people|NN syndrome|NN state|NN point|NN in|NN time|NN 
+beta|NN thalassemia|DS in|NN transfusion|NN dependence|NN 
+concern|NN blood|NN transfusion|NN iron|NN overload|NN 
+iron|NN overload|NN chelation|NN therapy|NN 
+treatment|NN treatment|NN anemia|DS cause|NN severity|NN 
+vitamin|NN supplement|NN acid|NN vitamin|NN b12|NN b12|NN deficiency|NN 
+iron|NN iron_deficiency|DS common|NN in|NN nation|NN 
+of|NN child|NN of|NN woman|NN of|NN age|NN in|NN nation|NN iron_deficiency|DS anemia|DS of|NN iron_deficiency|DS anemia|DS 
+iron_deficiency|DS iron|NN intake|NN in|NN men|NN woman|NN 
+diagnosis|NN of|NN iron_deficiency|DS search|NN source|NN of|NN blood|NN loss|NN gastrointestinal_bleeding|ST ulcer|NN colon|NN cancer|DS 
+mild|NN anemia|DS iron|NN supplementation|NN sulfate|NN fumarate|NN gluconate|NN 
+iron|NN supplement|NN stomach|NN upset|NN darken|NN of|NN feces|NN 
+stomach|NN upset|NN iron|NN food|NN amount|NN of|NN iron|NN 
+vitamin|NN c|NN aid|NN in|NN body|NN ability|NN iron|NN iron|NN supplement|NN orange|NN juice|NN of|NN benefit|NN 
+in|NN anemia|DS of|NN chronic_kidney_disease|DS erythropoietin|NN epoetin|NN alfa|NN rbc|NN production|NN iron_deficiency|DS inflammation|NN iron|NN 
+iron|NN in|NN case|NN iron|NN example|NN absorption|NN example|NN in|NN case|NN of|NN inflammation|NN iron|NN 
+body|NN mg|NN iron|NN gastrointestinal|NN tract|NN 
+in|NN case|NN patient|NN deficit|NN of|NN mg|NN of|NN iron|NN month|NN 
+erythropoietin|NN iron|NN rate|NN of|NN erythropoiesis|NN 
+blood|NN transfusion|NN blood|NN transfusion|NN in|NN symptom|NN hemoglobin|NN 
+in|NN coronary_artery_disease|DS bleeding|ST transfusion|NN hemoglobin|NN 
+survival|NN 
+transfusion|NN in|NN case|NN of|NN cardiovascular|NN instability|NN 
+review|NN blood|NN transfusion|NN anaemia|NN in|NN people|NN cancer|DS fatigue|ST breathlessness|NN cancer|DS treatment|NN haemorrhage|NN consideration|NN strategy|NN blood|NN transfusion|NN 
+agent|NN objective|NN administration|NN of|NN agent|NN esa|NN hemoglobin|NN level|NN transfusion|NN person|NN need|NN 
+mild|NN anemia|DS 
+in|NN people|NN chronic_kidney_disease|DS hemoglobin|NN level|NN symptom|NN of|NN anemia|DS 
+use|NN iron|NN 
+oxygen|NN treatment|NN of|NN blood|NN loss|NN anemia|DS indication|NN oxygen|NN hbo|NN undersea|NN society|NN 
+use|NN of|NN hbo|NN oxygen|NN delivery|NN in|NN patient|NN blood|NN transfusion|NN reason|NN 
+hbo|NN reason|NN threat|NN of|NN blood|NN product|NN incompatibility|NN concern|NN disease|NN factor|NN 
+belief|NN of|NN religion|NN ex|NN jehovah|NN witness|NN hbo|NN method|NN 
+review|NN of|NN use|NN of|NN hbo|NN in|NN anemia|DS publication|NN result|NN 
+epidemiology|NN degree|NN of|NN anemia|DS people|NN of|NN population|NN 
+common|NN in|NN female|NN male|NN 
+mild|NN iron_deficiency|DS anemia|DS 
+history|NN sign|NN of|NN anemia|DS in|NN human|NN bone|NN year|NN in|NN thailand|NN 
+reference|NN janz|NN tg|NN johnson|NN rl|NN rubenstein|NN sd|NN 
+anemia|DS in|NN emergency|NN department|NN evaluation|NN treatment|NN http|NN wtopic|NN 
+emergency|NN medicine|NN practice|NN 
+pmid|NN http|NN 
+http|NN 
+topic|NN 
+gbd|NN disease|NN injury|NN incidence|NN prevalence|NN collaborator|NN 
+incidence|NN prevalence|NN year|NN disability|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN c5055577|NN 
+pmid|NN http|NN 
+anemia|DS 
+nhlbi|NN nih|NN http|NN mia|NN 
+http|NN 
+stedman|NN dictionary|NN http|NN 
+philadelphia|NN lippincott|NN wilkins|NN 
+anemia|DS 
+rodak|NN bf|NN 
+hematology|NN principle|NN application|NN http|NN 
+philadelphia|NN saunders|NN 
+http|NN 
+re|NN 
+burden|NN of|NN anemia|DS 
+journal|NN of|NN care|NN 
+issue|NN 
+pmid|NN http|NN 
+rhodes|NN varacallo|NN matthew|NN 
+physiology|NN oxygen|NN transport|NN http|NN 
+bookshelf|NN 
+pmid|NN http|NN 
+bhutta|NN za|NN jk|NN gaffey|NN mf|NN walker|NN n|NN horton|NN s|NN webb|NN p|NN black|NN re|NN 
+intervention|NN improvement|NN of|NN nutrition|NN cost|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+qaseem|NN humphrey|NN ll|NN n|NN m|NN p|NN 
+treatment|NN of|NN anemia|DS in|NN patient|NN heart|NN disease|NN practice|NN guideline|NN college|NN of|NN physician|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+vos|NN t|NN al|NN 
+year|NN disability|NN ylds|NN sequela|NN of|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gbd|NN mortality|NN cause|NN of|NN death|NN collaborator|NN 
+mortality|NN cause|NN of|NN death|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+anaemia|NN http|NN 
+s|NN july|NN july|NN 
+emedicinehealth|NN anemia|DS article|NN http|NN http|NN wayback|NN machine|NN author|NN saimak|NN nabili|NN md|NN mph|NN 
+editor|NN melissa|NN conrad|NN stöppler|NN md|NN 
+review|NN 
+april|NN weksler|NN babette|NN 
+wintrobe|NN atlas|NN of|NN hematology|NN http|NN ooks|NN 
+lippincott|NN wilkins|NN 
+pt105|NN 
+blood|NN cell|NN http|NN 
+library|NN of|NN medicine|NN 
+http|NN s|NN 
+anemia|DS 
+http|NN 
+heart|NN lung|NN blood|NN institute|NN 
+in|NN mitchell|NN r|NN kumar|NN v|NN ak|NN n|NN 
+robbins|NN pathology|NN 
+philadelphia|NN saunders|NN 
+definition|NN of|NN leukoerythroblastosis|NN http|NN tosis|NN 
+mitchell|NN r|NN kumar|NN v|NN ak|NN n|NN 
+robbins|NN pathology|NN 
+philadelphia|NN saunders|NN 
+cotran|NN r|NN kumar|NN v|NN n|NN sl|NN ak|NN 
+robbins|NN cotran|NN pathologic|NN basis|NN of|NN disease|NN 
+louis|NN mo|NN elsevier|NN saunders|NN 
+anemia|DS aiha|NN http|NN df|NN 
+jenkins|NN 
+cancer|DS center|NN 
+http|NN wayback|NN machine|NN berentsen|NN s|NN beiske|NN k|NN tjønnfjord|NN ge|NN 
+chronic|NN cold|NN agglutinin|NN disease|NN update|NN pathogenesis|NN feature|NN therapy|NN http|NN 
+hematology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+brooker|NN s|NN hotez|NN pj|NN da|NN 
+anaemia|NN woman|NN review|NN http|NN 
+plo|NN disease|NN 
+2|NN e291|NN 
+p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gyorkos|NN tw|NN gilbert|NN nl|NN larocque|NN r|NN casapía|NN m|NN 
+trichuris|NN hookworm|NN infection|NN anaemia|NN pregnancy|NN 
+medicine|NN health|NN 
+http|NN 
+pmid|NN http|NN 
+fluid|NN imbalance|NN 
+fluid|NN electrolyte|NN series|NN 
+hagerstwon|NN md|NN lippincott|NN wilkins|NN 
+isbt|NN anaemia|NN http|NN 
+s|NN cherayil|NN bj|NN 
+iron|NN inflammation|NN reaction|NN http|NN 
+metallomics|NN review|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+guagnozzi|NN d|NN aj|NN 
+anemia|DS in|NN bowel|NN disease|NN issue|NN effect|NN http|NN 
+world|NN journal|NN of|NN gastroenterology|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+leffler|NN da|NN ph|NN 
+manifestation|NN of|NN disease|NN http|NN 
+review|NN 
+gastroenterology|NN hepatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN 
+malabsorption|NN of|NN nutrient|NN cause|NN of|NN anaemia|NN in|NN disease|NN chronic|NN inflammatory|NN process|NN in|NN intestine|NN 
+j|NN connor|NN s|NN virgin|NN g|NN l|NN 
+anemia|DS iron_deficiency|DS in|NN gastrointestinal|NN liver|NN condition|NN http|NN 
+world|NN journal|NN of|NN gastroenterology|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+catassi|NN c|NN bai|NN jc|NN bonaz|NN b|NN bouma|NN g|NN carroccio|NN castillejo|NN g|NN ciacci|NN c|NN f|NN j|NN francavilla|NN r|NN l|NN p|NN w|NN koehler|NN p|NN s|NN c|NN sander|NN m|NN schuppan|NN d|NN r|NN volta|NN u|NN zevallos|NN v|NN sapone|NN fasano|NN 
+sensitivity|NN frontier|NN of|NN gluten|NN disorder|NN http|NN 
+nutrient|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+jam|NN 
+institute|NN of|NN health|NN consensus|NN development|NN conference|NN statement|NN disease|NN http|NN 
+gastroenterology|NN review|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+mc|NN 
+consideration|NN bowel|NN disease|NN 
+proceed|NN of|NN nutrition|NN society|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+gerasimidis|NN k|NN p|NN edward|NN 
+aetiology|NN impact|NN of|NN malnutrition|NN in|NN inflammatory|NN bowel|NN disease|NN 
+journal|NN of|NN human|NN nutrition|NN dietetics|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+beutler|NN e|NN j|NN 
+definition|NN of|NN anemia|DS limit|NN of|NN of|NN blood|NN hemoglobin|NN concentration|NN 
+http|NN pmc1895695|NN 
+blood|NN 
+http|NN 
+pmc|NN http|NN pmc1895695|NN 
+pmid|NN http|NN 
+maakaron|NN joseph|NN september|NN 
+anemia|DS practice|NN essential|NN pathophysiology|NN etiology|NN http|NN 
+emedicine|NN 
+ttps|NN october|NN 
+pomeranz|NN aj|NN sabnis|NN s|NN busey|NN s|NN kliegman|NN rm|NN 
+strategy|NN 
+elsevier|NN 
+polin|NN ra|NN sh|NN rowitch|NN d|NN benitz|NN 
+fetal|NN physiology|NN http|NN 
+health|NN science|NN 
+http|NN 
+e|NN 
+anemia|DS http|NN kc|NN 
+univ|NN 
+press|NN of|NN mississippi|NN 
+http|NN 
+haemoglobin|NN concentration|NN diagnosis|NN of|NN anaemia|NN assessment|NN of|NN severity|NN p|NN pdf|NN 
+http|NN pdf|NN 
+world|NN health|NN organization|NN 
+prevalence|NN of|NN anaemia|NN http|NN pdf|NN 
+geneva|NN world|NN health|NN organization|NN 
+http|NN pdf|NN march|NN 
+caito|NN s|NN lope|NN mm|NN aschner|NN m|NN 
+chapter|NN toxicology|NN of|NN lead|NN damage|NN organ|NN 
+in|NN s|NN helmut|NN s|NN rk|NN ed|NN 
+lead|NN effect|NN environment|NN health|NN 
+metal|NN ion|NN in|NN life|NN science|NN 
+gruyter|NN 
+pp|NN 
+http|NN 
+isbn|NN pmid|NN http|NN 
+recommendation|NN iron_deficiency|DS in|NN state|NN http|NN 
+http|NN wayback|NN machine|NN mmwr|NN 
+iron_deficiency|DS state|NN http|NN 
+mmwr|NN 
+http|NN m|NN april|NN 
+j|NN jm|NN aligne|NN p|NN pg|NN 
+iron_deficiency|DS achievement|NN child|NN adolescent|NN in|NN state|NN http|NN e808e|NN 
+pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN c|NN 
+review|NN of|NN study|NN effect|NN of|NN iron_deficiency|DS development|NN in|NN child|NN 
+journal|NN of|NN nutrition|NN 
+discussion|NN 
+http|NN 2|NN fjn|NN 
+pmid|NN http|NN 
+iron_deficiency|DS anaemia|NN assessment|NN prevention|NN control|NN guide|NN programme|NN manager|NN http|NN pdf|NN 
+http|NN pdf|NN 
+mentzer|NN wc|NN 
+differentiation|NN of|NN iron_deficiency|DS trait|NN 
+lancet|NN 
+1|NN http|NN 
+pmid|NN http|NN 
+vitamin|NN disease|NN article|NN singh|NN md|NN dm|NN dnb|NN http|NN http|NN wayback|NN machine|NN july|NN 
+physiology|NN medicine|NN presentation|NN speech|NN http|NN 
+http|NN 
+harvey|NN jw|NN 
+hematology|NN guide|NN color|NN atlas|NN 
+louis|NN mo|NN 
+hovda|NN l|NN poppenga|NN rh|NN peterson|NN k|NN ed|NN 
+chapter|NN onion|NN 
+blackwell|NN consult|NN companion|NN toxicology|NN 
+john|NN wiley|NN son|NN 
+pp|NN 
+sf|NN 
+chapter|NN disorder|NN 
+in|NN sprayberry|NN ka|NN robinson|NN ne|NN ed|NN 
+robinson|NN therapy|NN in|NN medicine|NN 
+health|NN science|NN 
+pp|NN 
+wallerstein|NN ro|NN 
+evaluation|NN of|NN anemia|DS http|NN 
+journal|NN of|NN medicine|NN 
+pmc|NN http|NN 
+pmid|NN tps|NN 
+medterms|NN definition|NN refractory|NN anemia|DS http|NN 
+http|NN 
+source|NN http|NN 
+http|NN 
+mody|NN rj|NN pi|NN wechsler|NN d|NN 
+refractory|NN iron_deficiency|DS anemia|DS manifestation|NN of|NN disease|NN 
+journal|NN of|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+rp|NN barosi|NN g|NN barbui|NN t|NN f|NN dohner|NN k|NN dupriez|NN b|NN al|NN 
+leukemia|DS research|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN list|NN af|NN 
+management|NN of|NN dependence|NN 
+hematology|NN 
+society|NN of|NN hematology|NN 
+education|NN program|NN 
+http|NN 
+pmid|NN http|NN 
+cd|NN silberstein|NN le|NN pm|NN anderson|NN kc|NN roback|NN jd|NN 
+blood|NN bank|NN transfusion|NN medicine|NN principle|NN practice|NN http|NN epdqaaqbaj|NN 
+health|NN science|NN 
+isbn|NN 
+mandel|NN j|NN d|NN 
+pulmonary|NN disease|NN http|NN s|NN 
+health|NN science|NN 
+ff|NN 
+ferri|NN advisor|NN book|NN in|NN 1|NN http|NN 
+health|NN science|NN 
+ce|NN 
+strategy|NN anemia|DS 
+journal|NN of|NN nutrition|NN 
+http|NN jcn|NN 
+pmid|NN http|NN 
+sezer|NN s|NN fn|NN yakupoglu|NN u|NN arat|NN z|NN turan|NN m|NN m|NN 
+acid|NN administration|NN anemia|DS in|NN iron|NN hemodialysis|NN patient|NN 
+organ|NN 
+http|NN 
+pmid|NN http|NN 
+management|NN in|NN people|NN chronic_kidney_disease|DS guidance|NN guideline|NN nice|NN http|NN 
+http|NN 
+auerbach|NN m|NN ballard|NN h|NN 
+use|NN of|NN iron|NN administration|NN efficacy|NN safety|NN 
+hematology|NN 
+society|NN of|NN hematology|NN 
+education|NN program|NN 
+http|NN 
+pmid|NN http|NN 
+kansagara|NN d|NN dyer|NN e|NN englander|NN h|NN r|NN m|NN kagen|NN d|NN 
+treatment|NN of|NN anemia|DS in|NN patient|NN heart|NN disease|NN review|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+goddard|NN af|NN jam|NN mcintyre|NN scott|NN bb|NN 
+society|NN of|NN gastroenterology|NN 
+guideline|NN management|NN of|NN iron_deficiency|DS anaemia|NN 
+gut|NN 
+http|NN 
+pmid|NN http|NN 
+preston|NN nancy|NN hurlow|NN adam|NN brine|NN jennifer|NN michael|NN i|NN 
+blood|NN transfusion|NN anaemia|NN in|NN patient|NN cancer|DS 
+cochrane|NN database|NN of|NN review|NN 2|NN cd009007|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN link|NN h|NN 
+update|NN guideline|NN anemia|DS management|NN agent|NN 
+oncologist|NN 
+http|NN 
+pmid|NN http|NN 
+society|NN of|NN nephrology|NN thing|NN physician|NN patient|NN ttp|NN pdf|NN initiative|NN of|NN abim|NN foundation|NN society|NN of|NN nephrology|NN http|NN pdf|NN undersea|NN society|NN 
+blood|NN loss|NN anemia|DS http|NN 
+july|NN 
+hart|NN gb|NN lennon|NN pa|NN strauss|NN mb|NN 
+oxygen|NN in|NN loss|NN anemia|DS http|NN 
+hyperbaric|NN 
+2|NN http|NN 
+van|NN meter|NN kw|NN 
+review|NN of|NN application|NN of|NN oxygen|NN in|NN treatment|NN of|NN anemia|DS approach|NN http|NN 
+undersea|NN medicine|NN 
+1|NN 
+pmid|NN http|NN 
+http|NN ttp|NN 
+tayles|NN 
+anemia|DS disease|NN malaria|DS in|NN mainland|NN southeast|NN asia|NN 
+journal|NN of|NN anthropology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+link|NN classification|NN d50|NN d|NN p|NN http|NN 
+http|NN p|NN hx|NN d000740|NN tps|NN resource|NN ter|NN diseasesdb|NN http|NN medlineplus|NN http|NN emedicine|NN http|NN ew|NN p|NN 
+http|NN http|NN page|NN 1|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

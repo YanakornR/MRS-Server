@@ -1,0 +1,273 @@
+Chronic fatigue syndrome,CFS,Myalgic encephalomyelitis,ME,chronic fatigue syndrome,CFS,myalgic encephalomyelitis,post-viral fatigue syndrome,PVFS,chronic fatigue immune dysfunction syndrome,CFIDS,systemic exertion intolerance disease,SEID
+From Wikipedia, the free encyclopedia
+  (Redirected from Chronic Fatigue Syndrome)
+Jump to navigation
+Jump to search
+Chronic fatigue syndrome
+Other names	Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS),[1] myalgic encephalomyelitis (ME), post-viral fatigue syndrome (PVFS), chronic fatigue immune dysfunction syndrome (CFIDS), systemic exertion intolerance disease (SEID), others[2]:20
+Specialty	Neurology, rheumatology, psychiatry
+Symptoms	Long-term fatigue,[3] worsening of symptoms with activity[4]
+Duration	Often years[1]
+Causes	Unknown[1]
+Diagnostic method	Based on symptoms[5]
+Treatment	Symptomatic, cognitive behavioral therapy, gradual increase in activity[5][6]
+Frequency	7–3,000 per 100,000 adults[7][8]
+
+Chronic fatigue syndrome (CFS), also referred to as myalgic encephalomyelitis (ME), is a medical condition characterized by long-term fatigue and other persistent symptoms that limit a person's ability to carry out ordinary daily activities.[3][9]
+
+While the cause is not understood, proposed mechanisms include biological, genetic, infectious, and psychological.[1][7] Diagnosis is based on a person's symptoms because there is no confirmed diagnostic test.[5] The fatigue in CFS is not due to strenuous ongoing exertion, is not much relieved by rest and is not due to a previous medical condition.[10] Fatigue is a common symptom in many illnesses, but the unexplained fatigue and severity of functional impairment in CFS is comparatively rare.[8]
+
+There is no cure, with treatment being symptomatic.[4][11] No medications or procedures have been approved in the United States.[12] Evidence suggests that cognitive behavioral therapy (CBT) and a gradual increase in activity suited to individual capacity can be beneficial in some cases.[4][5][6] In a systematic review of exercise therapy, no evidence of serious adverse effects was found, however data was insufficient to form a conclusion.[6] Some patient support groups have criticized the use of CBT and graded exercise therapy (GET).[13] Tentative evidence supports the use of the medication rintatolimod.[5] This evidence, however, was deemed insufficient to approve sales for CFS treatment in the United States.[14]
+
+Estimates of the number of people with the condition vary from 7 to 3,000 per 100,000 adults.[7][8] About 836,000 to 2.5 million Americans and 250,000 people in the UK have CFS.[15][16] CFS occurs three times more often in women than in men and most commonly affects people between 40 and 60 years of age.[1][17] Up to 1 in 50 children are estimated to have CFS, and it is more common in adolescents than younger children.[18] There is agreement that CFS has a negative effect on health, happiness and productivity, but there is also controversy over many aspects of the disorder. Physicians, researchers and patient advocates promote different names[19] and diagnostic criteria, while evidence for proposed causes and treatments is often contradictory or of low quality.[20]
+Contents
+
+    1 Signs and symptoms
+        1.1 Onset
+        1.2 Functioning
+        1.3 Cognitive functioning
+    2 Cause
+        2.1 Risk factors
+        2.2 Viral infection
+    3 Pathophysiology
+        3.1 Neurological
+        3.2 Immunological
+        3.3 Endocrine
+    4 Diagnosis
+        4.1 Definitions
+        4.2 Differential diagnoses
+    5 Management
+        5.1 Cognitive behavioral therapy
+        5.2 Exercise therapy
+        5.3 Pacing
+        5.4 Diet
+        5.5 Medication
+    6 Prognosis
+    7 Epidemiology
+    8 History
+        8.1 Myalgic encephalomyelitis
+        8.2 Chronic fatigue syndrome
+        8.3 Other medical terms
+    9 Society and culture
+        9.1 Naming
+        9.2 Economic impact
+        9.3 Awareness day
+        9.4 Doctor–patient relations
+        9.5 Blood donation
+        9.6 Controversy
+        9.7 Research funding
+    10 Research
+    11 References
+    12 External links
+
+Signs and symptoms
+
+The most widely referenced diagnostic criteria and definition of CFS for research and clinical purposes was published in 1994 by the United States Centers for Disease Control and Prevention (CDC).[21] The CDC currently recommends the following criteria for diagnosis:[22]
+
+    Significantly lowered ability to participate in activities that were routine before the onset of the condition, and persisting more than six months
+    Physical or mental activity causes worsening symptoms that would not have been problematic before the onset of the condition, (post-exertional malaise (PEM))
+    Sleep problems
+
+Additionally, one of the following symptoms must be present:[22]
+
+    Difficulty with thinking and memory
+    Worsening of problems with standing or sitting
+
+Other common symptoms may include:[22]
+
+    Muscle pain, joint pain, and headache
+    Tender lymph nodes in the neck or armpits
+    Sore throat
+    Irritable bowel syndrome
+    Night sweats
+    Sensitivities to foods, odors, chemicals, or noise
+
+The CDC proposes that persons with symptoms resembling those of CFS consult a physician to rule out several treatable illnesses: Lyme disease,[23] "sleep disorders, major depressive disorder, alcohol/substance abuse, diabetes mellitus, hypothyroidism, mononucleosis (mono), lupus, multiple sclerosis (MS), chronic hepatitis and various malignancies."[24] Medications can also cause side effects that mimic symptoms of CFS.[23] Central sensitization, or increased sensitivity to sensory stimuli such as pain have been observed in CFS. Sensitivity to pain increases post-exertionally, which is opposite to the normal pattern.[25]
+Onset
+
+Gradual or sudden onset of the illness may occur, and studies have mixed results as to which occurs more frequently.[2]:158[2]:181
+Functioning
+
+The functional capacity of individuals with CFS varies greatly.[26] Some persons with CFS lead relatively normal lives; others are totally bed-ridden and unable to care for themselves.[27] For the majority of persons with CFS, work, school, and family activities are significantly reduced for extended periods of time.[28] The severity of symptoms and disability is the same regardless of gender,[29] and many experience strongly disabling chronic pain.[30] Persons report critical reductions in levels of physical activity.[31] Also, a reduction in the complexity of activity has been observed.[32] Reported impairment is comparable to other fatiguing medical conditions[33] including late-stage AIDS,[34] lupus, rheumatoid arthritis, chronic obstructive pulmonary disease (COPD), and end-stage kidney disease.[28] CFS affects a person's functional status and well-being more than major medical conditions such as multiple sclerosis, congestive heart failure, or type II diabetes mellitus.[35][36]
+
+Often, there are courses of remission and relapse of symptoms, which make the illness difficult to manage. Persons who feel better for a period may overextend their activities, and the result can be a worsening of their symptoms with a relapse of the illness.[28]
+
+25% of people with CFS are house-bound or bedridden for long periods during their illness, often for decades.[2]:32[37] An estimated 75% are unable to work because of their illness.[38] More than half were on disability benefits or temporary sick leave, and less than a fifth worked full-time.[27]
+
+People with CFS have decreased scores on the SF-36 quality of life questionnaire, especially in the sub scales on vitality, physical functioning, general health, physical role and social functioning; however, the sub scales for "role emotional" and mental health in CFS patients were consistent with or not substantially lower than healthy controls.[39] Loss of economic production and costs due to CFS are estimated at between $18 and $51 billion a year in the U.S.[40] Direct healthcare costs are estimated at between $9 and $14 billion annually in the U.S. alone.[38]
+Cognitive functioning
+
+Cognitive symptoms are mainly from deficits in attention, memory, and reaction time. The deficits are in the range of 0.5 to 1.0 standard deviations below expected values, and are likely to affect day-to-day activities. Simple and complex information processing speed, and functions entailing working memory over long time periods were moderately to extensively impaired. These deficits are generally consistent with those reported by patients. Perceptual abilities, motor speed, language, reasoning, and intelligence did not appear to be significantly altered.[41] There is an increased frequency of neuropsychiatric and neuropsychological symptoms in persons with CFS.[42]
+Cause
+
+The cause of CFS is unknown.[43] Genetic, physiological and psychological factors are thought to work together to precipitate and perpetuate the condition.[7] A 2016 report by the Institute of Medicine states that CFS is a biologically-based illness, but that the biologic abnormalities are not sensitive enough to be useful as a diagnosis.[43]
+
+It may begin as a flu-like illness with a sudden onset, or it may occur gradually. Because of this, various infectious causes have been proposed; however, there is insufficient evidence to support such causation.[44][45] Infections proposed include mononucleosis, chlamydia pneumonia, HHV-6, and lyme disease. Inflammation may be involved.[46]
+
+About 60 percent of cases occur after a viral illness, such as mononucleosis or gastroenteritis.[47]
+Risk factors
+
+All ethnic groups and income levels are susceptible to the illness. The CDC states that CFS is "at least as common" in African Americans and Hispanics as Caucasians.[48] A 2009 meta-analysis, however, showed that compared with the White American majority, African Americans and Native Americans have a higher risk of CFS, though it acknowledged that studies and data were limited.[49] More women than men get CFS — between 60 and 85% of cases are women; however, there is some indication that the prevalence among men is underreported. The illness is reported to occur more frequently in persons between the ages of 40 and 59.[1] CFS is less prevalent among children and adolescents than among adults.[50]
+
+Blood relatives of those who have CFS appear to be more predisposed.[51] There is no direct evidence that CFS is contagious.[48]
+
+Psychological stress, childhood trauma, perfectionist personalities, old age, lower middle education, low physical fitness, preexisting psychological illness, and allergies may be risk factors for developing chronic fatigue syndrome. This has led some to believe that stress-related visceral responses underlie CFS.[52][53] Pre-existing depressive and anxiety disorders, as well as high expectation of parents and family history were predisposing factors identified in another review.[54]
+
+People with CFS and their relatives tend to attribute their illness to physical causes (such as a virus or pollution) rather than to psychological causes.[7][55] Such attributions are associated with increased symptoms and impairment, and worse outcomes over time.[7] However, according to the CDC, CFS is a biological illness, not a psychologic disorder, and those affected are neither malingering nor seeking secondary gain.[56]
+Viral infection
+
+The term post-viral fatigue syndrome (PVFS) is used as an alternative name for CFS which occurs after viral infection. Viral infection is a significant risk factor for CFS, with 22% of people with mononucleosis have chronic fatigue six months later, and 9% having strictly defined CFS.[57] Risk factors for developing CFS after mononucleosis, dengue fever or Q-fever include longer bed-rest during the illness, poorer pre-illness physical fitness, attributing symptoms to physical illness, belief that a long recovery time is needed, as well as pre-infection distress and fatigue. Biological factors such as CD4 and CD8 activation and liver inflammation are predictors of sub-acute fatigue, but not CFS.[58]
+
+A study comparing diagnostic labels found that people labelled with ME had the worst prognosis while those with PVFS had the best. It is unclear, however, whether this is due to those with more severe symptoms being labelled with ME, or if there is an adverse effect to being labelled with ME.[21]
+Pathophysiology
+Neurological
+
+Tentative evidence suggests a relationship between autonomic nervous system dysfunction and diseases such as CFS, fibromyalgia, irritable bowel syndrome, and interstitial cystitis. However, it is unknown if this relationship is causative.[59] Reviews of CFS literature have found autonomic abnormalities such as decreased sleep efficiency, increased sleep latency, decreased slow wave sleep, and abnormal heart rate response to tilt table tests suggesting a role of the autonomic nervous system in CFS. However, these results were limited by inconsistency.[60][61][62] Some neuroimaging studies have observed prefrontal and brainstem hypometabolism; however, studies have been limited by sample size.[63] Decreased frontal grey matter, and decreased white matter in the brain stem have been observed, as well as decreased global cerebral metabolism; however, these findings have been contradictory.[64]
+Immunological
+
+Immunological abnormalities are frequently observed in those with CFS. Decreased NK cell activity is found in CFS patients and correlates with severity of symptoms. CFS patients have an abnormal response to exercise, including increased production of complement products, increased oxidative stress combined with decreased antioxidant response, and increased Interleukin 10, and TLR4, some of which correlates with symptom severity.[65] Increased levels of cytokines have been proposed to account for the decreased ATP production and increased lactate during exercise;[66][67] however, the elevations of cytokine levels are inconsistent in specific cytokine, albeit frequently found.[68][69] Similarities have been drawn between cancer and CFS with regard to abnormal intracellular immunological signaling. Abnormalities observed include hyperactivity of Ribonuclease L, a protein activated by IFN, and hyperactivity of NF-κB.[70]
+Endocrine
+
+Evidence points to abnormalities in the hypothalamic-pituitary-adrenal axis (HPA axis) in some, but not all, persons with CFS, which may include slightly low cortisol levels,[71] a decrease in the variation of cortisol levels throughout the day, decreased responsiveness of the HPA axis, and a high serotonergic state, which can be considered to be a "HPA axis phenotype" that is also present in some other conditions, including posttraumatic stress disorder (PTSD) and some autoimmune conditions.[72] It is unclear whether or not the HPA axis plays a primary role as a cause of CFS,[73][74][75] or has a secondary role in worsening or perpetuating symptoms later in the course of the illness.[76] In most healthy adults, the cortisol awakening response shows an increase in cortisol levels averaging 50% in the first half-hour after waking. In people with CFS, it appears this increase is significantly less, but methods of measuring cortisol levels vary, so this is not certain.[77] Factors leading to reduced cortisol levels include low activity levels, depression and early-life stress.[73]
+
+Autoimmunity has been proposed to be a factor in CFS; however, the only relevant finding is a subset of patients with increased B Cell activity and autoantibodies, possibly as a result of decreased NK cell regulation or viral mimicry.[78]
+Diagnosis
+
+There are no characteristic laboratory abnormalities to diagnose CFS;[79] testing is used to rule out other conditions which could be responsible for the symptoms.[80][81] When symptoms are attributable to certain other conditions, the diagnosis of CFS is excluded. As such, a diagnosis of CFS/ME is generally one of exclusion (of alternative diagnoses).
+Definitions
+Main article: Clinical descriptions of chronic fatigue syndrome
+
+Notable definitions include:[82]
+
+    Centers for Disease Control and Prevention (CDC) definition (1994),[80] the most widely used clinical and research description of CFS,[7] is also called the Fukuda definition and is a revision of the Holmes or CDC 1988 scoring system.[83] The 1994 criteria require the presence of four or more symptoms beyond fatigue, while the 1988 criteria require six to eight.[3]
+    The ME/CFS 2003 Canadian Clinical working definition[84] states: "A patient with ME/CFS will meet the criteria for fatigue, post-exertional malaise and/or fatigue, sleep dysfunction, and pain; have two or more neurological/cognitive manifestations and one or more symptoms from two of the categories of autonomic, neuroendocrine, and immune manifestations; and the illness persists for at least 6 months".
+    The 2015 definition by the Institute of Medicine (now the National Academy of Sciences) is not a definition of exclusion (differential diagnosis is still required).[85] "Diagnosis requires that the patient have the following three symptoms: 1) A substantial reduction or impairment in the ability to engage in pre-illness levels of occupational, educational, social, or personal activities, that persists for more than 6 months and is accompanied by fatigue, which is often profound, is of new or definite onset (not lifelong), is not the result of ongoing excessive exertion, and is not substantially alleviated by rest, and 2) post-exertional malaise* 3) Unrefreshing sleep*; At least one of the two following manifestations is also required: 1) Cognitive impairment* 2) Orthostatic intolerance" and notes that "*Frequency and severity of symptoms should be assessed. The diagnosis of ME/CFS should be questioned if patients do not have these symptoms at least half the time with moderate, substantial, or severe intensity."[86]
+
+Clinical practice guidelines are generally based on case descriptions, with the aim of improving diagnosis, management and treatment. An example is the CFS/ME guideline for the National Health Services in England and Wales, produced in 2007,[3] (presently being updated).[87] Other guidance can be found at the New York Department of Health.[88]
+Differential diagnoses
+
+Certain medical conditions can cause chronic fatigue and must be ruled out before a diagnosis of CFS can be given. Hypothyroidism, anemia,[89] coeliac disease (that can occur without gastrointestinal symptoms),[90] diabetes and certain psychiatric disorders are a few of the diseases that must be ruled out if the patient presents with appropriate symptoms.[3][80][89] Other diseases, listed by the Centers for Disease Control and Prevention, include infectious diseases (such as Epstein–Barr virus, influenza, HIV infection, tuberculosis, Lyme disease), neuroendocrine diseases (such as thyroiditis, Addison's disease, adrenal insufficiency, Cushing's disease), hematologic diseases (such as occult malignancy, lymphoma), rheumatologic diseases (such as fibromyalgia, polymyalgia rheumatica, Sjögren's syndrome, giant-cell arteritis, polymyositis, dermatomyositis), psychiatric diseases (such as bipolar disorder, schizophrenia, delusional disorders, dementia, anorexia/bulimia nervosa), neuropsychologic diseases (such as obstructive sleep apnea, parkinsonism, multiple sclerosis), and others (such as nasal obstruction from allergies, sinusitis, anatomic obstruction, autoimmune diseases, some chronic illness, alcohol or substance abuse, pharmacologic side effects, heavy metal exposure and toxicity, marked body weight fluctuation).[89]
+
+Persons with fibromyalgia (FM, or fibromyalgia syndrome, FMS), like those with CFS, have muscle pain, severe fatigue and sleep disturbances. The presence of allodynia (abnormal pain responses to mild stimulation) and of extensive tender points in specific locations differentiates FM from CFS, although the two diseases often co-occur.[91]
+
+Depressive symptoms, if seen in CFS, may be differentially diagnosed from primary depression by the absence of anhedonia, decreased motivation, and guilt; and the presence of somatic symptoms such as sore throat, swollen lymph nodes, and exercise intolerance with post exertional exacerbation of symptoms.[89]
+Management
+Main article: Chronic fatigue syndrome treatment
+
+There is no certain pharmacological treatment or cure for CFS[3] although various drugs have been or are being investigated.[92] A 2014 report prepared by the Agency for Healthcare Research and Quality stated that there are wide variations in patient management, that many receive a multifaceted approach to treatment, and that no medications have been approved by the U.S. Food and Drug Administration (FDA) for the treatment of ME/CFS, although several have been used off label. The report concluded that although counseling and graded exercise therapy (GET) have shown some benefits, these interventions have not been studied fully enough to recommend them for all persons affected. The report expressed concern that GET appears to be associated with worsening symptoms in some.[93]
+
+The CDC guide for the management of CFS states that while there is no cure, a number of methods might improve symptoms. Treatment strategies for sleep problems, pain, (depression, stress, and anxiety) dizziness and lightheadedness (Orthostatic Intolerance), and memory and concentration problems are enumerated. Other useful topics mentioned that patients and doctors might discuss include; carefully monitoring and managing activity to avoid worsening of symptoms, counseling to cope with the impact the illness may have on quality of life, proper nutrition and nutritional supplements that may support better health, complementary therapies that might help increase energy or decrease pain.[4]
+
+The United Kingdom's National Institute for Health and Clinical Excellence (NICE) 2007 guideline directed toward clinicians, specifies the need for shared decision-making between the patient and healthcare professionals, and acknowledges the reality and impact of the condition and the symptoms. The NICE guideline covers illness management aspects of diet, sleep and sleep disorders, rest, relaxation, and pacing. Referral to specialist care for cognitive behavioural therapy, graded exercise therapy and activity management programmes are recommended to be offered as a choice to patients with mild or moderate CFS.[94] In 2017 NICE announced its guidance for CFS/ME needed to be updated.[11] Progress on a new guideline is ongoing and publication is expected in October 2020.[95]
+Cognitive behavioral therapy
+
+In June 2017, the CDC stated that speaking with a therapist may help.[96] A 2015 National Institutes of Health report concluded that while counseling and behavior therapies could produce benefits for some people, they may not yield improvement in quality of life, and because of this limitation such therapies should not be considered as a primary treatment, but rather should be used only as one component of a broader approach.[97] This same report stated that although counseling approaches have shown benefit in some measures of fatigue, function and overall improvement, these approaches have been inadequately studied in subgroups of the wider CFS patient population. Further concern was expressed that reporting of negative effects experienced by patients receiving counseling and behavior therapies had been poor.[93] A report by the Institute of Medicine published in 2015 states that it is unclear whether CBT helps to improve cognitive impairments experienced by patients.[2]:265
+
+A 2008 Cochrane Review concluded that CBT did reduce the symptom of fatigue, but noted that the benefits of CBT may diminish after the therapy is completed, and that due to study limitations "the significance of these findings should be interpreted with caution".[20] A 2014 systematic review reported that there was only limited evidence that patients increased levels of physical activity after receiving CBT. The authors concluded that, as this finding is contrary to the cognitive behavioural model of CFS, patients receiving CBT were adapting to the illness rather than recovering from it.[98]
+
+Patient organisations have long criticised the use of CBT as a treatment for CFS.[99] In 2012 the ME Association (MEA) commenced an opinion survey of 493 patients who had received a CBT treatment in the UK. Based on the finding of this survey, in 2015 the MEA concluded that CBT in its current form should not be recommended as a primary intervention for people with CFS[100] In a letter published online in the Lancet in 2016, Dr Charles Shepherd, medical advisor to the MEA, expressed the view that the contention between patients and researchers lay in "a flawed model of causation that takes no account of the heterogeneity of both clinical presentations and disease pathways that come under the umbrella diagnosis of ME/CFS".[101]
+Exercise therapy
+
+In 2017, the CDC recommended light exercises and stretching but not in the four hours before bed to help with sleep.[96] Stretching and movement therapies are also recommended for pain.[96] Previously, a 2014 National Institutes of Health report concluded that while Graded Exercise Therapy (GET) could produce benefits, it may not yield improvement in quality of life and that because of this limitation, GET should not be considered as a primary treatment, but instead be used only as one component of a broader approach. The report also noted that a focus on exercise programs had discouraged patient participation in other types of physical activity, due to concerns of precipitating increased symptoms.[97] A July 2016 addendum to this report recommended that the Oxford criteria not be used when studying ME/CFS. If studies based on the Oxford criteria were excluded, there would be insufficient evidence of the effectiveness of GET on any outcome.[102]
+
+A 2017 Cochrane review stated that exercise therapy could contribute to alleviation of some symptoms of CFS, especially fatigue.[6] The Cochrane review also noted that research was inconclusive as to which, if any, type of exercise therapy was superior, and concluded that no evidence had been found suggesting that exercise therapy worsened outcomes.[6][103][needs update] A 2015 review article determined that serious adverse effects, or harms, from exercise therapy were poorly reported in most studies, and determined there was insufficient evidence for a conclusion.[5]
+
+As with CBT, patient organisations have long criticised the use of exercise therapy, most notably GET, as a treatment for CFS.[99] In 2012 the MEA commenced an opinion survey of patients who had received GET. Based on the findings of this survey, in 2015 the MEA concluded that GET in its current delivered form should not be recommended as a primary intervention for persons with CFS.[100]
+Pacing
+
+Pacing is an energy management strategy based on the observation that symptoms of the illness tend to increase following minimal exertion. There are two forms: symptom-contingent pacing, where the decision to stop (and rest or change an activity) is determined by an awareness of an exacerbation of symptoms; and time-contingent pacing, which is determined by a set schedule of activities which a patient estimates he or she is able to complete without triggering post-exertional malaise (PEM). Thus the principle behind pacing for CFS is to avoid over-exertion and an exacerbation of symptoms. It is not aimed at treating the illness as a whole. Those whose illness appears stable may gradually increase activity and exercise levels, but, according to the principle of pacing, must rest if it becomes clear that they have exceeded their limits.[104]
+Diet
+
+Patients with CFS benefit from a well-balanced diet and eating regularly (eating little and often), including slow-release starchy foods in meals and snacks. Although elimination diets are not generally recommended, many people experience relief of CFS symptoms with these diets, including gastrointestinal complaints. To avoid the risk of malnutrition, they should be supervised by a dietitian.[94]
+Medication
+
+Antidepressants are mostly ineffective in treating CFS. Antiviral and immunological therapies have provided some benefit, but are limited by their side effects.[105][106]
+
+Steroid replacement therapy is not effective.[74]
+
+There is some preliminary evidence that the immunomodulatory medication rintatolimod improves exercise capacity, as well as cognitive function and quality of life, based on two trials.[5][107][108] The US FDA has repeatedly denied commercial approval, citing numerous deficiencies in both trials, and concluding that the available evidence is insufficient to demonstrate its safety or efficacy in CFS.[14][109]
+Prognosis
+
+A systematic review described improvement and occupational outcomes of people with CFS found that "the median full recovery rate was 5% (range 0–31%) and the median proportion of patients who improved during follow-up was 39.5% (range 8–63%). Return to work at follow-up ranged from 8 to 30% in the three studies that considered this outcome." ... "In five studies, a worsening of symptoms during the period of follow-up was reported in between 5 and 20% of patients." A good outcome was associated with less fatigue severity at baseline. Other factors were occasionally, but not consistently, related to outcome, including age at onset (5 of 16 studies), and attributing illness to a psychological cause and/or having a sense of control over symptoms (4 of 16 studies).[110] Another review found that children have a better prognosis than adults, with 54–94% having recovered by follow-up compared to less than 10% of adults returning to pre-illness levels of functioning.[111]
+Epidemiology
+
+A 2003 review reported between 7 and 3,000 cases of CFS for every 100,000 adults.[7] The wide variation of estimates may be due to the different definitions of CFS in use, the settings in which people were selected and the methodology used to exclude study participants with possible alternative diagnoses.[8] The CDC in a 2015 report estimates 836,000 to 2.5 million Americans have CFS, but most remain undiagnosed.[15] Approximately 250,000 people in the UK are affected with the illness, according to the UK Department of Health archives.[16]
+
+CFS affects females about two to four times more often than males.[112][17]
+History
+Main article: History of chronic fatigue syndrome
+Myalgic encephalomyelitis
+
+From 1934 onwards, outbreaks of a previously unknown illness began to be recorded by doctors.[113][114] Initially considered to be occurrences of poliomyelitis, the illness was subsequently referred to as "epidemic neuromyasthenia".[114] In the 1950s, the term "benign myalgic encephalomyelitis" was used in relation to a comparable outbreak at the Royal Free Hospital in London.[115] The descriptions of each outbreak were varied, but included symptoms of malaise, tender lymph nodes, sore throat, pain, and signs of encephalomyelitis.[116] The cause of the condition was not identified, although it appeared to be infectious, and the term "benign myalgic encephalomyelitis" was chosen to reflect the lack of mortality, the severe muscular pains, symptoms suggesting damage to the nervous system, and to the presumed inflammatory nature of the disorder. However, critics point out that the illness is rarely benign, doesn't always cause muscle pain, and is possibly never encephalomyelitic.[113] The syndrome appeared in sporadic as well as epidemic cases[117] and in 1969, benign myalgic encephalomyelitis appeared as an entry to the International Classification of Diseases under Diseases of the nervous system.[118]
+
+In 1970, two British psychiatrists reviewed 15 outbreaks of benign myalgic encephalomyelitis and concluded that these were psychosocial phenomena caused by either mass hysteria on the part of the patients, or altered medical perception of the community.[119] These conclusions were based on the higher prevalence of the disease in females in whom there was a lack of a discernible cause. On that basis, the authors recommended that the disease should be renamed "myalgia nervosa". Despite strong refutation by Dr. Melvin Ramsay and others, the proposed psychological cause created great controversy, and convinced health professionals that this was a plausible explanation for the condition.[120]
+
+The continued work of Ramsay demonstrated that, although the disease rarely resulted in mortality, it was often severely disabling.[2]:28–29 Because of this, Ramsay proposed that the prefix "benign" be dropped.[115][121][122] In 1986, Ramsay published the first diagnostic criteria for ME, in which the condition was characterized by:
+
+    a form of muscle fatiguability in which, even after minimal physical effort, 3 or more days elapse before full muscle power is restored;
+    extraordinary variability or fluctuation of symptoms, even in the course of one day;
+    an alarming chronicity.[123]
+
+Chronic fatigue syndrome
+
+In the mid-1980s, two large outbreaks of an illness which resembled mononucleosis drew national attention in the United States. Located in Nevada and New York, the outbreaks involved an illness characterized by "chronic or recurrent debilitating fatigue, and various combinations of other symptoms, including a sore throat, lymph node pain and tenderness, headache, myalgia, and arthralgias". An initial link to the Epstein-Barr virus saw the illness acquire the name "chronic Epstein-Barr virus syndrome".[2]:29[83]
+
+The CDC convened a working group tasked with reaching a consensus on the clinical features of the illness. Meeting in 1987, the working group concluded that CFS was not new, and that the many different names given to it previously reflected widely differing concepts of the illness's cause and epidemiology.[124] The CDC working group chose "chronic fatigue syndrome" as a more neutral and inclusive name for the illness, but noted that "myalgic encephalomyelitis" was widely accepted in other parts of the world.[83] The first definition of CFS was published in 1988, and although the cause of the illness remained unknown, there were several attempts to update this definition, most notably in 1994.[80] In 2006, the CDC commenced a national program to educate the American public and health care professionals about CFS.[125]
+Other medical terms
+
+A range of both theorised and confirmed medical entities and naming conventions have appeared historically in the medical literature dealing with ME and CFS, these include:
+
+    Epidemic neuromyasthenia: a term used for outbreaks with symptoms resembling poliomyelitis.[113][126]
+    Iceland disease and Akureyri disease: synonymous terms used for an outbreak of fatigue symptoms in Iceland.[127]
+    Low natural killer syndrome, a term, used mainly in Japan, reflecting research showing diminished in-vitro activity of natural killer cells (NKs) isolated from patients.[128][129]
+    Neurasthenia has been proposed as an historical diagnosis that occupied a similar medical and cultural space to CFS.[130]
+    Royal Free disease: named after the historically significant outbreak in 1955 at the Royal Free Hospital used as an informal synonym for "benign myalgic encephalomyelitis".[131]
+    Tapanui Flu: a term commonly used in New Zealand, deriving from the name of a town, Tapanui, where numerous people have the syndrome.[132]
+
+Society and culture
+Naming
+
+Many names have been proposed for the illness. Currently, the most commonly used are "chronic fatigue syndrome", "myalgic encephalomyelitis", and the umbrella term "ME/CFS". Reaching consensus on a name is challenging because the cause and pathology remain unknown.[2]:29–30
+
+The term "chronic fatigue syndrome" has been criticized by some patients as being both stigmatizing and trivializing, and which in turn prevents the illness from being seen as a serious health problem that deserves appropriate research.[133] While many patients prefer "myalgic encephalomyelitis", which they believe better reflects the medical nature of the illness,[123][134] there is resistance amongst clinicians toward the use of myalgic encephalomyelitis on the grounds that the inflammation of the central nervous system (myelitis) implied by the term has not been demonstrated.[9][135]
+
+A 2015 report from the Institute of Medicine proposes the illness be renamed "systemic exertion intolerance disease" and suggests new diagnostic criteria for it. Many patients, clinicians, and researchers believe lengthy, disproportionate symptom exacerbation after physical or mental exertion is a core symptom (also known as post-exertional malaise).[2][136][137]
+Economic impact
+
+Reynolds et al. (2004)[138] estimated that the illness caused about $20,000 per person with CFS in lost productivity which totals to $9.1 billion per year in the United States.[139] This is comparable to other chronic illnesses that extract some of the biggest medical and socioeconomic costs.[140] A 2008 study[141] calculated that the total annual cost burden of ME/CFS to society in the US was extensive, and could approach $24.0 billion.[142]
+Awareness day
+
+May 12 is designated as ME/CFS and Fibromyalgia International Awareness Day.[143] The day is observed so that stakeholders have an occasion to improve the knowledge of "the public, policymakers, and healthcare professionals about the symptoms, diagnosis, and treatment of ME/CFS, as well as the need for a better understanding of this complex illness."[144] It was chosen because it is the birthday of Florence Nightingale, who had a disease with an infection-associated onset that could have been a neuroimmune disease such as ME/CFS.[145][146]
+Doctor–patient relations
+Presentation of a petition to the National Assembly for Wales relating to M.E. support in South East Wales.
+
+Some in the medical community do not recognize CFS as a real condition, nor is there agreement on its prevalence.[147][148][149] There has been much disagreement over proposed causes, diagnosis, and treatment of the illness.[150][151][152][153][154] This uncertainty can significantly affect doctor-patient relations. A 2006 survey of GPs in southwest England found that despite more than two thirds of them accepting CFS/ME as a recognizable clinical entity, nearly half did not feel confident with making the diagnosis and/or treating the disease. Three other key factors that were significantly, positively associated with GPs' attitudes were knowing someone socially with CFS/ME, being male and seeing more patients with the condition in the last year.[155]
+
+From the patient perspective, one 1997 study found that 77% of individuals with CFS reported negative experiences with health care providers.[35] In a more recent metaanalysis of qualitative studies, a major theme identified in patient discourses was that they felt severely ill, yet blamed and dismissed.[156] Another recent study of themes in patient newsgroup postings noted key themes relating to denial of social recognition of suffering and feelings of being accused of "simply faking it". Another theme that emerged strongly was that achieving diagnosis and acknowledgement requires tremendous amounts of "hard work" by patients.[149][157]
+Blood donation
+
+In 2010, a variety of national blood banks adopted measures to discourage or prohibit individuals diagnosed with CFS from donating blood, based on concern following the 2009 claim of a link[158] between CFS and a retrovirus which was subsequently shown to be unfounded. Organizations adopting these or similar measures included the Canadian Blood Services,[159] the New Zealand Blood Service,[160] the Australian Red Cross Blood Service[161] and the American Association of Blood Banks,[162] In November 2010, the UK National Blood Service introduced a permanent deferral of donation from ME/CFS patients based on the potential harm to those patients that may result from their giving blood.[163] Donation policy in the UK now states, "The condition is relapsing by nature and donation may make symptoms worse, or provoke a relapse in an affected individual."[164]
+Controversy
+Main article: Controversies related to chronic fatigue syndrome
+
+There has been much contention over the cause, pathophysiology,[53] nomenclature,[165] and diagnostic criteria of chronic fatigue syndrome.[150][151] Historically, many professionals within the medical community were unfamiliar with CFS, or did not recognize it as a real condition; nor was there agreement on its prevalence or seriousness.[148][149][166] Some people with CFS reject any psychological component.[167]
+
+In 2009, the journal Science[158] published a study that identified the XMRV retrovirus in a population of people with CFS. Other studies failed to reproduce this finding,[168][169][170] and in 2011, the editor of Science formally retracted its XMRV paper[171] while the Proceedings of the National Academy of Sciences similarly retracted a 2010 paper which had appeared to support the finding of a connection between XMRV and CFS.[172]
+
+Media treatment of CFS has often been controversial; in November 1990, the magazine Newsweek ran a cover story on CFS which, although supportive of an organic cause of the illness, also featured the term 'yuppie Flu'. Reflecting a stereotype that CFS mainly affected yuppies, the implication was that CFS was a form of burnout.[173] The term 'yuppie flu' is considered offensive by both patients and clinicians.[48][174]
+Research funding
+United Kingdom
+
+In November 2006, an unofficial inquiry by an ad hoc group of parliamentarians in the United Kingdom, set up and chaired by former MP, Dr Ian Gibson, called the Group on Scientific Research into ME,[175] was addressed by a government minister claiming that few good biomedical research proposals have been submitted to the Medical Research Council (MRC) in contrast to those for psychosocial research. They were also told by other scientists of proposals that have been rejected, with claims of bias against biomedical research.
+
+The MRC confirmed to the Group that, from April 2003 to November 2006, it has turned down 10 biomedical applications relating to CFS/ME and funded five applications relating to CFS/ME, mostly in the psychiatric/psychosocial domain.
+
+In 2008, the MRC set up an expert group to consider how the MRC might encourage new high-quality research into CFS/ME and partnerships between researchers already working on CFS/ME and those in associated areas. It currently lists CFS/ME with a highlight notice, inviting researchers to develop high-quality research proposals for funding.[176] In February 2010, the All-Party Parliamentary Group on ME (APPG on ME) produced a legacy paper, which welcomed the recent MRC initiative, but felt that there has been far too much emphasis in the past on psychological research, with insufficient attention to biomedical research, and that it is vital that further biomedical research be undertaken to help discover a cause and more effective forms of management for this disease.[177]
+
+There has been controversy surrounding psychologically-oriented models of the disease and behavioral treatments conducted in the UK.[178]
+United States
+
+On 29 October 2015 the National Institutes of Health declared its intent to increase research on ME/CFS. The NIH Clinical Center was to study individuals with ME/CFS, and the National Institute of Neurological Disorders and Stroke (NINDS) would lead the Trans-NIH ME/CFS Research Working Group as part of a multi-institute research effort.[179]
+Research
+
+The different case definitions used to research the illness influence the types of patients selected for studies,[79] and research also suggests subtypes of patients may exist within a heterogeneous population.[139][180][181][182] In one of the definitions, symptoms are accepted that may suggest a psychiatric disorder, while others specifically exclude primary psychiatric disorders.[82] The lack of a single, unifying case definition was criticized in the Institute of Medicine's 2015 report for "creating an unclear picture of the symptoms and signs of the disorder" and "complicating comparisons of the results" (study results).[2]:72 

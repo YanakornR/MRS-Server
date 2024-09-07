@@ -1,0 +1,59 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN onychomycosis|DS name|NN onychomycosis|DS onychomycosis|DS toenail|NN onychomycosis|DS disease|NN symptom|NN nail|NN discoloration|NN thicken|NN nail|NN complication|NN leg|NN onset|NN male|NN cause|NN infection|NN risk|NN factor|NN athlete|NN foot|NN nail|NN disease|NN exposure|NN condition|NN disease|NN function|NN method|NN appearance|NN laboratory|NN test|NN diagnosis|NN dermatitis|NN paronychia|DS nail|NN trauma|NN treatment|NN medication|NN nail|NN ciclopirox|NN frequency|NN adult|NN 
+onychomycosis|DS onychomycosis|DS infection|NN nail|NN symptom|NN nail|NN discoloration|NN thicken|NN nail|NN separation|NN nail|NN nail|NN bed|NN fingernail|NN toenail|NN complication|NN leg|NN number|NN type|NN fungus|NN onychomycosis|DS dermatophyte|NN risk|NN factor|NN athlete|NN foot|NN nail|NN disease|NN exposure|NN condition|NN disease|NN function|NN diagnosis|NN appearance|NN laboratory|NN test|NN 
+onychomycosis|DS treatment|NN medication|NN mouth|NN liver|NN problem|NN nail|NN treatment|NN nail|NN polish|NN condition|NN return|NN case|NN treatment|NN shoe|NN treatment|NN risk|NN recurrence|NN 
+percent|NN adult|NN population|NN people|NN male|NN female|NN onychomycosis|DS nail|NN disease|NN result|NN infection|NN georg|NN content|NN 
+sign|NN symptom|NN cause|NN risk|NN factor|NN diagnosis|NN classification|NN diagnosis|NN treatment|NN cost|NN united|NN states|NN epidemiology|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN case|NN infection|NN toe|NN infection|NN toe|NN 
+symptom|NN nail|NN infection|NN nail|NN yellow|NN green|NN 
+infection|NN nail|NN piece|NN toe|NN finger|NN 
+skin|NN nail|NN 
+patche|NN nailb|NN skin|NN nail|NN smell|NN pain|ST symptom|NN disease|NN people|NN onychomycosis|DS problem|NN appearance|NN nail|NN finger|NN toenail|NN skin|NN lesion|NN form|NN result|NN fungus|NN infection|NN part|NN body|NN 
+form|NN rash|ST itch|ST area|NN body|NN fungus|NN 
+reaction|NN fungus|NN 
+pathogen|NN onychomycosis|DS fungus|NN kingdom|NN candida|NN yeast|NN nondermatophytic|NN fungy|NN onychomycosis|DS country|NN candida|NN nondermatophytic|NN molds|NN tropics|NN subtropics|NN climate|NN 
+name|NN laboratory|NN t|NN 
+name|NN t|NN mentagrophytes|NN agent|NN skin|NN infection|NN mouse|NN fungus|NN mice|NN dander|NN human|NN skin|NN nail|NN 
+pathogen|NN candida|NN mold|NN member|NN genus|NN name|NN scopulariopsis|NN aspergillus|NN 
+candida|NN specy|NN fingernail|NN onychomycosis|DS people|NN hand|NN water|NN 
+people|NN tropics|NN area|NN climate|NN 
+mold|NN people|NN year|NN presence|NN nail|NN weaken|NN nail|NN ability|NN invasion|NN 
+risk|NN factor|NN 
+risk|NN factor|NN onychomycosis|DS due|NN blood|NN circulation|NN exposure|NN fungy|NN nail|NN susceptibility|NN infection|NN 
+nail|NN fungus|NN men|NN women|NN family|NN history|NN infection|NN 
+risk|NN factor|NN environment|NN psoriasis|DS sock|NN shoe|NN ventilation|NN perspiration|ST place|NN swim|NN pool|NN gym|NN shower|NN room|NN athlete|NN foot|NN skin|NN nail|NN injury|NN nail|NN infection|NN diabete|NN circulation|NN problem|NN temperature|NN hand|NN feet|NN system|NN diagnosis|NN 
+diagnosis|NN appearance|NN laboratory|NN test|NN potassium|NN hydroxide|NN smear|NN culture|NN histology|NN examination|NN polymerase|NN chain|NN reaction|NN sample|NN nail|NN scrape|NN clip|NN nail|NN 
+nail|NN plate|NN biopsy|NN stain|NN culture|NN koh|NN examination|NN sample|NN classification|NN 
+type|NN onychomycosis|DS 
+onychomycosis|DS form|NN onychomycosis|DS rubrum|NN nail|NN bed|NN underside|NN nail|NN plate|NN 
+onychomycosis|DS wso|NN invasion|NN layer|NN nail|NN plate|NN island|NN plate|NN 
+percent|NN onychomycosis|DS case|NN 
+case|NN misdiagnosis|NN keratin|NN fungus|NN reaction|NN nail|NN polish|NN nail|NN appearance|NN 
+laboratory|NN test|NN onychomycosis|DS penetration|NN nail|NN plate|NN nail|NN fold|NN 
+form|NN onychomycosis|DS people|NN patient|NN onychomycosis|DS candida|NN specy|NN invasion|NN fingernail|NN person|NN hand|NN water|NN 
+damage|NN nail|NN infection|NN trauma|NN 
+case|NN nail|NN fungus|NN infection|NN nail|NN deformity|ST 
+nail|NN psoriasis|DS lichen|NN contact_dermatitis|DS nail|NN bed|NN melanoma|NN trauma|NN nail|NN syndrome|NN laboratory|NN confirmation|NN 
+condition|NN onychomycosis|DS psoriasis|DS nail|NN syndrome|NN paronychia|DS treatment|NN person|NN foot|NN nail|NN infection|NN week|NN course|NN medication|NN 
+band|NN nail|NN growth|NN nail|NN 
+treatment|NN medication|NN mouth|NN use|NN therapy|NN mouth|NN person|NN infection|NN side|NN effect|NN treatment|NN 
+agent|NN nail|NN paint|NN treatment|NN period|NN year|NN amorolfine|NN ciclopirox|NN result|NN cure|NN case|NN terbinafine|NN agent|NN 
+mouth|NN itraconazole|NN characteristics|NN effectiveness|NN prompt|NN penetration|NN nail|NN nail|NN bed|NN persistence|NN nail|NN month|NN discontinuation|NN therapy|NN mouth|NN side|NN effect|NN terbinafine|NN white|NN onychomycosis|DS antifungal|NN therapy|NN 
+chemical|NN debridement|NN nail|NN outcome|NN 
+evidence|NN laser|NN treatment|NN evidence|NN quality|NN type|NN laser|NN 
+tea|NN tree|NN oil|NN treatment|NN cost|NN united|NN states|NN 
+study|NN cost|NN state|NN test|NN acidschiff|NN stain|NN 
+koh|NN test|NN test|NN test|NN chance|NN negative|NN test|NN 
+treatment|NN cost|NN liver|NN function|NN test|NN 
+conclusion|NN author|NN effect|NN profile|NN liver|NN damage|NN sense|NN dermatologist|NN treatment|NN test|NN 
+option|NN treatment|NN potassium|NN hydroxide|NN test|NN negative|NN case|NN infection|NN 
+hand|NN price|NN non-oral|NN treatment|NN efinaconazole|NN nail|NN test|NN 
+treatment|NN recurrence|NN nail|NN fungus|NN cause|NN damage|NN nail|NN 
+infection|NN system|NN medication|NN diabete|NN condition|NN 
+risk|NN people|NN diabete|NN system|NN leukemia|DS aid|NN medication|NN organ|NN transplant|NN 
+nerve|NN impairment|NN risk|NN cellulitis|NN infection|NN injury|NN feet|NN nail|NN infection|NN complication|NN infection|NN bone|NN complication|NN epidemiology|NN 
+survey|NN disease|NN foot|NN country|NN onychomycosis|DS foot|NN infection|NN prevalence|NN prevalence|NN age|NN 
+canada|NN prevalence|NN onychomycosis|DS diabetics|NN people|NN psoriasis|DS 
+onyx|NN nail|NN 
+fungus|NN suffix|NN 
+research|NN fungy|NN c|NN f|NN 
+basis|NN laser|NN treatment|NN nail|NN bed|NN temperature|NN order|NN growth|NN research|NN laser|NN treatment|NN development|NN therapy|NN laser|NN led|NN light|NN fungy|NN 

@@ -1,0 +1,117 @@
+encyclopedia|NN ear_pain|ST jump|NN navigation|NN jump|NN search|NN ear_pain|ST 
+record|NN label|NN ear_pain|ST record|NN 
+ear_pain|ST name|NN ear_pain|ST ear_pain|ST photo|NN essay|NN examination|NN ear|NN canal|NN eardrum|NN surgery|NN 
+ear_pain|ST ear_pain|ST pain|ST ear|NN ear_pain|ST pain|ST ear|NN 
+ear_pain|ST type|NN pain|ST mean|NN source|NN pain|ST location|NN pain|ST 
+cause|NN ear_pain|ST ear_pain|ST ear_pain|ST infection|NN injury|NN condition|NN ear_pain|ST range|NN syndrome|NN inflammation|NN throat|NN 
+general|NN reason|NN ear_pain|ST history|NN symptom|NN examination|NN need|NN image|NN tool|NN ct|NN scan|NN test|NN flag|NN hear|NN loss|NN dizziness|ST ring|NN ear|NN weight_loss|ST 
+management|NN ear_pain|ST cause|NN 
+infection|NN antibiotics|NN counter|NN pain|ST medication|NN control|NN discomfort|NN cause|NN ear_pain|ST procedure|NN surgery|NN 
+percent|NN children|NN episode|NN ear|NN infection|NN year|NN age|NN content|NN 
+sign|NN symptom|NN cause|NN ear|NN obstruction|NN ear|NN otitis_media|ST ear_pain|ST ear_pain|ST secondary|NN ear_pain|ST management|NN antibiotics|NN procedure|NN epidemiology|NN history|NN society|NN culture|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN 
+ear_pain|ST ear|NN 
+symptom|NN fever|ST sensation|NN world|NN spine|NN ear|NN sense|NN fullness|NN ear|NN 
+pain|ST pain|ST 
+ear_pain|ST due|NN infection|NN children|NN baby|NN adult|NN evaluation|NN hear|NN loss|NN dizziness|ST ring|NN ear|NN flag|NN diabete|NN system|NN swell|NN ear|NN swell|NN jaw|NN cause|NN 
+ear_pain|ST variety|NN cause|NN majority|NN ear_pain|ST part|NN ear|NN ear_pain|ST structure|NN ear_pain|ST ear|NN ear_pain|ST ear_pain|ST type|NN pain|ST mean|NN source|NN pain|ST location|NN pain|ST 
+ear_pain|ST children|NN pain|ST adult|NN 
+ear_pain|ST infection|NN injury|NN part|NN ear|NN ear|NN 
+condition|NN ear|NN eye|NN 
+ear|NN portion|NN ear|NN trauma|NN exposure|NN blunt|NN trauma|NN blow|NN ear|NN hematoma|NN collection|NN blood|NN cartilage|NN perichondrium|NN ear|NN 
+type|NN injury|NN contact|NN sport|NN wrestle|NN box|NN injury|NN sunburn|NN frostbite|NN contact_dermatitis|DS 
+cause|NN ear_pain|ST 
+infection|NN ear|NN trauma|NN insect|NN bite|NN ear|NN infection|NN perichondrium|NN fascia|NN ear|NN cartilage|NN complication|NN auricular|NN 
+antibiotics|NN ear|NN deformity|ST 
+condition|NN cartilage|NN part|NN body|NN cartilage|NN ear|NN 
+severity|NN prognosis|NN disease|NN 
+swimmer|NN ear|NN cellulitis|NN ear|NN canal|NN 
+north|NN america|NN case|NN bacteria|NN organism|NN pseudomona|NN aureus|NN risk|NN factor|NN exposure|NN moisture|NN swim|NN climate|NN disruption|NN cerumen|NN barrier|NN ear|NN clean|NN place|NN object|NN ear|NN 
+otitis|NN externa|NN complication|NN otitis|NN infection|NN ear|NN canal|NN skull|NN base|NN osteomyelitis|DS patient|NN children|NN children|NN adult|NN pseudomona|NN organism|NN pain|ST otitis|NN laboratory|NN study|NN marker|NN esr|NN andor|NN crp|NN 
+infection|NN nerve|NN meninge|NN brain|NN examination|NN ear|NN canal|NN granulation|NN tissue|NN canal|NN 
+week|NN antibiotics|NN obstruction|NN 
+impaction|NN result|NN visit|NN united|NN states|NN impaction|NN ear_pain|ST examination|NN ear|NN identification|NN source|NN pain|ST 
+body|NN insect|NN object|NN bead|NN 
+herpes_zoster|DS virus|NN area|NN ear|NN 
+pain|ST vesicle|NN ear|NN canal|NN paralysis|ST nerve|NN involvement|NN ramsay|NN hunt|NN syndrome|NN ear|NN canal|NN tumor|NN cell|NN carcinoma|NN 
+symptom|NN otitis|NN cancer|DS symptom|NN treatment|NN 
+ear|NN otitis_media|ST media|NN 
+otitis_media|ST infection|NN ear|NN 
+children|NN experience|NN episode|NN otitis_media|ST age|NN year|NN otitis_media|ST year|NN life|NN children|NN bacteria|NN influenzae|NN catarrhalis|NN media|NN symptom|NN diagnosis|NN combination|NN symptom|NN examination|NN membrane|NN redness|NN ear|NN effusion|NN collection|NN fluid|NN ear|NN 
+complication|NN otitis_media|ST hear|NN loss|NN nerve|NN paralysis|ST extension|NN infection|NN structure|NN 
+infection|NN air|NN cell|NN process|NN area|NN skull|NN ear|NN infection|NN portion|NN bone|NN meningitis|DS abscess|NN brain|NN abscess|NN 
+result|NN change|NN pressure|NN plane|NN dive|NN 
+pressure|NN increase|NN descent|NN tube|NN collapse|NN pressure|NN ear|NN pressure|NN pain|ST 
+case|NN middle|NN ear|NN membrane|NN rupture|NN membrane|NN rupture|NN disruption|NN eardrum|NN 
+blow|NN ear|NN blast|NN injury|NN penetration|NN membrane|NN object|NN ear|NN 
+variety|NN condition|NN irritation|NN nerve|NN sensation|NN ear|NN 
+condition|NN irritation|NN nerve|NN nerve|NN 
+syndrome|NN inflammation|NN movement|NN joint|NN jaw|NN skull|NN 
+disorder|NN women|NN childbear|NN age|NN children|NN year|NN pain|ST syndrome|NN pain|ST muscle|NN chew|NN 
+part|NN muscle|NN tendon|NN tissue|NN muscle|NN bone|NN neuralgia|NN attack|NN shoot|NN pain|ST face|NN face|NN temperature|NN change|NN pain|ST cavity|NN abscess|NN cavity|NN carcinoma|NN 
+condition|NN irritation|NN nerve|NN nerve|NN nerve|NN nerve|NN 
+infectioninflammation|NN tonsil|NN pain|ST removal|NN tonsil|NN infectioninflammation|NN throat|NN inflammation|NN gland|NN gland|NN right|NN front|NN ear|NN carcinoma|NN base|NN tongue|NN palate|NN wall|NN tonsil|NN 
+condition|NN irritation|NN nerve|NN nerve|NN 
+myocardial|NN oxygen|NN supply|NN heart|NN muscle|NN 
+condition|NN irritation|NN nerve|NN 
+spine|NN trauma|NN arthritis|DS inflammation|NN tumor|NN autoimmune|NN disorder|NN inflammation|NN artery|NN artery|NN head|NN 
+condition|NN adult|NN 
+ear|NN ear|NN canal|NN ear|NN ear|NN term|NN pain|ST ear_pain|ST ear_pain|ST 
+nerve|NN sensation|NN part|NN ear|NN nerve|NN trigeminal|NN auricular|NN nerve|NN nerve|NN nerve|NN part|NN body|NN mouth|NN chest|NN abdomen|NN 
+irritation|NN nerve|NN part|NN body|NN potential|NN pain|ST ear_pain|ST 
+irritation|NN nerve|NN nerve|NN cause|NN ear_pain|ST decision|NN tree|NN reader|NN diagnose|NN ear_pain|ST ear_pain|ST decision|NN tree|NN ear_pain|ST decision|NN tree|NN 
+disorder|NN image|NN test|NN ear_pain|ST 
+differential|NN ear_pain|ST consensus|NN framework|NN use|NN 
+approach|NN time|NN course|NN cause|NN ear_pain|ST nature|NN cause|NN ear_pain|ST 
+cause|NN presence|NN fever|ST infection|NN absence|NN fever|ST problem|NN trauma|NN injury|NN ear|NN 
+pain|ST presence|NN absence|NN feature|NN flag|NN 
+flag|NN presence|NN risk|NN factor|NN alcohol|NN use|NN drink|NN day|NN diabete|NN artery|NN disease|NN age|NN factor|NN risk|NN cause|NN ear_pain|ST cancer|DS infection|NN 
+second|NN hand|NN smoke|NN risk|NN otitis_media|ST children|NN addition|NN swim|NN risk|NN factor|NN otitis|NN risk|NN factor|NN humidity|NN ear|NN canal|NN eczema|DS ear|NN trauma|NN 
+flag|NN ct|NN scan|NN biopsy|NN rule|NN diagnosis|NN 
+diagnose|NN otitis|NN arteritis|DS cancer|DS 
+presence|NN flag|NN suspicion|NN disease|NN diagnosis|NN symptom|NN variety|NN situation|NN 
+example|NN jaw|NN arteritis|DS dysfunction|NN 
+flag|NN source|NN ear_pain|ST 
+cause|NN diagnosis|NN feature|NN otitis_media|ST history|NN ury|NN day|NN child|NN ear_pain|ST ear|NN 
+fever|ST hear|NN loss|NN pain|ST sleep|NN membrane|NN discharge|ST pain|ST improvement|NN children|NN history|NN day|NN history|NN ury|NN ear|NN infection|NN sign|NN otitis_media|ST exam|NN pain|ST ear|NN mastoid|NN process|NN swell|NN ct|NN suppurative|NN otitis_media|ST hear|NN loss|NN discharge|ST perforation|NN membrane|NN cholesteatoma|NN exam|NN otitis_media|ST 
+otitis_media|ST effusion|NN sign|NN infection|NN hear|NN loss|NN history|NN ury|NN otitis_media|ST swim|NN dermatitis|NN ear_pain|ST pain|ST ear|NN granulation|NN tissue|NN canal|NN exam|NN 
+otitis|NN diabete|NN pain|ST severity|NN night|NN discharge|ST pain|ST proportion|NN exam|NN find|NN biopsy|NN granulation|NN tissue|NN culture|NN ear|NN trauma|NN ear|NN ear|NN ear|NN shape|NN cause|NN diagnosis|NN feature|NN pain|ST pain|ST sensation|NN episode|NN light|NN touch|NN weight_loss|ST arthritis|DS neck|NN pain|ST neck|NN movement|NN eagle|NN syndrome|NN pain|ST molar|NN food|NN temperature|NN pain|ST age|NN chew|NN pain|ST dysfunction|NN patient|NN teeth|NN pain|ST pain|ST jaw|NN click|NN 
+cant|NN miss|NN diagnosis|NN flag|NN 
+cause|NN diagnosis|NN feature|NN ear|NN trauma|NN scuba|NN dive|NN fly|NN onset|NN pain|ST event|NN hear|NN loss|NN tube|NN dysfunction|NN pain|ST ear|NN pressure|NN sensation|NN ear|NN hear|NN loss|NN sound|NN ear|NN history|NN allergy|NN light|NN reflex|NN tm|NN mobility|NN air-fluid|NN level|NN q-tip|NN ear_pain|ST ear|NN pressure|NN sensation|NN ear|NN ear|NN wax|NN present|NN etiology|NN management|NN 
+management|NN ear_pain|ST cause|NN 
+cause|NN ear_pain|ST antibiotics|NN infection|NN ear|NN antibiotics|NN organism|NN type|NN infection|NN 
+ear|NN infection|NN clean|NN area|NN antibiotics|NN analgesics|NN comfort|NN type|NN ear|NN infection|NN compress|NN treatment|NN cause|NN ear_pain|ST antibiotic|NN 
+otitis|NN aoe|NN symptom|NN treatment|NN day|NN physician|NN otitis|NN otitis_media|ST hour|NN case|NN thought|NN bacteria|NN antibiotics|NN 
+symptom|NN week|NN treatment|NN physician|NN folliculitis|NN otitis_media|ST risk|NN membrane|NN rupture|NN 
+otorhinolaryngologist|NN body|NN cartilage|NN body|NN cartilage|NN involvement|NN care|NN hospitalization|NN ear_pain|ST 
+sinusitis|NN ear_pain|ST 
+infection|NN treatment|NN evaluation|NN antibiotics|NN hospital|NN admission|NN 
+otitis|NN otorhinolaryngologist|NN admission|NN hospital|NN otitis|NN 
+mastoiditis|DS admission|NN hospital|NN consultation|NN antibiotics|NN case|NN involvement|NN mastoidectomy|NN chondritis|NN 
+cause|NN ear_pain|ST management|NN health|NN professional|NN addition|NN antibiotic|NN therapy|NN 
+removal|NN desquamate|NN debris|NN ear|NN canal|NN antibiotic|NN management|NN drainage|NN lead|NN development|NN bullae|NN membrane|NN pain|ST relief|NN body|NN ear|NN canal|NN pain|ST removal|NN cyst|NN incision|NN drainage|NN cyst|NN antibiotics|NN assessment|NN 
+variety|NN cause|NN ear_pain|ST cause|NN treatment|NN antibiotics|NN procedure|NN 
+autoimmune|NN disease|NN medication|NN medication|NN help|NN system|NN dysfunction|NN ear_pain|ST food|NN diet|NN nsaids|NN application|NN heat|NN pack|NN massage|NN area|NN referral|NN dentist|NN pain|ST syndrome|NN nsaids|NN therapy|NN 
+anesthetic|NN injection|NN muscle|NN trigger|NN point|NN case|NN neuralgia|NN 
+people|NN ear_pain|ST sort|NN ear_pain|ST sort|NN ear_pain|ST 
+cause|NN ear_pain|ST ear|NN infection|NN otitis_media|ST mean|NN infection|NN eardrum|NN peak|NN age|NN children|NN otitis_media|ST age|NN month|NN 
+review|NN paper|NN children|NN episode|NN otitis_media|ST year|NN age|NN world|NN case|NN otitis_media|ST year|NN hear|NN loss|NN ear|NN infection|NN people|NN world|NN death|NN complication|NN ear|NN infection|NN complication|NN brain|NN abscess|NN meningitis|DS 
+peak|NN age|NN year|NN age|NN people|NN live|NN 
+impaction|NN children|NN adult|NN citizen|NN 
+people|NN ear_pain|ST tube|NN dysfunction|NN history|NN professor|NN anton|NN friedrich|NN von|NN 
+rothjpg|NN professor|NN anton|NN friedrich|NN von|NN 
+roth|NN inventor|NN otoscope|NN 
+ear_pain|ST otitis_media|ST century|NN 
+phenomenon|NN treatment|NN otoscope|NN anton|NN von|NN germany|NN shift|NN invention|NN antibiotics|NN 
+antibiotics|NN rate|NN ear|NN infection|NN bone|NN ear|NN 
+complication|NN society|NN culture|NN 
+tradition|NN otitis_media|ST amoxicillin|NN quote|NN show|NN sentiment|NN child|NN ear_pain|ST amoxicillin|NN deficiency|NN people|NN antibiotics|NN bacteria|NN resistance|NN resistance|NN antibiotics|NN 
+term|NN antibiotic|NN stewardship|NN effort|NN antibiotic|NN prescriber|NN medication|NN 
+children|NN ear_pain|ST complication|NN guideline|NN place|NN antibiotics|NN ear_pain|ST children|NN 
+ear|NN role|NN treatment|NN acupuncture|NN 
+acupuncture|NN ear|NN body|NN 
+practice|NN back|NN stone|NN age|NN 
+documentation|NN auriculotherapy|NN europe|NN 
+physician|NN burn|NN ear_pain|ST physician|NN toothache|ST 
+paul|NN nogier|NN father|NN ear|NN acupuncture|NN theory|NN part|NN ear|NN area|NN body|NN fashion|NN research|NN 
+study|NN antibiotics|NN ear|NN 

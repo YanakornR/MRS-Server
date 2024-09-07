@@ -1,0 +1,102 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN guillain–barré_syndrome|DS name|NN guillain–barré_syndrome|DS guillain–barré_syndrome|DS guillain–barré_syndrome|DS spirodoc|NN spirometry|NN device|NN breath|NN complication|NN guillain–barré_syndrome|DS pronunciation|NN 
+symptom|NN muscle_weakness|ST begine|NN feet|NN hand|NN complication|NN difficulty|NN heart|NN blood|NN pressure|NN problem|NN onset|NN hour|NN week|NN cause|NN method|NN symptom|NN nerve|NN conduction|NN study|NN lumbar|NN puncture|NN treatment|NN care|NN immunoglobulin|NN week|NN year|NN recovery|NN frequency|NN people|NN year|NN death|NN 
+guillain–barré_syndrome|DS guillain–barré_syndrome|DS muscle_weakness|ST system|NN system|NN symptom|NN change|NN sensation|NN pain|ST muscle_weakness|ST begine|NN feet|NN hand|NN arm|NN body|NN side|NN symptom|NN hour|NN week|NN phase|NN disorder|NN weakness|ST breath|NN muscle|NN ventilation|NN change|NN function|NN system|NN abnormality|NN heart|NN rate|NN blood|NN pressure|NN 
+cause|NN mechanism|NN autoimmune|NN disorder|NN system|NN nerve|NN damage|NN myelin|NN insulation|NN dysfunction|NN infection|NN surgery|NN vaccination|NN diagnosis|NN sign|NN symptom|NN exclusion|NN cause|NN test|NN nerve|NN conduction|NN study|NN examination|NN fluid|NN number|NN subtype|NN area|NN weakness|ST result|NN nerve|NN conduction|NN study|NN presence|NN antibody|NN polyneuropathy|NN 
+weakness|ST prompt|NN treatment|NN immunoglobulin|NN plasmapheresis|NN care|NN recovery|NN majority|NN people|NN recovery|NN week|NN year|NN weakness|ST death|NN guillain–barré_syndrome|DS case|NN people|NN year|NN sexe|NN part|NN world|NN rate|NN disease|NN syndrome|NN french|NN georges|NN jean|NN alexandre|NN barr|NN physician|NN strohl|NN content|NN 
+sign|NN symptom|NN failure|NN dysfunction|NN cause|NN mechanism|NN diagnosis|NN fluid|NN subtype|NN treatment|NN failure|NN pain|ST rehabilitation|NN epidemiology|NN history|NN research|NN direction|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN guillain–barré_syndrome|DS numbness|NN tingle|NN pain|ST combination|NN 
+weakness|ST leg|NN arm|NN side|NN time|NN weakness|ST day|NN week|NN severity|NN people|NN weakness|ST progress|NN week|NN muscle|NN neck|NN experience|NN involvement|NN nerve|NN head|NN face|NN weakness|ST muscle|NN face|NN difficulty|NN weakness|ST eye|NN muscle_weakness|ST leg|NN involvement|NN muscle|NN bladder|NN anus|NN total|NN people|NN guillain–barré_syndrome|DS weakness|ST level|NN plateau|NN phase|NN improvement|NN 
+plateau|NN phase|NN day|NN month|NN duration|NN week|NN symptom|NN half|NN pain|ST muscle|NN pain|ST pain|ST head|NN neck|NN irritation|NN line|NN brain|NN 
+people|NN guillain–barré_syndrome|DS sign|NN symptom|NN infection|NN week|NN onset|NN symptom|NN 
+tract|NN infection|NN rhinitis|NN throat|NN diarrhea|ST 
+children|NN year|NN diagnosis|NN condition|NN week|NN cause|NN pain|ST difficulty|NN walk|NN infection|NN bone|NN problem|NN 
+examination|NN characteristic|NN feature|NN strength|NN muscle|NN tendon|NN reflexe|NN 
+proportion|NN reflexe|NN limb|NN areflexia|NN reflexe|NN miller|NN fisher|NN variant|NN guillain–barré_syndrome|DS triad|NN weakness|ST eye|NN muscle|NN abnormality|NN coordination|NN reflexe|NN level|NN consciousness|NN guillain–barré_syndrome|DS brainstem|NN encephalitis|DS subtype|NN drowsiness|NN sleepiness|NN coma|NN failure|NN 
+quarter|NN people|NN guillain–barré_syndrome|DS weakness|ST breath|NN muscle|NN failure|NN inability|NN level|NN oxygen|NN carbon|NN dioxide|NN blood|NN scenario|NN problem|NN pneumonia|DS infection|NN blood|NN clot|NN lung|NN tract|NN ventilation|NN dysfunction|NN 
+system|NN control|NN body|NN function|NN heart|NN rate|NN blood|NN pressure|NN people|NN guillain–barré_syndrome|DS impact|NN variable|NN percent|NN blood-pressure|NN fluctuation|NN irregularity|NN heart|NN point|NN heart|NN beat|NN stop|NN treatment|NN problem|NN abnormality|NN perspiration|ST change|NN reactivity|NN pupil|NN system|NN involvement|NN muscle_weakness|ST scan|NN electron|NN image|NN campylobacter|NN case|NN guillain–barré_syndrome|DS 
+people|NN guillain–barré_syndrome|DS infection|NN onset|NN condition|NN 
+episode|NN gastroenteritis|DS tract|NN infection|NN 
+case|NN nature|NN infection|NN case|NN campylobacter|NN bacteria|NN 
+people|NN campylobacter|NN infection|NN guillain–barré_syndrome|DS 025065|NN episode|NN strain|NN campylobacter|NN risk|NN guillain–barré_syndrome|DS form|NN bacteria|NN lipopolysaccharide|NN surface|NN illness|NN 
+link|NN infection|NN guillain–barré_syndrome|DS 
+herpesviruse|NN virushhv-4|NN zoster|NN bacterium|NN pneumoniae|NN guillain–barré_syndrome|DS infection|NN fever|ST virus|NN episode|NN guillain–barré_syndrome|DS hepatitis_e|DS virus|NN infection|NN people|NN guillain–barré_syndrome|DS 
+case|NN influenza|DS virus|NN influenza|DS vaccine|NN 
+incidence|NN guillain–barré_syndrome|DS influenza|DS immunization|NN swine|NN flu|NN outbreak|NN case|NN recipient|NN complication|NN 
+monitor|NN case|NN vaccination|NN influenza|DS guillain–barré_syndrome|DS 
+increase|NN incidence|NN vaccination|NN campaign|NN extent|NN flu|NN vaccine|NN swine|NN flu|NN virus|NN increase|NN case|NN benefit|NN vaccination|NN influenza|DS risk|NN guillain–barré_syndrome|DS vaccination|NN guillain–barré_syndrome|DS vaccine|NN vaccine|NN poliomyelitis|DS tetanus|DS measle|NN risk|NN guillain–barré_syndrome|DS mechanism|NN structure|NN neuron|NN neuron|NN end|NN structure|NN mass|NN 
+centre|NN mass|NN nucleus|NN branche|NN dendrite|NN 
+axon|NN trail|NN end|NN axon|NN terminal|NN 
+axon|NN number|NN protuberance|NN myelin|NN sheath|NN 
+soma|NN node|NN terminal|NN schwann|NN cell|NN sheath|NN guillain–barré_syndrome|DS nerve|NN damage|NN 
+nerve|NN dysfunction|NN guillain–barré_syndrome|DS attack|NN nerve|NN cell|NN system|NN support|NN structure|NN 
+nerve|NN cell|NN body|NN soma|NN cord|NN projection|NN axon|NN nerve|NN impulse|NN junction|NN impulse|NN muscle|NN 
+sheath|NN schwann|NN cell|NN myelin|NN 
+schwann|NN cell|NN gap|NN node|NN ranvier|NN axon|NN type|NN guillain–barré_syndrome|DS feature|NN type|NN attack|NN 
+variant|NN feature|NN damage|NN myelin|NN sheath|NN blood|NN cell|NN t|NN lymphocyte|NN macrophage|NN process|NN activation|NN group|NN blood|NN protein|NN complement|NN 
+contrast|NN variant|NN igg|NN antibody|NN complement|NN cell|NN membrane|NN axon|NN lymphocyte|NN involvement|NN 
+antibody|NN nerve|NN cell|NN guillain–barré_syndrome|DS 
+subtype|NN antibody|NN ganglioside|NN group|NN substance|NN nerve|NN 
+ganglioside|NN molecule|NN ceramide|NN group|NN sugar|NN number|NN acid|NN group|NN 
+ganglioside|NN antibody|NN antibody|NN feature|NN instance|NN antibody|NN miller|NN fisher|NN variant|NN guillain–barré_syndrome|DS form|NN encephalitis|DS production|NN antibody|NN infection|NN result|NN mimicry|NN system|NN substance|NN antibody|NN substance|NN body|NN campylobacter|NN infection|NN body|NN antibody|NN iga|NN class|NN proportion|NN people|NN igg|NN antibody|NN substance|NN cell|NN wall|NN substance|NN crossreact|NN nerve|NN cell|NN ganglioside|NN 
+process|NN tolerance|NN ganglioside|NN production|NN antibody|NN body|NN substance|NN antibody|NN cause|NN disease|NN antibody|NN type|NN epitope|NN response|NN 
+development|NN antibody|NN presence|NN strain|NN bacteria|NN bowel|NN diagnosis|NN 
+diagnosis|NN guillain–barré_syndrome|DS find|NN development|NN muscle|NN paralysis|ST reflexe|NN absence|NN fever|ST cause|NN 
+fluid|NN analysis|NN lumbar|NN puncture|NN nerve|NN conduction|NN study|NN investigation|NN diagnosis|NN guillain–barré_syndrome|DS test|NN antibody|NN contribution|NN diagnosis|NN blood|NN test|NN possibility|NN cause|NN weakness|ST level|NN potassium|NN blood|NN level|NN sodium|NN blood|NN guillain–barré_syndrome|DS 
+secretion|NN hormone|NN retention|NN water|NN 
+case|NN resonance|NN image|NN cord|NN guillain–barré_syndrome|DS condition|NN limb|NN weakness|ST cord|NN compression|NN scan|NN enhancement|NN nerve|NN root|NN guillain–barré_syndrome|DS children|NN feature|NN scan|NN guillain–barré_syndrome|DS confirmation|NN fluid|NN 
+fluid|NN brain|NN spine|NN lumbar|NN puncture|NN tap|NN removal|NN amount|NN fluid|NN needle|NN lumbar|NN vertebrae|NN 
+find|NN guillain–barré_syndrome|DS protein|NN level|NN gl|NN blood|NN cell|NN millimeter|NN fluid|NN dissociation|NN pattern|NN guillain–barré_syndrome|DS condition|NN lymphoma|DS poliomyelitis|DS protein|NN cell|NN count|NN 
+elevated|NN csf|NN protein|NN level|NN patient|NN day|NN onset|NN weakness|ST week|NN 
+lumbar|NN puncture|NN disease|NN course|NN 
+protein|NN level|NN treatment|NN 
+nerve|NN conduction|NN impulse|NN cause|NN muscle_weakness|ST type|NN guillain–barré_syndrome|DS 
+needle|NN emg|NN nerve|NN conduction|NN study|NN 
+week|NN investigation|NN abnormality|NN study|NN diagnosis|NN 
+criteria|NN subtype|NN guillain–barré_syndrome|DS case|NN conduction|NN failure|NN change|NN criteria|NN test|NN subtype|NN 
+number|NN subtype|NN guillain–barré_syndrome|DS people|NN symptom|NN classification|NN case|NN type|NN form|NN 
+instance|NN people|NN coordination|NN problem|NN subtype|NN miller_fisher_syndrome|DS antibody|NN pattern|NN type|NN symptom|NN population|NN nerve|NN conduction|NN study|NN antibody|NN demyelinate|NN symptom|NN muscle_weakness|ST nerve|NN weakness|ST involvement|NN europe|NN north|NN america|NN demyelinating|NN association|NN motor_neuropathy|DS muscle_weakness|ST symptom|NN nerve|NN involvement|NN europe|NN north|NN america|NN proportion|NN asia|NN south|NN america|NN syndrome|NN action|NN potential|NN motor|NN axonal|NN neuropathy|NN muscle_weakness|ST aman|NN loss|NN action|NN potential|NN variant|NN weakness|ST throat|NN muscle|NN face|NN neck|NN shoulder|NN muscle|NN neuropathy|NN arm|NN miller_fisher_syndrome|DS eye|NN muscle_weakness|ST limb|NN weakness|ST variant|NN men|NN women|NN ratio|NN 
+case|NN spring|NN age|NN occurrence|NN year|NN change|NN conduction|NN h-reflex|NN 
+entity|NN spectrum|NN guillain–barré_syndrome|DS 
+brainstem|NN encephalitis|DS instance|NN part|NN group|NN condition|NN form|NN miller_fisher_syndrome|DS antibody|NN syndrome|NN condition|NN ataxic|NN coordination|NN problem|NN drowsiness|NN muscle_weakness|ST onset|NN ophthalmoplegia|NN disturbance|NN consciousness|NN tendon|NN reflexe|NN sign|NN course|NN disease|NN episode|NN 
+abnormality|NN brainstem|NN 
+loss|NN form|NN guillain–barré_syndrome|DS matter|NN dispute|NN occurrence|NN guillain–barré_syndrome|DS muscle_weakness|ST symptom|NN treatment|NN 
+immunoglobulin|NN treatment|NN guillain–barré_syndrome|DS 
+attempt|NN attack|NN system|NN filter|NN antibody|NN bloodstream|NN 
+administration|NN antibody|NN inflammation|NN 
+treatment|NN combination|NN plasmapheresis|NN speed|NN recovery|NN week|NN onset|NN symptom|NN plasmapheresis|NN week|NN onset|NN symptom|NN complication|NN ease|NN administration|NN safety|NN 
+use|NN risk|NN liver|NN inflammation|NN case|NN kidney|NN failure|NN recovery|NN recovery|NN failure|NN 
+failure|NN intubation|NN trachea|NN breath|NN support|NN ventilation|NN care|NN unit|NN 
+need|NN support|NN measurement|NN breath|NN test|NN capacity|NN inspiratory|NN force|NN 
+fvc|NN ml|NN kilogram|NN body|NN weight|NN nif|NN cmh2o|NN marker|NN failure|NN pain|ST 
+pain|ST people|NN guillain–barré_syndrome|DS study|NN type|NN pain|ST medication|NN recommendation|NN rehabilitation|NN 
+phase|NN people|NN rehabilitation|NN help|NN team|NN focus|NN activity|NN live|NN study|NN subject|NN rehabilitation|NN symptom|NN team|NN therapist|NN therapist|NN speech|NN language|NN pathologist|NN worker|NN psychologist|NN health|NN professional|NN nurse|NN 
+team|NN supervision|NN neurologist|NN rehabilitation|NN physician|NN treatment|NN goal|NN 
+physiotherapy|NN intervention|NN strength|NN endurance|NN gait|NN train|NN increase|NN mobility|NN maintenance|NN posture|NN alignment|NN function|NN 
+therapy|NN function|NN community|NN task|NN drive|NN work|NN 
+home|NN modification|NN gait|NN aid|NN splint|NN pathology|NN input|NN speech|NN problem|NN support|NN communication|NN breath|NN support|NN tracheostomy|NN 
+support|NN team|NN 
+psychologist|NN support|NN 
+intervention|NN anxiety|ST fear|NN depression|ST 
+guillain–barré_syndrome|DS death|NN result|NN number|NN complication|NN infection|NN blood|NN clot|NN arrest|NN due|NN neuropathy|NN 
+care|NN case|NN 
+variation|NN rate|NN extent|NN recovery|NN prognosis|NN guillain–barré_syndrome|DS age|NN outcome|NN severity|NN symptom|NN week|NN 
+onset|NN disease|NN prognosis|NN nerve|NN conduction|NN study|NN presence|NN conduction|NN block|NN outcome|NN month|NN immunoglobulin|NN increase|NN igg|NN blood|NN week|NN administration|NN mobility|NN outcome|NN month|NN igg|NN level|NN disease|NN progress|NN week|NN fluctuation|NN severity|NN week|NN diagnosis|NN demyelinate|NN 
+research|NN study|NN outcome|NN episode|NN guillain–barré_syndrome|DS scale|NN symptom|NN walk|NN run|NN stick|NN support|NN bed|NN chair|NN support|NN death|NN 
+quality|NN life|NN attack|NN guillain–barré_syndrome|DS 
+month|NN experience|NN pain|ST fatigue|ST difficulty|NN work|NN education|NN hobby|NN activity|NN year|NN epidemiology|NN list|NN people|NN guillain–barré_syndrome|DS 
+country|NN number|NN episode|NN year|NN 089|NN case|NN people|NN 
+children|NN adult|NN risk|NN increase|NN decade|NN life|NN men|NN guillain–barré_syndrome|DS women|NN risk|NN men|NN women|NN 
+distribution|NN subtype|NN country|NN 
+europe|NN united|NN states|NN people|NN guillain–barré_syndrome|DS subtype|NN number|NN 
+asia|NN south|NN america|NN proportion|NN 3065|NN 
+exposure|NN kind|NN infection|NN characteristics|NN population|NN miller|NN fisher|NN variant|NN southeast|NN asia|NN history|NN georges|NN barr|NN strohl|NN case|NN paralysis|ST change|NN fluid|NN 
+teacher|NN pierre|NN marie|NN professor|NN neurology|NN hospital|NN paris|NN 
+physician|NN jean-baptiste|NN octave|NN landry|NN disorder|NN georges|NN jean|NN alexandre|NN barr|NN andr|NN strohl|NN soldier|NN illness|NN abnormalityalbuminocytological|NN fluid|NN protein|NN concentration|NN cell|NN count|NN 
+neurologist|NN c|NN 
+miller|NN fisher|NN variant|NN name|NN neurologist|NN edwin|NN birmingham|NN brainstem|NN encephalitis|DS type|NN philip|NN contribution|NN paper|NN guillain|NN feature|NN description|NN subtype|NN form|NN ataxia|DS type|NN weakness|ST subtype|NN 
+criteria|NN series|NN case|NN swine|NN flu|NN vaccination|NN 
+case|NN definition|NN brighton|NN collaboration|NN vaccine|NN safety|NN 2009|NN research|NN plasma|NN exchange|NN benefit|NN study|NN immunoglobulin|NN non-inferiority|NN plasma|NN exchange|NN study|NN research|NN direction|NN 
+understand|NN disease|NN mechanism|NN guillain–barré_syndrome|DS year|NN development|NN treatment|NN immunotherapy|NN research|NN people|NN course|NN antibody|NN level|NN blood|NN treatment|NN increase|NN study|NN drug|NN brain-derive|NN factor|NN interferon|NN beta|NN 
+benefit|NN use|NN 
+animal|NN model|NN autoimmune|NN rat|NN study|NN agent|NN promise|NN acetate|NN inhibitor|NN enzyme|NN heart|NN drug|NN antibody|NN anti-gd3|NN antibody|NN benefit|NN laboratory|NN research|NN role|NN complement|NN system|NN guillain–barré_syndrome|DS complement|NN inhibitor|NN drug|NN eculizumab|NN 

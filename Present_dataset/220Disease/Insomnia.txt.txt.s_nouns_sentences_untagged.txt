@@ -1,0 +1,207 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN disorder|NN 
+use|NN insomnia|ST disambiguation|NN 
+use|NN insomnia|ST disambiguation|NN 
+insomnia|ST name|NN insomnia|ST insomnia|ST di|NN vita|NN taccuino|NN draw|NN insomnia|ST century|NN pronunciation|NN 
+psychiatry|NN sleep|NN medicine|NN symptom|NN insomnia|ST daytime|NN sleepiness|NN energy|NN irritability|ST mood|NN complication|NN motor|NN vehicle|NN collision|NN cause|NN stress|NN pain|ST heart|NN failure|NN heartburn|ST leg|NN syndrome|NN method|NN symptom|NN sleep|NN study|NN diagnosis|NN sleep|NN phase|NN disorder|NN leg|NN syndrome|NN sleep_disorder|DS treatment|NN sleep|NN hygiene|NN behavioral|NN therapy|NN sleep|NN pill|NN frequency|NN 
+insomnia|ST insomnia|ST sleep_disorder|DS people|NN insomnia|ST difficulty|NN insomnia|ST daytime|NN sleepiness|NN energy|NN irritability|ST mood|NN risk|NN motor|NN vehicle|NN collision|NN problem|NN insomnia|ST term|NN day|NN week|NN term|NN month|NN 
+insomnia|ST result|NN problem|NN condition|NN insomnia|ST stress|NN pain|ST heart|NN failure|NN heartburn|ST leg|NN syndrome|NN menopause|NN medication|NN drug|NN caffeine|NN nicotine|NN alcohol|NN risk|NN factor|NN night|NN shift|NN sleep|NN diagnosis|NN sleep|NN habit|NN examination|NN cause|NN sleep|NN study|NN sleep_disorder|DS screen|NN question|NN difficulty|NN sleep|NN 
+sleep|NN hygiene|NN lifestyle|NN change|NN treatment|NN insomnia|ST sleep|NN hygiene|NN bedtime|NN exposure|NN sunlight|NN room|NN exercise|NN behavioral|NN therapy|NN pill|NN injury|NN dementia|DS addiction|NN medication|NN week|NN effectiveness|NN safety|NN medicine|NN 
+adult|NN insomnia|ST point|NN time|NN people|NN insomnia|ST year|NN people|NN insomnia|ST problem|NN month|NN people|NN age|NN people|NN female|NN male|NN description|NN insomnia|ST back|NN greece|NN content|NN 
+sign|NN symptom|NN sleep|NN quality|NN cause|NN genetics|NN risk|NN factor|NN mechanism|NN diagnosis|NN dsm-5|NN criteria|NN type|NN prevention|NN management|NN medications|NN medicine|NN epidemiology|NN society|NN culture|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN complication|NN insomnia|ST 
+symptom|NN insomnia|ST 
+difficulty|NN difficulty|NN sleep|NN position|NN night|NN sleep|NN task|NN difficulty|NN daytime|NN sleepiness|NN irritability|ST depression|ST anxiety|ST energy|NN day|NN trouble|NN act|NN 
+insomnia|ST difficulty|NN begine|NN night|NN symptom|NN anxiety|ST disorder|NN 
+sleep|NN phase|NN disorder|NN insomnia|ST sleep|NN onset|NN awaken|NN daylight|NN hour|NN 
+patient|NN difficulty|NN awaken|NN difficulty|NN 
+patient|NN middle|NN night|NN trouble|NN awaken|NN 
+morn|NN awaken|NN awaken|NN minute|NN inability|NN sleep|NN sleep|NN time|NN hour|NN 
+morn|NN awaken|NN characteristic|NN depression|ST anxiety|ST symptom|NN insomnia|ST 
+symptom|NN tension|NN worry|NN feel|NN event|NN sleep|NN quality|NN 
+sleep|NN quality|NN result|NN example|NN leg|NN sleep|NN depression|ST 
+sleep|NN quality|NN individual|NN stage|NN delta|NN sleep|NN property|NN 
+major|NN depression|ST alteration|NN function|NN axis|NN release|NN cortisol|NN sleep|NN quality|NN 
+nighttime|NN urination|NN article|NN sleep|NN state|NN 
+case|NN insomnia|ST insomnia|ST sense|NN people|NN sleep|NN state|NN sleep|NN amount|NN time|NN problem|NN sleep|NN hour|NN night|NN daytime|NN sleepiness|NN symptom|NN sleep|NN loss|NN perception|NN sleep|NN time|NN cause|NN 
+symptom|NN insomnia|ST 
+use|NN drug|NN stimulant|NN medication|NN herb|NN caffeine|NN nicotine|NN cocaine|NN amphetamine|NN mdma|NN alcohol|NN intake|NN use|NN withdrawal|NN alcohol|NN sedative|NN sleep|NN drug|NN benzodiazepine|NN withdrawal|NN opioid|NN surgery|NN 
+heart|NN disease|NN septum|NN breath|NN disorder|NN leg|NN syndrome|NN sleep|NN onset|NN insomnia|ST sensation|NN need|NN leg|NN body|NN part|NN sensation|NN limb|NN movement|NN disorder|NN sleep|NN sleeper|NN pain|ST injury|NN condition|NN pain|ST individual|NN position|NN addition|NN cause|NN awaken|NN 
+hormone|NN shift|NN menstruation|NN menopause|NN life|NN event|NN fear|NN stress|NN anxiety|ST tension|NN work|NN problem|NN stress|NN birth|NN child|NN bereavement|NN issue|NN heartburn|ST constipation|ST disorder|NN disorder|NN depression|ST anxiety|ST disorder|NN post|NN stress|NN disorder|NN schizophrenia|DS disorder|NN disturbance|NN rhythm|NN shift|NN work|NN jet|NN lag|NN inability|NN time|NN day|NN sleepiness|NN time|NN day|NN 
+rhythm|NN disorder|NN symptom|NN disorder|NN brain|NN lesion|NN history|NN brain|NN injury|NN condition|NN arthritis|DS abuse|NN counter|NN prescription|NN sleep|NN aid|NN sedative|NN depressant|NN drug|NN rebound|NN insomnia|ST sleep|NN hygiene|NN noise|NN over-consumption|NN caffeine|NN condition|NN form|NN insomnia|ST insomnia|ST exercise|NN 
+insomnia|ST athlete|NN form|NN sleep|NN onset|NN latency|NN exposure|NN light|NN source|NN phone|NN computer|NN pain|ST lower|NN back_pain|ST asthma|DS 
+sleep|NN study|NN polysomnography|NN people|NN sleep|NN disruption|NN nighttime|NN level|NN cortisol|NN hormone|NN 
+rate|NN people|NN insomnia|ST sleep|NN sleep|NN study|NN 
+study|NN brain|NN metabolism|NN positron|NN emission|NN tomography|NN pet|NN scan|NN people|NN insomnia|ST rate|NN night|NN day|NN 
+question|NN change|NN cause|NN consequence|NN insomnia|ST genetics|NN 
+estimate|NN insomnia|ST male|NN female|NN association|NN study|NN locy|NN gene|NN influence|NN risk|NN insomnia|ST insomnia|ST association|NN gene|NN male|NN female|NN 
+study|NN architecture|NN insomnia|ST overlap|NN disorder|NN trait|NN 
+epigenetics|NN insomnia|ST process|NN sleep|NN regulation|NN response|NN impact|NN brain|NN plasticity|NN article|NN alcohol|NN use|NN sleep|NN 
+alcohol|NN form|NN self-treatment|NN insomnia|ST sleep|NN 
+alcohol|NN use|NN sleep|NN cause|NN insomnia|ST 
+use|NN alcohol|NN decrease|NN stage|NN sleep|NN suppression|NN rem|NN sleep|NN rem|NN sleep|NN fragmentation|NN 
+move|NN sleep|NN stage|NN awaken|NN headache|ST need|NN dehydration|NN sweate|NN 
+rebound|NN role|NN alcohol|NN glutamine|NN stimulant|NN 
+person|NN body|NN time|NN glutamine|NN 
+increase|NN glutamine|NN level|NN brain|NN drinker|NN level|NN sleep|NN alcohol|NN use|NN insomnia|ST dream|NN 
+withdrawal|NN rem|NN sleep|NN part|NN rebound|NN effect|NN 
+alcohol|NN benzodiazepine|NN clonazepam|NN diazepam|NN insomnia|ST short-term|NN sleep|NN 
+benzodiazepine|NN people|NN stage|NN sleep|NN drug|NN sleep|NN architecture|NN sleep|NN time|NN delay|NN time|NN rem|NN sleep|NN slow-wave|NN sleep|NN part|NN sleep|NN energy|NN mood|NN 
+medication|NN oxycodone|NN morphine|NN insomnia|ST pain|ST analgesic|NN property|NN effect|NN 
+sleep|NN decrease|NN rem|NN stage|NN sleep|NN 
+analgesia|NN sedation|NN opioid|NN patient|NN insomnia|ST dependence|NN opioid|NN sleep|NN disturbance|NN factor|NN 
+insomnia|ST people|NN age|NN group|NN people|NN group|NN chance|NN insomnia|ST 
+individual|NN history|NN health|NN disorder|NN depression|ST 
+stress|NN night|NN shift|NN time|NN zone|NN disease|NN diabete|NN kidney|NN disease|NN lung|NN disease|NN alzheimers|NN heart|NN disease|NN alcohol|NN drug|NN use|NN disorder|NN reflux|NN disease|NN smoke|NN work|NN stress|NN 
+model|NN mechanism|NN insomnia|ST 
+model|NN person|NN episode|NN insomnia|ST 
+model|NN find|NN people|NN insomnia|ST cortisol|NN activity|NN axis|NN arousal|NN second|NN glucose|NN utilization|NN wakefulness|NN sleep|NN people|NN insomnia|ST body|NN metabolism|NN heart|NN rate|NN insomnia|ST 
+find|NN dysregulation|NN arousal|NN system|NN system|NN axis|NN insomnia|ST hyperarousal|NN result|NN cause|NN insomnia|ST 
+level|NN neurotransmitter|NN gaba|NN result|NN implication|NN level|NN neurotransmitter|NN 
+study|NN insomnia|ST control|NN sleep|NN wake|NN process|NN result|NN literature|NN dysregulation|NN rhythm|NN core|NN temperature|NN beta|NN activity|NN delta|NN wave|NN activity|NN implication|NN 
+women|NN experience|NN sleep|NN disturbance|NN sleep|NN disturbance|NN women|NN men|NN part|NN change|NN hormone|NN level|NN 
+change|NN sex|NN hormone|NN men|NN women|NN age|NN part|NN prevalence|NN sleep_disorder|DS people|NN diagnosis|NN 
+medicine|NN insomnia|ST athens|NN insomnia|ST scale|NN parameter|NN scale|NN individual|NN sleep|NN pattern|NN 
+sleep|NN specialist|NN diagnosis|NN sleep_disorder|DS measure|NN 
+history|NN examination|NN need|NN condition|NN cause|NN insomnia|ST 
+condition|NN sleep|NN history|NN 
+sleep|NN history|NN sleep|NN habit|NN medication|NN prescription|NN alcohol|NN consumption|NN nicotine|NN caffeine|NN intake|NN illness|NN sleep|NN environment|NN sleep|NN diary|NN track|NN individual|NN sleep|NN pattern|NN 
+diary|NN time|NN bed|NN total|NN sleep|NN time|NN time|NN sleep|NN onset|NN number|NN awaken|NN use|NN medication|NN time|NN awaken|NN feel|NN morn|NN sleep|NN diary|NN use|NN out-patient|NN week|NN device|NN movement|NN 
+worker|NN insomnia|ST screen|NN sleep_disorder|DS test|NN patient|NN symptom|NN addition|NN insomnia|ST sleep|NN obesity|NN neck|NN diameter|NN fullness|NN flesh|NN oropharynx|NN test|NN diagnosis|NN insomnia|ST people|NN job|NN schedule|NN time|NN sleep|NN sleep|NN hygiene|NN 
+patient|NN sleep|NN study|NN insomnia|ST 
+study|NN assessment|NN tool|NN polysomnogram|NN sleep|NN latency|NN test|NN 
+specialist|NN sleep|NN medicine|NN disorder|NN sleep_disorder|DS category|NN patient|NN disorder|NN sleep|NN phase|NN disorder|NN insomnia|ST person|NN trouble|NN sleep|NN awaken|NN time|NN sleep|NN pattern|NN rhythm|NN disorder|NN cause|NN 
+case|NN insomnia|ST disease|NN side-effect|NN medication|NN problem|NN 
+insomnia|ST disorder|NN depression|ST case|NN insomnia|ST condition|NN insomnia|ST symptom|NN fact|NN insomnia|ST risk|NN development|NN disorder|NN 
+insomnia|ST people|NN depression|ST treatment|NN depression|ST 
+determination|NN causation|NN diagnosis|NN criteria|NN 
+criteria|NN insomnia|ST 
+complaint|NN dissatisfaction|NN sleep|NN quantity|NN quality|NN symptom|NN 
+difficulty|NN sleep|NN 
+children|NN difficulty|NN sleep|NN intervention|NN 
+difficulty|NN sleep|NN awaken|NN problem|NN awaken|NN 
+children|NN difficulty|NN intervention|NN 
+awaken|NN inability|NN return|NN sleep|NN 
+sleep|NN disturbance|NN distress|NN impairment|NN behavioral|NN area|NN function|NN 
+sleep|NN difficulty|NN night|NN week|NN 
+sleep|NN difficulty|NN month|NN 
+sleep|NN difficulty|NN opportunity|NN sleep|NN 
+insomnia|ST course|NN disorder|NN sleep_disorder|DS rhythm|NN disorder|NN parasomnia|NN 
+insomnia|ST effect|NN substance|NN drug|NN abuse|NN medication|NN 
+disorder|NN condition|NN complaint|NN insomnia|ST 
+insomnia|ST week|NN 
+disorder|NN change|NN sleep|NN environment|NN time|NN sleep|NN depression|ST stress|NN 
+consequence|NN sleepiness|NN psychomotor|NN performance|NN sleep|NN deprivation|NN insomnia|ST inability|NN sleep|NN period|NN month|NN 
+insomnia|ST difficulty|NN sleep|NN sleep|NN quality|NN 
+problem|NN opportunity|NN circumstance|NN sleep|NN problem|NN daytime|NN function|NN insomnia|ST term|NN insomnia|ST stress|NN insomnia|ST insomnia|ST month|NN 
+disorder|NN disorder|NN 
+people|NN level|NN stress|NN hormone|NN shift|NN level|NN cytokine|NN insomnia|ST effect|NN cause|NN 
+weariness|NN hallucination|ST fatigue|ST 
+insomnia|ST vision|NN 
+prevention|NN treatment|NN insomnia|ST combination|NN behavioral|NN therapy|NN medication|NN lifestyle|NN change|NN 
+lifestyle|NN practice|NN sleep|NN time|NN day|NN pattern|NN insomnia|ST avoidance|NN exercise|NN caffeinate|NN drink|NN hour|NN sleep|NN exercise|NN day|NN practice|NN sleep|NN hygiene|NN 
+nap|NN pain|ST bedtime|NN meal|NN beverage|NN alcohol|NN nicotine|NN bedtime|NN way|NN sleep|NN use|NN noise|NN bedroom|NN sleep|NN device|NN clock|NN cell|NN phone|NN television|NN sleep|NN attitude|NN exercise|NN activity|NN sleep|NN bed|NN sleep|NN sex|NN stop|NN time|NN 
+rule|NN cause|NN treatment|NN insomnia|ST behavioral|NN therapy|NN line|NN treatment|NN insomnia|ST effect|NN contrast|NN medication|NN stop|NN therapy|NN 
+symptom|NN insomnia|ST duration|NN role|NN management|NN insomnia|ST type|NN medication|NN doctor|NN prescription|NN sleep|NN pill|NN use|NN condition|NN insomnia|ST depression|ST breath|NN problem|NN pain|ST people|NN insomnia|ST non-medication|NN 
+strategy|NN efficacy|NN medication|NN insomnia|ST effect|NN 
+medication|NN use|NN dependence|NN rebound|NN withdrawal|NN effect|NN discontinuation|NN tolerance|NN 
+medication|NN strategy|NN improvement|NN insomnia|ST line|NN strategy|NN management|NN 
+strategy|NN attention|NN sleep|NN hygiene|NN stimulus|NN control|NN intervention|NN therapy|NN intention|NN patient|NN education|NN relaxation|NN therapy|NN example|NN journal|NN time|NN bed|NN relaxation|NN technique|NN sleep|NN schedule|NN time|NN therapy|NN patient|NN sleep|NN sleep|NN quality|NN consolidation|NN 
+therapy|NN learn|NN sleep|NN habit|NN sleep|NN relaxation|NN therapy|NN strategy|NN clock|NN 
+music|NN insomnia|ST adult|NN eeg|NN biofeedback|NN effectiveness|NN treatment|NN insomnia|ST improvement|NN duration|NN quality|NN sleep|NN self-help|NN therapy|NN therapy|NN sleep|NN quality|NN adult|NN insomnia|ST degree|NN 
+control|NN therapy|NN treatment|NN patient|NN bed|NN sleep|NN general|NN response|NN 
+stimulus|NN control|NN therapy|NN step|NN sleep|NN environment|NN concept|NN sleep|NN hygiene|NN 
+example|NN modification|NN bed|NN sleep|NN sex|NN activity|NN read|NN television|NN time|NN morn|NN weekend|NN bed|NN likelihood|NN sleep|NN bed|NN activity|NN location|NN sleep|NN period|NN time|NN bed|NN min|NN effort|NN energy|NN avoid|NN exposure|NN light|NN nighttime|NN hour|NN daytime|NN nap|NN 
+component|NN stimulus|NN control|NN therapy|NN sleep|NN restriction|NN technique|NN time|NN bed|NN time|NN 
+technique|NN sleep-wake|NN schedule|NN sleep|NN time|NN day|NN amount|NN time|NN sleep|NN deprivation|NN 
+treatment|NN week|NN amount|NN time|NN average|NN sleep|NN efficiency|NN amount|NN min|NN bed|NN body|NN attempt|NN sleep|NN clock|NN 
+light|NN therapy|NN morn|NN sleep|NN cycle|NN sleep|NN restriction|NN therapy|NN wake|NN schedule|NN 
+technique|NN consistency|NN effect|NN insomnia|ST patient|NN 
+intention|NN refram|NN technique|NN insomnia|ST night|NN effort|NN 
+theory|NN effectiveness|NN method|NN performance|NN anxiety|ST need|NN requirement|NN act|NN 
+technique|NN sleep|NN effort|NN performance|NN anxiety|ST assessment|NN latency|NN overestimation|NN sleep|NN deficit|NN quality|NN insomnia|ST sleep|NN hygiene|NN 
+sleep|NN hygiene|NN term|NN behavior|NN promotion|NN sleep|NN 
+behavior|NN basis|NN sleep|NN intervention|NN focus|NN sleep|NN education|NN program|NN caffeine|NN nicotine|NN alcohol|NN consumption|NN regularity|NN efficiency|NN sleep|NN episode|NN medication|NN usage|NN daytime|NN promotion|NN exercise|NN facilitation|NN sleep|NN environment|NN exercise|NN routine|NN sleep|NN time|NN 
+creation|NN sleep|NN environment|NN symptom|NN insomnia|ST 
+order|NN sleep|NN environment|NN object|NN worry|NN distressful|NN thought|NN view|NN 
+citation|NN behavioral|NN therapy|NN article|NN therapy|NN insomnia|ST 
+evidence|NN therapy|NN cbt|NN insomnia|ST benzodiazepine|NN nonbenzodiazepine|NN treatment|NN management|NN insomnia|ST therapy|NN patient|NN sleep|NN habit|NN assumption|NN sleep|NN 
+misconception|NN expectation|NN 
+sleep|NN expectation|NN hour|NN sleep|NN night|NN misconception|NN insomnia|ST cause|NN imbalance|NN insomnia|ST consequence|NN insomnia|ST night|NN sleep|NN performance|NN anxiety|ST night|NN sleep|NN sleep|NN process|NN 
+study|NN outcome|NN therapy|NN insomnia|ST treatment|NN treatment|NN stimulus|NN control|NN relaxation|NN therapy|NN 
+medication|NN treatment|NN insomnia|ST effect|NN time|NN tolerance|NN 
+effect|NN cbt-y|NN effect|NN insomnia|ST therapy|NN addition|NN medication|NN cbt-y|NN benefit|NN insomnia|ST 
+benefit|NN course|NN cbt-y|NN superiority|NN drug|NN 
+term|NN medication|NN ambien|NN superiority|NN 
+line|NN treatment|NN insomnia|ST 
+trend|NN approach|NN behaviour|NN therapy|NN insomnia|ST internet|NN intervention|NN 
+effectiveness|NN success|NN cbt|NN treatment|NN availability|NN lack|NN clinician|NN distribution|NN professional|NN expense|NN way|NN barrier|NN internet|NN treatment|NN intervention|NN 
+internet|NN source|NN health-care|NN information|NN majority|NN health|NN information|NN research|NN literature|NN development|NN evaluation|NN internet|NN intervention|NN 
+program|NN treatment|NN delivery|NN internet|NN 
+treatment|NN user|NN graphics|NN animation|NN video|NN follow-up|NN feedback|NN 
+evidence|NN use|NN computer|NN cbt|NN insomnia|ST medication|NN 
+people|NN insomnia|ST use|NN sleep|NN tablet|NN sedative|NN 
+place|NN medication|NN case|NN line|NN treatment|NN 2019|NN food|NN drug|NN administration|NN warn|NN zaleplon|NN due|NN concern|NN injury|NN sleep|NN sleepwalk|NN vehicle|NN 
+percentage|NN adult|NN prescription|NN sleep|NN aid|NN increase|NN age|NN 
+20052010|NN adult|NN prescription|NN sleep|NN aid|NN day|NN 
+rate|NN use|NN age|NN group|NN 2039|NN 5059|NN 
+adult|NN women|NN prescription|NN sleep|NN aid|NN adult|NN men|NN 
+adult|NN use|NN sleep|NN aid|NN adult|NN 
+difference|NN adult|NN adult|NN use|NN prescription|NN sleep|NN aid|NN 
+alternative|NN prescription|NN drug|NN evidence|NN person|NN help|NN relief|NN antihistamine|NN diphenhydramine|NN sleep|NN aid|NN 
+sedative|NN europe|NN canada|NN australia|NN united|NN states|NN prescription|NN effectiveness|NN sleep|NN time|NN anticholinergic|NN side-effect|NN mouth|NN drawback|NN drug|NN 
+addiction|NN issue|NN class|NN drug|NN dependence|NN rebound|NN effect|NN cessation|NN use|NN 
+citation|NN people|NN insomnia|ST leg|NN syndrome|NN symptom|NN melatonin|NN 
+evidence|NN melatonin|NN insomnia|ST quality|NN evidence|NN onset|NN sleep|NN minute|NN melatonin|NN receptor|NN agonist|NN onset|NN sleep|NN amount|NN sleep|NN person|NN 
+melatonin|NN drug|NN side|NN effect|NN melatonin|NN quality|NN sleep|NN people|NN side|NN effect|NN 
+study|NN children|NN spectrum|NN learn|NN disability|NN disorder|NN disease|NN use|NN melatonin|NN 
+insomnia|ST due|NN disorder|NN 
+example|NN children|NN adhd|NN trouble|NN hyperactivity|NN result|NN day|NN 
+cause|NN insomnia|ST children|NN adhd|NN use|NN stimulant|NN disorder|NN 
+children|NN disorder|NN melatonin|NN bedtime|NN order|NN 
+insomnia|ST symptom|NN depression|ST antidepressant|NN sleep|NN problem|NN depression|ST 
+antidepressant|NN antidepressant|NN doxepin|NN sedative|NN effect|NN insomnia|ST amitriptyline|NN anticholinergic|NN antiadrenergic|NN property|NN effect|NN side|NN effect|NN profile|NN side|NN effect|NN side-effect|NN 
+decrease|NN sleep|NN latency|NN time|NN sleep|NN efficiency|NN amount|NN time|NN people|NN depression|ST insomnia|ST 
+antidepressant|NN quality|NN daytime|NN drowsiness|NN market|NN union|NN australia|NN trial|NN united|NN states|NN development|NN use|NN october|NN novartis|NN right|NN market|NN company|NN 
+2018|NN cochrane|NN review|NN safety|NN antidepressant|NN insomnia|ST evidence|NN term|NN use|NN benzodiazepine|NN insomnia|ST sleep_disorder|DS 
+class|NN hypnotics|NN insomnia|ST benzodiazepine|NN insomnia|ST antidepressant|NN user|NN medication|NN insomnia|ST sleep|NN insomnia|ST medication|NN 
+fact|NN user|NN medication|NN nighttime|NN awaken|NN insomnia|ST medication|NN drug|NN risk|NN individual|NN health|NN lack|NN evidence|NN effectiveness|NN 
+day|NN dose|NN prescribe|NN benzodiazepine|NN individual|NN sleep_disorder|DS coincide|NN release|NN 
+benzodiazepine|NN medication|NN number|NN side-effect|NN day|NN time|NN fatigue|ST motor|NN vehicle|NN crashe|NN accident|NN impairment|NN fall|NN fracture|NN 
+people|NN side-effect|NN benzodiazepine|NN effectiveness|NN sleep|NN maintenance|NN term|NN term|NN benzodiazepine|NN tolerance|NN dependence|NN withdrawal|NN syndrome|NN discontinuation|NN worsen|NN sleep|NN usage|NN period|NN time|NN 
+unconsciousness|ST sleep|NN sleep|NN time|NN sleep|NN problem|NN use|NN sleep|NN aid|NN insomnia|ST daytime|NN rebound|NN anxiety|ST evidence|NN benefit|NN benzodiazepine|NN insomnia|ST treatment|NN evidence|NN harm|NN prescription|NN nature|NN misuse|NN action|NN tolerance|NN insomnia|ST cs|NN sleep|NN 
+awareness|NN use|NN benzodiazepine|NN insomnia|ST people|NN withdrawal|NN due|NN effect|NN use|NN benzodiazepine|NN 
+bind|NN receptor|NN benzodiazepine|NN benzodiazepine|NN activity|NN 
+subunit|NN receptor|NN benzodiazepine|NN example|NN triazolam|NN activity|NN 
+subunit|NN alprazolam|NN diazepam|NN diazepam|NN turn|NN activity|NN 
+subunit|NN triazolam|NN temazepam|NN agent|NN 
+subunit|NN sedation|NN motor|NN impairment|NN depression|ST amnesia|DS behavior|NN behavior|NN 
+subunit|NN activity|NN disinhibition|NN 
+reason|NN benzodiazepine|NN insomnia|ST 
+citation|NN sedative|NN 
+drug|NN benzodiazepine|NN insomnia|ST area|NN research|NN drug|NN zaleplon|NN class|NN medication|NN benzodiazepine|NN mechanism|NN action|NN insomnia|ST 
+effectiveness|NN time|NN sleep|NN effect|NN profile|NN benzodiazepine|NN 
+fda|NN insomnia|ST difficulty|NN sleep|NN onset|NN sleep|NN maintenance|NN prescribe|NN nonbenzodiazepine|NN increase|NN release|NN market|NN individual|NN sleep_disorder|DS 
+insomnia|ST due|NN risk|NN addiction|NN side|NN 
+use|NN antipsychotics|NN insomnia|ST evidence|NN benefit|NN risk|NN effect|NN concern|NN side|NN effect|NN medicine|NN 
+insomnia|ST use|NN herb|NN chamomile|NN lavender|NN cannabis|NN hop|NN somnifera|NN passion-flower|NN 
+l-aspartate|NN delta|NN peptide|NN insomnia|ST acupuncture|NN life|NN year|NN insomnia|ST inhabitant|NN 
+data|NN 36415|NN 52558|NN 69745|NN 
+survey|NN resident|NN united|NN states|NN sleep|NN hour|NN night|NN rate|NN mortality|NN hour|NN hour|NN mortality|NN rate|NN 
+hour|NN sleep|NN night|NN mortality|NN rate|NN 
+insomnia|ST sleep|NN hour|NN women|NN hour|NN men|NN increase|NN mortality|NN 
+technique|NN lack|NN sleep_disorder|DS cause|NN death|NN disorder|NN lack|NN sleep|NN lack|NN sleep|NN death|NN 
+increase|NN mortality|NN insomnia|ST disorder|NN 
+sleep|NN duration|NN insomnia|ST use|NN pill|NN mortality|NN rate|NN 
+mortality|NN individual|NN half|NN hour|NN night|NN 
+hour|NN night|NN increase|NN mortality|NN 
+insomnia|ST people|NN longevity|NN insomnia|ST effect|NN mortality|NN sleep|NN hour|NN mortality|NN epidemiology|NN 
+adult|NN insomnia|ST point|NN time|NN people|NN insomnia|ST year|NN people|NN insomnia|ST problem|NN month|NN people|NN age|NN people|NN female|NN male|NN insomnia|ST women|NN men|NN 
+rate|NN insomnia|ST university|NN student|NN population|NN society|NN culture|NN 
+topic|NN insomnia|ST context|NN 
+word|NN insomnia|ST latin|NN somnus|NN sleep|NN -ia|NN suffix|NN 
+press|NN story|NN people|NN paul|NN kern|NN al|NN story|NN research|NN 
+basis|NN insomnia|ST approache|NN animal|NN model|NN insomnia|ST management|NN animal|NN model|NN challenge|NN condition|NN result|NN disturbance|NN sleep|NN insomnia|ST model|NN model|NN insomnia|ST proportion|NN characteristics|NN pathology|NN 
+animal|NN period|NN sleep|NN period|NN sleep|NN quality|NN 
+model|NN insomnia|ST animal|NN circumstance|NN lake|NN sleep|NN initiation|NN phase|NN spite|NN opportunity|NN sleep|NN debt|NN need|NN sleep|NN animal|NN specy|NN model|NN insomnia|ST 
+rodent|NN rat|NN mice|NN rat|NN exposure|NN environment|NN disturbance|NN human|NN insomnia|ST fly|NN strain|NN drosophila|NN zebra|NN fish|NN 
+model|NN insomnia|ST model|NN perturbation|NN modification|NN cycle|NN perturbation|NN model|NN disease|NN model|NN 

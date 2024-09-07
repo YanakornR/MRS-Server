@@ -1,0 +1,130 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+keratoconus|DS name|NN keratoconus|DS keratoconus|DS keratoconus|DS keratoconus|DS cone|NN cornea|NN keratoconus|DS pronunciation|NN 
+ophthalmology|NN symptom|NN vision|NN light|NN sensitivity|NN onset|NN adulthood|NN cause|NN method|NN lamp|NN exam|NN treatment|NN glass|NN contact|NN surgery|NN frequency|NN people|NN 
+keratoconus|DS keratoconus|DS disorder|NN eye|NN thine|NN cornea|NN vision|NN vision|NN nearsightedness|NN sensitivity|NN eye|NN case|NN scare|NN circle|NN cornea|NN 
+cause|NN combination|NN factor|NN percent|NN family|NN history|NN condition|NN factor|NN eye|NN allergy|NN mechanism|NN change|NN cornea|NN cone|NN shape|NN diagnosis|NN examination|NN slit|NN lamp|NN 
+condition|NN glass|NN contact|NN lense|NN disease|NN contact|NN lense|NN people|NN disease|NN year|NN vision|NN problem|NN number|NN people|NN scare|NN cornea|NN transplantation|NN 
+keratoconus|DS people|NN childhood|NN adulthood|NN population|NN group|NN descent|NN word|NN kra|NN mean|NN cornea|NN 
+mean|NN cone|NN content|NN 
+sign|NN symptom|NN genetics|NN diagnosis|NN stage|NN treatment|NN surgery|NN epidemiology|NN history|NN society|NN culture|NN disorder|NN reference|NN link|NN 
+sign|NN symptom|NN simulation|NN image|NN person|NN keratoconus|DS candle|NN number|NN light|NN nottingham|NN 
+people|NN keratoconus|DS blure|NN vision|NN clinician|NN lense|NN read|NN drive|NN stage|NN symptom|NN keratoconus|DS defect|NN eye|NN 
+disease|NN vision|NN 
+acuity|NN distance|NN night|NN vision|NN 
+individual|NN vision|NN eye|NN 
+sensitivity|NN light|NN eye|NN strain|NN order|NN eye|NN sensation|NN pain|ST 
+object|NN pipe|NN intensity|NN point|NN 
+image|NN contrast|NN light|NN source|NN person|NN keratoconus|DS 
+symptom|NN keratoconus|DS perception|NN ghost|NN image|NN polyopia|NN 
+effect|NN contrast|NN field|NN point|NN light|NN background|NN 
+point|NN person|NN keratoconus|DS image|NN point|NN pattern|NN 
+pattern|NN day|NN day|NN time|NN form|NN 
+people|NN notice|NN streak|NN distortion|NN source|NN 
+image|NN relative|NN time|NN heart|NN beat|NN 
+aberration|NN eye|NN keratoconus|DS coma|NN distortion|NN person|NN source|NN deformation|NN surface|NN cornea|NN scare|NN highpoint|NN 
+factor|NN form|NN region|NN cornea|NN map|NN image|NN location|NN retina|NN 
+effect|NN light|NN condition|NN pupil|NN surface|NN cornea|NN 
+gene|NN condition|NN 
+gene|NN fndc3b|NN specimen|NN cornea|NN year|NN diagnosis|NN stroma|NN surface|NN 
+research|NN cause|NN keratoconus|DS source|NN keratoconus|DS number|NN factor|NN trigger|NN onset|NN disease|NN disease|NN dissolution|NN layer|NN epithelium|NN stroma|NN 
+contact|NN change|NN cornea|NN integrity|NN lead|NN scare|NN characteristic|NN disorder|NN 
+keratoconic|NN cornea|NN region|NN thine|NN region|NN wound|ST heal|NN 
+aspect|NN degradation|NN multicenter|NN study|NN abrasion|ST contact|NN lense|NN likelihood|NN find|NN factor|NN 
+number|NN study|NN show|NN sign|NN activity|NN protease|NN class|NN enzyme|NN collagen|NN stroma|NN expression|NN protease|NN inhibitor|NN study|NN activity|NN enzyme|NN dehydrogenase|NN build-up|NN radical|NN specy|NN cornea|NN process|NN damage|NN activity|NN cornea|NN result|NN reduction|NN thickness|NN strength|NN 
+level|NN weaken|NN tissue|NN disruption|NN arrangement|NN collagen|NN layer|NN collagen|NN fibril|NN orientation|NN keratoconus|DS disorder|NN study|NN show|NN contact|NN lense|NN people|NN lead|NN overexpression|NN cytokine|NN tear|NN fluid|NN 
+predisposition|NN keratoconus|DS disease|NN run|NN family|NN incidence|NN concordance|NN twin|NN frequency|NN occurrence|NN family|NN member|NN population|NN study|NN estimate|NN study|NN community|NN gene|NN location|NN chromosome|NN study|NN model|NN inheritance|NN form|NN keratoconus|DS cataract|DS mutation|NN seed|NN region|NN mir-184|NN microrna|NN cornea|NN len|NN keratoconus|DS people|NN syndrome|NN reason|NN link|NN 
+keratoconus|DS disease|NN asthma|DS allergy|NN eczema|DS disease|NN person|NN 
+keratoconus|DS alport_syndrome|DS syndrome|NN syndrome|NN number|NN study|NN eye|NN rub|NN progression|NN keratoconus|DS people|NN practice|NN keratoconus|DS ectasia|NN eye|NN surgery|NN 
+ectasia|NN removal|NN eye|NN bed|NN tissue|NN surgery|NN 
+diagnosis|NN diagram|NN change|NN cornea|NN corneal|NN surface|NN curvature|NN cornea|NN 
+examination|NN diagnosis|NN keratoconus|DS ophthalmologist|NN optometrist|NN assessment|NN person|NN history|NN complaint|NN symptom|NN presence|NN history|NN disease|NN injury|NN vision|NN presence|NN family|NN history|NN disease|NN 
+eye|NN chart|NN standard|NN chart|NN letter|NN person|NN acuity|NN 
+eye|NN examination|NN measurement|NN curvature|NN cornea|NN keratometer|NN detection|NN astigmatism|DS possibility|NN keratoconus|DS 
+case|NN instrument|NN ability|NN indication|NN retinoscopy|NN beam|NN person|NN retina|NN reflection|NN reflex|NN examiner|NN source|NN back|NN 
+keratoconus|DS condition|NN scissor|NN reflex|NN action|NN band|NN blade|NN pair|NN scissor|NN 
+keratoconus|DS ophthalmologist|NN characteristic|NN find|NN disease|NN mean|NN slit|NN lamp|NN examination|NN cornea|NN case|NN examiner|NN diagnosis|NN test|NN 
+examination|NN ring|NN yellow-brown|NN pigmentation|NN ring|NN eye|NN ring|NN deposition|NN iron|NN oxide|NN epithelium|NN case|NN cobalt|NN filter|NN subject|NN vogts|NN stress|NN line|NN cornea|NN stretch|NN striae|NN pressure|NN eyebal|NN cone|NN indentation|NN eyelid|NN person|NN gaze|NN sign|NN sign|NN keratoconus|DS sign|NN find|NN sign|NN disease|NN importance|NN 
+keratoscope|NN disk|NN noninvasive|NN visualization|NN surface|NN cornea|NN series|NN ring|NN light|NN cornea|NN 
+diagnosis|NN topography|NN instrument|NN project|NN pattern|NN cornea|NN topography|NN analysis|NN image|NN 
+map|NN distortion|NN scare|NN cornea|NN keratoconus|DS steepen|NN curvature|NN centreline|NN eye|NN technique|NN snapshot|NN degree|NN extent|NN deformation|NN benchmark|NN rate|NN progression|NN 
+value|NN disorder|NN stage|NN sign|NN stage|NN topography|NN stage|NN keratoconus|DS 
+keratoconus|DS degree|NN metrics|NN 
+steepness|NN curvature|NN d|NN d|NN d|NN morphology|NN cone|NN nipple|NN mm|NN below-center|NN cornea|NN thickness|NN 
+use|NN topography|NN decline|NN use|NN term|NN stage|NN characteristics|NN stage|NN 
+steepen|NN myopia|DS astigmatism|DS 
+d|NN vogts|NN line|NN topography|NN 
+myopia|DS astigmatism|DS d|NN 
+5300|NN d|NN 
+myopia|DS astigmatism|DS d|NN d|NN m|NN 
+d|NN scar|NN 
+stage|NN characteristics|NN 
+thickness|NN spot|NN cornea|NN 
+treatment|NN ga|NN rgp|NN len|NN 
+stage|NN keratoconus|DS glass|NN contact|NN lense|NN astigmatism|DS 
+condition|NN person|NN degree|NN acuity|NN practitioner|NN condition|NN contact|NN lense|NN gas-permeable|NN lense|NN 
+lense|NN level|NN correction|NN progression|NN condition|NN 
+people|NN keratoconus|DS contact|NN lense|NN vision|NN mean|NN tear|NN fluid|NN gap|NN surface|NN surface|NN len|NN effect|NN cornea|NN 
+type|NN contact|NN lense|NN keratoconus|DS people|NN doctor|NN condition|NN cornea|NN contact|NN len|NN fitter|NN experience|NN people|NN keratoconus|DS 
+cone|NN challenge|NN fitter|NN len|NN contact|NN stability|NN steepness|NN 
+fit|NN lense|NN 
+contact|NN lense|NN keratoconus|DS variety|NN manufacturer|NN lense|NN silicone|NN lense|NN 
+len|NN tendency|NN shape|NN cornea|NN effect|NN 
+lense|NN centre|NN skirt|NN 
+generation|NN hybrid|NN lense|NN person|NN generation|NN lense|NN generation|NN len|NN technology|NN people|NN option|NN comfort|NN len|NN acuity|NN len|NN lense|NN article|NN len|NN len|NN 
+lense|NN case|NN keratoconus|DS lense|NN proportion|NN surface|NN eye|NN stability|NN handle|NN favor|NN people|NN dexterity|NN 
+people|NN vision|NN correction|NN comfort|NN piggyback|NN len|NN combination|NN lense|NN lense|NN degree|NN vision|NN correction|NN form|NN piggyback|NN len|NN use|NN len|NN countersunk|NN area|NN len|NN 
+piggyback|NN len|NN combination|NN experience|NN part|NN len|NN fitter|NN tolerance|NN part|NN person|NN keratoconus|DS 
+surgery|NN transplant|NN article|NN transplant|NN transplant|NN keratoconus|DS week|NN surgery|NN light|NN reflection|NN fold|NN cornea|NN transplant|NN year|NN heal|NN stitche|NN 
+case|NN keratoconus|DS progress|NN point|NN vision|NN correction|NN thine|NN cornea|NN scare|NN result|NN contact|NN len|NN wear|NN problem|NN transplantation|NN keratoplasty|NN 
+keratoconus|DS ground|NN keratoplasty|NN account|NN quarter|NN procedure|NN transplant|NN surgeon|NN lenticule|NN tissue|NN donor|NN cornea|NN eye|NN tissue|NN combination|NN run|NN suture|NN 
+cornea|NN blood|NN supply|NN donor|NN tissue|NN blood|NN type|NN 
+eye|NN bank|NN donor|NN disease|NN irregularity|NN 
+recovery|NN period|NN week|NN vision|NN stabilization|NN year|NN transplant|NN term|NN keratoconus|DS foundation|NN keratoplasty|NN outcome|NN transplant|NN procedure|NN keratoconus|DS eye|NN success|NN rate|NN suture|NN period|NN year|NN suture|NN heal|NN process|NN irritation|NN person|NN 
+transplant|NN graft|NN keratoconus|DS sedation|NN outpatient|NN surgery|NN 
+country|NN australia|NN uk|NN operation|NN person|NN anaesthetic|NN 
+case|NN follow-up|NN eye|NN doctor|NN ophthalmologist|NN optometrist|NN number|NN year|NN 
+vision|NN surgery|NN acuity|NN cornea|NN shape|NN heal|NN people|NN lense|NN 
+complication|NN transplant|NN vascularization|NN tissue|NN rejection|NN donor|NN cornea|NN 
+vision|NN loss|NN vision|NN 
+rejection|NN repeat|NN transplant|NN keratoconus|DS cornea|NN incidence|NN excision|NN cornea|NN screen|NN donor|NN tissue|NN outlook|NN transplant|NN keratoconus|DS heal|NN period|NN year|NN problem|NN 
+way|NN risk|NN rejection|NN technique|NN lamellar|NN 
+graft|NN epithelium|NN bulk|NN cornea|NN stroma|NN person|NN endothelium|NN layer|NN membrane|NN integrity|NN cornea|NN donor|NN tissue|NN 
+process|NN tissue|NN chance|NN rejection|NN research|NN trial|NN iran|NN evidence|NN graft|NN rejection|NN keratoplasty|NN dalk|NN likelihood|NN graft|NN failure|NN procedure|NN 
+keratoplasty|NN epikeratophakia|NN case|NN keratoconus|DS 
+epithelium|NN lenticule|NN donor|NN cornea|NN top|NN procedure|NN level|NN skill|NN part|NN surgeon|NN keratoplasty|NN outcome|NN 
+option|NN number|NN case|NN people|NN ring|NN implant|NN article|NN ring|NN segment|NN pair|NN intacs|NN insertion|NN cornea|NN 
+alternative|NN transplant|NN insertion|NN ring|NN segment|NN 
+incision|NN periphery|NN cornea|NN arcs|NN methacrylate|NN layer|NN stroma|NN side|NN pupil|NN incision|NN suture|NN segment|NN curvature|NN cornea|NN peak|NN cone|NN shape|NN 
+procedure|NN benefit|NN removal|NN eye|NN tissue|NN 
+collagen|NN cross-link|NN treatment|NN cornea|NN cochrane|NN review|NN evidence|NN keratoconus|DS fda|NN surgery|NN treatment|NN keratoconus|DS keratotomy|NN diagram|NN mark|NN incision|NN 
+keratotomy|NN surgery|NN procedure|NN surgeon|NN pattern|NN incision|NN cornea|NN shape|NN 
+option|NN myopia|DS lasik|NN procedure|NN 
+keratoconus|DS thine|NN condition|NN removal|NN tissue|NN cornea|NN reason|NN keratotomy|NN people|NN keratoconus|DS rupture|NN membrane|NN view|NN 
+patient|NN keratoconus|DS astigmatism|DS myopia|DS onset|NN puberty|NN year|NN 
+disease|NN age|NN case|NN keratoconus|DS children|NN adulthood|NN diagnosis|NN disease|NN age|NN risk|NN severity|NN life|NN patient|NN vision|NN period|NN month|NN len|NN prescription|NN condition|NN contact|NN lense|NN majority|NN case|NN 
+course|NN disorder|NN patient|NN stable|NN year|NN exacerbation|NN course|NN 
+keratoconus|DS period|NN year|NN course|NN disease|NN decade|NN life|NN 
+article|NN corneal|NN due|NN keratoconus|DS 
+case|NN cornea|NN rupture|NN membrane|NN layer|NN cornea|NN 
+humor|NN eye|NN chamber|NN cornea|NN membrane|NN 
+patient|NN experience|NN pain|ST cloud|NN vision|NN cornea|NN milky-white|NN appearance|NN hydrop|NN 
+patient|NN effect|NN period|NN week|NN cornea|NN transparency|NN 
+recovery|NN bandage|NN solution|NN 
+hydrop|NN scare|NN cornea|NN patient|NN cone|NN fit|NN contact|NN lense|NN transplantation|NN hydrop|NN 
+eye|NN institute|NN report|NN keratoconus|DS dystrophy|NN united|NN states|NN american|NN report|NN figure|NN inconsistency|NN variation|NN criteria|NN case|NN astigmatism|DS keratoconus|DS study|NN incidence|NN rate|NN case|NN population|NN year|NN study|NN prevalence|NN female|NN people|NN south|NN ethnicity|NN time|NN keratoconus|DS caucasian|NN condition|NN 
+keratoconus|DS eye|NN distortion|NN case|NN fact|NN condition|NN eye|NN limit|NN detection|NN keratoconus|DS eye|NN 
+condition|NN eye|NN vision|NN eye|NN fellow|NN 
+history|NN observation|NN keratoconus|DS text|NN keratoconus|DS 
+oculist|NN description|NN dissertation|NN case|NN keratoconus|DS diaphanum|NN 
+physician|NN john|NN nottingham|NN keratoconus|DS ectasia|NN cornea|NN nottingham|NN case|NN keratoconus|DS attention|NN feature|NN disease|NN weakness|ST cornea|NN difficulty|NN match|NN corrective|NN lense|NN patient|NN vision|NN surgeon|NN william|NN bowman|NN ophthalmoscope|NN hermann|NN von|NN helmholtz|NN keratoconus|DS instrument|NN mirror|NN shape|NN cornea|NN bowman|NN vision|NN iris|NN hook|NN cornea|NN pupil|NN slit|NN cat|NN 
+measure|NN success|NN technique|NN vision|NN woman|NN finger|NN distance|NN inche|NN cm|NN 
+ophthalmologist|NN johann|NN horner|NN thesis|NN treatment|NN keratoconus|DS disorder|NN name|NN 
+treatment|NN time|NN ophthalmologist|NN albrecht|NN von|NN attempt|NN cornea|NN cauterization|NN silver|NN nitrate|NN solution|NN application|NN agent|NN pressure|NN dress|NN treatment|NN keratoconus|DS application|NN contact|NN len|NN physician|NN glass|NN shell|NN vision|NN cornea|NN shape|NN start|NN century|NN research|NN keratoconus|DS understand|NN disease|NN range|NN treatment|NN option|NN 
+transplantation|NN keratoconus|DS ramon|NN society|NN culture|NN 
+find|NN evaluation|NN keratoconus|DS people|NN keratoconus|DS lifetime|NN deviation|NN 19396|NN evidence|NN cost|NN cross-link|NN cost-effectiveness|NN study|NN cost|NN treatment|NN person|NN uk|NN health|NN service|NN eye|NN country|NN analysis|NN lewin|NN group|NN eye|NN bank|NN association|NN america|NN cost|NN 16500|NN transplant|NN disorder|NN 
+ectatic|NN disorder|NN cause|NN thine|NN cornea|NN 
+condition|NN thine|NN margin|NN eye|NN 
+keratoconus|DS degeneration|NN cause|NN thine|NN mm|NN band|NN cornea|NN margin|NN 
+stage|NN disease|NN spectacle|NN 
+diagnosis|NN examination|NN keratoconus|DS disorder|NN name|NN abnormality|NN thine|NN surface|NN cornea|NN curvature|NN surface|NN 
+eye|NN ectasia|NN complication|NN eye|NN surgery|NN 

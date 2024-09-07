@@ -1,0 +1,483 @@
+bronchitis|DS figure|NN location|NN of|NN lung|NN tube|NN 
+figure|NN b|NN view|NN of|NN tube|NN 
+figure|NN c|NN view|NN of|NN tube|NN bronchitis|DS 
+pronunciation|NN specialty|NN disease|NN pulmonology|NN symptom|NN type|NN frequency|NN mucus|NN shortness_of_breath|ST chest|NN discomfort|NN acute|NN chronic|NN acute|NN of|NN people|NN year|NN chronic|NN of|NN people|NN of|NN acute|NN bronchitis|DS disease|NN 
+of|NN adult|NN of|NN child|NN episode|NN year|NN 
+acute|NN bronchitis|DS common|NN type|NN of|NN bronchitis|DS 
+in|NN state|NN in|NN people|NN chronic|NN bronchitis|DS 
+common|NN bronchitis|DS bronchitis|DS inflammation|NN of|NN bronchus|NN airway|NN in|NN lung|NN cough|ST 
+symptom|NN sputum|ST shortness_of_breath|ST chest_pain|ST 
+bronchitis|DS chronic|NN 
+bronchitis|DS cough|ST week|NN chest|NN cold|NN 
+in|NN of|NN case|NN cause|NN infection|NN 
+virus|NN air|NN people|NN cough|ST contact|NN 
+number|NN of|NN case|NN infection|NN pneumoniae|NN bordetella|NN pertussis|NN 
+risk|NN factor|NN exposure|NN smoke|NN dust|NN air|NN pollution|NN 
+treatment|NN of|NN bronchitis|DS rest|NN paracetamol|NN acetaminophen|NN drug|NN nsaid|NN fever|ST 
+chronic|NN bronchitis|DS cough|ST sputum|ST month|NN year|NN year|NN 
+people|NN chronic|NN bronchitis|DS chronic_obstructive_pulmonary_disease|DS copd|NN 
+tobacco|NN smoke|NN common|NN cause|NN number|NN of|NN factor|NN air|NN pollution|NN genetics|NN include|NN smoke|NN vaccination|NN rehabilitation|NN bronchodilator|NN steroid|NN 
+people|NN oxygen|NN therapy|NN 
+role|NN 
+treatment|NN content|NN bronchitis|DS cause|NN diagnosis|NN treatment|NN epidemiology|NN chronic|NN bronchitis|DS cause|NN treatment|NN epidemiology|NN history|NN bronchitis|DS bronchitis|DS plastic|NN bronchitis|DS aspergillus|NN bronchitis|DS reference|NN link|NN bronchitis|DS acute|NN bronchitis|DS chest|NN cold|NN term|NN inflammation|NN of|NN bronchus|NN of|NN lung|NN 
+common|NN symptom|NN cough|ST sputum|ST 
+symptom|NN mucus|NN shortness_of_breath|ST fever|ST chest|NN discomfort|NN 
+fever|ST present|NN 
+infection|NN day|NN 
+cough|ST week|NN afterwards|NN duration|NN of|NN symptom|NN week|NN 
+symptom|NN week|NN 
+cause|NN in|NN of|NN case|NN cause|NN infection|NN 
+virus|NN air|NN people|NN cough|ST contact|NN 
+risk|NN factor|NN exposure|NN smoke|NN dust|NN air|NN pollutant|NN 
+number|NN of|NN case|NN bacteria|NN pneumoniae|NN bordetella|NN pertussis|NN 
+bronchitis|DS diagnosis|NN diagnosis|NN person|NN sign|NN symptom|NN 
+color|NN of|NN sputum|ST infection|NN 
+organism|NN 
+cause|NN of|NN symptom|NN asthma|DS pneumonia|DS bronchiolitis|NN bronchiectasis|NN copd|NN 
+chest|NN pneumonia|DS 
+common|NN sign|NN of|NN bronchitis|DS cough|ST day|NN week|NN 
+cough|ST month|NN chronic|NN bronchitis|DS 
+in|NN addition|NN fever|ST 
+acute|NN bronchitis|DS infection|NN 
+infection|NN influenza|DS 
+test|NN in|NN order|NN bronchitis|DS 
+treatment|NN form|NN of|NN prevention|NN smoke|NN lung|NN irritant|NN 
+hand|NN wash|NN 
+treatment|NN bronchitis|DS rest|NN paracetamol|NN acetaminophen|NN nsaid|NN fever|ST 
+cough|ST medicine|NN support|NN use|NN in|NN child|NN age|NN of|NN 
+evidence|NN salbutamol|NN in|NN wheeze|NN in|NN nervousness|NN tremor|ST 
+antibiotic|NN 
+exception|NN bronchitis|DS pertussis|NN 
+evidence|NN support|NN honey|NN pelargonium|NN symptom|NN 
+plenty|NN of|NN rest|NN drink|NN fluid|NN 
+herb|NN of|NN effect|NN 
+epidemiology|NN acute|NN bronchitis|DS of|NN common|NN disease|NN 
+of|NN adult|NN of|NN child|NN episode|NN year|NN 
+in|NN winter|NN 
+people|NN in|NN doctor|NN year|NN condition|NN receive|NN antibiotic|NN 
+effort|NN use|NN of|NN antibiotic|NN in|NN bronchitis|DS 
+acute|NN bronchitis|DS common|NN type|NN of|NN bronchitis|DS 
+chronic|NN bronchitis|DS chronic|NN bronchitis|DS cough|ST month|NN year|NN year|NN 
+chronic_obstructive_pulmonary_disease|DS copd|NN 
+people|NN chronic|NN bronchitis|DS people|NN copd|NN chronic|NN bronchitis|DS 
+estimate|NN of|NN number|NN of|NN people|NN copd|NN chronic|NN bronchitis|DS 
+estimate|NN of|NN number|NN of|NN people|NN chronic|NN bronchitis|DS 
+term|NN chronic|NN bronchitis|DS in|NN definition|NN of|NN copd|NN in|NN definition|NN 
+term|NN 
+chronic|NN bronchitis|DS emphysema|NN copd|NN diagnosis|NN 
+consensus|NN type|NN of|NN copd|NN chronic|NN bronchitis|DS exacerbation|NN 
+chronic|NN bronchitis|DS respiratory|NN disease|NN overproduction|NN of|NN mucus|NN mucin|NN 
+mucus|NN goblet|NN cell|NN submucosal|NN gland|NN in|NN response|NN irritation|NN 
+gland|NN in|NN submucosa|NN goblet|NN cell|NN 
+mucin|NN mucus|NN concentration|NN in|NN case|NN of|NN chronic|NN bronchitis|DS severity|NN of|NN disease|NN 
+mucus|NN airway|NN airflow|NN decline|NN in|NN lung|NN function|NN result|NN in|NN copd|NN 
+mucus|NN chronic|NN cough|ST severity|NN volume|NN of|NN sputum|ST in|NN period|NN of|NN exacerbation|NN 
+in|NN copd|NN chronic|NN phenotype|NN chronic|NN excess|NN mucus|NN quality|NN of|NN life|NN 
+secretion|NN 
+cough|ST sputum|ST yellow|NN color|NN speck|NN of|NN blood|NN 
+in|NN early|NN stage|NN cough|ST clearance|NN 
+secretion|NN clearance|NN airway|NN cough|ST 
+clearance|NN hydration|NN beat|NN rate|NN of|NN secretion|NN 
+of|NN factor|NN in|NN chronic|NN bronchitis|DS 
+chronic|NN bronchitis|DS number|NN of|NN exacerbation|NN decline|NN in|NN lung|NN function|NN 
+list|NN chronic|NN bronchitis|DS emphysema|NN bronchitis|DS copd|NN 
+cause|NN case|NN of|NN chronic|NN bronchitis|DS tobacco|NN smoke|NN 
+chronic|NN bronchitis|DS in|NN adult|NN chance|NN of|NN copd|NN 
+association|NN cannabis|NN chronic|NN bronchitis|DS 
+in|NN addition|NN chronic|NN inhalation|NN of|NN air|NN pollution|NN fume|NN dust|NN exposure|NN in|NN occupation|NN coal|NN mine|NN grain|NN handle|NN textile|NN manufacture|NN livestock|NN farm|NN metal|NN mould|NN risk|NN factor|NN development|NN of|NN chronic|NN bronchitis|DS 
+bronchitis|DS in|NN way|NN bronchitis|DS occupational|NN bronchitis|DS 
+factor|NN role|NN 
+air|NN quality|NN respiratory|NN system|NN level|NN of|NN nitrogen|NN dioxide|NN sulfur|NN dioxide|NN symptom|NN 
+sulfur|NN dioxide|NN inflammation|NN chronic|NN bronchitis|DS infection|NN 
+air|NN pollution|NN in|NN workplace|NN cause|NN of|NN disease|NN ncds|NN chronic|NN bronchitis|DS 
+treatment|NN decline|NN in|NN lung|NN function|NN in|NN chronic|NN bronchitis|DS smoke|NN 
+chronic|NN bronchitis|DS number|NN of|NN medication|NN therapy|NN 
+pulmonary|NN rehabilitation|NN 
+distinction|NN exacerbation|NN worsen|NN of|NN chronic|NN bronchitis|DS chronic|NN bronchitis|DS 
+chronic|NN bronchitis|DS definition|NN of|NN chronic|NN bronchitis|DS absence|NN of|NN exacerbation|NN in|NN week|NN 
+cochrane|NN review|NN mucolytics|NN in|NN chronic|NN bronchitis|DS chance|NN of|NN exacerbation|NN 
+guaifenesin|NN treatment|NN chronic|NN bronchitis|DS 
+advantage|NN in|NN use|NN tablet|NN twelve|NN hour|NN 
+fudosteine|NN 
+in|NN chronic|NN bronchitis|DS copd|NN inhibitor|NN roflumilast|NN exacerbation|NN 
+epidemiology|NN chronic|NN bronchitis|DS affect|NN of|NN population|NN 
+individual|NN year|NN of|NN age|NN smoker|NN in|NN area|NN air|NN pollution|NN anybody|NN asthma|DS risk|NN of|NN chronic|NN bronchitis|DS 
+range|NN definition|NN of|NN chronic|NN bronchitis|DS sign|NN symptom|NN diagnosis|NN of|NN disorder|NN 
+chronic|NN bronchitis|DS men|NN woman|NN 
+risk|NN factor|NN chronic|NN bronchitis|DS chance|NN smoker|NN chronic|NN bronchitis|DS 
+risk|NN factor|NN inhalation|NN of|NN fuel|NN dust|NN fume|NN factor|NN 
+in|NN state|NN in|NN people|NN chronic|NN bronchitis|DS death|NN 
+of|NN population|NN death|NN rate|NN of|NN chronic|NN bronchitis|DS 
+history|NN condition|NN of|NN bronchitis|DS century|NN in|NN culture|NN ancient|NN greek|NN presence|NN of|NN phlegm|NN cough|ST in|NN recognition|NN of|NN condition|NN 
+in|NN britain|NN in|NN charles|NN badham|NN person|NN condition|NN name|NN form|NN bronchitis|DS 
+of|NN in|NN book|NN condition|NN of|NN bronchia|NN 
+in|NN book|NN badham|NN form|NN of|NN bronchitis|DS acute|NN chronic|NN 
+edition|NN of|NN book|NN essay|NN bronchitis|DS in|NN 
+bradham|NN term|NN catarrh|DS symptom|NN of|NN chronic|NN cough|ST hypersecretion|NN of|NN chronic|NN bronchitis|DS chronic|NN bronchitis|DS disable|NN disorder|NN 
+in|NN article|NN treatment|NN of|NN chronic|NN bronchitis|DS in|NN 
+symptom|NN 
+cause|NN dampness|NN cold|NN weather|NN condition|NN treatment|NN towards|NN cough|ST mixture|NN respiratory|NN stimulant|NN tonic|NN 
+something|NN weather|NN play|NN 
+exacerbation|NN of|NN condition|NN time|NN 
+physician|NN harry|NN campbell|NN in|NN journal|NN week|NN 
+campbell|NN cause|NN of|NN chronic|NN bronchitis|DS substance|NN pure|NN air|NN food|NN exercise|NN body|NN 
+research|NN programme|NN in|NN chicago|NN london|NN in|NN feature|NN of|NN thousand|NN case|NN of|NN chronic|NN bronchitis|DS 
+find|NN in|NN lancet|NN in|NN 
+introduction|NN badham|NN chronic|NN bronchitis|DS diagnosis|NN 
+study|NN association|NN weather|NN condition|NN home|NN work|NN age|NN of|NN onset|NN childhood|NN illness|NN habit|NN breathlessness|NN 
+chronic|NN bronchitis|DS bronchitis|DS time|NN 
+in|NN time|NN investigation|NN chronic|NN bronchitis|DS emphysema|NN in|NN worker|NN 
+excerpt|NN in|NN charles|NN parson|NN consequence|NN of|NN development|NN of|NN emphysema|NN bronchitis|DS 
+find|NN in|NN association|NN study|NN chronic|NN bronchitis|DS worker|NN 
+ciba|NN meet|NN in|NN meet|NN of|NN thoracic|NN society|NN in|NN chronic|NN bronchitis|DS component|NN of|NN copd|NN in|NN term|NN 
+bronchitis|DS bronchitis|DS chronic|NN dry|NN cough|ST presence|NN of|NN number|NN of|NN type|NN of|NN white|NN blood|NN cell|NN eosinophil|NN 
+find|NN limitation|NN 
+bronchitis|DS bronchitis|DS in|NN child|NN chronic|NN cough|ST bronchoalveolar|NN lavage|NN antibiotic|NN 
+bronchitis|DS streptococcus|NN pneumoniae|NN haemophilus|NN influenzae|NN moraxella|NN catarrhalis|NN 
+bronchitis|DS week|NN in|NN child|NN antibiotic|NN 
+plastic|NN bronchitis|DS plastic|NN bronchitis|DS condition|NN of|NN mucus|NN in|NN bronchus|NN plug|NN 
+mucus|NN plug|NN airflow|NN result|NN in|NN overinflation|NN of|NN lung|NN 
+bronchitis|DS in|NN child|NN 
+mucus|NN plug|NN shape|NN of|NN bronchus|NN cast|NN 
+case|NN abnormality|NN in|NN vessel|NN 
+case|NN similarity|NN bronchiectasis|NN 
+bronchitis|DS aspergillus|NN bronchitis|DS of|NN aspergillosis|NN spectrum|NN of|NN disease|NN in|NN bronchus|NN infection|NN 
+differ|NN pulmonary|NN aspergillosis|NN condition|NN in|NN 
+reference|NN 1|NN 
+bronchitis|DS http|NN 
+nhlbi|NN 
+june|NN 2019|NN 
+wenzel|NN rp|NN fowler|NN aa|NN 
+practice|NN 
+acute|NN bronchitis|DS 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+vos|NN t|NN ad|NN m|NN lozano|NN r|NN michaud|NN c|NN m|NN shibuya|NN k|NN salomon|NN ja|NN abdalla|NN s|NN v|NN al|NN 
+year|NN disability|NN ylds|NN sequela|NN of|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kin2016|NN s|NN 1|NN 
+acute|NN bronchitis|DS 
+family|NN physician|NN 
+pmid|NN http|NN 
+antibiotic|NN answer|NN http|NN 
+center|NN disease|NN control|NN prevention|NN 
+bronchitis|DS 
+http|NN 
+http|NN 2|NN 1|NN april|NN 
+tackett|NN kl|NN atkins|NN 
+acute|NN bronchitis|DS therapy|NN 
+journal|NN of|NN pharmacy|NN practice|NN 
+http|NN 
+pmid|NN http|NN 
+bronchitis|DS 
+http|NN tment|NN 
+http|NN 
+2|NN 1|NN april|NN 
+browser|NN http|NN 
+initiative|NN chronic|NN obstructive|NN lung|NN disease|NN gold|NN pdf|NN 
+pp|NN 
+2019|NN 
+john|NN silverman|NN 
+chronic_obstructive_pulmonary_disease|DS 
+in|NN longo|NN dan|NN fauci|NN anthony|NN dennis|NN hauser|NN stephen|NN jameson|NN joseph|NN ed|NN 
+harrison|NN principle|NN of|NN medicine|NN 
+mcgraw|NN hill|NN 
+pp|NN 
+decramer|NN m|NN w|NN miravitlles|NN 
+chronic_obstructive_pulmonary_disease|DS 
+lancet|NN 
+citeseerx|NN http|NN 
+s|NN 
+pmid|NN http|NN 
+rabe|NN kf|NN s|NN barnes|NN sa|NN calverley|NN p|NN y|NN r|NN van|NN weel|NN c|NN zielinski|NN j|NN 
+strategy|NN diagnosis|NN management|NN prevention|NN of|NN chronic_obstructive_pulmonary_disease|DS gold|NN executive|NN summary|NN 
+respir|NN 
+crit|NN 
+care|NN 
+http|NN 
+pmid|NN http|NN 
+braman|NN s|NN 
+chronic|NN cough|ST bronchitis|DS practice|NN guideline|NN 
+chest|NN 
+1|NN suppl|NN 
+http|NN 
+pmid|NN http|NN 
+fleming|NN dm|NN aj|NN 
+management|NN of|NN acute|NN bronchitis|DS in|NN child|NN 
+opinion|NN pharmacotherapy|NN 
+http|NN 
+pmid|NN http|NN 
+faststats|NN http|NN 
+2019|NN 
+smith|NN fahey|NN tom|NN smucny|NN john|NN becker|NN 
+antibiotic|NN bronchitis|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd000245|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+acute|NN bronchitis|DS pulmonary|NN disorder|NN merck|NN manual|NN edition|NN http|NN 
+d|NN 
+merck|NN manual|NN edition|NN 
+bronchitis|DS 
+http|NN 
+http|NN ttp|NN 2|NN 1|NN april|NN 
+smith|NN sm|NN schroeder|NN k|NN fahey|NN t|NN 
+medication|NN cough|ST in|NN child|NN adult|NN in|NN community|NN set|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd001831|NN 
+http|NN ub5|NN 
+pmid|NN http|NN 
+becker|NN hom|NN jeffrey|NN miguel|NN wouden|NN johannes|NN 
+cough|ST diagnosis|NN of|NN bronchitis|DS 
+cochrane|NN database|NN of|NN review|NN cd001726|NN 
+http|NN ub5|NN 
+pmid|NN http|NN 
+bronchitis|DS bronchitis|DS symptom|NN medlineplus|NN http|NN 
+jiang|NN lanhui|NN wu|NN taixiang|NN 
+herb|NN bronchitis|DS 
+cochrane|NN database|NN of|NN review|NN 2|NN cd004560|NN 
+http|NN ub4|NN 
+pmid|NN http|NN 
+chronic_obstructive_pulmonary_disease|DS copd|NN pulmonary|NN disorder|NN http|NN copd|NN 
+msd|NN edition|NN 
+june|NN 2019|NN 
+chronic|NN bronchitis|DS chronic|NN obstructive|NN bronchitis|DS evidence|NN of|NN obstruction|NN 
+bronchitis|DS symptom|NN treatment|NN lung|NN airway|NN disorder|NN http|NN 
+merck|NN manual|NN consumer|NN version|NN 
+2019|NN 
+chronic|NN bronchitis|DS decrease|NN in|NN rate|NN of|NN airflow|NN lung|NN person|NN airflow|NN characteristic|NN of|NN chronic_obstructive_pulmonary_disease|DS copd|NN 
+widysanto|NN mathew|NN g|NN 2019|NN 
+chronic|NN bronchitis|DS 
+pmid|NN http|NN 
+chronic|NN bronchitis|DS chronic_obstructive_pulmonary_disease|DS copd|NN 
+lee|NN 
+copd|NN heterogeneity|NN treatment|NN http|NN 
+springer|NN 
+isbn|NN 
+maselli|NN dj|NN 2019|NN 
+epidemiology|NN of|NN copd|NN insight|NN year|NN of|NN copdgene|NN study|NN 
+chest|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+dotan|NN y|NN jy|NN 2019|NN 
+chronic|NN bronchitis|DS 
+http|NN 
+chronic_obstructive_pulmonary_disease|DS miami|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cb|NN symptom|NN obstruction|NN spirometry|NN 
+chronic_obstructive_pulmonary_disease|DS copd|NN http|NN copd|NN 
+july|NN 2019|NN 
+term|NN chronic|NN bronchitis|DS label|NN condition|NN 
+copd|NN definition|NN http|NN 
+july|NN 2019|NN 
+term|NN bronchitis|DS diagnosis|NN 
+ferri|NN 2019|NN 
+ferri|NN advisor|NN 
+elsevier|NN 
+isbn|NN 
+shen|NN y|NN 
+management|NN of|NN airway|NN mucus|NN hypersecretion|NN in|NN chronic|NN airway|NN disease|NN consensus|NN edition|NN http|NN 
+journal|NN of|NN chronic_obstructive_pulmonary_disease|DS 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+voynow|NN j|NN 
+mucin|NN mucus|NN sputum|ST 
+chest|NN 
+2|NN 
+http|NN 
+pmid|NN p|NN 
+vestbo|NN hurd|NN jones|NN anzueto|NN barnes|NN fabbri|NN stockley|NN sin|NN roisin|NN 
+strategy|NN diagnosis|NN management|NN prevention|NN of|NN chronic_obstructive_pulmonary_disease|DS gold|NN executive|NN summary|NN 
+journal|NN of|NN respiratory|NN care|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+weinberger|NN 2019|NN 
+principle|NN of|NN pulmonary|NN medicine|NN 
+elsevier|NN 
+isbn|NN 
+insight|NN chronic|NN bronchitis|DS test|NN treatment|NN horizon|NN http|NN 
+2019|NN 
+kim|NN v|NN criner|NN g|NN 
+chronic|NN bronchitis|DS chronic_obstructive_pulmonary_disease|DS http|NN 
+respir|NN crit|NN care|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cohen|NN jonathan|NN william|NN 
+disease|NN ed|NN 
+mosby|NN 
+chapter|NN bronchitis|DS bronchiectasis|NN cystic_fibrosis|DS 
+foster|NN w|NN 
+transport|NN cough|ST in|NN human|NN 
+pulm|NN pharmacol|NN ther|NN 
+http|NN 
+pmid|NN http|NN 
+ghosh|NN 
+hydration|NN copd|NN http|NN 
+cell|NN life|NN sci|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ohar|NN ja|NN donohue|NN jf|NN s|NN 2019|NN 
+role|NN of|NN guaifenesin|NN in|NN management|NN of|NN chronic|NN mucus|NN hypersecretion|NN chronic|NN bronchitis|DS review|NN 
+chronic_obstructive_pulmonary_disease|DS miami|NN 
+http|NN 
+pmid|NN http|NN 
+mortality|NN morbidity|NN statistic|NN http|NN 
+mortality|NN morbidity|NN statistic|NN http|NN http|NN 
+chronic|NN bronchitis|DS http|NN 
+lung|NN association|NN 
+december|NN december|NN 
+forey|NN ba|NN thornton|NN aj|NN 
+review|NN of|NN evidence|NN chronic|NN bronchitis|DS emphysema|NN ttps|NN 
+bmc|NN pulmonary|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+initiative|NN chronic|NN obstructive|NN lung|NN disease|NN pdf|NN 
+2019|NN 
+ribeiro|NN l|NN 
+effect|NN of|NN cannabis|NN smoke|NN lung|NN function|NN respiratory|NN symptom|NN literature|NN review|NN http|NN 
+care|NN respir|NN 
+http|NN 
+pmc|NN http|NN pmc5072387|NN 
+pmid|NN http|NN 
+pfeifer|NN 
+pulmonary|NN consequence|NN of|NN marijuana|NN smoke|NN 
+laeger|NN 
+pmid|NN http|NN 
+szczyrek|NN m|NN p|NN j|NN jastrzebska|NN i|NN zwolak|NN daniluk|NN j|NN 
+chronic_obstructive_pulmonary_disease|DS in|NN farmer|NN overview|NN 
+annals|NN of|NN medicine|NN 
+2|NN 
+pmid|NN s|NN 
+fischer|NN bm|NN voynow|NN ja|NN 
+triad|NN in|NN copd|NN stress|NN imbalance|NN inflammation|NN http|NN 
+journal|NN of|NN chronic_obstructive_pulmonary_disease|DS 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+heart|NN lung|NN blood|NN institute|NN 
+risk|NN bronchitis|DS 
+http|NN 
+institute|NN of|NN health|NN 
+december|NN 
+institute|NN of|NN occupational|NN safety|NN health|NN 
+respiratory|NN disease|NN occupational|NN risk|NN http|NN 
+program|NN portfolio|NN 
+center|NN disease|NN control|NN prevention|NN 
+http|NN december|NN december|NN 
+bronchitis|DS encyclopedia|NN http|NN 
+2019|NN 
+copd|NN http|NN 
+lung|NN association|NN 
+2019|NN 
+ambient|NN outdoor|NN air|NN quality|NN health|NN http|NN 
+2|NN july|NN 2019|NN 
+worker|NN health|NN http|NN 
+july|NN 2019|NN 
+fauci|NN kasper|NN longo|NN hauser|NN larry|NN jameson|NN 
+chapter|NN chronic_obstructive_pulmonary_disease|DS harrison|NN principle|NN of|NN medicine|NN 
+york|NN 
+willemse|NN bw|NN d|NN timens|NN w|NN march|NN 
+impact|NN of|NN cessation|NN respiratory|NN symptom|NN lung|NN function|NN hyperresponsiveness|NN inflammation|NN 
+respiratory|NN journal|NN 
+http|NN 
+pmid|NN http|NN 
+poole|NN phillippa|NN k|NN fortescue|NN r|NN 2019|NN 
+agent|NN placebo|NN chronic|NN bronchitis|DS chronic_obstructive_pulmonary_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd001287|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+albrecht|NN dicpinigaitis|NN guenin|NN 
+role|NN of|NN guaifenesin|NN in|NN management|NN of|NN chronic|NN bronchitis|DS respiratory|NN tract|NN infection|NN http|NN 
+respiratory|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kochanek|NN 
+death|NN data|NN http|NN pdf|NN 
+statistic|NN report|NN 
+ziment|NN i|NN 
+history|NN of|NN treatment|NN of|NN chronic|NN bronchitis|DS 
+respiration|NN review|NN of|NN thoracic|NN disease|NN 
+1|NN 1|NN 
+http|NN 
+pmid|NN http|NN 
+petty|NN tl|NN 
+history|NN of|NN copd|NN http|NN 
+journal|NN of|NN chronic_obstructive_pulmonary_disease|DS 
+1|NN 1|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+chronic|NN bronchitis|DS http|NN 
+hospital|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+oswald|NN jt|NN wj|NN september|NN 
+pattern|NN of|NN chronic|NN bronchitis|DS 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+meiklejohn|NN july|NN 
+observation|NN bronchitis|DS in|NN pottery|NN worker|NN in|NN http|NN 
+journal|NN of|NN medicine|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+terminology|NN definition|NN classification|NN of|NN chronic|NN pulmonary|NN emphysema|NN condition|NN report|NN of|NN conclusion|NN of|NN ciba|NN guest|NN symposium|NN http|NN 
+thorax|NN 
+http|NN 
+pmc|NN http|NN 
+longo|NN dan|NN 
+harrison|NN principle|NN of|NN medicine|NN 
+mcgraw|NN hill|NN 
+isbn|NN 
+goldsobel|NN ab|NN chipps|NN 
+cough|ST in|NN population|NN 
+journal|NN of|NN pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+craven|NN v|NN 
+bronchitis|DS disease|NN 
+archive|NN of|NN disease|NN in|NN childhood|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+marchant|NN jm|NN hl|NN p|NN chang|NN ab|NN 
+antibiotic|NN cough|ST in|NN child|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd004822|NN 
+http|NN ub3|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+panchabhai|NN t|NN bandyopadhyay|NN d|NN mehta|NN ac|NN 
+plug|NN of|NN air|NN clinicopathologic|NN review|NN 
+chest|NN 
+http|NN 
+pmid|NN http|NN 
+bronchitis|DS aspergillosis|NN website|NN http|NN 
+kosmidis|NN chris|NN denning|NN 1|NN march|NN 
+spectrum|NN of|NN pulmonary|NN aspergillosis|NN http|NN 
+thorax|NN 
+pp|NN 
+http|NN 
+link|NN entry|NN bronchitis|DS http|NN entry|NN acute|NN bronchitis|DS http|NN 
+chronic|NN bronchitis|DS http|NN mayo|NN factsheet|NN bronchitis|DS http|NN classification|NN j20|NN d|NN p|NN http|NN 
+j40|NN tp|NN j41|NN http|NN 
+j42|NN tp|NN 2|NN http|NN http|NN 1|NN http|NN resource|NN d001991|NN http|NN i|NN diseasesdb|NN http|NN medlineplus|NN http|NN emedicine|NN s|NN s|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

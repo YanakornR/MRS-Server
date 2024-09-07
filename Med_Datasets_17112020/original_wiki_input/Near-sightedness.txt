@@ -1,0 +1,251 @@
+Near-sightedness,short-sightedness,myopia,near-sighted
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+"Myopia" redirects here. For any other use, see Myopia (disambiguation).
+Near-sightedness
+Other names	Myopia, short-sightedness, near-sighted
+Myopia.gif
+Diagram showing changes in the eye with near-sightedness
+Specialty	Ophthalmology
+Symptoms	Distant objects appear blurry, close objects appear normal, headaches, eye strain[1]
+Complications	Retinal detachment, cataracts, glaucoma[2]
+Causes	Combination of genetic and environmental factors[2]
+Risk factors	Near work, greater time spent indoors, family history[2][3]
+Diagnostic method	Eye examination[1]
+Prevention	More time outside for children[4]
+Treatment	Eyeglasses, contact lenses, surgery[1]
+Frequency	1.5 billion people (22%)[2][5]
+
+Near-sightedness, also known as short-sightedness and myopia, is an eye disorder where light focuses in front of, instead of on, the retina.[1][2] This causes distant objects to be blurry while close objects appear normal.[1] Other symptoms may include headaches and eye strain.[1] Severe near-sightedness is associated with an increased risk of retinal detachment, cataracts, and glaucoma.[2]
+
+The underlying cause is believed to be a combination of genetic and environmental factors.[2] Risk factors include doing work that involves focusing on close objects, greater time spent indoors, and a family history of the condition.[2][3] It is also associated with a high socioeconomic class.[2] The underlying mechanism involves the length of the eyeball growing too long or less commonly the lens being too strong.[1][6] It is a type of refractive error.[1] Diagnosis is by eye examination.[1]
+
+Tentative evidence indicates that the risk of near-sightedness can be decreased by having young children spend more time outside.[4][7] This may be related to natural light exposure.[8] Near-sightedness can be corrected with eyeglasses, contact lenses, or surgery.[1] Eyeglasses are the easiest and safest method of correction.[1] Contact lenses can provide a wider field of vision, but are associated with a risk of infection.[1] Refractive surgery permanently changes the shape of the cornea.[1]
+
+Near-sightedness is the most common eye problem and is estimated to affect 1.5 billion people (22% of the population).[2][5] Rates vary significantly in different areas of the world.[2] Rates among adults are between 15 and 49%.[3][9] Rates are similar in females and males.[9] Among children, it affects 1% of rural Nepalese, 4% of South Africans, 12% of Americans, and 37% in some large Chinese cities.[2][3] Rates have increased since the 1950s.[9] Uncorrected near-sightedness is one of the most common causes of vision impairment globally along with cataracts, macular degeneration, and vitamin A deficiency.[9]
+Contents
+
+    1 Signs and symptoms
+    2 Causes
+    3 Research
+        3.1 Genetics
+        3.2 Visual environment
+        3.3 “Near work” hypothesis
+        3.4 "Visual stimuli" hypothesis
+        3.5 Other risk factors
+    4 Mechanism
+    5 Diagnosis
+        5.1 Types
+        5.2 Degree
+        5.3 Age at onset
+    6 Prevention
+        6.1 Glasses and contact lenses
+        6.2 Medication
+        6.3 Other methods
+    7 Treatment
+        7.1 Eyeglasses and contacts
+        7.2 Refractive surgery
+        7.3 Alternative medicine
+    8 Epidemiology
+        8.1 Asia
+        8.2 Europe
+        8.3 North America
+        8.4 Australia
+        8.5 South America
+    9 History
+    10 Society and culture
+        10.1 Correlations
+    11 Etymology
+    12 See also
+    13 References
+    14 External links
+
+Signs and symptoms
+Near-sighted vision (top/left), normal vision (bottom/right)
+
+A myopic individual can see clearly out to a certain distance, but everything further becomes blurry. If the extent of the myopia is great enough, even standard reading distances can be affected. Upon routine examination of the eyes, the vast majority of myopic eyes appear structurally identical to nonmyopic eyes. In cases of high myopia, a staphyloma can sometimes be seen on fundoscopic examination. Because the most significant cause of myopia is the increase in axial length of the eye, the retina must stretch out to cover the increased surface area. As a result, the retina in myopic patients can become thin and might develop retinal holes and lattice degeneration in the periphery. High myopia increases the risk of retinal tears and detachment.
+Causes
+
+A 2012 review could not find strong evidence for any single cause, although many theories have been discredited.[10] A 2015 review found that spending greater time looking at objects that are close appears to increase risk.[11]
+
+Because twins and relatives are more likely to get myopia under similar circumstances, a hereditary factor was suspected.[12] However, a hereditary nature of myopia has been ruled out by observing the experience of ethnicities transitioning to a modern (industrial and urban) lifestyle. For instance, around the 1960s, while the older generation of the Inuit in Canada had nearly no cases of near-sightedness, between 10% and 25% of the next generation was myopic. This result would be nearly impossible if genetics were an important causal factor. A relationship between the length of time of exposure to sunlight (by being outdoors) and a lesser incidence of myopia has been observed, which would explain the growth in incidence as people begin spending more time indoors.[13]
+
+Myopic shifts seen during growth spurts of childhood and adolescence, as well as in acromegaly, indicate a relationship between the timing of myopic development and the release of human growth hormone. However, the lack of correlation between height and myopia seems to suggest the relationship between human growth hormone and myopia is complex.
+
+Myopia has been increasing rapidly throughout the developed world, suggesting environmental factors must be important.[14] Quite similarly, the mechanisms of emmetropization are still unclear. Emmetropization is the process by which a child's eye grows and changes to become less hyperopic. The same triggers and signals that cause this growth are thought to play a role in the eye growing beyond the point of emmetropia and into myopia.
+Research
+
+Normally, eye development is largely genetically controlled, but the visual environment has been shown to be an important factor in determining ocular development.[15] Some research suggests that some cases of myopia may be inherited from one's parents.[16]
+Genetics
+
+Genetically, linkage studies have identified 18 possible loci on 15 different chromosomes that are associated with myopia, but none of these loci is part of the candidate genes that cause myopia. Instead of a simple one-gene locus controlling the onset of myopia, a complex interaction of many mutated proteins acting in concert may be the cause. Instead of myopia being caused by a defect in a structural protein, defects in the control of these structural proteins might be the actual cause of myopia.[17] A collaboration of all myopia studies worldwide, identified 16 new loci for refractive error in individuals of European ancestry, of which 8 were shared with Asians. The new loci include candidate genes with functions in neurotransmission, ion transport, retinoic acid metabolism, extracellular matrix remodeling and eye development. The carriers of the high-risk genes have a tenfold increased risk of myopia.[18]
+
+Human population studies suggest that contribution of genetic factors accounts for 60-90% of variance in refraction.[19][20][21][22] However, the currently identified variants account for only a small fraction of myopia cases, suggesting the existence of a large number of yet unidentified low-frequency or small-effect variants, which underlie the majority of myopia cases.[23]
+Visual environment
+
+To induce myopia in other vertebrates, translucent goggles can be sutured over the eye, either before or after natural eye opening.[24] Form-deprived myopia (FDM) induced with a diffuser, like the goggles mentioned, shows significant myopic shifts.[25] Imposing retinal blur (or defocus) with positive (myopic defocus, that causes the image to be focussed in front of the retina) and negative lenses (hyperopic defocus, that causes the image to be focussed behind the retina) has also been shown to result in predictable changes in eye growth of various animal models, whereby the eye alters its growth to effectively eliminate the lens-induced blur.[26][27][28][29] Anatomically, the changes in axial length of the eye seem to be the major factor contributing to this type of myopia.[30] Diurnal growth rhythms of the eye have also been shown to play a large part in FDM, and have been implicated in refractive error development of human eyes.[31] Chemically, daytime retinal dopamine levels drop about 30%.[32]
+
+Normal eyes grow during the day and shrink during the night, but occluded eyes are shown to grow both during the day and the night. Because of this, FDM is a result of the lack of growth inhibition at night rather than the expected excessive growth during the day, when the actual light deprivation occurred.[33] Elevated levels of retinal dopamine transporter (which is directly involved in controlling retinal dopamine levels) in the RPE have been shown to be associated with FDM.[34]
+“Near work” hypothesis
+
+The "near work" hypothesis, also referred to as the “use-abuse theory” states that spending time involved in near work strains the eyes and increases the risk of myopia. Some studies support the hypothesis, while other studies do not.[3] While an association is present, it is not clearly causal.[3]
+"Visual stimuli" hypothesis
+
+Although not mutually exclusive with the other hypotheses presented, the visual stimuli hypothesis adds another layer of mismatch to explain the modern prevalence of myopia. The lack of normal visual stimuli causes improper development of the eyeball. In this case, "normal" refers to the environmental stimuli that the eyeball evolved for over hundreds of millions of years.[35] These stimuli would include diverse natural environments—the ocean, the jungle, the forest, and the savannah plains, among other dynamic visually exciting environments. Modern humans who spend most of their time indoors, in dimly or fluorescently lit buildings are not giving their eyes the appropriate stimuli to which they had evolved and may contribute to the development of myopia.[35] Experiments in the 1970s and 1980s where animals such as kittens and monkeys had their eyes sewn shut for long periods of time also showed eyeball elongation, demonstrating that complete lack of stimuli also causes improper growth trajectories of the eyeball.[36][37] Further research shows that people, and children especially, who spend more time doing physical exercise and outdoor activity have lower rates of myopia,[35][38][39][40] suggesting the increased magnitude and complexity of the visual stimuli encountered during these types of activities decrease myopic progression. There is preliminary evidence that the protective effect of outdoor activities on the development of myopia is due, at least in part, to the effect of daylight on the production and the release of retinal dopamine.[41][42]
+Other risk factors
+
+In one study, heredity was an important factor associated with juvenile myopia, with smaller contributions from more near work, higher school achievement, and less time in sports activity.[43]
+
+Long hours of exposure to daylight appears to be a protective factor.[14][44] Lack of outdoor play could be linked to myopia.[45] Other personal characteristics, such as value systems, school achievements, time spent in reading for pleasure, language abilities, and time spent in sport activities all correlated to the occurrence of myopia in studies.[43][46][47]
+Mechanism
+
+Because myopia is a refractive error, the physical cause of myopia is comparable to any optical system that is out of focus. Borish and Duke-Elder classified myopia by these physical causes:[48][49]
+
+    Axial myopia is attributed to an increase in the eye's axial length.[50]
+    Refractive myopia is attributed to the condition of the refractive elements of the eye.[50] Borish further subclassified refractive myopia:[48]
+
+        Curvature myopia is attributed to excessive, or increased, curvature of one or more of the refractive surfaces of the eye, especially the cornea.[50] In those with Cohen syndrome, myopia appears to result from high corneal and lenticular power.[51]
+        Index myopia is attributed to variation in the index of refraction of one or more of the ocular media.[50]
+
+As with any optical system experiencing a defocus aberration, the effect can be exaggerated or masked by changing the aperture size. In the case of the eye, a large pupil emphasizes refractive error and a small pupil masks it. This phenomenon can cause a condition in which an individual has a greater difficulty seeing in low-illumination areas, even though there are no symptoms in bright light, such as daylight.[52]
+
+Under rare conditions, edema of the ciliary body can cause an anterior displacement of the lens, inducing a myopia shift in refractive error.[53]
+Diagnosis
+
+A diagnosis of myopia is typically made by an eye care professional, usually an optometrist or ophthalmologist. During a refraction, an autorefractor or retinoscope is used to give an initial objective assessment of the refractive status of each eye, then a phoropter is used to subjectively refine the patient's eyeglass prescription. Other types of refractive error are hyperopia, astigmatism, and presbyopia.[1]
+Types
+
+Various forms of myopia have been described by their clinical appearance:[49][54][55]
+
+    Simple myopia: Myopia in an otherwise normal eye, typically less than 4.00 to 6.00 diopters.[56]
+
+    Degenerative myopia, also known as malignant, pathological, or progressive myopia, is characterized by marked fundus changes, such as posterior staphyloma, and associated with a high refractive error and subnormal visual acuity after correction.[50] This form of myopia gets progressively worse over time. Degenerative myopia has been reported as one of the main causes of visual impairment.[57]
+    Pseudomyopia is the blurring of distance vision brought about by spasm of the accommodation system.[58]
+
+        Nocturnal myopia: Without adequate stimulus for accurate accommodation, the accommodation system partially engages, pushing distance objects out of focus.[56]
+        Nearwork-induced transient myopia (NITM): short-term myopic far point shift immediately following a sustained near visual task.[59] Some authors argue for a link between NITM and the development of permanent myopia.[60]
+        Instrument myopia: over-accommodation when looking into an instrument such as a microscope.[55]
+
+    Induced myopia, also known as acquired myopia, results from exposure to various pharmaceutical drugs, increases in glucose levels, nuclear sclerosis, oxygen toxicity (e.g., from diving or from oxygen and hyperbaric therapy) or other anomalous conditions.[56]
+
+        Sulphonamide therapy can cause ciliary body edema, resulting in anterior displacement of the lens, pushing the eye out of focus.[53]
+        Elevation of blood-glucose levels can also cause edema (swelling) of the crystalline lens as a result of sorbitol accumulating in the lens. This edema often causes temporary myopia.
+        Scleral buckles, used in the repair of retinal detachments may induce myopia by increasing the axial length of the eye.[61]
+        Index myopia is attributed to variation in the index of refraction of one or more of the ocular media.[50] Cataracts may lead to index myopia.[62]
+        Form deprivation myopia occurs when the eyesight is deprived by limited illumination and vision range,[63] or the eye is modified with artificial lenses[64] or deprived of clear form vision.[65][66] In lower vertebrates, this kind of myopia seems to be reversible within short periods of time.[66] Myopia is often induced this way in various animal models to study the pathogenesis and mechanism of myopia development.[66]
+
+Degree
+
+The degree of myopia is described in terms of the power of the ideal correction, which is measured in diopters:[67]
+
+    Low myopia usually describes myopia of −3.00 diopters or less (i.e. closer to 0.00).[50]
+    Moderate myopia usually describes myopia between −3.00 and −6.00 diopters.[50] Those with moderate amounts of myopia are more likely to have pigment dispersion syndrome or pigmentary glaucoma.[68]
+    High myopia usually describes myopia of −6.00 or more.[50][69] People with high myopia are more likely to have retinal detachments[70] and primary open angle glaucoma.[71] They are also more likely to experience floaters, shadow-like shapes which appear in the field of vision.[72]
+
+Age at onset
+
+Myopia is sometimes classified by the age at onset:[67]
+
+    Congenital myopia, also known as infantile myopia, is present at birth and persists through infancy.[56]
+    Youth onset myopia occurs in early childhood or teenage, and the ocular power can keep varying until the age of 21, before which any form of corrective surgery is usually not recommended by ophthalmic specialists around the world.[56]
+
+        School myopia appears during childhood, particularly the school-age years.[73] This form of myopia is attributed to the use of the eyes for close work during the school years.[50]
+
+    Adult onset myopia
+
+        Early adult onset myopia occurs between ages 20 and 40.[56]
+        Late adult onset myopia occurs after age 40.[56]
+
+Prevention
+
+Some suggest that more time spent outdoors during childhood is effective for prevention.[4]
+
+Various methods have been employed in an attempt to decrease the progression of myopia, although studies show mixed results.[74] Many myopia treatment studies have a number of design drawbacks: small numbers, lack of adequate control group, and failure to mask examiners from knowledge of treatments used.
+Glasses and contact lenses
+
+The use of reading glasses when doing close work may improve vision by reducing or eliminating the need to accommodate. Altering the use of eyeglasses between full-time, part-time, and not at all does not appear to alter myopia progression.[75][76] The American Optometric Association's Clinical Practice Guidelines for Myopia refers to numerous studies which indicated the effectiveness of bifocal lenses and recommends it as the method for "Myopia Control".[56] In some studies, bifocal and progressive lenses have not shown significant differences in altering the progression of myopia.[74]
+Medication
+
+Anti-muscarinic topical medications in children under 18 years of age may slow the worsening of myopia.[77][78] These treatments include pirenzepine gel, cyclopentolate eye drops, and atropine eye drops. While these treatments were shown to be effective in slowing the progression of myopia, side effects included light sensitivity and near blur.[77]
+Other methods
+
+Scleral reinforcement surgery is aimed to cover the thinning posterior pole with a supportive material to withstand intraocular pressure and prevent further progression of the posterior staphyloma. The strain is reduced, although damage from the pathological process cannot be reversed. By stopping the progression of the disease, vision may be maintained or improved.[79]
+Treatment
+Glasses are commonly used to address near-sightedness.
+
+The National Institutes of Health says there is no known way of preventing myopia, and the use of glasses or contact lenses does not affect its progression.[80] There is no universally accepted method of preventing myopia and proposed methods need additional study to determine their effectiveness.[56] Optical correction using glasses or contact lenses is the most common treatment; other approaches include orthokeratology, and refractive surgery.[81]:21–26 Medications (mostly atropine) and vision therapy can be effective in addressing the various forms of pseudomyopia.
+Compensating for myopia using a corrective lens.
+Eyeglasses and contacts
+Prismatic color distortion shown with a camera set for near-sighted focus, and using -9.5-diopter eyeglasses to correct the camera's myopia (left). Close-up of color shifting through corner of eyeglasses. The light and dark borders visible between color swatches do not exist (right).
+
+Corrective lenses bend the light entering the eye in a way that places a focused image accurately onto the retina. The power of any lens system can be expressed in diopters, the reciprocal of its focal length in meters. Corrective lenses for myopia have negative powers because a divergent lens is required to move the far point of focus out to the distance. More severe myopia needs lens powers further from zero (more negative). However, strong eyeglass prescriptions create distortions such as prismatic movement and chromatic aberration. Strongly near-sighted wearers of contact lenses do not experience these distortions because the lens moves with the cornea, keeping the optic axis in line with the visual axis and because the vertex distance has been reduced to zero.
+Refractive surgery
+	
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2018) (Learn how and when to remove this template message)
+
+Refractive surgery includes procedures which alter the corneal curvature of some structure of the eye or which add additional refractive means inside the eye.
+PRK / LASEK
+See also: Photorefractive keratectomy
+
+Photorefractive keratectomy (PRK) involves ablation of corneal tissue from the corneal surface using an excimer laser. The amount of tissue ablation corresponds to the amount of myopia. While PRK is a relatively safe procedure for up to 6 dioptres of myopia, the recovery phase post-surgery is usually painful.[82][83]
+LASIK
+
+In a LASIK pre-procedure, a corneal flap is cut into the cornea and lifted to allow the excimer laser beam access to the exposed corneal tissue. After that, the excimer laser ablates the tissue according to the required correction. When the flap again covers the cornea, the change in curvature generated by the laser ablation proceeds to the corneal surface. Though LASIK is usually painless and involves a short rehabilitation period post-surgery, it can potentially result in flap complications and loss of corneal stability (post-LASIK keratectasia).[84][85]
+Phakic intra-ocular lens
+
+Instead of modifying the corneal surface, as in laser vision correction (LVC), this procedure involves implanting an additional lens inside the eye (i.e., in addition to the already existing natural lens). While it usually results in good control of the refractive change, it can induce potential serious long-term complications such as glaucoma, cataract and endothelial decompensation.[86][87][88]
+Alternative medicine
+
+A number of alternative therapies have been claimed to improve myopia, including vision therapy, "behavioural optometry", various eye exercises and relaxation techniques, and the Bates method.[89] Scientific reviews have concluded that there was "no clear scientific evidence" that eye exercises are effective in treating near-sightedness[90] and as such they "cannot be advocated."[91]
+Epidemiology
+
+Global refractive errors have been estimated to affect 800 million to 2.3 billion.[92] The incidence of myopia within sampled population often varies with age, country, sex, race, ethnicity, occupation, environment, and other factors.[93][94] Variability in testing and data collection methods makes comparisons of prevalence and progression difficult.[95]
+
+The prevalence of myopia has been reported as high as 70–90% in some Asian countries, 30–40% in Europe and the United States, and 10–20% in Africa.[94] Myopia is about twice as common in Jewish people than in people of non-Jewish ethnicity.[96] Myopia is less common in African people and associated diaspora.[93] In Americans between the ages of 12 and 54, myopia has been found to affect African Americans less than Caucasians.[97]
+Asia
+Estimated myopia rate in 20-year-olds in Asia.[98]
+
+In some parts of Asia, myopia is very common.
+
+    Singapore is believed to have the highest prevalence of myopia in the world; up to 80% of people there have myopia, but the accurate figure is unknown.[99]
+    China's myopia rate is 31%: 400 million of its 1.3 billion people are myopic. The prevalence of myopia in high school in China is 77%, and in college is more than 80%.[100]
+    In some areas, such as China and Malaysia, up to 41% of the adult population is myopic to 1.00 dpt,[101] and up to 80% to 0.5 dpt.[102]
+    A study of Jordanian adults aged 17 to 40 found over half (54%) were myopic.[103]
+    Some research suggests the prevalence of myopia in India in the general population is only 7%.[104][105]
+
+Europe
+Myopia rate in Europe by birth decade (1910 to 1970).[106]
+
+    In first-year undergraduate students in the United Kingdom found 50% of British whites and 53% of British Asians were myopic.[107]
+    In Greece, the prevalence of myopia among 15- to 18-year-old students was found to be 37%.[104]
+    A recent review found 27% of Western Europeans aged 40 or over have at least −1.00 diopters of myopia and 5% have at least −5.00 diopters.[108]
+
+North America
+
+Myopia is common in the United States, with research suggesting this condition has increased dramatically in recent decades. In 1971–1972, the National Health and Nutrition Examination Survey provided the earliest nationally representative estimates for myopia prevalence in the U.S., and found the prevalence in persons aged 12–54 was 25%. Using the same method, in 1999–2004, myopia prevalence was estimated to have climbed to 42%.[109]
+
+A study of 2,523 children in grades 1 to 8 (age, 5–17 years) found nearly one in 10 (9%) have at least −0.75 diopters of myopia.[110] In this study, 13% had at least +1.25 D hyperopia (farsightedness), and 28% had at least 1.00-D difference between the two principal meridians (cycloplegic autorefraction) of astigmatism. For myopia, Asians had the highest prevalence (19%), followed by Hispanics (13%). Caucasian children had the lowest prevalence of myopia (4%), which was not significantly different from African Americans (7%).[110]
+
+A recent review found 25% of Americans aged 40 or over have at least −1.00 diopters of myopia and 5% have at least −5.00 diopters.[108]
+Australia
+
+In Australia, the overall prevalence of myopia (worse than −0.50 diopters) has been estimated to be 17%.[111] In one recent study, less than one in 10 (8%) Australian children between the ages of four and 12 were found to have myopia greater than −0.50 diopters.[112] A recent review found 16% of Australians aged 40 or over have at least −1.00 diopters of myopia and 3% have at least −5.00 diopters.[108]
+South America
+
+In Brazil, a 2005 study estimated 6% of Brazilians between the ages of 12 and 59 had −1.00 diopter of myopia or more, compared with 3% of the indigenous people in northwestern Brazil.[113] Another found nearly 1 in 8 (13%) of the students in the city of Natal were myopic.[114]
+History
+
+The difference between the near-sighted and far-sighted people was noted already by Aristotle.[115] Graeco-Roman physician Galen first used the term "myopia" for near-sightedness.[115] Johannes Kepler in his Clarification of Ophthalmic Dioptrics (1604) first demonstrated that near-sightedness was due to the incident light focusing in front of the retina. Kepler also showed that near-sightedness could be corrected by concave lenses.[115] In 1632, Vopiscus Fortunatus Plempius examined a myopic eye and confirmed that myopia was due to a lengthening of its axial diameter.[116]
+Society and culture
+
+The terms "myopia" and "myopic" (or the common terms "short-sightedness" or "short-sighted", respectively) have been used metaphorically to refer to cognitive thinking and decision making that is narrow in scope or lacking in foresight or in concern for wider interests or for longer-term consequences.[117] It is often used to describe a decision that may be beneficial in the present, but detrimental in the future, or a viewpoint that fails to consider anything outside a very narrow and limited range. Hyperopia, the biological opposite of myopia, may also be used metaphorically for a value system or motivation that exhibits "farsighted" or possibly visionary thinking and behavior; that is, emphasizing long-term interests at the apparent expense of near-term benefit.[118]
+Correlations
+
+Numerous studies have found correlations between myopia, on the one hand, and intelligence and academic achievement, on the other;[citation needed] it is not clear whether there is a causal relationship.[119] Myopia is also correlated with increased microsaccade amplitude, suggesting that blurred vision from myopia might cause instability in fixational eye movements.[120][121]
+Etymology
+
+The term myopia is of Koine Greek origin: μυωπία myōpia (or μυωπίασις myōpiasis) "short-sight(-ness)", from Ancient Greek μύωψ myōps "short-sighted (man), (man) with eyes getting shut", from μύειν myein "to shut the eyes" and ὤψ ōps "eye, look, sight" (GEN ὠπός ōpos).[122][123][124][125][126] The opposite of myopia in English is hyperopia (long-sightedness).
+See also
+
+    Myopia in animals

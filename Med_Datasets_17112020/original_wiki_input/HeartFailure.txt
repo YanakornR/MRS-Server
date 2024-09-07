@@ -1,0 +1,356 @@
+Heart failure,HF,chronic heart failure,CHF,congestive cardiac failure,CCF
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Heart failure
+Other names	Chronic heart failure (CHF), congestive cardiac failure (CCF)[1][2][3]
+Heartfailure.jpg
+The major signs and symptoms of heart failure
+Specialty	Cardiology
+Symptoms	Shortness of breath, feeling tired, leg swelling[4]
+Duration	Usually lifelong
+Causes	Heart attack, high blood pressure, abnormal heart rhythm, excessive alcohol use, infection, heart damage[4][5]
+Risk factors	Smoking, sedentary lifestyle
+Diagnostic method	Echocardiogram[6]
+Differential diagnosis	Kidney failure, thyroid disease, liver disease, anemia, obesity[7]
+Medication	Diuretics, cardiac medications[6][8]
+Frequency	40 million (2015),[9] 2% of adults (developed countries)[5][10]
+Deaths	35% risk of death in first year[4]
+
+Heart failure (HF), also known as chronic heart failure (CHF), is when the heart is unable to pump sufficiently to maintain blood flow to meet the body's needs.[11][12][13] Signs and symptoms of heart failure commonly include shortness of breath, excessive tiredness, and leg swelling.[4] The shortness of breath is usually worse with exercise, while lying down, and may wake the person at night.[4] A limited ability to exercise is also a common feature.[14] Chest pain, including angina, does not typically occur due to heart failure.[15]
+
+Common causes of heart failure include coronary artery disease including a previous myocardial infarction (heart attack), high blood pressure, atrial fibrillation, valvular heart disease, excess alcohol use, infection, and cardiomyopathy of an unknown cause.[4][5] These cause heart failure by changing either the structure or the functioning of the heart.[4] The two types of heart failure – heart failure with reduced ejection fraction (HFrEF), and heart failure with preserved ejection fraction (HFpEF) – are based on whether the ability of the left ventricle to contract is affected, or the heart's ability to relax.[4] The severity of disease is graded by the severity of symptoms with exercise.[7] Heart failure is not the same as myocardial infarction (in which part of the heart muscle dies) or cardiac arrest (in which blood flow stops altogether).[16][17] Other diseases that may have symptoms similar to heart failure include obesity, kidney failure, liver problems, anemia, and thyroid disease.[7] Heart failure is diagnosed based on the history of the symptoms and a physical examination, with confirmation by echocardiography.[6] Blood tests, electrocardiography, and chest radiography may be useful to determine the underlying cause.[6]
+
+Treatment depends on the severity and cause of the disease.[6] In people with chronic stable mild heart failure, treatment commonly consists of lifestyle modifications such as stopping smoking,[8] physical exercise,[18][needs update] and dietary changes, as well as medications.[8] In those with heart failure due to left ventricular dysfunction, angiotensin converting enzyme inhibitors, angiotensin receptor blockers, or valsartan/sacubitril along with beta blockers are recommended.[6][19] For those with severe disease, aldosterone antagonists, or hydralazine with a nitrate may be used.[6] Diuretics are useful for preventing fluid retention and the resulting shortness of breath.[8] Sometimes, depending on the cause, an implanted device such as a pacemaker or an implantable cardiac defibrillator (ICD) may be recommended.[6] In some moderate or severe cases, cardiac resynchronization therapy (CRT)[20] or cardiac contractility modulation may be of benefit.[21] A ventricular assist device (for the left, right, or both ventricles), or occasionally a heart transplant may be recommended in those with severe disease that persists despite all other measures.[8]
+
+Heart failure is a common, costly, and potentially fatal condition.[5] In 2015, it affected about 40 million people globally.[9] Overall around 2% of adults have heart failure[22] and in those over the age of 65, this increases to 6–10%.[5][10] Rates are predicted to increase.[22] The risk of death is about 35% the first year after diagnosis; while by the second year the risk of death is less than 10% for those who remain alive.[4] This degree of risk of death is similar to some cancers.[4] In the United Kingdom, the disease is the reason for 5% of emergency hospital admissions.[4] Heart failure has been known since ancient times, with the Ebers papyrus commenting on it around 1550 BCE.[14]
+Contents
+
+    1 Signs and symptoms
+        1.1 Left-sided failure
+        1.2 Right-sided failure
+        1.3 Biventricular failure
+    2 Causes
+        2.1 Congestive heart failure
+        2.2 Acute decompensation
+        2.3 Medications
+        2.4 Supplements
+    3 Pathophysiology
+    4 Diagnosis
+        4.1 Classification
+        4.2 Ultrasound
+        4.3 Chest X-ray
+        4.4 Electrophysiology
+        4.5 Blood tests
+        4.6 Angiography
+        4.7 Monitoring
+        4.8 Classification
+        4.9 Algorithms
+        4.10 Misconceptions
+    5 Prevention
+    6 Management
+        6.1 Acute decompensation
+        6.2 Chronic management
+        6.3 Palliative care
+    7 Prognosis
+    8 Epidemiology
+        8.1 United States
+        8.2 United Kingdom
+        8.3 Developing world
+        8.4 Sex
+        8.5 Ethnicity
+    9 Economics
+    10 Research directions
+    11 References
+    12 External links
+
+Signs and symptoms
+A man with congestive heart failure and marked jugular venous distension. External jugular vein marked by an arrow.
+
+Heart failure symptoms are traditionally and somewhat arbitrarily divided into "left" and "right" sided, recognizing that the left and right ventricles of the heart supply different portions of the circulation. However, heart failure is not exclusively backward failure (in the part of the circulation which drains to the ventricle).
+
+There are several other exceptions to a simple left-right division of heart failure symptoms. Additionally, the most common cause of right-sided heart failure is left-sided heart failure.[23] The result is that people commonly present with both sets of signs and symptoms.
+Left-sided failure
+
+The left side of the heart is responsible for receiving oxygen-rich blood from the lungs and pumping it forward to the systemic circulation (the rest of the body except for the pulmonary circulation). Failure of the left side of the heart causes blood to back up (be congested) into the lungs, causing respiratory symptoms as well as fatigue due to insufficient supply of oxygenated blood. Common respiratory signs are increased rate of breathing and increased work of breathing (non-specific signs of respiratory distress). Rales or crackles, heard initially in the lung bases, and when severe, throughout the lung fields suggest the development of pulmonary edema (fluid in the alveoli). Cyanosis which suggests severe low blood oxygen, is a late sign of extremely severe pulmonary edema.
+
+Additional signs indicating left ventricular failure include a laterally displaced apex beat (which occurs if the heart is enlarged) and a gallop rhythm (additional heart sounds) may be heard as a marker of increased blood flow or increased intra-cardiac pressure. Heart murmurs may indicate the presence of valvular heart disease, either as a cause (e.g. aortic stenosis) or as a result (e.g. mitral regurgitation) of the heart failure.
+
+Backward failure of the left ventricle causes congestion of the lungs' blood vessels, and so the symptoms are predominantly respiratory in nature. Backward failure can be subdivided into the failure of the left atrium, the left ventricle or both within the left circuit. The person will have dyspnea (shortness of breath) on exertion and in severe cases, dyspnea at rest. Increasing breathlessness on lying flat, called orthopnea, occurs. It is often measured in the number of pillows required to lie comfortably, and in orthopnea, the person may resort to sleeping while sitting up. Another symptom of heart failure is paroxysmal nocturnal dyspnea: a sudden nighttime attack of severe breathlessness, usually several hours after going to sleep. Easy fatigability and exercise intolerance are also common complaints related to respiratory compromise.
+
+"Cardiac asthma" or wheezing may occur.
+
+Compromise of left ventricular forward function may result in symptoms of poor systemic circulation such as dizziness, confusion and cool extremities at rest.
+Right-sided failure
+Severe peripheral (pitting) edema
+
+Right-sided heart failure is often caused by pulmonary heart disease (cor pulmonale), which is typically caused by difficulties of the pulmonary circulation, such as pulmonary hypertension or pulmonic stenosis.
+
+Physical examination may reveal pitting peripheral edema, ascites, liver enlargement, and spleen enlargement. Jugular venous pressure is frequently assessed as a marker of fluid status, which can be accentuated by eliciting hepatojugular reflux. If the right ventricular pressure is increased, a parasternal heave may be present, signifying the compensatory increase in contraction strength.
+
+Backward failure of the right ventricle leads to congestion of systemic capillaries. This generates excess fluid accumulation in the body. This causes swelling under the skin (termed peripheral edema or anasarca) and usually affects the dependent parts of the body first (causing foot and ankle swelling in people who are standing up, and sacral edema in people who are predominantly lying down). Nocturia (frequent nighttime urination) may occur when fluid from the legs is returned to the bloodstream while lying down at night. In progressively severe cases, ascites (fluid accumulation in the abdominal cavity causing swelling) and liver enlargement may develop. Significant liver congestion may result in impaired liver function (congestive hepatopathy), and jaundice and even coagulopathy (problems of decreased or increased blood clotting) may occur.
+Biventricular failure
+
+Dullness of the lung fields to finger percussion and reduced breath sounds at the bases of the lung may suggest the development of a pleural effusion (fluid collection between the lung and the chest wall). Though it can occur in isolated left- or right-sided heart failure, it is more common in biventricular failure because pleural veins drain into both the systemic and pulmonary venous systems. When unilateral, effusions are often right sided.
+
+If a person with a failure of one ventricle lives long enough, it will tend to progress to failure of both ventricles. For example, left ventricular failure allows pulmonary edema and pulmonary hypertension to occur, which increase stress on the right ventricle. Right ventricular failure is not as deleterious to the other side, but neither is it harmless.
+Causes
+Congestive heart failure
+
+Heart failure may also occur in situations of "high output" (termed "high-output heart failure"), where the amount of blood pumped is more than typical and the heart is unable to keep up.[24] This can occur in overload situations (blood or serum infusions), kidney diseases, chronic severe anemia, beriberi (vitamin B1/thiamine deficiency), hyperthyroidism, cirrhosis, Paget's disease, multiple myeloma, arteriovenous fistulae, or arteriovenous malformations.
+
+Viral infections of the heart can lead to inflammation of the muscular layer of the heart and subsequently contribute to the development of heart failure. Heart damage can predispose a person to develop heart failure later in life and has many causes including systemic viral infections (e.g., HIV), chemotherapeutic agents such as daunorubicin, cyclophosphamide, and trastuzumab, and abuse of drugs such as alcohol, cocaine, and methamphetamine. An uncommon cause is exposure to certain toxins such as lead and cobalt. Additionally, infiltrative disorders such as amyloidosis and connective tissue diseases such as systemic lupus erythematosus have similar consequences. Obstructive sleep apnea (a condition of sleep wherein disordered breathing overlaps with obesity, hypertension, and/or diabetes) is regarded as an independent cause of heart failure.
+Acute decompensation
+Main article: Acute decompensated heart failure
+Kerley B lines in acute cardiac decompensation. The short, horizontal lines can be found everywhere in the right lung.
+
+Chronic stable heart failure may easily decompensate. This most commonly results from an intercurrent illness (such as myocardial infarction (a heart attack), pneumonia), abnormal heart rhythms, uncontrolled hypertension, or a person's failure to maintain a fluid restriction, diet, or medication.[25] Other factors that may worsen CHF include: anemia, hyperthyroidism, excessive fluid or salt intake, and medication such as NSAIDs and thiazolidinediones.[26] NSAIDs increase the risk twofold.[27]
+Medications
+
+A number of medications may cause or worsen the disease. This includes NSAIDS, COX-2 inhibitors a number of anesthetic agents such as ketamine, thiazolidinediones, a number of cancer medications, several antiarrhythmic medications, pregabalin, alpha-2 adrenergic receptor agonists, minoxidil, itraconazole, cilostazol, anagrelide, stimulants (e.g., methylphenidate), tricyclic antidepressants, lithium, antipsychotics, dopamine agonists, TNF inhibitors, calcium channel blockers, salbutamol, and tamsulosin.[28]
+
+By inhibiting the formation of prostaglandins, NSAIDs may exacerbate heart failure through several mechanisms including promotion of fluid retention, increasing blood pressure, and decreasing a person's response to diuretic medications.[28] Similarly, the ACC/AHA recommends against the use of COX-2 inhibitor medications in people with heart failure.[28] Thiazolidinediones have been strongly linked to new cases of heart failure and worsening of pre-existing congestive heart failure due to their association with weight gain and fluid retention.[28] Certain calcium channel blockers such as diltiazem and verapamil are known to decrease the force with which the heart ejects blood and are thus not recommended in people with heart failure with a reduced ejection fraction.[28]
+Supplements
+
+Certain complementary and alternative medicine supplements also carry a risk of exacerbating existing heart failure. These supplements include aconite, ginseng, gossypol, gynura, licorice, Lily of the valley, tetrandrine, and yohimbine.[28] Use of these supplements in people with heart failure is not recommended.[28] Aconite can lead to abnormally slow heart rates and abnormal heart rhythms such as ventricular tachycardia.[28]
+
+Ginseng can lead to abnormally low or high blood pressure and may interfere with the effects of diuretic medications.[28] In contrast, gossypol use may inadvertently increase the effects of diuretics leading to toxicity.[28] Gynura use can lead to low blood pressure.[28] Licorice supplement consumption can worsen heart failure by increasing blood pressure and promoting fluid retention.[28] Lily of the valley can lead to abnormally slow heart rates with mechanisms similar to those of digoxin.[28] Tetrandrine can lead to low blood pressure through inhibition of L-type calcium channels.[28] Yohimbine can exacerbate heart failure by increasing blood pressure through alpha-2 adrenergic receptor antagonism.[28]
+Pathophysiology
+Main article: Pathophysiology of heart failure
+A comparison of healthy heart with contracted muscle (left) and a weakened heart with over-stretched muscle (right).
+
+Heart failure is caused by any condition which reduces the efficiency of the heart muscle, through damage or overloading. As such, it can be caused by a wide number of conditions, including myocardial infarction (in which the heart muscle is starved of oxygen and dies), hypertension (which increases the force of contraction needed to pump blood) and amyloidosis (in which misfolded proteins are deposited in the heart muscle, causing it to stiffen). Over time these increases in workload will produce changes to the heart itself:
+
+The heart of a person with heart failure may have a reduced force of contraction due to overloading of the ventricle. In a healthy heart, increased filling of the ventricle results in increased contraction force (by the Frank–Starling law of the heart) and thus a rise in cardiac output. In heart failure, this mechanism fails, as the ventricle is loaded with blood to the point where heart muscle contraction becomes less efficient. This is due to reduced ability to cross-link actin and myosin filaments in over-stretched heart muscle.[29]
+Diagnosis
+
+No system of diagnostic criteria has been agreed on as the gold standard for heart failure. The National Institute for Health and Care Excellence recommends measuring brain natriuretic peptide (BNP) followed by ultrasound of the heart if positive.[30] This is recommended in those with shortness of breath.[31] In those with heart failure which worsen both a BNP and a troponin are recommended to help determine likely outcomes.[31]
+Classification
+
+Heart failure is a pathophysiological state in which cardiac output is insufficient to meet the needs of the body and lungs.[4] The term "congestive heart failure" is often used, as one of the common symptoms is congestion, or build-up of fluid in a person's tissues and veins in the lungs or other parts of the body.[4] Specifically, congestion takes the form of water retention and swelling (edema), both as peripheral edema (causing swollen limbs and feet) and as pulmonary edema (causing breathing difficulty), as well as ascites (swollen abdomen). This is a common problem in old age as a result of cardiovascular disease, but it can happen at any age, even in fetuses.
+
+The term "acute" is used to mean rapid onset, and "chronic" refers to long duration. Chronic heart failure is a long-term condition, usually kept stable by the treatment of symptoms. Acute decompensated heart failure is a worsening of chronic heart failure symptoms which can result in acute respiratory distress.[32] High-output heart failure can occur when there is an increased cardiac output. The circulatory overload caused, can result in an increased left ventricular diastolic pressure which can develop into pulmonary congestion (pulmonary edema).[24]
+
+Heart failure is divided into two types based on ejection fraction, which is the proportion of blood pumped out of the heart during a single contraction.[33] Ejection fraction is given as a percentage with the normal range being between 50 and 75%.[33] The two types are:
+
+1) Heart failure due to reduced ejection fraction (HFrEF). Synonyms no longer recommended are "heart failure due to left ventricular systolic dysfunction" and "systolic heart failure". HFrEFe is associated with an ejection fraction of less than 40%.[34]
+
+2) Heart failure with preserved ejection fraction (HFpEF). Synonyms no longer recommended include "diastolic heart failure" and "heart failure with normal ejection fraction".[4][18] HFpEF occurs when the left ventricle contracts normally during systole, but the ventricle is stiff and does not relax normally during diastole, which impairs filling.[4]
+
+
+Ultrasound
+
+Echocardiography is commonly used to support a clinical diagnosis of heart failure. This modality uses ultrasound to determine the stroke volume (SV, the amount of blood in the heart that exits the ventricles with each beat), the end-diastolic volume (EDV, the total amount of blood at the end of diastole), and the SV in proportion to the EDV, a value known as the ejection fraction (EF). In pediatrics, the shortening fraction is the preferred measure of systolic function. Normally, the EF should be between 50% and 70%; in systolic heart failure, it drops below 40%. Echocardiography can also identify valvular heart disease and assess the state of the pericardium (the connective tissue sac surrounding the heart). Echocardiography may also aid in deciding what treatments will help the person, such as medication, insertion of an implantable cardioverter-defibrillator or cardiac resynchronization therapy. Echocardiography can also help determine if acute myocardial ischemia is the precipitating cause, and may manifest as regional wall motion abnormalities on echo.
+
+    File:UOTW 48 - Ultrasound of the Week 1.webmPlay media
+
+    Ultrasound showing severe systolic heart failure[35]
+    File:UOTW 48 - Ultrasound of the Week 2.webmPlay media
+
+    Ultrasound showing severe systolic heart failure[35]
+    File:UOTW 48 - Ultrasound of the Week 3.webmPlay media
+
+    Ultrasound of the lungs showing edema due to severe systolic heart failure[35]
+    File:UOTW 48 - Ultrasound of the Week 4.webmPlay media
+
+    Ultrasound showing severe systolic heart failure[35]
+
+    Ultrasound showing severe systolic heart failure[35]
+
+Chest X-ray
+Chest radiograph of a lung with distinct Kerley B lines, as well as an enlarged heart (as shown by an increased cardiothoracic ratio, cephalization of pulmonary veins, and minor pleural effusion as seen for example in the right horizontal fissure. Yet, there is no obvious lung edema. Overall, this indicates intermediate severity (stage II) heart failure.
+
+Chest X-rays are frequently used to aid in the diagnosis of CHF. In a person who is compensated, this may show cardiomegaly (visible enlargement of the heart), quantified as the cardiothoracic ratio (proportion of the heart size to the chest). In left ventricular failure, there may be evidence of vascular redistribution ("upper lobe blood diversion" or "cephalization"), Kerley lines, cuffing of the areas around the bronchi, and interstitial edema. Ultrasound of the lung may also be able to detect Kerley lines.[36]
+
+    Congestive heart failure x-ray.
+
+    Congestive heart failure with small bilateral effusions.
+
+    Kerley b lines.
+
+Electrophysiology
+
+An electrocardiogram (ECG/EKG) may be used to identify arrhythmias, ischemic heart disease, right and left ventricular hypertrophy, and presence of conduction delay or abnormalities (e.g. left bundle branch block). Although these findings are not specific to the diagnosis of heart failure a normal ECG virtually excludes left ventricular systolic dysfunction.[37]
+Blood tests
+
+Blood tests routinely performed include electrolytes (sodium, potassium), measures of kidney function, liver function tests, thyroid function tests, a complete blood count, and often C-reactive protein if infection is suspected. An elevated B-type natriuretic peptide (BNP) is a specific test indicative of heart failure. Additionally, BNP can be used to differentiate between causes of dyspnea due to heart failure from other causes of dyspnea. If myocardial infarction is suspected, various cardiac markers may be used.
+
+BNP is a better indicator than N-terminal pro-BNP (NTproBNP) for the diagnosis of symptomatic heart failure and left ventricular systolic dysfunction. In symptomatic people, BNP had a sensitivity of 85% and specificity of 84% in detecting heart failure; performance declined with increasing age.[38]
+
+Hyponatremia (low serum sodium concentration) is common in heart failure. Vasopressin levels are usually increased, along with renin, angiotensin II, and catecholamines in order to compensate for reduced circulating volume due to inadequate cardiac output. This leads to increased fluid and sodium retention in the body; the rate of fluid retention is higher than the rate of sodium retention in the body, this phenomenon causes "hypervolemic hyponatremia" (low sodium concentration due to high body fluid retention). This phenomenon is more common in older women with low body mass. Severe hyponatremia can result in accumulation of fluid in the brain, causing cerebral edema and intracranial hemorrhage.[39]
+Angiography
+
+Angiography is the X-ray imaging of blood vessels which is done by injecting contrast agents into the bloodstream through a thin plastic tube (catheter) which is placed directly in the blood vessel. X-ray images are called angiograms.[40] Heart failure may be the result of coronary artery disease, and its prognosis depends in part on the ability of the coronary arteries to supply blood to the myocardium (heart muscle). As a result, coronary catheterization may be used to identify possibilities for revascularisation through percutaneous coronary intervention or bypass surgery.
+Monitoring
+
+Various measures are often used to assess the progress of people being treated for heart failure. These include fluid balance (calculation of fluid intake and excretion), monitoring body weight (which in the shorter term reflects fluid shifts).[41] Remote monitoring can be effective to reduce complications for people with heart failure.[42][43]
+Classification
+
+There are many different ways to categorize heart failure, including:
+
+    the side of the heart involved (left heart failure versus right heart failure). Right heart failure compromises pulmonary flow to the lungs. Left heart failure compromises aortic flow to the body and brain. Mixed presentations are common; left heart failure often leads to right heart failure in the longer term.
+    whether the abnormality is due to insufficient contraction (systolic dysfunction), or due to insufficient relaxation of the heart (diastolic dysfunction), or to both.
+    whether the problem is primarily increased venous back pressure (preload), or failure to supply adequate arterial perfusion (afterload).
+    whether the abnormality is due to low cardiac output with high systemic vascular resistance or high cardiac output with low vascular resistance (low-output heart failure vs. high-output heart failure).
+    the degree of functional impairment conferred by the abnormality (as reflected in the New York Heart Association Functional Classification[44])
+    the degree of coexisting illness: i.e. heart failure/systemic hypertension, heart failure/pulmonary hypertension, heart failure/diabetes, heart failure/kidney failure, etc.
+
+Functional classification generally relies on the New York Heart Association functional classification. The classes (I-IV) are:
+
+    Class I: no limitation is experienced in any activities; there are no symptoms from ordinary activities.
+    Class II: slight, mild limitation of activity; the person is comfortable at rest or with mild exertion.
+    Class III: marked limitation of any activity; the person is comfortable only at rest.
+    Class IV: any physical activity brings on discomfort and symptoms occur at rest.
+
+This score documents the severity of symptoms and can be used to assess response to treatment. While its use is widespread, the NYHA score is not very reproducible and does not reliably predict the walking distance or exercise tolerance on formal testing.[45]
+
+In its 2001 guidelines the American College of Cardiology/American Heart Association working group introduced four stages of heart failure:[46]
+
+    Stage A: People at high risk for developing HF in the future but no functional or structural heart disorder.
+    Stage B: a structural heart disorder but no symptoms at any stage.
+    Stage C: previous or current symptoms of heart failure in the context of an underlying structural heart problem, but managed with medical treatment.
+    Stage D: advanced disease requiring hospital-based support, a heart transplant or palliative care.
+
+The ACC staging system is useful in that Stage A encompasses "pre-heart failure" – a stage where intervention with treatment can presumably prevent progression to overt symptoms. ACC Stage A does not have a corresponding NYHA class. ACC Stage B would correspond to NYHA Class I. ACC Stage C corresponds to NYHA Class II and III, while ACC Stage D overlaps with NYHA Class IV.
+Algorithms
+
+There are various algorithms for the diagnosis of heart failure. For example, the algorithm used by the Framingham Heart Study adds together criteria mainly from physical examination. In contrast, the more extensive algorithm by the European Society of Cardiology (ESC) weights the difference between supporting and opposing parameters from the medical history, physical examination, further medical tests as well as response to therapy.
+Framingham criteria
+
+By the Framingham criteria, diagnosis of congestive heart failure (heart failure with impaired pumping capability)[47] requires the simultaneous presence of at least 2 of the following major criteria or 1 major criterion in conjunction with 2 of the following minor criteria. Major criteria include an enlarged heart on a chest x-ray, an S3 gallop (a third heart sound), acute pulmonary edema, episodes of waking up from sleep gasping for air, crackles on lung auscultation, central venous pressure of more than 16 cm H
+2O at the right atrium, jugular vein distension, positive abdominojugular test, and weight loss of more than 4.5 kg in 5 days in response to treatment (sometimes[48] classified as a minor criterion).[49] Minor criteria include an abnormally fast heart rate of more than 120 beats per minute, nocturnal cough, difficulty breathing with physical activity, pleural effusion, a decrease in the vital capacity by one third from maximum recorded, liver enlargement, and bilateral ankle swelling.[49]
+
+Minor criteria are acceptable only if they can not be attributed to another medical condition such as pulmonary hypertension, chronic lung disease, cirrhosis, ascites, or the nephrotic syndrome.[49] The Framingham Heart Study criteria are 100% sensitive and 78% specific for identifying persons with definite congestive heart failure.[49]
+ESC algorithm
+
+The ESC algorithm weights the following parameters in establishing the diagnosis of heart failure:[10]
+Diagnostic assessments supporting the presence of heart failure Assessment 	Diagnosis of heart failure
+Supports if present 	Opposes if normal or absent
+Compatible symptoms 	++ 	++
+Compatible signs 	++ 	+
+Cardiac dysfunction on echocardiography 	+++ 	+++
+Response of symptoms or signs to therapy 	+++ 	++
+ECG
+Normal 		++
+Abnormal 	++ 	+
+Dysrhythmia 	+++ 	+
+Laboratory
+Elevated BNP/NT-proBNP 	+++ 	+
+Low/normal BNP/NT-proBNP 	+ 	+++
+Low blood sodium 	+ 	+
+Kidney dysfunction 	+ 	+
+Mild elevations of troponin 	+ 	+
+Chest X-ray
+Pulmonary congestion 	+++ 	+
+Reduced exercise capacity 	+++ 	++
+Abnormal pulmonary function tests 	+ 	+
+Abnormal hemodynamics at rest 	+++ 	++
++ = some importance; ++ = intermediate importance; +++ = great importance.
+Misconceptions
+
+There are several terms which are closely related to heart failure and may be the cause of heart failure, but should not be confused with it. Cardiac arrest and asystole refer to situations in which there is no cardiac output at all. Without urgent treatment, these result in sudden death. Myocardial infarction ("Heart attack") refers to heart muscle damage due to insufficient blood supply, usually as a result of a blocked coronary artery. Cardiomyopathy refers specifically to problems within the heart muscle, and these problems can result in heart failure. Ischemic cardiomyopathy implies that the cause of muscle damage is coronary artery disease. Dilated cardiomyopathy implies that the muscle damage has resulted in enlargement of the heart. Hypertrophic cardiomyopathy involves enlargement and thickening of the heart muscle.
+Prevention
+
+A person's risk of developing heart failure is inversely related to their level of physical activity. Those who achieved at least 500 MET-minutes/week (the recommended minimum by U.S. guidelines) had lower heart failure risk than individuals who did not report exercising during their free time; the reduction in heart failure risk was even greater in those who engaged in higher levels of physical activity than the recommended minimum.[50] Heart failure can also be prevented by lowering high blood pressure, high blood cholesterol, and controlling diabetes. Also, remaining at the right weight and reducing obesity can help. Lowering salt, alcohol, quitting smoking, and lowering sugar intake may help.[51]
+Management
+Main article: Management of heart failure
+
+Treatment focuses on improving the symptoms and preventing the progression of the disease. Reversible causes of the heart failure also need to be addressed (e.g. infection, alcohol ingestion, anemia, thyrotoxicosis, arrhythmia, hypertension). Treatments include lifestyle and pharmacological modalities, and occasionally various forms of device therapy and rarely cardiac transplantation.
+Acute decompensation
+Main article: Acute decompensated heart failure
+
+In acute decompensated heart failure (ADHF), the immediate goal is to re-establish adequate perfusion and oxygen delivery to end organs. This entails ensuring that airway, breathing, and circulation are adequate. Immediate treatments usually involve some combination of vasodilators such as nitroglycerin, diuretics such as furosemide, and possibly noninvasive positive pressure ventilation (NIPPV). Supplemental oxygen is indicated in those with oxygen saturation levels below 90% but is not recommended in those with normal oxygen levels on room air.[52]
+Chronic management
+
+The goals of treatment for people with chronic heart failure are the prolongation of life, the prevention of acute decompensation and the reduction of symptoms, allowing for greater activity.
+
+Heart failure can result from a variety of conditions. In considering therapeutic options, it is important to first exclude reversible causes, including thyroid disease, anemia, chronic tachycardia, alcohol abuse, hypertension and dysfunction of one or more heart valves. Treatment of the underlying cause is usually the first approach to treating heart failure. However, in the majority of cases, either no primary cause is found or treatment of the primary cause does not restore normal heart function. In these cases, behavioral, medical and device treatment strategies exist which can provide a significant improvement in outcomes, including the relief of symptoms, exercise tolerance, and a decrease in the likelihood of hospitalization or death. Breathlessness rehabilitation for chronic obstructive pulmonary disease (COPD) and heart failure has been proposed with exercise training as a core component. Rehabilitation should also include other interventions to address shortness of breath including psychological and education needs of people and needs of carers.[53]
+Lifestyle
+
+Behavior Modification is a primary consideration in chronic heart failure management program, with dietary guidelines regarding fluid and salt intake.[54] Fluid restriction is important to reduce fluid retention in the body and to correct the hyponatremic status of the body.[39] The evidence of benefit of reducing salt however is poor as of 2018.[55]
+
+Exercise should be encouraged and tailored to suit individual capabilities. The inclusion of regular physical conditioning as part of a cardiac rehabilitation program can significantly improve quality of life and reduce the risk of hospital admission for worsening symptoms; however, there is no evidence for a reduction in mortality rates as a result of exercise. Furthermore, it is not clear whether this evidence can be extended to people with heart failure with preserved ejection fraction (HFpEF) or to those whose exercise regimen takes place entirely at home.[18]
+
+Home visits and regular monitoring at heart failure clinics reduce the need for hospitalization and improve life expectancy.[56]
+Medication
+
+First-line therapy for people with heart failure due to reduced systolic function should include angiotensin-converting enzyme (ACE) inhibitors (ACE-I) or angiotensin receptor blockers (ARBs) if the person develops a long term cough as a side effect of the ACE-I.[57] Use of medicines from this class is associated with improved survival, fewer hospitalizations for heart failure exacerbations, and improved quality of life in people with heart failure.[58]
+
+Beta-adrenergic blocking agents (beta blockers) also form part of the first line of treatment, adding to the improvement in symptoms and mortality provided by ACE-I/ARB.[58][59] The mortality benefits of beta blockers in people with systolic dysfunction who also have atrial fibrillation (AF) is more limited than in those who do not have AF.[60] If the ejection fraction is not diminished (HFpEF), the benefits of beta blockers are more modest; a decrease in mortality has been observed but reduction in hospital admission for uncontrolled symptoms has not been observed.[61]
+
+In people who are intolerant of ACE-I and ARBs or who have significant kidney dysfunction, the use of combined hydralazine and a long-acting nitrate, such as isosorbide dinitrate, is an effective alternate strategy. This regimen has been shown to reduce mortality in people with moderate heart failure.[62] It is especially beneficial in African-Americans (AA).[62] In AAs who are symptomatic, hydralazine and isosorbide dinitrate (H+I) can be added to ACE-I or ARBs.
+
+In people with symptomatic heart failure with markedly reduced ejection fraction (anyone with an ejection fraction of 35% or lower or less than 40% if following a heart attack), the use of an aldosterone antagonist, in addition to beta blockers and ACE-I (once titrated to the target dose or maximum tolerated dose), can improve symptoms and reduce mortality.[63][64]
+
+Second-line medications for CHF do not confer a mortality benefit. Digoxin is one such medication. Its narrow therapeutic window, a high degree of toxicity, and the failure of multiple trials to show a mortality benefit have reduced its role in clinical practice. It is now used in only a small number of people with refractory symptoms, who are in atrial fibrillation and/or who have chronic low blood pressure.
+
+Diuretics have been a mainstay of treatment for treatment of fluid accumulation, and include diuretics classes such as loop diuretics, thiazide-like diuretics, and potassium-sparing diuretics. Although widely used, evidence on their efficacy and safety is limited, with the exception of mineralocorticoid antagonists such as spironolactone.[63][65] Mineralocorticoid antagonists in those under 75 years old appear to decrease the risk of death.[66] A recent Cochrane review found that in small studies, the use of diuretics appeared to have improved mortality in individuals with heart failure.[67] However, the extent to which these results can be extrapolated to a general population is unclear due to the small number of participants in the cited studies.[65]
+
+Anemia is an independent factor in mortality in people with chronic heart failure. The treatment of anemia significantly improves quality of life for those with heart failure, often with a reduction in severity of the NYHA classification, and also improves mortality rates.[68][69] The latest European guidelines (2012) recommend screening for iron-deficient anemia and treating with parenteral iron if anemia is found.[70]
+
+The decision to anticoagulate people with HF, typically with left ventricular ejection fractions <35% is debated, but generally, people with coexisting atrial fibrillation, a prior embolic event, or conditions which increase the risk of an embolic event such as amyloidosis, left ventricular noncompaction, familial dilated cardiomyopathy, or a thromboembolic event in a first-degree relative.[71]
+
+Vasopressin receptor antagonists can also be used to treat heart failure. Conivaptan is the first medication approved by US Food and Drug Administration for the treatment of euvolemic hyponatremia in those with heart failure.[39] In rare cases hypertonic 3% saline together with diuretics may be used to correct hyponatremia.[39]
+
+Sacubitril/valsartan is a combination medication for the treatment of heart failure with reduced left ventricular ejection fraction. It has been in use as an alternative to ACE inhibitors and beta blockers.[72] Ivabradine is recommended for people with symptomatic heart failure with reduced left ventricular ejection fraction who are receiving optimized guideline directed therapy (as above) including the maximum tolerated dose of beta blocker, have a normal heart rhythm, and continue to have a resting heart rate above 70 beats per minute.[31] Ivabradine has been found to reduce the risk of hospitalization for heart failure exacerbations in this subgroup of people with heart failure.[31]
+Implanted devices
+
+In people with severe cardiomyopathy (left ventricular ejection fraction below 35%), or in those with recurrent VT or malignant arrhythmias, treatment with an automatic implantable cardioverter defibrillator (AICD) is indicated to reduce the risk of severe life-threatening arrhythmias. The AICD does not improve symptoms or reduce the incidence of malignant arrhythmias but does reduce mortality from those arrhythmias, often in conjunction with antiarrhythmic medications. In people with left ventricular ejection (LVEF) below 35%, the incidence of ventricular tachycardia (VT) or sudden cardiac death is high enough to warrant AICD placement. Its use is therefore recommended in AHA/ACC guidelines.[20]
+
+Cardiac contractility modulation (CCM) is a treatment for people with moderate to severe left ventricular systolic heart failure (NYHA class II–IV) which enhances both the strength of ventricular contraction and the heart's pumping capacity. The CCM mechanism is based on stimulation of the cardiac muscle by non-excitatory electrical signals (NES), which are delivered by a pacemaker-like device. CCM is particularly suitable for the treatment of heart failure with normal QRS complex duration (120 ms or less) and has been demonstrated to improve the symptoms, quality of life and exercise tolerance.[21][73][74][75][76] CCM is approved for use in Europe, but not currently in North America.[77][78]
+
+About one third of people with LVEF below 35% have markedly altered conduction to the ventricles, resulting in dyssynchronous depolarization of the right and left ventricles. This is especially problematic in people with left bundle branch block (blockage of one of the two primary conducting fiber bundles that originate at the base of the heart and carries depolarizing impulses to the left ventricle). Using a special pacing algorithm, biventricular cardiac resynchronization therapy (CRT) can initiate a normal sequence of ventricular depolarization. In people with LVEF below 35% and prolonged QRS duration on ECG (LBBB or QRS of 150 ms or more) there is an improvement in symptoms and mortality when CRT is added to standard medical therapy.[79] However, in the two-thirds of people without prolonged QRS duration, CRT may actually be harmful.[20][21][80]
+Surgical therapies
+
+People with the most severe heart failure may be candidates for ventricular assist devices (VAD). VADs have commonly been used as a bridge to heart transplantation, but have been used more recently as a destination treatment for advanced heart failure.[81]
+
+In select cases, heart transplantation can be considered. While this may resolve the problems associated with heart failure, the person must generally remain on an immunosuppressive regimen to prevent rejection, which has its own significant downsides.[82] A major limitation of this treatment option is the scarcity of hearts available for transplantation.
+Palliative care
+
+People with heart failure often have significant symptoms, such as shortness of breath and chest pain. Palliative care should be initiated early in the HF trajectory, and should not be an option of last resort.[83] Palliative care can not only provide symptom management, but also assist with advanced care planning, goals of care in the case of a significant decline, and making sure the person has a medical power of attorney and discussed his or her wishes with this individual.[84] A 2016 and 2017 review found that palliative care is associated with improved outcomes, such as quality of life, symptom burden, and satisfaction with care.[83][85]
+
+Without transplantation, heart failure may not be reversible and heart function typically deteriorates with time. The growing number of people with Stage IV heart failure (intractable symptoms of fatigue, shortness of breath or chest pain at rest despite optimal medical therapy) should be considered for palliative care or hospice, according to American College of Cardiology/American Heart Association guidelines.[84]
+Prognosis
+
+Prognosis in heart failure can be assessed in multiple ways including clinical prediction rules and cardiopulmonary exercise testing. Clinical prediction rules use a composite of clinical factors such as lab tests and blood pressure to estimate prognosis. Among several clinical prediction rules for prognosticating acute heart failure, the 'EFFECT rule' slightly outperformed other rules in stratifying people and identifying those at low risk of death during hospitalization or within 30 days.[86] Easy methods for identifying people that are low-risk are:
+
+    ADHERE Tree rule indicates that people with blood urea nitrogen < 43 mg/dl and systolic blood pressure at least 115 mm Hg have less than 10% chance of inpatient death or complications.
+    BWH rule indicates that people with systolic blood pressure over 90 mm Hg, respiratory rate of 30 or fewer breaths per minute, serum sodium over 135 mmol/L, no new ST-T wave changes have less than 10% chance of inpatient death or complications.
+
+A very important method for assessing prognosis in people with advanced heart failure is cardiopulmonary exercise testing (CPX testing). CPX testing is usually required prior to heart transplantation as an indicator of prognosis. Cardiopulmonary exercise testing involves measurement of exhaled oxygen and carbon dioxide during exercise. The peak oxygen consumption (VO2 max) is used as an indicator of prognosis. As a general rule, a VO2 max less than 12–14 cc/kg/min indicates a poor survival and suggests that the person may be a candidate for a heart transplant. People with a VO2 max<10 cc/kg/min have a clearly poorer prognosis. The most recent International Society for Heart and Lung Transplantation (ISHLT) guidelines[87] also suggest two other parameters that can be used for evaluation of prognosis in advanced heart failure, the heart failure survival score and the use of a criterion of VE/VCO2 slope > 35 from the CPX test. The heart failure survival score is a score calculated using a combination of clinical predictors and the VO2 max from the cardiopulmonary exercise test.
+
+Heart failure is associated with significantly reduced physical and mental health, resulting in a markedly decreased quality of life.[88][89] With the exception of heart failure caused by reversible conditions, the condition usually worsens with time. Although some people survive many years, progressive disease is associated with an overall annual mortality rate of 10%.[90]
+
+Approximately 18 of every 1000 persons will experience an ischemic stroke during the first year after diagnosis of HF. As the duration of follow-up increases, the stroke rate rises to nearly 50 strokes per 1000 cases of HF by 5 years.[91]
+Epidemiology
+
+In 2015 heart failure affected about 40 million people globally.[9] Overall around 2% of adults have heart failure[22] and in those over the age of 65, this increases to 6–10%.[5][10] Above 75 years old rates are greater than 10%.[22]
+
+Rates are predicted to increase.[22] Increasing rates are mostly because of increasing life span, but also because of increased risk factors (hypertension, diabetes, dyslipidemia, and obesity) and improved survival rates from other types of cardiovascular disease (myocardial infarction, valvular disease, and arrhythmias).[92][93][94] Heart failure is the leading cause of hospitalization in people older than 65.[95]
+United States
+
+In the United States, heart failure affects 5.8 million people, and each year 550,000 new cases are diagnosed.[96] In 2011, heart failure was the most common reason for hospitalization for adults aged 85 years and older, and the second most common for adults aged 65–84 years.[97] It is estimated that one in five adults at age 40 will develop heart failure during their remaining lifetime and about half of people who develop heart failure die within 5 years of diagnosis.[98] Heart failure is much higher in African Americans, Hispanics, Native Americans and recent immigrants from the eastern bloc countries like Russia. This high prevalence in these ethnic minority populations has been linked to high incidence of diabetes and hypertension. In many new immigrants to the U.S., the high prevalence of heart failure has largely been attributed to lack of preventive health care or substandard treatment.[99] Nearly one out of every four people (24.7%) hospitalized in the U.S. with congestive heart failure are readmitted within 30 days.[100] Additionally, more than 50% of people seek re-admission within 6 months after treatment and the average duration of hospital stay is 6 days.
+
+Heart failure is a leading cause of hospital readmissions in the U.S. People aged 65 and older were readmitted at a rate of 24.5 per 100 admissions in 2011. In the same year, people under Medicaid were readmitted at a rate of 30.4 per 100 admissions, and uninsured people were readmitted at a rate of 16.8 per 100 admissions. These are the highest readmission rates for both categories. Notably, heart failure was not among the top ten conditions with the most 30-day readmissions among the privately insured.[101]
+United Kingdom
+
+In the UK, despite moderate improvements in prevention, heart failure rates have increased due to population growth and ageing.[102] Overall heart failure rates are similar to the four most common causes of cancer (breast, lung, prostate and colon) combined.[102] People from deprived backgrounds are more likely to be diagnosed with heart failure and at a younger age.[102]
+Developing world
+
+In tropical countries, the most common cause of HF is valvular heart disease or some type of cardiomyopathy. As underdeveloped countries have become more affluent, there has also been an increase in the incidence of diabetes, hypertension and obesity, which have in turn raised the incidence of heart failure.[103]
+Sex
+
+Men have a higher incidence of heart failure, but the overall prevalence rate is similar in both sexes since women survive longer after the onset of heart failure.[104] Women tend to be older when diagnosed with heart failure (after menopause), they are more likely than men to have diastolic dysfunction, and seem to experience a lower overall quality of life than men after diagnosis.[104]
+Ethnicity
+
+Some sources state that people of Asian descent are at a higher risk of heart failure than other ethnic groups.[105] Other sources however have found that rates of heart failure are similar to rates found in other ethnic groups.[106]
+Economics
+
+In 2011, non-hypertensive heart failure was one of the ten most expensive conditions seen during inpatient hospitalizations in the U.S., with aggregate inpatient hospital costs of more than $10.5 billion.[107]
+
+Heart failure is associated with a high health expenditure, mostly because of the cost of hospitalizations; costs have been estimated to amount to 2% of the total budget of the National Health Service in the United Kingdom, and more than $35 billion in the United States.[108][109]
+Research directions
+
+There is low-quality evidence that stem cell therapy may help.[110] Although this evidence positively indicated benefit, the evidence was of lower quality than other evidence that does not indicate benefit.[111] A 2016 Cochrane review found tentative evidence of longer life expectancy and improved left ventricular ejection fraction in persons treated with bone marrow-derived stem cells.[110]
+
+G protein-coupled receptor kinase 2 (GRK2) inhibition is being researched as a potential treatment for heart failure.[112] 

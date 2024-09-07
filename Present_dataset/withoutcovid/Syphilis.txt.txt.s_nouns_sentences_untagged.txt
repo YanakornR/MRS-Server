@@ -1,0 +1,103 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN syphilis|DS electron|NN micrograph|NN pallidum|NN disease|NN symptom|NN firm|NN non-itchy|NN skin|NN ulcer|NN cause|NN sex|NN method|NN blood|NN test|NN field|NN microscopy|NN fluid|NN diagnosis|NN disease|NN prevention|NN sex|NN treatment|NN antibiotics|NN frequency|NN death|NN 
+syphilis|DS infection|NN bacterium|NN subspecy|NN sign|NN symptom|NN syphilis|DS stage|NN stage|NN chancre|NN non-itchy|NN skin|NN ulceration|NN cm|NN cm|NN diameter|NN sore|NN syphilis|DS rash|ST palm|NN hand|NN sole|NN feet|NN sore|NN mouth|NN vagina|NN syphilis|DS year|NN symptom|NN syphilis|DS non-cancerous|NN growth|NN problem|NN heart|NN symptom|NN syphilis|DS imitator|NN symptom|NN disease|NN 
+syphilis|DS activity|NN mother|NN baby|NN pregnancy|NN birth|NN syphilis|DS disease|NN bacteria|NN subspecy|NN subspecy|NN syphilis|DS subspecy|NN disease|NN diagnosis|NN blood|NN test|NN bacteria|NN field|NN microscopy|NN center|NN disease|NN control|NN prevention|NN women|NN 
+risk|NN transmission|NN syphilis|DS latex|NN polyurethane|NN condom|NN syphilis|DS antibiotics|NN antibiotic|NN case|NN benzylpenicillin|NN muscle|NN penicillin|NN allergy|NN tetracycline|NN syphilis|DS benzylpenicillin|NN treatment|NN people|NN fever|ST headache|ST muscle|NN pain|ST reaction|NN 
+people|NN syphilis|DS case|NN death|NN 202000|NN availability|NN penicillin|NN rate|NN infection|NN turn|NN millennium|NN country|NN combination|NN immunodeficiency|NN virus|NN hiv|DS promiscuity|NN prostitution|NN use|NN condom|NN practice|NN men|NN sex|NN men|NN cuba|NN country|NN transmission|NN syphilis|DS content|NN 
+sign|NN symptom|NN secondary|NN cause|NN transmission|NN diagnosis|NN blood|NN test|NN test|NN prevention|NN sex|NN disease|NN screen|NN treatment|NN infection|NN infection|NN reaction|NN pregnancy|NN epidemiology|NN history|NN art|NN literature|NN guatemala|NN study|NN name|NN reference|NN link|NN 
+sign|NN symptom|NN 
+syphilis|DS stage|NN imitator|NN sir|NN william|NN presentation|NN chancre|NN syphilis|DS site|NN infection|NN penis|NN 
+syphilis|DS contact|NN lesion|NN person|NN day|NN exposure|NN average|NN day|NN skin|NN lesion|NN chancre|NN point|NN contact|NN 
+time|NN firm|NN non-itchy|NN skin|NN ulceration|NN base|NN border|NN cm|NN size|NN lesion|NN form|NN 
+form|NN macule|NN papule|NN erosion|NN ulcer|NN lesion|NN lesion|NN hiv|DS 
+place|NN genital|NN 
+location|NN women|NN cervix|NN penis|NN men|NN men|NN sex|NN men|NN node|NN enlargement|NN area|NN infection|NN day|NN formation|NN lesion|NN week|NN presentation|NN syphilis|DS rash|ST palm|NN hand|NN nodule|NN body|NN syphilis|DS 
+syphilis|DS week|NN infection|NN disease|NN way|NN symptom|NN skin|NN mucous|NN membrane|NN lymph|NN node|NN reddish-pink|NN rash|ST trunk|NN extremity|NN palm|NN sole|NN rash|ST 
+wart-like|NN lesion|NN mucous|NN membrane|NN latum|NN 
+lesion|NN bacteria|NN 
+symptom|NN fever|ST throat|NN malaise|ST weight_loss|ST hair_loss|ST headache|ST manifestation|NN liver|NN inflammation|NN kidney|NN disease|NN inflammation|NN inflammation|NN optic_nerve|DS symptom|NN week|NN people|NN recurrence|NN symptom|NN 
+people|NN syphilis|DS 4085|NN women|NN men|NN chancre|NN syphilis|DS 
+syphilis|DS proof|NN infection|NN symptom|NN disease|NN year|NN syphilis|DS year|NN syphilis|DS united|NN states|NN united|NN kingdom|NN cut-off|NN year|NN syphilis|DS syphilis|DS relapse|NN symptom|NN 
+syphilis|DS syphilis|DS model|NN head|NN person|NN gummatous|NN syphilis|DS muse|NN de|NN lhomme|NN paris|NN 
+syphilis|DS year|NN infection|NN form|NN syphilis|DS neuro|NN syphilis|DS syphilis|DS treatment|NN people|NN disease|NN people|NN syphilis|DS 
+syphilis|DS syphilis|DS year|NN infection|NN average|NN year|NN 
+stage|NN formation|NN gumma|NN ball|NN inflammation|NN size|NN 
+skin|NN bone|NN liver|NN 
+syphilis|DS infection|NN system|NN 
+form|NN meningitis|DS syphilis|DS paresis|DS tabe|NN balance|NN lightn|NN pain|ST extremity|NN 
+neuro|NN syphilis|DS year|NN infection|NN 
+syphilis|DS present|NN apathy|ST seizure|NN paresis|DS dementia|DS tabe|NN argyll|NN robertson|NN pupil|NN pupil|NN person|NN object|NN accommodation|NN reflex|NN light|NN reflex|NN 
+syphilis|DS year|NN infection|NN 
+complication|NN aneurysm|DS formation|NN article|NN syphilis|DS 
+syphilis|DS pregnancy|NN birth|NN 
+infant|NN symptom|NN 
+symptom|NN couple|NN year|NN life|NN enlargement|NN liver|NN spleen|NN rash|ST fever|ST syphilis|DS lung|NN inflammation|NN 
+syphilis|DS saddle|NN nose|NN deformation|NN sign|NN shin|NN clutton|NN joint|NN infection|NN pregnancy|NN miscarriage|ST defect|NN syphilis|DS incisor|NN screwdriver|NN incisor|NN moon|NN molar|NN bud|NN molar|NN fourniers|NN molar|NN mulberry|NN molar|NN molar|NN anatomy|NN mulberry|NN cause|NN pallidum|NN steiner|NN silver|NN stain|NN article|NN 
+subspecy|NN spiral-shap|NN bacterium|NN disease|NN treponema|NN subspecy|NN subspecy|NN subspecy|NN subspecy|NN endemicum|NN subspecy|NN disease|NN human|NN reservoir|NN subspecy|NN day|NN host|NN genome|NN pathway|NN macronutrient|NN double|NN time|NN hour|NN transmission|NN 
+syphilis|DS contact|NN pregnancy|NN mother|NN fetus|NN spirochete|NN mucous|NN membrane|NN skin|NN lesion|NN sex|NN syphilis|DS disease|NN infectivity|NN fact|NN individual|NN organism|NN chance|NN case|NN state|NN men|NN sex|NN men|NN population|NN syphilis|DS sex|NN syphilis|DS blood|NN product|NN risk|NN screen|NN blood|NN country|NN risk|NN transmission|NN share|NN needle|NN 
+contract|NN syphilis|DS toilet|NN seat|NN activity|NN tub|NN share|NN eate|NN utensil|NN cloth|NN bacteria|NN body|NN transmission|NN object|NN diagnosis|NN poster|NN test|NN syphilis|DS man|NN woman|NN head|NN shame|NN poster|NN stigma|NN syphilis|DS disease|NN 
+syphilis|DS infection|NN confirmation|NN blood|NN test|NN inspection|NN field|NN microscopy|NN 
+blood|NN test|NN test|NN stage|NN disease|NN blood|NN test|NN 
+blood|NN test|NN nontreponemal|NN treponemal|NN test|NN 
+test|NN disease|NN research|NN laboratory|NN plasma|NN rpr|NN test|NN 
+positive|NN test|NN infection|NN chickenpox|DS measle|NN 
+positive|NN lymphoma|DS tuberculosis|DS malaria|DS tissue|NN disease|NN pregnancy|NN 
+possibility|NN positive|NN test|NN confirmation|NN test|NN particle|NN agglutination|NN treponemal|NN antibody|NN absorption|NN test|NN antibody|NN test|NN week|NN infection|NN syphilis|DS number|NN leukocyte|NN lymphocyte|NN protein|NN level|NN fluid|NN set|NN syphilis|DS infection|NN test|NN 
+field|NN microscopy|NN fluid|NN chancre|NN diagnosis|NN 
+hospital|NN equipment|NN staff|NN member|NN test|NN minute|NN sample|NN 
+sensitivity|NN test|NN diagnosis|NN 
+test|NN sample|NN antibody|NN polymerase|NN chain|NN reaction|NN pcr|NN test|NN 
+antibody|NN fluorescein|NN syphilis|DS protein|NN pcr|NN technique|NN presence|NN syphilis|DS gene|NN 
+test|NN bacteria|NN diagnosis|NN prevention|NN 
+vaccine|NN prevention|NN vaccine|NN protein|NN lesion|NN development|NN animal|NN model|NN research|NN sex|NN 
+condom|NN use|NN likelihood|NN transmission|NN sex|NN risk|NN center|NN disease|NN control|NN prevention|NN cdc|NN state|NN use|NN latex|NN condom|NN risk|NN syphilis|DS area|NN site|NN exposure|NN 
+syphilis|DS outside|NN area|NN latex|NN condom|NN transmission|NN caution|NN condom|NN 
+contact|NN person|NN transmission|NN syphilis|DS 
+cdc|NN way|NN transmission|NN disease|NN syphilis|DS contact|NN relationship|NN partner|NN 
+disease|NN portrait|NN 
+kay|NN syphilis|DS ce|NN 
+syphilis|DS screen|NN mother|NN pregnancy|NN united|NN states|NN service|NN task|NN force|NN screen|NN women|NN world|NN health|NN organization|NN women|NN visit|NN trimester|NN 
+partner|NN syphilis|DS world|NN women|NN care|NN care|NN screen|NN 
+world|NN syphilis|DS care|NN pregnancy|NN measure|NN increase|NN access|NN test|NN rate|NN syphilis|DS low-|NN country|NN test|NN syphilis|DS research|NN effectiveness|NN outcome|NN mother|NN baby|NN screen|NN 
+cdc|NN men|NN sex|NN men|NN uspstf|NN screen|NN risk|NN 
+syphilis|DS disease|NN country|NN canada|NN union|NN united|NN states|NN health|NN care|NN provider|NN health|NN authority|NN partner|NN notification|NN person|NN partner|NN physician|NN patient|NN partner|NN care|NN strategy|NN follow-up|NN sty|NN email|NN text|NN message|NN reminder|NN appointment|NN treatment|NN infection|NN 
+treatment|NN syphilis|DS dose|NN benzathine|NN benzylpenicillin|NN tetracycline|NN choice|NN penicillin|NN risk|NN birth|NN defect|NN women|NN resistance|NN rifampicin|NN cephalosporin|NN antibiotic|NN treatment|NN person|NN sex|NN sore|NN infection|NN 
+syphilis|DS due|NN penetration|NN penicillin|NN system|NN dose|NN penicillin|NN minimum|NN day|NN person|NN penicillin|NN penicillin|NN 
+presentation|NN benzathine|NN penicillin|NN week|NN 
+treatment|NN stage|NN progression|NN disease|NN effect|NN damage|NN reaction|NN 
+side|NN effect|NN treatment|NN reaction|NN 
+hour|NN hour|NN symptom|NN fever|ST muscle|NN pain|ST headache|ST heart|NN rate|NN cytokine|NN system|NN response|NN lipoprotein|NN syphilis|DS bacteria|NN pregnancy|NN 
+treatment|NN syphilis|DS pregnancy|NN agreement|NN dose|NN route|NN delivery|NN epidemiology|NN article|NN epidemiology|NN syphilis|DS syphilis|DS death|NN person|NN 2012|NN 1119|NN 58138|NN disability|NN life|NN year|NN syphilis|DS inhabitant|NN data|NN 140175|NN 
+2012|NN adult|NN syphilis|DS case|NN people|NN case|NN world|NN 700000|NN pregnancy|NN year|NN abortion|NN stillbirth|NN syphilis|DS death|NN 202000|NN africa|NN syphilis|DS death|NN rate|NN drug|NN user|NN hiv|DS men|NN sex|NN men|NN united|NN states|NN rate|NN syphilis|DS time|NN men|NN women|NN year|NN american|NN case|NN syphilis|DS infection|NN united|NN states|NN 
+syphilis|DS europe|NN century|NN flaubert|NN prostitute|NN world|NN century|NN infection|NN use|NN antibiotics|NN rate|NN syphilis|DS canada|NN uk|NN australia|NN europe|NN men|NN sex|NN men|NN rate|NN syphilis|DS women|NN time|NN rate|NN uk|NN women|NN rate|NN men|NN rate|NN heterosexual|NN china|NN russia|NN practice|NN promiscuity|NN prostitution|NN use|NN barrier|NN protection|NN 
+mortality|NN rate|NN death|NN rate|NN male|NN symptom|NN syphilis|DS century|NN part|NN availability|NN treatment|NN virulence|NN bacteria|NN treatment|NN complication|NN result|NN syphilis|DS risk|NN hiv|DS transmission|NN time|NN coinfection|NN center|NN cuba|NN country|NN world|NN mother|NN child|NN transmission|NN syphilis|DS history|NN article|NN history|NN syphilis|DS portrait|NN gerard|NN de|NN rembrandt|NN van|NN oil|NN canva|NN de|NN painter|NN art|NN theorist|NN syphilis|DS face|NN 
+origin|NN syphilis|DS syphilis|DS americas|NN contact|NN americas|NN europe|NN crewmen|NN christopher|NN voyage|NN americas|NN europe|NN return|NN 
+hypothese|NN hypothesis|NN evidence|NN 
+record|NN outbreak|NN syphilis|DS europe|NN naples|NN italy|NN invasion|NN war|NN 149498|NN troop|NN disease|NN people|NN naples|NN name|NN syphilis|DS name|NN character|NN physician|NN poet|NN girolamo|NN fracastoro|NN title|NN poem|NN hexameter|NN ravage|NN disease|NN italy|NN pox|NN 
+century|NN syphilis|DS health|NN burden|NN prevalence|NN symptom|NN disability208209|NN record|NN prevalence|NN status|NN disease|NN centuries208209|NN time|NN agent|NN mother|NN child|NN 
+association|NN sex|NN promiscuity|NN prostitution|NN object|NN fear|NN revulsion|NN taboo|NN 
+magnitude|NN morbidity|NN mortality|NN century|NN understand|NN pathogenesis|NN treatment|NN 
+damage|NN sickness|NN death|NN course|NN disease|NN effect|NN decade|NN infection|NN syphilis|DS dorsalis|NN 
+organism|NN fritz|NN erich|NN hoffmann|NN treatment|NN syphilis|DS paul|NN 
+effectiveness|NN treatment|NN penicillin|NN trial|NN 
+discovery|NN use|NN antibiotics|NN century|NN mercury|NN isolation|NN treatment|NN disease|NN century|NN microbiology|NN pharmacology|NN syphilis|DS disease|NN burden|NN mystery|NN country|NN people|NN diagnosis|NN treatment|NN 
+figure|NN franz|NN schubert|NN arthur|NN schopenhauer|NN manet|NN charles|NN baudelaire|NN guy|NN de|NN disease|NN friedrich|NN nietzsche|NN result|NN syphilis|DS diagnosis|NN question|NN art|NN literature|NN list|NN syphilis|DS case|NN illustration|NN people|NN syphilis|DS vienna|NN 
+depiction|NN individual|NN syphilis|DS albrecht|NN man|NN woodcut|NN landsknecht|NN mercenary|NN myth|NN femme|NN poison|NN women|NN century|NN devastation|NN syphilis|DS example|NN literature|NN john|NN keats|NN la|NN belle|NN dame|NN 
+artist|NN jan|NN van|NN der|NN preparation|NN use|NN guayaco|NN syphilis|DS scene|NN man|NN treatment|NN syphilis|DS wood|NN guatemala|NN study|NN syphilis|DS experiment|NN guatemala|NN syphilis|DS experiment|NN work|NN project|NN administration|NN poster|NN syphilis|DS 
+study|NN syphilis|DS negro|NN male|NN study|NN 
+health|NN service|NN purpose|NN study|NN history|NN syphilis|DS men|NN study|NN health|NN care|NN united|NN states|NN government|NN 
+health|NN service|NN study|NN collaboration|NN university|NN college|NN alabama|NN 
+investigator|NN study|NN total|NN sharecropper|NN macon|NN county|NN alabama|NN 
+men|NN syphilis|DS study|NN disease|NN men|NN care|NN meal|NN burial|NN insurance|NN study|NN 
+men|NN study|NN month|NN year|NN fund|NN treatment|NN study|NN men|NN 
+men|NN disease|NN penicillin|NN antibiotic|NN treat|NN syphilis|DS 
+center|NN disease|NN control|NN men|NN blood|NN colloquialism|NN condition|NN syphilis|DS anemia|DS fatigue|ST 
+collection|NN illness|NN term|NN cause|NN death|NN community|NN 
+study|NN reason|NN standard|NN 
+researcher|NN patient|NN validation|NN penicillin|NN cure|NN disease|NN 
+revelation|NN study|NN failure|NN whistleblower|NN peter|NN change|NN law|NN regulation|NN protection|NN participant|NN study|NN 
+study|NN consent|NN communication|NN diagnosis|NN report|NN test|NN result|NN 
+experiment|NN guatemala|NN 
+administration|NN president|NN harry|NN s|NN 
+truman|NN president|NN juan|NN jos|NN cooperation|NN health|NN ministry|NN official|NN doctor|NN soldier|NN prostitute|NN prisoner|NN patient|NN syphilis|DS disease|NN consent|NN subject|NN subject|NN antibiotics|NN 
+experiment|NN death|NN october|NN guatemala|NN violation|NN place|NN experiment|NN physician|NN john|NN charles|NN cutler|NN stage|NN tuskegee|NN syphilis|DS experiment|NN name|NN 
+name|NN button|NN scurvy|DS sibben|NN 

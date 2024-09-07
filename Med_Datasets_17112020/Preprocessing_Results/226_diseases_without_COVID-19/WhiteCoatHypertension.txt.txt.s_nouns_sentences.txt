@@ -1,0 +1,32 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN White coat hypertension|Disease name|NN White coat hypertension|Disease lab|NN coat|NN coat|NN scrub|NN
+White coat hypertension|Disease White coat hypertension|Disease phenomenon|NN people|NN blood|NN pressure|NN level|NN range|NN set|NN set|NN phenomenon|NN anxiety|NN clinic|NN visit|NN
+patient|NN daytime|NN blood|NN pressure|NN reference|NN account|NN level|NN stress|NN
+problem|NN diagnosis|NN treatment|NN White coat hypertension|Disease
+term|NN hypertension|NN phenomenon|NN patient|NN blood|NN pressure|NN range|NN live|NN range|NN patient|NN clinic|NN set|NN content|NN
+diagnosis|NN implication|NN treatment|NN reference|NN link|NN
+study|NN White coat hypertension|Disease presence|NN average|NN blood|NN pressure|NN clinic|NN set|NN patient|NN home|NN
+diagnosis|NN result|NN measure|NN method|NN detection|NN
+method|NN interface|NN health|NN care|NN professional|NN result|NN list|NN factor|NN variability|NN individual|NN blood|NN pressure|NN inaccuracy|NN anxiety|NN patient|NN ingestion|NN substance|NN factor|NN
+measure|NN blood|NN pressure|NN instrument|NN sphygmomanometer|NN
+survey|NN care|NN physician|NN cuff|NN size|NN ad|NN difficulty|NN diagnosis|NN
+reason|NN White coat hypertension|Disease visit|NN
+blood|NN pressure|NN measurement|NN minute|NN part|NN office|NN clinic|NN
+patient|NN White coat hypertension|Disease sign|NN trepidation|NN blood|NN pressure|NN tachycardia|NN study|NN thought|NN hypertension|NN result|NN clinic|NN office|NN record|NN blood|NN pressure|NN response|NN pressure|NN stimulus|NN
+person|NN characteristics|NN age|NN susceptibility|NN White coat hypertension|Disease
+blood|NN pressure|NN monitor|NN patient|NN home|NN blood|NN pressure|NN monitor|NN device|NN White coat hypertension|Disease coat|NN effect|NN hypertension|NN
+method|NN fault|NN
+daytime|NN value|NN account|NN stress|NN life|NN patient|NN routine|NN effect|NN variable|NN activity|NN stress|NN duration|NN sleep|NN
+monitor|NN method|NN patient|NN White coat hypertension|Disease prediction|NN target|NN organ|NN damage|NN
+diagnosis|NN treatment|NN White coat hypertension|Disease
+study|NN home|NN blood|NN pressure|NN monitor|NN monitor|NN blood|NN pressure|NN level|NN researcher|NN university|NN turku|NN finland|NP patient|NN hypertension|NN
+patient|NN home|NN blood|NN pressure|NN device|NN monitor|NN
+researcher|NN dr|NP
+home|NN blood|NN pressure|NN measurement|NN treatment|NN
+home|NN track|NN blood|NN pressure|NN monitor|NN
+use|NN breath|NN pattern|NN technique|NN White coat hypertension|Disease
+study|NN patient|NN White coat hypertension|Disease hypertension|NN hypertension|NN
+patient|NN medication|NN hypertension|NN home|NN White coat hypertension|Disease office|NN set|NN implication|NN treatment|NN
+individual|NN White coat hypertension|Disease morbidity|NN patient|NN hypertension|NN morbidity|NN trial|NN consequence|NN blood|NN pressure|NN benefit|NN treate|NN measurement|NN set|NN read|NN record|NN
+debate|NN idea|NN White coat hypertension|Disease evidence|NN rise|NN blood|NN pressure|NN office|NN visit|NN effect|NN health|NN
+fact|NN cross|NN study|NN damage|NN hypertrophy|NN patient|NN patient|NN allowance|NN difference|NN clinic|NN pressure|NN patient|NN coat|NN hypertension|NN dose|NN therapy|NN hypotension|NN patient|NN sign|NN change|NN hypertension|NN
+patient|NN hypertension|NN home|NN blood|NN pressure|NN monitor|NN read|NN office|NN visit|NN

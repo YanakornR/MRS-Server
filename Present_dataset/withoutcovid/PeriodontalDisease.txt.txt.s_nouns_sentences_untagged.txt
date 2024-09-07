@@ -1,0 +1,162 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN periodontal_disease|DS name|NN periodontal_disease|DS periodontal_disease|DS periodontal_disease|DS paro1jpg|NN bone|NN loss|NN root|NN tooth|NN region|NN 
+bone|NN infection|NN tooth|NN support|NN tooth|NN 
+symptom|NN gum|NN teeth|NN breath|NN complication|NN tooth|NN loss|NN gum|NN abscess|NN cause|NN bacteria|NN plaque|NN build|NN risk|NN factor|NN smoke|NN diabete|NN medication|NN method|NN examination|NN x-ray|NN treatment|NN hygiene|NN clean|NN frequency|NN 
+periodontal_disease|DS periodontal_disease|DS set|NN condition|NN tissue|NN teeth|NN stage|NN gum|NN red|NN form|NN periodontal_disease|DS gum|NN tooth|NN bone|NN teeth|NN breath|NN 
+periodontal_disease|DS bacteria|NN mouth|NN tissue|NN teeth|NN factor|NN smoke|NN diabete|NN family|NN history|NN medication|NN diagnosis|NN gum|NN tissue|NN teeth|NN probe|NN x-ray|NN bone|NN loss|NN teeth|NN 
+treatment|NN hygiene|NN teeth|NN hygiene|NN brush|NN floss|NN case|NN antibiotics|NN surgery|NN people|NN united|NN states|NN age|NN degree|NN condition|NN male|NN female|NN periodontal_disease|DS media|NN video|NN summary|NN script|NN content|NN 
+sign|NN symptom|NN condition|NN cause|NN mechanism|NN classification|NN classification|NN classification|NN prevention|NN management|NN therapy|NN surgery|NN drug|NN delivery|NN maintenance|NN epidemiology|NN society|NN culture|NN economics|NN animal|NN link|NN 
+sign|NN symptom|NN loss|NN attachment|NN attachment|NN loss|NN cal|NN sum|NN recession|NN depth|NN 
+stage|NN periodontal_disease|DS symptom|NN individual|NN disease|NN treatment|NN 
+bleed|NN gum|NN teeth|NN floss|NN food|NN apple|NN gingivitis|DS attachment|NN loss|NN gum|NN swell|NN blood|NN teeth|NN breath|NN taste|NN mouth|NN recession|NN lengthen|NN teeth|NN 
+brush|NN toothbrush|NN 
+pocket|NN teeth|NN gum|NN pocket|NN site|NN attachment|NN enzyme|NN teeth|NN stage|NN reason|NN 
+people|NN inflammation|NN bone|NN destruction|NN 
+people|NN bleed|NN teeth|NN clean|NN symptom|NN periodontal_disease|DS person|NN 
+periodontal_disease|DS inflammation|NN body|NN level|NN protein|NN risk|NN stroke|NN infarction|NN atherosclerosis|DS hypertension|DS year|NN age|NN impairment|NN memory|NN calculation|NN ability|NN individual|NN fast|NN glucose|NN diabete|NN mellitus|NN degree|NN inflammation|NN difficulty|NN blood|NN glucose|NN level|NN state|NN inflammation|NN association|NN association|NN periodontal_disease|DS dysfunction|NN heart|NN disease|NN cancer|DS cause|NN 
+periodontal_disease|DS inflammation|NN periodontium|NN tissue|NN teeth|NN 
+periodontium|NN tissue|NN 
+gum|NN tissue|NN layer|NN root|NN teeth|NN bone|NN socket|NN teeth|NN ligament|NN tissue|NN run|NN cementum|NN bone|NN 
+x-ray|NN film|NN teeth|NN left|NN premolar|NN canine|NN bone|NN loss|NN 
+widening|NN ligament|NN premolar|NN trauma|NN 
+cause|NN gingivitis|DS hygiene|NN accumulation|NN mycotic|NN matrix|NN gum|NN line|NN plaque|NN 
+contributor|NN nutrition|NN issue|NN diabete|NN homecare|NN periodontal_disease|DS finger|NN prick|NN test|NN food|NN drug|NN administration|NN office|NN people|NN cause|NN periodontal_disease|DS diabete|NN 
+people|NN periodontal_disease|DS destruction|NN gingival|NN gum|NN tissue|NN tooth|NN pocket|NN 
+microorganism|NN gum|NN line|NN pocket|NN cause|NN inflammation|NN gum|NN tissue|NN bone|NN loss|NN 
+example|NN cause|NN thing|NN definition|NN cause|NN plaque|NN accumulation|NN restoration|NN overhang|NN root|NN proximity|NN 
+material|NN contour|NN teeth|NN overhang|NN plaque|NN periodontal_disease|DS 
+smoke|NN factor|NN occurrence|NN periodontal_disease|DS treatment|NN risk|NN factor|NN periodontal_disease|DS 
+research|NN smoker|NN bone|NN loss|NN attachment|NN loss|NN tooth|NN loss|NN non-smoker|NN reason|NN smoke|NN effect|NN response|NN 
+wound|ST heal|NN antibody|NN production|NN phagocytosis|NN 
+syndrome|NN periodontal_disease|DS risk|NN factor|NN syndrome|NN keratoderma|NN 
+plaque|NN form|NN calculus|NN tartar|NN 
+gum|NN line|NN hygienist|NN dentist|NN periodontal_disease|DS 
+cause|NN gingivitis|DS periodontal_disease|DS plaque|NN tooth|NN surface|NN factor|NN 
+risk|NN factor|NN susceptibility|NN 
+condition|NN disease|NN syndrome|NN diabete|NN disease|NN resistance|NN infection|NN increase|NN susceptibility|NN periodontal_disease|DS 
+factor|NN periodontal_disease|DS disease|NN study|NN host|NN response|NN bone|NN resorption|NN 
+host|NN response|NN insult|NN genetics|NN development|NN role|NN susceptibility|NN 
+researcher|NN periodontal_disease|DS stress|NN periodontal_disease|DS people|NN end|NN scale|NN people|NN end|NN scale|NN 
+genetics|NN role|NN risk|NN periodontal_disease|DS 
+genetics|NN plaque|NN control|NN periodontal_disease|DS hygiene|NN disease|NN 
+factor|NN risk|NN person|NN periodontal_disease|DS 
+defect|NN person|NN phagocyte|NN 
+hyper-production|NN prostaglandin|NN cytokine|NN 
+result|NN response|NN 
+gene|NN polymorphism|NN people|NN polymorphism|NN risk|NN periodontal_disease|DS 
+diabete|NN onset|NN progression|NN severity|NN periodontal_disease|DS majority|NN research|NN type|NN diabete|NN type|NN diabete|NN effect|NN risk|NN periodontal_disease|DS extent|NN risk|NN periodontal_disease|DS level|NN control|NN 
+diabete|NN effect|NN diabete|NN risk|NN periodontal_disease|DS 
+risk|NN control|NN risk|NN periodontal_disease|DS diabetics|NN time|NN mechanism|NN link|NN aspect|NN inflammation|NN function|NN neutrophil|NN activity|NN cytokine|NN biology|NN mechanism|NN 
+plaque|NN biofilm|NN teeth|NN gum|NN dysbiosis|NN microbiome|NN 2017|NN specy|NN harm|NN bacteria|NN viruse|NN people|NN specy|NN disease|NN research|NN specy|NN gram|NN specy|NN porphyromona|NN bacteroide|NN corroden|NN 
+plaque|NN plaque|NN teeth|NN calcium|NN saliva|NN plaque|NN gumline|NN blood|NN ooze|NN gum|NN 
+damage|NN teeth|NN gum|NN system|NN microbe|NN symbiosis|NN tissue|NN microbe|NN community|NN 
+tissue|NN cell|NN epithelium|NN antigen|NN microbe|NN system|NN movement|NN blood|NN cell|NN tissue|NN 
+process|NN turn|NN bone|NN matrix|NN ligament|NN summary|NN bacteria|NN disease|NN event|NN response|NN host|NN system|NN classification|NN list|NN periodontal_disease|DS 
+attempt|NN classification|NN system|NN periodontal_disease|DS classification|NN 
+classification|NN system|NN periodontal_disease|DS condition|NN category|NN periodontal_disease|DS periodontal_disease|DS damage|NN 
+periodontal_disease|DS periodontal_disease|DS periodontal_disease|DS manifestation|NN disease|NN gingivitis|DS periodontal_disease|DS abscess|NN periodontic-endodontic|NN lesion|NN 
+terminology|NN extent|NN severity|NN periodontal_disease|DS term|NN diagnosis|NN person|NN group|NN people|NN 
+severity|NN disease|NN amount|NN ligament|NN attachment|NN loss|NN 
+classification|NN severity|NN periodontal_disease|DS 
+mm|NN attachment|NN loss|NN mm|NN attachment|NN loss|NN 
+mm|NN attachment|NN loss|NN 
+section|NN source|NN 
+section|NN citation|NN source|NN 
+november|NN 2018|NN template|NN message|NN 
+extent|NN disease|NN proportion|NN dentition|NN disease|NN term|NN percentage|NN site|NN 
+site|NN position|NN measurement|NN tooth|NN site|NN tooth|NN 
+mid-buccal|NN distolingual|NN 
+site|NN mouth|NN manifestation|NN term|NN classification|NN 
+classification|NN periodontal_disease|DS 
+health|NN disease|NN condition|NN 
+health|NN health|NN 
+gingival|NN health|NN periodontiutm|NN 
+gingival|NN health|NN periodontium|NN periodontal_disease|DS iinon|NN periodontal_disease|DS person|NN biofilm|NN 
+type|NN biofilm|NN risk|NN factor|NN drug|NN enlargement|NN 
+disease|NN biofilm|NN 
+sub-type|NN disorder|NN infection|NN condition|NN process|NN traumatic|NN lesion|NN pigmentation|NN 
+periodontal_disease|DS periodontal_disease|DS periodontal_disease|DS manifestation|NN disease|NN 
+condition|NN periodontium|NN 
+disease|NN condition|NN support|NN tissue|NN abscess|NN lesion|NN deformity|ST condition|NN force|NN tooth|NN factor|NN 
+disease|NN condition|NN 
+health|NN peri-implantitis|NN tissue|NN deficiency|NN 
+goal|NN stage|NN periodontal_disease|DS severity|NN damage|NN factor|NN management|NN 
+classification|NN periodontit|NN stage|NN factor|NN 
+amount|NN percentage|NN bone|NN loss|NN attachment|NN loss|NN depth|NN presence|NN defect|NN history|NN tooth|NN loss|NN periodontal_disease|DS tooth|NN due|NN trauma|NN 
+classification|NN grade|NN system|NN periodontal_disease|DS grade|NN 
+grade|NN progression|NN disease|NN evidence|NN bone|NN loss|NN year|NN grade|NN progression|NN 2mm|NN bone|NN loss|NN year|NN grade|NN c|NN progression|NN progression|NN risk|NN 2mm|NN bone|NN loss|NN year|NN 
+risk|NN factor|NN grade|NN person|NN 
+smoke|NN diabete|NN 
+hygiene|NN measure|NN periodontal_disease|DS 
+basis|NN person|NN toothbrush|NN bristle|NN help|NN growth|NN formation|NN plaque|NN 
+citation|NN brushe|NN space|NN teeth|NN clean|NN tooth|NN molar|NN quartercitation|NN mouthwash|NN mouthwash|NN combination|NN hygiene|NN attachment|NN loss|NN periodontal_disease|DS 
+citation|NN check-up|NN teeth|NN check-up|NN person|NN hygiene|NN method|NN level|NN attachment|NN teeth|NN sign|NN periodontal_disease|DS monitor|NN response|NN treatment|NN 
+dentist|NN instrument|NN teeth|NN gumline|NN plaque|NN gumline|NN 
+treatment|NN progress|NN periodontal_disease|DS 
+study|NN clean|NN plaque|NN level|NN month|NN 
+stabilization|NN person|NN state|NN person|NN hygiene|NN home|NN go|NN 
+hygiene|NN periodontal_disease|DS person|NN history|NN periodontal_disease|DS 
+citation|NN management|NN section|NN x-ray|NN film|NN teeth|NN quadrant|NN bone|NN loss|NN 
+line|NN bone|NN level|NN line|NN gingiva|NN mm|NN bone|NN person|NN periodontal_disease|DS 
+arrow|NN point|NN involvement|NN loss|NN bone|NN location|NN root|NN molar|NN branch|NN root|NN trunk|NN sign|NN periodontal_disease|DS 
+arrow|NN middle|NN bone|NN loss|NN tooth|NN tooth|NN mobility|NN 
+peach|NN oval|NN left|NN nature|NN periodontal_disease|DS incisor|NN 
+root|NN bone|NN location|NN mouth|NN plaque|NN calculus|NN accumulation|NN pool|NN salivacitation|NN anterior|NN 
+split|NN line|NN density|NN bone|NN region|NN bone|NN height|NN 
+cornerstone|NN treatment|NN hygiene|NN 
+brush|NN floss|NN 
+use|NN brush|NN space|NN teeth|NN 
+space|NN product|NN pick|NN bristle|NN manual|NN clean|NN 
+person|NN dexterity|NN problem|NN arthritis|DS hygiene|NN care|NN use|NN toothbrush|NN 
+person|NN periodontal_disease|DS disease|NN regimen|NN hygiene|NN maintenance|NN care|NN dentisthygienist|NN teeth|NN 
+removal|NN plaque|NN calculus|NN health|NN 
+step|NN treatment|NN periodontal_disease|DS clean|NN gumline|NN procedure|NN root|NN surface|NN instrumentation|NN rsy|NN disturbance|NN biofilm|NN gumline|NN procedure|NN use|NN curette|NN plaque|NN calculus|NN gumline|NN visit|NN anesthesia|NN 
+addition|NN root|NN surface|NN instrumentation|NN occlusion|NN bite|NN force|NN teeth|NN bone|NN support|NN 
+need|NN replacement|NN plaque-retentive|NN restoration|NN closure|NN contact|NN teeth|NN requirement|NN evaluation|NN 
+rsi|NN root|NN plane|NN rsy|NN calculus|NN scale|NN root|NN plane|NN calculus|NN dentine|NN surface|NN requiste|NN heal|NN 
+rsi|NN root|NN plane|NN 
+scale|NN root|NN plane|NN pocket|NN mm|NN dentist|NN hygienist|NN re-evaluation|NN week|NN scale|NN root|NN person|NN hygiene|NN inflammation|NN 
+analysis|NN index|NN presence|NN absence|NN inflammation|NN 
+reevaluation|NN therapy|NN chart|NN indication|NN success|NN treatment|NN course|NN treatment|NN 
+pocket|NN depth|NN mm|NN therapy|NN bleed|NN probe|NN disease|NN lead|NN bone|NN loss|NN time|NN 
+tooth|NN site|NN area|NN root|NN 
+therapy|NN sign|NN disease|NN activity|NN surgery|NN bone|NN loss|NN bone|NN 
+approache|NN treatment|NN periodontal_disease|DS flap|NN surgery|NN tissue|NN regeneration|NN bone|NN graft|NN 
+goal|NN surgery|NN access|NN calculus|NN removal|NN management|NN irregularity|NN disease|NN process|NN pocket|NN 
+study|NN periodontal_disease|DS case|NN breakdown|NN time|NN post-treatment|NN maintenance|NN regimen|NN tooth|NN loss|NN people|NN drug|NN delivery|NN 
+drug|NN periodontology|NN acceptance|NN popularity|NN drug|NN risk|NN development|NN flora|NN side|NN effect|NN analysis|NN tetracycline|NN improvement|NN local|NN application|NN statin|NN maintenance|NN 
+treatment|NN surgery|NN regimen|NN maintenance|NN 
+month|NN periodontal_disease|DS microorganism|NN monitor|NN teeth|NN treatment|NN disease|NN 
+periodontal_disease|DS plaque|NN control|NN brush|NN technique|NN recurrence|NN 
+alternative|NN periodontal_disease|DS treatment|NN solution|NN hydrogen|NN peroxide|NN pocket|NN applicator|NN irrigator|NN 
+process|NN micro-organism|NN colony|NN infection|NN inflammation|NN 
+number|NN product|NN hydrogen|NN peroxide|NN cost|NN 
+treatment|NN calculus|NN formation|NN colony|NN calculus|NN 
+therapy|NN scale|NN therapy|NN doxycycline|NN indicator|NN disease|NN progression|NN depth|NN attachment|NN level|NN mechanism|NN action|NN inhibition|NN matrix|NN collagenase|NN tissue|NN condition|NN microbe|NN dose|NN mg|NN 
+dentist|NN hygienist|NN measure|NN periodontal_disease|DS device|NN probe|NN 
+stick|NN space|NN gum|NN teeth|NN gumline|NN 
+probe|NN mm|NN gumline|NN person|NN pocket|NN migration|NN attachment|NN pocket|NN migration|NN 
+misnomer|NN depth|NN essence|NN pocket|NN turn|NN depth|NN pocket|NN pocket|NN 
+pocket|NN self-cleansable|NN home|NN person|NN toothbrush|NN mm|NN depth|NN 
+pocket|NN mm|NN tooth|NN care|NN pocket|NN care|NN 
+pocket|NN depth|NN reach|NN mm|NN 028|NN depth|NN hand|NN instrument|NN scaler|NN professional|NN pocket|NN plaque|NN inflammation|NN 
+situation|NN bone|NN gum|NN tooth|NN inflammation|NN result|NN bone|NN loss|NN tooth|NN 
+way|NN inflammation|NN person|NN antibiotics|NN form|NN surgery|NN depth|NN pocket|NN pocket|NN depth|NN mm|NN depth|NN person|NN home|NN toothbrush|NN 
+people|NN pocket|NN teeth|NN tooth|NN loss|NN year|NN 
+condition|NN people|NN nature|NN disease|NN year|NN teeth|NN infection|NN pain|ST 
+sri|NN tea|NN study|NN absence|NN hygiene|NN activity|NN periodontal_disease|DS loss|NN attachment|NN 
+loss|NN loss|NN epidemiology|NN article|NN epidemiology|NN periodontal_disease|DS life|NN year|NN periodontal_disease|DS inhabitant|NN data|NN 
+periodontal_disease|DS second|NN disease|NN decay|NN united|NN states|NN prevalence|NN 3050|NN population|NN form|NN 
+periodontal_disease|DS people|NN population|NN 
+condition|NN access|NN hygiene|NN monitor|NN care|NN periodontal_disease|DS population|NN region|NN 
+occurrence|NN standard|NN live|NN 
+population|NN individual|NN south|NN origin|NN prevalence|NN periodontal_disease|DS individual|NN descent|NN periodontal_disease|DS people|NN end|NN scale|NN people|NN end|NN scale|NN society|NN culture|NN 
+word|NN periodontal_disease|DS 
+pery|NN gen|NN tooth|NN suffix|NN terminology|NN inflammation|NN word|NN periodontal_disease|DS spell|NN pyorrhoia|NN 
+discharge|ST matter|NN discharge|ST rho|NN flow|NN suffix|NN english|NN term|NN greek|NN discharge|ST pus|NN disease|NN teeth|NN economics|NN 
+periodontal_disease|DS result|NN productivity|NN loss|NN size|NN animal|NN 
+periodontal_disease|DS disease|NN dog|NN dog|NN year|NN 
+prevalence|NN dog|NN increase|NN age|NN body|NN weight|NN toy|NN breed|NN 
+research|NN waltham|NN centre|NN pet|NN nutrition|NN bacteria|NN periodontal_disease|DS dog|NN human|NN disease|NN gum|NN blood|NN supply|NN 
+blood|NN stream|NN micro-organism|NN kidney|NN liver|NN 
+microorganism|NN blood|NN heart|NN valve|NN heart|NN valve|NN 
+disease|NN periodontal_disease|DS bronchitis|DS fibrosis|DS 

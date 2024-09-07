@@ -1,0 +1,197 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN lung_cancer|DS 
+lung|NN lung|NN tumor|NN 
+lung_cancer|DS name|NN lung_cancer|DS chest|NN x-ray|NN tumor|NN lung|NN arrow|NN oncology|NN symptom|NN blood|NN weight_loss|ST shortness|NN breath|NN chest_pain|ST onset|NN year|NN type|NN lung_cancer|DS sclc|NN lung_cancer|DS risk|NN factor|NN 
+tobacco|NN pollution|NN 
+method|NN image|NN tissue|NN biopsy|NN treatment|NN surgery|NN chemotherapy|NN radiotherapy|NN survival|NN rate|NN frequency|NN death|NN 
+lung_cancer|DS lung_cancer|DS lung|NN tumor|NN cell|NN growth|NN tissue|NN lung|NN growth|NN lung|NN process|NN metastasis|NN tissue|NN part|NN body|NN cancer|DS lung|NN lung_cancer|DS carcinoma|NN type|NN lung_cancer|DS lung_cancer|DS symptom|NN cough|ST blood|NN weight_loss|ST shortness|NN breath|NN chest_pain|ST 
+majority|NN case|NN lung_cancer|DS tobacco|NN smoke|NN 1015|NN case|NN people|NN case|NN combination|NN factor|NN exposure|NN radon|NN ga|NN asbesto|NN smoke|NN form|NN air|NN pollution|NN lung_cancer|DS chest|NN radiograph|NN tomography|NN ct|NN diagnosis|NN biopsy|NN bronchoscopy|NN ct-guidance|NN 
+avoidance|NN risk|NN factor|NN smoke|NN air|NN pollution|NN method|NN prevention|NN treatment|NN outcome|NN type|NN cancer|DS stage|NN degree|NN spread|NN person|NN health|NN case|NN treatment|NN surgery|NN chemotherapy|NN radiotherapy|NN nsclc|NN surgery|NN chemotherapy|NN radiotherapy|NN 
+lung_cancer|DS people|NN death|NN cause|NN death|NN men|NN second|NN women|NN breast_cancer|DS age|NN diagnosis|NN year|NN people|NN united|NN states|NN lung_cancer|DS year|NN diagnosis|NN outcome|NN average|NN world|NN content|NN 
+sign|NN symptom|NN cause|NN smoke|NN radon|NN ga|NN asbesto|NN air|NN pollution|NN genetics|NN cause|NN diagnosis|NN classification|NN prevention|NN smoke|NN ban|NN screen|NN prevention|NN strategy|NN management|NN surgery|NN radiotherapy|NN care|NN epidemiology|NN history|NN research|NN direction|NN reference|NN link|NN 
+sign|NN symptom|NN 
+sign|NN symptom|NN lung_cancer|DS 
+symptom|NN cough|ST blood|NN wheez|NN shortness|NN breath|NN symptom|NN weight_loss|ST weakness|ST fever|ST fingernail|NN symptom|NN cancer|DS mass|NN structure|NN chest_pain|ST bone|NN pain|ST obstruction|NN difficulty|NN 
+cancer|DS airway|NN airflow|NN breath|NN difficulty|NN 
+obstruction|NN accumulation|NN secretion|NN blockage|NN pneumonia|DS 
+type|NN tumor|NN phenomena|NN symptom|NN presence|NN cancer|DS attention|NN disease|NN lung_cancer|DS phenomena|NN syndrome|NN antidiuretic|NN hormone|NN urine|NN blood|NN acth|NN production|NN syndrome|NN muscle_weakness|ST autoantibody|NN 
+top|NN lung|NN tumor|NN part|NN system|NN syndrome|NN drop|NN eyelid|NN pupil|NN side|NN damage|NN plexus|NN 
+symptom|NN lung_cancer|DS appetite|NN weight_loss|ST fever|ST fatigue|ST people|NN cancer|DS site|NN time|NN symptom|NN attention|NN symptom|NN presence|NN disease|NN weight_loss|ST bone|NN pain|ST symptom|NN headache|ST convulsion|ST limb|NN weakness|ST site|NN spread|NN brain|NN bone|NN gland|NN lung|NN liver|NN kidney|NN people|NN lung_cancer|DS symptom|NN diagnosis|NN cancer|DS routine|NN chest|NN radiography|NN cause|NN relationship|NN cigarette|NN consumption|NN person|NN blue|NN male|NN lung_cancer|DS rate|NN yellow|NN century|NN 
+risk|NN death|NN lung_cancer|DS smoke|NN 
+cancer|DS damage|NN dna|NN change|NN 
+change|NN cell|NN function|NN cell|NN proliferation|NN cell|NN death|NN apoptosis|NN dna|NN repair|NN 
+damage|NN risk|NN cancer|DS increase|NN smoke|NN 
+tobacco|NN smoke|NN contributor|NN lung_cancer|DS cigarette|NN smoke|NN carcinogen|NN nnk|NN isotope|NN polonium|NN world|NN lung_cancer|DS death|NN men|NN women|NN year|NN smoke|NN smoke|NN account|NN lung_cancer|DS case|NN 
+smoke|NN inhalation|NN smoke|NN smoke|NN cause|NN lung_cancer|DS nonsmoker|NN 
+smoker|NN smoker|NN 
+study|NN europe|NN uk|NN risk|NN smoke|NN increase|NN risk|NN environment|NN smoke|NN increase|NN risk|NN investigation|NN smoke|NN smoke|NN smoke|NN result|NN lung_cancer|DS death|NN year|NN 
+smoke|NN carcinogen|NN tobacco|NN smoke|NN effect|NN smoke|NN cannabis|NN lung_cancer|DS risk|NN review|NN risk|NN light|NN use|NN review|NN smoke|NN cannabis|NN risk|NN lung_cancer|DS radon|NN ga|NN 
+radon|NN colorless|NN ga|NN breakdown|NN radium|NN turn|NN decay|NN product|NN uranium|NN crust|NN 
+radiation|NN decay|NN product|NN material|NN mutation|NN 
+radon|NN second|NN cause|NN lung_cancer|DS death|NN year|NN risk|NN increase|NN increase|NN radon|NN concentration|NN radon|NN ga|NN level|NN locality|NN composition|NN soil|NN rock|NN 
+home|NN radon|NN level|NN guideline|NN picocury|NN asbesto|NN 
+asbesto|NN variety|NN lung|NN disease|NN lung_cancer|DS 
+tobacco|NN smoke|NN asbesto|NN effect|NN development|NN lung_cancer|DS smoker|NN asbesto|NN risk|NN lung_cancer|DS population|NN asbesto|NN cancer|DS pleura|NN lung_cancer|DS air|NN pollution|NN 
+air|NN pollutant|NN chemical|NN burn|NN fossil|NN fuel|NN risk|NN lung_cancer|DS particulate|NN aerosol|NN traffic|NN exhaust|NN fume|NN risk|NN nitrogen|NN dioxide|NN increase|NN part|NN increase|NN risk|NN lung_cancer|DS air|NN pollution|NN cause|NN lung_cancer|DS 
+evidence|NN risk|NN lung_cancer|DS air|NN pollution|NN relation|NN burn|NN wood|NN charcoal|NN dung|NN crop|NN residue|NN cook|NN heate|NN women|NN coal|NN smoke|NN risk|NN by-product|NN biomass|NN carcinogen|NN risk|NN people|NN result|NN lung_cancer|DS death|NN genetics|NN 
+lung_cancer|DS factor|NN relative|NN people|NN lung_cancer|DS risk|NN due|NN combination|NN gene|NN chromosome|NN risk|NN lung_cancer|DS polymorphism|NN gene|NN acetylcholine|NN receptor|NN chrna3|NN risk|NN lung_cancer|DS gene|NN cause|NN 
+substance|NN occupation|NN exposure|NN lung_cancer|DS 
+agency|NN research|NN cancer|DS state|NN evidence|NN lung|NN 
+metal|NN aluminium|NN production|NN cadmium|NN cadmium|NN compound|NN compound|NN beryllium|NN beryllium|NN compound|NN iron|NN steel|NN found|NN nickel|NN compound|NN arsenic|NN arsenic|NN compound|NN hematite|NN mine|NN product|NN combustion|NN combustion|NN coal|NN emission|NN household|NN coal|NN burn|NN coal|NN gasification|NN pitch|NN coke|NN production|NN soot|NN diesel|NN engine|NN exhaust|NN radiation|NN x-ray|NN gamma|NN gase|NN methyl|NN ether|NN grade|NN ether|NN mustard|NN mixture|NN fume|NN paint|NN rubber|NN production|NN silica|NN dust|NN increase|NN risk|NN lung_cancer|DS people|NN sclerosis|NN 
+cancer|DS lung_cancer|DS activation|NN oncogene|NN inactivation|NN tumor|NN suppressor|NN gene|NN cause|NN mutation|NN gene|NN development|NN cancer|DS 
+mutation|NN k-ras|NN proto-oncogene|NN cause|NN lung|NN adenocarcinoma|NN lung_cancer|DS tyrosine|NN kinase|NN fusion|NN gene|NN 
+change|NN alteration|NN dna|NN methylation|NN histone|NN tail|NN modification|NN regulation|NN inactivation|NN tumor|NN suppressor|NN gene|NN cancer|DS cell|NN resistance|NN stress|NN condition|NN activity|NN system|NN tumor|NN 
+growth|NN factor|NN receptor|NN cell|NN proliferation|NN apoptosis|NN angiogenesis|NN tumor|NN invasion|NN mutation|NN amplification|NN egfr|NN lung_cancer|DS basis|NN treatment|NN 
+gene|NN lkb1|NN 
+cell|NN line|NN origin|NN mechanism|NN activation|NN stem|NN cell|NN 
+airway|NN stem|NN cell|NN lung_cancer|DS 
+airway|NN stem|NN cell|NN club|NN cell|NN cell|NN club|NN cell|NN protein|NN 
+lung_cancer|DS cell|NN line|NN cell|NN 
+metastasis|NN lung_cancer|DS transition|NN cell|NN type|NN 
+activation|NN pathway|NN mek-erk|NN diagnosis|NN ct|NN scan|NN tumor|NN lung|NN sarcoma|NN male|NN 
+chest|NN radiograph|NN step|NN person|NN symptom|NN lung_cancer|DS 
+mass|NN widen|NN spread|NN lymph|NN node|NN lung|NN collapse|NN consolidation|NN pneumonia|DS effusion|NN ct|NN image|NN information|NN type|NN extent|NN disease|NN 
+biopsy|NN tumor|NN 
+lung_cancer|DS nodule|NN chest|NN radiograph|NN 
+disease|NN appearance|NN cancer|DS granuloma|NN tuberculosis|DS lung_cancer|DS find|NN nodule|NN chest|NN radiograph|NN ct|NN scan|NN reason|NN diagnosis|NN lung_cancer|DS examination|NN tissue|NN context|NN feature|NN 
+practice|NN guideline|NN frequency|NN nodule|NN surveillance|NN ct|NN image|NN surveillance|NN people|NN radiation|NN classification|NN pie|NN chart|NN incidence|NN cell|NN lung_cancer|DS cell|NN carcinoma|NN right|NN fraction|NN smoker|NN non-smoker|NN type|NN incidence|NN lung_cancer|DS type|NN type|NN incidence|NN year|NN type|NN carcinoma|NN carcinoma|NN 
+lung_cancer|DS type|NN classification|NN management|NN outcome|NN disease|NN 
+lung_cancer|DS carcinoma|NN malignancy|NN cell|NN 
+lung_cancer|DS size|NN appearance|NN cell|NN histopathologist|NN microscope|NN 
+purpose|NN class|NN lung_cancer|DS lung_cancer|DS lung_cancer|DS micrograph|NN carcinoma|NN type|NN carcinoma|NN specimen|NN stain|NN 
+subtype|NN nsclc|NN adenocarcinoma|NN carcinoma|NN carcinoma|NN 
+lung_cancer|DS adenocarcinoma|NN lung|NN tissue|NN case|NN adenocarcinoma|NN smoke|NN adenocarcinoma|NN form|NN lung_cancer|DS people|NN cigarette|NN lifetime|NN smoke|NN history|NN subtype|NN adenocarcinoma|NN carcinoma|NN never-smoker|NN survival|NN 
+carcinoma|NN cause|NN lung_cancer|DS 
+cavity|NN cell|NN death|NN center|NN tumor|NN 
+lung_cancer|DS carcinoma|NN 
+cancer|DS cell|NN cytoplasm|NN nucley|NN nucleoly|NN lung_cancer|DS small-cel|NN lung_cancer|DS view|NN core|NN needle|NN biopsy|NN 
+cell|NN neurosecretory|NN granule|NN vesicle|NN hormone|NN tumor|NN syndrome|NN association|NN case|NN airway|NN bronchy|NN percent|NN disease|NN radiation|NN therapy|NN field|NN presentation|NN 
+subtype|NN cancer|DS combination|NN subtype|NN carcinoma|NN subtype|NN gland|NN carcinoma|NN carcinoma|NN napsin-a|NN immunostain|NN lung_cancer|DS type|NN carcinoma|NN small-cel|NN carcinoma|NN 
+lung|NN place|NN spread|NN tumor|NN part|NN body|NN 
+cancer|DS site|NN origin|NN example|NN breast_cancer|DS lung|NN breast_cancer|DS 
+characteristic|NN appearance|NN chest|NN radiograph|NN 
+lung_cancer|DS brain|NN bone|NN liver|NN gland|NN biopsy|NN source|NN presence|NN ttf-1|NN help|NN subtype|NN lung_cancer|DS 
+cell|NN cell|NN adhesion|NN molecule|NN stage|NN lung_cancer|DS stage|NN 
+lung_cancer|DS stage|NN assessment|NN degree|NN spread|NN cancer|DS source|NN factor|NN prognosis|NN treatment|NN lung_cancer|DS 
+evaluation|NN lung_cancer|DS stage|NN classification|NN tumor|NN node|NN metastasis|NN 
+size|NN tumor|NN lymph|NN node|NN involvement|NN metastasis|NN classification|NN lung_cancer|DS t|NN tumor|NN tumor|NN cell|NN sputum|ST wash|NN tumor|NN image|NN bronchoscopy|NN evidence|NN tumor|NN carcinoma|NN size|NN cm|NN lung|NN pleura|NN invasion|NN bronchus|NN adenocarcinoma|NN size|NN cm|NN size|NN cm|NN cm|NN size|NN cm|NN cm|NN size|NN cm|NN cm|NN involvement|NN bronchus|NN invasion|NN pleura|NN atelectasisobstructive|NN hilum|NN size|NN cm|NN cm|NN size|NN cm|NN cm|NN size|NN cm|NN cm|NN invasion|NN chest|NN wall|NN nerve|NN tumor|NN nodule|NN lobe|NN size|NN cm|NN invasion|NN diaphragm|NN heart|NN vessel|NN trachea|NN nerve|NN body|NN tumor|NN nodule|NN lobe|NN lung|NN 
+n|NN node|NN lymph|NN node|NN lymph|NN node|NN metastasis|NN metastasis|NN peribronchial|NN lymph|NN node|NN metastasis|NN station|NN metastasis|NN station|NN mediastinal|NN lymph|NN node|NN metastasis|NN station|NN involvement|NN node|NN metastasis|NN station|NN station|NN metastasis|NN station|NN scalene|NN lymph|NN node|NN contralateral|NN lymph|NN node|NN 
+m|NN metastasis|NN metastasis|NN tumor|NN nodule|NN lung|NN nodule|NN effusion|NN metastasis|NN chest|NN metastase|NN chest|NN 
+descriptor|NN group|NN occult|NN cancer|DS stage|NN ia|NN ib|NN iia|NN iib|NN iiib|NN 
+stage|NN group|NN choice|NN treatment|NN estimation|NN prognosis|NN stage|NN group|NN classification|NN lung_cancer|DS stage|NN group|NN ia|NN t2a|NN ib|NN iia|NN t2b|NN iib|NN 
+stage|NN chest|NN scope|NN radiotherapy|NN field|NN stage|NN disease|NN classification|NN group|NN prognosis|NN 
+nsclc|NN type|NN stage|NN evaluation|NN stage|NN stage|NN 
+stage|NN surgery|NN 
+result|NN image|NN study|NN ct|NN scan|NN pet|NN scan|NN biopsy|NN result|NN 
+stage|NN operation|NN 
+result|NN find|NN sample|NN lymph|NN node|NN 
+diagram|NN feature|NN stage|NN 
+stage|NN ia|NN ib|NN lung_cancer|DS 
+stage|NN iia|NN lung_cancer|DS 
+stage|NN iib|NN lung_cancer|DS 
+option|NN stage|NN iib|NN lung_cancer|DS t2b|NN tumor|NN cm|NN carina|NN stage|NN 
+stage|NN iiia|NN lung_cancer|DS 
+stage|NN iiia|NN lung_cancer|DS feature|NN list|NN side|NN 
+stage|NN iiia|NN lung_cancer|DS 
+stage|NN iiib|NN lung_cancer|DS 
+stage|NN iiib|NN lung_cancer|DS 
+stage|NN lung_cancer|DS 
+prevention|NN cross|NN section|NN lung|NN area|NN lobe|NN cancer|DS area|NN discoloration|NN smoke|NN 
+smoke|NN prevention|NN smoke|NN cessation|NN way|NN development|NN lung_cancer|DS smoke|NN ban|NN ban|NN 
+country|NN carcinogen|NN tobacco|NN smoke|NN 
+tobacco|NN smoke|NN goal|NN prevention|NN lung_cancer|DS smoke|NN cessation|NN tool|NN process|NN 
+policy|NN intervention|NN smoke|NN area|NN restaurant|NN workplace|NN country|NN bhutan|NN smoke|NN ban|NN india|NN ban|NN smoke|NN public|NN october|NN world|NN health|NN organization|NN government|NN ban|NN tobacco|NN advertise|NN people|NN smoke|NN 
+ban|NN tobacco|NN consumption|NN screen|NN article|NN lung_cancer|DS screen|NN 
+cancer|DS screen|NN test|NN disease|NN group|NN people|NN symptom|NN individual|NN risk|NN lung_cancer|DS tomography|NN ct|NN screen|NN cancer|DS person|NN option|NN way|NN life|NN form|NN screen|NN chance|NN death|NN lung_cancer|DS amount|NN amount|NN risk|NN people|NN age|NN amount|NN pack|NN cigarette|NN year|NN time|NN year|NN 
+ct|NN screen|NN rate|NN test|NN treatment|NN scan|NN positive|NN scan|NN concern|NN radiation|NN exposure|NN cost|NN follow|NN research|NN testssputum|NN cytology|NN chest|NN radiograph|NN screen|NN teststo|NN benefit|NN 
+united|NN states|NN service|NN task|NN force|NN screen|NN tomography|NN smoke|NN history|NN year|NN person|NN year|NN screen|NN health|NN problem|NN treatment|NN lung_cancer|DS option|NN health|NN service|NN 2014|NN evidence|NN screen|NN prevention|NN strategy|NN 
+use|NN vitamin|NN vitamin|NN c|NN vitamin|NN d|NN vitamin|NN e|NN risk|NN lung_cancer|DS 
+study|NN vitamin|NN risk|NN lung_cancer|DS history|NN smoke|NN 
+study|NN people|NN diet|NN proportion|NN vegetable|NN fruit|NN risk|NN risk|NN association|NN fruit|NN vegetable|NN diet|NN smoke|NN study|NN association|NN diet|NN lung_cancer|DS risk|NN meta-analysis|NN account|NN smoke|NN status|NN benefit|NN diet|NN management|NN article|NN treatment|NN lung_cancer|DS 
+treatment|NN lung_cancer|DS cancer|DS cell|NN type|NN person|NN performance|NN status|NN 
+treatment|NN care|NN surgery|NN chemotherapy|NN radiation|NN therapy|NN therapy|NN lung_cancer|DS importance|NN lung_cancer|DS 
+surgery|NN article|NN lung_cancer|DS surgery|NN specimen|NN carcinoma|NN area|NN bronchy|NN 
+investigation|NN stage|NN disease|NN surgery|NN point|NN 
+ct|NN scan|NN positron|NN emission|NN tomography|NN determination|NN lymph|NN node|NN involvement|NN node|NN stage|NN 
+technique|NN needle|NN aspiration|NN needle|NN aspiration|NN ultrasound|NN ultrasound|NN needle|NN aspiration|NN blood|NN test|NN function|NN test|NN person|NN surgery|NN function|NN test|NN reserve|NN surgery|NN 
+case|NN removal|NN lobe|NN lung|NN lobectomy|NN treatment|NN choice|NN 
+people|NN lobectomy|NN sublobar|NN excision|NN wedge|NN resection|NN 
+wedge|NN resection|NN risk|NN recurrence|NN 
+iodine|NN margin|NN wedge|NN excision|NN risk|NN recurrence|NN 
+removal|NN lung|NN pneumonectomy|NN surgery|NN approach|NN lung_cancer|DS surgery|NN lobectomy|NN lobectomy|NN illness|NN 
+chemotherapy|NN radiotherapy|NN role|NN surgery|NN sclc|NN 
+surgery|NN outcome|NN chemotherapy|NN radiation|NN stage|NN radiotherapy|NN 
+radiotherapy|NN chemotherapy|NN intent|NN people|NN nsclc|NN surgery|NN 
+form|NN radiotherapy|NN radiotherapy|NN refinement|NN technique|NN radiotherapy|NN chart|NN dose|NN radiotherapy|NN time|NN period|NN radiotherapy|NN surgery|NN people|NN lymph|NN node|NN involvement|NN radiotherapy|NN 
+sclc|NN case|NN chest|NN radiotherapy|NN addition|NN chemotherapy|NN radiotherapy|NN lung_cancer|DS airway|NN 
+cancer|DS growth|NN section|NN radiotherapy|NN airway|NN passage|NN 
+beam|NN radiotherapy|NN reduction|NN treatment|NN time|NN radiation|NN exposure|NN healthcare|NN staff|NN evidence|NN beam|NN radiotherapy|NN 
+irradiation|NN pci|NN type|NN radiotherapy|NN brain|NN risk|NN metastasis|NN 
+disease|NN pci|NN survival|NN disease|NN survival|NN increase|NN 
+improvement|NN target|NN image|NN development|NN radiation|NN treatment|NN lung_cancer|DS 
+form|NN radiotherapy|NN dose|NN number|NN session|NN target|NN technique|NN 
+use|NN patient|NN candidate|NN comorbidity|NN 
+nsclc|NN sclc|NN patient|NN dose|NN radiation|NN chest|NN symptom|NN control|NN radiotherapy|NN 
+chemotherapy|NN regimen|NN tumor|NN type|NN stage|NN disease|NN chemotherapy|NN radiation|NN cisplatin|NN combination|NN gemcitabine|NN vinorelbine|NN chemotherapy|NN survival|NN treatment|NN person|NN treatment|NN drug|NN cisplatin|NN carboplatin|NN 
+drug|NN pemetrex|NN drug|NN combination|NN platinum|NN therapy|NN risk|NN effect|NN people|NN year|NN 
+chemotherapy|NN use|NN chemotherapy|NN surgery|NN outcome|NN 
+sample|NN lymph|NN node|NN surgery|NN stage|NN 
+stage|NN disease|NN chemotherapy|NN radiotherapy|NN survival|NN year|NN combination|NN vinorelbine|NN cisplatin|NN regimen|NN chemotherapy|NN people|NN stage|NN ib|NN cancer|DS trial|NN survival|NN benefit|NN surgery|NN nsclc|NN outcome|NN 
+care|NN treatment|NN nsclc|NN 
+case|NN chemotherapy|NN survival|NN care|NN quality|NN life|NN fitness|NN chemotherapy|NN lung_cancer|DS palliation|NN month|NN prolongation|NN survival|NN relief|NN improvement|NN quality|NN life|NN result|NN agent|NN nsclc|NN group|NN recipient|NN treatment|NN chemotherapy|NN nsclc|NN 
+drug|NN target|NN pathway|NN lung_cancer|DS treatment|NN disease|NN 
+gefitinib|NN inhibit|NN tyrosine|NN kinase|NN growth|NN factor|NN receptor|NN 
+antibody|NN receptor|NN activator|NN factor|NN ligand|NN 
+treatment|NN bone|NN metastase|NN 
+sclc|NN nsclc|NN 
+treatment|NN bronchoscopy|NN management|NN airway|NN obstruction|NN 
+airway|NN cancer|DS growth|NN option|NN bronchoscopy|NN balloon|NN stent|NN laser|NN photosection|NN delivery|NN laser|NN light|NN airway|NN bronchoscope|NN tumor|NN care|NN 
+care|NN cancer|DS care|NN benefit|NN people|NN chemotherapy|NN approache|NN discussion|NN treatment|NN option|NN opportunity|NN decision|NN care|NN care|NN end|NN life|NN course|NN illness|NN 
+individual|NN disease|NN hospice|NN care|NN outcome|NN lung_cancer|DS stage|NN stage|NN survival|NN lung_cancer|DS small-cel|NN lung_cancer|DS ia|NN ib|NN iia|NN iib|NN 
+people|NN lung_cancer|DS year|NN diagnosis|NN england|NN wales|NN survival|NN lung_cancer|DS outcome|NN world|NN stage|NN time|NN diagnosis|NN 
+presentation|NN 3040|NN case|NN nsclc|NN stage|NN stage|NN survival|NN lung_cancer|DS fall|NN stage|NN diagnosis|NN data|NN patient|NN year|NN stage|NN fall|NN disease|NN stage|NN 
+factor|NN nsclc|NN presence|NN symptom|NN tumor|NN size|NN cm|NN cell|NN type|NN histology|NN degree|NN spread|NN stage|NN metastase|NN lymph|NN node|NN invasion|NN 
+people|NN disease|NN outcome|NN performance|NN status|NN weight_loss|ST prognostic|NN factor|NN cell|NN lung_cancer|DS performance|NN status|NN sex|NN stage|NN disease|NN involvement|NN system|NN liver|NN time|NN diagnosis|NN 
+prognosis|NN resection|NN stage|NN ia|NN disease|NN survival|NN people|NN sclc|NN survival|NN rate|NN 
+survival|NN time|NN disease|NN month|NN survival|NN rate|NN 
+data|NN cancer|DS institute|NN age|NN diagnosis|NN lung_cancer|DS year|NN age|NN death|NN year|NN people|NN insurance|NN outcome|NN epidemiology|NN trachea|NN lung_cancer|DS death|NN person|NN 2012|NN 3353|NN 287398|NN lung_cancer|DS distribution|NN male|NN united|NN states|NN lung_cancer|DS incidence|NN mortality|NN survival|NN england|NN 19712011|NN 
+lung_cancer|DS cancer|DS men|NN term|NN incidence|NN mortality|NN women|NN incidence|NN second|NN breast_cancer|DS mortality|NN 
+case|NN death|NN lung_cancer|DS death|NN cancer|DS rate|NN north|NN america|NN europe|NN east|NN asia|NN case|NN china|NN year|NN 
+rate|NN africa|NN south|NN asia|NN 
+population|NN segment|NN lung_cancer|DS people|NN history|NN smoke|NN 
+mortality|NN rate|NN men|NN year|NN lung_cancer|DS mortality|NN rate|NN decade|NN lifetime|NN risk|NN lung_cancer|DS men|NN women|NN 
+cigarette|NN lung_cancer|DS death|NN influence|NN tobacco|NN role|NN nonsmoker|NN tobacco|NN advertisement|NN role|NN smoke|NN risk|NN factor|NN lung_cancer|DS policy|NN intervention|NN exposure|NN nonsmoker|NN tobacco|NN smoke|NN 
+men|NN women|NN incidence|NN lung_cancer|DS rate|NN country|NN smoke|NN country|NN rate|NN year|NN china|NN india|NN 
+veteran|NN rate|NN lung_cancer|DS rate|NN smoke|NN world|NN war|NN war|NN asbesto|NN role|NN agent|NN orange|NN problem|NN vietnam|NN war|NN 
+lung_cancer|DS most-common|NN cancer|DS uk|NN people|NN disease|NN 2014|NN cause|NN death|NN people|NN 
+rate|NN lung|NN adenocarcinoma|NN relation|NN kind|NN lung_cancer|DS introduction|NN filter|NN cigarette|NN 
+use|NN filter|NN particle|NN tobacco|NN smoke|NN deposition|NN airway|NN 
+smoker|NN amount|NN nicotine|NN particle|NN deposition|NN airway|NN adenocarcinoma|NN incidence|NN lung|NN adenocarcinoma|NN history|NN lung_cancer|DS 
+lung_cancer|DS advent|NN cigarette|NN smoke|NN disease|NN aspect|NN lung_cancer|DS lung_cancer|DS autopsy|NN case|NN report|NN literature|NN review|NN autopsy|NN incidence|NN lung_cancer|DS germany|NN physician|NN fritz|NN lickint|NN link|NN smoke|NN lung_cancer|DS antismoke|NN campaign|NN doctor|NN study|NN evidence|NN link|NN lung_cancer|DS smoke|NN result|NN surgeon|NN general|NN united|NN states|NN smoker|NN smoke|NN 
+connection|NN radon|NN ga|NN miner|NN ore|NN mountain|NN schneeberg|NN saxony|NN 
+silver|NN mine|NN uranium|NN radium|NN radon|NN ga|NN miner|NN amount|NN lung|NN disease|NN lung_cancer|DS discovery|NN mine|NN demand|NN uranium|NN radon|NN cause|NN lung_cancer|DS 
+pneumonectomy|NN lung_cancer|DS radiotherapy|NN radiotherapy|NN attempt|NN radiation|NN dose|NN patient|NN lung_cancer|DS surgery|NN chart|NN improvement|NN radiotherapy|NN attempt|NN resection|NN radiotherapy|NN 
+chemotherapy|NN regimen|NN research|NN direction|NN 
+research|NN direction|NN lung_cancer|DS treatment|NN system|NN tumor|NN cell|NN combination|NN chemotherapy|NN radiotherapy|NN 
+treatment|NN work|NN checkpoint|NN blockade|NN cancer|DS ability|NN system|NN 
+block|NN receptor|NN t|NN cell|NN ctla-4|NN system|NN 
+food|NN drug|NN administration|NN fda|NN treatment|NN melanoma|NN trial|NN nsclc|NN sclc|NN 
+immunotherapy|NN treatment|NN bind|NN cell|NN death|NN protein|NN ligand|NN ligand|NN treatment|NN subset|NN lung_cancer|DS signal|NN inactivate|NN cell|NN 
+cancer|DS cell|NN order|NN switch|NN t|NN cell|NN threat|NN 
+antibody|NN nivolumab|NN trial|NN treatment|NN lung_cancer|DS 
+study|NN modificationsor|NN bind|NN dna|NN gene|NN expression|NN level|NN 
+tag|NN drug|NN cancer|DS cell|NN 
+research|NN nsclc|NN drug|NN modification|NN block|NN tag|NN cancer|DS cell|NN side|NN effect|NN study|NN patient|NN drug|NN treatment|NN effectiveness|NN 
+trial|NN drug|NN lung_cancer|DS cell|NN human|NN drug|NN target|NN mechanism|NN development|NN 
+inhibitor|NN development|NN acid|NN panobinostat|NN 
+dna|NN methyltransferase|NN inhibitor|NN development|NN azacytidine|NN hydralazine|NN 
+project|NN treatment|NN project|NN tumor|NN sample|NN nsclc|NN patient|NN stage|NN diagnosis|NN treatment|NN relapse|NN sample|NN point|NN tumor|NN development|NN researcher|NN change|NN tumor|NN growth|NN resistance|NN treatment|NN 
+result|NN project|NN scientist|NN doctor|NN understand|NN nsclc|NN development|NN treatment|NN disease|NN 
+lung_cancer|DS case|NN resistance|NN growth|NN factor|NN receptor|NN lymphoma|DS kinase|NN tyrosine|NN kinase|NN inhibitor|NN drug|NN development|NN 
+egfr|NN inhibitor|NN 
+alternative|NN pathway|NN tivantinib|NN onartuzumab|NN 
+alk|NN inhibitor|NN pathway|NN kinase|NN inhibitor|NN inhibitor|NN 
+lung_cancer|DS stem|NN cell|NN chemotherapy|NN radiotherapy|NN 
+approache|NN target|NN protein|NN glycoprotein|NN marker|NN stem|NN cell|NN 
+marker|NN aldh1a1|NN 
+pathway|NN hedgehog|NN self-renewal|NN stem|NN cell|NN line|NN 
+treatment|NN pathway|NN relapse|NN 

@@ -1,0 +1,182 @@
+Sunburn
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For other uses, see Sunburn (disambiguation).
+Sunburn
+Sunburnt woman.jpeg
+A sunburned back that was partially protected by a bathing suit top.
+Specialty	Dermatology
+
+Sunburn is a form of radiation burn that affects living tissue, such as skin, that results from an overexposure to ultraviolet (UV) radiation, commonly from the sun. Common symptoms in humans and other animals include red or reddish skin that is hot to the touch, pain, general fatigue, and mild dizziness. An excess of UV radiation can be life-threatening in extreme cases. Excessive UV radiation is the leading cause of primarily non-malignant skin tumors.[1][2]
+
+Sunburn is an inflammatory response in the skin triggered by direct DNA damage by UV radiation. When the skin cells' DNA is overly damaged by UV radiation, type I cell-death is triggered and the skin is replaced.[3]
+
+Sun protective measures including sunscreen and sun protective clothing are widely accepted to prevent sunburn and some types of skin cancer. Special populations including children are especially susceptible to sunburn and protective measures should be used.
+Contents
+
+    1 Signs and symptoms
+        1.1 Variations
+        1.2 Duration
+        1.3 Skin cancer
+    2 Causes
+        2.1 Medications
+        2.2 UV intensity
+        2.3 Ozone depletion
+        2.4 Tanning
+    3 Diagnosis
+        3.1 Differential diagnosis
+    4 Prevention
+        4.1 UV intensity
+        4.2 Sunscreen
+        4.3 Eyes
+        4.4 Diet
+        4.5 Protecting children
+        4.6 Artificial UV exposure
+    5 Treatment
+    6 References
+    7 External links
+
+Signs and symptoms
+Blisters on a shoulder caused by sunburn.
+
+Typically, there is initial redness, followed by varying degrees of pain, proportional in severity to both the duration and intensity of exposure.
+
+Other symptoms can include blistering, swelling (edema), pruritus (itching), peeling skin, rash, nausea, fever, chills, and fainting (syncope). Also, a small amount of heat is given off from the burn, caused by the concentration of blood in the healing process, giving a warm feeling to the affected area. Sunburns may be classified as superficial, or partial thickness burns. Blistering is a sign of second degree sunburn.[4]
+Variations
+
+Minor sunburns typically cause nothing more than slight redness and tenderness to the affected areas. In more serious cases, blistering can occur. Extreme sunburns can be painful to the point of debilitation and may require hospital care.
+Duration
+
+Sunburn can occur in less than 15 minutes, and in seconds when exposed to non-shielded welding arcs or other sources of intense ultraviolet light. Nevertheless, the inflicted harm is often not immediately obvious.
+
+After the exposure, skin may turn red in as little as 30 minutes but most often takes 2 to 6 hours. Pain is usually strongest 6 to 48 hours after exposure. The burn continues to develop for 1 to 3 days, occasionally followed by peeling skin in 3 to 8 days. Some peeling and itching may continue for several weeks.
+Skin cancer
+
+Ultraviolet radiation causes sunburns and increases the risk of three types of skin cancer: melanoma, basal-cell carcinoma and squamous-cell carcinoma.[1][2][5] Of greatest concern is that the melanoma risk increases in a dose-dependent manner with the number of a person's lifetime cumulative episodes of sunburn.[6] It has been estimated that over 1/3 of melanomas in the United States and Australia could be prevented with regular sunscreen use.[7]
+Causes
+The cause of sunburn is the direct damage that a UVB photon can induce in DNA (left). One of the possible reactions from the excited state is the formation of a thymine-thymine cyclobutane dimer (right).
+
+Sunburn is caused by UV radiation, either from the sun or from artificial sources, such as tanning lamps, welding arcs, or ultraviolet germicidal irradiation. It is a reaction of the body to direct DNA damage from UVB light. This damage is mainly the formation of a thymine dimer. The damage is recognized by the body, which then triggers several defense mechanisms, including DNA repair to revert the damage, apoptosis and peeling to remove irreparably damaged skin cells, and increased melanin production to prevent future damage. Melanin readily absorbs UV wavelength light, acting as a photoprotectant. By preventing UV photons from disrupting chemical bonds, melanin inhibits both the direct alteration of DNA and the generation of free radicals, thus indirect DNA damage.
+
+Sunburn causes an inflammation process, including production of prostanoids and bradykinin. These chemical compounds increase sensitivity to heat by reducing the threshold of heat receptor (TRPV1) activation from 109 °F (43 °C) to 85 °F (29 °C).[8] The pain may be caused by overproduction of a protein called CXCL5, which activates nerve fibres.[9]
+
+Skin type determines the ease of sunburn. In general, people with lighter skin tone and limited capacity to develop a tan after UV radiation exposure have a greater risk of sunburn. The Fitzpatrick's Skin phototypes classification describes the normal variations of skin responses to UV radiation. Persons with type I skin have the greatest capacity to sunburn and type VI have the least capacity to burn. However, all skin types can develop sunburn.[10]
+
+Fitzpatrick's skin phototypes:
+
+    Type I: Pale white skin, burns easily, does not tan
+    Type II: White skin, burns easily, tans with difficulty
+    Type III: White skin, may burn but tans easily
+    Type IV: Light brown/olive skin, hardly burns, tans easily
+    Type V: Brown skin, usually does not burn, tans easily
+    Type VI: Black skin, very unlikely to burn, becomes darker with UV radiation exposure[11]
+
+Age also affects how skin reacts to sun. Children younger than six and adults older than sixty are more sensitive to sunlight.[12]
+
+There are certain genetic conditions, for example xeroderma pigmentosum, that increase a person's susceptibility to sunburn and subsequent skin cancers. These conditions involve defects in DNA repair mechanisms which in turn decreases the ability to repair DNA that has been damaged by UV radiation.[13]
+Medications
+
+The risk of a sunburn can be increased by pharmaceutical products that sensitize users to UV radiation. Certain antibiotics, oral contraceptives, and tranquillizers have this effect.[14]
+UV intensity
+
+The UV Index indicates the risk of getting a sunburn at a given time and location. Contributing factors include:[12]
+
+    The time of day. In most locations, the sun's rays are strongest between approximately 10am and 4pm daylight saving time.[15]
+    Cloud cover. UV is partially blocked by clouds; but even on an overcast day, a significant percentage of the sun's damaging UV radiation can pass through clouds.[16][17]
+    Proximity to reflective surfaces, such as water, sand, concrete, snow, and ice. All of these reflect the sun's rays and can cause sunburns.
+    The season of the year. The position of the sun in late spring and early summer can cause a more-severe sunburn.
+    Altitude. At a higher altitude it is easier to become burnt, because there is less of the earth's atmosphere to block the sunlight. UV exposure increases about 4% for every 1000 ft (305 m) gain in elevation.
+    Proximity to the equator (latitude). Between the polar and tropical regions, the closer to the equator, the more direct sunlight passes through the atmosphere over the course of a year. For example, the southern United States gets fifty percent more sunlight than the northern United States.
+
+Erythemal dose rate at three Northern latitudes. (Divide by 25 to obtain the UV Index.) Source: NOAA.
+
+Because of variations in the intensity of UV radiation passing through the atmosphere, the risk of sunburn increases with proximity to the tropic latitudes, located between 23.5° north and south latitude. All else being equal (e.g., cloud cover, ozone layer, terrain, etc.), over the course of a full year, each location within the tropic or polar regions receives approximately the same amount of UV radiation. In the temperate zones between 23.5° and 66.5°, UV radiation varies substantially by latitude and season. The higher the latitude, the lower the intensity of the UV rays. Intensity in the northern hemisphere is greatest during the months of May, June and July — and in the southern hemisphere, November, December and January. On a minute-by-minute basis, the amount of UV radiation is dependent on the angle of the sun. This is easily determined by the height ratio of any object to the size of its shadow. The greatest risk is at solar noon, when shadows are at their minimum and the sun's radiation passes most directly through the atmosphere. Regardless of one's latitude (assuming no other variables), equal shadow lengths mean equal amounts of UV radiation.
+
+The skin and eyes are most sensitive to damage by UV at 265–275 nm wavelength, which is in the lower UVC band that is almost never encountered except from artificial sources like welding arcs. Most sunburn is caused by longer wavelengths, simply because those are more prevalent in sunlight at ground level.
+Ozone depletion
+
+In recent decades, the incidence and severity of sunburn has increased worldwide, partly because of chemical damage to the atmosphere's ozone layer. Between the 1970s and the 2000s, average stratospheric ozone decreased by approximately 4%, contributing an approximate 4% increase to the average UV intensity at the earth's surface. Ozone depletion and the seasonal "ozone hole" have led to much larger changes in some locations, especially in the southern hemisphere.[18]
+Tanning
+
+Suntans, which naturally develop in some individuals as a protective mechanism against the sun, are viewed by most in the Western world as desirable.[19] This has led to an overall increase in exposure to UV radiation from both the natural sun and tanning lamps. Suntans can provide a modest sun protection factor (SPF) of 3, meaning that tanned skin would tolerate up to three times the UV exposure as pale skin.[20]
+
+Sunburns associated with indoor tanning can be severe.[21]
+
+The World Health Organization, American Academy of Dermatology, and the Skin Cancer Foundation recommend avoiding artificial UV sources such as tanning beds, and do not recommend suntans as a form of sun protection. [22][23][24]
+Diagnosis
+Differential diagnosis
+
+The differential diagnosis of sunburn includes other skin pathology induced by UV radiation including photoallergic reactions, phototoxic reactions to topical or systemic medications, and other dermatologic disorders that are aggravated by exposure to sunlight. Considerations for diagnosis include duration and intensity of UV exposure, use of topical or systemic medications, history of dermatologic disease, and nutritional status.
+
+    Phototoxic reactions: Non-immunological response to sunlight interacting with certain drugs and chemicals in the skin which resembles an exaggerated sunburn. Common drugs that may cause a phototoxic reaction include amiodarone, dacarbazine, fluoroquinolones, 5-fluorouracil, furosemide, nalidixic acid, phenothiazines, psoralens, retinoids, sulfonamides, sulfonylureas, tetracyclines, thiazides, and vinblastine.[25]
+    Photoallergic reactions: Uncommon immunological response to sunlight interacting with certain drugs and chemicals in the skin. When in excited state by UVR, these drugs and chemicals form free radicals that react to form functional antigens and induce a Type IV hypersensitivity reaction. These drugs include 6-methylcoumarin, aminobenzoic acid and esters, chlorpromazine, promethazine, diclofenac, sulfonamides, and sulfonylureas. Unlike phototoxic reactions which resemble exaggerated sunburns, photoallergic reactions can cause intense itching and can lead to thickening of the skin.[25]
+    Phytophotodermatitis: UV radiation induces inflammation of the skin after contact with certain plants (including limes, celery, and meadow grass). Causes pain, redness, and blistering of the skin in the distribution of plant exposure.[10]
+    Polymorphic light eruption: Recurrent abnormal reaction to UVR. It can present in various ways including pink-to-red bumps, blisters, plaques and urticaria. [10]
+    Solar urticaria: UVR-induced wheals that occurs within minutes of exposure and fades within hours. [10]
+    Other skin diseases exacerbated by sunlight: Several dermatologic conditions can increase in severity with exposure to UVR. These include systemic lupus erythematosus (SLE), dermatomyositis, acne, atopic dermatitis, and rosacea.[10]
+
+Additionally, since sunburn is a type of radiation burn,[26][27] it can initially hide a severe exposure to radioactivity resulting in acute radiation syndrome or other radiation-induced illnesses, especially if the exposure occurred under sunny conditions. For instance, the difference between the erythema caused by sunburn and other radiation burns is not immediately obvious. Symptoms common to heat illness and the prodromic stage of acute radiation syndrome like nausea, vomiting, fever, weakness/fatigue, dizziness or seizure[28] can add to further diagnostic confusion.
+Prevention
+Sunburn effect (as measured by the UV Index) is the product of the sunlight spectrum at the earth's surface (radiation intensity) and the erythemal action spectrum (skin sensitivity). Long-wavelength UV is more prevalent, but each milliwatt at 295 nm produces almost 100 times more sunburn than at 315 nm.
+Sunburn peeling. The destruction of lower layers of the epidermis causes rapid loss of the top layers.
+
+The most effective way to prevent sunburn is to reduce the amount of UV radiation reaching the skin. The World Health Organization, American Academy of Dermatology, and Skin Cancer Foundation recommend the following measures to prevent excessive UV exposure and skin cancer[29][30][31]:
+
+    Limit sun exposure between the hours of 10am and 4pm, when UV rays are the strongest
+    Seek shade when UV rays are most intense
+    Wear sun-protective clothing including a wide brim hat, sunglasses, and tightly-woven, loose-fitting clothing
+    Use sunscreen
+    Avoid tanning beds and artificial UV exposure
+
+UV intensity
+
+The strength of sunlight is published in many locations as a UV Index. Sunlight is generally strongest when the sun is close to the highest point in the sky. Due to time zones and daylight saving time, this is not necessarily at 12 noon, but often one to two hours later. Seeking shade including using umbrellas and canopies can reduce the amount of UV exposure, but does not block all UV rays. The WHO recommends following the shadow rule: "Watch your shadow – Short shadow, seek shade!"[32]
+Sunscreen
+
+Commercial preparations are available that block UV light, known as sunscreens or sunblocks. They have a sun protection factor (SPF) rating, based on the sunblock's ability to suppress sunburn: The higher the SPF rating, the lower the amount of direct DNA damage. The stated protection factors are correct only if 2 mg of sunscreen is applied per square cm of exposed skin. This translates into about 28 mL (1 oz)[failed verification] to cover the whole body of an adult male, which is much more than many people use in practice.[33] Sunscreens function as chemicals such as oxybenzone and dioxybenzone that absorb UV radiation (chemical sunscreens) or opaque materials such as zinc oxide or titanium oxide to physically block UV radiation (physical sunscreens)[34]. Chemical and mineral sunscreens vary in the wavelengths of UV radiation blocked. Broad-spectrum sunscreens contain filters that protect against UVA radiation as well as UVB. Although UVA radiation does not primarily cause sunburn, it does contribute to skin aging and an increased risk of skin cancer.
+
+Sunscreen is effective and thus recommended for preventing melanoma[35] and squamous cell carcinoma.[36] There is little evidence that it is effective in preventing basal cell carcinoma.[37] Typical use of sunscreen does not usually result in vitamin D deficiency, but extensive usage may.[38]
+Recommendations
+
+Research has shown that the best sunscreen protection is achieved by application 15 to 30 minutes before exposure, followed by one reapplication 15 to 30 minutes after exposure begins. Further reapplication is necessary only after activities such as swimming, sweating, and rubbing.[39] This varies based on the indications and protection shown on the label — from as little as 80 minutes in water to a few hours, depending on the product selected. The American Academy of Dermatology recommends the following criteria in selecting a sunscreen:[40]
+
+    Broad spectrum: protects against both UVA and UVB rays
+    SPF 30 or higher
+    Water resistant: sunscreens are classified as water resistant based on time, either 40 minutes, 80 minutes, or not water resistant
+
+Eyes
+
+The eyes are also sensitive to sun exposure at about the same UV wavelengths as skin; snow blindness is essentially sunburn of the cornea. Wrap-around sunglasses or the use by spectacle-wearers of glasses that block UV light reduce the harmful radiation. UV light has been implicated in the development of age-related macular degeneration,[41] pterygium[42] and cataract.[43] Concentrated clusters of melanin, commonly known as freckles, are often found within the iris.
+Diet
+
+Dietary factors influence susceptibility to sunburn, recovery from sunburn, and risk of secondary complications from sunburn. Several dietary antioxidants, including essential vitamins, have been shown to have some effectiveness for protecting against sunburn and skin damage associated with ultraviolet radiation, in both human and animal studies. Supplementation with Vitamin C and Vitamin E was shown in one study to reduce the amount of sunburn after a controlled amount of UV exposure.[44] A review of scientific literature through 2007 found that beta carotene (Vitamin A) supplementation had a protective effect against sunburn, but that the effects were only evident in the long-term, with studies of supplementation for periods less than 10 weeks in duration failing to show any effects.[45] There is also evidence that common foods may have some protective ability against sunburn if taken for a period before the exposure.[46][47]
+Protecting children
+
+Babies and children are particularly susceptible to UV damage which increases their risk of both melanoma and non-melanoma skin cancers later in life. Children should not sunburn at any age and protective measures can ensure their future risk of skin cancer is reduced. [48]
+
+    Infants 0-6 months: Children under 6mo generally have skin too sensitive for sunscreen and protective measures should focus on avoiding excessive UV exposure by using window mesh covers, wide brim hats, loose clothing that covers skin, and reducing UV exposure between the hours of 10am and 4pm.
+    Infants 6-12 months: Sunscreen can safely be used on infants this age. It is recommended to apply a broad-spectrum, water-resistant SPF 30+ sunscreen to exposed areas as well as avoid excessive UV exposure by using wide-brim hats and protective clothing.
+    Toddlers and Preschool-aged children: Apply a broad-spectrum, water-resistant SPF 30+ sunscreen to exposed areas, use wide-brim hats and sunglasses, avoid peak UV intensity hours of 10am-4pm and seek shade. Sun protective clothing with a SPF rating can also provide additional protection.
+
+Artificial UV exposure
+
+The WHO recommends that artificial UV exposure including tanning beds should be avoided as no safe dose has been established [49]. When one is exposed to any artificial source of occupational UV, special protective clothing (for example, welding helmets/shields) should be worn. Such sources can produce UVC, an extremely carcinogenic wavelength of UV which ordinarily is not present in normal sunlight, having been filtered out by the atmosphere.
+Treatment
+
+The primary measure is avoiding further exposure to the sun. The best treatment for most sunburns is time. Most sunburns heal completely within a few weeks.
+
+The American Academy of Dermatology recommends the following for treatment of sunburn:[50]
+
+    For pain relief, take cool baths or showers frequently.
+    Use soothing moisturizers that contain aloe vera or soy.
+    Anti-inflammatory medications such as ibuprofen or aspirin can help with pain.
+    Keep hydrated and drink extra water.
+    Do not pop blisters on a sunburn. Instead, let them heal on their own.
+    Protect sunburned skin with loose clothing when going outside to prevent further damage.
+
+Non-steroidal anti-inflammatory drugs (such as ibuprofen or naproxen), and aspirin may decrease redness and pain.[51][52] Local anesthetics such as benzocaine, however, are contraindicated.[53] Schwellnus et al. states that topical steroids (such as hydrocortisone cream) do not help with sunburns,[52] although the American Academy of Dermatology says they can be used on especially sore areas.[53] While lidocaine cream is often used as a sunburn treatment, there is little evidence for the effectiveness of such use.[54]
+
+Home treatments that may help the discomfort include using cool and wet cloths on the sunburned areas.[52] Applying soothing lotions that contain aloe vera to the sunburn areas was supported by one review.[55] Others have found aloe vera to have no effect.[52] Aloe vera has no ability to protect people from sunburns.[56] Another treatment includes using a moisturizer that contains soy.[53]
+
+A sunburn draws fluid to the skin’s surface and away from the rest of the body. Drinking extra water is recommended to help prevent dehydration.[53] 

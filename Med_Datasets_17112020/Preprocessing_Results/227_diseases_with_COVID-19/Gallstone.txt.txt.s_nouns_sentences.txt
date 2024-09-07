@@ -1,0 +1,78 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Gallstone|Disease name|NN Gallstone|Disease Gallstone|Disease Gallstone|Disease Gallstone|Disease gallbladder|NN Gallstone|Disease Gallstone|Disease bile|NN duct|NN Gallstone|Disease Gallstone|Disease cholesterol|NN pronunciation|NN
+surgery|NN symptom|NN pain|NN abdomen|NN complication|NN inflammation|NN pancrea|NN liver|NN inflammation|NN onset|NN year|NN risk|NN factor|NN birth|NN control|NN pill|NN pregnancy|NN family|NN history|NN obesity|NN diabete|NN liver|NN disease|NN weight|NN loss|NN method|NN symptom|NN ultrasound|NN prevention|NN weight|NN diet|NN diet|NN carbohydrate|NN treatment|NN pain|NN surgery|NN surgery|NN frequency|NN 1015|NN adult|NN world|NN
+Gallstone|Disease stone|NN gallbladder|NN bile|NN component|NN term|NN Gallstone|Disease presence|NN Gallstone|Disease disease|NN Gallstone|Disease people|NN Gallstone|Disease symptom|NN Gallstone|Disease block|NN bile|NN duct|NN pain|NN part|NN abdomen|NN gallbladder|NN attack|NN Gallstone|Disease year|NN complication|NN Gallstone|Disease inflammation|NN cholecystitis|NN inflammation|NN pancrea|NN pancreatitis|NN jaundice|NN infection|NN bile|NN duct|NN cholangitis|NN symptom|NN complication|NN pain|NN hour|NN duration|NN fever|NN skin|NN urine|NN stool|NN
+risk|NN factor|NN Gallstone|Disease birth|NN control|NN pill|NN pregnancy|NN family|NN history|NN Gallstone|Disease obesity|NN diabete|NN liver|NN disease|NN weight|NN loss|NN bile|NN component|NN form|NN Gallstone|Disease cholesterol|NN bile|NN salt|NN bilirubin|NN Gallstone|Disease cholesterol|NN cholesterol|NN stone|NN bilirubin|NN pigment|NN stone|NN Gallstone|Disease symptom|NN diagnosis|NN ultrasound|NN complication|NN blood|NN test|NN
+risk|NN Gallstone|Disease weight|NN exercise|NN diet|NN symptom|NN treatment|NN attack|NN surgery|NN gallbladder|NN incision|NN incision|NN anesthesia|NN case|NN surgery|NN medication|NN stone|NN lithotripsy|NN
+country|NN adult|NN Gallstone|Disease rate|NN part|NN africa|NP disease|NN people|NN death|NN women|NN stone|NN men|NN age|NN group|NN Gallstone|Disease example|NN american|NN Gallstone|Disease gallbladder|NN outcome|NN content|NN
+definition|NN sign|NN symptom|NN complication|NN risk|NN factor|NN composition|NN diagnosis|NN prevention|NN treatment|NN folk|NN remedy|NN reference|NN link|NN
+Gallstone|Disease condition|NN Gallstone|Disease gallbladder|NN bile|NN duct|NN presence|NN stone|NN gallbladder|NN Gallstone|Disease chol-|NN bile|NN stone|NN process|NN presence|NN Gallstone|Disease bile|NN duct|NN Gallstone|Disease chol-|NN bile|NN duct|NN stone|NN process|NN Gallstone|Disease obstruction|NN bile|NN duct|NN turn|NN cholangitis|NN chol-|NN bile|NN vessel|NN inflammation|NN infection|NN bile|NN duct|NN
+Gallstone|Disease ampulla|NN vater|NN system|NN pancrea|NN turn|NN pancreatitis|NN
+sign|NN symptom|NN Gallstone|Disease form|NN gallbladder|NN symptom|NN system|NN
+Gallstone|Disease size|NN number|NN year|NN
+stone|NN treatment|NN symptom|NN Gallstone|Disease attack|NN presence|NN pain|NN side|NN abdomen|NN nausea|NN vomit|NN
+pain|NN minute|NN hour|NN
+person|NN pain|NN shoulder|NN blade|NN shoulder|NN
+attack|NN meal|NN night|NN drink|NN
+addition|NN pain|NN nausea|NN person|NN fever|NN
+stone|NN duct|NN cause|NN bilirubin|NN leak|NN bloodstream|NN tissue|NN jaundice|NN itch|NN
+case|NN liver|NN enzyme|NN complication|NN
+Gallstone|Disease case|NN inflammation|NN gallbladder|NN adherent|NN bowel|NN obstruction|NN Gallstone|Disease
+complication|NN cholangitis|NN infection|NN inflammation|NN tree|NN liver|NN pancreatitis|NN blockage|NN bile|NN duct|NN enzyme|NN bowel|NN pancrea|NN cancer|NN complication|NN risk|NN factor|NN
+Gallstone|Disease risk|NN increase|NN female|NN menopause|NN people|NN year|NN condition|NN north|NN south|NN people|NN descent|NN ethnicity|NN
+lack|NN melatonin|NN stone|NN melatonin|NN cholesterol|NN secretion|NN gallbladder|NN conversion|NN cholesterol|NN bile|NN antioxidant|NN stress|NN researcher|NN Gallstone|Disease combination|NN factor|NN body|NN chemistry|NN body|NN weight|NN motility|NN movement|NN calorie|NN diet|NN
+citation|NN absence|NN risk|NN factor|NN formation|NN Gallstone|Disease
+factor|NN risk|NN Gallstone|Disease constipation|NN meal|NN day|NN intake|NN nutrient|NN folate|NN magnesium|NN calcium|NN vitamin|NN fluid|NN consumption|NN men|NN intake|NN carbohydrate|NN glycemic|NN load|NN glycemic|NN index|NN diet|NN wine|NN bread|NN risk|NN Gallstone|Disease
+weight|NN loss|NN risk|NN Gallstone|Disease weight|NN loss|NN drug|NN orlistat|NN risk|NN Gallstone|Disease
+deficiency|NN disease|NN risk|NN Gallstone|Disease formation|NN diagnosis|NN disease|NN
+Gallstone|Disease world|NN
+risk|NN factor|NN pigment|NN stone|NN disease|NN spherocytosis|NN cirrhosis|NN tract|NN infection|NN people|NN epp|NN risk|NN Gallstone|Disease use|NN proton|NN pump|NN inhibitor|NN function|NN Gallstone|Disease formation|NN
+cholesterol|NN medication|NN Gallstone|Disease formation|NN
+cholesterol|NN synthesis|NN evidence|NN use|NN risk|NN Gallstone|Disease increase|NN cholesterol|NN concentration|NN bile|NN use|NN risk|NN Gallstone|Disease pathophysiology|NN
+cholesterol|NN Gallstone|Disease bile|NN cholesterol|NN bile|NN salt|NN
+concentration|NN cholesterol|NN factor|NN Gallstone|Disease
+contract|NN empty|NN gallbladder|NN bile|NN Gallstone|Disease formation|NN
+resistance|NN flow|NN bile|NN due|NN geometry|NN duct|NN factor|NN presence|NN protein|NN liver|NN bile|NN cholesterol|NN crystallization|NN Gallstone|Disease
+addition|NN level|NN hormone|NN result|NN pregnancy|NN hormone|NN therapy|NN use|NN estrogen-contain|NN form|NN contraception|NN cholesterol|NN level|NN bile|NN motility|NN Gallstone|Disease formation|NN
+composition|NN left|NN cholesterol|NN stone|NN stone|NN pigment|NN stone|NN
+composition|NN Gallstone|Disease age|NN diet|NN ethnicity|NN basis|NN composition|NN Gallstone|Disease type|NN cholesterol|NN stone|NN pigment|NN stone|NN stone|NN classification|NN system|NN cholesterol|NN stone|NN
+cholesterol|NN stone|NN light|NN yellow|NN green|NN chalk|NN white|NN cm|NN spot|NN
+cholesterol|NN weight|NN system|NN stone|NN cholesterol|NN stone|NN stone|NN
+pigment|NN pigment|NN stone|NN dark|NN
+bilirubin|NN bilirubin|NN pigment|NN polymer|NN calcium|NN calcium|NN phosphate|NN salt|NN bile|NN
+cholesterol|NN system|NN stone|NN bilirubin|NN stone|NN stone|NN
+pigment|NN stone|NN cholesterol|NN 3070|NN classification|NN system|NN constituent|NN calcium|NN carbonate|NN phosphate|NN bilirubin|NN bile|NN pigment|NN calcium|NN calcium|NN calcium|NN
+calcium|NN content|NN
+infection|NN tract|NN release|NN
+hepatocyte|NN bacteria|NN bilirubin|NN amount|NN bilirubin|NN bile|NN
+Gallstone|Disease size|NN shape|NN grain|NN sand|NN golf|NN ball|NN gallbladder|NN stone|NN
+sludge|NN secretion|NN gallbladder|NN conjunction|NN Gallstone|Disease
+cholesterol|NN Gallstone|Disease
+x-ray|NN microtomograph|NN Gallstone|Disease
+stone|NN cholesterol|NN stone|NN bile|NN pigment|NN media|NN
+ct|NN image|NN Gallstone|Disease
+diagnosis|NN ultrasound|NN
+image|NN technique|NN ercp|NP mrcp|NP
+Gallstone|Disease complication|NN blood|NN test|NN
+murphy|NN sign|NN find|NN examination|NN attack|NN
+cm|NN Gallstone|Disease neck|NN gallbladder|NN cholecystitis|NN ultrasound|NN
+mm|NN gall|NN bladder|NN wall|NN thicken|NN
+sludge|NN Gallstone|Disease
+borderline|NN thicken|NN wall|NN
+Gallstone|Disease x-ray|NN
+Gallstone|Disease ct|NN ultrasound|NN week|NN media|NN
+gallbladder|NN ultrasound|NN bowel|NN peristalsis|NN appearance|NN stone|NN
+weight|NN exercise|NN diet|NN fiber|NN Gallstone|Disease formation|NN
+medication|NN acid|NN formation|NN Gallstone|Disease weight|NN loss|NN diet|NN weight|NN loss|NN Gallstone|Disease treatment|NN
+removal|NN chance|NN recurrence|NN Gallstone|Disease
+lack|NN gallbladder|NN consequence|NN people|NN
+portion|NN condition|NN syndrome|NN distress|NN pain|NN abdomen|NN risk|NN diarrhea|NN
+option|NN cholecystectomy|NN
+cholecystectomy|NN incision|NN laparotomy|NN right|NN rib|NN
+recovery|NN day|NN hospitalization|NN return|NN diet|NN week|NN release|NN activity|NN week|NN release|NN cholecystectomy|NN puncture|NN hole|NN camera|NN instrument|NN
+care|NN release|NN night|NN hospital|NN stay|NN day|NN home|NN rest|NN pain|NN medication|NN
+cholesterol|NN Gallstone|Disease acid|NN mouth|NN person|NN medication|NN year|NN Gallstone|Disease drug|NN
+obstruction|NP bile|NN duct|NN Gallstone|Disease retrograde|NN sphincterotomy|NN retrograde|NN cholangiopancreatography|NN ercp|NN folk|NN remedy|NN
+Gallstone|Disease by-product|NN animal|NN meat|NN use|NN antipyretic|NN antidote|NN folk|NN remedy|NN culture|NN china|NP
+Gallstone|Disease dairy|NN cow|NN calculus|NN thing|NN cattle|NN
+manner|NN diamond|NN mine|NN slaughterhouse|NN worker|NN Gallstone|Disease theft|NN
+porcelain|NN syndrome|NN

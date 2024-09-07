@@ -1,0 +1,146 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+journal|NN journal|NN 
+novel|NN novel|NN 
+epilepsy|DS name|NN epilepsy|DS electroencephalogram|NN record|NN person|NN childhood|NN absence|NN epilepsy|DS seizure|NN 
+wave|NN background|NN 
+hz|NN discharge|ST electroencephalogram|NN symptom|NN period|NN shake|NN spell|NN duration|NN term|NN cause|NN brain|NN injury|NN stroke|NN brain|NN infection|NN brain|NN birth|NN defect|NN method|NN rule|NN cause|NN diagnosis|NN alcohol|NN withdrawal|NN electrolyte|NN problem|NN treatment|NN surgery|NN change|NN controllable|NN frequency|NN death|NN 
+epilepsy|DS group|NN disorder|NN seizure|NN seizure|NN episode|NN period|NN period|NN shake|NN episode|NN injury|NN bone|NN epilepsy|DS seizure|NN rule|NN cause|NN seizure|NN cause|NN poison|NN epilepsy|DS people|NN epilepsy|DS area|NN world|NN experience|NN degree|NN stigma|NN condition|NN 
+cause|NN case|NN epilepsy|DS case|NN result|NN brain|NN injury|NN stroke|NN brain|NN infection|NN brain|NN birth|NN defect|NN process|NN mutation|NN proportion|NN case|NN seizure|NN result|NN activity|NN cortex|NN brain|NN diagnosis|NN rule|NN condition|NN symptom|NN cause|NN seizure|NN alcohol|NN withdrawal|NN electrolyte|NN problem|NN brain|NN perform|NN blood|NN test|NN epilepsy|DS electroencephalogram|NN eeg|NN test|NN condition|NN 
+epilepsy|DS result|NN issue|NN medication|NN case|NN option|NN seizure|NN medication|NN surgery|NN change|NN update|NN case|NN epilepsy|DS people|NN point|NN treatment|NN 
+people|NN epilepsy|DS case|NN world|NN death|NN death|NN epilepsy|DS people|NN world|NN onset|NN case|NN baby|NN world|NN onset|NN children|NN adult|NN difference|NN frequency|NN cause|NN people|NN seizure|NN age|NN chance|NN second|NN seizure|NN area|NN world|NN epilepsy|DS restriction|NN ability|NN drive|NN seizure|NN length|NN time|NN word|NN epilepsy|DS greek|NN content|NN 
+sign|NN symptom|NN cause|NN genetics|NN mechanism|NN epilepsy|DS diagnosis|NN definition|NN classification|NN test|NN diagnosis|NN prevention|NN management|NN aid|NN surgery|NN diet|NN medicine|NN mortality|NN epidemiology|NN history|NN society|NN culture|NN economics|NN vehicle|NN support|NN organization|NN research|NN animal|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN media|NN video|NN seizure|NN spanish|NN image|NN seizure|NN bite|NN tip|NN tongue|NN seizure|NN 
+epilepsy|DS risk|NN seizure|NN seizure|NN way|NN part|NN brain|NN person|NN age|NN article|NN seizure|NN 
+type|NN seizure|NN seizure|NN start|NN hemisphere|NN brain|NN seizure|NN hemisphere|NN brain|NN seizure|NN seizure|NN 
+example|NN type|NN absence|NN seizure|NN level|NN consciousness|NN second|NN 
+seizure|NN experience|NN aura|NN hear|NN smell|NN phenomena|NN activity|NN muscle|NN group|NN spread|NN muscle|NN group|NN case|NN march|NN activity|NN movement|NN smack|NN lip|NN activity|NN attempt|NN 
+type|NN seizure|NN tonic|NN absence|NN atonic|NN seizure|NN loss|NN consciousness|NN warn|NN 
+seizure|NN contraction|NN limb|NN extension|NN arch|NN back|NN second|NN tonic|NN phase|NN 
+cry|NN contraction|NN chest|NN muscle|NN shake|NN limb|NN unison|NN phase|NN 
+tonic|NN seizure|NN contraction|NN muscle|NN 
+person|NN breath|NN 
+seizure|NN shake|NN limb|NN unison|NN 
+shake|NN minute|NN person|NN period|NN state|NN phase|NN 
+loss|NN bowel|NN bladder|NN control|NN seizure|NN tongue|NN tip|NN side|NN seizure|NN seizure|NN bite|NN side|NN tongue|NN bite|NN seizure|NN 
+seizure|NN spasm|NN muscle|NN area|NN absence|NN seizure|NN turn|NN head|NN eye|NN person|NN return|NN right|NN end|NN seizure|NN loss|NN muscle|NN activity|NN second|NN side|NN body|NN 
+epilepsy|DS seizure|NN event|NN seizure|NN epilepsy|DS seizure|NN stimuly|NN trigger|NN light|NN noise|NN type|NN epilepsy|DS seizure|NN sleep|NN type|NN 
+portion|NN seizure|NN state|NN period|NN recovery|NN confusion|ST period|NN level|NN consciousness|NN minute|NN hour|NN symptom|NN feel|NN headache|ST difficulty|NN speak|NN behavior|NN seizure|NN people|NN people|NN time|NN weakness|ST paralysis|ST seizure|NN 
+second|NN minute|NN day|NN psychosocial|NN 
+epilepsy|DS effect|NN well-be|NN effect|NN isolation|NN disability|NN achievement|NN employment|NN outcome|NN learn|NN disability|NN condition|NN children|NN epilepsy|DS stigma|NN epilepsy|DS family|NN disorder|NN 
+disorder|NN people|NN epilepsy|DS epilepsy|DS syndrome|NN present|NN 
+depression|ST anxiety|ST disorder|NN migraine|DS attention_deficit_hyperactivity_disorder|DS time|NN children|NN epilepsy|DS children|NN condition|NN epilepsy|DS consequence|NN child|NN learn|NN development|NN epilepsy|DS children|NN autism|DS cause|NN cause|NN seizure|NN 
+epilepsy|DS cause|NN interaction|NN factor|NN case|NN cause|NN brain|NN trauma|NN stroke|NN tumour|NN problem|NN brain|NN result|NN infection|NN case|NN cause|NN condition|NN people|NN brain|NN stroke|NN people|NN 
+consequence|NN health|NN problem|NN cause|NN stroke|NN head|NN injury|NN ingestion|NN problem|NN seizure|NN classification|NN disorder|NN epilepsy|DS genetics|NN 
+genetics|NN majority|NN case|NN epilepsy|DS gene|NN defect|NN interaction|NN gene|NN factor|NN gene|NN defect|NN gene|NN affect|NN ion|NN channel|NN gene|NN ion|NN channel|NN enzyme|NN gaba|NN g|NN receptor|NN 
+twin|NN chance|NN twin|NN risk|NN risk|NN seizure|NN twin|NN time|NN syndrome|NN relative|NN person|NN epilepsy|DS risk|NN time|NN population|NN syndrome|NN syndrome|NN epilepsy|DS 
+epilepsy|DS result|NN number|NN condition|NN stroke|NN head|NN trauma|NN infection|NN system|NN abnormality|NN result|NN brain|NN damage|NN time|NN birth|NN brain|NN epilepsy|DS cause|NN case|NN risk|NN tumor|NN lobe|NN mass|NN lesion|NN malformation|NN malformation|NN risk|NN 4060|NN stroke|NN epilepsy|DS kingdom|NN stroke|NN account|NN case|NN cause|NN epilepsy|DS head|NN trauma|NN brain|NN injury|NN risk|NN brain|NN injury|NN risk|NN gunshot|NN wound|ST head|NN risk|NN 
+evidence|NN link|NN epilepsy|DS disease|NN gluten|NN sensitivity|NN evidence|NN 
+syndrome|NN disease|NN epilepsy|DS brain|NN review|NN estimate|NN people|NN epilepsy|DS disease|NN population|NN condition|NN 
+risk|NN epilepsy|DS meningitis|DS disease|NN seizure|NN infection|NN herpe|NN simplex|NN encephalitis|DS risk|NN seizure|NN risk|NN epilepsy|DS form|NN infection|NN pork|NN cysticercosis|NN brain|NN neurocysticercosis|DS cause|NN epilepsy|DS case|NN area|NN world|NN parasite|NN epilepsy|DS brain|NN infection|NN malaria|DS toxoplasmosis|DS alcohol|NN use|NN risk|NN epilepsy|DS unit|NN alcohol|NN day|NN half|NN fold|NN increase|NN risk|NN risk|NN alzheimers|NN disease|NN sclerosis|NN sclerosis|NN autoimmune|NN encephalitis|DS risk|NN epilepsy|DS malnutrition|NN risk|NN factor|NN world|NN cause|NN association|NN people|NN palsy|NN risk|NN epilepsy|DS people|NN quadriplegia|DS disease|NN mechanism|NN 
+brain|NN activity|NN activity|NN factor|NN neuron|NN environment|NN 
+factor|NN neuron|NN type|NN number|NN distribution|NN ion|NN channel|NN change|NN receptor|NN change|NN gene|NN expression|NN factor|NN neuron|NN ion|NN concentration|NN plasticity|NN regulation|NN transmitter|NN breakdown|NN cell|NN inflammation|NN role|NN epilepsy|DS 
+mechanism|NN epilepsy|DS network|NN mechanism|NN 
+circumstance|NN brain|NN shift|NN activity|NN seizure|NN synchronization|NN 
+epilepsy|DS resistance|NN neuron|NN fire|NN period|NN change|NN ion|NN channel|NN neuron|NN result|NN area|NN seizure|NN seizure|NN focus|NN mechanism|NN epilepsy|DS up-regulation|NN circuit|NN down-regulation|NN circuit|NN injury|NN brain|NN epilepsy|DS process|NN failure|NN barrier|NN mechanism|NN substance|NN blood|NN brain|NN 
+evidence|NN seizure|NN event|NN 
+factor|NN stress|NN alcohol|NN abuse|NN light|NN lack|NN sleep|NN 
+term|NN seizure|NN threshold|NN amount|NN stimulus|NN seizure|NN 
+threshold|NN epilepsy|DS 
+seizure|NN group|NN neuron|NN fire|NN manner|NN result|NN wave|NN depolarization|NN paroxysmal|NN shift|NN neuron|NN fire|NN fire|NN period|NN time|NN part|NN effect|NN neuron|NN change|NN neuron|NN effect|NN adenosine|NN 
+seizure|NN hemisphere|NN brain|NN seizure|NN hemisphere|NN type|NN seizure|NN brain|NN structure|NN effect|NN loss|NN atrophy|DS area|NN brain|NN epilepsy|DS epilepsy|DS change|NN change|NN result|NN epilepsy|DS diagnosis|NN eeg|NN focus|NN seizure|NN 
+diagnosis|NN epilepsy|DS observation|NN seizure|NN onset|NN cause|NN electroencephalogram|NN eeg|NN pattern|NN brain|NN wave|NN ct|NN scan|NN mry|NN structure|NN brain|NN part|NN workup|NN syndrome|NN video|NN eeg|NN monitor|NN case|NN definition|NN 
+epilepsy|DS disorder|NN brain|NN condition|NN 
+seizure|NN hour|NN seizure|NN probability|NN seizure|NN recurrence|NN risk|NN seizure|NN year|NN diagnosis|NN epilepsy|DS syndrome|NN 
+epilepsy|DS individual|NN age-dependent|NN epilepsy|DS syndrome|NN age|NN year|NN seizure|NN medicine|NN year|NN 
+definition|NN league|NN epilepsy|DS clarification|NN definition|NN epilepsy|DS disorder|NN brain|NN predisposition|NN seizure|NN consequence|NN condition|NN 
+definition|NN epilepsy|DS occurrence|NN seizure|NN 
+epilepsy|DS treatment|NN epilepsy|DS guarantee|NN 
+definition|NN epilepsy|DS disease|NN disorder|NN 
+decision|NN executive|NN committee|NN ilae|NN word|NN disorder|NN stigma|NN disease|NN degree|NN seriousness|NN epilepsy|DS 
+definition|NN nature|NN use|NN 
+predisposition|NN definition|NN 
+researcher|NN epidemiologist|NN group|NN definition|NN definition|NN devise|NN 
+ilae|NN definition|NN classification|NN 
+contrast|NN classification|NN seizure|NN seizure|NN classification|NN epilepsy|DS cause|NN 
+person|NN hospital|NN seizure|NN workup|NN result|NN seizure|NN disease|NN sclerosis|NN name|NN diagnosis|NN result|NN definition|NN classification|NN seizure|NN epilepsy|DS terminology|NN 
+league|NN epilepsy|DS ilae|NN classification|NN epilepsy|DS syndrome|NN 
+epilepsy|DS syndrome|NN cause|NN childhood|NN epilepsy|DS spike|NN lobe|NN epilepsy|DS cause|NN childhood|NN absence|NN epilepsy|DS 
+syndrome|NN encephalopathy|NN burst|NN suppression|NN syndrome|NN seizure|NN epilepsy|DS spike-wave|NN wave|NN sleep|NN syndrome|NN seizure|NN 
+classification|NN cause|NN epilepsy|DS determinant|NN course|NN prognosis|NN detail|NN commission|NN classification|NN epilepsy|DS issue|NN epilepsy|DS category|NN cause|NN recommendation|NN category|NN number|NN subcategory|NN technologic|NN advance|NN 
+cause|NN origin|NN gene|NN disorder|NN epilepsy|DS inheritance|NN anatomic|NN abnormality|NN causation|NN childhood|NN epilepsy|DS syndrome|NN syndrome|NN gene|NN disorder|NN disorder|NN chromosome|NN function|NN anomaly|NN structure|NN cause|NN sclerosis|NN cause|NN trauma|NN tumor|NN infection|NN disorder|NN disorder|NN neurologic|NN condition|NN factor|NN cause|NN seizure|NN factor|NN nature|NN cause|NN 
+article|NN epilepsy|DS syndrome|NN 
+case|NN epilepsy|DS epilepsy|DS syndrome|NN feature|NN 
+feature|NN age|NN seizure|NN seizure|NN type|NN eeg|NN find|NN 
+epilepsy|DS syndrome|NN cause|NN medication|NN 
+ability|NN case|NN epilepsy|DS syndrome|NN children|NN onset|NN seizure|NN example|NN epilepsy|DS childhood|NN absence|NN epilepsy|DS myoclonic_epilepsy|DS syndrome|NN brain|NN dysfunction|NN aspect|NN epilepsy|DS 
+seizure|NN treatment|NN dysfunction|NN instance|NN syndrome|NN west_syndrome|DS genetics|NN role|NN epilepsy|DS number|NN mechanism|NN 
+mode|NN inheritance|NN 
+screen|NN gene|NN variant|NN effect|NN genome|NN sequence|NN study|NN number|NN de|NN novo|NN gene|NN mutation|NN encephalopathy|NN chd2|NN syngap1|NN gabbr2|NN 
+cause|NN category|NN classification|NN epilepsy|DS 
+case|NN cause|NN category|NN classification|NN syndrome|NN feature|NN age|NN specificity|NN point|NN cause|NN childhood|NN epilepsy|DS syndrome|NN cause|NN category|NN cause|NN instance|NN rolandic|NN epilepsy|DS 
+cause|NN case|NN instance|NN syndrome|NN syndrome|NN epilepsy|DS feature|NN 
+syndrome|NN category|NN classification|NN epilepsy|DS epilepsy|DS syndrome|NN advance|NN research|NN 
+electroencephalogram|NN eeg|NN brain|NN activity|NN risk|NN seizure|NN 
+seizure|NN basis|NN symptom|NN 
+diagnosis|NN epilepsy|DS electroencephalography|NN type|NN seizure|NN syndrome|NN present|NN 
+children|NN seizure|NN 
+rule|NN diagnosis|NN disease|NN 
+situation|NN eeg|NN individual|NN sleep|NN 
+image|NN ct|NN scan|NN mry|NN non-febrile|NN seizure|NN problem|NN brain|NN mry|NN image|NN test|NN ct|NN emergency|NN room|NN seizure|NN return|NN image|NN test|NN point|NN person|NN diagnosis|NN epilepsy|DS image|NN image|NN seizure|NN 
+adult|NN test|NN electrolyte|NN blood|NN glucose|NN calcium|NN level|NN problem|NN electrocardiogram|NN problem|NN rhythm|NN heart|NN lumbar|NN puncture|NN system|NN infection|NN children|NN test|NN urine|NN biochemistry|NN blood|NN test|NN disorder|NN 
+blood|NN prolactin|NN level|NN minute|NN seizure|NN seizure|NN seizure|NN serum|NN prolactin|NN level|NN seizure|NN seizure|NN serum|NN prolactin|NN seizure|NN syncope|NN routine|NN part|NN diagnosis|NN epilepsy|DS diagnosis|NN 
+diagnosis|NN epilepsy|DS 
+number|NN condition|NN sign|NN symptom|NN seizure|NN syncope|NN hyperventilation|NN migraine|DS panic|NN attack|NN psychogenic|NN seizure|NN syncope|NN episode|NN convulsion|ST lobe|NN epilepsy|DS nightmare|NN parasomnia|NN epilepsy|DS syndrome|NN attack|NN movement|NN disorder|NN seizure|NN cause|NN drop|NN attack|NN seizure|NN 
+children|NN seizure|NN 
+spell|NN bed|NN wet|NN night|NN terror|NN tics|NN shudder|NN attack|NN reflux|NN arch|NN back|NN twist|NN head|NN side|NN infant|NN seizure|NN 
+case|NN study|NN case|NN attack|NN treatment-resistant|NN epilepsy|DS cause|NN people|NN epilepsy|DS clinics|NN epilepsy|DS seizure|NN episode|NN test|NN prevention|NN 
+case|NN effort|NN head|NN injury|NN care|NN time|NN birth|NN parasite|NN pork|NN tapeworm|NN effort|NN part|NN america|NN decrease|NN rate|NN pork|NN decrease|NN case|NN epilepsy|DS management|NN bracelet|NN condition|NN epileptics|NN assistance|NN 
+epilepsy|DS medication|NN seizure|NN medication|NN seizure|NN risk|NN seizure|NN people|NN self|NN management|NN condition|NN case|NN management|NN option|NN diet|NN implantation|NN neurostimulator|NN neurosurgery|NN 
+person|NN tonic-clonic|NN seizure|NN side|NN recovery|NN position|NN help|NN fluid|NN lung|NN finger|NN bite|NN block|NN tongue|NN mouth|NN person|NN vomit|NN result|NN rescuer|NN effort|NN precaution|NN 
+seizure|NN minute|NN seizure|NN hour|NN return|NN level|NN consciousness|NN emergency|NN status|NN help|NN airway|NN airway|NN home|NN medication|NN seizure|NN duration|NN midazolam|NN mouth|NN diazepam|NN hospital|NN lorazepam|NN dose|NN benzodiazepine|NN medication|NN status|NN treatment|NN admission|NN care|NN unit|NN treatment|NN agent|NN anticonvulsant|NN 
+mainstay|NN treatment|NN epilepsy|DS medication|NN person|NN life|NN choice|NN anticonvulsant|NN seizure|NN type|NN epilepsy|DS syndrome|NN medication|NN health|NN problem|NN person|NN age|NN lifestyle|NN medication|NN switch|NN medication|NN medication|NN medication|NN agent|NN agent|NN agent|NN time|NN people|NN seizure|NN treatment|NN 
+number|NN medication|NN carbamazepine|NN valproate|NN 
+evidence|NN carbamazepine|NN seizuresnee|NN update|NN release|NN release|NN side|NN effect|NN united|NN kingdom|NN treatment|NN seizure|NN levetiracetam|NN valproate|NN due|NN issue|NN cost|NN side|NN effect|NN seizure|NN absence|NN seizure|NN seizure|NN tonic|NN atonic|NN seizure|NN seizure|NN treatment|NN medication|NN level|NN blood|NN 
+anticonvulsant|NN year|NN world|NN health|NN organization|NN recommendation|NN world|NN access|NN country|NN drug|NN 
+effect|NN medication|NN people|NN data|NN effect|NN example|NN mood|NN change|NN sleepiness|NN unsteadiness|NN gait|NN medication|NN side|NN effect|NN dose|NN rashe|NN liver|NN toxicity|NN suppression|NN bone|NN marrow|NN quarter|NN people|NN stop|NN treatment|NN effect|NN medication|NN birth|NN defect|NN pregnancy|NN medication|NN carbamazepine|NN risk|NN birth|NN defect|NN trimester|NN treatment|NN risk|NN epilepsy|DS risk|NN medication|NN medication|NN risk|NN birth|NN defect|NN 
+medication|NN people|NN seizure|NN year|NN people|NN recurrence|NN month|NN children|NN adult|NN medication|NN level|NN seizure|NN surgery|NN 
+epilepsy|DS surgery|NN option|NN people|NN seizure|NN problem|NN treatment|NN treatment|NN trial|NN medication|NN goal|NN surgery|NN control|NN seizure|NN 6070|NN case|NN procedure|NN cute|NN hippocampus|NN lobe|NN resection|NN removal|NN tumor|NN part|NN neocortex|NN procedure|NN corpus|NN effort|NN number|NN seizure|NN condition|NN surgery|NN medication|NN case|NN 
+option|NN candidate|NN surgery|NN type|NN medication|NN nerve|NN stimulation|NN thalamic|NN stimulation|NN stimulation|NN diet|NN 
+evidence|NN diet|NN high-fat|NN number|NN seizure|NN seizure|NN research|NN option|NN epilepsy|DS medication|NN surgery|NN option|NN stay|NN diet|NN year|NN issue|NN effectiveness|NN side|NN effect|NN stomach|NN problem|NN concern|NN heart|NN disease|NN diet|NN diet|NN people|NN disease|NN gluten|NN sensitivity|NN diet|NN frequency|NN seizure|NN 
+avoidance|NN therapy|NN trigger|NN 
+example|NN light|NN success|NN television|NN video|NN game|NN glass|NN biofeedback|NN eeg|NN wave|NN support|NN medication|NN method|NN medication|NN 
+exercise|NN seizure|NN data|NN claim|NN dog|NN seizure|NN dog|NN seizure|NN dog|NN ability|NN seizure|NN 
+evidence|NN use|NN intervention|NN treatment|NN epilepsy|DS quality|NN life|NN wellbe|NN fatigue|ST adult|NN adolescent|NN intervention|NN seizure|NN control|NN individual|NN self-management|NN adherence|NN 
+therapy|NN medication|NN children|NN 2018|NN fda|NN product|NN syndrome|NN syndrome|NN medicine|NN 
+medicine|NN acupuncture|NN routine|NN vitamin|NN yoga|NN evidence|NN use|NN epilepsy|DS 
+2016|NN evidence|NN trial|NN quality|NN conclusion|NN death|NN epilepsy|DS person|NN 2012|NN 2228|NN 101232|NN 
+epilepsy|DS medication|NN seizure|NN case|NN seizure|NN medication|NN people|NN seizure|NN predictor|NN outcome|NN number|NN seizure|NN month|NN factor|NN risk|NN outcome|NN response|NN treatment|NN seizure|NN family|NN history|NN epilepsy|DS problem|NN wave|NN eeg|NN activity|NN world|NN people|NN africa|NN treatment|NN medication|NN mortality|NN 
+people|NN epilepsy|DS risk|NN death|NN increase|NN fold|NN population|NN increase|NN mortality|NN epilepsy|DS epilepsy|DS due|NN cause|NN risk|NN 
+mortality|NN cause|NN seizure|NN status|NN suicide|NN trauma|NN death|NN epilepsy|DS death|NN status|NN epilepticus|NN problem|NN dose|NN medication|NN risk|NN suicide|NN time|NN epilepsy|DS cause|NN frequency|NN tonic-clonic|NN seizure|NN account|NN epilepsy|DS death|NN risk|NN 
+kingdom|NN death|NN world|NN death|NN epilepsy|DS fall|NN status|NN epidemiology|NN 
+epilepsy|DS disorder|NN people|NN population|NN age|NN population|NN age|NN male|NN female|NN difference|NN disorder|NN world|NN 
+prevalence|NN epilepsy|DS 2012|NN range|NN epilepsy|DS epilepsy|DS seizure|NN year|NN epilepsy|DS year|NN 4070|NN country|NN 80140|NN country|NN poverty|NN risk|NN country|NN relative|NN country|NN world|NN epilepsy|DS world|NN onset|NN children|NN adult|NN rate|NN trauma|NN disease|NN country|NN number|NN case|NN year|NN children|NN survival|NN stroke|NN history|NN disease|NN hippocrate|NN century|NN engrave|NN peter|NN paul|NN rubens|NN bust|NN 
+record|NN epilepsy|DS people|NN begine|NN history|NN history|NN disease|NN condition|NN world|NN description|NN seizure|NN text|NN akkadian|NN language|NN mesopotamia|NN person|NN text|NN influence|NN moon|NN god|NN exorcism|NN seizure|NN code|NN hammuraby|NN reason|NN slave|NN refund|NN edwin|NN smith|NN case|NN individual|NN convulsion|ST 
+record|NN disease|NN sakikku|NN text|NN text|NN sign|NN symptom|NN detail|NN treatment|NN outcome|NN feature|NN seizure|NN type|NN babylonian|NN understand|NN nature|NN disease|NN seizure|NN possession|NN spirit|NN condition|NN mean|NN epilepsy|DS loss|NN consciousness|NN definition|NN text|NN samhita|NN 
+greek|NN view|NN disease|NN 
+epilepsy|DS form|NN possession|NN condition|NN genius|NN 
+name|NN disease|NN 
+epilepsy|DS mythology|NN moon|NN goddess|NN selene|NN artemis|NN 
+greek|NN figure|NN julius|NN caesar|NN hercules|NN disease|NN exception|NN view|NN school|NN hippocrates|NN 
+century|NN bc|NN hippocrates|NN idea|NN disease|NN spirit|NN 
+landmark|NN work|NN disease|NN epilepsy|DS origin|NN problem|NN brain|NN cause|NN disease|NN ignorance|NN belief|NN magic|NN hippocrate|NN heredity|NN cause|NN outcome|NN disease|NN age|NN note|NN characteristics|NN shame|NN disease|NN term|NN disease|NN rise|NN term|NN mal|NN seizure|NN work|NN origin|NN disease|NN view|NN time|NN evil|NN spirit|NN century|NN 
+rome|NN people|NN pottery|NN people|NN time|NN chest|NN problem|NN apuleius|NN physician|NN order|NN epilepsy|DS piece|NN gagate|NN smoke|NN seizure|NN potter|NN wheel|NN reference|NN epilepsy|DS 
+culture|NN person|NN epilepsy|DS 
+half|NN century|NN tanzania|NN part|NN africa|NN epilepsy|DS possession|NN spirit|NN witchcraft|NN poison|NN salptrire|NN birthplace|NN neurology|NN people|NN epilepsy|DS syphilis|DS 
+citation|NN rome|NN epilepsy|DS morbus|NN disease|NN assembly|NN hall|NN curse|NN god|NN 
+italy|NN epilepsy|DS saint|NN valentines|NN malady|NN 
+mid-1800|NN anti-seizure|NN medication|NN bromide|NN treatment|NN come|NN use|NN society|NN culture|NN list|NN people|NN epilepsy|DS stigma|NN 
+world|NN epilepsy|DS people|NN india|NN china|NN epilepsy|DS justification|NN marriage|NN people|NN area|NN epilepsy|DS part|NN africa|NN tanzania|NN uganda|NN epilepsy|DS possession|NN spirit|NN witchcraft|NN poison|NN united|NN kingdom|NN epilepsy|DS ground|NN annulment|NN marriage|NN stigma|NN people|NN epilepsy|DS seizure|NN economics|NN 
+result|NN cost|NN dollar|NN united|NN states|NN epilepsy|DS cost|NN europe|NN euro|NN india|NN epilepsy|DS result|NN cost|NN gdp|NN cause|NN emergency|NN department|NN visit|NN emergency|NN department|NN children|NN united|NN states|NN vehicle|NN epilepsy|DS drive|NN 
+epilepsy|DS risk|NN motor|NN collision|NN area|NN world|NN drive|NN condition|NN place|NN physician|NN law|NN report|NN person|NN seizure|NN license|NN body|NN requirement|NN person|NN question|NN report|NN country|NN physician|NN report|NN sweden|NN austria|NN denmark|NN spain|NN country|NN individual|NN report|NN uk|NN new|NN zealand|NN physician|NN individual|NN canada|NN united|NN states|NN australia|NN requirement|NN report|NN province|NN state|NN seizure|NN drive|NN amount|NN time|NN person|NN seizure|NN country|NN country|NN year|NN seizure|NN united|NN states|NN time|NN seizure|NN state|NN month|NN year|NN 
+epilepsy|DS seizure|NN pilot|NN license|NN canada|NN individual|NN seizure|NN year|NN license|NN test|NN seizure|NN drug|NN seizure|NN united|NN states|NN aviation|NN administration|NN epilepsy|DS pilot|NN license|NN exception|NN person|NN seizure|NN seizure|NN seizure|NN adulthood|NN medication|NN united|NN kingdom|NN pilot|NN license|NN standard|NN driver|NN period|NN year|NN seizure|NN medication|NN requirement|NN license|NN seizure|NN year|NN support|NN organization|NN 
+organization|NN support|NN people|NN family|NN epilepsy|DS 
+shadow|NN campaign|NN effort|NN world|NN health|NN organization|NN league|NN epilepsy|DS bureau|NN epilepsy|DS help|NN epilepsy|DS council|NN uk|NN ireland|NN united|NN states|NN epilepsy|DS foundation|NN organization|NN acceptance|NN disorder|NN ability|NN function|NN society|NN research|NN cure|NN epilepsy|DS foundation|NN hospital|NN individual|NN support|NN group|NN united|NN states|NN research|NN 
+prediction|NN attempt|NN seizure|NN eeg|NN mechanism|NN seizure|NN exposure|NN event|NN seizure|NN seizure|NN animal|NN model|NN epilepsy|DS 
+gene|NN therapy|NN type|NN epilepsy|DS medication|NN function|NN immunoglobulin|NN evidence|NN 2012|NN surgery|NN type|NN epilepsy|DS animal|NN article|NN epilepsy|DS animal|NN 
+epilepsy|DS number|NN animal|NN dog|NN cat|NN brain|NN disorder|NN dog|NN bromide|NN dog|NN phenobarbital|NN cat|NN dog|NN seizure|NN horse|NN seizure|NN eeg|NN 

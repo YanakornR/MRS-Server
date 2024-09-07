@@ -1,0 +1,145 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Urinary incontinence|Disease name|NN Urinary incontinence|Disease gynecology|NN
+Urinary incontinence|Disease Urinary incontinence|Disease Urinary incontinence|Disease leakage|NN urine|NN
+problem|NN impact|NN quality|NN life|NN issue|NN health|NN care|NN term|NN enuresis|NN Urinary incontinence|Disease children|NN enuresis|NN bed|NN wet|NN
+surgery|NN pregnancy|NN childbirth|NN menopause|NN risk|NN factor|NN Urinary incontinence|Disease result|NN condition|NN practitioner|NN type|NN incontinence|NN
+incontinence|NN bladder|NN stress|NN incontinence|NN closure|NN bladder|NN overflow|NN incontinence|NN bladder|NN contraction|NN blockage|NN urethra|NN incontinence|NN medication|NN health|NN problem|NN bathroom|NN
+treatment|NN floor|NN muscle|NN train|NN bladder|NN train|NN surgery|NN stimulation|NN therapy|NN medication|NN stress|NN urge|NN incontinence|NN benefit|NN medication|NN term|NN safety|NN Urinary incontinence|Disease women|NN content|NN
+cause|NN mechanism|NN children|NN diagnosis|NN type|NN screen|NN management|NN therapy|NN exercise|NN device|NN surgery|NN treatment|NN epidemiology|NN children|NN women|NN men|NN history|NN reference|NN link|NN
+Urinary incontinence|Disease urologic|NN non-urologic|NN cause|NN
+cause|NN bladder|NN dysfunction|NN bladder|NN compliance|NN deficiency|NN
+cause|NN infection|NN medication|NN drug|NN factor|NN stool|NN impaction|NN mobility|NN
+type|NN Urinary incontinence|Disease women|NN stress|NN Urinary incontinence|Disease urge|NN Urinary incontinence|Disease
+women|NN problem|NN Urinary incontinence|Disease
+menopause|NN production|NN decrease|NN women|NN tissue|NN atrophy|NN tissue|NN urethra|NN stress|NN Urinary incontinence|Disease loss|NN support|NN urethra|NN consequence|NN damage|NN support|NN structure|NN result|NN childbirth|NN
+leak|NN amount|NN urine|NN activity|NN pressure|NN sneez|NN lift|NN
+exercise|NN activity|NN incontinence|NN
+Urinary incontinence|Disease contraction|NN muscle|NN
+leak|NN amount|NN urine|NN association|NN warn|NN bathroom|NN time|NN
+urine|NN production|NN turn|NN cause|NN diabete|NN mellitus|NN fluid|NN diabete|NN diabete|NN urgency|NN frequency|NN lead|NN incontinence|NN
+prostate|NN cause|NN incontinence|NN men|NN age|NN prostate|NN cancer|NN Urinary incontinence|Disease
+drug|NN radiation|NN prostate|NN cancer|NN incontinence|NN
+disorder|NN sclerosis|NN spina|NN disease|NN stroke|NN cord|NN injury|NN nerve|NN function|NN bladder|NN
+Urinary incontinence|Disease outcome|NN prostatectomy|NN procedure|NN women|NN experience|NN Urinary incontinence|Disease birth|NN women|NN Urinary incontinence|Disease women|NN birth|NN caesarean|NN section|NN
+micturition|NN balance|NN closure|NN muscle|NN activity|NN
+pressure|NN bladder|NN pressure|NN urine|NN bladder|NN
+urethra|NN bladder|NN pelvis|NN
+pressure|NN increase|NN cough|NN sneez|NN urethra|NN bladder|NN pressure|NN differential|NN continence|NN
+void|NN result|NN change|NN pressure|NN factor|NN pressure|NN fall|NN bladder|NN pressure|NN rise|NN
+body|NN store|NN urine|NN water|NN waste|NN kidney|NN bladder|NN organ|NN
+bladder|NN urethra|NN tube|NN urine|NN body|NN
+urination|NN muscle|NN wall|NN bladder|NN contract|NN urine|NN bladder|NN urethra|NN
+time|NN muscle|NN urethra|NN urine|NN pass|NN body|NN
+incontinence|NN bladder|NN muscle|NN contract|NN muscle|NN muscle|NN urethra|NN muscle|NN
+children|NN dysfunction|NN article|NN
+bladder|NN muscle|NN part|NN abdomen|NN
+bladder|NN store|NN urine|NN urethra|NN canal|NN urine|NN outside|NN body|NN
+activity|NN nerve|NN muscle|NN cord|NN brain|NN
+bladder|NN type|NN muscle|NN detrusor|NN sac|NN urine|NN group|NN muscle|NN bottom|NN neck|NN bladder|NN urine|NN contract|NN urine|NN urethra|NN
+group|NN muscle|NN bladder|NN floor|NN muscle|NN urine|NN back|NN
+bladder|NN set|NN point|NN contract|NN empty|NN
+child|NN system|NN
+brain|NN message|NN fill|NN bladder|NN message|NN bladder|NN child|NN time|NN place|NN void|NN
+failure|NN control|NN mechanism|NN result|NN incontinence|NN
+reason|NN failure|NN range|NN
+history|NN take|NN pattern|NN void|NN urine|NN leakage|NN type|NN incontinence|NN
+point|NN discomfort|NN use|NN drug|NN surgery|NN illness|NN
+examination|NN sign|NN condition|NN incontinence|NN block|NN tract|NN stool|NN impaction|NN reflexe|NN sensation|NN evidence|NN cause|NN
+test|NN measurement|NN bladder|NN capacity|NN urine|NN evidence|NN function|NN bladder|NN muscle|NN
+stress|NN test|NN patient|NN cough|NN doctor|NN watche|NN loss|NN urine|NN
+urine|NN evidence|NN infection|NN stone|NN cause|NN
+blood|NN test|NN blood|NN laboratory|NN substance|NN cause|NN incontinence|NN
+ultrasound|NP sound|NN wave|NN kidney|NN bladder|NN
+tube|NN camera|NN urethra|NN urethra|NN bladder|NN
+technique|NN measure|NN pressure|NN bladder|NN flow|NN urine|NN
+patient|NN diary|NN day|NN week|NN pattern|NN void|NN time|NN amount|NN urine|NN
+research|NN project|NN efficacy|NN therapy|NN extent|NN Urinary incontinence|Disease
+method|NN pad|NN test|NN leakage|NN volume|NN diary|NN number|NN incontinence|NN episode|NN leakage|NN episode|NN day|NN assess|NN strength|NN floor|NN muscle|NN squeeze|NN pressure|NN
+type|NN Urinary incontinence|Disease alcohol|NN intoxication|NN
+stress|NN incontinence|NN effort|NN incontinence|NN strength|NN floor|NN muscle|NN passage|NN urine|NN activity|NN pressure|NN sneez|NN
+incontinence|NN loss|NN urine|NN reason|NN need|NN urge|NN
+incontinence|NN people|NN bladder|NN time|NN urine|NN
+bladder|NN name|NN overflow|NN incontinence|NN
+incontinence|NN population|NN retention|NN
+incontinence|NN problem|NN incontinence|NN childhood|NN example|NN ureter|NN
+trauma|NN injury|NN fistula|NN incontinence|NN
+type|NN fistula|NN fistula|NN fistula|NN
+use|NN technique|NN vaginogram|NN view|NN vault|NN instillation|NN contrast|NN media|NN incontinence|NN person|NN need|NN bathroom|NN
+loss|NN urine|NN
+cause|NN incontinence|NN confusion|NN dementia|NN eyesight|NN mobility|NN dexterity|NN unwillingness|NN toilet|NN depression|NN anxiety|NN due|NN alcohol|NN incontinence|NN circumstance|NN problem|NN
+example|NN person|NN need|NN situation|NN toilet|NN access|NN toilet|NN
+enuresis|NN Urinary incontinence|Disease
+incontinence|NN incontinence|NN women|NN birth|NN child|NN incontinence|NN response|NN laughter|NN
+condition|NN defecation|NN incontinence|NN
+involvement|NN muscle|NN group|NN bladder|NN bowel|NN continence|NN patient|NN Urinary incontinence|Disease incontinence|NN addition|NN incontinence|NN
+dribble|NN phenomenon|NN urine|NN urethra|NN void|NN bladder|NN urination|NN
+incontinence|NN ci|NN leakage|NN penetration|NN orgasm|NN partner|NN masturbation|NN
+women|NN floor|NN disorder|NN Urinary incontinence|Disease moment|NN orgasm|NN
+result|NN prostatectomy|NN
+screen|NN women|NN womens|NP service|NN initiative|NN management|NN
+treatment|NN option|NN range|NN treatment|NN behavior|NN management|NN bladder|NN retrain|NN floor|NN therapy|NN device|NN men|NN device|NN incontinence|NN men|NN medication|NN surgery|NN success|NN treatment|NN diagnose|NN weight|NN loss|NN therapy|NN
+therapy|NN use|NN technique|NN distraction|NN relaxation|NN learn|NN food|NN Urinary incontinence|Disease
+consumption|NN caffeine|NN alcohol|NN
+therapy|NN Urinary incontinence|Disease person|NN quality|NN life|NN
+therapy|NN benefit|NN monotherapy|NN adjunct|NN medication|NN symptom|NN reduction|NN exercise|NN
+muscle|NN pelvis|NN exercise|NN line|NN treatment|NN women|NN stress|NN incontinence|NN effort|NN time|NN urination|NN bladder|NN train|NN urge|NN incontinence|NN incontinence|NN
+cone|NN weight|NN exercise|NN treatment|NN women|NN stress|NN Urinary incontinence|Disease effect|NN train|NN floor|NN muscle|NN electrostimulation|NN
+device|NN patient|NN function|NN
+device|NN diary|NN track|NN bladder|NN muscle|NN contract|NN patient|NN control|NN muscle|NN
+muscle|NN exercise|NN stimulation|NN stress|NN urge|NN incontinence|NN
+time|NN bladder|NN train|NN technique|NN biofeedback|NN
+time|NN patient|NN chart|NN void|NN leak|NN
+pattern|NN chart|NN patient|NN bladder|NN
+muscle|NN condition|NN bladder|NN train|NN bladder|NN schedule|NN urine|NN
+technique|NN urge|NN overflow|NN incontinence|NN
+trial|NN benefit|NN biofeedback|NN floor|NN muscle|NN exercise|NN stress|NN Urinary incontinence|Disease improvement|NN source|NN trial|NN addition|NN biofeedback|NN train|NN floor|NN muscle|NN treatment|NN stress|NN Urinary incontinence|Disease floor|NN muscle|NN function|NN symptom|NN quality|NN source|NN
+floor|NN muscle|NN train|NN men|NN prostatectomy|NN Urinary incontinence|Disease
+exercise|NN stress|NN Urinary incontinence|Disease women|NN evidence|NN use|NN paula|NP method|NN muscle|NN train|NN tai|NP chi|NP breath|NN exercise|NN train|NN fitness|NN device|NN
+individual|NN Urinary incontinence|Disease need|NN management|NN solution|NN situation|NN
+use|NN device|NN women|NN
+system|NN men|NN sheath|NN penis|NN urine|NN urine|NN bag|NN leg|NN
+product|NN variety|NN material|NN size|NN fit|NN
+study|NN urisheath|NN urine|NN bag|NN product|NN limitation|NN activity|NN
+solution|NN level|NN incontinence|NN
+advantage|NN system|NN skin|NN time|NN day|NN night|NN
+disadvantage|NN fit|NN country|NN prescription|NN
+product|NN shield|NN undergarment|NN underwear|NN brief|NN diaper|NN adult|NN diaper|NN underpant|NN product|NN type|NN incontinence|NN
+pharmacy|NN supermarket|NN
+advantage|NN fit|NN introduction|NN health-care|NN specialist|NN
+disadvantage|NN product|NN leak|NN skin|NN breakdown|NN dampness|NN
+device|NN men|NN penis|NN urethra|NN flow|NN urine|NN
+management|NN solution|NN light|NN incontinence|NN
+catheter|NN catheter|NN bladder|NN bladder|NN
+catheter|NN retention|NN inability|NN bladder|NN people|NN incontinence|NN
+catheter|NN foley|NN hospital|NN set|NN user|NN solution|NN neurologic|NN injury|NN disease|NN
+catheter|NN urine|NN bag|NN leg|NN side|NN bed|NN
+catheter|NN basis|NN health-care|NN
+advantage|NN catheter|NN urine|NN body|NN skin|NN
+disadvantage|NN infection|NN catheter|NN
+spasm|NN problem|NN use|NN catheter|NN
+number|NN medication|NN incontinence|NN tolterodine|NN oxybutynin|NN number|NN benefit|NN risk|NN side|NN effect|NN concern|NN people|NN urine|NN medication|NN benefit|NN
+stress|NN incontinence|NN urge|NN incontinence|NN bladder|NN train|NN surgery|NN
+surgery|NN stress|NN overflow|NN incontinence|NN technique|NN stress|NN incontinence|NN sling|NN tape|NN bladder|NN suspension|NN use|NN mesh|NN implant|NN bladder|NN sling|NN
+risk|NN side|NN effect|NN erosion|NN mesh|NN implant|NN risk|NN device|NN food|NN drug|NN administration|NN test|NN restoration|NN vault|NN prolapse|NN motor|NN urge|NN incontinence|NN
+problem|NN prostate|NN surgery|NN evidence|NN use|NN surgery|NN treatment|NN
+material|NN benefit|NN epidemiology|NN
+population|NN age|NN year|NN leakage|NN people|NN year|NN age|NN live|NN home|NN apartment|NN percent|NN adult|NN Urinary incontinence|Disease
+control|NN problem|NN incidence|NN health|NN problem|NN obesity|NN diabete|NN
+difficulty|NN bladder|NN control|NN result|NN rate|NN depression|NN activity|NN level|NN
+incontinence|NN individual|NN form|NN bladder|NN control|NN product|NN health|NN care|NN system|NN nurse|NN home|NN industry|NN
+injury|NN incontinence|NN cause|NN admission|NN live|NN nurse|NN care|NN facility|NN
+facility|NN admission|NN incontinence|NN children|NN
+incontinence|NN age|NN percent|NN percent|NN 10-year-old|NN percent|NN 18-year-old|NN experience|NN episode|NN incontinence|NN
+girl|NN boy|NN
+citation|NN women|NN
+symptom|NN women|NN age|NN
+bladder|NN problem|NN women|NN women|NN age|NN year|NN men|NN experience|NN incontinence|NN women|NN age|NN year|NN bladder|NN control|NN problem|NN reason|NN women|NN weaken|NN floor|NN muscle|NN pregnancy|NN men|NN
+men|NN experience|NN incontinence|NN women|NN structure|NN tract|NN account|NN difference|NN
+prostate|NN cancer|NN treatment|NN
+women|NN men|NN injury|NN defect|NN stroke|NN sclerosis|NN problem|NN
+Urinary incontinence|Disease men|NN men|NN onset|NN incontinence|NN age|NN
+estimate|NN mid-2000|NN percent|NN men|NN age|NN 600000|NN men|NN Urinary incontinence|Disease percentage|NN age|NN history|NN
+management|NN Urinary incontinence|Disease pad|NN book|NN eber|NN
+incontinence|NN subject|NN culture|NN
+situation|NN adult|NN diaper|NN actor|NN june|NP allyson|NP spokeswoman|NN
+mother|NN incontinence|NN duty|NN light|NN career|NN
+product|NN success|NN

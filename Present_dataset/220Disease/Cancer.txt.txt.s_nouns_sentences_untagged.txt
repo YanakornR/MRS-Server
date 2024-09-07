@@ -1,0 +1,327 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN cancer|DS disambiguation|NN 
+cancer|DS name|NN cancer|DS cancer|DS mesothelioma2|NN ct|NN scan|NN mesothelioma|DS legend|NN 
+effusion|NN lung|NN spine|NN rib|NN aorta|NN spleen|NN kidney|NN liver|NN pronunciation|NN 
+oncology|NN symptom|NN cough|ST weight_loss|ST change|NN bowel|NN movement|NN factor|NN tobacco|NN obesity|NN diet|NN lack|NN activity|NN alcohol|NN infection|NN treatment|NN radiation|NN therapy|NN surgery|NN chemotherapy|NN therapy|NN average|NN year|NN survival|NN usa|NN frequency|NN death|NN 
+cancer|DS group|NN disease|NN cell|NN growth|NN potential|NN part|NN body|NN contrast|NN tumor|NN sign|NN symptom|NN lump|NN cough|ST weight_loss|ST change|NN bowel|NN movement|NN symptom|NN cancer|DS cause|NN type|NN cancer|DS affect|NN human|NN 
+tobacco|NN use|NN cause|NN cancer|DS death|NN obesity|NN diet|NN lack|NN activity|NN drink|NN alcohol|NN factor|NN infection|NN exposure|NN radiation|NN pollutant|NN world|NN cancer|DS infection|NN helicobacter|NN pylory|NN hepatitis_b|DS hepatitis_c|DS papillomavirus|NN infection|NN virus|NN immunodeficiency|NN virus|NN hiv|DS factor|NN gene|NN cell|NN change|NN cancer|DS cancer|DS defect|NN person|NN parent|NN cancer|DS sign|NN symptom|NN screen|NN test|NN image|NN biopsy|NN 
+cancer|DS weight|NN alcohol|NN eate|NN plenty|NN vegetable|NN fruit|NN grain|NN vaccination|NN disease|NN meat|NN sunlight|NN exposure|NN detection|NN screen|NN cancer|DS benefit|NN screen|NN breast_cancer|DS cancer|DS combination|NN radiation|NN therapy|NN surgery|NN chemotherapy|NN therapy|NN pain|ST symptom|NN management|NN part|NN care|NN care|NN people|NN disease|NN chance|NN survival|NN type|NN cancer|DS extent|NN disease|NN start|NN treatment|NN children|NN diagnosis|NN survival|NN rate|NN world|NN average|NN cancer|DS united|NN states|NN survival|NN rate|NN 
+people|NN cancer|DS case|NN year|NN skin|NN cancer|DS melanoma|NN death|NN death|NN type|NN cancer|DS male|NN lung_cancer|DS prostate|NN cancer|DS cancer|DS stomach_cancer|DS female|NN type|NN breast_cancer|DS cancer|DS lung_cancer|DS cancer|DS skin|NN cancer|DS melanoma|NN cancer|DS case|NN year|NN case|NN children|NN leukemia|DS brain|NN tumor|NN africa|NN non-hodgkin_lymphoma|DS 2012|NN children|NN year|NN age|NN cancer|DS risk|NN cancer|DS increase|NN age|NN cancer|DS country|NN rate|NN people|NN age|NN lifestyle|NN change|NN world|NN cost|NN cancer|DS usd|NN year|NN filewikipedia-videowiki-|NN cancer|DS media|NN video|NN summary|NN script|NN content|NN 
+definition|NN sign|NN symptom|NN symptom|NN symptom|NN cause|NN chemical|NN diet|NN exercise|NN infection|NN radiation|NN agent|NN disease|NN genetics|NN diagnosis|NN classification|NN prevention|NN vaccination|NN screen|NN recommendation|NN test|NN management|NN radiation|NN surgery|NN care|NN laser|NN therapy|NN medicine|NN epidemiology|NN history|NN society|NN culture|NN effect|NN workplace|NN research|NN pregnancy|NN animal|NN note|NN read|NN link|NN 
+cancer|DS family|NN disease|NN cell|NN growth|NN potential|NN part|NN body|NN subset|NN 
+neoplasm|NN tumor|NN group|NN cell|NN growth|NN mass|NN lump|NN 
+tumor|NN cell|NN hallmark|NN cancer|DS 
+characteristics|NN cancer|DS 
+cell|NN growth|NN division|NN signal|NN growth|NN division|NN signal|NN avoidance|NN cell|NN death|NN number|NN cell|NN division|NN blood|NN vessel|NN construction|NN invasion|NN tissue|NN formation|NN metastase|NN 
+progression|NN cell|NN cell|NN mass|NN cancer|DS step|NN progression|NN sign|NN symptom|NN article|NN cancer|DS sign|NN symptom|NN symptom|NN cancer|DS metastasis|NN location|NN tumor|NN 
+cancer|DS symptom|NN 
+sign|NN symptom|NN mass|NN 
+find|NN result|NN cancer|DS type|NN location|NN 
+individual|NN condition|NN 
+cancer|DS imitator|NN 
+people|NN cancer|DS disease|NN symptom|NN 
+people|NN post-diagnosis|NN 
+risk|NN suicide|NN people|NN cancer|DS symptom|NN 
+symptom|NN mass|NN tumor|NN ulceration|NN 
+example|NN mass|NN effect|NN lung_cancer|DS bronchus|NN cough|ST pneumonia|DS cancer|DS narrow|NN esophagus|NN cancer|DS narrow|NN blockage|NN bowel|NN bowel|NN habit|NN 
+mass|NN breast|NN testicle|NN lump|NN 
+lung|NN cough|ST blood|NN bowel|NN anemia|DS bleed|NN bladder|NN blood|NN urine|NN uterus|NN 
+pain|ST cancer|DS swell|NN 
+cancer|DS buildup|NN fluid|NN chest|NN abdomen|NN symptom|NN 
+symptom|NN effect|NN spread|NN 
+weight_loss|ST fever|ST fatigue|ST change|NN skin|NN hodgkin|NN disease|NN cancer|DS liver|NN kidney|NN fever|ST 
+cancer|DS group|NN symptom|NN syndrome|NN 
+example|NN appearance|NN myasthenia_gravis|DS thymoma|DS lung_cancer|DS article|NN 
+cancer|DS site|NN spread|NN spread|NN lymph|NN node|NN spread|NN blood|NN site|NN metastasis|NN 
+cancer|DS route|NN body|NN 
+cancer|DS seed|NN site|NN soil|NN soil|NN seed|NN hypothesis|NN cancer|DS metastasis|NN 
+symptom|NN cancer|DS tumor|NN location|NN lymph|NN node|NN skin|NN liver|NN spleen|NN abdomen|NN pain|ST fracture|NN bone|NN symptom|NN cause|NN article|NN cause|NN cancer|DS 
+majority|NN cancer|DS 9095|NN case|NN mutation|NN lifestyle|NN factor|NN genetics|NN cancer|DS researcher|NN cause|NN lifestyle|NN factor|NN pollution|NN factor|NN cancer|DS death|NN tobacco|NN diet|NN obesity|NN infection|NN radiation|NN stress|NN lack|NN activity|NN pollution|NN 
+cancer|DS cause|NN fingerprint|NN 
+example|NN person|NN tobacco|NN lung_cancer|DS tobacco|NN use|NN chance|NN lung_cancer|DS result|NN air|NN pollution|NN radiation|NN cancer|DS reason|NN 
+transmission|NN pregnancy|NN organ|NN donor|NN cancer|DS disease|NN chemical|NN information|NN alcohol|NN cancer|DS smoke|NN cancer|DS incidence|NN lung_cancer|DS smoke|NN 
+exposure|NN substance|NN type|NN cancer|DS 
+substance|NN carcinogen|NN 
+tobacco|NN smoke|NN example|NN cause|NN lung_cancer|DS cancer|DS larynx|NN head|NN neck|NN stomach|NN bladder|NN kidney|NN pancrea|NN tobacco|NN smoke|NN carcinogen|NN nitrosamine|NN hydrocarbon|NN 
+tobacco|NN cancer|DS death|NN world|NN lung_cancer|DS death|NN rate|NN united|NN states|NN smoke|NN pattern|NN increase|NN smoke|NN increase|NN lung_cancer|DS death|NN rate|NN smoke|NN rate|NN decrease|NN lung_cancer|DS death|NN rate|NN men|NN 
+europe|NN cancer|DS male|NN cancer|DS female|NN alcohol|NN exposure|NN liver|NN tract|NN cancer|DS cancer|DS substance|NN exposure|NN case|NN death|NN cancer|DS lung_cancer|DS tobacco|NN smoke|NN asbesto|NN exposure|NN benzene|NN diet|NN exercise|NN article|NN diet|NN cancer|DS 
+diet|NN inactivity|NN obesity|NN 3035|NN cancer|DS death|NN united|NN states|NN excess|NN body|NN weight|NN development|NN type|NN cancer|DS factor|NN cancer|DS death|NN uk|NN study|NN data|NN people|NN body|NN mass|NN index|NN type|NN cancer|DS case|NN year|NN country|NN inactivity|NN cancer|DS risk|NN effect|NN body|NN weight|NN effect|NN system|NN system|NN effect|NN diet|NN eate|NN eate|NN vegetable|NN healthful|NN food|NN 
+food|NN cancer|DS 
+diet|NN cancer|DS food|NN contaminant|NN liver|NN cancer|DS nut|NN chew|NN cancer|DS difference|NN practice|NN difference|NN cancer|DS incidence|NN 
+example|NN cancer|DS japan|NN diet|NN colon|NN cancer|DS united|NN states|NN 
+cancer|DS profile|NN mirror|NN country|NN generation|NN infection|NN article|NN cause|NN cancer|DS 
+cancer|DS death|NN disease|NN proportion|NN range|NN high|NN africa|NN world|NN viruse|NN agent|NN cause|NN cancer|DS cancer|DS bacteria|NN parasite|NN role|NN 
+viruse|NN cancer|DS papillomavirus|NN cancer|DS virus|NN b-cell|NN disease|NN carcinoma|NN sarcoma|NN sarcoma|NN effusion|NN lymphoma|DS hepatitis|DS hepatitis_c|DS viruse|NN carcinoma|NN t-cell|NN t-cell|NN 
+infection|NN risk|NN cancer|DS helicobacter|NN carcinoma|NN infection|NN cancer|DS cell|NN carcinoma|NN bladder|NN liver|NN fluke|NN viverriny|NN clonorchis|NN radiation|NN article|NN cancer|DS 
+radiation|NN exposure|NN radiation|NN material|NN risk|NN factor|NN cancer|DS skin|NN cancer|DS radiation|NN sunlight|NN source|NN radiation|NN image|NN radon|NN ga|NN 
+radiation|NN exposure|NN radon|NN ga|NN example|NN cancer|DS risk|NN smoke|NN radiation|NN source|NN cancer|DS cancer|DS agent|NN radon|NN tobacco|NN smoke|NN radiation|NN cancer|DS part|NN body|NN animal|NN age|NN 
+children|NN leukemia|DS adult|NN radiation|NN exposure|NN birth|NN time|NN effect|NN 
+use|NN radiation|NN source|NN cancer|DS 
+radiation|NN cancer|DS case|NN second|NN form|NN cancer|DS kind|NN image|NN 
+exposure|NN radiation|NN sun|NN melanoma|NN skin|NN malignancy|NN evidence|NN radiation|NN medium|NN wave|NN uvb|NN cause|NN skin|NN cancer|DS form|NN cancer|DS world|NN 
+radio|NN frequency|NN radiation|NN phone|NN power|NN transmission|NN source|NN carcinogen|NN world|NN health|NN organization|NN agency|NN research|NN cancer|DS evidence|NN concern|NN study|NN link|NN phone|NN radiation|NN cancer|DS risk|NN article|NN cancer|DS syndrome|NN 
+majority|NN cancer|DS 
+cancer|DS defect|NN 
+population|NN carrier|NN mutation|NN effect|NN cancer|DS risk|NN cause|NN cancer|DS syndrome|NN mutation|NN gene|NN risk|NN breast_cancer|DS cancer|DS cancer|DS lynch|NN syndrome|NN people|NN cancer|DS 
+cancer|DS mortality|NN risk|NN cancer|DS parent|NN sible|NN child|NN risk|NN lung_cancer|DS prostate|NN cancer|DS breast_cancer|DS risk|NN relative|NN year|NN age|NN relative|NN year|NN age|NN 
+people|NN risk|NN cancer|DS cell|NN people|NN 
+height|NN extent|NN people|NN increase|NN cancer|DS risk|NN agent|NN 
+substance|NN cause|NN cancer|DS effect|NN example|NN exposure|NN asbesto|NN mineral|NN fiber|NN cause|NN cancer|DS membrane|NN membrane|NN lung|NN substance|NN category|NN asbestos-like|NN glass|NN wool|NN rock|NN wool|NN effect|NN particulate|NN material|NN cause|NN cancer|DS cobalt|NN nickel|NN silica|NN quartz|NN carcinogen|NN body|NN inhalation|NN year|NN exposure|NN cancer|DS 
+trauma|NN cancer|DS claim|NN break|NN bone|NN bone|NN cancer|DS example|NN trauma|NN cause|NN cancer|DS breast_cancer|DS brain|NN cancer|DS source|NN application|NN object|NN body|NN 
+burn|NN part|NN body|NN kanger|NN kairo|NN heater|NN charcoal|NN hand|NN skin|NN cancer|DS chemical|NN consumption|NN tea|NN cancer|DS cancer|DS cancer|DS process|NN heal|NN trauma|NN injury|NN tissue|NN cell|NN proliferation|NN odd|NN cancer|DS mutation|NN 
+inflammation|NN cause|NN mutation|NN proliferation|NN survival|NN angiogenesis|NN migration|NN cancer|DS cell|NN tumor|NN microenvironment|NN pro-tumorigenic|NN microenvironment|NN 
+hormone|NN role|NN development|NN cancer|DS cell|NN proliferation|NN growth|NN factor|NN protein|NN role|NN cancer|DS cell|NN proliferation|NN differentiation|NN apoptosis|NN involvement|NN carcinogenesis|NN 
+agent|NN cancer|DS cancer|DS breast|NN endometrium|NN prostate|NN ovary|NN testis|NN cancer|DS bone|NN cancer|DS example|NN daughter|NN women|NN breast_cancer|DS level|NN estrogen|NN progesterone|NN daughter|NN women|NN breast_cancer|DS 
+hormone|NN level|NN risk|NN breast_cancer|DS absence|NN breast-|NN cancer|DS gene|NN men|NN ancestry|NN level|NN testosterone|NN men|NN ancestry|NN level|NN prostate|NN cancer|DS men|NN ancestry|NN level|NN glucuronide|NN level|NN prostate|NN cancer|DS 
+factor|NN people|NN level|NN hormone|NN cancer|DS rate|NN cancer|DS women|NN hormone|NN replacement|NN therapy|NN risk|NN cancer|DS hormone|NN hand|NN people|NN average|NN level|NN hormone|NN risk|NN cancer|DS osteosarcoma|NN growth|NN hormone|NN treatment|NN prevention|NN approache|NN leverage|NN cause|NN hormone|NN level|NN cancer|DS disease|NN 
+association|NN disease|NN risk|NN cancer|DS 
+people|NN disease|NN risk|NN risk|NN time|NN diagnosis|NN treatment|NN adoption|NN diet|NN role|NN development|NN malignancy|NN people|NN disease|NN 
+delay|NN diagnosis|NN initiation|NN diet|NN risk|NN malignancy|NN rate|NN cancer|DS people|NN disease|NN colitis|DS inflammation|NN 
+agent|NN disease|NN extra-intestinal|NN malignancy|NN article|NN cancer|DS series|NN mutation|NN 
+mutation|NN behavior|NN cell|NN 
+genetics|NN article|NN 
+cancer|DS disease|NN tissue|NN growth|NN regulation|NN 
+order|NN cell|NN cancer|DS cell|NN gene|NN cell|NN growth|NN differentiation|NN 
+gene|NN category|NN 
+gene|NN cell|NN growth|NN reproduction|NN 
+suppressor|NN gene|NN gene|NN cell|NN division|NN survival|NN 
+transformation|NN formation|NN novel|NN oncogene|NN over-expression|NN oncogene|NN under-expression|NN disable|NN tumor|NN suppressor|NN gene|NN 
+change|NN gene|NN cell|NN cancer|DS cell|NN 
+change|NN level|NN mechanism|NN 
+gain|NN loss|NN chromosome|NN error|NN mitosis|NN 
+mutation|NN change|NN nucleotide|NN sequence|NN dna|NN 
+mutation|NN deletion|NN gain|NN portion|NN chromosome|NN 
+amplification|NN cell|NN gain|NN copy|NN locus|NN oncogene|NN material|NN 
+region|NN location|NN 
+example|NN philadelphia|NN chromosome|NN translocation|NN chromosome|NN myelogenous|NN result|NN production|NN fusion|NN protein|NN tyrosine|NN kinase|NN 
+mutation|NN point|NN mutation|NN deletion|NN insertion|NN promoter|NN region|NN gene|NN expression|NN gene|NN code|NN sequence|NN function|NN stability|NN protein|NN product|NN 
+disruption|NN gene|NN integration|NN material|NN dna|NN virus|NN retrovirus|NN expression|NN oncogene|NN cell|NN descendant|NN 
+replication|NN data|NN dna|NN live|NN cell|NN result|NN error|NN mutation|NN 
+error|NN correction|NN prevention|NN process|NN cell|NN cancer|DS 
+error|NN cell|NN cell|NN death|NN apoptosis|NN 
+error|NN control|NN process|NN mutation|NN daughter|NN cell|NN 
+environment|NN error|NN 
+environment|NN presence|NN substance|NN carcinogen|NN injury|NN heat|NN radiation|NN hypoxia|NN 
+error|NN cancer|DS example|NN 
+mutation|NN machinery|NN cell|NN cell|NN children|NN error|NN 
+mutation|NN oncogene|NN cell|NN counterpart|NN 
+mutation|NN loss|NN tumor|NN suppressor|NN gene|NN apoptosis|NN pathway|NN cell|NN 
+mutation|NN machinery|NN cell|NN signal|NN cell|NN 
+transformation|NN cell|NN cancer|DS chain|NN reaction|NN error|NN compound|NN error|NN cell|NN control|NN tissue|NN growth|NN 
+scenario|NN survival|NN force|NN evolution|NN work|NN design|NN enforcement|NN order|NN 
+cancer|DS process|NN evolution|NN progression|NN stage|NN evolution|NN heterogeneity|NN cancer|DS cell|NN mutation|NN treatment|NN strategy|NN 
+ability|NN cancer|DS category|NN evasion|NN apoptosis|NN self-sufficiency|NN growth|NN signal|NN insensitivity|NN signal|NN angiogenesis|NN metastasis|NN reprogram|NN energy|NN metabolism|NN evasion|NN destruction|NN article|NN cancer|DS role|NN dna|NN damage|NN defect|NN dna|NN repair|NN gene|NN carcinogenesis|NN 
+view|NN cancer|DS set|NN disease|NN abnormality|NN mutation|NN gene|NN oncogene|NN abnormality|NN 
+alteration|NN role|NN 
+alteration|NN modification|NN genome|NN nucleotide|NN sequence|NN 
+example|NN modification|NN change|NN dna|NN methylation|NN histone|NN modification|NN change|NN architecture|NN expression|NN protein|NN alteration|NN gene|NN expression|NN dna|NN sequence|NN 
+change|NN cell|NN division|NN generation|NN mutation|NN 
+alteration|NN cancer|DS 
+example|NN study|NN protein|NN code|NN gene|NN methylation|NN association|NN colon|NN cancer|DS 
+hypermethylate|NN gene|NN 
+gene|NN colon|NN cancer|DS colon|NN cancer|DS 
+alteration|NN cancer|DS alteration|NN dna|NN repair|NN gene|NN expression|NN dna|NN repair|NN protein|NN importance|NN 
+alteration|NN progression|NN cancer|DS cause|NN instability|NN characteristic|NN cancer|DS 
+expression|NN dna|NN repair|NN gene|NN dna|NN repair|NN 
+figure|NN level|NN top|NN 
+figure|NN word|NN role|NN dna|NN damage|NN defect|NN dna|NN repair|NN progression|NN cancer|DS 
+dna|NN repair|NN dna|NN damage|NN cell|NN level|NN level|NN cause|NN frequency|NN mutation|NN level|NN 
+mutation|NN rate|NN increase|NN cell|NN dna|NN mismatch|NN repair|NN repair|NN rearrangement|NN aneuploidy|NN increase|NN cell|NN 
+level|NN dna|NN damage|NN cause|NN mutation|NN right|NN side|NN figure|NN epimutation|NN 
+repair|NN dna|NN strand|NN break|NN repair|NN dna|NN damage|NN repair|NN site|NN gene|NN silence|NN 
+expression|NN dna|NN repair|NN protein|NN mutation|NN cancer|DS risk|NN 
+individual|NN impairment|NN dna|NN repair|NN gene|NN article|NN dna|NN disorder|NN cancer|DS risk|NN defect|NN lifetime|NN chance|NN cancer|DS mutation|NN line|NN dna|NN repair|NN mutation|NN figure|NN side|NN 
+mutation|NN cancer|DS syndrome|NN cause|NN percent|NN cancer|DS 
+cancer|DS deficiency|NN dna|NN repair|NN mutation|NN dna|NN repair|NN gene|NN alteration|NN silence|NN expression|NN dna|NN repair|NN gene|NN 
+figure|NN level|NN 
+study|NN metal-induce|NN carcinogenesis|NN show|NN metal|NN reduction|NN expression|NN dna|NN repair|NN enzyme|NN mechanism|NN 
+dna|NN repair|NN inhibition|NN mechanism|NN metal-induce|NN 
+addition|NN alteration|NN dna|NN sequence|NN code|NN rna|NN mirna|NN protein|NN gene|NN expression|NN 
+cancer|DS assemblage|NN mutation|NN epimutation|NN advantage|NN expansion|NN field|NN defect|NN progression|NN cancer|DS 
+mutation|NN cancer|DS alteration|NN 
+cancer|DS breast|NN colon|NN protein-alter|NN mutation|NN driver|NN mutation|NN passenger|NN mutation|NN article|NN 
+spread|NN cancer|DS location|NN body|NN 
+tumor|NN original|NN tumor|NN 
+cancer|DS cancer|DS death|NN cancer|DS 
+stage|NN cancer|DS blood|NN system|NN 
+step|NN metastasis|NN invasion|NN blood|NN lymph|NN circulation|NN body|NN tissue|NN proliferation|NN angiogenesis|NN 
+type|NN cancer|DS organ|NN place|NN metastase|NN lung|NN liver|NN brain|NN bone|NN diagnosis|NN chest|NN x-ray|NN lung_cancer|DS lung|NN 
+cancer|DS appearance|NN sign|NN symptom|NN screen|NN 
+lead|NN diagnosis|NN examination|NN tissue|NN sample|NN pathologist|NN 
+people|NN cancer|DS test|NN 
+blood|NN test|NN x-ray|NN contrast|NN ct|NN scan|NN endoscopy|NN 
+tissue|NN diagnosis|NN biopsy|NN type|NN cell|NN grade|NN abnormality|NN feature|NN 
+information|NN prognosis|NN treatment|NN 
+immunohistochemistry|NN type|NN tissue|NN test|NN 
+test|NN information|NN change|NN mutation|NN fusion|NN gene|NN chromosome|NN change|NN prognosis|NN treatment|NN 
+classification|NN information|NN list|NN cancer|DS type|NN list|NN term|NN 
+cancer|DS type|NN cell|NN tumor|NN cell|NN origin|NN tumor|NN 
+cancer|DS cell|NN 
+group|NN cancer|DS breast|NN prostate|NN lung|NN pancrea|NN colon|NN 
+cancer|DS tissue|NN bone|NN cartilage|NN fat|NN nerve|NN cell|NN cell|NN bone|NN marrow|NN 
+class|NN cell|NN marrow|NN lymph|NN node|NN blood|NN cell|NN tumor|NN cancer|DS cell|NN testicle|NN ovary|NN 
+cancer|DS precursor|NN cell|NN tissue|NN 
+cancer|DS -sarcoma|NN -blastoma|NN suffix|NN word|NN organ|NN tissue|NN origin|NN root|NN 
+example|NN cancer|DS liver|NN parenchyma|NN cell|NN malignancy|NN liver|NN precursor|NN cell|NN hepatoblastoma|DS cancer|DS cell|NN liposarcoma|DS 
+cancer|DS organ|NN name|NN 
+example|NN type|NN breast_cancer|DS carcinoma|NN breast|NN 
+adjective|NN ductal|NN appearance|NN cancer|DS microscope|NN milk|NN duct|NN 
+tumor|NN cancer|DS suffix|NN organ|NN name|NN root|NN 
+example|NN tumor|NN muscle|NN cell|NN leiomyoma|DS name|NN tumor|NN uterus|NN 
+type|NN cancer|DS use|NN suffix|NN example|NN melanoma|NN seminoma|DS 
+type|NN cancer|DS size|NN shape|NN cell|NN microscope|NN cell|NN carcinoma|NN spindle|NN cell|NN carcinoma|NN carcinoma|NN 
+ductal|NN carcinoma|NN breast|NN area|NN center|NN spike|NN scar|NN tissue|NN tissue|NN 
+carcinoma|NN top|NN center|NN colectomy|NN specimen|NN 
+carcinoma|NN tumor|NN bronchy|NN lung|NN specimen|NN 
+ductal|NN carcinoma|NN mastectomy|NN specimen|NN 
+prevention|NN article|NN cancer|DS prevention|NN 
+cancer|DS prevention|NN measure|NN cancer|DS risk|NN majority|NN cancer|DS case|NN risk|NN factor|NN 
+factor|NN lifestyle|NN choice|NN 
+cancer|DS cancer|DS factor|NN 
+greater|NN cancer|DS death|NN risk|NN factor|NN tobacco|NN excess|NN diet|NN inactivity|NN alcohol|NN infection|NN air|NN pollution|NN cause|NN background|NN radiation|NN cancer|DS disorder|NN behavior|NN 
+article|NN diet|NN cancer|DS 
+recommendation|NN cancer|DS risk|NN evidence|NN factor|NN increase|NN risk|NN obesity|NN alcohol|NN consumption|NN 
+low|NN fruit|NN vegetable|NN meat|NN review|NN meta-analyse|NN conclusion|NN meta-analysis|NN relationship|NN fruit|NN vegetable|NN cancer|DS coffee|NN risk|NN liver|NN cancer|DS study|NN consumption|NN red|NN meat|NN risk|NN breast_cancer|DS colon|NN cancer|DS cancer|DS phenomenon|NN presence|NN carcinogen|NN meat|NN temperature|NN iarc|NN meat|NN bacon|NN ham|NN dog|NN sausage|NN degree|NN meat|NN cancer|DS 
+recommendation|NN cancer|DS prevention|NN emphasis|NN vegetable|NN fruit|NN grain|NN fish|NN avoidance|NN meat|NN beef|NN pork|NN lamb|NN animal|NN fat|NN food|NN carbohydrate|NN 
+cancer|DS circumstance|NN population|NN nsaids|NN risk|NN cancer|DS side|NN effect|NN harm|NN prevention|NN aspirin|NN risk|NN death|NN cancer|DS inhibitor|NN rate|NN polyp|NN formation|NN people|NN polyposis|NN effect|NN nsaids|NN use|NN tamoxifen|NN risk|NN breast_cancer|DS women|NN benefit|NN harm|NN inhibitor|NN 
+vitamin|NN supplementation|NN cancer|DS blood|NN level|NN vitamin|NN cancer|DS risk|NN relationship|NN vitamin|NN d|NN supplementation|NN review|NN supplement|NN effect|NN cancer|DS risk|NN review|NN vitamin|NN risk|NN death|NN cancer|DS death|NN people|NN year|NN concern|NN quality|NN data|NN 
+supplementation|NN lung_cancer|DS rate|NN risk|NN acid|NN supplementation|NN colon|NN cancer|DS colon|NN polyp|NN supplementation|NN risk|NN cancer|DS vaccination|NN 
+vaccine|NN infection|NN viruse|NN papillomavirus|NN vaccine|NN decrease|NN risk|NN cancer|DS hepatitis|DS vaccine|NN infection|NN hepatitis|DS virus|NN risk|NN liver|NN cancer|DS administration|NN papillomavirus|NN hepatitis|DS vaccination|NN resource|NN screen|NN article|NN cancer|DS screen|NN 
+effort|NN symptom|NN sign|NN cancer|DS screen|NN effort|NN cancer|DS symptom|NN examination|NN blood|NN urine|NN test|NN image|NN 
+cancer|DS screen|NN type|NN cancer|DS 
+screen|NN mass|NN screen|NN screen|NN people|NN risk|NN people|NN family|NN history|NN factor|NN benefit|NN screen|NN risk|NN cost|NN screen|NN factor|NN 
+harm|NN screen|NN test|NN example|NN x-ray|NN image|NN exposure|NN radiation|NN likelihood|NN test|NN cancer|DS likelihood|NN cancer|DS screen|NN cancer|DS 
+harm|NN procedure|NN treatment|NN detection|NN treatment|NN outcome|NN cancer|DS treatment|NN test|NN people|NN screen|NN test|NN example|NN people|NN cost|NN 
+service|NN task|NN force|NN 
+service|NN task|NN force|NN issue|NN recommendation|NN cancer|DS 
+cancer|DS screen|NN women|NN cervix|NN age|NN american|NN cancer|DS occult|NN blood|NN test|NN sigmoidoscopy|NN colonoscopy|NN start|NN age|NN age|NN evidence|NN screen|NN skin|NN cancer|DS cancer|DS lung_cancer|DS prostate|NN cancer|DS men|NN routine|NN screen|NN bladder|NN cancer|DS cancer|DS cancer|DS cancer|DS prostate|NN cancer|DS mammography|NN breast_cancer|DS year|NN age|NN breast|NN self-examination|NN breast|NN examination|NN 2013|NN cochrane|NN review|NN breast_cancer|DS screen|NN mammography|NN effect|NN mortality|NN overdiagnosis|NN overtreatment|NN 
+screen|NN cancer|DS due|NN incidence|NN test|NN cancer|DS syndrome|NN gene|NN cancer|DS type|NN breast|NN hnpcc|NN msh6|NN colon|NN bowel|NN stomach|NN tract|NN 
+test|NN individual|NN cancer|DS group|NN carrier|NN mutation|NN surveillance|NN surgery|NN risk|NN management|NN article|NN management|NN cancer|DS oncology|NN 
+treatment|NN option|NN cancer|DS 
+surgery|NN chemotherapy|NN radiation|NN therapy|NN therapy|NN therapy|NN care|NN 
+treatment|NN type|NN location|NN grade|NN cancer|DS patient|NN health|NN preference|NN 
+treatment|NN intent|NN 
+treatment|NN cancer|DS anti-neoplastic|NN drug|NN agent|NN part|NN regimen|NN 
+term|NN variety|NN drug|NN category|NN agent|NN chemotherapeutic|NN agent|NN act|NN kill|NN cell|NN property|NN cancer|DS cell|NN 
+therapy|NN form|NN chemotherapy|NN target|NN difference|NN cancer|DS cell|NN 
+therapy|NN receptor|NN molecule|NN growth|NN breast_cancer|DS 
+example|NN class|NN inhibitor|NN myelogenous|NN therapy|NN cancer|DS type|NN bladder|NN cancer|DS breast_cancer|DS cancer|DS kidney|NN cancer|DS liver|NN cancer|DS lung_cancer|DS lymphoma|DS cancer|DS prostate|NN cancer|DS skin|NN cancer|DS cancer|DS cancer|DS type|NN 
+efficacy|NN chemotherapy|NN type|NN cancer|DS stage|NN 
+combination|NN surgery|NN chemotherapy|NN cancer|DS type|NN breast_cancer|DS cancer|DS cancer|DS sarcoma|NN cancer|DS cancer|DS lung_cancer|DS chemotherapy|NN cancer|DS brain|NN skin|NN cancer|DS effectiveness|NN chemotherapy|NN toxicity|NN tissue|NN body|NN 
+chemotherapy|NN cure|NN symptom|NN pain|ST size|NN tumor|NN hope|NN surgery|NN future|NN 
+radiation|NN therapy|NN use|NN radiation|NN attempt|NN cure|NN symptom|NN 
+dna|NN cancer|DS tissue|NN 
+tissue|NN skin|NN organ|NN radiation|NN tumor|NN radiation|NN beam|NN exposure|NN angle|NN tumor|NN dose|NN tissue|NN 
+chemotherapy|NN cancer|DS response|NN radiation|NN therapy|NN 
+radiation|NN therapy|NN case|NN 
+radiation|NN source|NN source|NN 
+radiation|NN energy|NN x-ray|NN skin|NN cancer|DS energy|NN x-ray|NN cancer|DS body|NN radiation|NN addition|NN surgery|NN chemotherapy|NN 
+type|NN cancer|DS head|NN neck|NN cancer|DS bone|NN metastasis|NN patient|NN surgery|NN 
+surgery|NN method|NN treatment|NN cancer|DS role|NN palliation|NN prolongation|NN survival|NN 
+part|NN diagnosis|NN stage|NN tumor|NN biopsy|NN 
+cancer|DS surgery|NN mass|NN case|NN lymph|NN node|NN area|NN 
+type|NN cancer|DS cancer|DS care|NN 
+care|NN treatment|NN patient|NN attempt|NN cancer|DS 
+care|NN action|NN distress|NN 
+treatment|NN cancer|DS cell|NN goal|NN care|NN quality|NN life|NN 
+people|NN stage|NN cancer|DS treatment|NN kind|NN care|NN 
+case|NN specialty|NN organization|NN patient|NN physician|NN cancer|DS care|NN patient|NN 
+display|NN performance|NN status|NN ability|NN care|NN benefit|NN treatment|NN trial|NN evidence|NN treatment|NN 
+care|NN hospice|NN people|NN approach|NN end|NN life|NN 
+hospice|NN care|NN care|NN attempt|NN patient|NN need|NN comfort|NN 
+hospice|NN care|NN care|NN people|NN treatment|NN cancer|DS 
+guideline|NN care|NN patient|NN cancer|DS symptom|NN illness|NN 
+patient|NN disease|NN palliative|NN care|NN 
+care|NN patient|NN prognosis|NN month|NN life|NN treatment|NN article|NN cancer|DS 
+variety|NN therapy|NN system|NN cancer|DS use|NN 
+approache|NN antibody|NN checkpoint|NN therapy|NN cell|NN transfer|NN laser|NN therapy|NN article|NN laser|NN cancer|DS treatment|NN 
+laser|NN therapy|NN light|NN cancer|DS shrink|NN cancer|DS growth|NN 
+laser|NN cancer|DS surface|NN body|NN line|NN organ|NN 
+cell|NN skin|NN cancer|DS stage|NN vulvar|NN cell|NN lung_cancer|DS 
+treatment|NN surgery|NN chemotherapy|NN radiation|NN therapy|NN 
+thermotherapy|NN laser|NN laser|NN cancer|DS heat|NN kill|NN cancer|DS cell|NN 
+laser|NN surgery|NN cause|NN damage|NN pain|ST swell|NN scare|NN 
+disadvantage|NN surgeon|NN train|NN 
+treatment|NN medicine|NN 
+cancer|DS treatment|NN group|NN therapy|NN practice|NN product|NN part|NN medicine|NN medicine|NN method|NN substance|NN medicine|NN medicine|NN compound|NN medicine|NN medicine|NN cancer|DS technique|NN trial|NN 
+cancer|DS researcher|NN andrew|NN j|NN 
+vickers|NN label|NN therapy|NN time|NN cancer|DS therapy|NN 
+cancer|DS survival|NN rate|NN list|NN cancer|DS mortality|NN rate|NN united|NN states|NN cancer|DS survivor|NN 
+survival|NN rate|NN cancer|DS type|NN stage|NN majority|NN survival|NN mortality|NN year|NN diagnosis|NN 
+cancer|DS prognosis|NN 
+patient|NN treatment|NN cancer|DS carcinoma|NN situ|NN skin|NN cancer|DS die|NN cancer|DS treatment|NN 
+survival|NN world|NN type|NN cancer|DS country|NN 
+cancer|DS second|NN cancer|DS rate|NN risk|NN chance|NN cancer|DS likelihood|NN cancer|DS risk|NN factor|NN cancer|DS side|NN effect|NN cancer|DS radiation|NN therapy|NN compliance|NN screen|NN 
+survival|NN factor|NN 
+cancer|DS type|NN patient|NN age|NN health|NN 
+health|NN problem|NN survival|NN rate|NN people|NN 
+year|NN treatment|NN 
+people|NN quality|NN life|NN people|NN quality|NN life|NN depression|ST complication|NN disease|NN progression|NN quality|NN quantity|NN life|NN 
+patient|NN prognose|NN report|NN quality|NN life|NN condition|NN 
+people|NN cancer|DS risk|NN blood|NN clot|NN vein|NN life|NN use|NN blood|NN thinner|NN heparin|NN decrease|NN risk|NN blood|NN clot|NN increase|NN survival|NN people|NN cancer|DS people|NN blood|NN thinner|NN risk|NN epidemiology|NN article|NN epidemiology|NN cancer|DS list|NN country|NN cancer|DS rate|NN death|NN cancer|DS person|NN 135367|NN 522588|NN 9691567|NN 25683320|NN 
+estimate|NN case|NN cancer|DS death|NN male|NN female|NN cancer|DS point|NN time|NN male|NN female|NN 
+cancer|DS skin|NN cancer|DS cancer|DS people|NN cancer|DS account|NN death|NN 
+2018|NN lung_cancer|DS death|NN cancer|DS stomach_cancer|DS liver|NN cancer|DS 780000|NN breast_cancer|DS cancer|DS cause|NN death|NN world|NN second|NN world|NN case|NN world|NN 
+death|NN cancer|DS death|NN lifespan|NN lifestyle|NN change|NN world|NN risk|NN factor|NN cancer|DS age|NN cancer|DS strike|NN age|NN patient|NN cancer|DS cancer|DS researcher|NN robert|NN 
+weinberg|NN cancer|DS 
+association|NN age|NN cancer|DS error|NN dna|NN lifetime|NN change|NN system|NN effect|NN cancer|DS factor|NN dna|NN damage|NN inflammation|NN factor|NN age|NN change|NN 
+study|NN europe|NN asia|NN people|NN cancer|DS time|NN death|NN men|NN prostate|NN cancer|DS age|NN cancer|DS patient|NN death|NN care|NN 
+childhood|NN cancer|DS brain|NN lymphoma|DS united|NN states|NN cancer|DS children|NN rate|NN childhood|NN cancer|DS year|NN united|NN states|NN year|NN europe|NN death|NN childhood|NN cancer|DS half|NN united|NN states|NN history|NN article|NN history|NN cancer|DS engrave|NN view|NN woman|NN tumor|NN neck|NN 
+cancer|DS history|NN record|NN cancer|DS edwin|NN smith|NN breast_cancer|DS hippocrates|NN kind|NN cancer|DS word|NN 
+crab|NN crayfish|NN name|NN appearance|NN cut|NN surface|NN cancer|DS vein|NN side|NN animal|NN crab|NN feet|NN name|NN galen|NN cancer|DS breast|NN resemblance|NN crab|NN prolongation|NN tumor|NN veins738|NN celsus|NN bc|NN cancer|DS mean|NN crab|NN surgery|NN treatment|NN galen|NN century|NN use|NN surgery|NN purgative|NN recommendation|NN year|NN 
+century|NN doctor|NN body|NN cause|NN death|NN professor|NN wilhelm|NN fabry|NN breast_cancer|DS milk|NN clot|NN duct|NN 
+professor|NN francois|NN de|NN la|NN boe|NN follower|NN descartes|NN disease|NN outcome|NN process|NN lymph|NN fluid|NN cause|NN cancer|DS 
+nicolae|NN cancer|DS poison|NN 
+physician|NN john|NN hill|NN tobacco|NN snuff|NN cause|NN nose|NN cancer|DS report|NN surgeon|NN pott|NN chimney|NN carcinoma|NN cancer|DS scrotum|NN disease|NN chimney|NN sweep|NN use|NN microscope|NN century|NN cancer|DS poison|NN spread|NN tumor|NN lymph|NN node|NN site|NN metastasis|NN 
+view|NN disease|NN surgeon|NN campbell|NN de|NN morgan|NN society|NN culture|NN 
+disease|NN heart|NN failure|NN prognosis|NN case|NN cancer|DS cancer|DS subject|NN fear|NN taboo|NN 
+euphemism|NN illness|NN cancer|DS death|NN obituary|NN disease|NN stigma|NN nigeria|NN name|NN cancer|DS english|NN disease|NN belief|NN cancer|DS disease|NN system|NN society|NN cancer|DS statistics|NN form|NN cancer|DS skin|NN cancer|DS account|NN cancer|DS case|NN cancer|DS statistics|NN outpatient|NN procedure|NN 
+conception|NN patient|NN right|NN people|NN cancer|DS duty|NN situation|NN person|NN right|NN decision-make|NN way|NN person|NN value|NN 
+culture|NN right|NN value|NN 
+example|NN culture|NN value|NN whole|NN family|NN individualism|NN 
+part|NN africa|NN diagnosis|NN cure|NN treatment|NN family|NN 
+result|NN factor|NN healthcare|NN provider|NN family|NN member|NN diagnosis|NN person|NN interest|NN ability|NN new|NN people|NN south|NN country|NN approach|NN disclosure|NN united|NN states|NN western|NN europe|NN cancer|DS diagnosis|NN disclosure|NN diagnosis|NN century|NN disclosure|NN prognosis|NN patient|NN world|NN 
+united|NN states|NN culture|NN cancer|DS disease|NN insurrection|NN war|NN cancer|DS 
+metaphor|NN description|NN cancer|DS effect|NN state|NN patient|NN health|NN need|NN action|NN delay|NN 
+metaphor|NN treatment|NN 
+alternative|NN cancer|DS treatment|NN form|NN talk|NN therapy|NN idea|NN cancer|DS attitude|NN people|NN cancer|DS self-loath|NN emotionswere|NN cancer|DS desire|NN 
+psychotherapist|NN treatment|NN patient|NN outlook|NN life|NN cancer|DS effect|NN belief|NN society|NN victim|NN cancer|DS cure|NN person|NN patient|NN anxiety|ST emotion|NN sadness|NN anger|NN fear|NN live|NN idea|NN susan|NN sontag|NN illness|NN metaphor|NN treatment|NN breast_cancer|DS idea|NN nonsense|NN idea|NN form|NN belief|NN habit|NN think|NN survival|NN notion|NN breast_cancer|DS culture|NN 
+idea|NN people|NN cancer|DS hypothesis|NN cancer|DS patient|NN action|NN attitude|NN blamer|NN sense|NN control|NN 
+belief|NN world|NN illness|NN cancer|DS type|NN punishment|NN choice|NN world|NN thing|NN people|NN effect|NN 
+health|NN care|NN expenditure|NN cancer|DS cancer|DS health|NN care|NN expenditure|NN term|NN decade|NN share|NN health|NN expenditure|NN cancer|DS treatment|NN pattern|NN europe|NN health|NN care|NN expenditure|NN cancer|DS treatment|NN addition|NN health|NN care|NN expenditure|NN cancer|DS cost|NN term|NN productivity|NN loss|NN work|NN day|NN death|NN care|NN 
+cost|NN health|NN care|NN cost|NN cancer|DS workplace|NN 
+united|NN states|NN cancer|DS condition|NN employment|NN opportunity|NN commission|NN potential|NN cancer|DS effect|NN worker|NN discrimination|NN workplace|NN employer|NN belief|NN person|NN cancer|DS job|NN leave|NN employee|NN 
+employer|NN hire|NN fire|NN decision|NN misconception|NN cancer|DS disability|NN 
+eeoc|NN interview|NN guideline|NN employer|NN list|NN solution|NN employee|NN cancer|DS research|NN article|NN cancer|DS research|NN university|NN florida|NN cancer|DS hospital|NN 
+cancer|DS class|NN disease|NN cure|NN cancer|DS treatment|NN disease|NN inhibitor|NN potential|NN silver|NN bullet|NN treatment|NN type|NN cancer|DS inhibitor|NN cancer|DS therapeutics|NN combination|NN cancer|DS morbidity|NN mortality|NN 
+cancer|DS treatment|NN trial|NN treatment|NN treatment|NN 
+treatment|NN cancer|DS type|NN type|NN test|NN development|NN target|NN therapy|NN patient|NN biology|NN 
+cancer|DS research|NN issue|NN 
+agent|NN viruse|NN event|NN mutation|NN cause|NN change|NN cell|NN cancer|DS 
+nature|NN damage|NN gene|NN 
+consequence|NN change|NN biology|NN cell|NN property|NN cancer|DS cell|NN event|NN progression|NN cancer|DS 
+understand|NN biology|NN biology|NN cancer|DS research|NN treatment|NN cancer|DS president|NN richard|NN nixon|NN war|NN cancer|DS 
+country|NN cancer|DS research|NN resource|NN public|NN sector|NN cancer|DS death|NN rate|NN size|NN age|NN population|NN percent|NN 
+competition|NN resource|NN creativity|NN cooperation|NN risk-take|NN think|NN discovery|NN research|NN advancement|NN research|NN 
+consequence|NN competition|NN study|NN claim|NN result|NN incentive|NN grantee|NN institution|NN investment|NN faculty|NN facility|NN 
+convert|NN viruse|NN 
+cancer|DS women|NN 
+cancer|DS pregnancy|NN cancer|DS women|NN childbear|NN age|NN breast_cancer|DS cancer|DS lymphoma|DS melanoma|NN cancer|DS cancer|DS 
+cancer|DS woman|NN part|NN symptom|NN discomfort|NN pregnancy|NN 
+result|NN cancer|DS stage|NN 
+image|NN procedure|NN resonance|NN image|NN ct|NN scan|NN shield|NN pregnancy|NN pet|NN scan|NN 
+treatment|NN women|NN 
+radiation|NN drug|NN pregnancy|NN dose|NN cgy|NN 
+case|NN treatment|NN birth|NN cancer|DS pregnancy|NN 
+delivery|NN start|NN treatment|NN 
+surgery|NN surgery|NN trimester|NN miscarriage|ST 
+treatment|NN chemotherapy|NN drug|NN trimester|NN increase|NN risk|NN birth|NN defect|NN pregnancy|NN loss|NN abortion|NN stillbirth|NN 
+abortion|NN form|NN stage|NN cancer|DS mother|NN survival|NN 
+instance|NN cancer|DS pregnancy|NN patient|NN pregnancy|NN chemotherapy|NN 
+treatment|NN mother|NN ability|NN birth|NN cancer|DS birth|NN caesarean|NN section|NN 
+radiation|NN breast|NN ability|NN breast|NN milk|NN risk|NN mastitis|NN 
+chemotherapy|NN birth|NN drug|NN breast|NN milk|NN baby|NN animal|NN 
+oncology|NN cat|NN dog|NN specialty|NN country|NN form|NN treatment|NN surgery|NN radiotherapy|NN 
+type|NN cancer|DS cancer|DS burden|NN pet|NN human|NN 
+animal|NN rodent|NN cancer|DS research|NN study|NN cancer|DS animal|NN research|NN cancer|DS 
+type|NN cancer|DS cancer|DS animal|NN transmission|NN tumor|NN cell|NN 
+phenomenon|NN dog|NN sarcoma|NN tumor|NN devil|NN devil|NN tumour|NN disease|NN 

@@ -1,0 +1,88 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN gastroesophageal_reflux|DS disease|NN 
+use|NN gerd|NN 
+gastroesophageal_reflux|DS disease|NN name|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN barium|NN x-ray|NN stomach|NN material|NN diaphragm|NN collection|NN material|NN mid-line|NN chest|NN gastroesophageal_reflux|DS disease|NN pronunciation|NN 
+symptom|NN taste|NN acid|NN heartburn|ST breath|NN chest_pain|ST breath|NN problem|NN complication|NN stricture|NN duration|NN term|NN cause|NN closure|NN risk|NN factor|NN obesity|NN pregnancy|NN smoke|NN hiatus|NN hernia|NN medicine|NN method|NN gi|NN series|NN ph|NN monitor|NN manometry|NN diagnosis|NN ulcer|NN disease|NN cancer|DS spasm|NN angina|NN treatment|NN lifestyle|NN change|NN medication|NN surgery|NN receptor|NN blocker|NN proton|NN pump|NN inhibitor|NN frequency|NN population|NN 
+gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN condition|NN stomach|NN content|NN esophagus|NN symptom|NN complication|NN symptom|NN taste|NN acid|NN back|NN mouth|NN heartburn|ST breath|NN chest_pain|ST vomit|NN breath|NN problem|NN teeth|NN complication|NN stricture|NN barrett|NN 
+risk|NN factor|NN obesity|NN pregnancy|NN smoke|NN hernia|NN medicine|NN calcium|NN channel|NN blocker|NN antidepressant|NN pill|NN gastroesophageal_reflux|DS disease|NN closure|NN junction|NN stomach|NN diagnosis|NN measure|NN gastroscopy|NN gi|NN series|NN ph|NN monitor|NN manometry|NN 
+treatment|NN option|NN lifestyle|NN change|NN medication|NN surgery|NN measure|NN lifestyle|NN change|NN hour|NN eate|NN head|NN bed|NN weight|NN food|NN result|NN symptom|NN smoke|NN antacid|NN receptor|NN blocker|NN proton|NN pump|NN inhibitor|NN prokinetics|NN 
+world|NN population|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN symptom|NN complication|NN symptom|NN gastroesophageal_reflux|DS disease|NN feldman|NN heartburn|ST relationship|NN hernia|NN asher|NN winkelstein|NN gastroesophageal_reflux|DS disease|NN symptom|NN stomach|NN acid|NN content|NN 
+sign|NN symptom|NN adult|NN children|NN cause|NN diagnosis|NN endoscopy|NN diagnosis|NN treatment|NN lifestyle|NN change|NN inhibitor|NN agent|NN surgery|NN population|NN pregnancy|NN baby|NN epidemiology|NN history|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN adult|NN 
+symptom|NN gastroesophageal_reflux|DS disease|NN adult|NN taste|NN mouth|NN regurgitation|NN heartburn|ST symptom|NN pain|ST throat|NN salivation|NN water|NN nausea|ST chest_pain|ST cough|ST 
+gastroesophageal_reflux|DS disease|NN injury|NN esophagus|NN 
+gastroesophageal_reflux|DS disease|NN inflammation|NN epithelium|NN ulcer|NN junction|NN stomach|NN esophagus|NN stricture|NN narrow|NN esophagus|NN gastroesophageal_reflux|DS disease|NN inflammation|NN metaplasia|NN change|NN cell|NN epithelium|NN esophagus|NN adenocarcinoma|NN form|NN cancer|DS 
+gastroesophageal_reflux|DS disease|NN infant|NN children|NN indicator|NN 
+symptom|NN adult|NN symptom|NN 
+gastroesophageal_reflux|DS disease|NN children|NN vomit|NN spit|NN cough|ST problem|NN 
+cry|NN food|NN cry|NN food|NN bottle|NN breast|NN failure|NN weight|NN breath|NN burp|NN 
+children|NN symptom|NN symptom|NN children|NN gastroesophageal_reflux|DS disease|NN 
+baby|NN year|NN difficulty|NN gastroesophageal_reflux|DS disease|NN month|NN live|NN theory|NN trimester|NN theory|NN animal|NN mobility|NN human|NN birth|NN trimester|NN children|NN development|NN head|NN brain|NN birth|NN canal|NN leave|NN system|NN 
+children|NN gastroesophageal_reflux|DS disease|NN birthday|NN 
+number|NN condition|NN 
+family|NN history|NN gastroesophageal_reflux|DS disease|NN 
+citation|NN article|NN 
+gastroesophageal_reflux|DS disease|NN type|NN metaplasia|NN turn|NN precursor|NN condition|NN cancer|DS 
+risk|NN progression|NN barrett|NN dysplasia|DS case|NN risk|NN heartburn|ST year|NN people|NN heartburn|ST drug|NN gastroesophageal_reflux|DS disease|NN comparison|NN condition|NN gastroesophageal_reflux|DS disease|NN 
+gastroesophageal_reflux|DS disease|NN failure|NN 
+patient|NN angle|NN angle|NN esophagus|NN stomachcreate|NN valve|NN bile|NN enzyme|NN stomach|NN acid|NN back|NN esophagus|NN inflammation|NN esophageal|NN tissue|NN 
+factor|NN gastroesophageal_reflux|DS disease|NN 
+hernia|NN likelihood|NN gastroesophageal_reflux|DS disease|NN due|NN motility|NN factor|NN obesity|NN body|NN mass|NN index|NN gastroesophageal_reflux|DS disease|NN series|NN patient|NN gastroesophageal_reflux|DS disease|NN disease|NN change|NN acid|NN exposure|NN change|NN body|NN mass|NN index|NN zollinger-ellison|NN syndrome|NN acidity|NN gastrin|NN production|NN 
+blood|NN calcium|NN level|NN gastrin|NN production|NN acidity|NN 
+sclerosis|NN dysmotility|NN 
+use|NN medicine|NN prednisolone|NN 
+syndrome|NN stomach|NN abdomen|NN motility|NN acid|NN secretion|NN stomach|NN 
+gastroesophageal_reflux|DS disease|NN variety|NN complaint|NN cough|ST fibrosis|DS earache|NN asthma|DS 
+manifestation|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN disease|NN 
+factor|NN gastroesophageal_reflux|DS disease|NN 
+sleep|NN apnea|ST flow|NN bile|NN duodenum|NN ability|NN acid|NN 
+review|NN study|NN average|NN gastroesophageal_reflux|DS disease|NN patient|NN h|NN pylory|NN infection|NN eradication|NN h|NN pylory|NN increase|NN acid|NN secretion|NN question|NN h|NN gastroesophageal_reflux|DS disease|NN patient|NN gastroesophageal_reflux|DS disease|NN patient|NN 
+study|NN difference|NN type|NN patient|NN regard|NN measure|NN disease|NN severity|NN diagnosis|NN image|NN stricture|NN narrow|NN esophagus|NN junction|NN stomach|NN complication|NN gastroesophageal_reflux|DS disease|NN cause|NN dysphagia|ST difficulty|NN 
+diagnosis|NN gastroesophageal_reflux|DS disease|NN symptom|NN gastroesophageal_reflux|DS disease|NN people|NN symptom|NN diagnosis|NN symptom|NN complication|NN gastroesophageal_reflux|DS disease|NN stomach|NN content|NN 
+investigation|NN egd|NN 
+barium|NN swallow|NN x-ray|NN diagnosis|NN manometry|NN use|NN diagnosis|NN surgery|NN ph|NN monitor|NN ppis|NN esophagus|NN investigation|NN h|NN pylory|NN 
+gold|NN standard|NN diagnosis|NN gastroesophageal_reflux|DS disease|NN ph|NN monitor|NN 
+test|NN gastroesophageal_reflux|DS disease|NN disease|NN monitor|NN gastroesophageal_reflux|DS disease|NN patient|NN response|NN treatment|NN 
+practice|NN diagnosis|NN gastroesophageal_reflux|DS disease|NN treatment|NN inhibitor|NN improvement|NN symptom|NN diagnosis|NN 
+treatment|NN inhibitor|NN ph|NN monitor|NN result|NN patient|NN symptom|NN gastroesophageal_reflux|DS disease|NN endoscopy|NN 
+endoscopy|NN stomach|NN scope|NN case|NN treatment|NN people|NN treatment|NN alarm|NN symptom|NN dysphagia|ST blood|NN stool|NN weight_loss|ST voice|NN change|NN physician|NN endoscopy|NN people|NN gastroesophageal_reflux|DS disease|NN presence|NN dysplasia|DS barrett|NN 
+hyperplasia|NN change|NN inflammation|NN neutrophilic|NN inflammation|NN gastroesophageal_reflux|DS disease|NN helicobacter|NN gastritis|NN inflammation|NN gastroesophageal_reflux|DS disease|NN presence|NN eosinophil|NN diagnosis|NN eosinophilic|NN eosinophil|NN number|NN 
+eosinophil|NN field|NN esophagus|NN presence|NN histologic|NN feature|NN gastroesophageal_reflux|DS disease|NN gastroesophageal_reflux|DS disease|NN cell|NN metaplasia|NN elongation|NN papillae|NN cell|NN layer|NN 
+gastroesophageal_reflux|DS disease|NN change|NN nature|NN gastroesophageal_reflux|DS disease|NN disease|NN 
+score|NN system|NN episode|NN therapy|NN visit|NN activity|NN diagnosis|NN 
+cause|NN chest_pain|ST heart|NN disease|NN diagnosis|NN kind|NN gastroesophageal_reflux|DS disease|NN sign|NN symptom|NN gastroesophageal_reflux|DS disease|NN lpr|NN gastroesophageal_reflux|DS disease|NN disease|NN 
+gastroesophageal_reflux|DS disease|NN lpr|NN heartburn|ST gastroesophageal_reflux|DS disease|NN 
+treatment|NN gastroesophageal_reflux|DS disease|NN food|NN choice|NN lifestyle|NN change|NN medication|NN surgery|NN 
+treatment|NN inhibitor|NN omeprazole|NN case|NN person|NN gastroesophageal_reflux|DS disease|NN symptom|NN drug|NN prescription|NN drug|NN guideline|NN symptom|NN antagonist|NN inhibitor|NN cost|NN safety|NN concern|NN lifestyle|NN change|NN 
+food|NN gastroesophageal_reflux|DS disease|NN intervention|NN effect|NN evidence|NN sugar|NN intake|NN fiber|NN intake|NN avoidance|NN food|NN eate|NN gastroesophageal_reflux|DS disease|NN symptom|NN food|NN gastroesophageal_reflux|DS disease|NN coffee|NN alcohol|NN chocolate|NN food|NN food|NN food|NN 
+weight_loss|ST severity|NN frequency|NN symptom|NN head|NN bed|NN block|NN wedge|NN pillow|NN individual|NN shoulder|NN head|NN gastroesophageal_reflux|DS disease|NN exercise|NN symptom|NN people|NN gastroesophageal_reflux|DS disease|NN exercise|NN 
+smoke|NN alcohol|NN symptom|NN article|NN drug|NN disorder|NN 
+medication|NN gastroesophageal_reflux|DS disease|NN inhibitor|NN receptor|NN blocker|NN antacid|NN acid|NN use|NN acid|NN suppression|NN therapy|NN response|NN gastroesophageal_reflux|DS disease|NN symptom|NN people|NN kind|NN treatment|NN case|NN overuse|NN acid|NN suppression|NN problem|NN side|NN effect|NN cost|NN inhibitor|NN 
+inhibitor|NN omeprazole|NN receptor|NN blocker|NN ranitidine|NN ppy|NN day|NN half|NN hour|NN meal|NN difference|NN ppis|NN medication|NN term|NN dose|NN symptom|NN problem|NN receptor|NN blocker|NN lead|NN improvement|NN 
+evidence|NN antacid|NN benefit|NN nnt13|NN combination|NN antacid|NN acid|NN symptom|NN prokinetic|NN combination|NN treatment|NN concern|NN effect|NN benefit|NN mosapride|NN agent|NN 
+effectiveness|NN receptor|NN blocker|NN need|NN day|NN use|NN agonist|NN receptor|NN issue|NN dose|NN addition|NN effect|NN medication|NN surgery|NN 
+treatment|NN gastroesophageal_reflux|DS disease|NN nissen|NN fundoplication|NN 
+procedure|NN part|NN stomach|NN gastroesophageal_reflux|DS disease|NN hernia|NN quality|NN life|NN term|NN therapy|NN uncertainty|NN benefit|NN surgery|NN management|NN proton|NN pump|NN inhibitor|NN fundoplication|NN technique|NN fundoplication|NN surgery|NN fundoplication|NN surgery|NN fundoplication|NN outcome|NN fundoplication|NN 
+dissociation|NN procedure|NN children|NN gastroesophageal_reflux|DS disease|NN study|NN failure|NN rate|NN incidence|NN gastroesophageal_reflux|DS disease|NN 
+fda|NN device|NN linx|NN series|NN metal|NN bead|NN core|NN symptom|NN treatment|NN 
+improvement|NN gastroesophageal_reflux|DS disease|NN symptom|NN nissen|NN fundoplication|NN data|NN effect|NN 
+nissen|NN fundoplication|NN procedure|NN procedure|NN reduction|NN complication|NN ga|NN syndrome|NN response|NN difficulty|NN chest_pain|ST vomit|NN nausea|ST 
+use|NN device|NN patient|NN titanium|NN steel|NN nickel|NN iron|NN material|NN 
+warn|NN device|NN patient|NN resonance|NN image|NN mry|NN injury|NN patient|NN damage|NN device|NN 
+symptom|NN surgery|NN fundoplication|NN benefit|NN year|NN population|NN pregnancy|NN 
+pregnancy|NN modification|NN lifestyle|NN change|NN effect|NN 
+antacid|NN change|NN 
+antacid|NN ranitidine|NN ppis|NN baby|NN 
+baby|NN relief|NN burp|NN baby|NN position|NN minute|NN keep|NN head|NN back|NN milk|NN mother|NN diet|NN feed|NN milk|NN protein|NN formula|NN medicine|NN ranitidine|NN proton|NN pump|NN inhibitor|NN proton|NN pump|NN inhibitor|NN population|NN lack|NN evidence|NN safety|NN epidemiology|NN 
+population|NN gastroesophageal_reflux|DS disease|NN population|NN condition|NN instance|NN canadian|NN gastroesophageal_reflux|DS disease|NN sufferer|NN 
+prevalence|NN rate|NN gastroesophageal_reflux|DS disease|NN nation|NN age|NN adult|NN united|NN states|NN people|NN symptom|NN week|NN day|NN data|NN support|NN sex|NN predominance|NN regard|NN gastroesophageal_reflux|DS disease|NN 
+treatment|NN vagotomy|NN vagotomy|NN removal|NN nerve|NN branche|NN stomach|NN line|NN 
+treatment|NN medication|NN 
+contraction|NN stomach|NN stomach|NN empty|NN 
+vagotomy|NN pyloroplasty|NN gastroenterostomy|NN problem|NN 
+number|NN device|NN heartburn|ST 
+stitche|NN les|NN pleat|NN muscle|NN 
+result|NN device|NN bard|NN procedure|NN electrode|NN energy|NN les|NN 
+review|NN meta-analysis|NN response|NN review|NN meta-analysis|NN sage|NN claim|NN treatment|NN gastroesophageal_reflux|DS disease|NN review|NN gastroesophageal_reflux|DS disease|NN symptom|NN ndo|NN plicator|NN plication|NN fold|NN tissue|NN junction|NN plication|NN implant|NN 
+company|NN operation|NN mid-2008|NN device|NN market|NN 
+fundoplication|NN device|NN 
+motility|NN disorder|NN motility|NN study|NN 

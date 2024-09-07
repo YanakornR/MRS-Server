@@ -1,0 +1,85 @@
+encyclopedia|NN Allergic rhinitis|Disease jump|NN navigation|NN jump|NN search|NN Allergic rhinitis|Disease
+play|NN Allergic rhinitis|Disease play|NN
+Allergic rhinitis|Disease name|NN Allergic rhinitis|Disease Allergic rhinitis|Disease misc|NN pollen|NN grain|NN variety|NN plant|NN time|NN mm|NN specialty|NN immunology|NN symptom|NN nose|NN eye|NN eye|NN ear|NN onset|NN year|NN cause|NN factor|NN factor|NN asthma|NN dermatitis|NN method|NN symptom|NN skin|NN prick|NN test|NN blood|NN test|NN antibody|NN diagnosis|NN prevention|NN exposure|NN animal|NN life|NN steroid|NN sodium|NN leukotriene|NN receptor|NN antagonist|NN allergen|NN frequency|NN country|NN
+Allergic rhinitis|Disease Allergic rhinitis|Disease type|NN inflammation|NN nose|NN system|NN allergen|NN air|NN sign|NN symptom|NN nose|NN eye|NN eye|NN fluid|NN nose|NN symptom|NN onset|NN minute|NN exposure|NN ability|NN work|NN ability|NN school|NN symptom|NN pollen|NN symptom|NN time|NN year|NN people|NN Allergic rhinitis|Disease asthma|NN dermatitis|NN
+Allergic rhinitis|Disease allergen|NN pollen|NN pet|NN hair|NN dust|NN genetics|NN exposure|NN development|NN allergy|NN farm|NN sible|NN risk|NN mechanism|NN antibody|NN allergen|NN release|NN chemical|NN histamine|NN mast|NN cell|NN diagnosis|NN history|NN combination|NN skin|NN prick|NN test|NN blood|NN test|NN antibody|NN test|NN symptom|NN allergy|NN cold|NN week|NN fever|NN
+exposure|NN animal|NN life|NN risk|NN allergy|NN number|NN medication|NN symptom|NN steroid|NN sodium|NN leukotriene|NN receptor|NN antagonist|NN side|NN effect|NN people|NN people|NN amount|NN allergen|NN immunotherapy|NN allergen|NN injection|NN skin|NN tablet|NN tongue|NN treatment|NN year|NN benefit|NN
+Allergic rhinitis|Disease type|NN allergy|NN number|NN people|NN country|NN people|NN year|NN age|NN description|NN century|NN physician|NN pollen|NN cause|NN charles|NP mechanism|NN clemens|NP von|NP link|NN hay|NN due|NN theory|NN symptom|NN smell|NN hay|NN content|NN
+sign|NN symptom|NN cause|NN diagnosis|NN classification|NN local|NN Allergic rhinitis|Disease prevention|NN treatment|NN medicine|NN epidemiology|NN history|NN reference|NN link|NN
+sign|NN symptom|NN illustration|NN inflammation|NN Allergic rhinitis|Disease
+symptom|NN Allergic rhinitis|Disease secretion|NN itch|NN sneez|NN fit|NN congestion|NN obstruction|NN characteristic|NN find|NN swell|NN eyelid|NN eyelid|NN stasis|NN ring|NN eye|NN turbinate|NN middle|NN ear|NN effusion|NN
+sign|NN order|NN irritation|NN flow|NN mucus|NN people|NN nose|NN palm|NN hand|NN motion|NN action|NN salute|NN salute|NN
+crease|NN run|NN nose|NN nostril|NN side|NN nose|NN time|NN crease|NN deformity|NN
+people|NN example|NN people|NN birch|NN pollen|NN reaction|NN skin|NN apple|NN potatoe|NN sign|NN occurrence|NN throat|NN apple|NN sneez|NN potatoe|NN apple|NN
+similarity|NN protein|NN pollen|NN food|NN substance|NN
+Allergic rhinitis|Disease fever|NN mean|NN core|NN body|NN temperature|NN fever|NN 375383|NP c|NP f|NP
+Allergic rhinitis|Disease pollen|NN plant|NN Allergic rhinitis|Disease season|NN
+Allergic rhinitis|Disease year|NN
+pollen|NN Allergic rhinitis|Disease individual|NN region|NN region|NN general|NN pollen|NN plant|NN cause|NN
+pollens|NP plant|NN risk|NN
+example|NN plant|NN Allergic rhinitis|Disease
+tree|NN pine|NN pinus|NN birch|NN betula|NN alder|NN cedar|NN hazel|NN hornbeam|NN horse|NN chestnut|NN willow|NN poplar|NN plane|NN tilia|NN olea|NN
+latitude|NN birch|NN allergenic|NN tree|NN pollen|NN people|NN Allergic rhinitis|Disease birch|NN pollen|NN grain|NN
+antigen|NN protein|NN bet|NN
+olive|NP pollen|NN region|NN
+Allergic rhinitis|Disease japan|NP cryptomeria|NN chamaecyparis|NN tree|NN pollen|NN
+tree|NN ash|NN female|NN maple|NN poplar|NN magnolia|NN cherry|NN fir|NN spruce|NN flower|NN plum|NN family|NN lolium|NN sp|NN pratense|NN
+people|NN Allergic rhinitis|Disease grass|NN pollen|NN
+weed|NN plantain|NN plantago|NN artemisia|NP hen|NN rumex|NN
+Allergic rhinitis|Disease allergy|NN balsam|NN peru|NP fragrance|NN product|NN diagnosis|NN patch|NN test|NN
+test|NN allergen|NN individual|NN
+skin|NN test|NN method|NN allergy|NN test|NN
+patch|NN test|NN substance|NN rhinitis|NN scratch|NN test|NN
+allergen|NN eyelid|NN mean|NN test|NN allergy|NN
+test|NN physician|NN
+individual|NN skin|NN test|NN doctor|NN blood|NN test|NN sensitivity|NN
+eosinophilia|NN leukocyte|NN count|NN
+test|NN allergy|NN symptom|NN miss|NN allergy|NN symptom|NN
+allergy|NN test|NN skin|NN prick|NN test|NN people|NN symptom|NN allergen|NN
+person|NN skin-prick|NN blood|NN test|NN allergy|NN Allergic rhinitis|Disease allergy|NN nose|NN
+Allergic rhinitis|Disease test|NN Allergic rhinitis|Disease classification|NN
+Allergic rhinitis|Disease pollen|NN season|NN
+year|NN age|NN
+Allergic rhinitis|Disease year|NN
+type|NN Allergic rhinitis|Disease children|NN
+Allergic rhinitis|Disease mild-persistent|NN
+symptom|NN day|NN week|NN week|NN
+symptom|NN daysweek|NN week|NN
+symptom|NN sleep|NN impairment|NN activity|NN impairment|NN work|NN school|NN symptom|NN
+symptom|NN result|NN sleep|NN disturbance|NN impairment|NN activity|NN impairment|NN school|NN work|NN local|NN Allergic rhinitis|Disease
+Allergic rhinitis|Disease reaction|NN nose|NN allergen|NN allergy|NN
+blood|NN test|NN allergy|NN antibody|NN nose|NN allergen|NN
+skin|NN test|NN
+symptom|NN Allergic rhinitis|Disease symptom|NN Allergic rhinitis|Disease symptom|NN eye|NN
+Allergic rhinitis|Disease people|NN Allergic rhinitis|Disease
+symptom|NN Allergic rhinitis|Disease
+Allergic rhinitis|Disease conjunctivitis|NN asthma|NN
+study|NN people|NN rhinitis|NN Allergic rhinitis|Disease study|NN people|NN Allergic rhinitis|Disease Allergic rhinitis|Disease spray|NN antihistamine|NN Allergic rhinitis|Disease
+allergenic|NN rhinitis|NN europe|NP united|NP states|NP provocation|NN test|NN condition|NN prevention|NN
+prevention|NN allergen|NN question|NN
+method|NN pet|NN carpet|NN home|NN
+farm|NN brother|NN sister|NN risk|NN treatment|NN
+goal|NN rhinitis|NN treatment|NN symptom|NN inflammation|NN tissue|NN
+measure|NN allergen|NN corticosteroid|NN treatment|NN symptom|NN option|NN line|NN therapy|NN leukotriene|NN receptor|NN antagonist|NN irrigation|NN mouth|NN use|NN symptom|NN cover|NN air|NN filter|NN food|NN childhood|NN evidence|NN effectiveness|NN
+drug|NN control|NN symptom|NN itch|NN conjunctivitis|NN
+medication|NN exposure|NN Allergic rhinitis|Disease
+case|NN antihistamine|NN spray|NN relief|NN symptom|NN minute|NN as-need|NN approach|NN dosage|NN
+evidence|NN efficacy|NN therapy|NN steroid|NN management|NN Allergic rhinitis|Disease children|NN effect|NN cost|NN
+azelastine|NN eye|NN drop|NN form|NN form|NN sneez|NN pruritus|NN
+drug|NN side-effect|NN drowsiness|NN case|NN antihistamine|NN tablet|NN
+drug|NN cause|NN drowsiness|NN antihistamine|NN
+united|NP states|NP decongestant|NN pseudoephedrine|NN pharmacy|NN counter|NN effort|NN manufacture|NN steroid|NN
+corticosteroid|NN control|NN symptom|NN itch|NN congestion|NN
+spray|NN antihistamine|NN
+day|NN act|NN week|NN effect|NN time|NN
+study|NN efficacy|NN spray|NN tablet|NN treatment|NN people|NN Allergic rhinitis|Disease effect|NN symptom|NN people|NN
+steroid|NN prednisone|NN tablet|NN triamcinolone|NN injection|NN inflammationcitation|NN use|NN duration|NN effect|NN side-effect|NN therapy|NN
+measure|NN line|NN leukotriene|NN receptor|NN antagonist|NN therapy|NN irrigation|NN
+decongestant|NN symptom|NN congestion|NN period|NN use|NN rebound|NN congestion|NN rhinitis|NN
+symptom|NN corticosteroid|NN oxymetazoline|NN alpha-agonist|NN spray|NN risk|NN rhinitis|NN
+irrigation|NN practice|NN salt|NN water|NN nostril|NN benefit|NN adult|NN children|NN symptom|NN Allergic rhinitis|Disease effect|NN
+immunotherapy|NN treatment|NN dose|NN allergen|NN body|NN substance|NN pollen|NN house|NN dust|NN mite|NN tolerance|NN tablet|NN drop|NN injection|NN skin|NN
+efficacy|NN treatment|NN acupuncture|NN homeopathy|NN evidence|NN evidence|NN acupuncture|NN rhinitis|NN evidence|NN
+quality|NN evidence|NN epidemiology|NN
+Allergic rhinitis|Disease type|NN allergy|NN number|NN people|NN country|NN percent|NN people|NN year|NN age|NN history|NN
+description|NN century|NN physician|NN pollen|NN cause|NN charles|NP mechanism|NN clemens|NP von|NP link|NN hay|NN due|NN theory|NN symptom|NN smell|NN hay|NN

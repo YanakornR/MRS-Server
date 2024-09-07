@@ -1,0 +1,48 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN word|NN mumps|DS mumps|DS disambiguation|NN 
+mumps|DS name|NN mumps|DS mumps|DS phil|NN child|NN mumps|DS disease|NN symptom|NN fever|ST muscle|NN pain|ST headache|ST feel|NN swell|NN gland|NN complication|NN meningitis|DS pancreatitis|NN deafness|DS infertility|ST male|NN onset|NN day|NN exposure|NN duration|NN day|NN cause|NN mumps|DS method|NN culture|NN antibody|NN blood|NN prevention|NN mumps|DS vaccine|NN treatment|NN pain|ST medication|NN immunoglobulin|NN die|NN frequency|NN world|NN 
+mumps|DS disease|NN mumps|DS virus|NN sign|NN symptom|NN fever|ST muscle|NN pain|ST headache|ST appetite|NN feel|NN swell|NN gland|NN symptom|NN day|NN exposure|NN resolve|NN day|NN symptom|NN adult|NN children|NN people|NN symptom|NN complication|NN meningitis|DS pancreatitis|NN inflammation|NN heart|NN deafness|DS inflammation|NN infertility|ST women|NN swell|NN risk|NN infertility|ST 
+mumps|DS people|NN quarter|NN virus|NN droplet|NN contact|NN person|NN human|NN disease|NN people|NN day|NN start|NN symptom|NN day|NN infection|NN course|NN person|NN life|NN reinfection|NN infection|NN diagnosis|NN swell|NN virus|NN swab|NN duct|NN test|NN igm|NN antibody|NN blood|NN 
+mumps|DS dose|NN mumps|DS vaccine|NN world|NN immunization|NN program|NN combination|NN measle|NN rubella|DS vaccine|NN country|NN immunization|NN rate|NN increase|NN case|NN age|NN group|NN outcome|NN treatment|NN effort|NN symptom|NN pain|ST medication|NN paracetamol|NN immunoglobulin|NN complication|NN meningitis|DS pancreatitis|NN people|NN 
+immunization|NN population|NN year|NN vaccination|NN decline|NN rate|NN disease|NN mumps|DS world|NN vaccination|NN population|NN introduction|NN vaccine|NN mumps|DS childhood|NN disease|NN outbreak|NN disease|NN year|NN children|NN age|NN population|NN equator|NN year|NN region|NN world|NN winter|NN spring|NN swell|NN gland|NN testicle|NN hippocrates|NN century|NN bce|NN content|NN 
+sign|NN symptom|NN complication|NN cause|NN diagnosis|NN prevention|NN management|NN epidemiology|NN history|NN reference|NN link|NN 
+sign|NN symptom|NN 
+mumps|DS set|NN symptom|NN fever|ST headache|ST feel|NN swell|NN gland|NN gland|NN swell|NN week|NN symptom|NN mumps|DS mouth|NN face|NN ear|NN difficulty|NN complication|NN 
+inflammation|NN men|NN puberty|NN contract|NN mumps|DS virus|NN inflammation|NN testicle|NN mumps|DS case|NN day|NN gland|NN testicular|NN swell|NN week|NN decrease|NN fertility|NN consequence|NN inflammation|NN mumps|DS infertility|ST study|NN conclusion|NN infection|NN mumps|DS virus|NN pregnancy|NN lead|NN rate|NN abortion|NN vaccination|NN case|NN meningitis|DS mumps|DS symptom|NN day|NN infection|NN brain|NN encephalitis|DS 002|NN case|NN inflammation|NN percent|NN adolescent|NN adult|NN female|NN inflammation|NN percent|NN case|NN pain|ST vomit|NN 
+brain|NN inflammation|NN case|NN db|NN sensorineural|NN hear|NN loss|NN 
+deafness|DS case|NN 
+mumps|DS virus|NN rna|NN virus|NN genus|NN family|NN 
+genome|NN base|NN encod|NN protein|NN 
+protein|NN replication|NN phosphoprotein|NN polymerase|NN protein|NN rna|NN human|NN host|NN virus|NN 
+mumps|DS person|NN person|NN contact|NN secretion|NN saliva|NN person|NN person|NN cough|ST droplet|NN eye|NN nose|NN mouth|NN person|NN 
+mumps|DS share|NN eate|NN utensil|NN cup|NN virus|NN surface|NN contact|NN manner|NN 
+person|NN mumps|DS day|NN onset|NN symptom|NN day|NN symptom|NN incubation|NN period|NN time|NN symptom|NN day|NN day|NN 20-40|NN person|NN mumps|DS virus|NN symptom|NN virus|NN diagnosis|NN 
+outbreak|NN diagnosis|NN exposure|NN parotitis|NN 
+disease|NN incidence|NN cause|NN parotitis|NN hiv|DS influenza|DS 
+viruse|NN meningitis|DS mumps|DS 
+examination|NN presence|NN gland|NN 
+disease|NN ground|NN laboratory|NN test|NN 
+uncertainty|NN diagnosis|NN test|NN saliva|NN blood|NN confirmation|NN polymerase|NN chain|NN reaction|NN technology|NN inflammation|NN gland|NN serum|NN level|NN enzyme|NN amylase|NN prevention|NN 
+measure|NN mumps|DS vaccination|NN mumps|DS vaccine|NN microbiologist|NN maurice|NN merck|NN vaccine|NN part|NN vaccine|NN vaccine|NN 
+world|NN health|NN organization|NN use|NN mumps|DS vaccine|NN country|NN childhood|NN vaccination|NN programme|NN 
+kingdom|NN children|NN age|NN month|NN booster|NN year|NN 
+academy|NN pediatrics|NN routine|NN administration|NN vaccine|NN age|NN month|NN year|NN location|NN vaccine|NN year|NN age|NN year|NN age|NN 
+efficacy|NN vaccine|NN strain|NN jeryl|NN lynn|NN strain|NN country|NN efficacy|NN epidemic|NN situation|NN 
+strain|NN country|NN efficacy|NN epidemic|NN situation|NN 
+outbreak|NN college|NN university|NN set|NN government|NN vaccination|NN program|NN outbreak|NN 
+canada|NN government|NN health|NN agency|NN canada|NN awareness|NN campaign|NN student|NN grade|NN college|NN university|NN 
+academy|NN pediatrics|NN committee|NN practice|NN center|NN disease|NN control|NN prevention|NN academy|NN family|NN physician|NN association|NN society|NN great|NN britain|NN routine|NN vaccination|NN children|NN mumps|DS 
+mumps|DS vaccination|NN mmr|NN kingdom|NN 
+introduction|NN mumps|DS vaccine|NN mumps|DS virus|NN cause|NN meningoencephalitis|NN united|NN states|NN 
+encephalitis|DS study|NN literature|NN symptom|NN mumps|DS meningoencephalitis|NN fever|ST vomit|NN headache|ST mumps|DS vaccine|NN united|NN states|NN december|NN introduction|NN decrease|NN incidence|NN mumps|DS case|NN mumps|DS 
+case|NN average|NN year|NN outbreak|NN case|NN university|NN contagion|NN adult|NN management|NN 
+treatment|NN mumps|DS symptom|NN application|NN ice|NN heat|NN necktesticular|NN area|NN acetaminophen|NN pain|ST relief|NN saltwater|NN food|NN fluid|NN symptom|NN 
+acid|NN aspirin|NN children|NN risk|NN syndrome|NN 
+postexposure|NN recommendation|NN transmission|NN use|NN vaccine|NN immunoglobulin|NN 
+mumps|DS day|NN onset|NN symptom|NN isolation|NN period|NN 
+hospital|NN standard|NN droplet|NN precaution|NN 
+people|NN healthcare|NN work|NN day|NN epidemiology|NN list|NN mumps|DS outbreak|NN 
+united|NN states|NN case|NN year|NN history|NN 
+mumps|DS human|NN antiquity|NN 
+hippocrates|NN epidemics|NN swell|NN gland|NN testicle|NN disease|NN physician|NN robert|NN hamilton|NN transaction|NN society|NN edinburgh|NN disease|NN disease|NN army|NN fight|NN world|NN war|NN world|NN war|NN number|NN attempt|NN mumps|DS 
+contagiousness|NN claude|NN d|NN 
+johnson|NN ernest|NN william|NN goodpasture|NN mumps|DS virus|NN 

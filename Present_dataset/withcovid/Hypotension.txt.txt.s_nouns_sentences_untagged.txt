@@ -1,0 +1,76 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+article|NN citation|NN verification|NN 
+article|NN citation|NN source|NN 
+source|NN hypotension|NN new|NN newspaper|NN book|NN scholar|NN january|NN template|NN message|NN hypotension|NN care|NN medicine|NN 
+hypotension|NN hypotension|NN artery|NN left|NN circulation|NN blood|NN pressure|NN force|NN blood|NN wall|NN artery|NN heart|NN pump|NN blood|NN 
+blood|NN pressure|NN millimeter|NN mercury|NN mm|NN mm|NN hypotension|NN practice|NN blood|NN pressure|NN symptom|NN 
+hypotension|NN opposite|NN hypertension|DS blood|NN pressure|NN 
+state|NN disease|NN 
+hypotension|NN brain|NN organ|NN oxygen|NN nutrient|NN condition|NN shock|NN 
+people|NN condition|NN hypotension|NN sign|NN health|NN fitness|NN session|NN exercise|NN hypotension|NN exercise|NN hypotension|NN response|NN people|NN hypotension|NN dizziness|ST heart|NN endocrine|NN disorder|NN 
+treatment|NN hypotension|NN use|NN fluid|NN vasopressor|NN 
+pressure|NN map|NN mm|NN outcome|NN map|NN mm|NN adult|NN content|NN 
+sign|NN symptom|NN cause|NN diagnosis|NN treatment|NN reference|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN hypotension|NN dizziness|ST 
+blood|NN pressure|NN 
+hypotension|NN symptom|NN cause|NN effect|NN hypotension|NN 
+chest_pain|ST shortness|NN breath|NN heartbeat|NN fever|ST c|NN f|NN headache|ST neck|NN back_pain|ST cough|ST sputum|ST vomit|NN dyspepsia|ST indigestion|ST urination|NN reaction|NN seizure|NN loss|NN consciousness|NN fatigue|ST blure|NN loss|NN vision|NN tarry|NN stool|NN 
+hypotension|NN blood|NN volume|NN change|NN widen|NN blood|NN vessel|NN medicine|NN side|NN effect|NN heart|NN problem|NN problem|NN 
+blood|NN volume|NN hypovolemia|NN cause|NN hypotension|NN 
+fluid|NN intake|NN starvation|NN fluid|NN loss|NN diarrhea|ST vomit|NN 
+use|NN diuretics|NN 
+hypotension|NN heat|NN stroke|NN 
+body|NN fluid|NN electrolyte|NN 
+absence|NN perspiration|ST light|NN urine|NN indicator|NN 
+medication|NN hypotension|NN mechanism|NN 
+use|NN alpha|NN blocker|NN beta|NN blocker|NN hypotension|NN 
+beta|NN blocker|NN hypotension|NN heart|NN rate|NN pump|NN ability|NN heart|NN muscle|NN 
+output|NN blood|NN volume|NN heart|NN failure|NN infarction|NN heart|NN valve|NN problem|NN heart|NN rate|NN hypotension|NN shock|NN 
+hypotension|NN mechanism|NN 
+heart|NN condition|NN hypotension|NN heart|NN rate|NN heart|NN valve|NN problem|NN heart_attack|DS heart|NN failure|NN 
+condition|NN hypotension|NN body|NN blood|NN 
+vasodilation|NN constriction|NN resistance|NN blood|NN vessel|NN cause|NN hypotension|NN 
+system|NN output|NN activity|NN consequence|NN injury|NN brain|NN cord|NN abnormality|NN system|NN function|NN 
+vasodilation|NN sepsis|DS acidosis|NN medication|NN nitrate|NN preparation|NN calcium|NN channel|NN blocker|NN receptor|NN antagonist|NN act|NN receptor|NN 
+agent|NN technique|NN anesthesia|NN agent|NN vasodilation|NN 
+meditation|NN yoga|NN mental-physiological|NN discipline|NN effect|NN 
+lower|NN blood|NN pressure|NN side|NN effect|NN medicine|NN medication|NN 
+example|NN theobromine|NN cacao|NN blood|NN pressure|NN action|NN vasodilator|NN blood|NN pressure|NN 
+hypotension|NN hypotension|NN form|NN hypotension|NN 
+change|NN body|NN position|NN person|NN position|NN 
+delay|NN ability|NN system|NN 
+hypovolemia|NN result|NN medication|NN 
+addition|NN blood|NN medication|NN medication|NN antidepressant|NN side|NN effect|NN 
+blood|NN pressure|NN heart|NN rate|NN measurement|NN delay|NN position|NN change|NN presence|NN hypotension|NN 
+hypotension|NN drop|NN mmhg|NN pressure|NN drop|NN pressure|NN facility|NN beat|NN minute|NN increase|NN heart|NN rate|NN 
+syncope|NN form|NN dysautonomia|DS drop|NN blood|NN pressure|NN position|NN 
+syncope|NN result|NN activity|NN nerve|NN mainstay|NN system|NN 
+form|NN hypotension|NN decline|NN blood|NN pressure|NN minute|NN meal|NN deal|NN blood|NN intestine|NN kind|NN blood|NN pool|NN digestion|NN absorption|NN body|NN output|NN vasoconstriction|NN blood|NN pressure|NN organ|NN brain|NN 
+hypotension|NN system|NN age|NN disorder|NN 
+hypotension|NN feature|NN syndrome|NN hand|NN feet|NN tension|NN glaucoma|DS 
+hypotension|NN symptom|NN energy|NN deficiency|NN sport|NN athlete|NN triad|NN men|NN 
+blood|NN pressure|NN system|NN network|NN receptor|NN nerve|NN hormone|NN effect|NN system|NN blood|NN pressure|NN system|NN 
+compensation|NN ability|NN system|NN individual|NN blood|NN pressure|NN range|NN activity|NN disease|NN state|NN 
+diagnosis|NN hypotension|NN blood|NN pressure|NN sphygmomanometer|NN invasively|NN catheter|NN care|NN set|NN 
+map|NN pressure|NN hypotension|NN 
+adult|NN blood|NN pressure|NN mmhg|NN 
+drop|NN blood|NN pressure|NN mmhg|NN hypotension|NN 
+evaluation|NN syncope|NN tilt|NN table|NN test|NN 
+threshold|NN fall|NN blood|NN pressure|NN mmhg|NN pressure|NN hypotension|NN treatment|NN 
+treatment|NN hypotension|NN cause|NN 
+hypotension|NN symptom|NN 
+hypotension|NN people|NN treatment|NN 
+electrolyte|NN diet|NN symptom|NN hypotension|NN 
+morn|NN dose|NN caffeine|NN 
+case|NN patient|NN person|NN decubitus|NN back|NN position|NN leg|NN return|NN blood|NN organ|NN chest|NN head|NN 
+shock|NN treatment|NN step|NN 
+outcome|NN term|NN mortality|NN speed|NN hypotension|NN 
+method|NN parenthese|NN benchmark|NN progress|NN hypotension|NN 
+study|NN shock|NN delineation|NN principle|NN hypotension|NN due|NN infection|NN form|NN hypotension|NN 
+volume|NN resuscitation|NN blood|NN pressure|NN support|NN vasopressor|NN respect|NN risk|NN death|NN dopamine|NN pressure|NN map|NN mmhg|NN outcome|NN map|NN mm|NN adult|NN tissue|NN perfusion|NN use|NN blood|NN address|NN problem|NN antibiotic|NN infection|NN artery|NN bypass|NN graft|NN surgery|NN infarction|NN steroid|NN insufficiency|NN 
+way|NN person|NN fluid|NN leg|NN raise|NN output|NN heart|NN 
+treatment|NN hypotension|NN 
+blood|NN sugar|NN control|NN nutrition|NN mouth|NN tube|NN support|NN 
+hypotension|NN hypo-|NN mean|NN tension|NN mean|NN strain|NN tightness|NN under-constriction|NN blood|NN vessel|NN artery|NN hypotension|NN 
+transfusion|NN reaction|NN intolerance|NN 

@@ -1,0 +1,4 @@
+allergic_rhinitis:Allergic_Rhinitis.pdf
+pneumonia:Pneumonia.pdf
+heart_failure:Heart_Failure.pdf
+sarcopenia:Sarcopenia.pdf

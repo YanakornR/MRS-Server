@@ -1,0 +1,139 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+journal|NN arthritis|DS journal|NN 
+arthritis|DS photograph|NN hand|NN arthritis|DS hand|NN arthritis|DS autoimmune|NN form|NN arthritis|DS pronunciation|NN 
+symptom|NN pain|ST stiffness|NN redness|NN range|NN motion|NN type|NN arthritis|DS arthritis|DS treatment|NN rest|NN ice|NN heat|NN weight_loss|ST exercise|NN replacement|NN paracetamol|NN 
+arthritis|DS term|NN disorder|NN joint|NN symptom|NN pain|ST stiffness|NN symptom|NN redness|NN warmth|NN swell|NN range|NN motion|NN joint|NN type|NN organ|NN 
+type|NN arthritis|DS form|NN arthritis|DS disease|NN arthritis|DS arthritis|DS age|NN finger|NN knee|NN hip|NN arthritis|DS autoimmune|NN disorder|NN hand|NN feet|NN type|NN gout|DS arthritis|DS type|NN disease|NN 
+treatment|NN ice|NN heat|NN weight_loss|ST exercise|NN pain|ST medication|NN paracetamol|NN acetaminophen|NN replacement|NN 
+arthritis|DS people|NN arthritis|DS 024|NN people|NN population|NN point|NN live|NN australia|NN people|NN united|NN states|NN type|NN arthritis|DS disease|NN age|NN arthritis|DS reason|NN people|NN work|NN quality|NN life|NN term|NN mean|NN joint|NN mean|NN inflammation|NN content|NN 
+classification|NN sign|NN symptom|NN disability|NN diagnosis|NN arthritis|DS arthritis|DS lupus|NN comparison|NN type|NN treatment|NN therapy|NN surgery|NN aid|NN medicine|NN epidemiology|NN history|NN terminology|NN reference|NN link|NN 
+disease|NN pain|ST feature|NN 
+person|NN arthritis|DS disease|NN 
+arthritis|DS arthritis|DS arthritis|DS arthritis|DS disease|NN 
+pain|ST symptom|NN disease|NN 
+case|NN arthritis|DS disease|NN 
+psoriatic|NN arthritis|DS arthritis|DS syndrome|NN hepatitis|DS lyme_disease|DS disease|NN disease|NN gluten|NN sensitivity|NN bowel|NN disease|NN disease|NN colitis|DS purpura|DS d|NN fever|ST disease|NN tnf|NN receptor|NN syndrome|NN polyangiitis|NN vasculitis|DS syndrome|NN fever|ST lupus|NN 
+arthritis|DS arthritis|DS disease|NN category|NN stage|NN disease|NN sign|NN symptom|NN feature|NN disease|NN nodule|NN lesion|NN inflammation|NN tendon|NN sheath|NN effusion|NN bursa|NN ulceration|NN 
+pain|ST severity|NN symptom|NN type|NN arthritis|DS 
+symptom|NN stiffness|NN joint|NN 
+disorder|NN lupus|NN arthritis|DS organ|NN body|NN variety|NN symptom|NN symptom|NN 
+inability|NN hand|NN walk|NN morn|NN use|NN fatigue|ST weight_loss|ST sleep|NN muscle|NN ache|NN pain|ST difficulty|NN 
+arthritis|DS change|NN 
+example|NN symptom|NN person|NN exercise|NN effect|NN illustration|NN gout|DS foot|NN 
+muscle_weakness|ST loss|NN flexibility|NN fitness|NN 
+change|NN addition|NN symptom|NN impact|NN quality|NN life|NN 
+arthritis|DS cause|NN disability|NN united|NN states|NN 
+individual|NN arthritis|DS limitation|NN function|NN basis|NN visit|NN physician|NN individual|NN arthritis|DS 
+arthritis|DS individual|NN 
+cost|NN arthritis|DS case|NN earn|NN 
+year|NN arthritis|DS result|NN outpatient|NN visit|NN health|NN care|NN center|NN 
+mobility|NN combination|NN symptom|NN individual|NN risk|NN obesity|NN cholesterol|NN vulnerability|NN heart|NN disease|NN people|NN arthritis|DS risk|NN depression|ST response|NN factor|NN fear|NN symptom|NN diagnosis|NN 
+section|NN source|NN 
+section|NN citation|NN source|NN 
+january|NN template|NN message|NN 
+diagnosis|NN examination|NN health|NN professional|NN test|NN radiology|NN blood|NN test|NN type|NN arthritis|DS feature|NN pain|ST 
+pain|ST pattern|NN arthritide|NN location|NN 
+arthritis|DS morn|NN stiffness|NN minute|NN stage|NN patient|NN symptom|NN shower|NN 
+arthritis|DS hand|NN morn|NN stiffness|NN movement|NN exercise|NN 
+children|NN pain|ST present|NN feature|NN patient|NN patient|NN limb|NN 
+element|NN history|NN disorder|NN guide|NN diagnosis|NN 
+feature|NN speed|NN time|NN onset|NN pattern|NN involvement|NN symmetry|NN symptom|NN morn|NN stiffness|NN tenderness|NN inactivity|NN aggravate|NN factor|NN symptom|NN 
+examination|NN diagnosis|NN disease|NN 
+progression|NN help|NN severity|NN 
+blood|NN test|NN x-ray|NN joint|NN diagnosis|NN 
+screen|NN blood|NN test|NN arthritide|NN 
+factor|NN factor|NN antigen|NN antibody|NN 
+arthritis|DS article|NN arthritis|DS 
+arthritis|DS form|NN arthritis|DS joint|NN body|NN hand|NN wrist|NN feet|NN back|NN hip|NN knee|NN 
+disease|NN wear|NN tear|NN joint|NN arthritis|DS result|NN injury|NN 
+limb|NN deformity|ST overcoverage|NN dysplasia|DS factor|NN knee|NN hip|NN arthritis|DS 
+arthritis|DS cartilage|NN bone|NN 
+condition|NN pain|ST activity|NN pain|ST state|NN rest|NN 
+pain|ST activity|NN 
+arthritis|DS joint|NN back|NN knee|NN hip|NN 
+arthritis|DS arthritis|DS disease|NN 
+percent|NN women|NN degree|NN arthritis|DS age|NN 
+risk|NN factor|NN arthritis|DS trauma|NN obesity|NN lifestyle|NN arthritis|DS article|NN arthritis|DS bone|NN erosion|NN arthritis|DS 
+arthritis|DS ra|NN disorder|NN body|NN system|NN attack|NN body|NN tissue|NN attack|NN part|NN body|NN 
+arthritis|DS damage|NN line|NN cartilage|NN erosion|NN bone|NN 
+ra|NN joint|NN finger|NN wrist|NN knee|NN elbow|NN side|NN body|NN deformity|ST year|NN 
+ra|NN people|NN 
+children|NN disorder|NN skin|NN rash|ST fever|ST pain|ST disability|NN limitation|NN activity|NN diagnosis|NN treatment|NN individual|NN quality|NN life|NN onset|NN drug|NN ra|NN range|NN corticosteroid|NN antibody|NN 
+treatment|NN analgesics|NN nsaids|NN drug|NN case|NN surgery|NN joint|NN cure|NN disease|NN 
+treatment|NN dmard|NN response|NN part|NN t|NN helper|NN cell|NN cell|NN cell|NN quantity|NN site|NN bone|NN destruction|NN joint|NN cytokine|NN inflammation|NN il-17|NN 
+bone|NN erosion|NN feature|NN arthritis|DS 
+bone|NN action|NN bone|NN resorb|NN bone|NN 
+trigger|NN bone|NN erosion|NN joint|NN arthritis|DS inflammation|NN synovium|NN part|NN production|NN cytokine|NN receptor|NN activator|NN factor|NN b|NN ligand|NN cell|NN surface|NN protein|NN present|NN cell|NN osteoblast|NN activity|NN osteoblast|NN mechanism|NN lupus|NN article|NN lupus|NN 
+lupus|NN collagen_disorder|DS arthritis|DS 
+feature|NN lupus|NN skin|NN rash|ST extreme|NN hair_loss|ST kidney|NN problem|NN lung|NN fibrosis|DS pain|ST article|NN 
+deposition|NN acid|NN crystal|NN cause|NN inflammation|NN 
+form|NN arthritis|DS formation|NN crystal|NN calcium|NN 
+stage|NN gouty|NN arthritis|DS time|NN joint|NN 
+joint|NN gout|DS function|NN 
+arthritis|DS gout|DS acid|NN level|NN gout|DS symptom|NN gout|DS medicine|NN production|NN acid|NN increase|NN acid|NN elimination|NN body|NN kidney|NN gout|DS comparison|NN type|NN comparison|NN form|NN arthritis|DS osteo|DS arthritis|DS arthritis|DS arthritis|DS speed|NN onset|NN month|NN hour|NN attack|NN location|NN joint|NN knee|NN hip|NN column|NN hand|NN hand|NN wrist|NN ankle|NN knee|NN hip|NN toe|NN ankle|NN knee|NN elbow|NN inflammation|NN arthritis|DS change|NN 
+space|NN osteosclerosis|DS cyst|NN 
+space|NN bone|NN erosion|NN 
+bone|NN erosion|NN 
+laboratory|NN find|NN esr|NN protein|NN crp|NN factor|NN protein|NN antibody|NN crystal|NN joint|NN feature|NN 
+sign|NN node|NN 
+feature|NN deviation|NN swan|NN deformity|ST hand|NN 
+arthritis|DS form|NN arthritis|DS 
+onset|NN chill|NN fever|ST pain|ST 
+condition|NN bacteria|NN body|NN 
+arthritis|DS damage|NN 
+arthritis|DS individual|NN skin|NN problem|NN arthritis|DS 
+feature|NN pain|ST stiffness|NN 
+disease|NN period|NN remission|NN cure|NN disorder|NN 
+percentage|NN form|NN arthritis|DS joint|NN hand|NN disability|NN loss|NN hand|NN function|NN treatment|NN 
+cure|NN arthritis|DS 
+treatment|NN option|NN type|NN arthritis|DS therapy|NN lifestyle|NN change|NN exercise|NN weight|NN control|NN medication|NN 
+replacement|NN surgery|NN form|NN arthritis|DS 
+inflammation|NN joint|NN pain|ST 
+inflammation|NN damage|NN 
+citation|NN therapy|NN 
+study|NN exercise|NN joint|NN pain|ST relief|NN 
+exercise|NN joint|NN health|NN joint|NN body|NN person|NN 
+individual|NN arthritis|DS therapy|NN 
+arthritis|DS joint|NN range|NN movement|NN 
+therapy|NN function|NN decrease|NN pain|ST delay|NN need|NN intervention|NN case|NN exercise|NN therapist|NN medication|NN arthritis|DS knee|NN 
+muscle|NN strength|NN endurance|NN flexibility|NN 
+case|NN exercise|NN train|NN balance|NN 
+therapy|NN assistance|NN activity|NN 
+technology|NN tool|NN person|NN disability|NN barrier|NN use|NN body|NN part|NN amputation|NN 
+technology|NN device|NN patient|NN 
+type|NN medication|NN treatment|NN arthritis|DS 
+treatment|NN medication|NN side|NN effect|NN medication|NN 
+type|NN arthritis|DS medication|NN 
+example|NN treatment|NN arthritis|DS paracetamol|NN arthritis|DS drug|NN nsaids|NN 
+arthritis|DS ra|NN autoimmune|NN addition|NN pain|ST medication|NN drug|NN category|NN drug|NN drug|NN act|NN system|NN progression|NN ra|NN 
+example|NN type|NN drug|NN 
+number|NN intervention|NN treatment|NN arthritis|DS 
+surgery|NN arthritis|DS knee|NN benefit|NN therapy|NN aid|NN 
+people|NN hand|NN arthritis|DS trouble|NN activity|NN live|NN task|NN key|NN lock|NN open|NN jar|NN activity|NN 
+aid|NN device|NN task|NN product|NN function|NN 
+print|NN aid|NN source|NN hardware|NN patient|NN cost|NN aid|NN arthritis|DS patient|NN majority|NN arthritis|DS need|NN medicine|NN 
+research|NN nerve|NN stimulation|NN knee|NN arthritis|DS pain|ST 
+level|NN laser|NN therapy|NN relief|NN pain|ST stiffness|NN arthritis|DS evidence|NN benefit|NN 
+field|NN therapy|NN evidence|NN function|NN evidence|NN pain|ST osteo|DS arthritis|DS fda|NN treatment|NN arthritis|DS 
+canada|NN device|NN health|NN canada|NN treatment|NN pain|ST condition|NN 
+citation|NN epidemiology|NN 
+arthritis|DS disease|NN children|NN disease|NN arthritis|DS women|NN men|NN age|NN race|NN group|NN culture|NN 
+united|NN states|NN cdc|NN survey|NN data|NN 20072009|NN adult|NN 
+year|NN doctor-diagnose|NN arthritis|DS arthritis|DS arthritis|DS activity|NN limitation|NN 
+population|NN number|NN 
+disability|NN disorder|NN 
+arthritis|DS health|NN condition|NN report|NN prevalence|NN condition|NN data|NN africa|NN 
+review|NN prevalence|NN arthritis|DS africa|NN population-base|NN study|NN majority|NN study|NN south|NN africa|NN 
+study|NN study|NN quality|NN study|NN 
+result|NN review|NN 
+arthritis|DS algeria|NN set|NN republic|NN congo|NN set|NN set|NN south|NN africa|NN egypt|NN set|NN lesotho|NN set|NN arthritis|DS south|NN africa|NN set|NN south|NN african|NN year|NN knee|NN arthritis|DS prevalence|NN type|NN arthritis|DS south|NN africa|NN ankylosing|NN south|NN africa|NN set|NN arthritis|DS south|NN africa|NN set|NN south|NN africa|NN set|NN juvenile|NN arthritis|DS egypt|NN set|NN 
+evidence|NN osteo|DS arthritis|DS arthritis|DS dinosaur|NN trace|NN arthritis|DS date|NN back|NN 
+report|NN arthritis|DS ailment|NN people|NN remain|NN american|NN tennessee|NN part|NN kansas|NN 
+evidence|NN arthritis|DS history|NN ötzy|NN mummy|NN border|NN italy|NN austria|NN mummy|NN 
+william|NN musgrave|NN edition|NN work|NN de|NN arthritide|NN arthritis|DS effect|NN augustin|NN jacob|NN resident|NN physician|NN asylum|NN france|NN person|NN symptom|NN arthritis|DS 
+classification|NN arthritis|DS relative|NN gout|DS dissertation|NN study|NN disease|NN terminology|NN 
+term|NN arthr-|NN greek|NN lit|NN 
+limb|NN -itis|NN 
+suffix|NN inflammation|NN 
+word|NN arthritide|NN group|NN arthritis|DS condition|NN 
+arthritis|DS care|NN charity|NN uk|NN arthritis|DS foundation|NN knee|NN arthritis|DS weather|NN pain|ST 

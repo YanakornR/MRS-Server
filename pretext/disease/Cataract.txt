@@ -1,0 +1,533 @@
+cataract|DS cataract|DS cloud|NN of|NN lens|NN in|NN eye|NN decrease|NN in|NN vision|NN 
+cataract|DS eye|NN 
+symptom|NN color|NN blurry|NN double_vision|ST halo|NN trouble|NN light|NN trouble|NN night|NN 
+in|NN trouble|NN drive|NN read|NN 
+vision|NN cataract|DS in|NN risk|NN of|NN depression|ST 
+cataract|DS half|NN of|NN case|NN of|NN blindness|NN of|NN impairment|NN worldwide|NN 
+cataract|DS radiation|NN exposure|NN birth|NN eye|NN surgery|NN problem|NN 
+risk|NN factor|NN diabetes|DS tobacco|NN exposure|NN alcohol|NN 
+mechanism|NN accumulation|NN of|NN clump|NN of|NN protein|NN pigment|NN in|NN lens|NN transmission|NN of|NN light|NN retina|NN back|NN of|NN eye|NN 
+diagnosis|NN eye|NN examination|NN 
+prevention|NN sunglass|NN smoke|NN 
+early|NN symptom|NN glass|NN 
+surgery|NN cloudy|NN lens|NN lens|NN treatment|NN 
+surgery|NN cataract|DS problem|NN result|NN in|NN quality|NN of|NN life|NN 
+cataract|DS surgery|NN in|NN country|NN woman|NN in|NN area|NN 
+onset|NN cause|NN factor|NN prevention|NN treatment|NN frequency|NN cataract|DS view|NN of|NN cataract|DS examination|NN slit|NN lamp|NN specialty|NN symptom|NN ophthalmology|NN color|NN blurry|NN vision|NN halo|NN trouble|NN light|NN trouble|NN night|NN complication|NN depression|ST age|NN trauma|NN radiation|NN exposure|NN eye|NN surgery|NN diabetes|DS tobacco|NN exposure|NN alcohol|NN eye|NN examination|NN sunglass|NN glass|NN cataract|DS surgery|NN people|NN cataract|DS 
+cause|NN of|NN of|NN blindness|NN in|NN state|NN of|NN blindness|NN in|NN part|NN of|NN africa|NN south|NN america|NN 
+blindness|NN cataract|DS in|NN child|NN in|NN world|NN 1|NN child|NN in|NN world|NN 
+cataract|DS common|NN age|NN 
+in|NN state|NN cataract|DS in|NN of|NN age|NN of|NN year|NN 
+common|NN in|NN woman|NN white|NN people|NN 
+content|NN sign|NN symptom|NN cause|NN age|NN trauma|NN radiation|NN genetics|NN skin|NN disease|NN alcohol|NN vitamin|NN medication|NN disease|NN classification|NN prevention|NN treatment|NN prognosis|NN postoperative|NN care|NN complication|NN history|NN etymology|NN research|NN see|NN link|NN sign|NN symptom|NN sign|NN symptom|NN type|NN of|NN cataract|DS occur|NN 
+people|NN brunescent|NN cataract|DS reduction|NN of|NN vision|NN 
+cataract|DS of|NN impairment|NN example|NN of|NN vision|NN versus|NN vision|NN cataract|DS distance|NN vision|NN of|NN vision|NN 
+cataract|DS of|NN glare|NN major|NN symptom|NN 
+severity|NN of|NN cataract|DS formation|NN eye|NN disease|NN acuity|NN test|NN 
+symptom|NN change|NN of|NN glass|NN halo|NN hydration|NN of|NN lens|NN 
+cause|NN cataract|DS in|NN infant|NN rubella|DS syndrome|NN age|NN age|NN common|NN cause|NN 
+lens|NN denature|NN degrade|NN time|NN process|NN disease|NN diabetes|DS mellitus|NN hypertension|DS 
+factor|NN toxin|NN radiation|NN light|NN effect|NN loss|NN of|NN mechanism|NN alteration|NN in|NN gene|NN expression|NN chemical|NN process|NN eye|NN 
+trauma|NN blunt|NN trauma|NN swelling|ST whiten|NN of|NN fiber|NN 
+swelling|ST time|NN white|NN color|NN 
+in|NN blunt|NN trauma|NN in|NN injury|NN eye|NN capsule|NN in|NN lens|NN sit|NN 
+damage|NN fluid|NN part|NN of|NN eye|NN lens|NN swelling|ST light|NN retina|NN back|NN of|NN eye|NN 
+cataract|DS in|NN of|NN case|NN injury|NN 
+blunt|NN trauma|NN in|NN stellate|NN cataract|DS 
+post|NN traumatic|NN rosette|NN cataract|DS of|NN male|NN radiation|NN cataract|DS effect|NN of|NN exposure|NN type|NN of|NN radiation|NN 
+form|NN of|NN radiation|NN dna|NN of|NN cell|NN 
+ultraviolet|NN light|NN cataract|DS evidence|NN sunglass|NN early|NN age|NN development|NN in|NN life|NN 
+microwave|NN type|NN of|NN radiation|NN harm|NN enzyme|NN glutathione|NN peroxidase|NN protein|NN thiol|NN group|NN protein|NN aggregation|NN lens|NN cell|NN expansion|NN 
+protein|NN coagulation|NN heat|NN injury|NN lens|NN 
+process|NN albumen|NN of|NN egg|NN white|NN opaque|NN cook|NN 
+genetics|NN component|NN in|NN development|NN of|NN cataract|DS mechanism|NN lens|NN 
+presence|NN of|NN cataract|DS in|NN childhood|NN early|NN life|NN syndrome|NN 
+example|NN of|NN chromosome|NN abnormality|NN cataract|DS deletion|NN syndrome|NN syndrome|NN down_syndrome|DS patau|NN syndrome|NN edward|NN syndrome|NN turner|NN syndrome|NN in|NN case|NN of|NN neurofibromatosis|NN type|NN 2|NN juvenile|NN cataract|DS side|NN 
+example|NN of|NN disorder|NN alport|NN syndrome|NN conradi|NN syndrome|NN xanthomatosis|NN dystrophy|NN syndrome|NN syndrome|NN 
+christmas|NN cataract|DS illumination|NN skin|NN skin|NN lens|NN origin|NN disease|NN 
+atopic_dermatitis|DS eczema|NN ulcer|NN cataract|DS 
+ichthyosis|NN disorder|NN cuneiform|NN cataract|DS sclerosis|NN 
+nevus|NN pemphigus|NN association|NN 
+smoke|NN alcohol|NN cigarette|NN smoke|NN double|NN rate|NN of|NN cataract|DS rate|NN of|NN cataract|DS 
+evidence|NN effect|NN of|NN alcohol|NN 
+survey|NN link|NN others|NN people|NN term|NN 
+vitamin|NN vitamin|NN c|NN level|NN cataract|DS rate|NN 
+use|NN of|NN supplement|NN of|NN vitamin|NN c|NN benefit|NN 
+medication|NN medication|NN systemic|NN corticosteroid|NN risk|NN of|NN cataract|DS development|NN 
+corticosteroid|NN cataract|DS 
+people|NN schizophrenia|DS factor|NN opacity|NN diabetes|DS hypertension|DS nutrition|NN medication|NN cataract|DS formation|NN 
+miotic|NN triparanol|NN risk|NN 
+person|NN cataract|DS experience|NN progression|NN of|NN sclerosis|NN operation|NN 
+humor|NN solution|NN substitute|NN plus|NN 
+humour|NN contain|NN acid|NN damage|NN lens|NN substitute|NN acid|NN 
+phakic|NN patient|NN vitrectomy|NN common|NN ophthalmologist|NN vitrectomy|NN cataract|DS surgery|NN cataract|DS formation|NN 
+syndrome|NN down_syndrome|DS syndrome|NN edward|NN syndrome|NN infection|NN cysticercosis|NN onchocerciasis|NN toxoplasmosis|NN varicella|NN eye|NN disease|NN retinopathy|NN of|NN prematurity|NN detachment|NN retinitis|NN disease|NN disease|NN syndrome|NN xanthomatosis|NN diabetes|DS fabry|NN disease|NN galactosemia|NN cataract|DS homocystinuria|NN hyperparathyroidism|NN hypoparathyroidism|NN hypervitaminosis|NN d|NN hypothyroidism|NN hypocalcaemia|NN wilson|NN disease|NN congenital|NN syphilis|DS inclusion|NN disease|NN rubella|DS syndrome|NN diagnosis|NN cataract|DS of|NN male|NN wilson|NN disease|NN classification|NN cataract|DS 
+type|NN of|NN cataract|DS sclerosis|NN subcapsular|NN 
+sclerosis|NN common|NN type|NN of|NN cataract|DS part|NN of|NN lens|NN 
+condensation|NN lens|NN deposition|NN of|NN pigment|NN lens|NN 
+in|NN stage|NN brunescent|NN cataract|DS 
+in|NN early|NN stage|NN increase|NN in|NN sclerosis|NN cause|NN increase|NN in|NN index|NN of|NN lens|NN 
+myopic|NN shift|NN shift|NN hyperopia|NN enable|NN patient|NN glass|NN 
+sight|NN 
+cataract|DS lens|NN cortex|NN layer|NN opaque|NN 
+change|NN in|NN fluid|NN in|NN periphery|NN of|NN cause|NN 
+cataract|DS ophthalmoscope|NN magnification|NN system|NN appearance|NN white|NN speak|NN of|NN wheel|NN 
+symptom|NN problem|NN glare|NN scatter|NN night|NN 
+cataract|DS back|NN of|NN adjacent|NN capsule|NN bag|NN in|NN lens|NN sit|NN 
+become|NN back|NN of|NN lens|NN disproportionate|NN symptom|NN size|NN 
+immature|NN cataract|DS transparent|NN protein|NN mature|NN cataract|DS lens|NN protein|NN 
+in|NN hypermature|NN cataract|DS lens|NN protein|NN liquid|NN 
+cataract|DS in|NN adulthood|NN classification|NN cataract|DS 
+cataract|DS opacity|NN classification|NN system|NN iii|NN 
+in|NN system|NN cataract|DS type|NN 
+cataract|DS severity|NN scale|NN 1|NN locs|NN iii|NN system|NN 
+type|NN of|NN cataract|DS view|NN position|NN of|NN human|NN play|NN media|NN scan|NN of|NN cataract|DS in|NN fetus|NN week|NN of|NN pregnancy|NN cataract|DS of|NN year|NN boy|NN in|NN eye|NN sclerosis|NN cataract|DS of|NN year|NN cataract|DS of|NN year|NN retroillumination|NN of|NN cataract|DS posterior|NN cataract|DS of|NN year|NN girl|NN cataract|DS of|NN year|NN male|NN cataract|DS back|NN posterior|NN cataract|DS retroillumination|NN sclerosis|NN cataract|DS of|NN year|NN female|NN dense|NN white|NN mature|NN cataract|DS of|NN year|NN melanoderm|NN cataract|DS of|NN prevention|NN risk|NN factor|NN exposure|NN smoke|NN 
+mean|NN of|NN cataract|DS sunglass|NN light|NN development|NN 
+intake|NN of|NN antioxidant|NN vitamin|NN c|NN e|NN risk|NN of|NN cataract|DS trial|NN benefit|NN supplement|NN evidence|NN effect|NN of|NN nutrient|NN lutein|NN zeaxanthin|NN 
+statin|NN use|NN risk|NN of|NN cataract|DS 
+treatment|NN appropriateness|NN of|NN surgery|NN person|NN functional|NN need|NN risk|NN factor|NN 
+cataract|DS removal|NN stage|NN of|NN lens|NN 
+surgery|NN anesthesia|NN 
+of|NN patient|NN vision|NN of|NN surgery|NN 
+evaluation|NN cataract|DS surgery|NN expectation|NN impairment|NN cataract|DS exist|NN surgery|NN 
+function|NN estimate|NN estimate|NN acuity|NN 
+in|NN country|NN trend|NN cataract|DS surgery|NN result|NN 
+cataract|DS surgery|NN approach|NN phacoemulsification|NN probe|NN in|NN hand|NN chopper|NN in|NN hand|NN operate|NN microscope|NN center|NN phacoemulsification|NN cataract|DS surgery|NN in|NN world|NN 
+procedure|NN energy|NN lens|NN 
+phacoemulsification|NN step|NN cataract|DS photo|NN of|NN opacification|NN visible|NN month|NN implantation|NN of|NN lens|NN retroillumination|NN eye|NN injection|NN eye|NN block|NN eye|NN drop|NN 
+paralysis|ST of|NN eye|NN muscle|NN 
+incision|NN cut|NN margin|NN of|NN cornea|NN insertion|NN of|NN instrument|NN eye|NN 
+capsulorhexis|NN pair|NN of|NN forceps|NN hole|NN in|NN capsule|NN in|NN lens|NN sit|NN 
+phacoemulsification|NN handheld|NN probe|NN lens|NN liquid|NN energy|NN of|NN wave|NN 
+irrigation|NN aspiration|NN cortex|NN outer|NN layer|NN of|NN cataract|DS 
+fluid|NN solution|NN collapse|NN of|NN structure|NN of|NN chamber|NN front|NN part|NN of|NN eye|NN 
+lens|NN insertion|NN plastic|NN lens|NN bag|NN lens|NN 
+surgeon|NN eye|NN risk|NN of|NN infection|NN 
+step|NN water|NN corneal|NN area|NN incision|NN 
+cochrane|NN review|NN difference|NN in|NN acuity|NN function|NN of|NN size|NN of|NN incision|NN phacoemulsification|NN in|NN range|NN mm|NN mm|NN 
+cataract|DS extraction|NN ecce|NN of|NN lens|NN majority|NN of|NN capsule|NN 
+lens|NN incision|NN suture|NN end|NN of|NN surgery|NN 
+ecce|NN phacoemulsification|NN cataract|DS situation|NN emulsification|NN 
+incision|NN cataract|DS surgery|NN msics|NN ecce|NN 
+in|NN msics|NN lens|NN tunnel|NN wound|ST in|NN sclera|NN suture|NN 
+incision|NN portal|NN in|NN phacoemulsion|NN 
+surgery|NN in|NN develop|NN world|NN access|NN phacoemulsification|NN 
+cataract|DS extraction|NN icce|NN 
+lens|NN capsule|NN in|NN piece|NN incision|NN pressure|NN membrane|NN 
+surgery|NN rate|NN of|NN complication|NN 
+prognosis|NN postoperative|NN care|NN recovery|NN period|NN cataract|DS 
+patient|NN day|NN of|NN surgery|NN strain|NN lift|NN month|NN 
+eye|NN day|NN of|NN surgery|NN use|NN of|NN eye|NN shield|NN night|NN day|NN surgery|NN 
+in|NN type|NN of|NN surgery|NN lens|NN lens|NN lens|NN in|NN eye|NN 
+lens|NN distance|NN vision|NN 
+lens|NN vision|NN lens|NN chance|NN of|NN vision|NN 
+complication|NN complication|NN of|NN cataract|DS surgery|NN detachment|NN endophthalmitis|NN 
+in|NN case|NN patient|NN decrease|NN in|NN vision|NN 
+in|NN endophthalmitis|NN patient|NN pain|ST 
+detachment|NN field|NN defect|NN blur|NN of|NN vision|NN flash|NN of|NN light|NN spot|NN 
+slit|NN photo|NN of|NN opacification|NN visible|NN month|NN implantation|NN of|NN lens|NN view|NN woman|NN patch|NN surgery|NN eye|NN cataract|DS 
+risk|NN of|NN detachment|NN year|NN risk|NN increase|NN incidence|NN study|NN risk|NN 
+incidence|NN time|NN in|NN manner|NN risk|NN increase|NN year|NN procedure|NN 
+risk|NN factor|NN age|NN sex|NN length|NN complication|NN surgery|NN 
+in|NN risk|NN group|NN of|NN patient|NN incidence|NN of|NN detachment|NN 
+risk|NN of|NN endophthalmitis|NN surgery|NN in|NN 
+corneal|NN edema|ST macular|NN edema|ST common|NN of|NN swelling|ST front|NN of|NN eye|NN in|NN edema|ST back|NN of|NN eye|NN in|NN edema|ST 
+result|NN of|NN inflammation|NN surgery|NN in|NN case|NN patient|NN blurred_vision|ST 
+time|NN application|NN of|NN drop|NN 
+risk|NN of|NN in|NN nsaid|NN corticosteroid|NN inflammation|NN 
+opacification|NN condition|NN in|NN month|NN year|NN cataract|DS surgery|NN vision|NN deteriorate|NN problem|NN glare|NN recur|NN of|NN back|NN posterior|NN capsule|NN lens|NN lens|NN opacification|NN 
+growth|NN of|NN lens|NN cell|NN lens|NN cause|NN patient|NN chance|NN of|NN occur|NN 
+management|NN area|NN in|NN capsule|NN beam|NN of|NN energy|NN laser|NN nd|NN capsulotomy|NN type|NN of|NN laser|NN 
+laser|NN part|NN of|NN capsule|NN fall|NN bottom|NN of|NN inside|NN of|NN eye|NN 
+procedure|NN capsule|NN lens|NN in|NN place|NN light|NN retina|NN 
+side|NN effect|NN 
+opacification|NN common|NN in|NN operation|NN rate|NN introduction|NN of|NN lens|NN understand|NN of|NN cause|NN 
+syndrome|NN complication|NN of|NN cataract|DS extraction|NN 
+epidemiology|NN cataract|DS of|NN world|NN blindness|NN people|NN 
+cataract|DS disability|NN in|NN of|NN in|NN middle|NN income|NN country|NN 
+in|NN country|NN service|NN cataract|DS cause|NN of|NN blindness|NN 
+service|NN vision|NN cataract|DS result|NN of|NN wait|NN barrier|NN surgery|NN cost|NN lack|NN of|NN information|NN transportation|NN problem|NN 
+in|NN state|NN lens|NN change|NN in|NN age|NN of|NN age|NN age|NN of|NN 
+cataract|DS american|NN age|NN 
+age|NN half|NN of|NN american|NN cataract|DS 
+cost|NN cataract|DS treatment|NN 
+life|NN year|NN cataract|DS inhabitant|NN in|NN data|NN in|NN region|NN cataract|DS of|NN blindness|NN 
+access|NN eye|NN care|NN in|NN country|NN in|NN region|NN 
+cataract|DS of|NN world|NN childhood|NN blindness|NN 
+history|NN cataract|DS surgery|NN physician|NN suśruta|NN century|NN bce|NN in|NN manuscript|NN sushruta|NN samhita|NN in|NN india|NN 
+of|NN method|NN focus|NN hygiene|NN 
+treatment|NN bandage|NN of|NN eye|NN eye|NN butter|NN 
+reference|NN cataract|DS treatment|NN in|NN rome|NN in|NN ad|NN in|NN work|NN of|NN aulus|NN cornelius|NN celsus|NN 
+evidence|NN of|NN eye|NN surgery|NN in|NN roman|NN era|NN 
+galen|NN of|NN pergamon|NN 
+century|NN ce|NN physician|NN surgeon|NN philosopher|NN operation|NN cataract|DS surgery|NN 
+instrument|NN lens|NN of|NN eye|NN 
+ammar|NN in|NN choice|NN of|NN eye|NN disease|NN circa|NN of|NN invention|NN of|NN syringe|NN technique|NN of|NN cataract|DS extraction|NN patient|NN 
+etymology|NN cataract|DS cataracta|NN waterfall|NN καταρράκτης|NN katarrhaktēs|NN καταράσσω|NN katarassō|NN down|NN down|NN 
+water|NN white|NN term|NN appearance|NN of|NN mature|NN opacity|NN 
+in|NN latin|NN cataracta|NN mean|NN portcullis|NN name|NN mean|NN eye|NN disease|NN early|NN century|NN notion|NN of|NN obstruction|NN 
+early|NN physician|NN term|NN descent|NN of|NN water|NN disease|NN blindness|NN outpouring|NN of|NN humour|NN eye|NN 
+research|NN drop|NN treatment|NN cataract|DS 
+drop|NN oxidation|NN glycation|NN damage|NN in|NN lens|NN crystallin|NN crosslinking|NN 
+benefit|NN in|NN trial|NN corroboration|NN 
+femtosecond|NN cataract|DS surgery|NN flap|NN in|NN lasik|NN surgery|NN cataract|DS surgery|NN 
+incision|NN junction|NN of|NN sclera|NN cornea|NN hole|NN in|NN capsule|NN capsulorhexis|NN handheld|NN blade|NN forceps|NN skill|NN experience|NN of|NN surgeon|NN 
+image|NN of|NN eye|NN laser|NN incision|NN 
+nd|NN laser|NN cataract|DS in|NN phacoemulsification|NN 
+stem|NN cell|NN in|NN trial|NN regeneration|NN in|NN child|NN age|NN of|NN cataract|DS birth|NN 
+child|NN month|NN result|NN procedure|NN in|NN adult|NN 
+see|NN cataract|DS lens|NN reference|NN 1|NN 
+fact|NN cataract|DS http|NN 
+http|NN 
+gimbel|NN hv|NN aa|NN 
+consequence|NN of|NN cataract|DS surgery|NN 
+opinion|NN in|NN ophthalmology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+impairment|NN fact|NN sheet|NN http|NN 
+http|NN p|NN 
+priority|NN eye|NN disease|NN http|NN 
+http|NN 
+chan|NN wh|NN ashworth|NN jl|NN 
+congenital|NN cataract|DS aetiology|NN management|NN 
+journal|NN of|NN pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+gbd|NN disease|NN injury|NN incidence|NN prevalence|NN collaborator|NN 
+incidence|NN prevalence|NN year|NN disability|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN c5055577|NN 
+pmid|NN http|NN 
+d|NN 
+cataract|DS surgery|NN cataract|DS http|NN 
+bmj|NN 
+ttps|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+data|NN impairment|NN http|NN pdf|NN 
+http|NN pdf|NN 
+lamoureux|NN el|NN fenwick|NN e|NN pesudovs|NN k|NN d|NN 
+impact|NN of|NN cataract|DS surgery|NN quality|NN of|NN life|NN 
+opinion|NN in|NN ophthalmology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rao|NN gn|NN r|NN payal|NN 
+burden|NN of|NN cataract|DS 
+opinion|NN in|NN ophthalmology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+pandey|NN 
+cataract|DS surgery|NN technique|NN complication|NN management|NN http|NN 
+philadelphia|NN lippincott|NN wilkins|NN 
+isbn|NN http|NN 
+cataract|DS data|NN statistic|NN eye|NN institute|NN http|NN atistics|NN 
+cataract|DS http|NN 
+reference|NN of|NN ophthalmology|NN 
+harkness|NN eye|NN institute|NN department|NN of|NN ophthalmology|NN of|NN columbia|NN university|NN 
+http|NN march|NN 2|NN april|NN 
+duker|NN jay|NN yanoff|NN md|NN myron|NN duker|NN md|NN 
+ophthalmology|NN 
+louis|NN mo|NN 
+sc|NN 
+cataract|DS case|NN report|NN review|NN of|NN literature|NN 
+journal|NN of|NN ophthalmology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+ram|NN jagat|NN gupta|NN rohit|NN 
+cataract|DS 
+journal|NN of|NN medicine|NN 
+e22|NN 
+http|NN 
+pmid|NN http|NN 
+rm|NN tripathi|NN bj|NN tripathi|NN rc|NN 
+cataract|DS microwave|NN ionize|NN radiation|NN 
+surv|NN 
+ophthalmol|NN 
+http|NN 
+pmid|NN http|NN 
+sliney|NN dh|NN 
+radiation|NN exposure|NN dosimetry|NN 
+doc|NN 
+ophthalmol|NN 
+http|NN 
+pmid|NN http|NN 
+hejtmancik|NN smaoui|NN genetics|NN of|NN cataract|DS genetics|NN in|NN ophthalmology|NN karger|NN publisher|NN yanoff|NN myron|NN duker|NN jay|NN health|NN science|NN christen|NN wg|NN manson|NN je|NN seddon|NN jm|NN glynn|NN rj|NN je|NN rosner|NN b|NN ch|NN 
+study|NN of|NN cigarette|NN smoke|NN risk|NN of|NN cataract|DS in|NN men|NN 
+jama|NN 
+http|NN 
+pmid|NN http|NN 
+wang|NN s|NN wang|NN jj|NN ty|NN 
+alcohol|NN eye|NN disease|NN 
+surv|NN 
+ophthalmol|NN 
+http|NN 
+pmid|NN http|NN 
+wei|NN cai|NN j|NN 
+association|NN of|NN vitamin|NN c|NN risk|NN of|NN cataract|DS 
+acta|NN ophthalmologica|NN 
+http|NN 
+pmid|NN http|NN 
+mathew|NN mc|NN j|NN davis|NN rm|NN 
+vitamin|NN supplementation|NN progression|NN of|NN cataract|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd004567|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+weatherall|NN m|NN clay|NN j|NN jam|NN k|NN perrin|NN k|NN p|NN beasley|NN r|NN 
+relationship|NN of|NN corticosteroid|NN cataract|DS review|NN 
+respirology|NN carlton|NN 
+http|NN 
+pmid|NN http|NN 
+hodge|NN wg|NN jp|NN satariano|NN w|NN 
+risk|NN factor|NN cataract|DS 
+review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+uçok|NN gaebel|NN w|NN 
+effect|NN of|NN antipsychotic|NN overview|NN http|NN 
+world|NN psychiatry|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+den|NN brûle|NN j|NN degueldre|NN f|NN 
+cataractes|NN médicament|NN cataract|DS 
+médicale|NN in|NN french|NN 
+pmid|NN http|NN 
+triperanol|NN http|NN 
+mesh|NN 
+library|NN of|NN medicine|NN 
+iparanol|NN 
+almony|NN arghavan|NN holekamp|NN nancy|NN m|NN shui|NN beebe|NN david|NN 
+vitrectomy|NN cataract|DS 
+retina|NN 
+http|NN 
+pmid|NN http|NN 
+kokavec|NN jan|NN min|NN h|NN h|NN s|NN s|NN r|NN grigg|NN john|NN casson|NN j|NN 
+analysis|NN of|NN live|NN human|NN 
+ophthalmology|NN 
+http|NN 
+pmid|NN http|NN 
+donati|NN simone|NN caprani|NN maria|NN giulia|NN vinciguerra|NN riccardo|NN testa|NN francesco|NN mariotti|NN cesare|NN giovanni|NN azzolini|NN claudio|NN 
+substitute|NN future|NN http|NN 
+research|NN 
+http|NN 
+pmc|NN p|NN 
+pmid|NN http|NN 
+shui|NN holekamp|NN nancy|NN crowley|NN jan|NN wilkins|NN mark|NN chu|NN malone|NN paula|NN manger|NN hou|NN joshua|NN 
+gel|NN state|NN of|NN oxygen|NN consumption|NN http|NN 
+archive|NN of|NN ophthalmology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+jalil|NN steeple|NN l|NN bindra|NN s|NN patton|NN 
+microincision|NN cataract|DS surgery|NN vitrectomy|NN case|NN series|NN http|NN 
+eye|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bollinger|NN ke|NN langston|NN rh|NN 
+patient|NN cataract|DS surgery|NN 
+s|NN pdf|NN 
+cleveland|NN journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+spencer|NN rw|NN sy|NN 
+cataract|DS 
+cataract|DS formation|NN in|NN arthritis|DS patient|NN term|NN steroid|NN therapy|NN 
+arch|NN 
+ophthalmol|NN 
+http|NN 
+pmid|NN http|NN 
+greiner|NN jv|NN chylack|NN lt|NN 
+cataract|DS histopathologic|NN study|NN of|NN cataract|DS 
+arch|NN 
+ophthalmol|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+yanoff|NN myron|NN duker|NN jay|NN 
+ophthalmology|NN 
+edinburgh|NN mosby|NN 
+re|NN purdie|NN jl|NN lw|NN ac|NN 
+sun|NN exposure|NN risk|NN factor|NN cataract|DS 
+epidemiology|NN 
+http|NN 
+pmid|NN http|NN 
+javitt|NN jc|NN wang|NN f|NN sk|NN 
+blindness|NN cataract|DS epidemiology|NN prevention|NN http|NN pdf|NN 
+review|NN of|NN health|NN 
+http|NN 
+pmid|NN http|NN 
+pdf|NN april|NN in|NN agenda|NN eye|NN health|NN education|NN program|NN eye|NN institute|NN institute|NN of|NN health|NN barker|NN fm|NN 
+supplementation|NN effect|NN performance|NN occurrence|NN of|NN amd|NN cataract|DS 
+curr|NN 
+re|NN 
+opin|NN 
+http|NN 
+pmid|NN http|NN 
+ma|NN hao|NN shi|NN j|NN 
+of|NN lutein|NN intake|NN in|NN relation|NN risk|NN of|NN cataract|DS 
+graefe|NN archive|NN ophthalmology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+hayashi|NN 
+effect|NN of|NN lutein|NN in|NN cataract|DS progression|NN 
+in|NN babizhayev|NN alió|NN l|NN 
+ed|NN 
+study|NN cornea|NN lens|NN 
+stress|NN in|NN research|NN practice|NN 
+pp|NN 
+http|NN 
+klein|NN r|NN ke|NN lm|NN 
+statin|NN use|NN cataract|DS 
+journal|NN of|NN association|NN 
+http|NN 
+pmid|NN http|NN 
+cunningham|NN 
+vaughan|NN asbury|NN ophthalmology|NN 
+davis|NN jc|NN mcneill|NN h|NN s|NN s|NN 
+eye|NN health|NN outcome|NN cataract|DS surgery|NN http|NN c3497611|NN 
+bmc|NN geriatrics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+black|NN n|NN browne|NN j|NN van|NN der|NN meulen|NN j|NN jamieson|NN l|NN copley|NN l|NN j|NN 
+overutilisation|NN of|NN cataract|DS surgery|NN in|NN england|NN 
+http|NN pdf|NN 
+journal|NN of|NN ophthalmology|NN 
+1|NN 
+s|NN 
+pmid|NN http|NN 
+kim|NN yoon|NN joo|NN shin|NN study|NN cornea|NN lens|NN springer|NN hasler|NN principle|NN of|NN phacoemulsification|NN ltd|NN jin|NN c|NN chen|NN x|NN law|NN kang|NN y|NN wang|NN x|NN xu|NN w|NN yao|NN k|NN 
+incision|NN phacoemulsification|NN in|NN cataract|DS http|NN 
+cochrane|NN database|NN syst|NN rev|NN 
+cd010510|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+henderson|NN bonnie|NN cataract|DS extraction|NN essential|NN of|NN cataract|DS surgery|NN slack|NN frank|NN eye|NN in|NN history|NN jp|NN naumann|NN holbach|NN kruse|NN ed|NN 
+complication|NN cataract|DS surgery|NN pathology|NN microsurgeons|NN science|NN business|NN olsen|NN t|NN jeppesen|NN p|NN 
+incidence|NN of|NN detachment|NN cataract|DS surgery|NN http|NN 
+ophthalmology|NN journal|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+herrmann|NN w|NN helbig|NN h|NN heimann|NN h|NN 
+klinische|NN monatsblätter|NN für|NN augenheilkunde|NN 
+http|NN 
+pmid|NN http|NN 
+behndig|NN montan|NN p|NN stenevi|NN u|NN kugelberg|NN m|NN m|NN 
+cataract|DS surgery|NN cataract|DS register|NN 
+cataract|DS refract|NN 
+surg|NN 
+http|NN 
+pmid|NN http|NN 
+gault|NN janice|NN vander|NN jam|NN secret|NN in|NN color|NN health|NN science|NN juthani|NN vv|NN clearfield|NN e|NN chuck|NN r|NN 
+drug|NN versus|NN corticosteroid|NN inflammation|NN cataract|DS surgery|NN http|NN 
+cochrane|NN database|NN syst|NN rev|NN 
+cd010516|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+capsule|NN opacification|NN laser|NN treatment|NN cataract|DS surgery|NN http|NN 
+http|NN 
+kushal|NN banerjee|NN 
+review|NN evaluation|NN of|NN complication|NN in|NN case|NN of|NN incision|NN cataract|DS surgery|NN cataract|DS extraction|NN chamber|NN lens|NN implantation|NN http|NN pdf|NN 
+pdf|NN june|NN 1|NN june|NN 
+death|NN daly|NN estimate|NN cause|NN member|NN state|NN http|NN xl|NN 
+world|NN health|NN organization|NN 
+priority|NN eye|NN disease|NN cataract|DS http|NN ml|NN 
+prevention|NN of|NN blindness|NN impairment|NN 
+world|NN health|NN organization|NN 
+ttps|NN 
+burden|NN of|NN disease|NN update|NN 
+geneva|NN switzerland|NN world|NN health|NN organization|NN 
+sperduto|NN rd|NN d|NN 
+senile|NN lens|NN macular|NN change|NN in|NN sample|NN 
+ophthalmol|NN 
+1|NN 
+p|NN 
+pmid|NN http|NN 
+kahn|NN ha|NN hm|NN ganley|NN jp|NN mm|NN colton|NN t|NN r|NN tr|NN 
+framingham|NN eye|NN study|NN 
+outline|NN major|NN prevalence|NN find|NN 
+epidemiol|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+eye|NN health|NN statistic|NN glance|NN http|NN pdf|NN 
+pdf|NN march|NN 
+health|NN topic|NN cataract|DS http|NN 
+world|NN health|NN organization|NN office|NN 
+http|NN 
+liu|NN wilkins|NN mark|NN malyugin|NN boris|NN s|NN 
+cataract|DS 
+lancet|NN 
+s|NN 
+pmid|NN http|NN 
+joseph|NN 
+eye|NN in|NN history|NN http|NN j0vec|NN 
+jp|NN isbn|NN 
+cornelius|NN celsus|NN collier|NN 
+http|NN 
+elliott|NN jane|NN 
+roman|NN cataract|DS ops|NN http|NN 
+news|NN 
+http|NN 
+keele|NN 
+galen|NN procedure|NN book|NN http|NN 
+hist|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+finger|NN stanley|NN 
+origin|NN of|NN neuroscience|NN history|NN of|NN exploration|NN brain|NN function|NN 
+oxford|NN university|NN press|NN 
+καταρράκτης|NN http|NN 
+http|NN ry|NN wayback|NN machine|NN henry|NN george|NN liddell|NN robert|NN scott|NN lexicon|NN perseus|NN καταράσσω|NN http|NN http|NN http|NN wayback|NN machine|NN henry|NN george|NN liddell|NN robert|NN scott|NN lexicon|NN perseus|NN 
+cataract|DS http|NN 
+word|NN of|NN day|NN 
+http|NN december|NN 
+cataract|DS http|NN aract|NN 
+oxford|NN dictionary|NN 
+oxford|NN university|NN press|NN 
+cataracta|NN http|NN http|NN taracta|NN wayback|NN machine|NN charlton|NN lewis|NN perseus|NN online|NN etymology|NN dictionary|NN http|NN http|NN wayback|NN machine|NN mistake|NN science|NN topic|NN eve|NN community|NN http|NN http|NN wayback|NN machine|NN wordcraft|NN forum|NN williams|NN p|NN 
+effect|NN of|NN formulation|NN carnosine|NN cataract|DS study|NN 
+vet|NN ophthalmol|NN 
+http|NN 
+pmid|NN http|NN 
+guo|NN y|NN h|NN 
+effect|NN of|NN carnosine|NN cataract|DS development|NN 
+ke|NN xue|NN bao|NN 
+2|NN 
+pmid|NN http|NN 
+toh|NN t|NN morton|NN j|NN coxon|NN j|NN mj|NN 
+treatment|NN of|NN cataract|DS http|NN 
+clin|NN 
+experiment|NN 
+ophthalmol|NN 
+http|NN 
+pmid|NN http|NN 
+nj|NN palanker|NN dv|NN g|NN d|NN marcellino|NN g|NN seibel|NN b|NN j|NN r|NN talamo|NN jh|NN blumenkranz|NN m|NN culbertson|NN ww|NN 
+femtosecond|NN laser|NN capsulotomy|NN 
+cataract|DS refract|NN 
+surg|NN 
+tps|NN 
+pmid|NN http|NN 
+pdf|NN http|NN http|NN wayback|NN machine|NN author|NN interest|NN in|NN company|NN femtosecond|NN laser|NN equipment|NN 
+stem|NN cell|NN child|NN eye|NN cataract|DS http|NN 
+nh|NN 
+march|NN http|NN spx|NN march|NN march|NN link|NN cataract|DS http|NN curlie|NN picture|NN of|NN type|NN of|NN cataract|DS http|NN classification|NN h25|NN d|NN p|NN http|NN 
+http|NN h28|NN http|NN p|NN hx|NN d002386|NN tps|NN ter|NN diseasesdb|NN http|NN medlineplus|NN http|NN resource|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

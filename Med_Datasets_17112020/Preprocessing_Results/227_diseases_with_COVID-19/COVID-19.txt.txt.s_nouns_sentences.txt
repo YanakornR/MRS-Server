@@ -1,0 +1,213 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN COVID-19|Disease COVID-19|Disease
+disease|NN coronaviruse|NN disease|NN
+COVID-19|Disease COVID-19|Disease name|NN
+coronavirus|NN disease|NN novel|NN pneumonia|NN pneumonia|NN pathogen|NN
+coronavirus|NN transmission|NN electron|NN microscope|NN image|NN pronunciation|NN
+disease|NN symptom|NN fever|NN cough|NN fatigue|NN shortness|NN breath|NN loss|NN taste|NN smell|NN symptom|NN complication|NN pneumonia|NN sepsis|NN distress|NN syndrome|NN kidney|NN failure|NN cytokine|NN release|NN syndrome|NN onset|NN day|NN infection|NN duration|NN day|NN month|NN cause|NN syndrome|NN method|NN test|NN ct|NN scan|NN prevention|NN hand|NN wash|NN face|NN cover|NN quarantine|NN distance|NN treatment|NN frequency|NN case|NN death|NN part|NN series|NN COVID-19|Disease sars-cov-2|NN
+virus|NN COVID-19|Disease disease|NN
+show|NN show|NN response|NN show|NN response|NN show|NN impact|NN show|NN colorssvg|NN COVID-19|Disease portal|NN
+COVID-19|Disease COVID-19|Disease disease|NN syndrome|NN
+wuhan|NP china|NP
+symptom|NN COVID-19|Disease fever|NN cough|NN fatigue|NN breath|NN difficulty|NN loss|NN smell|NN taste|NN symptom|NN day|NN exposure|NN virus|NN people|NN symptom|NN people|NN distress|NN syndrome|NN
+cytokine|NN storm|NN failure|NN shock|NN blood|NN clot|NN
+damage|NN organ|NN lung|NN heart|NN
+concern|NN number|NN patient|NN phase|NN disease|NN range|NN effectsknown|NN COVID-19|Disease month|NN
+effect|NN fatigue|NN memory|NN loss|NN issue|NN grade|NN fever|NN muscle|NN weakness|NN breathlessness|NN
+COVID-19|Disease air|NN people|NN enougha|NN droplet|NN aerosol|NN person|NN cough|NN sneeze|NN
+transmission|NN surface|NN day|NN person|NN symptom|NN symptom|NN individual|NN
+people|NN day|NN case|NN week|NN case|NN
+diagnosis|NN method|NN reverse|NN transcription|NN polymerase|NN chain|NN reaction|NN swab|NN
+measure|NN distance|NN ventilation|NN space|NN cough|NN sneeze|NN hand|NN wash|NN hand|NN face|NN
+use|NN face|NN mask|NN cover|NN set|NN risk|NN transmission|NN
+vaccine|NN treatment|NN COVID-19|Disease development|NN
+management|NN treatment|NN symptom|NN care|NN isolation|NN measure|NN
+sign|NN symptom|NN cause|NN transmission|NN diagnosis|NN pathology|NN prevention|NN equipment|NN distance|NN hygiene|NN management|NN complication|NN effect|NN immunity|NN history|NN epidemiology|NN infection|NN fatality|NN rate|NN sex|NN difference|NN difference|NN society|NN culture|NN name|NN animal|NN research|NN storm|NN antibody|NN antibody|NN bcg|NP vaccine|NN note|NN reference|NN read|NN link|NN health|NN agency|NN directory|NN journal|NN treatment|NN guideline|NN
+sign|NN symptom|NN article|NN symptom|NN COVID-19|Disease symptom|NN COVID-19|Disease symptom|NN COVID-19|Disease fever|NN cough|NN people|NN infection|NN symptom|NN symptom|NN time|NN
+example|NN person|NN fever|NN cough|NN fatigue|NN person|NN fever|NN start|NN disease|NN difficulty|NN week|NN
+people|NN ear|NN nose|NN throat|NN disorder|NN loss|NN taste|NN loss|NN smell|NN COVID-19|Disease specificity|NN
+symptom|NN COVID-19|Disease symptom|NN fever|NN percent|NN cough|NN percent|NN symptom|NN difficulty|NN breath|NN
+emergency|NN symptom|NN difficulty|NN breath|NN chest|NN pain|NN pressure|NN confusion|NN difficulty|NN wake|NN face|NN lip|NN attention|NN symptom|NN development|NN disease|NN complication|NN pneumonia|NN distress|NN syndrome|NN sepsis|NN shock|NN kidney|NN failure|NN
+infection|NN delay|NN incubation|NN period|NN moment|NN person|NN appearance|NN symptom|NN
+incubation|NN period|NN COVID-19|Disease day|NN people|NN experience|NN symptom|NN day|NN exposure|NN people|NN symptom|NN day|NN cause|NN
+COVID-19|Disease infection|NN syndrome|NN virus|NN strain|NN
+transmission|NN article|NN transmission|NN COVID-19|Disease
+COVID-19|Disease person|NN person|NN route|NN person|NN cough|NN sneeze|NN talk|NN
+infection|NN particle|NN person|NN droplet|NN aerosol|NN mouth|NN nose|NN eye|NN people|NN contact|NN person|NN droplet|NN droplet|NN nucley|NN air|NN period|NN time|NN
+possibility|NN range|NN transmission|NN healthcare|NN set|NN procedure|NN COVID-19|Disease patient|NN space|NN restaurant|NN nightclub|NN choir|NN
+intimacy|NN form|NN contact|NN virus|NN COVID-19|Disease people|NN contact|NN person|NN COVID-19|Disease contact|NN surface|NN object|NN mouth|NN nose|NN eye|NN way|NN virus|NN evidence|NN COVID-19|Disease virus|NN transmission|NN urine|NN breast|NN milk|NN food|NN drink|NN water|NN animal|NN disease|NN vector|NN mother|NN baby|NN pregnancy|NN research|NN caution|NN
+number|NN people|NN person|NN september|NP person|NN infect|NN people|NN influenza|NN measle|NN cluster|NN infection|NN index|NN case|NN location|NN
+role|NN event|NN people|NN person|NN
+day|NN symptom|NN symptom|NN people|NN case|NN day|NN week|NN case|NN october|NP scientist|NN evidence|NN reinfection|NN patient|NN
+article|NN syndrome|NN illustration|NN virion|NN
+syndrome|NN sars-cov-2|NN syndrome|NN
+people|NN pneumonia|NN cluster|NN illness|NN case|NN feature|NN novel|NN virus|NN coronaviruse|NN nature|NN
+body|NN virus|NN household|NN soap|NN bubble|NN
+sars-cov|NN animal|NN origin|NN
+analysis|NN coronavirus|NN cluster|NN genus|NN lineage|NN bat-derive|NN strain|NN
+genome|NN level|NN bat|NN sample|NN protein|NN sars-cov-2|NN membrane|NN glycoprotein|NN m|NN envelope|NN protein|NN e|NP nucleocapsid|NP protein|NN n|NP spike|NN protein|NN s|NP
+m|NN protein|NN sars-cov-2|NN m|NN protein|NN bat|NN homology|NN sars-cov|NN homology|NN m|NN protein|NN sars-cov|NN similarity|NN m|NN protein|NN
+analyse|NN m|NN protein|NN sars-cov-2|NN helix|NN bundle|NN 3-transmembrane|NN domain|NN sugar|NN transport|NN protein|NN
+COVID-19|Disease tract|NN sinuse|NN nose|NN throat|NN tract|NN windpipe|NN lung|NN lung|NN organ|NN COVID-19|Disease virus|NN host|NN cell|NN enzyme|NN enzyme|NN type|NN cell|NN lung|NN virus|NN surface|NN glycoprotein|NN spike|NN ace2|NN host|NN cell|NN density|NN ace2|NN tissue|NN severity|NN disease|NN tissue|NN ace2|NN activity|NN view|NN angiotensin|NN receptor|NN blocker|NN medication|NN disease|NN failure|NN death|NN
+failure|NN brain|NN stem|NN coronaviruse|NN system|NN cns|NP
+virus|NN fluid|NN autopsy|NN mechanism|NN cns|NP invasion|NN nerve|NN level|NN ace2|NN brain|NN
+virus|NN organ|NN ace2|NN cell|NN epithelium|NN cell|NN enterocyte|NN intestine|NN
+virus|NN injury|NN damage|NN system|NN injury|NN people|NN hospital|NN wuhan|NP china|NP disease|NN rate|NN symptom|NN response|NN system|NN disorder|NN disease|NN progression|NN injury|NN receptor|NN heart|NN receptor|NN heart|NN heart|NN function|NN incidence|NN thrombosis|NN thromboembolism|NN icu|NN patient|NN COVID-19|Disease infection|NN prognosis|NN blood|NN vessel|NN dysfunction|NN clot|NN formation|NN level|NN role|NN mortality|NN incidence|NN clot|NN embolism|NN event|NN brain|NN complication|NN death|NN patient|NN
+infection|NN chain|NN response|NN body|NN constriction|NN blood|NN vessel|NN circulation|NN mechanism|NN oxygenation|NN presentation|NN pneumonia|NN
+cause|NN death|NN complication|NN kidney|NN report|NN patient|NN china|NP new|NP york|NP injury|NN kidney|NN person|NN kidney|NN problem|NN
+autopsies|NP people|NN COVID-19|Disease damage|NN dad|NN lung|NN
+tropism|NN cell|NN tract|NN patient|NN COVID-19|Disease symptom|NN hyperinflammation|NN
+laboratory|NN find|NN il-2|NN granulocyte-macrophage|NN factor|NN
+protein|NN chemoattractant|NN protein|NN protein|NN 1-|NN
+tumour|NN necrosis|NN
+indicative|NN cytokine|NN release|NN syndrome|NN crs|NP immunopathology|NN
+people|NN COVID-19|Disease distress|NN syndrome|NN serum|NN biomarker|NN crs|NP protein|NN crp|NP lactate|NN dehydrogenase|NN ldh|NN
+inflammation|NN result|NN vasodilation|NN infiltration|NN lung|NN heart|NN
+gm-csf-secret|NN recruitment|NN il-6-secret|NN monocyte|NN lung|NN pathology|NN COVID-19|Disease patient|NN autopsy|NN diagnosis|NN article|NN COVID-19|Disease test|NN demonstration|NN swab|NN COVID-19|Disease test|NN cdc|NP test|NN kit|NN COVID-19|Disease
+test|NN protocol|NN disease|NN method|NN test|NN reverse|NN transcription|NN polymerase|NN chain|NN reaction|NN test|NN sample|NN swab|NN swab|NN sputum|NN sample|NN result|NN hour|NN day|NN blood|NN test|NN blood|NN sample|NN week|NN result|NN value|NN scientist|NN strain|NN coronavirus|NN sequence|NN laboratory|NN world|NN polymerase|NN chain|NN reaction|NN pcr|NP test|NN infection|NN virus|NN april|NP antibody|NN test|NN infection|NN person|NN past|NN development|NN antibody|NN test|NN week|NN person|NN symptom|NN experience|NN test|NN accuracy|NN food|NN drug|NN administration|NN fda|NN point-of-care|NN test|NN march|NP use|NN end|NN month|NN absence|NN presence|NN COVID-19|Disease sign|NN symptom|NN diagnosis|NN score|NN symptom|NN laboratory|NN parameter|NN image|NN patient|NN infection|NN stage|NN COVID-19|Disease
+guideline|NN hospital|NN university|NN method|NN infection|NN feature|NN risk|NN
+people|NN symptom|NN addition|NN history|NN travel|NN wuhan|NN contact|NN people|NN fever|NN image|NN feature|NN pneumonia|NN blood|NN cell|NN count|NN lymphocyte|NN count|NN
+study|NN COVID-19|Disease patient|NN cough|NN container|NN saliva|NN sample|NN virus|NN patient|NN
+technique|NN potential|NN swab|NN risk|NN health|NN care|NN worker|NN collection|NN home|NN car|NN
+laboratory|NN test|NN chest|NN ct|NN scan|NN COVID-19|Disease individual|NN suspicion|NN infection|NN routine|NN screen|NN opacity|NN distribution|NN infection|NN dominance|NN pave|NN thicken|NN fill|NN consolidation|NN disease|NN
+2019|NN emergency|NN disease|NN code|NN death|NN infection|NN u072|NN death|NN COVID-19|Disease infection|NN
+ct|NN scan|NN progression|NN stage|NN COVID-19|Disease
+chest|NN x-ray|NN COVID-19|Disease pneumonia|NN
+find|NN autopsy|NN
+lung|NN consolidation|NN oedema|NN lung|NN find|NN fibrin|NN oedema|NN hyperplasia|NN inflammation|NN infiltration|NN cell|NN formation|NN damage|NN dad|NN exudate|NN
+dad|NN cause|NN distress|NN syndrome|NN hypoxemia|NN
+organisation|NN exudate|NN cavity|NN fibrosis|NN blood|NN coagulation|NN reaction|NN liver|NN
+prevention|NN COVID-19|Disease prevention|NN curve|NN workplace|NN hazard|NN control|NN COVID-19|Disease cloth|NN face|NN mask|NN containment|NN distance|NN vaccination|NN use|NN face|NN show|NN adoption|NN containment|NN measure|NN swath|NN population|NN
+mitigation|NN effort|NN number|NN case|NN healthcare|NN service|NN volume|NN patient|NN increase|NN healthcare|NN linesuch|NN bed|NN count|NN personnel|NN equipment|NN demand|NN attempt|NN strictness|NN durationsuch|NN relaxation|NN distance|NN rule|NN stay-at-home|NN resurgence|NN surge|NN mitigation|NN
+COVID-19|Disease vaccine|NN 2021|NN institute|NN health|NN guideline|NN medication|NN prevention|NN COVID-19|Disease exposure|NN virus|NN set|NN trial|NN vaccine|NN measure|NN treatment|NN part|NN COVID-19|Disease epidemic|NN peak|NN curve|NN infection|NN rate|NN risk|NN health|NN service|NN treatment|NN case|NN case|NN treatment|NN vaccine|NN
+measure|NN chance|NN infection|NN home|NN mask|NN public|NN place|NN distance|NN space|NN hand|NN soap|NN water|NN second|NN hygiene|NN eye|NN nose|NN mouth|NN hand|NN COVID-19|Disease cdc|NP home|NN care|NN call|NN healthcare|NN provider|NN face|NN mask|NN healthcare|NN provider|NN office|NN room|NN vehicle|NN person|NN cover|NN cough|NN sneeze|NN tissue|NN hand|NN soap|NN water|NN household|NN item|NN equipment|NN
+health|NN care|NN professional|NN contact|NN COVID-19|Disease fluid|NN cover|NN body|NN part|NN protection|NN virus|NN equipmentclarification|NN level|NN protection|NN virus|NN addition|NN tab|NN modification|NN equipment|NN risk|NN contamination|NN don|NN dof|NN equipment|NN don|NN protocol|NN glove|NN gown|NN removal|NN technique|NN instruction|NN glove|NN use|NN glove|NN disinfection|NN protection|NN health|NN care|NN professional|NN face|NN mask|NN
+world|NN health|NN organization|NN government|NN health|NN agency|NN center|NN disease|NN control|NN prevention|NN cdc|NP uk|NP health|NN service|NN nhs|NP new|NP zealand|NP ministry|NN health|NN individual|NN face|NN cover|NN set|NN risk|NN transmission|NN distance|NN measure|NN recommendation|NN spread|NN disease|NN individual|NN measure|NN distance|NN face|NN cover|NN volume|NN travel|NN distance|NN droplet|NN breath|NN country|NN jurisdiction|NN mandate|NN use|NN face|NN mask|NN cloth|NN face|NN cover|NN member|NN public|NN spread|NN virus|NN
+mask|NN care|NN disease|NN distance|NN distance|NN measure|NN castle|NN kavala|NP greece|NP
+distance|NN strategy|NN contact|NN person|NN group|NN school|NN workplace|NN travel|NN gather|NN guideline|NN people|NN metre|NN ft|NN implementation|NN distance|NN stay-at-home|NN order|NN region|NN transmission|NN rate|NN rt|NN mean|NN disease|NN remission|NN area|NN hygiene|NN
+mask|NN cdc|NP nhs|NP mouth|NN nose|NN tissue|NN elbow|NN tissue|NN hand|NN hygiene|NN cough|NN sneeze|NN individual|NN hand|NN soap|NN water|NN second|NN toilet|NN hand|NN eate|NN nose|NN cdc|NP hand|NN alcohol|NN soap|NN water|NN area|NN hand|NN formulation|NN production|NN
+formulation|NN activity|NN ethanol|NN isopropanol|NN
+hydrogen|NN peroxide|NN spore|NN alcohol|NN substance|NN hand|NN
+surface|NN regulation|NN business|NN facility|NN united|NP states|NP protection|NN agency|NN list|NN product|NN management|NN article|NN management|NN COVID-19|Disease
+people|NN care|NN fluid|NN therapy|NN oxygen|NN support|NN organ|NN cdc|NP virus|NN face|NN mask|NN membrane|NN oxygenation|NN issue|NN failure|NN benefit|NN update|NN hygiene|NN lifestyle|NN diet|NN immunity|NN treatment|NN symptom|NN stage|NN infection|NN
+health|NN commission|NN united|NP states|NP institute|NN health|NN recommendation|NN care|NN people|NN COVID-19|Disease intensivist|NN pulmonologist|NN treatment|NN recommendation|NN agency|NN resource|NN ibcc|NN COVID-19|Disease death|NN rate|NN country|NN severity|NN case|NN china|NP severity|NN COVID-19|Disease case|NN china|NP case|NN fatality|NN rate|NN COVID-19|Disease age|NN country|NN
+case|NN fatality|NN rate|NN age|NN group|NN china|NP february|NP south|NP korea|NP july|NP spain|NP italy|NP june|NP case|NN fatality|NN rate|NN country|NN number|NN case|NN number|NN death|NN case|NN country|NN case|NN fatality|NN rate|NN
+severity|NN COVID-19|Disease
+disease|NN course|NN symptom|NN disease|NN cold|NN
+case|NN week|NN disease|NN week|NN
+time|NN symptom|NN onset|NN death|NN week|NN istituto|NN di|NP sanit|NP time|NN onset|NN symptom|NN death|NN day|NN
+people|NN icu|NN time|NN day|NN hospitalisation|NN death|NN
+review|NN smoker|NN care|NN non-smoker|NN air|NN pollution|NN risk|NN factor|NN heart|NN lung|NN disease|NN obesity|NN health|NN risk|NN COVID-19|Disease
+risk|NN research|NN COVID-19|Disease infection|NN kidney|NN transplant|NN recipient|NN mortality|NN rate|NN impact|NN COVID-19|Disease children|NN
+children|NN proportion|NN case|NN case|NN year|NN year|NN symptom|NN chance|NN disease|NN adult|NN
+study|NN children|NN lancet|NN june|NP children|NN hospital|NN care|NN
+children|NN mortality|NN rate|NN case|NN help|NN study|NN
+mortality|NN rate|NN age|NN
+year|NN risk|NN death|NN cdc|NP analysis|NN risk|NN death|NN age|NN group|NN united|NP states|NP age|NN group|NN 5069|NN
+genetics|NN role|NN ability|NN disease|NN
+instance|NN type|NN sicker|NN COVID-19|Disease screen|NN interferon|NN effector|NN gene|NN
+women|NN risk|NN COVID-19|Disease infection|NN data|NN viruse|NN syndrome|NN east|NN syndrome|NN data|NN COVID-19|Disease COVID-19|Disease age|NN region|NN
+COVID-19|Disease condition|NN hypertension|NN diabete|NN mellitus|NN disease|NN march|NP data|NN united|NP states|NP condition|NN istituto|NN di|NP sanit|NP death|NN chart|NN people|NN comorbidity|NN person|NN disease|NN report|NN comorbidity|NN hypertension|NN death|NN type|NN diabete|NN death|NN heart|NN disease|NN death|NN fibrillation|NN death|NN failure|NN death|NN
+comorbidity|NN cdc|NP asthma|NN fibrosis|NN fibrosis|NN evidence|NN meta-analysis|NN research|NN paper|NN smoke|NN patient|NN outcome|NN problem|NN COVID-19|Disease risk|NN symptom|NN COVID-19|Disease risk|NN people|NN opioid|NN methamphetamine|NN drug|NN use|NN lung|NN damage|NN
+august|NP cdc|NP caution|NN tuberculosis|NN infection|NN risk|NN illness|NN death|NN
+patient|NN symptom|NN disease|NN COVID-19|Disease rule|NN
+projection|NN tb|NN detection|NN tb|NN case|NN tb|NN death|NN complication|NN
+complication|NN pneumonia|NN distress|NN syndrome|NN failure|NN shock|NN death|NN
+complication|NN heart|NN failure|NN arrhythmia|NN heart|NN inflammation|NN blood|NN clot|NN
+people|NN COVID-19|Disease liver|NN enzyme|NN liver|NN injury|NN
+manifestation|NN seizure|NN stroke|NN encephalitis|NN syndrome|NN loss|NN motor|NN function|NN infection|NN children|NN syndrome|NN symptom|NN kawasaki|NP disease|NN case|NN encephalopathy|NN COVID-19|Disease status|NN effect|NN article|NN
+study|NN people|NN COVID-19|Disease experience|NN symptom|NN month|NN
+majority|NN hospital|NN disease|NN report|NN problem|NN fatigue|NN shortness|NN breath|NN
+october|NP tedro|NN number|NN people|NN COVID-19|Disease virus|NN range|NN effect|NN
+spectrum|NN COVID-19|Disease symptom|NN time|NN
+fatigue|NN cough|NN shortness|NN breath|NN inflammation|NN injury|NN organ|NN lung|NN heart|NN effect|NN
+symptom|NN overlap|NN system|NN body|NN
+people|NN bout|NN fatigue|NN headache|NN month|NN exhaustion|NN mood|NN swing|NN symptom|NN
+herd|NN immunity|NN immunity|NN
+response|NN human|NN virus|NN combination|NN immunity|NN antibody|NN production|NN infection|NN immunity|NN people|NN disease|NN
+need|NN case|NN recovery|NN COVID-19|Disease test|NN coronavirus|NN date|NN
+case|NN rna|NN infection|NN strain|NN virus|NN reinfection|NN case|NN infection|NN reinfection|NN positive|NN rna|NN fragment|NN people|NN reinfection|NN year|NN history|NN article|NN timeline|NN COVID-19|Disease
+virus|NN animal|NN origin|NN spillover|NN infection|NN infection|NN wuhan|NN china|NP
+study|NN case|NN COVID-19|Disease january|NP lancet|NN date|NN onset|NN symptom|NN december|NP publication|NN onset|NN symptom|NN december|NP transmission|NN authority|NN january|NP source|NN seafood|NN market|NN animal|NN george|NP gao|NP director|NN center|NN disease|NN control|NN prevention|NN animal|NN sample|NN seafood|NN market|NN virus|NN market|NN site|NN superspread|NN event|NN site|NN outbreak|NN trace|NN virus|NN wastewater|NN milan|NP turin|NP italy|NP december|NP
+theory|NN case|NN patient|NN zero|NN report|NN government|NN case|NN november|NP person|NN citizen|NN province|NN
+men|NN women|NN november|NP patient|NN zero|NN
+december|NP spread|NN infection|NN transmission|NN number|NN case|NN december|NP december|NP december|NP hospital|NN lavage|NN fluid|NN sample|NN case|NN sequence|NN company|NN vision|NN
+december|NP vision|NN hospital|NN cdc|NP result|NN test|NN coronavirus|NN pneumonia|NN cluster|NN cause|NN december|NP doctor|NN zhang|NP jixian|NP hospital|NN wuhan|NN cdc|NP december|NP december|NP test|NN report|NN hospital|NN company|NN result|NN sar|NN group|NN doctor|NN hospital|NN colleague|NN hospital|NN authority|NN result|NN
+even|NN health|NN commission|NN notice|NN institution|NN treatment|NN pneumonia|NN cause|NN doctor|NN li|NP january|NP police|NN rumour|NN ai|NN fen|NN superior|NN alarm|NN
+health|NN commission|NN announcement|NN pneumonia|NN outbreak|NN cause|NN december|NP casesenough|NN investigation|NN
+stage|NN outbreak|NN number|NN case|NN day|NN mid-january|NP virus|NN spread|NN province|NN year|NN migration|NN wuhan|NN transport|NN hub|NN rail|NN interchange|NN january|NP china|NP case|NN day|NN people|NN beijing|NP shenzhen|NP data|NN people|NN symptom|NN report|NN lancet|NN january|NP transmission|NN equipment|NN health|NN worker|NN test|NN virus|NN potential|NN january|NP coronavirus|NN health|NN emergency|NN concern|NN time|NN outbreak|NN spread|NN factor|NN time|NN
+january|NP italy|NP case|NN tourist|NN china|NP march|NP world|NN health|NN organization|NN europe|NP centre|NN march|NP italy|NP china|NP country|NN death|NN march|NP united|NP states|NP china|NP italy|NP number|NN case|NN world|NN research|NN genome|NN majority|NN COVID-19|Disease case|NN new|NP york|NP traveller|NN china|NP country|NN retest|NN sample|NN person|NN france|NP virus|NN december|NP person|NN united|NP states|NP disease|NN february|NP
+june|NP day|NN case|NN beijing|NP COVID-19|Disease case|NN case|NN june|NP june|NP case|NN patient|NN market|NN epidemiology|NN article|NN COVID-19|Disease COVID-19|Disease death|NN rate|NN country|NN
+measure|NN mortality|NN number|NN region|NN time|NN volume|NN test|NN healthcare|NN system|NN quality|NN treatment|NN option|NN time|NN outbreak|NN population|NN characteristics|NN age|NN sex|NN health|NN
+ratio|NN number|NN death|NN number|NN case|NN time|NN interval|NN
+johns|NP hopkins|NP university|NN statistics|NN death-to-case|NN ratio|NN 132806855074994|NN november|NP number|NN region|NN
+measure|NN case|NN fatality|NN rate|NN percentage|NN individual|NN disease|NN infection|NN fatality|NN rate|NN ifr|NN percentage|NN individual|NN disease|NN
+statistics|NN population|NN infection|NN case|NN resolution|NN
+academics|NN number|NN population|NN
+prison|NN inability|NN distance|NN united|NP states|NP prisoner|NN population|NN risk|NN outcome|NN COVID-19|Disease due|NN rate|NN heart|NN lung|NN disease|NN access|NN healthcare|NN case|NN time|NN death|NN time|NN case|NN COVID-19|Disease people|NN death|NN COVID-19|Disease people|NN spring|NN infection|NN fatality|NN rate|NN
+infection|NN fatality|NN rate|NN infection|NN fatality|NN ratio|NN ifr|NN case|NN fatality|NN rate|NN
+cfr|NN disease|NN proportion|NN death|NN disease|NN number|NN people|NN disease|NN period|NN time|NN
+ifr|NN contrast|NN proportion|NN death|NN individual|NN
+ifr|NN attempt|NN account|NN infection|NN
+february|NP world|NN health|NN organization|NN estimate|NN ifr|NN july|NP chief|NN scientist|NN ifr|NN estimate|NN expert|NN forum|NN
+cdc|NP plan|NN purpose|NN ifr|NN individual|NN fatality|NN rate|NN 6560|NN july|NP study|NN data|NN test|NN europe|NP show|NN ifr|NN estimate|NN university|NN oxford|NP centre|NN medicine|NN antibody|NN test|NN germany|NP ifr|NN
+firm|NN limit|NN ifr|NN number|NN location|NN new|NP york|NP city|NN bergamo|NP italy|NP ifr|NN population|NN fatality|NN rate|NN
+july|NP new|NP york|NP city|NN population|NN individual|NN COVID-19|Disease population|NN antibody|NN test|NN new|NP york|NP city|NN ifr|NN bergamo|NP province|NN population|NN sex|NN difference|NN article|NN impact|NN COVID-19|Disease
+review|NN data|NN impact|NN mortality|NN rate|NN men|NN china|NP italy|NP center|NN disease|NN control|NN prevention|NN death|NN rate|NN men|NN women|NN june|NP difference|NN susceptibility|NN cfr|NN gender|NN review|NN mortality|NN rate|NN men|NN lifestyle|NN choice|NN smoke|NN drink|NN alcohol|NN factor|NN difference|NN prevalence|NN smoke|NN women|NN men|NN condition|NN hypertension|NN age|NN women|NN mortality|NN men|NN europe|NP people|NN men|NN COVID-19|Disease men|NN april|NP government|NN data|NN COVID-19|Disease infection|NN research|NN illness|NN ebola|NP hiv|NP influenza|NN affect|NN men|NN women|NN prognosis|NN age|NN sex|NN case|NN france|NP diamond|NN princess|NN ship|NN difference|NN
+proportion|NN death|NN COVID-19|Disease american|NN factor|NN american|NN distance|NN concentration|NN house|NN occupation|NN transit|NN health|NN care|NN
+greater|NP prevalence|NN health|NN insurance|NN care|NN condition|NN diabete|NN hypertension|NN heart|NN disease|NN risk|NN death|NN issue|NN latino|NN community|NN health|NN policy|NN alaska|NP people|NN adult|NN risk|NN illness|NN non-elderly|NN adult|NN source|NN rate|NN health|NN condition|NN risk|NN live|NN condition|NN lack|NN access|NN water|NN leader|NN effort|NN research|NN address|NN disparity|NN
+uk|NP proportion|NN death|NN COVID-19|Disease minority|NN background|NN society|NN culture|NN name|NN
+outbreak|NN wuhan|NP china|NP virus|NN disease|NN coronavirus|NN coronavirus|NN disease|NN pneumonia|NN past|NN disease|NN location|NN flu|NN east|NN syndrome|NN virus|NN
+january|NP world|NN health|NN organization|NN disease|NN name|NN virus|NN disease|NN guidance|NN guideline|NN location|NN
+wuhan|NP china|NP animal|NN specy|NN group|NN people|NN disease|NN virus|NN name|NN part|NN stigma|NN
+name|NN COVID-19|Disease february|NP chief|NN co|NN corona|NN virus|NN disease|NN outbreak|NN december|NP COVID-19|Disease virus|NN virus|NN COVID-19|Disease communication|NN article|NN COVID-19|Disease
+outbreak|NN COVID-19|Disease misinformation|NN disinformation|NN origin|NN scale|NN prevention|NN treatment|NN aspect|NN disease|NN animal|NN
+human|NN virus|NN animal|NN type|NN disease|NN transmission|NN
+cat|NN lige|NP belgium|NP symptom|NN diarrhoea|NN vomit|NN shortness|NN breath|NN week|NN owner|NN tiger|NN lion|NN bronx|NP zoo|NN new|NP york|NP united|NP states|NP virus|NN symptom|NN COVID-19|Disease cough|NN loss|NN appetite|NN farm|NN netherlands|NP COVID-19|Disease denmark|NP october|NP mink|NN farm|NN COVID-19|Disease infection|NN mink|NN usa|NP finland|NP sweden|NP spain|NP infection|NN mink|NN
+study|NN animal|NN virus|NN cat|NN ferret|NN disease|NN dog|NN level|NN replication|NN
+study|NN evidence|NN replication|NN pig|NN duck|NN chicken|NN
+march|NP researcher|NN university|NN hong|NP kong|NP hamster|NN model|NN organism|NN COVID-19|Disease research|NN
+august|NP cat|NN dog|NN
+cdc|NP evidence|NN virus|NN human|NN cdc|NP guidance|NN people|NN contact|NN pet|NN
+november|NP minister|NN denmark|NP frederiksen|NP coronavirus|NN human|NN mink|NN mink|NN farm|NN northern|NP jutland|NP research|NN information|NN COVID-19|Disease drug|NN development|NN
+drug|NN indication|NN COVID-19|Disease australia|NP union|NN veklury|NN treatment|NN COVID-19|Disease adult|NN adolescent|NN year|NN body|NN weight|NN kilogram|NN lb|NN pneumonia|NN oxygen|NN research|NN vaccine|NN medicine|NN COVID-19|Disease government|NN organisation|NN group|NN industry|NN researcher|NN march|NP world|NN health|NN organization|NN solidarity|NN trial|NN treatment|NN effect|NN compound|NN promise|NN efficacy|NN world|NN health|NN organization|NN drug|NN trial|NN COVID-19|Disease treatment|NN safety|NN concern|NN
+patient|NN country|NN solidarity|NN trial|NN france|NP italy|NP belgium|NP use|NN hydroxychloroquine|NN COVID-19|Disease treatment|NN
+use|NN united|NP states|NP october|NP treatment|NN COVID-19|Disease
+food|NN drug|NN administration|NN fda|NN use|NN adult|NN adolescent|NN year|NN body|NN weight|NN kilogram|NN lb|NN treatment|NN COVID-19|Disease hospitalization|NN
+model|NN research|NN objective|NN prediction|NN dynamics|NN transmission|NN diagnosis|NN prognosis|NN infection|NN estimation|NN impact|NN intervention|NN allocation|NN resource|NN study|NN model|NN number|NN people|NN time|NN condition|NN
+type|NN model|NN COVID-19|Disease fluid|NN dynamics|NN model|NN flow|NN physics|NN COVID-19|Disease retrofit|NN crowd|NN movement|NN model|NN study|NN occupant|NN exposure|NN model|NN transmission|NN use|NN model|NN impact|NN
+deal|NN COVID-19|Disease research|NN research|NN process|NN publish|NN shortcut|NN demand|NN harm|NN misinformation|NN professional|NN public|NN change|NN information|NN update|NN article|NN COVID-19|Disease vaccine|NN green|NN country|NN sputnik|NP v|NP dose|NN
+light|NN green|NN country|NN interest|NN vaccine|NN
+glass|NN vial|NN COVID-19|Disease vaccine|NN COVID-19|Disease
+vaccine|NN vaccine|NN technology|NN immunity|NN COVID-19|Disease COVID-19|Disease
+work|NN vaccine|NN disease|NN knowledge|NN structure|NN function|NN coronaviruse|NN development|NN technology|NN platform|NN COVID-19|Disease
+vaccine|NN coalition|NN innovation|NN scientist|NN september|NP technology|NN platform|NN technology|NN candidate|NN research|NN development|NN vaccine|NN COVID-19|Disease
+platform|NN vaccine|NN candidate|NN trial|NN september|NP spike|NN protein|NN variant|NN antigen|NN COVID-19|Disease
+infection|NN acid|NN technology|NN rna|NN dna|NN vector|NN peptide|NN protein|NN viruse|NN viruse|NN
+vaccine|NN sputnik|NP v|NP research|NN institute|NN moscow|NP use|NN russia|NP phase|NN trial|NN article|NN COVID-19|Disease drug|NN research|NN
+phase|NN efficacy|NN trial|NN COVID-19|Disease march|NP result|NN april|NP hospital|NN china|NP trial|NN april|NP trial|NN treatment|NN study|NN hydroxychloroquine|NN chloroquine|NN drug|NN research|NN phase|NN trial|NN remdesivir|NN country|NN report|NN end|NN april|NP candidate|NN trial|NN corticosteroid|NN therapy|NN acid|NN angiotensin-convert|NN enzyme|NN
+COVID-19|Disease research|NN coalition|NN goal|NN review|NN trial|NN proposal|NN ethics|NN committee|NN agency|NN approval|NN candidate|NN compound|NN analysis|NN efficacy|NN safety|NN data|NN share|NN trial|NN outcome|NN publication|NN
+medication|NN treatment|NN COVID-19|Disease chloroquine|NN lopinavirritonavir|NN lopinavirritonavir|NN interferon|NN beta|NN evidence|NN efficacy|NN remdesivir|NN united|NP states|NP food|NN drug|NN administration|NN fda|NN drug|NN emergency|NN use|NN authorization|NN people|NN COVID-19|Disease august|NP fda|NN eua|NN remdesivir|NP patient|NN COVID-19|Disease severity|NN disease|NN phase|NN trial|NN drugswhich|NN
+country|NN china|NP italy|NP
+result|NN april|NP effectiveness|NN hydroxychloroquine|NN treatment|NN COVID-19|Disease study|NN improvement|NN study|NN association|NN hydroxychloroquine|NN chloroquine|NN use|NN death|NN rate|NN side|NN effect|NN retraction|NN study|NN author|NN lancet|NN june|NP study|NN chloroquine|NN hydroxychloroquine|NN azithromycin|NN limitation|NN community|NN therapy|NN study|NN june|NP fda|NN fact|NN sheet|NN emergency|NN use|NN authorization|NN remdesivir|NN chloroquine|NN hydroxychloroquine|NN remdesivir|NN activity|NN
+june|NP result|NN trial|NN united|NP kingdom|NP dexamethasone|NN mortality|NN patient|NN ventilator|NN oxygen|NN treatment|NN process|NN update|NN treatment|NN guideline|NN dexamethasone|NN steroid|NN result|NN dexamethasone|NN treatment|NN institute|NN health|NN patient|NN COVID-19|Disease oxygen|NN patient|NN COVID-19|Disease oxygen|NN
+september|NP guidance|NN corticosteroid|NN COVID-19|Disease corticosteroid|NN corticosteroid|NN treatment|NN people|NN COVID-19|Disease recommendation|NN certainty|NN evidence|NN corticosteroid|NN treatment|NN people|NN COVID-19|Disease recommendation|NN certainty|NN evidence|NN guidance|NN meta-analysis|NN trial|NN COVID-19|Disease patient|NN
+september|NP medicine|NN agency|NN use|NN dexamethasone|NN adult|NN adolescent|NN year|NN age|NN weigh|NN kg|NN oxygen|NN therapy|NN mouth|NN injection|NN infusion|NN drip|NN vein|NN
+november|NP institute|NN health|NN trial|NN safety|NN effectiveness|NN hydroxychloroquine|NN treatment|NN adult|NN COVID-19|Disease COVID-19|Disease drug|NN benefit|NN patient|NN
+food|NN drug|NN administration|NN fda|NN emergency|NN use|NN authorization|NN antibody|NN therapy|NN treatment|NN COVID-19|Disease bamlanivimab|NN people|NN result|NN test|NN year|NN age|NN weigh|NN kilogram|NN lb|NN risk|NN COVID-19|Disease hospitalization|NN year|NN age|NN condition|NN storm|NN
+cytokine|NN storm|NN complication|NN stage|NN COVID-19|Disease
+treatment|NN guideline|NN health|NN commission|NN study|NN phase|NN trial|NN level|NN italy|NP result|NN people|NN disease|NN serum|NN blood|NN test|NN cytokine|NN storm|NN cytokine|NN storm|NN syndrome|NN cytokine|NN release|NN syndrome|NN development|NN cause|NN death|NN people|NN interleukin-6|NN receptor|NN antagonist|NN food|NN drug|NN administration|NN fda|NN phase|NN trial|NN effectiveness|NN COVID-19|Disease case|NN study|NN treatment|NN cytokine|NN release|NN syndrome|NN cause|NN car|NN t|NP cell|NN therapy|NN 2017|NN
+evidence|NN treatment|NN crs|NP
+tocilizumab|NN increase|NN serum|NN level|NN drive|NN barrier|NN effect|NN incidence|NN crs|NP
+antibody|NN model|NN car|NN t|NP cell-induced|NP crs|NP neurotoxicity|NP option|NN increase|NN gm-csf|NN t-cell|NN patient|NN COVID-19|Disease
+feinstein|NP institute|NN health|NN march|NP study|NN antibody|NN activity|NN antibody|NN
+antibody|NN system|NN COVID-19|Disease people|NN method|NN immunisation|NN safety|NN effectiveness|NN plasma|NN treatment|NN option|NN research|NN strategy|NN sar|NN result|NN neutralization|NN mechanism|NN action|NN antibody|NN therapy|NN defence|NN
+spike|NN protein|NN sars-cov-2|NN target|NN antibody|NN august|NP antibody|NN spike|NN protein|NN sars-cov-2|NN study|NN selection|NN antibody|NN sars-cov-2|NN COVID-19|Disease infection|NN mechanism|NN cytotoxicity|NN form|NN antibody|NN therapy|NN example|NN antibody|NN development|NN production|NN serum|NN portion|NN blood|NN patient|NN antibody|NN virus|NN deployment|NN antibody|NN
+peru|NP april|NP work|NN vaccine|NN company|NN peruana|NN heredia|NN plan|NN vaccine|NN station|NN research|NN improvement|NN alpaca|NN group|NN june|NP alpaca|NN development|NN vaccine|NN conjunction|NN farvet|NN upch|NN
+ability|NN type|NN antibody|NN nanobody|NN potential|NN pathogen|NN research|NN united|NP states|NP belgium|NP chile|NP antibody|NN animal|NN inhaler|NN injection|NN treatment|NN coronaviruse|NN huanca|NN institute|NN innovation|NN camelid|NN program|NN camelidae|NN root|NN antibody|NN
+august|NP institute|NN health|NN development|NN treatment|NN COVID-19|Disease nanoantibody|NN llama|NN tito|NP inia|NP peru|NP bank|NN south|NN camelid|NN world|NN sample|NN alpaca|NN llama|NN bcg|NP vaccine|NN
+researcher|NN bcg|NP vaccine|NN protection|NN COVID-19|Disease mortality|NN severity|NN disease|NN country|NN
+factor|NN observation|NN test|NN rate|NN disease|NN burden|NN trial|NN bcg|NP protection|NN infection|NN
+evidence|NN conclusion|NN bcg|NP vaccine|NN COVID-19|Disease university|NN exeter|NP trial|NN trial|NN study|NN bcg|NP vaccination|NN impact|NN COVID-19|Disease healthcare|NN worker|NN study|NN netherlands|NP
+virus|NN icon|NN COVID-19|Disease portal|NN portal|NN portal|NN
+disease|NN group|NN syndrome|NN disease|NN term|NN
+contact|NN metre|NN feet|NN center|NN disease|NN control|NN prevention|NN cdc|NP face|NN face|NN total|NN minute|NN space|NN period|NN hour|NN health|NN department|NN

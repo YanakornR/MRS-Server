@@ -1,0 +1,15 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Catarrh|Disease name|NN Catarrh|Disease pronunciation|NN
+Catarrh|Disease inflammation|NN mucous|NN membrane|NN airway|NN cavity|NN body|NN reference|NN throat|NN paranasal|NN sinuse|NN
+exudate|NN mucus|NN blood|NN cell|NN swell|NN mucous|NN membrane|NN head|NN response|NN infection|NN
+symptom|NN cold|NN cough|NN patient|NN otitis|NN media|NN tonsillitis|NN
+phlegm|NN Catarrh|Disease blockage|NN
+word|NN Catarrh|Disease medicine|NN era|NN science|NN sense|NN text|NN cold|NN rhinitis|NN sinusitis|NN
+word|NN practice|NN word|NN pathosis|NN
+extent|NN disease|NN entity|NN symptom|NN sign|NN syndrome|NN
+term|NN Catarrh|Disease source|NN united|NP kingdom|NP word|NN folk|NN medicine|NN appalachia|NP plant|NN inflammation|NN drainage|NN condition|NN content|NN
+relevance|NN reference|NN link|NN
+ear|NN function|NN pressure|NN head|NN region|NN Catarrh|Disease blockage|NN discomfort|NN change|NN pressure|NN
+word|NN Catarrh|Disease french|NN Catarrh|Disease Catarrh|Disease greek|NN
+mean|NN mean|NN flow|NN
+oxford|NP english|NN dictionary|NN thomas|NP bowes|NP translation|NN pierre|NP de|NP la|NP part|NN french|NN sodainely|NN Catarrh|Disease es|NP flood|NN water|NN
+allergy|NP hay|NP fever|NN rhinitis|NN

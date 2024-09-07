@@ -1,0 +1,87 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN iron_deficiency|DS disambiguation|NN 
+iron_deficiency|DS name|NN iron_deficiency|DS iron_deficiency|DS heme|NN iron|NN hematology|NN 
+iron_deficiency|DS iron_deficiency|DS state|NN body|NN iron|NN need|NN 
+iron|NN cell|NN body|NN function|NN oxygen|NN tissue|NN lung|NN component|NN protein|NN transport|NN medium|NN electron|NN cell|NN form|NN cytochrome|NN oxygen|NN enzyme|NN reaction|NN tissue|NN 
+iron|NN function|NN lead|NN morbidity|NN death|NN 
+body|NN iron|NN average|NN g|NN men|NN g|NN women|NN 
+blood|NN plasma|NN iron|NN protein|NN 
+mechanism|NN iron|NN metabolism|NN safeguard|NN iron_deficiency|DS 
+mechanism|NN tract|NN 
+loss|NN iron|NN intake|NN iron|NN diet|NN state|NN iron_deficiency|DS time|NN 
+state|NN anemia|DS 
+condition|NN iron_deficiency|DS anemia|DS iron_deficiency|DS ide|NN 
+iron_deficiency|DS type|NN anemia|DS condition|NN blood|NN cell|NN erythrocyte|NN hemoglobin|NN 
+body|NN amount|NN iron|NN production|NN protein|NN hemoglobin|NN 
+oxygen|NN blood|NN cell|NN blood|NN body|NN 
+children|NN women|NN women|NN child-bear|NN age|NN people|NN diet|NN disease|NN 
+case|NN anemia|DS problem|NN heartbeat|NN complication|NN pregnancy|NN growth|NN infant|NN children|NN development|NN behavior|NN content|NN 
+sign|NN symptom|NN cause|NN athletics|NN intake|NN diagnosis|NN treatment|NN food|NN source|NN blood|NN transfusion|NN note|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN death|NN anemia|DS person|NN 2012|NN 31-74|NN life|NN year|NN anemia|DS inhabitant|NN data|NN 150-200|NN 300-350|NN 450-500|NN 
+symptom|NN iron_deficiency|DS condition|NN iron_deficiency|DS anemia|DS 
+symptom|NN iron_deficiency|DS iron_deficiency|DS 
+iron|NN enzyme|NN function|NN range|NN symptom|NN result|NN anemia|DS result|NN iron_deficiency|DS 
+symptom|NN iron_deficiency|DS 
+fatigue|ST pallor|NN hair_loss|ST irritability|ST weakness|ST nail|NN hair|NN thine|NN syndrome|NN atrophy|DS mucous|NN membrane|NN tongue|NN pharynx|NN function|NN leg|NN syndrome|NN 
+iron_deficiency|DS fatigue|ST 
+platelet|NN count|NN 
+lack|NN iron|NN level|NN blood|NN reason|NN people|NN blood|NN 
+sign|NN symptom|NN children|NN 
+skin|NN fatigue|ST growth|NN development|NN appetite|NN problem|NN breath|NN infection|NN 
+iron|NN requirement|NN children|NN teenager|NN age|NN group|NN amount|NN iron|NN day|NN month|NN mg|NN year|NN mg|NN year|NN mg|NN year|NN mg|NN year|NN girl|NN mg|NN year|NN boy|NN mg|NN cause|NN 
+blood|NN loss|NN iron|NN donation|NN bleed|NN bleed|NN tract|NN ulcer|NN colitis|DS stomach|NN colon|NN cancer|DS 
+tract|NN intake|NN substance|NN diet|NN drug|NN iron|NN absorption|NN antibiotics|NN malabsorption|NN syndrome|NN inflammation|NN growth|NN infection|NN disease|NN bowel|NN disease|NN arthritis|DS infection|NN 
+defect|NN iron_deficiency|DS rodent|NN disorder|NN iron|NN metabolism|NN cause|NN iron_deficiency|DS 
+reason|NN athletics|NN iron|NN level|NN hemolysis|NN destruction|NN blood|NN cell|NN impact|NN loss|NN iron|NN sweat|NN urine|NN blood|NN loss|NN haematuria|NN presence|NN blood|NN urine|NN amount|NN iron|NN sweat|NN urine|NN loss|NN sweat|NN urine|NN production|NN athlete|NN body|NN iron|NN hemolysis|NN sport|NN distance|NN runner|NN impact|NN feet|NN ground|NN 
+bleed|NN endurance|NN athlete|NN 
+athlete|NN impact|NN body|NN feet|NN road|NN kendo|NN hand|NN 
+athlete|NN sport|NN weight_loss|ST ballet|NN gymnastics|NN marathon|NN run|NN wrestle|NN sport|NN diet|NN risk|NN iron_deficiency|DS intake|NN 
+survey|NN food|NN consumption|NN women|NN men|NN age|NN consumption|NN food|NN beverage|NN mgday|NN 
+women|NN age|NN range|NN year|NN requirement|NN men|NN age|NN consumption|NN data|NN government|NN survey|NN food|NN consumption|NN men|NN women|NN age|NN average|NN iron|NN intake|NN mgday|NN 
+consumption|NN ear|NN men|NN minority|NN women|NN age|NN year|NN mgday|NN teen|NN mgday|NN women|NN 
+iron|NN growth|NN bioavailability|NN factor|NN infection|NN blood|NN plasma|NN result|NN iron|NN cell|NN transferrin|NN access|NN bacteria|NN percent|NN protein|NN content|NN milk|NN lactoferrin|NN iron|NN 
+comparison|NN cow|NN milk|NN percent|NN 
+result|NN breast|NN baby|NN infection|NN tear|NN saliva|NN wound|ST iron|NN growth|NN 
+egg|NN white|NN conalbumin|NN bacteria|NN egg|NN shell|NN reason|NN antibiotics|NN egg|NN white|NN infection|NN 
+growth|NN plasma|NN concentration|NN iron|NN variety|NN state|NN production|NN hepcidin|NN liver|NN response|NN production|NN cytokine|NN 
+iron_deficiency|DS source|NN inflammation|NN anaemia|NN inflammation|NN 
+inflammation|NN fever|ST bowel|NN disease|NN infection|NN heart|NN failure|NN carcinoma|NN surgery|NN 
+link|NN iron|NN growth|NN take|NN iron|NN supplement|NN excess|NN cause|NN overabundance|NN iron|NN type|NN bacteria|NN gut|NN 
+concern|NN iron|NN practice|NN 
+iron_deficiency|DS contrast|NN protection|NN infection|NN organism|NN hepatocyte|NN macrophage|NN malaria|DS tuberculosis|DS 
+region|NN prevalence|NN disease|NN treatment|NN 
+blood|NN count|NN iron_deficiency|DS anemia|DS 
+serum|NN serum|NN iron|NN iron|NN bind|NN capacity|NN case|NN anemia|DS inflammation|NN 
+occult|NN blood|NN test|NN iron_deficiency|DS result|NN bleed|NN sensitivity|NN test|NN case|NN blood|NN loss|NN 
+laboratory|NN value|NN lab|NN reference|NN value|NN mind|NN aspect|NN situation|NN 
+serum|NN ferritin|NN condition|NN serum|NN iron_deficiency|DS utility|NN protein|NN crp|NN 
+level|NN serum|NN condition|NN 
+example|NN bowel|NN disease|NN threshold|NN heart|NN failure|NN level|NN 
+treatment|NN diagnosis|NN cause|NN iron_deficiency|DS 
+case|NN patient|NN cancer|DS bleed|NN 
+adult|NN patient|NN anemia|DS disorder|NN blood|NN loss|NN cause|NN iron_deficiency|DS treatment|NN 
+diagnosis|NN condition|NN iron|NN supplement|NN 
+choice|NN supplement|NN severity|NN condition|NN speed|NN improvement|NN surgery|NN likelihood|NN treatment|NN ibd|NN dialysis|NN esa|NN therapy|NN 
+example|NN iron|NN gluconate|NN amino|NN acid|NN tablet|NN 
+research|NN replacement|NN dose|NN iron|NN iron_deficiency|DS mg|NN day|NN iron|NN food|NN source|NN 
+iron_deficiency|DS food|NN cook|NN iron|NN 
+iron|NN requirement|NN plant|NN animal|NN range|NN food|NN iron|NN 
+source|NN iron|NN medication|NN component|NN 
+example|NN meat|NN poultry|NN insect|NN source|NN iron|NN 
+example|NN lentil|NN bean|NN vegetable|NN pistachio|NN tofu|NN bread|NN breakfast|NN cereal|NN 
+iron|NN food|NN body|NN instance|NN iron|NN meat|NN source|NN iron|NN grain|NN vegetable|NN iron|NN source|NN mineral|NN chemical|NN type|NN food|NN absorption|NN iron|NN type|NN food|NN time|NN example|NN acid|NN form|NN complexe|NN iron|NN gut|NN 
+iron|NN plant|NN source|NN iron|NN animal|NN source|NN vegetarian|NN vegan|NN iron|NN intake|NN meat|NN fish|NN poultry|NN vegetable|NN broccoly|NN kale|NN green|NN source|NN iron|NN vegetarian|NN vegan|NN 
+spinach|NN chard|NN iron|NN absorption|NN 
+citation|NN iron|NN source|NN food|NN iron|NN vitamin|NN c|NN 
+meat|NN factor|NN iron|NN absorption|NN 
+table|NN food|NN heme|NN source|NN 
+table|NN food|NN serve|NN size|NN 100g|NN quantity|NN relevancy|NN reason|NN 
+guideline|NN mg|NN allowance|NN women|NN food|NN iron|NN food|NN size|NN iron|NN guideline|NN 100g|NN mg|NN pork|NN liver|NN 100g|NN mg|NN lamb|NN kidney|NN 100g|NN mg|NN oyster|NN 100g|NN mg|NN 100g|NN mg|NN lamb|NN liver|NN 100g|NN mg|NN octopus|NN 100g|NN mg|NN mussel|NN 100g|NN mg|NN beef|NN liver|NN 100g|NN mg|NN beef|NN heart|NN 100g|NN mg|NN food|NN iron|NN food|NN size|NN iron|NN guideline|NN bean|NN 100g|NN mg|NN 15g|NN mg|NN mg|NN soybean|NN kernel|NN mg|NN spinach|NN 125g|NN mg|NN lentil|NN mg|NN treacle|NN csr|NN australia|NN mg|NN molass|NN australia|NN mg|NN root|NN mg|NN sesame|NN seed|NN mg|NN cocoa|NN powder|NN mg|NN 
+food|NN recommendation|NN children|NN 
+children|NN month|NN food|NN iron|NN heme|NN iron|NN 
+meat|NN example|NN beef|NN pork|NN lamb|NN goat|NN venison|NN fatty|NN poultry|NN example|NN chicken|NN turkey|NN egg|NN 
+infant|NN cereal|NN bean|NN lentil|NN vegetable|NN 
+iron_deficiency|DS health|NN consequence|NN diet|NN iron|NN supplement|NN iron_deficiency|DS 
+blood|NN transfusion|NN 
+blood|NN transfusion|NN iron_deficiency|DS instability|NN transfusion|NN people|NN iron_deficiency|DS surgery|NN people|NN hemoglobin|NN treatment|NN iron|NN 
+disease|NN fertilization|NN effect|NN 
+iron|NN content|NN clam|NN type|NN mode|NN preparation|NN presence|NN aluminium|NN iron|NN bioaccumulation|NN metal|NN clam|NN area|NN consumption|NN term|NN 

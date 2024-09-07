@@ -1,0 +1,33 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Hyperpigmentation|Disease acanthosis|NN dermatology|NN
+Hyperpigmentation|Disease darken|NN area|NN skin|NN nail|NN melanin|NN
+cause|NN diagnosis|NN treatment|NN reference|NN link|NN
+Hyperpigmentation|Disease sun|NN damage|NN inflammation|NN skin|NN injury|NN acne|NN people|NN skin|NN tone|NN Hyperpigmentation|Disease sun|NN exposure|NN
+form|NN Hyperpigmentation|Disease production|NN melanin|NN Hyperpigmentation|Disease area|NN face|NN back|NN hand|NN
+melanocyte|NN layer|NN epidermis|NN
+class|NN pigment|NN colour|NN body|NN place|NN eye|NN skin|NN hair|NN
+body|NN age|NN distribution|NN regulation|NN body|NN
+light|NN activity|NN concentration|NN cell|NN Hyperpigmentation|Disease
+form|NN Hyperpigmentation|Disease post|NN Hyperpigmentation|Disease
+spot|NN skin|NN acne|NN
+Hyperpigmentation|Disease number|NN disease|NN condition|NN
+disease|NN source|NN insufficiency|NN hormone|NN melanin|NN synthesis|NN hormone|NN
+disease|NN adrenocorticotropic|NN hormone|NN production|NN production|NN byproduct|NN synthesis|NN pomc|NN
+Hyperpigmentation|Disease area|NN insulin|NN resistance|NN
+chloasma|NN mask|NN pregnancy|NN women|NN skin|NN problem|NN Hyperpigmentation|Disease
+face|NN mark|NN side|NN face|NN
+condition|NN women|NN men|NN men|NN
+academy|NN percent|NN people|NN women|NN acne|NN scare|NN post-inflammatary|NP Hyperpigmentation|Disease linea|NP line|NN abdomen|NN pregnancy|NN
+syndromean|NN disorder|NN macule|NN lip|NN mucosa|NN polyp|NN
+exposure|NN chemical|NN acid|NN bleomycin|NN cisplatin|NN
+smoker|NN disease|NN syndrome|NN infection|NN ringworm|NN disorder|NN accumulation|NN iron|NN body|NN
+mercury|NP case|NN exposure|NN application|NN ointment|NN cream|NN
+deficiency|NN syndrome|NN grave|NN disease|NN dysplasia|NN result|NN cruris|NN
+Hyperpigmentation|Disease laser|NN procedure|NN
+examination|NN wood|NN lamp|NN examination|NN history|NN diagnosis|NN
+skin|NN examination|NN
+range|NN treatment|NN Hyperpigmentation|Disease condition|NN response|NN
+treatment|NN Hyperpigmentation|Disease melanin|NN overproduction|NN acne|NN scare|NN liver|NN spot|NN use|NN depigment|NN agent|NN efficacy|NN safety|NN prescription|NN rule|NN prescription|NN dose|NN acid|NN acid|NN prescription|NN hydrochloride|NN hydroquinone|NN Hyperpigmentation|Disease treatment|NN safety|NN concern|NN use|NN country|NN general|NN present|NN need|NN prescription|NN
+hydroquinone|NN application|NN medication|NN procyanidin|NN vitamin|NN c|NP e|NP promise|NN melasma|NN
+placebo-control|NN trial|NN women|NN treatment|NN improvement|NN left|NN right|NN region|NN vitamin|NN c|NP e|NP product|NN care|NN company|NN
+treatment|NN agent|NN fraction|NN laser|NN dermabrasion|NN
+list|NN condition|NN

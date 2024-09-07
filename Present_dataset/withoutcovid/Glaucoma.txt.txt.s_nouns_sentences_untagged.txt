@@ -1,0 +1,249 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN glaucoma|DS angle|NN closure|NN glaucoma|DS angle|NN closure|NN glaucoma|DS person|NN right|NN eye|NN 
+pupil|NN light|NN redness|NN part|NN eye|NN 
+symptom|NN vision|NN loss|NN eye|NN pain|ST pupil|NN redness|NN eye|NN nausea|ST onset|NN risk|NN factor|NN pressure|NN eye|NN family|NN history|NN blood|NN pressure|NN method|NN eye|NN examination|NN diagnosis|NN trauma|NN treatment|NN laser|NN surgery|NN frequency|NN 
+glaucoma|DS group|NN eye|NN disease|NN result|NN damage|NN optic_nerve|DS cause|NN vision|NN loss|NN type|NN glaucoma|DS type|NN glaucoma|DS normal-tension|NN glaucoma|DS glaucoma|DS time|NN pain|ST vision|NN vision|NN blindness|NN glaucoma|DS presentation|NN eye|NN pain|ST vision|NN pupil|NN redness|NN eye|NN nausea|ST vision|NN loss|NN glaucoma|DS 
+risk|NN factor|NN glaucoma|DS pressure|NN eye|NN family|NN history|NN condition|NN blood|NN pressure|NN eye|NN pressure|NN value|NN mmhg|NN kpa|NN pressure|NN risk|NN eye|NN pressure|NN year|NN damage|NN optic_nerve|DS damage|NN pressure|NN normal-tension|NN glaucoma|DS mechanism|NN glaucoma|DS exit|NN humor|NN trabecular|NN closed-angle|NN glaucoma|DS iris|NN trabecular|NN diagnosis|NN eye|NN examination|NN optic_nerve|DS amount|NN 
+progression|NN disease|NN medication|NN laser|NN treatment|NN surgery|NN goal|NN treatment|NN eye|NN pressure|NN number|NN class|NN glaucoma|DS medication|NN laser|NN treatment|NN open-angle|NN closed-angle|NN glaucoma|DS number|NN type|NN glaucoma|DS surgery|NN people|NN measure|NN treatment|NN glaucoma|DS emergency|NN 
+people|NN glaucoma|DS disease|NN people|NN united|NN states|NN people|NN glaucoma|DS women|NN glaucoma|DS thief|NN sight|NN loss|NN vision|NN period|NN time|NN glaucoma|DS cause|NN blindness|NN cataract|DS word|NN glaucoma|DS greek|NN green|NN english|NN word|NN development|NN ophthalmoscope|NN people|NN optic_nerve|DS damage|NN content|NN 
+sign|NN symptom|NN cause|NN genetics|NN diagnosis|NN glaucoma|DS variant|NN glaucoma|DS secondary|NN glaucoma|DS glaucoma|DS type|NN screen|NN treatment|NN laser|NN surgery|NN epidemiology|NN history|NN research|NN rho|NN kinase|NN inhibitor|NN agent|NN cannabis|NN reference|NN link|NN 
+sign|NN symptom|NN photo|NN vessel|NN edge|NN flush|NN flush|NN cornea|NN characteristic|NN angle|NN closure|NN glaucoma|DS 
+glaucoma|DS attack|NN lack|NN symptom|NN screen|NN eye|NN check-up|NN 
+sign|NN field|NN loss|NN optic_nerve|DS change|NN ratio|NN examination|NN 
+people|NN angle|NN angle|NN closure|NN pain|ST light|NN eye|NN intraocular|NN pressure|NN nausea|ST vision|NN mid-dilate|NN pupil|NN 
+pupil|NN case|NN 
+angle|NN closure|NN emergency|NN 
+speck|NN len|NN glaucoma|DS cause|NN range|NN vision|NN view|NN vision|NN loss|NN glaucoma|DS 
+cause|NN glaucoma|DS hypertension|DS pressure|NN eye|NN risk|NN factor|NN glaucoma|DS population|NN people|NN open-angle|NN glaucoma|DS pressure|NN 
+glaucoma|DS account|NN glaucoma|DS case|NN united|NN states|NN 
+glaucoma|DS account|NN glaucoma|DS case|NN united|NN states|NN glaucoma|DS case|NN nation|NN east|NN country|NN 
+evidence|NN vitamin|NN deficiency|NN cause|NN glaucoma|DS human|NN 
+vitamin|NN supplementation|NN treatment|NN glaucoma|DS caffeine|NN pressure|NN glaucoma|DS individual|NN 
+people|NN east|NN descent|NN angle|NN closure|NN glaucoma|DS chamber|NN depth|NN majority|NN case|NN glaucoma|DS population|NN form|NN angle|NN closure|NN asian|NN south|NN asian|NN angle|NN closure|NN glaucoma|DS rate|NN glaucoma|DS population|NN population|NN canada|NN greenland|NN genetics|NN 
+family|NN history|NN risk|NN factor|NN glaucoma|DS 
+risk|NN open-angle|NN glaucoma|DS poag|NN two-|NN people|NN sible|NN glaucoma|DS glaucoma|DS open-angle|NN glaucoma|DS mutation|NN gene|NN asb10|NN ntf4|NN case|NN glaucoma|DS mutation|NN 
+glaucoma|DS mutation|NN opa1|NN optn|NN gene|NN 
+congenitalgenetic|NN eye|NN malformation|NN glaucoma|DS 
+failure|NN atrophy|DS canal|NN tunica|NN lentis|NN anomaly|NN 
+angle|NN hypertension|DS glaucoma|DS optic|NN neuropathy|NN anomaly|NN mice|NN 
+factor|NN glaucoma|DS glaucoma|DS use|NN steroid|NN glaucoma|DS condition|NN blood|NN flow|NN eye|NN retinopathy|NN vein|NN occlusion|NN glaucoma|DS trauma|NN angle-recession|NN glaucoma|DS inflammation|NN layer|NN eye|NN structure|NN glaucoma|DS 
+eye|NN view|NN 
+cause|NN glaucoma|DS 
+theory|NN etiology|NN 
+risk|NN factor|NN glaucoma|DS focus|NN treatment|NN pressure|NN 
+pressure|NN function|NN production|NN humor|NN process|NN eye|NN drainage|NN meshwork|NN 
+flow|NN process|NN chamber|NN len|NN zonule|NN zinn|NN iris|NN 
+pupil|NN iris|NN chamber|NN iris|NN cornea|NN 
+trabecular|NN drain|NN humor|NN sinus|NN canal|NN plexuse|NN blood|NN circulation|NN 
+glaucoma|DS flow|NN trabecular|NN due|NN degeneration|NN obstruction|NN trabecular|NN function|NN humor|NN 
+loss|NN humor|NN absorption|NN resistance|NN buildup|NN pressure|NN eye|NN 
+angle|NN displacement|NN roll|NN root|NN iris|NN cornea|NN inability|NN fluid|NN flow|NN posterior|NN chamber|NN network|NN 
+accumulation|NN humor|NN increase|NN pressure|NN pain|ST 
+relationship|NN glaucoma|DS optic|NN neuropathy|NN pressure|NN hypothese|NN study|NN structure|NN eye|NN development|NN nerve|NN compression|NN trauma|NN optic_nerve|DS blood|NN flow|NN neurotransmitter|NN factor|NN ganglion|NN degeneration|NN support|NN cell|NN system|NN age|NN mechanism|NN neuron|NN loss|NN sever|NN nerve|NN edge|NN diagnosis|NN nerve|NN glaucoma|DS disease|NN 
+screen|NN glaucoma|DS part|NN eye|NN examination|NN optometrist|NN ophthalmologist|NN 
+test|NN glaucoma|DS measurement|NN pressure|NN chamber|NN angle|NN examination|NN gonioscopy|NN examination|NN optic_nerve|DS damage|NN change|NN ratio|NN rim|NN appearance|NN change|NN 
+field|NN test|NN 
+nerve|NN layer|NN image|NN technique|NN coherence|NN tomography|NN scan|NN laser|NN scan|NN laser|NN heidelberg|NN tomogram|NN 
+sensitivity|NN method|NN tonometry|NN thickness|NN method|NN goldmann|NN tonometry|NN pachymetry|NN thickness|NN cct|NN 
+cornea|NN pressure|NN read|NN pressure|NN cornea|NN pressure|NN pressure|NN 
+pressure|NN measurement|NN error|NN cct|NN hydration|NN elastic|NN property|NN pressure|NN measurement|NN cct|NN measurement|NN 
+frequency|NN double|NN illusion|NN glaucoma|DS use|NN frequency|NN double|NN technology|NN perimeter|NN 
+examination|NN glaucoma|DS attention|NN sex|NN race|NN history|NN drug|NN use|NN refraction|NN inheritance|NN family|NN history|NN glaucoma|DS test|NN test|NN eye|NN drop|NN contact|NN eye|NN procedure|NN eye|NN pressure|NN eye|NN drop|NN eye|NN 
+examiner|NN tonometer|NN pressure|NN eye|NN pressure|NN puff|NN air|NN tool|NN 
+eye|NN examination|NN shape|NN color|NN optic_nerve|DS eye|NN drop|NN pupil|NN 
+magnification|NN device|NN light|NN end|NN examiner|NN optic_nerve|DS 
+field|NN test|NN field|NN vision|NN patient|NN light|NN patient|NN field|NN vision|NN 
+examiner|NN patient|NN field|NN vision|NN 
+angle|NN eye|NN iris|NN cornea|NN eye|NN drop|NN eye|NN 
+contact|NN len|NN mirror|NN eye|NN examiner|NN angle|NN cornea|NN iris|NN 
+thickness|NN cornea|NN examiner|NN pachymeter|NN front|NN eye|NN thickness|NN 
+nerve|NN fiber|NN analysis|NN thickness|NN nerve|NN layer|NN techniquesclarification|NN nerve|NN 
+glaucoma|DS type|NN glaucoma|DS variant|NN 
+open-angle|NN glaucoma|DS open-angle|NN glaucoma|DS glaucoma|DS glaucoma|DS simplex|NN 
+glaucoma|DS low-tension|NN glaucoma|DS 
+angle|NN closure|NN glaucoma|DS closed-angle|NN glaucoma|DS glaucoma|DS glaucoma|DS glaucoma|DS 
+angle|NN closure|NN glaucoma|DS aka|NN angle|NN closure|NN glaucoma|DS angle|NN closure|NN glaucoma|DS closure|NN glaucoma|DS mechanism|NN 
+variant|NN glaucoma|DS 
+glaucoma|DS exfoliation|NN glaucoma|DS glaucoma|DS glaucoma|DS glaucoma|DS 
+angle|NN closure|NN glaucoma|DS contact|NN iris|NN trabecular|NN turn|NN outflow|NN humor|NN eye|NN 
+contact|NN iris|NN trabecular|NN tm|NN function|NN meshwork|NN pace|NN production|NN pressure|NN rise|NN 
+case|NN contact|NN iris|NN tm|NN formation|NN scar|NN 
+cause|NN obstruction|NN outflow|NN 
+case|NN pressure|NN eye|NN pain|ST redness|NN angle|NN closure|NN 
+situation|NN vision|NN light|NN 
+symptom|NN headache|ST vomit|NN 
+diagnosis|NN sign|NN symptom|NN pupil|NN cornea|NN vision|NN redness|NN pain|ST 
+majority|NN case|NN 
+loss|NN vision|NN case|NN examination|NN eye|NN care|NN 
+symptom|NN line|NN treatment|NN laser|NN 
+argon|NN laser|NN case|NN surgery|NN 
+goal|NN treatment|NN contact|NN iris|NN trabecular|NN 
+case|NN angle|NN case|NN 
+laser|NN medication|NN surgery|NN 
+open-angle|NN glaucoma|DS optic_nerve|DS damage|NN result|NN loss|NN field|NN pressure|NN eye|NN 
+people|NN open-angle|NN glaucoma|DS eye|NN pressure|NN eye|NN pressure|NN progression|NN case|NN 
+pressure|NN blockage|NN 
+passageway|NN pressure|NN eye|NN vision|NN loss|NN 
+vision|NN vision|NN 
+diagnosis|NN optic_nerve|DS 
+agonist|NN work|NN open|NN passageway|NN 
+work|NN formation|NN 
+inhibitor|NN decrease|NN bicarbonate|NN formation|NN process|NN eye|NN formation|NN humor|NN 
+drug|NN outflow|NN open|NN passageway|NN pupil|NN 
+alpha|NN agonist|NN decrease|NN fluid|NN production|NN inhibition|NN ac|NN increase|NN drainage|NN 
+glaucoma|DS glaucoma|DS glaucoma|DS disease|NN 
+uveitis|DS type|NN fuchs|NN heterochromic|NN 
+glaucoma|DS cataract|DS glaucoma|DS secondary|NN rupture|NN len|NN capsule|NN glaucoma|DS due|NN blockage|NN subluxation|NN len|NN 
+glaucoma|DS secondary|NN hemorrhage|NN 
+hemolytic|NN glaucoma|DS glaucoma|DS 
+angle|NN recession|NN glaucoma|DS recession|NN chamber|NN angle|NN glaucoma|DS 
+block|NN block|NN glaucoma|DS 
+glaucoma|DS detail|NN glaucoma|DS 
+glaucoma|DS glaucoma|DS 
+hypertension|DS use|NN alpha|NN 
+glaucoma|DS origin|NN 
+detachment|NN burn|NN eye|NN iris|NN atrophy|DS glaucoma|DS 
+glaucoma|DS type|NN glaucoma|DS retinopathy|NN pdr|NN vein|NN occlusion|NN 
+condition|NN result|NN ischemia|NN retina|NN body|NN 
+individual|NN blood|NN flow|NN eye|NN risk|NN condition|NN 
+glaucoma|DS result|NN vessel|NN angle|NN eye|NN drainage|NN 
+patient|NN condition|NN eyesight|NN 
+disease|NN cataract|DS surgery|NN procedure|NN 
+treatment|NN disease|NN kahook|NN colleague|NN use|NN group|NN medication|NN agent|NN 
+medication|NN decrease|NN vessel|NN formation|NN disease|NN process|NN normalization|NN pressure|NN 
+trial|NN effect|NN treatment|NN lower|NN people|NN glaucoma|DS 
+glaucoma|DS glaucoma|DS rise|NN pressure|NN pathogenesis|NN 
+pressure|NN kpa|NN 
+body|NN inflammation|NN trabecular|NN oedema|NN canal|NN 
+condition|NN glaucoma|DS presence|NN chamber|NN lack|NN misdirection|NN 
+reduction|NN acuity|NN breakdown|NN 
+factor|NN inflammation|NN drug|NN trauma|NN surgery|NN cataract|DS surgery|NN vitrectomy|NN procedure|NN 
+patient|NN glaucoma|DS 
+particle|NN nucleus|NN drop|NN 
+case|NN medication|NN procedure|NN trabeculectomy|NN 
+procedure|NN relief|NN research|NN glaucoma|DS 
+glaucoma|DS h445|NN end|NN stage|NN type|NN glaucoma|DS 
+eye|NN vision|NN absence|NN reflex|NN response|NN appearance|NN 
+pain|ST eye|NN 
+treatment|NN glaucoma|DS procedure|NN cyclophotocoagulation|NN injection|NN alcohol|NN 
+section|NN citation|NN verification|NN 
+article|NN citation|NN source|NN 
+source|NN glaucoma|DS new|NN newspaper|NN book|NN scholar|NN august|NN template|NN message|NN 
+glaucoma|DS umbrella|NN term|NN eye|NN condition|NN damage|NN optic_nerve|DS loss|NN vision|NN cause|NN damage|NN optic_nerve|DS pressure|NN fluid|NN pressure|NN eye|NN reason|NN blockage|NN drainage|NN duct|NN narrow|NN closure|NN angle|NN iris|NN cornea|NN 
+division|NN type|NN glaucoma|DS glaucoma|DS 
+angle|NN glaucoma|DS iris|NN cornea|NN fluid|NN eye|NN pressure|NN 
+angle|NN pressure|NN increase|NN time|NN damage|NN optic_nerve|DS blindness|NN 
+open-angle|NN glaucoma|DS glaucoma|DS glaucoma|DS clog|NN drainage|NN canal|NN eye|NN pressure|NN optic_nerve|DS damage|NN 
+loss|NN field|NN start|NN loss|NN vision|NN vision|NN type|NN glaucoma|DS account|NN case|NN united|NN states|NN country|NN 
+loss|NN vision|NN 
+glaucoma|DS glaucoma|DS iris|NN bow|NN angle|NN eye|NN pressure|NN eye|NN 
+emergency|NN glaucoma|DS 
+glaucoma|DS glaucoma|DS angle-closure|NN glaucoma|DS glaucoma|DS iris|NN bow|NN contact|NN iris|NN trabecular|NN outflow|NN humor|NN eye|NN 
+contact|NN function|NN meshwork|NN pace|NN production|NN pressure|NN rise|NN 
+onset|NN symptom|NN pain|ST symptom|NN emergency|NN 
+glaucoma|DS glaucoma|DS result|NN angle|NN iris|NN cornea|NN close|NN 
+chamber|NN contact|NN iris|NN trabecular|NN 
+glaucoma|DS glaucoma|DS glaucoma|DS condition|NN optic_nerve|DS pressure|NN iop|NN range|NN hg|NN 
+individual|NN family|NN history|NN ancestry|NN history|NN heart|NN disease|NN syndrome|NN risk|NN ntg|NN 
+cause|NN ntg|NN 
+glaucoma|DS case|NN disease|NN trauma|NN drug|NN procedure|NN cause|NN eye|NN pressure|NN optic_nerve|DS damage|NN vision|NN loss|NN 
+eye|NN injury|NN inflammation|NN tumor|NN case|NN cataract|DS diabete|NN 
+drug|NN steroid|NN 
+treatment|NN glaucoma|DS 
+glaucoma|DS glaucoma|DS pressure|NN accumulation|NN protein|NN drainage|NN humor|NN 
+pex|NN scandinavia|NN women|NN 
+glaucoma|DS dispersion|NN syndrome|NN pigment|NN cell|NN back|NN iris|NN humor|NN 
+time|NN pigment|NN cell|NN chamber|NN way|NN meshwork|NN 
+condition|NN caucasian|NN male|NN mid-20|NN 
+glaucoma|DS neonate|NN abnormality|NN hypertension|DS birth|NN abnormality|NN chamber|NN angle|NN development|NN outflow|NN humor|NN 
+glaucoma|DS swell|NN inflammation|NN uvea|NN layer|NN eye|NN 
+uvea|NN blood|NN supply|NN retina|NN 
+eye|NN pressure|NN result|NN inflammation|NN steroid|NN 
+united|NN states|NN service|NN task|NN force|NN 2013|NN evidence|NN screen|NN glaucoma|DS screen|NN program|NN 
+screen|NN start|NN age|NN academy|NN 
+glaucoma|DS screen|NN program|NN uk|NN 
+risk|NN eye|NN examination|NN year|NN 
+goal|NN glaucoma|DS management|NN glaucoma|DS damage|NN nerve|NN damage|NN field|NN quality|NN life|NN patient|NN side-effect|NN technique|NN examination|NN selection|NN treatment|NN patient|NN 
+pressure|NN iop|NN risk|NN factor|NN glaucoma|DS lower|NN pharmaceutical|NN technique|NN mainstay|NN glaucoma|DS treatment|NN 
+review|NN people|NN open-angle|NN glaucoma|DS hypertension|DS lower|NN treatment|NN progression|NN field|NN loss|NN 
+flow|NN neurodegenerative|NN theory|NN glaucoma|DS optic|NN neuropathy|NN study|NN strategy|NN compound|NN clinician|NN use|NN trial|NN 
+article|NN glaucoma|DS medication|NN 
+pressure|NN medication|NN eye|NN drop|NN 
+class|NN medication|NN glaucoma|DS medication|NN class|NN 
+medicine|NN side|NN effect|NN 
+adherence|NN medication|NN protocol|NN side|NN effect|NN patient|NN treate|NN physician|NN drug|NN regimen|NN 
+glaucoma|DS drop|NN eye|NN eye|NN pad|NN administration|NN eye|NN drop|NN effect|NN growth|NN eyelashe|NN hyperpigmentation|NN eyelid|NN 
+compliance|NN medication|NN visit|NN reason|NN vision|NN loss|NN glaucoma|DS patient|NN 
+study|NN patient|NN hmo|NN prescription|NN time|NN prescription|NN second|NN time|NN patient|NN education|NN communication|NN treatment|NN plan|NN disease|NN symptom|NN 
+neuroprotective|NN effect|NN medication|NN 
+bimatoprost|NN increase|NN outflow|NN humor|NN 
+beta-adrenergic|NN receptor|NN antagonist|NN levobunolol|NN decrease|NN humor|NN production|NN epithelium|NN body|NN 
+agonist|NN work|NN mechanism|NN production|NN uveoscleral|NN outflow|NN 
+alpha|NN agonist|NN decrease|NN humor|NN production|NN vasoconstriction|NN body|NN blood|NN vessel|NN glaucoma|DS 
+effect|NN glaucoma|DS due|NN narrow|NN outflow|NN closure|NN trabecular|NN absorption|NN humor|NN 
+agent|NN work|NN contraction|NN muscle|NN trabecular|NN outflow|NN humour|NN 
+inhibitor|NN glaucoma|DS 
+inhibitor|NN brinzolamide|NN secretion|NN humor|NN anhydrase|NN body|NN 
+laser|NN alt|NN glaucoma|DS solution|NN cure|NN 
+argon|NN laser|NN spot|NN meshwork|NN open|NN mesh|NN outflow|NN fluid|NN 
+angle|NN time|NN 
+laser|NN argon|NN laser|NN argon|NN laser|NN procedure|NN 
+laser|NN iridotomy|NN patient|NN angle|NN closure|NN glaucoma|DS pigment_dispersion_syndrome|DS 
+laser|NN laser|NN energy|NN full-thickness|NN open|NN iris|NN pressure|NN front|NN back|NN iris|NN bulge|NN iris|NN 
+people|NN angle|NN meshwork|NN 
+case|NN angle|NN closure|NN eye|NN pressure|NN 
+laser|NN iridotomy|NN risk|NN attack|NN angle|NN closure|NN 
+case|NN risk|NN angle|NN closure|NN adhesion|NN iris|NN meshwork|NN 
+laser|NN cycloablation|NN secretion|NN epithelium|NN surgery|NN surgery|NN glaucoma|DS open|NN trabecular|NN fluid|NN eye|NN pressure|NN 
+article|NN glaucoma|DS surgery|NN 
+laser|NN surgery|NN glaucoma|DS 
+surgery|NN therapy|NN glaucoma|DS operation|NN solution|NN cure|NN glaucoma|DS 
+procedure|NN technology|NN 
+canaloplasty|NN incision|NN eye|NN access|NN canal|NN fashion|NN viscocanalostomy|NN 
+microcatheter|NN canal|NN iris|NN drainage|NN channel|NN collector|NN channel|NN injection|NN gel-like|NN material|NN 
+catheter|NN suture|NN canal|NN 
+canal|NN pressure|NN eye|NN reason|NN canal|NN schlemm|NN fluid|NN resistance|NN glaucoma|DS eye|NN 
+surgery|NN glaucoma|DS trabeculectomy|NN 
+thickness|NN flap|NN wall|NN eye|NN window|NN open|NN flap|NN portion|NN meshwork|NN 
+flap|NN place|NN fluid|NN flow|NN eye|NN open|NN pressure|NN formation|NN bleb|NN fluid|NN bubble|NN surface|NN eye|NN 
+flap|NN open|NN effectiveness|NN 
+adjuvant|NN 5-fu|NN sponge|NN wound|ST bed|NN filter|NN scare|NN fibroblast|NN proliferation|NN 
+alternative|NN scare|NN open|NN implementation|NN nonchemotherapeutic|NN collagen|NN matrix|NN success|NN rate|NN treatment|NN 
+collagen|NN matrix|NN scare|NN fibroblast|NN proliferation|NN addition|NN wound|ST contraction|NN adhesion|NN 
+glaucoma|DS drainage|NN implant|NN article|NN glaucoma|DS valve|NN 
+glaucoma|DS drainage|NN implant|NN type|NN implant|NN original|NN tube|NN shunt|NN implant|NN ahmed|NN glaucoma|DS valve|NN implant|NN shunt|NN generation|NN pressure|NN ridge|NN implant|NN 
+glaucoma|DS patient|NN therapy|NN filter|NN surgery|NN 
+flow|NN tube|NN chamber|NN eye|NN plate|NN conjunctiva|NN flow|NN fluid|NN eye|NN chamber|NN bleb|NN 
+molteno|NN nonvalve|NN implant|NN ligation|NN tube|NN bleb|NN hypotonysudden|NN drop|NN pressure|NN 
+implant|NN ahmed|NN glaucoma|DS valve|NN attempt|NN hypotony|NN valve|NN 
+interno|NN implant|NN gel|NN implant|NN interno|NN procedure|NN channel|NN humor|NN non-dissect|NN space|NN drainage|NN area|NN bleb|NN implant|NN interno|NN implant|NN drainage|NN cypass|NN hydrus|NN 
+scare|NN dissipation|NN segment|NN shunt|NN humor|NN filter|NN 
+measure|NN medication|NN 5-fluorouracil|NN mitomycin-c|NN procedure|NN nonantifibrotic|NN medication|NN method|NN collagen|NN matrix|NN implant|NN spacer|NN necessity|NN revision|NN surgery|NN use|NN donor|NN patch|NN graft|NN collagen|NN matrix|NN implant|NN glaucoma|DS eye|NN case|NN glaucoma|DS cyclocryotherapy|NN body|NN ablation|NN sclerectomy|NN 
+approach|NN treatment|NN glaucoma|DS sclera|NN pressure|NN 
+sclerectomy|NN surgery|NN procedure|NN bed|NN meshwork|NN flap|NN scleral|NN flap|NN procedure|NN deroof|NN canal|NN percolation|NN liquid|NN eye|NN pressure|NN eye|NN 
+side|NN effect|NN level|NN skill|NN instrument|NN 
+citation|NN order|NN wound|ST adhesion|NN excision|NN filter|NN result|NN procedure|NN variety|NN spacer|NN device|NN collagen|NN wick|NN collagen|NN matrix|NN glaucoma|DS implant|NN 
+use|NN laser|NN system|NN 
+system|NN scleral|NN thickness|NN drainage|NN fluid|NN 
+self-regulation|NN effect|NN laser|NN contact|NN liquid|NN laser|NN layer|NN thickness|NN 
+open-angle|NN glaucoma|DS progression|NN vision|NN blindness|NN year|NN year|NN treatment|NN method|NN estimation|NN pressure|NN effect|NN pressure|NN time|NN blindness|NN epidemiology|NN life|NN year|NN glaucoma|DS inhabitant|NN data|NN 6689|NN 135158|NN 204227|NN 
+people|NN world|NN angle|NN glaucoma|DS year|NN people|NN united|NN states|NN angle|NN glaucoma|DS prevalence|NN united|NN states|NN 
+united|NN states|NN glaucoma|DS cause|NN blindness|NN cataract|DS cause|NN 
+glaucoma|DS cause|NN blindness|NN american|NN rate|NN open-angle|NN glaucoma|DS vision|NN loss|NN mobility|NN drive|NN 
+meta-analysis|NN 2009|NN people|NN angle|NN glaucoma|DS mortality|NN rate|NN risk|NN death|NN history|NN 
+association|NN intraocular|NN pressure|NN eye|NN disease|NN glaucoma|DS englishman|NN richard|NN bannister|NN eye|NN glaucoma|DS cataract|DS extraction|NN john|NN collins|NN warren|NN boston|NN invention|NN ophthalmoscope|NN hermann|NN helmholtz|NN time|NN hallmark|NN glaucoma|DS excavation|NN optic_nerve|DS head|NN ganglion|NN cell|NN loss|NN 
+instrument|NN pressure|NN ophthalmologist|NN august|NN 
+century|NN hans|NN goldmann|NN berne|NN switzerland|NN applanation|NN innovation|NN diagnostics|NN gold|NN standard|NN factor|NN 
+century|NN iop|NN subject|NN research|NN blood|NN supply|NN blood|NN pressure|NN retina|NN optic_nerve|DS head|NN drug|NN pilocarpine|NN 
+technique|NN iridectomy|NN fistulate|NN method|NN procedure|NN implant|NN range|NN option|NN glaucoma|DS surgery|NN 
+word|NN glaucoma|DS greek|NN derivative|NN 
+color|NN eye|NN light|NN gray|NN 
+disease|NN cataract|DS era|NN era|NN pupillary|NN hue|NN glaucoma|DS research|NN glaucoma|DS media|NN scientist|NN track|NN eye|NN movement|NN glaucoma|DS patient|NN vision|NN impairment|NN drive|NN rho|NN kinase|NN inhibitor|NN 
+rho|NN kinase|NN inhibitor|NN work|NN inhibition|NN actin|NN change|NN trabecular|NN outflow|NN 
+compound|NN class|NN phase|NN phase|NN trial|NN agent|NN 
+2013|NN cochrane|NN review|NN effect|NN brimonidine|NN timolol|NN progression|NN angle|NN glaucoma|DS adult|NN participant|NN result|NN participant|NN brimonidine|NN field|NN progression|NN timolol|NN result|NN loss-to-followup|NN evidence|NN intraocular|NN pressure|NN group|NN 
+participant|NN group|NN occurrence|NN side|NN effect|NN medication|NN participant|NN group|NN cannabis|NN 
+study|NN use|NN cannabis|NN pressure|NN effort|NN marijuana|NN drug|NN glaucoma|DS treatment|NN eye|NN institute|NN research|NN study|NN 
+study|NN derivative|NN marijuana|NN pressure|NN smoke|NN eye|NN 
+academy|NN ophthalmology|NN position|NN statement|NN cannabis|NN prescription|NN medication|NN 
+evidence|NN benefit|NN risk|NN cannabis|NN use|NN glaucoma|DS variety|NN agent|NN 
+glaucoma|DS society|NN position|NN paper|NN use|NN cannabis|NN treatment|NN pressure|NN reason|NN duration|NN action|NN side|NN effect|NN activity|NN live|NN 

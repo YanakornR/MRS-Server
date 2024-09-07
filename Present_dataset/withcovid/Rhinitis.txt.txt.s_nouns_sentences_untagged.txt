@@ -1,0 +1,73 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN rhinitis|NN name|NN rhinitis|NN pollen|NN grain|NN variety|NN plant|NN hay|NN fever|ST 
+rhinitis|NN ra|NN 
+disease|NN allergy|NN immunology|NN 
+rhinitis|NN rhinitis|NN irritation|NN inflammation|NN mucous|NN membrane|NN nose|NN 
+symptom|NN nose|NN nose|NN sneez|NN drip|NN 
+inflammation|NN viruse|NN bacteria|NN irritant|NN allergen|NN 
+kind|NN rhinitis|NN rhinitis|NN allergen|NN pollen|NN rhinitis|NN symptom|NN sneez|NN itch|ST cough|ST headache|ST fatigue|ST malaise|ST impairment|NN allergen|NN eye|NN eye|NN puffiness|NN eye|NN inflammation|NN result|NN generation|NN amount|NN mucus|NN nose|NN nose|NN drip|NN 
+case|NN rhinitis|NN inflammation|NN degranulation|NN mast|NN cell|NN nose|NN 
+mast|NN cell|NN histamine|NN chemical|NN process|NN symptom|NN nose|NN fatigue|ST malaise|ST case|NN rhinitis|NN pneumonia|DS 
+rhinitis|NN bacteria|NN viruse|NN tract|NN 
+rhinitis|NN country|NN united|NN states|NN adult|NN rhinitis|NN patient|NN rhinitis|NN rhinitis|NN 
+rhinitis|NN subtype|NN 
+prevalence|NN content|NN 
+type|NN rhinitis|NN rhinitis|NN rhinitis|NN rhinitis|NN rhinitis|NN association|NN rhinitis|NN asthma|DS diagnosis|NN prevention|NN management|NN pronunciation|NN etymology|NN reference|NN link|NN 
+rhinitis|NN type|NN rhinitis|NN entity|NN nature|NN rhinitis|NN infection|NN rhinitis|NN rhinitis|NN rhinitis|NN rhinitis|NN pollen|NN animal|NN dust|NN balsam|NN peru|NN allergen|NN cold|NN sinusitis|NN 
+rhinitis|NN infection|NN cold|NN coronaviruse|NN influenza|DS viruse|NN parainfluenza|NN viruse|NN syncytial|NN virus|NN metapneumovirus|NN measle|NN virus|NN sinusitis|NN haemophilus|NN catarrhalis|NN 
+symptom|NN cold|NN throat|NN cough|ST congestion|NN headachecitation|NN rhinitis|NN article|NN rhinitis|NN 
+rhinitis|NN rhinitis|NN allergy|NN 
+category|NN rhinitis|NN cause|NN parasympathetic|NN nerve|NN response|NN 
+cause|NN type|NN rhinitis|NN 
+rhinitis|NN classification|NN nonallergic|NN rhinitis|NN diagnosis|NN cause|NN umbrella|NN term|NN rhinitis|NN cause|NN smoke|NN rhinitis|NN medication-induce|NN rhinitis|NN rhinitis|NN rhinitis|NN syndrome|NN vasomotor|NN non-allergic|NN rhinitis|NN rhinitis|NN 
+rhinitis|NN stimuly|NN change|NN environment|NN temperature|NN humidity|NN pressure|NN weather|NN irritant|NN fume|NN factor|NN food|NN alcohol|NN arousal|NN exercise|NN factor|NN trigger|NN rhinitis|NN non-allergic|NN cause|NN dilation|NN blood|NN vessel|NN line|NN nose|NN swell|NN drainage|NN 
+rhinitis|NN rhinitis|NN rhinitis|NN pathology|NN rhinitis|NN inflammation|NN 
+role|NN receptor|NN potential|NN ion|NN channel|NN cell|NN 
+overexpression|NN receptor|NN influence|NN airway|NN irritant|NN stimuly|NN extreme|NN temperature|NN change|NN pressure|NN rhinitis|NN women|NN men|NN researcher|NN hormone|NN imbalance|NN role|NN age|NN onset|NN year|NN age|NN contrast|NN rhinitis|NN age|NN 
+individual|NN rhinitis|NN experience|NN symptom|NN symptom|NN spring|NN autumn|NN weather|NN change|NN united|NN states|NN citizen|NN rhinitis|NN 
+drink|NN alcohol|NN rhinitis|NN asthma|DS reaction|NN 
+population|NN east|NN country|NN japan|NN reaction|NN basis|NN population|NN descent|NN variant|NN gene|NN ethanol|NN acetaldehyde|NN adh1b|NN rhinitis|NN 
+variant|NN ethanol|NN acetaldehyde|NN process|NN aldh2|NN accumulation|NN acetaldehyde|NN rhinitis|NN symptom|NN case|NN rhinitis|NN rhinitis|NN type|NN case|NN rhinitis|NN population|NN response|NN non-ethanol|NN contaminant|NN beverage|NN beverage|NN wine|NN beer|NN rhinitis|NN individual|NN history|NN rhinitis|NN aspirin|NN 
+aspirin|NN drug|NN nsaids|NN cox1|NN rhinitis|NN asthma|DS symptom|NN individual|NN history|NN disease|NN exacerbation|NN hypersensitivity|DS reaction|NN reaction|NN 
+azelastine|NN spray|NN rhinitis|NN propionate|NN steroid|NN nostril|NN spray|NN form|NN treatment|NN 
+cyproheptadine|NN effect|NN 
+review|NN rhinitis|NN report|NN improvement|NN function|NN treatment|NN capsaicin|NN component|NN chily|NN pepper|NN 
+quality|NN evidence|NN article|NN rhinitis|NN 
+rhinitis|NN hay|NN fever|ST allergen|NN pollen|NN dust|NN balsam|NN peru|NN individual|NN system|NN antibody|NN production|NN 
+antibody|NN mast|NN cell|NN histamine|NN 
+mast|NN cell|NN histamine|NN chemical|NN 
+cause|NN mucus|NN production|NN 
+symptom|NN severity|NN individual|NN 
+individual|NN hive|NN rashe|NN 
+matter|NN air|NN chemical|NN chlorine|NN detergent|NN condition|NN 
+find|NN individual|NN rhinitis|NN swell|NN eyelid|NN eyelid|NN stasis|NN crease|NN nose|NN turbinate|NN middle|NN ear|NN effusion|NN 
+person|NN skin-prick|NN blood|NN test|NN allergy|NN rhinitis|NN allergy|NN nose|NN 
+rhinitis|NN people|NN rhinitis|NN rhinitis|NN 
+patch|NN test|NN substance|NN rhinitis|NN 
+rhinitis|NN article|NN rhinitis|NN 
+rhinitis|NN form|NN nonallergic|NN rhinitis|NN congestion|NN use|NN medication|NN amine|NN 2-imidazoline|NN derivative|NN xylometazoline|NN spray|NN blood|NN vessel|NN line|NN nose|NN rhinitis|NN article|NN rhinitis|NN 
+rhinitis|NN form|NN atrophy|DS mucous|NN membrane|NN gland|NN nose|NN 
+rhinitis|NN sicca|NN 
+form|NN dryness|NN mucous|NN membrane|NN 
+rhinitis|NN polyp|NN cavity|NN 
+change|NN rhinitis|NN mechanism|NN rhinitis|NN imbalance|NN component|NN mucous|NN membrane|NN 
+change|NN airway|NN metaplasia|NN goblet|NN cell|NN cell|NN mucous|NN membrane|NN result|NN mucin|NN hypersecretion|NN goblet|NN cell|NN mucociliary|NN activity|NN 
+secretion|NN manifestation|NN congestion|NN sinus|NN pressure|NN headache|ST 
+over-expression|NN receptor|NN potential|NN trp|NN ion|NN channel|NN pathogenesis|NN rhinitis|NN association|NN rhinitis|NN asthma|DS 
+inflammation|NN neuropeptide|NN nerve|NN end|NN airway|NN mechanism|NN association|NN rhinitis|NN asthma|DS 
+association|NN rhinitis|NN asthma|DS life|NN irritant|NN act|NN modulator|NN airway|NN inflammation|NN airway|NN 
+development|NN asthma|DS rhinitis|NN 
+agent|NN flour|NN enzyme|NN process|NN food|NN latex|NN weld|NN fume|NN resin|NN formaldehyde|NN 
+prognosis|NN asthma|DS diagnosis|NN adoption|NN measure|NN rhinitis|NN diagnosis|NN 
+form|NN rhinitis|NN 
+rhinitis|NN infection|NN lack|NN purulent|NN 
+rhinitis|NN absence|NN allergen|NN prevention|NN 
+case|NN rhinitis|NN vaccination|NN influenza|DS viruse|NN measle|NN rubella|DS haemophilus|NN diphtheria|DS bacillus|NN pertussis|DS 
+management|NN rhinitis|NN cause|NN 
+rhinitis|NN corticosteroid|NN symptom|NN pronunciation|NN etymology|NN 
+rhinitis|NN ra|NN 
+rhinitis|NN greek|NN 
+rhino|NN nose|NN 
+rhinitis|NN etymology|NN 
+robert|NN beekes|NN derivation|NN reconstruction|NN physician|NN andrew|NN wylie|NN term|NN rhinitis|NN cold|NN head|NN 
+roman|NN patient|NN nostril|NN wit|NN 
+rhinitis|NN chicken|NN 

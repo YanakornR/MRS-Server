@@ -1,0 +1,204 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN journal|NN leukemia|DS journal|NN 
+animal|NN disease|NN 
+leukemia|DS name|NN leukemia|DS leukemia|DS wright|NN bone|NN marrow|NN aspirate|NN smear|NN person|NN precursor|NN b-cell|NN leukemia|DS 
+hematology|NN oncology|NN symptom|NN feel|NN fever|ST risk|NN infection|NN onset|NN age|NN cause|NN factor|NN factor|NN smoke|NN family|NN history|NN radiation|NN chemical|NN chemotherapy|NN syndrome|NN method|NN blood|NN test|NN bone|NN marrow|NN biopsy|NN treatment|NN radiation|NN therapy|NN therapy|NN bone|NN marrow|NN transplant|NN care|NN survival|NN rate|NN usa|NN frequency|NN death|NN 
+leukemia|DS leukemia|DS group|NN blood|NN cancer|DS bone|NN marrow|NN result|NN number|NN blood|NN cell|NN blood|NN cell|NN blast|NN leukemia|DS cell|NN symptom|NN feel|NN fever|ST risk|NN infection|NN symptom|NN lack|NN blood|NN cell|NN diagnosis|NN blood|NN test|NN bone|NN marrow|NN biopsy|NN 
+cause|NN leukemia|DS combination|NN factor|NN non-inherit|NN factor|NN role|NN risk|NN factor|NN radiation|NN chemical|NN benzene|NN chemotherapy|NN syndrome|NN people|NN family|NN history|NN leukemia|DS risk|NN type|NN leukemia|DS leukemia|DS myeloid|NN leukemia|DS leukemia|DS myeloid|NN leukemia|DS number|NN type|NN leukemia|DS lymphoma|DS group|NN tumor|NN blood|NN bone|NN marrow|NN system|NN tumor|NN hematopoietic|NN tissue|NN 
+treatment|NN combination|NN chemotherapy|NN radiation|NN therapy|NN therapy|NN bone|NN marrow|NN transplant|NN addition|NN care|NN care|NN type|NN leukemia|DS wait|NN success|NN treatment|NN type|NN leukemia|DS age|NN person|NN 
+outcome|NN world|NN survival|NN rate|NN united|NN states|NN children|NN survival|NN rate|NN type|NN leukemia|DS children|NN leukemia|DS year|NN cancer|DS 
+leukemia|DS people|NN death|NN 2012|NN people|NN type|NN cancer|DS children|NN quarter|NN leukemia|DS case|NN children|NN type|NN leukemia|DS adult|NN aml|NN adult|NN world|NN content|NN 
+classification|NN classification|NN type|NN leukemia|DS sign|NN symptom|NN cause|NN radiation|NN condition|NN radiation|NN diagnosis|NN treatment|NN myelogenous|NN myelogenous|NN cell|NN t-cell|NN juvenile|NN epidemiology|NN united|NN states|NN uk|NN history|NN society|NN culture|NN research|NN direction|NN pregnancy|NN reference|NN link|NN 
+classification|NN kind|NN leukemia|DS cell|NN type|NN lymphocytic|NN leukemia|DS leukemia|DS leukemia|DS leukemia|DS myelogenous|NN leukemia|DS myelogenous|NN leukemia|DS leukemia|DS media|NN explanation|NN leukemia|DS classification|NN 
+leukemia|DS variety|NN group|NN 
+division|NN form|NN 
+leukemia|DS increase|NN number|NN blood|NN cell|NN 
+crowd|NN result|NN cell|NN bone|NN marrow|NN blood|NN cell|NN 
+treatment|NN leukemia|DS progression|NN accumulation|NN cell|NN bloodstream|NN spread|NN organ|NN body|NN 
+form|NN leukemia|DS form|NN leukemia|DS children|NN 
+leukemia|DS buildup|NN blood|NN cell|NN 
+month|NN year|NN cell|NN rate|NN blood|NN cell|NN 
+leukemia|DS form|NN time|NN treatment|NN effectiveness|NN therapy|NN 
+leukemia|DS people|NN age|NN group|NN 
+disease|NN kind|NN blood|NN cell|NN 
+leukemia|DS leukemia|DS myeloid|NN myelogenous|NN leukemia|DS 
+leukemia|DS change|NN place|NN type|NN marrow|NN cell|NN form|NN lymphocyte|NN system|NN cell|NN 
+leukemia|DS subtype|NN lymphocyte|NN b|NN cell|NN 
+myeloid|NN myelogenous|NN leukemia|DS change|NN place|NN type|NN marrow|NN cell|NN blood|NN cell|NN type|NN cell|NN platelet|NN 
+classification|NN total|NN category|NN 
+category|NN subcategory|NN 
+type|NN classification|NN scheme|NN 
+leukemia|DS type|NN leukemia|DS children|NN 
+treatment|NN chemotherapy|NN radiotherapy|NN 
+survival|NN rate|NN age|NN children|NN adult|NN precursor|NN leukemia|DS precursor|NN leukemia|DS burkitt|NN leukemia|DS biphenotypic|NN leukemia|DS 
+leukemia|DS adult|NN age|NN 
+adult|NN children|NN 
+people|NN men|NN 
+survival|NN rate|NN treatment|NN 
+subtype|NN leukemia|DS disease|NN 
+myelogenous|NN leukemia|DS adult|NN children|NN men|NN women|NN 
+survival|NN rate|NN apl|NN promyelocytic|NN leukemia|DS survival|NN rate|NN subtype|NN aml|NN leukemia|DS myeloblastic|NN leukemia|DS megakaryoblastic|NN leukemia|DS 
+myelogenous|NN leukemia|DS adult|NN number|NN children|NN disease|NN 
+gleevec|NN united|NN states|NN europe|NN drug|NN survival|NN rate|NN subtype|NN leukemia|DS 
+cell|NN leukemia|DS hcl|NN subset|NN leukemia|DS category|NN 
+people|NN men|NN 
+case|NN children|NN 
+survival|NN year|NN t-cell|NN leukemia|DS leukemia|DS adult|NN men|NN women|NN disease|NN rarity|NN type|NN t|NN cell|NN leukemia|DS leukemia|DS b|NN cell|NN 
+survival|NN month|NN 
+leukemia|DS cell|NN cell|NN leukemia|DS cell|NN leukemia|DS adult|NN t-cell|NN leukemia|DS virus|NN virus|NN hiv|DS 
+hiv|DS htlv|NN hiv|DS 
+t-cell|NN ability|NN 
+t-cell|NN virus|NN type|NN htlv-iiy|NN area|NN world|NN 
+hypereosinophilia|NN group|NN blood|NN disorder|NN growth|NN eosinophil|NN bone|NN marrow|NN blood|NN tissue|NN 
+clone|NN eosinophil|NN group|NN eosinophil|NN ancestor|NN cell|NN disorder|NN eosinophilic|NN leukemia|DS form|NN neoplasm|NN syndrome|NN 
+myeloproliferative|NN disease|NN leukemia|DS proliferation|NN clone|NN megakaryoblast|NN 
+disease|NN individual|NN syndrome|NN change|NN syndrome|NN baby|NN pregnancy|NN birth|NN month|NN case|NN megakaryoblastic|NN leukemia|DS 
+myeloid|NN leukemia|DS condition|NN 
+sign|NN symptom|NN symptom|NN leukemia|DS 
+symptom|NN children|NN skin|NN fever|ST spleen|NN liver|NN 
+bone|NN marrow|NN way|NN bone|NN marrow|NN cell|NN number|NN blood|NN cell|NN result|NN lack|NN blood|NN platelet|NN blood|NN clote|NN process|NN 
+people|NN leukemia|DS bleed|NN pinprick|NN 
+blood|NN cell|NN fight|NN pathogen|NN 
+person|NN system|NN infection|NN body|NN cell|NN 
+leukemia|DS system|NN people|NN infection|NN tonsil|NN sore|NN mouth|NN diarrhea|ST pneumonia|DS infection|NN 
+blood|NN cell|NN deficiency|NN pallor|NN 
+people|NN symptom|NN feel|NN sick|NN fever|ST night|NN sweat|NN symptom|NN 
+people|NN experience|NN nausea|ST feel|NN fullness|NN liver|NN spleen|NN weight_loss|ST 
+disease|NN liver|NN lymph|NN node|NN pain|ST nausea|ST 
+cell|NN system|NN symptom|NN headache|ST 
+symptom|NN migraine|DS seizure|NN coma|NN result|NN brain|NN stem|NN pressure|NN 
+symptom|NN leukemia|DS disease|NN 
+leukemia|DS test|NN 
+word|NN leukemia|DS blood|NN blood|NN cell|NN count|NN people|NN treatment|NN 
+number|NN blood|NN cell|NN blood|NN sample|NN microscope|NN blood|NN cell|NN 
+number|NN cell|NN level|NN cell|NN imbalance|NN blood|NN count|NN 
+people|NN leukemia|DS blood|NN cell|NN blood|NN count|NN 
+condition|NN leukemia|DS 
+bone|NN marrow|NN blood|NN cell|NN production|NN blood|NN cell|NN marrow|NN bloodstream|NN blood|NN test|NN 
+person|NN leukemia|DS blood|NN cell|NN count|NN bloodstream|NN 
+leukemia|DS type|NN leukemia|DS cell|NN leukemia|DS cause|NN 
+cause|NN type|NN leukemia|DS 
+cause|NN factor|NN control|NN person|NN account|NN case|NN cause|NN case|NN leukemia|DS 
+leukemia|DS cause|NN 
+leukemia|DS cancer|DS result|NN mutation|NN dna|NN 
+mutation|NN leukemia|DS oncogene|NN tumor|NN suppressor|NN gene|NN regulation|NN cell|NN death|NN differentiation|NN division|NN 
+mutation|NN result|NN exposure|NN radiation|NN substance|NN 
+adult|NN cause|NN radiation|NN viruse|NN t-lymphotropic|NN virus|NN chemical|NN benzene|NN chemotherapy|NN agent|NN malignancy|NN use|NN tobacco|NN increase|NN risk|NN myeloid|NN leukemia|DS adult|NN cohort|NN study|NN exposure|NN petrochemical|NN hair|NN dye|NN development|NN form|NN leukemia|DS 
+diet|NN effect|NN vegetable|NN benefit|NN 
+viruse|NN form|NN leukemia|DS 
+example|NN t-lymphotropic|NN virus|NN adult|NN t-cell|NN leukemia|DS 
+case|NN transmission|NN baby|NN leukemia|DS mother|NN leukemia|DS pregnancy|NN children|NN mother|NN fertility|NN drug|NN ovulation|NN leukemia|DS childhood|NN children|NN radiation|NN 
+dose|NN emission|NN reactor|NN accident|NN bone|NN seeker|NN risk|NN bone|NN cancer|DS leukemia|DS animal|NN people|NN condition|NN 
+people|NN predisposition|NN leukemia|DS 
+predisposition|NN family|NN history|NN twin|NN study|NN people|NN gene|NN gene|NN 
+case|NN family|NN kind|NN leukemia|DS member|NN family|NN people|NN form|NN leukemia|DS blood|NN cancer|DS 
+addition|NN issue|NN people|NN abnormality|NN condition|NN risk|NN leukemia|DS example|NN people|NN syndrome|NN risk|NN form|NN leukemia|DS myeloid|NN leukemia|DS anemia|DS risk|NN factor|NN myeloid|NN leukemia|DS mutation|NN gene|NN predisposition|NN childhood|NN leukemia|DS 
+myelogenous|NN leukemia|DS abnormality|NN philadelphia|NN translocation|NN people|NN philadelphia|NN mutation|NN people|NN type|NN leukemia|DS radiation|NN 
+radiation|NN cause|NN leukemia|DS decade|NN 
+agency|NN research|NN cancer|DS expert|NN work|NN group|NN review|NN data|NN frequency|NN energy|NN association|NN generation|NN transmission|NN use|NN power|NN evidence|NN level|NN elf|NN field|NN case|NN childhood|NN leukemia|DS evidence|NN relationship|NN leukemia|DS form|NN malignancy|NN adult|NN exposure|NN level|NN elf|NN world|NN health|NN organization|NN elf|NN exposure|NN case|NN year|NN incidence|NN childhood|NN leukemia|DS year|NN 003|NN leukemia|DS diagnosis|NN increase|NN blood|NN cell|NN leukemia|DS 
+diagnosis|NN blood|NN count|NN bone|NN marrow|NN examination|NN observation|NN symptom|NN 
+blood|NN test|NN person|NN leukemia|DS stage|NN disease|NN remission|NN 
+lymph|NN node|NN biopsy|NN type|NN leukemia|DS situation|NN 
+diagnosis|NN blood|NN chemistry|NN test|NN degree|NN liver|NN kidney|NN damage|NN effect|NN chemotherapy|NN person|NN 
+concern|NN damage|NN leukemia|DS doctor|NN x-ray|NN mry|NN ultrasound|NN 
+leukemia|DS effect|NN body|NN part|NN bone|NN x-ray|NN brain|NN mry|NN kidney|NN spleen|NN liver|NN ultrasound|NN 
+ct|NN scan|NN lymph|NN node|NN chest|NN 
+use|NN method|NN person|NN leukemia|DS people|NN symptom|NN disease|NN 
+reason|NN cancer|DS society|NN people|NN leukemia|DS treatment|NN 
+form|NN leukemia|DS medication|NN chemotherapy|NN regimen|NN 
+radiation|NN therapy|NN 
+case|NN bone|NN marrow|NN transplant|NN 
+information|NN leukemia|DS treatment|NN 
+management|NN control|NN bone|NN marrow|NN whole-body|NN disease|NN 
+treatment|NN cell|NN spread|NN site|NN system|NN cns|NN lumbar|NN puncture|NN 
+treatment|NN phase|NN 
+induction|NN chemotherapy|NN bone|NN marrow|NN remission|NN 
+adult|NN standard|NN induction|NN plan|NN prednisone|NN drug|NN drug|NN plan|NN cyclophosphamide|NN 
+children|NN therapy|NN drug|NN prednisone|NN month|NN treatment|NN 
+consolidation|NN therapy|NN intensification|NN therapy|NN leukemia|DS cell|NN 
+approache|NN consolidation|NN high-dose|NN treatment|NN month|NN 
+people|NN low-|NN therapy|NN drug|NN 6-mp|NN 
+people|NN drug|NN dose|NN drug|NN drug|NN 
+cns|NN prophylaxis|NN therapy|NN cancer|DS spread|NN brain|NN system|NN people|NN 
+prophylaxis|NN radiation|NN head|NN drug|NN spine|NN 
+maintenance|NN treatment|NN drug|NN disease|NN recurrence|NN remission|NN 
+maintenance|NN therapy|NN drug|NN dose|NN year|NN 
+bone|NN marrow|NN transplantation|NN people|NN 
+information|NN leukemia|DS treatment|NN decision|NN 
+base|NN treatment|NN stage|NN symptom|NN person|NN 
+group|NN people|NN cll|NN disease|NN treatment|NN 
+individual|NN complication|NN disease|NN benefit|NN treatment|NN 
+general|NN indication|NN treatment|NN 
+platelet|NN count|NN progression|NN stage|NN disease|NN disease-relate|NN overgrowth|NN lymph|NN node|NN spleen|NN increase|NN rate|NN lymphocyte|NN production|NN 
+treatment|NN approach|NN 
+people|NN cll|NN treatment|NN treatment|NN disease|NN year|NN 
+chemotherapeutic|NN plan|NN combination|NN chemotherapy|NN chlorambucil|NN cyclophosphamide|NN corticosteroid|NN prednisone|NN prednisolone|NN 
+use|NN corticosteroid|NN benefit|NN autoimmune|NN disease|NN anemia|DS immune-mediate|NN 
+case|NN treatment|NN drug|NN pentostatin|NN 
+younger|NN people|NN bone|NN marrow|NN transplantation|NN hope|NN cure|NN information|NN leukemia|DS treatment|NN 
+drug|NN treatment|NN 
+treatment|NN age|NN person|NN subtype|NN 
+strategy|NN control|NN bone|NN marrow|NN whole-body|NN disease|NN treatment|NN system|NN cns|NN 
+general|NN combination|NN drug|NN induction|NN phase|NN chemotherapy|NN 
+combination|NN chemotherapy|NN benefit|NN remission|NN risk|NN disease|NN resistance|NN 
+consolidation|NN maintenance|NN treatment|NN disease|NN recurrence|NN 
+consolidation|NN treatment|NN repetition|NN induction|NN chemotherapy|NN intensification|NN chemotherapy|NN drug|NN 
+contrast|NN maintenance|NN treatment|NN drug|NN dose|NN induction|NN phase|NN information|NN leukemia|DS treatment|NN 
+treatment|NN standard|NN care|NN people|NN therapy|NN drug|NN side|NN effect|NN home|NN 
+drug|NN people|NN disease|NN check|NN year|NN condition|NN 
+state|NN person|NN person|NN cure|NN bone|NN marrow|NN transplantation|NN 
+procedure|NN chemotherapy|NN radiation|NN infusion|NN bone|NN marrow|NN donor|NN 
+people|NN procedure|NN cell|NN information|NN cell|NN leukemia|DS treatment|NN 
+decision|NN people|NN cell|NN leukemia|DS treatment|NN 
+treatment|NN person|NN sign|NN symptom|NN blood|NN cell|NN count|NN neutrophil|NN count|NN kl|NN infection|NN bruise|ST fatigue|ST person|NN life|NN 
+treatment|NN approach|NN people|NN treatment|NN week|NN daily|NN infusion|NN injection|NN skin|NN month|NN pentostatin|NN week|NN infusion|NN 
+case|NN round|NN treatment|NN remission|NN 
+treatment|NN infusion|NN self-injection|NN 
+case|NN person|NN removal|NN spleen|NN 
+treatment|NN treatment|NN success|NN rate|NN t-cell|NN information|NN t-cell|NN leukemia|DS treatment|NN 
+people|NN t-cell|NN leukemia|DS leukemia|DS survival|NN year|NN treatment|NN 
+t-cell|NN leukemia|DS chemotherapeutic|NN drug|NN treatment|NN success|NN people|NN analogue|NN chlorambucil|NN form|NN combination|NN chemotherapy|NN cyclophosphamide|NN prednisone|NN cyclophosphamide|NN prednisone|NN cop|NN prednisone|NN cyclophosphamide|NN bleomycin|NN 
+antibody|NN blood|NN cell|NN treatment|NN success|NN option|NN 
+people|NN treatment|NN stem|NN cell|NN transplantation|NN response|NN juvenile|NN information|NN juvenile|NN leukemia|DS treatment|NN 
+treatment|NN myelomonocytic|NN leukemia|DS chemotherapy|NN bone|NN marrow|NN transplantation|NN 
+success|NN treatment|NN type|NN leukemia|DS age|NN person|NN 
+outcome|NN world|NN survival|NN rate|NN united|NN states|NN children|NN survival|NN rate|NN type|NN leukemia|DS children|NN leukemia|DS year|NN cancer|DS 
+outcome|NN blood|NN cell|NN type|NN presence|NN severity|NN anemia|DS degree|NN tissue|NN abnormality|NN presence|NN metastasis|NN lymph|NN node|NN bone|NN marrow|NN infiltration|NN availability|NN therapy|NN skill|NN health|NN care|NN team|NN 
+treatment|NN outcome|NN people|NN center|NN experience|NN epidemiology|NN death|NN leukemia|DS person|NN 0-7|NN 23-29|NN 40-46|NN 86-132|NN 
+people|NN leukemia|DS children|NN adult|NN world|NN form|NN leukemia|DS death|NN cancer|DS year|NN death|NN cause|NN site|NN body|NN leukemia|DS class|NN disease|NN cause|NN death|NN leukemia|DS world|NN united|NN states|NN 
+people|NN state|NN form|NN leukemia|DS remission|NN cure|NN 
+rate|NN year|NN children|NN case|NN leukemia|DS year|NN cancer|DS cell|NN cell|NN skin|NN cancer|DS united|NN states|NN blood|NN cancer|DS 
+children|NN form|NN cancer|DS type|NN leukemia|DS leukemia|DS type|NN leukemia|DS second|NN form|NN cancer|DS infant|NN age|NN month|NN form|NN cancer|DS children|NN boy|NN leukemia|DS girl|NN children|NN leukemia|DS children|NN cancer|DS diagnose|NN adult|NN leukemia|DS cancer|DS adult|NN leukemia|DS adult|NN 
+race|NN risk|NN factor|NN united|NN states|NN 
+hispanics|NN age|NN risk|NN leukemia|DS white|NN american|NN american|NN alaska|NN natives|NN risk|NN american|NN 
+men|NN women|NN leukemia|DS disease|NN 
+percent|NN men|NN women|NN leukemia|DS uk|NN 
+leukemia|DS cancer|DS uk|NN people|NN disease|NN cause|NN cancer|DS death|NN people|NN history|NN leukemia|DS photo|NN body|NN man|NN rudolf|NN virchow|NN 
+leukemia|DS anatomist|NN surgeon|NN velpeau|NN 
+description|NN pathologist|NN rudolf|NN virchow|NN 
+year|NN find|NN pathologist|NN franz|NN ernst|NN christian|NN neumann|NN bone|NN marrow|NN person|NN leukemia|DS red|NN 
+find|NN neumann|NN bone|NN marrow|NN problem|NN blood|NN people|NN leukemia|DS 
+leukemia|DS family|NN disease|NN disease|NN 
+boston|NN pathologist|NN sidney|NN farber|NN experiment|NN acid|NN mimic|NN leukemia|DS children|NN 
+majority|NN children|NN sign|NN improvement|NN bone|NN marrow|NN 
+researcher|NN emil|NN j|NN 
+freireich|NN jr|NN emil|NN frei|NN combination|NN chemotherapy|NN attempt|NN cure|NN leukemia|DS 
+test|NN people|NN test|NN 
+number|NN blood|NN cell|NN blood|NN sample|NN person|NN condition|NN german|NN word|NN 
+mean|NN white|NN haima|NN 
+mean|NN blood|NN society|NN culture|NN 
+susan|NN sontag|NN leukemia|DS fiction|NN disease|NN innocent|NN victim|NN time|NN 
+successor|NN tuberculosis|DS position|NN disease|NN romance|NN novel|NN love|NN story|NN example|NN romanticization|NN leukemia|DS 
+united|NN states|NN treatment|NN year|NN research|NN direction|NN 
+research|NN cause|NN prevalence|NN diagnosis|NN treatment|NN prognosis|NN leukemia|DS 
+trial|NN time|NN study|NN mean|NN treatment|NN way|NN disease|NN quality|NN life|NN people|NN care|NN remission|NN cure|NN 
+general|NN type|NN leukemia|DS research|NN research|NN research|NN 
+research|NN disease|NN way|NN drug|NN people|NN 
+contrast|NN science|NN research|NN study|NN disease|NN process|NN distance|NN carcinogen|NN change|NN cell|NN laboratory|NN dna|NN change|NN leukemia|DS cell|NN disease|NN 
+result|NN research|NN study|NN people|NN disease|NN 
+treatment|NN gene|NN therapy|NN 
+approach|NN cell|NN antigen|NN receptor|NN cell|NN cell|NN attack|NN cancer|DS cell|NN 
+year|NN treatment|NN people|NN leukemia|DS subject|NN leukemia|DS remission|NN month|NN year|NN study|NN variety|NN type|NN therapy|NN food|NN drug|NN administration|NN 
+treatment|NN side|NN effect|NN loss|NN antigen|NN cell|NN mechanism|NN relapse|NN stem|NN cell|NN type|NN leukemia|DS pregnancy|NN 
+leukemia|DS pregnancy|NN women|NN type|NN leukemia|DS 
+leukemia|DS women|NN leukemia|DS leukemia|DS treatment|NN risk|NN pregnancy|NN loss|NN birth|NN defect|NN chemotherapy|NN trimester|NN myelogenous|NN leukemia|DS safety|NN time|NN pregnancy|NN hormone|NN treatment|NN leukemia|DS women|NN end|NN pregnancy|NN 
+erythroid|NN leukemia|DS drug|NN medication|NN leukemia|DS cell|NN disease|NN class|NN disorder|NN leukemia|DS fatigue|ST 

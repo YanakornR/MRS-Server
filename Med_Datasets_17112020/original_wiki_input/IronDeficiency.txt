@@ -1,0 +1,209 @@
+Iron deficiency,sideropenia,hypoferremia,sideropaenia
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For other uses, see Iron deficiency (disambiguation).
+Iron deficiency
+Other names	Sideropenia, hypoferremia
+Heme b.svg
+Iron in heme
+Specialty	Hematology
+
+Iron deficiency, or sideropaenia, is the state in which a body lacks enough iron to supply its needs. Iron is present in all cells in the human body and has several vital functions, such as carrying oxygen to the tissues from the lungs as a key component of the hemoglobin protein, acting as a transport medium for electrons within the cells in the form of cytochromes, and facilitating oxygen enzyme reactions in various tissues. Too little iron can interfere with these vital functions and lead to morbidity and death.[1]
+
+Total body iron averages approximately 3.8 g in men and 2.3 g in women. In blood plasma, iron is carried tightly bound to the protein transferrin. There are several mechanisms that control human iron metabolism and safeguard against iron deficiency. The main regulatory mechanism is situated in the gastrointestinal tract. When loss of iron is not sufficiently compensated by intake of iron from the diet, a state of iron deficiency develops over time. When this state is uncorrected, it leads to iron-deficiency anemia. Before anemia occurs, the medical condition of iron deficiency without anemia is called latent iron deficiency (LID) or iron-deficient erythropoiesis (IDE).
+
+Untreated iron deficiency can lead to iron-deficiency anemia, a common type of anemia.[1] Anemia is a condition characterized by inadequate red blood cells (erythrocytes) or hemoglobin. When the body lacks sufficient amounts of iron, production of the protein hemoglobin is reduced. Hemoglobin binds to oxygen, enabling red blood cells to supply oxygenated blood throughout the body. Children, pre-menopausal women (women of child-bearing age) and people with poor diet are most susceptible to the disease. Most cases of iron-deficiency anemia are mild, but if not treated it can cause problems like fast or irregular heartbeat, complications during pregnancy, and delayed growth in infants and children that could impact their cognitive development and their behavior.[2]
+Contents
+
+    1 Signs and symptoms
+    2 Causes
+        2.1 Athletics
+        2.2 Inadequate intake
+    3 Bioavailability
+    4 Diagnosis
+    5 Treatment
+        5.1 Food sources
+        5.2 Blood transfusion
+    6 See also
+    7 Notes
+    8 References
+    9 Further reading
+    10 External links
+
+Signs and symptoms
+Deaths due to iron-deficiency anemia per million persons in 2012
+  0
+  1
+  2-3
+  4-5
+  6-8
+  9-12
+  13-19
+  20-30
+  31-74
+  75-381
+Disability-adjusted life year for iron-deficiency anemia per 100,000 inhabitants in 2004[3]
+  no data
+  less than 50
+  50-100
+  100-150
+  150-200
+  200-250
+  250-300
+  300-350
+  350-400
+  400-450
+  450-500
+  500-1000
+  more than 1000
+
+Symptoms of iron deficiency can occur even before the condition has progressed to iron deficiency anemia.
+
+Symptoms of iron deficiency are not unique to iron deficiency (i.e. not pathognomonic). Iron is needed for many enzymes to function normally, so a wide range of symptoms may eventually emerge, either as the secondary result of the anemia, or as other primary results of iron deficiency. Symptoms of iron deficiency include:
+
+    fatigue
+    dizziness/lightheadedness
+    pallor
+    hair loss
+    twitches
+    irritability
+    weakness
+    pica
+    brittle or grooved nails
+    hair thinning
+    Plummer–Vinson syndrome: painful atrophy of the mucous membrane covering the tongue, the pharynx and the esophagus
+    impaired immune function[4]
+    pagophagia
+    restless legs syndrome[5]
+
+Continued iron deficiency may progress to anemia and worsening fatigue. Thrombocytosis, or an elevated platelet count, can also result. A lack of sufficient iron levels in the blood is a reason that some people cannot donate blood.
+
+Signs and Symptoms in Children include:
+
+    pale skin
+    Fatigue
+    Slowed growth and development
+    poor appetite
+    behavioral problems
+    Abnormal rapid breathing
+    Frequent infection
+
+Iron Requirements in young children to teenagers[6]
+Age group 	Recommended amount of iron a day
+7 – 12 months 	11 mg
+1 – 3 years 	7 mg
+4 – 8 years 	10 mg
+9 – 13 years 	8 mg
+14 – 18 years, girls 	15 mg
+14 – 18 years, boys 	11 mg
+Causes
+
+    blood loss (hemoglobin contains iron)
+        donation
+        excessive menstrual bleeding
+        non-menstrual bleeding
+        bleeding from the gastrointestinal tract (ulcers, hemorrhoids, ulcerative colitis, stomach or colon cancer, etc.)
+        rarely, laryngological bleeding or from the respiratory tract
+    inadequate intake (see below)
+    substances (in diet or drugs) interfering with iron absorption
+        Fluoroquinolone antibiotics[7]
+    malabsorption syndromes
+    inflammation where it is adaptive to limit bacterial growth in infection, but is also present in many other chronic diseases such as Inflammatory bowel disease and rheumatoid arthritis
+    parasitic infection
+
+Though genetic defects causing iron deficiency have been studied in rodents, there are no known genetic disorders of human iron metabolism that directly cause iron deficiency.
+Athletics
+
+Possible reasons that athletics may contribute to lower iron levels includes mechanical hemolysis (destruction of red blood cells from physical impact), loss of iron through sweat and urine, gastrointestinal blood loss, and haematuria (presence of blood in urine).[8][9] Although small amounts of iron are excreted in sweat and urine, these losses can generally be seen as insignificant even with increased sweat and urine production, especially considering that athletes' bodies appear to become conditioned to retain iron better.[8] Mechanical hemolysis is most likely to occur in high-impact sports, especially among long distance runners who experience "foot-strike hemolysis" from the repeated impact of their feet with the ground. Exercise-induced gastrointestinal bleeding is most likely to occur in endurance athletes. Haematuria in athletes is most likely to occur in those that undergo repetitive impacts on the body, particularly affecting the feet (such as running on a hard road, or Kendo) and hands (e.g. Conga or Candombe drumming). Additionally, athletes in sports that emphasize weight loss (e.g. ballet, gymnastics, marathon running, and wrestling) as well as sports that emphasize high-carbohydrate, low-fat diets, may be at an increased risk for iron deficiency.[8][9]
+Inadequate intake
+
+A U.S. federal survey of food consumption determined that for women and men over the age of 19, average consumption from foods and beverages was 13.1 and 18.0 mg/day, respectively. For women, 16% in the age range 14–50 years consumed less than the Estimated Average Requirement (EAR), for men ages 19 and up, fewer than 3%.[10] Consumption data were updated in a recently published government survey on food consumption reported that for men and women ages 20 and older the average iron intakes were, respectively, 16.6 and 12.6 mg/day. Consumption below the EAR continues to be rare for men (EAR=6.0 mg/day), whereas a significant minority for women presumed to be menstruating, i.e., ages 14 to 50 years (EAR 7.9 mg/day for teens and 8.1 mg/day for older women).[11]
+Bioavailability
+
+Iron is needed for bacterial growth making its bioavailability an important factor in controlling infection.[12] Blood plasma as a result carries iron tightly bound to transferrin, which is taken up by cells by endocytosing transferrin, thus preventing its access to bacteria.[13] Between 15 and 20 percent of the protein content in human milk consists of lactoferrin[14] that binds iron. As a comparison, in cow's milk, this is only 2 percent. As a result, breast fed babies have fewer infections.[13] Lactoferrin is also concentrated in tears, saliva and at wounds to bind iron to limit bacterial growth. Egg white contains 12% conalbumin to withhold it from bacteria that get through the egg shell (for this reason, prior to antibiotics, egg white was used to treat infections).[15]
+
+To reduce bacterial growth, plasma concentrations of iron are lowered in a variety of systemic inflammatory states due to increased production of hepcidin which is mainly released by the liver in response to increased production of pro-inflammatory cytokines such as Interleukin-6. This functional iron deficiency will resolve once the source of inflammation is rectified; however, if not resolved, it can progress to Anaemia of Chronic Inflammation. The underlying inflammation can be caused by fever,[16] inflammatory bowel disease, infections, Chronic Heart Failure (CHF), carcinomas, or following surgery.
+
+Reflecting this link between iron bioavailability and bacterial growth, the taking of oral iron supplements in excess of 200 mg/day causes a relative overabundance of iron that can alter the types of bacteria that are present within the gut. There have been concerns regarding parenteral iron being administered whilst bacteremia is present, although this has not been borne out in clinical practice. A moderate iron deficiency, in contrast, can provide protection against acute infection, especially against organisms that reside within hepatocytes and macrophages, such as malaria and tuberculosis. This is mainly beneficial in regions with a high prevalence of these diseases and where standard treatment is unavailable.
+Diagnosis
+
+    A complete blood count can reveal microcytic anemia,[17] although this is not always present – even when iron deficiency progresses to iron-deficiency anemia.
+    Low serum ferritin (see below)
+    Low serum iron
+    High TIBC (total iron binding capacity), although this can be elevated in cases of anemia of chronic inflammation.
+    It is possible that the fecal occult blood test might be positive, if iron deficiency is the result of gastrointestinal bleeding; although the sensitivity of the test may mean that in some cases it will be negative even with enteral blood loss.
+
+As always, laboratory values have to be interpreted with the lab's reference values in mind and considering all aspects of the individual clinical situation.
+
+Serum ferritin can be elevated in inflammatory conditions; so a normal serum ferritin may not always exclude iron deficiency, and the utility is improved by taking a concurrent C-reactive protein (CRP). The level of serum ferritin that is viewed as "high" depends on the condition. For example, in inflammatory bowel disease the threshold is 100, where as in chronic heart failure (CHF) the levels are 200.
+Treatment
+
+Before commencing treatment, there should be definitive diagnosis of the underlying cause for iron deficiency. This is particularly the case in older patients, who are most susceptible to colorectal cancer and the gastrointestinal bleeding it often causes. In adults, 60% of patients with iron-deficiency anemia may have underlying gastrointestinal disorders leading to chronic blood loss.[18] It is likely that the cause of the iron deficiency will need treatment as well.
+
+Upon diagnosis, the condition can be treated with iron supplements. The choice of supplement will depend upon both the severity of the condition, the required speed of improvement (e.g. if awaiting elective surgery) and the likelihood of treatment being effective (e.g. if has underlying IBD, is undergoing dialysis, or is having ESA therapy).
+
+Examples of oral iron that are often used are ferrous sulfate, ferrous gluconate, or amino acid chelate tablets. Recent research suggests the replacement dose of iron, at least in the elderly with iron deficiency, may be as little as 15 mg per day of elemental iron.[19]
+Food sources
+
+Mild iron deficiency can be prevented or corrected by eating iron-rich foods and by cooking in an iron skillet. Because iron is a requirement for most plants and animals, a wide range of foods provide iron. Good sources of dietary iron have heme-iron, as this is most easily absorbed and is not inhibited by medication or other dietary components. Three examples are red meat, poultry, and insects.[20][21] Non-heme sources do contain iron, though it has reduced bioavailability. Examples are lentils, beans, leafy vegetables, pistachios, tofu, fortified bread, and fortified breakfast cereals.
+
+Iron from different foods is absorbed and processed differently by the body; for instance, iron in meat (heme-iron source) is more easily absorbed than iron in grains and vegetables ("non-heme" iron sources).[22] Minerals and chemicals in one type of food may also inhibit absorption of iron from another type of food eaten at the same time.[23] For example, oxalates and phytic acid form insoluble complexes which bind iron in the gut before it can be absorbed.
+
+Because iron from plant sources is less easily absorbed than the heme-bound iron of animal sources, vegetarians and vegans should have a somewhat higher total daily iron intake than those who eat meat, fish or poultry.[24] Legumes and dark-green leafy vegetables like broccoli, kale and oriental greens are especially good sources of iron for vegetarians and vegans. However, spinach and Swiss chard contain oxalates which bind iron, making it almost entirely unavailable for absorption.[citation needed] Iron from non-heme sources is more readily absorbed if consumed with foods that contain either heme-bound iron or vitamin C. This is due to a hypothesised "meat factor" which enhances iron absorption.[25]
+
+Following are two tables showing the richest foods in heme and non-heme iron.[26][unreliable source?] In both tables, food serving sizes may differ from the usual 100g quantity for relevancy reasons. Arbitrarily, the guideline is set at 18 mg, which is the USDA Recommended Dietary Allowance for women aged between 19 and 50.[27]
+Abstract: richest foods in heme iron Food 	Serving size 	Iron 	% guideline
+clam[a] 	100g 	28 mg 	155%
+pork liver 	100g 	18 mg 	100%
+lamb kidney 	100g 	12 mg 	69%
+cooked oyster 	100g 	12 mg 	67%
+cuttlefish 	100g 	11 mg 	60%
+lamb liver 	100g 	10 mg 	57%
+octopus 	100g 	9.5 mg 	53%
+mussel 	100g 	6.7 mg 	37%
+beef liver 	100g 	6.5 mg 	36%
+beef heart 	100g 	6.4 mg 	35%
+Abstract: richest foods in non-heme iron Food 	Serving size 	Iron 	% guideline
+raw yellow beans 	100g 	7 mg 	35%
+spirulina 	15g 	4.3 mg 	24%
+falafel 	140g 	4.8 mg 	24%
+soybean kernels 	125ml=1/2cup 	4.6 mg 	23%
+spinach 	125g 	4.4 mg 	22%
+lentil 	125ml=1/2cup 	3.5 mg 	17.5%
+treacle (CSR Australia) 	20ml=1Tbsp 	3.4 mg 	17%
+molasses (Bluelabel Australia) 	20ml=1Tbsp 	1.8 mg 	9%
+candied ginger root 	15g~3p 	1.7 mg 	8.5%
+toasted sesame seeds 	10g 	1.4 mg 	7%
+cocoa (dry powder) 	5g~1Tbsp 	.8 mg 	4%
+
+Food Recommendations for Children
+
+Children at 6 months should start having solid food that contains enough iron, which could be found in both heme and non-heme iron[31]
+
+Heme iron :
+
+    Red meat (for example, beef, pork, lamb, goat, or venison)
+    Fatty fishExternal
+    Poultry (for example, chicken or turkey)
+    Eggs
+
+Non-heme iron :
+
+    Iron-fortified infant cereals
+    Tofu
+    Beans and lentils
+    Dark green leafy vegetables
+
+Iron deficiency can have serious health consequences that diet may not be able to quickly correct; hence, an iron supplement is often necessary if the iron deficiency has become symptomatic.
+Blood transfusion
+
+Blood transfusion is sometimes used to treat iron deficiency with hemodynamic instability.[32] Sometimes transfusions are considered for people who have chronic iron deficiency or who will soon go to surgery, but even if such people have low hemoglobin, they should be given oral treatment or intravenous iron.[32]
+See also
+
+    Bahima disease
+    CO2 fertilization effect
+
+Notes
+
+Iron content in clams can vary considerably between types and modes of preparation, and the presence of aluminium could reduce iron bioavailability.[28] The bioaccumulation of heavy metals in clams from highly contaminated areas may make regular consumption unsafe in the long term.[29][30]

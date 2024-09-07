@@ -1,0 +1,226 @@
+alcoholic_liver_disease|DS liver|NN disease|NN arld|NN alcoholic_liver_disease|DS ald|NN liver|NN manifestation|NN of|NN alcohol|NN overconsumption|NN liver|NN alcoholic|NN hepatitis|DS chronic|NN hepatitis|DS liver|NN fibrosis|NN cirrhosis|DS 
+fatty|NN term|NN alcoholic_liver_disease|DS major|NN cause|NN of|NN liver|NN disease|NN in|NN country|NN 
+steatosis|NN fatty|NN liver|NN in|NN individual|NN quantity|NN of|NN alcoholic|NN beverage|NN period|NN of|NN time|NN process|NN transient|NN 
+of|NN drinker|NN fatty|NN liver|NN whilst|NN alcoholic|NN hepatitis|DS cirrhosis|DS 
+microscopy|NN of|NN liver|NN fatty|NN change|NN cell|NN necrosis|NN body|NN specialty|NN gastroenterology|NN content|NN risk|NN factor|NN fatty|NN change|NN alcoholic|NN hepatitis|DS cirrhosis|DS diagnosis|NN laboratory|NN find|NN treatment|NN medication|NN transplantation|NN prognosis|NN reference|NN link|NN risk|NN factor|NN risk|NN factor|NN quantity|NN of|NN alcohol|NN consumption|NN of|NN day|NN drink|NN in|NN fl|NN liquor|NN fl|NN wine|NN fl|NN beer|NN pack|NN of|NN beer|NN limit|NN year|NN in|NN men|NN woman|NN risk|NN of|NN hepatitis|DS fibrosis|NN pattern|NN of|NN drink|NN drink|NN of|NN time|NN time|NN risk|NN of|NN alcoholic_liver_disease|DS 
+sex|NN woman|NN liver|NN disease|NN alcoholic_liver_disease|DS duration|NN do|NN of|NN chronic|NN consumption|NN 
+amount|NN of|NN alcohol|NN dehydrogenase|NN in|NN gut|NN proportion|NN of|NN body|NN fat|NN in|NN woman|NN change|NN in|NN absorption|NN cycle|NN phenomenon|NN 
+hepatitis|DS infection|NN hepatitis|DS c|NN infection|NN process|NN of|NN liver|NN injury|NN 
+factor|NN factor|NN alcoholism|DS alcoholic_liver_disease|DS 
+twin|NN alcoholic|NN liver|NN cirrhosis|DS twin|NN 
+polymorphism|NN in|NN enzyme|NN in|NN metabolism|NN of|NN alcohol|NN adh|NN aldh|NN cyp4502e1|NN dysfunction|NN polymorphism|NN component|NN 
+polymorphism|NN alcoholic_liver_disease|DS 
+iron|NN overload|NN hemochromatosis|NN diet|NN malnutrition|NN e|NN deficiency|NN liver|NN damage|NN regeneration|NN of|NN hepatocytes|NN 
+concern|NN alcoholic|NN of|NN diet|NN anorexia|ST encephalopathy|NN 
+in|NN pathophysiology|NN mechanism|NN 
+of|NN alcohol|NN pass|NN liver|NN 
+chronic|NN consumption|NN of|NN alcohol|NN result|NN secretion|NN of|NN cytokine|NN il6|NN peroxidation|NN toxicity|NN 
+factor|NN fibrosis|NN of|NN liver|NN cell|NN 
+occur|NN in|NN individual|NN 
+liver|NN capacity|NN of|NN hepatocytes|NN 
+il8|NN stress|NN inflammation|NN cause|NN apoptosis|NN fatty|NN change|NN fatty|NN change|NN steatosis|NN accumulation|NN of|NN fatty|NN acid|NN in|NN liver|NN cell|NN 
+fatty|NN globule|NN microscope|NN 
+alcoholism|DS development|NN of|NN steatosis|NN liver|NN day|NN of|NN drink|NN 
+alcohol|NN alcohol|NN dehydrogenase|NN adh|NN acetaldehyde|NN dehydrogenase|NN aldh|NN acid|NN carbon|NN pathogenesis|NN of|NN alcohol|NN liver|NN injury|NN fatty|NN globule|NN 2|NN water|NN dioxide|NN 
+process|NN ratio|NN 
+concentration|NN induce|NN fatty|NN synthesis|NN level|NN result|NN in|NN fatty|NN oxidation|NN 
+level|NN of|NN fatty|NN acid|NN liver|NN cell|NN triglyceride|NN 
+triglyceride|NN in|NN fatty|NN liver|NN 
+alcoholic|NN hepatitis|DS alcoholic|NN hepatitis|DS inflammation|NN of|NN hepatocytes|NN 
+of|NN drinker|NN alcoholic|NN hepatitis|DS 
+development|NN of|NN hepatitis|DS dose|NN of|NN alcohol|NN people|NN prone|NN reaction|NN others|NN 
+alcoholic|NN steato|NN necrosis|NN inflammation|NN liver|NN fibrosis|NN 
+cytokine|NN il8|NN in|NN initiation|NN perpetuation|NN of|NN liver|NN injury|NN apoptosis|NN necrosis|NN 
+mechanism|NN activity|NN of|NN permeability|NN liver|NN disease|NN 
+absorption|NN of|NN endotoxin|NN circulation|NN 
+kupffer|NN cell|NN of|NN liver|NN endotoxin|NN release|NN of|NN 
+pathway|NN activation|NN of|NN caspase|NN in|NN cell|NN death|NN 
+cirrhosis|DS cirrhosis|DS late|NN stage|NN of|NN liver|NN disease|NN inflammation|NN swelling|ST fibrosis|NN harden|NN membrane|NN detoxification|NN of|NN chemical|NN in|NN body|NN in|NN necrosis|NN cell|NN death|NN 
+of|NN drinker|NN cirrhosis|DS of|NN liver|NN 
+acetaldehyde|NN fibrosis|NN collagen|NN deposition|NN stellate|NN cell|NN 
+production|NN of|NN oxidant|NN dase|NN formation|NN of|NN adduct|NN cell|NN membrane|NN 
+symptom|NN jaundice|DS liver|NN enlargement|NN pain|ST tenderness|NN change|NN in|NN liver|NN architecture|NN 
+abstinence|NN alcohol|NN use|NN cirrhosis|DS liver|NN failure|NN 
+late|NN complication|NN of|NN cirrhosis|DS liver|NN failure|NN hypertension|DS blood|NN pressure|NN in|NN vein|NN flow|NN resistance|NN liver|NN coagulation|NN disorder|NN production|NN of|NN coagulation|NN factor|NN abdominal|NN swelling|ST of|NN fluid|NN in|NN tissue|NN complication|NN encephalopathy|NN syndrome|NN 
+cirrhosis|DS cause|NN alcohol|NN abuse|NN hepatitis|DS exposure|NN alcohol|NN 
+late|NN stage|NN of|NN cirrhosis|DS of|NN cause|NN 
+phenomenon|NN common|NN pathway|NN disease|NN 
+fatty|NN change|NN alcoholic|NN hepatitis|DS abstinence|NN 
+stage|NN of|NN fibrosis|NN cirrhosis|DS abstinence|NN period|NN of|NN time|NN 
+diagnosis|NN in|NN early|NN stage|NN patient|NN exhibit|NN subtle|NN abnormal|NN find|NN 
+development|NN of|NN liver|NN disease|NN stigma|NN of|NN chronic|NN liver|NN disease|NN 
+early|NN ald|NN health|NN examination|NN liver|NN enzyme|NN level|NN 
+alcoholic|NN steatosis|NN 
+microvesicular|NN steatosis|NN inflammation|NN in|NN liver|NN biopsy|NN specimen|NN 
+feature|NN of|NN ald|NN of|NN fatty|NN liver|NN disease|NN 
+steatosis|NN discontinuation|NN of|NN alcohol|NN use|NN 
+continuation|NN of|NN alcohol|NN use|NN in|NN risk|NN of|NN progression|NN of|NN liver|NN disease|NN cirrhosis|DS 
+in|NN patient|NN alcoholic|NN hepatitis|DS manifestation|NN fever|ST jaundice|DS hepatomegaly|DS decompensation|NN encephalopathy|NN variceal|NN bleeding|ST accumulation|NN 
+tender|NN hepatomegaly|DS abdominal_pain|ST 
+patient|NN 
+serum|NN aspartate|NN aminotransferase|NN ast|NN laboratory|NN find|NN in|NN people|NN alcoholic|NN hepatitis|DS aminotransferase|NN alt|NN ratio|NN ast|NN alt|NN level|NN ast|NN ratio|NN deficiency|NN of|NN pyridoxal|NN phosphate|NN in|NN alt|NN pathway|NN 
+alcohol|NN injury|NN of|NN mitochondrion|NN result|NN in|NN release|NN 
+find|NN blood|NN cell|NN macrocytosis|NN corpuscular|NN volume|NN elevation|NN of|NN transferase|NN ggt|NN phosphatase|NN bilirubin|NN level|NN 
+level|NN in|NN alcoholic|NN patient|NN absorption|NN bone|NN marrow|NN requirement|NN folate|NN in|NN presence|NN of|NN alcohol|NN urinary|NN loss|NN 
+magnitude|NN of|NN leukocytosis|NN white|NN blood|NN cell|NN depletion|NN severity|NN of|NN liver|NN injury|NN 
+feature|NN body|NN mitochondrion|NN necrosis|NN infiltration|NN in|NN area|NN vein|NN 
+mallory|NN body|NN in|NN liver|NN disease|NN condensation|NN of|NN cytokeratin|NN component|NN in|NN hepatocyte|NN cytoplasm|NN liver|NN injury|NN 
+of|NN patient|NN alcoholic|NN hepatitis|DS cirrhosis|DS biopsy|NN examination|NN time|NN of|NN diagnosis|NN 
+treatment|NN alcohol|NN part|NN of|NN treatment|NN 
+people|NN chronic|NN hcv|NN infection|NN alcohol|NN intake|NN risk|NN acceleration|NN of|NN liver|NN disease|NN 
+medication|NN cochrane|NN review|NN evidence|NN sufficient|NN use|NN of|NN steroid|NN 
+corticosteroid|NN liver|NN inflammation|NN 
+sylimarin|NN treatment|NN result|NN 
+review|NN benefit|NN methionine|NN in|NN disease|NN model|NN 
+effect|NN of|NN necrosis|NN factor|NN medication|NN infliximab|NN etanercept|NN 
+evidence|NN pentoxifylline|NN 
+propylthiouracil|NN in|NN harm|NN 
+evidence|NN nutrition|NN in|NN liver|NN disease|NN 
+transplantation|NN in|NN case|NN liver|NN cirrhosis|DS disease|NN process|NN 
+liver|NN transplantation|NN therapy|NN 
+today|NN survival|NN liver|NN transplantation|NN people|NN 
+requirement|NN list|NN type|NN of|NN liver|NN disease|NN sobriety|NN prerequisite|NN evaluation|NN rehabilitation|NN assistance|NN alcoholic|NN 
+requirement|NN transplant|NN center|NN 
+relapse|NN alcohol|NN use|NN list|NN result|NN in|NN 
+in|NN institution|NN month|NN of|NN sobriety|NN 
+data|NN transplant|NN survival|NN in|NN patient|NN alcoholic|NN hepatitis|DS in|NN ald|NN alcoholic|NN hepatitis|DS mdf|NN 
+prognosis|NN prognosis|NN people|NN depend|NN liver|NN histology|NN cofactor|NN chronic|NN hepatitis|DS 
+patient|NN alcoholic|NN hepatitis|DS progression|NN liver|NN cirrhosis|DS year|NN cirrhosis|DS 
+cessation|NN of|NN alcohol|NN use|NN normalization|NN of|NN histology|NN serum|NN liver|NN enzyme|NN level|NN 
+mdf|NN mortality|NN survival|NN of|NN therapy|NN survival|NN of|NN model|NN liver|NN disease|NN meld|NN score|NN accuracy|NN in|NN mortality|NN 
+liver|NN cirrhosis|DS in|NN of|NN g|NN of|NN alcohol|NN men|NN woman|NN 
+in|NN liver|NN injury|NN 
+mortality|NN cause|NN of|NN death|NN in|NN in|NN state|NN 
+mortality|NN year|NN 
+reference|NN r|NN s|NN aj|NN 
+alcoholic_liver_disease|DS practice|NN guideline|NN http|NN practice|NN pdf|NN 
+hepatology|NN 
+1|NN http|NN 
+pmid|NN s|NN 
+basra|NN sarpreet|NN 
+definition|NN epidemiology|NN magnitude|NN of|NN alcoholic|NN hepatitis|DS s|NN 
+world|NN journal|NN of|NN hepatology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mandayam|NN s|NN mm|NN tr|NN 
+epidemiology|NN of|NN alcoholic_liver_disease|DS 
+semin|NN 
+liver|NN dis|NN 
+citeseerx|NN http|NN 
+http|NN 
+pmid|NN http|NN 1|NN 
+menon|NN kv|NN gj|NN vh|NN 
+pathogenesis|NN diagnosis|NN treatment|NN of|NN alcoholic_liver_disease|DS http|NN pdf|NN 
+mayo|NN clin|NN 
+proc|NN 
+http|NN 
+pmid|NN http|NN 
+longstreth|NN george|NN david|NN ed|NN 
+alcoholic_liver_disease|DS s|NN 
+medlineplus|NN health|NN information|NN 
+bethesda|NN md|NN library|NN of|NN medicine|NN institute|NN of|NN health|NN 
+http|NN 
+inaba|NN darryl|NN cohen|NN william|NN b|NN 
+upper|NN downer|NN arounders|NN effect|NN of|NN drug|NN 
+ashland|NN publication|NN 
+inaba|NN cohen|NN mccullough|NN aj|NN jf|NN 
+alcoholic_liver_disease|DS recommendation|NN college|NN of|NN gastroenterology|NN 
+journal|NN of|NN gastroenterology|NN 
+http|NN 
+pmid|NN http|NN 
+niemelä|NN o|NN 
+biomarkers|NN in|NN alcoholism|DS 
+clinica|NN chimica|NN acta|NN 
+http|NN 
+pmid|NN http|NN 
+suk|NN kt|NN kim|NN baik|NN sk|NN september|NN 
+alcoholic_liver_disease|DS treatment|NN s|NN 
+world|NN journal|NN of|NN gastroenterology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rambaldi|NN gluud|NN c|NN 
+steroid|NN alcoholic_liver_disease|DS 
+cochrane|NN database|NN of|NN review|NN cd003045|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+p|NN dragosics|NN h|NN h|NN benda|NN l|NN h|NN al|NN 
+trial|NN of|NN treatment|NN in|NN patient|NN cirrhosis|DS of|NN liver|NN 
+j|NN hepatol|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rambaldi|NN jacob|NN bp|NN iaquinto|NN g|NN c|NN 
+milk|NN thistle|NN alcoholic|NN hepatitis|DS b|NN liver|NN cochrane|NN group|NN review|NN of|NN trial|NN 
+gastroenterol|NN 
+http|NN 
+pmid|NN http|NN 
+g|NN gluud|NN ll|NN d|NN m|NN gluud|NN c|NN 
+bjelakovic|NN g|NN 
+supplement|NN liver|NN disease|NN http|NN 
+cochrane|NN database|NN syst|NN rev|NN cd007749|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+cederbaum|NN ai|NN department|NN of|NN pharmacology|NN system|NN therapeutic|NN box|NN school|NN of|NN medicine|NN mount|NN sinai|NN gustave|NN levy|NN place|NN york|NN state|NN march|NN 
+effect|NN of|NN p450|NN liver|NN injury|NN http|NN 
+world|NN j|NN gastroenterol|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rambaldi|NN gluud|NN c|NN 
+alcoholic_liver_disease|DS 
+cochrane|NN database|NN of|NN review|NN 2|NN cd002235|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+http|NN 
+citation|NN paper|NN 
+tilg|NN h|NN day|NN cp|NN 
+management|NN strategy|NN in|NN alcoholic_liver_disease|DS 
+nature|NN practice|NN gastroenterology|NN hepatology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+whitfield|NN k|NN rambaldi|NN wetterslev|NN j|NN gluud|NN c|NN 
+pentoxifylline|NN alcoholic|NN hepatitis|DS http|NN 
+cochrane|NN database|NN of|NN review|NN cd007339|NN 
+ttps|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+fede|NN g|NN germani|NN g|NN gluud|NN c|NN burroughs|NN ak|NN june|NN 
+propylthiouracil|NN alcoholic_liver_disease|DS 
+cochrane|NN database|NN of|NN review|NN cd002800|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+koretz|NN rl|NN lipman|NN 
+support|NN liver|NN disease|NN p|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd008344|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+neuberger|NN j|NN kh|NN day|NN c|NN berlakovich|NN ga|NN berenguer|NN m|NN gp|NN horsmans|NN y|NN burroughs|NN hockerstedt|NN k|NN 
+transplantation|NN alcoholic_liver_disease|DS http|NN 
+journal|NN of|NN hepatology|NN 
+1|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+dunn|NN w|NN jamil|NN lh|NN wiesner|NN rh|NN menon|NN kv|NN kamath|NN p|NN 
+meld|NN mortality|NN in|NN patient|NN alcoholic|NN hepatitis|DS 
+hepatology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+sheth|NN m|NN riggs|NN m|NN patel|NN t|NN 
+utility|NN of|NN liver|NN disease|NN meld|NN score|NN in|NN prognosis|NN of|NN patient|NN alcoholic|NN hepatitis|DS http|NN 
+bmc|NN gastroenterology|NN 
+2|NN 1|NN ttps|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+alcoholic_liver_disease|DS caput|NN country|NN http|NN 
+nationmaster|NN 
+june|NN july|NN link|NN classification|NN k70|NN d|NN p|NN http|NN mesh|NN d008108|NN http|NN i|NN medlineplus|NN http|NN resource|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

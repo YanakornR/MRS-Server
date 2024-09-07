@@ -1,0 +1,163 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN peptic|NN ulcer|NN disease|NN name|NN peptic|NN ulcer|NN disease|NN peptic|NN ulcer|NN disease|NN peptic|NN ulcer|NN disease|NN peptic|NN ulcer|NN disease|NN peptic|NN ulcer|NN disease|NN peptic|NN ulcer|NN disease|NN surgery|NN symptom|NN pain|ST vomit|NN weight_loss|ST appetite|NN complication|NN perforation|NN blockage|NN stomach|NN cause|NN helicobacter|NN pylory|NN drug|NN tobacco|NN smoke|NN crohn|NN disease|NN method|NN symptom|NN endoscopy|NN barium|NN swallow|NN diagnosis|NN stomach_cancer|DS heart|NN disease|NN inflammation|NN stomach|NN line|NN inflammation|NN treatment|NN smoke|NN nsaids|NN stop|NN alcohol|NN medication|NN proton|NN pump|NN inhibitor|NN blocker|NN antibiotics|NN frequency|NN death|NN 
+peptic|NN ulcer|NN disease|NN peptic|NN ulcer|NN disease|NN break|NN line|NN stomach|NN part|NN intestine|NN esophagus|NN ulcer|NN stomach|NN peptic|NN ulcer|NN disease|NN part|NN intestine|NN peptic|NN ulcer|NN disease|NN symptom|NN peptic|NN ulcer|NN disease|NN night|NN pain|ST pain|ST eate|NN peptic|NN ulcer|NN disease|NN pain|ST pain|ST burn|NN ache|NN symptom|NN vomit|NN weight_loss|ST appetite|NN people|NN symptom|NN complication|NN perforation|NN blockage|NN stomach|NN people|NN 
+cause|NN bacteria|NN helicobacter|NN pylory|NN drug|NN nsaids|NN cause|NN tobacco|NN smoke|NN stress|NN illness|NN disease|NN zollinger-ellison|NN syndrome|NN crohn|NN disease|NN liver_cirrhosis|DS people|NN effect|NN nsaids|NN diagnosis|NN present|NN symptom|NN confirmation|NN endoscopy|NN barium|NN swallow|NN h|NN pylory|NN blood|NN antibody|NN urea|NN breath|NN test|NN stool|NN sign|NN bacteria|NN biopsy|NN stomach|NN condition|NN symptom|NN stomach_cancer|DS heart|NN disease|NN inflammation|NN stomach|NN line|NN inflammation|NN 
+diet|NN role|NN ulcer|NN treatment|NN stop|NN smoke|NN nsaids|NN stop|NN alcohol|NN medication|NN decrease|NN stomach|NN acid|NN medication|NN decrease|NN acid|NN proton|NN pump|NN inhibitor|NN blocker|NN week|NN treatment|NN h|NN pylory|NN combination|NN medication|NN amoxicillin|NN ppy|NN resistance|NN treatment|NN ulcer|NN endoscopy|NN surgery|NN case|NN 
+peptic|NN ulcer|NN disease|NN population|NN ulcer|NN people|NN people|NN peptic|NN ulcer|NN disease|NN point|NN life|NN death|NN death|NN description|NN peptic|NN ulcer|NN disease|NN princess|NN henrietta|NN england|NN h|NN pylory|NN peptic|NN ulcer|NN disease|NN barry|NN marshall|NN robin|NN warren|NN century|NN discovery|NN nobel|NN prize|NN content|NN 
+sign|NN symptom|NN complication|NN cause|NN h|NN pylory|NN nsaids|NN stress|NN diet|NN diagnosis|NN classification|NN appearance|NN appearance|NN diagnosis|NN prevention|NN management|NN therapy|NN nsaids|NN ulcer|NN epidemiology|NN history|NN note|NN reference|NN link|NN 
+sign|NN symptom|NN peptic|NN ulcer|NN disease|NN peptic|NN ulcer|NN disease|NN stage|NN lesionadml|NN 
+sign|NN symptom|NN peptic|NN ulcer|NN disease|NN 
+pain|ST mealtime|NN 
+case|NN peptic|NN ulcer|NN disease|NN pain|ST hour|NN meal|NN bloat|NN fullness|NN rush|NN saliva|NN episode|NN regurgitation|NN acid|NN esophagus|NN reflux|NN disease|NN nausea|ST vomit|NN loss|NN appetite|NN weight_loss|ST vomit|NN blood|NN peptic|NN ulcer|NN disease|NN damage|NN esophagus|NN vomit|NN 
+tarry|NN fece|NN presence|NN iron|NN ulcer|NN perforation|NN peritonitis|DS stab|NN pain|ST surgery|NN 
+history|NN heartburn|ST reflux|NN disease|NN use|NN form|NN medication|NN suspicion|NN peptic|NN ulcer|NN disease|NN 
+medicine|NN peptic|NN ulcer|NN disease|NN nsaids|NN drug|NN dexamethasone|NN prednisolone|NN 
+people|NN age|NN week|NN symptom|NN odd|NN peptic|NN ulcer|NN disease|NN ation|NN investigation|NN 
+time|NN symptom|NN relation|NN meal|NN peptic|NN ulcer|NN disease|NN peptic|NN ulcer|NN disease|NN pain|ST meal|NN nausea|ST vomit|NN acid|NN production|NN food|NN stomach|NN 
+pain|ST peptic|NN ulcer|NN disease|NN hunger|NN meal|NN night|NN pain|ST 
+symptom|NN peptic|NN ulcer|NN disease|NN location|NN ulcer|NN person|NN age|NN 
+ulcer|NN result|NN pain|ST day|NN week|NN wane|NN children|NN symptom|NN complication|NN 
+feel|NN stomach|NN area|NN minute|NN hour|NN ulcer|NN 
+pain|ST hunger|NN indigestion|ST heartburn|ST 
+pain|ST ulcer|NN stomach|NN acid|NN contact|NN area|NN 
+pain|ST peptic|NN ulcer|NN disease|NN navel|NN sternum|NN minute|NN hour|NN stomach|NN 
+pain|ST night|NN eate|NN food|NN buffer|NN stomach|NN acid|NN medication|NN peptic|NN ulcer|NN disease|NN symptom|NN sufferer|NN complication|NN 
+bleed|NN complication|NN 
+bleed|NN death|NN rate|NN hole|NN wall|NN tract|NN peptic|NN ulcer|NN disease|NN consequence|NN 
+erosion|NN wall|NN ulcer|NN spillage|NN stomach|NN content|NN cavity|NN 
+surface|NN stomach|NN peritonitis|DS peritonitis|DS 
+citation|NN sign|NN pain|ST syndrome|NN 
+wall|NN perforation|NN due|NN involvement|NN artery|NN posterior|NN part|NN duodenum|NN 
+citation|NN death|NN rate|NN case|NN penetration|NN form|NN perforation|NN hole|NN ulcer|NN organ|NN liver|NN pancrea|NN outlet|NN obstruction|NN narrow|NN canal|NN scare|NN swell|NN antrum|NN duodenum|NN peptic|NN ulcer|NN disease|NN 
+person|NN vomit|NN cancer|DS diagnosis|NN biopsy|NN helicobacter|NN pylory|NN factor|NN time|NN stomach_cancer|DS ulcer|NN 
+cause|NN pylory|NN 
+helicobacter|NN pylory|NN factor|NN peptic|NN ulcer|NN disease|NN 
+urease|NN environment|NN survival|NN 
+blood|NN group|NN antigen|NN adhesin|NN protein|NN adhesin|NN epithelium|NN 
+bacterium|NN virulence|NN factor|NN cause|NN stomach|NN inflammation|NN 
+gene|NN cytotoxin|NN mechanism|NN peptic|NN ulcer|NN disease|NN 
+stomach|NN inflammation|NN stomach|NN acid|NN secretion|NN stomach|NN acid|NN secretion|NN 
+cytokine|NN cell|NN acid|NN secretion|NN 
+h|NN pylory|NN product|NN hydrogen|NN potassium|NN atpase|NN peptide|NN neuron|NN somatostatin|NN secretion|NN acid|NN production|NN cell|NN gastrin|NN secretion|NN 
+reduction|NN acid|NN production|NN cause|NN peptic|NN ulcer|NN disease|NN hand|NN acid|NN production|NN antrum|NN peptic|NN ulcer|NN disease|NN h|NN pylory|NN infection|NN case|NN 
+case|NN somatostatin|NN production|NN gastrin|NN production|NN histamine|NN secretion|NN enterochromaffin|NN cell|NN acid|NN production|NN 
+environment|NN antrum|NN metaplasia|NN cell|NN peptic|NN ulcer|NN disease|NN 
+response|NN bacteria|NN emergence|NN peptic|NN ulcer|NN disease|NN 
+il1b|NN gene|NN beta|NN gene|NN tumour|NN necrosis|NN factor|NN tnf|NN alpha|NN role|NN inflammation|NN nsaids|NN 
+drug|NN nsaid|NN aspirin|NN risk|NN peptic|NN ulcer|NN disease|NN time|NN non-user|NN 
+risk|NN peptic|NN ulcer|NN disease|NN time|NN aspirin|NN user|NN 
+risk|NN increase|NN nsaids|NN serotonin|NN reuptake|NN inhibitor|NN corticosteroid|NN 
+mucosa|NN acid|NN layer|NN mucus|NN secretion|NN prostaglandin|NN 
+nsaids|NN block|NN function|NN cox-1|NN production|NN prostaglandin|NN 
+nsaids|NN stomach|NN mucosa|NN cell|NN proliferation|NN blood|NN flow|NN bicarbonate|NN mucus|NN secretion|NN integrity|NN mucosa|NN 
+type|NN nsaids|NN drug|NN mucosa|NN 
+probability|NN peptic|NN ulcer|NN disease|NN ulcer|NN heal|NN peptic|NN ulcer|NN disease|NN stress|NN 
+stress|NN health|NN problem|NN treatment|NN care|NN unit|NN cause|NN peptic|NN ulcer|NN disease|NN stress|NN ulcer|NN 
+life|NN stress|NN cause|NN ulcer|NN case|NN role|NN effect|NN stress|NN physiology|NN risk|NN cause|NN h|NN pylory|NN use|NN diet|NN 
+factor|NN spice|NN consumption|NN cause|NN ulcer|NN century|NN importance|NN caffeine|NN coffee|NN cause|NN ulcer|NN effect|NN study|NN alcohol|NN consumption|NN risk|NN h|NN pylory|NN infection|NN increase|NN risk|NN 
+h|NN pylory|NN infection|NN increase|NN comparison|NN risk|NN 
+cause|NN peptic|NN ulcer|NN disease|NN ischaemia|NN drug|NN disturbance|NN cytomegalovirus|DS radiotherapy|NN disease|NN vasculitis|DS syndrome|NN gastrin-secret|NN ulcer|NN 
+smoke|NN risk|NN peptic|NN ulcer|NN disease|NN diagnosis|NN image|NN peptic|NN ulcer|NN disease|NN biopsy|NN cancer|DS 
+diagnosis|NN symptom|NN 
+stomach|NN pain|ST signal|NN peptic|NN ulcer|NN disease|NN 
+case|NN doctor|NN ulcer|NN test|NN symptom|NN diagnosis|NN 
+peptic|NN ulcer|NN disease|NN muscularis|NN mucosae|NN minimum|NN level|NN submucosa|NN contrast|NN erosion|NN muscularis|NN mucosae|NN 
+confirmation|NN diagnosis|NN help|NN test|NN endoscopy|NN barium|NN contrast|NN x-ray|NN 
+test|NN symptom|NN week|NN treatment|NN person|NN age|NN symptom|NN weight_loss|ST stomach_cancer|DS symptom|NN 
+ulcer|NN treatment|NN person|NN ulcer|NN ulcer|NN place|NN doctor|NN condition|NN stomach|NN acid|NN 
+esophagogastroduodenoscopy|NN form|NN endoscopy|NN gastroscopy|NN people|NN peptic|NN ulcer|NN disease|NN 
+gold|NN standard|NN diagnosis|NN peptic|NN ulcer|NN disease|NN identification|NN location|NN severity|NN ulcer|NN 
+ulcer|NN diagnosis|NN 
+reason|NN blood|NN test|NN peptic|NN ulcer|NN disease|NN diagnosis|NN inability|NN exposure|NN bacteria|NN infection|NN 
+result|NN blood|NN test|NN person|NN drug|NN antibiotics|NN inhibitor|NN 
+diagnosis|NN helicobacter|NN pylory|NN 
+breath|NN test|NN culture|NN biopsy|NN specimen|NN 
+lab|NN h|NN pylory|NN culture|NN detection|NN urease|NN activity|NN biopsy|NN specimen|NN urease|NN test|NN measurement|NN antibody|NN level|NN blood|NN 
+antibody|NN egd|NN warrant|NN eradication|NN therapy|NN stool|NN antigen|NN test|NN examination|NN stain|NN biopsy|NN 
+breath|NN test|NN carbon|NN h|NN pylory|NN exam|NN person|NN liquid|NN carbon|NN part|NN substance|NN bacteria|NN 
+hour|NN person|NN blow|NN bag|NN 
+person|NN h|NN pylory|NN breath|NN sample|NN carbon|NN dioxide|NN 
+test|NN advantage|NN response|NN treatment|NN bacteria|NN 
+possibility|NN cause|NN ulcer|NN malignancy|NN cancer|DS mind|NN 
+ulcer|NN curvature|NN stomach|NN consequence|NN h|NN pylory|NN infection|NN 
+peptic|NN ulcer|NN disease|NN air|NN tract|NN air|NN cavity|NN air|NN 
+ga|NN cavity|NN 
+person|NN chest|NN x-ray|NN ga|NN position|NN diaphragm|NN 
+ga|NN cavity|NN chest|NN x-ray|NN x-ray|NN omen|NN peptic|NN ulcer|NN disease|NN 
+stomach|NN 3ulcer|NN 7muscle|NN location|NN 
+peptic|NN ulcer|NN disease|NN ulcer|NN stomach|NN peptic|NN ulcer|NN disease|NN diverticulum|NN ulcer|NN 
+type|NN body|NN stomach|NN curve|NN angularis|NN locus|NN 
+acid|NN hypersecretion|NN 
+type|NN body|NN combination|NN peptic|NN ulcer|NN disease|NN 
+type|NN channel|NN cm|NN pylorus|NN 
+type|NN ulcer|NN type|NN stomach|NN 
+use|NN nsaids|NN 
+appearance|NN peptic|NN ulcer|NN disease|NN antrum|NN gastrectomy|NN specimen|NN 
+peptic|NN ulcer|NN disease|NN curvature|NN stomach|NN 
+ulcer|NN round|NN defect|NN hole|NN cm|NN diameter|NN base|NN border|NN 
+border|NN form|NN peptic|NN ulcer|NN disease|NN border|NN form|NN 
+form|NN cancer|DS border|NN 
+mucosa|NN fold|NN consequence|NN scare|NN 
+appearance|NN peptic|NN ulcer|NN disease|NN 
+peptic|NN ulcer|NN disease|NN perforation|NN muscularis|NN mucosae|NN lamina|NN propria|NN aggression|NN 
+margin|NN gastritis|NN 
+phase|NN base|NN ulcer|NN zone|NN necrosis|NN exudate|NN granulation|NN tissue|NN tissue|NN 
+base|NN ulcer|NN vessel|NN wall|NN thrombosis|NN diagnosis|NN 
+stomach_cancer|DS reflux|NN disease|NN congestion|NN infarction|NN pain|ST pleurisy|NN artery|NN syndrome|NN 
+prevention|NN peptic|NN ulcer|NN disease|NN nsaids|NN risk|NN proton|NN pump|NN inhibitor|NN antagonist|NN nsaids|NN inhibitor|NN type|NN rate|NN ulcer|NN nsaids|NN ppy|NN agent|NN peptic|NN ulcer|NN disease|NN prevention|NN evidence|NN antagonist|NN stomach|NN bleed|NN take|NN nsaids|NN peptic|NN ulcer|NN disease|NN property|NN abortion|NN distress|NN use|NN risk|NN ppy|NN choice|NN dose|NN aspirin|NN management|NN peptic|NN ulcer|NN disease|NN treatment|NN pharmacology|NN drug|NN therapy|NN 
+diagnosis|NN h|NN pylory|NN line|NN treatment|NN regimen|NN amoxicillin|NN metronidazole|NN 
+treatment|NN regimen|NN day|NN 
+effectiveness|NN h|NN pylory|NN 
+rate|NN eradication|NN dosage|NN pantoprazole|NN duration|NN treatment|NN day|NN 
+therapy|NN amoxicillin|NN metronidazole|NN 
+therapy|NN eradication|NN rate|NN 
+resistance|NN rate|NN area|NN usage|NN clarithromycin|NN 
+bismuth|NN therapy|NN bismuth|NN citrate|NN tetracycline|NN metronidazole|NN day|NN 
+bismuth|NN therapy|NN eradication|NN rate|NN second|NN line|NN therapy|NN line|NN regimen|NN therapy|NN 
+h|NN pylory|NN risk|NN ulcer|NN nsaids|NN nsaids|NN ulcer|NN 
+nsaids|NN ulcer|NN week|NN nsaids|NN introduction|NN proton|NN pump|NN inhibitor|NN 
+peptic|NN ulcer|NN disease|NN fluid|NN replacement|NN crystalloid|NN volume|NN blood|NN vessel|NN 
+gdl|NN blood|NN transfusion|NN rate|NN death|NN 
+score|NN patient|NN hospital|NN outpatient|NN 
+ppy|NN stomach|NN suppression|NN 
+stomach|NN ph|NN platelet|NN place|NN clot|NN lysis|NN 
+acid|NN antifibrinolytic|NN agent|NN peptic|NN ulcer|NN disease|NN 
+therapy|NN endoclip|NN epinephrine|NN injection|NN 
+treatment|NN stomach|NN vessel|NN adherent|NN clot|NN 
+endoscopy|NN patient|NN hospital|NN discharge|ST 
+agent|NN endoscopy|NN view|NN 
+dose|NN endoscopy|NN 
+dose|NN ppy|NN bolus|NN dose|NN mg|NN infusion|NN mg|NN hour|NN hour|NN 
+word|NN infusion|NN ppy|NN mg|NN day|NN 
+ppy|NN oral|NN risk|NN rebleed|NN peptic|NN ulcer|NN disease|NN 
+shock|NN ulcer|NN size|NN cm|NN chance|NN treatment|NN 
+surgery|NN embolism|NN case|NN 
+rate|NN complication|NN surgery|NN stomach|NN site|NN endoscopy|NN 
+embolisation|NN rate|NN rate|NN death|NN surgery|NN 
+expert|NN opinion|NN ratio|NN 
+aspirin|NN user|NN treatment|NN bleed|NN peptic|NN ulcer|NN disease|NN time|NN risk|NN rebleed|NN time|NN risk|NN death|NN week|NN post|NN resumption|NN aspirin|NN 
+agent|NN blood|NN vessel|NN agent|NN risk|NN thrombosis|NN 
+treatment|NN plasma|NN vitamin|NN prothrombin|NN complex|NN concentrate|NN factor|NN effect|NN 
+dose|NN vitamin|NN time|NN rewarfarinisation|NN stomach|NN bleed|NN 
+factor|NN viia|NN bleed|NN risk|NN anticoagulant|NN doac|NN warfarin|NN 
+case|NN bleed|NN charcoal|NN hour|NN antidote|NN choice|NN 
+risk|NN risk|NN rebleed|NN mortality|NN resumption|NN epidemiology|NN death|NN peptic|NN ulcer|NN disease|NN person|NN 0-7|NN 20-25|NN 41-53|NN life|NN year|NN peptic|NN ulcer|NN disease|NN inhabitant|NN data|NN 6080|NN 120140|NN 180200|NN 
+lifetime|NN risk|NN peptic|NN ulcer|NN disease|NN rate|NN year|NN death|NN death|NN 
+country|NN percentage|NN people|NN h|NN pylory|NN infection|NN age|NN age|NN age|NN age|NN 
+prevalence|NN world|NN country|NN population|NN country|NN maximum|NN ratio|NN 
+h|NN pylory|NN infection|NN decrease|NN country|NN 
+transmission|NN food|NN groundwater|NN saliva|NN kiss|NN share|NN food|NN utensil|NN 
+peptic|NN ulcer|NN disease|NN effect|NN morbidity|NN mortality|NN decade|NN century|NN trend|NN point|NN fall|NN incidence|NN 
+reason|NN rate|NN peptic|NN ulcer|NN disease|NN development|NN medication|NN acid|NN use|NN drug|NN nsaids|NN history|NN peptic|NN ulcer|NN disease|NN helicobacter|NN pylory|NN 
+john|NN practitioner|NN greece|NN people|NN peptic|NN ulcer|NN disease|NN antibiotics|NN bacteria|NN cause|NN disease|NN 
+helicobacter|NN pylory|NN scientist|NN robin|NN warren|NN barry|NN j|NN 
+marshall|NN factor|NN ulcer|NN paper|NN warren|NN marshall|NN peptic|NN ulcer|NN disease|NN gastritis|NN colonization|NN bacterium|NN stress|NN food|NN 
+h|NN pylory|NN hypothesis|NN act|NN self-experimentation|NN marshall|NN petri|NN dish|NN culture|NN organism|NN person|NN ulcer|NN day|NN gastritis|NN 
+symptom|NN week|NN antibiotics|NN bacteria|NN urge|NN wife|NN halitosis|ST symptom|NN infection|NN experiment|NN journal|NN article|NN journal|NN 
+center|NN disease|NN control|NN prevention|NN government|NN agency|NN institution|NN industry|NN education|NN campaign|NN health|NN care|NN provider|NN consumer|NN link|NN h|NN pylory|NN ulcer|NN 
+campaign|NN new|NN ulcer|NN infection|NN health|NN money|NN information|NN h|NN pylory|NN 
+institute|NN stockholm|NN nobel|NN prize|NN physiology|NN medicine|NN dr|NN 
+marshall|NN collaborator|NN dr|NN 
+warren|NN discovery|NN bacterium|NN helicobacter|NN pylory|NN role|NN gastritis|NN peptic|NN ulcer|NN disease|NN 
+professor|NN marshall|NN research|NN h|NN pylory|NN biology|NN lab|NN uwa|NN perth|NN western|NN australia|NN 
+mastic|NN gum|NN tree|NN resin|NN extract|NN h|NN pylory|NN bacteria|NN study|NN effect|NN mastic|NN gum|NN h|NN pylory|NN level|NN note|NN 
+study|NN factor|NN ulcer|NN heal|NN alcohol|NN intake|NN ulcer|NN heal|NN 

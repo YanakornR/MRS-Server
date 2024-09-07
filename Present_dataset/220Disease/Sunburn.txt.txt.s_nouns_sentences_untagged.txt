@@ -1,0 +1,147 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN sunburn|NN disambiguation|NN 
+sunburn|NN sunburn|NN sunburn|NN ed|NN back|NN suit|NN top|NN 
+sunburn|NN form|NN radiation|NN burn|NN live|NN tissue|NN skin|NN result|NN overexposure|NN radiation|NN sun|NN 
+symptom|NN human|NN animal|NN skin|NN touch|NN pain|ST fatigue|ST dizziness|ST 
+excess|NN radiation|NN case|NN 
+radiation|NN cause|NN skin|NN 
+sunburn|NN response|NN skin|NN dna|NN damage|NN radiation|NN 
+skin|NN cell|NN dna|NN radiation|NN type|NN skin|NN 
+sun|NN measure|NN sunscreen|NN sun|NN cloth|NN sunburn|NN type|NN skin|NN cancer|DS 
+population|NN children|NN sunburn|NN measure|NN 
+sign|NN symptom|NN variation|NN duration|NN skin|NN cancer|DS cause|NN intensity|NN ozone|NN depletion|NN tanning|NN diagnosis|NN diagnosis|NN prevention|NN intensity|NN eye|NN diet|NN children|NN exposure|NN treatment|NN reference|NN link|NN 
+sign|NN symptom|NN shoulder|NN sunburn|NN 
+redness|NN degree|NN pain|ST severity|NN duration|NN intensity|NN exposure|NN 
+symptom|NN edema|ST pruritus|NN itch|ST peel|NN skin|NN rash|ST nausea|ST fever|ST chill|NN syncope|NN 
+amount|NN heat|NN burn|NN concentration|NN blood|NN heal|NN process|NN feel|NN area|NN 
+sunburn|NN thickness|NN burn|NN 
+sign|NN second|NN degree|NN sunburn|NN variation|NN 
+minor|NN sunburn|NN cause|NN redness|NN tenderness|NN area|NN 
+sunburn|NN point|NN debilitation|NN hospital|NN care|NN 
+sunburn|NN minute|NN second|NN weld|NN arcs|NN source|NN light|NN 
+exposure|NN skin|NN minute|NN hour|NN 
+pain|ST hour|NN exposure|NN 
+burn|NN day|NN peel|NN skin|NN day|NN 
+peel|NN itch|ST week|NN 
+skin|NN cancer|DS 
+radiation|NN cause|NN sunburn|NN risk|NN type|NN skin|NN cancer|DS melanoma|NN carcinoma|NN carcinoma|NN concern|NN melanoma|NN risk|NN increase|NN manner|NN number|NN person|NN lifetime|NN episode|NN sunburn|NN melanoma|NN united|NN states|NN australia|NN sunscreen|NN use|NN cause|NN sunburn|NN damage|NN uvb|NN photon|NN dna|NN left|NN 
+reaction|NN state|NN formation|NN thymine-thymine|NN dimer|NN right|NN 
+sunburn|NN radiation|NN sun|NN source|NN lamp|NN weld|NN arcs|NN germicidal|NN irradiation|NN 
+reaction|NN body|NN dna|NN damage|NN uvb|NN light|NN 
+damage|NN formation|NN dimer|NN 
+damage|NN body|NN defense|NN mechanism|NN dna|NN repair|NN damage|NN apoptosis|NN peel|NN skin|NN cell|NN melanin|NN production|NN damage|NN 
+wavelength|NN light|NN photoprotectant|NN 
+photon|NN bond|NN melanin|NN alteration|NN dna|NN generation|NN radical|NN dna|NN damage|NN 
+sunburn|NN inflammation|NN process|NN production|NN prostanoid|NN bradykinin|NN 
+compound|NN increase|NN sensitivity|NN heat|NN threshold|NN heat|NN receptor|NN activation|NN f|NN c|NN f|NN c|NN pain|ST overproduction|NN protein|NN nerve|NN fibre|NN 
+skin|NN type|NN ease|NN sunburn|NN 
+people|NN lighter|NN skin|NN tone|NN capacity|NN tan|NN radiation|NN exposure|NN risk|NN sunburn|NN 
+skin|NN classification|NN variation|NN skin|NN response|NN radiation|NN 
+person|NN type|NN skin|NN capacity|NN sunburn|NN type|NN vi|NN capacity|NN 
+skin|NN type|NN sunburn|NN 
+type|NN skin|NN burn|NN type|NN skin|NN burn|NN tan|NN difficulty|NN type|NN skin|NN tan|NN type|NN light|NN skin|NN tan|NN type|NN brown|NN skin|NN tan|NN type|NN skin|NN burn|NN radiation|NN exposure|NN 
+age|NN skin|NN sun|NN 
+children|NN adult|NN sunlight|NN 
+condition|NN example|NN increase|NN person|NN susceptibility|NN sunburn|NN skin|NN cancer|DS 
+condition|NN defect|NN dna|NN repair|NN mechanism|NN turn|NN ability|NN repair|NN dna|NN radiation|NN 
+risk|NN sunburn|NN product|NN user|NN radiation|NN 
+antibiotics|NN contraceptive|NN tranquillizer|NN effect|NN intensity|NN 
+index|NN risk|NN sunburn|NN time|NN location|NN 
+time|NN day|NN 
+location|NN sun|NN ray|NN daylight|NN save|NN time|NN cloud|NN cover|NN 
+cloud|NN day|NN percentage|NN sun|NN radiation|NN cloud|NN proximity|NN surface|NN water|NN sand|NN concrete|NN snow|NN ice|NN 
+sun|NN ray|NN sunburn|NN 
+season|NN year|NN 
+position|NN sun|NN spring|NN summer|NN sunburn|NN 
+altitude|NN altitude|NN earth|NN atmosphere|NN sunlight|NN 
+exposure|NN increase|NN ft|NN m|NN gain|NN elevation|NN 
+proximity|NN equator|NN latitude|NN 
+region|NN equator|NN sunlight|NN pass|NN atmosphere|NN course|NN year|NN 
+example|NN united|NN states|NN percent|NN sunlight|NN united|NN states|NN 
+dose|NN rate|NN latitude|NN 
+source|NN noaa|NN 
+variation|NN intensity|NN radiation|NN pass|NN atmosphere|NN risk|NN sunburn|NN increase|NN proximity|NN latitude|NN north|NN south|NN latitude|NN 
+cloud|NN cover|NN ozone|NN layer|NN terrain|NN course|NN year|NN location|NN region|NN amount|NN radiation|NN 
+zone|NN radiation|NN latitude|NN season|NN 
+latitude|NN intensity|NN ray|NN 
+hemisphere|NN month|NN june|NN july|NN hemisphere|NN november|NN december|NN january|NN 
+basis|NN amount|NN radiation|NN angle|NN sun|NN 
+height|NN ratio|NN object|NN size|NN shadow|NN 
+risk|NN noon|NN shadow|NN minimum|NN sun|NN radiation|NN atmosphere|NN 
+latitude|NN variable|NN shadow|NN length|NN amount|NN radiation|NN 
+skin|NN eye|NN damage|NN wavelength|NN uvc|NN band|NN source|NN weld|NN arcs|NN 
+sunburn|NN wavelength|NN sunlight|NN ground|NN level|NN 
+ozone|NN depletion|NN 
+decade|NN incidence|NN severity|NN sunburn|NN damage|NN atmosphere|NN ozone|NN layer|NN 
+average|NN ozone|NN increase|NN intensity|NN earth|NN surface|NN 
+ozone|NN depletion|NN ozone|NN hole|NN change|NN location|NN hemisphere|NN tanning|NN 
+individual|NN mechanism|NN sun|NN world|NN increase|NN exposure|NN radiation|NN sun|NN tan|NN lamp|NN 
+sun|NN protection|NN factor|NN spf|NN mean|NN skin|NN time|NN exposure|NN skin|NN 
+sunburn|NN tan|NN 
+world|NN health|NN organization|NN academy|NN dermatology|NN skin|NN cancer|DS foundation|NN source|NN bed|NN form|NN sun|NN protection|NN diagnosis|NN diagnosis|NN 
+diagnosis|NN sunburn|NN skin|NN pathology|NN radiation|NN reaction|NN reaction|NN medication|NN dermatologic|NN disorder|NN exposure|NN sunlight|NN 
+consideration|NN diagnosis|NN duration|NN intensity|NN exposure|NN use|NN medication|NN history|NN disease|NN status|NN 
+reaction|NN response|NN sunlight|NN drug|NN chemical|NN skin|NN sunburn|NN 
+drug|NN reaction|NN amiodarone|NN 5-fluorouracil|NN acid|NN retinoid|NN tetracycline|NN reaction|NN response|NN sunlight|NN drug|NN chemical|NN skin|NN 
+state|NN drug|NN chemical|NN radical|NN antigen|NN type|NN hypersensitivity|DS reaction|NN 
+drug|NN acid|NN ester|NN diclofenac|NN 
+reaction|NN sunburn|NN reaction|NN itch|ST thicken|NN skin|NN radiation|NN inflammation|NN skin|NN contact|NN plant|NN lime|NN celery|NN meadow|NN grass|NN 
+cause|NN pain|ST redness|NN blister|ST skin|NN distribution|NN plant|NN exposure|NN light|NN eruption|NN reaction|NN 
+way|NN bump|NN blister|ST plaque|NN urticaria|DS solar|NN urticaria|DS minute|NN exposure|NN hour|NN skin|NN disease|NN sunlight|NN condition|NN severity|NN exposure|NN 
+lupus|NN acne|DS dermatitis|NN rosacea|NN 
+sunburn|NN type|NN radiation|NN burn|NN exposure|NN radioactivity|NN radiation|NN syndrome|NN radiation-induce|NN illness|NN exposure|NN condition|NN 
+instance|NN difference|NN erythema|NN sunburn|NN radiation|NN burn|NN 
+symptom|NN heat|NN illness|NN stage|NN radiation|NN syndrome|NN nausea|ST vomit|NN fever|ST dizziness|ST seizure|NN confusion|ST 
+prevention|NN sunburn|NN effect|NN index|NN product|NN sunlight|NN spectrum|NN earth|NN surface|NN radiation|NN intensity|NN action|NN spectrum|NN skin|NN sensitivity|NN 
+milliwatt|NN time|NN sunburn|NN 
+sunburn|NN peel|NN 
+destruction|NN layer|NN epidermis|NN loss|NN layer|NN 
+way|NN sunburn|NN amount|NN radiation|NN skin|NN 
+world|NN health|NN organization|NN academy|NN dermatology|NN skin|NN cancer|DS foundation|NN measure|NN exposure|NN skin|NN cancer|DS 
+limit|NN sun|NN exposure|NN hour|NN ray|NN shade|NN ray|NN wear|NN sun-protective|NN cloth|NN brim|NN hat|NN sunglass|NN cloth|NN use|NN sunscreen|NN bed|NN exposure|NN 
+strength|NN sunlight|NN location|NN index|NN 
+sunlight|NN sun|NN point|NN sky|NN 
+time|NN zone|NN daylight|NN save|NN time|NN noon|NN hour|NN 
+shade|NN umbrella|NN canopy|NN amount|NN exposure|NN ray|NN 
+shadow|NN rule|NN shadow|NN shadow|NN shade|NN 
+preparation|NN block|NN light|NN sunscreen|NN sunblock|NN 
+sun|NN protection|NN factor|NN spf|NN rate|NN ability|NN sunburn|NN spf|NN rate|NN amount|NN dna|NN damage|NN 
+protection|NN factor|NN mg|NN sunscreen|NN cm|NN skin|NN 
+ml|NN verification|NN body|NN adult|NN male|NN people|NN practice|NN function|NN chemical|NN radiation|NN chemical|NN sunscreen|NN material|NN zinc|NN oxide|NN titanium|NN oxide|NN block|NN radiation|NN sunscreen|NN 
+chemical|NN mineral|NN sunscreen|NN wavelength|NN radiation|NN 
+sunscreen|NN filter|NN uva|NN radiation|NN uvb|NN 
+uva|NN radiation|NN sunburn|NN skin|NN age|NN risk|NN skin|NN cancer|DS 
+melanoma|NN cell|NN carcinoma|NN evidence|NN cell|NN carcinoma|NN use|NN sunscreen|NN vitamin|NN d|NN deficiency|NN usage|NN recommendation|NN 
+research|NN sunscreen|NN protection|NN application|NN minute|NN exposure|NN minute|NN exposure|NN 
+activity|NN swim|NN sweate|NN indication|NN protection|NN label|NN minute|NN water|NN hour|NN product|NN 
+academy|NN dermatology|NN criteria|NN sunscreen|NN 
+spectrum|NN uva|NN uvb|NN ray|NN spf|NN water|NN sunscreen|NN water|NN time|NN minute|NN minute|NN water|NN 
+eye|NN sun|NN exposure|NN wavelength|NN skin|NN snow|NN blindness|NN sunburn|NN cornea|NN 
+sunglass|NN use|NN spectacle-wearer|NN glass|NN light|NN radiation|NN 
+light|NN development|NN macular_degeneration|DS cataract|DS cluster|NN melanin|NN freckle|NN iris|NN 
+factor|NN influence|NN susceptibility|NN sunburn|NN recovery|NN sunburn|NN risk|NN complication|NN sunburn|NN 
+antioxidant|NN vitamin|NN effectiveness|NN sunburn|NN skin|NN damage|NN radiation|NN animal|NN study|NN 
+vitamin|NN vitamin|NN e|NN study|NN amount|NN sunburn|NN amount|NN exposure|NN review|NN literature|NN beta|NN vitamin|NN supplementation|NN effect|NN sunburn|NN effect|NN study|NN supplementation|NN period|NN week|NN duration|NN effect|NN evidence|NN food|NN ability|NN sunburn|NN period|NN exposure|NN children|NN 
+baby|NN children|NN damage|NN risk|NN melanoma|NN skin|NN cancer|DS life|NN 
+children|NN sunburn|NN age|NN measure|NN risk|NN skin|NN cancer|DS 
+infant|NN month|NN children|NN skin|NN sunscreen|NN measure|NN exposure|NN window|NN mesh|NN brim|NN hat|NN cloth|NN skin|NN exposure|NN hour|NN 
+infant|NN month|NN infant|NN age|NN 
+spf|NN sunscreen|NN area|NN exposure|NN hat|NN cloth|NN 
+toddler|NN children|NN spf|NN sunscreen|NN area|NN hat|NN sunglass|NN peak|NN intensity|NN hour|NN 10am-4pm|NN shade|NN 
+sun|NN cloth|NN spf|NN rate|NN protection|NN 
+exposure|NN bed|NN dose|NN 
+source|NN cloth|NN example|NN weld|NN 
+source|NN wavelength|NN sunlight|NN atmosphere|NN 
+measure|NN exposure|NN sun|NN 
+treatment|NN sunburn|NN time|NN 
+sunburn|NN week|NN 
+academy|NN dermatology|NN follow|NN treatment|NN sunburn|NN 
+pain|ST relief|NN bath|NN shower|NN 
+moisturizer|NN aloe|NN vera|NN 
+medication|NN aspirin|NN pain|ST 
+drink|NN water|NN 
+blister|ST sunburn|NN 
+sunburn|NN ed|NN skin|NN cloth|NN damage|NN 
+drug|NN aspirin|NN redness|NN pain|ST local|NN al|NN steroid|NN cream|NN sunburn|NN academy|NN dermatology|NN area|NN cream|NN sunburn|NN treatment|NN evidence|NN effectiveness|NN use|NN 
+home|NN treatment|NN discomfort|NN cloth|NN sunburn|NN ed|NN area|NN lotion|NN aloe|NN vera|NN sunburn|NN area|NN review|NN aloe|NN vera|NN effect|NN vera|NN ability|NN people|NN sunburn|NN treatment|NN moisturizer|NN 
+sunburn|NN fluid|NN skin|NN surface|NN rest|NN body|NN 
+drink|NN water|NN dehydration|NN 

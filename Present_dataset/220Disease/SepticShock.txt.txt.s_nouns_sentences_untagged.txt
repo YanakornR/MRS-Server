@@ -1,0 +1,85 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN septic_shock|DS disease|NN 
+septic_shock|DS condition|NN sepsis|DS organ|NN injury|NN damage|NN response|NN infection|NN lead|NN blood|NN pressure|NN abnormality|NN metabolism|NN 
+consensus|NN definition|NN sepsis|DS septic_shock|DS sepsis-3|NN septic_shock|DS subset|NN sepsis|DS abnormality|NN risk|NN mortality|NN sepsis|DS 
+patient|NN septic_shock|DS requirement|NN pressure|NN mm|NN serum|NN lactate|NN level|NN absence|NN 
+combination|NN hospital|NN mortality|NN rate|NN 
+infection|NN bacteria|NN fungy|NN viruse|NN parasite|NN 
+part|NN body|NN lung|NN brain|NN tract|NN skin|NN organ|NN organ|NN dysfunction|NN syndrome|NN organ|NN failure|NN death|NN 
+people|NN septic_shock|DS care|NN unit|NN 
+children|NN individual|NN system|NN deal|NN infection|NN adult|NN 
+mortality|NN rate|NN septic_shock|DS content|NN 
+cause|NN diagnosis|NN definition|NN treatment|NN antibiotics|NN methylene|NN epidemiology|NN reference|NN link|NN 
+septic_shock|DS result|NN response|NN infection|NN cause|NN 
+septic_shock|DS infection|NN septic_shock|DS appendicitis|DS pneumonia|DS meningitis|DS pancreatitis|NN mrsa|NN ischemia|NN 
+definition|NN sepsis|DS sepsis|DS constellation|NN symptom|NN infection|NN disruption|NN heart|NN rate|NN rate|NN temperature|NN blood|NN cell|NN count|NN 
+sepsis|DS point|NN dysfunction|NN kidney|NN failure|NN liver|NN dysfunction|NN status|NN heart|NN damage|NN condition|NN sepsis|DS 
+sepsis|DS point|NN blood|NN pressure|NN fluid|NN criterion|NN septic_shock|DS 
+pathophysiology|NN septic_shock|DS role|NN development|NN sepsis|DS coagulation|NN response|NN infection|NN 
+response|NN role|NN septic_shock|DS septic_shock|DS response|NN effect|NN 
+respiration|NN protein|NN acidosis|NN alkalosis|NN 
+case|NN septic_shock|DS bacteria|NN bacteria|NN infection|NN cause|NN septic_shock|DS toxin|NN pathogen|NN response|NN bacteria|NN endotoxin|NN membrane|NN 
+bacteria|NN specy|NN bacteria|NN 
+type|NN cell|NN toxin|NN cell|NN 
+type|NN membrane-damage|NN toxin|NN cell|NN membrane|NN order|NN 
+type|NN toxin|NN toxin|NN cell|NN function|NN toxin|NN cholera|DS toxin|NN toxin|NN 
+sepsis|DS lp|NN lps-bind|NN protein|NN complex|NN receptor|NN monocyte|NN macrophage|NN neutrophil|NN 
+engagement|NN dose|NN minute|NN pgml|NN result|NN signal|NN toll-like|NN receptor|NN protein|NN 
+result|NN activation|NN factor|NN 
+transcription|NN number|NN gene|NN response|NN 
+result|NN activation|NN cell|NN synthesis|NN effector|NN cytokine|NN 
+activation|NN cell|NN production|NN effector|NN cytokine|NN 
+activation|NN system|NN microbe|NN cytokine|NN act|NN cell|NN 
+variety|NN effect|NN synthesis|NN factor|NN tissue|NN factor|NN pathway|NN inhibitor|NN thrombomodulin|NN 
+effect|NN cytokine|NN engagement|NN cell|NN 
+response|NN inflammation|NN reaction|NN production|NN substance|NN antagonist|NN receptor|NN cortisol|NN 
+response|NN syndrome|NN car|NN reaction|NN course|NN sepsis|DS antagonist|NN response|NN syndrome|NN 
+aim|NN process|NN inflammation|NN level|NN 
+car|NN suppression|NN system|NN patient|NN infection|NN sir|NN car|NN individual|NN car|NN process|NN 
+response|NN response|NN 
+level|NN lp|NN syndrome|NN septic_shock|DS cytokine|NN mediator|NN level|NN result|NN hypotension|NN contractility|NN injury|NN activation|NN leukocyte|NN adhesion|NN damage|NN lung|NN activation|NN coagulation|NN system|NN coagulation|NN 
+hypoperfusion|NN effect|NN pump|NN failure|NN dic|NN cause|NN system|NN failure|NN liver|NN kidney|NN system|NN organ|NN system|NN 
+damage|NN liver|NN ultrastructure|NN treatment|NN toxin|NN salmonella|NN infection|NN overload|NN control|NN patient|NN 
+ability|NN tlr4|NN lp|NN specy|NN 
+bacteria|NN activity|NN recognition|NN system|NN host|NN response|NN risk|NN dissemination|NN 
+hand|NN lp|NN septic_shock|DS patient|NN complication|NN 
+understand|NN difference|NN specy|NN activation|NN response|NN mechanism|NN tune|NN insight|NN process|NN diagnosis|NN 
+guideline|NN requirement|NN diagnosis|NN sepsis|DS presence|NN infection|NN manifestation|NN infection|NN manifestation|NN 
+rate|NN breath|NN breath|NN minute|NN test|NN blood|NN ga|NN hyperventilation|NN blood|NN cell|NN count|NN 12000|NN heart|NN rate|NN sepsis|DS rate|NN beat|NN minute|NN body|NN temperature|NN fever|ST c|NN f|NN hypothermia|DS c|NN f|NN 
+evidence|NN infection|NN blood|NN culture|NN sign|NN pneumonia|DS chest|NN x-ray|NN radiologic|NN laboratory|NN evidence|NN infection|NN 
+sign|NN dysfunction|NN septic_shock|DS kidney|NN failure|NN liver|NN dysfunction|NN change|NN status|NN serum|NN lactate|NN 
+septic_shock|DS blood|NN pressure|NN bp|NN treatment|NN 
+fluid|NN administration|NN patient|NN bp|NN 
+diagnosis|NN septic_shock|DS blood|NN pressure|NN pressure|NN map|NN mm|NN bp|NN mm|NN cause|NN bp|NN definition|NN 
+septic_shock|DS subclass|NN shock|NN condition|NN distribution|NN blood|NN flow|NN blood|NN vessel|NN result|NN blood|NN supply|NN body|NN tissue|NN ischemia|NN organ|NN dysfunction|NN 
+septic_shock|DS shock|NN sepsis|DS result|NN infection|NN 
+septic_shock|DS blood|NN pressure|NN treatment|NN fluid|NN blood|NN pressure|NN tissue|NN perfusion|NN pressure|NN tissue|NN hypoxia|NN shock|NN 
+scale|NN response|NN result|NN permeability|NN resistance|NN blood|NN pressure|NN 
+attempt|NN blood|NN pressure|NN dilatation|NN dysfunction|NN 
+septic_shock|DS stage|NN inflammatory|NN response|NN syndrome|NN sepsis|DS sepsis|DS organ|NN dysfunction|NN syndrome|NN stage|NN process|NN 
+organism|NN cope|NN infection|NN response|NN sepsis|DS sepsis|DS septic_shock|DS organ|NN failure|NN result|NN death|NN 
+fluid|NN antibiotic|NN administration|NN goal|NN therapy|NN source|NN identification|NN control|NN support|NN organ|NN dysfunction|NN 
+blood|NN pressure|NN septic_shock|DS perfusion|NN fluid|NN resuscitation|NN treatment|NN increase|NN blood|NN volume|NN 
+patient|NN hypoperfusion|NN mlkg|NN crystalloid|NN hourscrystalloid|NN ringer|NN solution|NN fluid|NN choice|NN use|NN solution|NN starch|NN advantage|NN decrease|NN mortality|NN 
+quantity|NN fluid|NN albumin|NN benefit|NN antibiotics|NN 
+treatment|NN guideline|NN administration|NN antibiotics|NN hour|NN recognition|NN septic_shock|DS 
+therapy|NN risk|NN increase|NN hour|NN delay|NN antibiotics|NN time|NN constraint|NN culture|NN identification|NN test|NN antibiotic|NN sensitivity|NN microorganism|NN infection|NN 
+combination|NN therapy|NN range|NN organism|NN outcome|NN antibiotics|NN day|NN patient|NN treatment|NN duration|NN response|NN 
+choice|NN norepinephrine|NN dopamine|NN septic_shock|DS norepinephrine|NN vasopressor|NN epinephrine|NN 
+addition|NN norepinephrine|NN treatment|NN 
+heart|NN rate|NN arrhythmia|ST combination|NN norepinephrine|NN heart|NN rate|NN risk|NN arrhythmia|ST 
+treatment|NN blood|NN pressure|NN septic_shock|DS goal|NN treatment|NN pressure|NN map|NN mm|NN fda|NN angiotensin|NN injection|NN infusion|NN increase|NN blood|NN pressure|NN adult|NN shock|NN 
+blue|NN condition|NN use|NN methylene|NN blue|NN adult|NN work|NN children|NN mechanism|NN action|NN inhibition|NN oxide-cyclic|NN monophosphate|NN pathway|NN pathway|NN septic_shock|DS 
+blue|NN work|NN case|NN agent|NN effect|NN 
+therapy|NN control|NN heart|NN rate|NN evidence|NN routine|NN use|NN evidence|NN steroid|NN outcome|NN 
+evidence|NN b-immobilize|NN column|NN treatment|NN septic_shock|DS trial|NN japan|NN western|NN europe|NN 
+protein|NN c|NN drotrecogin|NN alpha|NN cochrane|NN review|NN mortality|NN use|NN alfa|NN xigris|NN market|NN october|NN 
+incidence|NN case|NN year|NN mortality|NN septic_shock|DS percent|NN country|NN 
+center|NN disease|NN control|NN septic_shock|DS cause|NN death|NN united|NN states|NN cause|NN death|NN care|NN unit|NN 
+increase|NN rate|NN septic_shock|DS death|NN decade|NN increase|NN device|NN procedure|NN increase|NN patient|NN increase|NN patient|NN 
+care|NN center|NN hospice|NN care|NN facility|NN time|NN rate|NN bacteremia|NN care|NN center|NN infection|NN 
+process|NN infection|NN bacteria|NN fungy|NN sign|NN symptom|NN 
+septic_shock|DS case|NN bacteria|NN endotoxin|NN emergence|NN mrsa|NN use|NN catheter|NN bacteria|NN bacilly|NN 
+order|NN severity|NN sepsis|DS sepsis|DS sepsis|DS syndrome|NN septic_shock|DS septic_shock|DS organ|NN dysfunction|NN syndrome|NN death|NN 
+septic_shock|DS case|NN tract|NN infection|NN tract|NN skin|NN catheter|NN case|NN origin|NN 
+mortality|NN rate|NN sepsis|DS adult|NN children|NN 
+sepsis|DS day|NN 

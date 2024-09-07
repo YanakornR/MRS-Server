@@ -1,0 +1,58 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN gastritis|NN gastritis|NN helicobacter|NN magjpg|NN gastritis|NN 
+symptom|NN pain|ST nausea|ST vomit|NN bloat|NN loss|NN appetite|NN heartburn|ST complication|NN stomach|NN ulcer|NN stomach|NN duration|NN short|NN term|NN cause|NN helicobacter|NN pylory|NN nsaids|NN alcohol|NN smoke|NN cocaine|NN illness|NN autoimmune|NN problem|NN method|NN endoscopy|NN series|NN blood|NN test|NN stool|NN test|NN diagnosis|NN infarction|NN inflammation|NN pancrea|NN problem|NN ulcer|NN disease|NN treatment|NN blocker|NN proton|NN pump|NN inhibitor|NN antibiotics|NN frequency|NN people|NN death|NN 
+gastritis|NN inflammation|NN line|NN stomach|NN episode|NN duration|NN symptom|NN symptom|NN pain|ST symptom|NN nausea|ST vomit|NN bloat|NN loss|NN appetite|NN heartburn|ST complication|NN stomach|NN ulcer|NN stomach|NN autoimmune|NN problem|NN blood|NN cell|NN vitamin|NN condition|NN anemia|DS 
+cause|NN infection|NN helicobacter|NN pylory|NN use|NN drug|NN nsaids|NN cause|NN alcohol|NN smoke|NN cocaine|NN illness|NN autoimmune|NN problem|NN radiation|NN therapy|NN disease|NN endoscopy|NN type|NN x-ray|NN series|NN blood|NN test|NN stool|NN test|NN diagnosis|NN symptom|NN gastritis|NN presentation|NN infarction|NN condition|NN symptom|NN inflammation|NN pancrea|NN problem|NN ulcer|NN disease|NN 
+prevention|NN thing|NN disease|NN treatment|NN medication|NN antacid|NN blocker|NN proton|NN pump|NN inhibitor|NN attack|NN lidocaine|NN gastritis|NN nsaids|NN h|NN pylory|NN combination|NN antibiotics|NN amoxicillin|NN clarithromycin|NN vitamin|NN supplement|NN mouth|NN injection|NN people|NN food|NN 
+gastritis|NN people|NN 2013|NN case|NN condition|NN people|NN disease|NN condition|NN part|NN intestine|NN duodenitis|NN death|NN h|NN pylory|NN barry|NN marshall|NN robin|NN warren|NN content|NN 
+sign|NN symptom|NN cause|NN helicobacter|NN pylory|NN illness|NN diet|NN diagnosis|NN treatment|NN history|NN reference|NN link|NN 
+sign|NN symptom|NN ulcer|NN gastritis|NN 
+people|NN gastritis|NN experience|NN symptom|NN 
+pain|ST symptom|NN pain|ST gnaw|NN sore|NN pain|ST portion|NN abdomen|NN portion|NN abdomen|NN back|NN 
+sign|NN symptom|NN 
+nausea|ST vomit|NN green|NN blood-streak|NN severity|NN stomach|NN inflammation|NN stomach|NN pain|ST satiety|NN loss|NN appetite|NN weight_loss|ST 
+cause|NN helicobacter|NN pylory|NN nsaids|NN 
+cause|NN alcohol|NN cocaine|NN illness|NN crohn|NN disease|NN helicobacter|NN pylory|NN 
+helicobacter|NN pylory|NN stomach|NN world|NN population|NN infection|NN role|NN pathogenesis|NN number|NN disease|NN 
+colonization|NN mucosa|NN helicobacter|NN pylory|NN result|NN development|NN gastritis|NN individual|NN subset|NN patient|NN gastritis|NN complication|NN ulcer|NN disease|NN stomach_cancer|DS extragastric|NN disorder|NN percent|NN individual|NN bacterium|NN role|NN stomach|NN ecology|NN illness|NN 
+gastritis|NN surgery|NN injury|NN cushing|NN ulcer|NN curl|NN ulcer|NN infection|NN 
+gastritis|NN weight_loss|ST surgery|NN band|NN reconstruction|NN tract|NN 
+evidence|NN role|NN food|NN food|NN coffee|NN development|NN ulcer|NN people|NN food|NN 
+gastritis|NN focy|NN surface|NN necrosis|NN damage|NN defenses|NN nsaids|NN enzyme|NN biosynthesis|NN eicosanoid|NN stomach|NN possibility|NN ulcer|NN nsaids|NN aspirin|NN substance|NN stomach|NN prostaglandin|NN 
+drug|NN period|NN 
+use|NN gastritis|NN physiologic|NN stress|NN stress|NN ulcer|NN sepsis|DS hypoxia|NN trauma|NN surgery|NN etiology|NN gastritis|NN 
+form|NN gastritis|NN patient|NN 
+alcohol|NN consumption|NN gastritis|NN 
+line|NN stomach|NN dose|NN alcohol|NN acid|NN secretion|NN 
+dose|NN alcohol|NN secretion|NN acid|NN 
+gastritis|NN range|NN problem|NN tissue|NN system|NN protein|NN antibody|NN fight|NN infection|NN body|NN condition|NN 
+disorder|NN body|NN target|NN stomach|NN protein|NN pathogen|NN antibody|NN damage|NN stomach|NN line|NN case|NN bile|NN aid|NN digestion|NN intestine|NN valve|NN stomach|NN surgery|NN gastritis|NN 
+gastritis|NN condition|NN disease|NN tissue|NN disorder|NN liver|NN kidney|NN failure|NN 
+gastritis|NN lesion|NN sydney|NN system|NN 
+gland|NN metaplasia|NN replacement|NN cell|NN set|NN damage|NN gland|NN gastritis|NN mucous|NN gland|NN 
+ulcer|NN cause|NN consequence|NN 
+metaplasia|NN response|NN injury|NN antrum|NN body|NN 
+mucosa|NN cell|NN mucosa|NN characteristics|NN 
+metaplasia|NN mucosa|NN mucosa|NN ability|NN nutrient|NN peptide|NN 
+metaplasia|NN epithelium|NN appearance|NN intestine|NN dysplasia|DS diagnosis|NN 
+diagnosis|NN patient|NN description|NN symptom|NN method|NN gastritis|NN 
+blood|NN test|NN blood|NN cell|NN count|NN presence|NN h|NN pylory|NN liver|NN kidney|NN pancrea|NN function|NN stool|NN sample|NN blood|NN stool|NN x-ray|NN endoscopy|NN stomach|NN line|NN inflammation|NN mucous|NN erosion|NN stomach|NN biopsy|NN test|NN gastritis|NN condition|NN 
+treatment|NN medium|NN gastritis|NN antacid|NN relief|NN medication|NN blocker|NN inhibitor|NN help|NN amount|NN acid|NN 
+agent|NN tissue|NN line|NN stomach|NN intestine|NN medication|NN sucralfate|NN misoprostol|NN 
+nsaids|NN medication|NN stomach|NN 
+agent|NN bismuth|NN 
+regimen|NN h|NN pylory|NN infection|NN 
+use|NN combination|NN antibiotics|NN proton|NN pump|NN inhibitor|NN 
+bismuth|NN regimen|NN 
+description|NN stomach_cancer|DS 
+physician|NN georg|NN ernst|NN stahl|NN term|NN gastritis|NN 
+pathologist|NN giovanni|NN battista|NN characteristics|NN inflammation|NN 
+characteristics|NN gastritis|NN gastritis|NN 
+physician|NN information|NN autopsy|NN soldier|NN 
+gastritis|NN gastritide|NN gastritis|NN cause|NN ascite|NN fever|ST meningitis|DS 
+charles|NN jones|NN wilson|NN fox|NN change|NN stomach|NN line|NN gastritis|NN form|NN 
+baron|NN carl|NN von|NN gastritis|NN 
+physician|NN william|NN brinton|NN subacute|NN gastritis|NN 
+samuel|NN fenwick|NN anemia|DS atrophy|DS gastritis|NN 
+surgeon|NN georg|NN ernst|NN konjetzny|NN ulcer|NN cancer|DS result|NN inflammation|NN 
+shields|NN warren|NN willam|NN 
+metaplasia|NN stomach|NN feature|NN gastritis|NN 

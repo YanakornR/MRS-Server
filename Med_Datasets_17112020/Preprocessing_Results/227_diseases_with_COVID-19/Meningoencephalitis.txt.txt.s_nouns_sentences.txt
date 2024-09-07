@@ -1,0 +1,48 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN
+Meningoencephalitis|Disease name|NN Meningoencephalitis|Disease meninge|NN disease|NN neurology|NN
+membrane|NN brain|NN suffix|NN inflammation|NN Meningoencephalitis|Disease condition|NN meningitis|NN infection|NN inflammation|NN meninge|NN encephalitis|NN infection|NN inflammation|NN brain|NN
+sign|NN symptom|NN cause|NN animal|NN diagnosis|NN treatment|NN reference|NN link|NN
+sign|NN symptom|NN
+sign|NN meningeoncephalitis|NN behavior|NN personality|NN change|NN think|NN problem|NN
+symptom|NN headache|NN fever|NN pain|NN neck|NN movement|NN light|NN sensitivity|NN seizure|NN cause|NN
+organism|NN protozoan|NN pathogen|NN
+Meningoencephalitis|Disease animal|NN listeriosis|NN bacteria|NN l|NP monocytogenes|NP
+meningitis|NN brain|NN cord|NN animal|NN meningeoencaphilitis|NN bacterium|NN structure|NN brain|NN stem|NN
+l|NP monocytogenes|NP Meningoencephalitis|Disease increase|NN number|NN cytokine|NN
+effect|NN brain|NN
+Meningoencephalitis|Disease complication|NN disease|NN specy|NN agent|NN rocky|NP mountain|NP fever|NN conoriy|NN rickettsia|NN
+impairment|NN nerve|NN paralysis|NN eye|NN hear|NN loss|NN Meningoencephalitis|Disease late-stage|NN manifestation|NN disease|NN monocytotropic|NN hme|NN ehrlichia|NN specy|NN bacteria|NN
+bacteria|NN tuberculosis|NN lyme|NP disease|NN leptospirosis|NN
+west|NP nile|NP virus|NN
+herpes|NP simplex|NN virus|NN type|NN
+herpes|NP simplex|NN virus|NN type|NN
+cause|NN Meningoencephalitis|Disease
+case|NN mump|NN Meningoencephalitis|Disease death|NN neurologic|NN sequelae|NN hiv|NP number|NN individual|NN Meningoencephalitis|Disease stage|NN infection|NN
+antibody|NN beta|NN peptide|NN protein|NN research|NN alzheimers|NP disease|NN receptor|NN antibody|NN seizure|NN movement|NN disorder|NN receptor|NN encephalitis|NN autoimmune|NN Meningoencephalitis|Disease gfap-|NN gfap|NN case|NN
+second|NN gfap|NN
+amoebic|NN Meningoencephalitis|Disease balamuthia|NN diploidea|NN gondiy|NN
+pathogen|NN protozoan|NN
+pathogen|NN cns|NP infection|NN
+n|NP fowleri|NP amoebic|NN Meningoencephalitis|Disease
+symptom|NN pam|NN meningitis|NN
+amoebae|NN cause|NN encephalitis|NN infection|NN
+Meningoencephalitis|Disease brain|NN abscess|NN meningitis|NN cns|NP malignancy|NN animal|NN
+animal|NN pathogen|NN parasite|NN
+cause|NN Meningoencephalitis|Disease othermultiple|NN
+fungus|NN neoforman|NN cns|NP Meningoencephalitis|Disease find|NN polysaccharide|NN capsule|NN organism|NN
+diagnosis|NN evaluation|NN presence|NN herpe|NN infection|NN fever|NN headache|NN status|NN convulsion|NN disturbance|NN consciousness|NN sign|NN
+csf|NP eeg|NN ct|NN mry|NN agent|NN
+diagnosis|NN csf|NP hsv|NP
+antibody|NN brain|NN biopsy|NN pathology|NN
+csf|NP dna|NN hsvpcr|NN
+tissue|NN specimen|NN csfhsv|NN
+encephalitis|NN treatment|NN
+section|NN citation|NN verification|NN
+article|NN citation|NN source|NN
+source|NN Meningoencephalitis|Disease new|NN newspaper|NN book|NN scholar|NN april|NP template|NN message|NN
+therapy|NN acyclovir|NN work|NN
+interferon|NN therapy|NN
+fever|NN regulation|NN body|NN temperature|NN
+pressure|NN drug|NN
+infection|NN infection|NN antibiotic|NN drug|NN
+meningitis|NN amoebic|NN Meningoencephalitis|Disease fowlery|NN

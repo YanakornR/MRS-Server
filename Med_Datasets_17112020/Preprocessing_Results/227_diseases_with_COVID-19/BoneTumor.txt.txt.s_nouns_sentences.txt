@@ -1,0 +1,63 @@
+encyclopedia|NN bone|NN cancer|NN jump|NN navigation|NN jump|NN search|NN bone|NN cancer|NN osteosarcoma|NN magjpg|NN micrograph|NN osteosarcoma|NN Bone tumor|Disease
+Bone tumor|Disease growth|NN tissue|NN bone|NN
+growth|NN bone|NN
+survival|NN united|NP states|NP bone|NN cancer|NN content|NN
+symptom|NN diagnosis|NN classification|NN Bone tumor|Disease secondary|NN Bone tumor|Disease treatment|NN radiotherapy|NN treatment|NN ablation|NN technique|NN reference|NN link|NN
+symptom|NN cancer|NN pain|NN
+symptom|NN Bone tumor|Disease pain|NN time|NN
+person|NN week|NN month|NN year|NN help|NN pain|NN increase|NN growth|NN tumor|NN
+symptom|NN fatigue|NN fever|NN weight|NN loss|NN bone|NN fracture|NN
+patient|NN symptom|NN mass|NN
+Bone tumor|Disease structure|NN bone|NN fracture|NN diagnosis|NN classification|NN x-ray|NN cell|NN Bone tumor|Disease head|NN metacarpal|NN hand|NN
+arm|NN Bone tumor|Disease
+Bone tumor|Disease tumor|NN bone|NN cell|NN tissue|NN tumor|NN site|NN spread|NN skeleton|NN
+carcinomas|NP prostate|NN breast|NN lung|NN thyroid|NN kidney|NN carcinoma|NN bone|NN
+Bone tumor|Disease time|NN bone|NN cancer|NN
+tumor|NN bone|NN tumor|NN cancer|NN
+tumor|NN osteochondroma|NN
+location|NN tumor|NN femur|NN tibia|NN knee|NN joint|NN
+example|NN Bone tumor|Disease osteochondroma|NN cell|NN tumor|NN bone|NN bone|NN cyst|NN
+Bone tumor|Disease sarcoma|NN type|NN
+histiocytoma|NN mfh|NN sarcoma|NN bone|NN paradigm|NN diagnosis|NN trend|NN study|NN test|NN tumor|NN tumor|NN class|NN
+myeloma|NN cancer|NN bone|NN marrow|NN bone|NN lesion|NN
+cell|NN midline|NN sacrum|NN
+sacrococcygeal|NN treatment|NN
+stage|NN bone|NN cancer|NN
+stage|NN bone|NN cancer|NN
+stage|NN bone|NN cancer|NN
+stage|NN bone|NN cancer|NN
+stage|NN bone|NN cancer|NN
+definition|NN Bone tumor|Disease Bone tumor|Disease lesion|NN organ|NN carcinoma|NN breast|NN lung|NN prostate|NN
+statistics|NN incidence|NN prevalence|NN mortality|NN Bone tumor|Disease year|NN age|NN carcinoma|NN bone|NN biopsy|NN origin|NN tumor|NN case|NN
+treatment|NN Bone tumor|Disease type|NN tumor|NN
+radiotherapy|NN sarcoma|NN variety|NN chemotherapy|NN treatment|NN protocol|NN Bone tumor|Disease
+protocol|NN survival|NN children|NN adult|NN protocol|NN tumor|NN response|NN arteriogram|NN
+tumor|NN response|NN necrosis|NN intervention|NN
+concern|NN bone|NN density|NN bone|NN loss|NN
+increase|NN bone|NN strength|NN prescription|NN pill|NN
+chloride|NN medication|NN pain|NN month|NN interval|NN
+strontium|NN chloride|NN injection|NN bio-nucleonics|NN version|NN treatment|NN article|NN
+treatment|NN bone|NN cancer|NN surgery|NN limb|NN amputation|NN limb|NN surgery|NN combination|NN chemotherapy|NN radiation|NN therapy|NN
+limb|NN surgery|NN limb|NN salvage|NN surgery|NN limb|NN amputation|NN
+amputation|NN bone|NN way|NN bone|NN graft|NN bone|NN body|NN bone|NN
+leg|NN surgery|NN limb|NN salvage|NN
+surgery|NN van|NP rotation|NN rotationplasty|NN form|NN amputation|NN patient|NN foot|NN degree|NN turn|NN foot|NN knee|NN
+type|NN amputation|NN
+knee|NN knee|NN symes|NP hip|NN disarticulation|NN leg|NN half|NN pelvis|NN
+elbow|NN elbow|NN shoulder|NN amputation|NN arm|NN shoulder|NN blade|NN clavicle|NN
+amputation|NN waist|NN amputation|NN leg|NN pelvis|NN system|NN system|NN area|NN male|NN vaginavulva|NN female|NN
+operation|NN stage|NN
+stage|NN colostomy|NN conduit|NN stage|NN amputation|NN
+mutilate|NN operation|NN resort|NN exenteration|NN case|NN pelvicreproductive|NN cancer|NN ablation|NN technique|NN
+decade|NN ct|NN ablation|NN alternative|NN resection|NN care|NN Bone tumor|Disease
+technique|NN sedation|NN rf|NP probe|NN tumor|NN needle|NN ct|NN guidance|NN heat|NN tumor|NN cell|NN
+procedure|NN treatment|NN osteoma|NN study|NN result|NN bone|NN destruction|NN safety|NN efficacy|NN technique|NN patient|NN freedom|NN symptom|NN success|NN rate|NN rfa|NN symptom|NN recurrence|NN rfa|NN treatment|NN study|NN recurrence|NN rate|NN treatment|NN
+ablation|NN technique|NN treatment|NN bone|NN disease|NN
+beam|NN radiation|NN therapy|NN standard|NN care|NN patient|NN bone|NN pain|NN disease|NN
+majority|NN patient|NN experience|NN relief|NN pain|NN radiation|NN therapy|NN effect|NN study|NN patient|NN patient|NN therapy|NN radiation|NN therapy|NN chemotherapy|NN surgery|NN analgesic|NN medication|NN ablation|NN technique|NN alternative|NN pain|NN reduction|NN
+trial|NN efficacy|NN rfa|NN treatment|NN pain|NN patient|NN bone|NN disease|NN decrease|NN pain|NN treatment|NN study|NN patient|NN site|NN pain|NN tumor|NN therapy|NN
+alternative|NN area|NN destruction|NN technique|NN ct|NN rfa|NN advantage|NN structure|NN
+outlook|NN type|NN tumor|NN
+outcome|NN people|NN tumor|NN type|NN tumor|NN
+Bone tumor|Disease patient|NN cure|NN cure|NN rate|NN type|NN cancer|NN location|NN size|NN factor|NN
+bone|NN scintigraphy|NN

@@ -1,0 +1,92 @@
+Nephrocalcinosis,Albright's calcinosis,Anderson-Carr kidneys
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Nephrocalcinosis
+Other names	Anderson-Carr kidneys
+Specialty	Urology Edit this on Wikidata
+
+Nephrocalcinosis, once known as Albright's calcinosis after Fuller Albright, is a term originally used to describe deposition of calcium salts in the renal parenchyma due to hyperparathyroidism. The term nephrocalcinosis is used to describe the deposition of both calcium oxalate and calcium phosphate.[1] It may cause acute kidney injury. It is now more commonly used to describe diffuse, fine, renal parenchymal calcification on radiology.[2] It is caused by multiple different conditions and is determined progressive kidney dysfunction. These outlines eventually come together to form a dense mass.[3] During its early stages, nephrocalcinosis is visible on x-ray, and appears as a fine granular mottling over the renal outlines. It is most commonly seen as an incidental finding with medullary sponge kidney on an abdominal x-ray. However, it may be severe enough to cause (as well as be caused by) renal tubular acidosis or even end stage renal failure, due to disruption of the renal tissue by the deposited calcium.
+Contents
+
+    1 Symptoms
+    2 Cause
+        2.1 Medullary nephrocalcinosis
+        2.2 Hypercalciuria without hypercalcemia
+    3 Mechanism
+    4 Diagnosis
+        4.1 Stages of nephrocalcinosis
+    5 Treatment
+    6 Prognosis
+    7 Recent Research
+    8 References
+    9 External links
+
+Symptoms
+
+Though this condition is usually asymptomatic, if symptoms are present they are usually related to the causative process, (e.g. hypercalcemia).[4] Some of the sympotoms that can happen are blood in the urine, fever and chills, nausea and vomiting, severe pain in the belly area, flanks of the back, groin, or testicles.
+
+These include renal colic, polyuria and polydipsia:[4]
+
+    Renal colic is usually caused by pre-existing nephrolithiasis, as may occur in patients with chronic hypercalciuria.[4] Less commonly, it can result from calcified bodies moving into the calyceal system.[4]
+    Nocturia, polyuria, and polydipsia from reduced urinary concentrating capacity (i.e. nephrogenic diabetes insipidus) as can be seen in hypercalcemia, medullary nephrocalcinosis of any cause, or in children with Bartter syndrome in whom essential tubular salt reabsorption is compromised.[4]
+
+There are several causes of nephrocalcinosis that are typically acute and present only with renal failure.[4] These include tumor lysis syndrome, acute phosphate nephropathy, and occasional cases of enteric hyperoxaluria.[4]
+Cause
+
+Nephrocalcinosis Is connected with conditions that cause hypercalcemia, hyperphosphatemia, and the increased excretion of calcium, phosphate, and/or oxalate in the urine. A high urine pH can lead to Nephrocalcinosis but only if it is accompanied by hypercalciuria and hypocitraturia, since having a normal urinary citrate usually inhibits the crystallization of calcium. In conjunction with Nephrocalcinosis, hypercalcemia and hypercalciuria the following can occur:
+
+    Primary hyperparathyroidism: Nephrocalcinosis is one of the most common symptoms of primary hyperparathyroidism.[5]
+    Sarcoidosis: Nephrocalcinosis is one of the most common symptoms.[6]
+    Vitamin D therapy: This can cause nephrocalcinosis because of Vitamin D therapy becauseit increase the absorption of ingested calcium and bone resorption, resulting in hypercalcemia and hypercalciuria.[1]
+
+Medullary nephrocalcinosis
+Medullary nephrocalcinosis in Sonography
+
+    Medullary sponge kidney
+    Renal tubular acidosis (specifically distal RTA)
+
+Renal tuberculosis
+
+    Renal papillary necrosis
+    Hyperoxaluria
+
+And other causes of hypercalcemia (and thus hypercalciuria)
+
+    Immobilization (leading to hypercalcemia and hypercalciuria)
+    Milk-alkali syndrome
+    Hypervitaminosis D
+    Multiple myeloma
+
+Hypercalciuria without hypercalcemia
+
+These conditions can cause nephrocalcinosis in association with hypercalciuria without hypercalcemia:
+
+    Distal renal tubular acidosis
+    Medullary sponge kidney
+    Neonatal nephrocalcinosis and loop diuretics
+    Inherited tubulopathies
+    Chronic hypokalemia
+    Beta thalassemia
+
+Mechanism
+
+Nephrocalcinosis is caused by an increase in the urinary excretion of calcium, phosphate, and/or oxalate.[1] Nephrocalcinosis is closely associated with nephrolithiasis, and patients frequently present with both conditions, however there have been cases where one occurs without the other.[1] Calcium oxalate and calcium phosphate crystals form when the concentration of the reactants exceeds the limit. The deposits are collected in the inner medullary interstitium in the basement membranes of the thin limbs of the loop of Henle.[7] The calcium phosphate plaques can enlarge into the surrounding interstitial tissue, or even rupture into the tubule lumen and can promote calcium oxalate stone formation.[1]
+Diagnosis
+
+Nephrocalcinosis is diagnosed for the most part by imaging techniques. The imagings used are ultrasound (US), abdominal plain film and CT imaging.[8] Of the 3 techniques CT and US are the more preferred. Nephrocalcinosis is considered present if at least two radiologists make the diagnosis on US and/or CT. In some cases a renal biopsy is done instead if imaging is not enough to confirm nephrocalcinosis. Once the diagnosis is confirmed additional testing is needed to find the underlying cause because the underlying condition may require treatment for reasons independent of nephrocalcinosis.[8] These additional tests will measure serum, electrolytes, calcium, and phosphate, and the urine pH.[8] If no underlying cause can be found then urine collection should be done for 24 hours and measurements of the excretion of calcium, phosphate, oxalate, citrate, and creatinine are looked at.[8]
+Stages of nephrocalcinosis
+
+    Chemical or Molecular nephrocalcinosis: Defined as a measurable increase in intracellular calcium concentrations, however, it is not visible through X-ray or microscopically.[1]
+    Microscopic nephrocalcinosis: Occurs when depositis are visible by light microscope by obtaining a tissue sample from a biopsy. However, this cannot be seen in a X-ray.[1]
+    Macroscopic nephrocalcinosis: Occurs when calcification can be seen through X-ray imagaing.[1]
+
+Treatment
+
+Increasing fluid intake to yield a urine output of greater than 2 liters a day can be advantageous for all patients with nephrocalcinosis. Patients with hypercalciuria can reduce calcium excretion by restricting animal protein, limiting sodium intake to less than 100 meq a day and being lax of potassium intake. If changing ones diet alone does not result in an suitable reduction of hypercalciuria, a thiazide diuretic can be administered in patients who do not have hypercalcemia. Citrate can increase the solubility of calcium in urine and limit the development of nephrocalcinosis. Citrate is not given to patients who have urine pH equal to or greater than 7.
+Prognosis
+
+The prognosis of nephrocalcinosis is determined by the underlying cause. Most cases of nephrocalcinosis do not progress to end stage renal disease, however if not treated it can lead to renal dysfunction this includes primary hyperoxaluria, hypomagnesemic hypercalciuric nephrocalcinosis and Dent's disease.[9] Once nephrocalcinosis is found, it is unlikely to be reversed, however, partial reversal has been reported in patients who have had successful treatment of hypercalciuria and hyperoxaluria following corrective intestinal surgery.[9]
+Recent Research
+
+In recent findings they have found that there is a genetic predisposition to nephrocalciosis, however the specific genetic and epigenetic factors are not clear. There seems to be multiple genetic factors that regulate the excretion of the different urinary risk factors. There has been some correlation seen that shows gene polymorphisms related to stone formation for calcium-sensing receptor and vitamin D receptors.[10] Repeated calcium stones associated with medullary sponge kidney may be related to an autosomal dominant mutation of a still unknown gene, however the genes is GDNF seems to be a gene involved in renal morphogenesis.[10] In conjunction with the gene research is another theory of how the disease manifests. This is called the free particle theory. This theory says that the increasing concentration of lithogenic solutes along the segments of the nephron leads to the formation, growth, and collection of crystals that might get trapped in the tubular lumen and begin the process of stone formation.[11] Some of the backing behind this theory is the speed of growth of the crystals, the diameter of the segments of the nephron, and the transit time in the nephron. All of these combined show more and more support for this theory.[11] 

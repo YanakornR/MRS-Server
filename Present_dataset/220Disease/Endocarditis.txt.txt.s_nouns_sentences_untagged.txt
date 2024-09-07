@@ -1,0 +1,20 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN endocarditis|DS blood|NN culture|NN endocarditis|DS bartonella|NN bacilly|NN valve|NN patient|NN blood|NN endocarditis|DS 
+bacilly|NN granulation|NN 
+endocarditis|DS inflammation|NN layer|NN heart|NN endocardium|NN 
+heart|NN valve|NN 
+structure|NN interventricular|NN chordae|NN mural|NN surface|NN device|NN 
+endocarditis|DS lesion|NN vegetation|NN mass|NN platelet|NN fibrin|NN microcolony|NN microorganism|NN cell|NN form|NN endocarditis|DS vegetation|NN center|NN tissue|NN 
+way|NN endocarditis|DS 
+classification|NN cause|NN microorganism|NN source|NN inflammation|NN 
+diagnosis|NN endocarditis|DS feature|NN investigation|NN echocardiogram|NN blood|NN culture|NN presence|NN endocarditis|DS microorganism|NN 
+sign|NN symptom|NN fever|ST chill|NN malaise|ST weakness|ST anorexia|ST weight_loss|ST feel|NN murmur|NN heart|NN failure|NN spot|NN skin|NN node|NN nodule|NN hand|NN feet|NN lesion|NN lesion|NN palm|NN sole|NN spot|NN 
+endocarditis|DS endocarditis|DS reference|NN read|NN link|NN 
+endocarditis|DS article|NN endocarditis|DS 
+endocarditis|DS infection|NN surface|NN heart|NN valve|NN symptom|NN fever|ST area|NN bleed|NN skin|NN heart|NN murmur|NN feel|NN blood|NN cell|NN complication|NN insufficiency|NN heart|NN failure|NN stroke|NN kidney|NN failure|NN 
+cause|NN infection|NN infection|NN risk|NN factor|NN heart|NN disease|NN disease|NN heart|NN disease|NN valve|NN drug|NN use|NN pacemaker|NN diagnosis|NN symptom|NN blood|NN culture|NN ultrasound|NN 
+usefulness|NN antibiotics|NN procedure|NN prevention|NN risk|NN treatment|NN antibiotics|NN choice|NN antibiotics|NN blood|NN culture|NN heart|NN surgery|NN 
+number|NN people|NN year|NN rate|NN region|NN world|NN male|NN female|NN risk|NN death|NN treatment|NN endocarditis|DS article|NN endocarditis|DS 
+thrombotic|NN endocarditis|DS nbte|NN valve|NN endocarditis|DS vegetation|NN nbte|NN aggregate|NN edge|NN valve|NN cusp|NN endocarditis|DS inflammation|NN response|NN body|NN state|NN infection|NN pregnancy|NN patient|NN catheter|NN patient|NN cancer|DS adenocarcinoma|NN syndrome|NN 
+problem|NN part|NN vegetation|NN heart|NN brain|NN focus|NN bacteria|NN endocarditis|DS 
+form|NN endocarditis|DS endocarditis|DS form|NN patient|NN erythematosus|NN deposition|NN complexe|NN endocarditis|DS endocarditis|DS vegetation|NN complexe|NN inflammation|NN reaction|NN 
+endocarditis|DS location|NN deposition|NN undersurface|NN valve|NN endocardium|NN 

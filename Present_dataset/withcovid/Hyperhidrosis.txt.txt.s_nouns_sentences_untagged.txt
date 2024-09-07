@@ -1,0 +1,85 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN hyperhidrosis|DS name|NN hyperhidrosis|DS hyperhidrosis|DS hyperhidrosis|DS dermatology|NN 
+hyperhidrosis|DS condition|NN sweate|NN excess|NN regulation|NN body|NN temperature|NN burden|NN hyperhidrosis|DS quality|NN life|NN perspective|NN handicap|NN 
+word|NN perspiration|ST sense|NN sweate|NN perspiration|ST case|NN disorder|NN 
+classification|NN cause|NN hyperhidrosis|DS secondary|NN hyperhidrosis|DS cancer|DS diagnosis|NN treatment|NN procedure|NN surgery|NN epidemiology|NN reference|NN link|NN 
+classification|NN scale|NN quantification|NN 
+hyperhidrosis|DS part|NN body|NN 
+hand|NN feet|NN armpit|NN groin|NN area|NN region|NN perspiration|ST number|NN sweat|NN gland|NN gland|NN area|NN 
+sweate|NN palm|NN sole|NN face|NN scalp|NN hyperhidrosis|DS hyperhidrosis|DS 
+sweate|NN body|NN hyperhidrosis|DS hyperhidrosis|DS 
+result|NN condition|NN 
+hyperhidrosis|DS area|NN instance|NN hyperhidrosis|DS sweate|NN hand|NN feet|NN gustatory|NN hyperhidrosis|DS sweate|NN face|NN chest|NN moment|NN food|NN 
+hyperhidrosis|DS onset|NN present|NN birth|NN begine|NN life|NN 
+hyperhidrosis|DS adolescence|NN trait|NN 
+hyperhidrosis|DS point|NN life|NN 
+hyperhidrosis|DS disorder|NN thyroid|NN pituitary|NN gland|NN diabete|NN mellitus|NN gout|DS menopause|NN drug|NN mercury|NN poison|NN 
+classification|NN scheme|NN amount|NN skin|NN scheme|NN sweate|NN area|NN square|NN inche|NN affect|NN area|NN 
+classification|NN scheme|NN cause|NN hyperhidrosis|DS 
+cause|NN information|NN 
+cause|NN hyperhidrosis|DS physicianswho|NN 
+over-activity|NN system|NN 
+anxiety|ST excitement|NN condition|NN sufferer|NN 
+complaint|NN patient|NN sweat|NN 
+factor|NN role|NN food|NN drink|NN nicotine|NN caffeine|NN smell|NN 
+hyperhidrosis|DS information|NN hyperhidrosis|DS 
+hyperhidrosis|DS cause|NN 
+hyperhidrosis|DS association|NN rubber|NN tumor|NN syndrome|NN burn|NN feet|NN syndrome|NN trench|NN foot|NN pretibial|NN sweate|NN neuropathy|NN herpe|NN shingle|NN abscess|NN sympathectomy|NN syndrome|NN deficit|NN syndrome|NN harlequin|NN syndrome|NN hyperhidrosis|DS 
+hyperhidrosis|DS cause|NN type|NN cancer|DS disturbance|NN system|NN infection|NN medication|NN 
+variety|NN cancer|DS development|NN hyperhidrosis|DS lymphoma|DS tumor|NN syndrome|NN tumor|NN cavity|NN 
+condition|NN hyperhidrosis|DS diabete|NN mellitus|NN blood|NN sugar|NN form|NN disease|NN 
+use|NN serotonin|NN reuptake|NN inhibitor|NN cause|NN secondary|NN hyperhidrosis|DS medication|NN hyperhidrosis|DS antidepressant|NN opioid|NN drug|NN nsaids|NN glyburide|NN insulin|NN anxiolytic|NN agent|NN agonist|NN agonist|NN 
+people|NN history|NN cord|NN injury|NN hypotension|NN neuropathy|NN syndrome|NN dysfunction|NN pain|ST loss|NN exposure|NN cold|NN syndrome|NN brain|NN lesion|NN hypothermia|DS hines|NN syndrome|NN hypothermia|DS problem|NN disease|NN heart|NN failure|NN anxiety|ST obesity|NN state|NN night|NN sweat|NN acrodynia|NN mercury|NN exposure|NN accumulation|NN picture|NN 
+disease|NN exercise|NN environment|NN 
+symmetry|NN sweate|NN hyperhidrosis|DS hyperhidrosis|DS sweate|NN side|NN body|NN hyperhidrosis|DS investigation|NN cause|NN treatment|NN 
+treatment|NN hyperhidrosis|DS agent|NN hyperhidrosis|DS therapy|NN formaldehyde|NN lotion|NN 
+agent|NN perspiration|ST keratin|NN turn|NN pore|NN sweat|NN gland|NN 
+carcinogen|NN inhalation|NN day|NN day|NN year|NN year|NN brain|NN cancer|DS contact|NN sensitization|NN formalin|NN 
+aluminium|NN chlorohydrate|NN antiperspirant|NN 
+hyperhidrosis|DS solution|NN gel|NN concentration|NN 
+solution|NN hyperhidrosis|DS gel|NN treatment|NN region|NN 
+day|NN improvement|NN 
+side-effect|NN skin|NN irritation|NN 
+case|NN plantar|NN palmar|NN hyperhidrosis|DS success|NN measure|NN strength|NN aluminium|NN chloride|NN treatment|NN algorithm|NN hyperhidrosis|DS antiperspirant|NN line|NN therapy|NN hyperhidrosis|DS 
+hyperhidrosis|DS society|NN canadian|NN hyperhidrosis|DS committee|NN treatment|NN guideline|NN hyperhidrosis|DS 
+prescription|NN medication|NN mouth|NN treatment|NN hyperhidrosis|DS hyperhidrosis|DS bromide|NN oxybutynin|NN 
+use|NN drug|NN side-effect|NN mouth|NN retention|NN constipation|ST disturbance|NN dilation|NN pupil|NN cycloplegia|NN 
+people|NN hyperhidrosis|DS situation|NN public|NN stage|NN performance|NN event|NN wed|NN medicine|NN event|NN 
+drug|NN hyperhidrosis|DS 
+name|NN ditropan|NN promise|NN side-effect|NN drowsiness|NN symptom|NN dryness|NN mouth|NN mucous|NN membrane|NN 
+oxybutynin|NN side-effect|NN 
+food|NN drug|NN administration|NN fda|NN glycopyrronium|NN cloth|NN brand|NN name|NN treatment|NN hyperhidrosis|DS 
+hyperhidrosis|DS sufferer|NN relief|NN ice|NN water|NN 
+ice|NN water|NN body|NN heat|NN transport|NN blood|NN vessel|NN extremity|NN body|NN temperature|NN level|NN minute|NN procedure|NN 
+injections|NN toxin|NN type|NN control|NN sweat|NN gland|NN 
+effect|NN month|NN site|NN injection|NN use|NN 
+food|NN drug|NN administration|NN fda|NN duration|NN effect|NN palmar|NN hyperhidrosis|DS repetition|NN injection|NN injection|NN 
+measure|NN pain|ST application|NN ice|NN 
+bushara|NN colleague|NN nonmuscular|NN use|NN btx-a|NN treatment|NN hyperhidrosis|DS sweate|NN cause|NN agent|NN 
+device|NN perspiration|ST promise|NN 
+tap|NN water|NN treatment|NN hyperhidrosis|DS study|NN result|NN safety|NN tap|NN water|NN trial|NN sweate|NN surgery|NN 
+sweat|NN gland|NN removal|NN destruction|NN option|NN hyperhidrosis|DS perspiration|ST 
+method|NN sweat|NN gland|NN removal|NN destruction|NN sweat|NN gland|NN suction|NN retrodermal|NN liposuction|NN laser|NN sweat|NN 
+sweat|NN gland|NN suction|NN technique|NN 
+option|NN sympathectomy|NN ets|NN burn|NN ganglion|NN chain|NN spine|NN 
+reversal|NN procedure|NN 
+ets|NN procedure|NN patient|NN result|NN surgery|NN satisfaction|NN rate|NN children|NN procedure|NN relief|NN hand|NN sweate|NN patient|NN ets|NN hyperhidrosis|DS blush|NN sweate|NN failure|NN rate|NN patient|NN blush|NN sweate|NN patient|NN side|NN effect|NN 
+ets|NN side-effect|NN side-effect|NN ets|NN sweate|NN sweate|NN area|NN surgery|NN 
+problem|NN sweate|NN 2080|NN patient|NN surgery|NN people|NN sweate|NN claim|NN quality|NN life|NN result|NN sweate|NN 
+body|NN perspiration|ST response|NN heat|NN sweate|NN problem|NN nerve|NN regeneration|NN month|NN procedure|NN 
+side-effect|NN syndrome|NN dryness|NN palm|NN sandpaper|NN hand|NN patient|NN denervation|NN decrease|NN heart|NN rate|NN rest|NN exercise|NN exercise|NN tolerance|NN 
+procedure|NN method|NN nerve|NN injection|NN phenol|NN procedure|NN relief|NN case|NN 
+physician|NN procedure|NN sympathectomy|NN effect|NN 
+hyperhidrosis|DS consequence|NN hand|NN dehydration|NN skin|NN infection|NN maceration|NN skin|NN 
+hyperhidrosis|DS effect|NN life|NN 
+hyperhidrosis|DS stress|NN level|NN depression|ST 
+sweate|NN hyperhidrosis|DS hand|NN routine|NN activity|NN object|NN 
+hyperhidrosis|DS sufferer|NN situation|NN contact|NN person|NN handshake|NN 
+sweat|NN spot|NN armpit|NN sufferer|NN arm|NN movement|NN pose|NN 
+case|NN shirt|NN time|NN day|NN shower|NN sweat|NN control|NN body|NN issue|NN problem|NN acne|DS dandruff|NN athlete|NN foot|NN 
+anxiety|ST self-consciousness|NN sweate|NN sweate|NN 
+sweate|NN feet|NN patient|NN shoe|NN feet|NN shoe|NN sweat|NN 
+career|NN challenge|NN people|NN hyperhidrosis|DS 
+example|NN career|NN use|NN knife|NN people|NN sweate|NN hand|NN 
+risk|NN dehydration|NN ability|NN function|NN condition|NN play|NN instrument|NN hand|NN epidemiology|NN 
+incidence|NN hyperhidrosis|DS population|NN united|NN states|NN men|NN women|NN people|NN year|NN childhood|NN 3050|NN people|NN family|NN member|NN predisposition|NN 
+researcher|NN saga|NN university|NN japan|NN palmar|NN hyperhidrosis|DS map|NN gene|NN locus|NN 

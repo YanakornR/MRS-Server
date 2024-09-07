@@ -1,0 +1,41 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+bronchitis|DS bronchitis|DS figure|NN location|NN lung|NN tube|NN 
+figure|NN view|NN tube|NN 
+figure|NN view|NN tube|NN bronchitis|DS 
+disease|NN symptom|NN mucus|NN wheez|NN shortness|NN breath|NN chest|NN discomfort|NN type|NN frequency|NN people|NN year|NN people|NN 
+bronchitis|DS inflammation|NN bronchy|NN airway|NN lung|NN cause|NN symptom|NN sputum|ST wheez|NN shortness|NN breath|NN chest_pain|ST bronchitis|DS 
+bronchitis|DS cough|ST week|NN chest|NN cold|NN case|NN cause|NN infection|NN viruse|NN air|NN people|NN cough|ST contact|NN number|NN case|NN infection|NN pneumoniae|NN pertussis|DS risk|NN factor|NN exposure|NN tobacco|NN smoke|NN dust|NN air|NN pollution|NN treatment|NN bronchitis|DS rest|NN paracetamol|NN drug|NN nsaids|NN fever|ST 
+bronchitis|DS cough|ST sputum|ST month|NN year|NN year|NN people|NN bronchitis|DS disease|NN tobacco|NN smoke|NN cause|NN number|NN factor|NN air|NN pollution|NN genetics|NN role|NN treatment|NN smoke|NN vaccination|NN rehabilitation|NN bronchodilator|NN steroid|NN people|NN oxygen|NN therapy|NN 
+bronchitis|DS disease|NN adult|NN children|NN episode|NN year|NN bronchitis|DS type|NN bronchitis|DS united|NN states|NN 2016|NN people|NN bronchitis|DS content|NN 
+bronchitis|DS cause|NN diagnosis|NN treatment|NN epidemiology|NN bronchitis|DS cause|NN treatment|NN epidemiology|NN bronchitis|DS reference|NN link|NN 
+bronchitis|DS article|NN bronchitis|DS bronchitis|DS 
+bronchitis|DS chest|NN cold|NN term|NN inflammation|NN bronchy|NN lung|NN symptom|NN cough|ST sputum|ST symptom|NN mucus|NN wheez|NN shortness|NN breath|NN fever|ST chest|NN discomfort|NN infection|NN day|NN cough|ST week|NN duration|NN symptom|NN week|NN symptom|NN week|NN cause|NN 
+case|NN cause|NN infection|NN viruse|NN air|NN people|NN cough|ST contact|NN risk|NN factor|NN exposure|NN tobacco|NN smoke|NN dust|NN air|NN pollutant|NN number|NN case|NN level|NN air|NN pollution|NN bacteria|NN pneumoniae|NN pertussis|DS diagnosis|NN 
+diagnosis|NN person|NN sign|NN symptom|NN color|NN sputum|ST infection|NN organism|NN cause|NN symptom|NN asthma|DS pneumonia|DS bronchiolitis|NN chest|NN x-ray|NN pneumonia|DS 
+sign|NN bronchitis|DS cough|ST day|NN week|NN 
+cough|ST month|NN year|NN bronchitis|DS 
+addition|NN fever|ST 
+bronchitis|DS infection|NN 
+infection|NN influenza|DS 
+test|NN order|NN bronchitis|DS treatment|NN 
+prevention|NN lung|NN irritant|NN hand|NN wash|NN treatment|NN bronchitis|DS rest|NN paracetamol|NN nsaids|NN fever|ST cough|ST medicine|NN support|NN use|NN children|NN age|NN evidence|NN salbutamol|NN wheez|NN nervousness|NN tremor|ST antibiotics|NN exception|NN bronchitis|DS pertussis|DS evidence|NN honey|NN pelargonium|NN symptom|NN plenty|NN rest|NN fluid|NN herb|NN effect|NN epidemiology|NN 
+bronchitis|DS disease|NN adult|NN children|NN episode|NN year|NN winter|NN people|NN visit|NN doctor|NN year|NN condition|NN antibiotics|NN effort|NN use|NN antibiotics|NN bronchitis|DS bronchitis|DS type|NN bronchitis|DS bronchitis|DS disease|NN 
+bronchitis|DS cough|ST month|NN year|NN year|NN airflow|NN disease|NN bronchitis|DS people|NN bronchitis|DS people|NN copd|NN bronchitis|DS term|NN bronchitis|DS type|NN bronchitis|DS tract|NN disease|NN overproduction|NN mucin|NN mucus|NN mucus|NN goblet|NN cell|NN narrow|NN airway|NN airway|NN obstruction|NN secretion|NN cough|ST awaken|NN sputum|ST color|NN speck|NN blood|NN stage|NN disease|NN cough|ST mucus|NN clearance|NN 
+secretion|NN clearance|NN airway|NN cough|ST bronchitis|DS number|NN exacerbation|NN decline|NN lung|NN function|NN icd-11|NN bronchitis|DS emphysema|DS bronchitis|DS copd|NN cause|NN 
+case|NN bronchitis|DS tobacco|NN smoke|NN bronchitis|DS adult|NN smoke|NN chance|NN copd|NN addition|NN inhalation|NN air|NN pollution|NN fume|NN dust|NN exposure|NN occupation|NN coal|NN mine|NN grain|NN handle|NN textile|NN manufacture|NN livestock|NN farm|NN metal|NN mould|NN risk|NN factor|NN development|NN bronchitis|DS bronchitis|DS way|NN bronchitis|DS factor|NN role|NN 
+air|NN quality|NN system|NN level|NN nitrogen|NN dioxide|NN dioxide|NN symptom|NN 
+dioxide|NN inflammation|NN bronchitis|DS infection|NN 
+air|NN pollution|NN workplace|NN cause|NN disease|NN bronchitis|DS treatment|NN 
+decline|NN lung|NN function|NN bronchitis|DS bronchitis|DS medication|NN 
+approache|NN rehabilitation|NN oxygen|NN therapy|NN 
+distinction|NN worsen|NN bronchitis|DS bronchitis|DS 
+cochrane|NN review|NN mucolytics|NN bronchitis|DS chance|NN exacerbation|NN guaifenesin|NN treatment|NN bronchitis|DS 
+advantage|NN use|NN tablet|NN hour|NN mucolytic|NN bronchitis|DS inhibitor|NN epidemiology|NN 
+bronchitis|DS population|NN 
+individual|NN age|NN year|NN age|NN smoker|NN work|NN area|NN air|NN pollution|NN asthma|DS risk|NN bronchitis|DS range|NN definition|NN bronchitis|DS sign|NN symptom|NN diagnosis|NN disorder|NN 
+bronchitis|DS men|NN women|NN 
+risk|NN factor|NN bronchitis|DS chance|NN smoker|NN bronchitis|DS 
+risk|NN factor|NN inhalation|NN fuel|NN fume|NN factor|NN united|NN states|NN 2016|NN people|NN bronchitis|DS death|NN 
+population|NN death|NN rate|NN bronchitis|DS bronchitis|DS 
+bronchitis|DS children|NN cough|ST bronchoalveolar|NN lavage|NN antibiotics|NN bronchitis|DS pneumoniae|NN haemophilus|NN catarrhalis|NN bronchitis|DS week|NN children|NN antibiotics|NN 
+plastic|NN bronchitis|DS 

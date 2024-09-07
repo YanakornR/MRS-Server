@@ -1,0 +1,179 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Appendicitis|Disease name|NN Appendicitis|Disease Appendicitis|Disease appendix|NN
+surgery|NN symptom|NN pain|NN appetite|NN complication|NN inflammation|NN sepsis|NN method|NN symptom|NN image|NN blood|NN test|NN diagnosis|NN cholecystitis|NN abscess|NN aneurysm|NN treatment|NN removal|NN appendix|NN antibiotics|NN frequency|NN death|NN
+Appendicitis|Disease inflammation|NN appendix|NN symptom|NN pain|NN nausea|NN vomit|NN appetite|NN people|NN symptom|NN complication|NN appendix|NN inflammation|NN line|NN wall|NN sepsis|NN
+Appendicitis|Disease blockage|NN portion|NN appendix|NN stone|NN tissue|NN infection|NN parasite|NN blockage|NN blockage|NN pressure|NN appendix|NN blood|NN flow|NN tissue|NN appendix|NN growth|NN appendix|NN inflammation|NN combination|NN inflammation|NN blood|NN flow|NN appendix|NN distention|NN appendix|NN tissue|NN injury|NN tissue|NN death|NN process|NN appendix|NN bacteria|NN cavity|NN complication|NN
+diagnosis|NN Appendicitis|Disease person|NN sign|NN symptom|NN case|NN diagnosis|NN observation|NN image|NN laboratory|NN test|NN image|NN test|NN ultrasound|NN tomography|NN ct|NN scan|NN ct|NN scan|NN ultrasound|NN Appendicitis|Disease ultrasound|NN image|NN test|NN children|NN women|NN risk|NN radiation|NN exposure|NN ct|NN scan|NN
+treatment|NN Appendicitis|Disease removal|NN appendix|NN incision|NN abdomen|NN laparotomy|NN incision|NN help|NN camera|NN laparoscopy|NN
+surgery|NN risk|NN side|NN effect|NN death|NN rupture|NN appendix|NN antibiotics|NN case|NN non-rupture|NN Appendicitis|Disease cause|NN pain|NN
+case|NN Appendicitis|Disease death|NN united|NP states|NP Appendicitis|Disease cause|NN pain|NN surgery|NN year|NN united|NP states|NP people|NN Appendicitis|Disease appendix|NN reginald|NP fitz|NP person|NN condition|NN Appendicitis|Disease media|NN video|NN summary|NN script|NN content|NN
+sign|NN symptom|NN cause|NN diagnosis|NN blood|NN urine|NN test|NN image|NN score|NN system|NN pathology|NN diagnosis|NN management|NN pain|NN surgery|NN epidemiology|NN reference|NN link|NN
+sign|NN symptom|NN location|NN appendix|NN system|NN
+presentation|NN Appendicitis|Disease pain|NN nausea|NN vomit|NN fever|NN
+appendix|NN wall|NN
+localization|NN pain|NN quadrant|NN
+migration|NN pain|NN children|NN year|NN
+pain|NN sign|NN
+sign|NN find|NN right|NN fossa|NN
+wall|NN pressure|NN
+pain|NN release|NN pressure|NN abdomen|NN rebound|NN tenderness|NN
+appendix|NN cecum|NN pressure|NN quadrant|NN tenderness|NN appendix|NN
+cecum|NN ga|NN appendix|NN pressure|NN
+appendix|NN pelvis|NN absence|NN rigidity|NN
+case|NN examination|NN tenderness|NN pouch|NN
+cause|NN point|NN tenderness|NN area|NN point|NN sign|NN
+Appendicitis|Disease end|NN result|NN obstruction|NN appendix|NN obstruction|NN appendix|NN mucus|NN swell|NN
+production|NN mucus|NN pressure|NN lumen|NN wall|NN appendix|NN
+pressure|NN result|NN thrombosis|NN occlusion|NN vessel|NN stasis|NN flow|NN
+point|NN recovery|NN
+occlusion|NN blood|NN vessel|NN appendix|NN
+bacteria|NN wall|NN pus|NN form|NN appendix|NN
+end|NN result|NN rupture|NN burst|NN appendix|NN peritonitis|NN sepsis|NN death|NN
+event|NN pain|NN symptom|NN
+agent|NN body|NN trauma|NN worm|NN fecal|NN deposit|NN appendicolith|NN occurrence|NN fecalith|NN attention|NN presence|NN people|NN Appendicitis|Disease country|NN addition|NN fecalith|NN Appendicitis|Disease stasis|NN arrest|NN role|NN people|NN Appendicitis|Disease bowel|NN movement|NN week|NN control|NN
+occurrence|NN fecalith|NN appendix|NN right-side|NN retention|NN reservoir|NN colon|NN transit|NN time|NN
+transit|NN time|NN study|NN disease|NN polyp|NN colon|NN cancer|NN community|NN Appendicitis|Disease community|NN
+study|NN transition|NN diet|NN fibre|NN frequency|NN Appendicitis|Disease disease|NN community|NN Appendicitis|Disease cancer|NN colon|NN rectum|NN study|NN evidence|NN fiber|NN intake|NN pathogenesis|NN Appendicitis|Disease intake|NN fiber|NN accordance|NN occurrence|NN right-side|NN reservoir|NN fact|NN fiber|NN transit|NN time|NN diagnosis|NN Appendicitis|Disease ct|NN image|NN
+diagnosis|NN history|NN symptom|NN examination|NN elevation|NN blood|NN cell|NN image|NN study|NN
+history|NN category|NN
+Appendicitis|Disease hour|NN pain|NN region|NN umbilicus|NN anorexia|NN nausea|NN vomit|NN
+pain|NN quadrant|NN tenderness|NN increase|NN intensity|NN
+pain|NN quadrant|NN people|NN totalis|NN
+combination|NN pain|NN anorexia|NN fever|NN
+history|NN lack|NN progression|NN pain|NN quadrant|NN symptom|NN
+irritation|NP peritoneum|NN line|NN wall|NN pain|NN movement|NN jolt|NN example|NN speed|NN bump|NN history|NN image|NN ultrasound|NN ct|NN
+sign|NN pain|NN palpation|NN finger|NN petit|NP triangle|NN shchetkin-bloomberg|NN sign|NN pain|NN palpation|NN right|NN region|NN person|NN side|NN back|NN sign|NN pain|NN quadrant|NN sign|NN patient|NN anorexia|NN Appendicitis|Disease kocher|NN sign|NN person|NN history|NN start|NN pain|NN region|NN shift|NN right|NN region|NN sign|NN southwest|NN england|NP examiner|NN swish|NN index|NN middle|NN finger|NN abdomen|NN process|NN left|NN right|NN fossa|NN
+massouh|NN sign|NN grimace|NN person|NN right|NN sign|NN person|NN back|NN hip|NN knee|NN degree|NN
+examiner|NN person|NN ankle|NN hand|NN knee|NN hand|NN
+examiner|NN hip|NN person|NN ankle|NN body|NN knee|NN
+test|NN pain|NN rotation|NN hip|NN sign|NN sign|NN pain|NN extension|NN hip|NN flexion|NN person|NN right|NN hip|NN
+pain|NN inflammation|NN peritoneum|NN muscle|NN inflammation|NN muscle|NN
+leg|NN pain|NN muscle|NN hip|NN iliopsoa|NN cause|NN pain|NN sign|NN pain|NN right|NN quadrant|NN palpation|NN start|NN left|NN fossa|NN colon|NN
+thought|NN pressure|NN appendix|NN bowel|NN content|NN air|NN valve|NN pain|NN sign|NN pain|NN right|NN region|NN person|NN side|NN
+blood|NN urine|NN test|NN
+laboratory|NN test|NN Appendicitis|Disease blood|NN count|NN cbc|NP sign|NN infection|NN
+percent|NN people|NN Appendicitis|Disease blood|NN cell|NN wbc|NP count|NN condition|NN wbc|NP count|NN sensitivity|NN specificity|NN wbc|NP indicator|NN Appendicitis|Disease
+urinalysis|NN infection|NN pregnancy|NN status|NN possibility|NN pregnancy|NN women|NN childbear|NN age|NN
+urinalysis|NN rule|NN tract|NN infection|NN cause|NN pain|NN
+presence|NN wbc|NP field|NN urine|NN tract|NN disorder|NN image|NN
+children|NN examination|NN children|NN pain|NN consultation|NN image|NN health|NN risk|NN children|NN radiation|NN ultrasound|NN choice|NN ct|NN scan|NN follow-up|NN ultrasound|NN ct|NN scan|NN ultrasound|NN diagnosis|NN Appendicitis|Disease adult|NN adolescent|NN
+ct|NN scan|NN sensitivity|NN specificity|NN
+sensitivity|NN specificity|NN ultrasound|NP ultrasound|NP image|NN Appendicitis|Disease
+ultrasonography|NN doppler|NN sonography|NN Appendicitis|Disease children|NN
+ultrasound|NP fluid|NN collection|NN right|NN fossa|NN appendix|NN blood|NN flow|NN color|NN doppler|NP noncompressibility|NN appendix|NN abscess|NN
+sonographic|NN sign|NN Appendicitis|Disease presence|NN fat|NN appendix|NN shadow|NN appendicolith|NN case|NN ultrasonography|NN fossa|NN abnormality|NN presence|NN Appendicitis|Disease
+find|NN Appendicitis|Disease appendix|NN
+addition|NN find|NN adult|NN amount|NN fat|NN bowel|NN ga|NN appendix|NN
+limitation|NN image|NN hand|NN Appendicitis|Disease disease|NN symptom|NN
+condition|NN inflammation|NN lymph|NN node|NN appendix|NN pain|NN organ|NN ovary|NN tube|NN
+radiology|NN department|NN emergency|NN physician|NN
+ultrasound|NN week|NN media|NN
+ultrasound|NP show|NN Appendicitis|Disease appendicolith|NN
+ultrasound|NP show|NN Appendicitis|Disease appendicolith|NN
+ultrasound|NN appendix|NN comparison|NN
+appendix|NN compression|NN
+absence|NN comprehensibility|NN Appendicitis|Disease
+tomography|NN ct|NN scan|NN Appendicitis|Disease appendix|NN diameter|NN mm|NN fat|NN fecalith|NN arrow|NN Appendicitis|Disease
+tomography|NN ct|NN people|NN diagnosis|NN history|NN examination|NN
+concern|NN radiation|NN use|NN ct|NN women|NN children|NN usage|NN mry|NN
+diagnosis|NN Appendicitis|Disease size|NN appendix|NN value|NN feature|NN sensitivity|NN specificity|NN
+size|NN mm|NN Appendicitis|Disease
+appendix|NN material|NN distention|NN criterion|NN utility|NN meta|NN analyse|NN ultrasound|NN wall|NN appendix|NN fece|NN
+scenario|NN feature|NN wall|NN enhancement|NN bowel|NN inflammation|NN fat|NN strand|NN diagnosis|NN absence|NN
+case|NN perforation|NN phlegmon|NN abscess|NN
+fluid|NN layer|NN pelvis|NN pus|NN spillage|NN
+patient|NN absence|NN fat|NN appendix|NN strand|NN resonance|NN image|NN
+use|NN diagnosis|NN Appendicitis|Disease children|NN patient|NN radiation|NN dosage|NN risk|NN adult|NN children|NN baby|NN
+pregnancy|NN second|NN trimester|NN uterus|NN appendix|NN ultrasound|NN
+strand|NN ct|NN strand|NN mri|NP fluid|NN signal|NN sequence|NN
+trimester|NN pregnancy|NN candidate|NN mry|NN fetus|NN study|NN date|NN risk|NN side|NN effect|NN x-ray|NN x-ray|NN
+radiography|NN par|NN diagnosis|NN Appendicitis|Disease person|NN Appendicitis|Disease film|NN detection|NN calculy|NN bowel|NN obstruction|NN ulcer|NN condition|NN Appendicitis|Disease fecalith|NN quadrant|NN people|NN Appendicitis|Disease barium|NN enema|NN tool|NN Appendicitis|Disease
+failure|NN appendix|NN barium|NN enema|NN Appendicitis|Disease appendice|NN score|NN system|NN
+score|NN system|NN child|NN Appendicitis|Disease score|NN Appendicitis|Disease score|NN
+score|NN score|NN system|NN
+score|NN diagnosis|NN Appendicitis|Disease score|NN Appendicitis|Disease
+person|NN score|NN ct|NN scan|NN ultrasound|NN exam|NN rate|NN appendectomy|NN
+score|NN iliac|NN fossa|NN pain|NN point|NN anorexia|NN point|NN nausea|NN vomit|NN point|NN fossa|NN tenderness|NN point|NN tenderness|NN point|NN fever|NN point|NN blood|NN cell|NN count|NN point|NN neutrophil|NN point|NN score|NN point|NN pathology|NN
+diagnosis|NN pathology|NN
+find|NN Appendicitis|Disease muscularis|NN propria|NN
+peri|NP Appendicitis|Disease inflammation|NN tissue|NN appendix|NN conjunction|NN pathology|NN
+micrograph|NP Appendicitis|Disease peri|NP Appendicitis|Disease
+Appendicitis|Disease neutrophil|NN muscularis|NN propria|NN
+diagnosis|NN ct|NN scan|NN person|NN Appendicitis|Disease pain|NN
+ct|NN fact|NN gallbladder|NN part|NN abdomen|NN
+children|NN adenitis|NN intussusception|NN pneumonia|NN tract|NN infection|NN pain|NN absence|NN symptom|NN children|NN new-onset|NN disease|NN colitis|NN pancreatitis|NN trauma|NN child|NN abuse|NN obstruction|NN syndrome|NN children|NN fibrosis|NN children|NN
+women|NN pregnancy|NN test|NN women|NN childbear|NN age|NN pregnancy|NN sign|NN symptom|NN Appendicitis|Disease
+obstetricalgynecological|NN cause|NN pain|NN women|NN disease|NN torsion|NN menarche|NN endometriosis|NN pass|NN egg|NN ovary|NN week|NN menstruation|NN
+men|NN torsion|NN
+adult|NN disease|NN colitis|NN enteritis|NN cholecystitis|NN ulcer|NN pancreatitis|NN sheath|NN appendagitis|NN
+obstruction|NN carcinoma|NN aneurysm|NN
+term|NN Appendicitis|Disease condition|NN Appendicitis|Disease management|NN
+Appendicitis|Disease surgery|NN
+antibiotics|NN Appendicitis|Disease people|NN recurrence|NN year|NN appendectomy|NN antibiotics|NN appendicolith|NN surgery|NN management|NN approach|NN Appendicitis|Disease cost|NN effectiveness|NN surgery|NN antibiotics|NN
+antibiotics|NN complication|NN emergency|NN procedure|NN antibiotics|NN person|NN surgery|NN pain|NN
+pain|NN medication|NN morphine|NN accuracy|NN diagnosis|NN Appendicitis|Disease patient|NN care|NN concern|NN surgeon|NN analgesics|NN exam|NN children|NN surgeon|NN person|NN surgery|NN appendix|NN removal|NN surgery|NN
+procedure|NN removal|NN appendix|NN appendectomy|NN
+appendectomy|NN advantage|NN appendectomy|NN intervention|NN Appendicitis|Disease appendectomy|NN
+century|NN laparotomy|NN appendectomy|NN treatment|NN Appendicitis|Disease procedure|NN removal|NN appendix|NN incision|NN right|NN area|NN abdomen|NN incision|NN laparotomy|NN inche|NN mm|NN
+appendectomy|NN person|NN Appendicitis|Disease anesthesia|NN muscle|NN person|NN unconscious|NN
+incision|NN inche|NN mm|NN abdomen|NN inche|NN hip|NN bone|NN
+incision|NN abdomen|NN cavity|NN appendix|NN surgeon|NN tissue|NN appendix|NN tissue|NN
+inspection|NN area|NN sign|NN tissue|NN
+case|NN Appendicitis|Disease emergency|NN drainage|NN tube|NN abdomen|NN outside|NN abscess|NN formation|NN hospital|NN update|NN surgeon|NN incision|NN
+muscle|NN staple|NN stitche|NN skin|NN
+infection|NN incision|NN bandage|NN adhesive|NN
+appendectomy|NN intervention|NN Appendicitis|Disease introduction|NN procedure|NN incision|NN abdomen|NN 025|NN inche|NN mm|NN
+type|NN appendectomy|NN tool|NN laparoscope|NN incision|NN
+laparoscope|NN monitor|NN person|NN body|NN surgeon|NN area|NN abdomen|NN
+incision|NN removal|NN appendix|NN instrument|NN
+surgery|NN hour|NN
+appendectomy|NN advantage|NN appendectomy|NN recovery|NN pain|NN site|NN infection|NN rate|NN
+occurrence|NN abscess|NN time|NN appendectomy|NN appendectomy|NN
+treatment|NN person|NN surgery|NN eate|NN drink|NN period|NN
+drip|NN person|NN surgery|NN
+antibiotics|NN cefuroxime|NN metronidazole|NN bacteria|NN spread|NN infection|NN abdomen|NN complication|NN abdomen|NN wound|NN
+case|NN antibiotic|NN treatment|NN benefit|NN examination|NN
+stomach|NN food|NN hour|NN anaesthesia|NN
+decision|NN appendectomy|NN preparation|NN procedure|NN hour|NN
+surgeon|NN surgery|NN procedure|NN risk|NN appendectomy|NN
+surgery|NN risk|NN procedure|NN
+risk|NN state|NN appendix|NN
+appendix|NN complication|NN rate|NN appendix|NN complication|NN rate|NN rise|NN complication|NN pneumonia|NN hernia|NN incision|NN adhesion|NN
+evidence|NN delay|NN surgery|NN admission|NN result|NN difference|NN outcome|NN person|NN Appendicitis|Disease
+surgeon|NN recovery|NN process|NN
+hair|NN complication|NN incision|NN
+case|NN patient|NN surgery|NN experience|NN nausea|NN vomit|NN medication|NN surgery|NN
+antibiotics|NN pain|NN medication|NN
+surgery|NN stitche|NN day|NN appendix|NN surgery|NN
+hospital|NN length|NN stay|NN range|NN hour|NN day|NN week|NN complication|NN
+recovery|NN process|NN severity|NN condition|NN appendix|NN surgery|NN
+appendix|NN surgery|NN recovery|NN lot|NN appendix|NN people|NN surgery|NN respect|NN doctor|NN advice|NN activity|NN tissue|NN
+recovery|NN appendectomy|NN diet|NN change|NN lifestyle|NN change|NN
+length|NN hospital|NN stay|NN Appendicitis|Disease severity|NN condition|NN
+study|NN united|NP states|NP average|NN Appendicitis|Disease hospital|NN stay|NN day|NN
+stay|NN person|NN appendix|NN length|NN stay|NN day|NN
+surgery|NN patient|NN care|NN unit|NN sign|NN complication|NN
+pain|NN medication|NN
+patient|NN hospital|NN room|NN
+individual|NN liquid|NN day|NN surgery|NN progress|NN diet|NN intestine|NN
+patient|NN edge|NN bed|NN walk|NN distance|NN time|NN day|NN
+move|NN pain|NN medication|NN
+recovery|NN appendectomy|NN week|NN week|NN appendix|NN
+people|NN Appendicitis|Disease treatment|NN complication|NN treatment|NN peritonitis|NN
+recovery|NN time|NN age|NN condition|NN complication|NN circumstance|NN amount|NN alcohol|NN consumption|NN day|NN
+children|NN year|NN recovery|NN week|NN
+possibility|NN peritonitis|NN reason|NN Appendicitis|Disease evaluation|NN treatment|NN
+people|NN Appendicitis|Disease evacuation|NN
+emergency|NN condition|NN hospital|NN evacuation|NN
+Appendicitis|Disease appendectomy|NN
+Appendicitis|Disease interval|NN episode|NN Appendicitis|Disease
+Appendicitis|Disease Appendicitis|Disease
+condition|NN prompt|NN diagnosis|NN yield|NN result|NN recovery|NN week|NN
+mortality|NN complication|NN peritonitis|NN
+entity|NN lump|NN
+appendix|NN infection|NN omentum|NN intestine|NN lump|NN
+period|NN surgery|NN pus|NN formation|NN fever|NN toxicity|NN
+management|NN condition|NN
+complication|NN appendectomy|NN stump|NN Appendicitis|Disease inflammation|NN remnant|NN stump|NN appendectomy|NN Appendicitis|Disease month|NN year|NN appendectomy|NN image|NN modality|NN ultrasound|NN epidemiology|NN Appendicitis|Disease death|NN person|NN 2012|NP 8-11|NN life|NN year|NN Appendicitis|Disease inhabitant|NN data|NN 75-10|NN 15-175|NN 225-25|NN
+Appendicitis|Disease age|NN age|NN
+risk|NN factor|NN male|NN household|NN income|NN live|NN area|NN 2013|NN death|NN
+united|NP states|NP Appendicitis|Disease Appendicitis|Disease diagnose|NN emergency|NN department|NN visit|NN hospitalization|NN children|NN age|NN year|NN united|NP states|NP

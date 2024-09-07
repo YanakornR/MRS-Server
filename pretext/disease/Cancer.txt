@@ -1,0 +1,1654 @@
+cancer|DS name|NN tumor|NN ct|NN mesothelioma|NN legend|NN tumor|NN effusion|NN 1|NN lung|NN 2|NN spine|NN rib|NN aorta|NN spleen|NN kidney|NN liver|NN pronunciation|NN specialty|NN oncology|NN symptom|NN cancer|DS cancer|DS group|NN of|NN disease|NN abnormal|NN cell|NN growth|NN part|NN of|NN body|NN 
+contrast|NN tumor|NN 
+sign|NN symptom|NN lump|NN abnormal|NN bleeding|ST cough|ST weight_loss|ST change|NN symptom|NN cancer|DS cause|NN 
+type|NN of|NN cancer|DS human|NN 
+in|NN bowel|NN movement|NN 
+factor|NN tobacco|NN use|NN cause|NN of|NN of|NN cancer|DS death|NN 
+obesity|NN diet|NN lack|NN of|NN activity|NN drink|NN of|NN alcohol|NN 
+infection|NN exposure|NN radiation|NN pollutant|NN 
+in|NN world|NN of|NN cancer|DS infection|NN helicobacter|NN pylorus|NN hepatitis|DS b|NN hepatitis|DS c|NN human_papillomavirus_infection|DS virus|NN immunodeficiency|NN virus|NN hiv|NN 
+human|NN factor|NN act|NN gene|NN of|NN cell|NN 
+change|NN cancer|DS develop|NN 
+of|NN cancer|DS defect|NN person|NN parent|NN 
+cancer|DS sign|NN symptom|NN test|NN 
+image|NN biopsy|NN 
+cancer|DS weight|NN alcohol|NN plenty|NN of|NN vegetable|NN fruit|NN grain|NN vaccination|NN disease|NN meat|NN sunlight|NN exposure|NN 
+early|NN detection|NN screen|NN colorectal_cancer|DS 
+benefit|NN of|NN in|NN breast_cancer|DS 
+cancer|DS combination|NN of|NN radiation|NN therapy|NN surgery|NN chemotherapy|NN therapy|NN 
+pain|ST management|NN part|NN of|NN risk|NN factor|NN treatment|NN prognosis|NN lump|NN abnormal|NN bleeding|ST cough|ST weight_loss|ST change|NN in|NN bowel|NN movement|NN tobacco|NN obesity|NN diet|NN lack|NN of|NN activity|NN alcohol|NN infection|NN radiation|NN therapy|NN surgery|NN chemotherapy|NN therapy|NN 
+year|NN survival|NN care|NN 
+care|NN in|NN people|NN disease|NN 
+chance|NN of|NN depend|NN type|NN of|NN cancer|DS extent|NN of|NN disease|NN start|NN of|NN treatment|NN 
+in|NN child|NN diagnosis|NN survival|NN rate|NN in|NN world|NN 
+cancer|DS in|NN state|NN survival|NN rate|NN 
+frequency|NN death|NN in|NN people|NN cancer|DS 
+case|NN year|NN skin_cancer|DS melanoma|NN 
+death|NN of|NN death|NN 
+common|NN type|NN of|NN cancer|DS in|NN male|NN lung_cancer|DS prostate_cancer|DS colorectal_cancer|DS stomach_cancer|DS 
+in|NN female|NN common|NN type|NN breast_cancer|DS colorectal_cancer|DS lung_cancer|DS cancer|DS 
+skin_cancer|DS melanoma|NN in|NN cancer|DS case|NN year|NN of|NN case|NN 
+in|NN child|NN leukemia|DS brain_tumor|DS common|NN in|NN africa|NN lymphoma|NN 
+in|NN child|NN year|NN of|NN age|NN cancer|DS 
+risk|NN of|NN cancer|DS increase|NN age|NN cancer|DS in|NN country|NN 
+rate|NN people|NN age|NN change|NN in|NN world|NN 
+cost|NN of|NN cancer|DS usd|NN year|NN of|NN 
+play|NN media|NN video|NN summary|NN script|NN content|NN definition|NN sign|NN symptom|NN symptom|NN systemic|NN symptom|NN metastasis|NN chemical|NN infection|NN radiation|NN heredity|NN agent|NN hormone|NN disease|NN genetics|NN epigenetics|NN diagnosis|NN classification|NN prevention|NN medication|NN vaccination|NN recommendation|NN management|NN chemotherapy|NN radiation|NN surgery|NN palliative|NN care|NN immunotherapy|NN laser|NN therapy|NN medicine|NN prognosis|NN epidemiology|NN history|NN society|NN culture|NN effect|NN workplace|NN research|NN pregnancy|NN animal|NN note|NN link|NN definition|NN cancer|DS family|NN of|NN disease|NN abnormal|NN cell|NN growth|NN part|NN of|NN body|NN 
+subset|NN of|NN neoplasm|NN 
+neoplasm|NN tumor|NN group|NN of|NN cell|NN growth|NN mass|NN lump|NN 
+tumor|NN cell|NN hallmark|NN of|NN cancer|DS 
+characteristic|NN tumor|NN 
+cell|NN growth|NN division|NN signal|NN growth|NN division|NN signal|NN avoidance|NN of|NN cell|NN death|NN limitless|NN number|NN of|NN cell|NN division|NN blood|NN vessel|NN construction|NN invasion|NN of|NN tissue|NN formation|NN of|NN metastasis|NN progression|NN cell|NN cell|NN mass|NN cancer|DS multiple|NN step|NN progression|NN 
+sign|NN symptom|NN cancer|DS symptom|NN 
+sign|NN symptom|NN mass|NN ulcerate|NN 
+find|NN cancer|DS type|NN location|NN 
+symptom|NN 
+in|NN individual|NN condition|NN 
+cancer|DS imitator|NN 
+people|NN diagnosis|NN 
+risk|NN of|NN suicide|NN in|NN people|NN cancer|DS double|NN 
+symptom|NN symptom|NN mass|NN of|NN tumor|NN ulceration|NN 
+example|NN mass|NN effect|NN lung_cancer|DS bronchus|NN in|NN cough|ST pneumonia|DS cancer|DS narrow|NN of|NN esophagus|NN painful|NN colorectal_cancer|DS blockage|NN in|NN bowel|NN bowel|NN habit|NN 
+mass|NN in|NN breast|NN testicle|NN lump|NN 
+ulceration|NN bleeding|ST symptom|NN blood|NN lung_cancer|DS anemia|DS rectal|NN bleeding|ST colon|NN cancer|DS blood|NN in|NN urine|NN bladder|NN cancer|DS abnormal_vaginal_bleeding|ST cancer|DS 
+pain|ST in|NN cancer|DS tumor|NN 
+cancer|DS buildup|NN of|NN fluid|NN chest|NN abdomen|NN 
+symptom|NN of|NN cancer|DS metastasis|NN location|NN of|NN tumor|NN 
+systemic|NN symptom|NN systemic|NN symptom|NN body|NN response|NN cancer|DS 
+fatigue|ST weight_loss|ST skin|NN change|NN 
+cancer|DS systemic|NN inflammatory|NN state|NN muscle|NN loss|NN weakness|ST cachexia|ST 
+type|NN of|NN cancer|DS disease|NN leukemia|DS cancer|DS of|NN liver|NN kidney|NN fever|ST 
+systemic|NN symptom|NN of|NN cancer|DS hormone|NN molecule|NN tumor|NN syndrome|NN 
+common|NN syndrome|NN hypercalcemia|NN altered|NN state|NN constipation|DS dehydration|DS hyponatremia|NN altered|NN status|NN vomiting|ST headache|ST seizure|NN 
+metastasis|NN cancer|DS site|NN spread|NN spread|NN lymph|NN node|NN spread|NN blood|NN site|NN metastasis|NN 
+cancer|DS blood|NN body|NN area|NN cancer|DS type|NN 
+symptom|NN of|NN cancer|DS tumor|NN location|NN lymph|NN node|NN skin|NN liver|NN spleen|NN in|NN abdomen|NN pain|ST fracture|NN of|NN bone|NN symptom|NN 
+majority|NN of|NN cancer|DS of|NN case|NN mutation|NN factor|NN 
+genetics|NN 
+refer|NN cause|NN lifestyle|NN factor|NN pollution|NN 
+common|NN factor|NN cancer|DS death|NN tobacco|NN obesity|NN infection|NN radiation|NN ionize|NN lack|NN of|NN activity|NN pollution|NN 
+stress|NN risk|NN factor|NN onset|NN of|NN cancer|DS outcome|NN in|NN cancer|DS 
+cancer|DS cause|NN fingerprint|NN 
+example|NN person|NN lung_cancer|DS tobacco|NN use|NN everyone|NN chance|NN of|NN lung_cancer|DS result|NN of|NN air|NN pollution|NN radiation|NN cancer|DS of|NN reason|NN 
+transmission|NN pregnancy|NN organ|NN donor|NN cancer|DS disease|NN 
+chemical|NN substance|NN type|NN of|NN cancer|DS 
+substance|NN carcinogen|NN 
+tobacco|NN smoke|NN example|NN of|NN lung_cancer|DS 
+cancer|DS in|NN larynx|NN head|NN neck|NN stomach|NN bladder|NN kidney|NN esophagus|NN pancreas|NN 
+tobacco|NN smoke|NN carcinogen|NN nitrosamines|NN hydrocarbon|NN 
+tobacco|NN in|NN cancer|DS death|NN in|NN in|NN world|NN 
+lung_cancer|DS death|NN rate|NN in|NN state|NN smoke|NN pattern|NN increase|NN in|NN increase|NN in|NN lung_cancer|DS death|NN rate|NN decrease|NN in|NN rate|NN decrease|NN in|NN lung_cancer|DS death|NN rate|NN in|NN men|NN 
+incidence|NN of|NN lung_cancer|DS smoke|NN 
+in|NN europe|NN of|NN cancer|DS in|NN male|NN of|NN cancer|DS in|NN female|NN alcohol|NN exposure|NN liver|NN tract|NN cancer|DS 
+cancer|DS substance|NN exposure|NN 2|NN of|NN case|NN death|NN 
+cancer|DS lung_cancer|DS mesothelioma|NN tobacco|NN smoke|NN asbestos|NN fiber|NN leukemia|DS exposure|NN 
+exercise|NN diet|NN inactivity|NN obesity|NN of|NN cancer|DS death|NN 
+in|NN state|NN body|NN weight|NN development|NN of|NN type|NN of|NN cancer|DS factor|NN in|NN of|NN cancer|DS death|NN 
+study|NN data|NN people|NN body|NN mass|NN index|NN type|NN of|NN cancer|DS case|NN year|NN in|NN country|NN 
+inactivity|NN cancer|DS risk|NN effect|NN body|NN weight|NN effect|NN immune|NN system|NN endocrine|NN system|NN 
+half|NN of|NN effect|NN diet|NN overnutrition|NN vegetable|NN food|NN 
+food|NN cancer|DS 
+diet|NN cancer|DS 
+aflatoxin|NN b1|NN food|NN contaminant|NN liver_cancer|DS 
+betel|NN cancer|DS 
+difference|NN in|NN practice|NN difference|NN in|NN cancer|DS incidence|NN 
+example|NN cancer|DS common|NN in|NN japan|NN colon|NN cancer|DS common|NN in|NN state|NN 
+cancer|DS profile|NN of|NN country|NN generation|NN 
+infection|NN worldwide|NN of|NN cancer|DS death|NN disease|NN 
+proportion|NN of|NN in|NN africa|NN in|NN world|NN 
+virus|NN agent|NN cancer|DS cancer|DS bacteria|NN parasite|NN role|NN 
+oncoviruses|NN virus|NN cancer|DS human|NN papillomavirus|NN cancer|DS barr|NN virus|NN disease|NN carcinoma|NN sarcoma|NN herpesvirus|NN sarcoma|NN effusion|NN lymphoma|NN hepatitis|DS b|NN hepatitis|DS c|NN virus|NN carcinoma|NN human|NN leukemia|DS leukemia|DS 
+infection|NN risk|NN of|NN cancer|DS in|NN carcinoma|NN 
+infection|NN cancer|DS haematobium|NN cell|NN carcinoma|NN of|NN bladder|NN sinensis|NN cholangiocarcinoma|NN 
+fluke|NN viverrini|NN liver|NN radiation|NN radiation|NN exposure|NN radiation|NN material|NN risk|NN factor|NN cancer|DS 
+skin_cancer|DS radiation|NN sunlight|NN 
+source|NN of|NN radiation|NN image|NN radon|NN gas|NN 
+radiation|NN mutagen|NN 
+exposure|NN gas|NN example|NN cancer|DS risk|NN smoke|NN 
+radiation|NN source|NN of|NN cancer|DS agent|NN smoke|NN 
+radiation|NN cancer|DS in|NN part|NN of|NN body|NN in|NN animal|NN age|NN 
+child|NN leukemia|DS adult|NN radiation|NN exposure|NN birth|NN time|NN effect|NN 
+use|NN of|NN radiation|NN source|NN of|NN cancer|DS 
+radiation|NN cancer|DS in|NN case|NN form|NN of|NN cancer|DS 
+in|NN kind|NN of|NN image|NN 
+exposure|NN radiation|NN sun|NN skin|NN malignancy|NN 
+evidence|NN establish|NN radiation|NN medium|NN wave|NN uvb|NN cause|NN of|NN skin_cancer|DS common|NN form|NN of|NN cancer|DS in|NN world|NN 
+radio|NN frequency|NN radiation|NN phone|NN power|NN transmission|NN source|NN carcinogen|NN world|NN health|NN organization|NN agency|NN research|NN cancer|DS 
+evidence|NN concern|NN 
+study|NN link|NN phone|NN radiation|NN cancer|DS risk|NN 
+heredity|NN majority|NN of|NN cancer|DS 
+cancer|DS defect|NN 
+of|NN population|NN carrier|NN of|NN mutation|NN effect|NN cancer|DS risk|NN cause|NN of|NN cancer|DS 
+of|NN syndrome|NN mutation|NN in|NN gene|NN brca1|NN brca2|NN risk|NN of|NN breast_cancer|DS ovarian_cancer|DS nonpolyposis|NN colorectal_cancer|DS hnpcc|NN syndrome|NN in|NN of|NN people|NN colorectal_cancer|DS others|NN 
+cancer|DS mortality|NN risk|NN of|NN colorectal_cancer|DS relative|NN parent|NN child|NN 2|NN 
+risk|NN lung_cancer|DS prostate_cancer|DS 
+breast_cancer|DS risk|NN year|NN of|NN age|NN relative|NN year|NN of|NN age|NN 
+taller|NN people|NN risk|NN of|NN cancer|DS cell|NN people|NN 
+height|NN extent|NN taller|NN people|NN increase|NN of|NN cancer|DS risk|NN 
+agent|NN substance|NN cancer|DS chemical|NN effect|NN 
+example|NN of|NN exposure|NN asbestos|NN fiber|NN major|NN cause|NN of|NN mesothelioma|NN cancer|DS of|NN membrane|NN membrane|NN lung|NN 
+substance|NN in|NN category|NN fiber|NN wollastonite|NN glass|NN wool|NN rock|NN wool|NN effect|NN 
+particulate|NN material|NN cancer|DS cobalt|NN nickel|NN crystalline|NN silica|NN 
+carcinogen|NN body|NN inhalation|NN year|NN of|NN exposure|NN cancer|DS 
+trauma|NN in|NN cancer|DS 
+claim|NN bone|NN in|NN bone|NN cancer|DS example|NN 
+trauma|NN cause|NN cancer|DS breast_cancer|DS brain|NN cancer|DS 
+source|NN application|NN of|NN object|NN body|NN 
+burn|NN part|NN of|NN body|NN kanger|NN kairo|NN heater|NN hand|NN warmer|NN skin_cancer|DS chemical|NN 
+consumption|NN of|NN tea|NN cancer|DS 
+cancer|DS arise|NN cancer|DS process|NN of|NN heal|NN trauma|NN 
+injury|NN tissue|NN cell|NN proliferation|NN odds|NN of|NN mutation|NN 
+chronic|NN inflammation|NN mutation|NN 
+inflammation|NN proliferation|NN survival|NN angiogenesis|NN migration|NN of|NN cancer|DS cell|NN tumor|NN microenvironment|NN 
+oncogene|NN microenvironment|NN 
+hormone|NN hormone|NN role|NN in|NN development|NN of|NN cancer|DS cell|NN proliferation|NN 
+growth|NN factor|NN bind|NN protein|NN role|NN in|NN cancer|DS cell|NN proliferation|NN differentiation|NN apoptosis|NN involvement|NN in|NN carcinogenesis|NN 
+hormone|NN agent|NN in|NN cancer|DS cancer|DS of|NN breast|NN endometrium|NN prostate|NN testis|NN of|NN thyroid|NN cancer|DS bone|NN cancer|DS 
+example|NN daughter|NN of|NN woman|NN breast_cancer|DS level|NN of|NN estrogen|NN progesterone|NN daughter|NN of|NN woman|NN breast_cancer|DS 
+hormone|NN level|NN risk|NN of|NN breast_cancer|DS in|NN absence|NN of|NN gene|NN 
+men|NN of|NN ancestry|NN level|NN of|NN testosterone|NN men|NN of|NN ancestry|NN level|NN of|NN prostate_cancer|DS 
+men|NN of|NN ancestry|NN level|NN of|NN glucuronide|NN level|NN of|NN prostate_cancer|DS 
+factor|NN people|NN level|NN of|NN hormone|NN cancer|DS rate|NN of|NN cancer|DS 
+woman|NN hormone|NN replacement|NN therapy|NN risk|NN of|NN cancer|DS hormone|NN 
+hand|NN people|NN average|NN level|NN of|NN hormone|NN risk|NN of|NN cancer|DS 
+osteosarcoma|DS growth|NN hormone|NN 
+treatment|NN prevention|NN approach|NN cause|NN hormone|NN level|NN cancer|DS 
+autoimmune|NN disease|NN association|NN disease|NN risk|NN of|NN cancer|DS 
+people|NN celiac|NN disease|NN risk|NN risk|NN time|NN diagnosis|NN treatment|NN adoption|NN of|NN diet|NN role|NN development|NN of|NN malignancy|NN in|NN people|NN disease|NN 
+delay|NN in|NN diagnosis|NN initiation|NN of|NN diet|NN risk|NN of|NN malignancy|NN 
+rate|NN of|NN gastrointestinal_cancer|DS in|NN people|NN crohn|NN disease|NN ulcerative_colitis|DS chronic|NN inflammation|NN 
+immunomodulators|NN agent|NN disease|NN malignancy|NN 
+pathophysiology|NN genetics|NN cancer|DS disease|NN of|NN tissue|NN growth|NN regulation|NN 
+in|NN order|NN cell|NN cancer|DS cell|NN gene|NN cell|NN growth|NN differentiation|NN altered|NN 
+gene|NN category|NN 
+oncogene|NN gene|NN cell|NN growth|NN reproduction|NN 
+tumor|NN suppressor|NN gene|NN gene|NN cell|NN division|NN survival|NN 
+transformation|NN formation|NN of|NN oncogene|NN of|NN oncogene|NN disable|NN of|NN tumor|NN suppressor|NN gene|NN 
+change|NN in|NN multiple|NN gene|NN cell|NN cancer|DS cell|NN 
+change|NN level|NN mechanism|NN 
+gain|NN loss|NN of|NN chromosome|NN error|NN in|NN mitosis|NN 
+common|NN mutation|NN change|NN in|NN sequence|NN of|NN dna|NN 
+mutation|NN deletion|NN gain|NN of|NN portion|NN of|NN chromosome|NN 
+amplification|NN cell|NN gain|NN copy|NN of|NN locus|NN oncogene|NN material|NN 
+translocation|NN region|NN location|NN 
+example|NN of|NN chromosome|NN translocation|NN of|NN chromosome|NN in|NN chronic|NN leukemia|DS result|NN in|NN production|NN of|NN fusion|NN protein|NN tyrosine|NN kinase|NN 
+cancer|DS series|NN of|NN mutation|NN 
+mutation|NN behavior|NN of|NN cell|NN 
+mutation|NN point|NN mutation|NN deletion|NN insertion|NN in|NN promoter|NN region|NN of|NN gene|NN expression|NN in|NN gene|NN sequence|NN function|NN stability|NN of|NN product|NN 
+disruption|NN of|NN gene|NN integration|NN of|NN material|NN dna|NN virus|NN retrovirus|NN expression|NN of|NN oncogene|NN in|NN cell|NN descendant|NN 
+replication|NN of|NN data|NN dna|NN of|NN live|NN cell|NN in|NN error|NN mutation|NN 
+error|NN correction|NN prevention|NN process|NN cell|NN cancer|DS 
+error|NN cell|NN cell|NN death|NN apoptosis|NN 
+error|NN control|NN mutation|NN cell|NN 
+environment|NN error|NN 
+environment|NN presence|NN of|NN substance|NN carcinogen|NN injury|NN heat|NN radiation|NN hypoxia|NN 
+error|NN cancer|DS compound|NN example|NN mutation|NN in|NN machinery|NN of|NN cell|NN cell|NN child|NN error|NN 
+mutation|NN in|NN oncogene|NN cell|NN counterpart|NN 
+mutation|NN loss|NN of|NN tumor|NN suppressor|NN gene|NN apoptosis|NN pathway|NN cell|NN 
+mutation|NN in|NN machinery|NN of|NN cell|NN signal|NN cell|NN 
+transformation|NN of|NN cell|NN cancer|DS chain|NN reaction|NN error|NN error|NN cell|NN control|NN tissue|NN growth|NN 
+scenario|NN survival|NN of|NN drive|NN force|NN of|NN evolution|NN work|NN body|NN design|NN enforcement|NN of|NN order|NN 
+cancer|DS process|NN evolution|NN progression|NN towards|NN stage|NN 
+evolution|NN heterogeneity|NN cancer|DS cell|NN mutation|NN treatment|NN strategy|NN 
+ability|NN cancer|DS category|NN evasion|NN of|NN apoptosis|NN in|NN growth|NN signal|NN insensitivity|NN signal|NN angiogenesis|NN potential|NN metastasis|NN reprogramming|NN of|NN energy|NN metabolism|NN evasion|NN of|NN destruction|NN 
+epigenetics|NN view|NN of|NN cancer|DS set|NN of|NN disease|NN abnormality|NN mutation|NN in|NN gene|NN oncogene|NN abnormality|NN 
+alteration|NN role|NN 
+alteration|NN modification|NN genome|NN sequence|NN 
+example|NN of|NN modification|NN change|NN in|NN dna|NN methylation|NN hypermethylation|NN hypomethylation|NN modification|NN change|NN in|NN architecture|NN expression|NN of|NN protein|NN hmga2|NN hmga1|NN 
+of|NN alteration|NN gene|NN expression|NN dna|NN sequence|NN 
+change|NN cell|NN division|NN multiple|NN generation|NN mutation|NN 
+epimutations|NN alteration|NN in|NN cancer|DS 
+example|NN study|NN gene|NN in|NN altered|NN methylation|NN in|NN role|NN of|NN damage|NN defect|NN in|NN dna|NN repair|NN gene|NN in|NN carcinogenesis|NN association|NN colon|NN cancer|DS 
+gene|NN 
+of|NN gene|NN in|NN of|NN colon|NN cancer|DS others|NN in|NN of|NN colon|NN cancer|DS 
+alteration|NN in|NN cancer|DS alteration|NN in|NN dna|NN repair|NN gene|NN expression|NN of|NN dna|NN repair|NN protein|NN of|NN importance|NN 
+alteration|NN early|NN in|NN progression|NN cancer|DS cause|NN of|NN instability|NN characteristic|NN of|NN cancer|DS 
+expression|NN of|NN dna|NN repair|NN gene|NN disrupt|NN repair|NN 
+in|NN figure|NN level|NN top|NN 
+in|NN figure|NN word|NN role|NN of|NN damage|NN defect|NN in|NN dna|NN repair|NN in|NN progression|NN cancer|DS 
+dna|NN repair|NN damage|NN in|NN cell|NN level|NN level|NN cause|NN frequency|NN of|NN mutation|NN epimutation|NN level|NN 
+mutation|NN rate|NN in|NN cell|NN in|NN mismatch|NN repair|NN in|NN repair|NN hrr|NN 
+rearrangement|NN aneuploidy|NN increase|NN in|NN cell|NN 
+level|NN of|NN dna|NN damage|NN cause|NN mutation|NN side|NN of|NN figure|NN epimutation|NN 
+repair|NN of|NN dna|NN double|NN strand|NN break|NN repair|NN of|NN damage|NN repair|NN site|NN gene|NN silence|NN 
+expression|NN of|NN dna|NN repair|NN protein|NN mutation|NN cancer|DS risk|NN 
+individual|NN impairment|NN in|NN of|NN dna|NN repair|NN gene|NN article|NN deficiency|NN disorder|NN cancer|DS risk|NN defect|NN chance|NN of|NN cancer|DS 
+p53|NN mutation|NN 
+line|NN dna|NN repair|NN mutation|NN figure|NN side|NN 
+mutation|NN cancer|DS syndrome|NN cause|NN of|NN 1|NN percent|NN of|NN cancer|DS 
+in|NN cancer|DS deficiency|NN in|NN dna|NN repair|NN mutation|NN in|NN dna|NN repair|NN gene|NN alteration|NN expression|NN of|NN dna|NN repair|NN gene|NN 
+in|NN figure|NN level|NN 
+study|NN of|NN carcinogenesis|NN show|NN metal|NN reduction|NN in|NN expression|NN of|NN dna|NN repair|NN enzyme|NN mechanism|NN 
+dna|NN repair|NN inhibition|NN mechanism|NN in|NN carcinogenicity|NN 
+in|NN addition|NN alteration|NN of|NN dna|NN code|NN rna|NN micrornas|NN mirnas|NN 
+mirnas|NN protein|NN gene|NN expression|NN 
+cancer|DS assemblage|NN of|NN mutation|NN epimutations|NN advantage|NN expansion|NN field|NN defect|NN in|NN progression|NN cancer|DS 
+mutation|NN in|NN cancer|DS alteration|NN 
+cancer|DS of|NN breast|NN colon|NN mutation|NN of|NN driver|NN mutation|NN one|NN passenger|NN mutation|NN 
+metastasis|NN metastasis|NN spread|NN of|NN cancer|DS location|NN in|NN body|NN 
+tumor|NN tumor|NN tumor|NN 
+cancer|DS 
+cancer|DS death|NN cancer|DS 
+metastasis|NN common|NN in|NN late|NN stage|NN of|NN cancer|DS blood|NN system|NN 
+step|NN in|NN metastasis|NN invasion|NN intravasation|NN blood|NN lymph|NN circulation|NN body|NN extravasation|NN tissue|NN proliferation|NN angiogenesis|NN 
+type|NN of|NN cancer|DS organ|NN common|NN place|NN metastasis|NN occur|NN lung|NN liver|NN brain|NN bone|NN 
+diagnosis|NN cancer|DS of|NN appearance|NN of|NN sign|NN symptom|NN screen|NN 
+of|NN lead|NN diagnosis|NN examination|NN of|NN tissue|NN sample|NN pathologist|NN 
+people|NN cancer|DS test|NN 
+blood|NN test|NN contrast|NN ct|NN scan|NN endoscopy|NN 
+tissue|NN diagnosis|NN biopsy|NN type|NN of|NN cell|NN grade|NN abnormality|NN feature|NN 
+information|NN prognosis|NN treatment|NN 
+cytogenetics|NN immunohistochemistry|NN type|NN of|NN tissue|NN test|NN 
+test|NN information|NN change|NN mutation|NN fusion|NN gene|NN chromosome|NN change|NN prognosis|NN treatment|NN 
+chest|NN show|NN lung_cancer|DS in|NN leave|NN lung|NN classification|NN cancer|DS type|NN of|NN cell|NN tumor|NN cell|NN origin|NN of|NN tumor|NN 
+type|NN carcinoma|NN cancer|DS cell|NN 
+group|NN of|NN common|NN cancer|DS in|NN breast|NN prostate|NN lung|NN pancreas|NN colon|NN 
+sarcoma|NN cancer|DS tissue|NN 
+bone|NN cartilage|NN fat|NN nerve|NN of|NN cell|NN in|NN cell|NN bone|NN marrow|NN 
+lymphoma|NN leukemia|DS class|NN cell|NN marrow|NN in|NN lymph|NN node|NN blood|NN 
+germ|NN cell|NN tumor|NN cancer|DS pluripotent|NN cell|NN in|NN testicle|NN seminoma|NN dysgerminoma|NN 
+blastoma|NN cancer|DS immature|NN precursor|NN cell|NN tissue|NN 
+cancer|DS suffix|NN latin|NN word|NN organ|NN tissue|NN of|NN origin|NN root|NN 
+example|NN cancer|DS of|NN liver|NN parenchyma|NN cell|NN hepatocarcinoma|NN malignancy|NN liver|NN precursor|NN cell|NN hepatoblastoma|NN cancer|DS cell|NN liposarcoma|NN 
+common|NN cancer|DS organ|NN name|NN 
+example|NN common|NN type|NN of|NN breast_cancer|DS carcinoma|NN of|NN breast|NN 
+ductal|NN refer|NN appearance|NN of|NN cancer|DS microscope|NN in|NN milk|NN duct|NN 
+benign|NN tumor|NN cancer|DS suffix|NN name|NN root|NN 
+example|NN tumor|NN of|NN muscle|NN cell|NN leiomyoma|NN common|NN name|NN of|NN tumor|NN in|NN uterus|NN 
+type|NN of|NN cancer|DS noma|NN suffix|NN melanoma|NN seminoma|NN 
+type|NN of|NN cancer|DS size|NN shape|NN of|NN cell|NN microscope|NN cell|NN carcinoma|NN cell|NN carcinoma|NN carcinoma|NN 
+colorectal|NN carcinoma|NN center|NN in|NN carcinoma|NN tumor|NN bronchus|NN in|NN lung|NN specimen|NN ductal|NN carcinoma|NN in|NN specimen|NN carcinoma|NN of|NN breast|NN area|NN center|NN spike|NN of|NN scar|NN yellow|NN fatty|NN tissue|NN tissue|NN prevention|NN cancer|DS prevention|NN measure|NN cancer|DS risk|NN 
+majority|NN of|NN cancer|DS case|NN risk|NN factor|NN 
+of|NN factor|NN choice|NN 
+cancer|DS 
+of|NN common|NN cancer|DS factor|NN 
+of|NN cancer|DS death|NN risk|NN factor|NN tobacco|NN diet|NN inactivity|NN alcohol|NN sexually_transmitted_infection|DS air|NN pollution|NN 
+cause|NN background|NN radiation|NN cancer|DS disorder|NN behavior|NN 
+recommendation|NN cancer|DS risk|NN evidence|NN 
+factor|NN increase|NN risk|NN obesity|NN alcohol|NN consumption|NN 
+diet|NN in|NN fruit|NN vegetable|NN in|NN meat|NN review|NN conclusion|NN 
+relationship|NN fruit|NN vegetable|NN cancer|DS 
+coffee|NN risk|NN of|NN liver_cancer|DS 
+study|NN consumption|NN of|NN meat|NN risk|NN of|NN breast_cancer|DS colon|NN cancer|DS pancreatic_cancer|DS phenomenon|NN presence|NN of|NN carcinogen|NN in|NN meat|NN temperature|NN 
+in|NN iarc|NN meat|NN bacon|NN ham|NN dog|NN sausage|NN degree|NN meat|NN cancer|DS 
+recommendation|NN cancer|DS prevention|NN emphasis|NN vegetable|NN fruit|NN grain|NN fish|NN avoidance|NN of|NN meat|NN beef|NN pork|NN lamb|NN fat|NN food|NN carbohydrate|NN 
+medication|NN medication|NN cancer|DS in|NN circumstance|NN 
+in|NN population|NN nsaid|NN risk|NN of|NN colorectal_cancer|DS cardiovascular|NN gastrointestinal|NN side|NN effect|NN harm|NN prevention|NN 
+aspirin|NN risk|NN of|NN death|NN cancer|DS 
+inhibitor|NN rate|NN of|NN polyp|NN formation|NN in|NN people|NN polyposis|NN effect|NN nsaid|NN 
+use|NN of|NN tamoxifen|NN raloxifene|NN risk|NN of|NN breast_cancer|DS in|NN woman|NN 
+benefit|NN versus|NN harm|NN inhibitor|NN finasteride|NN 
+supplementation|NN cancer|DS 
+blood|NN level|NN of|NN vitamin|NN d|NN cancer|DS risk|NN relationship|NN d|NN supplementation|NN 
+review|NN supplement|NN effect|NN cancer|DS risk|NN 
+review|NN vitamin|NN d3|NN risk|NN of|NN death|NN cancer|DS death|NN in|NN people|NN year|NN concern|NN quality|NN of|NN data|NN 
+supplementation|NN increase|NN lung_cancer|DS rate|NN in|NN risk|NN 
+supplementation|NN in|NN colon|NN cancer|DS colon|NN polyp|NN 
+selenium|NN supplementation|NN risk|NN of|NN cancer|DS 
+vaccination|NN vaccine|NN prevent|NN infection|NN virus|NN 
+human|NN papillomavirus|NN vaccine|NN gardasil|NN cervarix|NN risk|NN of|NN cancer|DS 
+hepatitis|DS b|NN vaccine|NN prevent|NN infection|NN hepatitis|DS b|NN virus|NN risk|NN of|NN liver_cancer|DS 
+administration|NN of|NN human|NN papillomavirus|NN hepatitis|DS b|NN vaccination|NN resource|NN 
+effort|NN symptom|NN sign|NN cancer|DS involve|NN effort|NN cancer|DS symptom|NN 
+examination|NN blood|NN test|NN image|NN 
+cancer|DS screen|NN type|NN of|NN cancer|DS 
+test|NN everyone|NN 
+screen|NN mass|NN involve|NN everyone|NN 
+screen|NN identify|NN people|NN risk|NN people|NN family|NN history|NN 
+factor|NN benefit|NN of|NN risk|NN cost|NN of|NN 
+factor|NN harm|NN test|NN example|NN image|NN exposure|NN radiation|NN likelihood|NN of|NN test|NN cancer|DS likelihood|NN cancer|DS screen|NN cancer|DS 
+harm|NN procedure|NN treatment|NN early|NN detection|NN treatment|NN cancer|DS treatment|NN test|NN people|NN test|NN example|NN painful|NN people|NN 
+cost|NN recommendation|NN service|NN task|NN service|NN task|NN force|NN issue|NN recommendation|NN cancer|DS cancer|DS in|NN woman|NN sexually|NN cervix|NN age|NN of|NN 
+recommend|NN colorectal_cancer|DS fecal|NN occult|NN blood|NN test|NN sigmoidoscopy|NN colonoscopy|NN age|NN age|NN 
+evidence|NN skin_cancer|DS cancer|DS lung_cancer|DS prostate_cancer|DS in|NN men|NN 
+screen|NN bladder|NN cancer|DS testicular_cancer|DS ovarian_cancer|DS pancreatic_cancer|DS prostate_cancer|DS 
+recommend|NN mammography|NN breast_cancer|DS year|NN age|NN breast|NN breast|NN examination|NN 
+cochrane|NN review|NN breast_cancer|DS screen|NN mammography|NN effect|NN in|NN mortality|NN of|NN overdiagnosis|NN overtreatment|NN 
+japan|NN screen|NN cancer|DS photofluorography|NN incidence|NN 
+test|NN individual|NN of|NN cancer|DS group|NN 
+carrier|NN of|NN mutation|NN surveillance|NN chemoprevention|NN surgery|NN subsequent|NN risk|NN 
+manage|NN gene|NN brca1|NN brca2|NN cancer|DS type|NN breast|NN ovarian|NN pancreatic|NN hnpcc|NN mlh1|NN msh2|NN msh6|NN pms1|NN pms2|NN colon|NN bowel|NN stomach|NN urinary|NN tract|NN treatment|NN option|NN cancer|DS exist|NN 
+one|NN surgery|NN chemotherapy|NN radiation|NN therapy|NN therapy|NN therapy|NN care|NN 
+treatment|NN depend|NN type|NN location|NN grade|NN of|NN cancer|DS patient|NN health|NN preference|NN 
+treatment|NN intent|NN 
+chemotherapy|NN chemotherapy|NN treatment|NN of|NN cancer|DS drug|NN agent|NN part|NN of|NN regimen|NN 
+term|NN variety|NN of|NN drug|NN category|NN agent|NN antimetabolite|NN 
+agent|NN act|NN cell|NN property|NN of|NN cancer|DS cell|NN 
+therapy|NN form|NN of|NN chemotherapy|NN difference|NN cancer|DS cell|NN 
+therapy|NN estrogen|NN receptor|NN molecule|NN growth|NN of|NN breast_cancer|DS 
+common|NN example|NN class|NN of|NN inhibitor|NN chronic|NN leukemia|DS cml|NN 
+therapy|NN of|NN common|NN cancer|DS type|NN bladder|NN cancer|DS breast_cancer|DS colorectal_cancer|DS kidney_cancer|DS leukemia|DS liver_cancer|DS lung_cancer|DS lymphoma|NN pancreatic_cancer|DS prostate_cancer|DS skin_cancer|DS thyroid|NN cancer|DS cancer|DS type|NN 
+efficacy|NN of|NN chemotherapy|NN type|NN of|NN cancer|DS stage|NN 
+in|NN combination|NN surgery|NN chemotherapy|NN in|NN cancer|DS type|NN breast_cancer|DS colorectal_cancer|DS pancreatic|NN lung_cancer|DS 
+cancer|DS sarcoma|NN chemotherapy|NN cancer|DS leukemia|DS ineffective|NN in|NN brain_tumor|DS in|NN others|NN skin_cancer|DS 
+effectiveness|NN of|NN chemotherapy|NN toxicity|NN tissue|NN in|NN body|NN 
+chemotherapy|NN cure|NN symptom|NN pain|ST size|NN of|NN tumor|NN in|NN hope|NN surgery|NN in|NN future|NN 
+testicular_cancer|DS ovarian_cancer|DS radiation|NN radiation|NN therapy|NN use|NN of|NN radiation|NN in|NN attempt|NN cure|NN symptom|NN 
+dna|NN of|NN tissue|NN 
+tissue|NN skin|NN organ|NN radiation|NN tumor|NN radiation|NN beam|NN multiple|NN exposure|NN angle|NN tumor|NN dose|NN in|NN surround|NN tissue|NN 
+chemotherapy|NN cancer|DS in|NN response|NN radiation|NN therapy|NN 
+radiation|NN therapy|NN in|NN half|NN of|NN case|NN 
+radiation|NN source|NN brachytherapy|NN source|NN 
+radiation|NN energy|NN skin_cancer|DS energy|NN cancer|DS body|NN 
+radiation|NN in|NN addition|NN surgery|NN chemotherapy|NN 
+type|NN of|NN cancer|DS early|NN head|NN neck|NN cancer|DS 
+painful|NN bone|NN metastasis|NN in|NN of|NN patient|NN 
+surgery|NN surgery|NN method|NN of|NN treatment|NN cancer|DS role|NN in|NN palliation|NN prolongation|NN of|NN survival|NN 
+part|NN of|NN diagnosis|NN stag|NN of|NN tumor|NN biopsy|NN 
+in|NN cancer|DS surgery|NN mass|NN in|NN case|NN lymph|NN node|NN in|NN area|NN 
+type|NN of|NN cancer|DS cancer|DS 
+care|NN care|NN treatment|NN patient|NN attempt|NN cancer|DS 
+care|NN action|NN distress|NN 
+treatment|NN cancer|DS cell|NN goal|NN of|NN care|NN quality|NN of|NN life|NN 
+people|NN stage|NN of|NN cancer|DS treatment|NN kind|NN of|NN care|NN 
+in|NN case|NN specialty|NN organization|NN patient|NN physician|NN cancer|DS care|NN 
+patient|NN display|NN performance|NN status|NN ability|NN benefit|NN treatment|NN in|NN trial|NN evidence|NN imply|NN treatment|NN care|NN hospice|NN people|NN end|NN of|NN life|NN 
+hospice|NN care|NN care|NN attempt|NN patient|NN cope|NN need|NN comfort|NN 
+hospice|NN care|NN care|NN people|NN treatment|NN cancer|DS 
+multiple|NN guideline|NN early|NN palliative|NN care|NN patient|NN cancer|DS symptom|NN illness|NN 
+in|NN patient|NN disease|NN care|NN 
+care|NN patient|NN prognosis|NN of|NN month|NN of|NN life|NN treatment|NN 
+immunotherapy|NN variety|NN of|NN therapy|NN immunotherapy|NN immune|NN system|NN cancer|DS use|NN approach|NN antibody|NN checkpoint|NN therapy|NN cell|NN transfer|NN 
+laser|NN therapy|NN laser|NN therapy|NN light|NN cancer|DS tumor|NN growth|NN 
+laser|NN cancer|DS surface|NN of|NN body|NN line|NN of|NN organ|NN 
+basal|NN cell|NN skin_cancer|DS early|NN stage|NN of|NN others|NN vaginal|NN vulvar|NN cell|NN lung_cancer|DS 
+treatment|NN surgery|NN chemotherapy|NN radiation|NN therapy|NN 
+thermotherapy|NN litt|NN laser|NN photocoagulation|NN laser|NN cancer|DS hyperthermia|NN heat|NN tumor|NN cancer|DS cell|NN 
+laser|NN surgery|NN cause|NN damage|NN pain|ST bleeding|ST swelling|ST scar|NN 
+disadvantage|NN surgeon|NN train|NN 
+treatment|NN 
+medicine|NN complementary|NN cancer|DS treatment|NN group|NN of|NN therapy|NN practice|NN product|NN part|NN of|NN medicine|NN 
+medicine|NN refer|NN method|NN substance|NN medicine|NN medicine|NN refer|NN compound|NN of|NN medicine|NN 
+medicine|NN cancer|DS technique|NN trial|NN 
+treatment|NN 
+cancer|DS researcher|NN vickers|NN label|NN therapy|NN time|NN cancer|DS therapy|NN 
+prognosis|NN survival|NN rate|NN cancer|DS type|NN stage|NN majority|NN survival|NN mortality|NN year|NN diagnosis|NN 
+cancer|DS prognosis|NN 
+half|NN of|NN patient|NN treatment|NN cancer|DS carcinoma|NN in|NN situ|NN skin_cancer|DS cancer|DS treatment|NN 
+survival|NN in|NN world|NN type|NN of|NN cancer|DS common|NN country|NN 
+cancer|DS cancer|DS rate|NN of|NN 
+risk|NN chance|NN of|NN cancer|DS likelihood|NN of|NN cancer|DS risk|NN factor|NN cancer|DS side|NN effect|NN of|NN cancer|DS radiation|NN therapy|NN compliance|NN screen|NN 
+survival|NN factor|NN 
+cancer|DS type|NN patient|NN age|NN health|NN 
+health|NN problem|NN survival|NN rate|NN people|NN 
+centenarian|NN year|NN treatment|NN 
+people|NN quality|NN of|NN life|NN 
+people|NN quality|NN of|NN life|NN depression|ST complication|NN disease|NN progression|NN quality|NN quantity|NN of|NN life|NN 
+patient|NN prognosis|NN quality|NN of|NN life|NN condition|NN 
+people|NN cancer|DS risk|NN of|NN blood|NN clot|NN in|NN vein|NN 
+use|NN of|NN blood|NN thinner|NN heparin|NN decrease|NN risk|NN of|NN blood|NN clot|NN survival|NN in|NN people|NN cancer|DS 
+people|NN blood|NN thinner|NN risk|NN of|NN bleeding|ST 
+epidemiology|NN estimate|NN in|NN case|NN of|NN cancer|DS death|NN 
+of|NN male|NN of|NN female|NN cancer|DS point|NN in|NN time|NN of|NN male|NN of|NN female|NN 
+death|NN rate|NN cancer|DS people|NN 
+see|NN source|NN data|NN 
+in|NN cancer|DS skin_cancer|DS cancer|DS in|NN people|NN 
+cancer|DS of|NN death|NN 
+common|NN of|NN lung_cancer|DS death|NN colorectal_cancer|DS stomach_cancer|DS liver_cancer|DS breast_cancer|DS 
+cancer|DS cause|NN of|NN death|NN in|NN world|NN lead|NN in|NN world|NN 
+of|NN case|NN in|NN world|NN 
+death|NN cancer|DS in|NN 
+death|NN lifespan|NN change|NN in|NN world|NN 
+risk|NN factor|NN cancer|DS age|NN 
+cancer|DS age|NN patient|NN cancer|DS 
+cancer|DS researcher|NN robert|NN weinberg|NN cancer|DS 
+of|NN association|NN cancer|DS error|NN in|NN dna|NN lifetime|NN change|NN in|NN endocrine|NN system|NN 
+effect|NN cancer|DS factor|NN dna|NN damage|NN inflammation|NN factor|NN age|NN endocrine|NN change|NN 
+cancer|DS common|NN 
+autopsy|NN study|NN in|NN europe|NN asia|NN of|NN people|NN thyroid|NN cancer|DS time|NN of|NN death|NN of|NN men|NN prostate_cancer|DS age|NN 
+cancer|DS patient|NN death|NN overdiagnosis|NN care|NN 
+common|NN childhood|NN cancer|DS leukemia|DS brain_tumor|DS 
+in|NN state|NN cancer|DS 1|NN in|NN child|NN 
+rate|NN of|NN childhood|NN cancer|DS year|NN in|NN state|NN year|NN in|NN europe|NN 
+death|NN childhood|NN cancer|DS half|NN in|NN state|NN 
+history|NN cancer|DS of|NN human|NN history|NN 
+record|NN cancer|DS circa|NN bc|NN in|NN edwin|NN smith|NN papyrus|NN breast_cancer|DS 
+hippocrates|NN bc|NN bc|NN kind|NN of|NN cancer|DS word|NN καρκίνος|NN karkinos|NN crab|NN crayfish|NN 
+name|NN appearance|NN of|NN cut|NN surface|NN of|NN tumor|NN vein|NN side|NN animal|NN crab|NN foot|NN whence|NN name|NN 
+galen|NN cancer|DS of|NN breast|NN of|NN resemblance|NN crab|NN lateral|NN prolongation|NN of|NN tumor|NN adjacent|NN vein|NN 
+celsus|NN bc|NN ad|NN cancer|DS crab|NN surgery|NN treatment|NN 
+galen|NN century|NN 
+ad|NN disagree|NN recommendation|NN year|NN 
+view|NN of|NN woman|NN tumor|NN neck|NN in|NN use|NN of|NN surgery|NN purgative|NN in|NN century|NN doctor|NN body|NN cause|NN of|NN death|NN 
+professor|NN wilhelm|NN fabry|NN breast_cancer|DS milk|NN clot|NN in|NN duct|NN 
+dutch|NN professor|NN francois|NN sylvius|NN follower|NN of|NN descartes|NN disease|NN outcome|NN of|NN chemical|NN process|NN lymph|NN fluid|NN cause|NN of|NN cancer|DS 
+nicolaes|NN tulp|NN cancer|DS poison|NN 
+john|NN hill|NN snuff|NN cause|NN of|NN cancer|DS in|NN 
+report|NN in|NN surgeon|NN percivall|NN pott|NN chimney|NN sweep|NN carcinoma|NN cancer|DS of|NN scrotum|NN common|NN disease|NN sweep|NN 
+use|NN of|NN microscope|NN in|NN century|NN poison|NN spread|NN tumor|NN lymph|NN node|NN site|NN metastasis|NN 
+view|NN of|NN disease|NN surgeon|NN campbell|NN 
+society|NN culture|NN disease|NN heart_failure|DS prognosis|NN case|NN of|NN cancer|DS cancer|DS subject|NN of|NN fear|NN taboo|NN 
+euphemism|NN of|NN illness|NN cancer|DS death|NN in|NN obituary|NN disease|NN stigma|NN 
+in|NN nigeria|NN name|NN cancer|DS translate|NN disease|NN 
+belief|NN cancer|DS disease|NN in|NN system|NN society|NN cancer|DS statistic|NN common|NN form|NN of|NN skin_cancer|DS account|NN of|NN cancer|DS case|NN cancer|DS statistic|NN in|NN procedure|NN 
+conception|NN of|NN patient|NN right|NN people|NN cancer|DS duty|NN situation|NN person|NN right|NN in|NN in|NN way|NN person|NN value|NN 
+in|NN culture|NN right|NN value|NN 
+example|NN culture|NN value|NN family|NN individualism|NN 
+in|NN part|NN of|NN africa|NN diagnosis|NN late|NN cure|NN treatment|NN family|NN 
+result|NN of|NN factor|NN healthcare|NN provider|NN family|NN member|NN diagnosis|NN person|NN interest|NN ability|NN news|NN 
+people|NN country|NN approach|NN disclosure|NN in|NN state|NN europe|NN cancer|DS diagnosis|NN 
+in|NN disclosure|NN of|NN diagnosis|NN common|NN in|NN century|NN disclosure|NN of|NN prognosis|NN patient|NN world|NN 
+in|NN state|NN culture|NN cancer|DS disease|NN insurrection|NN war|NN cancer|DS in|NN 
+metaphor|NN common|NN in|NN description|NN of|NN cancer|DS human|NN effect|NN state|NN of|NN patient|NN health|NN need|NN immediate|NN action|NN others|NN 
+metaphor|NN treatment|NN 
+in|NN cancer|DS treatment|NN in|NN form|NN of|NN talk|NN therapy|NN idea|NN cancer|DS bad|NN attitude|NN 
+people|NN cancer|DS personality|NN cancer|DS desire|NN 
+psychotherapist|NN treatment|NN patient|NN outlook|NN life|NN cancer|DS 
+effect|NN belief|NN society|NN victim|NN cancer|DS cure|NN person|NN 
+patient|NN anxiety|ST emotion|NN of|NN sadness|NN anger|NN fear|NN life|NN 
+idea|NN sontag|NN illness|NN metaphor|NN treatment|NN breast_cancer|DS in|NN 
+idea|NN nonsense|NN idea|NN in|NN form|NN belief|NN habit|NN of|NN think|NN survival|NN 
+notion|NN in|NN breast_cancer|DS culture|NN 
+idea|NN people|NN cancer|DS hypothesis|NN cancer|DS patient|NN action|NN attitude|NN blamers|NN sense|NN of|NN control|NN 
+blamers|NN belief|NN world|NN illness|NN cancer|DS type|NN of|NN punishment|NN bad|NN choice|NN in|NN world|NN bad|NN thing|NN people|NN 
+effect|NN health|NN care|NN expenditure|NN cancer|DS in|NN in|NN 
+health|NN care|NN expenditure|NN in|NN term|NN decade|NN share|NN of|NN health|NN expenditure|NN cancer|DS treatment|NN 
+pattern|NN in|NN europe|NN of|NN health|NN care|NN expenditure|NN cancer|DS treatment|NN 
+in|NN addition|NN health|NN care|NN expenditure|NN cancer|DS cause|NN cost|NN in|NN term|NN of|NN productivity|NN loss|NN work|NN day|NN death|NN care|NN 
+cost|NN health|NN care|NN cost|NN of|NN cancer|DS 
+workplace|NN in|NN state|NN cancer|DS condition|NN employment|NN opportunity|NN commission|NN eeoc|NN potential|NN cancer|DS effect|NN worker|NN 
+discrimination|NN in|NN workplace|NN employer|NN belief|NN person|NN cancer|DS of|NN job|NN sick|NN employee|NN 
+employer|NN hire|NN decision|NN misconception|NN cancer|DS disability|NN 
+eeoc|NN interview|NN guideline|NN employer|NN list|NN of|NN solution|NN employee|NN cancer|DS 
+research|NN cancer|DS class|NN of|NN disease|NN cure|NN cancer|DS treatment|NN disease|NN 
+angiogenesis|NN inhibitor|NN bullet|NN treatment|NN type|NN of|NN cancer|DS 
+angiogenesis|NN inhibitor|NN cancer|DS therapeutic|NN in|NN combination|NN cancer|DS morbidity|NN mortality|NN 
+cancer|DS treatment|NN in|NN trial|NN treatment|NN treatment|NN 
+treatment|NN in|NN cancer|DS type|NN type|NN 
+test|NN development|NN therapy|NN patient|NN biology|NN 
+university|NN of|NN cancer|DS hospital|NN cancer|DS research|NN issue|NN agent|NN 
+virus|NN event|NN 
+mutation|NN change|NN in|NN cell|NN cancer|DS 
+nature|NN of|NN damage|NN gene|NN 
+consequence|NN of|NN change|NN biology|NN of|NN cell|NN in|NN property|NN of|NN cancer|DS cell|NN in|NN event|NN progression|NN of|NN cancer|DS 
+understand|NN of|NN biology|NN biology|NN cancer|DS research|NN treatment|NN cancer|DS president|NN richard|NN nixon|NN war|NN cancer|DS in|NN country|NN cancer|DS research|NN resource|NN sector|NN 
+cancer|DS death|NN rate|NN size|NN age|NN of|NN population|NN percent|NN 
+competition|NN resource|NN creativity|NN cooperation|NN think|NN discovery|NN research|NN advancement|NN research|NN 
+consequence|NN of|NN competition|NN study|NN claim|NN result|NN incentive|NN grantee|NN institution|NN investment|NN in|NN faculty|NN facility|NN 
+virotherapy|NN convert|NN virus|NN 
+pregnancy|NN cancer|DS 1|NN in|NN woman|NN 
+common|NN cancer|DS pregnancy|NN common|NN cancer|DS in|NN woman|NN age|NN breast_cancer|DS cancer|DS leukemia|DS lymphoma|NN melanoma|NN ovarian_cancer|DS colorectal_cancer|DS 
+cancer|DS in|NN woman|NN in|NN part|NN symptom|NN discomfort|NN pregnancy|NN 
+result|NN cancer|DS stage|NN average|NN 
+image|NN procedure|NN mri|NN resonance|NN image|NN scan|NN ultrasound|NN mammogram|NN fetal|NN shield|NN pregnancy|NN others|NN scan|NN 
+treatment|NN woman|NN 
+radiation|NN drug|NN pregnancy|NN fetal|NN dose|NN cgy|NN 
+in|NN case|NN treatment|NN birth|NN cancer|DS late|NN in|NN pregnancy|NN 
+early|NN delivery|NN start|NN of|NN treatment|NN 
+surgery|NN pelvic|NN surgery|NN trimester|NN miscarriage|ST 
+treatment|NN chemotherapy|NN drug|NN trimester|NN risk|NN of|NN birth_defect|DS pregnancy|NN loss|NN abortion|NN stillbirth|NN 
+abortion|NN common|NN form|NN stage|NN of|NN cancer|DS mother|NN survival|NN 
+in|NN instance|NN cancer|DS pregnancy|NN in|NN others|NN patient|NN pregnancy|NN chemotherapy|NN 
+treatment|NN mother|NN ability|NN birth|NN 
+cancer|DS birth|NN section|NN 
+radiation|NN breast|NN ability|NN of|NN breast|NN milk|NN risk|NN of|NN mastitis|NN 
+chemotherapy|NN birth|NN of|NN drug|NN in|NN breast|NN milk|NN baby|NN 
+animal|NN oncology|NN cat|NN dog|NN specialty|NN in|NN country|NN major|NN form|NN of|NN human|NN treatment|NN surgery|NN radiotherapy|NN 
+common|NN type|NN of|NN cancer|DS differ|NN cancer|DS burden|NN in|NN pet|NN in|NN human|NN 
+animal|NN rodent|NN in|NN cancer|DS research|NN study|NN of|NN cancer|DS in|NN animal|NN research|NN human|NN cancer|DS 
+in|NN type|NN of|NN cancer|DS cancer|DS animal|NN transmission|NN of|NN tumor|NN cell|NN 
+phenomenon|NN in|NN dog|NN sticker|NN sarcoma|NN canine|NN tumor|NN in|NN devil|NN tumour|NN disease|NN dftd|NN 
+note|NN 1|NN 
+cancer|DS sign|NN symptom|NN http|NN spx|NN 
+choice|NN 
+http|NN june|NN june|NN 
+2|NN 
+cancer|DS http|NN 
+world|NN health|NN organization|NN 
+december|NN 
+anand|NN p|NN kunnumakkara|NN ab|NN c|NN harikumar|NN kb|NN st|NN o|NN sing|NN b|NN aggarwal|NN bb|NN 
+cancer|DS disease|NN major|NN change|NN http|NN 
+research|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cancer|DS institute|NN 
+cancer|DS therapy|NN http|NN 
+march|NN 
+seer|NN stat|NN fact|NN sheet|NN cancer|DS site|NN http|NN 
+cancer|DS institute|NN 
+http|NN september|NN june|NN 
+gbd|NN disease|NN injury|NN incidence|NN prevalence|NN collaborator|NN 
+incidence|NN prevalence|NN year|NN disability|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN c5055577|NN 
+pmid|NN http|NN 
+gbd|NN mortality|NN cause|NN of|NN death|NN collaborator|NN 
+life|NN expectancy|NN mortality|NN mortality|NN cause|NN of|NN death|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cancer|DS http|NN 
+cancer|DS institute|NN 
+march|NN 
+obesity|NN cancer|DS risk|NN http|NN q3|NN 
+cancer|DS institute|NN 
+http|NN q3|NN july|NN july|NN 
+jayasekara|NN h|NN macinnis|NN rj|NN room|NN r|NN dr|NN 
+alcohol|NN consumption|NN breast|NN tract|NN colorectal_cancer|DS risk|NN review|NN 
+alcohol|NN alcoholism|DS 
+http|NN 
+pmid|NN http|NN 
+world|NN cancer|DS report|NN http|NN 
+world|NN health|NN organization|NN 
+pp|NN 
+chapter|NN http|NN july|NN 
+heredity|NN cancer|DS http|NN 
+cancer|DS society|NN 
+http|NN cer|NN 2|NN july|NN 
+cancer|DS 
+http|NN 
+cancer|DS society|NN 
+http|NN july|NN june|NN 
+kushi|NN lh|NN c|NN m|NN rock|NN cl|NN w|NN bandera|NN ev|NN gapstur|NN s|NN patel|NN av|NN k|NN gansler|NN t|NN 
+cancer|DS society|NN guideline|NN nutrition|NN activity|NN cancer|DS prevention|NN risk|NN of|NN cancer|DS food|NN choice|NN activity|NN http|NN 
+cancer|DS j|NN clin|NN 
+1|NN 
+s|NN 
+pmid|NN http|NN 
+dm|NN boyd|NN l|NN walker|NN lc|NN 
+fraction|NN of|NN cancer|DS factor|NN in|NN uk|NN in|NN http|NN 
+journal|NN of|NN cancer|DS 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+world|NN cancer|DS report|NN http|NN 
+world|NN health|NN organization|NN 
+pp|NN 
+chapter|NN http|NN july|NN 
+pc|NN jørgensen|NN kj|NN 
+screen|NN breast_cancer|DS mammography|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd001877|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+world|NN cancer|DS report|NN http|NN 
+world|NN health|NN organization|NN 
+pp|NN 
+chapter|NN http|NN july|NN 
+world|NN cancer|DS report|NN world|NN health|NN organization|NN 
+pp|NN 
+chapter|NN 
+dubas|NN le|NN 
+skin_cancer|DS 
+plastic|NN surgery|NN clinic|NN of|NN america|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+cakir|NN bö|NN adamson|NN p|NN c|NN 
+epidemiology|NN burden|NN of|NN skin_cancer|DS 
+plastic|NN surgery|NN clinic|NN of|NN america|NN 
+http|NN 
+pmid|NN http|NN 
+jemal|NN bray|NN f|NN center|NN mm|NN ferlay|NN j|NN ward|NN e|NN d|NN 
+cancer|DS statistic|NN http|NN ecd|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+world|NN cancer|DS report|NN http|NN 
+world|NN health|NN organization|NN 
+pp|NN 
+chapter|NN http|NN july|NN 
+cancer|DS http|NN 
+cancer|DS society|NN 
+http|NN 1|NN september|NN september|NN 
+cancer|DS 
+http|NN 
+cancer|DS institute|NN 
+march|NN 
+hanahan|NN d|NN ra|NN 
+hallmark|NN of|NN cancer|DS 
+cell|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+hanahan|NN d|NN ra|NN 
+hallmark|NN of|NN cancer|DS generation|NN 
+cell|NN 
+http|NN 
+pmid|NN http|NN 
+holland|NN chp|NN 
+1|NN anguiano|NN l|NN mayer|NN dk|NN ml|NN rosenstein|NN d|NN 
+literature|NN review|NN of|NN suicide|NN in|NN cancer|DS patient|NN 
+cancer|DS nurse|NN 
+http|NN 
+pmid|NN http|NN 
+michael|NN stubblefield|NN michael|NN 
+cancer|DS rehabilitation|NN principle|NN practice|NN http|NN 
+york|NN 
+fearon|NN strasser|NN anker|NN stefan|NN d|NN bosaeus|NN ingvar|NN bruera|NN eduardo|NN fainsinger|NN l|NN jatoi|NN aminah|NN charles|NN macdonald|NN mantovani|NN giovanni|NN davis|NN mellar|NN 
+definition|NN classification|NN of|NN cancer|DS cachexia|ST consensus|NN 
+oncology|NN 
+http|NN 
+pmid|NN http|NN 
+dimitriadis|NN georgios|NN angelousi|NN anna|NN o|NN randeva|NN s|NN gregory|NN grossman|NN ashley|NN 
+endocrine|NN syndrome|NN 
+cancer|DS 
+http|NN 2|NN 
+http|NN 
+pmid|NN http|NN 
+manton|NN k|NN i|NN j|NN december|NN 
+cancer|DS mortality|NN morbidity|NN pattern|NN in|NN population|NN approach|NN http|NN ok|NN 
+springer|NN science|NN business|NN media|NN 
+term|NN environment|NN refer|NN air|NN water|NN soil|NN substance|NN condition|NN home|NN workplace|NN smoke|NN alcohol|NN drug|NN exposure|NN chemical|NN sunlight|NN radiation|NN field|NN agent|NN 
+lifestyle|NN factor|NN aspect|NN of|NN environment|NN 
+islami|NN f|NN sauer|NN miller|NN kd|NN siegel|NN rl|NN sa|NN jacob|NN ej|NN ml|NN patel|NN av|NN j|NN soerjomataram|NN i|NN flanders|NN ow|NN gapstur|NN sm|NN 
+proportion|NN number|NN of|NN cancer|DS case|NN death|NN risk|NN factor|NN in|NN state|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+cohen|NN s|NN murphy|NN mlm|NN 2019|NN 
+fact|NN life|NN event|NN disease|NN risk|NN 
+review|NN of|NN psychology|NN 
+http|NN 
+pmid|NN http|NN 
+conclusion|NN decade|NN of|NN research|NN stressor|NN cancer|DS event|NN cancer|DS survival|NN disease|NN incidence|NN et|NN al|NN 
+heikkilä|NN k|NN st|NN theorell|NN t|NN fransson|NN ei|NN alfredsson|NN l|NN bjorner|NN jb|NN al|NN 
+work|NN stress|NN risk|NN of|NN cancer|DS of|NN cancer|DS event|NN in|NN men|NN woman|NN http|NN 
+bmj|NN 
+f165|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+j|NN jp|NN 
+transplacental|NN route|NN of|NN cancer|DS transmission|NN individual|NN 
+journal|NN of|NN 
+http|NN 
+pmid|NN http|NN 
+hk|NN b|NN chesson|NN chytil|NN f|NN r|NN hermus|NN rj|NN köhrle|NN j|NN r|NN k|NN pastorino|NN u|NN thurnham|NN d|NN 
+consensus|NN statement|NN lung_cancer|DS risk|NN factor|NN prevention|NN 
+lung_cancer|DS panel|NN 
+discussion|NN 
+http|NN 
+pmid|NN http|NN 
+kuper|NN h|NN boffetta|NN p|NN adami|NN ho|NN 
+tobacco|NN use|NN cancer|DS causation|NN association|NN tumour|NN type|NN http|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+kuper|NN h|NN adami|NN ho|NN boffetta|NN p|NN 
+tobacco|NN use|NN cancer|DS causation|NN health|NN impact|NN http|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+sasco|NN aj|NN mb|NN k|NN 
+tobacco|NN smoke|NN cancer|DS review|NN of|NN evidence|NN 
+lung_cancer|DS 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+mj|NN 
+of|NN decrease|NN in|NN cancer|DS death|NN rate|NN in|NN state|NN reduction|NN in|NN tobacco|NN smoke|NN 
+http|NN 
+tobacco|NN control|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+dubey|NN s|NN powell|NN 
+update|NN in|NN lung_cancer|DS http|NN 
+journal|NN of|NN respiratory|NN care|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+m|NN h|NN pischon|NN t|NN rehm|NN j|NN kehoe|NN t|NN gmel|NN g|NN tjønneland|NN cc|NN k|NN f|NN mc|NN benetou|NN v|NN zylis|NN d|NN r|NN rohrmann|NN s|NN palli|NN d|NN berrino|NN f|NN tumino|NN r|NN vineis|NN p|NN rodríguez|NN l|NN sánchez|NN mj|NN m|NN chirlaque|NN md|NN peeters|NN gils|NN kt|NN wareham|NN n|NN ne|NN tj|NN boffetta|NN p|NN n|NN jenab|NN m|NN romaguera|NN d|NN wark|NN pa|NN e|NN bergmann|NN mm|NN 
+alcohol|NN burden|NN of|NN incidence|NN of|NN cancer|DS in|NN country|NN result|NN cohort|NN study|NN http|NN 
+bmj|NN 
+d1584|NN 
+http|NN 
+pmc|NN http|NN mc3072472|NN 
+pmid|NN http|NN 
+irigaray|NN p|NN ja|NN clapp|NN r|NN hardell|NN l|NN howard|NN v|NN l|NN s|NN belpomme|NN d|NN 
+factor|NN agent|NN cancer|DS overview|NN 
+biomedicine|NN pharmacotherapy|NN 
+http|NN 
+pmid|NN http|NN 
+prevention|NN of|NN cancer|DS workplace|NN http|NN release|NN 
+world|NN health|NN organization|NN 
+http|NN october|NN 
+kushi|NN lh|NN byers|NN c|NN bandera|NN ev|NN m|NN gansler|NN t|NN k|NN mj|NN 
+cancer|DS society|NN guideline|NN nutrition|NN activity|NN cancer|DS prevention|NN risk|NN of|NN cancer|DS food|NN choice|NN activity|NN http|NN 
+http|NN 
+pmid|NN http|NN 
+bhaskaran|NN k|NN douglas|NN i|NN h|NN i|NN leon|NN da|NN l|NN 
+index|NN risk|NN of|NN cancer|DS cohort|NN study|NN of|NN adult|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+park|NN s|NN bae|NN j|NN bh|NN yoo|NN ky|NN 
+aetiology|NN of|NN cancer|DS in|NN asia|NN http|NN pno|NN 
+journal|NN of|NN cancer|DS prevention|NN 
+pmid|NN http|NN 
+p|NN pdf|NN september|NN 
+brenner|NN h|NN d|NN v|NN 
+epidemiology|NN of|NN stomach_cancer|DS http|NN 
+method|NN in|NN biology|NN clifton|NN nj|NN 
+method|NN in|NN biology|NN 
+pp|NN 
+http|NN 
+pmc|NN s|NN 
+pmid|NN http|NN 
+buell|NN p|NN dunn|NN je|NN 
+cancer|DS mortality|NN issei|NN nisei|NN of|NN california|NN 
+cancer|DS 
+cncr2820180515|NN http|NN 
+pmid|NN s|NN 
+pagano|NN j|NN blaser|NN m|NN buendia|NN ma|NN damania|NN b|NN khalili|NN k|NN n|NN roizman|NN b|NN 
+agent|NN cancer|DS criterion|NN causal|NN relation|NN 
+seminar|NN in|NN cancer|DS biology|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN m|NN 
+disease|NN 
+clinic|NN in|NN dermatology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+samara|NN pi|NN mourtzoukou|NN eg|NN peppas|NN g|NN 
+chronic|NN bacterial|NN infection|NN cancer|DS review|NN http|NN pdf|NN 
+journal|NN of|NN infection|NN in|NN country|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN 
+radiation|NN http|NN 
+cancer|DS institute|NN 
+june|NN 2019|NN 
+sunlight|NN http|NN 
+cancer|DS institute|NN 
+june|NN 2019|NN 
+cancer|DS prevention|NN http|NN 
+june|NN 2019|NN 
+jb|NN 
+chapter|NN ionize|NN radiation|NN http|NN 
+in|NN kufe|NN dw|NN pollock|NN re|NN weichselbaum|NN rr|NN bast|NN rc|NN gansler|NN t|NN holland|NN jf|NN e|NN ed|NN 
+cancer|DS medicine|NN 
+hamilton|NN ont|NN 
+decker|NN 
+http|NN 2|NN 
+brenner|NN dj|NN hall|NN ej|NN 
+source|NN of|NN radiation|NN exposure|NN http|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+cleaver|NN je|NN mitchell|NN dl|NN 
+radiation|NN carcinogenesis|NN http|NN 
+in|NN bast|NN rc|NN dw|NN pollock|NN re|NN al|NN 
+ed|NN 
+frei|NN cancer|DS medicine|NN 
+hamilton|NN ontario|NN 
+decker|NN 
+http|NN september|NN 
+classify|NN field|NN human|NN http|NN pdf|NN 
+world|NN health|NN organization|NN 
+http|NN pdf|NN 1|NN june|NN 
+field|NN cancer|DS http|NN 
+cancer|DS institute|NN 
+june|NN 2019|NN 
+cell|NN phone|NN cancer|DS risk|NN cancer|DS institute|NN http|NN 
+march|NN 
+roukos|NN dh|NN 
+association|NN study|NN person|NN cancer|DS risk|NN 
+review|NN of|NN anticancer|NN therapy|NN 
+http|NN 
+pmid|NN http|NN 
+cunningham|NN d|NN w|NN hj|NN ht|NN minsky|NN b|NN nordlinger|NN b|NN n|NN 
+colorectal_cancer|DS 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+kampman|NN 
+relative|NN colorectal_cancer|DS 
+cancer|DS epidemiology|NN biomarkers|NN prevention|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+coté|NN ml|NN m|NN bonassi|NN s|NN m|NN schwartz|NN ag|NN christiani|NN dc|NN al|NN 
+risk|NN of|NN lung_cancer|DS in|NN individual|NN family|NN history|NN of|NN disease|NN analysis|NN lung_cancer|DS consortium|NN http|NN 
+journal|NN of|NN cancer|DS 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bruner|NN dw|NN d|NN j|NN p|NN 
+risk|NN of|NN prostate_cancer|DS men|NN relative|NN review|NN 
+journal|NN of|NN cancer|DS 
+http|NN 
+pmid|NN http|NN 
+eva|NN 
+rat|NN risk|NN factor|NN breast_cancer|DS http|NN 
+annals|NN of|NN surgery|NN 
+http|NN 
+pmc|NN tps|NN 
+pmid|NN http|NN 
+j|NN bj|NN casabonne|NN d|NN fl|NN g|NN v|NN 
+height|NN cancer|DS incidence|NN in|NN woman|NN study|NN cohort|NN of|NN study|NN of|NN height|NN cancer|DS risk|NN http|NN 
+lancet|NN 
+oncology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+maltoni|NN cf|NN holland|NN jf|NN 
+chapter|NN carcinogen|NN http|NN 
+in|NN bast|NN rc|NN dw|NN pollock|NN re|NN al|NN 
+ed|NN 
+cancer|DS medicine|NN 
+hamilton|NN ontario|NN 
+decker|NN 
+http|NN september|NN 
+gaeta|NN jf|NN 
+chapter|NN trauma|NN inflammation|NN http|NN 
+in|NN bast|NN rc|NN dw|NN pollock|NN re|NN al|NN 
+ed|NN 
+cancer|DS medicine|NN 
+hamilton|NN ontario|NN 
+decker|NN 
+s|NN september|NN 
+colotta|NN f|NN p|NN garlanda|NN c|NN july|NN 
+inflammation|NN hallmark|NN of|NN cancer|DS link|NN instability|NN 
+carcinogenesis|NN review|NN 
+http|NN 2|NN fbgp127|NN 
+pmid|NN http|NN 
+h|NN s|NN seidl|NN d|NN h|NN ha|NN r|NN 
+interaction|NN of|NN tumor|NN cell|NN microenvironment|NN http|NN 
+cell|NN communication|NN signal|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mantovani|NN 
+pathway|NN inflammation|NN cancer|DS 
+medicine|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+borrello|NN mg|NN d|NN ma|NN 
+inflammation|NN cancer|DS connection|NN 
+cancer|DS letter|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+henderson|NN l|NN ross|NN rk|NN 
+chapter|NN hormone|NN etiology|NN of|NN cancer|DS http|NN 
+in|NN bast|NN rc|NN dw|NN pollock|NN re|NN al|NN 
+ed|NN 
+cancer|DS medicine|NN 
+hamilton|NN ontario|NN 
+decker|NN 
+http|NN september|NN 
+rowlands|NN d|NN r|NN lj|NN jm|NN martin|NN rm|NN 
+growth|NN factor|NN peptide|NN prostate_cancer|DS risk|NN review|NN analysis|NN http|NN 
+journal|NN of|NN cancer|DS 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+han|NN y|NN chen|NN w|NN p|NN j|NN 
+association|NN disease|NN risk|NN of|NN malignancy|NN gastrointestinal|NN malignancy|NN http|NN 
+medicine|NN 
+e1612|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+je|NN s|NN 
+bowel|NN disease|NN cancer|DS role|NN of|NN inflammation|NN immunosuppression|NN cancer|DS treatment|NN http|NN 
+world|NN journal|NN of|NN gastroenterology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+croce|NN cm|NN 
+oncogene|NN cancer|DS http|NN e24ada72d7b2eaf5f8f66a35468bf68eb30fe|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+knudson|NN ag|NN 
+hit|NN cancer|DS 
+review|NN 
+cancer|DS 
+1|NN 2|NN 
+http|NN 
+pmid|NN http|NN 
+da|NN tt|NN rabson|NN ab|NN anderson|NN d|NN degenhardt|NN k|NN white|NN e|NN 
+hypoxia|NN apoptosis|NN drive|NN instability|NN tumorigenesis|NN http|NN 
+gene|NN development|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+merlo|NN lm|NN pepper|NN jw|NN reid|NN bj|NN maley|NN cc|NN 
+cancer|DS process|NN 
+review|NN 
+cancer|DS 
+p|NN 
+pmid|NN http|NN 
+baylin|NN sb|NN je|NN 
+gene|NN in|NN cancer|DS mechanism|NN early|NN pathway|NN addiction|NN 
+review|NN 
+cancer|DS 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+kanwal|NN r|NN gupta|NN s|NN 
+modification|NN in|NN cancer|DS http|NN 
+genetics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+g|NN battista|NN s|NN belletti|NN b|NN thakur|NN s|NN pentimalli|NN f|NN trapasso|NN f|NN m|NN pierantoni|NN g|NN croce|NN cm|NN 
+regulation|NN of|NN gene|NN expression|NN protein|NN account|NN brca1|NN protein|NN level|NN in|NN breast|NN carcinoma|NN http|NN 
+biology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN schnekenburger|NN m|NN m|NN 
+epigenetics|NN horizon|NN colorectal_cancer|DS prevention|NN http|NN 
+colorectal_cancer|DS report|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+jacinto|NN fv|NN esteller|NN m|NN 
+mutator|NN pathway|NN silence|NN in|NN human|NN cancer|DS 
+mutagenesis|NN 
+http|NN 
+pmid|NN http|NN 
+c|NN gp|NN 
+change|NN of|NN dna|NN repair|NN gene|NN in|NN cancer|DS http|NN 
+journal|NN of|NN cell|NN biology|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bernstein|NN c|NN v|NN ar|NN bernstein|NN h|NN 
+field|NN defect|NN in|NN progression|NN cancer|DS http|NN 
+world|NN journal|NN of|NN gastrointestinal|NN oncology|NN 
+http|NN 
+pmc|NN http|NN c3648662|NN 
+pmid|NN http|NN 
+l|NN fritzell|NN ja|NN baker|NN sm|NN rm|NN glazer|NN pm|NN 
+level|NN of|NN mutation|NN in|NN multiple|NN tissue|NN of|NN deficient|NN in|NN dna|NN mismatch|NN repair|NN gene|NN pms2|NN s|NN 
+proceed|NN of|NN academy|NN of|NN science|NN of|NN state|NN of|NN america|NN 
+http|NN 
+p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+dc|NN l|NN jirik|NN fr|NN w|NN rm|NN glazer|NN pm|NN 
+pattern|NN of|NN instability|NN in|NN deficient|NN in|NN mismatch|NN repair|NN gene|NN pms2|NN mlh1|NN msh2|NN msh3|NN msh6|NN http|NN 
+carcinogenesis|NN 
+http|NN arcin|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+tutt|NN van|NN oostrom|NN ct|NN ross|NN gm|NN van|NN steeg|NN h|NN march|NN 
+disruption|NN of|NN brca2|NN mutation|NN rate|NN in|NN vivo|NN synergism|NN radiation|NN ttps|NN 
+report|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+j|NN 
+bloom|NN syndrome|NN 
+observation|NN in|NN patient|NN http|NN 
+journal|NN of|NN human|NN genetics|NN 
+2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hm|NN hp|NN baylin|NN sb|NN 
+lee|NN jt|NN 
+double|NN strand|NN break|NN gene|NN onset|NN of|NN dna|NN methylation|NN in|NN promoter|NN cpg|NN island|NN http|NN 
+plo|NN genetics|NN 
+e1000155|NN 
+http|NN 1|NN 
+pmc|NN http|NN c2491723|NN 
+pmid|NN http|NN 
+cuozzo|NN c|NN angrisano|NN t|NN lee|NN b|NN di|NN pardo|NN messina|NN s|NN iuliano|NN r|NN santillo|NN mr|NN muller|NN mt|NN chiariotti|NN l|NN gottesman|NN ev|NN 
+dna|NN damage|NN repair|NN dna|NN methylation|NN http|NN 
+plo|NN genetics|NN 
+e110|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+d|NN 
+syndrome|NN http|NN mc3135649|NN 
+gene|NN cancer|DS 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+fearon|NN er|NN 
+human|NN cancer|DS syndrome|NN clue|NN origin|NN nature|NN of|NN cancer|DS 
+science|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+vogelstein|NN b|NN papadopoulos|NN n|NN velculescu|NN ve|NN zhou|NN s|NN diaz|NN la|NN kinzler|NN kw|NN 
+cancer|DS genome|NN landscape|NN http|NN 
+science|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cancer|DS question|NN answer|NN http|NN er|NN 
+cancer|DS institute|NN 
+march|NN 
+cancer|DS 
+http|NN 
+ml|NN 
+comprehensive|NN cancer|DS network|NN 
+july|NN july|NN 
+varricchio|NN cg|NN 
+cancer|DS source|NN book|NN nurse|NN http|NN id|NN 
+boston|NN jones|NN publisher|NN 
+cancer|DS prevention|NN step|NN risk|NN http|NN 
+mayo|NN clinic|NN 
+http|NN 
+danaei|NN g|NN vander|NN hoorn|NN s|NN lopez|NN ad|NN murray|NN cj|NN m|NN 
+cause|NN of|NN cancer|DS in|NN world|NN risk|NN assessment|NN of|NN behavioural|NN risk|NN factor|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN power|NN w|NN hannun|NN ya|NN 
+contribution|NN of|NN risk|NN factor|NN cancer|DS development|NN http|NN 
+nature|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cancer|DS http|NN 
+world|NN health|NN organization|NN 
+http|NN december|NN 
+wicki|NN hagmann|NN j|NN 
+cancer|DS 
+weekly|NN 
+w13250|NN 
+http|NN 
+pmid|NN http|NN 
+cappellani|NN di|NN vita|NN m|NN cavallaro|NN piccolo|NN g|NN m|NN berretta|NN m|NN malaguarnera|NN m|NN canzonieri|NN v|NN menzo|NN e|NN 
+obesity|NN breast_cancer|DS update|NN 
+frontier|NN in|NN bioscience|NN 
+http|NN 
+pmid|NN http|NN 
+tj|NN 
+fruit|NN vegetable|NN cancer|DS risk|NN http|NN 
+journal|NN of|NN cancer|DS 
+1|NN 
+http|NN 
+pmc|NN s|NN 
+pmid|NN http|NN 
+wang|NN x|NN y|NN j|NN zhu|NN m|NN zhao|NN g|NN bao|NN w|NN hu|NN fb|NN 
+fruit|NN consumption|NN mortality|NN cause|NN cardiovascular_disease|DS cancer|DS review|NN of|NN cohort|NN study|NN http|NN 
+bmj|NN 
+g4490|NN 
+http|NN 
+pmc|NN http|NN c4115152|NN 
+pmid|NN http|NN 
+larsson|NN sc|NN 
+coffee|NN consumption|NN risk|NN of|NN liver_cancer|DS analysis|NN 
+gastroenterology|NN 
+http|NN 
+pmid|NN http|NN 
+zheng|NN w|NN sa|NN 
+meat|NN intake|NN amine|NN exposure|NN cancer|DS risk|NN http|NN 
+nutrition|NN cancer|DS 
+http|NN 1|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ferguson|NN lr|NN 
+meat|NN cancer|DS 
+meat|NN science|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+staff|NN 
+world|NN health|NN organization|NN iarc|NN monograph|NN consumption|NN of|NN meat|NN meat|NN http|NN pdf|NN 
+agency|NN research|NN cancer|DS 
+http|NN pdf|NN october|NN 
+hauser|NN christine|NN 
+report|NN cancer|DS meat|NN http|NN 
+york|NN time|NN 
+http|NN october|NN 
+holland|NN rostom|NN dubé|NN c|NN g|NN barrowman|NN n|NN code|NN c|NN m|NN d|NN 
+drug|NN inhibitor|NN prevention|NN of|NN colorectal_cancer|DS review|NN service|NN task|NN force|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+rothwell|NN pm|NN fowkes|NN jf|NN h|NN cp|NN meade|NN tw|NN 
+effect|NN of|NN aspirin|NN risk|NN of|NN death|NN cancer|DS analysis|NN of|NN patient|NN data|NN trial|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+cooper|NN k|NN h|NN carroll|NN c|NN papaioannou|NN d|NN rf|NN maguire|NN c|NN hind|NN d|NN p|NN 
+chemoprevention|NN of|NN colorectal_cancer|DS review|NN evaluation|NN 
+health|NN technology|NN assessment|NN 
+http|NN 
+pmid|NN http|NN 
+thomsen|NN kolesar|NN jm|NN 
+chemoprevention|NN of|NN breast_cancer|DS 
+journal|NN of|NN pharmacy|NN 
+http|NN 
+pmid|NN http|NN 
+tj|NN macdonald|NN r|NN hagerty|NN k|NN p|NN kramer|NN b|NN 
+tj|NN 
+inhibitor|NN prostate_cancer|DS prevention|NN 
+cochrane|NN database|NN of|NN review|NN 2|NN cd007091|NN 
+http|NN 
+pmid|NN http|NN 
+vitamin|NN mineral|NN cancer|DS cardiovascular|NN prevention|NN http|NN 
+prescrire|NN 
+august|NN pmid|NN http|NN 
+http|NN 
+giovannucci|NN e|NN y|NN rimm|NN eb|NN hollis|NN bw|NN c|NN stampfer|NN mj|NN wc|NN 
+study|NN of|NN predictor|NN of|NN vitamin|NN d|NN status|NN cancer|DS incidence|NN mortality|NN in|NN men|NN 
+journal|NN of|NN cancer|DS institute|NN 
+citeseerx|NN http|NN 
+http|NN 
+pmid|NN http|NN 
+vitamin|NN d|NN role|NN in|NN colon|NN cancer|DS prevention|NN http|NN 
+december|NN july|NN 
+mf|NN 
+vitamin|NN d|NN sunlight|NN cancer|DS connection|NN 
+agent|NN in|NN chemistry|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+gg|NN blot|NN wj|NN 
+vitamin|NN d|NN status|NN cancer|DS incidence|NN mortality|NN something|NN sun|NN 
+journal|NN of|NN cancer|DS institute|NN 
+http|NN 
+pmid|NN http|NN 
+bolland|NN mj|NN gd|NN reid|NN ir|NN 
+effect|NN of|NN vitamin|NN d|NN supplementation|NN skeletal|NN cancer|DS outcome|NN trial|NN analysis|NN 
+lancet|NN 
+diabetes|DS endocrinology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+g|NN gluud|NN ll|NN d|NN whitfield|NN k|NN j|NN rg|NN m|NN c|NN 
+vitamin|NN supplementation|NN prevention|NN of|NN mortality|NN in|NN adult|NN ttps|NN 
+cochrane|NN database|NN of|NN review|NN 
+1|NN 1|NN cd007470|NN 
+http|NN b3|NN 
+pmid|NN http|NN 
+fritz|NN h|NN kennedy|NN d|NN fergusson|NN d|NN fernandes|NN doucette|NN s|NN cooley|NN k|NN sagar|NN s|NN r|NN d|NN 
+minna|NN jd|NN 
+derivative|NN lung_cancer|DS review|NN meta|NN analysis|NN http|NN pmc3124481|NN 
+plo|NN 
+e21107|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bf|NN baron|NN ja|NN sandler|NN r|NN haile|NN rw|NN dj|NN r|NN g|NN summer|NN ri|NN burke|NN dc|NN church|NN tr|NN ji|NN robertson|NN dj|NN beck|NN gj|NN bond|NN jh|NN byers|NN j|NN mott|NN la|NN pearson|NN lh|NN barry|NN el|NN jr|NN marcon|NN n|NN saibil|NN f|NN pm|NN greenberg|NN er|NN 
+acid|NN prevention|NN of|NN colorectal|NN adenoma|NN trial|NN 
+jama|NN 
+http|NN 
+pmid|NN http|NN 
+vinceti|NN marco|NN filippini|NN tommaso|NN giovane|NN cinzia|NN dennert|NN gabriele|NN marcel|NN brinkman|NN zeegers|NN maurice|NN pa|NN roberto|NN 
+selenium|NN cancer|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+1|NN cd005195|NN 
+http|NN ub4|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cancer|DS vaccine|NN fact|NN sheet|NN http|NN 
+nci|NN 
+june|NN march|NN 
+aa|NN yip|NN ch|NN khuhaprema|NN t|NN d|NN plummer|NN m|NN jee|NN sh|NN m|NN s|NN 
+cancer|DS prevention|NN in|NN asia|NN guideline|NN oncology|NN summit|NN 
+lancet|NN 
+oncology|NN 
+arxiv|NN 
+http|NN 
+pmid|NN http|NN 
+cancer|DS overview|NN version|NN http|NN 
+cancer|DS institute|NN 
+march|NN 
+wilson|NN jmg|NN jungner|NN principle|NN practice|NN of|NN disease|NN 
+http|NN geneva|NN world|NN health|NN organization|NN 
+health|NN paper|NN 
+screen|NN cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN december|NN 
+screen|NN colorectal_cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN 
+screen|NN skin_cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN 
+screen|NN cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN 
+lung_cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN 
+screen|NN prostate_cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN december|NN 
+screen|NN bladder|NN cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN 
+screen|NN testicular_cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN 
+screen|NN ovarian_cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN 
+screen|NN pancreatic_cancer|DS http|NN 
+service|NN task|NN force|NN 
+december|NN 
+chou|NN r|NN croswell|NN jm|NN dana|NN t|NN c|NN blazina|NN i|NN fu|NN r|NN gleitsmann|NN k|NN hc|NN al|NN 
+screen|NN prostate_cancer|DS review|NN of|NN evidence|NN service|NN task|NN force|NN http|NN 
+state|NN service|NN task|NN force|NN 
+october|NN 
+screen|NN breast_cancer|DS http|NN 
+service|NN task|NN force|NN 
+2|NN december|NN 
+pc|NN jørgensen|NN kj|NN 
+screen|NN breast_cancer|DS mammography|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd001877|NN 
+ttps|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ap|NN domchek|NN sm|NN 
+management|NN of|NN brca1|NN mutation|NN carrier|NN 
+oncology|NN report|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+lind|NN mj|NN 
+principle|NN of|NN cytotoxic|NN chemotherapy|NN 
+medicine|NN 
+1|NN 
+http|NN 
+cancer|DS therapy|NN http|NN 
+cancer|DS 
+cancer|DS institute|NN 
+march|NN 
+holland|NN chp|NN 
+lj|NN ac|NN flower|NN 
+lymphoma|NN treatment|NN approach|NN 
+oncology|NN 
+pmid|NN http|NN 
+freedman|NN 
+lymphoma|NN update|NN diagnosis|NN management|NN 
+journal|NN of|NN hematology|NN 
+ttps|NN 
+pmid|NN http|NN 
+r|NN papanastassiou|NN v|NN 
+management|NN of|NN brain|NN tumour|NN surgery|NN radiotherapy|NN chemotherapy|NN http|NN 
+journal|NN of|NN neurology|NN neurosurgery|NN psychiatry|NN 
+2|NN 2|NN 
+http|NN 
+pmc|NN http|NN c1765659|NN 
+pmid|NN http|NN 
+madan|NN v|NN jt|NN szeimies|NN 
+skin_cancer|DS http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ck|NN bomford|NN kunkler|NN j|NN walter|NN 
+walter|NN miller|NN textbook|NN of|NN radiation|NN therapy|NN ed|NN prince|NN jim|NN mcmorran|NN crowther|NN stew|NN mcmorran|NN youngmin|NN wacogne|NN jon|NN pleat|NN clive|NN 
+radiosensitivity|NN practice|NN notebook|NN http|NN 
+http|NN september|NN 
+tidy|NN radiotherapy|NN http|NN 
+uk|NN 
+ttps|NN july|NN december|NN hill|NN r|NN healy|NN b|NN holloway|NN l|NN kuncic|NN z|NN d|NN baldock|NN c|NN 
+advance|NN in|NN beam|NN dosimetry|NN http|NN 
+physic|NN in|NN medicine|NN biology|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+holland|NN chp|NN 
+society|NN of|NN oncology|NN 
+thing|NN physician|NN patient|NN http|NN pdf|NN 
+initiative|NN of|NN foundation|NN 
+pdf|NN july|NN 
+society|NN of|NN oncology|NN recommendation|NN cancer|DS 
+society|NN of|NN oncology|NN 
+thing|NN physician|NN patient|NN http|NN pdf|NN 
+initiative|NN of|NN foundation|NN 
+f|NN pdf|NN july|NN august|NN lung_cancer|DS cg|NN temin|NN s|NN t|NN baker|NN s|NN brahmer|NN j|NN johnson|NN dh|NN jl|NN master|NN milton|NN d|NN l|NN pao|NN w|NN pfister|NN dg|NN piantadosi|NN s|NN schiller|NN jh|NN smith|NN r|NN smith|NN tj|NN strawn|NN jr|NN trent|NN d|NN giaccone|NN g|NN 
+update|NN of|NN society|NN of|NN oncology|NN practice|NN guideline|NN update|NN chemotherapy|NN stage|NN lung_cancer|DS http|NN 
+journal|NN of|NN oncology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ettinger|NN d|NN akerley|NN w|NN bepler|NN g|NN blum|NN mg|NN cheney|NN rt|NN al|NN 
+july|NN 
+cell|NN lung_cancer|DS 
+journal|NN of|NN comprehensive|NN cancer|DS network|NN 
+http|NN 
+pmid|NN http|NN 
+breast_cancer|DS rw|NN dc|NN anderson|NN bo|NN burstein|NN hj|NN carter|NN wb|NN edge|NN sb|NN al|NN 
+breast_cancer|DS 
+practice|NN guideline|NN in|NN oncology|NN 
+journal|NN of|NN comprehensive|NN cancer|DS network|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+colon|NN cancer|DS pf|NN jp|NN benson|NN ab|NN chen|NN yj|NN choti|NN ma|NN h|NN dilawari|NN ra|NN early|NN d|NN pc|NN mg|NN j|NN c|NN grem|NN jl|NN k|NN ja|NN la|NN lin|NN e|NN mulcahy|NN mf|NN rao|NN s|NN dp|NN saltz|NN l|NN shibata|NN d|NN jm|NN c|NN j|NN venook|NN ap|NN c|NN 
+practice|NN guideline|NN in|NN oncology|NN colon|NN cancer|DS 
+journal|NN of|NN comprehensive|NN cancer|DS network|NN 
+http|NN 
+pmid|NN http|NN 
+statement|NN tj|NN hillner|NN 
+cost|NN curve|NN in|NN cancer|DS care|NN http|NN 
+journal|NN of|NN medicine|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+jm|NN smith|NN tj|NN helft|NN pr|NN debono|NN dj|NN berry|NN sr|NN d|NN dm|NN roenn|NN jh|NN le|NN 
+society|NN of|NN oncology|NN statement|NN care|NN patient|NN cancer|DS s|NN 
+journal|NN of|NN oncology|NN 
+http|NN 
+pmid|NN http|NN 
+guideline|NN http|NN 
+http|NN 
+practice|NN guideline|NN quality|NN palliative|NN care|NN http|NN pdf|NN 
+consensus|NN project|NN quality|NN care|NN 
+pdf|NN 
+levy|NN mh|NN back|NN s|NN c|NN bill|NN ja|NN block|NN s|NN bruera|NN e|NN carducci|NN ma|NN dy|NN s|NN c|NN km|NN harris|NN jd|NN sj|NN milch|NN r|NN rhiner|NN m|NN ne|NN d|NN sutton|NN l|NN s|NN roenn|NN jh|NN sm|NN 
+care|NN 
+practice|NN guideline|NN in|NN oncology|NN http|NN b5fb7dfcbfd0fb184377|NN 
+journal|NN of|NN comprehensive|NN cancer|DS network|NN 
+http|NN 
+pmid|NN http|NN 
+ta|NN 
+immunotherapy|NN past|NN http|NN 
+nature|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+laser|NN in|NN cancer|DS treatment|NN http|NN 
+institute|NN of|NN health|NN cancer|DS institute|NN 
+december|NN in|NN domain|NN 
+article|NN source|NN cassileth|NN br|NN deng|NN g|NN 
+therapy|NN cancer|DS http|NN pdf|NN 
+oncologist|NN 
+1|NN http|NN 
+pmid|NN http|NN 
+http|NN 2|NN http|NN december|NN wayback|NN machine|NN center|NN medicine|NN 
+vickers|NN 
+cancer|DS cure|NN 
+2|NN citeseerx|NN http|NN 
+http|NN 
+pmid|NN http|NN 
+world|NN cancer|DS report|NN http|NN 
+world|NN health|NN organization|NN 
+http|NN july|NN 
+s|NN 
+cancer|DS incidence|NN risk|NN factor|NN management|NN http|NN a41087|NN 
+in|NN e|NN dw|NN holland|NN jf|NN ed|NN 
+cancer|DS medicine|NN 
+hamilton|NN ont|NN bc|NN decker|NN 
+montazeri|NN 
+quality|NN of|NN life|NN data|NN indicator|NN of|NN survival|NN in|NN cancer|DS patient|NN overview|NN of|NN literature|NN http|NN 
+health|NN quality|NN of|NN life|NN outcome|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+akl|NN kahale|NN hakoum|NN maram|NN matar|NN charbel|NN barba|NN maddalena|NN victor|NN irene|NN synnot|NN 
+anticoagulation|NN in|NN patient|NN cancer|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd006652|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cancer|DS death|NN rate|NN http|NN 
+world|NN in|NN data|NN 
+october|NN 2019|NN 
+cancer|DS data|NN cancer|DS burden|NN case|NN cancer|DS death|NN in|NN http|NN pdf|NN 
+december|NN 
+lozano|NN r|NN m|NN k|NN s|NN shibuya|NN k|NN v|NN al|NN 
+mortality|NN cause|NN of|NN death|NN age|NN group|NN in|NN analysis|NN burden|NN of|NN disease|NN study|NN 
+lancet|NN 
+http|NN 
+http|NN dro|NN 
+pmid|NN http|NN 
+coleman|NN wb|NN tc|NN 
+http|NN 
+in|NN gj|NN coleman|NN wl|NN ed|NN 
+pathology|NN basis|NN of|NN human|NN disease|NN 
+amsterdam|NN press|NN 
+johnson|NN g|NN december|NN 
+tumor|NN debate|NN http|NN 
+york|NN time|NN 
+http|NN 
+html|NN june|NN 
+pawelec|NN g|NN e|NN 
+immunosenescence|NN cancer|DS 
+review|NN in|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+albert|NN b|NN johnson|NN j|NN al|NN 
+cause|NN of|NN cancer|DS http|NN 
+biology|NN of|NN cell|NN 
+york|NN garland|NN science|NN 
+http|NN 2|NN 
+background|NN incidence|NN of|NN cancer|DS of|NN circumstance|NN mutation|NN consequence|NN of|NN limitation|NN accuracy|NN of|NN dna|NN replication|NN in|NN chapter|NN human|NN of|NN cell|NN set|NN of|NN mutation|NN cancer|DS 
+vn|NN e|NN pawelec|NN g|NN 
+relationship|NN cancer|DS age|NN multilevel|NN approach|NN 
+biogerontology|NN 
+http|NN 
+pmid|NN http|NN 
+jp|NN 
+process|NN influence|NN cancer|DS 
+review|NN 
+cancer|DS 
+http|NN 
+pmid|NN http|NN 
+schottenfeld|NN d|NN jf|NN 
+cancer|DS epidemiology|NN prevention|NN s|NN 
+oxford|NN university|NN press|NN 
+dg|NN jn|NN 
+pathology|NN http|NN 
+louis|NN mosby|NN 
+kaatsch|NN p|NN 
+epidemiology|NN of|NN childhood|NN cancer|DS 
+cancer|DS treatment|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+ward|NN e|NN desantis|NN c|NN kohler|NN b|NN jemal|NN 
+childhood|NN cancer|DS statistic|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+ward|NN em|NN mj|NN hannan|NN lm|NN 
+cancer|DS trend|NN 
+annals|NN of|NN york|NN academy|NN of|NN science|NN 
+1|NN 
+http|NN w|NN 
+http|NN 
+pmid|NN http|NN 
+hajdu|NN si|NN 
+note|NN history|NN landmark|NN in|NN history|NN of|NN cancer|DS part|NN 1|NN http|NN 
+cancer|DS 
+http|NN 
+pmid|NN http|NN 
+paul|NN of|NN aegina|NN century|NN ad|NN in|NN moss|NN ralph|NN 
+galen|NN cancer|DS s|NN 
+cancerdecisions|NN 
+july|NN michael|NN shimkin|NN nature|NN washington|NN dc|NN superintendent|NN of|NN document|NN publication|NN 
+nih|NN 
+majno|NN g|NN joris|NN i|NN 
+cell|NN tissue|NN disease|NN principle|NN of|NN pathology|NN principle|NN of|NN pathology|NN http|NN cc|NN 
+oxford|NN university|NN press|NN 
+september|NN 
+hajdu|NN si|NN 
+note|NN history|NN landmark|NN in|NN history|NN of|NN cancer|DS part|NN 2|NN http|NN 
+cancer|DS 
+http|NN 
+pmid|NN http|NN 
+yalom|NN marilyn|NN 
+history|NN of|NN breast|NN http|NN kujpsc|NN 1|NN 
+york|NN ballantine|NN book|NN 
+hajdu|NN si|NN 
+note|NN history|NN landmark|NN in|NN history|NN of|NN cancer|DS part|NN 
+cancer|DS 
+http|NN 
+pmid|NN http|NN 
+grange|NN jm|NN stanford|NN jl|NN stanford|NN 
+campbell|NN cancer|DS relevance|NN today|NN http|NN 
+journal|NN of|NN society|NN of|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+barbara|NN 
+welcome|NN http|NN 
+harper|NN magazine|NN 
+chochinov|NN hm|NN breitbart|NN w|NN 
+handbook|NN of|NN psychiatry|NN in|NN medicine|NN http|NN 
+oxford|NN university|NN press|NN 
+rapini|NN rp|NN bolognia|NN jl|NN jorizzo|NN jl|NN 
+dermatology|NN set|NN 
+louis|NN mosby|NN 
+skin_cancer|DS http|NN 
+world|NN health|NN organization|NN 
+http|NN september|NN 
+mcculley|NN m|NN greenwell|NN p|NN 
+therapeutic|NN medicine|NN http|NN 
+london|NN wiley|NN 
+g|NN cameron|NN l|NN 
+http|NN 
+research|NN metaphor|NN 
+cambridge|NN university|NN press|NN 
+sulik|NN 
+pink|NN ribbon|NN blue|NN breast_cancer|DS culture|NN woman|NN health|NN http|NN 
+oxford|NN university|NN press|NN 
+pp|NN 
+j|NN 
+bathsheba|NN breast|NN woman|NN cancer|DS history|NN http|NN 
+jhu|NN press|NN 
+pp|NN 
+oclc|NN http|NN 
+barbara|NN 
+promotion|NN of|NN think|NN http|NN p|NN 
+henry|NN holt|NN company|NN 
+pp|NN 
+huff|NN c|NN september|NN 
+stigma|NN cancer|DS patient|NN illness|NN 
+http|NN 
+slate|NN 
+http|NN 
+impact|NN of|NN cancer|DS http|NN 
+cancer|DS society|NN 
+july|NN 
+bosanquet|NN n|NN sikora|NN k|NN 
+economics|NN of|NN cancer|DS care|NN in|NN uk|NN 
+oncology|NN 
+http|NN 
+pmid|NN http|NN 
+mariotto|NN ab|NN yabroff|NN kr|NN shao|NN y|NN feuer|NN ej|NN ml|NN 
+projection|NN of|NN cost|NN of|NN cancer|DS care|NN in|NN state|NN http|NN c3107566|NN 
+journal|NN of|NN cancer|DS institute|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+jönsson|NN b|NN hofmarcher|NN t|NN p|NN n|NN 
+cost|NN burden|NN of|NN cancer|DS in|NN union|NN 
+journal|NN of|NN cancer|DS 
+oct|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN j|NN sullivan|NN r|NN 
+burden|NN of|NN cancer|DS union|NN cost|NN analysis|NN 
+oncology|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+employment|NN opportunity|NN commission|NN 
+question|NN answer|NN cancer|DS in|NN workplace|NN american|NN disability|NN ada|NN 
+http|NN 
+cancer|DS 
+http|NN 
+cancer|DS institute|NN 
+march|NN 
+cancer|DS fact|NN sheet|NN http|NN 
+agency|NN toxic|NN substance|NN disease|NN registry|NN 
+http|NN 
+c|NN september|NN 
+cancer|DS treatment|NN myth|NN http|NN 
+http|NN 
+tml|NN 
+ec|NN 
+cancer|DS supply|NN line|NN 
+nature|NN 
+http|NN 
+pmid|NN http|NN 
+bagri|NN h|NN kg|NN gd|NN 
+use|NN of|NN therapy|NN in|NN cancer|DS challenge|NN rationale|NN 
+trend|NN in|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+sh|NN barton|NN cl|NN 
+repurposing|NN strategy|NN therapeutic|NN 
+medicine|NN 
+http|NN 1|NN 
+winther|NN h|NN jorgensen|NN jt|NN 
+in|NN cancer|DS 
+medicine|NN 
+http|NN 
+begley|NN s|NN september|NN 
+war|NN cancer|DS http|NN 
+newsweek|NN 
+september|NN september|NN 
+kolata|NN g|NN 
+advance|NN in|NN drive|NN cancer|DS http|NN 
+york|NN time|NN 
+http|NN 
+bruce|NN albert|NN kirschner|NN tilghman|NN varmus|NN 
+research|NN systemic|NN flaw|NN http|NN pmc4000813|NN 
+proceed|NN of|NN academy|NN of|NN science|NN of|NN state|NN of|NN america|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kolata|NN g|NN 
+advance|NN in|NN drive|NN cancer|DS http|NN 
+york|NN time|NN 
+http|NN december|NN 
+kolata|NN g|NN june|NN 
+grant|NN system|NN cancer|DS researcher|NN s|NN 
+york|NN time|NN 
+http|NN june|NN december|NN 
+powell|NN k|NN 
+scientist|NN story|NN 
+nature|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+yarbro|NN ch|NN wujcik|NN d|NN gobel|NN bh|NN 
+cancer|DS nurse|NN principle|NN practice|NN http|NN 
+jones|NN bartlett|NN learn|NN 
+pp|NN 
+thamm|NN douglas|NN 
+companion|NN animal|NN fight|NN cancer|DS in|NN human|NN http|NN pdf|NN 
+veterinaria|NN italiana|NN 
+1|NN 
+http|NN pdf|NN july|NN july|NN 
+c|NN pritchard|NN jk|NN sy|NN ra|NN 
+origin|NN evolution|NN of|NN cancer|DS http|NN 2|NN 
+cell|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bast|NN rc|NN croe|NN cm|NN hait|NN wn|NN wk|NN dw|NN m|NN pollock|NN re|NN weichselbaum|NN rr|NN yang|NN h|NN holland|NN jf|NN 
+cancer|DS medicine|NN http|NN 
+wiley|NN 
+kleinsmith|NN lj|NN 
+principle|NN of|NN cancer|DS biology|NN http|NN aaaamaaj|NN 
+pearson|NN benjamin|NN cummings|NN 
+mukherjee|NN siddhartha|NN 
+emperor|NN of|NN malady|NN biography|NN of|NN cancer|DS http|NN 
+simon|NN schuster|NN 
+pazdur|NN r|NN camphausen|NN ka|NN ld|NN wj|NN 
+cancer|DS management|NN approach|NN http|NN 
+cmp|NN business|NN media|NN 
+cancer|DS http|NN google|NN book|NN 
+tannock|NN i|NN 
+science|NN of|NN oncology|NN http|NN 
+professional|NN 
+schwab|NN m|NN 
+encyclopedia|NN of|NN cancer|DS http|NN bdgc|NN 
+springer|NN science|NN business|NN media|NN 
+link|NN cancer|DS http|NN classification|NN d|NN http|NN cm|NN http|NN http|NN x|NN d009369|NN tps|NN ter|NN diseasesdb|NN http|NN medlineplus|NN http|NN resource|NN http|NN page|NN december|NN 2019|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

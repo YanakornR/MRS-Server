@@ -1,0 +1,37 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Pityriasis rosea|Disease name|NN Pityriasis rosea|Disease Pityriasis rosea|Disease back|NN disease|NN symptom|NN red|NN area|NN onset|NN year|NN duration|NN month|NN cause|NN method|NN symptom|NN diagnosis|NN rash|NN eczema|NN treatment|NN care|NN frequency|NN point|NN time|NN
+Pityriasis rosea|Disease type|NN skin|NN rash|NN red|NN area|NN herald|NN patch|NN day|NN week|NN body|NN rash|NN month|NN treatment|NN fever|NN start|NN rash|NN symptom|NN
+cause|NN herpesvirus|NN herpesvirus|NN medication|NN rash|NN diagnosis|NN symptom|NN
+evidence|NN treatment|NN people|NN point|NN time|NN age|NN condition|NN content|NN
+sign|NN symptom|NN cause|NN diagnosis|NN treatment|NN epidemiology|NN reference|NN link|NN
+sign|NN symptom|NN Pityriasis rosea|Disease torso|NN
+symptom|NN condition|NN
+tract|NN infection|NN symptom|NN patient|NN 2-|NN herald|NN patch|NN abdomen|NN herald|NN patch|NN position|NN armpit|NN example|NN
+herald|NN patch|NN cluster|NN spot|NN acne|NN
+present|NN day|NN herald|NN patch|NN mm|NN patche|NN rash|NN torso|NN
+patche|NN chest|NN rib-line|NN characteristic|NN distribution|NN
+patche|NN back|NN neck|NN day|NN case|NN distribution|NN rash|NN extremity|NN children|NN presentation|NN course|NN people|NN pr|NP itch|NN
+itch|NN skin|NN over-dryness|NN soap|NN area|NN
+rash|NN course|NN disease|NN rash|NN fever|NN headache|NN nausea|NN fatigue|NN
+cause|NN Pityriasis rosea|Disease presentation|NN immunologic|NN reaction|NN infection|NN cause|NN
+reactivation|NN herpe|NN viruse|NN cause|NN infant|NN diagnosis|NN herald|NN patch|NN Pityriasis rosea|Disease rest|NN lesion|NN infection|NN
+practitioner|NN diagnosis|NN diagnosis|NN doubt|NN test|NN rule|NN condition|NN lyme|NP disease|NN ringworm|NN psoriasis|NN eczema|NN drug|NN eruption|NN exanthem|NN appearance|NN Pityriasis rosea|Disease syphilis|NN plasma|NN test|NN concern|NN syphilis|NN biopsy|NN lesion|NN erythrocyte|NN papillae|NN cell|NN dermis|NN
+set|NN criteria|NN Pityriasis rosea|Disease
+patient|NN Pityriasis rosea|Disease
+occasion|NN encounter|NN feature|NN feature|NN occasion|NN encounter|NN rash|NN feature|NN
+circular|NN lesion|NN lesion|NN collarette|NN scale|NN clearance|NN lesion|NN
+limb|NN distribution|NN lesion|NN mid-upper-arm|NN orientation|NN lesion|NN skin|NN cleavage|NN line|NN herald|NN patch|NN appear|NN day|NN eruption|NN lesion|NN history|NN patient|NN observation|NN
+vesicle|NN centre|NN lesion|NN lesion|NN palmar|NN skin|NN surface|NN evidence|NN syphilis|NN
+condition|NN treatment|NN steroid|NN decrease|NN itch|NN relief|NN itch|NN appearance|NN rash|NN skin|NN form|NN rash|NN skin|NN color|NN
+scare|NN scratch|NN
+scratch|NN cycle|NN scratch|NN itch|NN
+soap|NN fragrance|NN water|NN wool|NN fabrics|NN
+help|NN stop|NN itch|NN
+sunlight|NN lesion|NN principle|NN treatment|NN light|NN resolution|NN study|NN itch|NN therapy|NN week|NN eruption|NN
+meta-analysis|NN evidence|NN effectiveness|NN treatment|NN erythromycin|NN rash|NN itch|NN trial|NN study|NN result|NN
+patient|NN condition|NN matter|NN week|NN case|NN month|NN
+disease|NN effect|NN
+percent|NN patient|NN recurrence|NN epidemiology|NN
+prevalence|NN pr|NP united|NP states|NP men|NN 014|NN women|NN
+age|NN spring|NN
+pr|NP report|NN epidemics|NN fraternity|NN house|NN base|NN school|NN gym|NN
+circinata|NN form|NN Pityriasis rosea|Disease axillae|NN groin|NN pityriasis|NN list|NN skin|NN condition|NN list|NN condition|NN

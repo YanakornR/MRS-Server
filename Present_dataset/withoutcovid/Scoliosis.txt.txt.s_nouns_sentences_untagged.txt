@@ -1,0 +1,138 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN sclerosis|NN 
+scoliosis|DS blausen|NN scoliosis|DS pronunciation|NN 
+symptom|NN curve|NN back|NN onset|NN year|NN cause|NN risk|NN factor|NN family|NN history|NN palsy|NN syndrome|NN method|NN x-ray|NN treatment|NN exercise|NN surgery|NN frequency|NN 
+scoliosis|DS condition|NN person|NN spine|NN curve|NN curve|NN dimension|NN degree|NN curve|NN time|NN scoliosis|DS problem|NN case|NN breath|NN pain|ST 
+cause|NN case|NN combination|NN factor|NN factor|NN family|NN member|NN condition|NN muscle|NN spasm|NN palsy|NN syndrome|NN diagnosis|NN x-ray|NN scoliosis|DS curve|NN spine|NN 
+treatment|NN degree|NN curve|NN location|NN cause|NN curve|NN treatment|NN exercise|NN surgery|NN brace|NN person|NN daily|NN stop|NN exercise|NN risk|NN worsen|NN treatment|NN evidence|NN manipulation|NN supplement|NN exercise|NN condition|NN worsen|NN exercise|NN health|NN benefit|NN 
+scoliosis|DS people|NN age|NN girl|NN boy|NN term|NN romanize|NN bend|NN content|NN 
+sign|NN symptom|NN course|NN cause|NN condition|NN diagnosis|NN definition|NN management|NN bracing|NN surgery|NN epidemiology|NN society|NN culture|NN history|NN consideration|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN illustration|NN case|NN s|NN scoliosis|DS 
+symptom|NN scoliosis|DS 
+pain|ST back|NN shoulder|NN neck|NN buttock|NN pain|ST bottom|NN back|NN problem|NN case|NN constipation|ST curvature|NN tighten|NN stomach|NN intestine|NN 
+mobility|NN pain|ST limitation|NN adult|NN menstruation|NN 
+sign|NN scoliosis|DS 
+musculature|NN side|NN spine|NN rib|NN prominence|NN shoulder|NN blade|NN rotation|NN rib|NN cage|NN scoliosis|DS hip|NN arm|NN leg|NN length|NN nerve|NN action|NN heart|NN lung|NN problem|NN case|NN calcium|NN deposit|NN cartilage|NN disc|NN 
+people|NN maturity|NN case|NN case|NN scoliosis|DS lung|NN capacity|NN pressure|NN heart|NN activity|NN 
+study|NN form|NN condition|NN scoliosis|DS impairment|NN back_pain|ST concern|NN mortality|NN rate|NN population|NN belief|NN scoliosis|DS disability|NN age|NN study|NN cause|NN 
+cause|NN scoliosis|DS deformity|ST problem|NN disease|NN condition|NN environment|NN 
+scoliosis|DS case|NN disease|NN 
+scoliosis|DS majority|NN case|NN cause|NN 
+study|NN heritability|NN disorder|NN 
+variance|NN scoliosis|DS risk|NN factor|NN environment|NN genetics|NN complex|NN inheritance|NN discordance|NN twin|NN gene|NN development|NN scoliosis|DS 
+gene|NN chd7|NN form|NN scoliosis|DS candidate|NN gene|NN study|NN association|NN scoliosis|DS gene|NN bone|NN formation|NN bone|NN metabolism|NN tissue|NN structure|NN study|NN number|NN locy|NN scoliosis|DS scoliosis|DS microsatellite|NN polymorphism|NN gene|NN encod|NN matrilin|NN cartilage|NN matrix|NN protein|NN nucleotide|NN polymorphism|NN marker|NN dna|NN scoliosis|DS association|NN study|NN 
+scoliosis|DS agent|NN prevalence|NN scoliosis|DS adolescent|NN likelihood|NN progression|NN adolescent|NN cobb|NN angle|NN 
+scoliosis|DS malformation|NN spine|NN week|NN utero|NN failure|NN formation|NN failure|NN segmentation|NN combination|NN stimuly|NN segmentation|NN result|NN vertebra|NN time|NN vertebra|NN vertebrae|NN curvature|NN spine|NN condition|NN 
+scoliosis|DS condition|NN loss|NN support|NN column|NN column|NN direction|NN 
+condition|NN scoliosis|DS dystrophy|NN atrophy|DS poliomyelitis|DS palsy|NN cord|NN trauma|NN myotonia|NN scoliosis|DS adolescent|NN growth|NN spurt|NN female|NN male|NN 
+scoliosis|DS syndrome|NN scoliosis|DS 
+citation|NN scoliosis|DS band|NN syndrome|NN malformation|NN disease|NN palsy|NN hernia|NN connective|NN tissue|NN disorder|NN dystrophy|NN dysautonomia|DS charge_syndrome|DS syndrome|NN baby|NN syndrome|NN variant|NN condition|NN syndrome|NN hemihypertrophy|NN syndrome|NN syndrome|NN syndrome|NN imperfecta|NN syndrome|NN syndrome|NN spina|NN atrophy|DS carinatum|NN 
+form|NN scoliosis|DS scoliosis|DS novo|NN scoliosis|DS life|NN change|NN 
+type|NN deformity|ST collapse|NN column|NN manner|NN 
+bone|NN ligament|NN discs|NN spine|NN result|NN change|NN spine|NN curve|NN 
+word|NN de|NN novo|NN form|NN scoliosis|DS occurrence|NN condition|NN life|NN 
+diagnosis|NN cobb|NN angle|NN measurement|NN scoliosis|DS 
+people|NN scoliosis|DS examination|NN deformity|ST cause|NN possibility|NN condition|NN scoliosis|DS 
+person|NN gait|NN exam|NN sign|NN abnormality|NN spina|NN dimple|NN patch|NN 
+examination|NN skin|NN au|NN spot|NN feet|NN deformity|ST reflexe|NN muscle|NN tone|NN spasticity|NN 
+adams|NN bend|NN test|NN school|NN student|NN 
+prominence|NN scoliosis|DS possibility|NN x-ray|NN diagnosis|NN 
+alternative|NN scoliometer|NN condition|NN 
+scoliosis|DS view|NN side|NN view|NN x-ray|NN scoliosis|DS curve|NN kyphosis|DS lordosis|NN individual|NN scoliosis|DS 
+stand|NN spine|NN x-ray|NN method|NN severity|NN progression|NN scoliosis|DS nature|NN 
+individual|NN radiograph|NN 3-|NN interval|NN curve|NN progression|NN instance|NN investigation|NN cord|NN 
+method|NN curvature|NN cobb|NN angle|NN angle|NN line|NN endplate|NN vertebra|NN endplate|NN vertebra|NN 
+people|NN curve|NN cobb|NN angle|NN curve|NN 
+people|NN x-ray|NN flexibility|NN curve|NN curve|NN 
+scoliosis|DS age|NN scoliosis|DS scoliosis|DS scoliosis|DS screen|NN adolescent|NN symptom|NN scoliosis|DS benefit|NN definition|NN 
+scoliosis|DS deviation|NN axis|NN person|NN spine|NN instance|NN scoliosis|DS research|NN society|NN scoliosis|DS cobb|NN angle|NN right|NN examiner|NN person|NN plane|NN 
+scoliosis|DS deformity|ST progression|NN force|NN law|NN management|NN article|NN management|NN scoliosis|DS 
+management|NN scoliosis|DS severity|NN curvature|NN maturity|NN likelihood|NN progression|NN 
+option|NN children|NN adolescent|NN 
+observation|NN brace|NN surgery|NN 
+adult|NN treatment|NN pain|ST 
+medication|NN brace|NN surgery|NN 
+treatment|NN scoliosis|DS severity|NN curvature|NN spine|NN growth|NN risk|NN curvature|NN 
+scoliosis|DS deviation|NN scoliosis|DS brace|NN conjunction|NN scoliosis|DS exercise|NN progress|NN surgery|NN rod|NN placement|NN fusion|NN 
+case|NN intervention|NN result|NN 
+type|NN therapy|NN evidence|NN use|NN brace|NN correction|NN cobb|NN angle|NN 
+brace|NN person|NN bone|NN growth|NN general|NN curve|NN point|NN surgery|NN 
+case|NN juvenile|NN brace|NN curve|NN curve|NN length|NN brace|NN 
+adult|NN pain|ST scoliosis|DS 
+bracing|NN person|NN device|NN torso|NN case|NN neck|NN 
+brace|NN tlso|NN boston|NN brace|NN appliance|NN armpit|NN hip|NN fiberglass|NN plastic|NN 
+hour|NN day|NN doctor|NN prescription|NN pressure|NN curve|NN spine|NN 
+effectiveness|NN brace|NN design|NN skill|NN people|NN compliance|NN amount|NN wear|NN day|NN 
+use|NN brace|NN curve|NN surgery|NN progression|NN curve|NN children|NN child|NN time|NN perform|NN surgery|NN growth|NN part|NN spine|NN 
+indication|NN people|NN cobb|NN angle|NN 
+people|NN cobb|NN angle|NN risk|NN progression|NN age|NN cobb|NN angle|NN increase|NN period|NN sign|NN presentation|NN 
+people|NN cobb|NN angle|NN 
+guideline|NN person|NN table|NN 
+example|NN person|NN cobb|NN angle|NN rotation|NN nighttime|NN brace|NN 
+end|NN growth|NN spectrum|NN cobb|NN angle|NN sign|NN potential|NN progression|NN scoliosis|DS research|NN recommendation|NN brace|NN curve|NN curve|NN sign|NN x-ray|NN measurement|NN growth|NN area|NN month|NN onset|NN mense|NN girl|NN 
+scoliosis|DS brace|NN 7-|NN break-in|NN period|NN 
+scoliosis|DS brace|NN comfort|NN deformity|ST body|NN position|NN 
+evidence|NN brace|NN disease|NN quality|NN life|NN appearance|NN back_pain|ST surgery|NN left|NN x-ray|NN person|NN dextro|NN scoliosis|DS lumbar|NN scoliosis|DS x-ray|NN side|NN subject|NN side|NN image|NN subject|NN rear|NN image|NN image|NN front|NN 
+projection|NN spine|NN surgeon|NN surgeon|NN patient|NN operate|NN table|NN position|NN 
+opposite|NN chest|NN x-ray|NN image|NN patient|NN front|NN 
+surgery|NN fusion|NN instrumentation|NN 
+surgery|NN orthopedist|NN curve|NN likelihood|NN progression|NN magnitude|NN curve|NN adult|NN curve|NN people|NN spina|NN palsy|NN sit|NN care|NN curve|NN function|NN breath|NN 
+surgery|NN society|NN scoliosis|DS rehabilitation|NN treatment|NN scoliosis|DS research|NN society|NN srs|NN cobb|NN angle|NN threshold|NN result|NN plus|NN measurement|NN error|NN cobb|NN angle|NN 
+surgeon|NN spine|NN surgery|NN surgery|NN scoliosis|DS 
+spine|NN part|NN correction|NN 
+type|NN surgery|NN 
+fusion|NN approach|NN incision|NN side|NN chest|NN wall|NN 
+fusion|NN approach|NN incision|NN back|NN use|NN metal|NN instrumentation|NN curve|NN 
+surgery|NN stage|NN average|NN hour|NN 
+follow-up|NN study|NN journal|NN association|NN health|NN function|NN health|NN people|NN scoliosis|DS population|NN 
+scoliosis|DS function|NN scoliosis|DS people|NN death|NN rate|NN live|NN year|NN diagnosis|NN people|NN spine|NN university|NN iowa|NN follow-up|NN study|NN percent|NN people|NN scoliosis|DS function|NN life|NN expectancy|NN population|NN 
+prognosis|NN scoliosis|DS likelihood|NN progression|NN 
+rule|NN progression|NN curve|NN risk|NN progression|NN curve|NN curve|NN risk|NN progression|NN lumbar|NN thoracolumbar|NN curve|NN 
+addition|NN people|NN maturity|NN likelihood|NN progression|NN person|NN growth|NN spurt|NN epidemiology|NN 
+scoliosis|DS united|NN states|NN population|NN case|NN scoliosis|DS column|NN curve|NN individual|NN age|NN onset|NN year|NN year|NN age|NN children|NN adolescent|NN 
+growth|NN spurt|NN puberty|NN development|NN influence|NN adolescent|NN growth|NN spurt|NN maturity|NN scoliosis|DS female|NN case|NN cobb|NN angle|NN analysis|NN diagnosis|NN scoliosis|DS condition|NN children|NN 
+incidence|NN scoliosis|DS stop|NN puberty|NN maturity|NN curvature|NN adulthood|NN osteoporosis|DS musculature|NN society|NN culture|NN 
+cost|NN scoliosis|DS loss|NN lifestyle|NN limitation|NN increase|NN severity|NN 
+deficiency|NN deformity|ST cause|NN breath|NN exercise|NN work|NN capacity|NN quality|NN life|NN 
+health|NN care|NN system|NN united|NN states|NN hospital|NN cost|NN case|NN procedure|NN person|NN cost|NN brace|NN growth|NN period|NN brace|NN history|NN girl|NN curvature|NN spine|NN 
+scoliosis|DS hippocrates|NN physician|NN surgeon|NN cure|NN condition|NN 
+century|NN medicine|NN treatment|NN progression|NN scoliosis|DS people|NN pain|ST 
+result|NN progression|NN scoliosis|DS screen|NN treatment|NN 
+way|NN scoliosis|DS condition|NN professional|NN surgeon|NN 
+treatment|NN rod|NN insertion|NN spine|NN turn|NN century|NN 
+time|NN school|NN student|NN examination|NN posture|NN test|NN 
+student|NN effect|NN posture|NN desk|NN hour|NN classroom|NN 
+screen|NN curvature|NN physician|NN student|NN scoliosis|DS 
+scoliosis|DS condition|NN century|NN tuberculosis|DS poliomyelitis|DS 
+disease|NN deformity|ST distribution|NN vaccine|NN antibiotics|NN 
+management|NN disease|NN deformity|ST people|NN scoliosis|DS cause|NN 
+cause|NN scoliosis|DS 
+alfred|NN shands|NN jr|NN surgeon|NN percent|NN people|NN scoliosis|DS 
+scoliosis|DS cancer|DS surgery|NN treatment|NN condition|NN people|NN treatment|NN time|NN progression|NN 
+result|NN school|NN student|NN screen|NN scoliosis|DS 
+set|NN symptom|NN student|NN age|NN study|NN age-range|NN 
+screen|NN children|NN shoulder|NN height|NN leg|NN length|NN curvature|NN measurement|NN 
+test|NN comparison|NN wall|NN chart|NN reproduction|NN posture|NN 
+screen|NN student|NN posture|NN scoliosis|DS 
+treatment|NN milwaukee|NN brace|NN contraption|NN metal|NN rod|NN plastic|NN leather|NN girdle|NN spine|NN 
+result|NN pressure|NN brace|NN person|NN spine|NN limit|NN 
+brace|NN cause|NN jaw|NN pain|ST skin|NN irritation|NN muscle|NN pain|ST self-esteem|NN people|NN 
+harrington|NN rod|NN technique|NN treatment|NN scoliosis|DS procedure|NN position|NN 
+treatment|NN scoliosis|DS polio|NN epidemic|NN 
+milwaukee|NN brace|NN nonoperative|NN alternative|NN surgery|NN time|NN correction|NN people|NN polio|NN 
+curve|NN degree|NN harrington|NN rod|NN technique|NN milwaukee|NN brace|NN 
+physician|NN elizabeth|NN wyne|NN percent|NN people|NN milwaukee|NN brace|NN surgery|NN life|NN 
+surgery|NN spine|NN person|NN pain|ST due|NN scoliosis|DS 
+individual|NN surgery|NN scar|NN lack|NN feel|NN back|NN nature|NN treatment|NN 
+advancement|NN scoliosis|DS treatment|NN cure|NN result|NN consequence|NN people|NN 
+consideration|NN century|NN woman|NN scoliosis|DS year|NN museum|NN 
+link|NN morphology|NN scoliosis|DS basis|NN condition|NN 
+scoliosis|DS chimpanzee|NN gorilla|NN scoliosis|DS human|NN difference|NN ape|NN ape|NN spine|NN human|NN 
+lumbar|NN vertebrae|NN pan|NN mean|NN bone|NN pelvis|NN 
+human|NN world|NN monkey|NN muscle|NN muscle|NN spine|NN factor|NN lumbar|NN spine|NN primate|NN human|NN 
+lumbar|NN imbalance|NN lumbar|NN spine|NN problem|NN 
+scoliosis|DS byproduct|NN selection|NN 
+stance|NN spine|NN instance|NN spine|NN curve|NN lumbar|NN balance|NN support|NN trunk|NN selection|NN bipedality|NN maintenance|NN disorder|NN 
+variety|NN reason|NN fitness|NN advantage|NN 
+view|NN distance|NN hunt|NN protection|NN predator|NN human|NN distance|NN travel|NN hunt|NN feed|NN grass|NN tree|NN bushe|NN benefit|NN bipedality|NN spine|NN selection|NN bipedalism|NN role|NN development|NN spine|NN spite|NN potential|NN deviation|NN fossil|NN record|NN scoliosis|DS hominid|NN australopithecus|NN homo|NN erectus|NN 
+fossil|NN selection|NN time|NN reduction|NN lumbar|NN length|NN spine|NN risk|NN scoliosis|DS research|NN 
+test|NN ais|NN 2009|NN investigation|NN attempt|NN likelihood|NN curve|NN progression|NN 

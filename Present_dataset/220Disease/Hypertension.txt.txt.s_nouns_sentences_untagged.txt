@@ -1,0 +1,139 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN hypertension|DS 
+form|NN hypertension|DS hypertension|DS disambiguation|NN 
+hypertension|DS name|NN hypertension|DS hypertension|DS grade|NN hypertension|DS arm|NN blood|NN pressure|NN meter|NN show|NN hypertension|DS blood|NN pressure|NN blood|NN pressure|NN heart|NN rate|NN beat|NN minute|NN symptom|NN complication|NN artery|NN disease|NN stroke|NN heart|NN failure|NN disease|NN vision|NN loss|NN kidney|NN disease|NN dementia|DS cause|NN lifestyle|NN factor|NN factor|NN salt|NN excess|NN body|NN weight|NN smoke|NN alcohol|NN method|NN rest|NN blood|NN pressure|NN treatment|NN lifestyle|NN change|NN medication|NN frequency|NN death|NN 
+hypertension|DS hypertension|DS hypertension|DS hypertension|DS hypertension|DS condition|NN blood|NN pressure|NN artery|NN hypertension|DS symptom|NN hypertension|DS risk|NN factor|NN artery|NN disease|NN stroke|NN heart|NN failure|NN fibrillation|NN disease|NN vision|NN loss|NN kidney|NN disease|NN dementia|DS 
+hypertension|DS hypertension|DS hypertension|DS 9095|NN case|NN hypertension|DS due|NN lifestyle|NN factor|NN lifestyle|NN factor|NN risk|NN salt|NN diet|NN excess|NN body|NN weight|NN smoke|NN alcohol|NN use|NN case|NN hypertension|DS hypertension|DS due|NN cause|NN kidney|NN disease|NN narrow|NN kidney|NN artery|NN disorder|NN use|NN birth|NN control|NN pill|NN 
+blood|NN pressure|NN measurement|NN pressure|NN maximum|NN minimum|NN pressure|NN adult|NN blood|NN pressure|NN rest|NN range|NN mercury|NN adult|NN hypertension|DS rest|NN blood|NN pressure|NN number|NN children|NN blood|NN pressure|NN monitor|NN period|NN blood|NN pressure|NN measurement|NN 
+lifestyle|NN change|NN medication|NN blood|NN pressure|NN risk|NN health|NN complication|NN lifestyle|NN change|NN weight_loss|ST exercise|NN salt|NN intake|NN alcohol|NN intake|NN diet|NN lifestyle|NN change|NN blood|NN pressure|NN medication|NN medication|NN blood|NN pressure|NN people|NN treatment|NN blood|NN pressure|NN mmhg|NN medication|NN life|NN expectancy|NN effect|NN treatment|NN blood|NN pressure|NN mmhg|NN mmhg|NN review|NN benefit|NN benefit|NN hypertension|DS population|NN hypertension|DS factor|NN death|NN hypertension|DS media|NN video|NN summary|NN script|NN content|NN 
+sign|NN symptom|NN secondary|NN hypertension|DS crisis|NN pregnancy|NN children|NN cause|NN hypertension|DS secondary|NN hypertension|DS diagnosis|NN measurement|NN technique|NN investigation|NN classification|NN adult|NN hypertension|DS children|NN prevention|NN management|NN target|NN blood|NN pressure|NN lifestyle|NN modification|NN hypertension|DS epidemiology|NN adult|NN children|NN outcome|NN history|NN measurement|NN identification|NN treatment|NN society|NN culture|NN awareness|NN economics|NN research|NN animal|NN cat|NN dogs|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN 
+hypertension|DS symptom|NN identification|NN screen|NN healthcare|NN problem|NN 
+people|NN hypertension|DS report|NN headache|ST back|NN head|NN morn|NN vertigo|ST tinnitus|DS buzz|NN hiss|NN ear|NN vision|NN episode|NN symptom|NN anxiety|ST hypertension|DS 
+examination|NN hypertension|DS presence|NN change|NN optic|NN fundus|NN ophthalmoscopy|NN severity|NN change|NN retinopathy|NN grade|NN severity|NN retinopathy|NN duration|NN severity|NN hypertension|DS secondary|NN hypertension|DS article|NN secondary|NN hypertension|DS 
+hypertension|DS sign|NN symptom|NN hypertension|DS hypertension|DS cause|NN 
+example|NN syndrome|NN obesity|NN glucose|NN intolerance|NN moon|NN face|NN hump|NN fat|NN neckshoulder|NN buffalo|NN hump|NN stretch|NN mark|NN weight_loss|ST appetite|NN heart|NN rate|NN eye|NN tremor|ST 
+artery|NN stenosis|NN bruit|NN left|NN right|NN midline|NN location|NN 
+coarctation|NN aorta|NN blood|NN pressure|NN extremity|NN arm|NN pulse|NN 
+paroxysmal|NN episode|NN hypertension|DS headache|ST palpitation|NN appearance|NN sweate|NN crisis|NN article|NN crisis|NN 
+blood|NN pressure|NN crisis|NN 
+crisis|NN urgency|NN emergency|NN absence|NN presence|NN end|NN organ|NN damage|NN 
+urgency|NN evidence|NN end|NN organ|NN damage|NN blood|NN pressure|NN 
+case|NN medication|NN bp|NN hour|NN 
+emergency|NN evidence|NN damage|NN organ|NN organ|NN brain|NN kidney|NN heart|NN lung|NN symptom|NN confusion|ST drowsiness|NN chest_pain|ST breathlessness|NN emergency|NN blood|NN pressure|NN organ|NN damage|NN lack|NN trial|NN evidence|NN approach|NN pregnancy|NN article|NN hypertension|DS pre-eclampsia|NN 
+hypertension|DS pregnancy|NN blood|NN pressure|NN measurement|NN hour|NN mm|NN hypertension|DS pregnancy|NN hypertension|DS pregnancy|NN hypertension|DS hypertension|DS pre-eclampsia|NN 
+condition|NN half|NN pregnancy|NN delivery|NN blood|NN pressure|NN presence|NN protein|NN urine|NN pregnancy|NN death|NN risk|NN death|NN baby|NN time|NN birth|NN symptom|NN pre-eclampsia|NN routine|NN screen|NN 
+symptom|NN pre-eclampsia|NN headache|ST disturbance|NN light|NN pain|ST stomach|NN 
+condition|NN emergency|NN complication|NN vision|NN loss|NN brain|NN swell|NN seizure|NN kidney|NN failure|NN coagulation|NN blood|NN clote|NN disorder|NN 
+contrast|NN hypertension|DS hypertension|DS pregnancy|NN protein|NN urine|NN children|NN 
+failure|NN seizure|NN irritability|ST lack|NN energy|NN difficulty|NN breath|NN hypertension|DS newborn|NN infant|NN 
+infant|NN children|NN hypertension|DS headache|ST irritability|ST fatigue|ST failure|NN vision|NN paralysis|ST cause|NN hypertension|DS article|NN hypertension|DS 
+hypertension|DS result|NN interaction|NN gene|NN factor|NN 
+variant|NN effect|NN blood|NN pressure|NN variant|NN effect|NN blood|NN pressure|NN association|NN study|NN locy|NN blood|NN pressure|NN locy|NN blood|NN pressure|NN sentinel|NN snp|NN locus|NN association|NN dna|NN methylation|NN cpg|NN site|NN 
+sentinel|NN snp|NN gene|NN muscle|NN function|NN 
+dna|NN methylation|NN way|NN variation|NN phenotype|NN mechanism|NN association|NN 
+variant|NN test|NN study|NN sentinel|NN snp|NN variant|NN aggregate|NN risk|NN phenotype|NN hypertension|DS 
+blood|NN pressure|NN rise|NN age|NN risk|NN life|NN factor|NN influence|NN blood|NN pressure|NN 
+salt|NN intake|NN blood|NN pressure|NN salt|NN individual|NN lack|NN exercise|NN obesity|NN depression|ST role|NN case|NN 
+role|NN factor|NN caffeine|NN consumption|NN vitamin|NN d|NN deficiency|NN 
+insulin|NN resistance|NN obesity|NN component|NN syndrome|NN syndrome|NN hypertension|DS review|NN sugar|NN role|NN hypertension|DS salt|NN bystander|NN 
+event|NN life|NN birth|NN weight|NN smoke|NN lack|NN breastfeed|NN risk|NN factor|NN adult|NN hypertension|DS mechanism|NN exposure|NN adult|NN hypertension|DS rate|NN blood|NN urea|NN people|NN hypertension|DS comparison|NN people|NN blood|NN pressure|NN play|NN role|NN kidney|NN update|NN average|NN blood|NN pressure|NN winter|NN summer|NN disease|NN hypertension|DS secondary|NN hypertension|DS article|NN secondary|NN hypertension|DS 
+hypertension|DS result|NN cause|NN 
+kidney|NN disease|NN cause|NN hypertension|DS hypertension|DS condition|NN syndrome|NN hypothyroidism|DS syndrome|NN artery|NN stenosis|NN atherosclerosis|DS dysplasia|DS cause|NN hypertension|DS obesity|NN sleep|NN pregnancy|NN coarctation|NN aorta|NN eate|NN liquorice|NN drink|NN alcohol|NN prescription|NN medicine|NN remedy|NN drug|NN cocaine|NN arsenic|NN exposure|NN drink|NN water|NN blood|NN pressure|NN 
+review|NN alcohol|NN blood|NN pressure|NN male|NN drink|NN risk|NN female|NN article|NN pathophysiology|NN hypertension|DS determinant|NN pressure|NN illustration|NN effect|NN hypertension|DS 
+people|NN hypertension|DS resistance|NN blood|NN flow|NN total|NN resistance|NN account|NN pressure|NN output|NN evidence|NN people|NN hypertension|DS borderline|NN hypertension|DS output|NN heart|NN rate|NN resistance|NN borderline|NN hypertension|DS individual|NN feature|NN hypertension|DS life|NN output|NN fall|NN resistance|NN rise|NN age|NN pattern|NN people|NN hypertension|DS resistance|NN hypertension|DS narrow|NN artery|NN arteriole|NN reduction|NN number|NN density|NN capillary|NN 
+vasoconstriction|NN blood|NN vessel|NN role|NN hypertension|DS hypertension|DS compliance|NN return|NN increase|NN dysfunction|NN 
+pulse|NN pressure|NN difference|NN blood|NN pressure|NN people|NN hypertension|DS 
+pressure|NN pressure|NN condition|NN hypertension|DS pulse|NN pressure|NN people|NN hypertension|DS hypertension|DS stiffness|NN hypertension|DS 
+mechanism|NN account|NN rise|NN resistance|NN hypertension|DS 
+evidence|NN disturbance|NN kidney|NN salt|NN water|NN handle|NN abnormality|NN intrarenal|NN system|NN abnormality|NN system|NN mechanism|NN extent|NN case|NN hypertension|DS 
+dysfunction|NN inflammation|NN resistance|NN damage|NN hypertension|DS interest|NN role|NN production|NN system|NN chemical|NN signal|NN hypertension|DS tumor|NN necrosis|NN factor|NN alpha|NN interleukin|NN interleukin|NN interleukin|NN 
+consumption|NN sodium|NN potassium|NN sodium|NN muscle|NN blood|NN flow|NN blood|NN pressure|NN diagnosis|NN 
+hypertension|DS basis|NN rest|NN blood|NN pressure|NN 
+heart|NN association|NN rest|NN measurement|NN health|NN care|NN uk|NN institute|NN health|NN care|NN excellence|NN blood|NN pressure|NN monitor|NN diagnosis|NN hypertension|DS clinic|NN blood|NN pressure|NN measurement|NN technique|NN 
+diagnosis|NN hypertension|DS blood|NN pressure|NN measurement|NN technique|NN measurement|NN blood|NN pressure|NN blood|NN pressure|NN read|NN hypertension|DS blood|NN pressure|NN measurement|NN technique|NN step|NN 
+blood|NN pressure|NN measurement|NN person|NN blood|NN pressure|NN minute|NN application|NN blood|NN pressure|NN cuff|NN arm|NN person|NN back|NN feet|NN floor|NN leg|NN person|NN blood|NN pressure|NN process|NN arm|NN surface|NN level|NN heart|NN blood|NN pressure|NN measurement|NN room|NN professional|NN blood|NN pressure|NN sound|NN artery|NN stethoscope|NN blood|NN pressure|NN measurement|NN blood|NN pressure|NN cuff|NN mmhg|NN second|NN korotkoff|NN bladder|NN person|NN blood|NN pressure|NN blood|NN pressure|NN blood|NN pressure|NN read|NN minute|NN accuracy|NN blood|NN pressure|NN monitor|NN hour|NN method|NN diagnosis|NN exception|NN hypertension|DS read|NN organ|NN function|NN 
+availability|NN blood|NN pressure|NN monitor|NN home|NN blood|NN pressure|NN machine|NN importance|NN coat|NN hypertension|DS change|NN protocol|NN 
+kingdom|NN current|NN practice|NN clinic|NN read|NN measurement|NN home|NN blood|NN pressure|NN monitor|NN course|NN day|NN united|NN states|NN service|NN task|NN force|NN measurement|NN healthcare|NN environment|NN hypertension|DS artery|NN syndrome|NN consideration|NN 
+condition|NN artery|NN hypertension|DS read|NN blood|NN pressure|NN cuff|NN intra|NN measurement|NN blood|NN pressure|NN hypertension|DS blood|NN pressure|NN increase|NN investigation|NN test|NN system|NN test|NN kidney|NN urinalysis|NN protein|NN urine|NN creatinine|NN serum|NN sodium|NN potassium|NN calcium|NN fasting|NN blood|NN glucose|NN hdl|NN ldl|NN total|NN cholesterol|NN triglyceride|NN electrocardiogram|NN chest|NN radiograph|NN 
+diagnosis|NN hypertension|DS healthcare|NN provider|NN cause|NN risk|NN factor|NN symptom|NN 
+hypertension|DS children|NN case|NN kidney|NN disease|NN 
+hypertension|DS adolescent|NN adult|NN risk|NN factor|NN obesity|NN family|NN history|NN hypertension|DS laboratory|NN test|NN cause|NN hypertension|DS hypertension|DS damage|NN heart|NN eye|NN kidney|NN 
+test|NN diabete|NN cholesterol|NN level|NN condition|NN risk|NN factor|NN development|NN heart|NN disease|NN treatment|NN 
+assessment|NN people|NN history|NN examination|NN 
+serum|NN creatinine|NN presence|NN kidney|NN disease|NN cause|NN result|NN hypertension|DS 
+serum|NN creatinine|NN filtration|NN rate|NN guideline|NN use|NN equation|NN modification|NN diet|NN disease|NN formula|NN filtration|NN rate|NN baseline|NN measurement|NN kidney|NN function|NN side|NN effect|NN anti-hypertensive|NN drug|NN kidney|NN function|NN 
+test|NN urine|NN sample|NN protein|NN indicator|NN kidney|NN disease|NN 
+test|NN evidence|NN heart|NN strain|NN hypertension|DS 
+thicken|NN heart|NN muscle|NN hypertrophy|NN heart|NN disturbance|NN heart_attack|DS 
+chest|NN x-ray|NN echocardiogram|NN sign|NN heart|NN enlargement|NN damage|NN heart|NN classification|NN adult|NN classification|NN adult|NN person|NN category|NN category|NN category|NN mmhg|NN 
+stage|NN hypertension|DS 
+stage|NN hypertension|DS 
+people|NN year|NN hypertension|DS blood|NN pressure|NN measurement|NN value|NN mmhg|NN mmhg|NN guideline|NN threshold|NN mmhg|NN mmhg|NN measurement|NN ambulatory|NN home|NN monitor|NN hypertension|DS guideline|NN category|NN range|NN continuum|NN risk|NN blood|NN pressure|NN range|NN 
+report|NN committee|NN prevention|NN detection|NN evaluation|NN treatment|NN hypertension|DS jnc7|NN use|NN term|NN hypertension|DS blood|NN pressure|NN range|NN society|NN hypertension|DS guideline|NN hypertension|DS society|NN bhs|NN use|NN category|NN pressure|NN mmhg|NN 
+hypertension|DS jnc7|NN hypertension|DS stage|NN hypertension|DS stage|NN hypertension|DS 
+hypertension|DS pressure|NN pressure|NN guideline|NN bhs|NN stage|NN stage|NN hypertension|DS people|NN blood|NN pressure|NN mmhg|NN pressure|NN 
+hypertension|DS medication|NN blood|NN pressure|NN level|NN november|NN heart|NN association|NN college|NN cardiology|NN guideline|NN recommendation|NN report|NN hypertension|DS children|NN 
+hypertension|DS blood|NN pressure|NN hypertension|DS risk|NN 
+variety|NN factor|NN age|NN age|NN birth|NN weight|NN account|NN blood|NN pressure|NN 
+hypertension|DS blood|NN pressure|NN visit|NN children|NN adolescent|NN term|NN risk|NN ill-health|NN blood|NN pressure|NN rise|NN age|NN childhood|NN children|NN hypertension|DS blood|NN pressure|NN occasion|NN percentile|NN sex|NN age|NN height|NN child|NN 
+hypertension|DS visit|NN child|NN hypertension|DS hypertension|DS children|NN blood|NN pressure|NN percentile|NN percentile|NN adolescent|NN hypertension|DS hypertension|DS criteria|NN adult|NN 
+value|NN routine|NN screen|NN hypertension|DS children|NN age|NN year|NN hypertension|DS education|NN program|NN children|NN year|NN blood|NN pressure|NN measurement|NN health|NN care|NN visit|NN heart|NN lung|NN blood|NN institute|NN academy|NN pediatrics|NN recommendation|NN academy|NN family|NN physician|NN view|NN 
+service|NN task|NN force|NN evidence|NN balance|NN benefit|NN harm|NN screen|NN hypertension|DS children|NN adolescent|NN symptom|NN prevention|NN 
+disease|NN burden|NN hypertension|DS people|NN population|NN strategy|NN consequence|NN hypertension|DS need|NN medication|NN 
+lifestyle|NN change|NN blood|NN pressure|NN start|NN medication|NN 
+hypertension|DS society|NN guideline|NN lifestyle|NN change|NN bp|NN education|NN program|NN prevention|NN hypertension|DS 
+body|NN weight|NN adult|NN body|NN mass|NN index|NN sodium|NN intake|NN mmol|NN day|NN g|NN sodium|NN chloride|NN g|NN sodium|NN day|NN activity|NN walk|NN 
+min|NN day|NN day|NN week|NN limit|NN alcohol|NN consumption|NN unitsday|NN men|NN unitsday|NN women|NN diet|NN fruit|NN vegetable|NN portion|NN day|NN 
+lifestyle|NN modification|NN blood|NN pressure|NN medication|NN 
+combination|NN lifestyle|NN modification|NN result|NN evidence|NN salt|NN intake|NN blood|NN pressure|NN reduction|NN mortality|NN disease|NN sodium|NN intake|NN 
+risk|NN death|NN disease|NN association|NN sodium|NN intake|NN outcome|NN people|NN hypertension|DS absence|NN result|NN trial|NN wisdom|NN level|NN salt|NN intake|NN 3gday|NN esc|NN guideline|NN mention|NN periodontitis|DS health|NN status|NN management|NN article|NN management|NN hypertension|DS 
+review|NN reduction|NN blood|NN pressure|NN mmhg|NN risk|NN stroke|NN heart|NN disease|NN likelihood|NN dementia|DS heart|NN failure|NN mortality|NN disease|NN target|NN blood|NN pressure|NN comparison|NN blood|NN pressure|NN guideline|NN 
+expert|NN group|NN guideline|NN blood|NN pressure|NN target|NN person|NN hypertension|DS 
+group|NN target|NN range|NN mmhg|NN population|NN cochrane|NN review|NN target|NN subgroup|NN people|NN diabete|NN people|NN diseasenee|NN update|NN 
+expert|NN group|NN target|NN mmhg|NN year|NN age|NN jnc-8|NN college|NN physician|NN target|NN mmhg|NN year|NN age|NN expert|NN group|NN recommendation|NN expert|NN group|NN target|NN diabete|NN kidney|NN disease|NN protein|NN loss|NN urine|NN target|NN population|NN issue|NN target|NN target|NN risk|NN individual|NN expert|NN blood|NN pressure|NN lower|NN guideline|NN 
+people|NN disease|NN year|NN risk|NN disease|NN heart|NN association|NN guideline|NN medication|NN blood|NN pressure|NN mmhg|NN bp|NN mmhg|NN people|NN disease|NN year|NN risk|NN disease|NN medication|NN blood|NN pressure|NN mmhg|NN bp|NN mmhg|NN lifestyle|NN modification|NN 
+line|NN treatment|NN hypertension|DS lifestyle|NN change|NN change|NN exercise|NN weight_loss|ST 
+advisory|NN cochrane|NN review|NN evidence|NN effect|NN weight_loss|ST diet|NN death|NN complication|NN event|NN person|NN hypertension|DS review|NN decrease|NN blood|NN pressure|NN effectiveness|NN time|NN medication|NN hypertension|DS use|NN medication|NN lifestyle|NN change|NN conjunction|NN medication|NN 
+change|NN blood|NN pressure|NN diet|NN sodium|NN diet|NN vegetarian|NN diet|NN tea|NN consumption|NN 
+potassium|NN benefit|NN risk|NN hypertension|DS guideline|NN committee|NN potassium|NN shortfal|NN nutrient|NN united|NN states|NN people|NN medication|NN potassium|NN supplement|NN salt|NN risk|NN level|NN potassium|NN 
+exercise|NN regimen|NN blood|NN pressure|NN resistance|NN exercise|NN exercise|NN resistance|NN exercise|NN breath|NN 
+stress|NN reduction|NN technique|NN biofeedback|NN meditation|NN add-on|NN treatment|NN hypertension|DS evidence|NN disease|NN self-monitor|NN appointment|NN reminder|NN use|NN strategy|NN blood|NN pressure|NN control|NN evaluation|NN 
+class|NN medication|NN medication|NN hypertension|DS 
+medication|NN hypertension|DS calcium|NN channel|NN blocker|NN angiotensin|NN enzyme|NN inhibitor|NN inhibitor|NN angiotensin|NN receptor|NN blocker|NN medication|NN combination|NN ace|NN inhibitor|NN arb|NN use|NN combination|NN option|NN mechanism|NN blood|NN pressure|NN value|NN level|NN people|NN medication|NN hypertension|DS blood|NN pressure|NN control|NN care|NN approach|NN target|NN level|NN 
+atenolol|NN effect|NN therapy|NN hypertension|DS 
+cochrane|NN review|NN trial|NN effect|NN beta-blocker|NN medication|NN disease|NN hypertension|DS 
+hypertension|DS hypertension|DS remain|NN target|NN level|NN spite|NN drug|NN mechanism|NN action|NN drug|NN cause|NN hypertension|DS hypertension|DS activity|NN system|NN effect|NN hypertension|DS therapy|NN baroreflex|NN option|NN lower|NN blood|NN pressure|NN people|NN situation|NN epidemiology|NN map|NN prevalence|NN hypertension|DS adult|NN men|NN life|NN year|NN heart|NN disease|NN inhabitant|NN data|NN 440-550|NN 
+880-990|NN adult|NN 
+adult|NN population|NN world|NN hypertension|DS men|NN status|NN age|NN medium|NN income|NN country|NN rate|NN hypertension|DS africa|NN sexe|NN americas|NN sexe|NN 
+rate|NN region|NN rate|NN men|NN women|NN india|NN men|NN women|NN poland|NN rate|NN africa|NN 
+europe|NN hypertension|DS people|NN 2013|NN people|NN population|NN united|NN states|NN hypertension|DS medication|NN adult|NN 2017|NN 2017|NN change|NN definition|NN hypertension|DS people|NN state|NN adult|NN united|NN states|NN rate|NN hypertension|DS world|NN american|NN white|NN american|NN difference|NN hypertension|DS rate|NN study|NN children|NN 
+rate|NN hypertension|DS children|NN adolescent|NN year|NN united|NN states|NN childhood|NN hypertension|DS pre-adolescent|NN disorder|NN adult|NN 
+kidney|NN disease|NN cause|NN hypertension|DS children|NN adolescent|NN 
+hypertension|DS account|NN case|NN outcome|NN article|NN complication|NN hypertension|DS diagram|NN complication|NN hypertension|DS 
+hypertension|DS risk|NN factor|NN death|NN risk|NN heart|NN disease|NN stroke|NN disease|NN disease|NN heart|NN failure|NN atherosclerosis|DS kidney|NN disease|NN fibrillation|NN embolism|NN hypertension|DS risk|NN factor|NN impairment|NN dementia|DS complication|NN retinopathy|NN nephropathy|DS history|NN article|NN history|NN hypertension|DS image|NN vein|NN harveys|NN anatomica|NN de|NN measurement|NN 
+understand|NN system|NN work|NN physician|NN william|NN harvey|NN circulation|NN blood|NN book|NN de|NN motu|NN 
+clergyman|NN stephen|NN hales|NN measurement|NN blood|NN pressure|NN hypertension|DS entity|NN invention|NN sphygmomanometer|NN riva-roccy|NN measurement|NN pressure|NN clinic|NN 
+nikolai|NN korotkoff|NN technique|NN korotkoff|NN artery|NN stethoscope|NN cuff|NN pressure|NN 
+symptom|NN symptom|NN patient|NN crisis|NN text|NN chapter|NN fullness|NN disease|NN symptom|NN headache|ST heaviness|NN head|NN movement|NN redness|NN feel|NN body|NN vessel|NN fullness|NN pulse|NN distension|NN skin|NN urine|NN loss|NN appetite|NN eyesight|NN impairment|NN drowsiness|NN rupture|NN stroke|NN disease|NN amount|NN blood|NN blood|NN vessel|NN 
+description|NN hypertension|DS disease|NN thomas|NN young|NN richard|NN bright|NN report|NN blood|NN pressure|NN person|NN evidence|NN kidney|NN disease|NN frederick|NN akbar|NN treatment|NN 
+treatment|NN pulse|NN disease|NN quantity|NN blood|NN bloodlet|NN application|NN leeche|NN emperor|NN china|NN cornelius|NN celsus|NN galen|NN hippocrates|NN approach|NN treatment|NN pulse|NN disease|NN change|NN lifestyle|NN anger|NN intercourse|NN program|NN patient|NN consumption|NN wine|NN meat|NN pastry|NN volume|NN food|NN meal|NN diet|NN usage|NN spinach|NN vinegar|NN 
+century|NN treatment|NN hypertension|DS treatment|NN modality|NN side-effect|NN sodium|NN restriction|NN example|NN rice|NN diet|NN ablation|NN part|NN system|NN therapy|NN injection|NN substance|NN fever|ST blood|NN pressure|NN 
+chemical|NN hypertension|DS sodium|NN thiocyanate|NN side|NN effect|NN agent|NN world|NN war|NN chloride|NN hydralazine|NN reserpine|NN plant|NN 
+breakthrough|NN discovery|NN well-tolerate|NN agent|NN 
+thiazide|NN diuretic|NN antibiotic|NN beta|NN blocker|NN calcium|NN channel|NN blocker|NN angiotensin|NN enzyme|NN inhibitor|NN angiotensin|NN receptor|NN blocker|NN renin|NN inhibitor|NN agent|NN society|NN culture|NN awareness|NN graph|NN prevalence|NN awareness|NN treatment|NN control|NN hypertension|DS study|NN 
+world|NN health|NN organization|NN hypertension|DS hypertension|DS cause|NN mortality|NN world|NN hypertension|DS league|NN umbrella|NN organization|NN hypertension|DS society|NN league|NN population|NN condition|NN problem|NN whl|NN awareness|NN campaign|NN hypertension|DS year|NN world|NN hypertension|DS day|NN 
+year|NN society|NN whd|NN activity|NN message|NN public|NN 
+record|NN participation|NN member|NN country|NN whl|NN 
+week|NN country|NN partnership|NN government|NN society|NN organization|NN industry|NN hypertension|DS awareness|NN public|NN media|NN rally|NN 
+media|NN internet|NN television|NN message|NN people|NN 
+momentum|NN year|NN year|NN whl|NN people|NN blood|NN pressure|NN economics|NN 
+hypertension|DS problem|NN prompt|NN visit|NN health|NN care|NN provider|NN usa|NN 
+heart|NN association|NN cost|NN hypertension|DS people|NN hypertension|DS condition|NN medication|NN people|NN hypertension|DS control|NN management|NN hypertension|DS inadequacy|NN diagnosis|NN treatment|NN control|NN hypertension|DS health|NN care|NN provider|NN obstacle|NN blood|NN pressure|NN control|NN resistance|NN medication|NN blood|NN pressure|NN goal|NN 
+people|NN challenge|NN medicine|NN schedule|NN lifestyle|NN change|NN 
+achievement|NN blood|NN pressure|NN goal|NN blood|NN pressure|NN risk|NN death|NN heart|NN disease|NN stroke|NN development|NN condition|NN cost|NN care|NN research|NN 
+review|NN study|NN blood|NN vitamin|NN d|NN level|NN supplement|NN iu|NN day|NN blood|NN pressure|NN individual|NN vitamin|NN d|NN deficiency|NN result|NN correlation|NN vitamin|NN d|NN level|NN chance|NN 
+vitamin|NN month|NN individual|NN vitamin|NN d|NN deficiency|NN blood|NN pressure|NN 
+evidence|NN calcium|NN intake|NN hypertension|DS 
+study|NN dose|NN side|NN effect|NN animal|NN cat|NN 
+hypertension|DS cat|NN blood|NN pressure|NN mm|NN treatment|NN dog|NN 
+blood|NN pressure|NN breed|NN hypertension|DS dog|NN blood|NN pressure|NN mm|NN target|NN organ|NN damage|NN inhibitor|NN system|NN calcium|NN channel|NN blocker|NN hypertension|DS dog|NN drug|NN condition|NN hypertension|DS 

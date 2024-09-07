@@ -1,0 +1,1208 @@
+cardiovascular_disease|DS cardiovascular_disease|DS cvd|NN class|NN of|NN disease|NN heart|NN blood|NN vessel|NN 
+cvd|NN coronary_artery_disease|DS cad|NN angina|NN myocardial_infarction|DS heart|NN attack|NN 
+cvds|NN stroke|DS heart_failure|DS heart|NN disease|NN heart|NN disease|NN cardiomyopathy|NN abnormal|NN heart|NN rhythm|NN heart|NN disease|NN heart|NN disease|NN carditis|NN aneurysm|NN peripheral|NN artery|NN disease|NN disease|NN venous|NN thrombosis|DS 
+mechanism|NN disease|NN 
+coronary_artery_disease|DS stroke|DS peripheral|NN artery|NN disease|NN atherosclerosis|DS 
+blood|NN pressure|NN smoke|NN diabetes|DS mellitus|NN lack|NN of|NN exercise|NN obesity|NN blood|NN cholesterol|NN diet|NN alcohol|NN consumption|NN others|NN 
+blood|NN pressure|NN of|NN death|NN tobacco|NN account|NN diabetes|DS lack|NN of|NN exercise|NN obesity|NN 
+heart|NN disease|NN strep|NN throat|NN 
+cardiovascular_disease|DS micrograph|NN of|NN heart|NN fibrosis|NN yellow|NN amyloidosis|NN 
+movat|NN stain|NN 
+specialty|NN onset|NN type|NN cardiology|NN adult|NN coronary_artery_disease|DS stroke|DS heart_failure|DS heart|NN disease|NN heart|NN disease|NN prevention|NN eat|NN exercise|NN of|NN cvd|NN 
+prevention|NN of|NN cvd|NN risk|NN factor|NN eat|NN exercise|NN avoidance|NN of|NN tobacco|NN smoke|NN alcohol|NN intake|NN 
+risk|NN factor|NN blood|NN pressure|NN blood|NN lipid|NN diabetes|DS 
+people|NN throat|NN antibiotic|NN risk|NN of|NN heart|NN disease|NN 
+use|NN of|NN aspirin|NN in|NN people|NN of|NN benefit|NN 
+blood|NN lipid|NN diabetes|DS death|NN tobacco|NN smoke|NN alcohol|NN intake|NN treatment|NN blood|NN pressure|NN cardiovascular_disease|DS cause|NN of|NN death|NN globally|NN 
+in|NN area|NN of|NN world|NN africa|NN 
+cvd|NN in|NN death|NN in|NN in|NN 
+death|NN age|NN cvd|NN common|NN in|NN of|NN world|NN rate|NN in|NN of|NN world|NN 
+coronary_artery_disease|DS stroke|DS account|NN of|NN death|NN in|NN male|NN of|NN death|NN in|NN female|NN 
+cardiovascular_disease|DS affect|NN adult|NN 
+in|NN state|NN of|NN people|NN of|NN people|NN of|NN people|NN 
+age|NN of|NN death|NN coronary_artery_disease|DS in|NN world|NN in|NN world|NN 
+diagnosis|NN of|NN disease|NN year|NN in|NN men|NN woman|NN 
+content|NN type|NN risk|NN factor|NN genetics|NN age|NN sex|NN tobacco|NN inactivity|NN disease|NN sleep|NN disadvantage|NN air|NN pollution|NN cardiovascular|NN risk|NN assessment|NN depression|ST traumatic|NN stress|NN occupational|NN exposure|NN mutation|NN prevention|NN medication|NN activity|NN supplement|NN management|NN epidemiology|NN research|NN link|NN type|NN cardiovascular_disease|DS blood|NN vessel|NN 
+disease|NN 
+coronary_artery_disease|DS coronary|NN heart|NN disease|NN ischemic|NN heart|NN disease|NN peripheral|NN disease|NN disease|NN of|NN blood|NN vessel|NN blood|NN arm|NN legs|NN disease|NN disease|NN of|NN blood|NN vessel|NN blood|NN brain|NN stroke|DS artery|NN stenosis|NN life|NN year|NN heart|NN inhabitant|NN in|NN data|NN aneurysm|NN cardiovascular_disease|DS heart|NN 
+disease|NN of|NN muscle|NN heart|NN disease|NN of|NN heart|NN blood|NN pressure|NN hypertension|DS heart_failure|DS syndrome|NN inability|NN of|NN heart|NN blood|NN tissue|NN requirement|NN pulmonary|NN heart|NN disease|NN failure|NN side|NN of|NN heart|NN respiratory|NN system|NN dysrhythmias|NN abnormality|NN of|NN heart|NN rhythm|NN heart|NN disease|NN endocarditis|DS inflammation|NN of|NN layer|NN of|NN heart|NN endocardium|NN 
+structure|NN heart|NN 
+cardiomegaly|NN myocarditis|DS inflammation|NN of|NN myocardium|NN part|NN of|NN heart|NN infection|NN infection|NN medication|NN toxin|NN autoimmune|NN disorder|NN 
+in|NN part|NN infiltration|NN of|NN heart|NN lymphocyte|NN type|NN of|NN white|NN blood|NN cell|NN 
+myocarditis|DS inflammation|NN of|NN myocardium|NN white|NN blood|NN cell|NN 
+disorder|NN differ|NN myocarditis|DS in|NN cause|NN treatment|NN 
+heart|NN disease|NN heart|NN disease|NN heart|NN structure|NN malformation|NN birth|NN heart|NN disease|NN heart|NN muscle|NN valve|NN damage|NN fever|ST streptococcus|NN pyogenes|NN group|NN infection|NN 
+risk|NN factor|NN risk|NN factor|NN heart|NN disease|NN age|NN sex|NN tobacco|NN use|NN inactivity|NN alcohol|NN consumption|NN diet|NN obesity|NN predisposition|NN family|NN history|NN of|NN cardiovascular_disease|DS blood|NN pressure|NN hypertension|DS blood|NN sugar|NN diabetes|DS mellitus|NN blood|NN cholesterol|NN hyperlipidemia|NN celiac|NN disease|NN factor|NN poverty|NN status|NN air|NN pollution|NN 
+contribution|NN of|NN risk|NN factor|NN vary|NN community|NN group|NN contribution|NN of|NN risk|NN factor|NN 
+of|NN risk|NN factor|NN age|NN sex|NN family|NN predisposition|NN cardiovascular|NN risk|NN factor|NN change|NN change|NN drug|NN treatment|NN example|NN prevention|NN of|NN hypertension|DS hyperlipidemia|NN diabetes|DS 
+people|NN obesity|NN risk|NN of|NN atherosclerosis|DS of|NN coronary|NN artery|NN 
+genetics|NN factor|NN development|NN of|NN cardiovascular_disease|DS in|NN men|NN in|NN woman|NN year|NN 
+cardiovascular_disease|DS in|NN person|NN parent|NN risk|NN fold|NN 
+multiple|NN nucleotide|NN polymorphism|NN snp|NN cardiovascular_disease|DS in|NN association|NN study|NN influence|NN contribution|NN cardiovascular_disease|DS 
+factor|NN age|NN age|NN in|NN cardiovascular|NN heart|NN disease|NN triple|NN of|NN risk|NN decade|NN of|NN life|NN 
+coronary|NN fatty|NN streak|NN in|NN adolescence|NN 
+percent|NN of|NN people|NN of|NN coronary|NN heart|NN disease|NN 
+risk|NN of|NN stroke|DS double|NN decade|NN age|NN 
+multiple|NN explanation|NN age|NN risk|NN of|NN disease|NN 
+of|NN cholesterol|NN level|NN 
+in|NN population|NN serum|NN cholesterol|NN level|NN increase|NN age|NN increase|NN 
+in|NN men|NN increase|NN level|NN age|NN year|NN 
+in|NN woman|NN increase|NN age|NN year|NN 
+heart|NN of|NN woman|NN cardiomegaly|NN age|NN change|NN in|NN property|NN of|NN vascular|NN wall|NN loss|NN of|NN elasticity|NN compliance|NN coronary_artery_disease|DS 
+sex|NN men|NN risk|NN of|NN heart|NN disease|NN woman|NN 
+menopause|NN woman|NN risk|NN man|NN data|NN dispute|NN 
+female|NN diabetes|DS heart|NN disease|NN male|NN diabetes|DS 
+coronary|NN heart|NN disease|NN 2|NN time|NN common|NN men|NN woman|NN 
+in|NN study|NN world|NN health|NN organization|NN sex|NN contribute|NN of|NN variation|NN in|NN sex|NN ratio|NN of|NN coronary|NN heart|NN disease|NN mortality|NN 
+study|NN report|NN result|NN sex|NN difference|NN risk|NN cardiovascular_disease|DS of|NN explanation|NN sex|NN difference|NN in|NN cardiovascular_disease|DS difference|NN 
+woman|NN estrogen|NN sex|NN hormone|NN 
+estrogen|NN effect|NN metabolism|NN system|NN effect|NN in|NN cell|NN function|NN 
+production|NN of|NN estrogen|NN decrease|NN menopause|NN metabolism|NN form|NN hdl|NN cholesterol|NN level|NN ldl|NN cholesterol|NN level|NN 
+men|NN woman|NN difference|NN in|NN body|NN weight|NN height|NN body|NN distribution|NN heart|NN rate|NN stroke|DS volume|NN compliance|NN 
+in|NN artery|NN pulsatility|NN stiffness|NN woman|NN men|NN 
+woman|NN body|NN size|NN dimension|NN of|NN menopause|NN 
+tobacco|NN cigarette|NN major|NN form|NN of|NN tobacco|NN 
+risk|NN health|NN tobacco|NN use|NN result|NN consumption|NN of|NN tobacco|NN exposure|NN smoke|NN 
+of|NN cardiovascular_disease|DS smoke|NN people|NN smoke|NN age|NN risk|NN of|NN death|NN smoker|NN 
+inactivity|NN activity|NN minute|NN of|NN activity|NN week|NN minute|NN of|NN activity|NN week|NN risk|NN factor|NN mortality|NN worldwide|NN 
+in|NN of|NN adult|NN men|NN woman|NN 
+risk|NN of|NN ischemic|NN heart|NN disease|NN diabetes|DS mellitus|NN in|NN adult|NN in|NN minute|NN of|NN activity|NN week|NN equivalent|NN 
+in|NN addition|NN activity|NN assist|NN weight_loss|ST blood|NN glucose|NN control|NN blood|NN pressure|NN profile|NN insulin|NN sensitivity|NN 
+effect|NN in|NN part|NN cardiovascular|NN benefit|NN 
+intake|NN of|NN fat|NN salt|NN intake|NN of|NN fruit|NN vegetable|NN fish|NN cardiovascular|NN risk|NN association|NN cause|NN 
+world|NN health|NN organization|NN death|NN fruit|NN consumption|NN 
+amount|NN of|NN salt|NN determinant|NN of|NN blood|NN pressure|NN level|NN cardiovascular|NN risk|NN 
+consumption|NN of|NN food|NN food|NN in|NN fat|NN sugar|NN obesity|NN cardiovascular|NN risk|NN 
+cochrane|NN review|NN fat|NN plant|NN oil|NN cardiovascular_disease|DS risk|NN 
+down|NN fat|NN risk|NN of|NN cardiovascular_disease|DS heart|NN disease|NN stroke|DS 
+intake|NN effect|NN blood|NN lipid|NN marker|NN elimination|NN of|NN diet|NN 
+in|NN world|NN health|NN organization|NN trans|NN fat|NN cause|NN of|NN death|NN year|NN 
+evidence|NN consumption|NN of|NN sugar|NN blood|NN pressure|NN blood|NN lipid|NN sugar|NN intake|NN risk|NN of|NN diabetes|DS mellitus|NN 
+consumption|NN of|NN meat|NN risk|NN of|NN cardiovascular_disease|DS in|NN part|NN salt|NN intake|NN 
+relationship|NN alcohol|NN consumption|NN cardiovascular_disease|DS amount|NN of|NN alcohol|NN 
+relationship|NN level|NN of|NN drink|NN alcohol|NN cardiovascular_disease|DS 
+level|NN episode|NN of|NN drink|NN risk|NN of|NN cardiovascular_disease|DS 
+population|NN level|NN health|NN risk|NN of|NN drink|NN alcohol|NN benefit|NN 
+disease|NN disease|NN development|NN of|NN type|NN of|NN cardiovascular_disease|DS of|NN diet|NN heal|NN 
+delay|NN in|NN recognition|NN diagnosis|NN of|NN disease|NN heart|NN damage|NN 
+sleep|NN sleep_disorder|DS sleep|NN breathe|NN insomnia|DS duration|NN of|NN sleep|NN duration|NN of|NN sleep|NN risk|NN 
+disadvantage|NN cardiovascular_disease|DS country|NN country|NN 
+information|NN pattern|NN of|NN cardiovascular_disease|DS country|NN country|NN income|NN status|NN risk|NN of|NN cardiovascular_disease|DS 
+policy|NN in|NN inequality|NN difference|NN in|NN cardiovascular_disease|DS cause|NN effect|NN relationship|NN 
+factor|NN exposure|NN health|NN behaviour|NN access|NN quality|NN differential|NN in|NN cardiovascular_disease|DS 
+commission|NN determinant|NN of|NN health|NN distribution|NN of|NN power|NN wealth|NN education|NN house|NN factor|NN nutrition|NN health|NN care|NN inequality|NN in|NN cardiovascular_disease|DS disease|NN 
+air|NN pollution|NN particulate|NN matter|NN exposure|NN effect|NN cardiovascular_disease|DS 
+particle|NN micrometer|NN in|NN diameter|NN major|NN focus|NN in|NN gradient|NN cvd|NN risk|NN 
+pm|NN exposure|NN rate|NN of|NN atherosclerosis|DS inflammation|NN 
+in|NN regard|NN exposure|NN 2|NN hour|NN of|NN in|NN increase|NN of|NN mortality|NN risk|NN 
+in|NN addition|NN day|NN of|NN exposure|NN rise|NN in|NN systolic|NN mmhg|NN mmhg|NN blood|NN pressure|NN of|NN 
+research|NN in|NN heart|NN rhythm|NN heart|NN rate|NN variability|NN vagal|NN tone|NN heart_failure|DS 
+artery|NN thicken|NN risk|NN of|NN myocardial_infarction|DS 
+cardiovascular|NN risk|NN assessment|NN cardiovascular_disease|DS cardiovascular|NN event|NN heart|NN attack|NN stroke|DS predictor|NN of|NN cardiovascular|NN event|NN 
+age|NN sex|NN smoke|NN blood|NN pressure|NN blood|NN lipid|NN diabetes|DS predictor|NN of|NN cardiovascular_disease|DS in|NN people|NN cardiovascular_disease|DS 
+measure|NN others|NN risk|NN score|NN individual|NN risk|NN of|NN cardiovascular_disease|DS 
+risk|NN score|NN merit|NN 
+test|NN biomarkers|NN evaluation|NN evidence|NN routine|NN use|NN 
+family|NN history|NN coronary|NN artery|NN calcification|NN score|NN sensitivity|NN protein|NN pressure|NN index|NN lipoprotein|NN subclass|NN particle|NN concentration|NN lipoprotein|NN b|NN fibrinogen|NN white|NN blood|NN cell|NN count|NN homocysteine|NN peptide|NN probnp|NN marker|NN of|NN kidney|NN function|NN 
+blood|NN phosphorus|NN risk|NN 
+depression|ST traumatic|NN stress|NN evidence|NN health|NN problem|NN in|NN depression|ST traumatic|NN stress|NN cardiovascular_disease|DS 
+whereas|NN health|NN problem|NN risk|NN factor|NN cardiovascular_disease|DS smoke|NN diet|NN lifestyle|NN factor|NN risk|NN of|NN cardiovascular_disease|DS in|NN depression|ST stress|NN anxiety|ST 
+stress|NN disorder|NN risk|NN coronary|NN heart|NN disease|NN depression|ST covariates|NN 
+occupational|NN exposure|NN relationship|NN work|NN cardiovascular_disease|DS link|NN toxin|NN heat|NN cold|NN exposure|NN smoke|NN health|NN concern|NN stress|NN depression|ST 
+risk|NN factor|NN factor|NN association|NN work|NN lack|NN of|NN control|NN situation|NN imbalance|NN support|NN work|NN injustice|NN experience|NN opportunity|NN development|NN job|NN insecurity|NN night|NN schedule|NN week|NN risk|NN of|NN stroke|DS exposure|NN radiation|NN 
+hypertension|DS in|NN job|NN strain|NN 
+difference|NN woman|NN men|NN in|NN risk|NN men|NN of|NN heart|NN attack|NN stroke|DS woman|NN life|NN 
+chemical|NN risk|NN factor|NN sbu|NN report|NN evidence|NN workplace|NN exposure|NN dust|NN engine|NN exhaust|NN fume|NN heart|NN disease|NN 
+association|NN exposure|NN benzopyrenes|NN lead|NN carbon|NN disulphide|NN carbon|NN monoxide|NN fluid|NN occupational|NN exposure|NN smoke|NN 
+production|NN of|NN aluminium|NN production|NN of|NN paper|NN sulphate|NN pulp|NN process|NN heart|NN disease|NN 
+association|NN heart|NN disease|NN exposure|NN compound|NN in|NN work|NN environment|NN acid|NN tcdd|NN dioxin|NN asbestos|NN 
+workplace|NN exposure|NN dust|NN asbestos|NN pulmonary|NN heart|NN evidence|NN workplace|NN exposure|NN carbon|NN disulphide|NN phenoxyacids|NN tcdd|NN in|NN environment|NN aluminium|NN stroke|DS 
+mutation|NN of|NN evidence|NN mutation|NN in|NN blood|NN cell|NN risk|NN of|NN cardiovascular_disease|DS 
+research|NN project|NN human|NN data|NN link|NN presence|NN of|NN mutation|NN condition|NN hematopoiesis|NN cardiovascular|NN incident|NN mortality|NN 
+pathophysiology|NN study|NN atherosclerosis|DS major|NN precursor|NN of|NN cardiovascular_disease|DS in|NN childhood|NN 
+determinant|NN of|NN atherosclerosis|DS in|NN youth|NN pday|NN study|NN lesions|NN in|NN aorta|NN half|NN of|NN coronary|NN artery|NN of|NN youth|NN year|NN 
+1|NN in|NN people|NN complication|NN atherosclerosis|DS 
+in|NN order|NN tide|NN education|NN awareness|NN cardiovascular_disease|DS threat|NN measure|NN disease|NN 
+colour|NN electron|NN micrograph|NN sem|NN sem|NN of|NN cardiovascular|NN calcification|NN in|NN orange|NN calcium|NN phosphate|NN particle|NN material|NN in|NN matrix|NN material|NN obesity|NN diabetes|DS mellitus|NN cardiovascular_disease|DS history|NN of|NN chronic_kidney_disease|DS hypercholesterolaemia|NN 
+in|NN fact|NN cardiovascular_disease|DS of|NN diabetic|NN complication|NN diabetic|NN of|NN cause|NN nondiabetics|NN 
+ecg|NN rest|NN exercise|NN in|NN symptom|NN risk|NN 
+risk|NN factor|NN 
+in|NN risk|NN evidence|NN ecg|NN 
+echocardiography|NN myocardial|NN perfusion|NN image|NN stress|NN test|NN in|NN risk|NN symptom|NN 
+biomarkers|NN cardiovascular|NN risk|NN factor|NN in|NN risk|NN of|NN cardiovascular_disease|DS value|NN of|NN biomarkers|NN 
+index|NN abi|NN protein|NN hscrp|NN coronary|NN artery|NN calcium|NN of|NN benefit|NN in|NN symptom|NN of|NN 
+recommend|NN in|NN child|NN age|NN of|NN 2|NN family|NN history|NN of|NN heart|NN disease|NN problem|NN 
+early|NN test|NN factor|NN in|NN risk|NN exercise|NN 
+screen|NN selection|NN prevention|NN intervention|NN absolute|NN risk|NN variety|NN of|NN score|NN ex|NN 
+framingham|NN reynolds|NN risk|NN score|NN 
+stratification|NN people|NN intervention|NN risk|NN medication|NN risk|NN 
+number|NN variety|NN of|NN risk|NN score|NN use|NN efficacy|NN review|NN of|NN validation|NN impact|NN analysis|NN 
+risk|NN stratification|NN model|NN sensitivity|NN population|NN group|NN number|NN of|NN event|NN risk|NN group|NN 
+result|NN preventative|NN screen|NN prevention|NN trial|NN result|NN of|NN intervention|NN risk|NN assessment|NN 
+prevention|NN of|NN cardiovascular_disease|DS risk|NN factor|NN 
+measure|NN cardiovascular_disease|DS include|NN tobacco|NN cessation|NN avoidance|NN of|NN smoke|NN 
+cessation|NN reduce|NN risk|NN 
+grain|NN fruit|NN vegetable|NN 
+intervention|NN in|NN cardiovascular|NN risk|NN factor|NN year|NN term|NN effect|NN of|NN intervention|NN impact|NN cardiovascular_disease|DS event|NN 
+minute|NN 2|NN hour|NN minute|NN of|NN exercise|NN week|NN 
+limit|NN alcohol|NN consumption|NN limit|NN people|NN alcoholic|NN drink|NN risk|NN of|NN cardiovascular_disease|DS 
+people|NN alcohol|NN rate|NN of|NN cardiovascular_disease|DS alcohol|NN 
+alcohol|NN intake|NN risk|NN of|NN cardiovascular_disease|DS consumption|NN of|NN alcohol|NN risk|NN of|NN cardiovascular|NN event|NN in|NN day|NN consumption|NN 
+blood|NN pressure|NN 
+mmhg|NN reduction|NN in|NN blood|NN pressure|NN reduce|NN risk|NN 
+decrease|NN cholesterol|NN 
+statin|NN treatment|NN reduce|NN cardiovascular|NN mortality|NN 
+decrease|NN body|NN overweight|DS 
+effect|NN of|NN weight_loss|ST change|NN evidence|NN weight|NN diet|NN 
+in|NN study|NN of|NN people|NN obesity|NN weight_loss|ST surgery|NN reduction|NN in|NN cardiovascular|NN risk|NN 
+decrease|NN stress|NN 
+measure|NN definition|NN of|NN intervention|NN 
+mental|NN myocardial|NN ischemia|NN risk|NN of|NN heart|NN problem|NN in|NN heart|NN disease|NN 
+stress|NN form|NN of|NN heart|NN dysfunction|NN syndrome|NN in|NN people|NN 
+stress|NN role|NN in|NN hypertension|DS 
+relaxation|NN therapy|NN of|NN benefit|NN 
+guideline|NN strategy|NN 
+cochrane|NN review|NN evidence|NN intervention|NN cardiovascular|NN risk|NN factor|NN effect|NN blood|NN pressure|NN body|NN mass|NN index|NN waist|NN circumference|NN evidence|NN author|NN conclusion|NN effect|NN cardiovascular|NN event|NN mortality|NN 
+adult|NN diagnosis|NN of|NN hypertension|DS diabetes|DS hyperlipidemia|NN cardiovascular_disease|DS counsel|NN diet|NN activity|NN behavior|NN 
+cochrane|NN review|NN people|NN cardiovascular_disease|DS risk|NN score|NN cardiovascular_disease|DS risk|NN factor|NN amount|NN care|NN 
+uncertainty|NN score|NN effect|NN cardiovascular_disease|DS event|NN 
+care|NN in|NN periodontitis|NN affect|NN risk|NN of|NN cardiovascular_disease|DS 
+in|NN fruit|NN vegetable|NN risk|NN of|NN cardiovascular_disease|DS death|NN 
+evidence|NN diet|NN cardiovascular|NN outcome|NN 
+evidence|NN diet|NN diet|NN in|NN change|NN cardiovascular|NN risk|NN factor|NN cholesterol|NN level|NN blood|NN pressure|NN 
+dash|NN diet|NN in|NN nut|NN fish|NN fruit|NN vegetable|NN in|NN sweet|NN meat|NN fat|NN blood|NN pressure|NN density|NN lipoprotein|NN cholesterol|NN syndrome|NN benefit|NN context|NN of|NN trial|NN 
+fiber|NN risk|NN 
+intake|NN risk|NN factor|NN 
+in|NN trans|NN fatty|NN acid|NN rate|NN of|NN cardiovascular_disease|DS 
+worldwide|NN guideline|NN reduction|NN in|NN fat|NN 
+question|NN effect|NN of|NN fat|NN cardiovascular_disease|DS in|NN literature|NN 
+review|NN evidence|NN of|NN harm|NN fat|NN 
+cochrane|NN review|NN evidence|NN of|NN benefit|NN fat|NN fat|NN 
+meta|NN analysis|NN substitution|NN acid|NN type|NN of|NN fat|NN cardiovascular|NN risk|NN 
+replacement|NN of|NN fat|NN carbohydrate|NN risk|NN 
+benefit|NN replacement|NN supplementation|NN fatty|NN acid|NN type|NN of|NN fat|NN effect|NN 
+cochrane|NN review|NN benefit|NN of|NN diet|NN in|NN people|NN blood|NN pressure|NN 
+in|NN heart_failure|DS study|NN rest|NN of|NN trial|NN trend|NN 
+review|NN of|NN salt|NN evidence|NN salt|NN intake|NN increase|NN blood|NN pressure|NN hypertension|DS number|NN of|NN cardiovascular_disease|DS event|NN result|NN of|NN blood|NN pressure|NN mechanism|NN 
+evidence|NN salt|NN increase|NN cardiovascular|NN mortality|NN evidence|NN increase|NN in|NN mortality|NN stroke|DS hypertrophy|NN 
+medication|NN blood|NN pressure|NN medication|NN cardiovascular_disease|DS in|NN people|NN risk|NN irrespective|NN of|NN age|NN baseline|NN level|NN of|NN cardiovascular|NN risk|NN blood|NN pressure|NN 
+drug|NN regimen|NN efficacy|NN in|NN risk|NN of|NN major|NN cardiovascular|NN event|NN difference|NN drug|NN in|NN ability|NN outcome|NN 
+reduction|NN in|NN blood|NN pressure|NN reduction|NN in|NN risk|NN people|NN blood|NN pressure|NN drug|NN reduction|NN in|NN blood|NN pressure|NN 
+adherence|NN medication|NN phone|NN text|NN message|NN adherence|NN evidence|NN prevention|NN of|NN cardiovascular_disease|DS 
+statin|NN in|NN cardiovascular_disease|DS in|NN people|NN history|NN of|NN cardiovascular_disease|DS 
+event|NN rate|NN in|NN men|NN in|NN woman|NN decrease|NN in|NN event|NN in|NN men|NN woman|NN 
+in|NN risk|NN history|NN of|NN cardiovascular_disease|DS prevention|NN risk|NN of|NN death|NN cardiovascular_disease|DS 
+benefit|NN 
+state|NN statin|NN in|NN risk|NN of|NN cardiovascular_disease|DS ten|NN year|NN 
+fibrates|NN cetp|NN inhibitor|NN hdl|NN cholesterol|NN risk|NN of|NN cardiovascular_disease|DS in|NN statin|NN 
+fibrates|NN risk|NN of|NN cardiovascular|NN coronary|NN event|NN evidence|NN mortality|NN 
+medication|NN cardiovascular|NN risk|NN in|NN people|NN type_2_diabetes|DS evidence|NN 
+in|NN participant|NN major|NN event|NN risk|NN reduction|NN in|NN cardiovascular_disease|DS lower|NN period|NN of|NN year|NN risk|NN of|NN major|NN hypoglycemia|DS 
+aspirin|NN of|NN benefit|NN in|NN risk|NN of|NN heart|NN disease|NN risk|NN of|NN bleeding|ST benefit|NN respect|NN cardiovascular|NN problem|NN 
+in|NN risk|NN age|NN of|NN 
+state|NN service|NN task|NN force|NN use|NN of|NN aspirin|NN prevention|NN in|NN woman|NN men|NN year|NN in|NN in|NN individual|NN 
+use|NN of|NN agent|NN people|NN pulmonary|NN hypertension|DS heart|NN disease|NN lung|NN disease|NN harm|NN expense|NN 
+activity|NN rehabilitation|NN heart|NN attack|NN risk|NN of|NN death|NN cardiovascular_disease|DS hospitalization|NN 
+quality|NN study|NN of|NN benefit|NN of|NN exercise|NN train|NN in|NN people|NN cardiovascular|NN risk|NN history|NN of|NN cardiovascular_disease|DS 
+review|NN inactivity|NN of|NN burden|NN of|NN disease|NN coronary|NN heart|NN disease|NN worldwide|NN 
+author|NN death|NN coronary|NN heart|NN disease|NN in|NN europe|NN in|NN inactivity|NN 
+cochrane|NN review|NN evidence|NN yoga|NN effect|NN blood|NN pressure|NN cholesterol|NN study|NN in|NN review|NN of|NN quality|NN 
+evidence|NN exercise|NN program|NN exercise|NN adherence|NN 
+supplement|NN diet|NN effect|NN of|NN supplementation|NN e|NN c|NN 
+vitamin|NN cardiovascular_disease|DS in|NN case|NN in|NN harm|NN 
+supplement|NN 
+type|NN of|NN vitamin|NN b3|NN exception|NN decrease|NN in|NN risk|NN of|NN cardiovascular|NN event|NN in|NN risk|NN 
+magnesium|NN supplementation|NN lower|NN blood|NN pressure|NN in|NN manner|NN 
+magnesium|NN therapy|NN people|NN arrhythmia|ST torsades|NN point|NN syndrome|NN treatment|NN of|NN people|NN arrhythmia|ST 
+evidence|NN fatty|NN supplementation|NN 
+management|NN cardiovascular_disease|DS treatment|NN intervention|NN 
+influenza|DS heart|NN attack|NN stroke|DS influenza|DS vaccination|NN chance|NN of|NN cardiovascular|NN event|NN death|NN in|NN people|NN heart|NN disease|NN 
+cvd|NN management|NN focus|NN mi|NN stroke|DS case|NN mortality|NN rate|NN in|NN mind|NN of|NN intervention|NN in|NN country|NN middle|NN income|NN level|NN 
+mi|NN strategy|NN aspirin|NN atenolol|NN streptokinase|NN tissue|NN plasminogen|NN activator|NN qaly|NN in|NN region|NN of|NN middle|NN income|NN 
+cost|NN qaly|NN aspirin|NN atenolol|NN streptokinase|NN 
+aspirin|NN ace|NN inhibitor|NN beta|NN blocker|NN statin|NN cvd|NN prevention|NN in|NN region|NN qaly|NN cost|NN of|NN 
+cochrane|NN review|NN benefit|NN in|NN term|NN of|NN mortality|NN event|NN blood|NN pressure|NN target|NN mmhg|NN mmhg|NN 
+epidemiology|NN cardiovascular_disease|DS cause|NN of|NN death|NN worldwide|NN in|NN region|NN africa|NN 
+in|NN of|NN death|NN cardiovascular|NN cardiovascular_disease|DS in|NN country|NN of|NN death|NN cardiovascular_disease|DS in|NN country|NN 
+people|NN cardiovascular_disease|DS year|NN 
+disease|NN 
+death|NN in|NN of|NN world|NN cardiovascular_disease|DS burden|NN subcontinent|NN account|NN of|NN world|NN population|NN 
+combination|NN factor|NN 
+organization|NN heart|NN association|NN world|NN heart|NN federation|NN awareness|NN issue|NN 
+predisposition|NN of|NN research|NN cardiovascular|NN death|NN person|NN in|NN evidence|NN cardiovascular_disease|DS in|NN research|NN cardiovascular_disease|DS date|NN century|NN 
+cause|NN prevention|NN treatment|NN of|NN form|NN of|NN cardiovascular_disease|DS field|NN of|NN research|NN hundred|NN of|NN study|NN basis|NN 
+remain|NN area|NN of|NN research|NN link|NN inflammation|NN atherosclerosis|DS potential|NN intervention|NN genetics|NN of|NN coronary|NN heart|NN disease|NN 
+life|NN year|NN cardiovascular_disease|DS inhabitant|NN in|NN data|NN go|NN d|NN roger|NN vl|NN benjamin|NN ej|NN berry|NN jd|NN wb|NN al|NN 
+heart|NN disease|NN stroke|DS statistic|NN update|NN report|NN heart|NN association|NN http|NN 
+circulation|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mendis|NN s|NN puska|NN p|NN b|NN 
+atlas|NN cardiovascular_disease|DS prevention|NN control|NN http|NN pdf|NN 
+world|NN health|NN organization|NN in|NN collaboration|NN world|NN heart|NN federation|NN world|NN stroke|DS organization|NN 
+pp|NN 
+http|NN pdf|NN 
+m|NN wang|NN h|NN lozano|NN r|NN liang|NN x|NN zhou|NN m|NN al|NN 
+gbd|NN mortality|NN cause|NN of|NN death|NN collaborator|NN 
+mortality|NN cause|NN of|NN death|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+wang|NN h|NN m|NN c|NN rm|NN bhutta|NN za|NN carter|NN al|NN 
+gbd|NN mortality|NN cause|NN of|NN death|NN collaborator|NN 
+life|NN expectancy|NN mortality|NN mortality|NN cause|NN of|NN death|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mcgill|NN hc|NN mcmahan|NN s|NN 
+heart|NN disease|NN in|NN century|NN implication|NN of|NN determinant|NN of|NN atherosclerosis|DS in|NN youth|NN pday|NN study|NN 
+circulation|NN 
+http|NN 
+pmid|NN http|NN 
+mj|NN sl|NN rangarajan|NN s|NN xavier|NN d|NN l|NN zhang|NN h|NN al|NN 
+effect|NN of|NN risk|NN factor|NN stroke|DS in|NN country|NN interstroke|NN study|NN 
+lancet|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+spinks|NN glasziou|NN pp|NN mar|NN cb|NN 
+antibiotic|NN sore_throat|ST http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd000023|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+p|NN connock|NN m|NN gurung|NN t|NN k|NN johnson|NN s|NN k|NN al|NN 
+aspirin|NN in|NN prevention|NN of|NN cardiovascular_disease|DS cancer|DS review|NN of|NN balance|NN of|NN evidence|NN review|NN of|NN trial|NN http|NN 
+plo|NN 
+e81970|NN 
+p|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+p|NN connock|NN m|NN gurung|NN t|NN k|NN johnson|NN s|NN kandala|NN nb|NN al|NN 
+aspirin|NN use|NN in|NN prevention|NN of|NN cardiovascular_disease|DS cancer|DS review|NN overview|NN of|NN review|NN http|NN 
+health|NN technology|NN assessment|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+institute|NN of|NN medicine|NN of|NN academy|NN 
+epidemiology|NN of|NN cardiovascular_disease|DS http|NN 
+in|NN fuster|NN v|NN ed|NN 
+cardiovascular|NN health|NN in|NN world|NN challenge|NN health|NN 
+washington|NN dc|NN academy|NN press|NN 
+http|NN 
+moran|NN ae|NN mh|NN ga|NN mensah|NN ga|NN m|NN murray|NN cj|NN m|NN 
+trend|NN in|NN ischemic|NN heart|NN disease|NN mortality|NN in|NN world|NN region|NN burden|NN of|NN disease|NN study|NN http|NN pmc4181359|NN 
+circulation|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mendis|NN s|NN puska|NN p|NN b|NN 
+atlas|NN cardiovascular_disease|DS prevention|NN control|NN 1|NN 
+geneva|NN world|NN health|NN organization|NN in|NN collaboration|NN world|NN heart|NN federation|NN world|NN stroke|DS organization|NN 
+disease|NN injury|NN country|NN estimate|NN http|NN 
+world|NN health|NN organization|NN 
+s|NN 
+v|NN 
+cardiovascular|NN health|NN in|NN world|NN challenge|NN health|NN 
+washington|NN dc|NN academy|NN press|NN 
+fink|NN chow|NN sl|NN macaulay|NN te|NN mp|NN rogers|NN tc|NN 
+article|NN of|NN intervention|NN cardiovascular|NN mortality|NN 
+pharmacotherapy|NN 
+http|NN 
+pmid|NN http|NN 
+micha|NN r|NN g|NN d|NN 
+meat|NN risk|NN of|NN coronary_artery_disease|DS type_2_diabetes|DS review|NN of|NN evidence|NN http|NN 
+atherosclerosis|DS report|NN 
+http|NN 
+pmc|NN http|NN pmc3483430|NN 
+pmid|NN http|NN 
+mendis|NN s|NN puska|NN p|NN b|NN 
+atlas|NN cardiovascular_disease|DS prevention|NN control|NN http|NN 
+world|NN health|NN organization|NN in|NN collaboration|NN world|NN heart|NN federation|NN world|NN stroke|DS organization|NN 
+http|NN 
+ciaccio|NN ej|NN sk|NN biviano|NN ab|NN iyer|NN v|NN garan|NN h|NN ph|NN 
+cardiovascular|NN involvement|NN in|NN disease|NN http|NN mc5583538|NN 
+world|NN journal|NN of|NN cardiology|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+yusuf|NN s|NN s|NN s|NN t|NN f|NN al|NN 
+effect|NN of|NN risk|NN factor|NN myocardial_infarction|DS in|NN country|NN interheart|NN study|NN study|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+mcphee|NN s|NN 
+diagnosis|NN treatment|NN http|NN 
+york|NN 
+pp|NN 
+http|NN 
+rh|NN 
+obesity|NN heart|NN disease|NN statement|NN professional|NN nutrition|NN committee|NN heart|NN association|NN 
+circulation|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN d|NN 
+genetics|NN of|NN human|NN cardiovascular_disease|DS s|NN 
+cell|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+m|NN hh|NN hall|NN lm|NN c|NN s|NN al|NN 
+association|NN of|NN coronary_artery_disease|DS http|NN 
+nature|NN genetics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+macrae|NN r|NN 
+future|NN of|NN genetics|NN genomics|NN phenotype|NN gap|NN in|NN precision|NN medicine|NN http|NN 
+circulation|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ja|NN asaria|NN p|NN dp|NN 
+mortality|NN heart|NN disease|NN country|NN region|NN age|NN statistic|NN world|NN health|NN organisation|NN nation|NN http|NN 
+journal|NN of|NN cardiology|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+e|NN guardamagna|NN o|NN chiarelli|NN f|NN liccardo|NN d|NN f|NN v|NN 
+dyslipidemia|NN cardiovascular|NN risk|NN factor|NN in|NN child|NN http|NN 
+journal|NN of|NN endocrinology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+risk|NN of|NN heart|NN attack|NN 
+heart|NN mackay|NN mensah|NN mendis|NN al|NN 
+atlas|NN of|NN heart|NN disease|NN stroke|DS 
+world|NN health|NN organization|NN 
+jousilahti|NN p|NN vartiainen|NN e|NN j|NN puska|NN p|NN 
+sex|NN age|NN cardiovascular|NN risk|NN factor|NN coronary|NN heart|NN disease|NN study|NN of|NN men|NN woman|NN in|NN finland|NN 
+circulation|NN 
+http|NN 
+pmid|NN http|NN 
+jani|NN b|NN rajkumar|NN c|NN 
+age|NN age|NN http|NN 
+journal|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+risk|NN factor|NN http|NN 
+http|NN 
+diabetes|DS woman|NN risk|NN of|NN heart|NN disease|NN men|NN http|NN 
+http|NN ttp|NN 
+jackson|NN r|NN chambles|NN m|NN k|NN wijnberg|NN l|NN d|NN project|NN study|NN 
+sex|NN difference|NN in|NN heart|NN disease|NN mortality|NN risk|NN factor|NN in|NN community|NN analysis|NN 
+cardiovasc|NN risk|NN factor|NN 
+doll|NN r|NN peto|NN r|NN boreham|NN j|NN sutherland|NN i|NN 
+mortality|NN in|NN relation|NN smoke|NN year|NN observation|NN doctor|NN http|NN c437139|NN 
+bmj|NN 
+http|NN 
+pmc|NN http|NN c437139|NN 
+pmid|NN http|NN 
+world|NN health|NN organization|NN unaids|NN 
+prevention|NN of|NN cardiovascular_disease|DS http|NN 
+world|NN health|NN organization|NN 
+pp|NN 
+http|NN 
+hooper|NN l|NN martin|NN n|NN davey|NN smith|NN g|NN 
+reduction|NN in|NN intake|NN cardiovascular_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011737|NN 
+http|NN 
+pmid|NN http|NN 
+booker|NN c|NN ji|NN 
+trans|NN fatty|NN acid|NN cardiovascular|NN health|NN translation|NN of|NN evidence|NN base|NN 
+nutrition|NN metabolism|NN cardiovascular_disease|DS 
+http|NN 
+pmid|NN http|NN 
+remig|NN v|NN franklin|NN b|NN margolis|NN s|NN g|NN t|NN street|NN jc|NN 
+trans|NN fat|NN in|NN america|NN review|NN of|NN use|NN consumption|NN health|NN implication|NN regulation|NN 
+journal|NN of|NN association|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+acid|NN food|NN supply|NN p|NN 
+world|NN health|NN organization|NN 
+morenga|NN la|NN howatson|NN aj|NN jones|NN j|NN 
+sugar|NN risk|NN review|NN of|NN trial|NN of|NN effect|NN blood|NN pressure|NN lipid|NN 
+journal|NN of|NN nutrition|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+kj|NN chen|NN cm|NN rao|NN sr|NN ra|NN 
+alcohol|NN consumption|NN cardiovascular|NN mortality|NN adult|NN http|NN 
+journal|NN of|NN college|NN of|NN cardiology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+world|NN health|NN organization|NN 
+status|NN report|NN alcohol|NN health|NN http|NN 
+world|NN health|NN organization|NN 
+http|NN 
+mp|NN grandner|NN ma|NN d|NN conroy|NN mb|NN g|NN coon|NN dl|NN 
+sleep|NN duration|NN quality|NN impact|NN behavior|NN health|NN statement|NN heart|NN association|NN s|NN 
+circulation|NN review|NN 
+e386|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+di|NN m|NN khang|NN yh|NN asaria|NN p|NN mj|NN f|NN al|NN 
+inequality|NN in|NN disease|NN response|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+mackenbach|NN jp|NN cavelaars|NN ae|NN groenhof|NN f|NN 
+inequality|NN in|NN cardiovascular_disease|DS mortality|NN study|NN 
+heart|NN journal|NN 
+http|NN 
+pmid|NN http|NN 
+clark|NN desmeules|NN w|NN 
+status|NN cardiovascular_disease|DS risk|NN implication|NN care|NN 
+review|NN 
+cardiology|NN 
+http|NN 
+pmid|NN http|NN 
+world|NN health|NN organization|NN 
+gap|NN in|NN generation|NN health|NN equity|NN action|NN determinant|NN of|NN health|NN commission|NN determinant|NN of|NN health|NN report|NN 
+world|NN health|NN organization|NN 
+pp|NN 
+http|NN 
+m|NN mannucci|NN pm|NN 
+air|NN pollution|NN cardiovascular_disease|DS 
+thrombosis|DS research|NN 
+http|NN 
+pmid|NN http|NN 
+sun|NN q|NN x|NN le|NN 
+cardiovascular|NN effect|NN of|NN particulate|NN air|NN pollution|NN exposure|NN http|NN 
+circulation|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+h|NN 
+cardiovascular|NN risk|NN risk|NN score|NN assign|NN framingham|NN qrisk|NN others|NN http|NN 
+heart|NN 
+http|NN 
+pmid|NN http|NN 
+world|NN health|NN organization|NN 
+prevention|NN of|NN cardiovascular_disease|DS guideline|NN assessment|NN management|NN of|NN cardiovascular|NN risk|NN http|NN oofhqgaacaaj|NN 
+world|NN health|NN organization|NN 
+http|NN 
+van|NN staa|NN tp|NN gulliford|NN m|NN e|NN goldacre|NN b|NN l|NN 
+prediction|NN of|NN cardiovascular|NN risk|NN framingham|NN assign|NN qrisk2|NN population|NN risk|NN 
+http|NN 
+plo|NN 
+e106455|NN 
+http|NN 
+http|NN 1|NN 
+pmc|NN http|NN c4182667|NN 
+pmid|NN http|NN 
+hlatky|NN ma|NN greenland|NN p|NN dk|NN ballantyne|NN cm|NN criqui|NN mh|NN m|NN al|NN 
+criterion|NN evaluation|NN of|NN marker|NN of|NN cardiovascular|NN risk|NN statement|NN heart|NN association|NN http|NN 
+circulation|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+eckel|NN rh|NN ma|NN 
+update|NN risk|NN factor|NN http|NN 
+medicine|NN 
+1|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bai|NN w|NN j|NN j|NN 
+serum|NN phosphorus|NN cardiovascular|NN mortality|NN in|NN population|NN 
+clinica|NN chimica|NN acta|NN journal|NN of|NN chemistry|NN 
+http|NN 
+pmid|NN http|NN 
+cohen|NN d|NN im|NN 
+state|NN of|NN art|NN review|NN depression|ST stress|NN anxiety|ST cardiovascular_disease|DS http|NN 
+journal|NN of|NN hypertension|DS 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+edmondson|NN d|NN im|NN shaffer|NN ja|NN falzon|NN l|NN burg|NN mm|NN 
+stress|NN disorder|NN risk|NN coronary|NN heart|NN disease|NN review|NN http|NN 
+heart|NN journal|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+program|NN portfolio|NN cancer|DS cardiovascular_disease|DS program|NN description|NN http|NN 
+http|NN 
+agency|NN health|NN technology|NN assessment|NN assessment|NN of|NN service|NN sbu|NN 
+occupational|NN exposure|NN cardiovascular_disease|DS http|NN 
+http|NN 
+agency|NN health|NN technology|NN assessment|NN assessment|NN of|NN service|NN sbu|NN 
+occupational|NN health|NN safety|NN chemical|NN exposure|NN http|NN safety|NN 
+jan|NN m|NN bl|NN jaiswal|NN s|NN 
+hematopoiesis|NN 
+seminar|NN in|NN hematology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+bertazzo|NN s|NN e|NN cloyd|NN kl|NN chester|NN ah|NN yacoub|NN mh|NN mm|NN 
+electron|NN microscopy|NN reveal|NN insight|NN human|NN cardiovascular|NN tissue|NN calcification|NN http|NN 
+nature|NN material|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+vanhecke|NN te|NN miller|NN wm|NN franklin|NN ba|NN weber|NN je|NN pa|NN 
+awareness|NN knowledge|NN perception|NN of|NN heart|NN disease|NN adolescent|NN 
+journal|NN of|NN cardiovascular|NN prevention|NN rehabilitation|NN 
+http|NN 
+pmid|NN http|NN 
+highlander|NN p|NN shaw|NN gp|NN 
+concept|NN treatment|NN of|NN cardiovascular_disease|DS in|NN diabetic|NN 
+advance|NN in|NN cardiovascular_disease|DS 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+medicinewise|NN 1|NN march|NN 
+np|NN prescribe|NN practice|NN review|NN manage|NN lipid|NN http|NN 
+march|NN 1|NN 
+kvan|NN e|NN pettersen|NN ki|NN sandvik|NN l|NN 
+mortality|NN in|NN diabetic|NN patient|NN myocardial_infarction|DS cardiovascular|NN risk|NN 
+journal|NN of|NN cardiology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+norhammar|NN malmberg|NN k|NN diderholm|NN e|NN lagerqvist|NN b|NN lindahl|NN b|NN rydén|NN l|NN wallentin|NN l|NN 
+diabetes|DS mellitus|NN major|NN risk|NN factor|NN in|NN coronary_artery_disease|DS consideration|NN of|NN extent|NN of|NN coronary_artery_disease|DS benefit|NN of|NN revascularization|NN 
+journal|NN of|NN college|NN of|NN cardiology|NN 
+http|NN 
+pmid|NN http|NN 
+decode|NN diabetes|DS group|NN 
+tolerance|NN mortality|NN comparison|NN of|NN diabetes|DS criterion|NN 
+decode|NN study|NN group|NN 
+diabetes|DS group|NN 
+diabetes|DS epidemiology|NN analysis|NN of|NN criterion|NN in|NN europe|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+curry|NN sj|NN krist|NN ah|NN dk|NN barry|NN mj|NN caughey|NN ab|NN davidson|NN kw|NN al|NN 
+june|NN 
+screen|NN cardiovascular_disease|DS risk|NN electrocardiography|NN service|NN task|NN force|NN recommendation|NN statement|NN 
+jama|NN 
+http|NN 
+pmid|NN http|NN 
+maron|NN bj|NN ra|NN p|NN bd|NN s|NN chaitman|NN br|NN al|NN 
+assessment|NN of|NN ecg|NN test|NN detection|NN of|NN cardiovascular_disease|DS in|NN population|NN of|NN people|NN year|NN of|NN age|NN statement|NN heart|NN association|NN college|NN of|NN cardiology|NN 
+circulation|NN 
+http|NN 1|NN 
+pmid|NN http|NN 1|NN 
+moyer|NN va|NN 
+screen|NN coronary|NN heart|NN disease|NN electrocardiography|NN service|NN task|NN force|NN recommendation|NN statement|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+chou|NN r|NN 
+screen|NN electrocardiography|NN stress|NN echocardiography|NN myocardial|NN perfusion|NN image|NN advice|NN care|NN college|NN of|NN physician|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+wang|NN tj|NN gona|NN p|NN larson|NN mg|NN tofler|NN gh|NN levy|NN d|NN c|NN al|NN 
+multiple|NN biomarkers|NN prediction|NN of|NN major|NN cardiovascular|NN event|NN death|NN s|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+spence|NN jd|NN 
+technology|NN insight|NN measurement|NN of|NN carotid|NN plaque|NN management|NN research|NN therapy|NN evaluation|NN 
+nature|NN practice|NN 
+neurology|NN 
+2|NN 
+http|NN ncpneuro0324|NN 
+pmid|NN http|NN 
+curry|NN sj|NN krist|NN ah|NN dk|NN barry|NN mj|NN caughey|NN ab|NN davidson|NN kw|NN al|NN 
+july|NN 
+risk|NN assessment|NN cardiovascular_disease|DS risk|NN factor|NN service|NN task|NN force|NN recommendation|NN statement|NN 
+jama|NN 
+http|NN 
+pmid|NN http|NN 
+panel|NN guideline|NN cardiovascular|NN health|NN risk|NN reduction|NN in|NN child|NN adolescent|NN 
+panel|NN guideline|NN cardiovascular|NN health|NN risk|NN reduction|NN in|NN child|NN adolescent|NN report|NN http|NN 
+pediatrics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+http|NN 
+saenger|NN ak|NN 
+screen|NN in|NN child|NN adolescent|NN step|NN prevention|NN 
+chemistry|NN 
+http|NN 
+pmid|NN http|NN 
+mann|NN dl|NN dp|NN libby|NN p|NN ro|NN braunwald|NN e|NN 
+braunwald|NN heart|NN disease|NN textbook|NN of|NN cardiovascular|NN medicine|NN 
+philadelphia|NN 
+http|NN 
+damen|NN ja|NN l|NN schuit|NN e|NN debray|NN tp|NN g|NN tzoulaki|NN i|NN al|NN 
+prediction|NN model|NN cardiovascular_disease|DS risk|NN in|NN population|NN review|NN http|NN 
+bmj|NN 
+i2416|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+http|NN 
+mcneal|NN cj|NN dajani|NN t|NN wilson|NN d|NN ae|NN dickerson|NN jb|NN m|NN 
+hypercholesterolemia|DS in|NN youth|NN opportunity|NN obstacle|NN cardiovascular_disease|DS 
+atherosclerosis|DS report|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN tps|NN wayback|NN machine|NN critchley|NN j|NN capewell|NN s|NN 
+smoke|NN cessation|NN prevention|NN of|NN coronary|NN heart|NN disease|NN 
+cochrane|NN database|NN of|NN review|NN 1|NN cd003041|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+http|NN lj|NN balestrieri|NN ml|NN c|NN 
+nutrition|NN activity|NN cardiovascular_disease|DS update|NN 
+cardiovascular|NN research|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+levy|NN l|NN tedstone|NN 
+policy|NN prevention|NN of|NN cardiovascular_disease|DS http|NN 
+healthcare|NN 
+1|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rees|NN m|NN wilson|NN n|NN ward|NN k|NN thorogood|NN m|NN brunner|NN e|NN 
+advice|NN cardiovascular|NN risk|NN http|NN f|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN cd002128|NN 
+http|NN ub5|NN 
+pmid|NN http|NN 
+chapter|NN adult|NN http|NN 
+http|NN 
+activity|NN guideline|NN adult|NN http|NN 
+choice|NN 
+http|NN 
+ronksley|NN pe|NN brien|NN se|NN turner|NN bj|NN kj|NN ghali|NN wa|NN 
+association|NN of|NN alcohol|NN consumption|NN cardiovascular_disease|DS outcome|NN review|NN http|NN 
+bmj|NN 
+d671|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+e|NN h|NN kj|NN rimm|NN eb|NN mittleman|NN ma|NN 
+alcohol|NN risk|NN of|NN cardiovascular|NN event|NN review|NN analysis|NN http|NN 
+circulation|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+holmes|NN ce|NN zuccolo|NN l|NN silverwood|NN rj|NN guo|NN y|NN ye|NN z|NN al|NN 
+july|NN 
+association|NN alcohol|NN cardiovascular_disease|DS randomisation|NN analysis|NN participant|NN data|NN http|NN c4091648|NN 
+bmj|NN 
+g4164|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+al|NN 
+alcohol|NN cardiovascular_disease|DS http|NN 
+review|NN of|NN cardiovascular|NN therapy|NN 
+http|NN 
+pmid|NN http|NN 
+d|NN emdin|NN anderson|NN sg|NN callender|NN t|NN emberson|NN j|NN al|NN 
+march|NN 
+blood|NN pressure|NN prevention|NN of|NN cardiovascular_disease|DS death|NN review|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+mcmahan|NN s|NN malcom|NN gt|NN tracy|NN re|NN jp|NN mcgill|NN hc|NN 
+determinant|NN of|NN atherosclerosis|DS in|NN youth|NN risk|NN score|NN early|NN atherosclerosis|DS 
+pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+raitakari|NN ot|NN rönnemaa|NN t|NN järvisalo|NN mj|NN t|NN volanen|NN i|NN kallio|NN k|NN al|NN 
+function|NN in|NN child|NN intervention|NN onset|NN in|NN infancy|NN turku|NN coronary|NN risk|NN factor|NN intervention|NN project|NN child|NN strip|NN 
+circulation|NN 
+s|NN 
+pmid|NN http|NN 
+chou|NN r|NN dana|NN t|NN blazina|NN i|NN m|NN jeanne|NN tl|NN 
+statin|NN prevention|NN of|NN cardiovascular_disease|DS in|NN adult|NN evidence|NN report|NN review|NN service|NN task|NN force|NN 
+jama|NN 
+http|NN 
+pmid|NN http|NN 
+mctigue|NN km|NN hess|NN r|NN j|NN 
+obesity|NN in|NN adult|NN review|NN of|NN evidence|NN diagnosis|NN treatment|NN 
+obesity|NN 
+http|NN 
+pmid|NN s|NN 
+semlitsch|NN t|NN jeitler|NN k|NN horvath|NN k|NN posch|NN n|NN poggenburg|NN s|NN march|NN 
+effect|NN of|NN diet|NN in|NN people|NN hypertension|DS 
+cochrane|NN database|NN of|NN review|NN 
+cd008274|NN 
+http|NN ub3|NN 
+pmid|NN http|NN 
+kwok|NN c|NN khan|NN ma|NN anderson|NN sg|NN keavney|NN bd|NN myint|NN pk|NN al|NN 
+surgery|NN impact|NN cardiovascular_disease|DS mortality|NN review|NN 
+journal|NN of|NN cardiology|NN 
+1|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+w|NN c|NN maurice|NN j|NN 
+intervention|NN patient|NN coronary_artery_disease|DS http|NN 
+archive|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+thompson|NN dr|NN cf|NN 
+intervention|NN in|NN cardiovascular_disease|DS 
+http|NN pdf|NN 
+journal|NN of|NN cardiology|NN 
+http|NN 
+pmid|NN http|NN 
+j|NN c|NN ramadan|NN r|NN shah|NN aj|NN bremner|NN jd|NN aa|NN al|NN 
+july|NN 
+analysis|NN of|NN myocardial|NN ischemia|NN event|NN in|NN patient|NN coronary_artery_disease|DS http|NN 
+journal|NN of|NN cardiology|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pelliccia|NN f|NN c|NN c|NN rosano|NN g|NN gaudio|NN c|NN jc|NN 
+syndrome|NN cardiomyopathy|NN condition|NN in|NN search|NN of|NN identity|NN 
+journal|NN of|NN medicine|NN 
+ttps|NN 
+pmid|NN http|NN 
+marshall|NN ij|NN cd|NN c|NN 
+lay|NN perspective|NN hypertension|DS drug|NN adherence|NN review|NN of|NN research|NN http|NN 
+bmj|NN 
+e3953|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+dickinson|NN ho|NN mason|NN jm|NN dj|NN campbell|NN f|NN beyer|NN fr|NN cook|NN jv|NN al|NN 
+intervention|NN blood|NN pressure|NN review|NN of|NN trial|NN http|NN 
+journal|NN of|NN hypertension|DS 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+abbott|NN ra|NN r|NN rodgers|NN thompson|NN coon|NN j|NN w|NN al|NN 
+effectiveness|NN of|NN stress|NN reduction|NN mindfulness|NN therapy|NN in|NN disease|NN review|NN of|NN trial|NN 
+journal|NN of|NN research|NN 
+http|NN 
+pmid|NN http|NN 
+oa|NN hartley|NN l|NN k|NN taylor|NN f|NN ebrahim|NN s|NN 
+multiple|NN risk|NN factor|NN intervention|NN prevention|NN of|NN cardiovascular_disease|DS in|NN income|NN country|NN http|NN r|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN cd011163|NN 
+ttps|NN 
+pmid|NN http|NN 
+moyer|NN va|NN 
+counsel|NN intervention|NN diet|NN activity|NN cardiovascular_disease|DS prevention|NN in|NN adult|NN service|NN task|NN force|NN recommendation|NN statement|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+karmali|NN kn|NN persell|NN sd|NN perel|NN p|NN dm|NN berendsen|NN ma|NN huffman|NN md|NN 
+risk|NN score|NN prevention|NN of|NN cardiovascular_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd006887|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+c|NN z|NN z|NN zhu|NN y|NN wu|NN y|NN l|NN z|NN 
+periodontal|NN therapy|NN management|NN of|NN cardiovascular_disease|DS in|NN patient|NN chronic|NN periodontitis|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd009197|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+wang|NN x|NN y|NN j|NN zhu|NN m|NN zhao|NN g|NN bao|NN w|NN hu|NN fb|NN 
+fruit|NN consumption|NN mortality|NN cause|NN cardiovascular_disease|DS cancer|DS review|NN of|NN cohort|NN study|NN http|NN 
+bmj|NN 
+g4490|NN 
+http|NN 
+pmc|NN http|NN c4115152|NN 
+pmid|NN http|NN 
+walker|NN c|NN bv|NN 
+diet|NN cardiovascular_disease|DS prevention|NN evidence|NN 
+family|NN physician|NN 
+pmid|NN http|NN 
+aj|NN k|NN hc|NN shai|NN i|NN kr|NN r|NN briel|NN m|NN 
+diet|NN modification|NN of|NN cardiovascular|NN risk|NN factor|NN http|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN 
+sack|NN lp|NN vollmer|NN wm|NN lj|NN bray|NN ga|NN harsha|NN d|NN al|NN 
+effect|NN blood|NN pressure|NN of|NN sodium|NN approach|NN hypertension|DS dash|NN diet|NN 
+research|NN group|NN 
+journal|NN of|NN medicine|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+e|NN fm|NN vollmer|NN wm|NN bray|NN ga|NN miller|NN er|NN lin|NN ph|NN al|NN 
+july|NN 
+effect|NN blood|NN lipid|NN of|NN blood|NN diet|NN approach|NN hypertension|DS dash|NN trial|NN 
+journal|NN of|NN nutrition|NN 
+1|NN 
+http|NN 
+pmid|NN p|NN 
+l|NN mirmiran|NN p|NN azizi|NN t|NN f|NN 
+effect|NN of|NN approach|NN hypertension|DS plan|NN feature|NN of|NN syndrome|NN 
+diabetes|DS care|NN 
+tps|NN 
+pmid|NN http|NN 
+ag|NN 
+dash|NN diet|NN time|NN appraisal|NN 
+journal|NN of|NN hypertension|DS 
+http|NN 
+pmid|NN http|NN 
+threapleton|NN greenwood|NN dc|NN ce|NN cl|NN c|NN c|NN al|NN 
+fibre|NN intake|NN risk|NN of|NN cardiovascular_disease|DS review|NN http|NN 
+bmj|NN 
+2|NN f6879|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+fat|NN fatty|NN acid|NN in|NN human|NN nutrition|NN report|NN of|NN consultation|NN http|NN 
+world|NN health|NN organization|NN 
+http|NN tp|NN december|NN december|NN 
+wc|NN 
+fat|NN coronary|NN heart|NN disease|NN http|NN 
+journal|NN of|NN medicine|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+chowdhury|NN r|NN warnakula|NN s|NN kunutsor|NN s|NN crowe|NN f|NN ward|NN ha|NN johnson|NN l|NN al|NN 
+march|NN 
+association|NN of|NN circulate|NN fatty|NN acid|NN coronary|NN risk|NN review|NN http|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+ce|NN zamora|NN d|NN leelarthaepin|NN b|NN sf|NN faurot|NN kr|NN suchindran|NN cm|NN al|NN 
+use|NN of|NN linoleic|NN acid|NN prevention|NN of|NN coronary|NN heart|NN disease|NN death|NN evaluation|NN of|NN data|NN sydney|NN heart|NN study|NN http|NN 
+bmj|NN 
+e8707|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rj|NN maroleanu|NN cozma|NN ai|NN ha|NN v|NN t|NN al|NN 
+intake|NN of|NN trans|NN fatty|NN acid|NN risk|NN of|NN cause|NN mortality|NN cardiovascular_disease|DS type_2_diabetes|DS review|NN of|NN study|NN http|NN 
+bmj|NN 
+h3978|NN h3978|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hooper|NN l|NN cd|NN thompson|NN r|NN d|NN fg|NN hj|NN davey|NN smith|NN g|NN 
+fat|NN cardiovascular_disease|DS http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd002137|NN 
+http|NN ub3|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pw|NN sun|NN q|NN hu|NN fb|NN rm|NN 
+fat|NN carbohydrate|NN cardiovascular_disease|DS http|NN 
+journal|NN of|NN nutrition|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+micha|NN r|NN d|NN 
+fat|NN risk|NN factor|NN coronary|NN heart|NN disease|NN stroke|DS diabetes|DS look|NN evidence|NN http|NN 
+lipid|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+astrup|NN dyerberg|NN j|NN elwood|NN p|NN hermansen|NN k|NN hu|NN fb|NN jakobsen|NN mu|NN al|NN 
+role|NN of|NN intake|NN of|NN fat|NN in|NN prevention|NN of|NN cardiovascular_disease|DS evidence|NN stand|NN in|NN 
+http|NN 
+journal|NN of|NN nutrition|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rizos|NN ec|NN ee|NN e|NN m|NN m|NN 
+association|NN fatty|NN acid|NN supplementation|NN risk|NN of|NN major|NN cardiovascular_disease|DS event|NN review|NN http|NN 
+jama|NN 
+http|NN 
+pmid|NN http|NN 
+abdelhamid|NN tj|NN brainard|NN j|NN biswas|NN p|NN thorpe|NN gc|NN hj|NN al|NN 
+fatty|NN acid|NN prevention|NN of|NN cardiovascular_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd003177|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+adler|NN aj|NN taylor|NN f|NN martin|NN n|NN gottlieb|NN s|NN taylor|NN r|NN s|NN 
+salt|NN prevention|NN of|NN cardiovascular_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN cd009217|NN 
+http|NN ub3|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ga|NN 
+salt|NN reduction|NN lower|NN cardiovascular|NN risk|NN of|NN outcome|NN trial|NN http|NN pdf|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+pdf|NN 
+s|NN gaspare|NN p|NN s|NN fm|NN pasquale|NN p|NN 
+sodium|NN diet|NN diet|NN in|NN heart_failure|DS enemy|NN friend|NN 
+http|NN e98b1711dc76fa68283bf9f75|NN 
+science|NN 
+http|NN 
+pmid|NN http|NN 
+bochud|NN m|NN p|NN m|NN paccaud|NN f|NN 
+salt|NN intake|NN cardiovascular_disease|DS evidence|NN http|NN 
+health|NN review|NN 
+2|NN 
+http|NN 
+http|NN 
+cook|NN nr|NN cutler|NN ja|NN e|NN je|NN rexrode|NN km|NN sk|NN al|NN 
+term|NN effect|NN of|NN sodium|NN reduction|NN cardiovascular_disease|DS outcome|NN of|NN trial|NN of|NN hypertension|DS prevention|NN tohp|NN http|NN 
+bmj|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+http|NN 
+f|NN neal|NN b|NN t|NN c|NN h|NN barzi|NN f|NN al|NN 
+effect|NN of|NN regimen|NN blood|NN pressure|NN major|NN cardiovascular|NN event|NN in|NN adult|NN of|NN trial|NN http|NN 
+bmj|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+blood|NN pressure|NN treatment|NN trialists|NN collaboration|NN 
+blood|NN treatment|NN cardiovascular|NN risk|NN of|NN patient|NN data|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+czernichow|NN s|NN turnbull|NN f|NN barzi|NN f|NN t|NN kengne|NN ap|NN al|NN 
+effect|NN of|NN blood|NN pressure|NN reduction|NN of|NN blood|NN regimen|NN major|NN cardiovascular|NN event|NN blood|NN pressure|NN analysis|NN of|NN trial|NN 
+journal|NN of|NN hypertension|DS 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+f|NN 
+effect|NN of|NN regimen|NN major|NN cardiovascular|NN event|NN result|NN of|NN overview|NN of|NN trial|NN http|NN 
+lancet|NN manuscript|NN 
+http|NN 
+pmid|NN http|NN 
+go|NN bauman|NN ma|NN coleman|NN sm|NN fonarow|NN gc|NN lawrence|NN w|NN ka|NN e|NN 
+approach|NN blood|NN pressure|NN control|NN science|NN advisory|NN heart|NN association|NN college|NN of|NN cardiology|NN center|NN disease|NN control|NN prevention|NN 
+hypertension|DS 
+http|NN 
+pmid|NN http|NN 
+adler|NN aj|NN martin|NN n|NN j|NN cd|NN oo|NN c|NN al|NN 
+heart|NN group|NN 
+phone|NN text|NN message|NN medication|NN adherence|NN in|NN prevention|NN of|NN cardiovascular_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011851|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+j|NN ramirez|NN g|NN rundek|NN t|NN sacco|NN rl|NN 
+statin|NN therapy|NN in|NN prevention|NN of|NN recurrent|NN cardiovascular|NN event|NN 
+archive|NN of|NN medicine|NN 
+http|NN 1|NN 
+pmid|NN http|NN 
+taylor|NN f|NN huffman|NN md|NN macedo|NN af|NN th|NN burke|NN m|NN davey|NN smith|NN g|NN al|NN 
+statin|NN prevention|NN of|NN cardiovascular_disease|DS http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 
+1|NN 1|NN cd004816|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+statin|NN in|NN cardiovascular|NN prevention|NN 
+http|NN 
+prescrire|NN 
+down|NN jr|NN pg|NN 
+management|NN of|NN dyslipidemia|NN cardiovascular_disease|DS risk|NN reduction|NN synopsis|NN of|NN department|NN of|NN veteran|NN affair|NN department|NN of|NN defense|NN practice|NN guideline|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN p|NN 
+keene|NN d|NN price|NN c|NN mj|NN dp|NN 
+effect|NN cardiovascular|NN risk|NN of|NN density|NN drug|NN treatment|NN fibrates|NN inhibitor|NN of|NN trial|NN patient|NN http|NN 
+bmj|NN 
+g4379|NN 
+http|NN 
+pmc|NN http|NN c4103514|NN 
+pmid|NN http|NN 
+jakob|NN t|NN aj|NN s|NN i|NN briel|NN m|NN al|NN 
+heart|NN group|NN 
+fibrates|NN prevention|NN of|NN cardiovascular_disease|DS event|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd009753|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rr|NN sourij|NN h|NN califf|NN rm|NN 
+cardiovascular|NN outcome|NN trial|NN of|NN drug|NN strategy|NN in|NN type_2_diabetes|DS 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+fm|NN c|NN anderson|NN rj|NN byington|NN rp|NN chalmers|NN wc|NN al|NN 
+glucose|NN control|NN outcome|NN in|NN type_2_diabetes|DS 
+diabetologia|NN 
+http|NN 
+pmid|NN http|NN 
+berger|NN j|NN krantz|NN mj|NN baker|NN g|NN hiatt|NN wr|NN 
+aspirin|NN prevention|NN of|NN cardiovascular|NN event|NN in|NN patient|NN cardiovascular_disease|DS of|NN trial|NN 
+heart|NN journal|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+recommendation|NN statement|NN aspirin|NN prevention|NN of|NN cardiovascular_disease|DS medication|NN http|NN 
+march|NN http|NN 
+dk|NN r|NN ma|NN buroker|NN ab|NN goldberger|NN zd|NN hahn|NN ej|NN al|NN 
+march|NN 2019|NN 
+2019|NN guideline|NN prevention|NN of|NN cardiovascular_disease|DS report|NN of|NN college|NN of|NN heart|NN association|NN task|NN force|NN practice|NN guideline|NN 
+journal|NN of|NN college|NN of|NN cardiology|NN 
+e232|NN 
+http|NN 
+pmid|NN http|NN 
+service|NN task|NN force|NN 
+aspirin|NN prevention|NN of|NN cardiovascular_disease|DS service|NN task|NN force|NN recommendation|NN statement|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+college|NN of|NN chest|NN physician|NN thoracic|NN society|NN thing|NN physician|NN patient|NN http|NN initiative|NN of|NN abim|NN foundation|NN college|NN of|NN chest|NN physician|NN thoracic|NN society|NN http|NN anderson|NN l|NN thompson|NN dr|NN oldridge|NN n|NN zwisler|NN ad|NN k|NN martin|NN n|NN taylor|NN r|NN 
+rehabilitation|NN coronary|NN heart|NN disease|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 1|NN cd001800|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+seron|NN p|NN f|NN pardo|NN hernandez|NN h|NN x|NN 
+exercise|NN people|NN cardiovascular|NN risk|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd009387|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+im|NN shiroma|NN ej|NN f|NN puska|NN p|NN blair|NN sn|NN pt|NN 
+effect|NN of|NN inactivity|NN major|NN disease|NN worldwide|NN analysis|NN of|NN burden|NN of|NN disease|NN life|NN expectancy|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hartley|NN l|NN m|NN j|NN lee|NN m|NN e|NN rees|NN 
+yoga|NN prevention|NN of|NN cardiovascular_disease|DS http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN cd010072|NN 
+http|NN 
+pmid|NN http|NN 
+ke|NN harrison|NN el|NN reeder|NN ba|NN marshall|NN sc|NN 
+home|NN versus|NN center|NN activity|NN program|NN in|NN adult|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 1|NN cd004017|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+l|NN flower|NN r|NN o|NN hartley|NN l|NN s|NN rees|NN 
+vitamin|NN supplementation|NN prevention|NN of|NN cardiovascular_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011114|NN 
+tps|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bhupathiraju|NN sn|NN tucker|NN kl|NN 
+coronary|NN heart|NN disease|NN prevention|NN nutrient|NN food|NN pattern|NN http|NN 
+clinica|NN chimica|NN acta|NN journal|NN of|NN chemistry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+myung|NN sk|NN ju|NN w|NN cho|NN b|NN sw|NN park|NN sm|NN koo|NN bk|NN park|NN bj|NN 
+efficacy|NN of|NN vitamin|NN supplement|NN in|NN prevention|NN of|NN cardiovascular_disease|DS review|NN of|NN trial|NN http|NN 
+bmj|NN 
+f10|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kim|NN j|NN choi|NN j|NN sy|NN mcevoy|NN jw|NN blaha|NN mj|NN r|NN al|NN 
+july|NN 
+association|NN of|NN multivitamin|NN supplementation|NN risk|NN of|NN cardiovascular_disease|DS review|NN 
+circulation|NN cardiovascular|NN quality|NN outcome|NN 
+e004224|NN 
+http|NN 
+pmid|NN http|NN 
+sp|NN burda|NN bu|NN senger|NN j|NN whitlock|NN ep|NN 
+vitamin|NN supplement|NN in|NN prevention|NN of|NN cardiovascular_disease|DS cancer|DS evidence|NN review|NN service|NN task|NN force|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN s|NN 
+e|NN labreuche|NN j|NN p|NN 
+of|NN effect|NN of|NN acid|NN in|NN combination|NN cardiovascular|NN event|NN atherosclerosis|DS 
+atherosclerosis|DS 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+lavigne|NN pm|NN rh|NN 
+state|NN of|NN niacin|NN in|NN cardiovascular_disease|DS prevention|NN review|NN 
+journal|NN of|NN college|NN of|NN cardiology|NN 
+http|NN 
+pmid|NN http|NN 
+jee|NN sh|NN miller|NN er|NN e|NN singh|NN vk|NN lj|NN klag|NN mj|NN 
+effect|NN of|NN magnesium|NN supplementation|NN blood|NN pressure|NN of|NN trial|NN 
+journal|NN of|NN hypertension|DS 
+http|NN 
+pmid|NN http|NN 
+zip|NN dp|NN camm|NN aj|NN borggrefe|NN m|NN buxton|NN ae|NN chaitman|NN b|NN m|NN al|NN 
+guideline|NN management|NN of|NN patient|NN arrhythmia|ST prevention|NN of|NN death|NN report|NN of|NN college|NN of|NN heart|NN association|NN task|NN force|NN society|NN of|NN cardiology|NN committee|NN practice|NN guideline|NN committee|NN guideline|NN management|NN of|NN patient|NN arrhythmia|ST prevention|NN of|NN death|NN in|NN collaboration|NN heart|NN rhythm|NN association|NN heart|NN rhythm|NN society|NN 
+circulation|NN 
+http|NN 
+pmid|NN http|NN 
+kwak|NN sm|NN myung|NN sk|NN yj|NN hg|NN 
+efficacy|NN of|NN fatty|NN acid|NN supplement|NN acid|NN acid|NN in|NN prevention|NN of|NN cardiovascular_disease|DS of|NN trial|NN 
+archive|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+c|NN z|NN flower|NN m|NN rees|NN 
+influenza|DS vaccine|NN cardiovascular_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN cd005050|NN 
+http|NN 
+pmid|NN http|NN 
+zip|NN dp|NN libby|NN p|NN ro|NN mann|NN dl|NN gf|NN 
+braunwald|NN heart|NN disease|NN textbook|NN of|NN cardiovascular|NN medicine|NN http|NN dwaaqbaj|NN 
+health|NN science|NN 
+isbn|NN 
+lc|NN j|NN j|NN celaya|NN mc|NN j|NN leache|NN l|NN 
+blood|NN pressure|NN target|NN treatment|NN of|NN people|NN hypertension|DS cardiovascular_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd010315|NN 
+http|NN 2|NN 
+pmc|NN http|NN c6513382|NN 
+pmid|NN http|NN 
+m|NN pekka|NN p|NN bo|NN n|NN 
+atlas|NN cardiovascular_disease|DS prevention|NN control|NN 
+world|NN health|NN organization|NN 
+http|NN 
+roo|NN 
+disease|NN asian|NN epidemic|NN http|NN 
+heart|NN association|NN 
+http|NN 
+thompson|NN rc|NN ah|NN gp|NN l|NN sutherland|NN ml|NN sutherland|NN jd|NN al|NN 
+atherosclerosis|DS year|NN of|NN human|NN history|NN horus|NN study|NN of|NN ancient|NN population|NN 
+lancet|NN 
+tps|NN 
+pmid|NN http|NN 
+alberti|NN fay|NN bind|NN 
+john|NN hunter|NN heart|NN 
+bulletin|NN of|NN college|NN of|NN surgeon|NN of|NN england|NN 
+http|NN 
+http|NN 
+n|NN chai|NN jt|NN ea|NN choudhury|NN rp|NN 
+process|NN in|NN cardiovascular_disease|DS route|NN therapy|NN http|NN 
+review|NN 
+cardiology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+tang|NN wh|NN sl|NN 
+atherosclerosis|DS in|NN advance|NN in|NN target|NN atherosclerosis|DS http|NN 
+review|NN 
+cardiology|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN mc5880294|NN 
+pmid|NN http|NN 
+di|NN humphries|NN 
+genetics|NN of|NN chd|NN in|NN common|NN variant|NN risk|NN of|NN chd|NN 
+review|NN 
+cardiology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+link|NN cardiovascular_disease|DS http|NN se|NN guideline|NN cardiovascular_disease|DS prevention|NN in|NN practice|NN version|NN http|NN 
+heart|NN disease|NN http|NN medicinenet|NN slide|NN photo|NN description|NN d|NN p|NN 
+http|NN mesh|NN d002318|NN http|NN i|NN diseasesdb|NN http|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

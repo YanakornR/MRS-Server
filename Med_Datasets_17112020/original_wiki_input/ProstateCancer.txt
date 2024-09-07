@@ -1,0 +1,359 @@
+Prostate cancer
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Prostate cancer
+Other names	Carcinoma of the prostate
+Diagram showing the position of the prostate and rectum CRUK 358.svg
+Position of the prostate
+Specialty	Oncology, urology
+Symptoms	None, difficulty urinating, blood in the urine, pain in the pelvis, back, or when urinating[1][2]
+Usual onset	Age > 50[3]
+Risk factors	Older age, family history, race[3]
+Diagnostic method	Tissue biopsy, medical imaging[2]
+Differential diagnosis	Benign prostatic hyperplasia[1]
+Treatment	Active surveillance, surgery, radiation therapy, hormone therapy, chemotherapy[2]
+Prognosis	5-year survival rate 99% (US)[4]
+Frequency	1.1 million new cases (2014)[5]
+Deaths	307,000 (2014)[5]
+
+Prostate cancer is the development of cancer in the prostate, a gland in the male reproductive system.[6] Most prostate cancers are slow growing; however, some grow relatively quickly.[1][3] The cancer cells may spread from the prostate to other areas of the body, particularly the bones and lymph nodes.[7] It may initially cause no symptoms.[1] In later stages, it can lead to difficulty urinating, blood in the urine or pain in the pelvis, back, or when urinating.[2] A disease known as benign prostatic hyperplasia may produce similar symptoms.[1] Other late symptoms may include feeling tired due to low levels of red blood cells.[1]
+
+Factors that increase the risk of prostate cancer include older age, a family history of the disease, and race.[3] About 99% of cases occur in males over the age of 50.[3] Having a first-degree relative with the disease increases the risk two to threefold.[3] In the United States, it is more common in the African American population than the White American population.[3] Other factors that may be involved include a diet high in processed meat, red meat or milk products or low in certain vegetables.[3] An association with gonorrhea has been found, but a reason for this relationship has not been identified.[8] An increased risk is associated with the BRCA mutations.[9] Prostate cancer is diagnosed by biopsy.[2] Medical imaging may then be done to determine if the cancer has spread to other parts of the body.[2]
+
+Prostate cancer screening is controversial.[3][10] Prostate-specific antigen (PSA) testing increases cancer detection, but it is controversial regarding whether it improves outcomes.[10][11][12] Informed decision making is recommended when it comes to screening among those 55 to 69 years old.[13][14] Testing, if carried out, is more reasonable in those with a longer life expectancy.[15] While 5α-reductase inhibitors appear to decrease low-grade cancer risk, they do not affect high-grade cancer risk and thus are not recommended for prevention.[3] Supplementation with vitamins or minerals does not appear to affect the risk.[3][16]
+
+Many cases are managed with active surveillance or watchful waiting.[2] Other treatments may include a combination of surgery, radiation therapy, hormone therapy or chemotherapy.[2] When it only occurs inside the prostate, it may be curable.[1] In those in whom the disease has spread to the bones, pain medications, bisphosphonates and targeted therapy, among others, may be useful.[2] Outcomes depend on a person's age and other health problems as well as how aggressive and extensive the cancer is.[2] Most men with prostate cancer do not end up dying from the disease.[2] The 5-year survival rate in the United States is 99%.[4] Globally, it is the second most common type of cancer and the fifth leading cause of cancer-related death in men.[5] In 2012, it occurred in 1.1 million men and caused 307,000 deaths.[5] It was the most common cancer in males in 84 countries,[3] occurring more commonly in the developed world.[17] Rates have been increasing in the developing world.[17] Detection increased significantly in the 1980s and 1990s in many areas due to increased PSA testing.[3] Studies of males who died from unrelated causes have found prostate cancer in 30% to 70% of those over age 60.[1]
+Contents
+
+    1 Signs and symptoms
+    2 Risk factors
+        2.1 Genetics
+        2.2 Dietary
+        2.3 Medication exposure
+        2.4 Infection
+        2.5 Environmental
+        2.6 Sexual
+    3 Pathophysiology
+    4 Diagnosis
+        4.1 Prostate imaging
+        4.2 Biopsy
+        4.3 Tumor markers
+        4.4 Staging
+    5 Prevention
+        5.1 Diet and lifestyle
+        5.2 Medications
+    6 Screening
+    7 Management
+        7.1 Surveillance
+        7.2 Aggressive cancer
+        7.3 Castration-resistant
+        7.4 Palliative care
+    8 Prognosis
+        8.1 Classification systems
+        8.2 Life expectancy
+    9 Epidemiology
+        9.1 United States
+        9.2 Canada
+        9.3 Europe
+    10 History
+    11 Society and culture
+    12 Research
+        12.1 CRPC
+        12.2 Pre-clinical
+        12.3 Cancer models
+        12.4 Infections
+        12.5 Diagnosis
+    13 See also
+    14 References
+    15 External links
+
+Signs and symptoms
+A diagram of prostate cancer pressing on the urethra, which can cause symptoms.
+Prostate cancer
+
+Early prostate cancer usually has no clear symptoms. Sometimes prostate cancer does cause symptoms, often similar to those of diseases such as benign prostatic hyperplasia. These include frequent urination, nocturia (increased urination at night), difficulty starting and maintaining a steady stream of urine, hematuria (blood in the urine), and dysuria (painful urination). A study based on the 1998 Patient Care Evaluation in the US found that about a third of patients diagnosed with prostate cancer had one or more such symptoms, while two-thirds had no symptoms.[18]
+
+Prostate cancer is associated with urinary dysfunction as the prostate gland surrounds the prostatic urethra. Changes within the gland, therefore, directly affect urinary function. Because the vas deferens deposits seminal fluid into the prostatic urethra, and secretions from the prostate gland itself are included in semen content, prostate cancer may also cause problems with sexual function and performance, such as difficulty achieving erection or painful ejaculation.[18]
+
+Metastatic prostate cancer that has spread to other parts of the body can cause additional symptoms. The most common symptom is bone pain, often in the vertebrae (bones of the spine), pelvis, or ribs. Spread of cancer into other bones such as the femur is usually to the proximal or nearby part of the bone. Prostate cancer in the spine can also compress the spinal cord, causing tingling, leg weakness and urinary and fecal incontinence.[19]
+Risk factors
+
+A complete understanding of the causes of prostate cancer remains elusive.[20] The primary risk factors are obesity, age, and family history. Prostate cancer is very uncommon in men younger than 45, but becomes more common with advancing age. The average age at the time of diagnosis is 70.[21] Many men never know they have prostate cancer. Autopsy studies of Chinese, German, Israeli, Jamaican, Swedish, and Ugandan men who died of other causes have found prostate cancer in 30% of men in their fifties, and in 80% of men in their seventies.[22][23][24]
+
+Men who have first-degree family members with prostate cancer appear to have double the risk of getting the disease compared to men without prostate cancer in the family.[25] This risk appears to be greater for men with an affected brother than for men with an affected father. In the United States in 2005, there were an estimated 230,000 new cases of prostate cancer and 30,000 deaths due to prostate cancer.[26] Men with high blood pressure are more likely to develop prostate cancer.[27] There is a small increased risk of prostate cancer associated with lack of exercise.[28]
+Genetics
+
+Genetic background may contribute to prostate cancer risk, as suggested by associations with race, family, and specific gene variants. Men who have a first-degree relative (father or brother) with prostate cancer have twice the risk of developing prostate cancer, and those with two first-degree relatives affected have a fivefold greater risk compared with men with no family history.[29] In the United States, prostate cancer more commonly affects black men than white or Hispanic men, and is also more deadly in black men.[30][31] In contrast, the incidence and mortality rates for Hispanic men are one third lower than for non-Hispanic whites. Studies of twins in Scandinavia suggest that 40% of prostate cancer risk can be explained by inherited factors.[32]
+
+No single gene is responsible for prostate cancer; many different genes have been implicated. Mutations in BRCA1 and BRCA2, important risk factors for ovarian cancer and breast cancer in women, have also been implicated in prostate cancer.[33] Other linked genes include the Hereditary Prostate cancer gene 1 (HPC1), the androgen receptor, and the vitamin D receptor.[30] TMPRSS2-ETS gene family fusion, specifically TMPRSS2-ERG or TMPRSS2-ETV1/4 promotes cancer cell growth.[34] These fusions can arise via complex rearrangement chains called chromoplexy.[35]
+
+Two large genome-wide association studies linking single-nucleotide polymorphisms (SNPs) to prostate cancer were published in 2008.[36][37] These studies identified several SNPs which substantially affect the risk of prostate cancer. For example, individuals with TT allele pair at SNP rs10993994 were reported to be at 1.6 times higher risk of prostate cancer than those with the CC allele pair. This SNP explains part of the increased prostate cancer risk of African American men as compared to American men of European descent, since the C allele is much more prevalent in the latter; this SNP is located in the promoter region of the MSMB gene, thus affects the amount of MSMB protein synthesized and secreted by epithelial cells of the prostate.[38]
+
+Finally, obesity[39] and elevated blood levels of testosterone[40] may increase the risk for prostate cancer.
+Dietary
+
+Consuming fruits and vegetables has been found to be of little benefit in preventing prostate cancer.[41] Evidence supports little role for dietary fruits and vegetables in prostate cancer occurrence.[42] Red meat and processed meat also appear to have little effect in human studies.[43] Higher meat consumption has been associated with a higher risk in some studies.[44]
+
+Lower blood levels of vitamin D may increase the risk of developing prostate cancer.[45]
+
+Folic acid supplements have no effect on the risk of developing prostate cancer.[46]
+Medication exposure
+
+There are also some links between prostate cancer and medications, medical procedures, and medical conditions.[47] Use of the cholesterol-lowering medications known as statins may also decrease prostate cancer risk.[48]
+Infection
+
+Infection or inflammation of the prostate (prostatitis) may increase the chance for prostate cancer while another study shows infection may help prevent prostate cancer by increasing blood flow to the area. In particular, infection with the sexually transmitted infections chlamydia, gonorrhea, or syphilis seems to increase risk.[8][49]
+
+Papilloma virus has been proposed in several studies to have a potential role in prostate cancer, but as of 2015 the evidence was inconclusive.[50] A review in 2018 suggested there may be an increased risk but noted that this increased risk was still debatable.[51]
+Environmental
+
+Research released in May 2007 found that US war veterans who had been exposed to Agent Orange had a 48% increased risk of prostate cancer recurrence following surgery.[52]
+Sexual
+
+Although there is some evidence from prospective cohort studies that frequent ejaculation may reduce prostate cancer risk,[53] there are no results from randomized controlled trials concluding that this benefit exists.[54] There is an association between vasectomy and prostate cancer, but more research is needed to determine if this is a causal relationship.[55]
+Pathophysiology
+Prostatelead.jpg
+
+The prostate is a part of the male reproductive system that helps make and store seminal fluid. In adult men, a typical prostate is about 3 centimeters long and weighs about 20 grams.[56] It is located in the pelvis, under the urinary bladder and in front of the rectum. The prostate surrounds part of the urethra, the tube that carries urine from the bladder during urination and semen during ejaculation.[57] Because of its location, prostate diseases often affect urination, ejaculation, and rarely defecation. The prostate contains many small glands which make about 20% of the fluid constituting semen.[58]
+
+In prostate cancer, the cells of these prostate glands mutate into cancer cells. The prostate glands require male hormones, known as androgens, to work properly. Androgens include testosterone, which is made in the testes; dehydroepiandrosterone, made in the adrenal glands; and dihydrotestosterone, which is converted from testosterone within the prostate itself. Androgens are also responsible for secondary sex characteristics such as facial hair and increased muscle mass.
+Prostate cancer that has metastasized to the lymph nodes
+Prostate cancer that has metastasized to the bone
+
+Most prostate cancers are classified as adenocarcinomas, or glandular cancers, that begin when normal semen-secreting prostate gland cells mutate into cancer cells. The region of prostate gland where the adenocarcinoma is most common is the peripheral zone. Initially, small clumps of cancer cells remain confined to otherwise normal prostate glands, a condition known as carcinoma in situ or prostatic intraepithelial neoplasia (PIN). Although there is no proof that PIN is a cancer precursor, it is closely associated with cancer. Over time, these cancer cells begin to multiply and spread to the surrounding prostate tissue (the stroma) forming a tumor.
+
+Eventually, the tumor may grow large enough to invade nearby organs such as the seminal vesicles or the rectum, or the tumor cells may develop the ability to travel in the bloodstream and lymphatic system. Prostate cancer is considered a malignant tumor because it is a mass of cells that can invade other areas of the body. This invasion of other organs is called metastasis. Prostate cancer most commonly metastasizes to the bones, lymph nodes, and may invade rectum, bladder and lower ureters after local progression. The route of metastasis to bone is thought to be venous as the prostatic venous plexus draining the prostate connects with the vertebral veins.[59]
+
+The prostate is a zinc-accumulating, citrate-producing organ. The protein ZIP1 is responsible for the active transport of zinc into prostate cells. One of the zinc's important roles is to change the metabolism of the cell in order to produce citrate, an important component of semen. The process of zinc accumulation, alteration of metabolism, and citrate production is energy inefficient, and prostate cells sacrifice enormous amounts of energy (ATP) in order to accomplish this task. Prostate cancer cells are generally devoid of zinc. This allows prostate cancer cells to save energy not making citrate, and utilize the new abundance of energy to grow and spread. The absence of zinc is thought to occur via a silencing of the gene that produces the transporter protein ZIP1. ZIP1 is now called a tumor suppressor gene product for the gene SLC39A1. The cause of the epigenetic silencing is unknown. Strategies which transport zinc into transformed prostate cells effectively eliminate these cells in animals. Zinc inhibits NF-κB pathways, is anti-proliferative and induces apoptosis in abnormal cells. Unfortunately, oral ingestion of zinc is ineffective since high concentrations of zinc into prostate cells is not possible without the active transporter, ZIP1.[60]
+
+Loss of cancer suppressor genes, early in the prostatic carcinogenesis, have been localized to chromosomes 8p, 10q, 13q, and 16q. P53 mutations in the primary prostate cancer are relatively low and are more frequently seen in metastatic settings, hence, p53 mutations are a late event in the pathology of prostate cancer. Other tumor suppressor genes that are thought to play a role in prostate cancer include PTEN (gene) and KAI1. "Up to 70 percent of men with prostate cancer have lost one copy of the PTEN gene at the time of diagnosis"[61] Relative frequency of loss of E-cadherin and CD44 has also been observed.
+
+RUNX2 is a transcription factor that prevents cancer cells from undergoing apoptosis thereby contributing to the development of prostate cancer.[62]
+
+The PI3k/Akt signaling cascade works with the transforming growth factor beta/SMAD signaling cascade to ensure prostate cancer cell survival and protection against apoptosis.[63] X-linked inhibitor of apoptosis (XIAP) is hypothesized to promote prostate cancer cell survival and growth and is a target of research because if this inhibitor can be shut down then the apoptosis cascade can carry on its function in preventing cancer cell proliferation.[64] Macrophage inhibitory cytokine-1 (MIC-1) stimulates the focal adhesion kinase (FAK) signaling pathway which leads to prostate cancer cell growth and survival.[65]
+
+The androgen receptor helps prostate cancer cells to survive and is a target for many anti cancer research studies; so far, inhibiting the androgen receptor has only proven to be effective in mouse studies.[66] Prostate specific membrane antigen (PSMA) stimulates the development of prostate cancer by increasing folate levels for the cancer cells to use to survive and grow; PSMA increases available folates for use by hydrolyzing glutamated folates.[67]
+Diagnosis
+If already having grown large, a prostate cancer may first be detected on CT scan.
+
+The American Cancer Society's position regarding early detection by PSA testing is "Research has not yet proven that the potential benefits of testing outweigh the harms of testing and treatment. The American Cancer Society believes that men should not be tested without learning about what we know and don’t know about the risks and possible benefits of testing and treatment. Starting at age 50, (45 if African American or brother or father suffered from condition before age 65) talk to your doctor about the pros and cons of testing so you can decide if testing is the right choice for you."[68]
+
+There are also several other tests that can be used to gather more information about the prostate and the urinary tract. Digital rectal examination (DRE) may allow a doctor to detect prostate abnormalities. Cystoscopy shows the urinary tract from inside the bladder, using a thin, flexible camera tube inserted down the urethra. Transrectal ultrasonography creates a picture of the prostate using sound waves from a probe in the rectum. But the only test that can fully confirm the diagnosis of prostate cancer is a biopsy, the removal of small pieces of the prostate for microscopic examination.
+Prostate imaging
+
+Ultrasound (US) and magnetic resonance imaging (MRI) are the two main imaging methods used for prostate cancer detection. Urologists use transrectal ultrasound during prostate biopsy and can sometimes see a hypoechoic area (tissues or structures that reflect relatively less of the ultrasound waves directed at them). As ultrasound has poor tissue resolution, it is generally not used clinically.
+
+Prostate MRI has better soft tissue resolution than ultrasound.[69]
+
+MRI in those who are at low risk might help people choose active surveillance; in those who are at intermediate risk it may help with determining the stage of disease, while in those who are at high risk it might help find bone disease.[70]
+
+Currently (2011), MRI is used to identify targets for prostate biopsy using fusion MRI with ultrasound (US) or MRI-guidance alone. In men who are candidates for active surveillance, fusion MR/US guided prostate biopsy detected 33% of cancers compared to 7% with standard ultrasound guided biopsy.[71]
+
+Prostate MRI is also used for surgical planning for men undergoing robotic prostatectomy. It has also shown to help surgeons decide whether to resect or spare the neurovascular bundle, determine return to urinary continence, and help assess surgical difficulty.[72]
+
+For Prostate MRI exists the PI-RADS Reporting system. PI-RADS is an acronym for Prostate Imaging-Reporting and Data System, defining standards of high-quality clinical service for multi-parametric Magnetic Resonance Imaging (mpMRI), including image creation and reporting.
+Biopsy
+Main article: Prostate biopsy
+Prostate needle biopsy
+Micrograph showing a prostate cancer (conventional adenocarcinoma) with perineural invasion. H&E stain.
+
+If cancer is suspected, a biopsy is offered expediently. During a biopsy a urologist or radiologist obtains tissue samples from the prostate via the rectum. A biopsy gun inserts and removes special hollow-core needles (usually three to six on each side of the prostate) in less than a second. Prostate biopsies are routinely done on an outpatient basis and rarely require hospitalization. Antibiotics should be used to prevent complications like fever, urinary tract infections, and sepsis[73] even if the most appropriate course or dose of the antibiotic is still undefined.[74] Fifty-five percent of men report discomfort during prostate biopsy.[75]
+Gleason score
+Main article: Gleason score
+
+The tissue samples are then examined under a microscope to determine whether cancer cells are present, and to evaluate the microscopic features (or Gleason score) of any cancer found. Prostate specific membrane antigen is a transmembrane carboxypeptidase and exhibits folate hydrolase activity.[76] This protein is overexpressed in prostate cancer tissues and is associated with a higher Gleason score.[76]
+Tumor markers
+
+Tissue samples can be stained for the presence of PSA and other tumor markers in order to determine the origin of malignant cells that have metastasized.[77]
+
+Small cell carcinoma is a very rare (1%[78]) type of prostate cancer that cannot be diagnosed using the PSA.[78][79] As of 2009 researchers were investigating ways to screen for this type of prostate cancer, because it is quick to spread to other parts of the body.[79]
+
+The oncoprotein BCL-2 is associated with the development of androgen-independent prostate cancer, due to its high levels of expression in androgen-independent tumours in advanced stages of the pathology. The upregulation of BCL-2 after androgen ablation in prostate carcinoma cell lines and in a castrated-male rat model further established a connection between BCL-2 expression and prostate cancer progression.[80]
+
+The expression of Ki-67 by immunohistochemistry may be a significant predictor of patient outcome for men with prostate cancer.[81]
+Staging
+Main article: Prostate cancer staging
+Diagram showing T1-3 stages of prostate cancer.
+
+An important part of evaluating prostate cancer is determining the stage, or how far the cancer has spread. Knowing the stage helps define prognosis and is useful when selecting therapies. The most common system is the four-stage TNM system (abbreviated from Tumor/Nodes/Metastases). Its components include the size of the tumor, the number of involved lymph nodes, and the presence of any other metastases.[82]
+
+The most important distinction made by any staging system is whether or not the cancer is still confined to the prostate. In the TNM system, clinical T1 and T2 cancers are found only in the prostate, while T3 and T4 cancers have spread elsewhere. Several tests can be used to look for evidence of spread. Medical specialty professional organizations recommend against the use of PET scans, CT scans, or bone scans when a physician stages early prostate cancer with low risk for metastasis.[83] Those tests would be appropriate in such cases as when a CT scan evaluates spread within the pelvis, a bone scan look for spread to the bones, and endorectal coil magnetic resonance imaging to closely evaluate the prostatic capsule and the seminal vesicles. Bone scans should reveal osteoblastic appearance due to increased bone density in the areas of bone metastasis—opposite to what is found in many other cancers that metastasize.
+
+After a prostate biopsy, a pathologist looks at the samples under a microscope. If cancer is present, the pathologist reports the grade of the tumor. The grade tells how much the tumor tissue differs from normal prostate tissue and suggests how fast the tumor is likely to grow. The Gleason system is used to grade prostate tumors from 2 to 10, where a Gleason score of 10 indicates the most abnormalities. The pathologist assigns a number from 1 to 5 for the most common pattern observed under the microscope, then does the same for the second-most-common pattern. The sum of these two numbers is the Gleason score. The Whitmore-Jewett stage is another method sometimes used.
+
+    Sclerosis of the bones of the thoracic spine due to prostate cancer metastases (CT image)
+
+    Sclerosis of the bones of the thoracic spine due to prostate cancer metastases (CT image)
+
+    Sclerosis of the bones of the pelvis due to prostate cancer metastases
+
+Prevention
+Diet and lifestyle
+
+The data on the relationship between diet and prostate cancer is poor.[84] In light of this, the rate of prostate cancer is linked to the consumption of the Western diet.[84] There is little if any evidence to support an association between trans fat, saturated fat, and carbohydrate intake and risk of prostate cancer.[84][85] Evidence regarding the role of omega-3 fatty acids in preventing prostate cancer does not suggest that they reduce the risk of prostate cancer, although additional research is needed.[84][86] Vitamin supplements appear to have no effect and some may increase the risk.[16][84] High calcium intake has been linked to advanced prostate cancer.[87]
+
+Consuming fish may lower prostate-cancer deaths but does not appear to affect its occurrence.[88] Some evidence supports lower rates of prostate cancer with a vegetarian diet.[89] There is some tentative evidence for foods containing lycopene and selenium.[90][91] Diets rich in cruciferous vegetables, soy, beans and other legumes may be associated with a lower risk of prostate cancer, especially more advanced cancers.[92]
+
+Men who get regular exercise may have a slightly lower risk, especially vigorous activity and the risk of advanced prostate cancer.[92]
+Medications
+
+In those who are being regularly screened, 5-alpha-reductase inhibitors (finasteride and dutasteride) reduce the overall risk of being diagnosed with prostate cancer, but there are insufficient data to determine if they have an effect on the risk of death and they may increase the chance of more serious cases.[93]
+Screening
+Main article: Prostate cancer screening
+
+Prostate cancer screening is an effort to find unsuspected cancers in those without symptoms. Options include the digital rectal exam (DRE) and the prostate-specific antigen (PSA) blood test.[94] Such screening is controversial[95] and, for many, may lead to unnecessary disruption and possibly harmful consequences.[96] Harms of population-based screening, primarily due to over-diagnosis (the detection of latent cancers which would have otherwise gone symptomless and undiscovered) may outweigh the benefits.[94] Others recommend shared decision-making; an approach where individual have the option to undergo screening after thorough consultation with their physician about the positives and negatives.[97]
+
+The United States Preventive Services Task Force (USPSTF) suggests the decision whether or not to have PSA screening be based on decision making between the patient and physician for men 55 to 69 years of age.[11] USPSTF recommends against PSA screening for males who are age 70 or older.[13] The Centers for Disease Control and Prevention shared USPSTF's prior conclusion.[98] The American Society of Clinical Oncology and the American College of Physicians discourage screening for those who are expected to live less than ten to fifteen years, while in those with a greater life expectancy a decision should be made by the person in question based on the potential risks and benefits.[99] In general, they concluded, "it is uncertain whether the benefits associated with PSA testing for prostate cancer screening are worth the harms associated with screening and subsequent unnecessary treatment."[100]
+
+American Urological Association (AUA 2013) guidelines call for weighing the benefits of preventing prostate cancer mortality in 1 man for every 1,000 men screened over a ten-year period against the known harms associated with diagnostic tests and treatment. The AUA recommends offering screening to those 55 to 69 be based on shared decision making, and that if screening is performed it should occur no more often than every two years.[101] In the United Kingdom as of 2015 there is no program to screen for prostate cancer.[12]
+Management
+Main article: Management of prostate cancer
+
+The first decision to be made in managing prostate cancer is whether treatment is needed. Prostate cancer, especially low-grade forms found in elderly men, often grows so slowly that no treatment is required.[102] Treatment may also be inappropriate if a person has other serious health problems or is not expected to live long enough for symptoms to appear. Alternative approaches that delay active treatment and instead involve surveillance of diagnosed prostate cancers are termed expectant management.[102] Expectant management is divided into two approaches: Watchful Waiting, which has palliative intent, and Active Surveillance, which has curative intent.[102]
+
+Which option is best depends on the stage of the disease, the Gleason score, and the PSA level. Other important factors are age, general health, and a person's views about potential treatments and their possible side effects. Because most treatments can have significant side effects, such as erectile dysfunction and urinary incontinence, treatment discussions often focus on balancing the goals of therapy with the risks of lifestyle alterations. A combination of the treatment options is often recommended for managing prostate cancer.[103][104][105]
+
+Guidelines for treatment for specific clinical situations requires a good estimation of a person's long-term life expectancy.[106] People can also use an 18-item questionnaire to learn whether they have good knowledge and understanding about their treatment options before they choose. Most of those who are newly diagnosed and made a treatment choice can not correctly answer over half of the questions.[106] Radiotherapy and surgery appear to result in similar outcomes with respect to bowel, erectile and urinary function after five years.[107]
+
+If radiation therapy is done first, and fails, then radical prostatectomy may be an option though it becomes a very technically challenging surgery, is associated with decreased quality of life and may not be feasible.[108] On the other hand, radiation therapy done after surgical failure may have many complications.[109] It is associated with a small increase in bladder and colon cancer.[110]
+
+In localized disease, it is unknown if radical prostatectomy is better or worse than watchful waiting.[111]
+
+A meta-analysis on the effects of voiding position during urination in males with prostate enlargement showed that sitting was superior to standing. Bladder emptying was significantly improved, while there was a trend towards a higher urinary flow and shorter voiding time.[112]
+Surveillance
+
+Many men diagnosed with low-risk prostate cancer are eligible for active surveillance. This means that careful observation of the tumor is conducted over time, with the intention of initiating treatment if there are signs of cancer progression. Active surveillance is not synonymous with watchful waiting, an older term which implies no treatment or specific program of monitoring, with the assumption that palliative, not curative, treatment would be used if advanced, symptomatic disease develops.[102]
+
+Active surveillance involves monitoring the tumor for signs of growth or the appearance of symptoms. The monitoring process may involve serial PSA tests, physical examination of the prostate, and/or repeated biopsies. The goal of surveillance is to avoid overtreatment and the sometimes serious, permanent side effects of treatment for a slow-growing or self-limited tumor (that in most people, would be unlikely to cause problems). This approach is not used for aggressive cancers, but it may cause anxiety for people who wrongly believe that all cancer is deadly or themselves to have life-threatening cancer. For 50% to 75% of people with prostate cancer it will cause no harm before a person dies from other causes.[113]
+Aggressive cancer
+
+Treatment of metastatic prostate cancer can be difficult.[114] Treatment of aggressive prostate cancers may involve surgery (i.e. radical prostatectomy), radiation therapy including brachytherapy (prostate brachytherapy), external beam radiation therapy, and particle therapy, high-intensity focused ultrasound (HIFU), chemotherapy, oral chemotherapeutic drugs (temozolomide/TMZ), cryosurgery, hormonal therapy, or some combination.[115][116]
+
+Although the widespread use of prostate-specific antigen (PSA) screening in the US has resulted in diagnosis at earlier age and cancer stage, the vast majority of cases are still diagnosed in men older than 65 years, and approximately 25% of cases are diagnosed in men older than 75 years.[117] Though US National Comprehensive Cancer Network guidelines recommend using life expectancy greater than or less than 10 years to help make treatment decisions, in practice, many elderly patients are not offered curative treatment options such as radical prostatectomy or radiation therapy and are instead treated with hormonal therapy or watchful waiting.[118] This pattern can be attributed to factors such as medical co-morbidity and patient preferences is regard to quality of life in addition to prostate cancer specific risk factors such as pretreatment PSA, Gleason score and clinical stage. As the average life expectancy increases due to advances in the treatment of cardiovascular, pulmonary and other chronic diseases, it is likely that more elderly patients will be living long enough to suffer the consequences of their prostate cancer. Therefore, there is currently much interest in the role of aggressive prostate cancer treatment modalities such as with surgery or radiation in the elderly population who have localized disease.
+
+If the cancer has spread beyond the prostate, treatment options significantly change, so most doctors that treat prostate cancer use a variety of nomograms to predict the probability of spread. Treatment by watchful waiting/active surveillance, external beam radiation therapy, brachytherapy, cryosurgery, HIFU, and surgery are, in general, offered to men whose cancer remains within the prostate. Hormonal therapy and chemotherapy are often reserved for disease that has spread beyond the prostate. There are exceptions: local or metastasis-directed therapy by radiation treatment may be used for advanced tumors with a limited amount of metastases,[119] and hormonal therapy is used for some early stage tumors. Cryotherapy (the process of freezing the tumor), hormonal therapy, and chemotherapy may also be offered if initial treatment fails and the cancer progresses.
+
+Sipuleucel-T, a cancer vaccine has been found to result in a benefit (a four-month increase in survival) for men with metastatic prostate cancer.[120]
+Castration-resistant
+
+Most hormone dependent cancers become resistant to treatment after one to three years and resume growth despite hormone therapy. Previously considered "hormone-refractory prostate cancer" or "androgen-independent prostate cancer", the term castration-resistant has replaced "hormone refractory" because while they are no longer responsive to castration treatment (reduction of available androgen/testosterone/DHT by chemical or surgical means), these cancers still show reliance upon hormones for androgen receptor activation.[121]
+
+The cancer chemotherapic docetaxel has been used as treatment for CRPC with a median survival benefit of 2 to 3 months.[122][123] A second-line chemotherapy treatment is cabazitaxel.[124] A combination of bevacizumab, docetaxel, thalidomide and prednisone appears effective in the treatment of CRPC.[125]
+
+The immunotherapy treatment with sipuleucel-T in CRPC increases survival by 4 months.[126] The second line hormonal therapy abiraterone increases survival by 4.6 months when compared to placebo.[127] Enzalutamide is another second line hormonal agent with a 5-month survival advantage over placebo. Both abiraterone and enzalutamide are currently being tested in clinical trials in those with CRPC who have not previously received chemotherapy.[128][129]
+
+Only a subset of people respond to androgen signaling blocking drugs and certain cells with characteristics resembling stem cells remain unaffected.[130][131] Therefore, the desire to improve outcome of people with CRPC has resulted in the claims of increasing doses further or combination therapy with synergistic androgen signaling blocking agents.[132] But even these combination will not affect stem-like cells that do not exhibit androgen signaling. It is possible that for further advances, a combination of androgen signaling blocking agent with stem-like cell directed differentiation therapy drug would prove ideal.[133]
+Palliative care
+
+Treatment of metastatic prostate cancer can be difficult.[114] Treatment of aggressive prostate cancers may involve surgery (i.e. radical prostatectomy), radiation therapy including brachytherapy (prostate brachytherapy), external beam radiation therapy, high-intensity focused ultrasound (HIFU), chemotherapy, oral chemotherapeutic drugs (temozolomide/TMZ), cryosurgery, hormonal therapy, or some combination.[115][116]
+Prognosis
+
+Prostate cancer rates are higher in developed countries than in the rest of the world. Many of the risk factors for prostate cancer are more common in developed countries, including longer life expectancy and diets higher in red meat. Also, where there is greater access to screening programs, there is a higher detection rate.
+
+In the United States, prostate cancer that is local or regional at the time of diagnosis has a 5-year survival rate of nearly 100%, while those with distant metastases have a 5-year survival rate of 29%.[134] In Japan, death from prostate cancer was one-fifth to one-half the rates in the United States and Europe in the 1990s.[135] In India in the 1990s, half of the people with prostate cancer confined to the prostate died within 19 years.[136] African-American men have 50–60 times more prostate cancer and prostate cancer deaths than men in Shanghai, China.[137] In Nigeria, 2% of men develop prostate cancer, and 64% of them are dead after 2 years.[138] Most Nigerian men present with metastatic disease with a typical survival of 40 months.[139]
+
+In patients who undergo treatment, the most important clinical prognostic indicators of disease outcome are the stage, pretherapy PSA level, and Gleason score. In general, the higher the grade and the stage, the poorer the prognosis. Nomograms can be used to calculate the estimated risk of the individual patient. The predictions are based on the experience of large groups of patients suffering from cancers at various stages.[140]
+
+In 1941, Charles Huggins reported that androgen ablation therapy causes regression of primary and metastatic androgen-dependent prostate cancer.[141] He was awarded the 1966 Nobel Prize for Physiology or Medicine for this discovery. Androgen ablation therapy causes remission in 80–90% of patients undergoing therapy, resulting in a median progression-free survival of 12 to 33 months. After remission, an androgen-independent phenotype typically emerges, wherein the median overall survival is 23–37 months from the time of initiation of androgen ablation therapy.[142] It is not clear how the prostate cancer becomes androgen-independent or how it reestablishes progression, although a few possibilities (on how) have been proposed.[143] And the way the cancer changes, to overcome the lack of androgen, may vary between individual patients.
+Classification systems
+Micrograph of prostate adenocarcinoma, acinar type, the most common type of prostate cancer. Needle biopsy, H&E stain
+
+Many prostate cancers are not destined to be lethal, and most men will ultimately not die as a result of the disease. Decisions about treatment type and timing may, therefore, be informed by an estimation of the risk that the tumor will ultimately recur after treatment and/or progress to metastases and mortality. Several tools are available to help predict outcomes, such as pathologic stage and recurrence after surgery or radiation therapy. Most combine stage, grade, and PSA level, and some also add the number or percentage of biopsy cores positive, age, and/or other information.
+
+    The D'Amico classification stratifies men by low, intermediate, or high risk based on stage, grade, and PSA. It is used widely in clinical practice and research settings. The major downside to the 3-level system is that it does not account for multiple adverse parameters (e.g., high Gleason score and high PSA) in stratifying patients.
+    The Partin tables[144] predict pathologic outcomes (margin status, extraprostatic extension, and seminal vesicle invasion) based on the same three variables and are published as lookup tables.
+    The Kattan nomograms predict recurrence after surgery and/or radiation therapy, based on data available either at the time of diagnosis or after surgery. The nomograms can be calculated using paper graphs or software available on a website or for handheld computers. The Kattan score represents the likelihood of remaining free of disease at a given time interval following treatment.
+    The UCSF Cancer of the Prostate Risk Assessment (CAPRA) score predicts both pathologic status and recurrence after surgery. It offers comparable accuracy as the Kattan preoperative nomogram and can be calculated without paper tables or a calculator. Points are assigned based on PSA, Grade, stage, age, and percentage of cores positive; the sum yields a 0–10 score, with every 2 points representing roughly a doubling of risk of recurrence. The CAPRA score was derived from community-based data in the CaPSURE database. It has been validated among over 10,000 prostatectomy patients, including patients from CaPSURE;[145] the SEARCH registry, representing data from several Veterans Administration and active military medical centers;[146] a multi-institutional cohort in Germany;[147] and the prostatectomy cohort at Johns Hopkins University.[148] More recently, it has been shown to predict metastasis and mortality following prostatectomy, radiation therapy, watchful waiting, or androgen deprivation therapy.[149]
+
+Life expectancy
+
+Life expectancy projections are averages for an entire male population, and many medical and lifestyle factors modify these numbers. For example, studies have shown that a 40-year-old man will lose 3.1 years of life if he is overweight (BMI 25–29) and 5.8 years of life if he is obese (BMI 30 or more), compared to men of normal weight. If he is both overweight and a smoker, he will lose 6.7 years, and if obese and a smoker, he will lose 13.7 years.[150]
+
+At this time, there is no evidence that either surgery or beam radiation has an advantage over the other in this regard, the lower death rates reported with surgery appear to occur because surgery is more likely to be offered to younger men with less serious forms of cancer. Insufficient information is available to determine whether seed radiation extends life more readily than the other treatments, but data so far do not suggest that it does.[151]
+
+People with low-grade disease (Gleason 2–4) were unlikely to die of prostate cancer within 15 years of diagnosis. Older men (age 70–75) with low-grade disease had an approximately 20% overall survival at 15 years due to deaths from competing causes. Men with high-grade disease (Gleason 8–10) experienced high prostate cancer mortality within 15 years of diagnosis, regardless of their age at diagnosis, underscoring the very aggressive nature of poorly differentiated prostate cancer.[152]
+Epidemiology
+Age-standardized death from prostate cancer per 100,000 inhabitants in 2004.[153]
+  no data
+  <4
+  4–8
+  8–12
+  12–16
+  16–20
+  20–24
+  24–28
+  28–32
+  32–36
+  36–40
+  40–44
+  >44
+
+As of 2012, prostate cancer is the second most frequently diagnosed cancer (at 15% of all male cancers)[154] and the sixth leading cause of cancer death in males worldwide.[155] In 2010, prostate cancer resulted in 256,000 deaths, up from 156,000 deaths in 1990.[156] Rates of prostate cancer vary widely across the world. Although the rates vary widely between countries, it is least common in South and East Asia, and more common in Europe, North America, Australia, and New Zealand.[157] Prostate cancer is least common among Asian men and most common among black men, with figures for white men in between.[158][159]
+
+The average annual incidence rate of prostate cancer between 1988 and 1992 among Chinese men in the United States was 15 times higher than that of their counterparts living in Shanghai and Tianjin,[158][159][160] but these high rates may be affected by increasing rates of detection.[161] Many suggest that prostate cancer may be under-reported, yet BPH incidence in China and Japan is similar to rates in Western countries.[162][163]
+
+More than 80% of men will develop prostate cancer by the age of 80.[164] In the majority of cases, cancer will be slow-growing and of little concern. In such men, diagnosing prostate cancer is overdiagnosis—the needless identification of a technically aberrant condition that will never harm the patient—and treatment in such men exposes them to all of its adverse effects, with no possibility of extending their lives.[165]
+United States
+New cases and deaths from prostate cancer in the United States per 100,000 males between 1975 and 2014
+
+It is estimated that in 2018, approximately 164,690 new cases and 29,430 prostate cancer–related deaths will occur in the United States. Prostate cancer is now the second leading cause of cancer death in men, exceeded by lung cancer and colorectal cancer. It accounts for 19% of all male cancers and 9% of male cancer-related deaths. Age-adjusted incidence rates increased steadily from 1975 through 1992, with particularly dramatic increases associated with the inception of widespread use of prostate-specific antigen (PSA) screening in the late 1980s and early 1990s, followed by a fall in incidence. A decline in early-stage prostate cancer incidence rates from 2011 to 2012 (19%) in men aged 50 years and older persisted through 2013 (6%).
+
+Between 2013 and 2015, mortality rates appear to have stabilized. It has been suggested that declines in mortality rates in certain jurisdictions reflect the benefit of PSA screening,[3] but others have noted that these observations may be explained by independent phenomena such as improved treatments. The estimated lifetime risk of a prostate cancer diagnosis is about 14.0%, and the lifetime risk of dying from this disease is 2.6%. Cancer statistics from the American Cancer Society and the National Cancer Institute (NCI) indicated that between 2005 and 2011, the proportion of disease diagnosed at a locoregional stage was 93% for whites and 92% for African Americans; the proportion of disease diagnosed at a late stage was 4% for whites and 5% for African Americans. An autopsy study of white and Asian men also found an increase in occult prostate cancer with age, reaching nearly 60% in men older than 80 years. More than 50% of cancers in Asian men and 25% of cancers in white men had a Gleason score of 7 or greater, suggesting that Gleason score may be an imprecise indicator of clinically insignificant prostate cancer.[166]
+Canada
+
+Prostate cancer is the third leading type of cancer in Canadian men. In 2016, around 4,000 died and 21,600 men were diagnosed with prostate cancer.[95]
+Europe
+
+In Europe in 2012 it was the 3rd most diagnosed cancer after breast and colorectal at 417,000 cases.[167]
+
+In the United Kingdom it is also the second most common cause of cancer death after lung cancer, where around 35,000 cases are diagnosed every year and of which around 10,000 die of it.[168]
+History
+
+Although the prostate was first described by Venetian anatomist Niccolò Massa in 1536, and illustrated by Flemish anatomist Andreas Vesalius in 1538, prostate cancer was not identified until 1853.[169] Prostate cancer was initially considered a rare disease, probably because of shorter life expectancies and poorer detection methods in the 19th century. The first treatments of prostate cancer were surgeries to relieve urinary obstruction.[170] Removal of the entire gland (radical perineal prostatectomy) was first performed in 1904 by Hugh H. Young at Johns Hopkins Hospital.[171] Surgical removal of the testes (orchiectomy) to treat prostate cancer was first performed in the 1890s, but with limited success. Transurethral resection of the prostate (TURP) replaced radical prostatectomy for symptomatic relief of obstruction in the middle of the 20th century because it could better preserve penile erectile function. Radical retropubic prostatectomy was developed in 1983 by Patrick Walsh.[172] This surgical approach allowed for removal of the prostate and lymph nodes with maintenance of penile function.
+
+In 1941, Charles B. Huggins published studies in which he used estrogen to oppose testosterone production in men with metastatic prostate cancer. This discovery of "chemical castration" won Huggins the 1966 Nobel Prize in Physiology or Medicine.[173] The role of the gonadotropin-releasing hormone (GnRH) in reproduction was determined by Andrzej W. Schally and Roger Guillemin, who both won the 1977 Nobel Prize in Physiology or Medicine for this work. GnRH receptor agonists, such as leuprorelin and goserelin, were subsequently developed and used to treat prostate cancer.[174][175]
+
+Radiation therapy for prostate cancer was first developed in the early 20th century and initially consisted of intraprostatic radium implants. External beam radiotherapy became more popular as stronger [X-ray] radiation sources became available in the middle of the 20th century. Brachytherapy with implanted seeds (for prostate cancer) was first described in 1983.[176]
+
+Systemic chemotherapy for prostate cancer was first studied in the 1970s. The initial regimen of cyclophosphamide and 5-fluorouracil was quickly joined by multiple regimens using a host of other systemic chemotherapy drugs.[177]
+Society and culture
+
+People with prostate cancer generally encounter significant disparities in awareness, funding, media coverage, and research—and therefore, inferior treatment and poorer outcomes—compared to other cancers of equal prevalence.[178] In 2001, The Guardian noted that Britain had 3,000 nurses specializing in breast cancer, compared to only one for prostate cancer. It also discovered that the waiting time between referral and diagnosis was two weeks for breast cancer but three months for prostate cancer.[179] A 2007 report by the U.S.-based National Prostate Cancer Coalition stated that for every prostate cancer drug on the market, there were seven used to treat breast cancer. The Times also noted an "anti-male bias in cancer funding" with a four-to-one discrepancy in the United Kingdom by both the government and by cancer charities such as Cancer Research UK.[178][180] Equality campaigners such as author Warren Farrell cite such stark spending inequalities as a clear example of governments unfairly favouring women's health over men's health.[181]
+
+Disparities also extend into areas such as detection, with governments failing to fund or mandate prostate cancer screening while fully supporting breast cancer programs. For example, a 2007 report found 49 U.S. states mandate insurance coverage for routine breast cancer screening, compared to 28 for prostate cancer.[182] Prostate cancer also experiences significantly less media coverage than other, equally prevalent cancers, with a study by Prostate Coalition showing 2.6 breast cancer stories for each one covering cancer of the prostate.[178]
+
+Prostate Cancer Awareness Month takes place in September in a number of countries. A light blue ribbon is used to promote the cause.[183][184]
+Research
+For the journal, see Prostate Cancer (journal).
+CRPC
+
+MDV3100 was in phase III trials for CRPC (chemo-naive and post-chemo patient populations)[185] and gained FDA approval in 2012 as enzalutamide for the treatment of castration-resistant prostate cancer.[128][129]
+
+Alpharadin completed a phase 3 trial for CRPC patients with bone metastasis. A pre-planned interim analysis showed improved survival and quality of life. The study was stopped for ethical reasons to give the placebo group the same treatment. Alpharadin uses bone targeted Radium-223 isotopes to kill cancer cells by alpha radiation.[186][unreliable medical source?] It was approved by the U.S. Food and Drug Administration (FDA) on May, 15, 2013, ahead of schedule under the priority review program.[187] Alpharadin still waits for approval by the European Medicines Agency (EMA).
+
+As of 2016 PARP inhibitor olaparib has shown promise in clinical trials for CRPC.[188] Also in trials for CRPC are : checkpoint inhibitor ipilimumab, CYP17 inhibitor galeterone (TOK-001), and immunotherapy PROSTVAC.[188]
+
+All medications for CRPC block AR signaling via direct or indirect targeting of the AR ligand binding domain (LBD). Over the last decade molecules that could successfully target these alternative domains have emerged.[189] Such therapies could provide an advantage; particularly in treating prostate cancers that are resistant to current therapies like enzalutamide.[189]
+Pre-clinical
+
+Arachidonate 5-lipoxygenase has been identified as playing a significant role in the survival of prostate cancer cells.[190][191][192] Medications which target this enzyme may be an effective therapy for limiting tumor growth and cancer metastasis, as well as inducing programmed cell death in cancer cells.[190][191][192] In particular, arachidonate 5-lipoxygenase inhibitors produce massive, rapid programmed cell death in prostate cancer cells.[190][191][192]
+
+Targeting galectin-3 might be effective in slowing prostate cancer progression.[193] Aberrant glycan profiles have been described in prostate cancer,[194][195] and studies have found specific links between the galectin signature and prostate cancer.[196][197]
+Cancer models
+
+Scientists have established a few prostate cancer cell lines to investigate the mechanism involved in the progression of prostate cancer. LNCaP, PC-3 (PC3), and DU-145 (DU145) are commonly used prostate cancer cell lines. The LNCaP cancer cell line was established from a human lymph node metastatic lesion of prostatic adenocarcinoma. PC-3 and DU-145 cells were established from human prostatic adenocarcinoma metastatic to bone and to brain, respectively. LNCaP cells express androgen receptor (AR), but PC-3 and DU-145 cells express very little or no AR. AR, an androgen-activated transcription factor, belongs to the steroid nuclear receptor family. Development of the prostate is dependent on androgen signaling mediated through AR, and AR is also important during the development of prostate cancer.
+
+The proliferation of LNCaP cells is androgen-dependent but the proliferation of PC-3 and DU-145 cells is androgen-insensitive. Elevation of AR expression is often observed in advanced prostate tumors in patients.[198][199] Some androgen-independent LNCaP sublines have been developed from the ATCC androgen-dependent LNCaP cells after androgen deprivation for study of prostate cancer progression. These androgen-independent LNCaP cells have elevated AR expression and express prostate specific antigen upon androgen treatment. The paradox is that androgens inhibit the proliferation of these androgen-independent prostate cancer cells.[200][201][202]
+Infections
+
+In 2006, a previously unknown retrovirus, Xenotropic MuLV-related virus (XMRV), was associated with human prostate tumors,[203] but subsequent reports on the virus were contradictory,[204][205] and the original 2006 finding was instead due to a previously undetected contamination.[206] The journals Science and PlosONE both retracted XMRV related articles.[207][208]
+Diagnosis
+
+At present, an active area of research and non-clinically applied investigations involve non-invasive methods of prostate tumor detection. A molecular test that detects the presence of cell-associated PCA3 mRNA in fluid obtained from the prostate and first-void urine sample has also been under investigation. PCA3 mRNA is expressed almost exclusively by prostate cells and has been shown to be highly over-expressed in prostate cancer cells. The test result is currently reported as a specimen ratio of PCA3 mRNA to PSA mRNA.
+
+Although not a replacement for serum PSA level, the PCA3 test is an additional tool to help decide whether, in men suspected of having prostate cancer (especially if an initial biopsy fails to explain the elevated serum PSA), a biopsy/rebiopsy is really needed. The higher the expression of PCA3 in the sample, the greater the likelihood of a positive biopsy; i.e., the presence of cancer cells in the prostate.[209]
+See also
+
+    Prostate Cancer Foundation
+    Testicular cancer

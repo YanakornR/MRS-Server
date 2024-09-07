@@ -1,0 +1,123 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN thrombosis|NN thrombosis|NN cyanosis|NN right|NN extremity|NN thrombosis|NN leg|NN side|NN image|NN surgery|NN medicine|NN symptom|NN location|NN 
+thrombosis|NN greek|NN 
+sis|NN clote|NN formation|NN blood|NN clot|NN blood|NN vessel|NN flow|NN blood|NN system|NN 
+blood|NN vessel|NN vein|NN artery|NN body|NN platelet|NN fibrin|NN blood|NN clot|NN blood|NN loss|NN 
+blood|NN vessel|NN blood|NN clot|NN body|NN condition|NN 
+clot|NN piece|NN clot|NN body|NN embolus|NN 
+thrombosis|NN vein|NN thrombosis|NN artery|NN thrombosis|NN 
+thrombosis|NN congestion|NN part|NN body|NN thrombosis|NN thrombosis|NN blood|NN supply|NN damage|NN tissue|NN artery|NN necrosis|NN 
+piece|NN thrombus|NN embolus|NN circulation|NN lodge|NN embolism|NN 
+type|NN embolism|NN thromboembolism|NN 
+complication|NN thromboembolism|NN lodge|NN lung|NN embolism|NN 
+embolus|NN blood|NN vessel|NN embolism|NN 
+sign|NN symptom|NN thrombosis|NN arterial|NN thrombosis|NN limb|NN cause|NN mechanism|NN prevention|NN treatment|NN surgery|NN treatment|NN antiplatelet|NN agent|NN injury|NN reference|NN bibliography|NN link|NN 
+sign|NN symptom|NN 
+thrombosis|NN type|NN blood|NN vessel|NN thrombosis|NN location|NN blood|NN vessel|NN organ|NN 
+thrombosis|NN article|NN thrombosis|NN vein|NN thrombosis|NN article|NN vein|NN thrombosis|NN 
+vein|NN thrombosis|NN dvt|NN formation|NN blood|NN clot|NN vein|NN 
+leg|NN vein|NN vein|NN 
+factor|NN formation|NN blood|NN clot|NN veinthese|NN rate|NN blood|NN flow|NN thickness|NN blood|NN quality|NN vessel|NN wall|NN 
+sign|NN dvt|NN pain|ST redness|NN area|NN 
+citation|NN disease|NN article|NN disease|NN 
+disease|NN extremity|NN uedvt|NN obstruction|NN arm|NN vein|NN vein|NN vein|NN thrombus|NN 
+condition|NN light|NN exercise|NN people|NN 
+men|NN women|NN 
+citation|NN syndrome|NN article|NN syndrome|NN 
+syndrome|NN blockage|NN vein|NN part|NN vena|NN 
+form|NN thrombosis|NN present|NN pain|ST ascite|NN liver|NN 
+treatment|NN therapy|NN intervention|NN use|NN shunt|NN 
+citation|NN portal_vein_thrombosis|DS article|NN portal_vein_thrombosis|DS 
+portal_vein_thrombosis|DS portal|NN vein|NN portal_hypertension|DS reduction|NN blood|NN supply|NN liver|NN set|NN disease|NN pancreatitis|NN cirrhosis|NN 
+citation|NN vein|NN thrombosis|NN article|NN vein|NN thrombosis|NN 
+vein|NN thrombosis|NN obstruction|NN vein|NN thrombus|NN 
+drainage|NN kidney|NN 
+citation|NN sinus|NN thrombosis|NN article|NN sinus|NN thrombosis|NN 
+sinus|NN thrombosis|NN cvst|NN form|NN stroke|NN blockage|NN sinuse|NN thrombus|NN 
+symptom|NN headache|ST vision|NN symptom|NN stroke|NN weakness|ST face|NN limb|NN side|NN body|NN seizure|NN 
+diagnosis|NN ct|NN scan|NN 
+majority|NN person|NN recovery|NN 
+mortality|NN rate|NN jugular|NN vein|NN thrombosis|NN 
+vein|NN thrombosis|NN condition|NN infection|NN drug|NN use|NN malignancy|NN 
+vein|NN thrombosis|NN list|NN complication|NN sepsis|DS embolism|NN papilledema|DS 
+pain|ST site|NN vein|NN sinus|NN thrombosis|NN article|NN sinus|NN thrombosis|NN 
+sinus|NN thrombosis|NN form|NN sinus|NN thrombosis|NN thrombosis|NN sinus|NN skull|NN retrograde|NN spread|NN infection|NN damage|NN danger|NN triangle|NN face|NN 
+vein|NN area|NN vein|NN orbit|NN drain|NN sinus|NN fissure|NN 
+infection|NN face|NN example|NN lip|NN sinus|NN symptom|NN vision|NN squint|NN spread|NN infection|NN cause|NN meningitis|DS 
+citation|NN thrombosis|NN 
+thrombosis|NN formation|NN thrombus|NN artery|NN 
+case|NN thrombosis|NN rupture|NN atheroma|NN deposit|NN blood|NN vessel|NN wall|NN thrombosis|NN 
+embolism|NN clot|NN organ|NN 
+occlusion|NN consequence|NN embolism|NN blood|NN clot|NN heart|NN 
+cause|NN fibrillation|NN blood|NN stasis|NN atria|NN thrombus|NN formation|NN blood|NN clot|NN heart|NN reason|NN 
+citation|NN stroke|NN article|NN stroke|NN thrombus|NN mca|NN branch|NN 
+stroke|NN decline|NN brain|NN function|NN disturbance|NN supply|NN blood|NN brain|NN 
+thrombus|NN particle|NN bleed|NN 
+stroke|NN thrombus|NN blood|NN clot|NN plaque|NN 
+blockage|NN artery|NN onset|NN thrombotic|NN stroke|NN 
+stroke|NN vessel|NN disease|NN vessel|NN disease|NN 
+vessel|NN circle|NN willis|NN 
+vessel|NN branche|NN circle|NN willis|NN 
+infarction|NN article|NN infarction|NN 
+infarction|NN mi|NN heart_attack|DS restriction|NN blood|NN supply|NN obstruction|NN artery|NN thrombus|NN 
+restriction|NN supply|NN oxygen|NN heart|NN muscle|NN tissue|NN 
+lesion|NN infarct|NN 
+mi|NN emergency|NN treatment|NN 
+hour|NN episode|NN attack|NN therapy|NN 
+thrombus|NN limb|NN limb|NN site|NN 
+artery|NN thrombosis|NN complication|NN liver|NN transplantation|NN cause|NN 
+thrombosis|NN prevention|NN risk|NN development|NN 
+people|NN risk|NN thrombosis|NN development|NN risk|NN factor|NN inflammation|NN 
+triad|NN factor|NN formation|NN thrombosis|NN stasis|NN blood|NN vessel|NN wall|NN injury|NN blood|NN coagulation|NN risk|NN factor|NN thrombosis|NN risk|NN thrombosis|NN 
+risk|NN factor|NN thrombosis|NN factor|NN note|NN reference|NN episode|NN thrombosis|NN blood|NN flow|NN flow|NN exercise|NN stroke|NN heart|NN failure|NN life|NN style|NN plaster|NN cast|NN failure|NN shock|NN obesity|NN pregnancy|NN period|NN vein|NN surgery|NN discontinuation|NN risk|NN hormone|NN replacement|NN therapy|NN discontinuation|NN risk|NN therapy|NN infertility|ST compression|NN vein|NN artery|NN abnormality|NN tumor|NN surgery|NN wire|NN vein|NN damage|NN valve|NN catheter|NN catheter|NN motion|NN injury|NN travel|NN time|NN post-surgical|NN risk|NN cord|NN injury|NN age|NN protein|NN c|NN andor|NN s|NN deficiency|NN necrosis|NN antibody|NN syndrome|NN coagulation|NN factor|NN leiden|NN defect|NN coagulation|NN defect|NN coagulation|NN coagulation|NN factor|NN xi|NN coagulation|NN deficiency|NN coagulation|NN fall|NN hip|NN fracture|NN immobility|NN agent|NN illness|NN bowel|NN disease|NN syndrome|NN disorder|NN hemoglobinnuria|NN hormone|NN replacement|NN therapy|NN discontinuation|NN risk|NN right|NN heart|NN failure|NN thrombus|NN air|NN pollution|NN inflammation|NN mechanism|NN article|NN triad|NN 
+cause|NN thrombosis|NN triad|NN cell|NN injury|NN blood|NN flow|NN 
+example|NN deficiency|NN autoimmune|NN disorder|NN 
+study|NN blood|NN cell|NN role|NN vein|NN thrombosis|NN action|NN cell|NN injury|NN 
+process|NN trauma|NN surgery|NN infection|NN damage|NN line|NN vessel|NN wall|NN 
+mechanism|NN exposure|NN tissue|NN factor|NN blood|NN coagulation|NN system|NN stimuly|NN change|NN gene|NN expression|NN endothelium|NN state|NN cell|NN substance|NN modulator|NN thrombin|NN activity|NN end|NN result|NN activation|NN thrombin|NN production|NN protein|NN tissue|NN factor|NN inhibitor|NN state|NN 
+injury|NN formation|NN thromby|NN artery|NN rate|NN blood|NN flow|NN clot|NN formation|NN 
+addition|NN clot|NN plateletswhich|NN clot|NN formation|NN area|NN stress|NN blood|NN flow|NN blood|NN flow|NN information|NN blood|NN flow|NN 
+cause|NN blood|NN flow|NN stagnation|NN blood|NN flow|NN point|NN injury|NN stasis|NN heart|NN failure|NN period|NN behaviour|NN airplane|NN flight|NN 
+fibrillation|NN blood|NN atrium|NN la|NN appendage|NN thromboembolism|NN malignancy|NN risk|NN thrombosis|NN activation|NN coagulation|NN system|NN cancer|DS cell|NN secretion|NN substance|NN syndrome|NN compression|NN blood|NN vessel|NN tumor|NN extension|NN vasculature|NN example|NN cell|NN cancer|DS vein|NN treatment|NN cancer|DS radiation|NN chemotherapy|NN score|NN aspect|NN patient|NN data|NN sign|NN risk|NN thrombosis|NN pompe-c|NN risk|NN mortality|NN embolism|NN patient|NN cancer|DS rate|NN thrombosis|NN history|NN 
+breakdown|NN blood|NN clot|NN enzyme|NN 
+organisation|NN event|NN thrombus|NN outcome|NN 
+thrombus|NN thrombosis|NN vessel|NN occlusion|NN wound|ST heal|NN thrombus|NN scar|NN tissue|NN scar|NN tissue|NN vessel|NN contract|NN activity|NN lumen|NN 
+mural|NN thrombus|NN thrombus|NN vessel|NN blood|NN flow|NN reorganisation|NN thrombus|NN wound|ST heal|NN mechanism|NN 
+growth|NN factor|NN platelet|NN layer|NN muscle|NN cell|NN clot|NN layer|NN mural|NN muscle|NN blood|NN vessel|NN lumen|NN vasorum|NN 
+thrombus|NN body|NN thrombus|NN blood|NN flow|NN artery|NN ischaemia|NN infarction|NN 
+thrombus|NN vein|NN blood|NN metabolism|NN 
+thrombosis|NN swell|NN blockage|NN drainage|NN 
+vein|NN thrombosis|NN pain|ST redness|NN swell|NN vein|NN occlusion|NN oedema|NN acuity|NN impairment|NN blindness|NN 
+thrombus|NN circulation|NN embolus|NN blood|NN vessel|NN tissue|NN necrosis|NN infarction|NN area|NN occlusion|NN 
+thrombosis|NN embolism|NN embolus|NN lung|NN 
+people|NN shunt|NN connection|NN circulation|NN heart|NN lung|NN clot|NN artery|NN cause|NN embolism|NN 
+embolism|NN obstruction|NN blood|NN flow|NN blood|NN vessel|NN lack|NN oxygen|NN nutrient|NN tissue|NN 
+tissue|NN process|NN necrosis|NN 
+organ|NN instance|NN embolism|NN brain|NN cause|NN stroke|NN 
+citation|NN prevention|NN article|NN thrombosis|NN prevention|NN 
+use|NN heparin|NN surgery|NN issue|NN 
+analysis|NN lead|NN risk|NN bleed|NN people|NN hospital|NN thrombosis|NN cause|NN complication|NN death|NN 
+uk|NN instance|NN health|NN committee|NN rate|NN death|NN thrombosis|NN prevention|NN thrombosis|NN 
+patient|NN surgery|NN compression|NN stock|NN illness|NN immobility|NN surgery|NN guideline|NN weight|NN heparin|NN administration|NN calf|NN compression|NN patient|NN vein|NN thrombosis|NN insertion|NN vena|NN filter|NN patient|NN illness|NN thrombosis|NN united|NN kingdom|NN officer|NN guidance|NN effect|NN measure|NN patient|NN anticipation|NN guideline|NN treatment|NN 
+treatment|NN thrombosis|NN vein|NN artery|NN impact|NN person|NN risk|NN complication|NN treatment|NN 
+vitamin|NN k|NN antagonist|NN occurrence|NN 
+response|NN heparin|NN injection|NN 
+side|NN effect|NN anticoagulant|NN risk|NN bleed|NN ratio|NN blood|NN 
+self-management|NN option|NN patient|NN practice|NN 
+germany|NN patient|NN patient|NN study|NN medication|NN thrombin|NN inhibitor|NN xa|NN inhibitor|NN 
+destruction|NN blood|NN clot|NN drug|NN tissue|NN plasminogen|NN activator|NN destruction|NN blood|NN clot|NN enzyme|NN 
+risk|NN bleed|NN situation|NN stroke|NN embolism|NN 
+citation|NN surgery|NN 
+thrombosis|NN surgery|NN limb|NN 
+citation|NN treatment|NN 
+clot|NN retrieval|NN thrombolysis|NN situation|NN 
+citation|NN agent|NN 
+thrombosis|NN inhibition|NN platelet|NN aggregation|NN drug|NN aspirin|NN risk|NN recurrence|NN progression|NN 
+citation|NN injury|NN article|NN injury|NN 
+reperfusion|NN ir|NN injury|NN iry|NN cell|NN death|NN tissue|NN mortality|NN morbidity|NN example|NN model|NN ischemia|NN 
+hour|NN ischemia|NN injury|NN 
+hour|NN ischemia|NN 
+hour|NN reperfusion|NN infarction|NN iri|NN infarct|NN size|NN intervention|NN 
+reason|NN mortality|NN morbidity|NN condition|NN reperfusion|NN treatment|NN effort|NN timeliness|NN access|NN treatment|NN 
+therapy|NN iry|NN reperfusion|NN condition|NN outcome|NN strategy|NN potential|NN outcome|NN patient|NN ischemic|NN condition|NN ric|NN exenatide|NN metoprolol|NN 
+multitude|NN intervention|NN data|NN ric|NN evidence|NN context|NN stemy|NN indication|NN ischemic|NN stroke|NN aneurysmal|NN 
+blood|NN clote|NN test|NN thromboxane|NN 

@@ -1,0 +1,203 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Cirrhosis|Disease name|NN Cirrhosis|Disease Cirrhosis|Disease abdomen|NN person|NN Cirrhosis|Disease show|NN fluid|NN buildup|NN vein|NN pronunciation|NN
+symptom|NN swell|NN leg|NN skin|NN bruise|NN fluid|NN abdomen|NN complication|NN peritonitis|NN encephalopathy|NN vein|NN liver|NN cancer|NN onset|NN month|NN year|NN duration|NN term|NN cause|NN alcohol|NN hepatitis|NN hepatitis|NN liver|NN disease|NN method|NN blood|NN test|NN image|NN liver|NN biopsy|NN prevention|NN vaccination|NN hepatitis|NN alcohol|NN treatment|NN cause|NN frequency|NN death|NN
+Cirrhosis|Disease Cirrhosis|Disease Cirrhosis|Disease condition|NN liver|NN damage|NN damage|NN replacement|NN liver|NN tissue|NN scar|NN tissue|NN disease|NN month|NN year|NN symptom|NN disease|NN person|NN itchy|NN swell|NN leg|NN skin|NN bruise|NN fluid|NN abdomen|NN blood|NN vessel|NN skin|NN fluid|NN build-up|NN abdomen|NN complication|NN encephalopathy|NN bleed|NN vein|NN esophagus|NN stomach|NN vein|NN liver|NN cancer|NN encephalopathy|NN result|NN confusion|NN unconsciousness|NN
+Cirrhosis|Disease alcohol|NN hepatitis|NN hepatitis|NN liver|NN disease|NN drink|NN day|NN number|NN year|NN Cirrhosis|Disease liver|NN disease|NN number|NN cause|NN diabete|NN blood|NN fat|NN blood|NN pressure|NN number|NN cause|NN Cirrhosis|Disease autoimmune|NN hepatitis|NN cholangitis|NN medication|NN gallstone|NN diagnosis|NN blood|NN test|NN image|NN liver|NN biopsy|NN
+cause|NN Cirrhosis|Disease hepatitis|NN vaccination|NN treatment|NN cause|NN goal|NN complication|NN alcohol|NN case|NN Cirrhosis|Disease hepatitis|NN medication|NN hepatitis|NN medication|NN disease|NN blockage|NN bile|NN duct|NN medication|NN complication|NN leg|NN encephalopathy|NN vein|NN Cirrhosis|Disease liver|NN transplant|NN option|NN
+Cirrhosis|Disease people|NN death|NN death|NN alcohol|NN hepatitis|NN c|NP hepatitis|NN b|NP united|NP states|NP men|NN Cirrhosis|Disease women|NN description|NN condition|NN hippocrates|NP century|NN bce|NP word|NN Cirrhosis|Disease
+mean|NN condition|NN appearance|NN liver|NN content|NN
+sign|NN symptom|NN liver|NN dysfunction|NN portal|NN hypertension|NN cause|NN disease|NN cause|NN diagnosis|NN lab|NN find|NN image|NN endoscopy|NN pathology|NN grade|NN prevention|NN treatment|NN liver|NN damage|NN Cirrhosis|Disease care|NN complication|NN esophageal|NN hepatic|NN encephalopathy|NN syndrome|NN peritonitis|NN portal|NN gastropathy|NN infection|NN carcinoma|NN epidemiology|NN reference|NN link|NN
+sign|NN symptom|NN Cirrhosis|Disease
+Cirrhosis|Disease manifestation|NN
+sign|NN symptom|NN result|NN failure|NN liver|NN cell|NN portal|NN hypertension|NN
+manifestation|NN cause|NN Cirrhosis|Disease
+absence|NN sign|NN possibility|NN Cirrhosis|Disease Cirrhosis|Disease development|NN
+symptom|NN alarm|NN
+weakness|NN loss|NN weight|NN symptom|NN
+liver|NN dysfunction|NN
+feature|NN consequence|NN liver|NN cell|NN
+spider|NN spider|NN nevy|NN lesion|NN arteriole|NN vessel|NN name|NN spider|NN increase|NN
+study|NN spider|NN case|NN redden|NN palm|NN thenar|NN hypothenar|NN result|NN estrogen|NN increase|NN breast|NN gland|NN size|NN men|NN estradiol|NN patient|NN increase|NN breast|NN fat|NN people|NN decrease|NN sex|NN hormone|NN impotence|NN infertility|NN loss|NN drive|NN atrophy|NN injury|NN suppression|NN function|NN
+Cirrhosis|Disease due|NN alcoholism|NN liver|NN size|NN people|NN Cirrhosis|Disease
+accumulation|NN fluid|NN cavity|NN space|NN abdomen|NN rise|NN flank|NN dullness|NN
+increase|NN girth|NN hepaticus|NN breath|NN dimethyl|NN sulfide|NN discoloration|NN skin|NN mucous|NN membrane|NN white|NN eye|NN due|NN bilirubin|NN mgdl|NN moll|NN
+portal|NN hypertension|NN
+Cirrhosis|Disease increase|NN resistance|NN blood|NN flow|NN pressure|NN portal|NN system|NN portal|NN hypertension|NN
+effect|NN portal|NN hypertension|NN
+increase|NN size|NN spleen|NN patient|NN varice|NN result|NN collateral|NN portal|NN blood|NN flow|NN vessel|NN stomach|NN process|NN anastomosis|NN
+blood|NN vessel|NN varice|NN rupture|NN bleed|NN
+collateral|NN vein|NN portal|NN hypertension|NN
+blood|NN portal|NN system|NN vein|NN wall|NN vein|NN pattern|NN head|NN medusa|NP bruit|NN hum|NN region|NN examination|NN stethoscope|NN collateral|NN connection|NN portal|NN system|NN vein|NN result|NN portal|NN hypertension|NN
+change|NN Cirrhosis|Disease cause|NN
+sign|NN cause|NN
+nail|NN change|NN
+line|NN band|NN color|NN production|NN albumin|NN
+Cirrhosis|Disease nail|NN nail|NN plate|NN red|NN angle|NN nail|NN plate|NN nail|NN fold|NN degree|NN
+Cirrhosis|Disease number|NN condition|NN
+periostitis|NN bone|NN pain|NN
+Cirrhosis|Disease contracture|NN
+shorten|NN fascia|NN tissue|NN palm|NN hand|NN deformity|NN finger|NN
+proliferation|NN growth|NN collagen|NN deposition|NN
+weakness|NN fatigue|NN anorexia|NN weight|NN loss|NN
+disease|NN complication|NN
+people|NN sign|NN disease|NN
+production|NN coagulation|NN factor|NN
+encephalopathy|NN liver|NN ammonia|NN substance|NN blood|NN brain|NN function|NN neglect|NN appearance|NN forgetfulness|NN trouble|NN change|NN sleep|NN habit|NN psychosis|NN
+exam|NN asterixis|NN flap|NN dorsiflex|NN hand|NN patient|NN encephalopathy|NN sensitivity|NN medication|NN metabolism|NN compound|NN
+kidney|NN injury|NN syndrome|NN
+Cirrhosis|Disease cause|NN cause|NN person|NN
+Cirrhosis|Disease hepatitis|NN hepatitis|NN alcohol|NN consumption|NN cause|NN account|NN case|NN
+liver|NN disease|NN
+Cirrhosis|Disease individual|NN decade|NN alcohol|NN liver|NN metabolism|NN protein|NN fat|NN carbohydrate|NN
+injury|NN formation|NN acetaldehyde|NN alcohol|NN accumulation|NN product|NN liver|NN patient|NN hepatitis|NN fever|NN jaundice|NN anorexia|NN
+ast|NP alt|NP blood|NN level|NN iuliter|NN ratio|NN value|NN liver|NN disease|NN united|NP states|NP Cirrhosis|Disease death|NN alcohol|NN nash|NN
+fat|NN liver|NN scar|NN tissue|NN
+type|NN hepatitis|NN obesity|NN patient|NN diabete|NN protein|NN malnutrition|NN artery|NN disease|NN treatment|NN medication|NN
+disorder|NN sign|NN liver|NN disease|NN patient|NN alcohol|NN history|NN
+biopsy|NN diagnosis|NN hepatitis|NN c|NP
+infection|NN hepatitis|NN c|NP virus|NN inflammation|NN liver|NN grade|NN damage|NN organ|NN
+decade|NN inflammation|NN damage|NN Cirrhosis|Disease
+patient|NN hepatitis|NN Cirrhosis|Disease Cirrhosis|Disease hepatitis|NN liver|NN disease|NN reason|NN liver|NN transplant|NN hepatitis|NN
+hepatitis|NN virus|NN liver|NN inflammation|NN injury|NN decade|NN Cirrhosis|Disease
+hepatitis|NN presence|NN hepatitis|NN Cirrhosis|Disease cholangitis|NN Cirrhosis|Disease
+bile|NN duct|NN autoimmune|NN process|NN liver|NN damage|NN
+patient|NN fatigue|NN pruritus|NN skin|NN
+phosphatase|NN elevation|NN elevation|NN cholesterol|NN bilirubin|NN anti-mitochondrial|NN antibody|NN
+psc|NP disorder|NN pruritus|NN vitamin|NN deficiency|NN bone|NN disease|NN
+association|NN bowel|NN disease|NN colitis|NN hepatitis|NN
+disease|NN attack|NN liver|NN lymphocyte|NN inflammation|NN scare|NN Cirrhosis|Disease
+find|NN elevation|NN serum|NN gamma|NN hemochromatosis|NN
+present|NN family|NN history|NN Cirrhosis|Disease skin|NN diabete|NN mellitus|NN cardiomyopathy|NN sign|NN iron|NN overload|NN wilsons|NP disease|NN
+disorder|NN serum|NN copper|NN content|NN liver|NN biopsy|NN urine|NN copper|NN
+ring|NN cornea|NN status|NN
+childhood|NN Cirrhosis|Disease form|NN cholestasis|NN deposition|NN copper|NN liver|NN alpha|NN deficiency|NN
+disorder|NN level|NN enzyme|NN alpha|NN Cirrhosis|Disease
+right|NN heart|NN failure|NN liver|NN congestion|NN storage|NN disease|NN type|NN fibrosis|NN drug|NN toxin|NN
+liver|NN role|NN synthesis|NN protein|NN example|NN albumin|NN clote|NN factor|NN complement|NN detoxification|NN storage|NN example|NN vitamin|NN
+addition|NN metabolism|NN lipid|NN carbohydrate|NN
+Cirrhosis|Disease hepatitis|NN liver|NN independent|NN cause|NN
+cause|NN stage|NN change|NN
+hallmark|NN Cirrhosis|Disease development|NN scar|NN tissue|NN parenchyma|NN
+scar|NN tissue|NN portal|NN flow|NN blood|NN organ|NN blood|NN pressure|NN function|NN
+research|NN role|NN cell|NN cell|NN type|NN vitamin|NN development|NN Cirrhosis|Disease
+parenchyma|NN inflammation|NN lead|NN activation|NN cell|NN fibrosis|NN production|NN myofibroblast|NN blood|NN flow|NN addition|NN cell|NN
+response|NN proliferation|NN tissue|NN
+inhibitor|NN matrix|NN material|NN matrix|NN
+cascade|NN process|NN tissue|NN band|NN hepatocyte|NN nodule|NN liver|NN architecture|NN blood|NN flow|NN
+spleen|NN hypersplenism|NN retention|NN platelet|NN blood|NN clote|NN
+portal|NN hypertension|NN complication|NN Cirrhosis|Disease
+diagnosis|NN Cirrhosis|Disease
+gold|NN standard|NN diagnosis|NN Cirrhosis|Disease liver|NN biopsy|NN approach|NN
+biopsy|NN laboratory|NN data|NN Cirrhosis|Disease
+risk|NN complication|NN liver|NN biopsy|NN Cirrhosis|Disease complication|NN liver|NN biopsy|NN score|NN score|NN platelet|NN count|NN ratio|NN
+predictor|NN Cirrhosis|Disease ascite|NN platelet|NN count|NN spider|NN bonaciny|NN Cirrhosis|Disease score|NN sum|NN score|NN platelet|NN count|NN ratio|NN table|NN lab|NN find|NN
+find|NN Cirrhosis|Disease
+marrow|NN suppression|NN sepsis|NN lack|NN folate|NN platelet|NN spleen|NN result|NN platelet|NN count|NN ast|NP alt|NP ast|NP alt|NP
+aminotransferase|NN level|NN Cirrhosis|Disease phosphatase|NN time|NN limit|NN
+correlate|NN ap|NP level|NN
+liver|NN disease|NN alcohol|NN level|NN Cirrhosis|Disease
+level|NN fall|NN function|NN liver|NN Cirrhosis|Disease albumin|NN liver|NN time|NN increase|NN liver|NN clote|NN factor|NN
+due|NN shunt|NN antigen|NN liver|NN tissue|NN
+serum|NN sodium|NN inability|NN water|NN level|NN adh|NN aldosterone|NN
+defect|NN liver|NN coagulation|NN factor|NN coagulopathy|NN correlate|NN liver|NN disease|NN
+Cirrhosis|Disease peptide|NN blood|NN system|NN portal|NN hypertension|NN oxide|NN carbon|NN monoxide|NN increase|NN output|NN oxygen|NN saturation|NN sodium|NN retention|NN kidney|NN resistance|NN
+biomarker|NN fibrosis|NN biopsy|NN
+laboratory|NN study|NN Cirrhosis|Disease
+hepatitis|NN viruse|NN autoantibody|NN muscle|NN anti-lkm|NN saturation|NN marker|NN iron|NN overload|NN copper|NN ceruloplasmin|NN marker|NN copper|NN overload|NN wilsons|NP disease|NN immunoglobulin|NN level|NN igg|NN igm|NN iga|NN immunoglobin|NN cause|NN cholesterol|NN glucose|NN alpha|NN
+image|NN doppler|NP ultrasonography|NN portal|NN vein|NN second|NN peak|NN velocity|NN point|NN velocity|NN
+ultrasound|NP evaluation|NN Cirrhosis|Disease
+liver|NN Cirrhosis|Disease echogenicity|NN appear|NN area|NN
+liver|NN find|NN Cirrhosis|Disease image|NN caudate|NN lobe|NN widen|NN fissure|NN enlargement|NN spleen|NN
+spleen|NN cm|NN adult|NN Cirrhosis|Disease portal|NN hypertension|NN context|NN
+ultrasound|NP carcinoma|NN portal|NN hypertension|NN syndrome|NN flow|NN vein|NN
+portal|NN vein|NN pulsatility|NN indicator|NN Cirrhosis|Disease pressure|NN portal|NN vein|NN indice|NN pi|NN index|NN cutoff|NN pathology|NN indice|NN pi|NN index|NN calculation|NN max|NP min|NN average|NN max|NP min|NN max|NP 05054|NP
+Cirrhosis|Disease variety|NN technique|NN
+liver|NN image|NN liver|NN stiffness|NN information|NN location|NN severity|NN Cirrhosis|Disease
+technique|NN radiation|NN force|NN impulse|NN image|NN image|NN resonance|NN
+biopsy|NN elastography|NN area|NN
+correlation|NN severity|NN Cirrhosis|Disease
+test|NN circumstance|NN ct|NN duct|NN mry|NN
+Cirrhosis|Disease ascite|NN
+Cirrhosis|Disease ct|NN abdomen|NN orientation|NN
+lobe|NN hypertrophy|NN ultrasound|NN Cirrhosis|Disease
+flow|NN portal|NN vein|NN ultrasound|NN
+examination|NN stomach|NN duodenum|NN patient|NN Cirrhosis|Disease possibility|NN varice|NN
+therapy|NN sclerotherapy|NN band|NN beta|NN blocker|NN treatment|NN
+disease|NN bile|NN duct|NN cholangitis|NN cause|NN Cirrhosis|Disease
+image|NN bile|NN duct|NN ercp|NN mrcp|NN mry|NN tract|NN pancrea|NN diagnosis|NN
+pathology|NN Cirrhosis|Disease carcinoma|NN autopsy|NN specimen|NN
+liver|NN progression|NN disease|NN
+surface|NN consistency|NN color|NN
+size|NN nodule|NN type|NN macronodular|NN Cirrhosis|Disease
+form|NN laennecs|NN Cirrhosis|Disease portal|NN Cirrhosis|Disease nodule|NN mm|NN
+Cirrhosis|Disease post-necrotic|NN Cirrhosis|Disease nodule|NN mm|NN
+Cirrhosis|Disease nodule|NN size|NN
+Cirrhosis|Disease feature|NN microscopy|NN presence|NN nodule|NN hepatocyte|NN presence|NN fibrosis|NN deposition|NN tissue|NN nodule|NN
+pattern|NN fibrosis|NN insult|NN Cirrhosis|Disease
+fibrosis|NN process|NN
+fibrosis|NN Cirrhosis|Disease destruction|NN tissue|NN liver|NN sinusoid|NN space|NN disse|NN structure|NN resistance|NN blood|NN flow|NN liver|NN portal|NN hypertension|NN
+Cirrhosis|Disease entity|NN liver|NN way|NN abnormality|NN
+example|NN hepatitis|NN infiltration|NN liver|NN parenchyma|NN lymphocyte|NN Cirrhosis|Disease erythrocyte|NN amount|NN fibrosis|NN tissue|NN vein|NN cholangitis|NN fibrosis|NN bile|NN duct|NN presence|NN granuloma|NN pool|NN bile|NN alcoholic|NN Cirrhosis|Disease infiltration|NN liver|NN neutrophil|NN grade|NN
+severity|NN Cirrhosis|Disease score|NN
+score|NN system|NN bilirubin|NN albumin|NN presence|NN severity|NN ascite|NN encephalopathy|NN patient|NN class|NN
+class|NN prognosis|NN class|NN risk|NN death|NN
+system|NN child|NN turcotte|NN pugh|NP
+score|NN allocation|NN liver|NN transplant|NN context|NN model|NN liver|NN disease|NN score|NN counterpart|NN pediatric|NN liver|NN disease|NN score|NN
+pressure|NN gradient|NN difference|NN pressure|NN blood|NN liver|NN severity|NN Cirrhosis|Disease
+value|NN mm|NN risk|NN death|NN prevention|NN
+prevention|NN strategy|NN Cirrhosis|Disease intervention|NN alcohol|NN intake|NN price|NN strategy|NN health|NN campaign|NN counsel|NN program|NN transmission|NN hepatitis|NN screen|NN relative|NN people|NN liver|NN disease|NN
+factor|NN Cirrhosis|Disease risk|NN progression|NN
+research|NN coffee|NN consumption|NN Cirrhosis|Disease treatment|NN
+liver|NN damage|NN Cirrhosis|Disease treatment|NN progression|NN complication|NN
+diet|NN Cirrhosis|Disease process|NN
+antibiotics|NN infection|NN medication|NN itch|NN
+lactulose|NN decrease|NN risk|NN constipation|NN role|NN encephalopathy|NN
+Cirrhosis|Disease alcohol|NN abuse|NN alcohol|NN
+treatment|NN Cirrhosis|Disease medication|NN type|NN hepatitis|NN interferon|NN hepatitis|NN corticosteroid|NN autoimmune|NN hepatitis|NN
+Cirrhosis|Disease wilsons|NP disease|NN copper|NN organ|NN therapy|NN example|NN copper|NN
+liver|NN damage|NN
+cause|NN Cirrhosis|Disease consumption|NN alcohol|NN paracetamol|NN substance|NN
+vaccination|NN patient|NN hepatitis|NN hepatitis|NN
+cause|NN Cirrhosis|Disease damage|NN example|NN antiviral|NN patient|NN Cirrhosis|Disease due|NN hepatitis|NN progression|NN Cirrhosis|Disease
+control|NN weight|NN diabete|NN deterioration|NN Cirrhosis|Disease due|NN steatohepatitis|NN
+article|NN liver|NN transplantation|NN
+complication|NN liver|NN function|NN liver|NN transplantation|NN
+survival|NN liver|NN transplantation|NN survival|NN rate|NN
+survival|NN rate|NN severity|NN disease|NN risk|NN factor|NN recipient|NN united|NP states|NP score|NN patient|NN transplantation|NN use|NN suppressant|NN
+manifestations|NP decompensation|NP Cirrhosis|Disease encephalopathy|NN jaundice|NN ascite|NN
+patient|NN Cirrhosis|Disease cause|NN constipation|NN infection|NN source|NN alcohol|NN intake|NN medication|NN bleed|NN varice|NN dehydration|NN
+form|NN complication|NN Cirrhosis|Disease
+people|NN Cirrhosis|Disease admission|NN hospital|NN monitor|NN fluid|NN balance|NN status|NN emphasis|NN nutrition|NN treatment|NN diuretics|NN antibiotics|NN laxative|NN enema|NN steroid|NN administration|NN saline|NN body|NN sodium|NN content|NN Cirrhosis|Disease
+life|NN expectancy|NN liver|NN transplant|NN year|NN
+care|NN care|NN patient|NN relief|NN symptom|NN pain|NN stress|NN illness|NN Cirrhosis|Disease
+goal|NN care|NN quality|NN life|NN patient|NN patient|NN family|NN stage|NN type|NN Cirrhosis|Disease
+stage|NN people|NN Cirrhosis|Disease experience|NN symptom|NN itch|NN leg|NN pain|NN treatment|NN care|NN disease|NN transplant|NN care|NN discussion|NN person|NN wishe|NN health|NN care|NN power|NN attorney|NN decision|NN life|NN support|NN hospice|NN benefit|NN people|NN Cirrhosis|Disease care|NN complication|NN Cirrhosis|Disease death|NN person|NN 9-44|NN 89104|NN 170204|NN life|NN year|NN Cirrhosis|Disease inhabitant|NN data|NN 200-300|NN 500-600|NN 800-900|NN ascite|NN
+salt|NN restriction|NN Cirrhosis|Disease accumulation|NN salt|NN sodium|NN retention|NN
+option|NN inpatient|NN treatment|NN aldosterone|NN antagonist|NN loop|NN diuretics|NN
+antagonist|NN people|NN medication|NN need|NN volume|NN reduction|NN
+loop|NN diuretics|NN therapy|NN
+reduction|NN volume|NN option|NN
+procedure|NN insertion|NN plastic|NN tube|NN cavity|NN
+albumin|NN solution|NN complication|NN volume|NN reduction|NN
+addition|NN diuretics|NN liter|NN paracentesis|NN comparison|NN therapy|NN
+portal|NN hypertension|NN beta|NN blocker|NN propranolol|NN blood|NN pressure|NN portal|NN system|NN
+complication|NN portal|NN hypertension|NN shunt|NN tip|NN pressure|NN portal|NN vein|NN
+shunt|NN encephalopathy|NN patient|NN risk|NN encephalopathy|NN
+tip|NN bridge|NN liver|NN transplantation|NN measure|NN
+citation|NN encephalopathy|NN
+food|NN nitrogen|NN balance|NN encephalopathy|NN past|NN diet|NN
+study|NN assumption|NN food|NN nutrition|NN syndrome|NN
+syndrome|NN urine|NN sodium|NN mmoll|NN serum|NN creatinine|NN hour|NN creatinine|NN clearance|NN mlmin|NN trial|NN volume|NN expansion|NN diuretics|NN peritonitis|NN
+people|NN ascite|NN Cirrhosis|Disease risk|NN peritonitis|NN
+portal|NN gastropathy|NN
+change|NN mucosa|NN stomach|NN people|NN portal|NN hypertension|NN Cirrhosis|Disease severity|NN infection|NN
+Cirrhosis|Disease system|NN dysfunction|NN infection|NN
+sign|NN symptom|NN infection|NN example|NN encephalopathy|NN fever|NN
+carcinoma|NN liver|NN cancer|NN people|NN Cirrhosis|Disease
+people|NN Cirrhosis|Disease sign|NN tumor|NN screen|NN outcome|NN epidemiology|NN
+Cirrhosis|Disease liver|NN disease|NN cause|NN death|NN men|NN women|NN united|NP states|NP kill|NN people|NN year|NN cost|NN Cirrhosis|Disease term|NN suffer|NN hospital|NN cost|NN productivity|NN
+Cirrhosis|Disease men|NN women|NN
+Cirrhosis|Disease mortality|NN cause|NN Cirrhosis|Disease Cirrhosis|Disease prognosis|NN cholangitis|NN Cirrhosis|Disease due|NN hepatitis|NN
+risk|NN death|NN cause|NN consequence|NN liver|NN disease|NN risk|NN death|NN disease|NN category|NN
+word|NN Cirrhosis|Disease neologism|NN mean|NN colour|NN liver|NN suffix|NN
+condition|NN terminology|NN
+entity|NN laennec|NN name|NN work|NN stethoscope|NN

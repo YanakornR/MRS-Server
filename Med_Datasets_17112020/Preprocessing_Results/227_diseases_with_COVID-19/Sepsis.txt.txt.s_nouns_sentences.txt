@@ -1,0 +1,176 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN genus|NN fly|NN name|NN Sepsis|Disease
+Sepsis|Disease name|NN Sepsis|Disease Sepsis|Disease blood|NN culture|NN bottle|NN orange|NN label|NN label|NN aerobe|NN label|NN blood|NN sample|NN children|NN pronunciation|NN
+disease|NN symptom|NN fever|NN heart|NN rate|NN breath|NN rate|NN confusion|NN cause|NN response|NN infection|NN risk|NN factor|NN age|NN cancer|NN diabete|NN trauma|NN method|NN response|NN syndrome|NN treatment|NN fluid|NN antibiotics|NN risk|NN death|NN frequency|NN year|NN world|NN
+Sepsis|Disease condition|NN response|NN infection|NN cause|NN injury|NN tissue|NN organ|NN sign|NN symptom|NN fever|NN heart|NN rate|NN breath|NN rate|NN confusion|NN symptom|NN infection|NN cough|NN pneumonia|NN urination|NN kidney|NN infection|NN people|NN system|NN symptom|NN infection|NN body|NN temperature|NN Sepsis|Disease Sepsis|Disease organ|NN function|NN blood|NN flow|NN blood|NN flow|NN blood|NN pressure|NN blood|NN lactate|NN urine|NN output|NN shock|NN blood|NN pressure|NN Sepsis|Disease fluid|NN replacement|NN
+Sepsis|Disease response|NN infection|NN infection|NN location|NN infection|NN lung|NN brain|NN tract|NN skin|NN organ|NN factor|NN age|NN age|NN system|NN condition|NN cancer|NN diabete|NN trauma|NN method|NN diagnosis|NN meet|NN response|NN syndrome|NN criteria|NN infection|NN sir|NN organ|NN failure|NN assessment|NN score|NN score|NN sofa|NN score|NN breath|NN rate|NN change|NN level|NN consciousness|NN blood|NN pressure|NN blood|NN culture|NN antibiotics|NN infection|NN blood|NN diagnosis|NN image|NN location|NN infection|NN cause|NN sign|NN symptom|NN insufficiency|NN blood|NN volume|NN heart|NN failure|NN embolism|NN
+Sepsis|Disease fluid|NN antibiotics|NN antibiotics|NN care|NN care|NN unit|NN fluid|NN replacement|NN blood|NN pressure|NN medication|NN blood|NN pressure|NN ventilation|NN dialysis|NN function|NN lung|NN kidney|NN guide|NN treatment|NN catheter|NN catheter|NN access|NN bloodstream|NN measurement|NN output|NN vena|NN oxygen|NN saturation|NN people|NN Sepsis|Disease need|NN measure|NN vein|NN thrombosis|NN stress|NN ulcer|NN pressure|NN ulcer|NN condition|NN intervention|NN control|NN blood|NN sugar|NN level|NN insulin|NN use|NN corticosteroid|NN review|NN benefit|NN
+disease|NN severity|NN outcome|NN risk|NN death|NN Sepsis|Disease Sepsis|Disease shock|NN number|NN case|NN data|NN world|NN estimate|NN Sepsis|Disease people|NN year|NN world|NN people|NN Sepsis|Disease case|NN year|NN united|NP states|NP rate|NN disease|NN Sepsis|Disease male|NN female|NN condition|NN time|NN hippocrates|NP term|NN Sepsis|Disease Sepsis|Disease way|NN Sepsis|Disease media|NN video|NN summary|NN script|NN content|NN
+sign|NN symptom|NN cause|NN diagnosis|NN definition|NN dysfunction|NN diagnosis|NN Sepsis|Disease factor|NN host|NN factor|NN management|NN antibiotics|NN fluid|NN blood|NN product|NN goal|NN therapy|NN epidemiology|NN history|NN society|NN culture|NN economics|NN education|NN reference|NN link|NN
+sign|NN symptom|NN charlotte|NP cleverley-bisman|NP Sepsis|Disease bloodstream|NN infection|NN
+addition|NN symptom|NN cause|NN Sepsis|Disease fever|NN body|NN temperature|NN breath|NN heart|NN rate|NN confusion|NN sign|NN heart|NN rate|NN urination|NN blood|NN sugar|NN
+sign|NN Sepsis|Disease confusion|NN acidosis|NN breath|NN rate|NN blood|NN pressure|NN resistance|NN output|NN disorder|NN blood-clote|NN organ|NN failure|NN
+drop|NN blood|NN pressure|NN Sepsis|Disease cause|NN part|NN criteria|NN shock|NN cause|NN
+Sepsis|Disease gram-positive|NN bacteria|NN cause|NN Sepsis|Disease introduction|NN antibiotics|NN
+introduction|NN antibiotics|NN bacteria|NN cause|NN Sepsis|Disease bacteria|NN case|NN Sepsis|Disease bacteria|NN escherichia|NP coly|NN pseudomona|NN specy|NN Sepsis|Disease account|NN Sepsis|Disease shock|NN case|NN cause|NN Sepsis|Disease infection|NN candida|NP specy|NN yeast|NN hospital-acquire|NN infection|NN
+site|NN infection|NN Sepsis|Disease lung|NN abdomen|NN tract|NN Sepsis|Disease case|NN start|NN infection|NN lung|NN
+source|NN half|NN case|NN diagnosis|NN
+diagnosis|NN Sepsis|Disease initiation|NN therapy|NN death|NN Sepsis|Disease hospital|NN alert|NN health|NN record|NN attention|NN case|NN
+hour|NN Sepsis|Disease study|NN blood|NN cell|NN count|NN serum|NN lactate|NN culture|NN start|NN antibiotics|NN use|NN minute|NN organism|NN set|NN blood|NN culture|NN bottle|NN media|NN organism|NN skin|NN access|NN device|NN catheter|NN place|NN hour|NN bacteria|NN blood|NN case|NN method|NN detection|NN polymerase|NN chain|NN reaction|NN
+source|NN infection|NN culture|NN source|NN urine|NN fluid|NN wound|NN secretion|NN use|NN antibiotics|NN
+hour|NN blood|NN pressure|NN fluid|NN resuscitation|NN lactate|NN
+pressure|NN oxygen|NN saturation|NN lactate|NN evidence|NN point|NN care|NN lactate|NN measurement|NN method|NN measurement|NN
+hour|NN source|NN infection|NN source|NN control|NN tissue|NN infection|NN infection|NN inflammation|NN cavity|NN line|NN infection|NN bile|NN duct|NN infarction|NN organ|NN air|NN x-ray|NN ct|NN scan|NN chest|NN x-ray|NN pneumonia|NN opacification|NN petechiae|NN fulminan|NN infection|NN
+definition|NN response|NN syndrome|NN value|NN temperature|NN c|NP f|NP c|NP f|NP heart|NN rate|NN rate|NN 20min|NN paco232|NN kpa|NN wbc|NP 4x109l|NP 12x109l|NP band|NN Sepsis|Disease step|NN
+train|NN tool|NN progression|NN Sepsis|Disease stage|NN
+criteria|NN Sepsis|Disease
+criteria|NN person|NN Sepsis|Disease probability|NN person|NN Sepsis|Disease
+level|NN Sepsis|Disease Sepsis|Disease Sepsis|Disease shock|NN definition|NN sir|NN
+presence|NN body|NN temperature|NN heart|NN rate|NN rate|NN blood|NN ga|NN blood|NN cell|NN count|NN
+Sepsis|Disease sir|NN response|NN process|NN Sepsis|Disease Sepsis|Disease Sepsis|Disease organ|NN dysfunction|NN tissue|NN hypotension|NN lactate|NN urine|NN output|NN
+Sepsis|Disease disease|NN state|NN organ|NN dysfunction|NN syndrome|NN shock|NN Sepsis|Disease blood|NN pressure|NN administration|NN fluid|NN
+consensus|NN screen|NN response|NN syndrome|NN college|NN chest|NN physician|NN concern|NN criteria|NN diagnosis|NN infection|NN treatment|NN criteria|NN Sepsis|Disease sofa|NN limitation|NN definition|NN qsofa|NN risk|NN death|NN screen|NN dysfunction|NN article|NN organ|NN dysfunction|NN syndrome|NN
+example|NN dysfunction|NN
+distress|NN syndrome|NN ratio|NN ratio|NN distress|NN syndrome|NN brain|NN encephalopathy|NN symptom|NN agitation|NN confusion|NN coma|NN cause|NN formation|NN blood|NN clot|NN blood|NN vessel|NN liver|NN disruption|NN protein|NN function|NN disruption|NN blood|NN inability|NN clote|NN factor|NN disruption|NN function|NN bilirubin|NN metabolism|NN serum|NN bilirubin|NN level|NN kidney|NN urine|NN output|NN urine|NN output|NN electrolyte|NN abnormality|NN volume|NN overload|NN heart|NN heart|NN failure|NN due|NN signal|NN function|NN damage|NN leak|NN nature|NN
+definition|NN dysfunction|NN sir|NN
+dysfunction|NN fluid|NN resuscitation|NN mlkg|NN hypotension|NN blood|NN pressure|NN percentile|NN age|NN blood|NN pressure|NN deviation|NN age|NN requirement|NN criteria|NN acidosis|NN base|NN deficit|NN acidosis|NN serum|NN lactate|NN time|NN limit|NN oliguria|NN urine|NN output|NN refil|NN second|NN core|NN temperature|NN difference|NN dysfunction|NN absence|NN heart|NN defect|NN disease|NN ratio|NN partial-pressure|NN oxygen|NN fraction|NN oxygen|NN gase|NN definition|NN lung|NN injury|NN partial-pressure|NN carbon|NN dioxide|NN baseline|NN evidence|NN failure|NN oxygen|NN requirement|NN oxygen|NN saturation|NN
+dysfunction|NN glasgow|NP coma|NP score|NN
+status|NN drop|NN gcs|NN point|NN person|NN disability|NN dysfunction|NN platelet|NN count|NN drop|NN maximum|NN ratio|NN disseminate|NN coagulation|NN kidney|NN dysfunction|NN serum|NN creatinine|NN
+time|NN limit|NN age|NN increase|NN baseline|NN creatinine|NN people|NN kidney|NN disease|NN liver|NN dysfunction|NN infant|NN month|NN serum|NN bilirubin|NN
+aminotransferase|NN alt|NP
+time|NN limit|NN
+consensus|NN definition|NN list|NN sign|NN symptom|NN Sepsis|Disease bedside|NN experience|NN
+review|NN evidence|NN use|NN level|NN method|NN Sepsis|Disease cause|NN sir|NN review|NN sensitivity|NN test|NN specificity|NN
+author|NN marker|NN Sepsis|Disease level|NN diagnosis|NN review|NN plasminogen|NN activator|NN receptor|NN supar|NN marker|NN inflammation|NN Sepsis|Disease review|NN value|NN level|NN rate|NN death|NN Sepsis|Disease diagnosis|NN
+diagnosis|NN Sepsis|Disease order|NN condition|NN sign|NN alcohol|NN withdrawal|NN pancreatitis|NN embolism|NN insufficiency|NN shock|NN syndrome|NN hlh|NN symptom|NN diagnosis|NN Sepsis|Disease
+usage|NN Sepsis|Disease blood|NN stream|NN infection|NN month|NN life|NN meningitis|NN pneumonia|NN gastroenteritis|NN Sepsis|Disease infection|NN fungy|NN viruse|NN parasite|NN criteria|NN regard|NN compromise|NN failure|NN intervention|NN
+strategy|NN switche|NN microbe|NN Sepsis|Disease
+Sepsis|Disease combination|NN factor|NN pathogen|NN status|NN system|NN host|NN phase|NN Sepsis|Disease inflammation|NN cytokine|NN storm|NN period|NN function|NN system|NN phase|NN
+hand|NN response|NN syndrome|NN people|NN presence|NN infection|NN example|NN burn|NN state|NN pancreatitis|NN pneumonitis|NN
+Sepsis|Disease response|NN factor|NN
+virulence|NN factor|NN adhesin|NN colonization|NN evasion|NN establishment|NN disease|NN host|NN Sepsis|Disease bacteria|NN response|NN host|NN component|NN endotoxin|NN Sepsis|Disease bacteria|NN response|NN cell|NN wall|NN acid|NN act|NN Sepsis|Disease histocompatibility|NN complex|NN t-cell|NN receptor|NN absence|NN antigen|NN presentation|NN
+receptor|NN interaction|NN production|NN signal|NN cytokine|NN
+number|NN factor|NN cascade|NN
+pathogen|NN pattern|NN
+example|NN pamp|NN bacteria|NN dipeptide|NN peptidoglycan|NN cell|NN wall|NN dna|NN
+pamp|NN pattern|NN recognition|NN receptor|NN system|NN family|NN prr|NN receptor|NN c-type|NN receptor|NN receptor|NN receptor|NN
+association|NN pamp|NN prr|NN series|NN signal|NN cascade|NN
+transcription|NN factor|NN b|NP activator|NN protein-1|NN expression|NN pro-inflammatory|NN cytokine|NN host|NN factor|NN
+detection|NN antigen|NN host|NN system|NN
+cell|NN pattern|NN pattern|NN tissue|NN
+response|NN leukocyte|NN site|NN infection|NN body|NN
+immunosuppression|NN state|NN proinflammatory|NN helper|NN cell|NN interleukin|NN response|NN syndrome|NN apoptosis|NN cell|NN death|NN lymphocyte|NN immunosuppression|NN
+organ|NN failure|NN tissue|NN oxygen|NN inhibition|NN cytochrome|NN oxidase|NN
+response|NN organ|NN dysfunction|NN syndrome|NN mechanism|NN
+permeability|NN lung|NN vessel|NN leak|NN fluid|NN alveoly|NN result|NN edema|NN distress|NN syndrome|NN
+utilization|NN oxygen|NN liver|NN bile|NN salt|NN transport|NN jaundice|NN discoloration|NN skin|NN
+kidney|NN oxygenation|NN result|NN cell|NN injury|NN cell|NN kidney|NN tubule|NN kidney|NN injury|NN
+heart|NN calcium|NN transport|NN production|NN adenosine|NN triphosphate|NN atp|NN depression|NN contractility|NN heart|NN failure|NN
+tract|NN permeability|NN mucosa|NN microflora|NN bleed|NN ileus|NN
+system|NN damage|NN brain|NN cell|NN disturbance|NN cause|NN status|NN tumor|NN necrosis|NN factor|NN interleukin|NN interleukin|NN factor|NN cell|NN line|NN blood|NN vessel|NN damage|NN
+surface|NN property|NN increase|NN clote|NN formation|NN blood|NN clot|NN blood|NN vessel|NN organ|NN failure|NN
+blood|NN pressure|NN Sepsis|Disease result|NN process|NN production|NN chemical|NN blood|NN vessel|NN oxide|NN deficiency|NN chemical|NN blood|NN vessel|NN activation|NN potassium|NN channel|NN Sepsis|Disease shock|NN sequence|NN event|NN type|NN shock|NN shock|NN management|NN
+recognition|NN management|NN outcome|NN Sepsis|Disease
+recommendation|NN number|NN action|NN bundle|NN diagnosis|NN
+hour|NN Sepsis|Disease antibiotics|NN fluid|NN evidence|NN blood|NN pressure|NN evidence|NN blood|NN supply|NN organ|NN level|NN lactate|NN blood|NN culture|NN time|NN period|NN
+hour|NN blood|NN pressure|NN monitor|NN blood|NN pressure|NN blood|NN supply|NN organ|NN place|NN lactate|NN bundle|NN Sepsis|Disease use|NN kingdom|NN administration|NN antibiotics|NN hour|NN recognition|NN blood|NN culture|NN lactate|NN determination|NN urine|NN output|NN monitor|NN oxygen|NN fluid|NN
+administration|NN fluid|NN antibiotics|NN management|NN Sepsis|Disease drainage|NN fluid|NN collection|NN support|NN organ|NN dysfunction|NN
+kidney|NN failure|NN ventilation|NN lung|NN dysfunction|NN transfusion|NN blood|NN product|NN drug|NN fluid|NN therapy|NN failure|NN
+nutritionpreferably|NN feed|NN illness|NN vein|NN thrombosis|NN ulcer|NN antibiotics|NN
+set|NN blood|NN culture|NN initiation|NN antibiotics|NN
+culture|NN site|NN secretion|NN urine|NN wound|NN fluid|NN catheter|NN insertion|NN site|NN hour|NN infection|NN site|NN Sepsis|Disease shock|NN antibiotics|NN
+antibiotic|NN coverage|NN broad-spectrum|NN macrolide|NN
+combination|NN antibiotics|NN treatment|NN Sepsis|Disease shock|NN immunocompromise|NN person|NN combination|NN activity|NN
+choice|NN antibiotics|NN survival|NN person|NN hour|NN diagnosis|NN hour|NN delay|NN administration|NN antibiotics|NN rise|NN mortality|NN benefit|NN administration|NN
+factor|NN choice|NN antibiotic|NN regimen|NN
+factor|NN pattern|NN sensitivity|NN antibiotics|NN infection|NN hospital|NN infection|NN organ|NN system|NN regimen|NN
+treatment|NN duration|NN day|NN type|NN antibiotic|NN result|NN culture|NN
+culture|NN result|NN antibiotics|NN person|NN response|NN infection|NN chance|NN person|NN drug|NN resistance|NN organism|NN
+case|NN people|NN risk|NN drug|NN resistance|NN organism|NN pseudomona|NN addition|NN antibiotic|NN organism|NN
+staphylococcus|NP aureus|NN
+infection|NN addition|NN macrolide|NN
+infection|NN echinocandin|NN people|NN Sepsis|Disease fluconazole|NN itraconazole|NN people|NN antibiotic|NN prophylaxis|NN people|NN origin|NN pancreatitis|NN burn|NN Sepsis|Disease
+dose|NN aminoglycoside|NN peak|NN plasma|NN concentration|NN response|NN kidney|NN toxicity|NN
+antibiotics|NN volume|NN distribution|NN load|NN dose|NN level|NN fight|NN infection|NN
+infusion|NN antibiotics|NN dose|NN antibiotics|NN level|NN concentration|NN response|NN antibiotics|NN access|NN drug|NN monitor|NN drug|NN level|NN time|NN drug|NN level|NN fluid|NN
+Sepsis|Disease campaign|NN mlkg|NN fluid|NN adult|NN hour|NN fluid|NN titration|NN blood|NN pressure|NN urine|NN output|NN rate|NN oxygen|NN saturation|NN target|NN pressure|NN map|NN mmhg|NN children|NN amount|NN 20mlkg|NN shock|NN case|NN Sepsis|Disease shock|NN catheter|NN measure|NN blood|NN pressure|NN fluid|NN pressure|NN cvp|NP mmhg|NN goal|NN oxygen|NN saturation|NN oxygen|NN saturation|NN blood|NN heart|NN cava|NN scvo2|NN blood|NN hemoglobin|NN scvo2|NN distress|NN syndrome|NN tissue|NN blood|NN fluid|NN fluid|NN
+fluid|NN choice|NN resuscitation|NN amount|NN crystalloid|NN solution|NN difference|NN starch|NN term|NN risk|NN death|NN risk|NN kidney|NN injury|NN need|NN blood|NN transfusion|NN colloid|NN solution|NN gelatin|NN advantage|NN albumin|NN benefit|NN blood|NN product|NN
+Sepsis|Disease campaign|NN blood|NN cell|NN transfusion|NN level|NN ischemia|NN bleed|NN trial|NN blood|NN transfusion|NN target|NN gl|NN difference|NN survival|NN rate|NN threshold|NN transfusion|NN transfusion|NN erythropoietin|NN treatment|NN anemia|NN shock|NN blood|NN clote|NN event|NN
+plasma|NN transfusion|NN clote|NN abnormality|NN procedure|NN
+platelet|NN transfusion|NN platelet|NN count|NN 109l|NN risk|NN 109l|NN risk|NN 109l|NN bleed|NN surgery|NN procedure|NN immunoglobulin|NN effect|NN preparation|NN immunoglobulin|NN rate|NN death|NN newborn|NN adult|NN Sepsis|Disease evidence|NN use|NN preparation|NN ivig|NN hand|NN use|NN antithrombin|NN intravascular|NN coagulation|NN
+blood|NN purification|NN technique|NN plasma|NN filtration|NN plasma|NN filtration|NN adsorption|NN mediator|NN toxin|NN blood|NN survival|NN benefit|NN shock|NN
+person|NN pressure|NN mmhg|NN noradrenaline|NN choice|NN
+treatment|NN shock|NN evidence|NN deficiency|NN vasopressin|NN shock|NN hour|NN blood|NN pressure|NN vasoconstriction|NN effect|NN effect|NN stroke|NN volume|NN heart|NN rate|NN people|NN dose|NN vasopressor|NN pressure|NN order|NN dose|NN epinephrine|NN treatment|NN shock|NN blood|NN flow|NN organ|NN increase|NN lactate|NN level|NN adrenaline|NN side|NN effect|NN blood|NN flow|NN organ|NN lactate|NN level|NN
+shock|NN study|NN deficiency|NN vasopressin|NN shock|NN hour|NN
+blood|NN flow|NN heart|NN organ|NN lack|NN oxygen|NN supply|NN tissue|NN
+dopamine|NN stroke|NN volume|NN heart|NN heart|NN rhythm|NN effect|NN
+property|NN kidney|NN shock|NN output|NN blood|NN flow|NN tissue|NN epinephrine|NN side|NN effect|NN blood|NN flow|NN gut|NN output|NN heart|NN rate|NN
+use|NN steroid|NN Sepsis|Disease study|NN picture|NN Sepsis|Disease campaign|NN use|NN shock|NN fluid|NN vasopressor|NN person|NN function|NN
+dose|NN hydrocortisone|NN fluid|NN vasopressor|NN shock|NN cochrane|NP review|NN evidence|NN benefit|NN review|NN
+illness|NN state|NN insufficiency|NN tissue|NN resistance|NN corticosteroid|NN
+insufficiency|NN treatment|NN corticosteroid|NN shock|NN ard|NN role|NN pancreatitis|NN pneumonia|NN way|NN insufficiency|NN
+resuscitation|NN fluid|NN vasopressor|NN
+stimulation|NN test|NN cortisol|NN level|NN diagnosis|NN method|NN drug|NN
+Sepsis|Disease campaign|NN taper|NN steroid|NN
+target|NN volume|NN mlkg|NN body|NN weight|NN plateau|NN pressure|NN cm|NN h2o|NN ventilation|NN Sepsis|Disease ard|NN
+end|NN pressure|NN peep|NN ard|NN Sepsis|Disease lung|NN unit|NN oxygen|NN exchange|NN
+body|NN weight|NN sex|NN height|NN tool|NN recruitment|NN ard|NN pressure|NN
+head|NN bed|NN ventilation|NN
+receptor|NN agonist|NN survival|NN rate|NN precipitate|NN heart|NN rhythm|NN
+breath|NN trial|NN airway|NN pressure|NN t|NP piece|NN pressure|NN augmentation|NN duration|NN ventilation|NN
+sedation|NN duration|NN ventilation|NN
+anesthesia|NN people|NN Sepsis|Disease procedure|NN source|NN
+requirement|NN anesthetics|NN Sepsis|Disease
+level|NN cytokine|NN leukocyte|NN adhesion|NN proliferation|NN apoptosis|NN cell|NN death|NN lymphocyte|NN effect|NN function|NN effect|NN system|NN medication|NN intubation|NN situation|NN concern|NN function|NN risk|NN death|NN amount|NN evidence|NN change|NN risk|NN death|NN
+agent|NN use|NN Sepsis|Disease case|NN absence|NN ard|NN body|NN evidence|NN point|NN duration|NN ventilation|NN icu|NN hospital|NN use|NN case|NN
+ventilation|NN evidence|NN ventilation|NN Sepsis|Disease oxygen|NN consumption|NN delivery|NN goal|NN therapy|NN
+goal|NN therapy|NN egdt|NN approach|NN management|NN Sepsis|Disease hour|NN diagnosis|NN approach|NN goal|NN preload|NN contractility|NN antibiotics|NN monitor|NN parameter|NN intervention|NN resuscitation|NN target|NN pressure|NN pressure|NN oxygen|NN saturation|NN urine|NN output|NN mlkghour|NN
+goal|NN oxygen|NN delivery|NN tissue|NN balance|NN oxygen|NN delivery|NN demand|NN decrease|NN serum|NN lactate|NN
+trial|NN goal|NN therapy|NN mortality|NN Sepsis|Disease Sepsis|Disease campaign|NN use|NN control|NN trial|NN arise|NN promise|NN mortality|NN benefit|NN goal|NN therapy|NN therapy|NN Sepsis|Disease part|NN egdt|NN trial|NN use|NN egdt|NN newborn|NN
+Sepsis|Disease newborn|NN show|NN sign|NN symptom|NN Sepsis|Disease antibiotics|NN organism|NN test|NN cause|NN symptom|NN intervention|NN death|NN children|NN shock|NN risk|NN health|NN problem|NN
+organ|NN system|NN failure|NN inotropic|NN agent|NN mortality|NN
+fever|NN Sepsis|Disease people|NN shock|NN improvement|NN mortality|NN period|NN day|NN treatment|NN fever|NN reason|NN
+2012|NP cochrane|NP review|NN mortality|NN sir|NN Sepsis|Disease
+protein|NN c|NP drotrecogin|NP alpha|NN Sepsis|Disease apache|NN score|NN survival|NN benefit|NN study|NN eventsbleed|NN risk|NN particularand|NN mortality|NN sale|NN medication|NN benefit|NN
+blood|NN sugar|NN level|NN insulin|NN mmoll|NN mgdl|NN level|NN outcome|NN level|NN blood|NN care|NN measurement|NN
+person|NN catheter|NN blood|NN blood|NN glucose|NN test|NN
+replacement|NN therapy|NN
+sodium|NN bicarbonate|NN person|NN acidosis|NN
+weight|NN heparin|NN heparin|NN prophylaxis|NN compression|NN device|NN person|NN Sepsis|Disease risk|NN thromboembolism|NN stress|NN ulcer|NN prevention|NN inhibitor|NN antagonist|NN person|NN risk|NN factor|NN ugib|NN ventilation|NN hour|NN coagulation|NN disorder|NN liver|NN disease|NN replacement|NN therapy|NN feed|NN delivery|NN nutrient|NN feed|NN tube|NN approach|NN nutrition|NN person|NN intake|NN day|NN Sepsis|Disease nutrition|NN
+acid|NN supplement|NN person|NN Sepsis|Disease shock|NN
+usage|NN agent|NN domperidone|NN feed|NN
+agent|NN prolongation|NN qt|NP interval|NN arrhythmia|NN torsade|NN de|NP pointe|NN
+usage|NN agent|NN
+Sepsis|Disease people|NN shock|NN 3070|NN people|NN method|NN prognosis|NN level|NN mortality|NN level|NN mortality|NN
+number|NN stratification|NN system|NN mortality|NN emergency|NN department|NN Sepsis|Disease
+factor|NN person|NN age|NN condition|NN physiologic|NN variable|NN yield|NN estimate|NN risk|NN dy|NN Sepsis|Disease
+individual|NN severity|NN disease|NN risk|NN death|NN
+shock|NN predictor|NN mortality|NN
+rate|NN culture-positive|NN Sepsis|Disease
+mortality|NN emergency|NN department|NN Sepsis|Disease score|NN emergency|NN department|NN environment|NN
+people|NN decline|NN episode|NN Sepsis|Disease absence|NN baseline|NN data|NN people|NN Sepsis|Disease incidence|NN epidemiology|NN
+Sepsis|Disease death|NN year|NN cause|NN death|NN people|NN incidence|NN Sepsis|Disease case|NN year|NN united|NP states|NP Sepsis|Disease people|NN Sepsis|Disease death|NN year|NN
+Sepsis|Disease hospitalization|NN account|NN icu|NN bed|NN utilization|NN
+diagnosis|NN complication|NN cancer|NN illness|NN incidence|NN mortality|NN morbidity|NN rate|NN Sepsis|Disease study|NN state|NN hospital|NN stay|NN population|NN Sepsis|Disease diagnosis|NN cause|NN death|NN care|NN unit|NN icu|NN cause|NN death|NN heart|NN disease|NN children|NN month|NN age|NN people|NN incidence|NN Sepsis|Disease patient|NN Sepsis|Disease hospital|NN admission|NN nurse|NN facility|NN term|NN care|NN hospitalization|NN form|NN care|NN study|NN state|NN medicare|NP patient|NN Sepsis|Disease second|NN reason|NN readmission|NN day|NN
+condition|NN person|NN susceptibility|NN infection|NN Sepsis|Disease
+Sepsis|Disease risk|NN factor|NN age|NN condition|NN system|NN cancer|NN diabete|NN absence|NN spleen|NN trauma|NN burn|NN
+data|NN united|NP states|NP hospital|NN discharge|NN survey|NN incidence|NN Sepsis|Disease case|NN population|NN incidence|NN men|NN women|NN
+time|NN frame|NN case|NN fatality|NN rate|NN
+inpatient|NN sample|NN united|NP states|NP incidence|NN Sepsis|Disease population|NN case|NN population|NN year|NN
+incidence|NN rate|NN infant|NN incidence|NN case|NN population|NN
+mortality|NN Sepsis|Disease increase|NN age|NN age|NN group|NN year|NN decade|NN life|NN increase|NN age|NN population|NN presence|NN people|NN disease|NN medication|NN increase|NN number|NN procedure|NN rate|NN Sepsis|Disease history|NN personification|NN septicaemia|NN spray|NN poison|NN
+Sepsis|Disease hippocrates|NP century|NN process|NN decay|NN decomposition|NN matter|NN century|NN term|NN blood|NN rot|NN disease|NN process|NN
+toxicity|NN century|NN term|NN Sepsis|Disease condition|NN
+term|NN Sepsis|Disease septicaemia|NN Sepsis|Disease microorganism|NN toxin|NN blood|NN term|NN microorganism|NN bacteria|NN blood|NN level|NN issue|NN viruse|NN fungemia|NN fungus|NN
+end|NN century|NN microbe|NN substance|NN host|NN toxin|NN infection|NN fever|NN shock|NN infection|NN
+pfeiffer|NP term|NN endotoxin|NN begine|NN century|NN principle|NN cholerae|NN
+endotoxin|NN gram-negative|NN bacteria|NN
+character|NN endotoxin|NN character|NN material|NN
+strain|NN mice|NN shock|NN locus|NN effect|NN
+mice|NN infection|NN bacteria|NN observation|NN discovery|NN receptor|NN gene|NN map|NN work|NN period|NN year|NN candidate|NN locus|NN region|NN mutation|NN account|NN resistance|NN phenotype|NN
+defect|NN gene|NN endotoxin|NN phenotype|NN mutation|NN cytoplasm|NN
+controversy|NN community|NN use|NN mouse|NN model|NN research|NN Sepsis|Disease 2013|NN scientist|NN review|NN mouse|NN system|NN system|NN system|NN level|NN author|NN date|NN article|NN trial|NN Sepsis|Disease human|NN data|NN mice|NN
+author|NN use|NN mouse|NN model|NN Sepsis|Disease research|NN caution|NN result|NN mouse|NN study|NN design|NN study|NN approach|NN biopsy|NN data|NN people|NN Sepsis|Disease drug|NN target|NN intervention|NN society|NN culture|NN economics|NN
+Sepsis|Disease condition|NN united|NP states|NP hospital|NN 2013|NN cost|NN cost|NN Sepsis|Disease hospital|NN percent|NN increase|NN payer|NN condition|NN medicare|NP medicaid|NP insurance|NN education|NN
+collaboration|NN Sepsis|Disease campaign|NN people|NN Sepsis|Disease patient|NN outcome|NN Sepsis|Disease
+campaign|NN review|NN management|NN strategy|NN Sepsis|Disease aim|NN set|NN guideline|NN year|NN
+Sepsis|Disease alliance|NN organization|NN Sepsis|Disease awareness|NN public|NN healthcare|NN professional|NN

@@ -1,0 +1,74 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Hypercholesterolemia|Disease name|NN Hypercholesterolemia|Disease Hypercholesterolemia|Disease palpebrarumjpg|NN patche|NN cholesterol|NN deposit|NN eyelid|NN
+people|NN Hypercholesterolemia|Disease
+Hypercholesterolemia|Disease Hypercholesterolemia|Disease presence|NN level|NN cholesterol|NN blood|NN form|NN blood|NN lipid|NN level|NN lipoprotein|NN blood|NN
+level|NN cholesterol|NN ldl|NN blood|NN consequence|NN diet|NN obesity|NN disease|NN ldl|NN receptor|NN mutation|NN Hypercholesterolemia|Disease presence|NN disease|NN type|NN diabete|NN thyroid|NN
+cholesterol|NN class|NN lipid|NN animal|NN cell|NN membrane|NN animal|NN cell|NN
+plant|NN cell|NN cholesterol|NN
+precursor|NN hormone|NN bile|NN acid|NN
+cholesterol|NN water|NN blood|NN plasma|NN protein|NN particle|NN lipoprotein|NN
+density|NN density|NN lipoprotein|NN vldl|NP density|NN lipoprotein|NN density|NN lipoprotein|NN ldl|NN density|NN lipoprotein|NN hdl|NP lipoprotein|NN cholesterol|NN level|NN lipoprotein|NN hdl|NP cholesterol|NN risk|NN atherosclerosis|NN heart|NN disease|NN contrast|NN level|NN hdl|NP cholesterol|NN
+tran|NN fat|NN fat|NN adult|NN diet|NN fat|NN measure|NN blood|NN cholesterol|NN ldl|NN adult|NN people|NN Hypercholesterolemia|Disease Hypercholesterolemia|Disease diet|NN lower|NN ldl|NN lipid-lower|NN medication|NN treatment|NN ldl|NN surgery|NN subtype|NN Hypercholesterolemia|Disease adult|NN united|NP states|NP blood|NN cholesterol|NN content|NN
+sign|NN symptom|NN cause|NN condition|NN treatment|NN genetics|NN diet|NN diagnosis|NN classification|NN screen|NN treatment|NN lifestyle|NN diet|NN guideline|NN population|NN medicine|NN epidemiology|NN research|NN direction|NN reference|NN link|NN
+sign|NN symptom|NN
+Hypercholesterolemia|Disease elevation|NN serum|NN cholesterol|NN atherosclerosis|NN harden|NN artery|NN period|NN decade|NN serum|NN cholesterol|NN formation|NN plaque|NN artery|NN
+narrow|NN artery|NN
+plaque|NN clot|NN form|NN blood|NN flow|NN blockage|NN artery|NN heart|NN attack|NN
+blockage|NN artery|NN brain|NN stroke|NN
+development|NN stenosis|NN occlusion|NN blood|NN supply|NN tissue|NN organ|NN organ|NN function|NN
+point|NN tissue|NN restriction|NN blood|NN supply|NN symptom|NN
+example|NN ischemia|NN brain|NN ischemic|NN attack|NN loss|NN vision|NN dizziness|NN impairment|NN balance|NN difficulty|NN weakness|NN numbness|NN side|NN body|NN
+blood|NN supply|NN heart|NN chest|NN pain|NN ischemia|NN eye|NN loss|NN eye|NN
+blood|NN supply|NN leg|NN calf|NN pain|NN intestine|NN pain|NN meal|NN
+type|NN Hypercholesterolemia|Disease lead|NN find|NN
+example|NN Hypercholesterolemia|Disease type|NN patche|NN skin|NN eyelid|NN discoloration|NN cornea|NN deposition|NN cholesterol-rich|NN material|NN tendon|NN finger|NN type|NN xanthomata|NN palm|NN knee|NN elbow|NN cause|NN formula|NN structure|NN cholesterol|NN
+Hypercholesterolemia|Disease combination|NN factor|NN factor|NN weight|NN diet|NN stress|NN condition|NN treatment|NN
+number|NN condition|NN cholesterol|NN level|NN diabete|NN mellitus|NN type|NN obesity|NN alcohol|NN use|NN gammopathy|NN dialysis|NN therapy|NN syndrome|NN hypothyroidism|NN syndrome|NN anorexia|NN nervosa|NN medication|NN class|NN medication|NN metabolism|NN diuretics|NN beta|NN blocker|NN acid|NN anticonvulsant|NN medication|NN hiv|NP genetics|NN
+contribution|NN effect|NN gene|NN gene|NN defect|NN case|NN Hypercholesterolemia|Disease Hypercholesterolemia|Disease mutation|NN gene|NN ldlrap1|NN gene|NN Hypercholesterolemia|Disease variant|NN gene|NN ldl|NN receptor|NN gene|NN Hypercholesterolemia|Disease people|NN diet|NN
+diet|NN effect|NN blood|NN cholesterol|NN size|NN effect|NN individual|NN cholesterol|NN intake|NN production|NN liver|NN blood|NN cholesterol|NN change|NN
+response|NN Hypercholesterolemia|Disease anorexia|NN nervosa|NN
+review|NN evidence|NN cholesterol|NN blood|NN cholesterol|NN trans|NP fat|NN level|NN hdl|NP level|NN ldl|NN ldl|NN cholesterol|NN fructose|NN intake|NN diagnosis|NN lipoprotein|NN range|NN lipoprotein|NN range|NN interpretation|NN cholesterol|NN level|NN cholesterol|NN type|NN interpretation|NN total|NN cholesterol|NN 200239|NN borderline|NN ldl|NN cholesterol|NN 130159|NN borderline|NN hdl|NP cholesterol|NN risk|NN risk|NN indication|NN ldl|NN cholesterol|NN risk|NN
+reduction|NN risk|NN mi|NP year|NN risk|NN factor|NN heart|NN disease|NN diabete|NN disease|NN disease|NN aneurysm|NN risk|NN factor|NN mmoll|NN risk|NN mi|NP year|NN risk|NN factor|NN risk|NN mi|NP year|NN risk|NN factor|NN risk|NN factor|NN
+cholesterol|NN milligram|NN mgdl|NN blood|NN united|NP states|NP country|NN
+kingdom|NN country|NN canada|NP millimoles|NP blood|NN mmolll|NN measure|NN
+adult|NN uk|NP health|NN service|NN limit|NN cholesterol|NN lipoprotein|NN cholesterol|NN ldl|NN mmoll|NN
+people|NN risk|NN disease|NN limit|NN cholesterol|NN mmoll|NN mmoll|NN ldl|NN
+united|NP states|NP heart|NN lung|NN blood|NN institute|NN institute|NN health|NN cholesterol|NN mgdl|NN mgdl|NN borderline|NN mgdl|NN
+cutoff|NN cholesterol|NN level|NN interpretation|NN value|NN relation|NN health|NN condition|NN risk|NN factor|NN
+level|NN cholesterol|NN increase|NN risk|NN disease|NN heart|NN disease|NN level|NN ldl|NN cholesterol|NN heart|NN disease|NN predictor|NN level|NN ldl|NN measurement|NN ldl|NN risk|NN prediction|NN ldl|NN vldl|NP level|NN
+level|NN triglyceride|NN indicator|NN vldl|NP level|NN triglyceride|NN vldl|NP ldl|NN formula|NN
+cholesterol|NN hdl|NP triglyceride|NN
+equation|NN blood|NN sample|NN triglyceride|NN mmoll|NN
+guideline|NN use|NN method|NN measurement|NN ldl|NN lipoprotein|NN vldl|NP idl|NP ldl|NN hdl|NP Hypercholesterolemia|Disease measurement|NN apolipoprotein|NN lipoprotein|NN value|NN screen|NN form|NN Hypercholesterolemia|Disease classification|NN article|NN
+Hypercholesterolemia|Disease lipoprotein|NN electrophoresis|NN classification|NN
+method|NN lipoprotein|NN subclass|NN analysis|NN improvement|NN understand|NN connection|NN atherosclerosis|NN progression|NN consequence|NN
+Hypercholesterolemia|Disease Hypercholesterolemia|Disease family|NN history|NN onset|NN atherosclerosis|NN
+citation|NN screen|NN color|NN photograph|NN bag|NN plasma|NN bag|NN left|NN donor|NN Hypercholesterolemia|Disease fluid|NN bag|NN donor|NN fluid|NN
+bag|NN plasma|NN bag|NN left|NN donor|NN hyperlipidemia|NN bag|NN donor|NN serum|NN level|NN
+service|NN task|NN force|NN routine|NN screen|NN men|NN year|NN women|NN year|NN disorder|NN treatment|NN lipid|NN people|NN risk|NN heart|NN disease|NN
+screen|NN men|NN year|NN women|NN year|NN risk|NN factor|NN heart|NN disease|NN 2016|NN test|NN population|NN age|NN symptom|NN benefit|NN
+canada|NP screen|NN men|NN women|NN cholesterol|NN level|NN screen|NN year|NN people|NN statin|NN test|NN benefit|NN compliance|NN treatment|NN treatment|NN
+risk|NN combination|NN lifestyle|NN modification|NN statin|NN decrease|NN mortality|NN lifestyle|NN
+lifestyle|NN change|NN Hypercholesterolemia|Disease smoke|NN cessation|NN alcohol|NN consumption|NN activity|NN weight|NN
+individual|NN blood|NN cholesterol|NN weight|NN average|NN kilogram|NN weight|NN loss|NN ldl|NN cholesterol|NN diet|NN
+diet|NN proportion|NN vegetable|NN fruit|NN fibre|NN fat|NN result|NN decrease|NN cholesterol|NN
+cholesterol|NN rise|NN serum|NN cholesterol|NN limit|NN cholesterol|NN united|NP states|NP canada|NP united|NP kingdom|NP australia|NP guideline|NN committee|NN united|NP states|NP recommendation|NN cholesterol|NN intake|NN
+cochrane|NP review|NN fat|NN fat|NN decrease|NN disease|NN blood|NN cholesterol|NN review|NN effect|NN fat|NN disease|NN trans|NP fat|NN risk|NN factor|NN disease|NN adult|NN diet|NN
+lipid|NN association|NN people|NN Hypercholesterolemia|Disease intake|NN fat|NN 2535|NN energy|NN intake|NN fat|NN energy|NN intake|NN cholesterol|NN mg|NN day|NN change|NN intake|NN calorie|NN diet|NN blood|NN cholesterol|NN
+fiber|NN consumption|NN level|NN ldl|NN cholesterol|NN gram|NN fiber|NN ldl|NN average|NN mgdl|NN consumption|NN grain|NN ldl|NN cholesterol|NN grain|NN oat|NN inclusion|NN g|NN day|NN phytosterol|NN phytostanol|NN g|NN day|NN fiber|NN cholesterol|NN absorption|NN diet|NN fructose|NN ldl|NN cholesterol|NN level|NN blood|NN
+medication|NN addition|NN lifestyle|NN intervention|NN cholesterol|NN majority|NN people|NN risk|NN disease|NN people|NN disease|NN people|NN disease|NN mortality|NN heart|NN disease|NN stroke|NN greater|NP benefit|NN use|NN therapy|NN quality|NN life|NN people|NN disease|NN prevention|NN decrease|NN cholesterol|NN children|NN Hypercholesterolemia|Disease study|NN show|NN outcome|NN diet|NN mainstay|NN therapy|NN childhood|NN
+agent|NN acid|NN women|NN antibody|NN protein|NN alirocumab|NN ldl|NN cholesterol|NN mortality|NN guideline|NN
+prevalence|NN disease|NN Hypercholesterolemia|Disease practice|NN guideline|NN risk|NN stratification|NN treatment|NN
+usa|NP guideline|NN cholesterol|NN education|NN program|NN body|NN society|NN heart|NN association|NN
+uk|NP institute|NN health|NN excellence|NN recommendation|NN treatment|NN cholesterol|NN level|NN 2008|NN guideline|NN prevention|NN disease|NN
+task|NN force|NN management|NN dyslipidaemia|NN society|NN cardiology|NN atherosclerosis|NN society|NN guideline|NN management|NN dyslipidaemia|NN population|NN
+people|NN life|NN expectancy|NN Hypercholesterolemia|Disease risk|NN factor|NN death|NN cause|NN heart|NN disease|NN people|NN Hypercholesterolemia|Disease risk|NN factor|NN infarction|NN angina|NN risk|NN people|NN use|NN drug|NN medication|NN level|NN people|NN life|NN expectancy|NN
+college|NN physician|NN Hypercholesterolemia|Disease people|NN diabete|NN
+therapy|NN prevention|NN mortality|NN morbidity|NN adult|NN artery|NN disease|NN type|NN diabete|NN
+prevention|NN complication|NN adult|NN type|NN diabete|NN risk|NN factor|NN
+therapy|NN people|NN type|NN diabete|NN mellitus|NN dose|NN statin|NN people|NN type|NN diabete|NN routine|NN monitor|NN liver|NN function|NN test|NN muscle|NN enzyme|NN circumstance|NN
+survey|NN medicine|NN attempt|NN cholesterol|NN adult|NN
+survey|NN majority|NN individual|NN conjunction|NN medicine|NN review|NN trial|NN andor|NN dose|NN average|NN lower|NN ldl-cholesterol|NN food|NN drug|NN administration|NN label|NN food|NN amount|NN ester|NN ester|NN cholesterol-lower|NN fda|NP health|NN claim|NN rule|NN label|NN claim|NN food|NN supplement|NN gday|NN phytosterol|NN phytostanol|NN
+researcher|NN diet|NN supplementation|NN plant|NN ester|NN draw|NN attention|NN lack|NN safety|NN data|NN epidemiology|NN
+rate|NN cholesterol|NN united|NP states|NP
+cholesterol|NN kingdom|NN mmoll|NN china|NP japan|NP average|NN total|NN cholesterol|NN rate|NN artery|NN disease|NN great|NP britain|NP china|NP japan|NP research|NN direction|NN
+gene|NP therapy|NN treatment|NN

@@ -1,0 +1,36 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN thumb|NN 
+repetitive_strain_injury|DS name|NN repetitive_strain_injury|DS repetitive_strain_injury|DS repetitive_strain_injury|DS disorder|NN repetitive_strain_injury|DS operate|NN computer|NN keyboard|NN mod|NN technique|NN computer|NN user|NN cause|NN repetitive_strain_injury|DS sport|NN medicine|NN perform|NN art|NN medicine|NN symptom|NN wrist|NN pain|ST tingle|NN extremity|NN weakness|ST complication|NN ligament|NN cause|NN action|NN technique|NN risk|NN factor|NN lifestyle|NN smoke|NN alcohol|NN consumption|NN prevention|NN technique|NN regular|NN exercise|NN death|NN 
+repetitive_strain_injury|DS repetitive_strain_injury|DS category|NN injury|NN musculoskeletal|NN system|NN task|NN exertion|NN vibration|NN compression|NN position|NN name|NN repetitive_strain_injury|DS repetitive_strain_injury|DS repetitive_strain_injury|DS repetitive_strain_injury|DS content|NN 
+sign|NN symptom|NN definition|NN risk|NN factor|NN risk|NN factor|NN factor|NN factor|NN diagnosis|NN treatment|NN history|NN society|NN note|NN link|NN 
+sign|NN symptom|NN 
+example|NN symptom|NN patient|NN repetitive_strain_injury|DS pain|ST tingle|NN extremity|NN weakness|ST discomfort|NN degree|NN frequency|NN definition|NN 
+repetitive_strain_injury|DS repetitive_strain_injury|DS trauma|NN order|NN umbrella|NN term|NN condition|NN task|NN exertion|NN vibration|NN compression|NN position|NN contraction|NN terminology|NN term|NN united|NN states|NN department|NN labor|NN institute|NN safety|NN health|NN niosh|NN disorder|NN disorder|NN 
+example|NN condition|NN cause|NN tunnel|NN syndrome|NN tunnel|NN syndrome|NN de|NN quervain|NN syndrome|NN outlet|NN syndrome|NN intersection|NN syndrome|NN golfer|NN elbow|NN epicondylitis|DS tennis|NN elbow|NN epicondylitis|DS trigger_finger|DS tunnel|NN syndrome|NN tunnel|NN syndrome|NN dystonia|DS 
+increase|NN repetitive_strain_injury|DS arm|NN hand|NN neck|NN shoulder|NN use|NN workplace|NN keyboard|NN entry|NN device|NN typewriter|NN computer|NN period|NN motion|NN posture|NN temperature|NN risk|NN factor|NN repetitive_strain_injury|DS risk|NN factor|NN risk|NN factor|NN 
+worker|NN field|NN risk|NN strain|NN 
+injury|NN disorder|NN trauma|NN event|NN miner|NN poultry|NN worker|NN example|NN motion|NN tendon|NN injury|NN job|NN motion|NN pattern|NN posture|NN work|NN cycle|NN 
+athlete|NN repetitive_strain_injury|DS musculoskeletal|NN system|NN factor|NN 
+factor|NN personality|NN difference|NN work-place|NN organization|NN problem|NN 
+worker|NN work|NN organization|NN work|NN rate|NN work|NN hour|NN job|NN control|NN support|NN 
+study|NN catecholamine|NN chemical|NN worker|NN repetitive_strain_injury|DS 
+pain|ST repetitive_strain_injury|DS pain|ST syndrome|NN worker|NN support|NN co-worker|NN supervisor|NN factor|NN 
+age|NN gender|NN risk|NN factor|NN repetitive_strain_injury|DS 
+risk|NN repetitive_strain_injury|DS increase|NN age|NN women|NN men|NN frame|NN muscle|NN mass|NN strength|NN influence|NN 
+addition|NN lifestyle|NN choice|NN smoke|NN alcohol|NN consumption|NN risk|NN factor|NN repetitive_strain_injury|DS 
+find|NN obesity|NN diabete|NN individual|NN repetitive_strain_injury|DS grade|NN response|NN body|NN tissue|NN diagnosis|NN 
+repetitive_strain_injury|DS number|NN measure|NN 
+test|NN grip|NN pinch|NN strength|NN test|NN test|NN de|NN phalen|NN percussion|NN tunnel|NN syndrome|NN nerve|NN conduction|NN velocity|NN test|NN nerve|NN compression|NN wrist|NN 
+image|NN technique|NN nerve|NN compression|NN wrist|NN mry|NN outlet|NN cervico-brachial|NN area|NN 
+utilization|NN routine|NN image|NN detection|NN treatment|NN overuse|NN injury|NN risk|NN population|NN term|NN effect|NN treatment|NN science|NN job|NN equipment|NN workplace|NN 
+fixe|NN repetitive_strain_injury|DS 
+diagnosis|NN damage|NN rice|NN treatment|NN muscle|NN strain|NN ligament|NN sprain|NN bruise|ST injury|NN 
+rice|NN rest|NN ice|NN compression|NN elevation|NN 
+rice|NN injury|NN hour|NN injury|NN 
+modality|NN swell|NN pain|ST treatment|NN repetitive_strain_injury|DS analgesics|NN biofeedback|NN therapy|NN relaxation|NN ultrasound|NN therapy|NN repetitive_strain_injury|DS treatment|NN onset|NN symptom|NN 
+repetitive_strain_injury|DS intervention|NN surgery|NN year|NN 
+exercise|NN risk|NN repetitive_strain_injury|DS doctor|NN repetitive_strain_injury|DS sufferer|NN strengthen|NN exercise|NN example|NN sit|NN posture|NN kyphosis|DS outlet|NN syndrome|NN modification|NN posture|NN arm|NN use|NN factor|NN ergonomics|NN history|NN 
+phenomenon|NN repetitive_strain_injury|DS literature|NN 
+physician|NN bernardino|NN ramazzini|NN repetitive_strain_injury|DS category|NN worker|NN italy|NN musician|NN clerk|NN tunnel|NN syndrome|NN surgeon|NN james|NN paget|NN april|NN issue|NN graphic|NN paralysis|ST 
+surgeon|NN fritz|NN de|NN de|NN quervain|NN tendinitis|NN factory|NN worker|NN neurologist|NN jules|NN tinel|NN 18791952|NN percussion|NN test|NN compression|NN nerve|NN surgeon|NN george|NN phalen|NN understand|NN aetiology|NN tunnel|NN syndrome|NN experience|NN patient|NN society|NN 
+source|NN discomfort|NN term|NN blackberry|NN thumb|NN finger|NN mouse|NN arm|NN disease|NN thumb|NN wrist|NN thumb|NN stylus|NN finger|NN raver|NN wrist|NN pinky|NN 
+keyboard|NN list|NN repetitive_strain_injury|DS software|NN microsoft|NN keyboard|NN 

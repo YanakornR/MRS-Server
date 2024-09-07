@@ -1,0 +1,64 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+pharyngitis|DS name|NN pharyngitis|DS pharyngitis|DS pharyngitis|DS redness|NN 
+disease|NN symptom|NN throat|NN fever|ST nose|NN cough|ST headache|ST voice|NN complication|NN otitis_media|ST duration|NN day|NN cause|NN infection|NN method|NN symptom|NN antigen|NN detection|NN test|NN throat|NN swab|NN diagnosis|NN abscess|NN treatment|NN nsaids|NN lidocaine|NN frequency|NN people|NN period|NN 
+pharyngitis|DS inflammation|NN back|NN throat|NN pharynx|NN throat|NN fever|ST symptom|NN nose|NN cough|ST headache|ST voice|NN symptom|NN day|NN complication|NN otitis_media|ST pharyngitis|DS type|NN tract|NN infection|NN 
+case|NN infection|NN throat|NN infection|NN cause|NN children|NN adult|NN cause|NN bacteria|NN fungus|NN irritant|NN smoke|NN allergy|NN reflux|NN disease|NN test|NN people|NN symptom|NN infection|NN cold|NN antigen|NN detection|NN test|NN throat|NN swab|NN condition|NN symptom|NN abscess|NN heart|NN disease|NN 
+nsaids|NN pain|ST medication|NN lidocaine|NN throat|NN antibiotics|NN penicillin|NN amoxicillin|NN steroid|NN pharyngitis|DS case|NN 
+people|NN throat|NN period|NN episode|NN year|NN physician|NN visit|NN united|NN states|NN pharyngitis|DS cause|NN throat|NN word|NN word|NN pharynx|NN mean|NN throat|NN suffix|NN mean|NN inflammation|NN content|NN 
+classification|NN cause|NN diagnosis|NN management|NN alternative|NN epidemiology|NN reference|NN link|NN 
+classification|NN throat|NN 
+pharyngitis|DS type|NN inflammation|NN tract|NN infection|NN 
+pharyngitis|DS agent|NN capacity|NN individual|NN 
+subtype|NN pharyngitis|DS inflammation|NN tonsil|NN part|NN throat|NN subclassification|NN pharyngitis|DS cause|NN 
+case|NN organism|NN contact|NN individual|NN 
+4080|NN case|NN feature|NN type|NN infection|NN 
+degree|NN neck|NN enlargement|NN throat|NN 
+family|NN cause|NN influenza|DS onset|NN temperature|NN headache|ST ache|NN 
+fever|ST virus|NN 
+tonsillitis|NN redness|NN swell|NN throat|NN 
+herpes|DS simplex|NN virus|NN mouth|NN ulcer|NN 
+measle|NN cold|NN syncytial|NN virus|NN virus|NN infection|NN throat|NN ear|NN lung|NN cold-like|NN symptom|NN pain|ST 
+number|NN bacteria|NN throat|NN 
+group|NN streptococcus|NN pneumoniae|NN pertussis|DS bacillus|NN neisseria|NN mycoplasma|NN necrophorum|NN 
+article|NN pharyngitis|DS case|NN throat|NN 
+pharyngitis|DS throat|NN group|NN beta-hemolytic|NN ga|NN cause|NN case|NN pharyngitis|DS symptom|NN fever|ST throat|NN lymph|NN node|NN 
+infection|NN spread|NN contact|NN individual|NN 
+diagnosis|NN result|NN throat|NN culture|NN 
+antibiotics|NN complication|NN fever|ST speed|NN recovery|NN 
+inhabitant|NN flora|NN abscess|NN 
+case|NN syndrome|NN 
+infection|NN diphtheriae|NN nation|NN introduction|NN childhood|NN vaccination|NN program|NN world|NN area|NN europe|NN 
+antibiotics|NN stage|NN recovery|NN 
+cause|NN space|NN infection|NN abscess|NN abscess|NN space|NN infection|NN angina|NN epiglottitis|NN 
+case|NN pharyngitis|DS infection|NN candida|NN thrush|NN 
+pharyngitis|DS chemical|NN irritation|NN example|NN air|NN acid|NN reflux|NN 
+medication|NN pharyngitis|DS pramipexole|NN diagnosis|NN centor|NN score|NN point|NN probability|NN management|NN antibiotic|NN culture|NN 1117|NN culture|NN antigen|NN detection|NN test|NN antibiotics|NN throat|NN swab|NN 
+cause|NN throat|NN symptom|NN throat|NN swab|NN rule|NN cause|NN 
+centor|NN criteria|NN management|NN people|NN pharyngitis|DS 
+criteria|NN probability|NN infection|NN 
+point|NN criteria|NN 
+absence|NN cough|ST lymph|NN node|NN temperature|NN c|NN f|NN age|NN point|NN age|NN 
+disease|NN society|NN america|NN treatment|NN antibiotics|NN test|NN test|NN children|NN group|NN strep|NN fever|ST sible|NN disease|NN management|NN 
+majority|NN time|NN treatment|NN 
+treatment|NN herpe|NN simplex|NN infection|NN 
+pain|ST medication|NN nsaids|NN paracetamol|NN pain|ST throat|NN 
+aspirin|NN adult|NN children|NN risk|NN syndrome|NN dexamethasone|NN pharyngitis|DS use|NN lidocaine|NN pain|ST mucous|NN membrane|NN antibiotics|NN infection|NN cause|NN throat|NN infection|NN antibiotics|NN effect|NN 
+united|NN states|NN people|NN infection|NN analgesic|NN solution|NN ingredient|NN phenol|NN chloride|NN 
+example|NN brand|NN kind|NN analgesics|NN 
+see|NN treatment|NN cold|NN 
+salt|NN water|NN evidence|NN usefulness|NN medicine|NN treatment|NN throat|NN evidence|NN epidemiology|NN 
+pharyngitis|DS cause|NN throat|NN cough|ST people|NN year|NN united|NN states|NN 
+throat|NN wikipedia|NN encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN throat|NN disambiguation|NN 
+throat|NN pharyngitis|DS pharyngitis|DS cause|NN throat|NN 
+throat|NN throat|NN pain|ST pain|ST irritation|NN throat|NN 
+pharyngitis|DS inflammation|NN throat|NN tonsillitis|NN inflammation|NN tonsil|NN 
+people|NN throat|NN period|NN content|NN 
+definition|NN diagnosis|NN management|NN epidemiology|NN reference|NN link|NN 
+throat|NN pain|ST throat|NN diagnosis|NN 
+throat|NN irritation|NN inflammation|NN 
+cause|NN pharyngitis|DS infection|NN throat|NN cause|NN infection|NN pharyngitis|DS trauma|NN acid|NN reflux|NN disease|NN stomach|NN acid|NN throat|NN throat|NN children|NN pharyngitis|DS cause|NN throat|NN management|NN 
+pain|ST medication|NN drug|NN nsaids|NN paracetamol|NN help|NN management|NN pain|ST use|NN corticosteroid|NN likelihood|NN resolution|NN level|NN pain|ST antibiotics|NN duration|NN pain|ST symptom|NN average|NN day|NN 
+wive|NN tale|NN drink|NN cold|NN influenza|DS symptom|NN throat|NN evidence|NN idea|NN throat|NN example|NN tonsillitis|NN drink|NN 
+medication|NN lozenge|NN people|NN throat|NN 
+treatment|NN symptom|NN day|NN epidemiology|NN 
+united|NN states|NN emergency|NN department|NN visit|NN complaint|NN year|NN 

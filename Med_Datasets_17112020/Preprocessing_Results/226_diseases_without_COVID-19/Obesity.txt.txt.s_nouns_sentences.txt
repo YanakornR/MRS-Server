@@ -1,0 +1,219 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN journal|NN Obesity|Disease journal|NN
+Obesity|Disease silhouette|NN outline|NN middle|NN person|NN right|NN
+waist|NN specialty|NN symptom|NN complication|NN disease|NN type|NN diabete|NN sleep|NN type|NN cancer|NN osteoarthritis|NN depression|NN cause|NN food|NN lack|NN exercise|NN genetics|NN method|NN bmy|NN prevention|NN change|NN choice|NN treatment|NN diet|NN exercise|NN medication|NN surgery|NN life|NN expectancy|NN frequency|NN
+Obesity|Disease condition|NN body|NN fat|NN extent|NN effect|NN health|NN people|NN body|NN mass|NN index|NN bmy|NN measurement|NN person|NN weight|NN square|NN person|NN height|NN kgm2|NN range|NN kgm2|NN east|NN country|NN value|NN Obesity|Disease likelihood|NN disease|NN condition|NN disease|NN type|NN diabete|NN sleep|NN type|NN cancer|NN osteoarthritis|NN depression|NN
+Obesity|Disease combination|NN food|NN intake|NN lack|NN activity|NN susceptibility|NN case|NN gene|NN disorder|NN medication|NN disorder|NN view|NN people|NN weight|NN metabolism|NN people|NN energy|NN expenditure|NN counterpart|NN energy|NN body|NN mass|NN
+Obesity|Disease combination|NN change|NN choice|NN change|NN diet|NN exercise|NN treatment|NN diet|NN quality|NN consumption|NN food|NN fat|NN sugar|NN intake|NN fiber|NN diet|NN appetite|NN decrease|NN fat|NN absorption|NN diet|NN exercise|NN medication|NN balloon|NN surgery|NN stomach|NN volume|NN length|NN intestine|NN feel|NN ability|NN nutrient|NN food|NN
+Obesity|Disease cause|NN death|NN rate|NN adult|NN children|NN adult|NN children|NN country|NN Obesity|Disease women|NN men|NN authority|NN view|NN health|NN problem|NN century|NN Obesity|Disease world|NN world|NN symbol|NN wealth|NN fertility|NN time|NN history|NN part|NN world|NN 2013|NN association|NN Obesity|Disease disease|NN content|NN
+classification|NN effect|NN health|NN mortality|NN survival|NN paradox|NN cause|NN diet|NN lifestyle|NN genetics|NN illness|NN determinant|NN gut|NN bacteria|NN factor|NN health|NN report|NN management|NN epidemiology|NN history|NN attitude|NN art|NN society|NN culture|NN impact|NN size|NN acceptance|NN industry|NN influence|NN research|NN childhood|NN Obesity|Disease animal|NN reference|NN source|NN read|NN
+classification|NN article|NN classification|NN Obesity|Disease bmy|NN classification|NN weight|NN class|NN Obesity|Disease class|NN Obesity|Disease class|NN Obesity|Disease front|NN side|NN view|NN male|NN torso|NN
+mark|NN skin|NN
+male|NN bmy|NN weight|NN kg|NN lb|NN height|NN cm|NN ft|NN
+stretch|NN mark|NN breast|NN
+Obesity|Disease condition|NN body|NN fat|NN extent|NN effect|NN health|NN body|NN mass|NN index|NN bmy|NN term|NN distribution|NN ratio|NN risk|NN factor|NN bmy|NN percentage|NN body|NN fat|NN body|NN fat|NN children|NN weight|NN age|NN sex|NN
+Obesity|Disease children|NN adolescent|NN number|NN relation|NN group|NN Obesity|Disease bmy|NN percentile|NN reference|NN data|NN percentile|NN date|NN increase|NN weight|NN bmy|NN subject|NN weight|NN square|NN height|NN
+bmi|NP frac|NP mathrm|NP bmifrac|NP
+subject|NN weight|NN height|NN
+bmi|NP kilogram|NN weight|NN metre|NN height|NN
+pound|NN inch|NN kgm2lbsq|NN
+definition|NN world|NN health|NN organization|NN value|NN table|NN
+modification|NN definition|NN organization|NN literature|NN break|NN class|NN Obesity|Disease category|NN value|NN
+kgm2|NN Obesity|Disease
+Obesity|Disease health|NN condition|NN
+kgm2|NN Obesity|Disease
+population|NN health|NN consequence|NN bmy|NN caucasian|NN nation|NN Obesity|Disease japan|NP Obesity|Disease bmy|NN kgm2|NN china|NP bmy|NN kgm2|NN effect|NN health|NN
+body|NN weight|NN disease|NN condition|NN disease|NN diabete|NN mellitus|NN type|NN sleep|NN type|NN cancer|NN osteoarthritis|NN asthma|NN result|NN Obesity|Disease life|NN expectancy|NN mortality|NN graph|NN risk|NN death|NN bmy|NN
+risk|NN bmy|NN increase|NN direction|NN
+graph|NN risk|NN death|NN bmy|NN
+risk|NN bmy|NN increase|NN direction|NN
+risk|NN death|NN year|NN men|NN women|NN right|NN united|NP states|NP bmi|NP
+Obesity|Disease cause|NN death|NN number|NN review|NN mortality|NN risk|NN bmy|NN kgm2|NN non-smoker|NN kgm2|NN smoker|NN risk|NN change|NN direction|NN continent|NN contrast|NN review|NN grade|NN Obesity|Disease bmi|NP 3035|NP mortality|NN weight|NN bmy|NN mortality|NN weight|NN bmy|NN evidence|NN association|NN bmy|NN waist|NN circumference|NN mortality|NN association|NN ratio|NN ratio|NN mortality|NN asian|NN risk|NN health|NN effect|NN 2225|NN bmy|NN mortality|NN rate|NN women|NN period|NN united|NP states|NP Obesity|Disease death|NN year|NN death|NN europe|NP weight|NN Obesity|Disease life|NN expectancy|NN year|NN bmy|NN kgm2|NN life|NN expectancy|NN year|NN Obesity|Disease bmi|NP life|NN expectancy|NN year|NN article|NN Obesity|Disease morbidity|NN
+Obesity|Disease risk|NN condition|NN
+comorbidity|NN syndrome|NN combination|NN disorder|NN diabete|NN mellitus|NN type|NN blood|NN pressure|NN blood|NN cholesterol|NN triglyceride|NN level|NN
+complication|NN Obesity|Disease mechanism|NN cause|NN diet|NN lifestyle|NN
+strength|NN link|NN Obesity|Disease condition|NN
+link|NN type|NN diabete|NN
+body|NN fat|NN case|NN diabete|NN men|NN case|NN women|NN
+health|NN consequence|NN fall|NN category|NN effect|NN mass|NN osteoarthritis|NN sleep|NN stigmatization|NN number|NN cell|NN diabete|NN cancer|NN disease|NN liver|NN disease|NN increase|NN body|NN fat|NN response|NN insulin|NN insulin|NN resistance|NN
+fat|NN state|NN state|NN field|NN condition|NN field|NN condition|NN
+heart|NN disease|NN angina|NN infarction|NN heart|NN failure|NN blood|NN pressure|NN cholesterol|NN level|NN vein|NN thrombosis|NN embolism|NN
+stretch|NN mark|NN lymphedema|NN intertrigo|NN
+diabete|NN mellitus|NN syndrome|NN disorder|NN infertility|NN complication|NN pregnancy|NN birth|NN defect|NN death|NN
+reflux|NN disease|NN liver|NN disease|NN gallstone|NN
+stroke|NN migraine|NN tunnel|NN syndrome|NN dementia|NN hypertension|NN sclerosis|NN
+kidney|NN carcinoma|NN melanoma|NN
+depression|NN women|NN
+sleep|NN Obesity|Disease syndrome|NN asthma|NN complication|NN anaesthesia|NN
+gout|NN mobility|NN osteoarthritis|NN back|NN pain|NN
+dysfunction|NN incontinence|NN failure|NN penis|NN
+survival|NN paradox|NN Obesity|Disease paradox|NN
+health|NN consequence|NN Obesity|Disease population|NN evidence|NN health|NN outcome|NN subgroup|NN bmy|NN phenomenon|NN Obesity|Disease survival|NN paradox|NN paradox|NN people|NN heart|NN failure|NN artery|NN disease|NN
+people|NN heart|NN failure|NN bmy|NN mortality|NN weight|NN
+fact|NN people|NN weight|NN find|NN type|NN heart|NN disease|NN
+people|NN class|NN Obesity|Disease heart|NN disease|NN rate|NN heart|NN problem|NN people|NN weight|NN heart|NN disease|NN
+people|NN degree|NN Obesity|Disease risk|NN event|NN bypass|NN surgery|NN increase|NN mortality|NN study|NN survival|NN treatment|NN people|NN event|NN account|NN disease|NN pad|NN benefit|NN Obesity|Disease cause|NN
+level|NN combination|NN food|NN energy|NN intake|NN lack|NN activity|NN case|NN Obesity|Disease number|NN case|NN genetics|NN reason|NN illness|NN contrast|NN rate|NN Obesity|Disease level|NN diet|NN reliance|NN car|NN manufacture|NN
+review|NN contributor|NN increase|NN Obesity|Disease sleep|NN disruptor|NN pollutant|NN metabolism|NN variability|NN temperature|NN rate|NN smoke|NN smoke|NN appetite|NN use|NN medication|NN weight|NN gain|NN increase|NN age|NN group|NN pregnancy|NN age|NN susceptibility|NN Obesity|Disease children|NN risk|NN factor|NN generationally|NP selection|NN bmy|NN mate|NN concentration|NN Obesity|Disease risk|NN factor|NN number|NN people|NN population|NN variance|NN weight|NN evidence|NN influence|NN mechanism|NN prevalence|NN Obesity|Disease evidence|NN author|NN state|NN paragraph|NN
+diet|NN article|NN diet|NN Obesity|Disease left|NN world|NN map|NN country|NN food|NN energy|NN consumption|NN people|NN
+north|NP america|NP europe|NP australia|NP intake|NN africa|NP asia|NP world|NN map|NN country|NN food|NN energy|NN consumption|NN people|NN
+consumption|NN north|NP america|NP europe|NP australia|NP respect|NN level|NN
+food|NN consumption|NN part|NN asia|NP
+food|NN consumption|NN africa|NP 200103|NN map|NN energy|NN availability|NN person|NN day|NN left|NN calory|NN person|NN day|NN person|NN day|NN data|NN 16001800|NN 75008400|NN 22002400|NN 1000010900|NN
+1090011700|NN 30003200|NN 34003600|NN
+graph|NN increase|NN food|NN energy|NN consumption|NN person|NN day|NN
+energy|NN consumption|NN world|NN
+review|NN food|NN factor|NN energy|NN supply|NN capita|NN region|NN country|NN
+time|NN food|NN energy|NN person|NN day|NN amount|NN food|NN part|NN world|NN europe|NP
+united|NP states|NP availability|NN calory|NN kj|NN person|NN calory|NN kj|NN european|NN calory|NN kj|NN person|NN area|NN asia|NP calory|NN kj|NN person|NN africa|NP people|NN calory|NN kj|NN person|NN food|NN energy|NN consumption|NN Obesity|Disease
+availability|NN guideline|NN problem|NN overeate|NN choice|NN Obesity|Disease rate|NN united|NP states|NP period|NN increase|NN amount|NN food|NN energy|NN
+women|NN increase|NN calory|NN kj|NN day|NN calory|NN kj|NN calory|NN kj|NN men|NN increase|NN calory|NN kj|NN day|NN calory|NN kj|NN calory|NN kj|NN
+food|NN energy|NN increase|NN carbohydrate|NN consumption|NN consumption|NN source|NN carbohydrate|NN beverage|NN percent|NN food|NN energy|NN adult|NN america|NP potato|NN chip|NN consumption|NN drink|NN drink|NN fruit|NN drink|NN tea|NN energy|NN vitamin|NN water|NN drink|NN rate|NN Obesity|Disease risk|NN syndrome|NN type|NN diabete|NN vitamin|NN d|NP deficiency|NN disease|NN Obesity|Disease
+society|NN big-portion|NN meal|NN association|NN consumption|NN Obesity|Disease united|NP states|NP consumption|NN meal|NN food|NN energy|NN intake|NN meal|NN
+policy|NN technique|NN united|NP states|NP europe|NP food|NN price|NN
+united|NP states|NP corn|NN wheat|NN rice|NN farm|NN bill|NN source|NN food|NN fruit|NN vegetable|NN calorie|NN count|NN law|NN nutrition|NN fact|NN label|NN people|NN food|NN choice|NN awareness|NN food|NN energy|NN
+people|NN food|NN consumption|NN people|NN weight|NN test|NN people|NN calorimeter|NN room|NN observation|NN
+lifestyle|NN lifestyle|NN exercise|NN trend|NN
+lifestyle|NN role|NN Obesity|Disease shift|NN work|NN world|NN population|NN exercise|NN use|NN transportation|NN prevalence|NN technology|NN home|NN children|NN decline|NN level|NN activity|NN walk|NN education|NN world|NN trend|NN leisure|NN time|NN activity|NN
+world|NN health|NN organization|NN people|NN pursuit|NN study|NN finland|NP increase|NN study|NN united|NP states|NP activity|NN review|NN activity|NN children|NN contributor|NN
+children|NN adult|NN association|NN television|NN view|NN time|NN risk|NN Obesity|Disease review|NN study|NN rate|NN childhood|NN Obesity|Disease media|NN exposure|NN rate|NN time|NN television|NN genetics|NN article|NN genetics|NN Obesity|Disease paint|NN pink|NN female|NN table|NN
+grape|NN grape|NN leave|NN hand|NN genitalia|NN
+paint|NN juan|NP de|NP miranda|NP girl|NN syndrome|NN
+condition|NN Obesity|Disease result|NN interplay|NN factor|NN gene|NN appetite|NN metabolism|NN Obesity|Disease food|NN energy|NN
+site|NN genome|NN development|NN Obesity|Disease environment|NN people|NN copy|NN gene|NN fat|NN mass|NN Obesity|Disease gene|NN average|NN kg|NN risk|NN Obesity|Disease risk|NN allele|NN difference|NN bmy|NN people|NN genetics|NN population|NN
+Obesity|Disease feature|NN syndrome|NN syndrome|NN syndrome|NN cohen|NP syndrome|NN syndrome|NN
+term|NN Obesity|Disease condition|NN people|NN Obesity|Disease onset|NN year|NN age|NN body|NN mass|NN index|NN deviation|NN point|NN dna|NN mutation|NN
+study|NN inheritance|NN pattern|NN gene|NN offspr|NN parent|NN contrast|NN offspr|NN parent|NN weight|NN people|NN environment|NN risk|NN Obesity|Disease due|NN genetics|NN
+gene|NN hypothesis|NN due|NN scarcity|NN evolution|NN people|NN Obesity|Disease
+ability|NN advantage|NN period|NN abundance|NN energy|NN fat|NN time|NN food|NN availability|NN individual|NN reserve|NN famine|NN
+tendency|NN store|NN fat|NN society|NN food|NN supply|NN theory|NN criticism|NN evolutionarily-base|NN theory|NN gene|NN hypothesis|NN phenotype|NN hypothesis|NN illness|NN
+illness|NN substance|NN risk|NN Obesity|Disease
+illness|NN Obesity|Disease risk|NN syndrome|NN condition|NN hypothyroidism|NN syndrome|NN growth|NN hormone|NN deficiency|NN eate|NN disorder|NN binge|NN eate|NN disorder|NN night|NN eate|NN syndrome|NN Obesity|Disease disorder|NN dsm-ivr|NN illness|NN risk|NN Obesity|Disease patient|NN disorder|NN person|NN disorder|NN
+medication|NN weight|NN gain|NN change|NN body|NN composition|NN insulin|NN antipsychotics|NN antidepressant|NN steroid|NN anticonvulsant|NN pizotifen|NN form|NN contraception|NN determinant|NN article|NN determinant|NN Obesity|Disease disease|NN scroll|NN century|NN woman|NN Obesity|Disease disease|NN
+Obesity|Disease country|NN inequality|NN
+influence|NN understand|NN Obesity|Disease increase|NN country|NN energy|NN consumption|NN excess|NN energy|NN expenditure|NN Obesity|Disease basis|NN cause|NN shift|NN factor|NN scale|NN
+number|NN theory|NN cause|NN combination|NN factor|NN
+correlation|NN class|NN bmy|NN
+review|NN country|NN women|NN class|NN
+difference|NN men|NN class|NN
+world|NN women|NN men|NN children|NN class|NN rate|NN Obesity|Disease update|NN review|NN relationship|NN
+decrease|NN strength|NN correlation|NN effect|NN globalization|NN country|NN level|NN adult|NN Obesity|Disease percentage|NN children|NN income|NN inequality|NN
+relationship|NN state|NN adult|NN class|NN state|NN
+explanation|NN association|NN bmy|NN class|NN
+country|NN food|NN pressure|NN opportunity|NN expectation|NN fitness|NN
+country|NN ability|NN food|NN energy|NN expenditure|NN labor|NN value|NN body|NN size|NN pattern|NN attitude|NN body|NN weight|NN people|NN life|NN role|NN Obesity|Disease
+correlation|NN bmy|NN change|NN time|NN friend|NN sible|NN spouse|NN stress|NN status|NN risk|NN Obesity|Disease
+smoke|NN effect|NN individual|NN weight|NN
+smoke|NN average|NN kilogram|NN lb|NN men|NN kilogram|NN lb|NN women|NN year|NN rate|NN smoke|NN effect|NN rate|NN Obesity|Disease
+united|NP states|NP number|NN children|NN person|NN risk|NN Obesity|Disease
+risk|NN increase|NN child|NN mans|NP risk|NN increase|NN child|NN fact|NN children|NN activity|NN parent|NN
+world|NN urbanization|NN role|NN rate|NN Obesity|Disease
+china|NP rate|NN Obesity|Disease city|NN rate|NN Obesity|Disease
+life|NN role|NN rate|NN Obesity|Disease world|NN change|NN period|NN malnutrition|NN storage|NN fat|NN food|NN energy|NN
+data|NN study|NN Obesity|Disease deficit|NN Obesity|Disease deficit|NN versa|NN
+gut|NN bacteria|NN Obesity|Disease
+study|NN effect|NN agent|NN metabolism|NN stage|NN
+gut|NN flora|NN people|NN
+indication|NN gut|NN flora|NN potential|NN
+alteration|NN capacity|NN harvest|NN energy|NN Obesity|Disease
+difference|NN cause|NN result|NN Obesity|Disease use|NN antibiotics|NN children|NN Obesity|Disease life|NN
+association|NN viruse|NN Obesity|Disease human|NN animal|NN specy|NN
+amount|NN association|NN rate|NN Obesity|Disease factor|NN
+number|NN review|NN association|NN duration|NN sleep|NN Obesity|Disease short|NN sleep|NN weight|NN gain|NN degree|NN sleep|NN benefit|NN
+aspect|NN personality|NN sensitivity|NN reward|NN people|NN self-control|NN people|NN mice|NN ear|NN eye|NN nose|NN
+body|NN mouse|NN left|NN time|NN width|NN mouse|NN right|NN
+comparison|NN mouse|NN Obesity|Disease left|NN mouse|NN article|NN pathophysiology|NN Obesity|Disease
+mechanism|NN development|NN maintenance|NN Obesity|Disease field|NN research|NN gene|NN j|NP
+laboratory|NN appetite|NN action|NN system|NN
+appetite-relate|NN hormone|NN act|NN hypothalamus|NN region|NN brain|NN regulation|NN food|NN intake|NN energy|NN expenditure|NN
+circuit|NN hypothalamus|NN role|NN appetite|NN pathway|NN circuit|NN area|NN hypothalamus|NN nucleus|NN output|NN hypothalamus|NN lh|NP hypothalamus|NN brain|NN feed|NN satiety|NN center|NN
+nucleus|NN group|NN neuron|NN group|NN neuropeptide|NN peptide|NN input|NN lh|NP input|NN vmh|NN
+group|NN pro-opiomelanocortin|NN transcript|NN cart|NN input|NN vmh|NN input|NN lh|NP
+neuron|NN feed|NN satiety|NN neuron|NN satiety|NN
+group|NN nucleus|NN neuron|NN part|NN
+group|NN group|NN
+deficiency|NN signal|NN deficiency|NN resistance|NN overfeed|NN form|NN Obesity|Disease health|NN
+world|NN health|NN organization|NN Obesity|Disease health|NN concern|NN disease|NN cause|NN health|NN Obesity|Disease health|NN policy|NN problem|NN prevalence|NN cost|NN health|NN effect|NN united|NP states|NP service|NN task|NN force|NN screen|NN adult|NN intervention|NN health|NN effort|NN factor|NN prevalence|NN Obesity|Disease population|NN
+solution|NN factor|NN food|NN energy|NN consumption|NN activity|NN
+effort|NN meal|NN program|NN school|NN junk|NN food|NN market|NN children|NN access|NN beverage|NN school|NN world|NN health|NN organization|NN tax|NN drink|NN environment|NN effort|NN increase|NN access|NN park|NN pedestrian|NN route|NN report|NN
+organization|NN report|NN Obesity|Disease
+guideline|NN guideline|NN identification|NN evaluation|NN treatment|NN overweight|NN Obesity|Disease adult|NN evidence|NN report|NN Obesity|Disease network|NN Obesity|Disease canada|NP practice|NN guideline|NN management|NN prevention|NN Obesity|Disease adult|NN children|NN
+evidence-base|NN guideline|NN management|NN prevention|NN Obesity|Disease adult|NN children|NN
+united|NP kingdom|NP college|NN physician|NN faculty|NN health|NN college|NN paediatrics|NN child|NN health|NN report|NN problem|NN problem|NN Obesity|Disease uk|NP year|NN house|NN commons|NP health|NN committee|NN inquiry|NN impact|NN Obesity|Disease health|NN society|NN uk|NP approache|NN problem|NN institute|NN health|NN excellence|NN guideline|NN diagnosis|NN management|NN Obesity|Disease policy|NN implication|NN organization|NN council|NN report|NN derek|NP wanless|NP kings|NP fund|NN action|NN Obesity|Disease capacity|NN health|NN service|NN
+approache|NN rate|NN Obesity|Disease
+Obesity|Disease policy|NN action|NN framework|NN measure|NN policy|NN policy|NN policy|NN
+policy|NN society|NN policy|NN individual|NN behavior|NN Obesity|Disease policy|NN people|NN management|NN article|NN management|NN Obesity|Disease
+treatment|NN Obesity|Disease diet|NN exercise|NN diet|NN program|NN weight|NN loss|NN term|NN weight|NN loss|NN exercise|NN food|NN energy|NN diet|NN part|NN person|NN lifestyle|NN behavioral|NN intervention|NN united|NP states|NP service|NN task|NN force|NN
+carbohydrate|NN diet|NN diet|NN weight|NN loss|NN term|NN type|NN low-carbohydrate|NN diet|NN review|NN heart|NN disease|NN diabete|NN risk|NN diet|NN promotion|NN diet|NN risk|NN heart|NN disease|NN intake|NN drink|NN success|NN rate|NN weight|NN loss|NN maintenance|NN lifestyle|NN change|NN lifestyle|NN change|NN weight|NN gain|NN pregnancy|NN outcome|NN mother|NN child|NN behavioral|NN risk|NN factor|NN heart|NN disease|NN
+medication|NN evidence|NN use|NN liraglutide|NN weight|NN loss|NN year|NN kg|NN lb|NN placebo|NN orlistat|NN state|NN europe|NP united|NP states|NP authority|NN drug|NN part|NN association|NN heart|NN valve|NN problem|NN lorcaserin|NN heart|NN blood|NN vessel|NN problem|NN use|NN rate|NN side|NN effect|NN concern|NN effect|NN kidney|NN information|NN drug|NN complication|NN Obesity|Disease disease|NN death|NN
+treatment|NN Obesity|Disease surgery|NN type|NN procedure|NN band|NN bypass|NN gastrectomy|NN diversion|NN surgery|NN Obesity|Disease weight|NN loss|NN improvement|NN Obesity|Disease condition|NN mortality|NN
+study|NN weight|NN loss|NN type|NN procedure|NN year|NN reduction|NN cause|NN mortality|NN weight|NN loss|NN measure|NN complication|NN case|NN reoperation|NN case|NN cost|NN risk|NN researcher|NN treatment|NN device|NN space|NN stomach|NN epidemiology|NN article|NN epidemiology|NN Obesity|Disease map|NN world|NN country|NN percentage|NN men|NN
+male|NN female|NN prevalence|NN country|NN medium|NN prevalence|NN rest|NN north|NP america|NP europe|NP prevalence|NN asia|NP africa|NP
+world|NN Obesity|Disease prevalence|NN male|NN female|NN
+source|NN data|NN
+percentage|NN population|NN year|NN
+period|NN Obesity|Disease elite|NN problem|NN health|NN
+prosperity|NN period|NN group|NN population|NN
+Obesity|Disease epidemic|NN estimate|NN adult|NN rate|NN women|NN men|NN percentage|NN adult|NN united|NP states|NP 20152016|NN overal|NN male|NN female|NN
+rate|NN Obesity|Disease increase|NN age|NN year|NN Obesity|Disease united|NP states|NP australia|NP canada|NP rate|NN Obesity|Disease oecd|NP increase|NN Obesity|Disease rate|NN united|NP states|NP mexico|NP england|NP rate|NN
+problem|NN country|NN Obesity|Disease rate|NN world|NN increase|NN set|NN region|NN world|NN Obesity|Disease africa|NP history|NN
+Obesity|Disease obesita|NN fat|NN
+sus|NN participle|NN edere|NN ob|NN oxford|NP english|NN dictionary|NN document|NN usage|NN attitude|NN gentleman|NN chin|NN mustache|NN black|NN sword|NN side|NN
+age|NN renaissance|NN Obesity|Disease sign|NN wealth|NN elite|NN general|NP alessandro|NP del|NP charles|NP stone|NN figurine|NN female|NN
+venus|NP willendorf|NP
+medicine|NN Obesity|Disease disorder|NN record|NN egyptian|NN way|NN hippocrates|NP disease|NN harbinger|NN surgeon|NN century|NN bce|NP Obesity|Disease diabete|NN heart|NN disorder|NN work|NN cure|NN side|NN effect|NN history|NN mankind|NN food|NN scarcity|NN Obesity|Disease sign|NN wealth|NN prosperity|NN
+official|NN europe|NP age|NN renaissance|NN east|NN civilization|NN century|NN english|NN author|NN tobias|NP venner|NP term|NN disease|NN language|NN book|NN
+onset|NN revolution|NN nation|NN body|NN size|NN strength|NN soldier|NN worker|NN body|NN mass|NN index|NN range|NN role|NN development|NN society|NN height|NN weight|NN century|NN world|NN
+century|NN population|NN potential|NN height|NN weight|NN height|NN Obesity|Disease wealth|NN world|NN child|NN mortality|NN body|NN weight|NN heart|NN kidney|NN disease|NN time|NN period|NN insurance|NN company|NN connection|NN weight|NN life|NN expectancy|NN premium|NN
+culture|NN history|NN Obesity|Disease result|NN character|NN flaw|NN
+obesus|NN character|NN comedy|NN glutton|NN figure|NN mockery|NN
+time|NN food|NN gateway|NN sin|NN sloth|NN lust|NN culture|NN excess|NN weight|NN Obesity|Disease stereotype|NN
+people|NN age|NN stigmatization|NN bully|NN peer|NN
+perception|NN society|NN body|NN weight|NN weight|NN begine|NN century|NN
+weight|NN ideal|NN
+fact|NN height|NN miss|NP america|NP pageant|NN winner|NN weight|NN hand|NN people|NN view|NN weight|NN direction|NN
+britain|NP weight|NN people|NN change|NN rate|NN adiposity|NN acceptance|NN body|NN fat|NN
+Obesity|Disease sign|NN wealth|NN well-be|NN part|NN africa|NP
+hiv|NP epidemic|NN art|NN
+representation|NN body|NN year|NN female|NN
+attribute|NN venus|NP figurine|NN tendency|NN fertility|NN fatness|NN people|NN time|NN corpulence|NN greek|NN art|NN ideal|NN moderation|NN
+history|NN status|NN
+renaissance|NN class|NN size|NN portrait|NN henry|NP england|NP alessandro|NP dal|NN rubens|NP women|NN picture|NN term|NN
+women|NN shape|NN relationship|NN fertility|NN century|NN view|NN Obesity|Disease world|NN
+century|NN Obesity|Disease wealth|NN status|NN slimness|NN standard|NN society|NN culture|NN impact|NN
+addition|NN health|NN impact|NN Obesity|Disease lead|NN problem|NN disadvantage|NN employment|NN business|NN cost|NN
+effect|NN level|NN society|NN individual|NN corporation|NN government|NN
+cost|NN Obesity|Disease expenditure|NN cost|NN Obesity|Disease canada|NP ca2|NP health|NN cost|NN Obesity|Disease australia|NP
+australian|NN government|NN subsidy|NN estimate|NN range|NN expenditure|NN diet|NN product|NN
+lancet|NN commission|NN Obesity|Disease 2019|NN treaty|NN framework|NN convention|NN tobacco|NN control|NN country|NN address|NN Obesity|Disease food|NN industry|NN policy|NN development|NN
+cost|NN Obesity|Disease year|NN world|NN gdp|NN
+Obesity|Disease prevention|NN program|NN cost|NN Obesity|Disease disease|NN
+people|NN cost|NN
+researcher|NN Obesity|Disease publics|NN health|NN health|NN chair|NN number|NN chair|NN
+service|NN people|NN equipment|NN chair|NN
+Obesity|Disease stigmatization|NN disadvantage|NN employment|NN weight|NN counterpart|NN worker|NN average|NN rate|NN absenteeism|NN work|NN disability|NN cost|NN employer|NN productivity|NN study|NN duke|NN university|NN employee|NN people|NN bmy|NN worker|NN compensation|NN claim|NN bmy|NN
+time|NN work|NN day|NN
+injury|NN group|NN fall|NN extremity|NN wrist|NN hand|NN back|NN alabama|NP state|NN employee|NN insurance|NN board|NN plan|NN worker|NN month|NN health|NN insurance|NN step|NN weight|NN health|NN
+measure|NN january|NP state|NN worker|NN bmi|NP kgm2|NN improvement|NN health|NN year|NN
+research|NN people|NN job|NN people|NN counterpart|NN job|NN women|NN average|NN men|NN
+industry|NN airline|NN healthcare|NN food|NN industry|NN concern|NN
+rate|NN Obesity|Disease airline|NN fuel|NN cost|NN pressure|NN increase|NN seate|NN width|NN weight|NN passenger|NN cost|NN airline|NN healthcare|NN industry|NN facility|NN handle|NN patient|NN lift|NN equipment|NN bariatric|NN ambulance|NN cost|NN restaurant|NN litigation|NN Obesity|Disease congress|NN legislation|NN lawsuit|NN food|NN industry|NN relation|NN Obesity|Disease law|NN
+association|NN classification|NN Obesity|Disease disease|NN health|NN insurance|NN company|NN pay|NN Obesity|Disease treatment|NN surgery|NN cost|NN research|NN development|NN treatment|NN pill|NN gene|NN therapy|NN treatment|NN insurer|NN cost|NN ama|NN classification|NN health|NN insurer|NN right|NN coverage|NN treatment|NN procedure|NN
+court|NN justice|NN Obesity|Disease disability|NN
+court|NN employee|NN Obesity|Disease participation|NN person|NN life|NN basis|NN worker|NN disability|NN fire|NN ground|NN size|NN acceptance|NN united|NP states|NP president|NP william|NP howard|NP taft|NP acceptance|NN movement|NN stigma|NN Obesity|Disease health|NN size|NN fetishism|NN
+goal|NN acceptance|NN movement|NN discrimination|NN people|NN movement|NN relationship|NN Obesity|Disease health|NN outcome|NN
+number|NN organization|NN acceptance|NN Obesity|Disease
+prominence|NN half|NN century|NN association|NN acceptance|NN right|NN organization|NN end|NN size|NN discrimination|NN
+size|NN acceptance|NN association|NN isaa|NN organization|NN
+orientation|NN mission|NN size|NN acceptance|NN end|NN discrimination|NN group|NN recognition|NN Obesity|Disease disability|NN american|NN disability|NN act|NN ada|NP
+system|NN health|NN cost|NN benefit|NN law|NN Obesity|Disease industry|NN influence|NN research|NN
+new|NP york|NP time|NN article|NN energy|NN balance|NN network|NN 2014|NN people|NN focus|NN exercise|NN calorie|NN intake|NN Obesity|Disease
+organization|NN 15m|NN fund|NN coca-cola|NP company|NN company|NN research|NN fund|NN scientist|NN gregory|NP
+hand|NN steven|NP n|NP
+blair|NP childhood|NN Obesity|Disease article|NN childhood|NN Obesity|Disease
+bmy|NN range|NN age|NN sex|NN child|NN
+Obesity|Disease children|NN adolescent|NN bmy|NN percentile|NN reference|NN data|NN percentile|NN increase|NN rate|NN Obesity|Disease childhood|NN Obesity|Disease epidemic|NN proportion|NN century|NN rate|NN world|NN
+rate|NN Obesity|Disease boy|NN time|NN period|NN rate|NN children|NN uk|NP children|NN percentage|NN children|NN increase|NN year|NN
+Obesity|Disease adult|NN factor|NN rate|NN childhood|NN Obesity|Disease
+diet|NN activity|NN cause|NN increase|NN incidence|NN child|NN Obesity|Disease antibiotics|NN month|NN life|NN weight|NN age|NN year|NN age|NN childhood|NN Obesity|Disease adulthood|NN illness|NN children|NN hypertension|NN diabete|NN liver|NN disease|NN treatment|NN children|NN lifestyle|NN intervention|NN technique|NN effort|NN increase|NN activity|NN children|NN success|NN united|NP states|NP medication|NN fda|NN use|NN age|NN group|NN behaviour|NN change|NN intervention|NN change|NN activity|NN bmy|NN term|NN children|NN year|NN benefit|NN quality|NN evidence|NN animal|NN article|NN Obesity|Disease pet|NN
+Obesity|Disease pet|NN country|NN
+united|NP states|NP dog|NN rate|NN Obesity|Disease cat|NN australia|NP rate|NN Obesity|Disease dog|NN set|NN risk|NN Obesity|Disease dog|NN owner|NN correlation|NN cat|NN owner|NN

@@ -1,0 +1,215 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN journal|NN title|NN Allergy|Disease journal|NN
+Allergy|Disease hive|NN symptom|NN immunology|NN symptom|NN eye|NN rash|NN nose|NN shortness|NN breath|NN swell|NN sneez|NN type|NN hay|NP fever|NN food|NN Allergy|Disease dermatitis|NN asthma|NN cause|NN factor|NN method|NN symptom|NN skin|NN prick|NN test|NN blood|NN test|NN diagnosis|NN food|NN food|NN poison|NN prevention|NN exposure|NN allergen|NN treatment|NN allergen|NN medication|NN medication|NN mast|NN cell|NN stabilizer|NN frequency|NN
+Allergy|Disease Allergy|Disease number|NN condition|NN hypersensitivity|NN system|NN substance|NN environment|NN disease|NN hay|NN fever|NN food|NN Allergy|Disease dermatitis|NN asthma|NN anaphylaxis|NN symptom|NN eye|NN rash|NN nose|NN shortness|NN breath|NN food|NN food|NN poison|NN condition|NN
+allergen|NN pollen|NN food|NN metal|NN substance|NN problem|NN food|NN insect|NN sting|NN medication|NN cause|NN reaction|NN development|NN factor|NN mechanism|NN immunoglobulin|NN antibody|NN part|NN system|NN bind|NN allergen|NN receptor|NN mast|NN cell|NN basophil|NN release|NN chemical|NN histamine|NN diagnosis|NN person|NN history|NN test|NN skin|NN blood|NN case|NN test|NN Allergy|Disease substance|NN question|NN
+exposure|NN allergen|NN treatment|NN Allergy|Disease allergen|NN use|NN medication|NN steroid|NN antihistamine|NN reaction|NN adrenaline|NN epinephrine|NN people|NN amount|NN allergen|NN type|NN Allergy|Disease hay|NN fever|NN reaction|NN insect|NN use|NN food|NN Allergy|Disease
+Allergy|Disease world|NN people|NN rhinitis|NN people|NN food|NN Allergy|Disease dermatitis|NN point|NN time|NN country|NN people|NN asthma|NN anaphylaxis|NN 0052|NN people|NN rate|NN Allergy|Disease word|NN Allergy|Disease clemens|NP von|NP content|NN
+sign|NN symptom|NN skin|NN cause|NN food|NN latex|NP insect|NN sting|NN protein|NN genetics|NN hygiene|NN hypothesis|NN stress|NN factor|NN response|NN response|NN contact|NN dermatitis|NN diagnosis|NN skin|NN prick|NN test|NN patch|NN test|NN blood|NN test|NN test|NN diagnosis|NN prevention|NN management|NN medicine|NN epidemiology|NN frequency|NN history|NN diagnosis|NN specialty|NN research|NN reference|NN link|NN
+sign|NN symptom|NN symptom|NN organ|NN nose|NN swell|NN mucosa|NN rhinitis|NN nose|NN allergic|NN eye|NN itch|NN airway|NN wheez|NN attack|NN asthma|NN case|NN airway|NN due|NN swell|NN ear|NN feel|NN fullness|NN pain|NN hear|NN lack|NN tube|NN drainage|NN
+skin|NN eczema|NN hive|NN urticaria|NN tract|NN pain|NN bloat|NN vomit|NN
+allergen|NN dust|NN pollen|NN particle|NN
+case|NN symptom|NN area|NN contact|NN air|NN eye|NN nose|NN lung|NN
+instance|NN rhinitis|NN hay|NN fever|NN irritation|NN nose|NN sneez|NN itch|NN redness|NN eye|NN allergen|NN production|NN mucus|NN lung|NN shortness|NN breath|NN cough|NN wheez|NN
+allergen|NN reaction|NN food|NN insect|NN sting|NN reaction|NN medication|NN aspirin|NN antibiotics|NN penicillin|NN
+symptom|NN food|NN Allergy|Disease pain|NN bloat|NN skin|NN swell|NN skin|NN hive|NN
+food|NN Allergy|Disease reaction|NN rhinitis|NN insect|NN sting|NN food|NN antibiotics|NN medicine|NN response|NN organ|NN system|NN system|NN system|NN system|NN rate|NN severity|NN skin|NN reaction|NN blood|NN pressure|NN coma|NN death|NN
+type|NN reaction|NN onset|NN
+nature|NN anaphylaxis|NN reaction|NN period|NN time|NN skin|NN
+substance|NN contact|NN skin|NN latex|NN cause|NN reaction|NN contact|NN dermatitis|NN eczema|NN skin|NN Allergy|Disease cause|NN rashe|NN inflammation|NN skin|NN weal|NN flare|NN reaction|NN characteristic|NN hive|NN angioedema|NN
+insect|NN reaction|NN area|NN skin|NN redness|NN cm|NN size|NN day|NN reaction|NN cause|NN
+risk|NN factor|NN Allergy|Disease category|NN host|NN factor|NN host|NN factor|NN heredity|NN sex|NN race|NN age|NN heredity|NN
+increase|NN incidence|NN disorder|NN factor|NN
+candidate|NN alteration|NN exposure|NN disease|NN childhood|NN pollution|NN level|NN change|NN food|NN article|NN food|NN Allergy|Disease
+variety|NN food|NN reaction|NN response|NN food|NN cow|NN milk|NN egg|NN wheat|NN peanut|NN tree|NN nut|NN fish|NN shellfish|NN food|NN Allergy|Disease person|NN population|NN use|NN milk|NN baby|NN formula|NN milk|NN baby|NN formula|NN risk|NN
+food|NN Allergy|Disease population|NN sensitivity|NN crustacea|NN peanut|NN Allergy|Disease severity|NN peanut|NN Allergy|Disease food|NN Allergy|Disease adult|NN children|NN
+reaction|NN allergen|NN asthma|NN
+rate|NN Allergy|Disease adult|NN children|NN
+peanut|NN Allergy|Disease children|NN
+egg|NN Allergy|Disease affect|NN percent|NN children|NN children|NN age|NN sensitivity|NN protein|NN white|NN yolk|NN
+Allergy|Disease children|NN reaction|NN immunoglobulin|NN e-mediate|NN inflammation|NN colon|NN people|NN milk|NN goat|NN sheep|NN cow|NN dairy|NN product|NN cheese|NN
+children|NN milk|NN Allergy|Disease reaction|NN beef|NN
+beef|NN amount|NN protein|NN cow|NN milk|NN intolerance|NN reaction|NN milk|NN form|NN Allergy|Disease absence|NN enzyme|NN tract|NN
+tree|NN nut|NN Allergy|Disease tree|NN nut|NN pistachio|NN pine|NN nut|NN walnut|NN seed|NN sesame|NN seed|NN poppy|NN seed|NN oil|NN protein|NN reaction|NN
+food|NN engineer|NN modification|NN allergen|NN
+research|NN variation|NN concentration|NN crop|NN
+latex|NP reaction|NN
+prevalence|NN latex|NN Allergy|Disease population|NN percent|NN
+hospital|NN study|NN patient|NN percent|NN latex|NN sensitivity|NN sensitivity|NN healthcare|NN worker|NN percent|NN
+researcher|NN level|NN exposure|NN healthcare|NN worker|NN area|NN latex|NN allergen|NN operate|NN room|NN unit|NN suite|NN
+environment|NN healthcare|NN worker|NN protein|NN
+response|NN latex|NN contact|NN dermatitis|NN reaction|NN lesion|NN
+reaction|NN hour|NN
+sweate|NN area|NN glove|NN lesion|NN ulceration|NN reaction|NN patient|NN surgeon|NN latex|NN glove|NN surgery|NN exposure|NN procedure|NN reaction|NN
+latex|NP banana|NN sensitivity|NN
+latex|NN Allergy|Disease sensitivity|NN avocado|NN chestnut|NN people|NN itch|NN urticaria|NN
+food-induce|NN Allergy|Disease response|NN
+researcher|NN cross-reactivity|NN latex|NN banana|NN avocado|NN chestnut|NN latex|NN protein|NN plant|NN protein|NN
+people|NN report|NN penicillin|NN turn|NN Allergy|Disease insect|NN article|NN insect|NN sting|NN Allergy|Disease
+insect|NN response|NN insect|NN wasp|NN bee|NN hornet|NN ant|NN insect|NN mosquitoe|NN tick|NN
+insect|NN venom|NN victim|NN insect|NN
+protein|NN reaction|NN contact|NN dermatitis|NN contact|NN poison|NN ivy|NN poison|NN oak|NN poison|NN oak|NN poison|NN
+protein|NN act|NN hapten|NN bind|NN shape|NN membrane|NN protein|NN skin|NN cell|NN
+system|NN cell|NN part|NN body|NN response|NN plant|NN response|NN reaction|NN urushiol|NN membrane|NN protein|NN redness|NN swell|NN vesicle|NN blister|NN
+estimate|NN percentage|NN population|NN system|NN response|NN
+percent|NN population|NN response|NN
+general|NN percent|NN percent|NN adult|NN rash|NN milligram|NN
+gr|NN urushiol|NN people|NN trace|NN skin|NN reaction|NN genetics|NN
+Allergy|Disease twin|NN Allergy|Disease time|NN Allergy|Disease time|NN twin|NN parent|NN children|NN children|NN Allergy|Disease children|NN parent|NN
+Allergy|Disease genealogy|NN parent|NN peanut|NN children|NN
+likelihood|NN Allergy|Disease irregularity|NN system|NN allergen|NN
+risk|NN sensitization|NN development|NN Allergy|Disease age|NN children|NN risk|NN study|NN level|NN childhood|NN fall|NN age|NN year|NN peak|NN prevalence|NN hay|NN fever|NN children|NN adult|NN incidence|NN asthma|NN children|NN
+boy|NN risk|NN Allergy|Disease girl|NN disease|NN asthma|NN adult|NN female|NN difference|NN sexe|NN adulthood|NN
+role|NN Allergy|Disease factor|NN influence|NN change|NN migration|NN locy|NN asthma|NN people|NN origin|NN hygiene|NN hypothesis|NN article|NN hygiene|NN hypothesis|NN
+Allergy|Disease response|NN antigen|NN response|NN
+bacteria|NN viruse|NN response|NN response|NN
+mechanism|NN action|NN hygiene|NN hypothesis|NN stimulation|NN arm|NN system|NN th2|NN arm|NN turn|NN lead|NN disease|NN word|NN individual|NN environment|NN pathogen|NN system|NN
+body|NN deal|NN level|NN pathogen|NN level|NN system|NN antigen|NN objectslike|NN trigger|NN response|NN
+hygiene|NN hypothesis|NN observation|NN hay|NN fever|NN eczema|NN Allergy|Disease children|NN family|NN agent|NN sible|NN children|NN family|NN child|NN
+hygiene|NN hypothesis|NN immunologist|NN epidemiologist|NN framework|NN study|NN disorder|NN
+increase|NN Allergy|Disease industrialization|NN incidence|NN Allergy|Disease country|NN
+hygiene|NN hypothesis|NN exposure|NN bacteria|NN parasite|NN modulator|NN system|NN development|NN agent|NN
+data|NN hygiene|NN hypothesis|NN
+study|NN autoimmune|NN disease|NN world|NN world|NN immigrant|NN world|NN world|NN disorder|NN relation|NN length|NN time|NN arrival|NN world|NN study|NN world|NN increase|NN disorder|NN country|NN cleaner|NN use|NN antibiotics|NN year|NN life|NN asthma|NN Allergy|Disease use|NN clean|NN product|NN incidence|NN asthma|NN birth|NN caesarean|NN section|NN birth|NN stress|NN
+stress|NN condition|NN
+t|NP helper|NN response|NN suppression|NN interleukin|NN system|NN axis|NN
+stress|NN management|NN individual|NN symptom|NN factor|NN
+difference|NN country|NN number|NN individual|NN population|NN Allergy|Disease
+Allergy|Disease country|NN country|NN rate|NN disease|NN population|NN population|NN difference|NN
+alteration|NN exposure|NN microorganism|NN explanation|NN present|NN increase|NN Allergy|Disease exposure|NN release|NN cytokine|NN
+ifn|NP interleukin-10|NP interleukin-12|NP blood|NN cell|NN leukocyte|NN blood|NN microbe-sense|NN protein|NN receptor|NN surface|NN cell|NN body|NN process|NN
+parasite|NN drink|NN water|NN country|NN water|NN country|NN routine|NN purification|NN drink|NN water|NN supply|NN research|NN parasite|NN worm|NN chemical|NN gut|NN wall|NN bloodstream|NN system|NN body|NN parasite|NN rise|NN slant|NN hygiene|NN hypothesis|NN human|NN parasite|NN system|NN function|NN presence|NN parasite|NN
+system|NN research|NN Allergy|Disease establishment|NN gut|NN flora|NN infant|NN research|NN theory|NN study|NN china|NP ethiopia|NP increase|NN Allergy|Disease people|NN worm|NN trial|NN effectiveness|NN worm|NN Allergy|Disease term|NN parasite|NN fact|NN symbiosis|NN work|NN information|NN topic|NN therapy|NN
+summary|NN diagram|NN Allergy|Disease
+inflammation|NN response|NN process|NN Allergy|Disease
+exposure|NN allergen|NP antigen|NN antibody|NN fc|NP
+ri|NP receptor|NN mediator|NN histamine|NN heparin|NN granule|NN mast|NN cell|NN mediator|NN prostaglandin|NN leukotriene|NN paf|NN
+stage|NN Allergy|Disease type|NN hypersensitivity|NN reaction|NN allergen|NN time|NN antigen-present|NN cell|NN response|NN type|NN cell|NN lymphocyte|NN subset|NN t|NP cell|NN cytokine|NN
+cell|NN lymphocyte|NN cell|NN role|NN production|NN antibody|NN
+signal|NN interaction|NN b|NP cell|NN production|NN amount|NN type|NN antibody|NN
+ige|NN blood|NN receptor|NN kind|NN fc|NP receptor|NN fc|NP
+ri|NP surface|NN kind|NN cell|NN mast|NN cell|NN basophil|NN response|NN
+cell|NN stage|NN allergen|NN
+exposure|NN allergen|NN allergen|NN molecule|NN surface|NN mast|NN cell|NN basophil|NN
+cross-linking|NP ige|NN fc|NP receptor|NN ige-receptor|NN complex|NN molecule|NN cell|NN
+mast|NN cell|NN basophil|NN process|NN degranulation|NN histamine|NN mediator|NN cytokine|NN leukotriene|NN prostaglandin|NN granule|NN tissue|NN effect|NN mucous|NN secretion|NN nerve|NN stimulation|NN muscle|NN contraction|NN
+result|NN itchiness|NN
+allergen|NN mode|NN introduction|NN symptom|NN anaphylaxis|NN body|NN system|NN asthma|NN system|NN eczema|NN dermis|NN response|NN
+mediator|NN response|NN response|NN
+migration|NN leukocyte|NN neutrophil|NN lymphocyte|NN eosinophil|NN macrophage|NN site|NN
+reaction|NN hour|NN reaction|NN mast|NN cell|NN role|NN persistence|NN effect|NN
+response|NN asthma|NN response|NN release|NN mediator|NN eosinophil|NN activity|NN cell|NN contact|NN dermatitis|NN
+contact|NN dermatitis|NN reaction|NN type|NN hypersensitivity|NN pathophysiology|NN reaction|NN type|NN hypersensitivity|NN reaction|NN type|NN hypersensitivity|NN activation|NN type|NN cell|NN target|NN cell|NN contact|NN macrophage|NN enzyme|NN
+diagnosis|NN Allergy|Disease test|NN machine|NN immunology|NN lab|NN
+management|NN Allergy|Disease ability|NN diagnosis|NN Allergy|Disease test|NN Allergy|Disease diagnosis|NN avoidance|NN advice|NN Allergy|Disease test|NN result|NN incidence|NN symptom|NN need|NN medication|NN quality|NN life|NN presence|NN antibody|NN method|NN skin|NN prick|NN test|NN Allergy|Disease blood|NN test|NN
+method|NN value|NN
+skin|NN prick|NN test|NN blood|NN test|NN health|NN evidence|NN test|NN test|NN diagnose|NN cost|NN consultation|NN referral|NN care|NN emergency|NN admission|NN
+Allergy|Disease change|NN time|NN
+Allergy|Disease test|NN allergen|NN information|NN management|NN order|NN health|NN quality|NN life|NN
+test|NN practice|NN Allergy|Disease milk|NN egg|NN wheat|NN test|NN interval|NN year|NN Allergy|Disease peanut|NN tree|NN nut|NN fish|NN shellfish|NN result|NN test|NN decision-make|NN food|NN diet|NN skin|NN prick|NN test|NN skin|NN test|NN arm|NN skin|NN test|NN back|NN
+skin|NN test|NN puncture|NN test|NN prick|NN test|NN series|NN puncture|NN prick|NN patient|NN skin|NN
+amount|NN allergen|NN extract|NN pollen|NN grass|NN mite|NN protein|NN peanut|NN extract|NN site|NN skin|NN pen|NN dye|NN inkdye|NN response|NN
+plastic|NN metal|NN device|NN puncture|NN skin|NN
+allergen|NN patient|NN skin|NN needle|NN syringe|NN
+area|NN test|NN forearm|NN back|NN
+patient|NN substance|NN reaction|NN minute|NN
+response|NN redden|NN skin|NN hive|NN flare|NN patient|NN mosquito|NN bite|NN
+interpretation|NN result|NN skin|NN prick|NN test|NN allergist|NN scale|NN severity|NN
+mean|NN borderline|NN reactivity|NN reaction|NN
+diameter|NN wheal|NN flare|NN reaction|NN
+interpretation|NN allergist|NN literature|NN patient|NN sensitivity|NN observation|NN skin|NN test|NN patient|NN observation|NN Allergy|Disease
+anaphylactic|NN reaction|NN patient|NN evaluation|NN allergist|NN blood|NN test|NN skin|NN prick|NN test|NN
+skin|NN test|NN option|NN patient|NN skin|NN disease|NN day|NN
+patch|NN test|NN article|NN patch|NN test|NN patch|NN test|NN
+patch|NN test|NN method|NN substance|NN inflammation|NN skin|NN
+cause|NN skin|NN contact|NN Allergy|Disease contact|NN dermatitis|NN
+patche|NN number|NN chemical|NN skin|NN sensitizer|NN back|NN
+skin|NN reaction|NN hour|NN application|NN patch|NN day|NN
+blood|NN test|NN
+Allergy|Disease blood|NN test|NN health|NN care|NN provider|NN Allergy|Disease specialist|NN practitioner|NN
+test|NN blood|NN test|NN age|NN skin|NN condition|NN medication|NN symptom|NN disease|NN activity|NN pregnancy|NN
+adult|NN children|NN age|NN Allergy|Disease blood|NN test|NN
+baby|NN children|NN needle|NN stick|NN Allergy|Disease blood|NN test|NN skin|NN prick|NN
+Allergy|Disease blood|NN test|NN laboratory|NN
+sample|NN patient|NN blood|NN laboratory|NN analysis|NN result|NN day|NN
+allergen|NN blood|NN sample|NN
+Allergy|Disease blood|NN test|NN person|NN allergen|NN test|NN procedure|NN
+test|NN concentration|NN ige|NN antibody|NN blood|NN
+ige|NN test|NN result|NN possibility|NN rank|NN substance|NN symptom|NN
+rule|NN thumb|NN ige|NN antibody|NN value|NN likelihood|NN symptom|NN
+level|NN symptom|NN symptom|NN development|NN
+Allergy|Disease blood|NN result|NN patient|NN disease|NN development|NN estimate|NN risk|NN reaction|NN
+total|NN level|NN sensitization|NN allergen|NN method|NN roc|NN curve|NN value|NN calculation|NN likelihood|NN ratio|NN relationship|NN test|NN method|NN
+method|NN patient|NN ige|NN probability|NN sensitization|NN investigation|NN Allergy|Disease test|NN antibody|NN allergen|NN
+laboratory|NN method|NN ige|NN antibody|NN Allergy|Disease test|NN assay|NN elisa|NP eia|NP test|NN enzyme|NN immunoassay|NN test|NN
+challenge|NN test|NN challenge|NN test|NN amount|NN allergen|NN body|NN inhalation|NN route|NN
+test|NN food|NN medication|NN Allergy|Disease challenge|NN
+type|NN test|NN allergist|NN
+test|NN test|NN method|NN food|NN medicine|NN
+patient|NN allergen|NN diet|NN allergen|NN set|NN time|NN
+patient|NN experience|NN improvement|NN allergen|NN symptom|NN
+test|NN type|NN Allergy|Disease test|NN method|NN kinesiology|NN Allergy|Disease test|NN muscle|NN relaxation|NN cytotoxicity|NN test|NN urine|NN skin|NN titration|NN method|NN test|NN provocation|NN diagnosis|NN
+diagnosis|NN disease|NN cause|NN present|NN symptom|NN rhinitis|NN example|NN illness|NN share|NN symptom|NN rhinitis|NN need|NN diagnosis|NN diagnosis|NN asthma|NN rhinitis|NN disease|NN method|NN agent|NN Allergy|Disease
+prevention|NN information|NN Allergy|Disease prevention|NN children|NN
+peanut|NN product|NN risk|NN Allergy|Disease breastfeed|NN month|NN life|NN risk|NN dermatitis|NN evidence|NN mother|NN diet|NN pregnancy|NN breastfeed|NN effect|NN risk|NN evidence|NN introduction|NN food|NN exposure|NN allergen|NN
+fish|NP oil|NN supplementation|NN pregnancy|NN risk|NN supplement|NN pregnancy|NN infancy|NN dermatitis|NN management|NN
+management|NN Allergy|Disease Allergy|Disease medication|NN symptom|NN immunotherapy|NN type|NN Allergy|Disease medication|NN
+medication|NN action|NN mediator|NN activation|NN cell|NN degranulation|NN process|NN
+adrenaline|NN mast|NN cell|NN stabilizer|NN agent|NN treatment|NN Allergy|Disease anti-cholinergics|NN compound|NN chemotaxis|NN
+severity|NN injection|NN care|NN device|NN autoinjector|NN article|NN Allergy|Disease
+Allergy|Disease Allergy|Disease insect|NN bite|NN asthma|NN benefit|NN food|NN Allergy|Disease people|NN amount|NN allergen|NN effort|NN system|NN response|NN
+injection|NN allergen|NN skin|NN treatment|NN rhinitis|NN children|NN asthma|NN benefit|NN year|NN treatment|NN rhinitis|NN form|NN asthma|NN insect|NN
+evidence|NN use|NN immunotherapy|NN rhinitis|NN asthma|NN Allergy|Disease benefit|NN form|NN allergen|NN tongue|NN people|NN injection|NN treatment|NN asthma|NN alternative|NN medicine|NN
+treatment|NN enzyme|NN epd|NN decade|NN epd|NN dilution|NN allergen|NN enzyme|NN lymphocyte|NN desensitization|NN sensitization|NN
+treatment|NN autoimmune|NN disease|NN evidence|NN effectiveness|NN
+review|NN effectiveness|NN treatment|NN difference|NN placebo|NN
+author|NN trial|NN type|NN homeopathy|NN childhood|NN adolescence|NN ailment|NN evidence|NN use|NN treatment|NN
+center|NN health|NN evidence|NN irrigation|NN medicine|NN treatment|NN evidence|NN honey|NN acupuncture|NN omega|NN capsaicin|NN grape|NN seed|NN extract|NN nettle|NN epidemiology|NN
+Allergy|Disease hay|NN fever|NN asthmahave|NN world|NN decade|NN increase|NN asthma|NN atopic|NN disorder|NN nation|NN increase|NN rise|NN sensitization|NN number|NN case|NN year|NN atopy|NN country|NN general|NN allergic|NN condition|NN statistics|NN epidemiology|NN Allergy|Disease type|NN united|NP states|NP united|NP kingdom|NP rhinitis|NN population|NN population|NN asthma|NN asthma|NN population|NN
+prevalence|NN asthma|NN
+asthma|NN prevalence|NN american|NN european|NN
+six-|NN seven-year-old|NN asthma|NN year|NN time|NN rate|NN 14-year-old|NN
+eczema|NN population|NN
+prevalence|NN children|NN
+death|NN year|NN insect|NN venom|NN
+death|NN penicillin|NN
+case|NN anaphylaxis|NN death|NN year|NN latex|NN Allergy|Disease people|NN due|NN food|NN Allergy|Disease death|NN people|NN month|NN year|NN
+insect|NN venom|NN adult|NN reaction|NN
+reaction|NN adult|NN children|NN drug|NN Allergy|Disease reaction|NN penicillin|NN cause|NN death|NN year|NN
+food|NN Allergy|Disease children|NN age|NN population|NN
+citation|NN peanut|NN tree|NN nut|NN walnut|NN Allergy|Disease american|NN population|NN infant|NN adult|NN
+increase|NN peanut|NN Allergy|Disease 25700|NN people|NN england|NP
+Allergy|Disease asthma|NN eczema|NN rhinitis|NN prevalence|NN frequency|NN
+factor|NN susceptibility|NN disease|NN increase|NN atopy|NP time|NN frame|NN change|NN population|NN lifestyle|NN change|NN hypothese|NN rate|NN exposure|NN allergen|NN house|NN change|NN time|NN change|NN cleanliness|NN hygiene|NN activation|NN control|NN mechanism|NN change|NN obesity|NN decline|NN exercise|NN hygiene|NN hypothesis|NN live|NN standard|NN condition|NN children|NN infection|NN
+infection|NN life|NN system|NN type|NN response|NN response|NN increase|NN Allergy|Disease
+change|NN rate|NN type|NN infection|NN increase|NN disease|NN evidence|NN attention|NN importance|NN environment|NN
+evidence|NN exposure|NN food|NN fecal-oral|NN pathogen|NN hepatitis|NN gondiy|NN helicobacter|NN pylory|NN country|NN risk|NN atopy|NN rate|NN infection|NN prevalence|NN asthma|NN infection|NN effect|NN regulation|NN element|NN hygiene|NN hypothese|NN exposure|NN endotoxin|NN exposure|NN pet|NN farm|NN history|NN
+sign|NN symptom|NN Allergy|Disease source|NN member|NN julio-claudian|NN dynasty|NN augustus|NP claudius|NP britannicus|NP family|NN history|NN atopy|NN concept|NN Allergy|Disease pediatrician|NN clemens|NP von|NP patient|NN injection|NN horse|NN serum|NN smallpox|NN vaccine|NN reaction|NN second|NN injection|NN phenomenon|NN Allergy|Disease word|NN
+mean|NN work|NN
+form|NN hypersensitivity|NN Allergy|Disease activation|NN system|NN
+disease|NN mechanism|NN link|NN activation|NN system|NN
+classification|NN scheme|NN philip|NP robin|NP coombs|NP type|NN hypersensitivity|NN reaction|NN type|NN type|NN hypersensitivity|NN classification|NN word|NN Allergy|Disease Allergy|Disease type|NN hypersensitivity|NN reaction|NN antibody|NN
+breakthrough|NN mechanism|NN Allergy|Disease discovery|NN antibody|NN class|NN immunoglobulin|NN e|NN
+196667|NN group|NN team|NN children|NN asthma|NN research|NN institute|NN hospital|NN denver|NP colorado|NP gunnar|NP johansson|NP hans|NP bennich|NP uppsala|NP sweden|NP paper|NN april|NP diagnosis|NN
+assay|NN test|NN test|NN method|NN antibody|NN isotope|NN level|NN antibody|NN blood|NN method|NN use|NN technology|NN place|NN isotope|NN
+methodology|NN pharmacia|NP diagnostics|NN ab|NP uppsala|NP sweden|NP acronym|NN rast|NN name|NN
+pharmacia|NP diagnostics|NN test|NN ige|NN blood|NN test|NN fluorescence-label|NN technology|NN
+college|NN Allergy|Disease asthma|NN immunology|NN academy|NN Allergy|Disease asthma|NN immunology|NN task|NN force|NN report|NN pitfal|NN Allergy|Disease test|NN 2008|NN statement|NN term|NN rast|NN
+term|NN colloquialism|NN variety|NN Allergy|Disease test|NN
+reason|NN use|NN rast|NN descriptor|NN test|NN
+version|NN ige|NN blood|NN test|NN ige|NN assay|NN food|NN drug|NN administration|NN approval|NN report|NN detection|NN limit|NN
+citation|NN specialty|NN
+allergist|NN physician|NN Allergy|Disease asthma|NN Allergy|Disease
+united|NP states|NP physician|NN certification|NN board|NN Allergy|Disease immunology|NN abay|NN program|NN evaluation|NN process|NN examination|NN knowledge|NN skill|NN experience|NN patient|NN care|NN Allergy|Disease immunology|NN allergistimmunologist|NN completion|NN year|NN train|NN
+school|NN degree|NN physician|NN year|NN train|NN medicine|NN internist|NN pediatrics|NN pediatrician|NN
+physician|NN train|NN specialty|NN exam|NN board|NN pediatrics|NN osteopathic|NN board|NN pediatrics|NN board|NN medicine|NN osteopathic|NN board|NN medicine|NN
+focus|NN sub-specialty|NN Allergy|Disease year|NN study|NN fellowship|NN Allergy|Disease immunology|NN train|NN program|NN
+examination|NN abay|NN fellowship|NN
+united|NP kingdom|NP Allergy|Disease subspecialty|NN medicine|NN pediatrics|NN
+postgraduate|NN exam|NN doctor|NN year|NN specialist|NN registrar|NN qualify|NN council|NN specialist|NN register|NN
+Allergy|Disease service|NN
+college|NN physician|NN report|NN case|NN improvement|NN Allergy|Disease service|NN uk|NP house|NN lords|NP subcommittee|NN
+Allergy|Disease service|NN lord|NN Allergy|Disease epidemic|NN cost|NN recommendation|NN research|NN
+food|NN improvement|NN skin|NN prick|NN test|NN prediction|NN evaluation|NN patch|NN test|NN wasp|NN sting|NN outcome|NN prediction|NN epinephrine|NN tablet|NN anti-il-5|NN disease|NN
+study|NN particle|NN air|NN
+aim|NN prevention|NN Allergy|Disease due|NN pollen|NN
+list|NN allergen|NN histamine|NN intolerance|NN Allergy|Disease syndrome|NN

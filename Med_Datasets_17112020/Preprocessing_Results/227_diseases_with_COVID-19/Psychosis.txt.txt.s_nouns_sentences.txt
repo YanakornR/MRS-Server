@@ -1,0 +1,232 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN
+use|NN Psychosis|Disease disambiguation|NN
+Psychosis|Disease name|NN Psychosis|Disease van|NP gogh|NP night|NN art|NN van|NP night|NN show|NN change|NN light|NN color|NN Psychosis|Disease psychiatry|NN psychology|NN symptom|NN belief|NN thing|NN speech|NN complication|NN suicide|NN cause|NN illness|NN schizophrenia|NN disorder|NN sleep|NN deprivation|NN condition|NN medication|NN drug|NN alcohol|NN cannabis|NN treatment|NN counsel|NN support|NN cause|NN frequency|NN people|NN point|NN time|NN
+Psychosis|Disease condition|NN mind|NN result|NN difficulty|NN symptom|NN belief|NN delusion|NN thing|NN hallucination|NN symptom|NN speech|NN behavior|NN situation|NN sleep|NN problem|NN withdrawal|NN lack|NN motivation|NN difficulty|NN activity|NN
+Psychosis|Disease cause|NN illness|NN schizophrenia|NN disorder|NN sleep|NN deprivation|NN condition|NN medication|NN drug|NN alcohol|NN cannabis|NN type|NN Psychosis|Disease birth|NN neurotransmitter|NN dopamine|NN role|NN Psychosis|Disease condition|NN condition|NN diagnosis|NN illness|NN cause|NN test|NN system|NN disease|NN toxin|NN health|NN problem|NN cause|NN
+treatment|NN medication|NN counsel|NN support|NN treatment|NN outcome|NN effect|NN outcome|NN cause|NN united|NP states|NP people|NN Psychosis|Disease point|NN live|NN condition|NN century|NN bce|NP hippocrates|NP bce|NP eber|NN content|NN
+sign|NN symptom|NN symptom|NN cause|NN state|NN disorder|NN condition|NN drug|NN symptom|NN diagnosis|NN prevention|NN treatment|NN intervention|NN history|NN classification|NN treatment|NN society|NN reference|NN read|NN link|NN
+sign|NN symptom|NN
+hallucination|NN perception|NN absence|NN stimuly|NN
+illusion|NN distortion|NN misperception|NN stimuly|NN
+sense|NN form|NN
+sensation|NN light|NN color|NN taste|NN smell|NN experience|NN animal|NN people|NN hear|NN voice|NN sensation|NN
+hallucination|NN experience|NN hear|NN voice|NN feature|NN Psychosis|Disease
+population|NN hallucination|NN
+prevalence|NN schizophrenia|NN
+century|NN hallucination|NN hallucination|NN frequency|NN manifestation|NN schizophrenia|NN rate|NN culture|NN region|NN
+hallucination|NN voice|NN
+voice|NN number|NN
+content|NN frequency|NN culture|NN demographics|NN
+people|NN hallucination|NN loudness|NN location|NN origin|NN identity|NN voice|NN
+culture|NN experience|NN content|NN sin|NN
+person|NN delusion|NN
+hallucination|NN hallucination|NN body|NN part|NN voice|NN person|NN knee|NN
+hallucination|NN people|NN schizophrenia|NN rate|NN
+content|NN object|NN abnormality|NN change|NN light|NN shade|NN streak|NN line|NN
+abnormality|NN information|NN vision|NN experience|NN ground|NN
+hallucination|NN schizophrenia|NN type|NN encephalopathy|NN
+hallucination|NN hallucination|NN sensation|NN absence|NN stimuly|NN
+hallucination|NN sensation|NN burn|NN re-arrangement|NN organ|NN
+Psychosis|Disease belief|NN
+belief|NN reality|NN evidence|NN
+norm|NN belief|NN delusion|NN culture|NN impact|NN function|NN belief|NN
+feature|NN think|NN delusion|NN degree|NN impact|NN function|NN
+theme|NN delusion|NN norm|NN content|NN country|NN
+type|NN delusion|NN delusion|NN person|NN organization|NN group|NN
+delusion|NN delusion|NN reference|NN belief|NN stimulus|NN mean|NN holder|NN belief|NN delusion|NN delusion|NN person|NN power|NN importance|NN thought|NN broadcast|NN belief|NN thought|NN thought|NN insertion|NN belief|NN thought|NN
+dsm-5|NN delusion|NN context|NN
+concept|NN delusion|NN
+karl|NP jaspers|NP delusion|NN type|NN
+delusion|NN term|NN process|NN delusion|NN person|NN background|NN situation|NN ethnicity|NN belief|NN
+speech|NN think|NN motor|NN behavior|NN
+speech|NN thought|NN disorder|NN disorganization|NN think|NN speech|NN
+characteristics|NN speech|NN topics|NN derailment|NN association|NN switch|NN topics|NN think|NN speech|NN word|NN salad|NN incoherence|NN
+motor|NN behavior|NN movement|NN
+motor|NN behavior|NN symptom|NN
+treatment|NN lack|NN
+state|NN experience|NN reality|NN
+manifestation|NN behavior|NN
+presentation|NN person|NN world|NN way|NN
+type|NN present|NN flexibility|NN
+flexibility|NN part|NN person|NN body|NN person|NN position|NN person|NN arm|NN air|NN arm|NN
+type|NN catatonia|NN presentation|NN state|NN
+motor|NN behaviour|NN preoccupation|NN experience|NN reality|NN
+example|NN circle|NN exclusion|NN level|NN preoccupation|NN mean|NN situation|NN person|NN symptom|NN onset|NN
+type|NN catatonia|NN reaction|NN
+agitation|NN mania|NN
+symptom|NN expression|NN motivation|NN speech|NN
+interest|NN spontaneity|NN inability|NN pleasure|NN cause|NN state|NN
+hallucination|NN disease|NN
+cause|NN trigger|NN
+wake|NN hallucination|NN bereavement|NN hallucination|NN decease|NN sleep|NN deprivation|NN
+life|NN event|NN risk|NN symptom|NN childhood|NN trauma|NN predictor|NN adolescent|NN adult|NN Psychosis|Disease individual|NN symptom|NN childhood|NN trauma|NN abuse|NN neglect|NN vulnerability|NN Psychosis|Disease experience|NN onset|NN symptom|NN period|NN relationship|NN life|NN event|NN symptom|NN life|NN event|NN compound|NN symptom|NN expression|NN severity|NN trauma|NN prevention|NN intervention|NN target|NN incidence|NN disorder|NN effect|NN disorder|NN
+standpoint|NN disorder|NN illness|NN brain|NN disorder|NN condition|NN disorder|NN disorder|NN function|NN mind|NN absence|NN disorder|NN disorder|NN
+abnormality|NN illness|NN schizophrenia|NN
+dsm-iv-tr|NN distinction|NN list|NN illness|NN Psychosis|Disease condition|NN substance-induce|NN Psychosis|Disease
+cause|NN Psychosis|Disease
+schizophrenia|NN disorder|NN mood|NN disorder|NN depression|NN depression|NN mania|NN disorder|NN depression|NN
+people|NN episode|NN context|NN depression|NN delusion|NN hallucination|NN people|NN episode|NN context|NN mania|NN delusion|NN
+disorder|NN symptom|NN schizophrenia|NN mood|NN disorder|NN disorder|NN disorder|NN disorder|NN delusional|NN disorder|NN Psychosis|Disease
+personality|NN disorder|NN personality|NN disorder|NN time|NN stress|NN personality|NN disorder|NN personality|NN disorder|NN borderline|NN personality|NN disorder|NN depressive|NN disorder|NN form|NN depression|NN Psychosis|Disease disorder|NN episode|NN i|NP disorder|NN depressive|NN episode|NN bipolar|NN state|NN symptom|NN
+stress|NN disorder|NN disorder|NN disorder|NN disorder|NN symptom|NN diagnosis|NN identity|NN disorder|NN
+stress|NN trigger|NN state|NN
+history|NN event|NN experience|NN event|NN development|NN Psychosis|Disease
+Psychosis|Disease stress|NN Psychosis|Disease patient|NN function|NN week|NN case|NN individual|NN state|NN Psychosis|Disease year|NN symptom|NN intensity|NN hallucination|NN time|NN
+predictor|NN development|NN Psychosis|Disease subtype|NN
+Psychosis|Disease periodicity|NN rhythm|NN cycle|NN
+Psychosis|Disease birth|NN delusion|NN Psychosis|Disease Psychosis|Disease Psychosis|Disease Psychosis|Disease
+Psychosis|Disease Psychosis|Disease hour|NN day|NN drug|NN intake|NN brain|NN injury|NN Psychosis|Disease history|NN psychiatry|NN diagnosis|NN
+term|NN Psychosis|Disease karl|NP
+relevance|NN diagnosis|NN literature|NN
+Psychosis|Disease interest|NN literature|NN year|NN number|NN study|NN year|NN misconception|NN diagnosis|NN classification|NN system|NN
+Psychosis|Disease classification|NN system|NN
+Psychosis|Disease disease|NN disorder|NN schizophrenia|NN fact|NN Psychosis|Disease mood|NN shift|NN symptom|NN
+disease|NN state|NN picture|NN existence|NN degree|NN confusion|NN perplexity|NN expression|NN disease|NN
+feature|NN disease|NN onset|NN picture|NN symptom|NN state|NN prognosis|NN
+addition|NN criteria|NN symptom|NN
+confusion|NN delusion|NN anxiety|NN situation|NN circumstance|NN happiness|NN ecstasy|NN degree|NN disturbance|NN akinetic|NN type|NN concern|NN death|NN mood|NN swing|NN degree|NN diagnosis|NN disorder|NN
+Psychosis|Disease people|NN year|NN age|NN condition|NN
+number|NN condition|NN Psychosis|Disease Psychosis|Disease example|NN
+disorder|NN delirium|NN Psychosis|Disease consciousness|NN disorder|NN abnormality|NN syndrome|NN disorder|NN alzheimers|NP disease|NN dementia|NN body|NN disease|NN disease|NN stroke|NN brain|NN sclerosis|NN form|NN epilepsy|NN malignancy|NN mass|NN brain|NN syndrome|NN syndrome|NN infection|NN delirium|NN encephalitis|NN malaria|NN syphilis|NN disease|NN hypothyroidism|NN syndrome|NN sex|NN hormone|NN symptom|NN birth|NN Psychosis|Disease Psychosis|Disease error|NN metabolism|NN dehydrogenase|NN deficiency|NN deficiency|NN vitamin|NN deficiency|NN disorder|NN electrolyte|NN disturbance|NN hypernatremia|NN hypermagnesemia|NN hypoxia|NN failure|NN liver|NN kidney|NN autoimmune|NN disorder|NN lupus|NN sarcoidosis|NN encephalopathy|NN encephalitis|NN gluten|NN sensitivity|NN poison|NN drug|NN drug|NN range|NN plant|NN fungy|NN metal|NN compound|NN animal|NN toxin|NN sleep|NN disorder|NN narcolepsy|NN rem|NN sleep|NN wakefulness|NN disease|NN
+drug|NN article|NN Psychosis|Disease
+psychoactive|NN substance|NN state|NN disorder|NN user|NN level|NN evidence|NN
+intoxication|NN period|NN use|NN withdrawal|NN individual|NN substance|NN Psychosis|Disease awareness|NN Psychosis|Disease level|NN think|NN individual|NN illness|NN drug|NN symptom|NN alcohol|NN cannabis|NN cocaine|NN amphetamine|NN drug|NN lsd|NN psilocybin|NN
+receptor|NN agonist|NN nmda|NN receptor|NN antagonist|NN ketamine|NN caffeine|NN symptom|NN schizophrenia|NN cause|NN Psychosis|Disease dose|NN people|NN condition|NN alcohol|NN information|NN effect|NN alcohol|NN health|NN effect|NN
+percent|NN people|NN alcoholism|NN experience|NN Psychosis|Disease intoxication|NN withdrawal|NN
+alcohol|NN Psychosis|Disease kindle|NN mechanism|NN
+mechanism|NN Psychosis|Disease effect|NN alcohol|NN distortion|NN membrane|NN gene|NN expression|NN deficiency|NN
+case|NN alcohol|NN abuse|NN kindle|NN mechanism|NN development|NN substance|NN disorder|NN schizophrenia|NN
+effect|NN Psychosis|Disease risk|NN depression|NN suicide|NN impairment|NN cannabis|NN information|NN cause|NN schizophrenia|NN cannabis|NN effect|NN cannabis|NN schizophrenia|NN
+study|NN cannabis|NN person|NN illness|NN use|NN risk|NN Psychosis|Disease schizophrenia|NN cannabis|NN use|NN cause|NN schizophrenia|NN vulnerability|NN Psychosis|Disease factor|NN link|NN cannabis|NN use|NN Psychosis|Disease study|NN effect|NN compound|NN cannabis|NN tetrahydrocannabinol|NN cbd|NN effect|NN respect|NN Psychosis|Disease
+symptom|NN individual|NN cbd|NN symptom|NN cannabis|NN
+cannabis|NN use|NN past|NN decade|NN rate|NN Psychosis|Disease
+find|NN cannabis|NN use|NN onset|NN Psychosis|Disease Psychosis|Disease cannabis|NN use|NN onset|NN Psychosis|Disease patient|NN study|NN cannabis|NN role|NN development|NN Psychosis|Disease individual|NN cannabis|NN use|NN adolescence|NN article|NN Psychosis|Disease
+Psychosis|Disease percent|NN user|NN
+people|NN Psychosis|Disease month|NN
+Psychosis|Disease methamphetamine|NN relapse|NN methamphetamine|NN Psychosis|Disease year|NN stress|NN event|NN insomnia|NN period|NN alcohol|NN abuse|NN
+citation|NN individual|NN history|NN abuse|NN Psychosis|Disease past|NN abuse|NN relapse|NN back|NN Psychosis|Disease week|NN
+administration|NN withdrawal|NN number|NN medication|NN symptom|NN drug|NN Psychosis|Disease proportion|NN people|NN amphetamine|NN sympathomimetics|NN dopamine|NN agonist|NN ketamine|NN corticosteroid|NN mood|NN change|NN addition|NN stimulant|NN
+meditation|NN side|NN effect|NN derealization|NN symptom|NN hallucination|NN mood|NN disturbance|NN
+brain|NN image|NN individual|NN Psychosis|Disease back|NN technique|NN procedure|NN fluid|NN brain|NN air|NN structure|NN brain|NN x-ray|NN picture|NN
+episode|NN Psychosis|Disease risk|NN status|NN reduction|NN matter|NN volume|NN
+episode|NN risk|NN population|NN abnormality|NN
+reduction|NN middle|NN gyrus|NN gyrus|NN right|NN hippocampus|NN right|NN middle|NN gyrus|NN cingulate|NN cortex|NN risk|NN population|NN
+reduction|NN episode|NN Psychosis|Disease region|NN stg|NP insula|NN left|NN insula|NN cerebellum|NN acc|NP right|NN stg|NP insula|NN cerebellum|NN analysis|NN reduction|NN region|NN gmv|NN right|NN gyrus|NN gyrus|NN dichotomy|NN matter|NN abnormality|NN schizophrenia|NN schizophrenia|NN region|NN matter|NN reduction|NN magnitude|NN gender|NN difference|NN difference|NN left|NN cortex|NN right|NN cortex|NN
+task|NN episode|NN Psychosis|Disease hypoactivation|NN middle|NN gyrus|NN region|NN dorsolateral|NN cortex|NN
+congruence|NN study|NN matter|NN volume|NN insula|NN lobe|NN exception|NN deactivation|NN gyrus|NN tasksie|NN hypoactivity|NN insula|NN hyperactivity|NN ganglia|NN thalamus|NN matter|NN volume|NN conjunction|NN hypoactivity|NN acc|NP right|NN insula|NN middle|NN insula|NN
+matter|NN volume|NN hyperactivity|NN accie|NN pgacc|NN sgacc|NN region|NN insula|NN
+study|NN experience|NN hallucination|NN activity|NN cortice|NN
+hallucination|NN Psychosis|Disease evidence|NN activity|NN middle|NN gyrus|NN gyrus|NN gyrus|NN
+activity|NN striatum|NN hippocampus|NN acc|NP lucidity|NN hallucination|NN activation|NN involvement|NN circuitry|NN impact|NN activity|NN cortice|NN
+find|NN process|NN experience|NN process|NN result|NN hallucination|NN
+model|NN failure|NN network|NN cortice|NN cortex|NN cortex|NN activity|NN speech|NN
+disruption|NN speech|NN experience|NN
+factor|NN model|NN delusion|NN dysfunction|NN belief|NN formation|NN system|NN belief|NN evaluation|NN system|NN delusion|NN
+evaluation|NN system|NN prefrontal|NN cortex|NN delusion|NN content|NN study|NN role|NN conflict|NN monitor|NN person|NN
+activation|NN volume|NN people|NN delusion|NN disorder|NN delusion|NN dementia|NN Psychosis|Disease body|NN dementia|NN
+lesion|NN region|NN jump|NN conclusion|NN damage|NN region|NN delusion|NN region|NN stroke|NN delusion|NN
+salience|NN model|NN delusion|NN result|NN people|NN importance|NN stimuly|NN
+support|NN hypothesis|NN region|NN salience|NN network|NN matter|NN people|NN delusion|NN neurotransmitter|NN dopamine|NN salience|NN process|NN disorder|NN
+region|NN type|NN delusion|NN
+volume|NN hippocampus|NN delusion|NN alzheimers|NP disease|NN post|NN person|NN delusion|NN
+delusion|NN damage|NN failure|NN emotion|NN memory|NN response|NN face|NN symptom|NN
+Psychosis|Disease striatal|NN reward|NN anticipation|NN feedback|NN
+striatum|NN severity|NN symptom|NN symptom|NN Psychosis|Disease experience|NN people|NN schizophrenia|NN
+impairment|NN inability|NN goal|NN goal|NN study|NN deficiency|NN representation|NN goal|NN goal|NN behavior|NN receipt|NN anticipation|NN reward|NN response|NN striatum|NN reinforcement|NN learn|NN contingency|NN process|NN reward|NN prediction|NN error|NN study|NN pe|NN acc|NP response|NN indicator|NN effort|NN allocation|NN reward|NN reward|NN probability|NN increase|NN symptom|NN deficit|NN activity|NN failure|NN performance|NN task|NN incentive|NN dopamine|NN function|NN
+Psychosis|Disease neurotransmitter|NN dopamine|NN
+dopamine|NN hypothesis|NN Psychosis|Disease state|NN Psychosis|Disease result|NN overactivity|NN dopamine|NN function|NN brain|NN pathway|NN
+source|NN evidence|NN theory|NN dopamine|NN receptor|NN block|NN drug|NN intensity|NN symptom|NN drug|NN dopamine|NN release|NN reuptake|NN amphetamine|NN cocaine|NN Psychosis|Disease people|NN stimulant|NN Psychosis|Disease
+nmda|NN receptor|NN dysfunction|NN mechanism|NN Psychosis|Disease theory|NN fact|NN nmda|NN receptor|NN antagonist|NN ketamine|NN pcp|NP dextromethorphan|NP overdose|NN state|NN
+symptom|NN intoxication|NN symptom|NN schizophrenia|NN symptom|NN nmda|NN receptor|NN antagonism|NN addition|NN symptom|NN Psychosis|Disease aspect|NN reduction|NN amplitude|NN p50|NN potential|NN model|NN feedback|NN agreement|NN literature|NN link|NN nmda|NN receptor|NN delusional|NN symptom|NN failure|NN nmda|NN top|NN prediction|NN bottom|NN ampa|NP prediction|NN error|NN prediction|NN error|NN response|NN stimuly|NN response|NN salience|NN event|NN hierarchy|NN representation|NN delusion|NN find|NN gad67|NN expression|NN disorder|NN ampa|NN inhibition|NN
+connection|NN dopamine|NN Psychosis|Disease
+dopamine|NN receptor|NN adenylate|NN cyclase|NN activity|NN receptor|NN
+drug|NN dopamine|NN receptor|NN
+adenylate|NN cyclase|NN activity|NN expression|NN nerve|NN cell|NN time|NN
+drug|NN week|NN symptom|NN Psychosis|Disease
+antipsychotic|NN drug|NN dopamine|NN brain|NN drug|NN receptor|NN dopamine|NN hypothesis|NN colleague|NN evidence|NN dysfunction|NN people|NN Psychosis|Disease et|NP al|NP use|NN ondansetron|NN receptor|NN antagonist|NN treatment|NN Psychosis|Disease disease|NN patient|NN
+review|NN association|NN first-episode|NN Psychosis|Disease prediabete|NN
+dose|NN use|NN psychostimulant|NN function|NN phase|NN disorder|NN nmda|NN antagonist|NN symptom|NN thought|NN disorder|NN dose|NN dose|NN dose|NN
+think|NN symptom|NN belief|NN persecutory|NN nature|NN
+diagnosis|NN illness|NN Psychosis|Disease potential|NN cause|NN assessment|NN history|NN examination|NN health|NN care|NN provider|NN
+test|NN substance|NN use|NN medication|NN toxin|NN complication|NN illness|NN
+person|NN Psychosis|Disease
+hallucination|NN onset|NN level|NN consciousness|NN factor|NN illness|NN illness|NN Psychosis|Disease blood|NN test|NN measure|NN
+hormone|NN electrolyte|NN serum|NN calcium|NN rule|NN disturbance|NN blood|NN count|NN esr|NP rule|NN infection|NN disease|NN serology|NN syphilis|NN hiv|NP infection|NN
+eeg|NN epilepsy|NN mry|NN ct|NN scan|NN head|NN brain|NN lesion|NN
+Psychosis|Disease class|NN medication|NN Psychosis|Disease Psychosis|Disease
+Psychosis|Disease level|NN certainty|NN toxicology|NN screen|NN
+supplement|NN Psychosis|Disease mania|NN laboratory|NN test|NN individual|NN family|NN partner|NN friend|NN patient|NN supplement|NN
+mistake|NN people|NN
+delirium|NN abnormality|NN sign|NN history|NN family|NN history|NN screen|NN framework|NN Psychosis|Disease substance|NN medication|NN family|NN supplement|NN closure|NN impression|NN disorder|NN
+cause|NN Psychosis|Disease health|NN clinician|NN diagnosis|NN person|NN family|NN history|NN information|NN person|NN Psychosis|Disease information|NN family|NN friend|NN
+type|NN Psychosis|Disease disorder|NN rate|NN scale|NN
+rate|NN scale|NN level|NN symptom|NN construct|NN Psychosis|Disease hostility|NN suspicion|NN hallucination|NN grandiosity|NN
+clinician|NN interview|NN patient|NN observation|NN patient|NN behavior|NN day|NN
+patient|NN family|NN question|NN behavior|NN report|NN
+assessment|NN follow-up|NN symptom|NN Psychosis|Disease item|NN symptom|NN scale|NN
+dsm-5|NN disorder|NN schizophrenia|NN spectrum|NN hallucination|NN delusion|NN motor|NN behavior|NN symptom|NN dsm-5|NN Psychosis|Disease definition|NN glossary|NN feature|NN psychoticism|NN respect|NN personality|NN disorder|NN
+icd-10|NN definition|NN Psychosis|Disease
+factor|NN analysis|NN symptom|NN Psychosis|Disease factor|NN solution|NN factor|NN domain|NN dsm-5|NN schizophrenia|NN spectrum|NN disorder|NN
+factor|NN hallucination|NN delusion|NN disorganization|NN excitement|NN distress|NN dsm-5|NN spectrum|NN end|NN personality|NN disorder|NN end|NN schizophrenia|NN prevention|NN
+evidence|NN effectiveness|NN intervention|NN Psychosis|Disease Psychosis|Disease drug|NN intervention|NN episode|NN term|NN outcome|NN benefit|NN measure|NN year|NN evidence|NN therapy|NN cbt|NP risk|NN risk|NN uk|NP institute|NN health|NN care|NN excellence|NN cbt|NP people|NN risk|NN Psychosis|Disease treatment|NN
+treatment|NN Psychosis|Disease diagnosis|NN schizophrenia|NN disorder|NN substance|NN intoxication|NN
+treatment|NN disorder|NN medication|NN symptom|NN Psychosis|Disease day|NN
+choice|NN use|NN benefit|NN risk|NN cost|NN class|NN antipsychotics|NN evidence|NN olanzapine|NN clozapine|NN symptom|NN result|NN side|NN effect|NN antipsychotics|NN drop-out|NN symptom|NN relapse|NN rate|NN dosage|NN response|NN 4050|NN response|NN 3040|NN treatment|NN resistance|NN failure|NN symptom|NN week|NN antipsychotics|NN people|NN treatment|NN drug|NN schizophrenia|NN side|NN effect|NN blood|NN cell|NN count|NN people|NN
+people|NN antipsychotics|NN side|NN effect|NN
+people|NN antipsychotics|NN rate|NN side|NN effect|NN atypical|NN weight|NN gain|NN diabete|NN risk|NN syndrome|NN weight|NN gain|NN rate|NN symptom|NN counsel|NN
+treatment|NN acceptance|NN commitment|NN therapy|NN act|NN treatment|NN Psychosis|Disease people|NN term|NN life|NN direction|NN intervention|NN article|NN intervention|NN Psychosis|Disease
+intervention|NN Psychosis|Disease observation|NN stage|NN Psychosis|Disease term|NN outcome|NN approach|NN use|NN approach|NN period|NN intervention|NN term|NN morbidity|NN illness|NN
+word|NN Psychosis|Disease literature|NN karl|NP friedrich|NP work|NN der|NP medizinischen|NP
+shorthand|NN neurosis|NN
+time|NN neurosis|NN disease|NN system|NN manifestation|NN brain|NN disease|NN ernst|NP von|NP term|NN alternative|NN insanity|NN mania|NN
+term|NN stem|NN latin|NN Psychosis|Disease give|NN soul|NN life|NN quicken|NN greek|NN
+psyche|NN soul|NN suffix|NN
+case|NN condition|NN
+adjective|NN form|NN reference|NN Psychosis|Disease discussion|NN
+word|NN condition|NN disorder|NN mind|NN neurosis|NN disorder|NN system|NN psychose|NN equivalent|NN notion|NN madness|NN debate|NN form|NN disease|NN type|NN usage|NN koch|NP inferioritieslater|NN personality|NN schneider|NP
+division|NN psychose|NN depressive|NN illness|NN disorder|NN dementia|NN schizophrenia|NN emil|NP synthesis|NN disorder|NN century|NN psychiatrist|NN group|NN disease|NN classification|NN symptom|NN
+term|NN depressive|NN insanity|NN spectrum|NN mood|NN disorder|NN sense|NN
+classification|NN depression|NN disorder|NN mood|NN disorder|NN
+problem|NN mood|NN control|NN episode|NN disturbance|NN mood|NN patient|NN period|NN function|NN episode|NN medication|NN
+schizophrenia|NN episode|NN disturbance|NN mood|NN patient|NN sign|NN disturbance|NN episode|NN
+civilization|NN madness|NN supernaturally|NN phenomenon|NN
+archaeologist|NN skull|NN back|NN treatment|NN Psychosis|Disease time|NN record|NN cause|NN treatment|NN testament|NN
+mark|NP 5813|NP man|NN symptom|NN
+christ|NP madness|NN cast|NN demon|NN herd|NN swine|NN
+circle|NN treatment|NN Psychosis|Disease possession|NN research|NN study|NN out-patient|NN clinics|NN percent|NN patient|NN cause|NN symptom|NN spirit|NN
+patient|NN heal|NN ritual|NN experience|NN patient|NN effect|NN
+result|NN worsen|NN symptom|NN exclusion|NN treatment|NN form|NN exorcism|NN
+teach|NN philosopher|NN physician|NN hippocrate|NN cos|NP cause|NN illness|NN
+hippocrates|NP work|NN corpus|NN explanation|NN health|NN disease|NN madness|NN disease|NN mind|NN
+men|NN brain|NN brain|NN pleasure|NN joy|NN laughter|NN jest|NN sorrow|NN pain|NN grief|NN tear|NN
+bad|NN good|NN
+thing|NN dread|NN fear|NN night|NN day|NN sleeplessness|NN mistake|NN anxiety|NN act|NN habit|NN
+hippocrates|NP theory|NN humoralism|NN disease|NN balance|NN fluid|NN blood|NN phlegm|NN bile|NN bile|NN fluid|NN humour|NN correlate|NN
+case|NN Psychosis|Disease symptom|NN excess|NN blood|NN bile|NN
+intervention|NN behavior|NN bloodlet|NN
+century|NN physician|NN educator|NN founder|NN psychiatry|NN benjamin|NP rush|NP bloodlet|NN treatment|NN Psychosis|Disease
+proponent|NN humoralism|NP rush|NP purge|NN bloodlet|NN correction|NN disruption|NN system|NN complication|NN cause|NN insanity|NN treatment|NN modality|NN contribution|NN psychiatry|NN underpine|NN phenomenon|NN Psychosis|Disease field|NN
+honor|NN contribution|NN benjamin|NP rushs|NP image|NN seal|NN association|NN
+century|NN treatment|NN Psychosis|Disease emphasis|NN system|NN
+therapy|NN insulin|NN shock|NN therapy|NN shock|NN therapy|NN therapy|NN risk|NN shock|NN therapy|NN treatment|NN Psychosis|Disease schizophrenia|NN
+acceptance|NN treatment|NN intervention|NN
+psychiatrist|NN gottlieb|NP burckhardt|NP psychosurgery|NN cortex|NN
+patient|NN improvement|NN symptom|NN patient|NN aphasia|NN seizure|NN disorder|NN
+outcome|NN paper|NN
+procedure|NN criticism|NN community|NN endeavor|NN ega|NN leucotomy|NN lobotomy|NN fiber|NN lobe|NN rest|NN brain|NN
+inspiration|NN demonstration|NN neuroscientists|NP john|NP fulton|NP carlyles|NP experiment|NN chimpanzee|NN post|NN behavior|NN
+leucotomy|NN chimp|NN behavior|NN fight|NN
+procedure|NN chimp|NN
+qa|NN procedure|NN subject|NN question|NN fulton|NP moniz|NN practice|NN human|NN disorder|NN endeavor|NN nobel|NP prize|NN leucotomy|NN practice|NN environment|NN outpatient|NN clinics|NN patient|NN home|NN practice|NN discovery|NN pharmacology|NN
+trial|NN neuroleptics|NN treatment|NN Psychosis|Disease place|NN
+name|NN trial|NN antipsychotic|NN medication|NN treatment|NN Psychosis|Disease
+mechanism|NN action|NN administration|NN chlorpromazine|NN advent|NN dopamine|NN antagonist|NN generation|NN trial|NN response|NN rate|NN Psychosis|Disease disorder|NN feature|NN side-effect|NN rate|NN parkinsonian|NN symptom|NN dyskinesia|NN
+advent|NN antipsychotics|NN second|NN generation|NN dopamine|NN antagonist|NN response|NN rate|NN side-effect|NN profile|NN risk|NN symptom|NN risk|NN disease|NN treatment|NN Psychosis|Disease disorder|NN schizophrenia|NN disorder|NN depressive|NN disorder|NN anxiety|NN disorder|NN dementia|NN autism|NN spectrum|NN disorder|NN
+dopamine|NN neurotransmitter|NN symptomology|NN
+dopamine|NN receptor|NN dopamine|NN receptor|NN dopaminergic|NN activity|NN pharmacologic|NN goal|NN
+research|NN decrease|NN activity|NN delusion|NN hallucination|NN reward|NN mechanism|NN development|NN think|NN relationship|NN stimuly|NN idea|NN author|NN research|NN paper|NN importance|NN investigation|NN
+model|NN knowledge|NN dopamine|NN schizophrenia|NN antipsychoticsand|NN
+kapur|NN dopamine|NN salience|NN Psychosis|Disease link|NN biology|NN pharmacology|NN phenomenology|NN Psychosis|Disease
+student|NN wilhelm|NP reich|NP insight|NN effect|NN upbring|NN treatment|NN
+incorporation|NN breathwork|NN insight|NN patient|NN woman|NN self-management|NN skill|NN therapy|NN society|NN
+psychiatrist|NN david|NP healy|NP company|NN theory|NN illness|NN primacy|NN treatment|NN factor|NN influence|NN aetiology|NN Psychosis|Disease

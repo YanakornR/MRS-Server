@@ -1,0 +1,301 @@
+Brain tumor,intracranial neoplasm,brain tumour
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Brain tumor
+Other names	Intracranial neoplasm, brain tumour
+Hirnmetastase MRT-T1 KM.jpg
+Brain metastasis in the right cerebral hemisphere from lung cancer, shown on magnetic resonance imaging
+Specialty	Neurosurgery, oncology
+Symptoms	Vary depending on the part of the brain involved, headaches, seizures, problem with vision, vomiting, mental changes[1][2]
+Types	Malignant, benign[2]
+Causes	Usually unknown[2]
+Risk factors	Neurofibromatosis, exposure to vinyl chloride, Epstein–Barr virus, ionizing radiation[1][2][3]
+Diagnostic method	Computed tomography, magnetic resonance imaging, tissue biopsy[1][2]
+Treatment	Surgery, radiation therapy, chemotherapy[1]
+Medication	Anticonvulsants, dexamethasone, furosemide[1]
+Prognosis	Average five-year survival rate 35% (US)[4]
+Frequency	1.2 million nervous system cancers (2015)[5]
+Deaths	229,000 (2015)[6]
+
+A brain tumor occurs when abnormal cells form within the brain.[2] There are two main types of tumors: cancerous (malignant) tumors and benign tumors.[2] Cancerous tumors can be divided into primary tumors, which start within the brain, and secondary tumors, which have spread from elsewhere, known as brain metastasis tumors.[1] All types of brain tumors may produce symptoms that vary depending on the part of the brain involved.[2] These symptoms may include headaches, seizures, problems with vision, vomiting and mental changes.[1][2][7] The headache is classically worse in the morning and goes away with vomiting.[2] Other symptoms may include difficulty walking, speaking or with sensations.[1][3] As the disease progresses, unconsciousness may occur.[3]
+
+The cause of most brain tumors is unknown.[2] Uncommon risk factors include inherited neurofibromatosis, exposure to vinyl chloride, Epstein–Barr virus and ionizing radiation.[1][2][3] Studies on mobile phone exposure have not shown a clear risk.[3] The most common types of primary tumors in adults are meningiomas (usually benign) and astrocytomas such as glioblastomas.[1] In children, the most common type is a malignant medulloblastoma.[3] Diagnosis is usually by medical examination along with computed tomography (CT) or magnetic resonance imaging (MRI).[2] The result is then often confirmed by a biopsy.[1] Based on the findings, the tumors are divided into different grades of severity.[1]
+
+Treatment may include some combination of surgery, radiation therapy and chemotherapy.[1] Anticonvulsant medication may be needed if seizures occur.[1] Dexamethasone and furosemide may be used to decrease swelling around the tumor.[1] Some tumors grow gradually, requiring only monitoring and possibly needing no further intervention.[1] Treatments that use a person's immune system are being studied.[2] Outcome varies considerably depending on the type of tumor and how far it has spread at diagnosis.[3] Glioblastomas usually have very poor outcomes, while meningiomas usually have good outcomes.[3] The average five-year survival rate for all brain cancers in the United States is 33%.[4]
+
+Secondary, or metastatic, brain tumors are about four times more common than primary brain tumors,[2][8] with about half of metastases coming from lung cancer.[2] Primary brain tumors occur in around 250,000 people a year globally, making up less than 2% of cancers.[3] In children younger than 15, brain tumors are second only to acute lymphoblastic leukemia as the most common form of cancer.[9] In Australia, the average lifetime economic cost of a case of brain cancer is $1.9 million, the greatest of any type of cancer.[10]
+Contents
+
+    1 Signs and symptoms
+        1.1 Headaches
+        1.2 Location specific symptoms
+        1.3 Behavior changes
+    2 Cause
+    3 Pathophysiology
+        3.1 Meninges
+        3.2 Brain matter
+        3.3 Spinal cord and other tissues
+    4 Diagnosis
+        4.1 Imaging
+        4.2 Pathology
+        4.3 Classification
+    5 Treatment
+        5.1 Surgery
+        5.2 Radiation therapy
+        5.3 Chemotherapy
+        5.4 Other
+    6 Prognosis
+        6.1 Glioblastoma multiforme
+        6.2 Oligodendrogliomas
+        6.3 Acoustic neuroma
+    7 Epidemiology
+        7.1 United States
+        7.2 UK
+        7.3 Children
+    8 Research
+        8.1 Immunotherapy
+        8.2 Vesicular stomatitis virus
+        8.3 Retroviral replicating vectors
+    9 See also
+    10 References
+    11 External links
+
+Signs and symptoms
+The main areas of the brain and limbic system
+
+The signs and symptoms of brain tumors are broad. People with brain tumors will experience them regardless of whether the tumor is benign (not cancerous) or cancerous.[11] Primary and secondary brain tumors present with similar symptoms, depending on the location, size, and rate of growth of the tumor.[12] For example, larger tumors in the frontal lobe can cause changes in the ability to think. However, a smaller tumor in an area such as Wernicke's area (small area responsible for language comprehension) can result in a greater loss of function.[13]
+Headaches
+
+Headaches as a result of raised intracranial pressure can be an early symptom of brain cancer.[14] However, isolated headache without other symptoms is rare, and other symptoms often occur before headaches become common.[14] Certain warning signs for headache exist which make it more likely to be associated with brain cancer.[14] These are as defined by the American Academy of Neurology: "abnormal neurological examination, headache worsened by Valsalva maneuver, headache causing awakening from sleep, new headache in the older population, progressively worsening headache, atypical headache features, or patients who do not fulfill the strict definition of migraine".[14]
+Location specific symptoms
+
+The brain is divided into 4 lobes and each lobe or area has its own function.[15][16] A tumor in any of these lobes may affect the area's performance. The location of the tumor is often linked to the symptoms experienced but each person may experience something different.[17]
+
+    Frontal lobe tumors may contribute to poor reasoning, inappropriate social behavior, personality changes, poor planning, lower inhibition,[17] and decreased production of speech (Broca's area).
+    Temporal lobe: Tumors in this lobe may contribute to poor memory, loss of hearing,[16] difficulty in language comprehension (Wernicke's area).
+    Parietal lobe: Tumors here may result in poor interpretation of languages and difficulty speaking, difficulty writing, drawing, naming, and recognizing, and poor spatial and visual perception.[18]
+    Occipital lobe: Damage to this lobe may result in poor or loss of vision.[19]
+    Cerebellum: Tumors in this area may cause poor balance, muscle movement, and posture.[20]
+    Brain stem: Tumors on this can cause seizures, induce endocrine problems, respiratory changes, visual changes, headaches and partial paralysis.[20]
+
+Behavior changes
+
+Despite the personality and behavior changes that occur in people with brain tumors, little research on such changes has been done.[15] A person's personality may be altered due to the tumor damaging lobes of the brain. Since the frontal, temporal, and parietal lobes[12] control inhibition, emotions, mood, judgement, reasoning, and behavior, a tumor in that region can cause inappropriate social behavior,[21] temper tantrums,[21] laughing at things which merit no laughter,[21] and even psychological symptoms such as depression and anxiety.[17]
+
+Personality changes can have damaging effects such as unemployment, unstable relationships, and a lack of control.[15]
+Cause
+
+Epidemiological studies are required to determine risk factors.[22] Aside from exposure to vinyl chloride or ionizing radiation, there are no known environmental factors associated with brain tumors. Mutations and deletions of tumor suppressor genes, such as P53, are thought to be the cause of some forms of brain tumor.[23] Inherited conditions, such as Von Hippel–Lindau disease, multiple endocrine neoplasia, and neurofibromatosis type 2 carry a high risk for the development of brain tumors.[24][25] People with celiac disease have a slightly increased risk of developing brain tumors.[26]
+
+Although studies have not shown any link between cell phone or mobile phone radiation and the occurrence of brain tumors,[27] the World Health Organization has classified mobile phone radiation on the IARC scale into Group 2B – possibly carcinogenic.[28] Discounting claims that current cell phone usage may cause brain cancer, modern, third-generation (3G) phones emit, on average, about 1% of the energy emitted by the GSM (2G) phones that were in use when epidemiological studies that observed a slight increase in the risk for glioma – a malignant type of brain cancer – among heavy users of wireless and cordless telephones were conducted.[3]
+Pathophysiology
+Brain cancer regions
+Meninges
+
+Human brains are surrounded by a system of connective tissue membranes called meninges that separate the brain from the skull. This three-layered covering is composed of (from the outside in) the dura mater ("hard mother"), arachnoid mater ("spidery mother"), and pia mater ("tender mother"). The arachnoid and pia are physically connected and thus often considered as a single layer, the pia-arachnoid, or leptomeninges. Between the arachnoid mater and the pia mater is the subarachnoid space which contains cerebrospinal fluid (CSF). This fluid circulates in the narrow spaces between cells and through the cavities in the brain called ventricles, to nourish, support, and protect the brain tissue. Blood vessels enter the central nervous system through the perivascular space above the pia mater. The cells in the blood vessel walls are joined tightly, forming the blood–brain barrier which protects the brain from toxins that might enter through the blood. Tumors of the meninges are meningiomas and are often benign.
+Brain matter
+
+The brains of humans and other vertebrates are composed of very soft tissue and have a gelatin-like texture. Living brain tissue has a pink tint in color on the outside (gray matter), and nearly complete white on the inside (white matter), with subtle variations in color. Three separate brain areas make up most of the brain's volume:
+
+    telencephalon (cerebral hemispheres or cerebrum)
+    mesencephalon (midbrain)
+    cerebellum
+
+These areas are composed of two broad classes of cells: neurons and glia. These two types are equally numerous in the brain as a whole, although glial cells outnumber neurons roughly 4 to 1 in the cerebral cortex. Glia come in several types, which perform a number of critical functions, including structural support, metabolic support, insulation, and guidance of development.
+
+Primary tumors of the glial cells are called gliomas and often are malignant by the time they are diagnosed.
+Spinal cord and other tissues
+
+The pons is a specific region in the brainstem that consists of myelinated axons much like the spinal cord. The thalamus and hypothalamus of the diencephalon also consist of neuron and glial cell tissue with the hypophysis (pituitary gland) and pineal gland (which is glandular tissue) attached at the bottom; tumors of the pituitary and pineal gland are often benign. The medulla oblongata is at the start of the spinal cord and is composed mainly of neuron tissue enveloped in oligodendrocytes and meninges tissue. The spinal cord is made up of bundles of these axons. Glial cells such as Schwann cells in the periphery or, within the cord itself, oligodendrocytes, wrap themselves around the axon, thus promoting faster transmission of electrical signals and also providing for general maintenance of the environment surrounding the cord, in part by shuttling different compounds around in response to injury or other stimulus.
+Diagnosis
+A posterior fossa tumor leading to mass effect and midline shift
+
+Although there is no specific or singular symptom or sign, the presence of a combination of symptoms and the lack of corresponding indications of other causes can be an indicator for investigation towards the possibility of an brain tumor. Brain tumors have similar characteristics and obstacles when it comes to diagnosis and therapy with tumors located elsewhere in the body. However, they create specific issues that follow closely to the properties of the organ they are in.[29]
+
+The diagnosis will often start by taking a medical history noting medical antecedents, and current symptoms. Clinical and laboratory investigations will serve to exclude infections as the cause of the symptoms. Examinations in this stage may include the eyes, otolaryngological (or ENT) and electrophysiological exams. The use of electroencephalography (EEG) often plays a role in the diagnosis of brain tumors.
+
+Brain tumors, when compared to tumors in other areas of the body, pose a challenge for diagnosis. Commonly, radioactive tracers are uptaken in large volumes in tumors due to the high activity of tumor cells, allowing for radioactive imaging of the tumor. However, most of the brain is separated from the blood by the blood-brain barrier (BBB), a membrane which exerts a strict control over what substances are allowed to pass into the brain. Therefore, many tracers that may reach tumors in other areas of the body easily would be unable to reach brain tumors until there was a disruption of the BBB by the tumor. Disruption of the BBB is well imaged via MRI or CT scan, and is therefore regarded as the main diagnostic indicator for malignant gliomas, meningiomas, and brain metastases.[29]
+
+Swelling or obstruction of the passage of cerebrospinal fluid (CSF) from the brain may cause (early) signs of increased intracranial pressure which translates clinically into headaches, vomiting, or an altered state of consciousness, and in children changes to the diameter of the skull and bulging of the fontanelles. More complex symptoms such as endocrine dysfunctions should alarm doctors not to exclude brain tumors.
+
+A bilateral temporal visual field defect (due to compression of the optic chiasm) or dilation of the pupil, and the occurrence of either slowly evolving or the sudden onset of focal neurologic symptoms, such as cognitive and behavioral impairment (including impaired judgment, memory loss, lack of recognition, spatial orientation disorders), personality or emotional changes, hemiparesis, hypoesthesia, aphasia, ataxia, visual field impairment, impaired sense of smell, impaired hearing, facial paralysis, double vision, or more severe symptoms such as tremors, paralysis on one side of the body hemiplegia, or (epileptic) seizures in a patient with a negative history for epilepsy, should raise the possibility of a brain tumor.
+Imaging
+CT scan of a brain tumor, with its diameters marked as an X. There is hypoattenuating (dark) peritumoral edema in the surrounding white matter, with a "finger-like" spread.
+
+Medical imaging plays a central role in the diagnosis of brain tumors. Early imaging methods – invasive and sometimes dangerous – such as pneumoencephalography and cerebral angiography have been abandoned in favor of non-invasive, high-resolution techniques, especially magnetic resonance imaging (MRI) and computed tomography (CT) scans, though MRI is typically the reference standard used.[30] Neoplasms will often show as differently colored masses (also referred to as processes) in CT or MRI results.
+
+    Benign brain tumors often show up as hypodense (darker than brain tissue) mass lesions on CT scans. On MRI, they appear either hypodense or isointense (same intensity as brain tissue) on T1-weighted scans, or hyperintense (brighter than brain tissue) on T2-weighted MRI, although the appearance is variable.
+    Contrast agent uptake, sometimes in characteristic patterns, can be demonstrated on either CT or MRI scans in most malignant primary and metastatic brain tumors.
+    Pressure areas where the brain tissue has been compressed by a tumor also appear hyperintense on T2-weighted scans and might indicate the presence a diffuse neoplasm due to an unclear outline. Swelling around the tumor known as peritumoral edema can also show a similar result.
+
+This is because these tumors disrupt the normal functioning of the BBB and lead to an increase in its permeability. More recently, advancements have been made to increase the utility of MRI in providing physiological data that can help to inform diagnosis and prognosis. Perfusion Weighted Imaging (PWI) and Diffusion Weighted Imaging (DWI) are two MRI techniques that reviews have been shown to be useful in classifying tumors by grade, which was not previously viable using only structural imaging.[31] However, these techniques cannot alone diagnose high- versus low-grade gliomas, and thus the definitive diagnosis of brain tumor should only be confirmed by histological examination of tumor tissue samples obtained either by means of brain biopsy or open surgery. The histological examination is essential for determining the appropriate treatment and the correct prognosis. This examination, performed by a pathologist, typically has three stages: interoperative examination of fresh tissue, preliminary microscopic examination of prepared tissues, and follow-up examination of prepared tissues after immunohistochemical staining or genetic analysis.
+Pathology
+Micrograph of an oligodendroglioma, a type of brain cancer. Brain biopsy. H&E stain
+
+Tumors have characteristics that allow determination of malignancy and how they will evolve, and determining these characteristics will allow the medical team to determine the management plan.
+
+Anaplasia or dedifferentiation: loss of differentiation of cells and of their orientation to one another and blood vessels, a characteristic of anaplastic tumor tissue. Anaplastic cells have lost total control of their normal functions and many have deteriorated cell structures. Anaplastic cells often have abnormally high nuclear-to-cytoplasmic ratios, and many are multinucleated. Additionally, the nucleus of anaplastic cells are usually unnaturally shaped or oversized. Cells can become anaplastic in two ways: neoplastic tumor cells can dedifferentiate to become anaplasias (the dedifferentiation causes the cells to lose all of their normal structure/function), or cancer stem cells can increase their capacity to multiply (i.e., uncontrollable growth due to failure of differentiation).
+
+Atypia: an indication of abnormality of a cell (which may be indicative for malignancy). Significance of the abnormality is highly dependent on context.
+
+Neoplasia: the (uncontrolled) division of cells. As such, neoplasia is not problematic but its consequences are: the uncontrolled division of cells means that the mass of a neoplasm increases in size, and in a confined space such as the intracranial cavity this quickly becomes problematic because the mass invades the space of the brain pushing it aside, leading to compression of the brain tissue and increased intracranial pressure and destruction of brain parenchyma. Increased intracranial pressure (ICP) may be attributable to the direct mass effect of the tumor, increased blood volume, or increased cerebrospinal fluid (CSF) volume, which may, in turn, have secondary symptoms.
+
+Necrosis: the (premature) death of cells, caused by external factors such as infection, toxin or trauma. Necrotic cells send the wrong chemical signals which prevent phagocytes from disposing of the dead cells, leading to a buildup of dead tissue, cell debris and toxins at or near the site of the necrotic cells[32]
+
+Arterial and venous hypoxia, or the deprivation of adequate oxygen supply to certain areas of the brain, occurs when a tumor makes use of nearby blood vessels for its supply of blood and the neoplasm enters into competition for nutrients with the surrounding brain tissue.
+
+More generally a neoplasm may cause release of metabolic end products (e.g., free radicals, altered electrolytes, neurotransmitters), and release and recruitment of cellular mediators (e.g., cytokines) that disrupt normal parenchymal function.
+Classification
+
+Tumors can be benign or malignant, can occur in different parts of the brain, and may be classified as primary or secondary. A primary tumor is one that has started in the brain, as opposed to a metastatic tumor, which is one that has spread to the brain from another area of the body.[33] The incidence of metastatic tumors is approximately four times greater than primary tumors.[8] Tumors may or may not be symptomatic: some tumors are discovered because the patient has symptoms, others show up incidentally on an imaging scan, or at an autopsy.
+
+Grading of the tumors of the central nervous system commonly occurs on a 4 point scale (I-IV) created by the World Health Organization in 1993. Grade I tumors are the least severe and commonly associated with long term survival, with severity and prognosis worsening as the grade increases. Low grade tumors are often benign, while higher grades are aggressively malignant and/or metastatic. Other grading scales do exist, many based upon the same criteria as the WHO scale and graded from I-IV.
+Primary
+
+The most common primary brain tumors are:[34]
+
+    Gliomas (50.4%)
+    Meningiomas (20.8%)
+    Pituitary adenomas (15%)
+    Nerve sheath tumors (8%)
+
+These common tumors can also be organized according to tissue of origin as shown below:[35]
+
+Tissue of origin
+	Children 	Adults
+Astrocytes 	Pilocytic Astrocytoma (PCA) 	Glioblastoma Multiforme (GBM)
+Oligodendrocytes 		Oligodendroglioma
+Ependyma 	Ependymoma 	
+Neurons 	Medulloblastoma 	
+Meninges 		Meningioma
+Secondary
+
+Secondary tumors of the brain are metastatic and have invaded the brain from cancers originating in other organs. This means that a cancerous neoplasm has developed in another organ elsewhere in the body and that cancer cells have leaked from that primary tumor and then entered the lymphatic system and blood vessels. They then circulate through the bloodstream, and are deposited in the brain. There, these cells continue growing and dividing, becoming another invasive neoplasm of the primary cancer's tissue. Secondary tumors of the brain are very common in the terminal phases of patients with an incurable metastasized cancer; the most common types of cancers that bring about secondary tumors of the brain are lung cancer, breast cancer, malignant melanoma, kidney cancer, and colon cancer (in decreasing order of frequency).
+
+Secondary brain tumors are more common than primary ones; in the United States there are about 170,000 new cases every year. Secondary brain tumors are the most common cause of tumors in the intracranial cavity. The skull bone structure can also be subject to a neoplasm that by its very nature reduces the volume of the intracranial cavity, and can damage the brain.[36]
+By behavior
+
+Brain tumors or intracranial neoplasms can be cancerous (malignant) or non-cancerous (benign). However, the definitions of malignant or benign neoplasms differ from those commonly used in other types of cancerous or non-cancerous neoplasms in the body. In cancers elsewhere in the body, three malignant properties differentiate benign tumors from malignant forms of cancer: benign tumors are self-limited and do not invade or metastasize. Characteristics of malignant tumors include:
+
+    uncontrolled mitosis (growth by division beyond the normal limits)
+    anaplasia: the cells in the neoplasm have an obviously different form (in size and shape). Anaplastic cells display marked pleomorphism. The cell nuclei are characteristically extremely hyperchromatic (darkly stained) and enlarged; the nucleus might have the same size as the cytoplasm of the cell (nuclear-cytoplasmic ratio may approach 1:1, instead of the normal 1:4 or 1:6 ratio). Giant cells – considerably larger than their neighbors – may form and possess either one enormous nucleus or several nuclei (syncytia). Anaplastic nuclei are variable and bizarre in size and shape.
+    invasion or infiltration (medical literature uses these terms as synonymous equivalents. However, for clarity, the articles that follow adhere to a convention that they mean slightly different things; this convention is not followed outside these articles):
+        Invasion or invasiveness is the spatial expansion of the tumor through uncontrolled mitosis, in the sense that the neoplasm invades the space occupied by adjacent tissue, thereby pushing the other tissue aside and eventually compressing the tissue. Often these tumors are associated with clearly outlined tumors in imaging.
+        Infiltration is the behavior of the tumor either to grow (microscopic) tentacles that push into the surrounding tissue (often making the outline of the tumor undefined or diffuse) or to have tumor cells "seeded" into the tissue beyond the circumference of the tumorous mass; this does not mean that an infiltrative tumor does not take up space or does not compress the surrounding tissue as it grows, but an infiltrating neoplasm makes it difficult to say where the tumor ends and the healthy tissue starts.
+    metastasis (spread to other locations in the body via lymph or blood).
+
+Of the above malignant characteristics, some elements do not apply to primary neoplasms of the brain:
+
+    Primary brain tumors rarely metastasize to other organs; some forms of primary brain tumors can metastasize but will not spread outside the intracranial cavity or the central spinal canal. Due to the BBB, cancerous cells of a primary neoplasm cannot enter the bloodstream and get carried to another location in the body. (Occasional isolated case reports suggest spread of certain brain tumors outside the central nervous system, e.g. bone metastasis of glioblastoma multiforme.[37])
+    Primary brain tumors generally are invasive (i.e. they will expand spatially and intrude into the space occupied by other brain tissue and compress those brain tissues); however, some of the more malignant primary brain tumors will infiltrate the surrounding tissue.
+
+By genetics
+
+In 2016, the WHO restructured their classifications of some categories of gliomas to include distinct genetic mutations that have been useful in differentiating tumor types, prognoses, and treatment responses. Genetic mutations are typically detected via immunohistochemistry, a technique that visualizes the presence or absence of a targeted protein via staining.[30]
+
+    Mutations in IDH1 and IDH2 genes are commonly found in low grade gliomas
+
+    Loss of both IDH genes combined with loss of chromosome arms 1p and 19q indicates the tumor is an oligodendroglioma
+
+    Loss of TP53 and ATRX characterizes astrocytomas
+
+    Genes EFGR, TERT, and PTEN, are commonly altered in gliomas and are useful in differentiating tumor grade and biology[30]
+
+Specific types
+Main article: WHO classification of the tumors of the central nervous system
+
+Anaplastic astrocytoma, Astrocytoma, Central neurocytoma, Choroid plexus carcinoma, Choroid plexus papilloma, Choroid plexus tumor, Dysembryoplastic neuroepithelial tumour, Ependymal tumor, Fibrillary astrocytoma, Giant-cell glioblastoma, Glioblastoma multiforme, Gliomatosis cerebri, Gliosarcoma, Hemangiopericytoma, Medulloblastoma, Medulloepithelioma, Meningeal carcinomatosis, Neuroblastoma, Neurocytoma, Oligoastrocytoma, Oligodendroglioma, Optic nerve sheath meningioma, Pediatric ependymoma, Pilocytic astrocytoma, Pinealoblastoma, Pineocytoma, Pleomorphic anaplastic neuroblastoma, Pleomorphic xanthoastrocytoma, Primary central nervous system lymphoma, Sphenoid wing meningioma, Subependymal giant cell astrocytoma, Subependymoma, Trilateral retinoblastoma.
+Treatment
+
+A medical team generally assesses the treatment options and presents them to the person affected and their family. Various types of treatment are available depending on tumor type and location, and may be combined to produce the best chances of survival:
+
+    Surgery: complete or partial resection of the tumor with the objective of removing as many tumor cells as possible.
+    Radiotherapy: the most commonly used treatment for brain tumors; the tumor is irradiated with beta, x rays or gamma rays.
+    Chemotherapy: a treatment option for cancer, however, it is not always used to treat brain tumors as the blood-brain barrier can prevent some drugs from reaching the cancerous cells.
+    A variety of experimental therapies are available through clinical trials.
+
+Survival rates in primary brain tumors depend on the type of tumor, age, functional status of the patient, the extent of surgical removal and other factors specific to each case.[38]
+Surgery
+
+The primary and most desired course of action described in medical literature is surgical removal (resection) via craniotomy. Minimally invasive techniques are becoming the dominant trend in neurosurgical oncology.[39] The main objective of surgery is to remove as many tumor cells as possible, with complete removal being the best outcome and cytoreduction ("debulking") of the tumor otherwise. In some cases access to the tumor is impossible and impedes or prohibits surgery.
+
+Many meningiomas, with the exception of some tumors located at the skull base, can be successfully removed surgically. Most pituitary adenomas can be removed surgically, often using a minimally invasive approach through the nasal cavity and skull base (trans-nasal, trans-sphenoidal approach). Large pituitary adenomas require a craniotomy (opening of the skull) for their removal. Radiotherapy, including stereotactic approaches, is reserved for inoperable cases.
+
+Several current research studies aim to improve the surgical removal of brain tumors by labeling tumor cells with 5-aminolevulinic acid that causes them to fluoresce.[40] Postoperative radiotherapy and chemotherapy are integral parts of the therapeutic standard for malignant tumors. Radiotherapy may also be administered in cases of "low-grade" gliomas when a significant tumor reduction could not be achieved surgically.
+
+Multiple metastatic tumors are generally treated with radiotherapy and chemotherapy rather than surgery and the prognosis in such cases is determined by the primary tumor, and is generally poor.
+Radiation therapy
+
+The goal of radiation therapy is to kill tumor cells while leaving normal brain tissue unharmed. In standard external beam radiation therapy, multiple treatments of standard-dose "fractions" of radiation are applied to the brain. This process is repeated for a total of 10 to 30 treatments, depending on the type of tumor. This additional treatment provides some patients with improved outcomes and longer survival rates.
+
+Radiosurgery is a treatment method that uses computerized calculations to focus radiation at the site of the tumor while minimizing the radiation dose to the surrounding brain. Radiosurgery may be an adjunct to other treatments, or it may represent the primary treatment technique for some tumors. Forms used include stereotactic radiosurgery, such as Gamma knife, Cyberknife or Novalis Tx radiosurgery.[41][unreliable medical source?]
+
+Radiotherapy is the most common treatment for secondary brain tumors. The amount of radiotherapy depends on the size of the area of the brain affected by cancer. Conventional external beam "whole-brain radiotherapy treatment" (WBRT) or "whole-brain irradiation" may be suggested if there is a risk that other secondary tumors will develop in the future.[42] Stereotactic radiotherapy is usually recommended in cases involving fewer than three small secondary brain tumors. Radiotherapy may be used following, or in some cases in place of, resection of the tumor. Forms of radiotherapy used for brain cancer include external beam radiation therapy, the most common, and brachytherapy and proton therapy, the last especially used for children.
+
+People who receive stereotactic radiosurgery (SRS) and whole-brain radiation therapy (WBRT) for the treatment of metastatic brain tumors have more than twice the risk of developing learning and memory problems than those treated with SRS alone.[43][44]
+Chemotherapy
+
+Patients undergoing chemotherapy are administered drugs designed to kill tumor cells. Although chemotherapy may improve overall survival in patients with the most malignant primary brain tumors, it does so in only about 20 percent of patients. Chemotherapy is often used in young children instead of radiation, as radiation may have negative effects on the developing brain. The decision to prescribe this treatment is based on a patient's overall health, type of tumor, and extent of the cancer. The toxicity and many side effects of the drugs, and the uncertain outcome of chemotherapy in brain tumors puts this treatment further down the line of treatment options with surgery and radiation therapy preferred.
+
+UCLA Neuro-Oncology publishes real-time survival data for patients with a diagnosis of glioblastoma multiforme. They are the only institution in the United States that displays how brain tumor patients are performing on current therapies. They also show a listing of chemotherapy agents used to treat high-grade glioma tumors.[45]
+
+Genetic mutations have significant effects on the effectiveness of chemotherapy. Gliomas with IDH1 or IDH2 mutations respond better to chemotherapy than those without the mutation. Loss of chromosome arms 1p and 19q also indicate better response to chemoradiation.[30]
+Other
+
+A shunt may be used to relieve symptoms caused by intracranial pressure, by reducing the build-up of fluid (hydrocephalus) caused by the blockage of the free flow of cerebrospinal fluid.[46]
+Prognosis
+
+The prognosis of brain cancer depends on the type of cancer diagnosed. Medulloblastoma has a good prognosis with chemotherapy, radiotherapy, and surgical resection while glioblastoma multiforme has a median survival of only 12 months even with aggressive chemoradiotherapy and surgery. Brainstem gliomas have the poorest prognosis of any form of brain cancer, with most patients dying within one year, even with therapy that typically consists of radiation to the tumor along with corticosteroids. However, one type, focal brainstem gliomas in children, seems open to exceptional prognosis and long-term survival has frequently been reported.[47]
+
+Prognosis is also affected by presentation of genetic mutations. Certain mutations provide better prognosis than others. IDH1 and IDH2 mutations in gliomas, as well as deletion of chromosome arms 1p and 19q, generally indicate better prognosis. TP53, ATRX, EGFR, PTEN, and TERT mutations are also useful in determining prognosis. [30]
+Glioblastoma multiforme
+Main article: Glioblastoma multiforme
+
+Glioblastoma multiforme (GBM) is the most aggressive (grade IV) and most common form of a malignant brain tumor. Even when aggressive multimodality therapy consisting of radiotherapy, chemotherapy, and surgical excision is used, median survival is only 12–17 months. Standard therapy for glioblastoma multiforme consists of maximal surgical resection of the tumor, followed by radiotherapy between two and four weeks after the surgical procedure to remove the cancer, then by chemotherapy, such as temozolomide.[48] Most patients with glioblastoma take a corticosteroid, typically dexamethasone, during their illness to relieve symptoms. Experimental treatments include targeted therapy, gamma knife radiosurgery,[49] boron neutron capture therapy and gene therapy.[50][51]
+Oligodendrogliomas
+Main article: Oligodendroglioma
+
+Oligodendrogliomas are incurable but slowly progressive malignant brain tumors. They can be treated with surgical resection, chemotherapy, radiotherapy or a combination. For some suspected low-grade (grade II) tumors, only a course of watchful waiting and symptomatic therapy is opted for. These tumors show a high frequency of co-deletions of the p and q arms of chromosome 1 and chromosome 19 respectively (1p19q co-deletion) and have been found to be especially chemosensitive with one report claiming them to be one of the most chemosensitive tumors.[52] A median survival of up to 16.7 years has been reported for grade II oligodendrogliomas.[53]
+Acoustic neuroma
+
+Acoustic neuromas are non-cancerous tumors.[54] They can be treated with surgery, radiation therapy, or observation. Early intervention with surgery or radiation is recommended to prevent progressive hearing loss.[55]
+Epidemiology
+
+Figures for incidences of cancers of the brain show a significant difference between more- and less-developed countries (the less-developed countries have lower incidences of tumors of the brain).[56] This could be explained by undiagnosed tumor-related deaths (patients in extremely poor situations do not get diagnosed, simply because they do not have access to the modern diagnostic facilities required to diagnose a brain tumor) and by deaths caused by other poverty-related causes that preempt a patient's life before tumors develop or tumors become life-threatening. Nevertheless, statistics suggest that certain forms of primary brain tumors are more common among certain populations.[57]
+
+The incidence of low-grade astrocytoma has not been shown to vary significantly with nationality. However, studies examining the incidence of malignant central nervous system (CNS) tumors have shown some variation with national origin. Since some high-grade lesions arise from low-grade tumors, these trends are worth mentioning. Specifically, the incidence of CNS tumors in the United States, Israel, and the Nordic countries is relatively high, while Japan and Asian countries have a lower incidence. These differences probably reflect some biological differences as well as differences in pathologic diagnosis and reporting.[58] Worldwide data on incidence of cancer can be found at the WHO (World Health Organisation) and is handled by the IARC (International Agency for Research on Cancer) located in France.[59]
+United States
+
+In the United States in 2015, approximately 166,039 people were living with brain or other central nervous system tumors. Over 2018, it was projected that there would be 23,880 new cases of brain tumors and 16,830 deaths in 2018 as a result,[57] accounting for 1.4 percent of all cancers and 2.8 percent of all cancer deaths.[60] Median age of diagnosis was 58 years old, while median age of death was 65. Diagnosis was slightly more common in males, at approximately 7.5 cases per 100 000 people, while females saw 2 fewer at 5.4. Deaths as a result of brain cancer were 5.3 per 100 000 for males, and 3.6 per 100 000 for females, making brain cancer the 10th leading cause of cancer death in the United States. Overall lifetime risk of developing brain cancer is approximated at 0.6 percent for men and women. [57][61]
+UK
+
+Brain, other CNS or intracranial tumors are the ninth most common cancer in the UK (around 10,600 people were diagnosed in 2013), and it is the eighth most common cause of cancer death (around 5,200 people died in 2012).[62]
+Children
+
+In the United States more than 28,000 people under 20 are estimated to have a brain tumor.[63] About 3,720 new cases of brain tumors are expected to be diagnosed in those under 15 in 2019.[64] Higher rates were reported in 1985–1994 than in 1975–1983. There is some debate as to the reasons; one theory is that the trend is the result of improved diagnosis and reporting, since the jump occurred at the same time that MRIs became available widely, and there was no coincident jump in mortality. They are 20–25 percent of cancers in children.[60][65]
+
+The average survival rate for all primary brain cancers in children is 74%.[63] Brain cancers are the most common cancer in children under 19, are result in more death in this group than leukemia.[66] Younger people do less well.[67]
+
+The most common brain tumor types in children (0-14) are: pilocytic astrocytoma, malignant glioma, medulloblastoma, neuronal and mixed neuronal-glial tumors, and ependymoma.
+
+In children under 2, about 70% of brain tumors are medulloblastomas, ependymomas, and low-grade gliomas. Less commonly, and seen usually in infants, are teratomas and atypical teratoid rhabdoid tumors.[68] Germ cell tumors, including teratomas, make up just 3% of pediatric primary brain tumors, but the worldwide incidence varies significantly.[69]
+
+In the UK, 429 children aged 14 and under are diagnosed with a brain tumour on average each year, and 563 children and young people under the age of 19 are diagnosed.[70]
+Research
+Immunotherapy
+
+Cancer immunotherapy is being actively studied. For malignant gliomas no therapy has been shown to improve life expectancy as of 2015.[71]
+Vesicular stomatitis virus
+See also: Oncolytic virus
+
+In 2000, researchers used the vesicular stomatitis virus, or VSV, to infect and kill cancer cells without affecting healthy cells.[72][73]
+Retroviral replicating vectors
+A brainstem glioma in four-year-old. MRI, sagittal, without contrast
+
+Led by Prof. Nori Kasahara, researchers from USC, who are now at UCLA, reported in 2001 the first successful example of applying the use of retroviral replicating vectors towards transducing cell lines derived from solid tumors.[74] Building on this initial work, the researchers applied the technology to in vivo models of cancer and in 2005 reported a long-term survival benefit in an experimental brain tumor animal model.[75][unreliable medical source?] Subsequently, in preparation for human clinical trials, this technology was further developed by Tocagen (a pharmaceutical company primarily focused on brain cancer treatments) as a combination treatment (Toca 511 & Toca FC). This has been under investigation since 2010 in a Phase I/II clinical trial for the potential treatment of recurrent high-grade glioma including glioblastoma multiforme (GBM) and anaplastic astrocytoma. No results have yet been published.[76]
+See also
+
+    Timeline of brain cancer
+    List of notable brain tumor patients
+    Pituitary adenomas ("pituitary tumours") are sometimes incorrectly referred to as a brain tumours.[77][78] This is perhaps because the pituitary gland is in the skull, however it is not part of the brain. Pituitary adenomas are rarely cancerous.

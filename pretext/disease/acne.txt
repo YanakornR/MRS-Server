@@ -1,0 +1,1412 @@
+acne|DS acne|DS acne|DS vulgaris|NN skin|NN disease|NN hair|NN follicle|NN skin|NN cell|NN oil|NN skin|NN 
+blackhead|NN whitehead|NN pimple|NN skin|NN scar|NN 
+area|NN of|NN skin|NN number|NN of|NN oil|NN gland|NN face|NN chest|NN back|NN 
+part|NN of|NN appearance|NN anxiety|ST in|NN case|NN depression|ST think|NN of|NN suicide|NN 
+genetics|NN cause|NN of|NN acne|DS in|NN of|NN case|NN 
+role|NN of|NN cigarette|NN smoke|NN cleanliness|NN exposure|NN part|NN 
+in|NN sex|NN hormone|NN androgen|NN part|NN of|NN mechanism|NN production|NN of|NN sebum|NN 
+factor|NN bacterium|NN cutibacterium|NN acne|DS skin|NN 
+growth|NN of|NN treatment|NN option|NN acne|DS change|NN medication|NN procedure|NN 
+carbohydrate|NN sugar|NN 
+treatment|NN skin|NN acid|NN benzoyl|NN peroxide|NN acid|NN 
+antibiotic|NN retinoids|NN in|NN formulation|NN skin|NN mouth|NN treatment|NN of|NN acne|DS 
+resistance|NN antibiotic|NN result|NN of|NN therapy|NN 
+type|NN of|NN birth|NN control|NN help|NN acne|DS in|NN woman|NN 
+isotretinoin|NN pill|NN acne|DS side|NN effect|NN 
+early|NN treatment|NN of|NN acne|DS in|NN community|NN impact|NN individual|NN 
+acne|DS name|NN acne|DS acne|DS vulgaris|NN in|NN male|NN dermatology|NN specialty|NN symptom|NN blackhead|NN whitehead|NN pimple|NN skin|NN complication|NN anxiety|ST depression|ST think|NN of|NN puberty|NN genetics|NN folliculitis|NN rosacea|DS hidradenitis|NN suppurativa|NN change|NN medication|NN procedure|NN peroxide|NN acid|NN antibiotic|NN birth|NN control|NN pill|NN onset|NN risk|NN factor|NN diagnosis|NN treatment|NN medication|NN frequency|NN in|NN acne|DS people|NN common|NN disease|NN worldwide|NN 
+acne|DS in|NN adolescence|NN of|NN teenager|NN in|NN world|NN 
+rate|NN in|NN society|NN 
+child|NN adult|NN puberty|NN 
+acne|DS become|NN common|NN in|NN adulthood|NN in|NN half|NN of|NN people|NN twenty|NN thirty|NN group|NN difficulty|NN forty|NN 
+content|NN classification|NN sign|NN symptom|NN scar|NN gene|NN hormone|NN infection|NN factor|NN medication|NN diagnosis|NN management|NN skin|NN care|NN medication|NN pregnancy|NN procedure|NN prognosis|NN epidemiology|NN history|NN society|NN culture|NN research|NN animal|NN reference|NN link|NN severity|NN of|NN acne|DS vulgaris|NN gr|NN 
+ἀκµή|NN point|NN vulgaris|NN common|NN mild|NN treatment|NN regimen|NN 
+scale|NN acne|DS severity|NN 
+acne|DS presence|NN of|NN skin|NN follicle|NN comedo|NN face|NN lesions|NN 
+severity|NN acne|DS number|NN of|NN papule|NN pustule|NN face|NN case|NN of|NN acne|DS trunk|NN of|NN body|NN 
+acne|DS nodule|NN painful|NN skin|NN lesions|NN involvement|NN of|NN trunk|NN 
+nodule|NN cyst|NN term|NN in|NN literature|NN case|NN of|NN acne|DS 
+cyst|NN in|NN fact|NN in|NN acne|DS term|NN acne|DS terminology|NN 
+acne|DS inversa|NN invertō|NN down|NN acne|DS rosacea|DS rosa|NN form|NN form|NN of|NN acne|DS skin|NN condition|NN suppurativa|NN h|NN rosacea|DS 
+share|NN common|NN feature|NN acne|DS vulgaris|NN tendency|NN skin|NN follicle|NN skin|NN cell|NN debris|NN condition|NN define|NN feature|NN of|NN acne|DS skin|NN disorder|NN 
+sign|NN symptom|NN feature|NN of|NN acne|DS secretion|NN of|NN skin|NN microcomedones|NN comedo|NN papule|NN nodule|NN papule|NN pustule|NN result|NN in|NN 
+appearance|NN of|NN acne|DS vary|NN skin|NN color|NN 
+in|NN problem|NN 
+scar|NN acne|DS scar|NN inflammation|NN layer|NN of|NN skin|NN of|NN people|NN acne|DS vulgaris|NN 
+scar|NN abnormal|NN inflammation|NN 
+scar|NN place|NN acne|DS form|NN of|NN acne|DS vulgaris|NN 
+acne|DS scar|NN abnormal|NN heal|NN response|NN inflammation|NN deposition|NN loss|NN site|NN of|NN acne|DS lesion|NN 
+acne|DS scar|NN collagen|NN response|NN common|NN type|NN of|NN acne|DS scar|NN account|NN of|NN acne|DS scar|NN 
+scar|NN boxcar|NN scar|NN scar|NN 
+scar|NN 2|NN across|NN scar|NN dermis|NN 
+boxcar|NN scar|NN scar|NN border|NN vary|NN in|NN size|NN mm|NN across|NN 
+scar|NN icepick|NN boxcar|NN scar|NN pattern|NN of|NN depth|NN in|NN skin|NN 
+scar|NN collagen|NN content|NN abnormal|NN heal|NN response|NN 
+firm|NN skin|NN 
+scar|NN margin|NN of|NN wound|ST scar|NN scar|NN tissue|NN of|NN border|NN 
+scar|NN acne|DS in|NN men|NN people|NN darker|NN skin|NN trunk|NN of|NN body|NN 
+pigmentation|NN postinflammatory|NN hyperpigmentation|DS pih|NN result|NN of|NN acne|DS lesions|NN 
+lesions|NN mark|NN acne|DS lesion|NN 
+inflammation|NN skin|NN cell|NN melanocyte|NN melanin|NN pigment|NN skin|NN appearance|NN 
+people|NN darker|NN skin|NN color|NN condition|NN 
+scar|NN common|NN term|NN pih|NN color|NN change|NN 
+pih|NN aggravation|NN of|NN nodule|NN time|NN 
+pih|NN month|NN year|NN layer|NN of|NN skin|NN 
+skin|NN exposure|NN sustain|NN hyperpigmentation|DS 
+use|NN of|NN sunscreen|NN risk|NN 
+sun|NN ultraviolet|NN ray|NN cause|NN factor|NN development|NN of|NN acne|DS genetics|NN 
+contributor|NN hormone|NN infection|NN stress|NN 
+study|NN impact|NN of|NN incidence|NN severity|NN of|NN acne|DS 
+sunlight|NN cleanliness|NN acne|DS 
+case|NN of|NN acne|DS acne|DS back|NN gene|NN acne|DS of|NN variation|NN in|NN population|NN genetics|NN 
+study|NN in|NN twin|NN relative|NN nature|NN of|NN acne|DS 
+acne|DS susceptibility|NN influence|NN of|NN multiple|NN gene|NN disease|NN inheritance|NN pattern|NN 
+gene|NN candidate|NN variation|NN in|NN tumor|NN necrosis|NN alpha|NN cyp1a1|NN gene|NN others|NN 
+polymorphism|NN variation|NN in|NN gene|NN tnf|NN risk|NN acne|DS 
+acne|DS feature|NN of|NN disorder|NN apert|NN syndrome|NN 
+acne|DS xyy|NN syndrome|NN 
+hormone|NN activity|NN occur|NN cycle|NN puberty|NN formation|NN of|NN acne|DS 
+puberty|NN increase|NN in|NN sex|NN hormone|NN androgen|NN skin|NN follicle|NN gland|NN sebum|NN 
+hormone|NN acne|DS androgen|NN testosterone|NN dihydrotestosterone|NN dht|NN dehydroepiandrosterone|NN dhea|NN level|NN of|NN growth|NN hormone|NN gh|NN growth|NN factor|NN 1|NN acne|DS 
+androgen|NN seem|NN acne|DS acne|DS in|NN individual|NN androgen|NN insensitivity|NN syndrome|NN cais|NN syndrome|NN insensitivity|NN in|NN level|NN 
+condition|NN state|NN syndrome|NN hyperplasia|NN in|NN individual|NN 
+people|NN hormone|NN effect|NN of|NN androgen|NN acne|DS 
+increase|NN in|NN androgen|NN synthesis|NN pregnancy|NN 
+acne|DS effect|NN of|NN testosterone|NN replacement|NN therapy|NN of|NN steroid|NN use|NN 
+bodybuilding|NN supplement|NN steroid|NN 
+tumor|NN acne|DS infection|NN specie|NN acne|DS propionibacterium|NN acne|DS development|NN of|NN acne|DS role|NN 
+of|NN acne|DS skin|NN acne|DS 
+strain|NN person|NN 
+strain|NN capability|NN of|NN abnormal|NN cycle|NN of|NN inflammation|NN oil|NN production|NN slough|NN of|NN skin|NN cell|NN acne|DS pore|NN 
+infection|NN mite|NN demodex|NN development|NN of|NN acne|DS 
+eradication|NN of|NN improve|NN acne|DS 
+relationship|NN diet|NN acne|DS evidence|NN link|NN 
+diet|NN degree|NN of|NN effect|NN acne|DS severity|NN 
+multiple|NN trial|NN study|NN diet|NN in|NN acne|DS 
+evidence|NN dairy|NN milk|NN consumption|NN frequency|NN severity|NN of|NN acne|DS 
+milk|NN protein|NN hormone|NN precursor|NN of|NN dihydrotestosterone|NN 
+component|NN effect|NN of|NN insulin|NN thereby|NN production|NN of|NN androgen|NN hormone|NN sebum|NN formation|NN of|NN comedo|NN 
+evidence|NN link|NN chocolate|NN salt|NN acne|DS severity|NN 
+chocolate|NN amount|NN of|NN sugar|NN load|NN milk|NN 
+study|NN relationship|NN obesity|NN acne|DS 
+vitamin|NN b12|NN skin|NN outbreak|NN acne|DS eruption|NN acne|DS in|NN do|NN intake|NN 
+food|NN acne|DS 
+stress|NN study|NN stress|NN cause|NN worsen|NN acne|DS 
+connection|NN acne|DS stress|NN research|NN severity|NN stress|NN level|NN in|NN context|NN change|NN in|NN syndrome|NN 
+factor|NN obstruction|NN of|NN skin|NN follicle|NN helmet|NN chinstraps|NN acne|DS 
+medication|NN medication|NN acne|DS example|NN lithium|NN hydantoin|NN isoniazid|NN glucocorticoid|NN iodide|NN bromide|NN testosterone|NN 
+pathophysiology|NN acne|DS vulgaris|NN chronic|NN skin|NN disease|NN of|NN unit|NN develop|NN blockage|NN in|NN skin|NN hair|NN follicle|NN 
+blockage|NN result|NN of|NN abnormal|NN process|NN amount|NN of|NN sebum|NN production|NN androgen|NN deposition|NN of|NN protein|NN formation|NN cutibacterium|NN acne|DS acne|DS bacteria|NN release|NN of|NN chemical|NN in|NN skin|NN 
+colonization|NN of|NN follicle|NN pathologic|NN change|NN formation|NN of|NN plug|NN microcomedone|NN growth|NN reproduction|NN accumulation|NN of|NN skin|NN cell|NN in|NN hair|NN follicle|NN 
+in|NN skin|NN skin|NN cell|NN surface|NN pore|NN of|NN hair|NN follicle|NN 
+production|NN of|NN sebum|NN in|NN acne|DS skin|NN cell|NN 
+accumulation|NN of|NN skin|NN cell|NN debris|NN sebum|NN pore|NN of|NN hair|NN follicle|NN microcomedone|NN 
+biofilm|NN acne|DS hair|NN follicle|NN 
+microcomedone|NN hair|NN follicle|NN skin|NN pigment|NN melanin|NN air|NN in|NN oxidation|NN appearance|NN blackhead|NN comedo|NN 
+in|NN contrast|NN microcomedone|NN hair|NN follicle|NN formation|NN of|NN whitehead|NN comedo|NN 
+driver|NN of|NN sebum|NN production|NN in|NN skin|NN dihydrotestosterone|NN 
+hormone|NN gland|NN activity|NN amount|NN of|NN adrenarche|NN stage|NN of|NN puberty|NN increase|NN in|NN production|NN 
+in|NN skin|NN environment|NN skin|NN bacterium|NN acne|DS grow|NN inflammation|NN follicle|NN activation|NN of|NN innate|NN representation|NN of|NN formation|NN of|NN acne|DS comedo|NN 
+hair|NN follicle|NN anatomy|NN hair|NN follicle|NN leave|NN whitehead|NN comedo|NN middle|NN picture|NN blackhead|NN comedo|NN right|NN system|NN 
+immune|NN skin|NN inflammation|NN in|NN acne|DS production|NN of|NN chemical|NN signal|NN ltb4|NN formation|NN 
+trigger|NN tlrs|NN major|NN mechanism|NN of|NN skin|NN inflammation|NN acne|DS ability|NN class|NN of|NN system|NN receptor|NN receptor|NN tlr4|NN 
+activation|NN of|NN tlr2|NN tlr4|NN acne|DS secretion|NN of|NN 
+release|NN of|NN signal|NN cell|NN hair|NN follicle|NN neutrophil|NN macrophage|NN cell|NN 
+stimulate|NN skin|NN cell|NN activity|NN reproduction|NN in|NN turn|NN fuel|NN development|NN 
+gland|NN cell|NN peptide|NN hbd1|NN hbd2|NN in|NN response|NN bind|NN of|NN tlr2|NN tlr4|NN 
+flowchart|NN of|NN sequence|NN of|NN event|NN acne|DS acne|DS skin|NN inflammation|NN fatty|NN composition|NN of|NN sebum|NN 
+oxidation|NN of|NN squalene|NN acne|DS of|NN importance|NN 
+oxidation|NN protein|NN complex|NN level|NN 
+oxidation|NN activity|NN of|NN enzyme|NN conversion|NN of|NN acid|NN b4|NN ltb4|NN 
+ltb4|NN skin|NN inflammation|NN receptor|NN alpha|NN pparα|NN protein|NN 
+pparα|NN activity|NN of|NN activator|NN protein|NN 1|NN recruitment|NN of|NN t|NN cell|NN 
+inflammatory|NN property|NN of|NN acne|DS bacterium|NN ability|NN sebum|NN triglyceride|NN fatty|NN acid|NN secretion|NN of|NN lipase|NN 
+fatty|NN acid|NN production|NN of|NN cathelicidin|NN hbd1|NN hbd2|NN inflammation|NN 
+inflammatory|NN cascade|NN formation|NN of|NN acne|DS lesions|NN papule|NN pustule|NN nodule|NN 
+reaction|NN follicle|NN layer|NN of|NN dermis|NN tissue|NN formation|NN of|NN nodule|NN 
+involvement|NN of|NN in|NN inflammatory|NN cascade|NN activation|NN of|NN matrix|NN metalloproteinases|NN tissue|NN destruction|NN scar|NN formation|NN 
+diagnosis|NN acne|DS vulgaris|NN professional|NN judgment|NN 
+evaluation|NN of|NN person|NN acne|DS history|NN family|NN history|NN of|NN acne|DS review|NN of|NN medication|NN sign|NN symptom|NN of|NN production|NN of|NN androgen|NN hormone|NN cortisol|NN growth|NN hormone|NN 
+comedo|NN blackhead|NN whitehead|NN acne|DS 
+in|NN absence|NN appearance|NN of|NN acne|DS skin|NN disorder|NN 
+microcomedones|NN precursor|NN blackhead|NN whitehead|NN eye|NN skin|NN microscope|NN 
+feature|NN person|NN acne|DS vulgaris|NN influence|NN 
+clue|NN acne|DS age|NN week|NN woman|NN period|NN acne|DS lesions|NN jawline|NN chin|NN acne|DS lesions|NN 
+scale|NN severity|NN of|NN acne|DS vulgaris|NN technique|NN standard|NN 
+cook|NN acne|DS us|NN severity|NN 
+scale|NN protocol|NN acne|DS severity|NN creation|NN in|NN scale|NN revision|NN 
+leeds|NN acne|DS technique|NN count|NN acne|DS lesions|NN face|NN back|NN chest|NN inflammatory|NN 
+leeds|NN score|NN scale|NN score|NN of|NN 
+pillsbury|NN acne|DS scale|NN severity|NN of|NN acne|DS grade|NN 1|NN 
+diagnosis|NN skin|NN condition|NN acne|DS vulgaris|NN acneiform|NN eruption|NN 
+condition|NN angiofibromas|NN cyst|NN wart|DS folliculitis|NN keratosis|NN pilaris|NN milium|NN dermatitis|DS rosacea|DS others|NN 
+age|NN factor|NN disorder|NN 
+skin|NN disorder|NN dermatitis|DS keratosis|NN pilaris|NN acne|DS in|NN childhood|NN rosacea|DS tend|NN in|NN adult|NN 
+redness|NN heat|NN consumption|NN of|NN alcohol|NN spicy|NN food|NN of|NN rosacea|DS 
+presence|NN of|NN comedo|NN health|NN professional|NN acne|DS skin|NN disorder|NN in|NN appearance|NN 
+chloracne|NN chemical|NN acne|DS vulgaris|NN 
+management|NN treatment|NN acne|DS 
+alpha|NN acid|NN medication|NN antibiotic|NN medication|NN acid|NN benzoyl|NN peroxide|NN treatment|NN soap|NN retinoids|NN acid|NN 
+in|NN way|NN follow|NN inflammation|NN manipulation|NN acne|DS skin|NN cell|NN production|NN in|NN pore|NN blockage|NN 
+common|NN treatment|NN therapy|NN antibiotic|NN benzoyl|NN peroxide|NN retinoids|NN systemic|NN therapy|NN antibiotic|NN agent|NN retinoids|NN 
+therapy|NN use|NN in|NN acne|DS treatment|NN retinoids|NN benzoyl|NN peroxide|NN antibiotic|NN 
+procedure|NN therapy|NN laser|NN therapy|NN treatment|NN role|NN cost|NN evidence|NN of|NN efficacy|NN 
+medication|NN acne|DS work|NN early|NN stage|NN of|NN comedo|NN formation|NN skin|NN lesions|NN improvement|NN in|NN appearance|NN of|NN acne|DS week|NN therapy|NN 
+skin|NN care|NN in|NN people|NN acne|DS skin|NN 
+people|NN acne|DS skin|NN fragrance|NN moisturizer|NN irritation|NN 
+skin|NN irritation|NN acne|DS medication|NN week|NN onset|NN of|NN use|NN tend|NN use|NN 
+product|NN pore|NN 
+in|NN sugar|NN method|NN of|NN acne|DS 
+of|NN evidence|NN milk|NN restriction|NN purpose|NN 
+medication|NN benzoyl|NN peroxide|NN bpo|NN treatment|NN mild|NN acne|DS effectiveness|NN skin|NN irritation|NN 
+in|NN skin|NN follicle|NN peroxide|NN kill|NN acne|DS protein|NN formation|NN of|NN oxygen|NN radical|NN acid|NN 
+radical|NN bacterium|NN metabolism|NN ability|NN protein|NN 
+peroxide|NN down|NN inflammation|NN 
+comedo|NN benzoyl|NN peroxide|NN benzoyl|NN benzoyl|NN 
+inhibit|NN common|NN acne|DS vulgaris|NN treatment|NN benzoyl|NN peroxide|NN cream|NN side|NN effect|NN skin|NN photosensitivity|NN dryness|NN redness|NN peel|NN 
+sunscreen|NN use|NN treatment|NN sunburn|DS 
+concentration|NN of|NN benzoyl|NN peroxide|NN concentration|NN in|NN acne|DS side|NN effect|NN 
+antibiotic|NN peroxide|NN resistance|NN 
+retinoids|NN retinoids|NN medication|NN inflammation|NN follicle|NN cell|NN life|NN cycle|NN production|NN 
+study|NN care|NN doctor|NN dermatologist|NN 
+retinoids|NN cell|NN life|NN cycle|NN in|NN follicle|NN line|NN 
+accumulation|NN of|NN skin|NN cell|NN hair|NN follicle|NN blockage|NN 
+acne|DS treatment|NN people|NN skin|NN improvement|NN of|NN hyperpigmentation|DS 
+retinoids|NN adapalene|NN isotretinoin|NN retinol|NN tazarotene|NN trifarotene|NN tretinoin|NN 
+of|NN acne|DS flush|NN skin|NN irritation|NN 
+retinoids|NN skin|NN sensitivity|NN sunlight|NN use|NN night|NN 
+tretinoin|NN of|NN retinoids|NN skin|NN adapalene|NN irritate|NN skin|NN 
+formulation|NN of|NN tretinoin|NN time|NN peroxide|NN 
+tazarotene|NN retinoid|NN 
+retinol|NN form|NN of|NN vitamin|NN effect|NN in|NN moisturizers|NN product|NN 
+isotretinoin|NN retinoid|NN acne|DS acne|DS treatment|NN 
+month|NN improvement|NN 
+acne|DS milder|NN month|NN course|NN of|NN isotretinoin|NN 
+course|NN of|NN people|NN improvement|NN report|NN remission|NN 
+of|NN patient|NN course|NN 
+concern|NN isotretinoin|NN effect|NN depression|ST suicidality|NN anemia|DS evidence|NN of|NN claim|NN 
+isotretinoin|NN in|NN study|NN antibiotic|NN placebo|NN in|NN acne|DS lesions|NN 
+review|NN lesions|NN treatment|NN antibiotic|NN isotretinoin|NN difference|NN 
+frequency|NN of|NN event|NN isotretinoin|NN event|NN 
+risk|NN of|NN suicide|NN depression|ST 
+isotretinoin|NN use|NN in|NN woman|NN of|NN age|NN effect|NN in|NN pregnancy|NN 
+woman|NN candidate|NN isotretinoin|NN pregnancy|NN test|NN form|NN of|NN birth|NN control|NN 
+in|NN state|NN ipledge|NN program|NN isotretinoin|NN use|NN pregnancy|NN 
+ipledge|NN woman|NN consideration|NN therapy|NN pregnancy|NN test|NN use|NN of|NN type|NN of|NN birth|NN control|NN month|NN therapy|NN begin|NN month|NN therapy|NN 
+effectiveness|NN of|NN ipledge|NN program|NN instance|NN of|NN contraception|NN nonadherence|NN 
+antibiotic|NN antibiotic|NN skin|NN acne|DS activity|NN acne|DS ability|NN inflammation|NN 
+use|NN of|NN antibiotic|NN acne|DS frequency|NN of|NN acne|DS antibiotic|NN antibiotic|NN erythromycin|NN 
+use|NN part|NN of|NN combination|NN therapy|NN 
+antibiotic|NN skin|NN clindamycin|NN erythromycin|NN metronidazole|NN sulfacetamide|NN tetracycline|NN doxycycline|NN minocycline|NN 
+doxycycline|NN milligram|NN efficacy|NN milligram|NN gastrointestinal|NN side|NN effect|NN 
+antibiotic|NN skin|NN mild|NN acne|DS 
+antibiotic|NN antibiotic|NN resolution|NN of|NN acne|DS lesions|NN application|NN 
+antibiotic|NN use|NN 
+antibiotic|NN month|NN course|NN duration|NN development|NN of|NN resistance|NN benefit|NN course|NN 
+antibiotic|NN month|NN benzoyl|NN peroxide|NN retinoid|NN time|NN risk|NN of|NN acne|DS resistance|NN 
+dapsone|NN efficacy|NN acne|DS cost|NN lack|NN of|NN superiority|NN antibiotic|NN 
+therapy|NN in|NN woman|NN people|NN darker|NN skin|NN 
+dapsone|NN use|NN peroxide|NN skin|NN discoloration|NN combination|NN 
+minocycline|NN acne|DS treatment|NN lack|NN of|NN evidence|NN treatment|NN concern|NN of|NN safety|NN tetracycline|NN 
+agent|NN in|NN woman|NN acne|DS use|NN of|NN birth|NN control|NN pill|NN 
+medication|NN estrogen|NN progestin|NN 
+production|NN of|NN androgen|NN hormone|NN ovary|NN fraction|NN of|NN androgen|NN in|NN skin|NN production|NN of|NN sebum|NN acne|DS severity|NN 
+progestin|NN norethindrone|NN norgestrel|NN property|NN acne|DS 
+estrogen|NN level|NN in|NN situation|NN improvement|NN in|NN acne|DS symptom|NN birth|NN control|NN pill|NN effect|NN level|NN in|NN woman|NN 
+birth|NN control|NN pill|NN level|NN 
+combination|NN progestin|NN desogestrel|NN drospirenone|NN birth|NN control|NN cyproterone|NN acetate|NN chlormadinone|NN acetate|NN woman|NN acne|DS effect|NN 
+study|NN reduction|NN in|NN acne|DS lesions|NN birth|NN control|NN pill|NN 
+review|NN antibiotic|NN mouth|NN appear|NN birth|NN control|NN pill|NN number|NN of|NN acne|DS lesions|NN month|NN 
+therapy|NN in|NN efficacy|NN month|NN number|NN of|NN acne|DS lesions|NN 
+author|NN of|NN analysis|NN birth|NN control|NN pill|NN acne|DS treatment|NN antibiotic|NN in|NN woman|NN efficacy|NN month|NN lack|NN of|NN resistance|NN 
+antiandrogens|NN cyproterone|NN acetate|NN spironolactone|NN acne|DS in|NN woman|NN sign|NN of|NN androgen|NN production|NN hairiness|NN skin|NN production|NN of|NN sebum|NN baldness|NN 
+spironolactone|NN treatment|NN acne|DS in|NN woman|NN birth|NN control|NN pill|NN state|NN food|NN drug|NN administration|NN purpose|NN 
+medication|NN aldosterone|NN antagonist|NN acne|DS treatment|NN ability|NN androgen|NN receptor|NN do|NN 
+in|NN combination|NN birth|NN control|NN pill|NN spironolactone|NN reduction|NN in|NN acne|DS lesions|NN in|NN woman|NN 
+effectiveness|NN of|NN spironolactone|NN acne|DS 
+cyproterone|NN acetate|NN symptom|NN of|NN acne|DS in|NN woman|NN month|NN 
+estrogen|NN irregularity|NN estrogen|NN deficiency|NN 
+medication|NN in|NN treatment|NN of|NN acne|DS in|NN male|NN study|NN dosage|NN acne|DS lesions|NN 
+side|NN effect|NN of|NN cyproterone|NN acetate|NN in|NN male|NN gynecomastia|NN dysfunction|NN bone|NN density|NN use|NN acne|DS in|NN sex|NN in|NN case|NN 
+therapy|NN acne|DS pregnancy|NN lactation|NN birth|NN disorder|NN hypospadias|NN feminization|NN of|NN male|NN baby|NN 
+in|NN addition|NN woman|NN sexually|NN method|NN of|NN contraception|NN pregnancy|NN antiandrogen|NN 
+antiandrogens|NN birth|NN control|NN reason|NN in|NN efficacy|NN 
+antagonist|NN of|NN androgen|NN receptor|NN in|NN treatment|NN of|NN acne|DS in|NN woman|NN 
+symptom|NN of|NN acne|DS do|NN study|NN acne|DS clearance|NN 
+in|NN study|NN acne|DS score|NN month|NN spironolactone|NN symptom|NN in|NN time|NN period|NN 
+in|NN study|NN of|NN woman|NN satisfaction|NN control|NN of|NN acne|DS flutamide|NN 
+risk|NN of|NN liver|NN toxicity|NN case|NN of|NN death|NN in|NN woman|NN do|NN of|NN medication|NN skin|NN hair|NN condition|NN 
+use|NN of|NN flutamide|NN acne|DS use|NN of|NN flutamide|NN purpose|NN 
+bicalutamide|NN pure|NN androgen|NN receptor|NN antagonist|NN mechanism|NN flutamide|NN efficacy|NN risk|NN of|NN liver|NN toxicity|NN alternative|NN in|NN treatment|NN of|NN skin|NN hair|NN condition|NN in|NN woman|NN 
+clascoterone|NN antiandrogen|NN effectiveness|NN in|NN treatment|NN of|NN acne|DS in|NN male|NN female|NN in|NN late|NN stage|NN of|NN development|NN 
+systemic|NN absorption|NN side|NN effect|NN 
+in|NN head|NN comparison|NN clascoterone|NN effectiveness|NN isotretinoin|NN 
+reductase|NN inhibitor|NN finasteride|NN dutasteride|NN treatment|NN of|NN acne|DS in|NN male|NN female|NN purpose|NN 
+in|NN addition|NN risk|NN of|NN birth_defect|DS inhibitor|NN use|NN in|NN woman|NN 
+reductase|NN inhibitor|NN birth|NN control|NN pregnancy|NN hair|NN in|NN woman|NN 
+evidence|NN of|NN use|NN of|NN cimetidine|NN ketoconazole|NN in|NN treatment|NN of|NN acne|DS 
+treatment|NN acne|DS birth|NN control|NN pill|NN antiandrogens|NN therapy|NN acne|DS number|NN of|NN circumstance|NN contraception|NN hyperandrogenism|NN acne|DS in|NN adulthood|NN acne|DS symptom|NN of|NN production|NN seborrhea|NN 
+hormone|NN therapy|NN acne|DS in|NN woman|NN androgen|NN level|NN 
+acid|NN azelaic|NN acid|NN mild|NN acne|DS concentration|NN 
+treatment|NN month|NN benzoyl|NN 2|NN 
+acid|NN acne|DS treatment|NN ability|NN skin|NN cell|NN accumulation|NN in|NN follicle|NN property|NN 
+effect|NN ability|NN synthesis|NN in|NN treat|NN of|NN individual|NN acne|DS hyperpigmentation|DS 
+acid|NN skin|NN irritation|NN 
+retinoids|NN 
+acid|NN acid|NN bacteria|NN property|NN 
+skin|NN pore|NN of|NN skin|NN cell|NN 
+acid|NN therapy|NN 
+dry|NN skin|NN side|NN effect|NN application|NN darken|NN of|NN skin|NN in|NN individual|NN darker|NN skin|NN type|NN 
+medication|NN preparation|NN of|NN nicotinamide|NN amide|NN form|NN of|NN b3|NN treatment|NN 
+acne|DS property|NN ability|NN production|NN wound|ST heal|NN 
+preparation|NN of|NN zinc|NN treatment|NN acne|DS evidence|NN use|NN purpose|NN 
+efficacy|NN of|NN zinc|NN capacity|NN inflammation|NN sebum|NN production|NN inhibit|NN c|NN 
+acne|DS 
+antihistamine|NN symptom|NN isotretinoin|NN property|NN ability|NN production|NN 
+hydroquinone|NN skin|NN tyrosinase|NN enzyme|NN amino|NN tyrosine|NN skin|NN pigment|NN melanin|NN hyperpigmentation|DS 
+production|NN of|NN melanin|NN in|NN epidermis|NN hydroquinone|NN hyperpigmentation|DS skin|NN cell|NN time|NN 
+improvement|NN in|NN skin|NN hyperpigmentation|DS month|NN 
+hydroquinone|NN hyperpigmentation|DS layer|NN of|NN skin|NN dermis|NN 
+use|NN of|NN sunscreen|NN in|NN morning|NN reapplication|NN hour|NN hydroquinone|NN 
+application|NN area|NN risk|NN of|NN color|NN of|NN skin|NN ring|NN of|NN skin|NN area|NN 
+hydroquinone|NN effect|NN skin|NN irritation|NN use|NN of|NN concentration|NN 
+preparation|NN sodium|NN metabisulfite|NN case|NN of|NN allergic|NN reaction|NN anaphylaxis|NN asthma|DS exacerbation|NN in|NN people|NN 
+in|NN case|NN application|NN of|NN hydroquinone|NN accumulation|NN of|NN acid|NN in|NN tissue|NN condition|NN ochronosis|NN 
+combination|NN therapy|NN combination|NN medication|NN of|NN class|NN mechanism|NN of|NN approach|NN acne|DS treatment|NN monotherapy|NN 
+use|NN of|NN benzoyl|NN peroxide|NN antibiotic|NN antibiotic|NN 
+retinoid|NN clear|NN acne|DS lesions|NN use|NN of|NN antibiotic|NN 
+combination|NN peroxide|NN retinoid|NN retinoid|NN benzoyl|NN peroxide|NN 
+pair|NN of|NN peroxide|NN retinoid|NN combination|NN of|NN antibiotic|NN retinoid|NN regimen|NN peroxide|NN resistance|NN 
+pregnancy|NN late|NN stage|NN of|NN pregnancy|NN increase|NN in|NN gland|NN activity|NN in|NN skin|NN pregnancy|NN acne|DS severity|NN 
+in|NN medication|NN approach|NN acne|DS treatment|NN pregnancy|NN systemic|NN absorption|NN develop|NN fetus|NN 
+therapy|NN benzoyl|NN peroxide|NN c|NN acid|NN category|NN b|NN 
+acid|NN category|NN c|NN safety|NN rat|NN systemic|NN absorption|NN association|NN use|NN of|NN medication|NN in|NN trimester|NN effect|NN fluid|NN in|NN uterus|NN early|NN closure|NN of|NN baby|NN ductus|NN arteriosus|NN blood|NN vessel|NN 
+use|NN of|NN acid|NN area|NN of|NN skin|NN dress|NN method|NN systemic|NN absorption|NN potential|NN fetal|NN harm|NN 
+tretinoin|NN c|NN adapalene|NN c|NN study|NN effect|NN in|NN trimester|NN 
+safety|NN concern|NN retinoids|NN use|NN pregnancy|NN 
+in|NN study|NN effect|NN of|NN retinoids|NN pregnancy|NN fetal|NN harm|NN in|NN trimester|NN 
+retinoids|NN use|NN pregnancy|NN retinoid|NN tazarotene|NN retinoids|NN isotretinoin|NN acitretin|NN category|NN x|NN 
+spironolactone|NN use|NN pregnancy|NN antiandrogen|NN effect|NN 
+finasteride|NN 
+antibiotic|NN pregnancy|NN clindamycin|NN erythromycin|NN metronidazole|NN category|NN b|NN systemic|NN absorption|NN 
+nadifloxacin|NN dapsone|NN c|NN antibiotic|NN acne|DS in|NN woman|NN study|NN 
+fetal|NN event|NN use|NN of|NN dapsone|NN 
+retinoids|NN risk|NN of|NN abnormality|NN in|NN develop|NN fetus|NN woman|NN of|NN age|NN birth|NN control|NN retinoids|NN acne|DS 
+antibiotic|NN pregnancy|NN category|NN b|NN cephalosporin|NN penicillin|NN 
+tetracycline|NN d|NN pregnancy|NN in|NN fetal|NN teeth|NN in|NN yellow|NN discoloration|NN tooth|NN enamel|NN 
+use|NN pregnancy|NN development|NN of|NN fatty|NN liver|NN of|NN pregnancy|NN reason|NN 
+procedure|NN extraction|NN evidence|NN comedo|NN treatment|NN 
+procedure|NN relief|NN injection|NN of|NN corticosteroid|NN acne|DS comedo|NN 
+electrocautery|NN electrofulguration|NN treatment|NN comedo|NN 
+therapy|NN treatment|NN method|NN wavelength|NN of|NN light|NN area|NN of|NN skin|NN acne|DS 
+laser|NN light|NN 
+evidence|NN therapy|NN treatment|NN acne|DS 
+therapy|NN term|NN benefit|NN data|NN outcome|NN outcome|NN in|NN acne|DS role|NN individual|NN acne|DS medication|NN 
+therapy|NN placebo|NN treatment|NN benefit|NN 
+pdt|NN evidence|NN of|NN therapy|NN 
+light|NN application|NN of|NN substance|NN skin|NN acid|NN methyl|NN aminolevulinate|NN treatment|NN therapy|NN pdt|NN 
+type|NN of|NN laser|NN laser|NN layer|NN of|NN skin|NN response|NN in|NN skin|NN light|NN acne|DS wavelength|NN of|NN light|NN 
+laser|NN co2|NN type|NN acne|DS scar|NN 
+laser|NN treatment|NN laser|NN resurface|NN layer|NN of|NN skin|NN 
+laser|NN rate|NN of|NN effect|NN laser|NN example|NN hyperpigmentation|DS redness|NN pain|ST 
+wavelength|NN of|NN light|NN chemical|NN bacteria|NN size|NN activity|NN of|NN gland|NN sebum|NN 
+disadvantage|NN of|NN therapy|NN cost|NN need|NN multiple|NN visit|NN time|NN procedure|NN s|NN pain|ST of|NN treatment|NN modality|NN 
+side|NN effect|NN skin|NN peel|NN redden|NN of|NN skin|NN swelling|ST hyperpigmentation|DS 
+dermabrasion|NN procedure|NN appearance|NN of|NN scar|NN of|NN boxcar|NN variety|NN 
+scar|NN treatment|NN dermabrasion|NN depth|NN 
+procedure|NN painful|NN side|NN effect|NN skin|NN sensitivity|NN redness|NN pigmentation|NN of|NN skin|NN 
+dermabrasion|NN of|NN favor|NN introduction|NN of|NN laser|NN resurface|NN 
+dermabrasion|NN evidence|NN microdermabrasion|NN treatment|NN acne|DS 
+dermal|NN filler|NN substance|NN skin|NN appearance|NN of|NN acne|DS scar|NN 
+filler|NN collagen|NN production|NN in|NN skin|NN skin|NN volume|NN depth|NN of|NN acne|DS scar|NN 
+example|NN of|NN filler|NN acid|NN methacrylate|NN collagen|NN human|NN collagen|NN derivative|NN person|NN body|NN fat|NN transfer|NN 
+microneedling|NN procedure|NN in|NN instrument|NN multiple|NN row|NN of|NN needle|NN skin|NN wound|ST response|NN stimulate|NN collagen|NN production|NN appearance|NN of|NN acne|DS scar|NN in|NN people|NN darker|NN skin|NN color|NN 
+effect|NN of|NN hyperpigmentation|DS track|NN scar|NN scar|NN in|NN distribution|NN track|NN 
+latter|NN technique|NN practitioner|NN use|NN of|NN pressure|NN needle|NN 
+subcision|NN treatment|NN of|NN acne|DS scar|NN use|NN of|NN needle|NN adhesion|NN in|NN appearance|NN of|NN scar|NN 
+chemical|NN peel|NN appearance|NN of|NN acne|DS scar|NN 
+peel|NN acid|NN acid|NN acid|NN jessner|NN solution|NN concentration|NN of|NN acid|NN 
+peel|NN layer|NN of|NN skin|NN in|NN treatment|NN of|NN acne|DS scar|NN skin|NN pigmentation|NN change|NN acne|DS 
+concentration|NN of|NN acid|NN peel|NN skin|NN dermis|NN 
+formulation|NN of|NN acid|NN chemical|NN peel|NN 
+chemical|NN peel|NN scar|NN effect|NN skin|NN pigmentation|NN change|NN infection|NN white|NN cyst|NN milium|NN 
+medicine|NN therapy|NN people|NN acne|DS 
+evidence|NN application|NN of|NN tea|NN oil|NN bee|NN venom|NN number|NN of|NN skin|NN lesions|NN in|NN acne|DS 
+tea|NN oil|NN peroxide|NN acid|NN allergic|NN contact|NN dermatitis|DS 
+mechanism|NN tea|NN oil|NN effect|NN action|NN acne|DS inflammatory|NN property|NN 
+therapy|NN effect|NN acne|DS oil|NN oligosaccharide|NN seaweed|NN study|NN of|NN quality|NN 
+lack|NN of|NN evidence|NN use|NN of|NN acupuncture|NN medicine|NN therapy|NN acne|DS 
+treatment|NN in|NN form|NN cosmeceuticals|NN 
+type|NN of|NN makeup|NN acne|DS 
+in|NN skin|NN product|NN 
+prognosis|NN acne|DS age|NN of|NN adulthood|NN 
+scar|NN 
+evidence|NN idea|NN acne|DS person|NN state|NN mood|NN risk|NN of|NN anxiety_disorder|DS depression|ST suicidal|NN think|NN 
+complication|NN of|NN acne|DS vulgaris|NN acne|DS excoriée|NN person|NN pick|NN scratch|NN pimple|NN irrespective|NN of|NN severity|NN of|NN acne|DS 
+scar|NN change|NN in|NN person|NN skin|NN pigmentation|NN worsen|NN of|NN person|NN anxiety|ST appearance|NN 
+complication|NN acne|DS treatment|NN formation|NN of|NN granuloma|NN osteoma|NN cutis|NN edema|ST 
+early|NN treatment|NN of|NN acne|DS in|NN community|NN chance|NN of|NN outcome|NN 
+epidemiology|NN acne|DS affect|NN people|NN of|NN population|NN of|NN 
+of|NN people|NN in|NN society|NN teenage|NN year|NN adolescence|NN adulthood|NN 
+acne|DS develop|NN age|NN of|NN of|NN woman|NN of|NN men|NN year|NN of|NN age|NN prevalence|NN of|NN 
+of|NN case|NN 
+common|NN in|NN female|NN male|NN 
+in|NN year|NN 1|NN of|NN male|NN of|NN female|NN problem|NN 
+rate|NN in|NN society|NN 
+research|NN people|NN of|NN group|NN acne|DS in|NN people|NN of|NN guinea|NN paraguay|NN 
+acne|DS people|NN in|NN state|NN in|NN australia|NN 
+acne|DS common|NN in|NN people|NN of|NN descent|NN in|NN people|NN of|NN descent|NN 
+history|NN pharaoh|NN acne|DS reference|NN disease|NN 
+reign|NN of|NN cleopatra|NN bce|NN application|NN of|NN sulfur|NN skin|NN treatment|NN acne|DS 
+century|NN aëtius|NN of|NN amida|NN term|NN ionthos|NN ίονθωξ|NN reference|NN skin|NN lesions|NN of|NN life|NN puberty|NN 
+in|NN century|NN physician|NN botanist|NN françois|NN boissier|NN of|NN description|NN of|NN acne|DS 
+term|NN achne|NN tubercle|NN altered|NN person|NN appearance|NN adolescence|NN painful|NN 
+lesions|NN 
+in|NN recognition|NN characterization|NN of|NN acne|DS in|NN josef|NN plenck|NN physician|NN book|NN concept|NN of|NN skin|NN disease|NN dermatologist|NN robert|NN willan|NN plenck|NN work|NN description|NN of|NN skin|NN disorder|NN terminology|NN in|NN use|NN today|NN 
+thomas|NN bateman|NN robert|NN willan|NN work|NN student|NN description|NN illustration|NN of|NN acne|DS accurate|NN dermatologist|NN 
+erasmus|NN wilson|NN in|NN distinction|NN acne|DS vulgaris|NN rosacea|DS 
+monograph|NN acne|DS bulkley|NN in|NN york|NN in|NN 
+domolene|NN ointment|NN medication|NN acne|DS scientist|NN acne|DS disease|NN of|NN skin|NN hair|NN follicle|NN of|NN pore|NN sebum|NN 
+bacteria|NN microscopy|NN in|NN skin|NN sample|NN acne|DS causal|NN agent|NN of|NN comedo|NN production|NN acne|DS 
+century|NN factor|NN sebum|NN bacteria|NN keratin|NN disease|NN 
+understand|NN acne|DS sequence|NN of|NN event|NN blockage|NN of|NN skin|NN follicle|NN skin|NN cell|NN invasion|NN of|NN hair|NN follicle|NN pore|NN change|NN in|NN sebum|NN production|NN inflammation|NN 
+approach|NN acne|DS treatment|NN change|NN century|NN 
+retinoids|NN treatment|NN acne|DS in|NN 
+benzoyl|NN peroxide|NN treatment|NN in|NN purpose|NN 
+acne|DS treatment|NN in|NN 1950s|NN introduction|NN of|NN tetracycline|NN antibiotic|NN minocycline|NN 
+idea|NN amongst|NN growth|NN skin|NN role|NN in|NN acne|DS 
+in|NN tretinoin|NN trade|NN name|NN treatment|NN 
+development|NN of|NN isotretinoin|NN accutane|NN roaccutane|NN in|NN 
+introduction|NN in|NN state|NN medication|NN birth_defect|DS pregnancy|NN 
+in|NN state|NN woman|NN isotretinoin|NN pregnancy|NN in|NN abortion|NN miscarriage|ST 
+baby|NN birth_defect|DS 
+treatment|NN of|NN acne|DS dry|NN ice|NN in|NN 
+use|NN of|NN common|NN treatment|NN 
+society|NN culture|NN cost|NN impact|NN of|NN acne|DS 
+in|NN state|NN acne|DS vulgaris|NN doctor|NN visit|NN cost|NN year|NN in|NN cost|NN 
+acne|DS vulgaris|NN doctor|NN visit|NN year|NN in|NN kingdom|NN 
+sale|NN ten|NN acne|DS treatment|NN brand|NN in|NN in|NN 
+misperceptions|NN acne|DS factor|NN common|NN condition|NN 
+blame|NN person|NN sense|NN of|NN esteem|NN 
+century|NN dermatologist|NN list|NN of|NN cause|NN think|NN masturbation|NN 
+dermatology|NN association|NN sexually_transmitted_infection|DS syphilis|DS stigma|NN 
+acne|DS vulgaris|NN resultant|NN scar|NN difficulty|NN adulthood|NN difficulty|NN employment|NN 
+problem|NN girl|NN problem|NN smallpox|DS tuberculosis|DS feminine|NN problem|NN boy|NN assistance|NN 
+depression|ST dermatologist|NN men|NN acne|DS difficulty|NN job|NN world|NN war|NN ii|NN soldier|NN in|NN climate|NN acne|DS body|NN duty|NN 
+research|NN effort|NN mechanism|NN of|NN production|NN 
+aim|NN of|NN research|NN medication|NN hormone|NN production|NN hormone|NN 
+medication|NN antiandrogens|NN receptor|NN modulators|NN 
+avenue|NN of|NN research|NN use|NN laser|NN therapy|NN gland|NN in|NN skin|NN hair|NN follicle|NN in|NN order|NN production|NN acne|DS appearance|NN 
+use|NN of|NN peptide|NN acne|DS investigation|NN treatment|NN acne|DS resistance|NN 
+in|NN sequence|NN of|NN bacteriophage|NN pa6|NN 
+author|NN research|NN development|NN of|NN bacteriophage|NN therapy|NN acne|DS treatment|NN in|NN order|NN problem|NN therapy|NN resistance|NN 
+probiotic|NN treatment|NN acne|DS 
+probiotic|NN effect|NN acne|DS ability|NN skin|NN inflammation|NN skin|NN moisture|NN skin|NN ceramide|NN content|NN 
+of|NN study|NN effect|NN of|NN probiotic|NN acne|DS in|NN human|NN 
+level|NN of|NN retinoic|NN acid|NN in|NN skin|NN formation|NN 
+deficiency|NN method|NN skin|NN production|NN of|NN acid|NN 
+vaccine|NN inflammatory|NN acne|DS result|NN in|NN mouse|NN human|NN 
+concern|NN vaccine|NN community|NN of|NN skin|NN bacteria|NN skin|NN colonization|NN microorganism|NN 
+animal|NN acne|DS cat|NN dog|NN horse|NN 
+reference|NN jc|NN 
+disorder|NN of|NN skin|NN appendage|NN acne|DS alopecia|ST hyperhidrosis|DS 
+clinic|NN of|NN america|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+bhate|NN k|NN hc|NN 
+epidemiology|NN of|NN acne|DS vulgaris|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+barnes|NN mm|NN ab|NN sr|NN 
+quality|NN of|NN life|NN measure|NN acne|DS patient|NN 
+dermatologic|NN clinic|NN review|NN 
+2|NN ix|NN 
+http|NN 
+pmid|NN http|NN 
+g|NN 
+acne|DS acne|DS case|NN early|NN intervention|NN http|NN 
+family|NN physician|NN review|NN 
+pmid|NN http|NN 
+http|NN 
+jam|NN 
+practice|NN 
+acne|DS 
+journal|NN of|NN medicine|NN review|NN 
+http|NN mcp033487|NN 
+pmid|NN http|NN 
+kahan|NN scott|NN 
+in|NN page|NN medicine|NN http|NN jmc|NN 
+lippincott|NN wilkins|NN 
+isbn|NN p|NN hjmc|NN september|NN 
+mahmood|NN sn|NN bowe|NN wp|NN 
+acne|DS update|NN carbohydrate|NN culprit|NN 
+journal|NN of|NN drug|NN in|NN dermatology|NN review|NN 
+pmid|NN ttps|NN 
+titus|NN s|NN hodge|NN j|NN 
+diagnosis|NN treatment|NN of|NN acne|DS http|NN 
+family|NN physician|NN review|NN 
+pmid|NN http|NN 
+http|NN 
+gbd|NN disease|NN injury|NN incidence|NN prevalence|NN collaborator|NN 
+incidence|NN prevalence|NN year|NN disability|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+aslam|NN i|NN s|NN 
+drug|NN treatment|NN of|NN acne|DS 
+opinion|NN drug|NN review|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+subscription|NN tuchayi|NN moradi|NN ganceviciene|NN ruta|NN dessinioti|NN clio|NN feldman|NN christos|NN 
+acne|DS vulgaris|NN 
+review|NN 
+disease|NN primer|NN 
+1|NN http|NN 
+pmid|NN http|NN 
+question|NN acne|DS http|NN pdf|NN 
+department|NN of|NN health|NN human|NN service|NN office|NN of|NN health|NN science|NN office|NN woman|NN health|NN 
+pdf|NN december|NN july|NN 
+s|NN dawson|NN al|NN dunnick|NN rp|NN 
+acne|DS vulgaris|NN pathogenesis|NN treatment|NN assessment|NN 
+dermatologic|NN clinic|NN review|NN 
+1|NN 
+http|NN 1|NN 
+pmid|NN http|NN 
+c|NN m|NN 
+acne|DS vulgaris|NN in|NN child|NN adolescent|NN 
+minerva|NN pediatrica|NN review|NN 
+pmid|NN http|NN 
+zaenglein|NN al|NN 
+acne|DS vulgaris|NN 
+journal|NN of|NN medicine|NN review|NN 
+http|NN nejmcp1702493|NN 
+pmid|NN http|NN 
+beylot|NN c|NN n|NN poli|NN f|NN claudel|NN jp|NN mt|NN giudice|NN p|NN dreno|NN b|NN 
+propionibacterium|NN acne|DS update|NN role|NN in|NN pathogenesis|NN of|NN acne|DS 
+journal|NN of|NN academy|NN of|NN dermatology|NN venereology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+vallerand|NN ia|NN lewinson|NN rt|NN m|NN cd|NN ramien|NN ml|NN bulloch|NN ag|NN sb|NN 
+efficacy|NN event|NN of|NN isotretinoin|NN acne|DS review|NN 
+journal|NN of|NN dermatology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+hay|NN rj|NN john|NN ne|NN hc|NN bolliger|NN iw|NN dellavalle|NN rp|NN margolis|NN dj|NN al|NN 
+june|NN 
+burden|NN of|NN skin|NN disease|NN in|NN analysis|NN of|NN prevalence|NN impact|NN of|NN skin|NN condition|NN 
+journal|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN s|NN 
+taylor|NN m|NN m|NN porter|NN r|NN 
+pathway|NN inflammation|NN acne|DS pathophysiology|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN p|NN 
+dawson|NN al|NN dellavalle|NN rp|NN 
+acne|DS vulgaris|NN 
+bmj|NN review|NN 
+http|NN 
+jstor|NN http|NN 
+pmid|NN http|NN 
+goldberg|NN dj|NN berlin|NN al|NN 
+acne|DS rosacea|DS epidemiology|NN diagnosis|NN treatment|NN http|NN dq|NN 
+london|NN manson|NN pub|NN 
+http|NN dq|NN 2|NN july|NN 
+spencer|NN eh|NN hr|NN barnard|NN nd|NN 
+acne|DS review|NN of|NN evidence|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN barrio|NN vr|NN 
+evaluation|NN treatment|NN of|NN acne|DS infancy|NN preadolescence|NN 
+therapy|NN review|NN 
+tps|NN 
+pmid|NN http|NN 
+acne|DS vulgar|NN 
+oxford|NN dictionary|NN 
+oxford|NN oxford|NN university|NN press|NN 
+zaenglein|NN al|NN em|NN thiboutot|NN dm|NN 
+chapter|NN acne|DS vulgaris|NN acneiform|NN eruption|NN 
+in|NN goldsmith|NN lowell|NN katz|NN barbara|NN paller|NN lefell|NN david|NN wolff|NN klaus|NN ed|NN 
+fitzpatrick|NN dermatology|NN in|NN medicine|NN 
+york|NN 
+pp|NN 
+c|NN c|NN 
+hidradenitis|NN suppurrativa|NN acne|DS inversa|NN systemic|NN disease|NN 
+clinic|NN in|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+moustafa|NN fa|NN lf|NN sr|NN 
+rosacea|DS treatment|NN 
+drug|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+c|NN c|NN 
+acneiform|NN eruption|NN 
+clinic|NN in|NN dermatology|NN review|NN 
+1|NN 
+p|NN 
+pmid|NN http|NN 
+b|NN kumari|NN r|NN thappa|NN dm|NN 
+system|NN in|NN acne|DS vulgaris|NN http|NN pdf|NN 
+journal|NN of|NN dermatology|NN venereology|NN leprology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+zhao|NN ye|NN hu|NN l|NN wu|NN lp|NN ma|NN jx|NN 
+of|NN association|NN acne|DS vulgaris|NN demodex|NN infestation|NN http|NN 
+journal|NN of|NN zhejiang|NN university|NN 
+science|NN 
+b|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+d|NN 
+evaluation|NN of|NN acne|DS scar|NN patient|NN 
+dermatologic|NN clinic|NN review|NN 
+2|NN 
+s|NN 
+pmid|NN http|NN 
+levy|NN ll|NN zeichner|NN ja|NN 
+management|NN of|NN acne|DS scar|NN part|NN ii|NN review|NN of|NN approach|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+viera|NN m|NN 
+management|NN of|NN acne|DS scar|NN duty|NN of|NN care|NN patient|NN 
+journal|NN of|NN dermatology|NN review|NN 
+1|NN 1|NN 
+http|NN 
+pmid|NN http|NN 
+jf|NN alster|NN t|NN 
+management|NN of|NN acne|DS scar|NN part|NN i|NN review|NN of|NN laser|NN approach|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+chandra|NN m|NN j|NN pensabene|NN 
+hydroquinone|NN therapy|NN hyperpigmentation|DS acne|DS dermatologist|NN 
+review|NN 
+http|NN 
+pmid|NN http|NN 
+yin|NN nc|NN mcmichael|NN aj|NN 
+acne|DS in|NN patient|NN skin|NN of|NN color|NN management|NN 
+journal|NN of|NN dermatology|NN review|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+callender|NN vd|NN s|NN ec|NN maclin|NN m|NN 
+hyperpigmentation|DS etiologic|NN consideration|NN 
+journal|NN of|NN dermatology|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+rigopoulos|NN e|NN c|NN 
+acne|DS smoke|NN 
+in|NN zouboulis|NN c|NN kligman|NN ed|NN 
+pathogenesis|NN treatment|NN of|NN acne|DS rosacea|DS 
+berlin|NN verlag|NN 
+pp|NN 
+acne|DS overview|NN http|NN 
+health|NN 
+cologne|NN institute|NN quality|NN efficiency|NN in|NN health|NN care|NN 
+p|NN september|NN march|NN 
+connection|NN smoke|NN acne|DS 
+yang|NN jk|NN wu|NN wj|NN j|NN zhang|NN yp|NN 
+polymorphism|NN risk|NN of|NN acne|DS vulgaris|NN http|NN 
+plo|NN review|NN 
+2|NN e87806|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+fitzpatrick|NN tb|NN 
+fitzpatrick|NN color|NN atlas|NN synopsis|NN of|NN dermatology|NN 
+york|NN pub|NN 
+division|NN 
+hoeger|NN ph|NN irvine|NN ad|NN ac|NN 
+chapter|NN acne|DS 
+harper|NN textbook|NN of|NN dermatology|NN 
+jersey|NN 
+ar|NN rosso|NN jq|NN webster|NN g|NN ed|NN 
+march|NN 
+acne|DS vulgaris|NN http|NN 
+press|NN 
+pp|NN 
+http|NN ok|NN december|NN 
+zouboulis|NN cc|NN katsambas|NN ad|NN kligman|NN ed|NN 
+july|NN 
+pathogenesis|NN treatment|NN of|NN acne|DS rosacea|DS http|NN 
+springer|NN 
+pp|NN 
+http|NN december|NN 
+s|NN reynolds|NN 
+advance|NN in|NN acne|DS pathogenesis|NN implication|NN therapy|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+e|NN reynolds|NN 
+syndrome|NN review|NN dermatologist|NN part|NN diagnosis|NN manifestation|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+yl|NN tey|NN hl|NN 
+treatment|NN of|NN acne|DS vulgaris|NN pregnancy|NN lactation|NN 
+drug|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+melnik|NN b|NN jansen|NN t|NN grabbe|NN s|NN 
+abuse|NN of|NN steroid|NN acne|DS health|NN problem|NN 
+der|NN deutschen|NN dermatologischen|NN gesellschaft|NN journal|NN of|NN society|NN of|NN dermatology|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+joseph|NN jf|NN parr|NN mk|NN 
+androgen|NN designer|NN supplement|NN s|NN 
+neuropharmacology|NN review|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+t|NN 
+immunotherapy|NN acne|DS vulgaris|NN status|NN direction|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+bhate|NN k|NN hc|NN 
+in|NN acne|DS 
+analysis|NN of|NN review|NN in|NN 
+dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+davidovici|NN bb|NN wolf|NN r|NN 
+role|NN of|NN in|NN acne|DS fact|NN controversy|NN 
+clinic|NN in|NN dermatology|NN review|NN 
+1|NN 
+s|NN 
+pmid|NN http|NN 
+t|NN ec|NN rao|NN bk|NN 
+diet|NN in|NN dermatology|NN part|NN atopic_dermatitis|DS acne|DS skin_cancer|DS 
+journal|NN of|NN academy|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+melnik|NN bc|NN john|NN sm|NN plewig|NN g|NN 
+acne|DS risk|NN indicator|NN body|NN mass|NN index|NN insulin|NN resistance|NN 
+review|NN 
+http|NN 
+pmid|NN http|NN 
+hr|NN s|NN 
+acne|DS 
+http|NN 
+skin|NN therapy|NN letter|NN review|NN 
+pmid|NN http|NN 
+http|NN 
+melnik|NN bc|NN 
+evidence|NN effect|NN of|NN milk|NN insulinotropic|NN dairy|NN product|NN 
+milk|NN milk|NN product|NN in|NN human|NN nutrition|NN 
+nutrition|NN workshop|NN series|NN 
+programme|NN 
+nutrition|NN institute|NN workshop|NN series|NN program|NN 
+pp|NN 
+http|NN 
+pmid|NN http|NN 
+brescoll|NN j|NN daveluy|NN s|NN 
+review|NN of|NN vitamin|NN b12|NN in|NN dermatology|NN 
+journal|NN of|NN dermatology|NN review|NN 
+1|NN 
+ttps|NN 
+pmid|NN http|NN 
+acne|DS http|NN 
+webmd|NN 
+leach|NN o|NN boxel|NN gi|NN 
+crash|NN course|NN medicine|NN http|NN 
+health|NN science|NN 
+isbn|NN 
+orion|NN e|NN wolf|NN r|NN 
+factor|NN in|NN development|NN of|NN dermatosis|NN 
+clinic|NN in|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+e|NN ma|NN 
+manifestation|NN of|NN stress|NN in|NN population|NN 
+clinic|NN of|NN america|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+question|NN answer|NN acne|DS http|NN sp|NN 
+institute|NN of|NN arthritis|DS musculoskeletal|NN skin|NN disease|NN 
+http|NN 2|NN 
+basak|NN sa|NN zaenglein|NN al|NN 
+acne|DS management|NN 
+pediatrics|NN in|NN review|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+lynde|NN cw|NN 
+resistance|NN paradigm|NN in|NN acne|DS treatment|NN 
+journal|NN of|NN drug|NN in|NN dermatology|NN review|NN 
+pmid|NN http|NN 
+hammer|NN ka|NN 
+treatment|NN of|NN acne|DS oil|NN melaleuca|NN product|NN review|NN of|NN efficacy|NN tolerability|NN mode|NN of|NN action|NN 
+journal|NN of|NN agent|NN review|NN 
+2|NN 
+s|NN 
+pmid|NN http|NN 
+sieber|NN ma|NN hegel|NN jk|NN 
+acid|NN property|NN mode|NN of|NN action|NN 
+skin|NN pharmacology|NN physiology|NN review|NN 
+1|NN 1|NN 
+http|NN 
+pmid|NN http|NN 
+simpson|NN nb|NN cunliffe|NN wj|NN 
+disorder|NN of|NN gland|NN 
+in|NN burn|NN tony|NN breathnach|NN stephen|NN cox|NN griffith|NN christopher|NN ed|NN 
+rook|NN textbook|NN of|NN dermatology|NN 
+malden|NN mass|NN 
+blackwell|NN science|NN 
+pp|NN 
+jk|NN jones|NN e|NN pripotnev|NN s|NN wolfe|NN b|NN 
+evaluation|NN of|NN component|NN feature|NN of|NN acne|DS grade|NN scale|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+chiang|NN hafeez|NN f|NN maibach|NN hi|NN 
+skin|NN lesion|NN metric|NN role|NN of|NN photography|NN in|NN acne|DS 
+journal|NN of|NN treatment|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+o|NN brien|NN sc|NN jb|NN cunliffe|NN wj|NN 
+leeds|NN acne|DS system|NN http|NN pdf|NN 
+leeds|NN hospital|NN 
+pdf|NN 
+s|NN deberker|NN d|NN 
+acne|DS vulgaris|NN http|NN 
+evidence|NN review|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+del|NN rosso|NN jq|NN n|NN zeichner|NN ja|NN 
+acne|DS acne|DS http|NN 
+dermatologic|NN clinic|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+cb|NN cohen|NN sn|NN baron|NN se|NN 
+guidance|NN diagnosis|NN management|NN of|NN acne|DS 
+dermatology|NN review|NN 
+1|NN 1|NN 
+http|NN 
+pmid|NN http|NN 
+kanerva|NN l|NN elsner|NN p|NN wahlberg|NN jh|NN maibach|NN hi|NN ed|NN 
+handbook|NN of|NN occupational|NN dermatology|NN http|NN 
+springer|NN science|NN business|NN media|NN 
+http|NN 
+1|NN september|NN 
+m|NN carneiro|NN sc|NN 
+acne|DS vulgaris|NN review|NN guideline|NN 
+dermatology|NN nurse|NN review|NN 
+2|NN http|NN 
+t|NN 
+approach|NN treatment|NN of|NN acne|DS vulgaris|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+zaenglein|NN al|NN al|NN schlosser|NN bj|NN baldwin|NN d|NN al|NN 
+guideline|NN of|NN care|NN management|NN of|NN acne|DS vulgaris|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN review|NN 
+p|NN 
+pmid|NN http|NN 
+mt|NN n|NN poli|NN f|NN claudel|NN jp|NN corvec|NN s|NN dreno|NN b|NN 
+acne|DS treatment|NN in|NN europe|NN issue|NN of|NN resistance|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN venereology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN j|NN dawson|NN petersen|NN b|NN mclaughlin|NN l|NN al|NN 
+june|NN 
+treatment|NN of|NN acne|DS vulgaris|NN review|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN yentzer|NN ba|NN sr|NN 
+peroxide|NN review|NN of|NN use|NN in|NN treatment|NN of|NN acne|DS vulgaris|NN 
+opinion|NN pharmacotherapy|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+brandstetter|NN aj|NN maibach|NN hi|NN 
+justification|NN benzoyl|NN peroxide|NN concentration|NN 
+journal|NN of|NN treatment|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+riahi|NN rr|NN bush|NN ae|NN cohen|NN pr|NN 
+retinoids|NN mechanism|NN in|NN treatment|NN of|NN skin|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+drug|NN trial|NN snapshot|NN aklief|NN http|NN 
+food|NN drug|NN administration|NN 
+http|NN article|NN source|NN in|NN domain|NN 
+c|NN p|NN angelini|NN g|NN bonamonte|NN d|NN corazza|NN m|NN 
+contact|NN dermatitis|DS acne|DS drug|NN review|NN of|NN literature|NN 
+therapy|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+c|NN bagatin|NN e|NN martimbianco|NN al|NN da|NN silva|NN em|NN mm|NN magin|NN p|NN riera|NN r|NN 
+isotretinoin|NN acne|DS http|NN c6383843|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd009435|NN 
+http|NN b2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+j|NN boyal|NN s|NN desai|NN k|NN s|NN 
+isotretinoin|NN development|NN practice|NN 
+dermatologic|NN clinic|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+prevost|NN n|NN jc|NN 
+isotretinoin|NN update|NN issue|NN 
+journal|NN of|NN gynecology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+tr|NN j|NN dréno|NN b|NN 
+review|NN of|NN resistance|NN in|NN acne|DS threat|NN http|NN pdf|NN 
+lancet|NN 
+disease|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+garner|NN se|NN bennett|NN c|NN jn|NN thomas|NN k|NN popescu|NN cm|NN 
+minocycline|NN acne|DS vulgaris|NN efficacy|NN safety|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd002086|NN 
+http|NN 
+pmid|NN http|NN 
+ao|NN gallo|NN mf|NN lm|NN grime|NN 
+contraceptive|NN pill|NN treatment|NN of|NN acne|DS 
+cochrane|NN database|NN of|NN review|NN review|NN 
+cd004425|NN 
+s|NN 
+pmid|NN http|NN 
+kuhl|NN 
+contraception|NN 
+estrogen|NN antiestrogens|NN ii|NN 
+handbook|NN of|NN pharmacology|NN 
+pp|NN 
+p|NN 
+http|NN 
+kamangar|NN f|NN k|NN 
+acne|DS in|NN adult|NN patient|NN approach|NN 
+journal|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+kuhl|NN h|NN 
+pharmacology|NN of|NN estrogen|NN progestogen|NN influence|NN of|NN route|NN of|NN administration|NN http|NN 2|NN pdf|NN 
+climacteric|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+duarte|NN fh|NN jallad|NN r|NN bronstein|NN md|NN 
+estrogen|NN estrogen|NN receptor|NN modulators|NN in|NN acromegaly|NN 
+endocrine|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+kuhl|NN 
+metabolische|NN der|NN östrogene|NN gestagene|NN effect|NN of|NN estrogen|NN progestogen|NN 
+der|NN gynäkologe|NN in|NN german|NN 
+http|NN 
+s|NN 
+wiegratz|NN i|NN kuhl|NN h|NN 
+manifestation|NN of|NN disorder|NN role|NN of|NN contraceptive|NN 
+treatment|NN in|NN endocrinology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+ao|NN gallo|NN mf|NN lm|NN grime|NN 
+contraceptive|NN pill|NN treatment|NN of|NN acne|DS 
+cochrane|NN database|NN of|NN review|NN cd004425|NN 
+http|NN ub6|NN 
+pmid|NN http|NN 
+powell|NN 
+contraceptive|NN pill|NN teen|NN 
+clinic|NN of|NN america|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN milewska|NN e|NN rynio|NN p|NN męczekalski|NN b|NN 
+use|NN of|NN contraceptive|NN management|NN of|NN acne|DS vulgaris|NN hirsutism|ST in|NN woman|NN of|NN late|NN age|NN http|NN 
+przeglad|NN menopauzalny|NN menopause|NN review|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN pmc5925193|NN 
+pmid|NN http|NN 
+koo|NN eb|NN petersen|NN td|NN ab|NN 
+efficacy|NN of|NN antibiotic|NN contraceptive|NN in|NN acne|DS vulgaris|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+layton|NN ea|NN whitehouse|NN h|NN rosso|NN jq|NN z|NN zuuren|NN ej|NN 
+spironolactone|NN acne|DS vulgaris|NN in|NN adult|NN female|NN review|NN http|NN 
+journal|NN of|NN dermatology|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN c5360829|NN 
+pmid|NN http|NN 
+bettoli|NN v|NN zauli|NN s|NN july|NN 
+treatment|NN option|NN in|NN acne|DS today|NN 
+journal|NN of|NN dermatology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+e|NN 
+treatment|NN antiandrogen|NN in|NN patient|NN syndrome|NN 
+journal|NN of|NN investigation|NN 
+http|NN 
+pmid|NN http|NN 
+ward|NN rn|NN heel|NN rc|NN tm|NN avery|NN g|NN 
+isotretinoin|NN 
+review|NN of|NN property|NN efficacy|NN in|NN acne|DS skin|NN disorder|NN 
+drug|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rasmusson|NN 
+chemical|NN control|NN of|NN action|NN 
+report|NN in|NN chemistry|NN 
+pp|NN 
+http|NN 
+isbn|NN p|NN 
+giltay|NN ej|NN gooren|NN lj|NN 
+side|NN effect|NN of|NN deprivation|NN treatment|NN in|NN sex|NN offender|NN 
+journal|NN of|NN academy|NN of|NN psychiatry|NN law|NN 
+1|NN 
+pmid|NN http|NN 
+s|NN sicco|NN k|NN marchbein|NN s|NN j|NN nagler|NN ar|NN 2019|NN 
+androgen|NN in|NN woman|NN therapy|NN skin|NN disease|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN 
+p|NN 
+pmid|NN http|NN 
+md|NN kinney|NN ma|NN mcshane|NN db|NN burkhart|NN cn|NN morrell|NN d|NN 
+effect|NN of|NN acne|DS medication|NN recognition|NN management|NN 
+journal|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+h|NN 
+management|NN of|NN acne|DS vulgaris|NN therapy|NN in|NN patient|NN 
+therapy|NN 
+http|NN 
+pmid|NN http|NN 
+hl|NN tollefson|NN mm|NN 
+endocrine|NN disorder|NN therapy|NN acne|DS 
+opinion|NN in|NN pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+e|NN 
+aspect|NN of|NN antiandrogen|NN therapy|NN in|NN woman|NN http|NN 
+design|NN 
+pmid|NN http|NN 
+shelley|NN wb|NN shelley|NN ed|NN 
+dermatologic|NN therapy|NN ii|NN http|NN 
+saunders|NN 
+balen|NN frank|NN r|NN s|NN 
+management|NN of|NN syndrome|NN http|NN 
+cambridge|NN university|NN press|NN 
+pp|NN 
+trivedi|NN mk|NN shinkai|NN k|NN murase|NN je|NN 
+review|NN of|NN therapy|NN adult|NN acne|DS vulgaris|NN in|NN woman|NN http|NN 
+journal|NN of|NN woman|NN dermatology|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+giorgetti|NN r|NN m|NN girolami|NN d|NN borgia|NN l|NN march|NN 
+hepatotoxicity|NN issue|NN 
+review|NN science|NN 
+1|NN suppl|NN 
+pmid|NN http|NN 
+c|NN ö|NN bastu|NN e|NN fg|NN 
+hirsutism|ST acne|DS hair_loss|DS management|NN of|NN manifestation|NN of|NN syndrome|NN 
+gynecology|NN obstetrics|NN medicine|NN http|NN 
+http|NN 
+barros|NN b|NN thiboutot|NN d|NN 
+therapy|NN acne|DS 
+clinic|NN in|NN dermatology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+blackledge|NN gr|NN 
+progress|NN antiandrogen|NN casodex|NN bicalutamide|NN 
+urology|NN 
+2|NN 2|NN 
+http|NN 
+pmid|NN http|NN 
+y|NN 
+bicalutamide|NN casodex|NN in|NN treatment|NN of|NN prostate_cancer|DS 
+review|NN of|NN anticancer|NN therapy|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+hassoun|NN la|NN d|NN rk|NN ln|NN 
+use|NN of|NN agent|NN in|NN treatment|NN of|NN acne|DS 
+seminar|NN in|NN medicine|NN surgery|NN 
+2|NN http|NN 
+pmid|NN http|NN 
+marson|NN jw|NN baldwin|NN 2019|NN 
+concept|NN concern|NN creation|NN in|NN acne|DS 
+dermatologic|NN clinic|NN review|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+timmins|NN peter|NN 
+industry|NN update|NN development|NN in|NN field|NN of|NN delivery|NN july|NN 
+delivery|NN review|NN 
+http|NN 
+trivedi|NN mk|NN bosanac|NN s|NN rk|NN ln|NN 
+therapy|NN acne|DS vulgaris|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+au|NN schlosser|NN bj|NN paller|NN 
+review|NN of|NN diagnosis|NN treatment|NN of|NN acne|DS in|NN patient|NN http|NN 
+journal|NN of|NN woman|NN dermatology|NN review|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+aslam|NN i|NN s|NN 
+drug|NN treatment|NN of|NN acne|DS 
+opinion|NN drug|NN 
+1|NN 
+tps|NN 
+pmid|NN http|NN 
+f|NN n|NN mohler|NN j|NN 
+role|NN of|NN inhibitor|NN in|NN skin|NN disorder|NN 
+journal|NN of|NN drug|NN in|NN dermatology|NN 
+2|NN 
+pmid|NN http|NN 
+danby|NN fw|NN 
+acne|DS cause|NN management|NN http|NN 
+john|NN wiley|NN son|NN 
+pp|NN 
+marchetti|NN pm|NN barth|NN jh|NN 
+biochemistry|NN of|NN dihydrotestosterone|NN 
+annals|NN of|NN biochemistry|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+katsambas|NN ad|NN c|NN 
+therapy|NN acne|DS line|NN therapy|NN 
+fact|NN controversy|NN 
+clinic|NN in|NN dermatology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+pugashetti|NN r|NN k|NN 
+treatment|NN of|NN acne|DS vulgaris|NN in|NN patient|NN 
+therapy|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+morelli|NN v|NN calmet|NN e|NN jhingade|NN v|NN 
+therapy|NN common|NN dermatologic|NN disorder|NN part|NN 2|NN 
+care|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN 
+institute|NN of|NN health|NN 
+http|NN september|NN september|NN 
+madan|NN rk|NN j|NN 
+review|NN of|NN toxicity|NN acid|NN preparation|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+d|NN 
+acne|DS vulgaris|NN review|NN of|NN cause|NN treatment|NN option|NN 
+practitioner|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+rolfe|NN hm|NN 
+review|NN of|NN treatment|NN of|NN skin|NN disease|NN side|NN effect|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+brandt|NN s|NN 
+effect|NN of|NN zinc|NN agent|NN response|NN mechanism|NN of|NN acne|DS review|NN of|NN literature|NN 
+journal|NN of|NN drug|NN in|NN dermatology|NN review|NN 
+pmid|NN http|NN 
+layton|NN 
+list|NN of|NN pearl|NN in|NN treatment|NN of|NN acne|DS vulgaris|NN 
+dermatologic|NN clinic|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+tyler|NN kh|NN 
+therapy|NN in|NN pregnancy|NN 
+obstetrics|NN gynecology|NN review|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+fm|NN ormerod|NN ad|NN 
+management|NN of|NN acne|DS vulgaris|NN in|NN pregnancy|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+bolognia|NN jl|NN jorizzo|NN jl|NN 
+dermatology|NN 
+louis|NN mo|NN 
+mosby|NN elsevier|NN 
+isbn|NN 
+posadzki|NN p|NN car|NN j|NN 
+therapy|NN acne|DS 
+jama|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+hamilton|NN fl|NN car|NN j|NN lyon|NN car|NN m|NN 
+laser|NN therapy|NN treatment|NN of|NN acne|DS vulgaris|NN review|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+j|NN abbott|NN r|NN posadzki|NN p|NN car|NN m|NN gunn|NN lh|NN layton|NN al|NN 
+therapy|NN acne|DS http|NN e|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd007917|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cohen|NN 
+microneedling|NN in|NN skin|NN of|NN color|NN review|NN of|NN us|NN efficacy|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+mw|NN bashir|NN sj|NN 
+laser|NN acne|DS scar|NN review|NN 
+journal|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+abdel|NN hay|NN r|NN shalaby|NN k|NN zaher|NN h|NN hafez|NN v|NN chi|NN cc|NN dimitri|NN s|NN al|NN 
+intervention|NN acne|DS scar|NN 
+cochrane|NN database|NN of|NN review|NN review|NN 
+cd011946|NN 
+http|NN 
+pmid|NN http|NN 
+y|NN horowitz|NN r|NN hashim|NN pw|NN jk|NN farberg|NN g|NN 
+update|NN acne|DS scar|NN treatment|NN http|NN 
+cutis|NN review|NN 
+1|NN pmid|NN http|NN 
+m|NN pahwa|NN p|NN july|NN 
+track|NN effect|NN treatment|NN of|NN acne|DS scar|NN microneedling|NN device|NN 
+dermatologic|NN surgery|NN case|NN report|NN literature|NN review|NN 
+1|NN 
+http|NN 1|NN 
+pmid|NN http|NN 
+j|NN goldenberg|NN g|NN 
+acne|DS scar|NN review|NN of|NN therapy|NN 
+cutis|NN review|NN 
+pmid|NN http|NN 
+kroepfl|NN l|NN emer|NN jj|NN 
+combination|NN therapy|NN acne|DS scar|NN experience|NN suggestion|NN 
+journal|NN of|NN drug|NN in|NN dermatology|NN review|NN 
+pmid|NN http|NN 
+la|NN sg|NN t|NN taylor|NN m|NN 
+acne|DS scar|NN treatment|NN multimodality|NN approach|NN type|NN 
+dermatologic|NN surgery|NN review|NN 
+2|NN 2|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+cao|NN h|NN yang|NN g|NN wang|NN y|NN jp|NN smith|NN h|NN y|NN 
+therapy|NN acne|DS vulgaris|NN http|NN 
+cochrane|NN database|NN of|NN review|NN review|NN 
+1|NN cd009436|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+wa|NN ha|NN rk|NN 
+therapy|NN of|NN acne|DS review|NN 
+phytotherapy|NN research|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+decker|NN graber|NN em|NN 
+acne|DS treatment|NN review|NN http|NN 
+journal|NN of|NN dermatology|NN review|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+g|NN 
+cleanse|NN moisturize|NN in|NN acne|DS patient|NN 
+journal|NN of|NN dermatology|NN review|NN 
+1|NN 1|NN 
+http|NN 
+pmid|NN http|NN 
+bajaj|NN l|NN berman|NN s|NN 
+berman|NN decision|NN make|NN http|NN ooks|NN 
+health|NN science|NN 
+http|NN 
+september|NN 
+bope|NN et|NN kellerman|NN rd|NN 
+conn|NN therapy|NN expert|NN consult|NN online|NN p|NN 
+http|NN book|NN september|NN 
+berger|NN jam|NN dirk|NN elston|NN 
+andrew|NN disease|NN of|NN skin|NN dermatology|NN 
+london|NN elsevier|NN 
+isbn|NN 
+vos|NN t|NN ad|NN m|NN lozano|NN r|NN michaud|NN c|NN m|NN al|NN 
+year|NN disability|NN ylds|NN sequela|NN of|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+holzmann|NN r|NN shakery|NN k|NN 
+postadolescent|NN acne|DS in|NN female|NN 
+skin|NN pharmacology|NN physiology|NN review|NN 
+1|NN 1|NN 
+http|NN 
+pmid|NN http|NN 
+sk|NN af|NN 
+acne|DS in|NN skin|NN of|NN color|NN approach|NN treatment|NN 
+journal|NN of|NN treatment|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+jk|NN bhate|NN k|NN 
+perspective|NN epidemiology|NN of|NN acne|DS 
+journal|NN of|NN dermatology|NN review|NN 
+1|NN 1|NN 
+http|NN 
+pmid|NN http|NN 
+white|NN gm|NN 
+find|NN in|NN evidence|NN classification|NN subtypes|NN of|NN acne|DS vulgaris|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+keri|NN j|NN m|NN 
+update|NN management|NN of|NN acne|DS vulgaris|NN http|NN 
+dermatology|NN review|NN 
+2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+till|NN 
+acne|DS pathogenesis|NN history|NN of|NN concept|NN 
+dermatology|NN review|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+bolognia|NN jl|NN jorizzo|NN jl|NN 
+dermatology|NN 
+louis|NN mo|NN 
+mosby|NN elsevier|NN 
+isbn|NN 
+brumberg|NN jj|NN june|NN 
+skin|NN http|NN c|NN 
+body|NN project|NN history|NN of|NN girl|NN 
+knopf|NN publish|NN group|NN 
+pp|NN 
+isbn|NN http|NN march|NN 
+bulkley|NN ld|NN 
+acne|DS etiology|NN pathology|NN treatment|NN http|NN ooks|NN 
+york|NN 
+putnam|NN son|NN 
+http|NN march|NN 
+m|NN 
+peroxide|NN efficacy|NN in|NN acne|DS management|NN http|NN 
+skin|NN therapy|NN letter|NN review|NN 
+pmid|NN http|NN 
+http|NN 
+tretinoin|NN acid|NN in|NN acne|DS 
+letter|NN drug|NN therapeutic|NN 
+1|NN pmid|NN http|NN 
+jones|NN blanc|NN d|NN cunliffe|NN wj|NN 
+retinoic|NN acid|NN acne|DS 
+lancet|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+bérard|NN azoulay|NN l|NN g|NN blais|NN l|NN perreault|NN s|NN d|NN 
+isotretinoin|NN pregnancy|NN abortion|NN birth_defect|DS perspective|NN http|NN 
+journal|NN of|NN pharmacology|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+holmes|NN bankowska|NN u|NN mackie|NN rm|NN 
+prescription|NN of|NN isotretinoin|NN woman|NN precaution|NN 
+journal|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+rg|NN 
+soap|NN dry|NN ice|NN treatment|NN acne|DS http|NN 
+family|NN physician|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hc|NN 
+treatment|NN of|NN acne|DS vulgaris|NN http|NN 
+journal|NN review|NN 
+1|NN 
+http|NN 
+pmc|NN tps|NN 
+pmid|NN http|NN 
+acne|DS vulgaris|NN treatment|NN 
+journal|NN of|NN medicine|NN 
+december|NN http|NN 
+sale|NN of|NN acne|DS brand|NN in|NN state|NN in|NN in|NN dollar|NN s|NN 
+statista|NN statistic|NN 
+http|NN march|NN march|NN 
+g|NN 
+acne|DS history|NN fact|NN myth|NN http|NN pdf|NN 
+family|NN physician|NN review|NN 
+pmid|NN http|NN 
+http|NN pdf|NN 
+mm|NN chamlin|NN sl|NN ac|NN 
+quality|NN of|NN life|NN in|NN dermatology|NN 
+dermatologic|NN clinic|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+md|NN howson|NN km|NN bojar|NN ra|NN d|NN towler|NN jc|NN parry|NN j|NN al|NN 
+june|NN 
+sequence|NN analysis|NN of|NN propionibacterium|NN bacteriophage|NN http|NN 
+journal|NN of|NN bacteriology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kl|NN yim|NN e|NN je|NN 
+probiotic|NN prebiotics|NN in|NN dermatology|NN 
+journal|NN of|NN academy|NN of|NN dermatology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+pf|NN hsieh|NN yd|NN lin|NN yc|NN shu|NN cw|NN huang|NN cm|NN 
+propionibacterium|NN acne|DS in|NN pathogenesis|NN immunotherapy|NN of|NN acne|DS vulgaris|NN 
+drug|NN metabolism|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+mackenzie|NN in|NN development|NN vaccine|NN acne|DS http|NN vrobmbql6qy|NN 
+scientist|NN 
+http|NN vrobmbql6qy|NN 2|NN march|NN 
+white|NN sd|NN bordeau|NN pb|NN blumstein|NN p|NN ibisch|NN c|NN guaguère|NN e|NN denerolle|NN p|NN carlotti|NN dn|NN scott|NN kv|NN 1|NN september|NN 
+feline|NN acne|DS result|NN of|NN treatment|NN mupirocin|NN in|NN trial|NN case|NN 
+dermatology|NN 
+http|NN 
+medicine|NN http|NN 
+http|NN ok|NN march|NN 
+radostits|NN cc|NN hinchcliff|NN kw|NN pd|NN december|NN 
+medicine|NN textbook|NN of|NN disease|NN of|NN cattle|NN horse|NN sheep|NN pig|NN goat|NN http|NN 
+health|NN science|NN 
+isbn|NN http|NN march|NN 
+white|NN d|NN 
+of|NN principle|NN practice|NN of|NN medicine|NN http|NN 
+lea|NN febiger|NN 
+s|NN aaj|NN march|NN paller|NN aj|NN 
+hurwitz|NN dermatology|NN textbook|NN of|NN skin|NN disorder|NN of|NN childhood|NN adolescence|NN 
+elsevier|NN 
+cordain|NN l|NN s|NN hurtado|NN m|NN hill|NN k|NN eaton|NN sb|NN j|NN 
+acne|DS vulgaris|NN disease|NN of|NN civilization|NN 
+archive|NN of|NN dermatology|NN 
+http|NN 
+pmid|NN http|NN 
+del|NN rosso|NN jq|NN 
+role|NN of|NN skin|NN care|NN component|NN in|NN management|NN of|NN acne|DS vulgaris|NN part|NN 1|NN importance|NN of|NN cleanser|NN moisturizer|NN ingredient|NN design|NN product|NN selection|NN http|NN 
+journal|NN of|NN dermatology|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+link|NN media|NN acne|DS common|NN classification|NN d|NN question|NN answer|NN acne|DS http|NN institute|NN of|NN arthritis|DS musculoskeletal|NN skin|NN disease|NN http|NN mesh|NN d000152|NN http|NN i|NN diseasesdb|NN http|NN medlineplus|NN http|NN emedicine|NN http|NN 
+uk|NN acne|DS http|NN s|NN resource|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

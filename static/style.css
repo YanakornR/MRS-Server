@@ -1,0 +1,565 @@
+/* Interface background */
+.background{
+    background-image: url('image/back-ground.jpg');
+    background-size: cover;
+}
+#head-block{
+    position: relative;
+}
+#logo-block {
+    position: absolute;
+    left: 10px;
+    color: rgb(243, 126, 47);
+   
+}
+/* Search Box */
+#custom-search-input {
+    margin:0;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    padding: 0;
+    
+}
+ 
+#custom-search-input .search-query {
+    padding-right: 3px;
+    padding-right: 4px \9;
+    padding-left: 3px;
+    padding-left: 4px \9;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+ 
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background-color:rgba(123, 139, 150, 0.3);
+    color: rgb(253, 253, 255);
+}
+ 
+#custom-search-input button {
+    border: 0;
+    background: none;
+    /** belows styles are working good */
+    padding: 2px 5px;
+    margin-top: 2px;
+    position: relative;
+    left: -28px;
+    /* IE7-8 doesn't have border-radius, so don't indent the padding */
+    margin-bottom: 0;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color:rgb(15, 153, 217);
+}
+ 
+.search-query:focus + button {
+    z-index: 3;   
+}
+
+/* symptoms block */
+#symptoms-block{
+    display: block;
+    position: relative;
+    margin-left: 10px;
+    width: 383px;
+    padding: 5px;
+    font-family: "Arial"; font-size: 11pt;
+    font-weight: bold;
+    background-color: rgb(42, 76, 126,.5);
+    text-align: left;
+  
+}
+
+.symplist{
+    color: rgb(156, 204, 236);
+}
+
+
+.sympclosebtn {
+    border-radius: 100px;
+    font-size: 10px;
+    border: none;
+    position: absolute;
+    right: 5%;
+    font-weight: bold;
+    color: rgb(235, 247, 255);
+    background-color: rgb(5, 100, 163);
+    
+  }
+  
+.sympclosebtn:hover {
+    color: rgb(5, 100, 163);
+    background: rgb(156, 204, 236);
+
+    
+}
+
+.symptominput-list{
+    margin-left: 40px;
+    background-color: rgb(42, 76, 126,.5);
+    border: none;
+    border-radius: 3px;
+    width: 250px;
+    color:rgb(156, 204, 236);
+}
+.symptomaddbtn{
+    background: rgb(1, 103, 185,.5);
+    padding: 4px 6px;
+    font-size: 12px;
+    border: none;
+    border-radius: 15%;
+    color: white;
+    font-weight: bold;
+}
+.symptomaddbtn:hover{
+    color: rgb(5, 100, 163);
+    background: rgb(156, 204, 236);
+}
+.symptomsubmitbtn{
+    margin: 0 auto;
+    background: rgba(3, 61, 109, 0.5);
+    padding: 4px 6px;
+    font-size: 12px;
+    border: none;
+    border-radius: 15%;
+    color: white;
+    font-weight: bold;
+}
+
+.symptomsubmitbtn:hover {
+    color: rgb(5, 100, 163);
+    background: rgb(166, 203, 228);
+}
+.symptomcancelbtn{
+  margin: 0 auto;
+  background: rgba(122, 22, 4, 0.911);
+  padding: 4px 6px;
+  font-size: 12px;
+  border: none;
+  border-radius: 15%;
+  color: white;
+  font-weight: bold;
+}
+
+.symptomcancelbtn:hover {
+  color: rgba(88, 18, 6, 0.774);
+  background: rgba(253, 42, 5, 0.712);
+}
+.symptomstable{
+  position: relative;
+  width: 383px;
+  margin-top: 2px;
+  margin-left: 10px;
+  color: rgb(156, 204, 236);
+}
+.symptomstable td{
+  padding: 5px;
+  font-family: Arial; font-size: 10pt;
+  font-weight: bold;
+  background-color: rgba(42, 76, 126, 0);
+}
+/* Result Table */
+
+table {
+    position: relative;
+    width: 383px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: rgb(156, 204, 236);
+   
+}
+th{
+    font-family: "Arial"; font-size: 11pt;
+    background-color: rgb(42, 76, 126,.5);
+}
+td{
+    padding: 5px;
+    font-family: Arial; font-size: 10pt;
+    font-weight: bold;
+    background-color: rgb(42, 76, 126,.5);
+}
+
+
+/* Main Division */
+#block-main
+{
+    position: relative;
+    text-align:center;
+}
+/* Result table block */
+#block-result
+{
+    position: absolute;
+    left: 0px;
+    display:inline-block;
+}
+/* Fish eye block */
+#block-eyefish{
+    position: absolute;
+    top: 30%;
+    display:inline-block;
+}
+/* disease circle*/
+#disease-circle{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background: rgb(161, 157, 157,.3);
+    border-radius: 100%;
+    border-style: solid;
+    border-color: rgb(240, 85, 28);
+    border-width: 10px;
+  }
+
+/*Node Hover*/
+div.tooltip {	
+    position: absolute;		
+    text-align: center;			
+   	padding: 2px;				
+    font: 14px sans-serif;	font-weight: bold;	
+    color: rgb(240, 244, 247);
+    background: rgb(44, 129, 240);	
+    border: 0px;		
+    border-radius: 8px;			
+    	
+}
+
+/*Right click on node and show menu*/
+.context-menu {
+    position: absolute;
+    display: none;
+    background-color: #f2f2f2;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    min-width: 90px;
+    border: 1px solid #d4d4d4;
+    z-index: 1200;
+  }
+  
+  .context-menu ul {
+    list-style-type: none;
+    margin: 2px 0px;
+    padding: 0px;
+    cursor: default;
+  }
+  
+  .context-menu ul li {
+    padding: 4px 16px;
+  }
+  
+  .context-menu ul li:hover {
+    background-color: #4677f8;
+    color: #fefefe;
+  }
+
+
+  /*Slider*/
+  #slider-box {
+    position: absolute;
+    right: 50px;
+    top: 500px;
+  }
+  .edgeslider{
+    position: absolute;
+    right: 50px;
+    top: 530px;
+    -webkit-appearance: none;
+    width: 200px;
+    height: 15px;
+    border-radius: 5px;
+    background: #3c85da;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    /*transform: rotate(270deg);
+    -moz-transform: rotate(270deg); /*do same for other browsers if required*/
+  }
+  .edgeslider:hover {
+    opacity: 1;
+  }
+  .edgeslider::-webkit-slider-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border-width: 4px;
+    background: rgb(255, 60, 0);
+    cursor: pointer;
+  }
+  
+  .edgeslider::-moz-range-thumb {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border-width: 4px;
+    background: rgb(255, 60, 0);
+    cursor: pointer;
+  }
+
+  /* Symptoms button */
+.symptombtn {
+       
+    background: rgb(1, 103, 185,.5);
+    padding: 4px 6px;
+    font-size: 12px;
+    border: none;
+    border-radius: 15%;
+    color: white;
+    font-weight: bold;
+    
+  }
+  
+.symptombtn:hover {
+    background-color: rgba(255, 255, 255);
+    color: rgb(0, 114, 228);
+
+}
+.centroidbtn{
+    float: right;
+    background: rgb(1, 103, 185,.5);
+    padding: 3px;
+    font-size: 12px;
+    border: none;
+   
+    color: rgb(243, 126, 47);
+    font-weight: bold;
+    
+  }
+  .centroidbtn:hover {
+    background-color: rgba(255, 255, 255);
+    color: rgb(0, 114, 228);
+
+}
+.currentbtn{
+  float: right;
+  background: rgba(61, 226, 255, 0.897);
+  padding: 3px;
+  font-size: 12px;
+  border: none;
+ 
+  color: rgb(4, 28, 134);
+  font-weight: bold;
+  
+}
+.currentbtn:hover {
+  background-color: rgba(255, 255, 255);
+  color: rgb(1, 42, 83);
+
+}
+
+/*Circle background*/
+#circle4{
+    position: absolute;
+    top: 20px;
+    right: 200px;
+    border-radius: 50%;
+    height: 550px;
+    width: 550px;
+    background: rgb(161, 157, 157,0.1);
+    
+}
+
+/*Loader spinner */
+.loader {
+    border: 4px solid #f3f3f3;
+    border-radius: 50%;
+    border-top: 4px solid #3498db;
+    width: 18px;
+    height: 18px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+  }
+  
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+
+  /* plus/minus btn for slider bar*/
+
+.minusbtn {
+    position: absolute;
+    right: 260px;
+    top: 528px;
+    height: 20px;
+    width: 20px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+
+    /* Disable text mouse covering*/
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Safari */
+    -khtml-user-select: none;    /* Konqueror HTML */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;       
+}
+.minusbtn:hover{
+    background-color: #ffffff !important;
+}
+
+.plusbtn {
+    position: absolute;
+    right: 20px;
+    top: 528px;
+    height: 20px;
+    width: 20px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+
+    /* Disable text mouse covering*/
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none;   /* Safari */
+    -khtml-user-select: none;    /* Konqueror HTML */
+    -moz-user-select: none;      /* Firefox */
+    -ms-user-select: none;       /* Internet Explorer/Edge */
+    user-select: none;  
+}
+.plusbtn:hover{
+    background-color: #ffffff !important;
+}
+
+.creategraphbtn{
+  background-color: rgb(5, 79, 148);
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+.creategraphbtn:hover{
+  color: rgb(5, 79, 148);
+  background-color: rgb(16, 208, 241);
+  
+}
+
+.creategraphbox{
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 30px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+/* Modal Content */
+.creategraphbox-content {
+  background-color: rgb(3, 79, 141);
+  border-radius: 15px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid rgb(128, 208, 255);
+  color: white;
+  width:  600px;
+  height: 580px;
+  overflow: auto; /* Enable scroll if needed */
+}
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.submitcreategraph{
+  background-color: rgb(5, 134, 255);
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+
+}
+.submitcreategraph:hover{
+  color: rgb(5, 79, 148);
+  background-color: rgb(16, 208, 241);
+  
+}
+.canclecreategraph{
+  background-color: rgb(187, 8, 8);
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+
+}
+.canclecreategraph:hover{
+  color: rgb(0, 0, 0);
+  background-color: rgb(248, 0, 0);
+  
+}
+
+
+.selectgraphbox{
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 30px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+/* Modal Content */
+.selectgraphbox-content{
+  background-color: rgb(3, 79, 141);
+  border-radius: 15px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid rgb(128, 208, 255);
+  color: white;
+  width:  600px;
+  height: 580px;
+  overflow: auto; /* Enable scroll if needed */
+}
+/* The Close Button */
+.closegraphlist {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.closegraphlist:hover,
+.closegraphlist:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}

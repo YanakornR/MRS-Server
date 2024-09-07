@@ -1,0 +1,106 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN disease|NN
+use|NN term|NN contraction|NN
+Tetanus|Disease name|NN Tetanus|Disease opisthotonus|NN patient|NN suffer|NN Tetanus|Disease paint|NN sir|NP charles|NP bell|NP muscle|NN spasm|NN person|NN Tetanus|Disease
+paint|NN sir|NP charles|NP bell|NP
+disease|NN symptom|NN muscle|NN spasm|NN fever|NN headache|NN onset|NN day|NN exposure|NN duration|NN month|NN cause|NN risk|NN factor|NN skin|NN method|NN symptom|NN prevention|NN Tetanus|Disease vaccine|NN treatment|NN Tetanus|Disease globulin|NN muscle|NN ventilation|NN chance|NN death|NN frequency|NN death|NN
+Tetanus|Disease Tetanus|Disease infection|NN muscle|NN spasm|NN type|NN spasm|NN jaw|NN progress|NN rest|NN body|NN spasm|NN minute|NN spasm|NN week|NN bone|NN fracture|NN symptom|NN Tetanus|Disease fever|NN sweate|NN headache|NN trouble|NN blood|NN pressure|NN heart|NN rate|NN onset|NN symptom|NN day|NN infection|NN recovery|NN month|NN percent|NN case|NN
+Tetanus|Disease infection|NN bacterium|NN clostridium|NN soil|NN saliva|NN dust|NN manure|NN bacteria|NN break|NN skin|NN cut|NN puncture|NN wound|NN object|NN toxin|NN muscle|NN contraction|NN diagnosis|NN present|NN sign|NN symptom|NN disease|NN people|NN
+Tetanus|Disease immunization|NN Tetanus|Disease vaccine|NN wound|NN dose|NN vaccine|NN vaccination|NN Tetanus|Disease globulin|NN wound|NN tissue|NN Tetanus|Disease globulin|NN immunoglobulin|NN ivig|NN muscle|NN control|NN spasm|NN ventilation|NN person|NN breath|NN
+Tetanus|Disease part|NN world|NN climate|NN soil|NN lot|NN matter|NN infection|NN death|NN death|NN description|NN disease|NN hippocrates|NP back|NN century|NN cause|NN disease|NN antonio|NP giorgio|NP rattone|NP university|NN turin|NP vaccine|NN content|NN
+sign|NN symptom|NN incubation|NN period|NN Tetanus|Disease Tetanus|Disease local|NN Tetanus|Disease Tetanus|Disease cause|NN diagnosis|NN prevention|NN prophylaxis|NN treatment|NN Tetanus|Disease Tetanus|Disease epidemiology|NN history|NN reference|NN link|NN
+sign|NN symptom|NN
+Tetanus|Disease spasm|NN jaw|NN Tetanus|Disease trismus|NN
+spasm|NN muscle|NN appearance|NN
+chest|NN neck|NN back|NN muscle|NN buttock|NN
+back|NN muscle|NN spasm|NN
+spasm|NN muscle|NN breath|NN breath|NN problem|NN
+action|NN contraction|NN muscle|NN group|NN
+episode|NN fracture|NN muscle|NN tear|NN
+symptom|NN fever|NN headache|NN restlessness|NN irritability|NN feed|NN difficulty|NN problem|NN sensation|NN urination|NN retention|NN loss|NN stool|NN control|NN
+treatment|NN people|NN Tetanus|Disease mortality|NN rate|NN people|NN people|NN year|NN age|NN incubation|NN period|NN
+incubation|NN period|NN Tetanus|Disease month|NN day|NN general|NN injury|NN site|NN system|NN incubation|NN period|NN
+incubation|NN period|NN symptom|NN Tetanus|Disease symptom|NN day|NN birth|NN day|NN
+basis|NN find|NN form|NN Tetanus|Disease Tetanus|Disease
+Tetanus|Disease type|NN Tetanus|Disease case|NN
+form|NN pattern|NN
+sign|NN Tetanus|Disease spasm|NN sardonicus|NN stiffness|NN neck|NN difficulty|NN rigidity|NN pectoral|NN calf|NN muscle|NN
+symptom|NN temperature|NN blood|NN pressure|NN heart|NN rate|NN
+minute|NN body|NN form|NN
+week|NN recovery|NN month|NN Tetanus|Disease article|NN Tetanus|Disease
+Tetanus|Disease form|NN Tetanus|Disease mother|NN
+mother|NN Tetanus|Disease infant|NN immunity|NN infection|NN stump|NN stump|NN instrument|NN
+Tetanus|Disease country|NN 215000|NN death|NN death|NN toll|NN
+result|NN health|NN campaign|NN death|NN toll|NN Tetanus|Disease disease|NN country|NN Tetanus|Disease country|NN
+Tetanus|Disease form|NN disease|NN people|NN contraction|NN muscle|NN area|NN injury|NN
+contraction|NN week|NN
+Tetanus|Disease case|NN onset|NN Tetanus|Disease
+citation|NN Tetanus|Disease
+Tetanus|Disease form|NN disease|NN 093|NN case|NN muscle|NN nerve|NN head|NN trauma|NN head|NN area|NN skull|NN fracture|NN laceration|NN eye|NN injury|NN extraction|NN otitis|NN media|NN injury|NN part|NN body|NN paralysis|NN nerve|NN Tetanus|Disease palsy|NN ptosis|NN nerve|NN Tetanus|Disease form|NN disease|NN rarity|NN clinician|NN presentation|NN Tetanus|Disease illness|NN treatment|NN symptom|NN injury|NN infection|NN Tetanus|Disease form|NN Tetanus|Disease progression|NN Tetanus|Disease case|NN fatality|NN rate|NN cause|NN endospore|NN
+bacterium|NN spore|NN spore|NN
+Tetanus|Disease Tetanus|Disease bacterium|NN Tetanus|Disease health|NN problem|NN c|NP tetani|NP
+body|NN puncture|NN wound|NN trauma|NN
+c|NP bacterium|NN endospore|NN environment|NN lack|NN oxygen|NN puncture|NN wound|NN
+disease|NN person|NN climate|NN soil|NN matter|NN
+soil|NN spore|NN intestine|NN fece|NN animal|NN horse|NN sheep|NN cattle|NN dog|NN cat|NN rat|NN guinea|NN pig|NN chicken|NN area|NN number|NN adult|NN organism|NN
+spore|NN skin|NN surface|NN heroin|NN heroin|NN user|NN drug|NN risk|NN Tetanus|Disease Tetanus|Disease procedure|NN injection|NN compound|NN fracture|NN infection|NN animal|NN bite|NN Tetanus|Disease
+Tetanus|Disease rust|NN nail|NN
+rust|NN Tetanus|Disease object|NN rust|NN place|NN bacteria|NN
+surface|NN metal|NN habitat|NN c|NP nail|NN mean|NN puncture|NN skin|NN deep|NN body|NN site|NN wound|NN endospore|NN survival|NN structure|NN metabolize|NN cause|NN infection|NN environment|NN
+nail|NN Tetanus|Disease infection|NN environment|NN skin|NN puncture|NN object|NN environment|NN growth|NN misconception|NN rust|NN cause|NN puncture|NN nail|NN risk|NN
+Tetanus|Disease muscle|NN type|NN muscle|NN movement|NN
+type|NN muscle|NN heart|NN muscle|NN property|NN
+Tetanus|Disease toxin|NN nerve|NN terminal|NN
+axon|NN junction|NN system|NN
+ganglioside|NN motor|NN nerve|NN end|NN axon|NN
+effect|NN toxin|NN release|NN neurotransmitter|NN glycine|NN acid|NN gaba|NN cleft|NN impulse|NN
+impulse|NN mechanism|NN spasm|NN characteristic|NN Tetanus|Disease
+toxin|NN cleavage|NN protein|NN component|NN vesicle|NN release|NN neurotransmitter|NN cell|NN
+citation|NN diagnosis|NN
+blood|NN test|NN Tetanus|Disease
+diagnosis|NN presentation|NN Tetanus|Disease symptom|NN isolation|NN bacterium|NN wound|NN case|NN people|NN Tetanus|Disease
+laboratory|NN identification|NN c|NP tetani|NP production|NN tetanospasmin|NN mice|NN head|NN trauma|NN Tetanus|Disease diagnosis|NN
+spatula|NN test|NN test|NN Tetanus|Disease wall|NN instrument|NN effect|NN
+test|NN result|NN contraction|NN jaw|NN spatula|NN test|NN result|NN gag|NN reflex|NN object|NN
+report|NN journal|NN medicine|NN hygiene|NN state|NN subject|NN research|NN study|NN spatula|NN test|NN specificity|NN zero|NN test|NN result|NN sensitivity|NN people|NN test|NN prevention|NN
+disease|NN recovery|NN Tetanus|Disease immunity|NN Tetanus|Disease
+potency|NN toxin|NN
+Tetanus|Disease vaccination|NN Tetanus|Disease cdc|NP adult|NN booster|NN vaccine|NN year|NN care|NN practice|NN place|NN booster|NN person|NN puncture|NN wound|NN lifetime|NN dose|NN vaccine|NN
+booster|NN case|NN Tetanus|Disease wound|NN week|NN Tetanus|Disease antibody|NN form|NN
+children|NN age|NN Tetanus|Disease vaccine|NN vaccine|NN vaccine|NN vaccine|NN diphtheria|NN pertussis|NN
+adult|NN children|NN vaccine|NN Tetanus|Disease diphtheria|NN Tetanus|Disease diphtheria|NN pertussis|NN
+world|NN health|NN organization|NN country|NN Tetanus|Disease
+certification|NN year|NN rate|NN case|NN birth|NN
+uganda|NP Tetanus|Disease case|NN baby|NN 2403|NN
+health|NN effort|NN uganda|NP Tetanus|Disease prophylaxis|NN
+Tetanus|Disease case|NN exposure|NN Tetanus|Disease
+case|NN Tetanus|Disease immunoglobulin|NN Tetanus|Disease antibody|NN Tetanus|Disease
+therapy|NN injection|NN
+guideline|NN event|NN united|NP states|NP people|NN year|NN vaccination|NN status|NN wound|NN wound|NN dose|NN Tetanus|Disease vaccine|NN vaccination|NN vaccination|NN Tetanus|Disease immunoglobulin|NN dose|NN Tetanus|Disease vaccine|NN year|NN dose|NN indication|NN indication|NN dose|NN Tetanus|Disease vaccine|NN year|NN dose|NN indication|NN dose|NN Tetanus|Disease vaccine|NN year|NN dose|NN tdap|NN treatment|NN Tetanus|Disease death|NN person|NN 2012|NP 4-8|NN Tetanus|Disease
+case|NN Tetanus|Disease
+Tetanus|Disease immunoglobulin|NN Tetanus|Disease antibody|NN Tetanus|Disease therapy|NN injection|NN
+metronidazole|NN day|NN diazepam|NN
+case|NN admission|NN care|NN
+addition|NN measure|NN Tetanus|Disease
+Tetanus|Disease immunoglobulin|NN increase|NN improvement|NN ventilation|NN week|NN
+airway|NN presence|NN tube|NN stimulus|NN spasm|NN magnesium|NN infusion|NN control|NN spasm|NN dysfunction|NN infusion|NN effect|NN Tetanus|Disease hyper-|NN hypotension|NN magnesium|NN nifedipine|NN
+drug|NN diazepam|NN muscle|NN muscle|NN spasm|NN
+case|NN person|NN drug|NN ventilator|NN
+order|NN Tetanus|Disease infection|NN maintenance|NN airway|NN nutrition|NN
+intake|NN calory|NN g|NN protein|NN day|NN form|NN tube|NN stomach|NN gastrostomy|NN drip|NN vein|NN nutrition|NN
+diet|NN maintenance|NN strain|NN muscle|NN activity|NN
+recovery|NN week|NN body|NN nerve|NN axon|NN terminal|NN
+epidemiology|NN life|NN year|NN Tetanus|Disease inhabitant|NN
+50-75|NN 125-150|NN 500-750|NN
+Tetanus|Disease case|NN
+red|NN grey|NN data|NN
+death|NN 356000|NN Tetanus|Disease form|NN health|NN problem|NN country|NN newborn|NN 2008|NN result|NN Tetanus|Disease united|NP states|NP average|NN case|NN year|NN case|NN state|NN individual|NN individual|NN inoculation|NN lapse|NN history|NN
+Tetanus|Disease people|NN relationship|NN wound|NN muscle|NN spasm|NN arthur|NP nicolaier|NP toxin|NN Tetanus|Disease soil|NN bacteria|NN
+etiology|NN disease|NN antonio|NP giorgio|NP pathologist|NN university|NN turin|NP transmissibility|NN Tetanus|Disease time|NN
+Tetanus|Disease rabbit|NN pus|NN person|NN Tetanus|Disease nerve|NN
+c|NP victim|NN shibasabur|NN organism|NN disease|NN animal|NN toxin|NN antibody|NN
+edmond|NP nocard|NP Tetanus|Disease immunity|NN human|NN prophylaxis|NN treatment|NN
+Tetanus|Disease vaccine|NN p|NP
+Tetanus|Disease battle|NN wound|NN world|NN war|NN
+word|NN Tetanus|Disease greek|NN lit|NN
+greek|NN lit|NN
+renshaw|NP cell|NN state|NN

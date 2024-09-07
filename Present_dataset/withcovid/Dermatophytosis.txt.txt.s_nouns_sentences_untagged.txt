@@ -1,0 +1,83 @@
+encyclopedia|NN dermatophytosis|DS jump|NN navigation|NN jump|NN search|NN dermatophytosis|DS 
+band|NN dermatophytosis|DS band|NN 
+moth|NN genus|NN dermatophytosis|DS moth|NN 
+dermatophytosis|DS name|NN dermatophytosis|DS dermatophytosis|DS dermatophytosis|DS leg|NN symptom|NN skin|NN rash|ST cause|NN infection|NN risk|NN factor|NN shower|NN contact|NN sport|NN sweate|NN contact|NN animal|NN obesity|NN function|NN method|NN symptom|NN culture|NN examination|NN diagnosis|NN psoriasis|DS rosea|NN dermatophytosis|DS prevention|NN skin|NN walk|NN public|NN item|NN treatment|NN cream|NN frequency|NN population|NN 
+dermatophytosis|DS dermatophytosis|DS infection|NN skin|NN rash|ST hair_loss|ST area|NN symptom|NN day|NN exposure|NN area|NN time|NN 
+type|NN fungy|NN dermatophytosis|DS trichophyton|NN type|NN risk|NN factor|NN shower|NN contact|NN sport|NN sweate|NN contact|NN animal|NN obesity|NN function|NN dermatophytosis|DS animal|NN people|NN diagnosis|NN appearance|NN symptom|NN culture|NN skin|NN microscope|NN 
+prevention|NN skin|NN public|NN item|NN treatment|NN cream|NN scalp|NN mouth|NN 
+population|NN dermatophytosis|DS time|NN infection|NN groin|NN male|NN infection|NN scalp|NN body|NN sexe|NN scalp|NN children|NN infection|NN groin|NN description|NN dermatophytosis|DS date|NN back|NN history|NN content|NN 
+sign|NN symptom|NN cause|NN classification|NN prevention|NN vaccination|NN treatment|NN history|NN name|NN animal|NN diagnosis|NN treatment|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN 
+body|NN rise|NN enlarge|NN ring|NN dermatophytosis|DS 
+infection|NN skin|NN feet|NN athlete|NN foot|NN groin|NN jock|NN itch|ST 
+involvement|NN nail|NN 
+adult|NN people|NN population|NN infection|NN moment|NN 
+animal|NN dog|NN cat|NN dermatophytosis|DS disease|NN animal|NN human|NN disease|NN 
+patche|NN patche|NN edge|NN ring|NN patche|NN ooze|NN blister|ST patche|NN scalp|NN nail|NN crack|NN 
+area|NN locker|NN room|NN bed|NN pool|NN skin|NN fold|NN cause|NN dermatophytosis|DS exercise|NN machine|NN use|NN towel|NN cloth|NN footwear|NN rental|NN bowl|NN shoe|NN sky|NN boot|NN ice|NN skate|NN roller|NN skate|NN 
+classification|NN article|NN list|NN type|NN dermatophytosis|DS 
+number|NN specy|NN fungy|NN dermatophytosis|DS 
+dermatophytes|NN genera|NN agent|NN 
+fungy|NN part|NN body|NN lead|NN condition|NN 
+name|NN condition|NN disease|NN pattern|NN agent|NN 
+disease|NN pattern|NN type|NN fungus|NN case|NN 
+dermatophytosis|DS dermatophytosis|DS athlete|NN foot|NN infection|NN feet|NN dermatophytosis|DS infection|NN fingernail|NN toenail|NN nail|NN bed|NN dermatophytosis|DS infection|NN arm|NN leg|NN trunk|NN dermatophytosis|DS jock|NN itch|ST infection|NN groin|NN area|NN dermatophytosis|DS infection|NN hand|NN palm|NN area|NN dermatophytosis|DS infection|NN scalp|NN hair|NN dermatophytosis|DS infestation|NN hair|NN dermatophytosis|DS face|NN fungus|NN infection|NN face|NN dermatophytosis|DS dermatophytosis|DS versicolor|NN furfur|NN dermatophytosis|DS nigra|NN werneckiy|NN 
+share|NN cloth|NN sport|NN equipment|NN towel|NN sheet|NN 
+wash|NN clothe|NN water|NN soap|NN exposure|NN dermatophytosis|DS 
+wear|NN shoe|NN locker|NN room|NN sandal|NN beach|NN pet|NN spot|NN carrier|NN fungus|NN 
+vaccine|NN dermatophytosis|DS 
+horse|NN dog|NN cat|NN vaccine|NN dermatophyton|NN boehringer|NN ingelheim|NN protection|NN trichophyton|NN strain|NN cattle|NN vaccination|NN control|NN dermatophytosis|DS 
+vaccine|NN vaccine|NN dermatophytosis|DS 
+country|NN vaccination|NN programme|NN dermatophytosis|DS measure|NN hide|NN quality|NN 
+russia|NN animal|NN silver|NN fox|NN foxe|NN foxe|NN rabbit|NN vaccine|NN treatment|NN 
+treatment|NN agent|NN clotrimazole|NN symptom|NN week|NN treatment|NN day|NN resolution|NN symptom|NN recurrence|NN duration|NN treatment|NN week|NN 
+case|NN scalp|NN dermatophytosis|DS treatment|NN medication|NN 
+infection|NN lesion|NN hygiene|NN wash|NN hand|NN body|NN 
+treatment|NN dermatophytosis|DS steroid|NN treatment|NN pityriasis|NN rosea|NN dermatophytosis|DS incognito|NN condition|NN dermatophytosis|DS fungus|NN feature|NN border|NN 
+dermatophytosis|DS time|NN dermatophytosis|DS compound|NN mercury|NN iodine|NN 
+area|NN skin|NN scalp|NN x-ray|NN medication|NN treatment|NN time|NN application|NN powder|NN name|NN 
+term|NN infection|NN dermatophytosis|DS misnomer|NN condition|NN fungy|NN specy|NN worm|NN 
+dermatophytosis|DS verrucosum|NN condition|NN cattle|NN 
+lesion|NN head|NN neck|NN tail|NN lesion|NN crust|NN 
+lesion|NN appearance|NN 
+lesion|NN head|NN 
+eye|NN ear|NN 
+cheek|NN lesion|NN right|NN 
+lesion|NN hair|NN 
+neck|NN wither|NN 
+dermatophytosis|DS sheep|NN dog|NN cat|NN horse|NN 
+agent|NN verrucosum|NN canis|NN m|NN 
+dermatophytosis|DS holotype|NN eutriconodont|NN mammal|NN origin|NN disease|NN 
+dermatophytosis|DS pet|NN carrier|NN condition|NN pet|NN 
+case|NN disease|NN animal|NN immunodeficiency|NN condition|NN 
+patche|NN skin|NN diagnosis|NN lesion|NN fungus|NN 
+patche|NN allergy|NN mange|NN condition|NN 
+specy|NN fungy|NN cause|NN dermatophytosis|DS petscitation|NN canis|NN gypseum|NN trichophyton|NN 
+test|NN dermatophytosis|DS infection|NN specy|NN 
+woods|NN test|NN light|NN len|NN 
+m|NN canis|NN fluorescence|NN hair|NN shaft|NN light|NN 
+material|NN fungus|NN product|NN fungus|NN hair|NN 
+test|NN veterinarian|NN hair|NN area|NN place|NN stain|NN solution|NN view|NN microscope|NN 
+spore|NN hair|NN shaft|NN 
+technique|NN infection|NN infection|NN specy|NN 
+culture|NN test|NN way|NN dermatophytosis|DS pet|NN 
+test|NN veterinarian|NN hair|NN pet|NN spore|NN pet|NN hair|NN toothbrush|NN instrument|NN media|NN culture|NN 
+culture|NN tape|NN veterinarian|NN microscope|NN lab|NN 
+type|NN fungy|NN cause|NN pet|NN dermatophytosis|DS spore|NN 
+specy|NN microspora|NN microconidia|NN infection|NN 
+specy|NN fungy|NN pet|NN infection|NN source|NN infection|NN 
+m|NN canis|NN name|NN cat|NN cat|NN infection|NN organism|NN 
+citation|NN dog|NN human|NN 
+t|NN mentagrophytes|NN reservoir|NN rodent|NN pet|NN rabbit|NN dog|NN horse|NN 
+m|NN gypseum|NN soil|NN organism|NN garden|NN place|NN 
+human|NN rodent|NN dog|NN cat|NN horse|NN cattle|NN swine|NN treatment|NN pet|NN animal|NN 
+treatment|NN treatment|NN drug|NN fluconazole|NN dip|NN therapy|NN 
+hair|NN shaft|NN pet|NN human|NN area|NN infection|NN hair|NN pet|NN load|NN spore|NN pet|NN hair|NN shaft|NN 
+shave|NN skin|NN skin|NN infection|NN 
+bath|NN pet|NN lime|NN dip|NN solution|NN spore|NN 
+wash|NN household|NN surface|NN household|NN sodium|NN hypochlorite|NN bleach|NN solution|NN kill|NN spore|NN hair|NN skin|NN 
+pet|NN hair|NN household|NN surface|NN vacuum|NN cleaner|NN bag|NN vacuum|NN cleaner|NN 
+removal|NN hair|NN spore|NN month|NN year|NN hair|NN surface|NN cow|NN 
+infestation|NN treatment|NN 
+treatment|NN iodine|NN compound|NN scrape|NN lesion|NN 
+glove|NN worker|NN 

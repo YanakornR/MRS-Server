@@ -1,0 +1,48 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN kidney|NN cancer|DS name|NN kidney|NN cancer|DS cell|NN cell|NN carcinoma|NN mag|NN croppedjpg|NN type|NN kidney|NN cancer|DS cell|NN cell|NN carcinoma|NN 
+oncology|NN symptom|NN blood|NN urine|NN lump|NN abdomen|NN back_pain|ST onset|NN age|NN type|NN cell|NN carcinoma|NN rcc|NN cell|NN carcinoma|NN tumor|NN risk|NN factor|NN smoke|NN pain|ST medication|NN bladder|NN cancer|DS blood|NN pressure|NN chemical|NN family|NN history|NN method|NN tissue|NN biopsy|NN treatment|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN therapy|NN survival|NN frequency|NN death|NN 
+kidney|NN cancer|DS kidney|NN cancer|DS group|NN cancer|DS kidney|NN symptom|NN blood|NN urine|NN lump|NN abdomen|NN back_pain|ST fever|ST weight_loss|ST tiredness|NN complication|NN spread|NN lung|NN brain|NN 
+type|NN kidney|NN cancer|DS cell|NN cancer|DS rcc|NN cell|NN cancer|DS tumor|NN rcc|NN kidney|NN cancer|DS account|NN rest|NN risk|NN factor|NN rcc|NN tcc|NN pain|ST medication|NN bladder|NN cancer|DS blood|NN pressure|NN chemical|NN family|NN history|NN risk|NN factor|NN tumor|NN family|NN history|NN disorder|NN syndrome|NN diagnosis|NN symptom|NN urine|NN test|NN image|NN tissue|NN biopsy|NN 
+treatment|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN therapy|NN kidney|NN cancer|DS people|NN death|NN onset|NN age|NN male|NN female|NN survival|NN rate|NN united|NN states|NN cancer|DS kidney|NN survival|NN rate|NN lymph|NN node|NN content|NN 
+sign|NN symptom|NN cause|NN diagnosis|NN type|NN stage|NN treatment|NN children|NN epidemiology|NN united|NN states|NN europe|NN history|NN reference|NN link|NN 
+sign|NN symptom|NN 
+sign|NN symptom|NN kidney|NN cancer|DS mass|NN abdomen|NN blood|NN urine|NN hematuria|ST 
+symptom|NN tiredness|NN loss|NN appetite|NN weight_loss|ST temperature|NN sweate|NN pain|ST abdomen|NN stage|NN disease|NN 
+factor|NN risk|NN kidney|NN cancer|DS smoke|NN risk|NN disease|NN obesity|NN gene|NN family|NN history|NN kidney|NN cancer|DS kidney|NN disease|NN dialysis|NN hepatitis|DS treatment|NN cancer|DS cancer|DS 
+risk|NN factor|NN kidney|NN stone|NN blood|NN pressure|NN study|NN use|NN nsaids|NN increase|NN kidney|NN cancer|DS risk|NN 
+kidney|NN cancer|DS kidney|NN location|NN tubule|NN pelvis|NN 
+cancer|DS tubule|NN cell|NN carcinoma|NN cell|NN adenocarcinoma|NN 
+cancer|DS pelvis|NN cell|NN carcinoma|NN 
+diagnosis|NN type|NN kidney|NN cancer|DS cell|NN carcinoma|NN variant|NN kidney|NN tumour|NN oncocytoma|DS 
+micrograph|NN cell|NN carcinoma|NN form|NN kidney|NN cancer|DS 
+addition|NN cell|NN carcinoma|NN pelvis|NN carcinoma|NN type|NN kidney|NN cancer|DS 
+cell|NN carcinoma|NN cell|NN tumor|NN duct|NN carcinoma|NN sarcoma|NN kidney|NN tumor|NN children|NN age|NN 
+type|NN cancer|DS kidney|NN 
+cell|NN adenocarcinoma|NN cell|NN carcinoma|NN lymphoma|DS tumor|NN pelvis|NN 
+cancer|DS kidney|NN result|NN metastasis|NN cancer|DS body|NN 
+stage|NN kidney|NN cancer|DS 
+stage|NN kidney|NN cancer|DS 
+stage|NN kidney|NN cancer|DS 
+stage|NN kidney|NN cancer|DS 
+stage|NN kidney|NN cancer|DS site|NN kidney|NN cancer|DS metastasis|NN lung|NN bone|NN liver|NN brain|NN lymph|NN node|NN treatment|NN 
+treatment|NN kidney|NN cancer|DS type|NN stage|NN disease|NN 
+surgery|NN treatment|NN kidney|NN cancer|DS chemotherapy|NN radiotherapy|NN 
+complexity|NN renal|NN score|NN system|NN 
+cancer|DS surgery|NN 
+case|NN kidney|NN removal|NN tumor|NN portion|NN kidney|NN 
+surgery|NN example|NN patient|NN condition|NN cancer|DS body|NN doctor|NN evidence|NN therapy|NN surgery|NN disease|NN therapy|NN survival|NN kidney|NN cancer|DS 
+cancer|DS surgery|NN technique|NN tumour|NN temperature|NN 
+treatment|NN kidney|NN cancer|DS 
+treatment|NN option|NN therapy|NN nexavar|NN use|NN immunotherapy|NN interferon|NN immunotherapy|NN people|NN standard|NN care|NN set|NN treatment|NN axitinib|NN sorafenib|NN 
+checkpoint|NN inhibitor|NN trial|NN kidney|NN cancer|DS approval|NN use|NN 
+line|NN set|NN survival|NN advantage|NN cell|NN carcinoma|NN everolimus|NN fda|NN survival|NN benefit|NN everolimus|NN fda|NN treatment|NN lenvatinib|NN combination|NN everolimus|NN 2016|NN patient|NN line|NN therapy|NN 
+tumor|NN chemotherapy|NN radiotherapy|NN surgery|NN treatment|NN stage|NN disease|NN children|NN 
+majority|NN kidney|NN cancer|DS children|NN 
+tumor|NN fetus|NN uterus|NN problem|NN child|NN year|NN 
+tumor|NN children|NN age|NN children|NN adult|NN 
+symptom|NN abdomen|NN blood|NN urine|NN epidemiology|NN 
+case|NN kidney|NN cancer|DS world|NN year|NN account|NN cancer|DS rate|NN north|NN america|NN rate|NN asia|NN africa|NN united|NN states|NN 
+united|NN states|NN nih|NN estimate|NN 2013|NN case|NN kidney|NN cancer|DS 13570|NN death|NN disease|NN 
+incidence|NN kidney|NN cancer|DS united|NN states|NN 
+increase|NN change|NN way|NN disease|NN europe|NN 
+estimate|NN incidence|NN kidney|NN cancer|DS case|NN eu25|NN 
+europe|NN kidney|NN cancer|DS account|NN cancer|DS case|NN kidney|NN cancer|DS cancer|DS uk|NN people|NN disease|NN cause|NN cancer|DS death|NN people|NN history|NN kidney|NN cancer|DS 

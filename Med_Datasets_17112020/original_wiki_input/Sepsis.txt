@@ -1,0 +1,259 @@
+Sepsis,septicemia,blood poisoning
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For the genus of flies of this name, see Sepsis (fly).
+Sepsis
+Other names	Septicemia, blood poisoning
+Bloodculturetubes.JPG
+Blood culture bottles: orange label for anaerobes, green label for aerobes, and yellow label for blood samples from children
+Pronunciation	
+
+    /ˈsɛpsɪs/ 
+
+Specialty	Infectious disease
+Symptoms	Fever, increased heart rate, increased breathing rate, confusion[1]
+Causes	Immune response triggered by an infection[2][3]
+Risk factors	Young or old age, cancer, diabetes, major trauma, burns[1]
+Diagnostic method	Systemic inflammatory response syndrome (SIRS),[2] qSOFA[4]
+Treatment	Intravenous fluids, antibiotics[1][5]
+Prognosis	30 to 80% risk of death[6]
+Frequency	0.2–3 per 1000 a year (developed world)[6][7]
+
+Sepsis is a life-threatening condition that arises when the body's response to infection causes injury to its own tissues and organs.[4] Common signs and symptoms include fever, increased heart rate, increased breathing rate, and confusion.[1] There may also be symptoms related to a specific infection, such as a cough with pneumonia, or painful urination with a kidney infection.[2] In the very young, old, and people with a weakened immune system, there may be no symptoms of a specific infection and the body temperature may be low or normal, rather than high.[2] Severe sepsis is sepsis causing poor organ function or insufficient blood flow.[8] Insufficient blood flow may be evident by low blood pressure, high blood lactate, or low urine output.[8] Septic shock is low blood pressure due to sepsis that does not improve after fluid replacement.[8]
+
+Sepsis is caused by an inflammatory immune response triggered by an infection.[2][3] Most commonly, the infection is bacterial, but it may also be fungal, viral, or protozoan.[2] Common locations for the primary infection include the lungs, brain, urinary tract, skin, and abdominal organs.[2] Risk factors include very young age, older age, a weakened immune system from conditions such as cancer or diabetes, major trauma, or burns.[1] An older method of diagnosis was based on meeting at least two systemic inflammatory response syndrome (SIRS) criteria due to a presumed infection.[2] In 2016, SIRS was replaced with a shortened sequential organ failure assessment score (SOFA score) known as the quick SOFA score (qSOFA) which is two of the following three: increased breathing rate, change in level of consciousness, and low blood pressure.[4] Blood cultures are recommended preferably before antibiotics are started, however, infection of the blood is not required for the diagnosis.[2] Medical imaging should be used to look for the possible location of infection.[8] Other potential causes of similar signs and symptoms include anaphylaxis, adrenal insufficiency, low blood volume, heart failure, and pulmonary embolism.[2]
+
+Sepsis is usually treated with intravenous fluids and antibiotics.[1][5] Typically, antibiotics are given as soon as possible.[1] Often, ongoing care is performed in an intensive care unit.[1] If fluid replacement is not enough to maintain blood pressure, medications that raise blood pressure may be used.[1] Mechanical ventilation and dialysis may be needed to support the function of the lungs and kidneys, respectively.[1] To guide treatment, a central venous catheter and an arterial catheter may be placed for access to the bloodstream.[8] Other measurements such as cardiac output and superior vena cava oxygen saturation may be used.[8] People with sepsis need preventive measures for deep vein thrombosis, stress ulcers and pressure ulcers, unless other conditions prevent such interventions.[8] Some might benefit from tight control of blood sugar levels with insulin.[8] The use of corticosteroids is controversial, with some reviews finding benefit,[9][10] and others not.[11]
+
+Disease severity partly determines the outcome.[6] The risk of death from sepsis is as high as 30%, from severe sepsis as high as 50%, and from septic shock as high as 80%.[6] The number of cases worldwide is unknown as there is little data from the developing world.[6] Estimates suggest sepsis affects millions of people a year.[8] In the developed world approximately 0.2 to 3 people per 1000 are affected by sepsis yearly, resulting in about a million cases per year in the United States.[6][7] Rates of disease have been increasing.[8] Sepsis is more common among males than females.[2] The medical condition has been described since the time of Hippocrates.[12] The terms "septicemia" and "blood poisoning" have been used in various ways and are no longer recommended.[12][13]
+File:Wikipedia-VideoWiki-Sepsis.webmPlay media
+Video summary (script)
+Contents
+
+    1 Signs and symptoms
+    2 Cause
+    3 Diagnosis
+        3.1 Definitions
+        3.2 End-organ dysfunction
+        3.3 Biomarkers
+        3.4 Differential diagnosis
+        3.5 Neonatal sepsis
+    4 Pathophysiology
+        4.1 Microbial factors
+        4.2 Host factors
+    5 Management
+        5.1 Antibiotics
+        5.2 Intravenous fluids
+        5.3 Blood products
+        5.4 Vasopressors
+        5.5 Steroids
+        5.6 Anesthesia
+        5.7 Early goal directed therapy
+        5.8 Newborns
+        5.9 Other
+    6 Prognosis
+    7 Epidemiology
+    8 History
+    9 Society and culture
+        9.1 Economics
+        9.2 Education
+    10 References
+    11 External links
+
+Signs and symptoms
+Charlotte Cleverley-Bisman, with sepsis from a meningococcal bloodstream infection
+
+In addition to symptoms related to the actual cause, sepsis is frequently associated with the following – fever, low body temperature, rapid breathing, a fast heart rate, confusion, and edema.[14] Early signs include a rapid heart rate, decreased urination, and high blood sugar. Signs of established sepsis include confusion, metabolic acidosis (which may be accompanied by a faster breathing rate that leads to respiratory alkalosis), low blood pressure due to decreased systemic vascular resistance, higher cardiac output, and disorders in blood-clotting that may lead to organ failure.[15]
+
+The drop in blood pressure seen in sepsis can cause lightheadedness and is part of the criteria for septic shock.[16]
+Cause
+
+Infections leading to sepsis are usually bacterial, but may be fungal or viral.[17] Gram-positive bacteria was the predominant cause of sepsis before the introduction of antibiotics in the 1950s. After the introduction of antibiotics, gram-negative bacteria became the predominant cause of sepsis from the 1960s to the 1980s.[18] After the 1980s, gram-positive bacteria, most commonly staphylococci, are thought to cause more than 50% of cases of sepsis.[19][7] Other commonly implicated bacteria include Streptococcus pyogenes, Escherichia coli, Pseudomonas aeruginosa, and Klebsiella species.[20] Fungal sepsis accounts for approximately 5% of severe sepsis and septic shock cases; the most common cause of fungal sepsis is infection by Candida species of yeast,[21] a frequent hospital-acquired infection.
+
+The most common sites of infection resulting in severe sepsis are the lungs, the abdomen, and the urinary tract.[17] Typically, 50% of all sepsis cases start as an infection in the lungs. No definitive source is found in one third to one half of cases.[17]
+Diagnosis
+
+Early diagnosis is necessary to properly manage sepsis, as initiation of rapid therapy is key to reducing deaths from severe sepsis.[8] Some hospitals use alerts generated from electronic health records to bring attention to potential cases as early as possible.[22]
+
+Within the first three hours of suspected sepsis, diagnostic studies should include white blood cell counts, measuring serum lactate, and obtaining appropriate cultures before starting antibiotics, so long as this does not delay their use by more than 45 minutes.[8] To identify the causative organism(s), at least two sets of blood cultures using bottles with media for aerobic and anaerobic organisms should be obtained, with at least one drawn through the skin and one drawn through each vascular access device (such as an IV catheter) in place more than 48 hours.[8] Bacteria are present in the blood in only about 30% of cases.[23] Another possible method of detection is by polymerase chain reaction. If other sources of infection are suspected, cultures of these sources, such as urine, cerebrospinal fluid, wounds, or respiratory secretions, also should be obtained, as long as this does not delay the use of antibiotics.[8]
+
+Within six hours, if blood pressure remains low despite initial fluid resuscitation of 30 ml/kg, or if initial lactate is ≥ 4 mmol/l (36 mg/dl), central venous pressure and central venous oxygen saturation should be measured.[8] Lactate should be re-measured if the initial lactate was elevated.[8] Evidence for point of care lactate measurement over usual methods of measurement, however, is poor.[24]
+
+Within twelve hours, it is essential to diagnose or exclude any source of infection that would require emergent source control, such as necrotizing soft tissue infection, infection causing inflammation of the abdominal cavity lining, infection of the bile duct, or intestinal infarction.[8] A pierced internal organ (free air on abdominal x-ray or CT scan), an abnormal chest x-ray consistent with pneumonia (with focal opacification), or petechiae, purpura, or purpura fulminans may be evident of infection.
+Definitions
+Systemic inflammatory response syndrome[25] Finding 	Value
+Temperature 	<36 °C (96.8 °F) or >38 °C (100.4 °F)
+Heart rate 	>90/min
+Respiratory rate 	>20/min or PaCO2<32 mmHg (4.3 kPa)
+WBC 	<4x109/L (<4000/mm³), >12x109/L (>12,000/mm³), or 10% bands
+Sepsis Steps. Training tool for teaching the progression of sepsis stages
+
+Previously, SIRS criteria had been used to define sepsis. If the SIRS criteria are negative, it is very unlikely the person has sepsis; if it is positive, there is just a moderate probability that the person has sepsis. According to SIRS, there were different levels of sepsis: sepsis, severe sepsis, and septic shock.[13] The definition of SIRS is shown below:
+
+    SIRS is the presence of two or more of the following: abnormal body temperature, heart rate, respiratory rate, or blood gas, and white blood cell count.
+    Sepsis is defined as SIRS in response to an infectious process.[26]
+    Severe sepsis is defined as sepsis with sepsis-induced organ dysfunction or tissue hypoperfusion (manifesting as hypotension, elevated lactate, or decreased urine output). Severe sepsis is an infectious disease state associated with multiple organ dysfunction syndrome (MODS)[8]
+    Septic shock is severe sepsis plus persistently low blood pressure, despite the administration of intravenous fluids.[8]
+
+In 2016 a new consensus was reached to replace screening by systemic inflammatory response syndrome (SIRS) with qSOFA.[4] However, the American College of Chest Physicians (CHEST) raised concerns that qSOFA and SOFA criteria may lead to delayed diagnosis of serious infection, leading to delayed treatment.[27] Although SIRS criteria can be too sensitive and not specific enough in identifying sepsis, SOFA also has its own limitation and is not intended to replace the SIRS definition.[28] qSOFA has also been found to be poorly sensitive though decently specific for the risk of death with SIRS possibly better for screening.[29]
+End-organ dysfunction
+Main article: Multiple organ dysfunction syndrome
+
+Examples of end-organ dysfunction include the following:[30]
+
+    Lungs: acute respiratory distress syndrome (ARDS) (PaO2/FiO2 ratio< 300), different ratio in pediatric acute respiratory distress syndrome
+    Brain: encephalopathy symptoms including agitation, confusion, coma; causes may include ischemia, bleeding, formation of blood clots in small blood vessels, microabscesses, multifocal necrotizing leukoencephalopathy
+    Liver: disruption of protein synthetic function manifests acutely as progressive disruption of blood clotting due to an inability to synthesize clotting factors and disruption of metabolic functions leads to impaired bilirubin metabolism, resulting in elevated unconjugated serum bilirubin levels
+    Kidney: low urine output or no urine output, electrolyte abnormalities, or volume overload
+    Heart: systolic and diastolic heart failure, likely due to chemical signals that depress myocyte function, cellular damage, manifest as a troponin leak (although not necessarily ischemic in nature)
+
+More specific definitions of end-organ dysfunction exist for SIRS in pediatrics.[31]
+
+    Cardiovascular dysfunction (after fluid resuscitation with at least 40 ml/kg of crystalloid)
+        hypotension with blood pressure < 5th percentile for age or systolic blood pressure < 2 standard deviations below normal for age, or
+        vasopressor requirement, or
+        two of the following criteria:
+            unexplained metabolic acidosis with base deficit > 5 mEq/l
+            lactic acidosis: serum lactate 2 times the upper limit of normal
+            oliguria (urine output < 0.5 ml/kg/h)
+            prolonged capillary refill > 5 seconds
+            core to peripheral temperature difference > 3 °C
+    Respiratory dysfunction (in the absence of a cyanotic heart defect or a known chronic respiratory disease)
+        the ratio of the arterial partial-pressure of oxygen to the fraction of oxygen in the gases inspired (PaO2/FiO2) < 300 (the definition of acute lung injury), or
+        arterial partial-pressure of carbon dioxide (PaCO2) > 65 torr (20 mmHg) over baseline PaCO2 (evidence of hypercapnic respiratory failure), or
+        supplemental oxygen requirement of greater than FiO2 0.5 to maintain oxygen saturation ≥ 92%
+    Neurologic dysfunction
+        Glasgow Coma Score (GCS) ≤ 11, or
+        altered mental status with drop in GCS of 3 or more points in a person with developmental delay/intellectual disability
+    Hematologic dysfunction
+        platelet count < 80,000/mm3 or 50% drop from maximum in chronically thrombocytopenic, or
+        international normalized ratio (INR) > 2
+        Disseminated intravascular coagulation
+    Kidney dysfunction
+        serum creatinine ≥ 2 times the upper limit of normal for age or 2-fold increase in baseline creatinine in people with chronic kidney disease
+    Liver dysfunction (only applicable to infants > 1 month)
+        total serum bilirubin ≥ 4 mg/dl, or
+        alanine aminotransferase (ALT) ≥ 2 times the upper limit of normal
+
+Consensus definitions, however, continue to evolve, with the latest expanding the list of signs and symptoms of sepsis to reflect clinical bedside experience.[14]
+Biomarkers
+
+A 2013 review concluded moderate-quality evidence exists to support use of the procalcitonin level as a method to distinguish sepsis from non-infectious causes of SIRS.[23] The same review found the sensitivity of the test to be 77% and the specificity to be 79%. The authors suggested that procalcitonin may serve as a helpful diagnostic marker for sepsis, but cautioned that its level alone cannot definitively make the diagnosis.[23] A 2012 systematic review found that soluble urokinase-type plasminogen activator receptor (SuPAR) is a nonspecific marker of inflammation and does not accurately diagnose sepsis.[32] This same review concluded, however, that SuPAR has prognostic value, as higher SuPAR levels are associated with an increased rate of death in those with sepsis.[32]
+Differential diagnosis
+
+The differential diagnosis for sepsis is broad and has to examine (in order to exclude) the non-infectious conditions that may cause the systemic signs of SIRS: alcohol withdrawal, acute pancreatitis, burns, pulmonary embolism, thyrotoxicosis, anaphylaxis, adrenal insufficiency, and neurogenic shock.[15][33] Hyperinflammatory syndromes such as hemophagocytic lymphohistiocytosis (HLH) may have similar symptoms and should also be included in differential diagnosis.[34]
+Neonatal sepsis
+
+In common clinical usage, neonatal sepsis refers to a bacterial blood stream infection in the first month of life, such as meningitis, pneumonia, pyelonephritis, or gastroenteritis,[35] but neonatal sepsis also may be due to infection with fungi, viruses, or parasites.[35] Criteria with regard to hemodynamic compromise or respiratory failure are not useful because they present too late for intervention.
+Pathophysiology
+Phenotypic strategy switches of microbes capable of provoking sepsis
+
+Sepsis is caused by a combination of factors related to the particular invading pathogen(s) and to the status of the immune system of the host.[36] The early phase of sepsis characterized by excessive inflammation (sometimes resulting in a cytokine storm) may be followed by a prolonged period of decreased functioning of the immune system.[37] Either of these phases may prove fatal. On the other hand, systemic inflammatory response syndrome (SIRS) occurs in people without the presence of infection, for example, in those with burns, polytrauma, or the initial state in pancreatitis and chemical pneumonitis. However, sepsis also causes similar response to SIRS.[13]
+Microbial factors
+
+Bacterial virulence factors, such as glycocalyx and various adhesins, allow colonization, immune evasion, and establishment of disease in the host.[36] Sepsis caused by gram-negative bacteria is thought to be largely due to a response by the host to the lipid A component of lipopolysaccharide, also called endotoxin.[38][39] Sepsis caused by gram-positive bacteria may result from an immunological response to cell wall lipoteichoic acid.[40] Bacterial exotoxins that act as superantigens also may cause sepsis.[36] Superantigens simultaneously bind major histocompatibility complex and T-cell receptors in the absence of antigen presentation. This forced receptor interaction induces the production of pro-inflammatory chemical signals (cytokines) by T-cells.[36]
+
+There are a number of microbial factors that may cause the typical septic inflammatory cascade. An invading pathogen is recognized by its pathogen-associated molecular patterns (PAMPs). Examples of PAMPs include lipopolysaccharides and flagellin in gram-negative bacteria, muramyl dipeptide in the peptidoglycan of the gram-positive bacterial cell wall, and CpG bacterial DNA. These PAMPs are recognized by the pattern recognition receptors (PRRs) of the innate immune system, which may be membrane-bound or cytosolic.[41] There are four families of PRRs: the toll-like receptors, the C-type lectin receptors, the NOD-like receptors, and the RIG-I-like receptors. Invariably, the association of a PAMP and a PRR will cause a series of intracellular signalling cascades. Consequentially, transcription factors such as nuclear factor-kappa B and activator protein-1, will up-regulate the expression of pro-inflammatory and anti-inflammatory cytokines.[42]
+Host factors
+
+Upon detection of microbial antigens, the host systemic immune system is activated. Immune cells not only recognise pathogen-associated molecular patterns, but also damage-associated molecular patterns from damaged tissues. An uncontrolled immune response is then activated because leukocytes are not recruited to the specific site of infection, but instead they are recruited all over the body. Then, an immunosuppression state ensues when the proinflammatory T helper cell 1 (TH1) is shifted to TH2,[43] mediated by interleukin 10, which is known as "compensatory anti-inflammatory response syndrome".[18] The apoptosis (cell death) of lymphocytes further worsens the immunosuppression. Subsequently, multiple organ failure ensues because tissues are unable to use oxygen efficiently due to inhibition of cytochrome c oxidase.[43]
+
+Inflammatory responses cause multiple organ dysfunction syndrome through various mechanisms as described below. Increased permeability of the lung vessels causes leaking of fluids into alveoli, which results in pulmonary edema and acute respiratory distress syndrome (ARDS). Impaired utilization of oxygen in the liver impairs bile salt transport, causing jaundice (yellowish discoloration of skin). In kidneys, inadequate oxygenation results in tubular epithelial cell injury (of the cells lining the kidney tubules), and thus causes acute kidney injury (AKI). Meanwhile, in a human heart, impaired calcium transport, and low production of adenosine triphosphate (ATP), can cause myocardial depression, reducing cardiac contractility and causing heart failure. In the gastrointestinal tract, increased permeability of the mucosa alters the microflora, causing mucosal bleeding and paralytic ileus. In the central nervous system, direct damage of the brain cells and disturbances of neurotransmissions causes altered mental status.[44] Cytokines such as tumor necrosis factor, interleukin 1, and interleukin 6 may activate procoagulation factors in the cells lining blood vessels, leading to endothelial damage. The damaged endothelial surface inhibits anticoagulant properties as well as increases antifibrinolysis, which may lead to intravascular clotting, the formation of blood clots in small blood vessels, and multiple organ failure.[45]
+
+The low blood pressure seen in those with sepsis is the result of various processes, including excessive production of chemicals that dilate blood vessels such as nitric oxide, a deficiency of chemicals that constrict blood vessels such as vasopressin, and activation of ATP-sensitive potassium channels.[46] In those with severe sepsis and septic shock, this sequence of events leads to a type of circulatory shock known as distributive shock.[47]
+Management
+
+Early recognition and focused management may improve the outcomes in sepsis. Current professional recommendations include a number of actions ("bundles") to be followed as soon as possible after diagnosis. Within the first three hours someone with sepsis should have received antibiotics and, intravenous fluids if there is evidence of either low blood pressure or other evidence for inadequate blood supply to organs (as evidenced by a raised level of lactate); blood cultures also should be obtained within this time period. After six hours the blood pressure should be adequate, close monitoring of blood pressure and blood supply to organs should be in place, and the lactate should be measured again if initially, it was raised.[8] A related bundle, the "Sepsis Six", is in widespread use in the United Kingdom; this requires the administration of antibiotics within an hour of recognition, blood cultures, lactate and hemoglobin determination, urine output monitoring, high-flow oxygen, and intravenous fluids.[48][49]
+
+Apart from the timely administration of fluids and antibiotics, the management of sepsis also involves surgical drainage of infected fluid collections and appropriate support for organ dysfunction. This may include hemodialysis in kidney failure, mechanical ventilation in lung dysfunction, transfusion of blood products, and drug and fluid therapy for circulatory failure. Ensuring adequate nutrition—preferably by enteral feeding, but if necessary, by parenteral nutrition—is important during prolonged illness.[8] Medication to prevent deep vein thrombosis and gastric ulcers also may be used.[8]
+Antibiotics
+
+Two sets of blood cultures (aerobic and anaerobic) should be taken without delaying the initiation of antibiotics. Cultures from other sites such as respiratory secretions, urine, wounds, cerebrospinal fluid, and catheter insertion sites (in-situ more than 48 hours) can be taken if infections from these sites are suspected.[5] In severe sepsis and septic shock, broad-spectrum antibiotics (usually two, a β-lactam antibiotic with broad coverage, or broad-spectrum carbapenem combined with fluoroquinolones, macrolides, or aminoglycosides) are recommended. However, combination of antibiotics is not recommended for the treatment of sepsis but without shock and immunocompromised persons unless the combination is used to broaden the anti-bacterial activity. The choice of antibiotics is important in determining the survival of the person.[47][5] Some recommend they be given within one hour of making the diagnosis, stating that for every hour of delay in the administration of antibiotics, there is an associated 6% rise in mortality.[26][47] Others did not find a benefit with early administration.[50]
+
+Several factors determine the most appropriate choice for the initial antibiotic regimen. These factors include local patterns of bacterial sensitivity to antibiotics, whether the infection is thought to be a hospital or community-acquired infection, and which organ systems are thought to be infected.[47] Antibiotic regimens should be reassessed daily and narrowed if appropriate. Treatment duration is typically 7–10 days with the type of antibiotic used directed by the results of cultures. If the culture result is negative, antibiotics should be de-escalated according to person's clinical response or stopped altogether if infection is not present to decrease the chances that the person is infected with multiple drug resistance organisms. In case of people having high risk of being infected with multiple drug resistance organisms such as Pseudomonas aeruginosa, Acinetobacter baumannii, addition of antibiotic specific to gram-negative organism is recommended. For Methicillin-resistant Staphylococcus aureus (MRSA), vancomycin or teicoplanin is recommended. For Legionella infection, addition of macrolide or fluoroquinolone is chosen. If fungal infection is suspected, an echinocandin, such as caspofungin or micafungin, is chosen for people with severe sepsis, followed by triazole (fluconazole and itraconazole) for less ill people.[5] Prolonged antibiotic prophylaxis is not recommended in people who has SIRS without any infectious origin such as acute pancreatitis and burns unless sepsis is suspected.[5]
+
+Once daily dosing of aminoglycoside is sufficient to achieve peak plasma concentration for clinical response without kidney toxicity. Meanwhile, for antibiotics with low volume distribution (vancomycin, teicoplanin, colistin), loading dose is required to achieve adequate therapeutic level to fight infections. Frequent infusions of beta-lactam antibiotics without exceeding total daily dose would help to keep the antibiotics level above minimum inhibitory concentration (MIC), thus providing better clinical response.[5] Giving beta-lactam antibiotics continuously may be better than giving them intermittently.[51] Access to therapeutic drug monitoring is important to ensure adequate drug therapeutic level while at the same time preventing the drug from reaching toxic level.[5]
+Intravenous fluids
+
+The Surviving Sepsis Campaign has recommended 30 ml/kg of fluid to be given in adults in the first three hours followed by fluid titration according to blood pressure, urine output, respiratory rate, and oxygen saturation with a target mean arterial pressure (MAP) of 65 mmHg.[5] In children an initial amount of 20ml/kg is reasonable in shock.[52] In cases of severe sepsis and septic shock where a central venous catheter is used to measure blood pressures dynamically, fluids should be administered until the central venous pressure (CVP) reaches 8–12 mmHg.[46] Once these goals are met, the central venous oxygen saturation (ScvO2), i.e., the oxygen saturation of venous blood as it returns to the heart as measured at the vena cava, is optimized.[5] If the ScvO2 is less than 70%, blood may be given to reach a hemoglobin of 10 g/dL and then inotropes are added until the ScvO2 is optimized.[36] In those with acute respiratory distress syndrome (ARDS) and sufficient tissue blood fluid, more fluids should be given carefully.[8]
+
+Crystalloid is recommended as the fluid of choice for resuscitation.[5] Albumin can be used if large amount of crystalloid is required for resuscitaition.[5] Crystalloid solutions shows little difference with hydroxyethyl starch in terms of risk of death.[53] Starches also carry an increased risk of acute kidney injury,[53][54] and need for blood transfusion.[55][56] Various colloid solutions (such as modified gelatin) carry no advantage over crystalloid.[53] Albumin also appears to be of no benefit over crystalloids.[57]
+Blood products
+
+The Surviving Sepsis Campaign recommended packed red blood cells transfusion for hemoglobin levels below 70 g/L if there is no myocardial ischemia, hypoxemia, or acute bleeding.[5] In a 2014 trial, blood transfusions to keep target hemoglobin above 70 or 90 g/L did not make any difference to survival rates; meanwhile, those with a lower threshold of transfusion received fewer transfusions in total.[58] Erythropoietin is not recommended in the treatment of anemia with septic shock because it may precipitate blood clotting events. Fresh frozen plasma transfusion usually does not correct the underlying clotting abnormalities before a planned surgical procedure. However, platelet transfusion is suggested for platelet counts below (10 × 109/L) without any risk of bleeding, or (20 × 109/L) with high risk of bleeding, or (50 × 109/L) with active bleeding, before a planned surgery or an invasive procedure.[5] IV immunoglobulin is not recommended because its beneficial effects are uncertain.[5] Monoclonal and polyclonal preparations of intravenous immunoglobulin (IVIG) do not lower the rate of death in newborns and adults with sepsis.[59] Evidence for the use of IgM-enriched polyclonal preparations of IVIG is inconsistent.[59] On the other hand, the use of antithrombin to treat disseminated intravascular coagulation is also not useful. Meanwhile, the blood purification technique (such as hemoperfusion, plasma filtration, and coupled plasma filtration adsorption) to remove inflammatory mediators and bacterial toxins from the blood also does not demonstrate any survival benefit for septic shock.[5]
+Vasopressors
+
+If the person has been sufficiently fluid resuscitated but the mean arterial pressure is not greater than 65 mmHg, vasopressors are recommended.[5] Norepinephrine (noradrenaline) is recommended as the initial choice.[5]
+
+Norepinephrine is often used as a first-line treatment for hypotensive septic shock because evidence shows that there is a relative deficiency of vasopressin, when shock continues for 24 to 48 hours.[60] Norepinephrine raises blood pressure through a vasoconstriction effect, with little effect on stroke volume and heart rate.[5] In some people, the required dose of vasopressor needed to increase the mean arterial pressure can become exceedingly high that it becomes toxic.[61] In order to reduce the required dose of vasopressor, epinephrine may be added.[61] Epinephrine is not often used as a first-line treatment for hypotensive shock because it reduces blood flow to the abdominal organs and increases lactate levels.[60] However, one of the adrenaline side effects is that it reduces blood flow to abdominal organs and may cause increased lactate levels. Vasopressin can be used in septic shock because studies have shown that there is a relative deficiency of vasopressin when shock continues for 24 to 48 hours. However, vasopressin reduces blood flow to the heart, finger/toes, and abdominal organs, resulting in a lack of oxygen supply to these tissues.[5] Dopamine is typically not recommended. Although dopamine is useful to increase the stroke volume of the heart, it causes more abnormal heart rhythms than norepinephrine and also has an immunosuppressive effect. Dopamine is not proven to have protective properties on the kidneys.[5] Dobutamine can also be used in hypotensive septic shock to increase cardiac output and correct blood flow to the tissues.[62] Dobutamine is not used as often as epinephrine due to its associate side effects, which include reducing blood flow to the gut.[62] Additionally, dobutamine increases the cardiac output by abnormally increasing the heart rate.[62]
+Steroids
+
+The use of steroids in sepsis is controversial.[63] Studies do not give a clear picture as to whether and when glucocorticoids should be used.[64] The 2016 Surviving Sepsis Campaign recommends against their use in those with septic shock if intravenous fluids and vasopressors are able to stabilize the person's cardiovascular function. Low dose hydrocortisone is only used if both intravenous fluids and vasopressors are not able to adequately treat septic shock.[5] A 2015 Cochrane review found low-quality evidence of benefit,[9] as did a 2019 review in JAMA.[10]
+
+During critical illness, a state of adrenal insufficiency and tissue resistance to corticosteroids may occur. This has been termed critical illness–related corticosteroid insufficiency.[65] Treatment with corticosteroids might be most beneficial in those with septic shock and early severe ARDS, whereas its role in others such as those with pancreatitis or severe pneumonia is unclear.[65] However, the exact way of determining corticosteroid insufficiency remains problematic. It should be suspected in those poorly responding to resuscitation with fluids and vasopressors. Neither ACTH stimulation testing[65] nor random cortisol levels are recommended to confirm the diagnosis.[5] The method of stopping glucocorticoid drugs is variable, and it is unclear whether they should be slowly decreased or simply abruptly stopped. However, the 2016 Surviving Sepsis Campaign recommended to taper steroids when vasopressors are no longer needed.[5]
+Anesthesia
+
+A target tidal volume of 6 mL/kg of predicted body weight (PBW) and a plateau pressure less than 30 cm H2O is recommended for those who require ventilation due to sepsis-induced severe ARDS. High positive end expiratory pressure (PEEP) is recommended for moderate to severe ARDS in sepsis as it opens more lung units for oxygen exchange. Predicted body weight is calculated based on sex and height, and tools for this are available.[66] Recruitment maneuvers may be necessary for severe ARDS by briefly raising the transpulmonary pressure. It is recommended that the head of the bed be raised if possible to improve ventilation. However, β2 adrenergic receptor agonists are not recommended to treat ARDS because it may reduce survival rates and precipitate abnormal heart rhythms. A spontaneous breathing trial using continuous positive airway pressure (CPAP), T piece, or inspiratory pressure augmentation can be helpful in reducing the duration of ventilation. Minimizing intermittent or continuous sedation is helpful in reducing the duration of mechanical ventilation.[5]
+
+General anesthesia is recommended for people with sepsis who require surgical procedures to remove the infective source. Usually inhalational and intravenous anesthetics are used. Requirements for anesthetics may be reduced in sepsis. Inhalational anesthetics can reduce the level of proinflammatory cytokines, altering leukocyte adhesion and proliferation, inducing apoptosis (cell death) of the lymphocytes, possibly with a toxic effect on mitochondrial function.[43] Although etomidate has a minimal effect on the cardiovascular system, it is often not recommended as a medication to help with intubation in this situation due to concerns it may lead to poor adrenal function and an increased risk of death.[67][68] The small amount of evidence there is, however, has not found a change in the risk of death with etomidate.[69]
+
+Paralytic agents are not suggested for use in sepsis cases in the absence of ARDS, as a growing body of evidence points to reduced durations of mechanical ventilation, ICU and hospital stays.[70] However, paralytic use in ARDS cases remains controversial. When appropriately used, paralytics may aid successful mechanical ventilation, however evidence has also suggested that mechanical ventilation in severe sepsis does not improve oxygen consumption and delivery.[70]
+Early goal directed therapy
+
+Early goal directed therapy (EGDT) is an approach to the management of severe sepsis during the initial 6 hours after diagnosis.[71] It is a step-wise approach, with the physiologic goal of optimizing cardiac preload, afterload, and contractility.[72] It includes giving early antibiotics.[72] EGDT also involves monitoring of hemodynamic parameters and specific interventions to achieve key resuscitation targets which include maintaining a central venous pressure between 8–12 mmHg, a mean arterial pressure of between 65–90 mmHg, a central venous oxygen saturation (ScvO2) greater than 70% and a urine output of greater than 0.5 ml/kg/hour. The goal is to optimize oxygen delivery to tissues and achieve a balance between systemic oxygen delivery and demand.[72] An appropriate decrease in serum lactate may be equivalent to ScvO2 and easier to obtain.[73]
+
+In the original trial, early goal directed therapy was found to reduce mortality from 46.5% to 30.5% in those with sepsis,[72] and the Surviving Sepsis Campaign has been recommending its use.[8] However, three more recent large randomized control trials (ProCESS, ARISE, and ProMISe), did not demonstrate a 90-day mortality benefit of early goal directed therapy when compared to standard therapy in severe sepsis.[74] It is likely that some parts of EGDT are more important than others.[74] Following these trials the use of EGDT is still considered reasonable.[75]
+Newborns
+
+Neonatal sepsis can be difficult to diagnose as newborns may be asymptomatic.[76] If a newborn shows signs and symptoms suggestive of sepsis, antibiotics are immediately started and are either changed to target a specific organism identified by diagnostic testing or discontinued after an infectious cause for the symptoms has been ruled out.[77] Despite early intervention, death occurs in 13% of children who develop septic shock, with the risk partly based on other health problems. Those without multiple organ system failure or who require only one inotropic agent mortality is low.[78]
+Other
+
+Treating fever in sepsis, including people in septic shock, has not been associated with any improvement in mortality over a period of 28 days.[79] Treatment of fever still occurs for other reasons.[80][81]
+
+A 2012 Cochrane review concluded that N-acetylcysteine does not reduce mortality in those with SIRS or sepsis and may even be harmful.[82]
+
+Recombinant activated protein C (drotrecogin alpha) was originally introduced for severe sepsis (as identified by a high APACHE II score), where it was thought to confer a survival benefit.[71] However, subsequent studies showed that it increased adverse events—bleeding risk in particular—and did not decrease mortality.[83] It was removed from sale in 2011.[83] Another medication known as eritoran also has not shown benefit.[84]
+
+In those with high blood sugar levels, insulin to bring it down to 7.8–10 mmol/L (140–180 mg/dL) is recommended with lower levels potentially worsening outcomes.[85] Glucose levels taken from capillary blood should be interpreted with care because such measurements may not be accurate. If a person has an arterial catheter, arterial blood is recommended for blood glucose testing.[5]
+
+Intermittent or continuous renal replacement therapy may be used if indicated. However, sodium bicarbonate is not recommended for a person with lactic acidosis secondary to hypoperfusion. Low molecular weight heparin (LMWH), unfractionated heparin (UFH), and mechanical prophylaxis with intermittent pneumatic compression devices are recommended for any person with sepsis at moderate to high risk of venous thromboembolism.[5] Stress ulcer prevention with proton-pump inhibitor (PPI) and H2 antagonist are useful in a person with risk factors of developing upper gastrointestinal bleeding (UGIB) such as on mechanical ventilation for more than 48 hours, coagulation disorders, liver disease, and renal replacement therapy.[5] Achieving partial or full enteral feeding (delivery of nutrients through a feeding tube) is chosen as the best approach to provide nutrition for a person who is contraindicated for oral intake or unable to tolerate orally in the first seven days of sepsis when compared to intravenous nutrition. However, omega-3 fatty acids are not recommended as immune supplements for a person with sepsis or septic shock. The usage of prokinetic agents such as metoclopramide, domperidone, and erythromycin are recommended for those who are septic and unable to tolerate enteral feeding. However, these agents may precipitate prolongation of the QT interval and consequently provoke a ventricular arrhythmia such as torsades de pointes. The usage of prokinetic agents should be reassessed daily and stopped if no longer indicated.[5]
+Prognosis
+
+Severe sepsis will prove fatal in approximately 20–35% of people, and septic shock will prove fatal in 30–70% of people.[86] Lactate is a useful method of determining prognosis, with those who have a level greater than 4 mmol/L having a mortality of 40% and those with a level of less than 2 mmol/L having a mortality of less than 15%.[26]
+
+There are a number of prognostic stratification systems, such as APACHE II and Mortality in Emergency Department Sepsis. APACHE II factors in the person's age, underlying condition, and various physiologic variables to yield estimates of the risk of dying of severe sepsis. Of the individual covariates, the severity of underlying disease most strongly influences the risk of death. Septic shock is also a strong predictor of short- and long-term mortality. Case-fatality rates are similar for culture-positive and culture-negative severe sepsis. The Mortality in Emergency Department Sepsis (MEDS) score is simpler, and useful in the emergency department environment.[87]
+
+Some people may experience severe long-term cognitive decline following an episode of severe sepsis, but the absence of baseline neuropsychological data in most people with sepsis makes the incidence of this difficult to quantify or to study.[88]
+Epidemiology
+
+Sepsis causes millions of deaths globally each year and is the most common cause of death in people who have been hospitalized.[3][71] The worldwide incidence of sepsis is estimated to be 18 million cases per year.[89] In the United States sepsis affects approximately 3 in 1,000 people,[26] and severe sepsis contributes to more than 200,000 deaths per year.[90]
+
+Sepsis occurs in 1–2% of all hospitalizations and accounts for as much as 25% of ICU bed utilization. Due to it rarely being reported as a primary diagnosis (often being a complication of cancer or other illness), the incidence, mortality, and morbidity rates of sepsis are likely underestimated.[36] A study of U.S. states found approximately 651 hospital stays per 100,000 population with a sepsis diagnosis in 2010.[91] It is the second-leading cause of death in non-coronary intensive care unit (ICU) and the tenth-most-common cause of death overall (the first being heart disease).[92] Children under 12 months of age and elderly people have the highest incidence of severe sepsis.[36] Among U.S. patients who had multiple sepsis hospital admissions in 2010, those who were discharged to a skilled nursing facility or long term care following the initial hospitalization were more likely to be readmitted than those discharged to another form of care.[91] A study of 18 U.S. states found that, amongst Medicare patients in 2011, sepsis was the second most common principal reason for readmission within 30 days.[93]
+
+Several medical conditions increase a person's susceptibility to infection and developing sepsis. Common sepsis risk factors include age (especially the very young and old); conditions that weaken the immune system such as cancer, diabetes, or the absence of a spleen; and major trauma and burns.[1][94][95]
+
+From 1979 to 2000, data from the United States National Hospital Discharge Survey showed that the incidence of sepsis increased fourfold, to 240 cases per 100,000 population, with higher incidence in men when compared to women. During the same time frame, the in-hospital case fatality rate was reduced from 28% to 18%. However, according to the nationwide inpatient sample from the United States, the incidence of severe sepsis increased from 200 per 10,000 population in 2003 to 300 cases in 2007 for population aged more than 18 years. The incidence rate is particularly high among infants, with the incidence of 500 cases per 100,000 population. Mortality related to sepsis increases with age, from less than 10% in the age group of 3 to 5 years to 60% by sixth decade of life.[17] The increase in average age of the population, alongside the presence of more people with chronic diseases or on immunosuppressive medications, and also the increase in the number of invasive procedures being performed, has led to an increased rate of sepsis.[18]
+History
+Personification of septicaemia, carrying a spray can marked "Poison"
+
+The term "σήψις" (sepsis) was introduced by Hippocrates in the fourth century BC, and it meant the process of decay or decomposition of organic matter.[96][97][98] In the eleventh century, Avicenna used the term "blood rot" for diseases linked to severe purulent process. Though severe systemic toxicity had already been observed, it was only in the 19th century that the specific term – sepsis – was used for this condition.
+
+The terms "septicemia", also spelled "septicaemia", and "blood poisoning" referred to the microorganisms or their toxins in the blood and are no longer commonly used.[12][13] The modern term for this is dependent on the microorganism that is present: bacteremia if bacteria are present in the blood at abnormal levels and are the causative issue, viremia for viruses, and fungemia for a fungus.[99]
+
+By the end of the 19th century, it was widely believed that microbes produced substances that could injure the mammalian host and that soluble toxins released during infection caused the fever and shock that were commonplace during severe infections. Pfeiffer coined the term endotoxin at the beginning of the 20th century to denote the pyrogenic principle associated with Vibrio cholerae. It was soon realised that endotoxins were expressed by most and perhaps all gram-negative bacteria. The lipopolysaccharide character of enteric endotoxins was elucidated in 1944 by Shear.[100] The molecular character of this material was determined by Luderitz et al. in 1973.[101]
+
+It was discovered in 1965 that a strain of C3H/HeJ mice were immune to the endotoxin-induced shock.[102] The genetic locus for this effect was dubbed Lps. These mice were also found to be hypersusceptible to infection by gram-negative bacteria.[103] These observations were finally linked in 1998 by the discovery of the toll-like receptor gene 4 (TLR 4).[104] Genetic mapping work, performed over a period of five years, showed that TLR4 was the sole candidate locus within the Lps critical region; this strongly implied that a mutation within TLR4 must account for the lipopolysaccharide resistance phenotype. The defect in the TLR4 gene that led to the endotoxin resistant phenotype was discovered to be due to a mutation in the cytoplasm.[105]
+
+Controversy occurred in the scientific community over the use of mouse models in research into sepsis in 2013, when scientists published a review of the mouse immune system compared to the human immune system, and showed that on a systems level, the two worked very differently; the authors noted that as of the date of their article over 150 clinical trials of sepsis had been conducted in humans, almost all of them supported by promising data in mice, and that all of them had failed. The authors called for abandoning the use of mouse models in sepsis research; others rejected that but called for more caution in interpreting the results of mouse studies, and more careful design of preclinical studies.[106][107][108][109] One approach is to rely more on studying biopsies and clinical data from people who have had sepsis, to try to identify biomarkers and drug targets for intervention.[110]
+Society and culture
+Economics
+
+Sepsis was the most expensive condition treated in United States' hospital stays in 2013, at an aggregate cost of $23.6 billion for nearly 1.3 million hospitalizations.[111] Costs for sepsis hospital stays more than quadrupled since 1997 with an 11.5 percent annual increase.[112] By payer, it was the most costly condition billed to Medicare and the uninsured, the second-most costly billed to Medicaid, and the fourth-most costly billed to private insurance.[111]
+Education
+
+A large international collaboration entitled the "Surviving Sepsis Campaign" was established in 2002[113] to educate people about sepsis and to improve patient outcomes with sepsis. The Campaign has published an evidence-based review of management strategies for severe sepsis, with the aim to publish a complete set of guidelines in subsequent years.[71]
+
+Sepsis Alliance is a charitable organization that was created to raise sepsis awareness among both the general public and healthcare professionals.[114] 
+
+

@@ -1,0 +1,236 @@
+Dengue fever,dengue,breakbone fever
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For other uses, see Dengue fever (disambiguation).
+Dengue fever
+Other names	Dengue, breakbone fever[1][2]
+Photograph of a person's back with the skin exhibiting the characteristic rash of dengue fever
+The typical rash seen in dengue fever
+Pronunciation	
+
+    /ˈdɛŋɡeɪ, -ɡi/ 
+
+Specialty	Infectious disease
+Symptoms	Fever, headache, muscle and joint pain, rash[1][2]
+Complications	Bleeding, low levels of blood platelets, dangerously low blood pressure[2]
+Usual onset	3–14 days after exposure[2]
+Duration	2–7 days[1]
+Causes	Dengue virus by Aedes mosquitos[1]
+Diagnostic method	Detecting antibodies to the virus or its RNA[2]
+Differential diagnosis	Malaria, yellow fever, viral hepatitis, leptospirosis[3]
+Prevention	Dengue fever vaccine, decreasing mosquito exposure[1][4]
+Treatment	Supportive care, intravenous fluids, blood transfusions[2]
+Frequency	50 to 528 million per year[5]
+Deaths	~20,000[6]
+
+Dengue fever is a mosquito-borne tropical disease caused by the dengue virus.[1] Symptoms typically begin three to fourteen days after infection.[2] This may include a high fever, headache, vomiting, muscle and joint pains, and a characteristic skin rash.[1][2] Recovery generally takes two to seven days.[1] In a small proportion of cases, the disease develops into severe dengue, also known as dengue hemorrhagic fever, resulting in bleeding, low levels of blood platelets and blood plasma leakage, or into dengue shock syndrome, where dangerously low blood pressure occurs.[1][2]
+
+Dengue is spread by several species of female mosquitoes of the Aedes type, principally A. aegypti.[2][1] The virus has five types;[7][8] infection with one type usually gives lifelong immunity to that type, but only short-term immunity to the others.[1] Subsequent infection with a different type increases the risk of severe complications.[1] A number of tests are available to confirm the diagnosis including detecting antibodies to the virus or its RNA.[2]
+
+A vaccine for dengue fever has been approved and is commercially available in a number of countries.[4][9] The vaccine, however, is only recommended in those who have been previously infected.[10] Other methods of prevention include reducing mosquito habitat and limiting exposure to bites.[1] This may be done by getting rid of or covering standing water and wearing clothing that covers much of the body.[1] Treatment of acute dengue is supportive and includes giving fluid either by mouth or intravenously for mild or moderate disease.[2] For more severe cases, blood transfusion may be required.[2] About half a million people require hospital admission every year.[1] Paracetamol (acetaminophen) is recommended instead of nonsteroidal anti-inflammatory drugs (NSAIDs) for fever reduction and pain relief in dengue due to an increased risk of bleeding from NSAID use.[2][11][12]
+
+Dengue has become a global problem since the Second World War and is common in more than 110 countries, mainly in Asia and South America.[13][14] Each year between 50 and 528 million people are infected and approximately 10,000 to 20,000 die.[5][6][15][16] The earliest descriptions of an outbreak date from 1779.[14] Its viral cause and spread were understood by the early 20th century.[17] Apart from eliminating the mosquitos, work is ongoing for medication targeted directly at the virus.[18] It is classified as a neglected tropical disease.[19]
+File:Wikipedia-VideoWiki-Dengue fever.webmPlay media
+Video summary (script)
+Contents
+
+    1 Signs and symptoms
+        1.1 Clinical course
+        1.2 Associated problems
+    2 Cause
+        2.1 Virology
+        2.2 Transmission
+        2.3 Predisposition
+    3 Mechanism
+        3.1 Viral replication
+        3.2 Severe disease
+    4 Diagnosis
+        4.1 Classification
+        4.2 Laboratory tests
+    5 Prevention
+        5.1 Vaccine
+        5.2 Anti-dengue day
+    6 Management
+    7 Epidemiology
+    8 History
+        8.1 Etymology
+    9 Society and culture
+        9.1 Blood donation
+        9.2 Awareness efforts
+    10 Research
+        10.1 Vector
+        10.2 Wolbachia
+        10.3 Treatment
+    11 References
+    12 External links
+
+Signs and symptoms
+Outline of a human torso with arrows indicating the organs affected in the various stages of dengue fever
+Schematic depiction of the symptoms of dengue fever
+Clinical course of dengue fever[20]
+
+Typically, people infected with dengue virus are asymptomatic (80%) or have only mild symptoms such as an uncomplicated fever.[15][21][22] Others have more severe illness (5%), and in a small proportion it is life-threatening.[15][22] The incubation period (time between exposure and onset of symptoms) ranges from 3 to 14 days, but most often it is 4 to 7 days.[23] Therefore, travelers returning from endemic areas are unlikely to have dengue if fever or other symptoms start more than 14 days after arriving home.[13] Children often experience symptoms similar to those of the common cold and gastroenteritis (vomiting and diarrhea)[24] and have a greater risk of severe complications,[13][25] though initial symptoms are generally mild but include high fever.[25]
+Clinical course
+
+The characteristic symptoms of dengue are sudden-onset fever, headache (typically located behind the eyes), muscle and joint pains, and a rash. The alternative name for dengue, "breakbone fever", comes from the associated muscle and joint pains.[15][26] The course of infection is divided into three phases: febrile, critical, and recovery.[20]
+
+The febrile phase involves high fever, potentially over 40 °C (104 °F), and is associated with generalized pain and a headache; this usually lasts two to seven days.[20][26] Nausea and vomiting may also occur.[25] A rash occurs in 50–80% of those with symptoms[26][27] in the first or second day of symptoms as flushed skin, or later in the course of illness (days 4–7), as a measles-like rash.[27][28] A rash described as "islands of white in a sea of red" has also been observed.[29] Some petechiae (small red spots that do not disappear when the skin is pressed, which are caused by broken capillaries) can appear at this point,[20] as may some mild bleeding from the mucous membranes of the mouth and nose.[13][26] The fever itself is classically biphasic or saddleback in nature, breaking and then returning for one or two days.[28][29]
+
+In some people, the disease proceeds to a critical phase as fever resolves.[25] During this period, there is leakage of plasma from the blood vessels, typically lasting one to two days.[20] This may result in fluid accumulation in the chest and abdominal cavity as well as depletion of fluid from the circulation and decreased blood supply to vital organs.[20] There may also be organ dysfunction and severe bleeding, typically from the gastrointestinal tract.[13][20] Shock (dengue shock syndrome) and hemorrhage (dengue hemorrhagic fever) occur in less than 5% of all cases of dengue;[13] however, those who have previously been infected with other serotypes of dengue virus ("secondary infection") are at an increased risk.[13][30] This critical phase, while rare, occurs relatively more commonly in children and young adults.[25]
+
+The recovery phase occurs next, with resorption of the leaked fluid into the bloodstream.[20] This usually lasts two to three days.[13] The improvement is often striking, and can be accompanied with severe itching and a slow heart rate.[13][20] Another rash may occur with either a maculopapular or a vasculitic appearance, which is followed by peeling of the skin.[25] During this stage, a fluid overload state may occur; if it affects the brain, it may cause a reduced level of consciousness or seizures.[13] A feeling of fatigue may last for weeks in adults.[25]
+The rash of dengue fever in the acute stage of the infection blanches when pressed
+The rash that commonly forms during the recovery from dengue fever with its classic islands of white in a sea of red.
+Associated problems
+
+Dengue can occasionally affect several other body systems,[20] either in isolation or along with the classic dengue symptoms.[24] A decreased level of consciousness occurs in 0.5–6% of severe cases, which is attributable either to inflammation of the brain by the virus or indirectly as a result of impairment of vital organs, for example, the liver.[24][29][31]
+
+Other neurological disorders have been reported in the context of dengue, such as transverse myelitis and Guillain–Barré syndrome.[24][31] Infection of the heart and acute liver failure are among the rarer complications.[13][20]
+
+A pregnant woman who develops dengue may be at a higher risk of miscarriage as well as low birth weight and premature birth.[32]
+Cause
+Virology
+Main article: Dengue virus
+A transmission electron microscopy image showing dengue virus
+A TEM micrograph showing dengue virus virions (the cluster of dark dots near the center)
+
+Dengue fever virus (DENV) is an RNA virus of the family Flaviviridae; genus Flavivirus. Other members of the same genus include yellow fever virus, West Nile virus, Zika virus, St. Louis encephalitis virus, Japanese encephalitis virus, tick-borne encephalitis virus, Kyasanur forest disease virus, and Omsk hemorrhagic fever virus.[29] Most are transmitted by arthropods (mosquitos or ticks), and are therefore also referred to as arboviruses (arthropod-borne viruses).[29]
+
+The dengue virus genome (genetic material) contains about 11,000 nucleotide bases, which code for the three different types of protein molecules (C, prM and E) that form the virus particle and seven other non-structural protein molecules (NS1, NS2a, NS2b, NS3, NS4a, NS4b, NS5) that are found in infected host cells only and are required for replication of the virus.[30][33] There are five[7] strains of the virus, called serotypes, of which the first four are referred to as DENV-1, DENV-2, DENV-3 and DENV-4.[21] The fifth type was announced in 2013.[7] The distinctions between the serotypes are based on their antigenicity.[34]
+Transmission
+Close-up photograph of an Aedes aegypti mosquito biting human skin
+The mosquito, Aedes aegypti, feeding on a human host
+
+Dengue virus is primarily transmitted by Aedes mosquitos, particularly A. aegypti.[21] These mosquitos usually live between the latitudes of 35° North and 35° South below an elevation of 1,000 metres (3,300 ft).[21] They typically bite during the early morning and in the evening,[35][36] but they may bite and thus spread infection at any time of day.[37] Other Aedes species that transmit the disease include A. albopictus, A. polynesiensis and A. scutellaris.[21] Humans are the primary host of the virus,[21][29] but it also circulates in nonhuman primates.[38] An infection can be acquired via a single bite.[39] A female mosquito that takes a blood meal from a person infected with dengue fever, during the initial 2- to 10-day febrile period, becomes itself infected with the virus in the cells lining its gut.[40] About 8–10 days later, the virus spreads to other tissues including the mosquito's salivary glands and is subsequently released into its saliva. The virus seems to have no detrimental effect on the mosquito, which remains infected for life.[23] Aedes aegypti is particularly involved, as it prefers to lay its eggs in artificial water containers, to live in close proximity to humans, and to feed on people rather than other vertebrates.[23]
+
+Dengue can also be transmitted via infected blood products and through organ donation.[41][42] In countries such as Singapore, where dengue is endemic, the risk is estimated to be between 1.6 and 6 per 10,000 transfusions.[43] Vertical transmission (from mother to child) during pregnancy or at birth has been reported.[44] Other person-to-person modes of transmission have also been reported, but are very unusual.[26] The genetic variation in dengue viruses is region specific, suggestive that establishment into new territories is relatively infrequent, despite dengue emerging in new regions in recent decades.[25]
+Predisposition
+
+Severe disease is more common in babies and young children, and in contrast to many other infections, it is more common in children who are relatively well nourished.[13] Other risk factors for severe disease include female sex, high body mass index,[25] and viral load.[45] While each serotype can cause the full spectrum of disease,[30] virus strain is a risk factor.[25] Infection with one serotype is thought to produce lifelong immunity to that type, but only short-term protection against the other three.[21][26] The risk of severe disease from secondary infection increases if someone previously exposed to serotype DENV-1 contracts serotype DENV-2 or DENV-3, or if someone previously exposed to DENV-3 acquires DENV-2.[33] Dengue can be life-threatening in people with chronic diseases such as diabetes and asthma.[33]
+
+Polymorphisms (normal variations) in particular genes have been linked with an increased risk of severe dengue complications. Examples include the genes coding for the proteins known as TNFα, mannan-binding lectin,[15] CTLA4, TGFβ,[30] DC-SIGN, PLCE1, and particular forms of human leukocyte antigen from gene variations of HLA-B.[25][33] A common genetic abnormality, especially in Africans, known as glucose-6-phosphate dehydrogenase deficiency, appears to increase the risk.[45] Polymorphisms in the genes for the vitamin D receptor and FcγR seem to offer protection against severe disease in secondary dengue infection.[33]
+Mechanism
+
+When a mosquito carrying dengue virus bites a person, the virus enters the skin together with the mosquito's saliva. It binds to and enters white blood cells, and reproduces inside the cells while they move throughout the body. The white blood cells respond by producing a number of signaling proteins, such as cytokines and interferons, which are responsible for many of the symptoms, such as the fever, the flu-like symptoms, and the severe pains. In severe infection, the virus production inside the body is greatly increased, and many more organs (such as the liver and the bone marrow) can be affected. Fluid from the bloodstream leaks through the wall of small blood vessels into body cavities due to capillary permeability. As a result, less blood circulates in the blood vessels, and the blood pressure becomes so low that it cannot supply sufficient blood to vital organs. Furthermore, dysfunction of the bone marrow due to infection of the stromal cells leads to reduced numbers of platelets, which are necessary for effective blood clotting; this increases the risk of bleeding, the other major complication of dengue fever.[45]
+Viral replication
+
+Once inside the skin, dengue virus binds to Langerhans cells (a population of dendritic cells in the skin that identifies pathogens).[45] The virus enters the cells through binding between viral proteins and membrane proteins on the Langerhans cell, specifically the C-type lectins called DC-SIGN, mannose receptor and CLEC5A.[30] DC-SIGN, a non-specific receptor for foreign material on dendritic cells, seems to be the main point of entry.[33] The dendritic cell moves to the nearest lymph node. Meanwhile, the virus genome is translated in membrane-bound vesicles on the cell's endoplasmic reticulum, where the cell's protein synthesis apparatus produces new viral proteins that replicate the viral RNA and begin to form viral particles. Immature virus particles are transported to the Golgi apparatus, the part of the cell where some of the proteins receive necessary sugar chains (glycoproteins). The now mature new viruses are released by exocytosis. They are then able to enter other white blood cells, such as monocytes and macrophages.[30]
+
+The initial reaction of infected cells is to produce interferon, a cytokine that raises a number of defenses against viral infection through the innate immune system by augmenting the production of a large group of proteins mediated by the JAK-STAT pathway. Some serotypes of dengue virus appear to have mechanisms to slow down this process. Interferon also activates the adaptive immune system, which leads to the generation of antibodies against the virus as well as T cells that directly attack any cell infected with the virus.[30] Various antibodies are generated; some bind closely to the viral proteins and target them for phagocytosis (ingestion by specialized cells and destruction), but some bind the virus less well and appear instead to deliver the virus into a part of the phagocytes where it is not destroyed but is able to replicate further.[30]
+Severe disease
+
+It is not entirely clear why secondary infection with a different strain of dengue virus places people at risk of dengue hemorrhagic fever and dengue shock syndrome. The most widely accepted hypothesis is that of antibody-dependent enhancement (ADE). The exact mechanism behind ADE is unclear. It may be caused by poor binding of non-neutralizing antibodies and delivery into the wrong compartment of white blood cells that have ingested the virus for destruction.[30][33] There is a suspicion that ADE is not the only mechanism underlying severe dengue-related complications,[15][31] and various lines of research have implied a role for T cells and soluble factors such as cytokines and the complement system.[45]
+
+Severe disease is marked by the problems of capillary permeability (an allowance of fluid and protein normally contained within blood to pass) and disordered blood clotting.[24][25] These changes appear associated with a disordered state of the endothelial glycocalyx, which acts as a molecular filter of blood components.[25] Leaky capillaries (and the critical phase) are thought to be caused by an immune system response.[25] Other processes of interest include infected cells that become necrotic—which affect both coagulation and fibrinolysis (the opposing systems of blood clotting and clot degradation)—and low platelets in the blood, also a factor in normal clotting.[45]
+Diagnosis
+Warning signs[25][46]
+Worsening abdominal pain
+Ongoing vomiting
+Liver enlargement
+Mucosal bleeding
+High hematocrit with low platelets
+Lethargy or restlessness
+Serosal effusions
+
+The diagnosis of dengue is typically made clinically, on the basis of reported symptoms and physical examination; this applies especially in endemic areas.[15] However, early disease can be difficult to differentiate from other viral infections.[13] A probable diagnosis is based on the findings of fever plus two of the following: nausea and vomiting, rash, generalized pains, low white blood cell count, positive tourniquet test, or any warning sign (see table) in someone who lives in an endemic area.[46] Warning signs typically occur before the onset of severe dengue.[20] The tourniquet test, which is particularly useful in settings where no laboratory investigations are readily available, involves the application of a blood pressure cuff at between the diastolic and systolic pressure for five minutes, followed by the counting of any petechial hemorrhages; a higher number makes a diagnosis of dengue more likely with the cut off being more than 10 to 20 per 1 inch2 (6.25 cm2).[20][47]
+
+The diagnosis should be considered in anyone who develops a fever within two weeks of being in the tropics or subtropics.[25] It can be difficult to distinguish dengue fever and chikungunya, a similar viral infection that shares many symptoms and occurs in similar parts of the world to dengue.[26] Often, investigations are performed to exclude other conditions that cause similar symptoms, such as malaria, leptospirosis, viral hemorrhagic fever, typhoid fever, meningococcal disease, measles, and influenza.[13][48] Zika fever also has similar symptoms as dengue.[49]
+
+The earliest change detectable on laboratory investigations is a low white blood cell count, which may then be followed by low platelets and metabolic acidosis.[13] A moderately elevated level of aminotransferase (AST and ALT) from the liver is commonly associated with low platelets and white blood cells.[25] In severe disease, plasma leakage results in hemoconcentration (as indicated by a rising hematocrit) and hypoalbuminemia.[13] Pleural effusions or ascites can be detected by physical examination when large,[13] but the demonstration of fluid on ultrasound may assist in the early identification of dengue shock syndrome.[13][15] The use of ultrasound is limited by lack of availability in many settings.[15] Dengue shock syndrome is present if pulse pressure drops to ≤ 20 mm Hg along with peripheral vascular collapse.[25] Peripheral vascular collapse is determined in children via delayed capillary refill, rapid heart rate, or cold extremities.[20] While warning signs are an important aspect for early detection of potential serious disease, the evidence for any specific clinical or laboratory marker is weak.[50]
+Classification
+
+The World Health Organization's 2009 classification divides dengue fever into two groups: uncomplicated and severe.[15][46] This replaces the 1997 WHO classification, which needed to be simplified as it had been found to be too restrictive, though the older classification is still widely used[46] including by the World Health Organization's Regional Office for South-East Asia as of 2011.[51] Severe dengue is defined as that associated with severe bleeding, severe organ dysfunction, or severe plasma leakage while all other cases are uncomplicated.[46] The 1997 classification divided dengue into undifferentiated fever, dengue fever, and dengue hemorrhagic fever.[13][52] Dengue hemorrhagic fever was subdivided further into grades I–IV. Grade I is the presence only of easy bruising or a positive tourniquet test in someone with fever, grade II is the presence of spontaneous bleeding into the skin and elsewhere, grade III is the clinical evidence of shock, and grade IV is shock so severe that blood pressure and pulse cannot be detected.[52] Grades III and IV are referred to as "dengue shock syndrome".[46][52]
+Laboratory tests
+Graph of when laboratory tests for dengue fever become positive. Day zero refers to the start of symptoms, 1st refers to in those with a primary infection, and 2nd refers to in those with a secondary infection.[25]
+
+The diagnosis of dengue fever may be confirmed by microbiological laboratory testing.[46][53] This can be done by virus isolation in cell cultures, nucleic acid detection by PCR, viral antigen detection (such as for NS1) or specific antibodies (serology).[33][48] Virus isolation and nucleic acid detection are more accurate than antigen detection, but these tests are not widely available due to their greater cost.[48] Detection of NS1 during the febrile phase of a primary infection may be greater than 90% sensitive however is only 60–80% in subsequent infections.[25] All tests may be negative in the early stages of the disease.[13][33] PCR and viral antigen detection are more accurate in the first seven days.[25] In 2012 a PCR test was introduced that can run on equipment used to diagnose influenza; this is likely to improve access to PCR-based diagnosis.[54]
+
+These laboratory tests are only of diagnostic value during the acute phase of the illness with the exception of serology. Tests for dengue virus-specific antibodies, types IgG and IgM, can be useful in confirming a diagnosis in the later stages of the infection. Both IgG and IgM are produced after 5–7 days. The highest levels (titres) of IgM are detected following a primary infection, but IgM is also produced in reinfection. IgM becomes undetectable 30–90 days after a primary infection, but earlier following re-infections. IgG, by contrast, remains detectable for over 60 years and, in the absence of symptoms, is a useful indicator of past infection. After a primary infection, IgG reaches peak levels in the blood after 14–21 days. In subsequent re-infections, levels peak earlier and the titres are usually higher. Both IgG and IgM provide protective immunity to the infecting serotype of the virus.[23][26][33] In testing for IgG and IgM antibodies there may be cross-reactivity with other flaviviruses which may result in a false positive after recent infections or vaccinations with yellow fever virus or Japanese encephalitis.[25] The detection of IgG alone is not considered diagnostic unless blood samples are collected 14 days apart and a greater than fourfold increase in levels of specific IgG is detected. In a person with symptoms, the detection of IgM is considered diagnostic.[23]
+Prevention
+A black and white photograph of people filling in a ditch with standing water
+A 1920s photograph of efforts to disperse standing water and thus decrease mosquito populations
+
+Prevention depends on control of and protection from the bites of the mosquito that transmits it.[35][55] The World Health Organization recommends an Integrated Vector Control program consisting of five elements:[35]
+
+    Advocacy, social mobilization and legislation to ensure that public health bodies and communities are strengthened;
+    Collaboration between the health and other sectors (public and private);
+    An integrated approach to disease control to maximize use of resources;
+    Evidence-based decision making to ensure any interventions are targeted appropriately; and
+    Capacity-building to ensure an adequate response to the local situation.
+
+The primary method of controlling A. aegypti is by eliminating its habitats.[35] This is done by getting rid of open sources of water, or if this is not possible, by adding insecticides or biological control agents to these areas.[35] Generalized spraying with organophosphate or pyrethroid insecticides, while sometimes done, is not thought to be effective.[22] Reducing open collections of water through environmental modification is the preferred method of control, given the concerns of negative health effects from insecticides and greater logistical difficulties with control agents.[35] People can prevent mosquito bites by wearing clothing that fully covers the skin, using mosquito netting while resting, and/or the application of insect repellent (DEET being the most effective).[39] While these measures can be an effective means of reducing an individual's risk of exposure, they do little in terms of mitigating the frequency of outbreaks, which appear to be on the rise in some areas, probably due to urbanization increasing the habitat of A. aegypti.[7] The range of the disease also appears to be expanding possibly due to climate change.[7]
+Vaccine
+
+In 2016 a partially effective vaccine for dengue fever became commercially available in the Philippines and Indonesia.[4][56] It has also been approved for use by Mexico, Brazil, El Salvador, Costa Rica, Singapore, Paraguay, much of Europe, and the United States.[56][57][9] The vaccine is only to be used in people who have previously had a dengue infection as otherwise there was evidence it may worsen subsequent infections.[9][58][10] In Indonesia it costs about US$207 for the recommended three doses.[56]
+
+The vaccine is produced by Sanofi and goes by the brand name Dengvaxia.[59] It is based on a weakened combination of the yellow fever virus and each of the four dengue serotypes.[36][60] Two studies of a vaccine found it was 60% effective and prevented more than 80 to 90% of severe cases.[61][62] This is less than wished for by some.[63]
+
+There are ongoing programs working on a dengue vaccine to cover all four serotypes.[55] Now that there is a fifth serotype this will need to be factored in.[7] One of the concerns is that a vaccine could increase the risk of severe disease through antibody-dependent enhancement (ADE).[64] The ideal vaccine is safe, effective after one or two injections, covers all serotypes, does not contribute to ADE, is easily transported and stored, and is both affordable and cost-effective.[64]
+Anti-dengue day
+A poster in Tampines, Singapore, notifying people that there are 10 or more cases of dengue in the neighbourhood (November 2015).
+
+International Anti-Dengue Day is observed every year on 15 June.[65] The idea was first agreed upon in 2010 with the first event held in Jakarta, Indonesia in 2011.[65] Further events were held in 2012 in Yangon, Myanmar and in 2013 in Vietnam.[65] Goals are to increase public awareness about dengue, mobilize resources for its prevention and control and, to demonstrate the Asian region's commitment in tackling the disease.[66]
+Management
+
+There are no specific antiviral drugs for dengue; however, maintaining proper fluid balance is important.[25] Treatment depends on the symptoms.[12] Those who are able to drink, are passing urine, have no "warning signs" and are otherwise healthy can be managed at home with daily follow-up and oral rehydration therapy.[12] Those who have other health problems, have "warning signs", or cannot manage regular follow-up should be cared for in hospital.[13][12] In those with severe dengue care should be provided in an area where there is access to an intensive care unit.[12]
+
+Intravenous hydration, if required, is typically only needed for one or two days.[12] In children with shock due to dengue a rapid dose of 20 mL/kg is reasonable.[67] The rate of fluid administration is then titrated to a urinary output of 0.5–1 mL/kg/h, stable vital signs and normalization of hematocrit.[13] The smallest amount of fluid required to achieve this is recommended.[12]
+
+Invasive medical procedures such as nasogastric intubation, intramuscular injections and arterial punctures are avoided, in view of the bleeding risk.[13] Paracetamol (acetaminophen) is used for fever and discomfort while NSAIDs such as ibuprofen and aspirin are avoided as they might aggravate the risk of bleeding.[12] Blood transfusion is initiated early in people presenting with unstable vital signs in the face of a decreasing hematocrit, rather than waiting for the hemoglobin concentration to decrease to some predetermined "transfusion trigger" level.[68] Packed red blood cells or whole blood are recommended, while platelets and fresh frozen plasma are usually not.[68] There is not enough evidence to determine if corticosteroids have a positive or negative effect in dengue fever.[69]
+
+During the recovery phase intravenous fluids are discontinued to prevent a state of fluid overload.[13] If fluid overload occurs and vital signs are stable, stopping further fluid may be all that is needed.[68] If a person is outside of the critical phase, a loop diuretic such as furosemide may be used to eliminate excess fluid from the circulation.[68]
+Epidemiology
+See also: Dengue fever outbreaks
+World map showing the countries where the Aedes mosquito is found (the southern US, eastern Brazil and most of sub-Saharan Africa), as well as those where Aedes and dengue have been reported (most of Central and tropical South America, South and Southeast Asia and many parts of tropical Africa).
+A. aegypti and Dengue distribution in 2006
+  A. aegypti distribution with history of epidemic dengue
+  A. aegypti distribution without history of epidemic dengue
+Dengue fever deaths per million persons in 2012
+  0
+  1
+  2
+  3
+  4–8
+  9-561
+
+Most people with dengue recover without any ongoing problems.[46] The fatality rate is 1–5%,[13] and less than 1% with adequate treatment;[46] however those who develop significantly low blood pressure may have a fatality rate of up to 26%.[13] Dengue is common in more than 110 countries.[13] In 2013 it causes about 60 million symptomatic infections worldwide, with 18% admitted to hospital and about 13,600 deaths.[70] The worldwide cost of dengue case is estimated US$9 billion.[70] For the decade of the 2000s, 12 countries in Southeast Asia were estimated to have about 3 million infections and 6,000 deaths annually.[71] It is reported in at least 22 countries in Africa; but is likely present in all of them with 20% of the population at risk.[72] This makes it one of the most common vector-borne diseases worldwide.[50]
+
+Infections are most commonly acquired in the urban environment.[23] In recent decades, the expansion of villages, towns and cities in the areas in which it is common, and the increased mobility of people has increased the number of epidemics and circulating viruses. Dengue fever, which was once confined to Southeast Asia, has now spread to Southern China, countries in the Pacific Ocean and America,[23] and might pose a threat to Europe.[22]
+
+Rates of dengue increased 30 fold between 1960 and 2010.[73] This increase is believed to be due to a combination of urbanization, population growth, increased international travel, and global warming.[15] The geographical distribution is around the equator. Of the 2.5 billion people living in areas where it is common 70% are from Asia and the Pacific.[73] An infection with dengue is second only to malaria as a diagnosed cause of fever among travelers returning from the developing world.[26] It is the most common viral disease transmitted by arthropods,[30] and has a disease burden estimated at 1,600 disability-adjusted life years per million population.[33] The World Health Organization counts dengue as one of seventeen neglected tropical diseases.[74]
+
+Like most arboviruses, dengue virus is maintained in nature in cycles that involve preferred blood-sucking vectors and vertebrate hosts.[23] The viruses are maintained in the forests of Southeast Asia and Africa by transmission from female Aedes mosquitos—of species other than A. aegypti—to their offspring and to lower primates.[23] In towns and cities, the virus is primarily transmitted by the highly domesticated A. aegypti. In rural settings the virus is transmitted to humans by A. aegypti and other species of Aedes such as A. albopictus.[23] Both these species had expanding ranges in the second half of the 20th century.[25] In all settings the infected lower primates or humans greatly increase the number of circulating dengue viruses, in a process called amplification.[23] One projection estimates that climate change, urbanization, and other factors could result in more than 6 billion people at risk of dengue infection by 2080.[75]
+History
+
+The first record of a case of probable dengue fever is in a Chinese medical encyclopedia from the Jin Dynasty (265–420 AD) which referred to a "water poison" associated with flying insects.[14][76] The primary vector, A. aegypti, spread out of Africa in the 15th to 19th centuries due in part to increased globalization secondary to the slave trade.[25] There have been descriptions of epidemics in the 17th century, but the most plausible early reports of dengue epidemics are from 1779 and 1780, when an epidemic swept across Asia, Africa and North America.[14] From that time until 1940, epidemics were infrequent.[14]
+
+In 1906, transmission by the Aedes mosquitos was confirmed, and in 1907 dengue was the second disease (after yellow fever) that was shown to be caused by a virus.[17] Further investigations by John Burton Cleland and Joseph Franklin Siler completed the basic understanding of dengue transmission.[17]
+
+The marked spread of dengue during and after the Second World War has been attributed to ecologic disruption. The same trends also led to the spread of different serotypes of the disease to new areas, and to the emergence of dengue hemorrhagic fever. This severe form of the disease was first reported in the Philippines in 1953; by the 1970s, it had become a major cause of child mortality and had emerged in the Pacific and the Americas.[14] Dengue hemorrhagic fever and dengue shock syndrome were first noted in Central and South America in 1981, as DENV-2 was contracted by people who had previously been infected with DENV-1 several years earlier.[29]
+Etymology
+
+The origins of the Spanish word dengue are not certain, but it is possibly derived from dinga in the Swahili phrase Ka-dinga pepo, which describes the disease as being caused by an evil spirit.[76] Slaves in the West Indies having contracted dengue were said to have the posture and gait of a dandy, and the disease was known as "dandy fever".[77][78]
+
+The term "break-bone fever" was applied by physician and United States Founding Father Benjamin Rush, in a 1789 report of the 1780 epidemic in Philadelphia. In the report title he uses the more formal term "bilious remitting fever".[79] The term dengue fever came into general use only after 1828.[78] Other historical terms include "breakheart fever" and "la dengue".[78] Terms for severe disease include "infectious thrombocytopenic purpura" and "Philippine", "Thai", or "Singapore hemorrhagic fever".[78]
+Society and culture
+Blood donation
+
+Outbreaks of dengue fever increases the need for blood products while decreasing the number of potential blood donors due to potential infection with the virus.[80] Someone who has a dengue infection typically is not allowed to donate blood for the next at least six months.[80]
+Awareness efforts
+
+A National Dengue Day is held in India on May 16 in an effort to raise awareness in affected countries.[81] Efforts are ongoing as of 2019 to make it a global event.[82] The Philippines has an awareness month in June since 1998.[83][84]
+Research
+Two men emptying a bag with fish into standing water; the fish eat the mosquito larvae
+Public health officers releasing P. reticulata fry into an artificial lake in the Lago Norte district of Brasília, Brazil, as part of a vector control effort
+
+Research efforts to prevent and treat dengue include various means of vector control,[85] vaccine development, and antiviral drugs.[55]
+Vector
+
+With regards to vector control, a number of novel methods have been used to reduce mosquito numbers with some success including the placement of the guppy (Poecilia reticulata) or copepods in standing water to eat the mosquito larvae.[85] There are also trials with genetically modified male A. aegypti that after release into the wild mate with females, and render their offspring unable to fly.[86]
+Wolbachia
+
+Attempts are ongoing to infect the mosquito population with bacteria of the genus Wolbachia, which makes the mosquitos partially resistant to dengue virus.[25][87] While artificially induced infection with Wolbachia is effective, it is unclear if naturally acquired infections are protective.[88] Work is still ongoing as of 2015 to determine the best type of Wolbachia to use.[89]
+Treatment
+
+Apart from attempts to control the spread of the Aedes mosquito there are ongoing efforts to develop antiviral drugs that would be used to treat attacks of dengue fever and prevent severe complications.[18][90] Discovery of the structure of the viral proteins may aid the development of effective drugs.[18] There are several plausible targets. The first approach is inhibition of the viral RNA-dependent RNA polymerase (coded by NS5), which copies the viral genetic material, with nucleoside analogs. Secondly, it may be possible to develop specific inhibitors of the viral protease (coded by NS3), which splices viral proteins.[91] Finally, it may be possible to develop entry inhibitors, which stop the virus entering cells, or inhibitors of the 5′ capping process, which is required for viral replication.[90] 

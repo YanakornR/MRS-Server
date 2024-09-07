@@ -1,0 +1,144 @@
+Salmonellosis
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Salmonellosis
+SalmonellaNIAID.jpg
+Electron micrograph showing Salmonella typhimurium (red) invading cultured human cells
+Specialty	Infectious disease
+Symptoms	Diarrhea, fever, abdominal cramps, vomiting[1]
+Complications	Reactive arthritis, irritable bowel syndrome[2]
+Usual onset	0.5–3 days post exposure[1]
+Duration	4–7 days[1]
+Types	Typhoidal, nontyphoidal[1]
+Causes	Salmonella[1]
+Risk factors	Old, young, weak immune system, bottle feeding, proton pump inhibitors[1]
+Diagnostic method	Stool test, blood tests[3][1]
+Differential diagnosis	Other types of gastroenteritis[2]
+Prevention	Proper preparation and cooking of food[4]
+Treatment	Fluids by mouth, intravenous fluids, antibiotics[1]
+Frequency	1.2 million non–typhoidal cases per year (US)[1]
+Deaths	268,000 (2015)[5]
+
+Salmonellosis is a symptomatic infection caused by bacteria of the Salmonella type.[1] The most common symptoms are diarrhea, fever, abdominal cramps, and vomiting.[1] Symptoms typically occur between 12 hours and 36 hours after exposure, and last from two to seven days.[4] Occasionally more significant disease can result in dehydration.[4] The old, young, and others with a weakened immune system are more likely to develop severe disease.[1] Specific types of Salmonella can result in typhoid fever or paratyphoid fever.[1][3]
+
+There are two species of Salmonella: Salmonella bongori and Salmonella enterica with many subspecies.[4] Infection is usually spread by eating contaminated meat, eggs, or milk.[6] Other foods may spread the disease if they have come into contact with manure.[4] A number of pets including cats, dogs, and reptiles can also carry and spread the infection.[4] Diagnosis is by a stool test or blood tests.[3][1]
+
+Efforts to prevent the disease include the proper washing, preparation, and cooking of food.[4] Mild disease typically does not require specific treatment.[4] More significant cases may require treatment of electrolyte problems and intravenous fluid replacement.[1][4] In those at high risk or in whom the disease has spread outside the intestines, antibiotics are recommended.[4]
+
+Salmonellosis is one of the most common causes of diarrhea globally.[2] In 2015, 90,300 deaths occurred from nontyphoidal salmonellosis, and 178,000 deaths from typhoidal salmonellosis.[5] In the United States, about 1.2 million cases and 450 deaths occur from nontyphoidal salmonellosis a year.[1] In Europe, it is the second most common foodborne disease after campylobacteriosis.[2]
+Contents
+
+    1 Signs and symptoms
+        1.1 Enteritis
+        1.2 Typhoid fever
+        1.3 Long-term
+    2 Causes
+    3 Prevention
+        3.1 Vaccine
+        3.2 Industrial hygiene
+    4 Treatment
+    5 Epidemiology
+        5.1 United States
+        5.2 Europe
+        5.3 Elsewhere
+    6 History
+        6.1 Four-inch regulation
+    7 See also
+    8 References
+    9 External links
+
+Signs and symptoms
+Enteritis
+See also: Enteritis § Infectious enteritis
+
+After a short incubation period of a few hours to one day, the bacteria multiply in the small intestine, causing an intestinal inflammation (enteritis). Most people with salmonellosis develop diarrhea, fever, vomiting, and abdominal cramps 12 to 72 hours after infection.[7] Diarrhea is often watery and non-bloody but may be mucoid and bloody.[8] In most cases, the illness lasts four to seven days, and does not require treatment. In some cases, though, the diarrhea may be so severe that the patient becomes dangerously dehydrated and must be hospitalized. At the hospital, the patient may receive fluids intravenously to treat the dehydration, and may be given medications to provide symptomatic relief, such as fever reduction. In severe cases, the Salmonella infection may spread from the intestines to the blood stream, and then to other body sites, and can cause death, unless the person is treated promptly with antibiotics.
+
+In otherwise healthy adults, the symptoms can be mild. Normally, no sepsis occurs, but it can occur exceptionally as a complication in the immunocompromised. However, in people at risk such as infants, small children, and the elderly, Salmonella infections can become very serious, leading to complications. In infants, dehydration can cause a state of severe toxicity. Extraintestinal localizations are possible, especially Salmonella meningitis in children, osteitis, etc. Children with sickle-cell anemia who are infected with Salmonella may develop osteomyelitis. Treatment of osteomyelitis, in this case, will be to use fluoroquinolones (ciprofloxacin, levofloxacin, etc., and nalidixic acid).
+
+Those whose only symptom is diarrhea usually completely recover, but their bowel habits may not return to normal for several months.[9]
+Typhoid fever
+See also: Typhoid fever and Paratyphoid fever
+
+Typhoid fever occurs when Salmonella bacteria enter the lymphatic system and cause a systemic form of salmonellosis. Endotoxins first act on the vascular and nervous apparatus, resulting in increased permeability and decreased tone of the vessels, upset thermal regulation, vomiting, and diarrhea. In severe forms of the disease, enough liquid and electrolytes are lost to upset the fluid balance, cause an electrolyte imbalance, decrease the circulating blood volume and arterial pressure, and cause hypovolemic shock. Septic shock may also develop. Shock of mixed character (with signs of both hypovolemic and septic shock) are more common in severe salmonellosis. Oliguria and azotemia develop in severe cases as a result of renal involvement due to hypoxia and toxemia.[7]
+Long-term
+
+Salmonellosis is associated with later irritable bowel syndrome[10] and inflammatory bowel disease.[11] Evidence however does not support it being a direct cause of the latter.[11]
+
+A small number of people afflicted with salmonellosis experience reactive arthritis, which can last months or years and can lead to chronic arthritis.[12] In sickle-cell anemia, osteomyelitis due to Salmonella infection is much more common than in the general population. Though Salmonella infection is frequently the cause of osteomyelitis in people with sickle-cell, it is not the most common cause, which is Staphylococcus infection.[13]
+
+Those infected may become asymptomatic carriers, but this is relatively uncommon, with shedding observed in only 0.2 to 0.6% of cases after a year.[14]
+Causes
+An infographic illustrating how Salmonella bacteria spread from the farm
+
+    Contaminated food, often having no unusual look or smell[15]
+    Poor kitchen hygiene, especially problematic in institutional kitchens and restaurants because this can lead to a significant outbreak
+    Excretions from either sick or infected but apparently clinically healthy people and animals (especially dangerous are caregivers and animals)
+    Polluted surface water and standing water (such as in shower hoses or unused water dispensers)
+    Unhygienically thawed poultry (the meltwater contains many bacteria)
+    An association with reptiles (pet tortoises, snakes, iguanas,[16][17] and aquatic turtles) is well described.[18]
+    Amphibians such as frogs
+
+Salmonella bacteria can survive for some time without a host; they are frequently found in polluted water, with contamination from the excrement of carrier animals being particularly important.
+
+The European Food Safety Authority highly recommends that when handling raw turkey meat, consumers and people involved in the food supply chain should pay attention to personal and food hygiene.[19]
+
+An estimated 142,000 Americans are infected each year with Salmonella Enteritidis from chicken eggs,[20] and about 30 die.[21] The shell of the egg may be contaminated with Salmonella by feces or environment, or its interior (yolk) may be contaminated by penetration of the bacteria through the porous shell or from a hen whose infected ovaries contaminate the egg during egg formation.[22][23]
+
+Nevertheless, such interior egg yolk contamination is theoretically unlikely.[24][25][26][27] Even under natural conditions, the rate of infection was very small (0.6% in a study of naturally contaminated eggs[28] and 3.0% among artificially and heavily infected hens[29]).
+Prevention
+See also: Critical control point
+
+The US Food and Drug Administration (FDA) has published guidelines to help reduce the chance of food-borne salmonellosis.[30] Food must be cooked to 145–165 °F (63–74 °C), and liquids such as soups or gravies should be boiled when reheating. Freezing kills some Salmonella, but it is not sufficient to reliably reduce them below infectious levels. While Salmonella is usually heat-sensitive, it acquires heat-resistance in high-fat environments such as peanut butter.[31]
+Vaccine
+
+Antibodies against nontyphoidal Salmonella were first found in Malawi children in research published in 2008. The Malawian researchers identified an antibody that protects children against bacterial infections of the blood caused by nontyphoidal Salmonella. A study at Queen Elizabeth Hospital in Blantyre found that children up to two years old develop antibodies that aid in killing the bacteria. This could lead to a possible Salmonella vaccine for humans.[32]
+
+A 2014 study tested a vaccine on chickens which offered efficient protection against salmonellosis.[33]
+
+Vaccination of chickens against Salmonella essentially wiped out the disease in the United Kingdom. A similar approach was considered in the United States, but the Food and Drug Administration decided not to mandate vaccination of hens.[34]
+Industrial hygiene
+
+Since 2011, Denmark has had zero cases of human salmonella poisoning.[35] The country eradicated salmonella without vaccines and antibiotics by focusing on eliminating the infection from "breeder stocks", implementing various measures to prevent infection, and taking a zero-tolerance policy towards salmonella in chickens.[35]
+Treatment
+
+Electrolytes may be replenished with oral rehydration supplements (typically containing salts sodium chloride and potassium chloride).
+
+Appropriate antibiotics, such as ceftriaxone, may be given to kill the bacteria, but are not necessary in most cases.[14] Azithromycin has been suggested to be better at treating typhoid in resistant populations than both fluoroquinolone drugs and ceftriaxone. There are recommendations on choice of antibiotic to avoid promoting antibiotic resistance.
+Epidemiology
+United States
+Main article: Salmonellosis in the United States
+
+About 142,000 people in the United States are infected each year with Salmonella Enteritidis from chicken eggs, and about 30 die.[21]
+
+In 2010, an analysis of death certificates in the United States identified a total of 1,316 Salmonella-related deaths from 1990 to 2006. These were predominantly among older adults and those who were immunocompromised.[36] The U.S. government reported as many as 20% of all chickens were contaminated with Salmonella in the late 1990s, and 16.3% were contaminated in 2005.[37]
+
+The United States has struggled to control salmonella infections, with the rate of infection rising from 2001 to 2011. In 1998, the USDA moved to close plants if salmonella was found in excess of 20 percent, which was the industry’s average at the time, for three consecutive tests.[38] Texas-based Supreme Beef Processors, Inc. sued on the argument that Salmonella is naturally occurring and ultimately prevailed when a federal appeals court affirmed a lower court.[38] These issues were highlighted in a proposed Kevin's Law (formally proposed as the Meat and Poultry Pathogen Reduction and Enforcement Act of 2003), of which components were included the Food Safety Modernization Act passed in 2011, but that law applies only to the FDA and not the USDA.[38] The USDA proposed a regulatory initiative in 2011 to Office of Management and Budget.[39]
+Europe
+
+An outbreak of salmonellosis started in Northern Europe in July 2012, caused by Salmonella thompson. The infections were linked to smoked salmon from the manufacturer Foppen, where the contamination had occurred. Most infections were reported in the Netherlands; over 1060 infections with this subspecies and four fatalities were confirmed.[40][41]
+
+A case of widespread infection was detected mid-2012 in seven EU countries. Over 400 people had been infected with Salmonella enterica serovar Stanley (S. Stanley) that usually appears in the regions of Southeast Asia. After several DNA analyses seemed to point to a specific Belgian strain, the "Joint ECDC/E FSA Rapid Risk Assessment" report detected turkey production as the source of infection.[42]
+
+In Germany, food poisoning infections must be reported.[43] Between 1990 and 2005, the number of officially recorded cases decreased from about 200,000 to about 50,000.
+Elsewhere
+
+In March 2007, around 150 people were diagnosed with salmonellosis after eating tainted food at a governor's reception in Krasnoyarsk, Russia. Over 1,500 people attended the ball on March 1 and fell ill as a consequence of ingesting Salmonella-tainted sandwiches.
+
+About 150 people were sickened by Salmonella-tainted chocolate cake produced by a major bakery chain in Singapore in December 2007.[44]
+History
+
+Both salmonellosis and the microorganism genus Salmonella derive their names from a modern Latin coining after Daniel E. Salmon (1850–1914), an American veterinary surgeon. He had help from Theobald Smith, and together they found the bacterium in pigs.
+
+Salmonella enterica was possibly the cause of the 1576 cocliztli epidemic in New Spain.[45]
+Four-inch regulation
+
+The "Four-inch regulation" or "Four-inch law" is a colloquial name for a regulation issued by the U.S. FDA in 1975, restricting the sale of turtles with a carapace length less than four inches (10 cm).[46]
+
+The regulation was introduced, according to the FDA, "because of the public health impact of turtle-associated salmonellosis". Cases had been reported of young children placing small turtles in their mouths, which led to the size-based restriction.
+See also
+
+    1984 Rajneeshee bioterror attack
+    2012 salmonella outbreak
+    2018 outbreak of Salmonella
+    List of foodborne illness outbreaks

@@ -1,0 +1,66 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN Rosacea|Disease disambiguation|NN
+Rosacea|Disease name|NN Rosacea|Disease Rosacea|Disease Rosacea|Disease cheek|NN nose|NN pronunciation|NN
+symptom|NN redness|NN pimple|NN blood|NN vessel|NN complication|NN onset|NN year|NN duration|NN term|NN type|NN cause|NN risk|NN factor|NN family|NN history|NN method|NN symptom|NN diagnosis|NN acne|NN dermatitis|NN dermatitis|NN antibiotics|NN mouth|NN skin|NN frequency|NN
+Rosacea|Disease skin|NN condition|NN face|NN redness|NN pimple|NN blood|NN vessel|NN nose|NN cheek|NN forehead|NN chin|NN nose|NN disease|NN condition|NN
+cause|NN Rosacea|Disease risk|NN factor|NN family|NN history|NN condition|NN factor|NN condition|NN heat|NN exercise|NN sunlight|NN food|NN alcohol|NN menopause|NN stress|NN cream|NN face|NN diagnosis|NN symptom|NN
+treatment|NN symptom|NN treatment|NN metronidazole|NN doxycycline|NN tetracycline|NN eye|NN eye|NN drop|NN treatment|NN benefit|NN cream|NN ivermectin|NN cream|NN isotretinoin|NN laser|NN surgery|NN use|NN sunscreen|NN
+Rosacea|Disease people|NN year|NN caucasian|NN condition|NN canterbury|NP tale|NN 1300|NN 200|NN content|NN
+sign|NN symptom|NN Rosacea|Disease Rosacea|Disease cause|NN mite|NN bacteria|NN diagnosis|NN classification|NN variant|NN treatment|NN laser|NN epidemiology|NN reference|NN link|NN
+sign|NN symptom|NN Rosacea|Disease face|NN
+sign|NN redness|NN blood|NN vessel|NN skin|NN papule|NN erythematotelangiectatic|NN Rosacea|Disease
+Rosacea|Disease Rosacea|Disease Rosacea|Disease history|NN minute|NN reaction|NN stimuly|NN stress|NN drink|NN alcohol|NN food|NN exercise|NN cold|NN weather|NN bath|NN shower|NN Rosacea|Disease
+Rosacea|Disease men|NN skin|NN disease|NN papule|NN pustule|NN cm|NN size|NN lesion|NN cause|NN Rosacea|Disease left|NN withdrawal|NN therapy|NN right|NN
+cause|NN Rosacea|Disease cause|NN episode|NN flush|NN play|NN part|NN development|NN
+exposure|NN temperature|NN extreme|NN exercise|NN heat|NN sunlight|NN sunburn|NN stress|NN anxiety|NN wind|NN environment|NN shop|NN office|NN winter|NN face|NN food|NN drink|NN alcohol|NN food|NN beverage|NN caffeine|NN tea|NN coffee|NN food|NN histamine|NN food|NN
+irritant|NN Rosacea|Disease flare|NN
+acne|NN wrinkle|NN treatment|NN cause|NN Rosacea|Disease peel|NN dosage|NN peroxide|NN tretinoin|NN
+Rosacea|Disease use|NN steroid|NN steroid|NN dermatitis|NN
+richard|NP colleague|NN patient|NN Rosacea|Disease level|NN peptide|NN level|NN stratum|NN enzyme|NN
+antibiotics|NN past|NN Rosacea|Disease scte|NN mite|NN
+study|NN Rosacea|Disease demodex|NN mite|NN people|NN Rosacea|Disease number|NN mite|NN Rosacea|Disease
+occasion|NN mange|NN condition|NN Rosacea|Disease appearance|NN
+Rosacea|Disease study|NN mite|NN cause|NN factor|NN Rosacea|Disease researcher|NN bacillus|NN bacteria|NN mite|NN
+blood|NN sample|NN blood|NN cell|NN proliferation|NN assay|NN b|NP system|NN response|NN percent|NN patient|NN subtype|NN Rosacea|Disease subject|NN disorder|NN
+response|NN result|NN inflammation|NN bump|NN pimple|NN subtype|NN Rosacea|Disease
+b|NP oleronius|NN bacteria|NN mite|NN inflammation|NN condition|NN
+overgrowth|NN prevalence|NN Rosacea|Disease patient|NN antibiotics|NN Rosacea|Disease lesion|NN improvement|NN study|NN
+Rosacea|Disease patient|NN antibiotic|NN therapy|NN effect|NN effectiveness|NN sibo|NN Rosacea|Disease patient|NN gut|NN bacteria|NN role|NN pathogenesis|NN Rosacea|Disease lesion|NN
+people|NN Rosacea|Disease redness|NN
+test|NN Rosacea|Disease
+case|NN inspection|NN health-care|NN professional|NN diagnosis|NN
+case|NN pimple|NN redness|NN part|NN face|NN trial|NN treatment|NN diagnosis|NN
+disorder|NN acne|NN vulgaris|NN dermatitis|NN
+presence|NN rash|NN scalp|NN ear|NN diagnosis|NN Rosacea|Disease diagnosis|NN area|NN
+classification|NN zone|NN
+Rosacea|Disease subtype|NN patient|NN subtype176|NN
+Rosacea|Disease redness|NN tendency|NN flush|NN blush|NN blood|NN vessel|NN surface|NN skin|NN itch|NN people|NN type|NN skin|NN
+addition|NN face|NN sign|NN ear|NN neck|NN chest|NN back|NN scalp|NN Rosacea|Disease present|NN redness|NN bump|NN pustule|NN day|NN
+subtype|NN acne|NN
+Rosacea|Disease rhinophyma|NN enlargement|NN nose|NN
+sign|NN thicken|NN skin|NN surface|NN enlargement|NN
+Rosacea|Disease chin|NN forehead|NN cheek|NN eyelid|NN ear|NN
+Rosacea|Disease eye|NN eyelid|NN due|NN telangiectasia|NN inflammation|NN
+symptom|NN sensation|NN sensitivity|NN eye|NN infection|NN
+people|NN subtype|NN eye|NN symptom|NN
+vision|NN vision|NN loss|NN cornea|NN
+variant|NN Rosacea|Disease include689|NN
+Rosacea|Disease fulminan|NN disease|NN face|NN Rosacea|Disease conglobata|NN Rosacea|Disease acne|NN abscess|NN plaque|NN Rosacea|Disease condition|NN overgrowth|NN gland|NN mass|NN bulb|NN face|NN ears693|NN
+Rosacea|Disease severity|NN subtype|NN
+approach|NN Rosacea|Disease patient|NN dermatologist|NN case|NN cosmetics|NN
+therapy|NN treatment|NN Rosacea|Disease term|NN reduction|NN amount|NN redness|NN lesion|NN decrease|NN number|NN duration|NN intensity|NN flare|NN symptom|NN itch|NN burn|NN tenderness|NN
+modality|NN Rosacea|Disease treatment|NN antibiotic|NN agent|NN laser|NN therapy|NN form|NN treatment|NN medication|NN remission|NN redness|NN week|NN redness|NN treatment|NN
+treatment|NN year|NN control|NN condition|NN patient|NN treatment|NN case|NN remission|NN case|NN time|NN
+trigger|NN condition|NN onset|NN Rosacea|Disease remission|NN case|NN
+journal|NN food|NN beverage|NN trigger|NN
+sunlight|NN trigger|NN exposure|NN sun|NN
+people|NN Rosacea|Disease benefit|NN use|NN sunscreen|NN hat|NN brim|NN
+sunlight|NN stress|NN Rosacea|Disease
+people|NN infection|NN eyelid|NN practice|NN eyelid|NN hygiene|NN
+pretrigger|NN event|NN exposure|NN environment|NN flush|NN
+evidence|NN ivermectin|NN acid|NN cream|NN brimonidine|NN mouth|NN evidence|NN metronidazole|NN cream|NN tetracycline|NN mouth|NN
+mechanism|NN acid|NN production|NN
+antibiotics|NN tetracycline|NN class|NN minocycline|NN lesion|NN action|NN capability|NN
+acid|NN peel|NN redness|NN irritation|NN Rosacea|Disease antibiotics|NN symptom|NN Rosacea|Disease
+papules|NP pustules|NP flush|NN Rosacea|Disease application|NN alpha|NN agonist|NN laser|NN
+evidence|NN use|NN laser|NN pulsed-light|NN therapy|NN Rosacea|Disease epidemiology|NN
+women|NN men|NN Rosacea|Disease descent|NN northern|NP descent|NN

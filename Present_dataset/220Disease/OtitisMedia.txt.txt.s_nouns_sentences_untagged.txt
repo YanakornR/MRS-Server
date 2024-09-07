@@ -1,0 +1,89 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN otitis_media|ST name|NN otitis_media|ST otitis_media|ST otitis_media|ST otitis_media|ST tympanic|NN membrane|NN case|NN otitis_media|ST specialty|NN symptom|NN ear_pain|ST fever|ST hear|NN loss|NN type|NN otitis_media|ST otitis_media|ST suppurative|NN otitis_media|ST cause|NN risk|NN factor|NN smoke|NN exposure|NN prevention|NN vaccination|NN breastfeed|NN acetaminophen|NN ear|NN frequency|NN death|NN 
+otitis_media|ST group|NN disease|NN ear|NN type|NN otitis_media|ST otitis_media|ST otitis_media|ST otitis_media|ST otitis_media|ST infection|NN onset|NN ear_pain|ST children|NN ear|NN cry|NN sleep|NN eate|NN fever|ST otitis_media|ST symptom|NN feel|NN fullness|NN presence|NN fluid|NN ear|NN month|NN otitis_media|ST csom|NN ear|NN inflammation|NN result|NN discharge|ST ear|NN month|NN complication|NN otitis_media|ST pain|ST hear|NN loss|NN hear|NN loss|NN otitis_media|ST due|NN nature|NN ability|NN 
+cause|NN otitis_media|ST childhood|NN anatomy|NN function|NN bacteria|NN viruse|NN risk|NN factor|NN exposure|NN smoke|NN use|NN pacifier|NN people|NN syndrome|NN otitis_media|ST otitis_media|ST infection|NN irritant|NN smoke|NN allergy|NN eardrum|NN diagnosis|NN sign|NN otitis_media|ST lack|NN movement|NN membrane|NN puff|NN air|NN discharge|ST otitis|NN diagnosis|NN 
+number|NN measure|NN risk|NN otitis_media|ST pneumococcal|NN influenza|DS vaccination|NN breastfeed|NN tobacco|NN smoke|NN use|NN pain|ST medication|NN otitis_media|ST paracetamol|NN ear|NN drop|NN opioid|NN otitis_media|ST antibiotics|NN recovery|NN side|NN effect|NN antibiotics|NN disease|NN year|NN disease|NN day|NN antibiotic|NN choice|NN amoxicillin|NN infection|NN tube|NN recurrence|NN children|NN otitis_media|ST antibiotics|NN resolution|NN symptom|NN diarrhoea|NN vomit|NN skin|NN rash|ST 
+otitis_media|ST people|NN year|NN case|NN case|NN children|NN year|NN age|NN male|NN suppurative|NN otitis_media|ST age|NN otitis_media|ST affect|NN children|NN point|NN otitis_media|ST death|NN death|NN content|NN 
+sign|NN symptom|NN cause|NN diagnosis|NN otitis_media|ST otitis_media|ST suppurative|NN otitis_media|ST otitis_media|ST prevention|NN management|NN antibiotics|NN tube|NN otitis_media|ST medicine|NN outcome|NN rupture|NN hear|NN loss|NN epidemiology|NN reference|NN link|NN 
+sign|NN symptom|NN otitis_media|ST 
+symptom|NN otitis_media|ST ear_pain|ST symptom|NN fever|ST irritability|ST infant|NN 
+episode|NN otitis_media|ST tract|NN infection|NN symptom|NN cough|ST discharge|ST 
+ear|NN otitis_media|ST perforation|NN ear|NN drum|NN otitis_media|ST tube|NN otitis|NN 
+skull|NN fracture|NN ear|NN drainage|NN brain|NN cover|NN 
+cause|NN form|NN otitis_media|ST dysfunction|NN tube|NN inflammation|NN mucous|NN membrane|NN nasopharynx|NN urty|NN throat|NN allergy|NN dysfunction|NN tube|NN ga|NN volume|NN ear|NN part|NN tissue|NN pressure|NN ear|NN 
+middle-ear|NN pressure|NN point|NN fluid|NN tissue|NN ear|NN cavity|NN cavity|NN effusion|NN 
+progression|NN type|NN tympanogram|NN type|NN type|NN b|NN tympanogram|NN 
+reflux|NN aspiration|NN secretion|NN nasopharynx|NN middle-ear|NN space|NN fluid|NN bacteria|NN 
+virus|NN initial|NN infection|NN pathogen|NN infection|NN diagnosis|NN perforation|NN right|NN membrane|NN otitis_media|ST 
+symptom|NN overlap|NN condition|NN otitis|NN history|NN otitis_media|ST visualization|NN membrane|NN examiner|NN otoscope|NN bulb|NN mobility|NN membrane|NN 
+case|NN hear|NN loss|NN fever|ST bone|NN ct|NN mry|NN complication|NN effusion|NN abscess|NN formation|NN destruction|NN thrombosis|NN meningitis|DS 
+otitis_media|ST children|NN bulge|NN membrane|NN onset|NN drainage|NN otitis|NN 
+diagnosis|NN children|NN bulge|NN ear|NN drum|NN onset|NN ear_pain|ST hour|NN erythema|NN redness|NN ear|NN drum|NN 
+diagnosis|NN effusion|NN inflammation|NN eardrum|NN sign|NN fullness|NN redness|NN eardrum|NN otitis_media|ST otitis_media|ST otitis_media|ST antibiotics|NN otitis_media|ST bulge|NN membrane|NN sign|NN otitis_media|ST otitis_media|ST bulge|NN membrane|NN otitis_media|ST otitis_media|ST 
+otitis|NN blister|ST side|NN membrane|NN myringa|NN eardrum|NN 
+examination|NN eardrum|NN diagnosis|NN canal|NN 
+wax|NN ear|NN canal|NN view|NN eardrum|NN cerumen|NN wire|NN loop|NN 
+child|NN cry|NN eardrum|NN due|NN distension|NN blood|NN vessel|NN redness|NN otitis_media|ST 
+bacteria|NN ear|NN otitis_media|ST moraxella|NN staphylococcus|NN aureus|NN otitis_media|ST 
+otitis_media|ST otitis_media|ST otitis_media|ST otitis_media|ST som|NN glue|NN ear|NN fluid|NN accumulation|NN ear|NN air|NN cell|NN pressure|NN dysfunction|NN tube|NN 
+ury|NN infection|NN otitis_media|ST effusion|NN hear|NN loss|NN transmission|NN vibration|NN ear|NN bone|NN nerve|NN complex|NN sound|NN wave|NN 
+otitis_media|ST feed|NN infant|NN entry|NN group|NN child|NN care|NN smoke|NN lack|NN period|NN breastfeed|NN amount|NN time|NN group|NN child|NN care|NN number|NN children|NN 
+risk|NN factor|NN incidence|NN duration|NN otitis_media|ST year|NN life|NN suppurative|NN otitis_media|ST 
+suppurative|NN otitis_media|ST csom|NN inflammation|NN ear|NN cavity|NN discharge|ST ear|NN tympanic|NN membrane|NN week|NN 
+tract|NN infection|NN otitis_media|ST 
+response|NN middle|NN ear|NN oedema|NN ulceration|NN perforation|NN 
+ear|NN attempt|NN ulceration|NN production|NN granulation|NN tissue|NN polyp|NN formation|NN 
+discharge|ST failure|NN inflammation|NN development|NN csom|NN 
+pus|NN outside|NN ear|NN pus|NN examination|NN otoscope|NN microscope|NN 
+hear|NN impairment|NN disease|NN 
+people|NN risk|NN csom|NN tube|NN function|NN history|NN episode|NN otitis_media|ST condition|NN day|NN care|NN facility|NN 
+malformation|NN lip|NN palate|NN syndrome|NN risk|NN 
+population|NN otitis_media|ST year|NN case|NN population|NN 
+world|NN health|NN organization|NN csom|NN cause|NN hear|NN loss|NN children|NN adult|NN episode|NN csom|NN risk|NN hear|NN loss|NN 
+britain|NN children|NN adult|NN difference|NN sexe|NN 
+incidence|NN csom|NN world|NN income|NN country|NN prevalence|NN income|NN country|NN prevalence|NN time|NN 
+year|NN people|NN complication|NN otitis_media|ST 
+otitis_media|ST ear|NN drum|NN space|NN adherent|NN ossicle|NN bone|NN ear|NN 
+otitis_media|ST bullosa|NN 
+bullosa|NN influenza|DS 
+otitis_media|ST otitis_media|ST mesotympanalis|NN 
+otitis_media|ST mesotympanalis|NN 
+otitis_media|ST mesotympanalis|NN 
+otitis_media|ST mesotympanalis|NN 
+otitis_media|ST infant|NN infant|NN protection|NN breastfeed|NN formula|NN use|NN month|NN life|NN duration|NN breastfeed|NN effect|NN 
+conjugate|NN vaccine|NN infancy|NN decrease|NN risk|NN otitis_media|ST infant|NN children|NN health|NN benefit|NN vaccination|NN children|NN rate|NN otitis_media|ST use|NN antibiotics|NN month|NN vaccine|NN adverse-effect|NN fever|ST nose|NN reduction|NN otitis_media|ST side|NN effect|NN inconvenience|NN influenza|DS vaccination|NN year|NN purpose|NN risk|NN otitis_media|ST infant|NN children|NN otitis_media|ST 
+risk|NN factor|NN season|NN allergy|NN predisposition|NN presence|NN sible|NN determinant|NN otitis_media|ST middle-ear|NN effusion|NN history|NN recurrence|NN exposure|NN tobacco|NN smoke|NN use|NN daycare|NN lack|NN breastfeed|NN risk|NN development|NN recurrence|NN mee|NN use|NN episode|NN otitis_media|ST 
+antibiotics|NN rate|NN infection|NN treatment|NN effect|NN outcome|NN hear|NN loss|NN method|NN prevention|NN emergence|NN bacteria|NN 
+evidence|NN sugar|NN substitute|NN infection|NN rate|NN 
+evidence|NN zinc|NN supplementation|NN effort|NN otitis|NN rate|NN malnutrition|NN management|NN 
+pain|ST killer|NN pain|ST otitis_media|ST 
+agent|NN paracetamol|NN opiate|NN 
+evidence|NN combination|NN agent|NN agent|NN ear|NN drop|NN lack|NN benefit|NN concern|NN side|NN effect|NN case|NN ear_pain|ST children|NN resolve|NN treatment|NN day|NN resolve|NN day|NN use|NN steroid|NN evidence|NN otitis_media|ST antibiotics|NN 
+benefit|NN harm|NN antibiotics|NN otitis_media|ST 
+episode|NN treatment|NN children|NN case|NN ear_pain|ST children|NN perforation|NN children|NN ear|NN infection|NN 
+children|NN antibiotics|NN child|NN episode|NN vomit|NN rash|ST pain|ST pain|ST medication|NN 
+otitis_media|ST infant|NN month|NN age|NN evidence|NN benefit|NN antibiotics|NN harm|NN cochrane|NN review|NN wait|NN approach|NN children|NN month|NN otitis_media|ST summary|NN 
+evidence|NN children|NN month|NN age|NN otitis_media|ST treatment|NN antibiotics|NN 
+antibiotics|NN amoxicillin|NN resistance|NN use|NN amoxicillin|NN day|NN penicillin|NN derivative|NN beta|NN inhibitor|NN amoxicillin|NN day|NN time|NN day|NN 
+day|NN antibiotics|NN side|NN effect|NN day|NN improvement|NN day|NN treatment|NN change|NN therapy|NN 
+treatment|NN option|NN suppurative|NN otitis_media|ST discharge|ST antibiotics|NN 
+cochrane|NN review|NN antibiotics|NN discharge|ST antibiotics|NN safety|NN tympanostomy|NN tube|NN 
+tube|NN grommet|NN episode|NN otitis_media|ST month|NN year|NN episode|NN attack|NN month|NN evidence|NN children|NN otitis_media|ST otitis_media|ST tube|NN improvement|NN number|NN otitis_media|ST episode|NN episode|NN month|NN improvement|NN month|NN tube|NN evidence|NN effect|NN hear|NN language|NN development|NN complication|NN tube|NN discharge|ST ear|NN risk|NN tympanic|NN membrane|NN perforation|NN children|NN grommet|NN grommet|NN course|NN antibiotics|NN 
+antibiotics|NN tympanostomy|NN tube|NN bacteria|NN condition|NN side|NN effect|NN risk|NN infection|NN contrast|NN antibiotic|NN otitis_media|ST 
+decision|NN combination|NN exam|NN laboratory|NN diagnosis|NN test|NN bone|NN ct|NN decongestant|NN antibiotics|NN treatment|NN non-infectious|NN serous|NN cause|NN effusion|NN children|NN otitis_media|ST case|NN hear|NN impairment|NN effusion|NN measure|NN case|NN tube|NN adenoidectomy|NN benefit|NN resolution|NN ear|NN effusion|NN children|NN otitis_media|ST medicine|NN 
+medicine|NN otitis_media|ST evidence|NN benefit|NN treatment|NN otitis_media|ST study|NN children|NN manipulation|NN technique|NN technique|NN trial|NN reviewer|NN evidence|NN report|NN evidence|NN outcome|NN life|NN year|NN otitis_media|ST inhabitant|NN 
+data|NN 14-18|NN 26-30|NN 
+38-42|NN death|NN otitis_media|ST person|NN 2012|NN 
+complication|NN otitis_media|ST perforation|NN ear|NN drum|NN infection|NN space|NN ear|NN complication|NN meningitis|DS brain|NN abscess|NN sinus|NN thrombosis|NN year|NN people|NN complication|NN otitis_media|ST rupture|NN 
+case|NN membrane|NN pus|NN space|NN drain|NN ear|NN canal|NN 
+perforation|NN membrane|NN process|NN relief|NN pressure|NN pain|ST 
+case|NN otitis_media|ST person|NN defense|NN infection|NN ear|NN drum|NN 
+option|NN otitis_media|ST analgesics|NN ear_pain|ST tympanocentesis|NN needle|NN aspiration|NN membrane|NN ear_pain|ST organism|NN 
+hear|NN loss|NN 
+children|NN episode|NN otitis_media|ST otitis_media|ST suppurative|NN otitis_media|ST risk|NN hear|NN loss|NN 
+people|NN hear|NN loss|NN otitis_media|ST population|NN male|NN female|NN 
+hear|NN loss|NN fluid|NN ear|NN rupture|NN membrane|NN 
+duration|NN otitis_media|ST complication|NN membrane|NN perforation|NN severity|NN disease|NN hear|NN loss|NN 
+cholesteatoma|NN granulation|NN tissue|NN ear|NN degree|NN hear|NN loss|NN destruction|NN 
+period|NN hear|NN loss|NN otitis_media|ST effect|NN speech|NN development|NN children|NN study|NN otitis_media|ST learn|NN problem|NN attention|NN disorder|NN problem|NN adaptation|NN patient|NN otitis_media|ST disorder|NN individual|NN hear|NN infection|NN resolve|NN hear|NN threshold|NN return|NN childhood|NN otitis_media|ST damage|NN ear|NN epidemiology|NN 
+otitis_media|ST childhood|NN 
+condition|NN care|NN children|NN year|NN age|NN otitis_media|ST people|NN year|NN case|NN half|NN year|NN otitis_media|ST case|NN case|NN age|NN year|NN otitis_media|ST death|NN 2013down|NN death|NN term|NN otitis_media|ST otitis|NN greek|NN inflammation|NN ear|NN media|NN middle|NN 

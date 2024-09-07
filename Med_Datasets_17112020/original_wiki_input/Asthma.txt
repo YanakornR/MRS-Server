@@ -1,0 +1,336 @@
+Asthma
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For other uses, see Asthma (disambiguation).
+Asthma
+Two white plastic tubes with movable dials on the front
+Peak flow meters are used to measure the peak expiratory flow rate, important in both monitoring and diagnosing asthma.[1]
+Specialty	Pulmonology
+Symptoms	Recurring episodes of wheezing, coughing, chest tightness, shortness of breath[2]
+Duration	Long term[3]
+Causes	Genetic and environmental factors[4]
+Risk factors	Air pollution, allergens[3]
+Diagnostic method	Based on symptoms, response to therapy, spirometry[5]
+Treatment	Avoiding triggers, inhaled corticosteroids, salbutamol[6][7]
+Frequency	358 million (2015)[8]
+Deaths	397,100 (2015)[9]
+
+Asthma is a common long-term inflammatory disease of the airways of the lungs.[3] It is characterized by variable and recurring symptoms, reversible airflow obstruction, and easily triggered bronchospasms.[10][11] Symptoms include episodes of wheezing, coughing, chest tightness, and shortness of breath.[2] These may occur a few times a day or a few times per week.[3] Depending on the person, they may become worse at night or with exercise.[3]
+
+Asthma is thought to be caused by a combination of genetic and environmental factors.[4] Environmental factors include exposure to air pollution and allergens.[3] Other potential triggers include medications such as aspirin and beta blockers.[3] Diagnosis is usually based on the pattern of symptoms, response to therapy over time, and spirometry.[5] Asthma is classified according to the frequency of symptoms, forced expiratory volume in one second (FEV1), and peak expiratory flow rate.[12] It may also be classified as atopic or non-atopic, where atopy refers to a predisposition toward developing a type 1 hypersensitivity reaction.[13][14]
+
+There is no cure for asthma.[3] Symptoms can be prevented by avoiding triggers, such as allergens and irritants, and by the use of inhaled corticosteroids.[6][15] Long-acting beta agonists (LABA) or antileukotriene agents may be used in addition to inhaled corticosteroids if asthma symptoms remain uncontrolled.[16][17] Treatment of rapidly worsening symptoms is usually with an inhaled short-acting beta-2 agonist such as salbutamol and corticosteroids taken by mouth.[7] In very severe cases, intravenous corticosteroids, magnesium sulfate, and hospitalization may be required.[18]
+
+In 2015, 358 million people globally had asthma, up from 183 million in 1990.[8][19] It caused about 397,100 deaths in 2015,[9] most of which occurred in the developing world.[3] It often begins in childhood.[3] The rates of asthma have increased significantly since the 1960s.[20] Asthma was recognized as early as Ancient Egypt.[21] The word "asthma" is from the Greek ἅσθμα, ásthma, which means "panting".[22]
+Contents
+
+    1 Signs and symptoms
+        1.1 Associated conditions
+    2 Causes
+        2.1 Environmental
+        2.2 Genetic
+        2.3 Medical conditions
+        2.4 Exacerbation
+    3 Pathophysiology
+    4 Diagnosis
+        4.1 Spirometry
+        4.2 Others
+        4.3 Classification
+        4.4 Differential diagnosis
+    5 Prevention
+    6 Management
+        6.1 Lifestyle modification
+        6.2 Medications
+        6.3 Others
+        6.4 Alternative medicine
+    7 Prognosis
+    8 Epidemiology
+    9 Economics
+    10 History
+    11 References
+        11.1 Notes
+    12 External links
+
+Signs and symptoms
+	
+Wheezing
+Menu
+0:00
+The sound of wheezing as heard with a stethoscope.
+Problems playing this file? See media help.
+
+Asthma is characterized by recurrent episodes of wheezing, shortness of breath, chest tightness, and coughing.[23] Sputum may be produced from the lung by coughing but is often hard to bring up.[24] During recovery from an attack, it may appear pus-like due to high levels of white blood cells called eosinophils.[25] Symptoms are usually worse at night and in the early morning or in response to exercise or cold air.[26] Some people with asthma rarely experience symptoms, usually in response to triggers, whereas others may have marked reactivity and persistent symptoms.[27]
+Associated conditions
+
+A number of other health conditions occur more frequently in those with asthma, including gastro-esophageal reflux disease (GERD), rhinosinusitis, and obstructive sleep apnea.[28] Psychological disorders are also more common,[29] with anxiety disorders occurring in between 16–52% and mood disorders in 14–41%.[30] However, it is not known whether asthma causes psychological problems or psychological problems lead to asthma.[31] Those with asthma, especially if it is poorly controlled, are at increased risk for radiocontrast reactions.[32]
+Causes
+
+Asthma is caused by a combination of complex and incompletely understood environmental and genetic interactions.[4][33] These influence both its severity and its responsiveness to treatment.[34] It is believed that the recent increased rates of asthma are due to changing epigenetics (heritable factors other than those related to the DNA sequence) and a changing living environment.[35] Onset before age 12 is more likely due to genetic influence, while onset after age 12 is more likely due to environmental influence.[36]
+Environmental
+See also: Asthma-related microbes
+
+Many environmental factors have been associated with asthma's development and exacerbation including allergens, air pollution, and other environmental chemicals.[37] Smoking during pregnancy and after delivery is associated with a greater risk of asthma-like symptoms.[38] Low air quality from factors such as traffic pollution or high ozone levels[39] has been associated with both asthma development and increased asthma severity.[40] Over half of cases in children in the United States occur in areas with air quality below EPA standards.[41] Low air quality is more common in low-income and minority communities.[42]
+
+Exposure to indoor volatile organic compounds may be a trigger for asthma; formaldehyde exposure, for example, has a positive association.[43] Also, phthalates in certain types of PVC are associated with asthma in both children and adults.[44][45] While exposure to pesticides is linked to the development of asthma, a cause and effect relationship has yet to be established.[46][47]
+
+There is an association between acetaminophen (paracetamol) use and asthma.[48] The majority of the evidence does not, however, support a causal role.[49] A 2014 review found that the association disappeared when respiratory infections were taken into account.[50] Use by a mother during pregnancy is also associated with an increased risk as is psychological stress during pregnancy.[51][52]
+
+Asthma is associated with exposure to indoor allergens.[53] Common indoor allergens include dust mites, cockroaches, animal dander (fragments of fur or feathers), and mold.[54][55] Efforts to decrease dust mites have been found to be ineffective on symptoms in sensitized subjects.[56][57] Certain viral respiratory infections, such as respiratory syncytial virus and rhinovirus,[22] may increase the risk of developing asthma when acquired as young children.[58] Certain other infections, however, may decrease the risk.[22]
+Hygiene hypothesis
+
+The hygiene hypothesis attempts to explain the increased rates of asthma worldwide as a direct and unintended result of reduced exposure, during childhood, to non-pathogenic bacteria and viruses.[59][60] It has been proposed that the reduced exposure to bacteria and viruses is due, in part, to increased cleanliness and decreased family size in modern societies.[61] Exposure to bacterial endotoxin in early childhood may prevent the development of asthma, but exposure at an older age may provoke bronchoconstriction.[62] Evidence supporting the hygiene hypothesis includes lower rates of asthma on farms and in households with pets.[61]
+
+Use of antibiotics in early life has been linked to the development of asthma.[63] Also, delivery via caesarean section is associated with an increased risk (estimated at 20–80%) of asthma – this increased risk is attributed to the lack of healthy bacterial colonization that the newborn would have acquired from passage through the birth canal.[64][65] There is a link between asthma and the degree of affluence which may be related to the hygiene hypothesis as less affluent individuals often have more exposure to bacteria and viruses.[66]
+Genetic
+CD14-endotoxin interaction based on CD14 SNP C-159T[67] Endotoxin levels 	CC genotype 	TT genotype
+High exposure 	Low risk 	High risk
+Low exposure 	High risk 	Low risk
+
+Family history is a risk factor for asthma, with many different genes being implicated.[68] If one identical twin is affected, the probability of the other having the disease is approximately 25%.[68] By the end of 2005, 25 genes had been associated with asthma in six or more separate populations, including GSTM1, IL10, CTLA-4, SPINK5, LTC4S, IL4R and ADAM33, among others.[69] Many of these genes are related to the immune system or modulating inflammation. Even among this list of genes supported by highly replicated studies, results have not been consistent among all populations tested.[69] In 2006 over 100 genes were associated with asthma in one genetic association study alone;[69] more continue to be found.[70]
+
+Some genetic variants may only cause asthma when they are combined with specific environmental exposures.[4] An example is a specific single nucleotide polymorphism in the CD14 region and exposure to endotoxin (a bacterial product). Endotoxin exposure can come from several environmental sources including tobacco smoke, dogs, and farms. Risk for asthma, then, is determined by both a person's genetics and the level of endotoxin exposure.[67]
+Medical conditions
+
+A triad of atopic eczema, allergic rhinitis and asthma is called atopy.[71] The strongest risk factor for developing asthma is a history of atopic disease;[58] with asthma occurring at a much greater rate in those who have either eczema or hay fever.[72] Asthma has been associated with eosinophilic granulomatosis with polyangiitis (formerly known as Churg–Strauss syndrome), an autoimmune disease and vasculitis.[73] Individuals with certain types of urticaria may also experience symptoms of asthma.[71]
+
+There is a correlation between obesity and the risk of asthma with both having increased in recent years.[74][75] Several factors may be at play including decreased respiratory function due to a buildup of fat and the fact that adipose tissue leads to a pro-inflammatory state.[76]
+
+Beta blocker medications such as propranolol can trigger asthma in those who are susceptible.[77] Cardioselective beta-blockers, however, appear safe in those with mild or moderate disease.[78][79] Other medications that can cause problems in asthmatics are angiotensin-converting enzyme inhibitors, aspirin, and NSAIDs.[80] Use of acid suppressing medication (proton pump inhibitors and H2 blockers) during pregnancy is associated with an increased risk of asthma in the child.[81]
+Exacerbation
+
+Some individuals will have stable asthma for weeks or months and then suddenly develop an episode of acute asthma. Different individuals react to various factors in different ways.[82] Most individuals can develop severe exacerbation from a number of triggering agents.[82]
+
+Home factors that can lead to exacerbation of asthma include dust, animal dander (especially cat and dog hair), cockroach allergens and mold.[82][83] Perfumes are a common cause of acute attacks in women and children. Both viral and bacterial infections of the upper respiratory tract can worsen the disease.[82] Psychological stress may worsen symptoms – it is thought that stress alters the immune system and thus increases the airway inflammatory response to allergens and irritants.[40][84]
+Pathophysiology
+Main article: Pathophysiology of asthma
+
+Asthma is the result of chronic inflammation of the conducting zone of the airways (most especially the bronchi and bronchioles), which subsequently results in increased contractability of the surrounding smooth muscles. This among other factors leads to bouts of narrowing of the airway and the classic symptoms of wheezing. The narrowing is typically reversible with or without treatment. Occasionally the airways themselves change.[23] Typical changes in the airways include an increase in eosinophils and thickening of the lamina reticularis. Chronically the airways' smooth muscle may increase in size along with an increase in the numbers of mucous glands. Other cell types involved include: T lymphocytes, macrophages, and neutrophils. There may also be involvement of other components of the immune system including: cytokines, chemokines, histamine, and leukotrienes among others.[22]
+
+    Figure A shows the location of the lungs and airways in the body. Figure B shows a cross-section of a normal airway. Figure C shows a cross-section of an airway during asthma symptoms.
+    A tissue cross section of the airway showing a stained pink wall and an inside full of white mucous
+
+    Obstruction of the lumen of a bronchiole by mucoid exudate, goblet cell metaplasia, and epithelial basement membrane thickening in a person with asthma.
+
+    Diagram of asthma
+
+Diagnosis
+
+While asthma is a well-recognized condition, there is not one universal agreed upon definition.[22] It is defined by the Global Initiative for Asthma as "a chronic inflammatory disorder of the airways in which many cells and cellular elements play a role. The chronic inflammation is associated with airway hyper-responsiveness that leads to recurrent episodes of wheezing, breathlessness, chest tightness and coughing particularly at night or in the early morning. These episodes are usually associated with widespread but variable airflow obstruction within the lung that is often reversible either spontaneously or with treatment".[23]
+
+There is currently no precise test for the diagnosis, which is typically based on the pattern of symptoms and response to therapy over time.[5][22] A diagnosis of asthma should be suspected if there is a history of recurrent wheezing, coughing or difficulty breathing and these symptoms occur or worsen due to exercise, viral infections, allergens or air pollution.[85] Spirometry is then used to confirm the diagnosis.[85] In children under the age of six the diagnosis is more difficult as they are too young for spirometry.[86]
+Spirometry
+
+Spirometry is recommended to aid in diagnosis and management.[87][88] It is the single best test for asthma. If the FEV1 measured by this technique improves more than 12% and increases by at least 200 milliliters following administration of a bronchodilator such as salbutamol, this is supportive of the diagnosis. It however may be normal in those with a history of mild asthma, not currently acting up.[22] As caffeine is a bronchodilator in people with asthma, the use of caffeine before a lung function test may interfere with the results.[89] Single-breath diffusing capacity can help differentiate asthma from COPD.[22] It is reasonable to perform spirometry every one or two years to follow how well a person's asthma is controlled.[90]
+Others
+
+The methacholine challenge involves the inhalation of increasing concentrations of a substance that causes airway narrowing in those predisposed. If negative it means that a person does not have asthma; if positive, however, it is not specific for the disease.[22]
+
+Other supportive evidence includes: a ≥20% difference in peak expiratory flow rate on at least three days in a week for at least two weeks, a ≥20% improvement of peak flow following treatment with either salbutamol, inhaled corticosteroids or prednisone, or a ≥20% decrease in peak flow following exposure to a trigger.[91] Testing peak expiratory flow is more variable than spirometry, however, and thus not recommended for routine diagnosis. It may be useful for daily self-monitoring in those with moderate to severe disease and for checking the effectiveness of new medications. It may also be helpful in guiding treatment in those with acute exacerbations.[92]
+Classification
+Clinical classification (≥ 12 years old)[12] Severity 	Symptom frequency 	Night-time symptoms 	%FEV1 of predicted 	FEV1 variability 	SABA use
+Intermittent 	≤2/week 	≤2/month 	≥80% 	<20% 	≤2 days/week
+Mild persistent 	>2/week 	3–4/month 	≥80% 	20–30% 	>2 days/week
+Moderate persistent 	Daily 	>1/week 	60–80% 	>30% 	daily
+Severe persistent 	Continuously 	Frequent (7/week) 	<60% 	>30% 	≥twice/day
+
+Asthma is clinically classified according to the frequency of symptoms, forced expiratory volume in one second (FEV1), and peak expiratory flow rate.[12] Asthma may also be classified as atopic (extrinsic) or non-atopic (intrinsic), based on whether symptoms are precipitated by allergens (atopic) or not (non-atopic).[13] While asthma is classified based on severity, at the moment there is no clear method for classifying different subgroups of asthma beyond this system.[93] Finding ways to identify subgroups that respond well to different types of treatments is a current critical goal of asthma research.[93]
+
+Although asthma is a chronic obstructive condition, it is not considered as a part of chronic obstructive pulmonary disease, as this term refers specifically to combinations of disease that are irreversible such as bronchiectasis and emphysema.[94] Unlike these diseases, the airway obstruction in asthma is usually reversible; however, if left untreated, the chronic inflammation from asthma can lead the lungs to become irreversibly obstructed due to airway remodeling.[95] In contrast to emphysema, asthma affects the bronchi, not the alveoli.[96]
+Asthma exacerbation
+Severity of an acute exacerbation[97] Near-fatal 	High PaCO2, or requiring mechanical ventilation, or both
+Life-threatening
+(any one of)
+Clinical signs 	Measurements
+Altered level of consciousness 	Peak flow < 33%
+Exhaustion 	Oxygen saturation < 92%
+Arrhythmia 	PaO2 < 8 kPa
+Low blood pressure 	"Normal" PaCO2
+Cyanosis 	
+Silent chest 	
+Poor respiratory effort 	
+Acute severe
+(any one of)
+Peak flow 33–50%
+Respiratory rate ≥ 25 breaths per minute
+Heart rate ≥ 110 beats per minute
+Unable to complete sentences in one breath
+Moderate 	Worsening symptoms
+Peak flow 50–80% best or predicted
+No features of acute severe asthma
+
+An acute asthma exacerbation is commonly referred to as an asthma attack. The classic symptoms are shortness of breath, wheezing, and chest tightness.[22] The wheezing is most often when breathing out.[98] While these are the primary symptoms of asthma,[99] some people present primarily with coughing, and in severe cases, air motion may be significantly impaired such that no wheezing is heard.[97] In children, chest pain is often present.[100]
+
+Signs occurring during an asthma attack include the use of accessory muscles of respiration (sternocleidomastoid and scalene muscles of the neck), there may be a paradoxical pulse (a pulse that is weaker during inhalation and stronger during exhalation), and over-inflation of the chest.[101] A blue color of the skin and nails may occur from lack of oxygen.[102]
+
+In a mild exacerbation the peak expiratory flow rate (PEFR) is ≥200 L/min, or ≥50% of the predicted best.[103] Moderate is defined as between 80 and 200 L/min, or 25% and 50% of the predicted best, while severe is defined as ≤ 80 L/min, or ≤25% of the predicted best.[103]
+
+Acute severe asthma, previously known as status asthmaticus, is an acute exacerbation of asthma that does not respond to standard treatments of bronchodilators and corticosteroids.[104] Half of cases are due to infections with others caused by allergen, air pollution, or insufficient or inappropriate medication use.[104]
+
+Brittle asthma is a kind of asthma distinguishable by recurrent, severe attacks.[97] Type 1 brittle asthma is a disease with wide peak flow variability, despite intense medication. Type 2 brittle asthma is background well-controlled asthma with sudden severe exacerbations.[97]
+Exercise-induced
+Main article: Exercise-induced bronchoconstriction
+
+Exercise can trigger bronchoconstriction both in people with or without asthma.[105] It occurs in most people with asthma and up to 20% of people without asthma.[105] Exercise-induced bronchoconstriction is common in professional athletes. The highest rates are among cyclists (up to 45%), swimmers, and cross-country skiers.[106] While it may occur with any weather conditions, it is more common when it is dry and cold.[107] Inhaled beta2-agonists do not appear to improve athletic performance among those without asthma,[108] however, oral doses may improve endurance and strength.[109][110]
+Occupational
+Main article: Occupational asthma
+
+Asthma as a result of (or worsened by) workplace exposures is a commonly reported occupational disease.[111] Many cases, however, are not reported or recognized as such.[112][113] It is estimated that 5–25% of asthma cases in adults are work-related. A few hundred different agents have been implicated, with the most common being: isocyanates, grain and wood dust, colophony, soldering flux, latex, animals, and aldehydes. The employment associated with the highest risk of problems include: those who spray paint, bakers and those who process food, nurses, chemical workers, those who work with animals, welders, hairdressers and timber workers.[111]
+Aspirin-induced asthma
+Main article: Aspirin-exacerbated respiratory disease
+
+Aspirin-exacerbated respiratory disease (AERD), also known as aspirin-induced asthma, affects up to 9% of asthmatics.[114] AERD consists of asthma, nasal polyps, sinus disease, and respiratory reactions to aspirin and other NSAID medications (such as ibuprofen and naproxen).[115] People often also develop loss of smell and most experience respiratory reactions to alcohol.[116]
+Alcohol-induced asthma
+Main article: Alcohol-induced respiratory reactions
+
+Alcohol may worsen asthmatic symptoms in up to a third of people.[117] This may be even more common in some ethnic groups such as the Japanese and those with aspirin-induced asthma.[117] Other studies have found improvement in asthmatic symptoms from alcohol.[117]
+Nonallergic asthma
+
+Nonallergic asthma, also known as intrinsic or nonatopic asthma, makes up between 10 and 33% of cases. There is negative skin test to common inhalant allergens and normal serum concentrations of IgE. Often it starts later in life, and women are more commonly affected than men. Usual treatments may not work as well.[118]
+Differential diagnosis
+
+Many other conditions can cause symptoms similar to those of asthma. In children, other upper airway diseases such as allergic rhinitis and sinusitis should be considered as well as other causes of airway obstruction including foreign body aspiration, tracheal stenosis, laryngotracheomalacia, vascular rings, enlarged lymph nodes or neck masses.[119] Bronchiolitis and other viral infections may also produce wheezing.[120] In adults, COPD, congestive heart failure, airway masses, as well as drug-induced coughing due to ACE inhibitors should be considered. In both populations vocal cord dysfunction may present similarly.[119]
+
+Chronic obstructive pulmonary disease can coexist with asthma and can occur as a complication of chronic asthma. After the age of 65, most people with obstructive airway disease will have asthma and COPD. In this setting, COPD can be differentiated by increased airway neutrophils, abnormally increased wall thickness, and increased smooth muscle in the bronchi. However, this level of investigation is not performed due to COPD and asthma sharing similar principles of management: corticosteroids, long-acting beta-agonists, and smoking cessation.[121] It closely resembles asthma in symptoms, is correlated with more exposure to cigarette smoke, an older age, less symptom reversibility after bronchodilator administration, and decreased likelihood of family history of atopy.[122][123]
+Prevention
+
+The evidence for the effectiveness of measures to prevent the development of asthma is weak.[124] The World Health Organization recommends decreasing risk factors such as tobacco smoke, air pollution, chemical irritants including perfume, and the number of lower respiratory infections.[125][126] Other efforts that show promise include: limiting smoke exposure in utero, breastfeeding, and increased exposure to daycare or large families, but none are well supported enough to be recommended for this indication.[124]
+
+Early pet exposure may be useful.[127] Results from exposure to pets at other times are inconclusive[128] and it is only recommended that pets be removed from the home if a person has allergic symptoms to said pet.[129]
+
+Dietary restrictions during pregnancy or when breast feeding have not been found to be effective and thus are not recommended.[129] Reducing or eliminating compounds known to sensitive people from the work place may be effective.[111] It is not clear if annual influenza vaccinations affects the risk of exacerbations.[130] Immunization, however, is recommended by the World Health Organization.[131] Smoking bans are effective in decreasing exacerbations of asthma.[132]
+Management
+
+While there is no cure for asthma, symptoms can typically be improved.[133] A specific, customized plan for proactively monitoring and managing symptoms should be created. This plan should include the reduction of exposure to allergens, testing to assess the severity of symptoms, and the usage of medications. The treatment plan should be written down and advise adjustments to treatment according to changes in symptoms.[134]
+
+The most effective treatment for asthma is identifying triggers, such as cigarette smoke, pets, or aspirin, and eliminating exposure to them. If trigger avoidance is insufficient, the use of medication is recommended. Pharmaceutical drugs are selected based on, among other things, the severity of illness and the frequency of symptoms. Specific medications for asthma are broadly classified into fast-acting and long-acting categories.[135][136]
+
+Bronchodilators are recommended for short-term relief of symptoms. In those with occasional attacks, no other medication is needed. If mild persistent disease is present (more than two attacks a week), low-dose inhaled corticosteroids or alternatively, a leukotriene antagonist or a mast cell stabilizer by mouth is recommended. For those who have daily attacks, a higher dose of inhaled corticosteroids is used. In a moderate or severe exacerbation, corticosteroids by mouth are added to these treatments.[7]
+
+People with asthma have higher rates of anxiety and depression.[137] This is associated with poorer asthma control.[137] Cognitive behavioral therapy may improve quality of life, asthma control, and anxiety levels in people with asthma.[137]
+Lifestyle modification
+
+Avoidance of triggers is a key component of improving control and preventing attacks. The most common triggers include allergens, smoke (from tobacco or other sources), air pollution, non selective beta-blockers, and sulfite-containing foods.[138][139] Cigarette smoking and second-hand smoke (passive smoke) may reduce the effectiveness of medications such as corticosteroids.[140] Laws that limit smoking decrease the number of people hospitalized for asthma.[141] Dust mite control measures, including air filtration, chemicals to kill mites, vacuuming, mattress covers and others methods had no effect on asthma symptoms.[56] Overall, exercise is beneficial in people with stable asthma.[142] Yoga could provide small improvements in quality of life and symptoms in people with asthma.[143]
+Medications
+
+Medications used to treat asthma are divided into two general classes: quick-relief medications used to treat acute symptoms; and long-term control medications used to prevent further exacerbation.[135] Antibiotics are generally not needed for sudden worsening of symptoms.[144]
+Fast–acting
+A round canister above a blue plastic holder
+Salbutamol metered dose inhaler commonly used to treat asthma attacks.
+
+    Short-acting beta2-adrenoceptor agonists (SABA), such as salbutamol (albuterol USAN) are the first line treatment for asthma symptoms.[7] They are recommended before exercise in those with exercise induced symptoms.[145]
+    Anticholinergic medications, such as ipratropium bromide, provide additional benefit when used in combination with SABA in those with moderate or severe symptoms.[7] Anticholinergic bronchodilators can also be used if a person cannot tolerate a SABA.[94] If a child requires admission to hospital additional ipratropium does not appear to help over a SABA.[146]
+    Older, less selective adrenergic agonists, such as inhaled epinephrine, have similar efficacy to SABAs.[147] They are however not recommended due to concerns regarding excessive cardiac stimulation.[148]
+
+Long–term control
+A round canister above an orange plastic holder
+Fluticasone propionate metered dose inhaler commonly used for long-term control.
+
+    Corticosteroids are generally considered the most effective treatment available for long-term control.[135] Inhaled forms such as beclomethasone are usually used except in the case of severe persistent disease, in which oral corticosteroids may be needed.[135] It is usually recommended that inhaled formulations be used once or twice daily, depending on the severity of symptoms.[149]
+    Long-acting beta-adrenoceptor agonists (LABA) such as salmeterol and formoterol can improve asthma control, at least in adults, when given in combination with inhaled corticosteroids.[150][151] In children this benefit is uncertain.[150][152][151] When used without steroids they increase the risk of severe side-effects,[153] and with corticosteroids they may slightly increase the risk.[154][155] Evidence suggests that for children who have persistent asthma, a treatment regime that includes LABA added to inhaled corticosteroids may improve lung function but does not reduce the amount of serious exacerbations.[156] Children who require LABA as part of their asthma treatment may need to go to the hospital more frequently.[156]
+    Leukotriene receptor antagonists (anti-leukotriene agents such as montelukast and zafirlukast) may be used in addition to inhaled corticosteroids, typically also in conjunction with a LABA.[17][135][157][158] Evidence is insufficient to support use in acute exacerbations.[159][160] For adults or adolescents who have persistent asthma that is not controlled very well, the addition of anti-leukotriene agents along with daily inhaled corticosteriods improves lung function and reduces the risk of moderate and severe asthma exacerbations.[158] Anti-leukotriene agents may be effective alone for adolescents and adults, however there is no clear research suggesting which people with asthma would benefit from anti-leukotriene receptor alone.[161] In those under five years of age, anti-leukotriene agents were the preferred add-on therapy after inhaled corticosteroids by the British Thoracic Society in 2009.[162] A 2013 Cochrane systematic review concluded that anti-leukotriene agents appear to be of little benefit when added to inhaled steroids for treating children.[163] A similar class of drugs, 5-LOX inhibitors, may be used as an alternative in the chronic treatment of mild to moderate asthma among older children and adults.[17][164] As of 2013 there is one medication in this family known as zileuton.[17]
+    Intravenous administration of the drug aminophylline does not provide an improvement in bronchodilation when compared to standard inhaled beta-2 agonist treatment.[165] Aminophylline treatment is associated with more adverse effects compared to inhaled beta-2 agonist treatment.[165]
+    Mast cell stabilizers (such as cromolyn sodium) are another non-preferred alternative to corticosteroids.[135]
+    For children with asthma which is well-controlled on combination therapy of inhaled corticosteroids (ICS) and long-acting beta2-agonists (LABA), the benefits and harms of stopping LABA and stepping down to ICS-only therapy are uncertain.[166] In adults who have stable asthma while they are taking a combination of LABA and inhaled corticosteroids (ICS), stopping LABA may increase the risk of asthma exacerbations that require treatment with corticosteroids by mouth.[167] Stopping LABA probably makes little or no important difference to asthma control or asthma-related quality of life.[167] Whether or not stopping LABA increases the risk of serious adverse events or exacerbations requiring an emergency department visit or hospitalisation is uncertain.[167]
+
+Delivery methods
+
+Medications are typically provided as metered-dose inhalers (MDIs) in combination with an asthma spacer or as a dry powder inhaler. The spacer is a plastic cylinder that mixes the medication with air, making it easier to receive a full dose of the drug. A nebulizer may also be used. Nebulizers and spacers are equally effective in those with mild to moderate symptoms. However, insufficient evidence is available to determine whether a difference exists in those with severe disease.[168] There is no strong evidence for the use of intravenous LABA for adults or children who have acute asthma.[169]
+Adverse effects
+
+Long-term use of inhaled corticosteroids at conventional doses carries a minor risk of adverse effects.[170] Risks include thrush, the development of cataracts, and a slightly slowed rate of growth.[170][171][172] Higher doses of inhaled steroids may result in lower bone mineral density.[173]
+Others
+
+When asthma is unresponsive to usual medications, other options are available for both emergency management and prevention of flareups. Additional options include:
+
+    Oxygen to alleviate hypoxia if saturations fall below 92%.[174]
+    Corticosteroid by mouth are recommended with five days of prednisone being the same 2 days of dexamethasone.[175] One review recommended a seven-day course of steroids.[176]
+    Magnesium sulfate intravenous treatment increases bronchodilation when used in addition to other treatment in moderate severe acute asthma attacks.[18][177][178] In adults it results in a reduction of hospital admissions.[179]
+    Heliox, a mixture of helium and oxygen, may also be considered in severe unresponsive cases.[18]
+    Intravenous salbutamol is not supported by available evidence and is thus used only in extreme cases.[174]
+    Methylxanthines (such as theophylline) were once widely used, but do not add significantly to the effects of inhaled beta-agonists.[174] Their use in acute exacerbations is controversial.[180]
+    The dissociative anesthetic ketamine is theoretically useful if intubation and mechanical ventilation is needed in people who are approaching respiratory arrest; however, there is no evidence from clinical trials to support this.[181]
+    For those with severe persistent asthma not controlled by inhaled corticosteroids and LABAs, bronchial thermoplasty may be an option.[182] It involves the delivery of controlled thermal energy to the airway wall during a series of bronchoscopies.[182][183] While it may increase exacerbation frequency in the first few months it appears to decrease the subsequent rate. Effects beyond one year are unknown.[184]
+    Monoclonal antibody injections such as mepolizumab,[185] dupilumab,[186] or omalizumab may be useful in those with poorly controlled allergic asthma.[187] However, as of 2019 these medications are expensive and their use is therefore reserved for those with severe symptoms to achieve cost-effectiveness.[188]
+    Evidence suggests that sublingual immunotherapy in those with both allergic rhinitis and asthma improve outcomes.[189]
+    It is unclear if non-invasive positive pressure ventilation in children is of use as it has not been sufficiently studied.[190]
+
+Alternative medicine
+
+Many people with asthma, like those with other chronic disorders, use alternative treatments; surveys show that roughly 50% use some form of unconventional therapy.[191][192] There is little data to support the effectiveness of most of these therapies. Evidence is insufficient to support the usage of vitamin C.[193] There is tentative support for its use in exercise induced bronchospasm.[194] In people with mild to moderate asthma, treatment with vitamin D supplementation is likely to reduce the risk of asthma exacerbations.[195]
+
+Acupuncture is not recommended for the treatment as there is insufficient evidence to support its use.[196][197] Air ionisers show no evidence that they improve asthma symptoms or benefit lung function; this applied equally to positive and negative ion generators.[198]
+
+Manual therapies, including osteopathic, chiropractic, physiotherapeutic and respiratory therapeutic maneuvers, have insufficient evidence to support their use in treating asthma.[199] The Buteyko breathing technique for controlling hyperventilation may result in a reduction in medication use; however, the technique does not have any effect on lung function.[136] Thus an expert panel felt that evidence was insufficient to support its use.[196]
+Prognosis
+Asthma deaths per million persons in 2012
+  0–10
+  11–13
+  14–17
+  18–23
+  24–32
+  33–43
+  44–50
+  51–66
+  67–95
+  96–251
+A map of the world with Europe shaded yellow, most of North and South America orange and Southern Africa a dark red
+Disability-adjusted life year for asthma per 100,000 inhabitants in 2004.[200]
+  no data
+  <100
+  100–150
+  150–200
+  200–250
+  250–300
+  300–350
+	
+  350–400
+  400–450
+  450–500
+  500–550
+  550–600
+  >600
+
+The prognosis for asthma is generally good, especially for children with mild disease.[201] Mortality has decreased over the last few decades due to better recognition and improvement in care.[202] In 2010 the death rate was 170 per million for males and 90 per million for females.[203] Rates vary between countries by 100 fold.[203]
+
+Globally it causes moderate or severe disability in 19.4 million people as of 2004 (16 million of which are in low and middle income countries).[204] Of asthma diagnosed during childhood, half of cases will no longer carry the diagnosis after a decade.[68] Airway remodeling is observed, but it is unknown whether these represent harmful or beneficial changes.[205] Early treatment with corticosteroids seems to prevent or ameliorates a decline in lung function.[206] Asthma in children also has negative effects on quality of life of their parents.[207]
+Epidemiology
+Main article: Epidemiology of asthma
+A map of the world with Europe, North America, Australia and much of South America shaded red, much of Asia is yellow, and most of Africa is grey
+Rates of asthma in different countries of the world as of 2004.
+  no data
+  <1%
+  1–2%
+  2–3%
+  3–4%
+  4–5%
+  5–6%
+	
+  6–7%
+  7–8%
+  8–10%
+  10–12.5%
+  12.5–15%
+  >15%
+
+As of 2011, 235–330 million people worldwide are affected by asthma,[208][209][210] and approximately 250,000–345,000 people die per year from the disease.[23][211] Rates vary between countries with prevalences between 1 and 18%.[23] It is more common in developed than developing countries.[23] One thus sees lower rates in Asia, Eastern Europe and Africa.[22] Within developed countries it is more common in those who are economically disadvantaged while in contrast in developing countries it is more common in the affluent.[23] The reason for these differences is not well known.[23] Low and middle income countries make up more than 80% of the mortality.[212]
+
+While asthma is twice as common in boys as girls,[23] severe asthma occurs at equal rates.[213] In contrast adult women have a higher rate of asthma than men[23] and it is more common in the young than the old.[22] In children, asthma was the most common reason for admission to the hospital following an emergency department visit in the US in 2011.[214]
+
+Global rates of asthma have increased significantly between the 1960s and 2008[20][215] with it being recognized as a major public health problem since the 1970s.[22] Rates of asthma have plateaued in the developed world since the mid-1990s with recent increases primarily in the developing world.[216] Asthma affects approximately 7% of the population of the United States[153] and 5% of people in the United Kingdom.[217] Canada, Australia and New Zealand have rates of about 14–15%.[218]
+
+The average death rate from 2011 to 2015 from asthma in the UK was about 50% higher than the average for the European Union and had increased by about 5% in that time.[219]
+Economics
+
+From 2000 to 2010, the average cost per asthma-related hospital stay in the United States for children remained relatively stable at about $3,600, whereas the average cost per asthma-related hospital stay for adults increased from $5,200 to $6,600.[220] In 2010, Medicaid was the most frequent primary payer among children and adults aged 18–44 years in the United States; private insurance was the second most frequent payer.[220] Among both children and adults in the lowest income communities in the United States there is a higher rate of hospital stays for asthma in 2010 than those in the highest income communities.[220]
+History
+Ebers Papyrus detailing treatment of asthma
+1907 advertisement for Grimault's Indian Cigarettes, promoted as a means of relieving asthma. They contained belladonna and cannabis.
+
+Asthma was recognized in ancient Egypt and was treated by drinking an incense mixture known as kyphi.[21] It was officially named as a specific respiratory problem by Hippocrates circa 450 BC, with the Greek word for "panting" forming the basis of our modern name.[22] In 200 BC it was believed to be at least partly related to the emotions.[30] In the 12th century the Jewish physician-philosopher Maimonides wrote a treatise on asthma in Arabic, based partly on Arabic sources, in which he discussed the symptoms, proposed various dietary and other means of treatment, and emphasized the importance of climate and clean air.[221]
+
+In 1873, one of the first papers in modern medicine on the subject tried to explain the pathophysiology of the disease while one in 1872, concluded that asthma can be cured by rubbing the chest with chloroform liniment.[222][223] Medical treatment in 1880 included the use of intravenous doses of a drug called pilocarpine.[224] In 1886, F. H. Bosworth theorized a connection between asthma and hay fever.[225] Epinephrine was first referred to in the treatment of asthma in 1905.[226] Oral corticosteroids began to be used for this condition in the 1950s while inhaled corticosteroids and selective short acting beta agonist came into wide use in the 1960s.[227][228]
+
+A notable and well-documented case in the 19th century was that of young Theodore Roosevelt (1858–1919). At that time there was no effective treatment. Roosevelt's youth was in large part shaped by his poor health partly related to his asthma. He experienced recurring nighttime asthma attacks that caused the experience of being smothered to death, terrifying the boy and his parents.[229]
+
+During the 1930s to 1950s, asthma was known as one of the "holy seven" psychosomatic illnesses. Its cause was considered to be psychological, with treatment often based on psychoanalysis and other talking cures.[230] As these psychoanalysts interpreted the asthmatic wheeze as the suppressed cry of the child for its mother, they considered the treatment of depression to be especially important for individuals with asthma.[230] 

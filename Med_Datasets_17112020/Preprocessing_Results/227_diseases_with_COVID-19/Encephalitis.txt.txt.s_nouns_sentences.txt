@@ -1,0 +1,45 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Encephalitis|Disease Encephalitis|Disease scan|NN image|NN signal|NN lobe|NN gyrus|NN Encephalitis|Disease
+disease|NN symptom|NN headache|NN fever|NN confusion|NN neck|NN vomit|NN complication|NN trouble|NN memory|NN problem|NN problem|NN hear|NN duration|NN week|NN month|NN recovery|NN type|NN herpes|NP simplex|NN west|NP nile|NP raby|NN Encephalitis|Disease cause|NN infection|NN autoimmune|NN medication|NN method|NN symptom|NN blood|NN test|NN image|NN analysis|NN fluid|NN treatment|NN medication|NN corticosteroid|NN respiration|NN frequency|NN death|NN
+Encephalitis|Disease inflammation|NN brain|NN severity|NN symptom|NN headache|NN fever|NN confusion|NN neck|NN vomit|NN complication|NN seizure|NN hallucination|NN trouble|NN memory|NN problem|NN problem|NN hear|NN
+cause|NN Encephalitis|Disease viruse|NN herpe|NN simplex|NN virus|NN raby|NN bacteria|NN fungy|NN parasite|NN cause|NN autoimmune|NN disease|NN medication|NN case|NN cause|NN risk|NN factor|NN system|NN diagnosis|NN symptom|NN blood|NN test|NN image|NN analysis|NN fluid|NN
+type|NN vaccine|NN treatment|NN medication|NN acyclovir|NN corticosteroid|NN treatment|NN place|NN hospital|NN people|NN respiration|NN problem|NN control|NN rehabilitation|NN Encephalitis|Disease people|NN death|NN content|NN
+sign|NN symptom|NN cause|NN Encephalitis|Disease Encephalitis|Disease Encephalitis|Disease diagnosis|NN prevention|NN treatment|NN epidemiology|NN terminology|NN reference|NN read|NN link|NN
+sign|NN symptom|NN
+adult|NN Encephalitis|Disease present|NN onset|NN fever|NN headache|NN confusion|NN seizure|NN
+younger|NP children|NN infant|NN irritability|NN appetite|NN fever|NN examination|NN person|NN
+neck|NN irritation|NN meninge|NN brain|NN patient|NN meningitis|NN Encephalitis|Disease cause|NN virus|NN article|NN Encephalitis|Disease Encephalitis|Disease
+Encephalitis|Disease effect|NN infection|NN sequelae|NN infection|NN
+majority|NN case|NN Encephalitis|Disease cause|NN cause|NN Encephalitis|Disease herpe|NN simplex|NN infection|NN cause|NN Encephalitis|Disease raby|NN virus|NN poliovirus|NN measle|NN virus|NN
+cause|NN st|NP
+louis|NP Encephalitis|Disease west|NP nile|NP virus|NN la|NP crosse|NP strain|NN choriomeningitis|NN virus|NN colorado|NP tick|NN virus|NN henipavirus|NN infection|NN virus|NN cause|NN Encephalitis|Disease
+infection|NN meningitis|NN complication|NN disease|NN syphilis|NN secondary|NN Encephalitis|Disease
+infestation|NN toxoplasmosis|NN malaria|NN amoebic|NN Encephalitis|Disease Encephalitis|Disease people|NN system|NN
+lyme|NP disease|NN henselae|NN Encephalitis|Disease
+pathogen|NN mycoplasma|NN disease|NN cause|NN inflammation|NN meninge|NN Encephalitis|Disease
+cause|NN Encephalitis|Disease Encephalitis|Disease article|NN Encephalitis|Disease
+Encephalitis|Disease disease|NN system|NN brain|NN
+presentation|NN disorientation|NN memory|NN loss|NN seizure|NN anomaly|NN
+image|NN structure|NN lobe|NN case|NN structure|NN
+case|NN Encephalitis|Disease autoimmune|NN origin|NN Encephalitis|Disease article|NN Encephalitis|Disease
+Encephalitis|Disease sign|NN psychosis|NN movement|NN dysregulation|NN
+anti-n-methyl-d-aspartate-receptor|NN Encephalitis|Disease rasmussen|NP Encephalitis|Disease example|NN autoimmune|NN Encephalitis|Disease receptor|NN Encephalitis|Disease autoimmune|NN form|NN teratoma|NN percent|NN women|NN year|NN age|NN Encephalitis|Disease article|NN Encephalitis|Disease
+Encephalitis|Disease fever|NN headache|NN response|NN lethargy|NN
+individual|NN body|NN weakness|NN pain|NN tremor|NN cause|NN Encephalitis|Disease lethargica|NN
+epidemic|NN Encephalitis|Disease lethargica|NN diagnosis|NN tap|NN
+people|NN Encephalitis|Disease level|NN consciousness|NN lethargy|NN personality|NN change|NN hour|NN cause|NN Encephalitis|Disease variety|NN test|NN
+brain|NN scan|NN mry|NN inflammation|NN cause|NN
+eeg|NN monitor|NN brain|NN activity|NN Encephalitis|Disease signal|NN
+puncture|NN tap|NN help|NN test|NN fluid|NN lumbar|NN region|NN
+blood|NN test|NN urine|NN analysis|NN chain|NN reaction|NN pcr|NP test|NN fluid|NN presence|NN dna|NN sign|NN Encephalitis|Disease
+vaccination|NN tick-borne|NN Encephalitis|Disease individual|NN
+smallpox|NN vaccination|NN intent|NN purpose|NN smallpox|NN immunization|NN patient|NN Encephalitis|Disease treatment|NN
+treatment|NN care|NN
+medication|NN virus|NN cause|NN antibiotics|NN bacteria|NN cause|NN brain|NN swell|NN restlessness|NN fever|NN therapy|NN brain|NN
+maintenance|NN therapy|NN Encephalitis|Disease te|NN gondiy|NN people|NN system|NN use|NN antiretroviral|NN therapy|NN conjunction|NN pyrimethamine-base|NN maintenance|NN therapy|NN chance|NN relapse|NN patient|NN hiv|NP difference|NN relapse|NN severity|NN prognosis|NN disease|NN result|NN increase|NN healthcare|NN expenditure|NN
+identification|NN factor|NN edema|NN status|NN contrast|NN encephalogram|NN stage|NN diagnosis|NN rate|NN survival|NN epidemiology|NN Encephalitis|Disease death|NN person|NN 2012|NP 15-24|NN
+number|NN case|NN year|NN Encephalitis|Disease country|NN case|NN people|NN year|NN
+country|NN incidence|NN people|NN year|NN number|NN case|NN Encephalitis|Disease time|NN case|NN year|NN
+people|NN Encephalitis|Disease time|NN Encephalitis|Disease people|NN death|NN herpes|NP simplex|NN Encephalitis|Disease incidence|NN population|NN year|NN terminology|NN
+Encephalitis|Disease meningitis|NN Encephalitis|Disease Encephalitis|Disease involvement|NN cord|NN
+word|NN enkphalo|NN brain|NN head|NN suffix|NN inflammation|NN
+Encephalitis|Disease bickerstaff|NN Encephalitis|Disease la|NP crosse|NP Encephalitis|Disease encephalopathy|NN meningitis|NN virus|NN amoebic|NN Encephalitis|Disease world|NN Encephalitis|Disease day|NN

@@ -1,0 +1,1655 @@
+asthma|DS asthma|DS common|NN disease|NN of|NN airway|NN of|NN lung|NN 
+symptom|NN obstruction|NN bronchospasm|NN 
+symptom|NN episode|NN of|NN wheeze|NN chest|NN tightness|NN shortness_of_breath|ST 
+time|NN day|NN time|NN week|NN 
+person|NN asthma|DS symptom|NN night|NN exercise|NN 
+include|NN exposure|NN asthma|DS combination|NN of|NN factor|NN 
+factor|NN air|NN pollution|NN allergen|NN 
+medication|NN aspirin|NN beta|NN blocker|NN 
+diagnosis|NN pattern|NN of|NN time|NN symptom|NN response|NN spirometry|NN frequency|NN of|NN symptom|NN volume|NN in|NN second|NN fev1|NN expiratory|NN flow|NN rate|NN 
+atopic|NN atopy|NN refer|NN predisposition|NN 1|NN hypersensitivity|NN reaction|NN 
+asthma|DS therapy|NN function|NN type|NN lung|NN use|NN cure|NN asthma|DS 
+symptom|NN trigger|NN allergen|NN irritant|NN of|NN corticosteroid|NN 
+beta|NN agonist|NN laba|NN agent|NN in|NN addition|NN asthma|DS symptom|NN 
+treatment|NN of|NN symptom|NN agonist|NN salbutamol|NN corticosteroid|NN mouth|NN 
+in|NN case|NN corticosteroid|NN magnesium|NN sulfate|NN hospitalization|NN 
+corticosteroid|NN asthma|DS meter|NN peak|NN flow|NN rate|NN in|NN monitor|NN asthma|DS 
+specialty|NN symptom|NN episode|NN of|NN wheeze|NN pulmonology|NN duration|NN chest|NN tightness|NN shortness_of_breath|ST term|NN factor|NN air|NN pollution|NN risk|NN factor|NN method|NN treatment|NN trigger|NN symptom|NN response|NN spirometry|NN corticosteroid|NN frequency|NN death|NN in|NN people|NN asthma|DS in|NN 
+death|NN in|NN of|NN in|NN world|NN 
+asthma|DS in|NN childhood|NN rate|NN 
+asthma|DS early|NN egypt|NN 
+word|NN asthma|DS ἅσθμα|NN ásthma|NN 
+content|NN sign|NN symptom|NN condition|NN cause|NN condition|NN exacerbation|NN pathophysiology|NN diagnosis|NN spirometry|NN others|NN diagnosis|NN prevention|NN management|NN modification|NN medication|NN others|NN prognosis|NN epidemiology|NN economics|NN history|NN reference|NN link|NN sign|NN symptom|NN asthma|DS episode|NN of|NN wheeze|NN shortness_of_breath|ST chest|NN tightness|NN cough|ST 
+sputum|ST lung|NN 
+recovery|NN asthma|DS attack|NN exacerbation|NN level|NN of|NN white|NN blood|NN cell|NN eosinophil|NN 
+symptom|NN night|NN in|NN early|NN morning|NN in|NN response|NN exercise|NN cold|NN air|NN 
+people|NN asthma|DS experience|NN symptom|NN in|NN response|NN trigger|NN others|NN persistent|NN symptom|NN 
+condition|NN number|NN of|NN health|NN condition|NN in|NN people|NN asthma|DS esophageal|NN reflux|NN disease|NN gerd|NN rhinosinusitis|NN obstructive|NN sleep|NN apnea|ST 
+disorder|NN common|NN anxiety_disorder|DS in|NN mood|NN disorder|NN in|NN 
+asthma|DS cause|NN problem|NN problem|NN asthma|DS 
+asthma|DS risk|NN reaction|NN 
+cause|NN asthma|DS combination|NN of|NN interaction|NN 
+influence|NN severity|NN responsiveness|NN treatment|NN 
+rate|NN of|NN asthma|DS epigenetics|NN factor|NN dna|NN sequence|NN live|NN environment|NN 
+asthma|DS age|NN of|NN year|NN influence|NN age|NN influence|NN 
+factor|NN asthma|DS development|NN exacerbation|NN allergen|NN air|NN pollution|NN chemical|NN 
+pregnancy|NN delivery|NN risk|NN of|NN symptom|NN 
+air|NN quality|NN factor|NN traffic|NN pollution|NN ozone|NN level|NN asthma|DS development|NN asthma|DS severity|NN 
+of|NN case|NN in|NN child|NN in|NN state|NN in|NN area|NN air|NN quality|NN epa|NN standard|NN 
+air|NN quality|NN common|NN in|NN income|NN minority|NN community|NN 
+exposure|NN compound|NN trigger|NN asthma|DS exposure|NN example|NN association|NN 
+phthalates|NN in|NN type|NN of|NN pvc|NN asthma|DS in|NN child|NN adult|NN 
+exposure|NN pesticide|NN development|NN of|NN asthma|DS cause|NN effect|NN relationship|NN 
+majority|NN of|NN evidence|NN causal|NN role|NN acetaminophen|NN paracetamol|NN use|NN asthma|DS 
+review|NN association|NN acetaminophen|NN use|NN asthma|DS respiratory|NN infection|NN account|NN 
+acetaminophen|NN use|NN mother|NN pregnancy|NN risk|NN of|NN child|NN asthma|DS 
+stress|NN pregnancy|NN risk|NN factor|NN child|NN asthma|DS 
+asthma|DS exposure|NN allergen|NN 
+common|NN indoor|NN allergen|NN mite|NN cockroach|NN dander|NN fragment|NN of|NN fur|NN feather|NN mold|NN 
+effort|NN dust|NN mite|NN symptom|NN in|NN subject|NN 
+evidence|NN effort|NN mold|NN build|NN asthma|DS symptom|NN in|NN adult|NN 
+respiratory|NN infection|NN respiratory|NN virus|NN rhinovirus|NN risk|NN of|NN asthma|DS child|NN 
+infection|NN risk|NN 
+hygiene|NN hypothesis|NN hygiene|NN hypothesis|NN attempt|NN rate|NN of|NN asthma|DS worldwide|NN result|NN of|NN exposure|NN childhood|NN bacteria|NN virus|NN 
+exposure|NN bacteria|NN virus|NN in|NN part|NN cleanliness|NN family|NN size|NN in|NN society|NN 
+exposure|NN endotoxin|NN in|NN early|NN childhood|NN development|NN of|NN asthma|DS exposure|NN age|NN bronchoconstriction|NN 
+evidence|NN hygiene|NN hypothesis|NN rate|NN of|NN asthma|DS farm|NN in|NN household|NN pet|NN 
+use|NN of|NN antibiotic|NN in|NN early|NN life|NN development|NN of|NN asthma|DS 
+delivery|NN section|NN risk|NN of|NN asthma|DS risk|NN lack|NN of|NN colonization|NN newborn|NN passage|NN birth|NN canal|NN 
+link|NN asthma|DS degree|NN of|NN affluence|NN hygiene|NN hypothesis|NN individual|NN exposure|NN bacteria|NN virus|NN 
+interaction|NN family|NN history|NN risk|NN factor|NN asthma|DS gene|NN 
+twin|NN probability|NN of|NN disease|NN 
+end|NN of|NN gene|NN asthma|DS in|NN population|NN gstm1|NN il10|NN spink5|NN ltc4s|NN il4r|NN adam33|NN others|NN 
+of|NN gene|NN immune|NN system|NN inflammation|NN 
+list|NN of|NN gene|NN study|NN result|NN population|NN 
+in|NN gene|NN asthma|DS in|NN association|NN study|NN 
+endotoxin|NN level|NN exposure|NN exposure|NN risk|NN risk|NN tt|NN risk|NN risk|NN variant|NN asthma|DS exposure|NN 
+example|NN polymorphism|NN in|NN region|NN exposure|NN product|NN 
+endotoxin|NN exposure|NN source|NN tobacco|NN smoke|NN dog|NN farm|NN 
+risk|NN asthma|DS person|NN genetics|NN level|NN of|NN endotoxin|NN exposure|NN 
+condition|NN triad|NN of|NN atopic|NN eczema|NN allergic_rhinitis|DS asthma|DS atopy|NN 
+risk|NN factor|NN asthma|DS history|NN of|NN atopic|NN disease|NN asthma|DS rate|NN in|NN eczema|NN hay|NN fever|ST 
+asthma|DS granulomatosis|NN polyangiitis|NN syndrome|NN disease|NN vasculitis|NN 
+individual|NN type|NN of|NN urticaria|ST symptom|NN of|NN asthma|DS 
+correlation|NN obesity|NN risk|NN of|NN asthma|DS in|NN year|NN 
+factor|NN play|NN respiratory|NN function|NN buildup|NN of|NN fat|NN fact|NN tissue|NN state|NN 
+beta|NN blocker|NN medication|NN propranolol|NN asthma|DS in|NN 
+in|NN disease|NN 
+medication|NN problem|NN in|NN asthmatic|NN inhibitor|NN aspirin|NN nsaid|NN 
+use|NN of|NN medication|NN pump|NN inhibitor|NN blocker|NN pregnancy|NN risk|NN of|NN asthma|DS in|NN child|NN 
+exacerbation|NN individual|NN asthma|DS week|NN month|NN episode|NN of|NN asthma|DS 
+individual|NN factor|NN in|NN way|NN 
+individual|NN exacerbation|NN number|NN of|NN agent|NN 
+home|NN factor|NN exacerbation|NN of|NN asthma|DS include|NN dust|NN animal|NN dander|NN cat|NN hair|NN cockroach|NN allergen|NN mold|NN 
+perfume|NN common|NN cause|NN of|NN attack|NN in|NN woman|NN child|NN 
+infection|NN of|NN respiratory|NN tract|NN disease|NN 
+stress|NN symptom|NN stress|NN alter|NN immune|NN system|NN response|NN allergen|NN irritant|NN 
+asthma|DS exacerbation|NN in|NN child|NN in|NN autumn|NN child|NN school|NN 
+combination|NN of|NN factor|NN treatment|NN adherence|NN allergen|NN exposure|NN altered|NN tolerance|NN 
+evidence|NN approach|NN exacerbation|NN treatment|NN week|NN school|NN return|NN autumn|NN asthma|DS exacerbation|NN 
+pathophysiology|NN asthma|DS result|NN of|NN chronic|NN inflammation|NN of|NN zone|NN of|NN airway|NN bronchus|NN bronchiole|NN result|NN in|NN contractability|NN of|NN muscle|NN 
+factor|NN bout|NN of|NN narrow|NN of|NN airway|NN symptom|NN of|NN wheeze|NN 
+narrow|NN treatment|NN 
+change|NN in|NN airway|NN increase|NN in|NN eosinophil|NN thicken|NN of|NN reticularis|NN 
+airway|NN muscle|NN in|NN size|NN increase|NN in|NN number|NN of|NN gland|NN 
+cell|NN type|NN t|NN lymphocyte|NN macrophage|NN neutrophil|NN 
+involvement|NN of|NN component|NN of|NN system|NN cytokine|NN chemokines|NN histamine|NN leukotrienes|NN others|NN 
+diagram|NN of|NN asthma|DS figure|NN figure|NN location|NN of|NN lung|NN airway|NN in|NN body|NN 
+b|NN section|NN of|NN airway|NN 
+figure|NN c|NN section|NN of|NN airway|NN asthma|DS symptom|NN 
+of|NN obstruction|NN of|NN lumen|NN exudate|NN mucoid|NN cell|NN goblet|NN metaplasia|NN basement|NN membrane|NN person|NN asthma|DS 
+in|NN diagnosis|NN asthma|DS condition|NN universal|NN definition|NN 
+initiative|NN asthma|DS chronic|NN inflammatory|NN disorder|NN of|NN airway|NN in|NN cell|NN element|NN role|NN 
+chronic|NN inflammation|NN responsiveness|NN episode|NN of|NN wheeze|NN breathlessness|NN chest|NN tightness|NN night|NN in|NN early|NN morning|NN 
+episode|NN obstruction|NN lung|NN treatment|NN 
+test|NN diagnosis|NN pattern|NN of|NN symptom|NN response|NN time|NN 
+diagnosis|NN of|NN asthma|DS history|NN of|NN recurrent|NN wheeze|NN difficulty|NN breathe|NN symptom|NN infection|NN allergen|NN air|NN pollution|NN 
+spirometry|NN diagnosis|NN 
+in|NN child|NN age|NN of|NN diagnosis|NN spirometry|NN 
+spirometry|NN spirometry|NN in|NN diagnosis|NN management|NN 
+test|NN asthma|DS 
+fev1|NN technique|NN increase|NN milliliter|NN administration|NN of|NN bronchodilator|NN salbutamol|NN of|NN diagnosis|NN 
+in|NN history|NN of|NN asthma|DS 
+caffeine|NN bronchodilator|NN in|NN people|NN asthma|DS use|NN of|NN caffeine|NN lung|NN function|NN test|NN result|NN 
+capacity|NN asthma|DS copd|NN 
+spirometry|NN year|NN person|NN asthma|DS 
+others|NN methacholine|NN challenge|NN inhalation|NN of|NN concentration|NN of|NN substance|NN in|NN 
+person|NN asthma|DS disease|NN 
+evidence|NN difference|NN in|NN flow|NN rate|NN day|NN in|NN week|NN week|NN improvement|NN of|NN peak|NN flow|NN treatment|NN salbutamol|NN corticosteroid|NN prednisone|NN decrease|NN in|NN flow|NN exposure|NN trigger|NN 
+expiratory|NN flow|NN spirometry|NN diagnosis|NN 
+in|NN disease|NN effectiveness|NN of|NN medication|NN 
+in|NN treatment|NN in|NN exacerbation|NN 
+classification|NN classification|NN year|NN severity|NN frequency|NN symptom|NN fev1|NN of|NN fev1|NN variability|NN intermittent|NN saba|NN use|NN 2|NN persistent|NN asthma|DS frequency|NN of|NN symptom|NN volume|NN in|NN second|NN fev1|NN expiratory|NN flow|NN rate|NN 
+asthma|DS atopic|NN symptom|NN allergen|NN atopic|NN atopic|NN 
+asthma|DS severity|NN moment|NN method|NN subgroup|NN of|NN asthma|DS system|NN 
+way|NN subgroup|NN type|NN of|NN treatment|NN goal|NN of|NN asthma|DS research|NN 
+asthma|DS chronic|NN obstructive|NN condition|NN part|NN of|NN chronic_obstructive_pulmonary_disease|DS term|NN combination|NN of|NN disease|NN bronchiectasis|NN emphysema|NN 
+disease|NN airway|NN obstruction|NN in|NN asthma|DS chronic|NN inflammation|NN asthma|DS lung|NN remodel|NN 
+in|NN contrast|NN asthma|DS bronchus|NN alveolus|NN 
+asthma|DS exacerbation|NN asthma|DS exacerbation|NN asthma|DS attack|NN 
+symptom|NN shortness_of_breath|ST wheeze|NN chest|NN tightness|NN 
+wheeze|NN 
+symptom|NN of|NN asthma|DS people|NN cough|ST in|NN case|NN air|NN motion|NN 
+in|NN child|NN chest_pain|ST 
+wheeze|NN sign|NN asthma|DS attack|NN use|NN of|NN muscle|NN of|NN respiration|NN muscle|NN of|NN neck|NN pulse|NN pulse|NN exhalation|NN of|NN chest|NN 
+color|NN of|NN skin|NN nail|NN lack|NN of|NN oxygen|NN 
+inhalation|NN severity|NN of|NN exacerbation|NN paco2|NN ventilation|NN sign|NN measurement|NN altered|NN level|NN of|NN consciousness|NN peak|NN flow|NN of|NN acute|NN of|NN oxygen|NN saturation|NN pao2|NN kpa|NN paco2|NN exhaustion|NN arrhythmia|ST blood|NN pressure|NN cyanosis|NN chest|NN respiratory|NN effort|NN peak|NN respiratory|NN rate|NN breath|NN heart|NN rate|NN beat|NN minute|NN sentence|NN in|NN breath|NN worsen|NN symptom|NN peak|NN flow|NN in|NN exacerbation|NN flow|NN rate|NN pefr|NN of|NN best|NN 
+moderate|NN of|NN of|NN best|NN 
+feature|NN of|NN acute|NN asthma|DS asthma|DS status|NN asthmaticus|NN exacerbation|NN of|NN asthma|DS treatment|NN of|NN bronchodilator|NN corticosteroid|NN 
+half|NN of|NN case|NN infection|NN others|NN allergen|NN air|NN pollution|NN insufficient|NN medication|NN use|NN 
+asthma|DS kind|NN of|NN asthma|DS recurrent|NN attack|NN 
+type|NN 1|NN brittle|NN asthma|DS disease|NN peak|NN flow|NN variability|NN medication|NN 
+type|NN 2|NN brittle|NN asthma|DS asthma|DS exacerbation|NN 
+exercise|NN bronchoconstriction|NN in|NN people|NN asthma|DS 
+in|NN people|NN asthma|DS of|NN people|NN asthma|DS 
+bronchoconstriction|NN common|NN in|NN athlete|NN 
+rate|NN cyclist|NN swimmer|NN skier|NN 
+weather|NN condition|NN common|NN dry|NN cold|NN 
+performance|NN asthma|DS do|NN endurance|NN strength|NN 
+occupational|NN asthma|DS result|NN of|NN workplace|NN exposure|NN occupational|NN disease|NN 
+case|NN 
+of|NN asthma|DS case|NN in|NN adult|NN 
+agent|NN common|NN isocyanate|NN grain|NN wood|NN dust|NN colophony|NN flux|NN latex|NN animal|NN aldehyde|NN 
+employment|NN risk|NN of|NN problem|NN paint|NN baker|NN food|NN nurse|NN worker|NN animal|NN welder|NN hairdresser|NN worker|NN 
+asthma|DS respiratory|NN disease|NN aerd|NN asthma|DS of|NN asthmatic|NN 
+aerd|NN of|NN asthma|DS nasal|NN polyp|NN sinus|NN disease|NN respiratory|NN reaction|NN medication|NN ibuprofen|NN naproxen|NN 
+people|NN loss|NN of|NN smell|NN respiratory|NN reaction|NN alcohol|NN 
+asthma|DS alcohol|NN symptom|NN in|NN of|NN people|NN 
+common|NN in|NN group|NN asthma|DS 
+study|NN improvement|NN in|NN symptom|NN alcohol|NN 
+asthma|DS asthma|DS of|NN case|NN 
+skin|NN test|NN common|NN allergen|NN concentration|NN of|NN ige|NN 
+in|NN life|NN woman|NN men|NN 
+treatment|NN 
+diagnosis|NN condition|NN symptom|NN of|NN asthma|DS 
+in|NN child|NN airway|NN disease|NN allergic_rhinitis|DS sinusitis|DS cause|NN of|NN obstruction|NN body|NN aspiration|NN stenosis|NN laryngotracheomalacia|NN ring|NN node|NN neck|NN mass|NN 
+bronchiolitis|NN infection|NN 
+in|NN adult|NN copd|NN heart_failure|DS airway|NN mass|NN inhibitor|NN 
+in|NN population|NN cord|NN dysfunction|NN 
+chronic_obstructive_pulmonary_disease|DS asthma|DS complication|NN of|NN chronic|NN asthma|DS 
+age|NN of|NN people|NN obstructive|NN airway|NN disease|NN asthma|DS copd|NN 
+in|NN set|NN copd|NN airway|NN neutrophil|NN wall|NN thickness|NN muscle|NN in|NN bronchus|NN 
+level|NN of|NN investigation|NN asthma|DS principle|NN of|NN management|NN corticosteroid|NN cessation|NN 
+asthma|DS in|NN symptom|NN exposure|NN smoke|NN age|NN reversibility|NN bronchodilator|NN administration|NN likelihood|NN of|NN family|NN history|NN of|NN atopy|NN 
+prevention|NN evidence|NN effectiveness|NN of|NN measure|NN development|NN of|NN asthma|DS 
+world|NN health|NN organization|NN risk|NN factor|NN tobacco|NN smoke|NN air|NN pollution|NN irritant|NN perfume|NN number|NN of|NN respiratory|NN infection|NN 
+effort|NN include|NN smoke|NN exposure|NN in|NN utero|NN breastfeed|NN exposure|NN family|NN none|NN enough|NN indication|NN 
+early|NN exposure|NN 
+result|NN exposure|NN pet|NN time|NN pet|NN home|NN person|NN allergic|NN symptom|NN pet|NN 
+restriction|NN pregnancy|NN breast|NN feed|NN asthma|DS in|NN child|NN 
+compound|NN people|NN work|NN place|NN 
+influenza|DS vaccination|NN risk|NN of|NN exacerbation|NN 
+immunization|NN world|NN health|NN organization|NN 
+smoke|NN ban|NN in|NN exacerbation|NN of|NN asthma|DS 
+management|NN cure|NN asthma|DS symptom|NN 
+specific|NN plan|NN monitor|NN manage|NN symptom|NN 
+plan|NN reduction|NN of|NN exposure|NN allergen|NN severity|NN of|NN symptom|NN usage|NN of|NN adjustment|NN medication|NN 
+treatment|NN plan|NN down|NN adjustment|NN treatment|NN change|NN in|NN symptom|NN 
+treatment|NN asthma|DS trigger|NN cigarette|NN smoke|NN pet|NN aspirin|NN exposure|NN 
+avoidance|NN use|NN of|NN medication|NN 
+drug|NN thing|NN severity|NN of|NN illness|NN frequency|NN of|NN symptom|NN 
+medication|NN asthma|DS category|NN 
+bronchodilator|NN relief|NN of|NN symptom|NN 
+in|NN attack|NN medication|NN 
+disease|NN attack|NN week|NN corticosteroid|NN antagonist|NN mast|NN cell|NN stabilizer|NN mouth|NN 
+attack|NN dose|NN of|NN corticosteroid|NN 
+in|NN exacerbation|NN corticosteroid|NN mouth|NN treatment|NN 
+people|NN asthma|DS rate|NN of|NN anxiety|ST stress|NN depression|ST 
+asthma|DS control|NN 
+therapy|NN quality|NN of|NN life|NN asthma|DS control|NN anxiety|ST level|NN in|NN people|NN asthma|DS 
+people|NN knowledge|NN asthma|DS action|NN plan|NN component|NN of|NN asthma|DS 
+session|NN information|NN specific|NN person|NN culture|NN 
+research|NN preparedness|NN knowledge|NN of|NN asthma|DS school|NN staff|NN family|NN school|NN intervention|NN result|NN in|NN term|NN improvement|NN in|NN safety|NN child|NN asthma|DS 
+asthma|DS intervention|NN knowledge|NN of|NN asthma|DS trigger|NN importance|NN of|NN practitioner|NN review|NN hospital|NN admission|NN emergency|NN department|NN visit|NN 
+intervention|NN number|NN of|NN day|NN child|NN asthma|DS symptom|NN improvement|NN in|NN quality|NN of|NN life|NN 
+research|NN adult|NN asthma|DS asthma|DS action|NN plan|NN 
+people|NN asthma|DS use|NN oximeter|NN blood|NN oxygen|NN level|NN asthma|DS attack|NN 
+evidence|NN use|NN in|NN instance|NN 
+modification|NN avoidance|NN of|NN trigger|NN component|NN of|NN control|NN attack|NN 
+common|NN trigger|NN allergen|NN smoke|NN tobacco|NN source|NN air|NN pollution|NN food|NN 
+cigarette|NN smoke|NN smoke|NN smoke|NN effectiveness|NN of|NN medication|NN corticosteroid|NN 
+law|NN decrease|NN number|NN of|NN people|NN asthma|DS 
+mite|NN control|NN measure|NN air|NN filtration|NN chemical|NN mite|NN mattress|NN cover|NN others|NN method|NN effect|NN asthma|DS symptom|NN 
+evidence|NN dehumidifiers|NN asthma|DS 
+exercise|NN in|NN people|NN asthma|DS 
+yoga|NN improvement|NN in|NN quality|NN of|NN life|NN symptom|NN in|NN people|NN asthma|DS 
+research|NN weight_loss|ST quality|NN of|NN life|NN usage|NN of|NN health|NN care|NN service|NN effect|NN people|NN of|NN age|NN asthma|DS 
+medication|NN medication|NN asthma|DS class|NN medication|NN symptom|NN control|NN medication|NN exacerbation|NN 
+antibiotic|NN worsen|NN of|NN symptom|NN asthma|DS time|NN 
+agonist|NN saba|NN salbutamol|NN usan|NN line|NN treatment|NN asthma|DS symptom|NN 
+exercise|NN in|NN exercise|NN symptom|NN 
+medication|NN ipratropium|NN benefit|NN in|NN combination|NN saba|NN in|NN symptom|NN hospitalization|NN 
+bronchodilator|NN person|NN saba|NN 
+child|NN admission|NN ipratropium|NN saba|NN 
+child|NN 2|NN year|NN asthma|DS symptom|NN medication|NN saba|NN saba|NN medication|NN 
+adult|NN medication|NN anticholinergic|NN saba|NN risk|NN effect|NN tremor|ST agitation|NN heart|NN beat|NN palpitations|ST people|NN saba|NN 
+adrenergic|NN agonist|NN epinephrine|NN efficacy|NN 
+concern|NN stimulation|NN 
+course|NN of|NN corticosteroid|NN asthma|DS exacerbation|NN relapse|NN hospitalization|NN 
+adult|NN child|NN in|NN hospital|NN asthma|DS iv|NN corticosteroid|NN symptom|NN 
+control|NN salbutamol|NN inhaler|NN asthma|DS attack|NN 
+corticosteroid|NN treatment|NN control|NN 
+form|NN beclomethasone|NN in|NN case|NN of|NN disease|NN in|NN corticosteroid|NN 
+formulation|NN severity|NN of|NN symptom|NN 
+agonist|NN laba|NN salmeterol|NN formoterol|NN asthma|DS control|NN in|NN adult|NN in|NN combination|NN corticosteroid|NN 
+in|NN child|NN benefit|NN 
+steroid|NN risk|NN of|NN effect|NN corticosteroid|NN risk|NN 
+evidence|NN child|NN asthma|DS treatment|NN regime|NN laba|NN corticosteroid|NN lung|NN function|NN amount|NN of|NN exacerbation|NN 
+child|NN laba|NN part|NN of|NN asthma|DS treatment|NN hospital|NN 
+leukotriene|NN receptor|NN antagonist|NN agent|NN montelukast|NN zafirlukast|NN in|NN addition|NN corticosteroid|NN in|NN conjunction|NN laba|NN 
+evidence|NN use|NN in|NN exacerbation|NN 
+adult|NN adolescent|NN asthma|DS addition|NN of|NN agent|NN corticosteriods|NN lung|NN function|NN risk|NN of|NN asthma|DS exacerbation|NN 
+agent|NN alone|NN adolescent|NN adult|NN research|NN people|NN asthma|DS receptor|NN 
+in|NN year|NN of|NN age|NN agent|NN therapy|NN corticosteroid|NN thoracic|NN society|NN in|NN 
+cochrane|NN review|NN agent|NN of|NN benefit|NN steroid|NN child|NN 
+class|NN of|NN drug|NN inhibitor|NN alternative|NN in|NN chronic|NN treatment|NN of|NN mild|NN asthma|DS child|NN adult|NN 
+of|NN medication|NN in|NN family|NN zileuton|NN 
+fluticasone|NN propionate|NN inhaler|NN control|NN 
+administration|NN of|NN drug|NN aminophylline|NN improvement|NN in|NN bronchodilation|NN agonist|NN treatment|NN 
+aminophylline|NN treatment|NN effect|NN 2|NN treatment|NN 
+mast|NN cell|NN stabilizer|NN sodium|NN alternative|NN corticosteroid|NN 
+child|NN asthma|DS combination|NN therapy|NN of|NN corticosteroid|NN ic|NN laba|NN benefit|NN harm|NN of|NN laba|NN down|NN therapy|NN 
+in|NN adult|NN asthma|DS combination|NN of|NN laba|NN corticosteroid|NN ic|NN laba|NN risk|NN of|NN asthma|DS exacerbation|NN treatment|NN corticosteroid|NN mouth|NN 
+laba|NN difference|NN asthma|DS control|NN quality|NN of|NN life|NN 
+laba|NN risk|NN of|NN event|NN exacerbation|NN emergency|NN department|NN visit|NN hospitalisation|NN 
+medication|NN ipratropium|NN bromide|NN chronic|NN asthma|DS in|NN child|NN 2|NN year|NN treatment|NN of|NN chronic|NN asthma|DS in|NN adult|NN 
+evidence|NN medication|NN replacement|NN corticosteroid|NN mouth|NN steroid|NN 
+methotrexate|NN replacement|NN corticosteriods|NN mouth|NN effect|NN methotrexate|NN relief|NN asthma|DS symptom|NN 
+delivery|NN method|NN medication|NN inhaler|NN mdi|NN in|NN combination|NN asthma|DS spacer|NN dry|NN powder|NN inhaler|NN 
+spacer|NN cylinder|NN medication|NN air|NN dose|NN of|NN drug|NN 
+nebulizer|NN 
+nebulizer|NN spacers|NN in|NN symptom|NN 
+evidence|NN difference|NN in|NN disease|NN 
+in|NN asthma|DS in|NN child|NN spacers|NN advantage|NN nebuliser|NN child|NN asthma|DS 
+evidence|NN use|NN of|NN laba|NN adult|NN child|NN asthma|DS 
+evidence|NN effectiveness|NN of|NN inhaler|NN homemade|NN spacer|NN spacer|NN child|NN asthma|DS 
+effect|NN use|NN of|NN corticosteroid|NN do|NN risk|NN of|NN effect|NN 
+risk|NN thrush|NN development|NN of|NN cataract|DS rate|NN of|NN growth|NN 
+do|NN of|NN steroid|NN in|NN bone|NN density|NN 
+others|NN inflammation|NN in|NN lung|NN level|NN of|NN oxide|NN 
+use|NN of|NN oxide|NN level|NN feno|NN asthma|DS medication|NN dose|NN benefit|NN asthma|DS attack|NN benefit|NN approach|NN method|NN asthma|DS therapy|NN in|NN adult|NN child|NN 
+asthma|DS medication|NN option|NN emergency|NN management|NN prevention|NN of|NN flareups|NN 
+option|NN oxygen|NN hypoxia|NN saturation|NN 
+corticosteroid|NN mouth|NN day|NN of|NN prednisone|NN 2|NN day|NN of|NN dexamethasone|NN 
+review|NN course|NN of|NN steroid|NN 
+magnesium|NN treatment|NN increase|NN bronchodilation|NN in|NN addition|NN treatment|NN in|NN acute|NN asthma|DS attack|NN 
+in|NN adult|NN treatment|NN result|NN in|NN reduction|NN of|NN hospital|NN admission|NN 
+level|NN of|NN evidence|NN magnesium|NN sulfate|NN benefit|NN asthma|DS in|NN adult|NN 
+quality|NN evidence|NN benefit|NN magnesium|NN sulfate|NN treatment|NN adult|NN asthma|DS 
+heliox|NN mixture|NN of|NN helium|NN oxygen|NN in|NN case|NN 
+salbutamol|NN evidence|NN in|NN case|NN 
+methylxanthines|NN theophylline|NN effect|NN of|NN 
+use|NN in|NN exacerbation|NN 
+ketamine|NN intubation|NN ventilation|NN in|NN people|NN respiratory|NN arrest|NN evidence|NN trial|NN 
+persistent|NN asthma|DS corticosteroid|NN labas|NN thermoplasty|NN option|NN 
+delivery|NN of|NN energy|NN airway|NN wall|NN series|NN of|NN bronchoscopies|NN 
+exacerbation|NN frequency|NN in|NN month|NN rate|NN 
+effect|NN year|NN 
+antibody|NN injection|NN mepolizumab|NN dupilumab|NN omalizumab|NN in|NN atopic|NN asthma|DS 
+of|NN 2019|NN medication|NN use|NN symptom|NN 
+antibody|NN receptor|NN mepolizumab|NN reslizumab|NN benralizumab|NN in|NN addition|NN care|NN in|NN asthma|DS in|NN rate|NN of|NN asthma|DS exacerbation|NN 
+evidence|NN quality|NN of|NN life|NN lung|NN function|NN 
+evidence|NN immunotherapy|NN in|NN allergic_rhinitis|DS asthma|DS outcome|NN 
+pressure|NN ventilation|NN in|NN child|NN of|NN use|NN 
+medicine|NN people|NN asthma|DS chronic|NN disorder|NN treatment|NN survey|NN use|NN form|NN of|NN therapy|NN 
+data|NN effectiveness|NN of|NN of|NN therapy|NN 
+evidence|NN usage|NN of|NN c|NN vitamin|NN e|NN asthma|DS 
+support|NN use|NN of|NN vitamin|NN c|NN in|NN exercise|NN bronchospasm|NN 
+oil|NN supplement|NN fatty|NN acid|NN sodium|NN asthma|DS control|NN 
+in|NN people|NN asthma|DS treatment|NN supplementation|NN risk|NN of|NN asthma|DS exacerbation|NN people|NN vitamin|NN d|NN level|NN baseline|NN vitamin|NN d|NN 
+evidence|NN d|NN supplement|NN asthma|DS symptom|NN person|NN lung|NN function|NN 
+evidence|NN adult|NN asthma|DS food|NN glutamate|NN msg|NN 
+study|NN child|NN asthma|DS food|NN msg|NN 
+acupuncture|NN treatment|NN evidence|NN use|NN 
+air|NN ionisers|NN evidence|NN asthma|DS symptom|NN benefit|NN lung|NN function|NN ion|NN generator|NN 
+therapy|NN respiratory|NN maneuver|NN evidence|NN technique|NN hyperventilation|NN in|NN reduction|NN in|NN medication|NN use|NN technique|NN effect|NN lung|NN function|NN 
+panel|NN evidence|NN use|NN 
+evidence|NN breathe|NN exercise|NN child|NN asthma|DS 
+asthma|DS 
+buteyko|NN use|NN in|NN prognosis|NN prognosis|NN asthma|DS child|NN disease|NN 
+mortality|NN decade|NN recognition|NN improvement|NN in|NN care|NN 
+in|NN death|NN rate|NN male|NN female|NN 
+rate|NN country|NN fold|NN 
+asthma|DS death|NN person|NN in|NN disability|NN in|NN people|NN of|NN of|NN in|NN income|NN country|NN 
+of|NN asthma|DS middle|NN childhood|NN half|NN of|NN case|NN diagnosis|NN decade|NN 
+harmful|NN change|NN 
+early|NN treatment|NN corticosteroid|NN decline|NN in|NN lung|NN function|NN 
+asthma|DS in|NN child|NN effect|NN quality|NN of|NN life|NN of|NN parent|NN 
+epidemiology|NN of|NN people|NN asthma|DS people|NN year|NN disease|NN 
+rate|NN country|NN prevalence|NN 1|NN 
+common|NN in|NN country|NN 
+rate|NN in|NN asia|NN europe|NN africa|NN 
+country|NN common|NN in|NN in|NN contrast|NN in|NN country|NN common|NN in|NN affluent|NN 
+reason|NN difference|NN 
+middle|NN income|NN country|NN of|NN rate|NN of|NN asthma|DS in|NN country|NN of|NN world|NN of|NN life|NN year|NN asthma|DS inhabitant|NN in|NN 
+data|NN 1|NN mortality|NN 
+data|NN asthma|DS common|NN in|NN boy|NN girl|NN asthma|DS rate|NN 
+in|NN contrast|NN adult|NN woman|NN rate|NN of|NN asthma|DS men|NN common|NN in|NN 
+in|NN child|NN asthma|DS common|NN reason|NN admission|NN hospital|NN emergency|NN department|NN visit|NN in|NN in|NN 
+rate|NN of|NN asthma|DS major|NN health|NN problem|NN 
+rate|NN of|NN asthma|DS in|NN world|NN increase|NN in|NN world|NN 
+asthma|DS affect|NN of|NN population|NN of|NN state|NN of|NN people|NN in|NN kingdom|NN 
+canada|NN australia|NN zealand|NN rate|NN of|NN 
+death|NN rate|NN asthma|DS in|NN uk|NN average|NN union|NN in|NN time|NN 
+child|NN asthma|DS symptom|NN school|NN start|NN in|NN september|NN 
+economics|NN cost|NN hospital|NN stay|NN in|NN state|NN child|NN cost|NN hospital|NN stay|NN adult|NN 
+in|NN medicaid|NN payer|NN child|NN adult|NN year|NN in|NN state|NN insurance|NN payer|NN 
+child|NN adult|NN in|NN income|NN community|NN in|NN state|NN rate|NN of|NN hospital|NN stay|NN asthma|DS in|NN in|NN income|NN community|NN 
+history|NN problem|NN asthma|DS in|NN egypt|NN mixture|NN kyphi|NN 
+respiratory|NN hippocrates|NN bc|NN word|NN basis|NN of|NN name|NN 
+in|NN bc|NN emotion|NN 
+in|NN maimonides|NN treatise|NN asthma|DS in|NN arabic|NN in|NN source|NN symptom|NN mean|NN of|NN treatment|NN importance|NN of|NN climate|NN air|NN 
+ebers|NN treatment|NN of|NN asthma|DS century|NN advertisement|NN grimault|NN cigarette|NN mean|NN of|NN asthma|DS 
+belladonna|NN cannabis|NN 
+in|NN of|NN paper|NN in|NN medicine|NN subject|NN pathophysiology|NN of|NN disease|NN in|NN asthma|DS chest|NN liniment|NN 
+treatment|NN in|NN use|NN of|NN do|NN of|NN drug|NN pilocarpine|NN 
+in|NN bosworth|NN connection|NN asthma|DS hay|NN fever|ST 
+epinephrine|NN in|NN treatment|NN of|NN asthma|DS in|NN 
+corticosteroid|NN condition|NN in|NN corticosteroid|NN beta|NN agonist|NN use|NN in|NN 1960s|NN 
+case|NN in|NN century|NN of|NN theodore|NN roosevelt|NN 
+time|NN treatment|NN 
+roosevelt|NN youth|NN in|NN part|NN health|NN asthma|DS 
+asthma|DS attack|NN experience|NN of|NN death|NN boy|NN parent|NN 
+asthma|DS of|NN illness|NN 
+cause|NN treatment|NN psychoanalysis|NN cure|NN 
+psychoanalyst|NN wheeze|NN cry|NN of|NN child|NN mother|NN treatment|NN of|NN depression|ST individual|NN asthma|DS 
+reference|NN gina|NN guideline|NN 
+asthma|DS fact|NN sheet|NN http|NN 
+p|NN june|NN march|NN 
+martinez|NN fd|NN 
+gene|NN environment|NN development|NN asthma|DS reappraisal|NN 
+respiratory|NN journal|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rf|NN busse|NN ww|NN 
+asthma|DS expression|NN mechanism|NN http|NN 
+journal|NN of|NN allergy|DS immunology|NN 
+2|NN 2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+guideline|NN pp|NN 
+nhlbi|NN gbd|NN disease|NN injury|NN incidence|NN prevalence|NN collaborator|NN 
+incidence|NN prevalence|NN year|NN disability|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gbd|NN mortality|NN cause|NN of|NN death|NN collaborator|NN 
+life|NN expectancy|NN mortality|NN mortality|NN cause|NN of|NN death|NN analysis|NN burden|NN of|NN disease|NN study|NN s|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+guideline|NN pp|NN 
+gina|NN yawn|NN bp|NN 
+factor|NN asthma|DS variability|NN symptom|NN control|NN patient|NN http|NN df|NN pdf|NN 
+care|NN respiratory|NN journal|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+http|NN pdf|NN 
+kumar|NN vinay|NN fausto|NN nelson|NN aster|NN jon|NN ed|NN 
+robbins|NN cotran|NN pathologic|NN basis|NN of|NN disease|NN 
+saunders|NN 
+http|NN 
+stedman|NN dictionary|NN http|NN 
+lippincott|NN wilkins|NN 
+gina|NN gina|NN scott|NN jp|NN m|NN 
+antileukotriene|NN agent|NN treatment|NN of|NN lung|NN disease|NN 
+journal|NN of|NN respiratory|NN care|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+guideline|NN pp|NN 
+burden|NN of|NN disease|NN study|NN collaborator|NN 
+incidence|NN prevalence|NN year|NN disability|NN acute|NN chronic|NN disease|NN injury|NN in|NN country|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+c|NN u|NN schayck|NN oc|NN 
+prevalence|NN of|NN asthma|DS 
+review|NN of|NN study|NN 
+allergy|DS 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+manniche|NN 
+luxury|NN fragrance|NN aromatherapy|NN cosmetic|NN in|NN egypt|NN 
+cornell|NN university|NN press|NN 
+pp|NN 
+http|NN c|NN 
+murray|NN john|NN 
+ch|NN 
+asthma|DS 
+in|NN mason|NN murray|NN john|NN broaddus|NN courtney|NN king|NN talmadge|NN e|NN 
+ed|NN 
+murray|NN nadel|NN textbook|NN of|NN respiratory|NN medicine|NN 
+elsevier|NN 
+gina|NN pp|NN 
+jindal|NN sk|NN ed|NN 
+textbook|NN of|NN pulmonary|NN care|NN medicine|NN http|NN 
+delhi|NN jaypee|NN brother|NN publisher|NN 
+http|NN 
+george|NN ronald|NN b|NN 
+chest|NN medicine|NN essential|NN of|NN pulmonary|NN care|NN medicine|NN http|NN 
+philadelphia|NN lippincott|NN wilkins|NN 
+s|NN gc|NN 
+guideline|NN gina|NN pp|NN 
+boulet|NN lp|NN 
+influence|NN of|NN comorbid|NN condition|NN asthma|DS 
+respiratory|NN journal|NN 
+http|NN 
+pmid|NN http|NN 2|NN 
+boulet|NN lp|NN boulay|NN mè|NN 
+comorbidities|NN 
+review|NN of|NN respiratory|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+editor|NN harry|NN kotses|NN 
+asthma|DS health|NN society|NN health|NN perspective|NN http|NN 
+york|NN springer|NN 
+http|NN 
+m|NN bruton|NN moffat|NN m|NN cleland|NN j|NN 
+asthma|DS dysfunction|NN http|NN 
+care|NN respiratory|NN journal|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+h|NN webb|NN ja|NN ed|NN 
+contrast|NN media|NN safety|NN issue|NN guideline|NN http|NN ed|NN 
+dordrecht|NN springer|NN 
+miller|NN rl|NN ho|NN sm|NN 
+epigenetics|NN asthma|DS concept|NN call|NN study|NN http|NN 
+journal|NN of|NN respiratory|NN care|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+choudhry|NN s|NN ma|NN borrell|NN ln|NN tang|NN h|NN d|NN chapela|NN r|NN al|NN 
+july|NN 
+dissect|NN disease|NN in|NN population|NN asthma|DS in|NN latino|NN american|NN http|NN 
+proceed|NN of|NN thoracic|NN society|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rr|NN 
+asthma|DS risk|NN factor|NN interaction|NN ramification|NN 
+toxicology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+dj|NN walter|NN jl|NN lodge|NN cj|NN aj|NN matheson|NN mc|NN dharmage|NN sc|NN 
+onset|NN determinant|NN of|NN asthma|DS phenotype|NN in|NN adult|NN review|NN of|NN literature|NN 
+review|NN of|NN respiratory|NN medicine|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+jc|NN 
+air|NN pollution|NN disease|NN 
+allergy|DS 
+http|NN 
+pmid|NN http|NN 
+gina|NN gina|NN gold|NN dr|NN r|NN 
+population|NN disparity|NN in|NN asthma|DS 
+review|NN of|NN health|NN 
+http|NN 
+pmid|NN http|NN 
+lung|NN association|NN 
+air|NN pollution|NN health|NN inequity|NN workshop|NN report|NN http|NN 
+health|NN perspective|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+brook|NN nancy|NN rajiv|NN 
+distribution|NN of|NN pollution|NN community|NN characteristic|NN exposure|NN air|NN toxics|NN 
+journal|NN of|NN economics|NN management|NN 
+2|NN 
+http|NN 
+mcgwin|NN g|NN j|NN kennedy|NN ji|NN 
+formaldehyde|NN exposure|NN asthma|DS in|NN child|NN review|NN http|NN 
+health|NN perspective|NN 
+http|NN 
+pmc|NN http|NN c2854756|NN 
+pmid|NN http|NN 
+jaakkola|NN jj|NN tl|NN 
+role|NN of|NN exposure|NN phthalates|NN chloride|NN product|NN in|NN development|NN of|NN asthma|DS allergy|DS review|NN http|NN 
+health|NN perspective|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bornehag|NN cg|NN e|NN 
+phthalate|NN exposure|NN asthma|DS in|NN child|NN 
+journal|NN of|NN andrology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+mamane|NN baldi|NN i|NN jf|NN raherison|NN c|NN g|NN 
+occupational|NN exposure|NN pesticide|NN respiratory|NN health|NN 
+respiratory|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+mamane|NN raherison|NN c|NN jf|NN baldi|NN i|NN g|NN 
+exposure|NN pesticide|NN respiratory|NN health|NN 
+respiratory|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+heintze|NN k|NN ku|NN 
+case|NN of|NN drug|NN causation|NN of|NN childhood|NN asthma|DS antibiotic|NN paracetamol|NN http|NN 
+journal|NN of|NN pharmacology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+henderson|NN aj|NN shaheen|NN 
+acetaminophen|NN asthma|DS 
+respiratory|NN review|NN 
+1|NN http|NN 
+pmid|NN http|NN 
+cheelo|NN m|NN lodge|NN cj|NN dharmage|NN sc|NN simpson|NN ja|NN matheson|NN m|NN j|NN aj|NN 
+paracetamol|NN exposure|NN in|NN pregnancy|NN early|NN childhood|NN development|NN of|NN childhood|NN asthma|DS review|NN 
+archive|NN of|NN disease|NN in|NN childhood|NN 
+1|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+eyers|NN m|NN jefferies|NN r|NN 
+paracetamol|NN in|NN pregnancy|NN risk|NN of|NN in|NN review|NN 
+allergy|DS 
+http|NN 
+pmid|NN http|NN 
+van|NN gelder|NN mm|NN roukema|NN j|NN roeleveld|NN n|NN merkus|NN pj|NN verhaak|NN cm|NN 
+stress|NN childhood|NN asthma|DS wheeze|NN 
+respiratory|NN journal|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+sk|NN 
+indoor|NN environment|NN effect|NN childhood|NN asthma|DS 
+opinion|NN in|NN allergy|DS immunology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+sh|NN 
+exposure|NN allergen|NN development|NN of|NN asthma|DS allergy|DS 
+allergy|DS asthma|DS report|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+custovic|NN simpson|NN 
+role|NN of|NN allergen|NN in|NN allergic|NN airway|NN disease|NN 
+journal|NN of|NN allergology|NN immunology|NN 
+pmid|NN http|NN 
+pc|NN johansen|NN hk|NN 
+gøtzsche|NN pc|NN 
+house|NN mite|NN control|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 2|NN cd001187|NN 
+http|NN ub3|NN 
+pmid|NN http|NN 
+calderón|NN ma|NN j|NN f|NN fernandez|NN d|NN virchow|NN jc|NN p|NN 
+respiratory|NN allergy|DS house|NN dust|NN mite|NN 
+journal|NN of|NN allergy|DS immunology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+sauni|NN riitta|NN verbeek|NN jos|NN jukka|NN jauhiainen|NN merja|NN sigsgaard|NN torben|NN 
+remediate|NN build|NN dampness|NN mould|NN respiratory|NN tract|NN symptom|NN infection|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 2|NN cd007897|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+guideline|NN cd|NN celedón|NN jc|NN 
+hygiene|NN hypothesis|NN asthma|DS 
+opinion|NN in|NN pulmonary|NN medicine|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+bufford|NN jd|NN je|NN 
+hygiene|NN hypothesis|NN 
+immunology|NN allergy|DS clinic|NN of|NN america|NN 
+2|NN 
+s|NN 
+pmid|NN http|NN 
+brook|NN n|NN j|NN 
+hygiene|NN hypothesis|NN in|NN allergy|DS asthma|DS update|NN 
+opinion|NN in|NN allergy|DS immunology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rao|NN d|NN phipatanakul|NN w|NN 
+impact|NN of|NN control|NN childhood|NN asthma|DS http|NN 
+allergy|DS asthma|DS report|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+murk|NN w|NN risnes|NN kr|NN mb|NN 
+exposure|NN antibiotic|NN risk|NN of|NN childhood|NN asthma|DS review|NN 
+pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+guideline|NN j|NN j|NN 
+versus|NN vaginal|NN delivery|NN infant|NN outcome|NN hygiene|NN hypothesis|NN http|NN 
+clinic|NN in|NN perinatology|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN c3110651|NN 
+pmid|NN http|NN 
+hertzen|NN lc|NN haahtela|NN t|NN 
+asthma|DS atopy|NN price|NN of|NN affluence|NN 
+allergy|DS 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+martinez|NN fd|NN 
+cd14|NN endotoxin|NN asthma|DS risk|NN action|NN interaction|NN s|NN 
+proceed|NN of|NN thoracic|NN society|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+elward|NN douglas|NN kurtis|NN 
+asthma|DS http|NN 
+london|NN manson|NN pub|NN 
+pp|NN 
+http|NN id|NN 
+c|NN hoffjan|NN s|NN 
+asthma|DS genetics|NN road|NN gene|NN discovery|NN 
+gene|NN immunity|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+halapi|NN e|NN 
+overview|NN status|NN of|NN asthma|DS genetics|NN 
+respiratory|NN journal|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rapini|NN bolognia|NN jorizzo|NN joseph|NN 
+dermatology|NN set|NN 
+louis|NN mosby|NN 
+gina|NN jennette|NN jc|NN falk|NN rj|NN bacon|NN pa|NN basu|NN n|NN cid|NN mc|NN ferrario|NN f|NN al|NN 
+chapel|NN hill|NN consensus|NN conference|NN nomenclature|NN of|NN vasculitides|NN 
+arthritis|DS rheumatism|DS 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+beuther|NN da|NN 
+insight|NN obesity|NN asthma|DS 
+opinion|NN in|NN pulmonary|NN medicine|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+holguin|NN f|NN march|NN 
+obesity|NN asthma|DS stress|NN 
+journal|NN of|NN physiology|NN 
+http|NN 
+pmid|NN http|NN 
+wood|NN lg|NN gibson|NN pg|NN 
+factor|NN activation|NN in|NN asthma|DS 
+pharmacology|NN therapeutic|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+st|NN 
+action|NN of|NN antagonist|NN s|NN 
+journal|NN of|NN education|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+salpeter|NN s|NN ormiston|NN t|NN salpeter|NN e|NN 
+disease|NN 
+cochrane|NN database|NN of|NN review|NN cd002992|NN 
+http|NN 
+pmid|NN http|NN 
+morale|NN jackson|NN c|NN bj|NN donnan|NN pt|NN guthrie|NN b|NN 
+respiratory|NN effect|NN of|NN exposure|NN in|NN asthma|DS review|NN analysis|NN of|NN trial|NN 
+chest|NN 
+http|NN 
+pmid|NN http|NN 
+covar|NN ra|NN macomber|NN ba|NN szefler|NN sj|NN 
+medication|NN asthma|DS trigger|NN 
+immunology|NN allergy|DS clinic|NN of|NN america|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+t|NN m|NN j|NN m|NN x|NN al|NN 
+drug|NN use|NN pregnancy|NN risk|NN of|NN childhood|NN asthma|DS 
+pediatrics|NN 
+2|NN e20170889|NN 
+http|NN 
+pmid|NN http|NN 
+baxi|NN sn|NN phipatanakul|NN w|NN 
+role|NN of|NN allergen|NN exposure|NN avoidance|NN in|NN asthma|DS http|NN 
+medicine|NN 
+1|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ra|NN bearman|NN n|NN thornton|NN cr|NN husk|NN k|NN nj|NN 
+diversity|NN asthma|DS review|NN of|NN risk|NN factor|NN 
+journal|NN of|NN allergy|DS immunology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+chen|NN e|NN miller|NN ge|NN 
+stress|NN inflammation|NN in|NN exacerbation|NN of|NN asthma|DS http|NN 
+brain|NN behavior|NN immunity|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pike|NN kc|NN m|NN d|NN km|NN 
+cochrane|NN airway|NN group|NN 
+intervention|NN exacerbation|NN of|NN asthma|DS in|NN child|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd012393|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+guideline|NN gina|NN academy|NN of|NN allergy|DS asthma|DS immunology|NN 
+thing|NN physician|NN patient|NN http|NN pdf|NN 
+foundation|NN 
+pdf|NN 
+panel|NN report|NN guideline|NN diagnosis|NN management|NN of|NN asthma|DS http|NN 
+heart|NN lung|NN blood|NN institute|NN 
+ncbi|NN 
+ej|NN barley|NN e|NN cj|NN 
+welsh|NN ej|NN 
+caffeine|NN asthma|DS http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 1|NN cd001112|NN 
+ttps|NN 
+pmid|NN http|NN 
+guideline|NN pinnock|NN h|NN r|NN 
+asthma|DS http|NN 
+bmj|NN 
+http|NN 
+pmc|NN http|NN mc1853223|NN 
+pmid|NN http|NN 
+guideline|NN moore|NN wc|NN rm|NN 
+update|NN in|NN asthma|DS http|NN 
+journal|NN of|NN respiratory|NN care|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+self|NN timothy|NN chrisman|NN finch|NN christopher|NN 
+asthma|DS 
+in|NN anne|NN alldredge|NN al|NN 
+ed|NN 
+therapeutic|NN use|NN of|NN drug|NN 
+philadelphia|NN lippincott|NN wilkins|NN 
+http|NN 
+delacourt|NN c|NN 
+change|NN in|NN asthma|DS change|NN in|NN asthma|DS 
+archive|NN pediatrie|NN 
+2|NN suppl|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+schiffman|NN george|NN december|NN 
+chronic_obstructive_pulmonary_disease|DS http|NN 
+medicinenet|NN 
+http|NN 2|NN september|NN 
+guideline|NN review|NN of|NN asthma|DS http|NN 2|NN 
+london|NN medicine|NN group|NN 
+s|NN qbaj|NN 
+barnes|NN j|NN 
+asthma|DS 
+in|NN fauci|NN kasper|NN l|NN 
+ed|NN 
+harrison|NN principle|NN of|NN medicine|NN 
+york|NN 
+pp|NN 
+mcmahon|NN maureen|NN 
+pediatrics|NN companion|NN 
+philadelphia|NN pa|NN 
+maitre|NN b|NN t|NN derenne|NN jp|NN 
+examination|NN of|NN adult|NN patient|NN respiratory|NN disease|NN inspection|NN palpation|NN http|NN 
+respiratory|NN journal|NN 
+pmid|NN s|NN 
+http|NN 
+werner|NN ha|NN 
+status|NN asthmaticus|NN in|NN child|NN review|NN 
+chest|NN 
+http|NN 
+pmid|NN http|NN 
+shiber|NN jr|NN j|NN 
+dyspnea|ST 
+clinic|NN of|NN america|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN saltoun|NN 
+chapter|NN acute|NN asthma|DS status|NN asthmaticus|NN 
+allergy|DS asthma|DS proceed|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+khan|NN da|NN 
+bronchoconstriction|NN burden|NN prevalence|NN 
+allergy|DS asthma|DS proceed|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+wuestenfeld|NN jc|NN wolfarth|NN b|NN 
+consideration|NN patient|NN http|NN 
+access|NN journal|NN of|NN sport|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gina|NN carlsen|NN kh|NN anderson|NN sd|NN bjermer|NN l|NN bonini|NN s|NN brusasco|NN v|NN canonica|NN w|NN al|NN 
+respiratory|NN society|NN academy|NN of|NN allergy|DS immunology|NN ga|NN 2|NN len|NN 
+treatment|NN of|NN asthma|DS respiratory|NN allergic|NN disorder|NN in|NN sport|NN relationship|NN dope|NN part|NN ii|NN of|NN report|NN task|NN force|NN of|NN respiratory|NN society|NN er|NN academy|NN of|NN allergy|DS immunology|NN eaaci|NN in|NN cooperation|NN ga|NN 2|NN len|NN 
+allergy|DS 
+http|NN 
+pmid|NN http|NN 
+kindermann|NN w|NN 
+beta|NN 2|NN potential|NN in|NN pluim|NN bm|NN jb|NN j|NN kuiper|NN se|NN al|NN 
+athlete|NN 
+sport|NN medicine|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+performance|NN review|NN of|NN trial|NN 
+sport|NN medicine|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+baur|NN x|NN tb|NN burge|NN p|NN heederik|NN d|NN pk|NN maestrelli|NN p|NN al|NN 
+june|NN 
+er|NN force|NN management|NN of|NN asthma|DS 
+management|NN of|NN asthma|DS guideline|NN perspective|NN 
+respiratory|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+kunnamo|NN i|NN ed|NN 
+medicine|NN guideline|NN 
+chichester|NN wiley|NN 
+aj|NN 
+chapter|NN occupational|NN asthma|DS 
+in|NN m|NN kraft|NN m|NN ed|NN 
+asthma|DS 
+philadelphia|NN mosby|NN 
+chang|NN je|NN white|NN ra|NN stevenson|NN dd|NN 
+respiratory|NN disease|NN burden|NN of|NN disease|NN 
+allergy|DS asthma|DS proceed|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+respiratory|NN disease|NN aerd|NN http|NN 
+academy|NN of|NN allergy|DS asthma|DS immunology|NN 
+kennedy|NN jl|NN l|NN 
+respiratory|NN disease|NN prevalence|NN diagnosis|NN treatment|NN consideration|NN future|NN http|NN 
+journal|NN of|NN rhinology|NN allergy|DS 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+adam|NN rans|NN 
+reaction|NN alcohol|NN alcoholic|NN beverage|NN 
+annals|NN of|NN allergy|DS asthma|DS immunology|NN 
+http|NN 
+pmid|NN http|NN 
+peter|NN 
+asthma|DS phenotype|NN nonallergic|NN asthma|DS 
+journal|NN of|NN allergy|DS immunology|NN 
+in|NN practice|NN 
+2|NN 
+ttps|NN 
+pmid|NN http|NN 
+guideline|NN lichtenstein|NN richard|NN 
+emergency|NN http|NN 
+philadelphia|NN elsevier|NN 
+http|NN id|NN 
+gibson|NN pg|NN vm|NN mark|NN 
+asthma|DS in|NN adult|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+hargreave|NN fe|NN parameswaran|NN k|NN 
+asthma|DS copd|NN bronchitis|DS component|NN of|NN disease|NN 
+respiratory|NN journal|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+diaz|NN knoell|NN 
+chronic_obstructive_pulmonary_disease|DS 
+therapeutic|NN use|NN of|NN drug|NN 
+philadelphia|NN lippincott|NN wilkins|NN 
+guideline|NN pp|NN 
+asthma|DS http|NN 
+world|NN health|NN organization|NN 
+june|NN 
+henneberger|NN pk|NN 
+asthma|DS 
+opinion|NN in|NN allergy|DS immunology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+lodge|NN cj|NN kj|NN aj|NN hill|NN dj|NN c|NN abramson|NN mj|NN dharmage|NN sc|NN 
+cat|NN dog|NN exposure|NN risk|NN of|NN asthma|DS allergy|DS in|NN environment|NN review|NN of|NN study|NN http|NN 
+immunology|NN 
+http|NN 
+pmc|NN p|NN 
+pmid|NN http|NN 
+chen|NN cm|NN c|NN m|NN j|NN 
+role|NN of|NN cat|NN dog|NN in|NN asthma|DS review|NN 
+journal|NN of|NN hygiene|NN health|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+prescott|NN sl|NN tang|NN ml|NN 
+society|NN of|NN immunology|NN allergy|DS 
+society|NN of|NN immunology|NN allergy|DS position|NN statement|NN summary|NN of|NN allergy|DS prevention|NN in|NN child|NN 
+journal|NN of|NN australia|NN 
+http|NN 
+pmid|NN http|NN 
+cat|NN bh|NN 
+vaccine|NN influenza|DS in|NN people|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 
+2|NN 2|NN cd000364|NN 
+http|NN ub4|NN 
+pmid|NN http|NN 
+group|NN of|NN expert|NN immunization|NN report|NN of|NN meet|NN influenza|DS h1n1|NN july|NN 
+releve|NN epidemiologique|NN hebdomadaire|NN 
+http|NN 
+jv|NN ub|NN cox|NN b|NN nawrot|NN t|NN schayck|NN cp|NN 
+effect|NN of|NN legislation|NN perinatal|NN health|NN review|NN analysis|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+ripoll|NN leutholtz|NN ignacio|NN 
+exercise|NN disease|NN management|NN http|NN 
+boca|NN raton|NN press|NN 
+http|NN ttps|NN 
+gibson|NN powell|NN coughlan|NN wilson|NN abramson|NN haywood|NN bauman|NN hensley|NN walter|NN 
+education|NN practitioner|NN review|NN adult|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 1|NN cd001117|NN 
+http|NN d001117|NN 
+pmid|NN tps|NN 
+gina|NN nhlbi|NN 
+guideline|NN management|NN of|NN asthma|DS http|NN pdf|NN 
+intercollegiate|NN guideline|NN network|NN 
+http|NN pdf|NN 
+kew|NN km|NN m|NN dulay|NN v|NN j|NN 
+therapy|NN cbt|NN adult|NN adolescent|NN asthma|DS http|NN mc6457695|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011818|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+p|NN hine|NN p|NN cj|NN jones|NN cj|NN j|NN al|NN 
+disclosure|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd007676|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN zemek|NN r|NN fm|NN 
+action|NN plan|NN asthma|DS in|NN child|NN 
+cochrane|NN database|NN of|NN review|NN cd005306|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+mccallum|NN gb|NN p|NN n|NN chang|NN ab|NN 
+program|NN child|NN adult|NN minority|NN group|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd006580|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kew|NN km|NN carr|NN r|NN donovan|NN t|NN m|NN 
+asthma|DS education|NN school|NN staff|NN tps|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd012255|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ej|NN m|NN p|NN 
+intervention|NN child|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd008469|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+j|NN c|NN 
+family|NN therapy|NN chronic|NN asthma|DS in|NN child|NN 
+cochrane|NN database|NN of|NN review|NN 2|NN cd000089|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+harris|NN k|NN d|NN lasserson|NN tj|NN vm|NN j|NN j|NN 2019|NN 
+cochrane|NN airway|NN group|NN 
+intervention|NN asthma|DS in|NN child|NN adolescent|NN method|NN review|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+1|NN cd011651|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kew|NN km|NN malik|NN p|NN k|NN r|NN 
+people|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd012330|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+tl|NN dj|NN mulvaney|NN nr|NN whiteley|NN g|NN al|NN 
+asthma|DS action|NN plan|NN adult|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011859|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ej|NN carr|NN r|NN 
+cochrane|NN airway|NN group|NN 
+oximeter|NN monitor|NN saturation|NN level|NN part|NN of|NN asthma|DS action|NN plan|NN people|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd011584|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+guideline|NN thomson|NN nc|NN spear|NN 
+influence|NN of|NN treatment|NN response|NN in|NN patient|NN asthma|DS 
+opinion|NN in|NN allergy|DS immunology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+stapleton|NN m|NN george|NN c|NN hoover|NN rm|NN 
+smoke|NN asthma|DS 
+journal|NN of|NN board|NN of|NN family|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN jaiswal|NN n|NN 
+dehumidifiers|NN chronic|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd003563|NN 
+ttps|NN 
+pmid|NN http|NN 
+carson|NN kv|NN chandratilleke|NN mg|NN picot|NN j|NN brinn|NN mp|NN aj|NN smith|NN bj|NN 
+train|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 
+cd001116|NN 
+http|NN 
+pmid|NN http|NN 
+yang|NN zy|NN hb|NN c|NN jq|NN huang|NN yf|NN wu|NN xy|NN al|NN 
+yoga|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 
+cd010346|NN 
+http|NN b2|NN 
+pmid|NN http|NN 
+fb|NN t|NN 
+weight_loss|ST intervention|NN chronic|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd009339|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+cheng|NN j|NN pan|NN t|NN ye|NN gh|NN q|NN 
+calorie|NN chronic|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd004674|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+guideline|NN management|NN of|NN asthma|DS http|NN pdf|NN 
+sign|NN 
+http|NN pdf|NN october|NN 
+normansell|NN r|NN sayer|NN b|NN waterson|NN s|NN dennett|NN ej|NN forno|NN m|NN 
+antibiotic|NN exacerbation|NN of|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd002741|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+parson|NN jp|NN hallstrand|NN t|NN mastronarde|NN jg|NN da|NN rundell|NN kw|NN hull|NN jh|NN al|NN 
+thoracic|NN society|NN practice|NN guideline|NN bronchoconstriction|NN 
+journal|NN of|NN respiratory|NN care|NN medicine|NN 
+http|NN st|NN 
+pmid|NN http|NN 
+griffith|NN b|NN fm|NN 
+anticholinergic|NN treatment|NN of|NN asthma|DS in|NN child|NN 
+cochrane|NN database|NN of|NN review|NN cd000060|NN 
+ttps|NN 
+pmid|NN http|NN 
+kirkland|NN sw|NN c|NN voaklander|NN b|NN t|NN campbell|NN s|NN bh|NN 
+agent|NN emergency|NN management|NN in|NN adult|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+1|NN cd001284|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+vézina|NN k|NN chauhan|NN bf|NN fm|NN 
+anticholinergic|NN act|NN beta|NN 2|NN child|NN asthma|DS in|NN hospital|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd010283|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+teoh|NN l|NN cj|NN hurwitz|NN m|NN jp|NN asperen|NN p|NN chang|NN ab|NN 
+therapy|NN asthma|DS in|NN child|NN http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN cd003797|NN 
+http|NN 
+pmid|NN http|NN 
+rodrigo|NN gj|NN lj|NN 
+comparison|NN adrenaline|NN beta2|NN agonist|NN treatment|NN of|NN asthma|DS 
+of|NN trial|NN 
+journal|NN of|NN emergency|NN medicine|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+guideline|NN rowe|NN bh|NN spooner|NN ch|NN fm|NN bretzlaff|NN ja|NN bota|NN gw|NN 
+corticosteroid|NN relapse|NN exacerbation|NN of|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd000195|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN s|NN elliott|NN tm|NN m|NN bh|NN 
+corticosteroid|NN child|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 2|NN cd002886|NN 
+http|NN 
+pmid|NN http|NN 
+rowe|NN bh|NN spooner|NN c|NN fm|NN bretzlaff|NN ja|NN bota|NN gw|NN 
+early|NN emergency|NN department|NN treatment|NN of|NN asthma|DS systemic|NN corticosteroid|NN 
+cochrane|NN database|NN of|NN review|NN 1|NN cd002178|NN 
+http|NN 
+pmid|NN http|NN 
+adam|NN j|NN jones|NN p|NN 
+beclomethasone|NN do|NN chronic|NN asthma|DS review|NN 
+cochrane|NN database|NN of|NN review|NN 1|NN cd002879|NN 
+http|NN 
+pmid|NN http|NN 
+guideline|NN ducharme|NN fm|NN chroinin|NN m|NN greenstone|NN i|NN lasserson|NN tj|NN 
+ducharme|NN fm|NN 
+addition|NN of|NN corticosteroid|NN dose|NN corticosteroid|NN chronic|NN asthma|DS in|NN adult|NN child|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd005535|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+chroinin|NN m|NN greenstone|NN i|NN lasserson|NN tj|NN fm|NN 
+addition|NN of|NN steroid|NN line|NN therapy|NN asthma|DS in|NN adult|NN child|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd005307|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+fm|NN chroinin|NN m|NN greenstone|NN i|NN lasserson|NN tj|NN 
+ducharme|NN fm|NN 
+addition|NN of|NN steroid|NN dose|NN steroid|NN in|NN adult|NN child|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN cd005533|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ch|NN 
+asthma|DS 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+cat|NN cat|NN 
+cat|NN 
+treatment|NN formoterol|NN chronic|NN asthma|DS event|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd006923|NN 
+http|NN ub3|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cat|NN cat|NN 
+cat|NN 
+treatment|NN salmeterol|NN chronic|NN asthma|DS event|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd006363|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+chauhan|NN bf|NN chartrand|NN c|NN chroinin|NN m|NN milan|NN sj|NN fm|NN 
+addition|NN of|NN corticosteroid|NN chronic|NN asthma|DS in|NN child|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd007949|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+chauhan|NN bf|NN fm|NN 
+addition|NN corticosteroid|NN of|NN chronic|NN asthma|DS http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 1|NN cd003137|NN 
+http|NN 
+pmid|NN http|NN 
+chauhan|NN bf|NN jeyaraman|NN mm|NN singh|NN mann|NN j|NN r|NN fm|NN 
+addition|NN of|NN agent|NN corticosteroid|NN adult|NN adolescent|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd010347|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ducharme|NN f|NN z|NN hick|NN r|NN 
+addition|NN of|NN agent|NN corticosteroid|NN chronic|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 2|NN cd003133|NN 
+http|NN 
+pmid|NN http|NN 
+gina|NN watt|NN k|NN chavasse|NN rj|NN 
+watt|NN k|NN 
+receptor|NN antagonist|NN in|NN addition|NN care|NN asthma|DS in|NN adult|NN child|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd006100|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN bannuru|NN rr|NN h|NN sr|NN ch|NN balk|NN em|NN 
+antagonist|NN placebo|NN in|NN treatment|NN of|NN asthma|DS in|NN adult|NN adolescent|NN review|NN http|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+guideline|NN chauhan|NN bf|NN ben|NN salah|NN r|NN fm|NN 
+addition|NN of|NN agent|NN corticosteroid|NN in|NN child|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN cd009585|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+zyflo|NN zileuton|NN tablet|NN http|NN pdf|NN 
+state|NN food|NN drug|NN administration|NN 
+cornerstone|NN therapeutic|NN http|NN http|NN pdf|NN december|NN december|NN 
+p|NN milan|NN sj|NN bh|NN 
+addition|NN of|NN aminophylline|NN beta|NN 2|NN in|NN adult|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 
+cd002742|NN 
+http|NN 
+pmid|NN http|NN 
+kew|NN km|NN s|NN s|NN 
+laba|NN child|NN asthma|DS laba|NN corticosteroid|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd011316|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+s|NN km|NN r|NN 
+laba|NN adult|NN asthma|DS laba|NN corticosteroid|NN http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN cd011306|NN 
+http|NN 
+pmid|NN http|NN 
+mcdonald|NN nj|NN bara|NN ai|NN 
+therapy|NN chronic|NN asthma|DS in|NN child|NN year|NN of|NN age|NN 
+cochrane|NN database|NN of|NN review|NN cd003535|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN benson|NN m|NN gibson|NN p|NN 
+agent|NN chronic|NN asthma|DS in|NN adult|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd003269|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+t|NN bara|NN lasserson|NN tj|NN walter|NN 
+chloroquine|NN steroid|NN spar|NN agent|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd003275|NN 
+http|NN 
+pmid|NN http|NN 
+davy|NN h|NN olson|NN l|NN gibson|NN p|NN 
+methotrexate|NN steroid|NN spar|NN agent|NN asthma|DS in|NN adult|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 2|NN cd000391|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+guideline|NN cat|NN ej|NN bh|NN 
+cochrane|NN airway|NN group|NN 
+chamber|NN spacers|NN versus|NN nebuliser|NN treatment|NN of|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd000052|NN 
+http|NN ub3|NN 
+pmid|NN http|NN 
+travers|NN milan|NN sj|NN jones|NN ap|NN camargo|NN bh|NN 
+addition|NN of|NN beta|NN 2|NN beta|NN 2|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 
+cd010179|NN 
+s|NN 
+pmid|NN http|NN 
+rodriguez|NN c|NN m|NN lozano|NN jm|NN 
+versus|NN spacers|NN in|NN bronchodilator|NN therapy|NN therapy|NN in|NN child|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 2|NN cd005536|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+g|NN 
+corticosteroid|NN asthma|DS control|NN in|NN child|NN impairment|NN risk|NN 
+pediatrics|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN 
+systemic|NN side|NN effect|NN of|NN corticosteroid|NN in|NN patient|NN asthma|DS 
+respiratory|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+thomas|NN m|NN kundabala|NN m|NN m|NN 
+asthma|DS health|NN review|NN 
+journal|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+skoner|NN dp|NN 
+corticosteroid|NN effect|NN growth|NN bone|NN health|NN 
+annals|NN of|NN allergy|DS asthma|DS immunology|NN 
+http|NN 
+pmid|NN http|NN 
+hl|NN km|NN turner|NN c|NN chang|NN ab|NN 
+oxide|NN level|NN treatment|NN adult|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011440|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hl|NN km|NN chang|NN ab|NN 
+oxide|NN level|NN treatment|NN child|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011439|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rodrigo|NN gj|NN rodrigo|NN c|NN hall|NN jb|NN 
+asthma|DS in|NN adult|NN review|NN 
+chest|NN 
+http|NN 
+pmid|NN http|NN 
+keeney|NN ge|NN mp|NN morrison|NN ak|NN levas|NN mn|NN kessler|NN ea|NN hill|NN gd|NN al|NN 
+march|NN 
+dexamethasone|NN asthma|DS exacerbation|NN in|NN child|NN http|NN 
+pediatrics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rowe|NN bh|NN kirkland|NN sw|NN vandermeer|NN b|NN campbell|NN s|NN fm|NN c|NN 
+systemic|NN corticosteroid|NN treatment|NN relapse|NN in|NN adult|NN asthma|DS review|NN network|NN 
+emergency|NN medicine|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+m|NN 
+magnesium|NN treatment|NN asthma|DS 
+chest|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+griffith|NN b|NN km|NN 
+magnesium|NN sulfate|NN child|NN asthma|DS in|NN emergency|NN department|NN http|NN g|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011050|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kew|NN km|NN l|NN michell|NN ci|NN 
+magnesium|NN sulfate|NN adult|NN asthma|DS in|NN emergency|NN department|NN http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd010909|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN milan|NN sj|NN hughes|NN ja|NN rowe|NN bh|NN r|NN c|NN 
+magnesium|NN sulfate|NN in|NN treatment|NN of|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd003898|NN 
+http|NN 
+pmc|NN http|NN mc6485984|NN 
+pmid|NN http|NN 
+gina|NN nhlbi|NN castro|NN m|NN musani|NN ai|NN mayse|NN ml|NN shargill|NN n|NN 
+thermoplasty|NN novel|NN technique|NN in|NN treatment|NN of|NN asthma|DS 
+advance|NN in|NN respiratory|NN disease|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+boulet|NN lp|NN laviolette|NN m|NN 
+role|NN thermoplasty|NN in|NN treatment|NN of|NN asthma|DS 
+http|NN 
+respiratory|NN journal|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gina|NN 
+drug|NN committee|NN meet|NN http|NN 
+fda|NN 
+2019|NN 
+j|NN dávila|NN i|NN 
+dupilumab|NN paradigm|NN treatment|NN of|NN allergic|NN disease|NN 
+journal|NN of|NN allergology|NN immunology|NN 
+http|NN 
+pmid|NN http|NN 
+e|NN reddel|NN hk|NN 
+asthma|DS in|NN adult|NN 
+journal|NN of|NN medicine|NN 
+tps|NN 
+pmid|NN http|NN 
+rb|NN dn|NN whittington|NN md|NN jf|NN campbell|NN jd|NN 
+of|NN asthma|DS treatment|NN review|NN recommendation|NN evaluation|NN 
+pharmacoeconomics|NN 
+http|NN 
+pmid|NN http|NN 
+ha|NN wilson|NN powell|NN c|NN bax|NN l|NN milan|NN sj|NN 
+cochrane|NN airway|NN group|NN 
+therapy|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd010834|NN 
+http|NN ub3|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+lin|NN sy|NN n|NN jm|NN ramanathan|NN m|NN c|NN chelladurai|NN y|NN al|NN 
+march|NN 
+immunotherapy|NN treatment|NN of|NN allergic|NN rhinoconjunctivitis|NN asthma|DS review|NN 
+jama|NN 
+http|NN 
+pmid|NN http|NN 
+korang|NN sk|NN j|NN j|NN jakobsen|NN jc|NN 
+pressure|NN ventilation|NN asthma|DS in|NN child|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd012067|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+blanc|NN pd|NN trupin|NN l|NN g|NN pp|NN yelin|NN eh|NN eisner|NN md|NN 
+therapy|NN adult|NN diagnosis|NN of|NN asthma|DS rhinosinusitis|NN data|NN survey|NN 
+chest|NN 
+http|NN 
+pmid|NN http|NN 
+shenfield|NN g|NN e|NN h|NN 
+survey|NN of|NN use|NN of|NN medicine|NN therapy|NN in|NN child|NN asthma|DS 
+journal|NN of|NN paediatrics|NN health|NN 
+http|NN 
+pmid|NN http|NN 
+milan|NN sj|NN wilkinson|NN m|NN 
+vitamin|NN c|NN asthma|DS bronchoconstriction|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd010391|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+wilkinson|NN m|NN milan|NN sj|NN sugumar|NN k|NN 
+vitamin|NN asthma|DS bronchoconstriction|NN http|NN 
+cochrane|NN database|NN of|NN review|NN cd010749|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hemilä|NN h|NN 
+vitamin|NN bronchoconstriction|NN http|NN 
+bmj|NN 
+e002416|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+wood|NN thien|NN abramson|NN j|NN 
+marine|NN fatty|NN acid|NN oil|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN cd001283|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pogson|NN z|NN t|NN 
+sodium|NN manipulation|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN cd000436|NN 
+http|NN ub3|NN 
+pmid|NN http|NN 
+martineau|NN ar|NN cj|NN m|NN jensen|NN m|NN ap|NN u|NN al|NN 
+vitamin|NN d|NN management|NN of|NN asthma|DS http|NN vitamin|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011511|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+zhou|NN y|NN yang|NN m|NN br|NN 
+monosodium|NN glutamate|NN avoidance|NN chronic|NN asthma|DS in|NN adult|NN child|NN 
+cochrane|NN database|NN of|NN review|NN cd004357|NN 
+http|NN 
+pmid|NN http|NN 
+guideline|NN mccarney|NN rw|NN brinkhaus|NN b|NN lasserson|NN tj|NN k|NN 
+mccarney|NN rw|NN 
+acupuncture|NN chronic|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 1|NN cd000008|NN 
+http|NN 
+pmid|NN http|NN 
+blackhall|NN k|NN appleton|NN s|NN cj|NN 
+blackhall|NN k|NN 
+ionisers|NN chronic|NN asthma|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd002986|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hondras|NN k|NN jones|NN 
+hondras|NN ma|NN 
+therapy|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 2|NN cd001002|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+macêdo|NN tm|NN da|NN g|NN ea|NN mendonça|NN km|NN 
+breathe|NN exercise|NN child|NN asthma|DS 
+cochrane|NN database|NN of|NN review|NN 
+cd011017|NN 
+http|NN 
+pmid|NN http|NN 
+disease|NN injury|NN country|NN estimate|NN http|NN 
+world|NN health|NN organization|NN 
+s|NN 
+sergel|NN michelle|NN cydulka|NN 
+ch|NN 
+asthma|DS http|NN 
+in|NN wolfson|NN allan|NN ed|NN 
+practice|NN of|NN emergency|NN medicine|NN 
+lippincott|NN wilkins|NN 
+pp|NN 
+guideline|NN 1|NN 
+asthma|DS report|NN http|NN 
+http|NN 
+organization|NN world|NN health|NN 
+burden|NN of|NN disease|NN update|NN ausg|NN 
+geneva|NN world|NN health|NN organization|NN 
+maddox|NN l|NN da|NN 
+pathophysiology|NN of|NN asthma|DS 
+review|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+beckett|NN pa|NN howarth|NN ph|NN 
+pharmacotherapy|NN in|NN asthma|DS 
+http|NN 
+thorax|NN 
+2|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+silva|NN n|NN carona|NN c|NN c|NN mc|NN 
+quality|NN of|NN life|NN in|NN asthma|DS patient|NN parent|NN year|NN of|NN research|NN 
+review|NN of|NN pharmacoeconomics|NN outcome|NN research|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+world|NN health|NN organization|NN fact|NN 307|NN asthma|DS http|NN 
+jan|NN 
+gina|NN vos|NN t|NN ad|NN m|NN lozano|NN r|NN michaud|NN c|NN m|NN al|NN 
+year|NN disability|NN ylds|NN sequela|NN of|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+lozano|NN r|NN m|NN k|NN s|NN shibuya|NN k|NN v|NN al|NN 
+mortality|NN cause|NN of|NN death|NN age|NN group|NN in|NN analysis|NN burden|NN of|NN disease|NN study|NN 
+lancet|NN 
+http|NN 
+http|NN dro|NN 
+pmid|NN http|NN 
+world|NN health|NN organization|NN 
+asthma|DS http|NN http|NN 
+december|NN 
+bush|NN 
+phenotypic|NN difference|NN adult|NN asthma|DS 
+proceed|NN of|NN thoracic|NN society|NN 
+http|NN 
+pmid|NN http|NN 
+aj|NN lm|NN stock|NN j|NN 
+overview|NN of|NN emergency|NN department|NN visit|NN in|NN state|NN http|NN 
+brief|NN rockville|NN md|NN agency|NN healthcare|NN research|NN quality|NN 
+http|NN 
+grant|NN en|NN wagner|NN r|NN kb|NN 
+observation|NN pattern|NN of|NN asthma|DS in|NN society|NN 
+journal|NN of|NN allergy|DS immunology|NN 
+2|NN 2|NN 
+http|NN 
+pmid|NN http|NN 
+bousquet|NN j|NN bousquet|NN pj|NN godard|NN p|NN jp|NN 
+health|NN implication|NN of|NN asthma|DS http|NN 
+bulletin|NN of|NN world|NN health|NN organization|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+anderson|NN hr|NN gupta|NN r|NN dp|NN limb|NN e|NN 
+year|NN of|NN asthma|DS trend|NN http|NN 
+thorax|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+masoli|NN matthew|NN 
+burden|NN of|NN asthma|DS http|NN pdf|NN 
+pdf|NN 
+death|NN rate|NN in|NN uk|NN in|NN europe|NN charity|NN analysis|NN find|NN http|NN 
+journal|NN 
+asthma|DS attack|NN triple|NN child|NN school|NN in|NN september|NN http|NN 
+uk|NN 
+july|NN 2019|NN 
+barrett|NN ml|NN lm|NN washington|NN r|NN 
+trend|NN in|NN hospital|NN stay|NN asthma|DS http|NN 
+brief|NN rockville|NN md|NN agency|NN healthcare|NN research|NN quality|NN 
+http|NN 
+rosner|NN 
+life|NN of|NN moses|NN maimonides|NN medieval|NN physician|NN p|NN pdf|NN 
+j|NN biol|NN 
+http|NN pdf|NN 
+thorowgood|NN jc|NN 
+asthma|DS http|NN 
+journal|NN 
+2|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gaskoin|NN g|NN 
+treatment|NN of|NN asthma|DS http|NN 
+journal|NN 
+1|NN p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+berkart|NN jb|NN 
+treatment|NN of|NN asthma|DS http|NN 
+journal|NN 
+1|NN 
+p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+berkart|NN jb|NN 
+treatment|NN of|NN asthma|DS http|NN 
+journal|NN 
+1|NN 
+p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bosworth|NN fh|NN 
+hay|NN fever|ST asthma|DS affection|NN http|NN 
+transaction|NN of|NN meet|NN of|NN association|NN 
+association|NN 
+meet|NN 
+2|NN pmc|NN http|NN 
+pmid|NN http|NN 
+doig|NN rl|NN 
+epinephrin|NN in|NN asthma|DS http|NN 
+california|NN state|NN journal|NN of|NN medicine|NN 
+2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mutius|NN e|NN jm|NN 
+patient|NN asthma|DS seek|NN advice|NN in|NN http|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+crompton|NN g|NN 
+history|NN of|NN asthma|DS therapy|NN year|NN http|NN 
+care|NN respiratory|NN journal|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mccullough|NN 
+morning|NN horseback|NN story|NN of|NN family|NN way|NN of|NN life|NN child|NN roosevelt|NN http|NN 
+simon|NN schuster|NN 
+pp|NN 
+http|NN 
+m|NN wilson|NN i|NN 
+asthma|DS depression|ST review|NN of|NN literature|NN recommendation|NN research|NN http|NN 
+practice|NN epidemiology|NN in|NN health|NN 
+1|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+note|NN asthma|DS education|NN prevention|NN program|NN 
+panel|NN report|NN guideline|NN diagnosis|NN management|NN of|NN asthma|DS http|NN pdf|NN 
+heart|NN lung|NN blood|NN institute|NN 
+guideline|NN management|NN of|NN asthma|DS http|NN pdf|NN 
+thoracic|NN society|NN 
+strategy|NN asthma|DS management|NN prevention|NN http|NN pdf|NN 
+initiative|NN asthma|DS 
+pdf|NN link|NN asthma|DS http|NN classification|NN j45|NN d|NN p|NN http|NN s|NN mesh|NN d001249|NN http|NN i|NN diseasesdb|NN http|NN ct|NN http|NN medlineplus|NN http|NN emedicine|NN s|NN uk|NN asthma|DS http|NN resource|NN http|NN page|NN december|NN 2019|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

@@ -1,0 +1,74 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Whooping cough|Disease name|NN Whooping cough|Disease Whooping cough|Disease Whooping cough|Disease boy|NN Whooping cough|Disease
+disease|NN symptom|NN nose|NN fever|NN cough|NN complication|NN rib|NN duration|NN week|NN cause|NN Whooping cough|Disease spread|NN air|NN method|NN swab|NN prevention|NN Whooping cough|Disease vaccine|NN treatment|NN antibiotics|NN frequency|NN death|NN
+Whooping cough|Disease Whooping cough|Disease Whooping cough|Disease disease|NN symptom|NN cold|NN nose|NN fever|NN cough|NN week|NN cough|NN fit|NN fit|NN sound|NN gasp|NN person|NN cough|NN week|NN phrase|NN Whooping cough|Disease person|NN break|NN rib|NN effort|NN children|NN year|NN cough|NN period|NN time|NN infection|NN onset|NN symptom|NN day|NN disease|NN symptom|NN
+Whooping cough|Disease bacterium|NN Whooping cough|Disease disease|NN cough|NN sneeze|NN person|NN people|NN start|NN symptom|NN week|NN cough|NN antibiotics|NN day|NN diagnosis|NN sample|NN back|NN nose|NN throat|NN sample|NN culture|NN polymerase|NN chain|NN reaction|NN
+prevention|NN vaccination|NN Whooping cough|Disease vaccine|NN immunization|NN week|NN age|NN dose|NN year|NN life|NN protection|NN Whooping cough|Disease decrease|NN time|NN dose|NN vaccine|NN children|NN adult|NN antibiotics|NN disease|NN risk|NN disease|NN disease|NN antibiotics|NN week|NN symptom|NN effect|NN people|NN women|NN children|NN year|NN antibiotics|NN week|NN symptom|NN onset|NN antibiotics|NN azithromycin|NN evidence|NN support|NN intervention|NN cough|NN antibiotics|NN children|NN year|NN hospitalization|NN die|NN
+people|NN case|NN world|NN people|NN age|NN Whooping cough|Disease death|NN death|NN outbreak|NN disease|NN century|NN bacterium|NN infection|NN Whooping cough|Disease vaccine|NN content|NN
+sign|NN symptom|NN incubation|NN period|NN cause|NN spread|NN animal|NN mechanism|NN diagnosis|NN symptom|NN lab|NN test|NN diagnosis|NN prevention|NN treatment|NN epidemiology|NN outbreak|NN history|NN discovery|NN reference|NN link|NN
+sign|NN symptom|NN file|NN Whooping cough|Disease media|NN boy|NN Whooping cough|Disease
+symptom|NN Whooping cough|Disease cough|NN cough|NN Whooping cough|Disease rib|NN fracture|NN incontinence|NN hernia|NN artery|NN dissection|NN cough|NN pleura|NN pneumothorax|NN
+spell|NN whoop|NN sound|NN likelihood|NN illness|NN Whooping cough|Disease
+absence|NN cough|NN posttussive|NN
+illness|NN symptom|NN cough|NN sneez|NN nose|NN
+week|NN cough|NN fit|NN sound|NN children|NN sound|NN children|NN person|NN stage|NN
+stage|NN week|NN
+transition|NN stage|NN week|NN
+stage|NN decrease|NN paroxysm|NN cough|NN paroxysm|NN infection|NN month|NN onset|NN Whooping cough|Disease incubation|NN period|NN
+time|NN exposure|NN development|NN symptom|NN average|NN day|NN range|NN day|NN day|NN cause|NN
+Whooping cough|Disease bacterium|NN Whooping cough|Disease
+disease|NN droplet|NN cough|NN sneeze|NN person|NN spread|NN animal|NN
+b|NP Whooping cough|Disease Whooping cough|Disease disease|NN knowledge|NN bacteria|NN power|NN agar|NN media|NN
+difficulty|NN result|NN study|NN handle|NN bacteria|NN scientist|NN
+primate|NN specy|NN b|NP Whooping cough|Disease Whooping cough|Disease incidence|NN inoculation|NN dose|NN bacteria|NN animal|NN population|NN laboratory|NN diagnosis|NN Whooping cough|Disease gorilla|NN zoo|NN custom|NN vaccinate|NN primate|NN Whooping cough|Disease mechanism|NN
+bacteria|NN epithelium|NN nasopharynx|NN
+surface|NN protein|NN b|NP Whooping cough|Disease hemaglutinin|NN pertactin|NN attachment|NN epithelium|NN
+bacteria|NN infant|NN disease|NN bacteria|NN lung|NN
+bacteria|NN number|NN toxin|NN
+fragment|NN peptidoglycan|NN cell|NN elevator|NN mucus|NN debris|NN cough|NN characteristic|NN Whooping cough|Disease cough|NN cough|NN toxin|NN Whooping cough|Disease toxin|NN cause|NN mechanism|NN
+number|NN blood|NN cell|NN hypertension|NN cause|NN death|NN Whooping cough|Disease infant|NN encephalopathy|NN atrophy|NN due|NN hypoxia|NN diagnosis|NN gram|NN stain|NN Whooping cough|Disease symptom|NN
+physician|NN impression|NN diagnosis|NN factor|NN adult|NN cough|NN week|NN cough|NN bout|NN cough|NN fever|NN diagnosis|NN children|NN cough|NN week|NN cough|NN lab|NN test|NN
+method|NN laboratory|NN diagnosis|NN culture|NN swab|NN nutrient|NN medium|NN medium|NN polymerase|NN chain|NN reaction|NN pcr|NP antibody|NN method|NN fixation|NN test|NN bacteria|NN person|NN week|NN illness|NN render|NN culture|NN period|NN pcr|NP usefulness|NN week|NN
+adult|NN adolescent|NN week|NN antibody|NN Whooping cough|Disease toxin|NN virulence|NN factor|NN b|NP Whooping cough|Disease level|NN blood|NN person|NN diagnosis|NN
+disease|NN b|NP para|NN Whooping cough|Disease prevention|NN
+method|NN prevention|NN Whooping cough|Disease vaccination|NN evidence|NN effectiveness|NN antibiotics|NN symptom|NN antibiotics|NN risk|NN disease|NN infant|NN
+Whooping cough|Disease vaccine|NN illness|NN routine|NN use|NN world|NN health|NN organization|NN united|NP states|NP center|NN disease|NN control|NN prevention|NN vaccine|NN half|NN live|NN
+multicomponent|NN Whooping cough|Disease vaccine|NN effectiveness|NN strain|NN vaccination|NN Whooping cough|Disease population|NN vaccine-preventable|NN disease|NN country|NN resurgence|NN Whooping cough|Disease infection|NN combination|NN immunity|NN mutation|NN vaccine|NN
+immunity|NN cdc|NP study|NN protection|NN year|NN
+childhood|NN time|NN exposure|NN risk|NN death|NN Whooping cough|Disease
+effect|NN immunization|NN society|NN shift|NN infection|NN children|NN year|NN infant|NN adolescent|NN adult|NN adolescent|NN adult|NN reservoir|NN b|NP Whooping cough|Disease infant|NN dose|NN vaccine|NN
+infection|NN immunity|NN time|NN study|NN estimate|NN duration|NN immunity|NN range|NN year|NN result|NN result|NN difference|NN level|NN b|NP Whooping cough|Disease surveillance|NN system|NN case|NN definition|NN
+study|NN immunity|NN vaccination|NN wane|NN year|NN study|NN availability|NN vaccine|NN exemption|NN number|NN Whooping cough|Disease case|NN
+study|NN Whooping cough|Disease vaccine|NN disease|NN impact|NN infection|NN transmission|NN mean|NN people|NN Whooping cough|Disease symptom|NN Whooping cough|Disease infection|NN person|NN illness|NN cough|NN Whooping cough|Disease cough|NN day|NN
+disease|NN person|NN disease|NN person|NN unimmunize|NN infant|NN
+person|NN case|NN household|NN Whooping cough|Disease case|NN source|NN infection|NN children|NN treatment|NN
+antibiotics|NN clarithromycin|NN treatment|NN rate|NN side|NN effect|NN tmpsmx|NN allergy|NN agent|NN infant|NN risk|NN stenosis|NN
+guideline|NN people|NN age|NN year|NN week|NN cough|NN onset|NN infant|NN age|NN year|NN women|NN week|NN cough|NN onset|NN
+person|NN antibiotics|NN course|NN illness|NN antibiotics|NN Whooping cough|Disease antibiotics|NN duration|NN infectiousness|NN spread|NN antibiotics|NN day|NN treatment|NN day|NN b|NP Whooping cough|Disease side|NN effect|NN
+people|NN Whooping cough|Disease begine|NN stage|NN nose|NN fever|NN symptom|NN cold|NN week|NN onset|NN paroxysm|NN cough|NN day|NN start|NN treatment|NN
+treatment|NN cough|NN condition|NN life|NN year|NN Whooping cough|Disease inhabitant|NN
+data|NN 150200|NN 300350|NN 450500|NN
+children|NN adult|NN infection|NN newborn|NN
+Whooping cough|Disease infant|NN year|NN age|NN infant|NN complication|NN pneumonia|NN seizure|NN encephalopathy|NN ability|NN bacterium|NN system|NN epidemiology|NN Whooping cough|Disease death|NN person|NN 2012|NP 3338|NN
+Whooping cough|Disease people|NN estimate|NN 2013|NP death|NN death|NN child|NN death|NN disease|NN coverage|NN dtp|NN dtap|NN vaccine|NN
+Whooping cough|Disease cause|NN death|NN case|NN country|NN
+vaccine|NN average|NN case|NN peak|NN year|NN case|NN children|NN year|NN age|NN
+vaccination|NN Whooping cough|Disease incidence|NN
+incidence|NN rate|NN
+rate|NN united|NP states|NP people|NN
+Whooping cough|Disease disease|NN death|NN
+number|NN death|NN infant|NN year|NN canada|NP number|NN Whooping cough|Disease infection|NN case|NN year|NN year|NN vaccine-preventable|NN illness|NN toronto|NP
+2009|NP australia|NP average|NN case|NN year|NN number|NN case|NN Whooping cough|Disease adult|NN outbreak|NN epidemiologist|NN test|NN blood|NN sample|NN Whooping cough|Disease outbreak|NN
+infant|NN california|NP health|NN authority|NN epidemic|NN case|NN doctor|NN infant|NN condition|NN visit|NN analysis|NN overlap|NN community|NN cluster|NN child|NN exemption|NN case|NN
+number|NN exemption|NN community|NN
+school|NN parent|NN vaccination|NN exemption|NN
+data|NN vaccine|NN refusal|NN reason|NN belief|NN outbreak|NN
+factor|NN duration|NN immunity|NN vaccine|NN fact|NN adult|NN children|NN booster|NN shot|NN
+april|NP 2012|NP Whooping cough|Disease epidemic|NN level|NN washington|NP case|NN december|NP vermont|NP epidemic|NN case|NN wisconsin|NP incidence|NN rate|NN case|NN epidemic|NN declaration|NN history|NN discovery|NN
+b|NP Whooping cough|Disease jules|NP gengou|NN serology|NN vaccine|NN
+effort|NN whole-cel|NN vaccine|NN b|NP Whooping cough|Disease year|NN
+louis|NP w|NP
+vaccine|NN Whooping cough|Disease hospital|NN il|NN
+physician|NN madsen|NP vaccine|NN scale|NN madsen|NP vaccine|NN control|NN outbreak|NN faroe|NP islands|NP north|NN sea|NN
+outbreak|NN Whooping cough|Disease hit|NN atlanta|NP georgia|NP prompt|NN leila|NP denmark|NP study|NN disease|NN
+year|NN work|NN journal|NN association|NN partnership|NN university|NN eli|NP lilly|NP company|NN Whooping cough|Disease vaccine|NN scientist|NN grace|NP eldering|NP gordon|NP pearl|NP kendrick|NP whole-cel|NN Whooping cough|Disease vaccine|NN diphtheria|NN tetanus|NN dtp|NN combination|NN vaccine|NN side|NN effect|NN Whooping cough|Disease component|NN japanese|NN scientist|NN vaccine|NN haemagglutinin|NN strep|NN throat|NN b|NP Whooping cough|Disease
+acellular|NN Whooping cough|Disease vaccine|NN japan|NP start|NN version|NN vaccine|NN country|NN component|NN b|NP Whooping cough|Disease part|NN combination|NN vaccine|NN

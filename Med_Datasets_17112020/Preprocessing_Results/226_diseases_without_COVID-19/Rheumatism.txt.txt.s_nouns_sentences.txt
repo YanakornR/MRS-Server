@@ -1,0 +1,22 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN
+rod|NN Rheumatism|Disease name|NN Rheumatism|Disease rheumatology|NN
+Rheumatism|Disease Rheumatism|Disease umbrella|NN term|NN condition|NN pain|NN joint|NN tissue|NN
+study|NN intervention|NN disorder|NN rheumatology|NN term|NN Rheumatism|Disease disorder|NN cover|NN condition|NN
+source|NN Rheumatism|Disease Rheumatism|Disease condition|NN pain|NN Rheumatism|Disease pain|NN syndrome|NN tissue|NN Rheumatism|Disease term|NN Rheumatism|Disease mesh|NN tissue|NN disorder|NN content|NN
+type|NN treatment|NN history|NN reference|NN read|NN link|NN
+Rheumatism|Disease pain|NN disease|NN
+etiology|NN century|NN lyme|NP disease|NN valley|NN fever|NN chikungunya|NP india|NP myriad|NN cause|NN arthritis|NN arthritis|NN example|NN fever|NN group|NN infection|NN whipple|NN disease|NN
+major|NP Rheumatism|Disease
+back|NN pain|NN bursitistendinitis|NN shoulder|NN wrist|NN bicep|NN leg|NN knee|NN cap|NN ankle|NN hip|NN achille|NN tendon|NN neck|NN pain|NN Rheumatism|Disease form|NN arthritis|NN
+disorder|NN term|NN epidemiology|NN characteristics|NN pain|NN
+lupus|NN arthritis|NN gout|NN arthritis|NN arthritis|NN syndrome|NN dermatomyositis|NN disease|NN arthritis|NN
+number|NN remedy|NN Rheumatism|Disease medicine|NN alternative|NN Rheumatism|Disease cause|NN cause|NN kind|NN treatment|NN
+therapy|NN rheumatological|NN disease|NN analgesics|NN paracetamol|NN drug|NN nsaids|NP member|NN
+greek|NN bee|NN venom|NN effect|NN type|NN Rheumatism|Disease
+bee|NN ant|NN sting|NN folk|NN remedy|NN century|NN physician|NN treatment|NN formic|NN acid|NN injection|NN tribe|NN use|NN fire|NN ant|NN sting|NN remedy|NN ache|NN pain|NN
+cod|NP liver|NN oil|NN remedy|NN
+tree|NN oil|NN east|NN culture|NN remedy|NN history|NN
+term|NN Rheumatism|Disease stem|NN latin|NN Rheumatism|Disease
+flux|NN mean|NN fluid|NN discharge|NN blood|NN fluid|NN
+century|NN pain|NN humour|NN joint|NN gout|NN word|NN english|NN french|NN drop|NN gout|NN Rheumatism|Disease day|NN term|NN excess|NN acid|NN
+term|NN Rheumatism|Disease sense|NN use|NN century|NN pain|NN flow|NN rheum|NN fluid|NN

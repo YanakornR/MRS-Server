@@ -1,0 +1,267 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN lyme|NN 
+use|NN lyme|NN disambiguation|NN 
+lime|NN disease|NN 
+lyme_disease|DS name|NN lyme_disease|DS adult|NN deer|NN adult|NN deer|NN case|NN lyme|NN nymphal|NN adult|NN tick|NN disease|NN symptom|NN area|NN redness|NN site|NN tick|NN bite|NN fever|ST headache|ST tiredness|NN complication|NN nerve|NN paralysis|ST arthritis|DS meningitis|DS onset|NN week|NN bite|NN cause|NN tick|NN method|NN symptom|NN tick|NN exposure|NN blood|NN test|NN prevention|NN prevention|NN tick|NN bite|NN cloth|NN limb|NN doxycycline|NN amoxicillin|NN frequency|NN year|NN 
+lyme_disease|DS lyme_disease|DS disease|NN bacterium|NN spread|NN tick|NN sign|NN infection|NN area|NN redness|NN skin|NN migran|NN site|NN tick|NN bite|NN week|NN rash|ST people|NN symptom|NN fever|ST headache|ST tiredness|NN symptom|NN loss|NN ability|NN side|NN face|NN pain|ST headache|ST neck_stiffness|ST heart|NN palpitation|NN month|NN year|NN episode|NN pain|ST swell|NN people|NN shoot|NN pain|ST arm|NN leg|NN treatment|NN people|NN pain|ST memory|NN problem|NN tiredness|NN month|NN 
+lyme_disease|DS human|NN bite|NN tick|NN genus|NN united|NN states|NN tick|NN concern|NN ixode|NN type|NN hour|NN bacteria|NN europe|NN tick|NN ixode|NN type|NN bacteria|NN north|NN america|NN burgdorferi|NN borrelia|NN mayonii|NN cause|NN europe|NN asia|NN bacteria|NN afzeliy|NN borrelia|NN gariniy|NN cause|NN disease|NN disease|NN people|NN animal|NN food|NN diagnosis|NN combination|NN symptom|NN history|NN tick|NN exposure|NN antibody|NN blood|NN blood|NN test|NN stage|NN disease|NN test|NN tick|NN 
+prevention|NN effort|NN tick|NN bite|NN cloth|NN arm|NN leg|NN insect|NN pesticide|NN tick|NN number|NN tweezer|NN tick|NN blood|NN dose|NN doxycycline|NN development|NN infection|NN development|NN infection|NN infection|NN number|NN antibiotics|NN amoxicillin|NN treatment|NN week|NN people|NN fever|ST muscle|NN pain|ST treatment|NN day|NN symptom|NN antibiotic|NN therapy|NN 
+lyme_disease|DS disease|NN spread|NN tick|NN hemisphere|NN people|NN year|NN united|NN states|NN people|NN year|NN europe|NN spring|NN summer|NN lyme_disease|DS condition|NN time|NN lyme|NN connecticut|NN arthritis|DS bacterium|NN willy|NN symptom|NN treatment|NN lyme_disease|DS syndrome|NN ptld|NN lyme_disease|DS term|NN community|NN way|NN group|NN healthcare|NN provider|NN infection|NN inability|NN organism|NN treatment|NN vaccine|NN lyme_disease|DS united|NN states|NN market|NN sale|NN research|NN vaccine|NN content|NN 
+sign|NN symptom|NN infection|NN infection|NN infection|NN cause|NN transmission|NN study|NN diagnosis|NN laboratory|NN test|NN image|NN diagnosis|NN prevention|NN tick|NN removal|NN antibiotics|NN garden|NN landscap|NN exposure|NN host|NN animal|NN vaccination|NN treatment|NN epidemiology|NN africa|NN asia|NN europe|NN north|NN america|NN south|NN america|NN history|NN society|NN culture|NN controversy|NN animal|NN research|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN rash|ST sign|NN lyme|NN infection|NN 
+rash|ST bull|NN eye|NN case|NN europe|NN case|NN 
+lyme_disease|DS body|NN system|NN range|NN symptom|NN 
+patient|NN lyme_disease|DS symptom|NN symptom|NN lyme_disease|DS disease|NN 
+incubation|NN period|NN infection|NN onset|NN symptom|NN week|NN day|NN month|NN year|NN lyme|NN symptom|NN september|NN stage|NN tick|NN case|NN infection|NN individual|NN united|NN states|NN infection|NN europe|NN infection|NN 
+infection|NN infection|NN body|NN 
+site|NN infection|NN contact|NN skin|NN 
+sign|NN lyme|NN infection|NN erythema|NN em|NN rash|ST site|NN tick|NN bite|NN skin|NN fold|NN armpit|NN groin|NN back|NN knee|NN trunk|NN cloth|NN strap|NN children|NN hair|NN ear|NN neck|NN people|NN tick|NN bite|NN 
+rash|ST week|NN range|NN day|NN bite|NN cm|NN day|NN diameter|NN cm|NN median|NN cm|NN rash|ST red|NN center|NN case|NN europe|NN case|NN area|NN rash|ST center|NN edge|NN bull|NN eye|NN pattern|NN rash|ST week|NN 
+em|NN rash|ST symptom|NN illness|NN fatigue|ST headache|ST body|NN ache|NN fever|ST chill|NN nausea|ST upper-respiratory|NN problem|NN 
+symptom|NN rash|ST rash|ST 
+lyme|NN stage|NN symptom|NN rash|ST 
+people|NN fever|ST day|NN symptom|NN illness|NN antibiotic|NN treatment|NN lyme_disease|DS level|NN cell|NN platelet|NN blood|NN coinfection|NN disease|NN infection|NN 
+day|NN week|NN onset|NN infection|NN bacteria|NN system|NN bloodstream|NN 
+case|NN em|NN rashe|NN site|NN body|NN relation|NN tick|NN bite|NN muscle|NN pain|ST pain|ST 
+people|NN lyme|NN problem|NN neuroborreliosis|NN week|NN range|NN week|NN tick|NN bite|NN combination|NN meningitis|DS neuritis|NN multiplex|NN meningitis|DS cause|NN characteristic|NN change|NN fluid|NN csf|NN week|NN headache|ST meningitis|DS sign|NN inability|NN neck|NN intolerance|NN light|NN fever|ST children|NN loss|NN vision|NN neuritis|NN inflammation|NN nerve|NN 
+lyme|NN palsy|NN chew|NN side|NN face|NN 
+vision|NN lyme|NN radiculopathy|NN inflammation|NN nerve|NN root|NN pain|ST weakness|ST numbness|NN sensation|NN area|NN body|NN nerve|NN root|NN limb|NN part|NN trunk|NN 
+pain|ST worse|NN night|NN sleep|NN disturbance|NN multiplex|NN inflammation|NN symptom|NN nerve|NN neuroborreliosis|NN inflammation|NN brain|NN cord|NN symptom|NN confusion|ST gait|NN movement|NN speech|NN movement|NN motor|NN plan|NN 
+north|NN america|NN palsy|NN neuroborreliosis|NN presentation|NN people|NN case|NN meningitis|DS lyme|NN radiculopathy|NN case|NN adult|NN presentation|NN combination|NN meningitis|DS radiculopathy|NN syndrome|NN 36-89|NN case|NN palsy|NN syndrome|NN pain|ST body|NN region|NN erythema|NN rash|ST palsy|NN movement|NN case|NN impairment|NN motor|NN function|NN limb|NN children|NN manifestation|NN palsy|NN neuritis|NN meningitis|DS 
+case|NN 03-4|NN case|NN europe|NN june|NN december|NN month|NN range|NN days-7|NN month|NN tick|NN bite|NN infection|NN heart|NN complication|NN lyme|NN symptom|NN heart|NN palpitation|NN people|NN dizziness|ST shortness|NN breath|NN chest_pain|ST symptom|NN lyme_disease|DS em|NN rash|ST ache|NN palsy|NN headache|ST pain|ST people|NN manifestation|NN lyme_disease|DS lyme|NN 19-87|NN people|NN heart|NN conduction|NN system|NN block|NN heart|NN rhythm|NN minute|NN people|NN lyme|NN complication|NN dysfunction|NN heart|NN failure|NN 
+skin|NN condition|NN europe|NN north|NN america|NN lump|NN ear|NN lobe|NN nipple|NN scrotum|NN infection|NN 
+month|NN people|NN symptom|NN part|NN body|NN joint|NN nerve|NN brain|NN eye|NN heart|NN 
+lyme|NN arthritis|DS people|NN month|NN infection|NN joint|NN knee|NN hip|NN joint|NN joint|NN effusion|NN swell|NN pain|ST treatment|NN swell|NN pain|ST time|NN return|NN baker|NN cyst|NN 
+case|NN erosion|NN 
+neurologic|NN symptom|NN people|NN neuropathy|NN sensation|NN numbness|NN tingle|NN start|NN feet|NN hand|NN time|NN limb|NN 
+test|NN sensation|NN vibration|NN feet|NN 
+person|NN stock|NN glove|NN 
+syndrome|NN lyme|NN encephalopathy|NN memory|NN difficulty|NN insomnia|ST sense|NN feel|NN change|NN personality|NN problem|NN depression|ST people|NN lyme_disease|DS population|NN 
+lyme|NN encephalomyelitis|DS sclerosis|NN 
+impairment|NN brain|NN fog|NN migraine|DS balance|NN issue|NN weakness|ST leg|NN gait|NN palsy|NN bladder|NN problem|NN vertigo|ST back_pain|ST 
+case|NN lyme_disease|DS psychosis|DS schizophrenia|DS disorder|NN 
+panic|NN attack|NN anxiety|ST behavior|NN delusion|ST depersonalization|NN syndrome|NN patient|NN reality|NN 
+chronica|NN aca|NN skin|NN disorder|NN europe|NN aca|NN patch|NN skin|NN back|NN hand|NN feet|NN 
+lesion|NN week|NN month|NN skin|NN cause|NN article|NN lyme_disease|DS microbiology|NN deer|NN tick|NN life|NN cycle|NN bacteria|NN agent|NN lyme_disease|DS ixode|NN vector|NN lyme_disease|DS north|NN america|NN tick|NN stage|NN 
+lyme_disease|DS spiral|NN bacteria|NN genus|NN 
+peptidoglycan|NN membrane|NN bacteria|NN 
+envelope|NN bacteria|NN gram|NN difference|NN envelope|NN component|NN bacteria|NN lyme-relate|NN specy|NN sensu|NN deal|NN diversity|NN 
+b|NN lato|NN specy|NN cause|NN lyme_disease|DS b|NN burgdorferi|NN north|NN america|NN europe|NN b|NN b|NN eurasia|NN study|NN b|NN bissettii|NN b|NN valaisiana|NN human|NN specy|NN cause|NN disease|NN information|NN weather|NN climate|NN effect|NN lyme_disease|DS exposure|NN transmission|NN 
+lyme_disease|DS zoonosis|NN human|NN reservoir|NN mammal|NN bird|NN tick|NN set|NN host|NN tick|NN genus|NN vector|NN lyme_disease|DS vector|NN infection|NN tick|NN stage|NN period|NN time|NN new|NN jersey|NN usa|NN tick|NN size|NN poppy|NN seed|NN head|NN body|NN tick|NN deer|NN host|NN adult|NN deer|NN tick|NN tick|NN population|NN absence|NN deer|NN tick|NN deer|NN mammal|NN mouse|NN bird|NN area|NN lyme|NN 
+tick|NN surface|NN protein|NN ospa|NN tick|NN receptor|NN ospa|NN 
+tick|NN downregulate|NN surface|NN protein|NN 
+bacteria|NN midgut|NN gland|NN tick|NN protein|NN effect|NN infection|NN infection|NN host|NN expression|NN 
+tick|NN bite|NN size|NN tick|NN stage|NN tick|NN secretion|NN host|NN itch|ST pain|ST bite|NN 
+transmission|NN tick|NN bite|NN lyme_disease|DS 
+europe|NN vector|NN ricinus|NN sheep|NN tick|NN castor|NN bean|NN tick|NN china|NN ixodes|NN tick|NN vector|NN north|NN america|NN tick|NN deer|NN tick|NN vector|NN east|NN coast|NN 
+star|NN tick|NN amblyomma|NN southeastern|NN united|NN states|NN west|NN texas|NN lyme_disease|DS syndrome|NN illness|NN form|NN lyme_disease|DS 
+west|NN coast|NN united|NN states|NN vector|NN black-leg|NN tick|NN tendency|NN tick|NN specy|NN host|NN specy|NN lizard|NN infection|NN transmission|NN lyme_disease|DS west|NN 
+transmission|NN placenta|NN pregnancy|NN number|NN spirochetal|NN disease|NN pregnancy|NN outcome|NN infection|NN prompt|NN treatment|NN antibiotics|NN risk|NN 
+lyme|NN spirochetes|NN insect|NN tick|NN report|NN transmission|NN lyme|NN spirochete|NN dna|NN semen|NN breast|NN milk|NN cdc|NN spirochete|NN breast|NN milk|NN urine|NN semen|NN article|NN disease|NN 
+human|NN parasite|NN microty|NN anaplasma|NN cause|NN disease|NN granulocytic|NN lyme_disease|DS patient|NN location|NN region|NN land|NN sea|NN encephalitis|DS 
+lyme|NN symptom|NN diagnosis|NN treatment|NN 
+tick|NN coinfection|NN make|NN diagnosis|NN 
+center|NN disease|NN control|NN prevention|NN tick|NN new|NN jersey|NN tick|NN pathogen|NN 
+b|NN burgdorferi|NN body|NN course|NN disease|NN skin|NN heart|NN joint|NN system|NN system|NN sign|NN symptom|NN lyme_disease|DS consequence|NN response|NN spirochete|NN tissue|NN 
+b|NN burgdorferi|NN skin|NN bite|NN ixode|NN tick|NN 
+tick|NN saliva|NN spirochete|NN skin|NN feed|NN process|NN substance|NN response|NN site|NN bite|NN environment|NN spirochete|NN infection|NN 
+spirochete|NN dermis|NN 
+host|NN response|NN bacteria|NN skin|NN circular|NN em|NN lesion|NN spirochete|NN skin|NN em|NN lesion|NN 
+bacteria|NN body|NN 
+day|NN week|NN tick|NN bite|NN spread|NN bloodstream|NN joint|NN heart|NN system|NN skin|NN site|NN presence|NN rise|NN variety|NN symptom|NN disease|NN 
+spread|NN b|NN burgdorferi|NN attachment|NN host|NN protease|NN surface|NN spirochete|NN 
+bacteria|NN body|NN month|NN year|NN production|NN b|NN antibody|NN system|NN spirochete|NN response|NN expression|NN surface|NN protein|NN antibody|NN variation|NN surface|NN protein|NN component|NN complement|NN hide|NN matrix|NN function|NN factor|NN 
+brain|NN b|NN burgdorferi|NN proliferation|NN apoptosis|NN spirochete|NN host|NN cell|NN acid|NN nmda|NN receptor|NN nerve|NN cell|NN fatigue|ST malaise|ST lyme|NN encephalopathy|NN addition|NN matter|NN pathology|NN lyme|NN encephalopathy|NN matter|NN connection|NN deficit|NN attention|NN memory|NN ability|NN complex|NN cognition|NN status|NN 
+matter|NN disease|NN potential|NN recovery|NN matter|NN disease|NN loss|NN 
+resolution|NN matter|NN antibiotic|NN treatment|NN 
+precursor|NN serotonin|NN system|NN number|NN disease|NN brain|NN lyme|NN researcher|NN secretion|NN cause|NN disorder|NN patient|NN study|NN 
+exposure|NN bacterium|NN lyme_disease|DS response|NN form|NN autoimmune|NN disease|NN production|NN reaction|NN form|NN mimicry|NN system|NN part|NN tissue|NN 
+symptom|NN autoimmune|NN reaction|NN symptom|NN spirochete|NN body|NN 
+hypothesis|NN arthritis|DS antibiotic|NN therapy|NN fever|ST application|NN diagnosis|NN 
+lyme_disease|DS symptom|NN objective|NN find|NN em|NN rash|ST palsy|NN arthritis|DS history|NN exposure|NN tick|NN laboratory|NN test|NN people|NN symptom|NN lyme_disease|DS body|NN skin|NN examination|NN em|NN rashe|NN month|NN presence|NN em|NN rash|ST tick|NN exposure|NN tick|NN habitat|NN lyme|NN day|NN appearance|NN rash|ST lyme|NN diagnosis|NN laboratory|NN confirmation|NN people|NN tick|NN bite|NN em|NN rash|ST bull|NN eye|NN em|NN rashe|NN symptom|NN lyme|NN new|NN england|NN mid-atlantic|NN state|NN part|NN wisconsin|NN minnesota|NN area|NN area|NN canada|NN lyme|NN risk|NN 
+absence|NN em|NN rash|ST history|NN tick|NN exposure|NN lyme|NN diagnosis|NN laboratory|NN confirmation|NN bacteria|NN lyme_disease|DS body|NN tissue|NN laboratory|NN test|NN presence|NN antibody|NN bacteria|NN blood|NN antibody|NN test|NN result|NN infection|NN infection|NN symptom|NN objective|NN find|NN history|NN tick|NN exposure|NN person|NN 5-20|NN population|NN antibody|NN lyme|NN people|NN history|NN symptom|NN lyme_disease|DS lyme|NN antibody|NN result|NN treatment|NN 
+case|NN history|NN sign|NN symptom|NN lyme_disease|DS treatment|NN laboratory|NN test|NN result|NN laboratory|NN test|NN 
+test|NN antibody|NN blood|NN elisa|NN blot|NN method|NN lyme|NN diagnosis|NN 
+protocol|NN center|NN disease|NN control|NN prevention|NN cdc|NN elisa|NN test|NN blot|NN system|NN time|NN antibody|NN quantity|NN 
+lyme|NN infection|NN onset|NN antibody|NN type|NN igm|NN igg|NN week|NN week|NN peak|NN week|NN em|NN rash|ST antibody|NN antibody|NN confirmation|NN time|NN value|NN 
+day|NN lyme|NN infection|NN onset|NN infection|NN detection|NN igm|NN igg|NN antibody|NN igg|NN antibody|NN igm|NN igg|NN test|NN result|NN infection|NN week|NN igg|NN test|NN result|NN 
+number|NN igm|NN antibody|NN month|NN infection|NN igg|NN antibody|NN year|NN antibiotic|NN treatment|NN antibody|NN test|NN 
+people|NN em|NN rash|ST lyme|NN antibody|NN treatment|NN lyme|NN complication|NN people|NN treatment|NN treatment|NN success|NN failure|NN test|NN 
+reliability|NN cdc|NN two-tier|NN protocol|NN study|NN blot|NN igm|NN specificity|NN 9496|NN people|NN symptom|NN lyme_disease|DS elisa|NN test|NN sensitivity|NN test|NN sensitivity|NN rise|NN subset|NN people|NN symptom|NN arthritis|DS test|NN result|NN stage|NN disease|NN factor|NN antibody|NN infection|NN virus|NN cytomegalovirus|DS herpe|NN simplex|NN virus|NN rate|NN positive|NN comparison|NN rate|NN stage|NN infection|NN test|NN 
+test|NN case|NN 
+europe|NN neuroborreliosis|NN gariniy|NN density|NN lymphocyte|NN cell|NN protein|NN fluid|NN csf|NN rise|NN level|NN glucose|NN level|NN system|NN antibody|NN lyme|NN space|NN csf|NN demonstration|NN lumbar|NN puncture|NN csf|NN analysis|NN pleocytosis|NN antibody|NN production|NN diagnosis|NN neuroborreliosis|NN europe|NN case|NN neuropathy|NN chronica|NN afzeliy|NN blood|NN antibody|NN test|NN north|NN america|NN burgdorfery|NN csf|NN sign|NN diagnosis|NN system|NN cns|NN guideline|NN csf|NN analysis|NN symptom|NN system|NN palsy|NN symptom|NN blood|NN antibody|NN test|NN csf|NN pleocytosis|NN test|NN infection|NN end|NN marker|NN treatment|NN success|NN decision|NN infection|NN pn|NN nerve|NN conduction|NN study|NN response|NN treatment|NN 
+lyme|NN carditis|NN evidence|NN heart|NN conduction|NN abnormality|NN dysfunction|NN biopsy|NN confirmation|NN cell|NN tissue|NN case|NN risk|NN procedure|NN 
+chain|NN reaction|NN pcr|NN test|NN lyme_disease|DS material|NN dna|NN lyme_disease|DS spirochete|NN 
+culture|NN pcr|NN mean|NN presence|NN organism|NN study|NN test|NN antibody|NN 
+pcr|NN advantage|NN culture|NN 
+pcr|NN test|NN result|NN detection|NN debris|NN borrelia|NN cell|NN specimen|NN contamination|NN pcr|NN result|NN cell|NN blood|NN fluid|NN csf|NN infection|NN pcr|NN test|NN case|NN diagnosis|NN lyme|NN arthritis|DS way|NN dna|NN fluid|NN sensitivity|NN pcr|NN csf|NN use|NN antibody|NN production|NN test|NN result|NN week|NN people|NN 
+form|NN laboratory|NN test|NN lyme_disease|DS 
+antigen|NN bacteria|NN urine|NN technique|NN use|NN particle|NN detection|NN ospa|NN symptom|NN lyme|NN titer|NN immunoglobulin|NN g|NN igg|NN immunoglobulin|NN m|NN igm|NN antibody|NN antigen|NN disease|NN igm|NN antibody|NN infection|NN igg|NN antibody|NN year|NN 
+cdc|NN urine|NN antigen|NN test|NN pcr|NN test|NN urine|NN stain|NN form|NN b|NN lymphocyte|NN transformation|NN test|NN image|NN 
+pattern|NN neuroborreliosis|NN diagnosis|NN pathophysiology|NN disease|NN evidence|NN neuroimage|NN test|NN data|NN diagnosis|NN patient|NN 
+resonance|NN image|NN mry|NN emission|NN tomography|NN test|NN abnormality|NN brain|NN patient|NN disease|NN 
+find|NN mry|NN lesion|NN matter|NN atrophy|DS 
+find|NN lesion|NN antibiotic|NN treatment|NN 
+image|NN show|NN area|NN amount|NN blood|NN cortex|NN matter|NN 
+image|NN pattern|NN image|NN 
+abnormality|NN image|NN people|NN vacuity|NN disease|NN diagnosis|NN 
+community|NN clinics|NN 23-28|NN erythema|NN em|NN rashe|NN objective|NN manifestation|NN lyme_disease|DS em|NN rashe|NN spider|NN bite|NN shingle|NN misdiagnose|NN misconception|NN em|NN rashe|NN bull|NN eye|NN feature|NN em|NN rash|ST speed|NN extent|NN diameter|NN cm|NN case|NN cm|NN 
+rash|ST center|NN clear|NN rest|NN rash|ST em|NN rashe|NN spider|NN bite|NN limb|NN necrosis|NN patch|NN skin|NN wound|ST ulcer|NN em|NN rashe|NN site|NN armpit|NN groin|NN abdomen|NN back|NN knee|NN lyme|NN shingle|NN headache|ST fever|ST fatigue|ST pain|ST numbness|NN 
+lyme|NN shingle|NN symptom|NN appearance|NN rashe|NN blister|ST nerve|NN shingle|NN laboratory|NN test|NN 
+palsy|NN lyme_disease|DS ldfp|NN bell|NN palsy|NN bell|NN palsy|NN type|NN palsy|NN case|NN case|NN palsy|NN area|NN lyme_disease|DS bell|NN palsy|NN side|NN face|NN bell|NN palsy|NN symptom|NN treatment|NN bell|NN history|NN exposure|NN tick|NN habitat|NN month|NN em|NN rash|ST viral-like|NN symptom|NN headache|ST fever|ST palsy|NN side|NN face|NN likelihood|NN ldfp|NN empiric|NN therapy|NN antibiotics|NN corticosteroid|NN reevaluate|NN completion|NN laboratory|NN test|NN lyme_disease|DS 
+meningitis|DS lyme|NN meningitis|DS cause|NN fever|ST meningitis|DS em|NN rash|ST palsy|NN vision|NN obstruction|NN percentage|NN leukocyte|NN csf|NN 
+lyme|NN limb|NN radiculopathy|NN nerve|NN root|NN compression|NN sciatica|DS case|NN radiculopathy|NN resolve|NN treatment|NN rest|NN week|NN guideline|NN radiculopathy|NN risk|NN cause|NN diagnosis|NN treatment|NN infection|NN lyme|NN shingle|NN history|NN activity|NN tick|NN habitat|NN month|NN rash|ST viral-like|NN symptom|NN headache|ST symptom|NN meningitis|DS palsy|NN suspicion|NN lyme_disease|DS recommendation|NN lumbar|NN puncture|NN test|NN confirmation|NN 
+lyme|NN trunk|NN myriad|NN condition|NN syndrome|NN diagnosis|NN lyme_disease|DS appearance|NN symptom|NN reviewer|NN lyme|NN imitator|NN lyme_disease|DS sclerosis|NN arthritis|DS fatigue|ST syndrome|NN disease|NN hiv|DS autoimmune|NN neurodegenerative|NN disease|NN 
+people|NN infection|NN antibody|NN test|NN blood|NN test|NN lyme_disease|DS cause|NN person|NN symptom|NN prevention|NN 
+tick|NN bite|NN time|NN tick|NN habitat|NN precaution|NN 
+lyme|NN infection|NN nymph|NN bite|NN april|NN september|NN location|NN woodland|NN shrub|NN grass|NN leaf|NN litter|NN wood|NN pile|NN density|NN woodland|NN edge|NN wood|NN lawn|NN half|NN plant|NN groundcover|NN quarter|NN lawn|NN time|NN larvae|NN nymph|NN mice|NN stone|NN wall|NN wood|NN log|NN larvae|NN nymph|NN host|NN quest|NN leave|NN grass|NN ground|NN foreleg|NN host|NN brushe|NN limb|NN tick|NN host|NN skin|NN location|NN bite|NN northeastern|NN united|NN states|NN tick|NN bite|NN residence|NN school|NN camp|NN park|NN area|NN work|NN hunt|NN area|NN activity|NN tick|NN bite|NN residence|NN yard|NN work|NN brush|NN clear|NN garden|NN yard|NN house|NN dog|NN cat|NN area|NN park|NN tick|NN bite|NN hike|NN camp|NN walk|NN lawn|NN center|NN trail|NN vegetation|NN log|NN stone|NN wall|NN pet|NN tick|NN habitat|NN 
+precaution|NN cdc|NN spray|NN clothe|NN shoe|NN camp|NN gear|NN tent|NN bag|NN solution|NN use|NN permethrin|NN human|NN tick|NN fabric|NN second|NN tick|NN nymph|NN shoe|NN sock|NN time|NN number|NN bite|NN nymph|NN contact|NN shoe|NN person|NN short|NN nymph|NN quest|NN ground|NN contact|NN scenario|NN protection|NN trouser|NN pant|NN sock|NN long-sleeve|NN shirt|NN trouser|NN gap|NN tick|NN wearer|NN skin|NN cloth|NN tick|NN worker|NN uniform|NN permethrin|NN bite|NN incidence|NN protection|NN week|NN wear|NN wash|NN item|NN wash|NN item|NN skin|NN underwear|NN cat|NN 
+epa|NN tick|NN use|NN skin|NN picaridin|NN derivative|NN amino|NN acid|NN oil|NN lemon|NN eucalyptus|NN compound|NN ingredient|NN pmd|NN repellent|NN tick|NN hour|NN application|NN sweat|NN water|NN repellent|NN picaridin|NN europe|NN picaridin|NN skin|NN harm|NN fabric|NN plastics|NN concentration|NN tick|NN hour|NN deet|NN hour|NN hour|NN clothe|NN eye|NN mouth|NN wound|ST cut|NN baby|NN month|NN year|NN sunscreen|NN repellent|NN top|NN face|NN hand|NN face|NN 
+clothe|NN gear|NN pet|NN tick|NN clothe|NN dryer|NN minute|NN tick|NN wash|NN dryer|NN tick|NN body|NN risk|NN infection|NN tick|NN nymph|NN size|NN poppy|NN seed|NN day|NN person|NN blood|NN blister|ST area|NN armpit|NN leg|NN back|NN knee|NN trunk|NN children|NN ear|NN neck|NN hair|NN tick|NN removal|NN removal|NN tick|NN tweezer|NN 
+risk|NN infection|NN increase|NN time|NN attachment|NN north|NN america|NN risk|NN lyme_disease|DS tick|NN hour|NN cdc|NN tweezer|NN skin|NN tick|NN tweezer|NN skin|NN jerk|NN squeez|NN tick|NN tick|NN removal|NN tick|NN part|NN skin|NN tweezer|NN wound|ST hand|NN alcohol|NN soap|NN water|NN tick|NN container|NN alcohol|NN bag|NN tape|NN toilet|NN person|NN bite|NN doctor|NN person|NN rash|ST symptom|NN week|NN cdc|NN finger|NN nail|NN polish|NN petroleum|NN jelly|NN heat|NN tick|NN 
+australia|NN paralysis|ST tick|NN society|NN immunology|NN allergy|NN tweezer|NN tick|NN person|NN product|NN tick|NN doctor|NN nitrogen|NN product|NN drugstore|NN wart|NN method|NN australia|NN cm|NN floss|NN fish|NN line|NN knot|NN skin|NN tick|NN skin|NN antibiotics|NN 
+risk|NN transmission|NN increase|NN duration|NN tick|NN attachment|NN hour|NN attachment|NN bacteria|NN lyme|NN tick|NN saliva|NN deer|NN tick|NN person|NN tick|NN hour|NN dose|NN doxycycline|NN hour|NN removal|NN risk|NN lyme_disease|DS 
+people|NN development|NN infection|NN people|NN way|NN case|NN erythema|NN rash|ST 70-80|NN people|NN garden|NN landscap|NN 
+landscap|NN practice|NN risk|NN tick|NN bite|NN yard|NN lawn|NN leaf|NN litter|NN weed|NN use|NN woodlands|NN shrub|NN stone|NN wall|NN wood|NN pile|NN lawn|NN rock|NN barrier|NN vegetation|NN barrier|NN tick|NN tick|NN sun-expose|NN zone|NN ft|NN barrier|NN activity|NN yard|NN patio|NN playground|NN garden|NN material|NN wood|NN deck|NN concrete|NN brick|NN gravel|NN ground|NN patio|NN playground|NN tick|NN fence|NN deer|NN zone|NN exposure|NN 
+worker|NN risk|NN lyme_disease|DS site|NN tick|NN 
+construction|NN landscap|NN forestry|NN brush|NN clear|NN land|NN farm|NN railroad|NN work|NN oil|NN field|NN work|NN utility|NN line|NN work|NN park|NN wildlife|NN management|NN worker|NN state|NN risk|NN exposure|NN tick|NN 
+tick-borne|NN disease|NN worker|NN region|NN country|NN 
+wood|NN bushe|NN grass|NN leaf|NN litter|NN tick|NN 
+worker|NN spring|NN summer|NN tick|NN host|NN animal|NN 
+lyme|NN deer|NN disease|NN deer|NN population|NN adult|NN tick|NN feed|NN reproduction|NN 
+lyme_disease|DS case|NN deer|NN eradication|NN island|NN maine|NN deer|NN control|NN mumford|NN cove|NN connecticut|NN deer|NN increase|NN tick|NN density|NN 
+example|NN deer|NN population|NN level|NN square|NN mile|NN level|NN deer|NN mile|NN area|NN country|NN lyme_disease|DS rate|NN tick|NN number|NN spread|NN lyme|NN tick-borne|NN disease|NN reduction|NN area|NN density|NN deer|NN mammal|NN host|NN adult|NN tick|NN density|NN level|NN 
+routine|NN control|NN tick|NN animal|NN livestock|NN use|NN acaricide|NN exposure|NN human|NN tick|NN 
+europe|NN reservoir|NN burgdorfery|NN mammal|NN mammal|NN specy|NN bird|NN passerine|NN sea-bird|NN pheasant|NN animal|NN tick|NN circulation|NN b|NN europe|NN 
+house|NN mouse|NN specy|NN rodent|NN europe|NN russia|NN reservoir|NN specy|NN pathogen|NN roe|NN deer|NN reservoir|NN b|NN thought|NN al|NN host|NN b|NN virus|NN tick|NN deer|NN boar|NN scrofa|NN rickettsia|NN specy|NN risk|NN coinfection|NN roe|NN deer|NN 2000|NN roe|NN deer|NN europe|NN specy|NN rickettsia|NN specy|NN borrelia|NN vaccination|NN 
+vaccine|NN lyme_disease|DS surface|NN protein|NN ospa|NN b|NN burgdorferi|NN smithkline|NN beecham|NN 
+trial|NN people|NN vaccine|NN immunity|NN adult|NN children|NN effect|NN basis|NN trial|NN food|NN drug|NN administration|NN fda|NN december|NN 
+approval|NN vaccine|NN entry|NN practice|NN variety|NN reason|NN cost|NN insurance|NN company|NN vaccine|NN recipient|NN autoimmune|NN side|NN effect|NN 
+patient|NN advocacy|NN group|NN number|NN lawsuit|NN glaxosmithkline|NN vaccine|NN health|NN problem|NN 
+claim|NN fda|NN center|NN disease|NN control|NN connection|NN vaccine|NN autoimmune|NN complaint|NN 
+lack|NN evidence|NN complaint|NN vaccine|NN sale|NN market|NN glaxosmithkline|NN february|NN set|NN media|NN coverage|NN fear|NN vaccine|NN side|NN effect|NN fate|NN lymerix|NN literature|NN tale|NN editorial|NN nature|NN withdrawal|NN lymerix|NN instance|NN fear|NN place|NN pressure|NN vaccine|NN developer|NN safety|NN consideration|NN 
+developer|NN vaccine|NN max|NN planck|NN institute|NN nature|NN world|NN 
+justification|NN ospa|NN vaccine|NN 
+vaccine|NN prevention|NN lyme_disease|DS dog|NN 
+lyme_disease|DS vaccine|NN 
+fort|NN dodge|NN laboratory|NN spirochete|NN host|NN organism|NN 
+galaxy|NN lyme|NN intervet-schering-ploughs|NN vaccine|NN target|NN protein|NN 
+antibody|NN bacteria|NN antibody|NN 
+lyme|NN merial|NN antibody|NN protein|NN tick|NN dog|NN blood|NN antibody|NN spirochete|NN tick|NN gut|NN dog|NN 
+hexavalent|NN protein|NN vaccine|NN candidate|NN track|NN designation|NN 
+food|NN drug|NN administration|NN 2017|NN study|NN treatment|NN 
+antibiotics|NN treatment|NN approach|NN use|NN stage|NN disease|NN people|NN infection|NN administration|NN doxycycline|NN choice|NN bacteria|NN variety|NN illness|NN tick|NN people|NN sun|NN exposure|NN risk|NN doxycycline|NN children|NN year|NN age|NN women|NN alternative|NN doxycycline|NN amoxicillin|NN cefuroxime|NN azithromicyn|NN case|NN intolerance|NN antibiotics|NN treatment|NN cephalexin|NN lyme_disease|DS rash|ST lyme|NN cellulitis|NN idsa|NN treatment|NN cefuroxime|NN acid|NN infection|NN individual|NN lyme|NN infection|NN disease|NN lyme|NN arthritis|DS neurologic|NN symptom|NN palsy|NN meningitis|DS neuropathy|NN administration|NN ceftriaxone|NN choice|NN case|NN alternative|NN 
+treatment|NN regimen|NN week|NN complication|NN lyme_disease|DS doxycycline|NN mouth|NN cost|NN north|NN america|NN evidence|NN efficacy|NN case|NN failure|NN guideline|NN ceftriaxone|NN month|NN treatment|NN lyme|NN arthritis|DS swell|NN second|NN round|NN antibiotics|NN antibiotics|NN retreatment|NN case|NN response|NN antibiotics|NN antibiotic|NN regimen|NN day|NN evidence|NN igm|NN igg|NN antibody|NN level|NN year|NN treatment|NN antibiotics|NN antibody|NN level|NN treatment|NN success|NN test|NN 
+palsy|NN treatment|NN antibiotic|NN treatment|NN lyme|NN complication|NN palsy|NN lyme_disease|DS palsy|NN use|NN tear|NN ointment|NN patch|NN eye|NN 
+people|NN lyme|NN pacemaker|NN heart|NN conduction|NN abnormality|NN need|NN lyme|NN carditis|NN corticosteroid|NN 
+people|NN lyme|NN arthritis|DS level|NN activity|NN joint|NN case|NN crutche|NN pain|ST lyme_disease|DS anti-in|NN 
+drug|NN nsaids|NN injection|NN lyme|NN arthritis|DS antibiotics|NN people|NN lyme|NN arthritis|DS antibiotics|NN month|NN antibiotics|NN swell|NN month|NN treatment|NN pcr|NN test|NN dna|NN fluid|NN lyme|NN arthritis|DS infection|NN strain|NN people|NN characteristics|NN lyme|NN arthritis|DS nsaids|NN drug|NN therapy|NN adult|NN resolution|NN lyme|NN arthritis|DS 
+people|NN treatment|NN reinfection|NN 
+lyme_disease|DS sign|NN erythema|NN em|NN rash|ST week|NN treatment|NN people|NN infection|NN system|NN heart|NN joint|NN damage|NN body|NN tissue|NN 
+people|NN antibiotic|NN treatment|NN day|NN appearance|NN em|NN rash|ST prospect|NN recovery|NN 
+percentage|NN people|NN recovery|NN united|NN states|NN end|NN treatment|NN em|NN rash|ST month|NN percentage|NN europe|NN treatment|NN failure|NN persistence|NN appearance|NN sign|NN disease|NN people|NN people|NN symptom|NN muscle|NN pain|ST fatigue|ST symptom|NN 
+people|NN system|NN manifestation|NN disease|NN deficit|NN addition|NN symptom|NN europe|NN average|NN month|NN lyme|NN symptom|NN people|NN mg|NN day|NN percentage|NN people|NN symptom|NN neuroborreliosis|NN em|NN rash|ST study|NN year|NN treatment|NN symptom|NN children|NN adult|NN day|NN symptom|NN symptom|NN activity|NN leave|NN 
+data|NN lyme|NN palsy|NN antibiotics|NN median|NN day|NN rest|NN abnormality|NN europe|NN people|NN palsy|NN symptom|NN followup|NN month|NN numbness|NN sensation|NN fatigue|ST concentration|NN problem|NN side|NN face|NN time|NN recovery|NN data|NN people|NN palsy|NN rate|NN lyme|NN arthritis|DS research|NN movement|NN muscle|NN month|NN palsy|NN nerve|NN muscle|NN use|NN follow-up|NN 16-23|NN lyme|NN palsy|NN 
+europe|NN quarter|NN people|NN syndrome|NN lyme|NN radiculopathy|NN meningitis|DS ceftriaxone|NN day|NN average|NN day|NN symptom|NN month|NN response|NN objective|NN marker|NN infection|NN fluid|NN month|NN symptom|NN use|NN analgesics|NN symptom|NN use|NN analgesics|NN nondisable|NN symptom|NN headache|ST fatigue|ST sensation|NN pain|ST memory|NN disturbance|NN malaise|ST pain|ST sleep|NN disturbance|NN muscle|NN pain|ST concentration|NN disturbance|NN 
+symptom|NN palsy|NN movement|NN 
+recovery|NN neuroborreliosis|NN neuroborreliosis|NN neurologic|NN damage|NN 
+people|NN lyme|NN progress|NN heart_block|DS week|NN lyme|NN heart|NN conduction|NN abnormality|NN week|NN people|NN recovery|NN pacemaker|NN end|NN heart_block|DS percentage|NN case|NN lyme|NN complication|NN case|NN lyme|NN carditis|NN 
+antibiotic|NN treatment|NN lyme|NN arthritis|DS case|NN month|NN inflammation|NN round|NN antibiotics|NN lyme|NN arthritis|DS month|NN range|NN months-4|NN year|NN recovery|NN 
+study|NN 6-11|NN people|NN em|NN rash|ST em|NN rash|ST month|NN second|NN rash|ST infection|NN borrelia|NN strain|NN 
+people|NN symptom|NN fatigue|ST joint|NN muscle|NN ache|NN difficulty|NN month|NN treatment|NN lyme_disease|DS lyme_disease|DS syndrome|NN 
+reason|NN symptom|NN condition|NN fibromyalgia|DS fatigue|ST syndrome|NN epidemiology|NN country|NN lyme_disease|DS case|NN 
+lyme_disease|DS hemisphere|NN region|NN africa|NN 
+africa|NN b|NN sensu|NN lato|NN morocco|NN algeria|NN egypt|NN tunisia|NN 
+lyme_disease|DS africa|NN evidence|NN human|NN region|NN 
+abundance|NN host|NN tick|NN vector|NN establishment|NN lyme|NN infection|NN africa|NN east|NN africa|NN case|NN lyme_disease|DS kenya|NN asia|NN 
+b|NN burgdorferi|NN tick|NN japan|NN northwest|NN china|NN nepal|NN thailand|NN russia|NN borrelia|NN mongolia|NN europe|NN 
+europe|NN lyme_disease|DS infection|NN genospecy|NN spirochaete|NN b|NN sensu|NN tick|NN case|NN b|NN burgdorferi|NN tick|NN europe|NN slovenia|NN austria|NN country|NN continent|NN incidence|NN europe|NN italy|NN portugal|NN united|NN kingdom|NN 
+united|NN kingdom|NN number|NN laboratory|NN case|NN lyme_disease|DS report|NN case|NN uk|NN republic|NN ireland|NN uk|NN case|NN figure|NN quarter|NN show|NN increase|NN period|NN 
+number|NN case|NN figure|NN health|NN protection|NN agency|NN case|NN year|NN average|NN infection|NN dr|NN darrel|NN director|NN toxoplasma|NN reference|NN laboratory|NN lyme_disease|DS test|NN service|NN number|NN case|NN account|NN case|NN test|NN result|NN sufferer|NN people|NN symptom|NN failure|NN individual|NN doctor|NN 
+lyme_disease|DS borrelia|NN infection|NN disease|NN scotland|NN january|NN basis|NN suspicion|NN gp|NN requirement|NN report|NN laboratory|NN test|NN result|NN uk|NN october|NN health|NN protection|NN notification|NN regulation|NN 
+incidence|NN lyme_disease|DS forest|NN salisbury|NN plain|NN exmoor|NN south|NN part|NN wiltshire|NN berkshire|NN thetford|NN forest|NN west|NN coast|NN island|NN scotland|NN tick|NN park|NN london|NN report|NN forestry|NN worker|NN forest|NN population|NN area|NN 
+test|NN pet|NN dog|NN country|NN 2009|NN tick|NN uk|NN warm|NN increase|NN tick|NN activity|NN future|NN increase|NN amount|NN time|NN people|NN park|NN risk|NN infection|NN north|NN america|NN 
+study|NN north|NN america|NN correlate|NN lyme_disease|DS prevalence|NN 
+study|NN climate|NN suitability|NN model|NN climate|NN change|NN increase|NN vector|NN habitat|NN year|NN expansion|NN canada|NN suitability|NN habitat|NN vector|NN retraction|NN review|NN study|NN presence|NN forest|NN area|NN variable|NN risk|NN lyme_disease|DS variable|NN concordance|NN study|NN author|NN factor|NN tick|NN density|NN risk|NN site|NN study|NN time|NN period|NN region|NN knowledge|NN lyme_disease|DS ecology|NN canada|NN 
+climate|NN range|NN tick|NN lyme_disease|DS area|NN ontario|NN area|NN quebec|NN manitoba|NN ontario|NN new|NN brunswick|NN southwest|NN nova|NN scotia|NN part|NN saskatchewan|NN alberta|NN columbia|NN 
+case|NN east|NN island|NN newfoundland|NN prediction|NN leighton|NN et|NN al|NN 2012|NN range|NN tick|NN canada|NN kmyear|NN decade|NN temperature|NN driver|NN speed|NN spread|NN mexico|NN 
+study|NN infection|NN mexico|NN case|NN united|NN states|NN cdc|NN map|NN risk|NN lyme_disease|DS united|NN states|NN concentration|NN northeast|NN wisconsin|NN 
+year|NN case|NN cdc|NN number|NN 
+cdc|NN research|NN evaluation|NN diagnostics|NN disease|NN result|NN number|NN case|NN 
+lyme_disease|DS tick-borne|NN disease|NN north|NN america|NN europe|NN disease|NN united|NN states|NN 
+case|NN united|NN states|NN cdc|NN ratio|NN lyme_disease|DS infection|NN case|NN person|NN 
+state|NN lyme_disease|DS average|NN case|NN person|NN year|NN 
+lyme_disease|DS state|NN case|NN area|NN new|NN england|NN mid-atlantic|NN south|NN atlantic|NN west|NN new|NN cdc|NN lyme|NN case|NN definition|NN guideline|NN cdc|NN surveillance|NN case|NN 
+january|NN cdc|NN weight|NN laboratory|NN evidence|NN culture|NN b|NN test|NN elisa|NN screen|NN blot|NN igg|NN infection|NN blot|NN cdc|NN laboratory|NN evidence|NN surveillance|NN case|NN definition|NN 
+case|NN definition|NN use|NN blot|NN elisa|NN screen|NN 
+number|NN case|NN disease|NN region|NN north|NN america|NN 
+example|NN lato|NN ability|NN cycle|NN california|NN lizard|NN population|NN prevalence|NN b|NN tick|NN population|NN question|NN evidence|NN lizard|NN 
+study|NN europe|NN data|NN lizard|NN dna|NN detection|NN spirochete|NN lizard|NN tick|NN experiment|NN lizard|NN infection|NN borrelia|NN involvement|NN cycle|NN 
+b|NN burgdorferi|NN tick|NN deer|NN white-foot|NN mice|NN vector|NN tick|NN borrelia|NN bird|NN 
+rodent|NN bird|NN reservoir|NN host|NN b|NN sensu|NN stricto|NN 
+resistance|NN genospecy|NN lyme_disease|DS spirochete|NN activity|NN complement|NN pathway|NN host|NN specy|NN reservoir|NN host|NN association|NN 
+condition|NN specy|NN subspecy|NN borrelia|NN north|NN america|NN 
+condition|NN infection|NN illness|NN master|NN disease|NN 
+americanum|NN tick|NN vector|NN 
+part|NN distribution|NN lyme_disease|DS arkansas|NN patient|NN region|NN symptomsespecially|NN bite|NN lone-star|NN possibility|NN 
+condition|NN lyme|NN antibiotic|NN treatment|NN 
+year|NN case|NN year|NN disease|NN lyme|NN montana|NN 
+pocket|NN yellowstone|NN river|NN montana|NN 
+people|NN bulls-eye|NN rash|ST tick|NN bite|NN week|NN fatigue|ST fever|ST 
+lyme_disease|DS prevalence|NN male|NN female|NN 
+range|NN age|NN group|NN number|NN case|NN 10-|NN 19-year-old|NN 
+reason|NN lyme_disease|DS time|NN asian|NN 
+july|NN house|NN representative|NN investigation|NN pentagon|NN tick|NN lyme_disease|DS environment|NN south|NN america|NN 
+south|NN america|NN disease|NN recognition|NN occurrence|NN 
+brazil|NN disease|NN syndrome|NN microorganism|NN b|NN burgdorfery|NN complex|NN tick|NN amblyomma|NN rhipicephalus|NN genera|NN case|NN brazil|NN paulo|NN b|NN antigen|NN patient|NN colombia|NN bolivia|NN 
+citation|NN history|NN 
+history|NN genetics|NN subject|NN study|NN 
+study|NN reforestation|NN farm|NN abandonment|NN new|NN england|NN migration|NN mid-west|NN century|NN lyme_disease|DS year|NN america|NN tick|NN host|NN northeast|NN midwest|NN 
+john|NN new|NN england|NN 16631670|NN number|NN hang|NN bushe|NN summer|NN time|NN mans|NN garment|NN creep|NN breeche|NN time|NN flesh|NN man|NN 
+stockin|NN wood|NN 
+write|NN peter|NN kalm|NN botanist|NN america|NN linnaeus|NN forest|NN new|NN york|NN tick|NN 
+kalms|NN journey|NN year|NN forest|NN lyme|NN bacterium|NN pocket|NN northeast|NN coast|NN wisconsin|NN minnesota|NN 
+description|NN lyme_disease|DS write|NN john|NN walker|NN visit|NN island|NN jura|NN deer|NN island|NN west|NN coast|NN scotland|NN description|NN symptom|NN lyme_disease|DS pain|ST interior|NN part|NN limb|NN tick|NN vector|NN worm|NN body|NN colour|NN shape|NN row|NN feet|NN side|NN skin|NN 
+people|NN area|NN great|NN britain|NN north|NN america|NN end|NN century|NN 
+examination|NN museum|NN specimen|NN dna|NN ixode|NN tick|NN germany|NN date|NN mouse|NN cape|NN cod|NN autopsy|NN ötzy|NN iceman|NN mummy|NN presence|NN dna|NN sequence|NN borrelia|NN human|NN lyme_disease|DS 
+study|NN lyme_disease|DS skin|NN manifestation|NN 
+study|NN date|NN breslau|NN germany|NN 
+poland|NN physician|NN alfred|NN buchwald|NN man|NN year|NN skin|NN disorder|NN atrophican|NN 
+research|NN conference|NN dermatologist|NN study|NN ring-like|NN lesion|NN woman|NN bite|NN sheep|NN tick|NN 
+lesion|NN skin|NN condition|NN lymphocytoma|NN 
+history|NN understand|NN disease|NN cause|NN diagnosis|NN treatment|NN 
+problem|NN tick|NN bite|NN 
+physician|NN farmer|NN radiculitis|NN meningitis|DS tick|NN bite|NN 
+ring-shap|NN rash|ST doctor|NN meningoradiculitis|NN 
+dermatologist|NN sven|NN hellerström|NN em|NN symptom|NN tick|NN bite|NN neurologist|NN alfred|NN bannwarth|NN case|NN meningitis|DS skin|NN lesion|NN 
+carl|NN institute|NN sweden|NN skin|NN condition|NN 
+stain|NN type|NN skin|NN lesion|NN em|NN conclusion|NN interest|NN study|NN spirochete|NN 
+nil|NN institute|NN aca|NN penicillin|NN relationship|NN tick|NN bite|NN em|NN syndrome|NN europe|NN use|NN penicillin|NN treatment|NN europe|NN 
+dermatologist|NN wisconsin|NN rudolph|NN scrimenti|NN em|NN lesion|NN patient|NN paper|NN hellerström|NN science|NN journal|NN 
+case|NN em|NN united|NN states|NN 
+literature|NN patient|NN penicillin|NN 
+syndrome|NN lyme_disease|DS cluster|NN case|NN arthritis|DS town|NN connecticut|NN town|NN lyme|NN old|NN lyme_disease|DS name|NN physician|NN david|NN snydman|NN allen|NN steere|NN intelligence|NN service|NN yale|NN university|NN stephen|NN co-discover|NN disease|NN recognition|NN patient|NN united|NN states|NN em|NN recognition|NN lyme|NN arthritis|DS manifestation|NN condition|NN europe|NN 
+element|NN b|NN burgdorferi|NN infection|NN meningopolyneuritis|NN syndrome|NN syndrome|NN disease|NN knee|NN sheep|NN tick|NN fever|ST 
+disease|NN lyme_disease|DS lyme_disease|DS 
+et|NN al|NN test|NN antibiotic|NN regimen|NN adult|NN patient|NN lyme_disease|DS year|NN new|NN york|NN state|NN health|NN dept|NN epidemiologist|NN jorge|NN benach|NN willy|NN researcher|NN mountain|NN laboratory|NN collection|NN shelter|NN island|NN new|NN york|NN lyme-endemic|NN area|NN part|NN investigation|NN rocky|NN mountain|NN fever|ST 
+tick|NN burgdorfer|NN 
+examination|NN tick|NN 
+familiarity|NN literature|NN realization|NN spirochete|NN cause|NN ecm|NN lyme_disease|DS 
+tick|NN shelter|NN island|NN patient|NN lyme_disease|DS 
+university|NN texas|NN health|NN science|NN center|NN researcher|NN alan|NN barbour|NN expertise|NN culture|NN organism|NN 
+discovery|NN patient|NN lyme_disease|DS tick|NN june|NN find|NN science|NN spirochete|NN honor|NN 
+identification|NN b|NN agent|NN lyme_disease|DS antibiotics|NN test|NN antibiotic|NN sensitivity|NN tetracycline|NN antibiotics|NN amoxicillin|NN penicillin|NN mechanism|NN tick|NN transmission|NN subject|NN discussion|NN 
+b|NN burgdorferi|NN tick|NN saliva|NN hypothesis|NN transmission|NN tick|NN gland|NN society|NN culture|NN 
+factor|NN spread|NN lyme_disease|DS human|NN 
+area|NN expansion|NN neighborhood|NN deforestation|NN area|NN border|NN contact|NN human|NN area|NN 
+expansion|NN reduction|NN predator|NN deer|NN mice|NN reservoir|NN lyme_disease|DS 
+consequence|NN contact|NN host|NN vector|NN likelihood|NN transmission|NN disease|NN researcher|NN link|NN warm|NN spread|NN disease|NN lyme_disease|DS controversy|NN article|NN lyme_disease|DS 
+term|NN lyme_disease|DS literature|NN authority|NN antibiotic|NN treatment|NN lyme_disease|DS study|NN people|NN lyme_disease|DS evidence|NN infection|NN b|NN people|NN lyme_disease|DS syndrome|NN symptom|NN fatigue|ST pain|ST complaint|NN person|NN lyme_disease|DS animal|NN 
+prevention|NN lyme_disease|DS step|NN dog|NN area|NN 
+prevention|NN education|NN number|NN measure|NN 
+dog|NN owner|NN area|NN routine|NN vaccination|NN dog|NN step|NN 
+measure|NN use|NN acaricide|NN pesticide|NN phenylpyrazole|NN target|NN adult|NN stage|NN tick|NN number|NN tick|NN environment|NN formulation|NN ingredient|NN variety|NN form|NN spray|NN powder|NN collar|NN solution|NN shampoo|NN 
+examination|NN dog|NN tick|NN area|NN measure|NN prevention|NN lyme_disease|DS 
+spot|NN head|NN neck|NN ear|NN 
+dog|NN prognosis|NN disease|NN category|NN kidney|NN damage|NN kidney|NN disease|NN dog|NN disease|NN disease|NN 
+majority|NN case|NN lyme_disease|DS dog|NN result|NN recovery|NN treatment|NN antibioticsverification|NN case|NN lyme_disease|DS human|NN dog|NN research|NN 
+institute|NN health|NN research|NN persistence|NN 

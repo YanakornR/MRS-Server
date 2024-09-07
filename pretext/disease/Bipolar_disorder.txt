@@ -1,0 +1,1323 @@
+bipolar_disorder|DS bipolar_disorder|DS bpd|NN bd|NN depression|ST disorder|NN period|NN of|NN depression|ST mood|NN 
+mood|NN mania|ST symptom|NN of|NN psychosis|DS 
+mania|ST behave|NN feel|NN 
+individual|NN decision|NN consequence|NN 
+need|NN sleep|NN phase|NN 
+period|NN of|NN depression|ST outlook|NN life|NN eye|NN contact|NN others|NN 
+risk|NN of|NN suicide|NN illness|NN percent|NN year|NN occur|NN in|NN percent|NN 
+health|NN issue|NN anxiety_disorder|DS substance|NN use|NN disorder|NN bipolar_disorder|DS 
+regard|NN cause|NN factor|NN role|NN 
+gene|NN effect|NN contribute|NN disorder|NN 
+risk|NN factor|NN history|NN of|NN childhood|NN abuse|NN stress|NN 
+of|NN risk|NN genetics|NN 
+condition|NN bipolar|NN i|NN disorder|NN episode|NN depressive|NN episode|NN bipolar|NN ii|NN disorder|NN episode|NN manic|NN episode|NN major|NN depressive|NN episode|NN 
+in|NN symptom|NN of|NN duration|NN condition|NN disorder|NN 
+symptom|NN drug|NN problem|NN 
+condition|NN attention_deficit_hyperactivity_disorder|DS personality|NN disorder|NN schizophrenia|DS substance|NN use|NN disorder|NN number|NN of|NN condition|NN 
+test|NN diagnosis|NN blood|NN test|NN image|NN problem|NN 
+bipolar_disorder|DS name|NN bipolar_disorder|DS bpad|NN bipolar|NN illness|NN depression|ST depressive|NN disorder|NN depressive|NN illness|NN depressive|NN psychosis|DS insanity|NN bipolar|NN disease|NN bipolar_disorder|DS episode|NN of|NN depression|ST mania|ST 
+psychiatry|NN specialty|NN symptom|NN period|NN of|NN depression|ST mood|NN complication|NN onset|NN type|NN year|NN bipolar|NN i|NN disorder|NN bipolar|NN ii|NN disorder|NN others|NN family|NN history|NN childhood|NN abuse|NN stress|NN attention_deficit_hyperactivity_disorder|DS personality|NN disorder|NN schizophrenia|DS substance|NN use|NN disorder|NN psychotherapy|NN medication|NN cause|NN factor|NN diagnosis|NN treatment|NN medication|NN frequency|NN lithium|NN antipsychotic|NN anticonvulsant|NN bipolar_disorder|DS medication|NN mood|NN stabilizer|NN antipsychotic|NN psychotherapy|NN 
+mood|NN stabilizer|NN mood|NN disturbance|NN lithium|NN anticonvulsant|NN valproate|NN carbamazepine|NN 
+treatment|NN in|NN hospital|NN person|NN risk|NN others|NN treatment|NN 
+problem|NN agitation|NN combativeness|NN antipsychotic|NN benzodiazepine|NN 
+in|NN period|NN of|NN mania|ST antidepressant|NN 
+antidepressant|NN period|NN of|NN depression|ST mood|NN stabilizer|NN 
+therapy|NN treatment|NN 
+treatment|NN 
+individual|NN problem|NN illness|NN 
+difficulty|NN quarter|NN of|NN time|NN average|NN 
+choice|NN side|NN effect|NN of|NN medication|NN risk|NN of|NN death|NN cause|NN coronary|NN heart|NN disease|NN in|NN people|NN bipolar|NN of|NN population|NN 
+bipolar_disorder|DS affect|NN 1|NN of|NN population|NN 
+in|NN state|NN point|NN in|NN life|NN rate|NN in|NN female|NN male|NN 
+common|NN age|NN symptom|NN 
+cost|NN of|NN disorder|NN state|NN in|NN 
+proportion|NN of|NN number|NN of|NN work|NN day|NN year|NN 
+people|NN bipolar_disorder|DS problem|NN stigma|NN 
+content|NN sign|NN symptom|NN episode|NN episode|NN depressive|NN episode|NN episode|NN feature|NN condition|NN mechanism|NN diagnosis|NN diagnosis|NN bipolar|NN spectrum|NN criterion|NN subtypes|NN prevention|NN management|NN medication|NN medicine|NN prognosis|NN recovery|NN recurrence|NN epidemiology|NN history|NN society|NN culture|NN creativity|NN population|NN child|NN see|NN footnote|NN link|NN sign|NN symptom|NN mania|ST depression|ST disruption|NN in|NN mood|NN psychomotor|NN activity|NN rhythm|NN cognition|NN 
+mania|ST vary|NN level|NN of|NN mood|NN disturbance|NN euphoria|ST mania|ST irritability|ST 
+core|NN symptom|NN of|NN mania|ST increase|NN in|NN energy|NN of|NN psychomotor|NN activity|NN 
+mania|ST grandiosity|NN speech|NN feel|NN of|NN think|NN behavior|NN impulsivity|NN 
+mania|ST hypomania|NN length|NN hypomania|NN day|NN mania|ST week|NN 
+mania|ST hypomania|NN function|NN 
+mechanism|NN manic|NN episode|NN depressive|NN episode|NN vice|NN versa|NN 
+bipolar|NN mood|NN shift|NN episode|NN mania|ST period|NN of|NN week|NN of|NN mood|NN euphoria|ST delirium|NN hypomania|NN mania|ST of|NN behavior|NN speak|NN in|NN manner|NN need|NN sleep|NN attention|NN span|NN think|NN activity|NN agitation|NN exhibition|NN of|NN behavior|NN hypersexuality|NN spend|NN 
+definition|NN episode|NN behavior|NN individual|NN ability|NN 
+episode|NN month|NN 
+individual|NN history|NN of|NN substance|NN abuse|NN year|NN form|NN of|NN 
+person|NN in|NN state|NN psychosis|DS break|NN reality|NN state|NN in|NN think|NN mood|NN 
+mission|NN grandiose|NN idea|NN 
+behavior|NN hospitalization|NN in|NN inpatient|NN hospital|NN 
+severity|NN of|NN manic|NN symptom|NN rat|NN scale|NN mania|ST rat|NN scale|NN question|NN reliability|NN of|NN scale|NN 
+color|NN lithograph|NN woman|NN mania|ST onset|NN of|NN manic|NN depressive|NN episode|NN sleep|NN disturbance|NN 
+mood|NN change|NN psychomotor|NN change|NN increase|NN in|NN anxiety|ST week|NN episode|NN develop|NN 
+feature|NN hypomanic|NN episode|NN hypomania|NN milder|NN form|NN of|NN mania|ST day|NN of|NN criterion|NN mania|ST decrease|NN in|NN individual|NN ability|NN delusion|ST hallucination|ST hospitalization|NN 
+function|NN episode|NN of|NN hypomania|NN defense|NN mechanism|NN depression|ST 
+episode|NN episode|NN 
+people|NN creativity|NN others|NN judgment|NN 
+require|NN experience|NN hypomania|NN show|NN person|NN people|NN hypomania|NN state|NN stress|NN of|NN experience|NN painful|NN 
+bipolar|NN people|NN hypomania|NN effect|NN of|NN action|NN 
+family|NN friend|NN mood|NN swing|NN individual|NN anything|NN 
+event|NN depressive|NN episode|NN mood|NN change|NN 
+symptom|NN week|NN month|NN 
+lithograph|NN mania|ST depressive|NN episode|NN bagg|NN photograph|NN welch|NN diamond|NN symptom|NN of|NN depressive|NN phase|NN of|NN bipolar_disorder|DS feel|NN of|NN sadness|NN irritability|ST anger|NN loss|NN of|NN interest|NN in|NN activity|NN guilt|NN hopelessness|NN change|NN in|NN weight|NN fatigue|ST problem|NN loathe|NN feel|NN of|NN worthlessness|NN think|NN of|NN death|NN suicide|NN 
+in|NN case|NN symptom|NN of|NN psychosis|DS condition|NN bipolar_disorder|DS feature|NN 
+symptom|NN delusion|ST hallucination|ST 
+major|NN depressive|NN episode|NN persist|NN week|NN in|NN suicide|NN 
+age|NN of|NN onset|NN episode|NN depressive|NN 
+diagnosis|NN of|NN bipolar_disorder|DS episode|NN individual|NN major|NN depression|ST antidepressant|NN 
+episode|NN in|NN bipolar_disorder|DS state|NN condition|NN symptom|NN of|NN mania|ST depression|ST 
+individual|NN state|NN manic|NN symptom|NN think|NN depressive|NN symptom|NN guilt|NN feel|NN suicidal|NN 
+state|NN suicidal|NN behavior|NN depressive|NN emotion|NN hopelessness|NN mood|NN swing|NN difficulty|NN control|NN 
+anxiety_disorder|DS comorbidity|NN in|NN bipolar|NN episode|NN in|NN bipolar|NN depression|ST mania|ST 
+substance|NN abuse|NN alcohol|NN trend|NN bipolar|NN symptom|NN consequence|NN of|NN substance|NN abuse|NN 
+feature|NN feature|NN phenomenon|NN disorder|NN part|NN of|NN criterion|NN 
+in|NN adult|NN condition|NN bipolar_disorder|DS change|NN in|NN process|NN ability|NN 
+capability|NN memory|NN 
+universe|NN phase|NN of|NN disorder|NN characteristic|NN manic|NN depressive|NN state|NN 
+bipolar_disorder|DS difficulty|NN in|NN relationship|NN 
+common|NN childhood|NN precursor|NN in|NN child|NN diagnosis|NN of|NN bipolar_disorder|DS mood|NN abnormality|NN major|NN depressive|NN episode|NN attention_deficit_hyperactivity_disorder|DS adhd|NN 
+comorbid|NN condition|NN diagnosis|NN of|NN bipolar_disorder|DS comorbid|NN condition|NN disorder|NN disorder|NN disorder|NN attention_deficit_hyperactivity_disorder|DS phobia|ST syndrome|NN disorder|NN disorder|NN 
+analysis|NN of|NN symptom|NN episode|NN discussion|NN friend|NN family|NN member|NN treatment|NN plan|NN comorbidities|NN 
+cause|NN of|NN bipolar_disorder|DS vary|NN individual|NN mechanism|NN disorder|NN 
+influence|NN percent|NN of|NN risk|NN of|NN disorder|NN component|NN 
+heritability|NN of|NN bipolar|NN spectrum|NN 
+twin|NN study|NN sample|NN size|NN contribution|NN influence|NN 
+bipolar_disorder|DS type|NN i|NN rate|NN twin|NN gene|NN bipolar_disorder|DS type|NN i|NN concordance|NN percent|NN percent|NN in|NN twin|NN 
+combination|NN of|NN bipolar|NN i|NN ii|NN cyclothymia|NN rate|NN of|NN percent|NN percent|NN twin|NN 
+rate|NN of|NN bipolar|NN ii|NN combination|NN bipolar|NN i|NN ii|NN percent|NN bipolar|NN ii|NN cyclothymia|NN heterogeneity|NN 
+cause|NN of|NN bipolar_disorder|DS bpd|NN major|NN depression|ST 
+concordance|NN bpd|NN upd|NN corcordance|NN rate|NN proband|NN twin|NN percent|NN in|NN twin|NN percent|NN in|NN twin|NN 
+concordance|NN twin|NN family|NN effect|NN ability|NN sample|NN size|NN 
+estrogen|NN in|NN woman|NN bipolar_disorder|DS 
+study|NN region|NN candidate|NN gene|NN bipolar_disorder|DS susceptibility|NN gene|NN mild|NN effect|NN 
+risk|NN of|NN bipolar_disorder|DS in|NN of|NN bipolar_disorder|DS population|NN risk|NN of|NN major_depressive_disorder|DS time|NN in|NN relative|NN of|NN bipolar_disorder|DS population|NN 
+linkage|NN mania|ST in|NN linkage|NN study|NN 
+association|NN study|NN gwas|NN locus|NN effect|NN idea|NN gene|NN bipolar_disorder|DS in|NN case|NN 
+polymorphism|NN in|NN bdnf|NN drd4|NN dao|NN tph1|NN bipolar_disorder|DS in|NN correction|NN multiple|NN test|NN 
+hand|NN polymorphism|NN in|NN tph2|NN bipolar_disorder|DS 
+find|NN in|NN association|NN study|NN multiple|NN study|NN approach|NN of|NN polymorphism|NN snp|NN in|NN pathway|NN 
+pathway|NN bipolar_disorder|DS study|NN hormone|NN crh|NN signal|NN signal|NN phospholipase|NN c|NN signal|NN glutamate|NN receptor|NN signal|NN hypertrophy|NN signal|NN wnt|NN signal|NN notch|NN signal|NN 1|NN signal|NN 
+of|NN gene|NN in|NN pathway|NN in|NN cortex|NN portion|NN of|NN brain|NN in|NN study|NN cacna1c|NN gng2|NN itpr2|NN 
+find|NN point|NN heterogeneity|NN gene|NN in|NN family|NN 
+robust|NN association|NN common|NN snp|NN variant|NN gene|NN cacna1c|NN odz4|NN 
+bipolar_disorder|DS expression|NN of|NN dna|NN repair|NN enzyme|NN level|NN of|NN dna|NN damage|NN 
+age|NN chance|NN of|NN bipolar_disorder|DS in|NN hypothesis|NN of|NN mutation|NN 
+factor|NN role|NN in|NN development|NN course|NN of|NN bipolar_disorder|DS variable|NN disposition|NN 
+life|NN event|NN relationship|NN onset|NN recurrence|NN of|NN bipolar|NN mood|NN episode|NN depression|ST 
+in|NN survey|NN percent|NN of|NN adult|NN bipolar_disorder|DS report|NN experience|NN in|NN childhood|NN onset|NN rate|NN of|NN suicide|NN attempt|NN disorder|NN stress|NN disorder|NN ptsd|NN 
+number|NN of|NN event|NN in|NN childhood|NN in|NN adult|NN diagnosis|NN of|NN bipolar|NN spectrum|NN disorder|NN event|NN environment|NN child|NN behavior|NN 
+bipolar_disorder|DS disorder|NN result|NN of|NN in|NN association|NN condition|NN injury|NN 
+condition|NN injury|NN stroke|DS traumatic_brain_injury|DS infection|NN multiple_sclerosis|DS porphyria|NN lobe|NN epilepsy|DS 
+mechanism|NN abnormality|NN in|NN structure|NN function|NN of|NN brain|NN circuit|NN bipolar_disorder|DS 
+of|NN mri|NN study|NN in|NN bipolar_disorder|DS report|NN volume|NN in|NN cingulate|NN cortex|NN acc|NN cortex|NN prefrontal|NN cortex|NN claustrum|NN 
+increase|NN in|NN volume|NN of|NN lateral|NN ventricle|NN globus|NN pallidus|NN cingulate|NN amygdala|NN in|NN rate|NN of|NN white|NN matter|NN hyperintensities|NN 
+mri|NN find|NN cortex|NN abnormal|NN modulation|NN of|NN region|NN amygdala|NN regulation|NN mood|NN symptom|NN 
+treatment|NN of|NN mania|ST increase|NN cortex|NN activity|NN control|NN hypoactivity|NN indicator|NN of|NN mood|NN state|NN 
+hand|NN pretreatment|NN hyperactivity|NN in|NN amygdala|NN relative|NN control|NN trait|NN marker|NN 
+manic|NN depressive|NN episode|NN versus|NN dorsal|NN dysfunction|NN in|NN cortex|NN 
+task|NN mania|ST cortex|NN activity|NN depression|ST metabolism|NN 
+consistent|NN disorder|NN lesions|NN mania|ST depression|ST in|NN dysfunction|NN depression|ST leave|NN vpfc|NN mania|ST vpfc|NN 
+abnormal|NN vpfc|NN activity|NN hyperactivity|NN euthymia|NN in|NN relative|NN of|NN bipolar|NN trait|NN feature|NN 
+brain|NN study|NN difference|NN in|NN volume|NN of|NN brain|NN region|NN patient|NN bipolar_disorder|DS control|NN bipolar|NN people|NN activity|NN in|NN gyrus|NN people|NN demonstrate|NN activity|NN in|NN cortex|NN difference|NN in|NN people|NN bipolar|NN depression|ST 
+people|NN bipolar|NN activation|NN of|NN leave|NN limbic|NN experience|NN generation|NN of|NN activation|NN of|NN right|NN structure|NN structure|NN regulation|NN of|NN emotion|NN 
+model|NN bipolar_disorder|DS hypersensitivity|NN of|NN reward|NN circuit|NN of|NN circuit|NN mania|ST hyposensitivity|NN of|NN circuit|NN depression|ST 
+kindle|NN hypothesis|NN people|NN bipolar_disorder|DS experience|NN event|NN stress|NN threshold|NN mood|NN change|NN become|NN episode|NN recur|NN 
+evidence|NN association|NN stress|NN dysfunction|NN of|NN axis|NN axis|NN overactivation|NN role|NN in|NN pathogenesis|NN of|NN bipolar_disorder|DS 
+of|NN brain|NN component|NN role|NN mitochondrion|NN sodium|NN atpase|NN pump|NN 
+rhythm|NN regulation|NN of|NN hormone|NN melatonin|NN altered|NN 
+dopamine|NN neurotransmitter|NN mood|NN cycle|NN transmission|NN phase|NN 
+hypothesis|NN state|NN increase|NN in|NN result|NN in|NN downregulation|NN of|NN system|NN element|NN receptor|NN sensitivity|NN of|NN receptor|NN 
+result|NN in|NN dopamine|NN transmission|NN characteristic|NN of|NN depressive|NN phase|NN 
+depressive|NN phase|NN regulation|NN cycle|NN 
+glutamate|NN cortex|NN phase|NN of|NN bipolar_disorder|DS return|NN level|NN phase|NN 
+increase|NN in|NN acid|NN gaba|NN disturbance|NN in|NN early|NN development|NN disturbance|NN of|NN cell|NN migration|NN formation|NN of|NN lamination|NN layer|NN of|NN brain|NN structure|NN cerebral|NN cortex|NN 
+medication|NN bipolar|NN effect|NN level|NN inhibition|NN of|NN camp|NN signal|NN protein|NN 
+consistent|NN level|NN of|NN gαi|NN gαs|NN in|NN brain|NN blood|NN sample|NN protein|NN pka|NN expression|NN sensitivity|NN activate|NN part|NN of|NN signal|NN cascade|NN downstream|NN detachment|NN of|NN subunit|NN g|NN protein|NN complex|NN 
+level|NN of|NN acid|NN byproduct|NN of|NN serotonin|NN in|NN fluid|NN of|NN person|NN bipolar_disorder|DS phase|NN 
+dopaminergic|NN activity|NN in|NN state|NN ability|NN of|NN dopamine|NN agonist|NN mania|ST in|NN people|NN bipolar_disorder|DS 
+sensitivity|NN of|NN α2|NN adrenergic|NN receptor|NN cell|NN count|NN in|NN locus|NN ceruleus|NN activity|NN in|NN people|NN 
+plasma|NN gaba|NN level|NN side|NN of|NN mood|NN spectrum|NN 
+review|NN difference|NN in|NN monoamine|NN level|NN abnormal|NN turnover|NN in|NN people|NN bipolar_disorder|DS 
+tyrosine|NN depletion|NN effect|NN of|NN methamphetamine|NN in|NN people|NN bipolar_disorder|DS symptom|NN of|NN mania|ST dopamine|NN in|NN mania|ST 
+vmat2|NN bind|NN in|NN study|NN of|NN people|NN bipolar|NN mania|ST 
+diagnosis|NN bipolar_disorder|DS adolescence|NN early|NN adulthood|NN life|NN cycle|NN 
+disorder|NN depression|ST delay|NN in|NN diagnosis|NN year|NN symptom|NN 
+diagnosis|NN of|NN bipolar_disorder|DS factor|NN account|NN experience|NN of|NN individual|NN abnormal|NN behavior|NN family|NN member|NN friend|NN sign|NN of|NN illness|NN cause|NN 
+in|NN diagnosis|NN rat|NN scale|NN mother|NN teacher|NN report|NN in|NN youth|NN bipolar_disorder|DS 
+assessment|NN basis|NN admission|NN facility|NN risk|NN others|NN 
+criterion|NN bipolar_disorder|DS association|NN apa|NN diagnostic|NN manual|NN of|NN disorder|NN fifth|NN edition|NN world|NN health|NN organization|NN classification|NN of|NN disease|NN health|NN problem|NN edition|NN 
+criterion|NN in|NN set|NN of|NN dsm|NN criterion|NN prevail|NN criterion|NN in|NN research|NN study|NN 
+in|NN specifier|NN predecessor|NN 
+semi|NN interview|NN kiddie|NN schedule|NN disorder|NN schizophrenia|DS ksads|NN interview|NN scid|NN confirmation|NN of|NN bipolar_disorder|DS 
+rat|NN scale|NN screen|NN evaluation|NN of|NN bipolar_disorder|DS exist|NN bipolar|NN spectrum|NN scale|NN mood|NN disorder|NN questionnaire|NN behavior|NN inventory|NN hypomania|NN checklist|NN 
+use|NN of|NN evaluation|NN scale|NN interview|NN recollection|NN of|NN symptom|NN 
+hand|NN instrument|NN bipolar_disorder|DS tend|NN sensitivity|NN 
+diagnosis|NN disorder|NN symptom|NN in|NN bipolar_disorder|DS 
+disorder|NN schizophrenia|DS major_depressive_disorder|DS attention_deficit_hyperactivity_disorder|DS adhd|NN personality|NN disorder|NN personality|NN disorder|NN 
+test|NN of|NN bipolar_disorder|DS blood|NN test|NN image|NN illness|NN presentation|NN of|NN bipolar_disorder|DS 
+disease|NN multiple_sclerosis|DS seizure|NN stroke|DS brain_tumor|DS wilson|NN disease|NN traumatic_brain_injury|DS huntington|NN disease|NN migraine|DS feature|NN of|NN bipolar_disorder|DS 
+eeg|NN disorder|NN epilepsy|DS mri|NN of|NN head|NN brain|NN lesions|NN 
+disorder|NN of|NN endocrine|NN system|NN hypothyroidism|NN hyperthyroidism|NN disease|NN in|NN differential|NN tissue|NN disease|NN systemic_lupus_erythematosus|DS 
+cause|NN of|NN mania|ST bipolar|NN mania|ST herpes|NN encephalitis|DS hiv|NN influenza|DS neurosyphilis|NN 
+deficiency|NN pellagra|NN deficiency|NN b12|NN deficiency|NN deficiency|NN korsakoff|NN syndrome|NN deficiency|NN mania|ST 
+review|NN of|NN medication|NN drug|NN use|NN cause|NN common|NN medication|NN symptom|NN antidepressant|NN prednisone|NN parkinson|NN disease|NN medication|NN thyroid|NN hormone|NN stimulant|NN cocaine|NN methamphetamine|NN antibiotic|NN 
+bipolar|NN spectrum|NN bipolar|NN spectrum|NN disorder|NN bipolar|NN i|NN disorder|NN bipolar|NN ii|NN disorder|NN disorder|NN case|NN subthreshold|NN symptom|NN impairment|NN distress|NN 
+disorder|NN major|NN depressive|NN episode|NN manic|NN episode|NN episode|NN feature|NN symptom|NN of|NN mood|NN state|NN 
+concept|NN of|NN bipolar|NN spectrum|NN of|NN kraepelin|NN concept|NN of|NN depressive|NN illness|NN 
+hypomania|NN depression|ST in|NN literature|NN 
+speculation|NN condition|NN frequency|NN in|NN population|NN function|NN of|NN individual|NN individual|NN dysregulation|NN 
+criterion|NN dsm|NN icd|NN bipolar_disorder|DS spectrum|NN of|NN disorder|NN continuum|NN 
+list|NN subtypes|NN emil|NN kraepelin|NN distinction|NN bipolar_disorder|DS schizophrenia|DS in|NN century|NN researcher|NN spectrum|NN of|NN type|NN of|NN bipolar_disorder|DS bipolar|NN i|NN disorder|NN episode|NN diagnosis|NN depressive|NN episode|NN common|NN in|NN majority|NN of|NN case|NN bipolar_disorder|DS i|NN diagnosis|NN 
+specifier|NN feature|NN presentation|NN course|NN of|NN disorder|NN 
+bipolar|NN ii|NN disorder|NN episode|NN episode|NN major|NN depressive|NN episode|NN 
+episode|NN extreme|NN of|NN mania|ST occupational|NN impairment|NN psychosis|DS bipolar|NN ii|NN episode|NN period|NN of|NN productivity|NN distress|NN depression|ST 
+cyclothymia|NN history|NN of|NN episode|NN period|NN of|NN depression|ST criterion|NN major|NN depressive|NN episode|NN 
+comparison|NN of|NN bipolar|NN i|NN bipolar|NN ii|NN relevant|NN specifier|NN peripartum|NN onset|NN cycle|NN subtype|NN 
+individual|NN symptom|NN distress|NN impairment|NN criterion|NN of|NN subtypes|NN bipolar_disorder|DS 
+bipolar_disorder|DS choose|NN explanation|NN criterion|NN hypomania|NN major|NN depressive|NN episode|NN 
+people|NN criterion|NN bipolar_disorder|DS experience|NN number|NN of|NN episode|NN year|NN month|NN 
+cycle|NN course|NN specifier|NN of|NN subtypes|NN 
+mood|NN disturbance|NN episode|NN span|NN in|NN proportion|NN of|NN individual|NN bipolar_disorder|DS 
+episode|NN remission|NN month|NN switch|NN in|NN mood|NN polarity|NN depressive|NN episode|NN episode|NN vice|NN versa|NN 
+definition|NN of|NN in|NN literature|NN dsm|NN of|NN dunner|NN fieve|NN major|NN depressive|NN manic|NN hypomanic|NN episode|NN period|NN 
+day|NN rapid|NN day|NN cycle|NN 
+literature|NN treatment|NN of|NN cycle|NN consensus|NN respect|NN management|NN 
+prevention|NN attempt|NN prevention|NN of|NN bipolar_disorder|DS stress|NN childhood|NN adversity|NN family|NN causal|NN agent|NN bipolar|NN individual|NN risk|NN course|NN of|NN illness|NN 
+debate|NN causal|NN relationship|NN usage|NN of|NN cannabis|NN bipolar_disorder|DS 
+management|NN number|NN of|NN technique|NN bipolar_disorder|DS 
+individual|NN pursue|NN recovery|NN 
+hospitalization|NN episode|NN in|NN bipolar|NN legislation|NN involuntary|NN commitment|NN 
+term|NN inpatient|NN stay|NN common|NN deinstitutionalization|NN 
+in|NN lieu|NN of|NN admission|NN support|NN service|NN center|NN visit|NN member|NN of|NN community|NN health|NN team|NN community|NN treatment|NN team|NN employment|NN support|NN group|NN outpatient|NN program|NN 
+program|NN 
+psychotherapy|NN core|NN symptom|NN episode|NN trigger|NN emotion|NN in|NN relationship|NN symptom|NN recurrence|NN factor|NN maintenance|NN of|NN remission|NN 
+therapy|NN therapy|NN psychoeducation|NN evidence|NN efficacy|NN in|NN regard|NN prevention|NN rhythm|NN therapy|NN therapy|NN in|NN regard|NN depressive|NN symptom|NN 
+study|NN bipolar|NN i|NN treatment|NN phase|NN challenge|NN 
+clinician|NN need|NN individual|NN mania|ST alliance|NN in|NN support|NN of|NN recovery|NN 
+medication|NN number|NN of|NN medication|NN bipolar_disorder|DS 
+medication|NN evidence|NN lithium|NN treatment|NN manic|NN episode|NN relapse|NN bipolar|NN depression|ST 
+lithium|NN risk|NN of|NN suicide|NN death|NN in|NN people|NN bipolar_disorder|DS 
+ketamine|NN common|NN anesthetic|NN in|NN surgery|NN in|NN bipolar|NN of|NN 
+lithium|NN bipolar_disorder|DS evidence|NN suicide|NN 
+mood|NN stabilizer|NN anticonvulsant|NN carbamazepine|NN lamotrigine|NN acid|NN mood|NN stabilizer|NN bipolar_disorder|DS 
+mood|NN stabilizer|NN mood|NN stabilization|NN ability|NN bipolar|NN depression|ST 
+lithium|NN mood|NN stabilization|NN 
+carbamazepine|NN episode|NN evidence|NN benefit|NN in|NN bipolar_disorder|DS symptom|NN picture|NN 
+valproate|NN 
+valproate|NN treatment|NN episode|NN 
+lamotrigine|NN efficacy|NN in|NN bipolar|NN depression|ST benefit|NN in|NN depression|ST 
+benefit|NN in|NN bipolar_disorder|DS relapse|NN concern|NN study|NN of|NN benefit|NN in|NN subtype|NN of|NN bipolar_disorder|DS 
+effectiveness|NN of|NN topiramate|NN 
+in|NN relapse|NN antipsychotic|NN medication|NN treatment|NN of|NN bipolar|NN manic|NN episode|NN anticonvulsant|NN purpose|NN 
+antipsychotic|NN bipolar|NN depression|ST refractory|NN treatment|NN mood|NN stabilizer|NN 
+olanzapine|NN in|NN relapse|NN evidence|NN evidence|NN lithium|NN 
+antidepressant|NN antidepressant|NN use|NN in|NN treatment|NN of|NN bipolar_disorder|DS of|NN benefit|NN mood|NN stabilizer|NN 
+medication|NN aripiprazole|NN antidepressant|NN effect|NN of|NN mood|NN stabilizer|NN lack|NN of|NN efficacy|NN of|NN antidepressant|NN in|NN bipolar_disorder|DS 
+course|NN of|NN benzodiazepine|NN in|NN addition|NN medication|NN mood|NN 
+therapy|NN form|NN of|NN treatment|NN mood|NN disturbance|NN in|NN bipolar_disorder|DS feature|NN 
+ect|NN use|NN in|NN woman|NN bipolar_disorder|DS 
+view|NN stimulant|NN in|NN bipolar_disorder|DS evidence|NN effect|NN 
+in|NN case|NN of|NN comorbid|NN adhd|NN bipolar|NN stimulant|NN condition|NN 
+medicine|NN study|NN fatty|NN acid|NN effect|NN depressive|NN symptom|NN symptom|NN 
+study|NN of|NN quality|NN evidence|NN conclusion|NN 
+prognosis|NN condition|NN period|NN of|NN recovery|NN in|NN recurrent|NN episode|NN of|NN relapse|NN bipolar_disorder|DS major|NN health|NN problem|NN worldwide|NN of|NN rate|NN of|NN disability|NN premature|NN mortality|NN 
+psychiatric|NN problem|NN rate|NN of|NN misdiagnosis|NN delay|NN in|NN treatment|NN intervention|NN prognosis|NN 
+diagnosis|NN remission|NN of|NN symptom|NN medication|NN symptom|NN time|NN 
+compliance|NN medication|NN of|NN factor|NN rate|NN severity|NN of|NN relapse|NN impact|NN prognosis|NN 
+type|NN of|NN medication|NN in|NN bd|NN side|NN effect|NN of|NN individual|NN bd|NN medication|NN reason|NN 
+of|NN type|NN of|NN disorder|NN cycle|NN episode|NN in|NN year|NN prognosis|NN rate|NN of|NN suicide|NN 
+individual|NN bipolar|NN family|NN history|NN of|NN bipolar_disorder|DS risk|NN episode|NN 
+early|NN onset|NN feature|NN outcome|NN subtypes|NN 
+early|NN recognition|NN intervention|NN prognosis|NN symptom|NN in|NN stage|NN treatment|NN 
+onset|NN adolescence|NN prognosis|NN gender|NN male|NN factor|NN level|NN of|NN depression|ST 
+woman|NN function|NN bipolar_disorder|DS parent|NN towards|NN suicide|NN attempt|NN 
+people|NN bipolar_disorder|DS decline|NN in|NN function|NN episode|NN degree|NN of|NN dysfunction|NN impairment|NN phase|NN impairment|NN period|NN of|NN remission|NN 
+result|NN of|NN people|NN continue|NN function|NN in|NN episode|NN mood|NN symptom|NN in|NN remission|NN 
+pattern|NN in|NN people|NN experience|NN degree|NN of|NN impairment|NN 
+deficit|NN course|NN of|NN illness|NN 
+degree|NN of|NN correlate|NN number|NN of|NN episode|NN hospitalization|NN presence|NN of|NN symptom|NN 
+early|NN intervention|NN progression|NN of|NN impairment|NN treatment|NN stage|NN distress|NN consequence|NN dysfunction|NN 
+goal|NN part|NN of|NN episode|NN symptom|NN of|NN mania|ST ability|NN goal|NN individual|NN occupational|NN function|NN 
+third|NN of|NN people|NN bd|NN year|NN hospitalization|NN mania|ST 
+depressive|NN symptom|NN episode|NN people|NN symptom|NN course|NN of|NN illness|NN unemployment|NN underemployment|NN 
+course|NN of|NN illness|NN duration|NN age|NN of|NN onset|NN number|NN of|NN hospitalization|NN presence|NN of|NN cycle|NN performance|NN predictor|NN of|NN employment|NN outcome|NN in|NN individual|NN bipolar_disorder|DS symptom|NN of|NN depression|ST year|NN of|NN education|NN 
+recovery|NN in|NN episode|NN recovery|NN recurrence|NN study|NN admission|NN mania|ST episode|NN case|NN percent|NN recovery|NN criterion|NN diagnosis|NN week|NN percent|NN year|NN 
+year|NN percent|NN recovery|NN symptom|NN percent|NN recovery|NN regain|NN of|NN occupational|NN status|NN 
+percent|NN episode|NN of|NN mania|ST depression|ST 2|NN year|NN of|NN recovery|NN percent|NN phase|NN recovery|NN 
+symptom|NN relapse|NN mania|ST people|NN bipolar_disorder|DS 
+intent|NN patient|NN strategy|NN symptom|NN result|NN 
+bipolar_disorder|DS suicidal_ideation|ST suicidal|NN attempt|NN 
+individual|NN bipolar_disorder|DS depressive|NN episode|NN prognosis|NN risk|NN of|NN suicide|NN 
+out|NN of|NN people|NN bipolar_disorder|DS attempt|NN suicide|NN lifetime|NN attempt|NN 
+rate|NN percent|NN time|NN of|NN population|NN 
+mortality|NN ratio|NN suicide|NN in|NN bipolar_disorder|DS 
+lifetime|NN risk|NN of|NN suicide|NN percent|NN in|NN bipolar_disorder|DS 
+epidemiology|NN bipolar_disorder|DS cause|NN of|NN disability|NN worldwide|NN prevalence|NN of|NN 1|NN percent|NN in|NN population|NN 
+reanalysis|NN of|NN data|NN catchment|NN area|NN survey|NN in|NN state|NN percent|NN of|NN population|NN experience|NN episode|NN diagnostic|NN threshold|NN bipolar|NN i|NN percent|NN episode|NN diagnostic|NN threshold|NN bipolar|NN ii|NN cyclothymia|NN 
+criterion|NN symptom|NN percent|NN of|NN population|NN total|NN of|NN percent|NN bipolar|NN spectrum|NN disorder|NN 
+analysis|NN of|NN data|NN comorbidity|NN survey|NN 1|NN percent|NN prevalence|NN criterion|NN bipolar|NN i|NN percent|NN bipolar|NN ii|NN percent|NN subthreshold|NN symptom|NN 
+burden|NN of|NN bipolar_disorder|DS world|NN life|NN year|NN inhabitant|NN in|NN 
+limitation|NN variation|NN in|NN find|NN 
+prevalence|NN study|NN of|NN bipolar_disorder|DS lay|NN interviewer|NN interview|NN scheme|NN response|NN item|NN interview|NN validity|NN 
+in|NN addition|NN diagnosis|NN estimate|NN of|NN prevalence|NN spectrum|NN approach|NN 
+consideration|NN concern|NN potential|NN underdiagnosis|NN overdiagnosis|NN 
+incidence|NN of|NN bipolar_disorder|DS in|NN men|NN woman|NN culture|NN group|NN 
+study|NN world|NN health|NN organization|NN prevalence|NN incidence|NN of|NN bipolar_disorder|DS world|NN 
+prevalence|NN in|NN asia|NN in|NN africa|NN europe|NN men|NN in|NN africa|NN europe|NN in|NN oceania|NN woman|NN 
+severity|NN globe|NN 
+life|NN year|NN rate|NN example|NN in|NN country|NN coverage|NN medication|NN 
+state|NN american|NN rate|NN counterpart|NN 
+in|NN burden|NN of|NN disease|NN study|NN case|NN total|NN of|NN case|NN 
+late|NN adolescence|NN early|NN adulthood|NN year|NN onset|NN of|NN bipolar_disorder|DS 
+study|NN in|NN percent|NN of|NN bipolar|NN case|NN onset|NN of|NN mania|ST patient|NN 
+human|NN experience|NN history|NN variation|NN in|NN mood|NN energy|NN level|NN part|NN of|NN history|NN 
+word|NN melancholia|NN word|NN depression|ST mania|ST in|NN greece|NN 
+word|NN melancholia|NN melas|NN μέλας|NN black|NN chole|NN χολή|NN bile|NN gall|NN indicative|NN of|NN term|NN origin|NN in|NN theory|NN 
+theory|NN mania|ST excess|NN of|NN yellow|NN bile|NN mixture|NN of|NN black|NN yellow|NN bile|NN 
+origin|NN of|NN mania|ST 
+etymology|NN roman|NN caelius|NN aurelianus|NN word|NN ania|NN anguish|NN manos|NN relax|NN of|NN mind|NN soul|NN 
+candidate|NN part|NN of|NN confusion|ST etymology|NN of|NN word|NN mania|ST usage|NN in|NN poetry|NN mythology|NN 
+psychiatrist|NN emil|NN kraepelin|NN depressive|NN illness|NN dementia|DS praecox|NN schizophrenia|DS in|NN late|NN century|NN in|NN early|NN psychiatrist|NN dominique|NN esquirol|NN lypemania|NN of|NN monomania|NN elaboration|NN depression|ST 
+basis|NN of|NN conceptualisation|NN of|NN bipolar|NN illness|NN back|NN in|NN falret|NN description|NN academy|NN paris|NN society|NN in|NN course|NN of|NN insanity|NN circulaire|NN pronunciation|NN la|NN fɔli|NN lecture|NN in|NN in|NN gazette|NN de|NN hôpitaux|NN hospital|NN gazette|NN 
+year|NN in|NN baillarger|NN nationale|NN illness|NN oscillation|NN mania|ST melancholia|NN à|NN double|NN forme|NN pronunciation|NN dubl|NN fɔʀm|NN madness|NN in|NN double|NN form|NN 
+baillarger|NN paper|NN double|NN forme|NN in|NN journal|NN annales|NN annals|NN in|NN 
+concept|NN psychiatrist|NN emil|NN kraepelin|NN kahlbaum|NN concept|NN of|NN cyclothymia|NN course|NN of|NN bipolar|NN patient|NN 
+term|NN depressive|NN psychosis|DS period|NN of|NN acute|NN illness|NN manic|NN depressive|NN interval|NN patient|NN 
+term|NN reaction|NN in|NN version|NN of|NN dsm|NN in|NN legacy|NN of|NN adolf|NN meyer|NN 
+depressive|NN disorder|NN bipolar_disorder|DS origin|NN in|NN karl|NN kleist|NN concept|NN of|NN bipolar|NN affective|NN disorder|NN karl|NN leonhard|NN in|NN bipolar_disorder|DS in|NN depression|ST 
+subtypes|NN condition|NN publication|NN of|NN 
+subtypes|NN bipolar|NN ii|NN cycle|NN work|NN david|NN dunner|NN gershon|NN goodwin|NN ronald|NN fieve|NN joseph|NN fleiss|NN 
+society|NN culture|NN problem|NN stigma|NN stereotype|NN prejudice|NN individual|NN diagnosis|NN of|NN bipolar_disorder|DS 
+kay|NN jamison|NN psychologist|NN professor|NN of|NN psychiatry|NN john|NN school|NN of|NN medicine|NN bipolar_disorder|DS in|NN memoir|NN mind|NN 
+in|NN autobiography|NN manicdotes|NN madness|NN in|NN method|NN joseph|NN struggle|NN dynamism|NN creation|NN of|NN advertise|NN agency|NN hook|NN advertise|NN despair|NN of|NN bipolar|NN illness|NN 
+work|NN character|NN trait|NN suggestive|NN of|NN diagnosis|NN subject|NN of|NN discussion|NN psychiatrist|NN film|NN expert|NN 
+example|NN jones|NN in|NN jones|NN swing|NN episode|NN depressive|NN phase|NN back|NN time|NN in|NN hospital|NN of|NN feature|NN of|NN syndrome|NN 
+in|NN mosquito|NN coast|NN fox|NN ford|NN feature|NN recklessness|NN grandiosity|NN activity|NN mood|NN lability|NN paranoia|ST 
+psychiatrist|NN character|NN in|NN miller|NN play|NN death|NN of|NN salesman|NN suffer|NN bipolar_disorder|DS term|NN condition|NN play|NN 
+singer|NN clooney|NN revelation|NN of|NN bipolar_disorder|DS early|NN celebrity|NN spokeswoman|NN illness|NN 
+tv|NN special|NN example|NN bbc|NN fry|NN life|NN of|NN depressive|NN mtv|NN life|NN bipolar|NN talk|NN show|NN radio|NN show|NN willingness|NN of|NN figure|NN bipolar_disorder|DS condition|NN awareness|NN 
+drama|NN cw|NN network|NN episode|NN character|NN silver|NN bipolar_disorder|DS 
+stacey|NN slater|NN character|NN bbc|NN soap|NN eastenders|NN disorder|NN 
+storyline|NN part|NN of|NN bbc|NN headroom|NN campaign|NN 
+channel|NN soap|NN brookside|NN story|NN bipolar_disorder|DS character|NN jimmy|NN corkhill|NN condition|NN 
+showtime|NN thriller|NN drama|NN homeland|NN protagonist|NN carrie|NN mathison|NN bipolar|NN school|NN day|NN 
+in|NN drama|NN black|NN box|NN in|NN character|NN neuroscientist|NN bipolar|NN 
+in|NN effort|NN stigma|NN bipolar_disorder|DS conductor|NN ronald|NN braunstein|NN orchestra|NN wife|NN caroline|NN whiddon|NN in|NN braunstein|NN bipolar_disorder|DS in|NN concert|NN orchestra|NN in|NN order|NN performance|NN environment|NN colleague|NN awareness|NN illness|NN 
+creativity|NN link|NN illness|NN success|NN creativity|NN in|NN account|NN socrates|NN younger|NN cesare|NN lombroso|NN 
+prominence|NN in|NN culture|NN link|NN creativity|NN bipolar|NN 
+area|NN of|NN study|NN confirmation|NN bias|NN 
+evidence|NN component|NN of|NN bipolar_disorder|DS overlap|NN component|NN of|NN creativity|NN 
+probands|NN of|NN people|NN bipolar_disorder|DS trait|NN bipolar_disorder|DS 
+study|NN of|NN frequency|NN of|NN bipolar_disorder|DS in|NN population|NN sample|NN bipolar_disorder|DS in|NN sample|NN 
+population|NN child|NN in|NN kraepelin|NN episode|NN puberty|NN 
+in|NN bipolar_disorder|DS in|NN child|NN in|NN half|NN of|NN century|NN 
+issue|NN follow|NN of|NN dsm|NN criterion|NN in|NN part|NN of|NN century|NN 
+dsm5|NN bipolar_disorder|DS in|NN child|NN refer|NN mood|NN dysregulation|NN disorder|NN 
+in|NN adult|NN course|NN of|NN bipolar_disorder|DS episode|NN of|NN depression|ST mania|ST euthymia|NN symptom|NN criterion|NN in|NN child|NN adolescent|NN mood|NN change|NN chronic|NN symptom|NN outburst|NN of|NN anger|NN irritability|ST psychosis|DS mania|ST in|NN adult|NN 
+early|NN bipolar_disorder|DS depression|ST mania|ST hypomania|NN 
+lithium|NN medication|NN fda|NN mania|ST in|NN child|NN norm|NN 
+bipolar_disorder|DS diagnosis|NN of|NN childhood|NN bipolar_disorder|DS discussion|NN symptom|NN of|NN bipolar_disorder|DS consequence|NN minor|NN 
+debate|NN bipolar_disorder|DS in|NN child|NN refer|NN disorder|NN adult|NN question|NN of|NN criterion|NN diagnosis|NN adult|NN child|NN 
+diagnosis|NN of|NN child|NN expert|NN criterion|NN 
+others|NN criterion|NN child|NN bipolar_disorder|DS problem|NN adhd|NN mood|NN cycle|NN 
+others|NN child|NN bipolar_disorder|DS irritability|ST 
+practice|NN parameter|NN of|NN aacap|NN strategy|NN 
+child|NN adolescent|NN bipolar_disorder|DS in|NN community|NN hospital|NN rate|NN of|NN percent|NN in|NN year|NN begin|NN of|NN century|NN in|NN clinic|NN percent|NN 
+study|NN criterion|NN 1|NN percent|NN of|NN youth|NN bipolar_disorder|DS 
+treatment|NN medication|NN psychotherapy|NN 
+drug|NN prescription|NN in|NN mood|NN stabilizer|NN antipsychotic|NN 
+lithium|NN compound|NN fda|NN child|NN 
+treatment|NN combine|NN disease|NN group|NN therapy|NN therapy|NN 
+chronic|NN medication|NN 
+research|NN direction|NN bipolar_disorder|DS in|NN child|NN treatment|NN knowledge|NN of|NN basis|NN of|NN disorder|NN criterion|NN 
+treatment|NN research|NN intervention|NN family|NN psychoeducation|NN skill|NN build|NN therapy|NN cbt|NN dbt|NN ipsrt|NN in|NN pharmocotherapy|NN 
+literature|NN research|NN effect|NN of|NN therapy|NN bipolar|NN spectrum|NN disorder|NN efficacy|NN of|NN therapy|NN 
+diagnosis|NN presentation|NN of|NN bipolar|NN 
+lack|NN of|NN knowledge|NN bipolar_disorder|DS in|NN late|NN life|NN 
+evidence|NN age|NN account|NN percentage|NN of|NN admission|NN bipolar|NN patient|NN symptom|NN age|NN of|NN mania|ST impairment|NN substance|NN abuse|NN common|NN in|NN group|NN degree|NN of|NN variation|NN in|NN presentation|NN course|NN instance|NN individual|NN mania|ST change|NN depressive|NN episode|NN bipolar_disorder|DS early|NN age|NN criterion|NN 
+evidence|NN mania|ST prevalence|NN of|NN episode|NN response|NN treatment|NN 
+similarity|NN difference|NN adult|NN 
+in|NN recognition|NN treatment|NN of|NN bipolar_disorder|DS presence|NN of|NN dementia|DS effect|NN of|NN medication|NN condition|NN 
+see|NN of|NN bipolar_disorder|DS cyclothymia|NN tristimania|NN diary|NN of|NN depression|ST reference|NN gautam|NN s|NN jain|NN gautam|NN m|NN gautam|NN jagawat|NN t|NN 2019|NN 
+practice|NN guideline|NN bipolar_disorder|DS bpad|NN in|NN child|NN adolescent|NN http|NN 
+journal|NN of|NN psychiatry|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+shorter|NN 
+dictionary|NN of|NN psychiatry|NN http|NN s|NN 
+york|NN oxford|NN university|NN press|NN 
+pp|NN 
+n|NN paice|NN ja|NN 
+textbook|NN of|NN nurse|NN 
+oxford|NN university|NN press|NN 
+isbn|NN 
+anderson|NN im|NN haddad|NN pm|NN scott|NN j|NN 
+bipolar_disorder|DS 
+bmj|NN research|NN ed|NN 
+e8508|NN 
+http|NN 
+pmid|NN http|NN 
+psychiatry|NN association|NN 
+manual|NN of|NN disorder|NN 
+arlington|NN publish|NN 
+pp|NN 
+schmitt|NN malchow|NN b|NN falkai|NN p|NN 
+impact|NN of|NN factor|NN in|NN disorder|NN http|NN 
+neurosci|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mcguffin|NN p|NN rijsdijk|NN f|NN m|NN sham|NN p|NN r|NN 
+heritability|NN of|NN bipolar_disorder|DS relationship|NN depression|ST 
+archive|NN of|NN psychiatry|NN 
+http|NN 1|NN 
+pmid|NN http|NN 
+e|NN ba|NN 
+bipolar_disorder|DS http|NN 
+review|NN of|NN psychology|NN 
+http|NN 
+pmid|NN http|NN 
+dsm|NN iv|NN criterion|NN episode|NN http|NN 
+http|NN july|NN 
+goodwin|NN guy|NN 
+bipolar_disorder|DS 
+medicine|NN 
+http|NN 
+charney|NN p|NN 
+genetics|NN of|NN schizophrenia|DS bipolar_disorder|DS http|NN 
+eurobiology|NN 
+in|NN charney|NN d|NN nestler|NN e|NN p|NN buxbaum|NN j|NN ed|NN 
+charney|NN nestler|NN neurobiology|NN of|NN illness|NN 
+york|NN oxford|NN university|NN press|NN 
+nimh|NN 
+bipolar_disorder|DS http|NN 
+institute|NN of|NN health|NN 
+http|NN july|NN 
+gm|NN haddad|NN pm|NN ferrier|NN in|NN aronson|NN jk|NN barnes|NN coghill|NN dr|NN s|NN geddes|NN h|NN hudson|NN s|NN hunt|NN n|NN jones|NN ic|NN h|NN miklowitz|NN dr|NN r|NN m|NN paton|NN c|NN bj|NN saunders|NN j|NN taylor|NN d|NN vieta|NN e|NN ah|NN 
+guideline|NN bipolar_disorder|DS edition|NN recommendation|NN association|NN psychopharmacology|NN http|NN c4922419|NN 
+journal|NN of|NN psychopharmacology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+medication|NN key|NN practice|NN patient|NN in|NN term|NN 
+strategy|NN treatment|NN medicine|NN mood|NN episode|NN 
+m|NN cheniaux|NN e|NN j|NN 
+efficacy|NN safety|NN of|NN therapy|NN in|NN treatment|NN of|NN bipolar_disorder|DS review|NN http|NN 
+journal|NN of|NN ect|NN 
+2|NN 
+http|NN b013e3181e6332e|NN 
+pmid|NN http|NN 
+grande|NN i|NN berk|NN m|NN birmaher|NN b|NN vieta|NN e|NN 
+bipolar_disorder|DS 
+lancet|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+diflorio|NN jones|NN i|NN 
+sex|NN 
+gender|NN difference|NN in|NN bipolar_disorder|DS 
+review|NN of|NN psychiatry|NN 
+p|NN 
+pmid|NN http|NN 
+hirschfeld|NN rm|NN 
+bipolar|NN comorbidity|NN 
+journal|NN of|NN care|NN 
+suppl|NN 
+pmid|NN http|NN 
+h|NN 
+mood|NN disorder|NN feature|NN 
+in|NN sadock|NN b|NN sadock|NN v|NN ruiz|NN p|NN ed|NN 
+kaplan|NN sadock|NN textbook|NN of|NN psychiatry|NN ed|NN 
+york|NN wolters|NN 
+salvadore|NN g|NN ja|NN r|NN henter|NN id|NN hk|NN zarate|NN 
+neurobiology|NN of|NN switch|NN process|NN in|NN bipolar_disorder|DS review|NN http|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+barnett|NN jh|NN smoller|NN jw|NN 
+genetics|NN of|NN bipolar_disorder|DS http|NN 
+neuroscience|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+tarr|NN gp|NN p|NN herbison|NN p|NN 
+efficacy|NN acceptability|NN of|NN mood|NN stabilizer|NN generation|NN monotherapy|NN review|NN 
+j|NN affect|NN disord|NN 
+http|NN 
+pmid|NN http|NN 
+beentjes|NN ta|NN pj|NN ie|NN 
+caregiver|NN burden|NN in|NN bipolar|NN hypomania|NN mania|ST review|NN 
+perspect|NN psychiatr|NN care|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN 
+characteristic|NN duration|NN of|NN mania|ST implication|NN continuation|NN treatment|NN 
+progress|NN in|NN neurology|NN psychiatry|NN 
+http|NN 
+post|NN rm|NN p|NN 
+bipolar_disorder|DS substance|NN misuse|NN implication|NN of|NN comorbidity|NN http|NN 
+br|NN j|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+knowles|NN s|NN rowse|NN g|NN 
+delusion|ST review|NN integration|NN of|NN cognitive|NN perspective|NN 
+clin|NN psychol|NN rev|NN 
+http|NN 
+pmid|NN http|NN 
+ta|NN 
+assessment|NN of|NN mood|NN guide|NN clinician|NN 
+journal|NN of|NN research|NN 
+http|NN 
+pmid|NN http|NN 
+mckenna|NN b|NN eyler|NN lt|NN 
+system|NN in|NN processing|NN in|NN bipolar_disorder|DS sleep|NN deprivation|NN review|NN of|NN neuroimaging|NN study|NN http|NN 
+clin|NN psychol|NN rev|NN 
+p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mansell|NN w|NN pedley|NN r|NN 
+ascent|NN mania|ST review|NN of|NN process|NN development|NN of|NN manic|NN symptom|NN 
+psychology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+bowins|NN b|NN 
+control|NN therapy|NN 
+j|NN psychother|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN ketter|NN ta|NN 
+link|NN bipolar_disorder|DS creativity|NN evidence|NN personality|NN temperament|NN study|NN 
+psychiatry|NN report|NN 
+http|NN 
+pmid|NN http|NN 
+bipolar_disorder|DS publication|NN 
+http|NN 
+institute|NN of|NN health|NN 
+april|NN 
+bipolar|NN ii|NN disorder|NN symptom|NN sign|NN http|NN 
+web|NN 
+http|NN december|NN december|NN 
+muneer|NN 
+treatment|NN of|NN depressive|NN phase|NN of|NN bipolar_disorder|DS review|NN 
+j|NN pak|NN assoc|NN 
+pmid|NN http|NN 
+association|NN 
+practice|NN guideline|NN treatment|NN of|NN patient|NN bipolar_disorder|DS edition|NN 
+practice|NN guideline|NN treatment|NN of|NN disorder|NN guideline|NN guideline|NN watch|NN 
+http|NN 
+cl|NN 
+strategy|NN misdiagnosis|NN of|NN bipolar|NN depression|ST 
+psychiatr|NN serv|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+muzina|NN dj|NN r|NN 
+bipolar_disorder|DS major_depressive_disorder|DS treatment|NN implication|NN 
+clin|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+ac|NN lafer|NN b|NN perugi|NN g|NN frye|NN ma|NN bauer|NN m|NN bahk|NN wm|NN scott|NN j|NN ha|NN k|NN t|NN 
+bipolar|NN state|NN society|NN bipolar_disorder|DS report|NN of|NN structure|NN course|NN of|NN illness|NN diagnosis|NN 
+psychiatry|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+gm|NN ka|NN 
+dysfunction|NN in|NN major|NN depression|ST bipolar_disorder|DS assessment|NN treatment|NN option|NN 
+psychiatry|NN neuroscience|NN review|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+cipriani|NN g|NN danti|NN s|NN carlesi|NN c|NN dm|NN di|NN fiorino|NN m|NN 
+bipolar_disorder|DS dysfunction|NN link|NN 
+journal|NN of|NN disease|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+goodwin|NN jamison|NN 
+reinhardt|NN mc|NN reinhardt|NN 
+attention|NN disorder|NN comorbidities|NN risk|NN situation|NN 
+jornal|NN pediatria|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+kerner|NN b|NN 
+genetics|NN of|NN bipolar_disorder|DS http|NN 
+clin|NN genet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pc|NN passos|NN rb|NN bevilaqua|NN mc|NN lópez|NN jr|NN ae|NN 
+bipolar_disorder|DS syndrome|NN disorder|NN comorbidity|NN review|NN 
+rev|NN bra|NN psiquiatr|NN 
+s|NN 
+pmid|NN http|NN 
+d|NN m|NN 
+comorbidity|NN in|NN bipolar_disorder|DS complexity|NN of|NN diagnosis|NN treatment|NN http|NN 
+time|NN 
+http|NN 
+aa|NN c|NN brennan|NN bp|NN shelton|NN rc|NN perlis|NN r|NN dv|NN 
+modulators|NN bipolar_disorder|DS paradigm|NN drug|NN development|NN 
+aust|NN z|NN j|NN psychiatry|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+j|NN torgersen|NN s|NN røysamb|NN e|NN s|NN skre|NN i|NN s|NN pa|NN 
+heritability|NN of|NN bipolar|NN spectrum|NN disorder|NN 
+unity|NN heterogeneity|NN 
+journal|NN of|NN disorder|NN 
+http|NN 
+pmid|NN http|NN 
+kieseppä|NN t|NN partonen|NN t|NN j|NN kaprio|NN j|NN j|NN 
+concordance|NN of|NN bipolar|NN i|NN disorder|NN in|NN sample|NN of|NN twin|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+aj|NN ja|NN b|NN rasgon|NN n|NN 
+nature|NN diagnosis|NN of|NN postpartum|NN disorder|NN 
+psychiatry|NN report|NN 
+s|NN 
+pmid|NN http|NN 
+meinhard|NN n|NN lv|NN m|NN 
+role|NN of|NN estrogen|NN in|NN bipolar_disorder|DS review|NN 
+journal|NN of|NN psychiatry|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+t|NN clayton|NN pj|NN g|NN 
+family|NN history|NN study|NN genetics|NN of|NN mania|ST http|NN 
+journal|NN of|NN psychiatry|NN 
+s|NN 
+pmid|NN http|NN 
+craddock|NN n|NN p|NN 
+genetics|NN of|NN bipolar_disorder|DS 
+lancet|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+f|NN mahon|NN pb|NN judy|NN j|NN pirooznia|NN m|NN jancic|NN d|NN taylor|NN j|NN jb|NN zandi|NN pp|NN 
+of|NN association|NN study|NN bipolar_disorder|DS http|NN 
+journal|NN of|NN genetics|NN 
+part|NN b|NN genetics|NN 
+http|NN 
+pmc|NN http|NN mc3582382|NN 
+pmid|NN http|NN 
+j|NN jia|NN m|NN d|NN qiu|NN h|NN j|NN zhang|NN j|NN pan|NN z|NN 
+gene|NN polymorphism|NN bipolar_disorder|DS 
+journal|NN of|NN genetics|NN 
+part|NN b|NN genetics|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+torkamani|NN topol|NN ej|NN schork|NN nj|NN 
+analysis|NN of|NN common|NN disease|NN association|NN http|NN 
+genomics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pedroso|NN i|NN rietschel|NN m|NN mm|NN cichon|NN s|NN mcguffin|NN p|NN barnes|NN mr|NN g|NN 
+common|NN variant|NN change|NN bipolar_disorder|DS in|NN brain|NN pathway|NN gene|NN http|NN 
+psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+nurnberger|NN ji|NN koller|NN dl|NN jung|NN j|NN hj|NN t|NN guella|NN i|NN vawter|NN mp|NN jr|NN 
+identification|NN of|NN pathway|NN bipolar_disorder|DS http|NN 
+jama|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+segurado|NN r|NN sd|NN levinson|NN df|NN cm|NN gill|NN m|NN ji|NN al|NN 
+of|NN schizophrenia|DS bipolar_disorder|DS part|NN iii|NN bipolar_disorder|DS http|NN 
+journal|NN of|NN human|NN genetics|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+raza|NN mu|NN tufan|NN t|NN wang|NN y|NN hill|NN c|NN zhu|NN 
+dna|NN damage|NN in|NN major|NN disease|NN http|NN 
+re|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+frans|NN s|NN lichtenstein|NN p|NN n|NN hultman|NN cm|NN 
+age|NN bipolar_disorder|DS 
+archive|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+serretti|NN mandelli|NN l|NN 
+genetics|NN of|NN bipolar_disorder|DS genome|NN region|NN gene|NN candidate|NN direction|NN 
+psychiatry|NN 
+http|NN 
+pmid|NN tps|NN 
+geddes|NN jr|NN miklowitz|NN dj|NN 
+treatment|NN of|NN bipolar_disorder|DS http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+brietzke|NN e|NN m|NN r|NN bucker|NN j|NN zugman|NN mansur|NN rb|NN ra|NN 
+impact|NN of|NN childhood|NN stress|NN psychopathology|NN 
+rev|NN bra|NN psiquiatr|NN 
+http|NN 
+pmid|NN http|NN 
+miklowitz|NN dj|NN chang|NN kd|NN 
+prevention|NN of|NN bipolar_disorder|DS in|NN child|NN assumption|NN foundation|NN http|NN 
+development|NN psychopathology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+murray|NN ed|NN buttner|NN price|NN bh|NN 
+depression|ST psychosis|DS in|NN practice|NN 
+in|NN neurology|NN in|NN practice|NN edition|NN 
+bradley|NN wg|NN daroff|NN rb|NN gm|NN j|NN ed|NN 
+butterworth|NN heinemann|NN 
+bora|NN e|NN yücel|NN m|NN c|NN 
+of|NN matter|NN abnormality|NN in|NN bipolar_disorder|DS 
+psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+kempton|NN mj|NN geddes|NN sc|NN grasby|NN pm|NN 
+analysis|NN database|NN of|NN study|NN in|NN bipolar_disorder|DS 
+archive|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+arnone|NN d|NN cavanagh|NN j|NN gerber|NN d|NN sm|NN kp|NN 
+resonance|NN study|NN in|NN bipolar_disorder|DS schizophrenia|DS analysis|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN arnone|NN d|NN job|NN d|NN farrow|NN tf|NN ac|NN scherk|NN h|NN o|NN chen|NN x|NN p|NN dickstein|NN dp|NN malhi|NN g|NN ha|NN th|NN ha|NN k|NN phillips|NN 
+matter|NN difference|NN in|NN bipolar_disorder|DS of|NN morphometry|NN study|NN 
+bipolar_disorder|DS 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+sm|NN adler|NN cm|NN j|NN altshuler|NN ll|NN blumberg|NN hp|NN chang|NN kd|NN delbello|NN mp|NN s|NN phillips|NN je|NN jd|NN 
+neuroanatomy|NN of|NN bipolar_disorder|DS consensus|NN model|NN http|NN 
+bipolar_disorder|DS 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+m|NN 
+brain|NN biomarkers|NN of|NN treatment|NN dysfunction|NN fmri|NN study|NN in|NN mania|ST http|NN 
+neuropsychopharmacology|NN 
+1|NN 
+tps|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+manji|NN hk|NN zarate|NN 
+neurobiology|NN of|NN bipolar_disorder|DS treatment|NN 
+berlin|NN springer|NN 
+pp|NN 
+chen|NN ch|NN j|NN br|NN c|NN et|NN 
+of|NN study|NN in|NN bipolar_disorder|DS 
+bipolar_disorder|DS 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+j|NN j|NN carde|NN s|NN glasbrenner|NN m|NN diener|NN c|NN leboyer|NN m|NN m|NN 
+marker|NN of|NN bipolar_disorder|DS evidence|NN analysis|NN 
+journal|NN of|NN disorder|NN 
+ttps|NN 
+pmid|NN http|NN 
+nusslock|NN r|NN cb|NN damme|NN k|NN 
+activation|NN marker|NN of|NN bipolar_disorder|DS assessment|NN treatment|NN implication|NN http|NN 
+behaviour|NN research|NN therapy|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bender|NN re|NN alloy|NN lb|NN 
+life|NN stress|NN kindle|NN in|NN bipolar_disorder|DS review|NN of|NN evidence|NN integration|NN theory|NN http|NN 
+clin|NN psychol|NN rev|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hj|NN son|NN gh|NN geum|NN d|NN 
+rhythm|NN hypothesis|NN of|NN feature|NN treatment|NN resistance|NN switch|NN in|NN bipolar_disorder|DS http|NN 
+psychiatry|NN investig|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+dallaspezia|NN s|NN benedetti|NN f|NN 
+melatonin|NN rhythm|NN clock|NN gene|NN in|NN bipolar_disorder|DS 
+curr|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+lahera|NN g|NN freund|NN j|NN 
+salience|NN dysregulation|NN of|NN dopaminergic|NN system|NN 
+rev|NN psquiatr|NN ment|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+berk|NN m|NN s|NN m|NN malhi|NN g|NN bourin|NN m|NN f|NN t|NN 
+dysregulation|NN syndrome|NN implication|NN hypothesis|NN of|NN bipolar_disorder|DS 
+acta|NN psychiatr|NN scand|NN suppl|NN 
+s434|NN 
+http|NN 
+pmid|NN http|NN 
+michael|NN n|NN p|NN m|NN v|NN heindel|NN w|NN pfleiderer|NN b|NN 
+acute|NN mania|ST level|NN prefrontal|NN cortex|NN 
+psychopharmacology|NN 
+http|NN 
+pmid|NN http|NN 
+benes|NN berretta|NN s|NN 
+interneurons|NN implication|NN schizophrenia|DS bipolar_disorder|DS 
+neuropsychopharmacology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+manji|NN hk|NN rh|NN 
+signal|NN insight|NN pathophysiology|NN of|NN bipolar_disorder|DS 
+psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+manji|NN husseini|NN k|NN zarate|NN ed|NN 
+neurobiology|NN of|NN bipolar_disorder|DS treatment|NN 
+berlin|NN springer|NN 
+pp|NN 
+isbn|NN 
+f|NN bn|NN zannatto|NN v|NN 
+physiopathology|NN of|NN bipolar_disorder|DS in|NN year|NN 
+brasileira|NN psiquiatria|NN 
+http|NN 
+pmid|NN http|NN 
+bern|NN g|NN cb|NN 
+neurobiology|NN of|NN bipolar_disorder|DS 
+journal|NN of|NN genetics|NN 
+part|NN c|NN seminar|NN in|NN genetics|NN 
+1|NN citeseerx|NN http|NN 
+http|NN 
+pmid|NN http|NN 
+manji|NN hk|NN ja|NN payne|NN jl|NN j|NN bp|NN viegas|NN j|NN zarate|NN 
+neurobiology|NN of|NN bipolar_disorder|DS http|NN 
+world|NN psychiatry|NN 
+2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+price|NN al|NN gr|NN 
+bipolar_disorder|DS review|NN http|NN 
+family|NN physician|NN 
+pmid|NN http|NN 
+http|NN march|NN 
+phillips|NN dj|NN 
+bipolar_disorder|DS diagnosis|NN challenge|NN direction|NN http|NN 
+lancet|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+youngstrom|NN ea|NN genzlinger|NN je|NN egerton|NN ga|NN van|NN meter|NN ar|NN 
+analysis|NN of|NN validity|NN of|NN caregiver|NN youth|NN rat|NN scale|NN bipolar_disorder|DS mother|NN mania|ST http|NN 
+archive|NN of|NN psychology|NN 
+1|NN 
+http|NN 
+perugi|NN g|NN ghaemi|NN sn|NN akiskal|NN h|NN 
+management|NN approach|NN bipolar|NN depression|ST bipolar|NN ii|NN comorbidities|NN 
+bipolar|NN psychopharmacotherapy|NN 
+patient|NN 
+pp|NN 
+http|NN 2|NN 
+carvalho|NN af|NN y|NN sale|NN jk|NN köhler|NN th|NN j|NN hyphantis|NN tn|NN mcintyre|NN r|NN vieta|NN e|NN al|NN 
+screen|NN bipolar|NN spectrum|NN disorder|NN of|NN accuracy|NN study|NN http|NN 
+journal|NN of|NN disorder|NN 
+http|NN 
+pmid|NN http|NN 
+picardi|NN 
+rat|NN scale|NN in|NN bipolar_disorder|DS 
+opinion|NN in|NN psychiatry|NN 
+1|NN 
+http|NN e328315a4d2|NN 
+pmid|NN http|NN 
+baldessarini|NN rj|NN gl|NN e|NN vázquez|NN gh|NN c|NN g|NN tondo|NN l|NN 
+transition|NN major|NN depression|ST bipolar_disorder|DS review|NN 
+j|NN affect|NN disord|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+sood|NN ab|NN weller|NN eb|NN weller|NN ra|NN 
+bipolar_disorder|DS attention_deficit_hyperactivity_disorder|DS common|NN disorder|NN guide|NN clinician|NN 
+psychiatry|NN report|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+magill|NN 
+boundary|NN personality|NN disorder|NN bipolar_disorder|DS concept|NN challenge|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+bassett|NN d|NN 
+borderline|NN personality|NN disorder|NN bipolar_disorder|DS 
+spectrum|NN spectre|NN 
+review|NN 
+zealand|NN journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+peet|NN m|NN peter|NN 
+mania|ST 
+drug|NN safety|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+ml|NN 
+bipolar|NN spectrum|NN practice|NN research|NN http|NN 
+medscape|NN 
+http|NN december|NN 
+beesdo|NN k|NN höfler|NN m|NN e|NN r|NN bauer|NN m|NN 
+mood|NN episode|NN mood|NN disorder|NN pattern|NN of|NN incidence|NN conversion|NN in|NN decade|NN of|NN life|NN http|NN 
+bipolar|NN disord|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+publish|NN harvard|NN health|NN 
+bipolar_disorder|DS http|NN 
+harvard|NN health|NN 
+2019|NN 
+durand|NN mark|NN 
+essential|NN of|NN abnormal|NN psychology|NN 
+place|NN of|NN publication|NN cengage|NN learn|NN 
+http|NN 
+renk|NN k|NN white|NN r|NN lauer|NN ba|NN m|NN puff|NN j|NN 
+bipolar_disorder|DS in|NN child|NN http|NN 
+psychiatry|NN j|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+van|NN meter|NN ar|NN youngstrom|NN ea|NN rl|NN 
+disorder|NN review|NN 
+clin|NN psychol|NN rev|NN 
+http|NN 
+pmid|NN http|NN 
+j|NN sellaro|NN r|NN 
+perspective|NN history|NN of|NN bipolar_disorder|DS 
+psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+bauer|NN m|NN beaulieu|NN s|NN dunner|NN dl|NN lafer|NN b|NN r|NN 
+cycle|NN bipolar_disorder|DS concept|NN 
+bipolar_disorder|DS 
+1|NN 2|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN geller|NN b|NN 
+definition|NN of|NN cycle|NN of|NN duration|NN in|NN bipolar_disorder|DS proposal|NN episode|NN cycle|NN 
+journal|NN of|NN child|NN psychopharmacology|NN 
+http|NN 
+pmid|NN http|NN 
+kn|NN kontis|NN d|NN gonda|NN x|NN ln|NN 
+review|NN of|NN evidence|NN treatment|NN of|NN bipolar_disorder|DS http|NN 
+bipolar|NN disord|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+miklowitz|NN dj|NN chang|NN kd|NN summer|NN 
+prevention|NN of|NN bipolar_disorder|DS in|NN child|NN assumption|NN foundation|NN http|NN 
+development|NN psychopathology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+khan|NN ma|NN akella|NN s|NN 
+bipolar_disorder|DS feature|NN case|NN report|NN http|NN 
+psychiatry|NN edgmont|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+becker|NN t|NN r|NN 
+service|NN people|NN illness|NN europe|NN knowledge|NN difference|NN in|NN provision|NN cost|NN outcome|NN of|NN health|NN care|NN 
+acta|NN psychiatrica|NN scandinavica|NN 
+http|NN 
+pmid|NN http|NN 
+mcgurk|NN sr|NN mueser|NN kt|NN k|NN wolfe|NN r|NN 
+train|NN employment|NN year|NN outcome|NN of|NN trial|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+et|NN goldstein|NN frank|NN 
+leahy|NN johnson|NN 
+basco|NN rush|NN 
+zaretsky|NN ae|NN rizvi|NN s|NN parikh|NN sv|NN 
+intervention|NN in|NN bipolar_disorder|DS 
+journal|NN of|NN psychiatry|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+haven|NN sn|NN 
+despair|NN bipolar_disorder|DS alliance|NN mood|NN stabilizer|NN 
+journal|NN of|NN psychotherapy|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+km|NN tracy|NN dk|NN 
+lithium|NN action|NN of|NN ion|NN http|NN 
+advance|NN in|NN psychopharmacology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cipriani|NN hawton|NN k|NN stockton|NN s|NN geddes|NN 
+lithium|NN in|NN prevention|NN of|NN suicide|NN in|NN mood|NN disorder|NN review|NN 
+bmj|NN 
+f3646|NN 
+http|NN 
+pmid|NN http|NN 
+tl|NN c|NN jochim|NN j|NN rendell|NN jm|NN diamond|NN pr|NN c|NN brett|NN d|NN amit|NN bh|NN mcshane|NN r|NN hamadi|NN l|NN hawton|NN k|NN 
+ketamine|NN glutamate|NN receptor|NN modulators|NN depression|ST in|NN bipolar_disorder|DS in|NN adult|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011611|NN 
+http|NN 
+pmid|NN http|NN 
+post|NN rm|NN 
+treatment|NN of|NN bipolar|NN depression|ST evolve|NN recommendation|NN 
+clinic|NN of|NN america|NN review|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+post|NN rm|NN ketter|NN ta|NN t|NN ballenger|NN jc|NN 
+year|NN of|NN experience|NN carbamazepine|NN in|NN treatment|NN of|NN bipolar|NN illness|NN principle|NN practice|NN 
+cns|NN drug|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rapoport|NN si|NN basselin|NN m|NN hw|NN rao|NN j|NN 
+bipolar_disorder|DS mechanism|NN of|NN action|NN of|NN mood|NN stabilizer|NN http|NN 
+brain|NN re|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+macritchie|NN k|NN geddes|NN j|NN haslam|NN d|NN m|NN goodwin|NN g|NN 
+valproate|NN mood|NN episode|NN in|NN bipolar_disorder|DS 
+in|NN reid|NN k|NN 
+cochrane|NN database|NN of|NN review|NN 
+pp|NN 
+cd004052|NN 
+http|NN 
+pmid|NN http|NN 
+help|NN geddes|NN jr|NN jr|NN gm|NN 
+lamotrigine|NN treatment|NN of|NN bipolar|NN depression|ST of|NN patient|NN data|NN trial|NN 
+journal|NN of|NN psychiatry|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+der|NN loo|NN ml|NN p|NN der|NN klein|NN ea|NN wa|NN 
+lamotrigine|NN in|NN treatment|NN of|NN bipolar_disorder|DS review|NN 
+tijdschrift|NN voor|NN psychiatrie|NN 
+2|NN 
+pmid|NN http|NN 
+vasudev|NN k|NN macritchie|NN k|NN geddes|NN s|NN 
+topiramate|NN episode|NN in|NN bipolar_disorder|DS 
+in|NN ah|NN 
+cochrane|NN database|NN of|NN review|NN 
+cochrane|NN database|NN of|NN review|NN 
+pp|NN 
+cd003384|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+cipriani|NN rendell|NN jm|NN geddes|NN j|NN 
+cipriani|NN ed|NN 
+olanzapine|NN in|NN treatment|NN bipolar_disorder|DS 
+cochrane|NN database|NN of|NN review|NN 1|NN cd004367|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+r|NN az|NN m|NN lohano|NN k|NN gao|NN y|NN 
+bipolar_disorder|DS update|NN 
+postgraduate|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+benzodiazepine|NN bipolar_disorder|DS http|NN zodiazepines|NN 
+http|NN 
+hegerl|NN u|NN c|NN regulation|NN in|NN disorder|NN 
+in|NN t|NN 
+system|NN neuroscience|NN in|NN depression|ST 
+science|NN 
+in|NN conclusion|NN stimulant|NN in|NN bipolar_disorder|DS case|NN report|NN effect|NN of|NN psychostimulants|NN beckmann|NN heinemann|NN garvey|NN hwang|NN zander|NN rhem|NN max|NN richards|NN hamdanallen|NN 
+in|NN study|NN bschor|NN improvement|NN of|NN manic|NN symptom|NN 2|NN h|NN intake|NN of|NN methylphenidate|NN in|NN patient|NN sign|NN of|NN regulation|NN 
+month|NN patient|NN effect|NN montgomery|NN p|NN richardson|NN aj|NN 
+montgomery|NN p|NN 
+fatty|NN acid|NN bipolar_disorder|DS 
+cochrane|NN database|NN of|NN review|NN 2|NN cd005169|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+evidence|NN evidence|NN of|NN nature|NN conclusion|NN 
+ciappolino|NN v|NN delvecchio|NN g|NN c|NN altamura|NN ac|NN brambilla|NN p|NN 
+role|NN of|NN fatty|NN acid|NN in|NN disorder|NN 
+journal|NN of|NN disorder|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+muneer|NN model|NN in|NN bipolar_disorder|DS review|NN of|NN literature|NN psychopharmacology|NN neuroscience|NN 2|NN http|NN http|NN http|NN jann|NN michael|NN diagnosis|NN treatment|NN of|NN bipolar_disorder|DS in|NN adult|NN review|NN of|NN evidence|NN treatment|NN health|NN drug|NN benefit|NN pmc|NN http|NN http|NN tsitsipa|NN e|NN kn|NN 1|NN 
+function|NN in|NN bipolar_disorder|DS review|NN of|NN data|NN http|NN 
+annals|NN of|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN pmc4666163|NN 
+pmid|NN http|NN 
+m|NN pawlak|NN j|NN p|NN łabędzka|NN m|NN m|NN zaremba|NN d|NN m|NN j|NN 
+factor|NN characteristic|NN symptomatology|NN of|NN bipolar_disorder|DS schizophrenia|DS 
+http|NN mc4945684|NN 
+psychiatr|NN q|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+kennedy|NN kp|NN kr|NN deyoung|NN cg|NN b|NN 
+genetics|NN of|NN bipolar_disorder|DS review|NN http|NN 
+journal|NN of|NN disorder|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+serafini|NN g|NN pompili|NN m|NN borgwardt|NN s|NN houenou|NN j|NN geoffroy|NN pa|NN jardri|NN r|NN girardi|NN p|NN m|NN 
+brain|NN change|NN in|NN bipolar|NN depressive|NN disorder|NN review|NN in|NN child|NN adolescent|NN 
+child|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+bortolato|NN b|NN miskowiak|NN kw|NN köhler|NN e|NN carvalho|NN af|NN 
+dysfunction|NN in|NN bipolar_disorder|DS schizophrenia|DS review|NN of|NN http|NN 
+disease|NN treatment|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+johnson|NN mania|ST dysregulation|NN in|NN goal|NN pursuit|NN review|NN psychology|NN review|NN 2|NN http|NN http|NN http|NN tse|NN s|NN chan|NN s|NN kl|NN yatham|NN ln|NN 
+of|NN predictor|NN of|NN employment|NN outcome|NN individual|NN bipolar_disorder|DS 
+bipolar|NN disord|NN 
+http|NN 
+pmid|NN http|NN 
+tohen|NN m|NN zarate|NN j|NN hm|NN sm|NN p|NN p|NN baldessarini|NN rj|NN 
+mania|ST study|NN prediction|NN of|NN recovery|NN recurrence|NN http|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+jackson|NN cavanagh|NN j|NN scott|NN j|NN 
+review|NN of|NN manic|NN depressive|NN prodrome|NN 
+journal|NN of|NN disorder|NN 
+http|NN 
+pmid|NN http|NN 
+d|NN g|NN 
+prodrome|NN strategy|NN intervention|NN in|NN bipolar_disorder|DS 
+psychology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+sadock|NN kaplan|NN sadock|NN 
+roger|NN mcintyre|NN md|NN soczynska|NN jakub|NN konarski|NN 
+bipolar_disorder|DS define|NN remission|NN treatment|NN http|NN ml|NN 
+time|NN vol|NN 
+xxiii|NN 
+p|NN 
+boland|NN em|NN alloy|NN lb|NN 
+sleep|NN disturbance|NN deficit|NN in|NN bipolar_disorder|DS examination|NN of|NN disorder|NN maintenance|NN impairment|NN http|NN 
+psychology|NN review|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+moreira|NN al|NN van|NN meter|NN genzlinger|NN j|NN youngstrom|NN ea|NN 
+review|NN of|NN study|NN of|NN adult|NN bipolar_disorder|DS 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+judd|NN ll|NN h|NN 
+prevalence|NN disability|NN of|NN bipolar|NN spectrum|NN disorder|NN in|NN population|NN of|NN database|NN account|NN case|NN 
+journal|NN of|NN disorder|NN 
+http|NN 
+pmid|NN http|NN 
+merikangas|NN kr|NN h|NN j|NN greenberg|NN pe|NN hirschfeld|NN rm|NN m|NN kessler|NN rc|NN 
+lifetime|NN prevalence|NN of|NN bipolar|NN spectrum|NN disorder|NN in|NN comorbidity|NN survey|NN replication|NN http|NN 
+archive|NN of|NN psychiatry|NN 
+p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+phelps|NN j|NN 
+bipolar_disorder|DS particle|NN 
+category|NN spectrum|NN dimension|NN 
+http|NN 
+time|NN 
+http|NN december|NN 
+ck|NN hill|NN kp|NN rd|NN 
+bipolar_disorder|DS alcohol|NN use|NN disorder|NN review|NN http|NN 
+psychiatry|NN report|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+aj|NN baxter|NN aj|NN whiteford|NN ha|NN 
+review|NN of|NN distribution|NN availability|NN of|NN prevalence|NN data|NN bipolar_disorder|DS 
+journal|NN of|NN disorder|NN 
+http|NN 
+pmid|NN http|NN 
+luis|NN 
+burden|NN of|NN bipolar_disorder|DS in|NN year|NN http|NN pdf|NN 
+world|NN health|NN organization|NN 
+s|NN pdf|NN december|NN 
+kurasaki|NN 
+health|NN assessment|NN theory|NN method|NN http|NN ge|NN 
+pp|NN 
+jam|NN d|NN 
+incidence|NN prevalence|NN year|NN disability|NN disease|NN injury|NN country|NN territory|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ka|NN burke|NN jd|NN da|NN d|NN boyd|NN jh|NN bz|NN 
+evidence|NN early|NN onset|NN of|NN disorder|NN risk|NN of|NN drug|NN abuse|NN in|NN adult|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 2|NN 
+goodwin|NN jamison|NN 
+monczor|NN m|NN 
+bipolar_disorder|DS in|NN 
+vertex|NN aire|NN argentina|NN 
+pmid|NN http|NN 
+liddell|NN scott|NN 
+j|NN 
+bipolarity|NN ancient|NN time|NN conception|NN birth|NN rebirth|NN 
+journal|NN of|NN disorder|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN 
+condition|NN drug|NN 
+http|NN 
+review|NN of|NN book|NN 
+http|NN march|NN 
+begin|NN of|NN century|NN esquirol|NN monomania|NN elaboration|NN of|NN depression|ST 
+anniversaire|NN circulaire|NN insanity|NN year|NN 
+bulletin|NN in|NN french|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+millon|NN 
+kraepelin|NN emil|NN insanity|NN paranoia|ST gazette|NN http|NN goodwin|NN jamison|NN chapter|NN 1|NN 
+bipolar|NN depression|ST neurobiology|NN diagnosis|NN pharmacotherapy|NN s|NN http|NN wayback|NN machine|NN carlos|NN zarate|NN husseini|NN manji|NN science|NN business|NN media|NN course|NN of|NN bipolar_disorder|DS http|NN http|NN wayback|NN machine|NN kate|NN saunders|NN guy|NN goodwin|NN advance|NN in|NN treatment|NN http|NN thomas|NN ban|NN http|NN david|NN http|NN thomas|NN wayback|NN machine|NN ancp|NN waikoloa|NN hawaii|NN 
+singer|NN http|NN 
+morselli|NN pl|NN 
+function|NN in|NN bipolar|NN patient|NN perception|NN perspective|NN of|NN patient|NN relative|NN advocacy|NN organization|NN review|NN 
+bipolar_disorder|DS 
+http|NN 
+pmid|NN http|NN 
+jamison|NN 
+joseph|NN 
+robinson|NN pp|NN 
+robinson|NN pp|NN 
+mckinley|NN jesse|NN 
+man|NN tension|NN in|NN head|NN http|NN 
+york|NN time|NN 
+http|NN 1|NN march|NN 
+life|NN of|NN depressive|NN http|NN 
+bbc|NN 
+http|NN p|NN 
+child|NN bipolar|NN foundation|NN website|NN http|NN 
+cabf|NN 
+august|NN 
+eastenders|NN stacey|NN bipolar_disorder|DS http|NN 
+press|NN office|NN 
+http|NN 
+tinniswood|NN rachael|NN 
+brookie|NN boy|NN soap|NN award|NN show|NN http|NN 
+liverpool|NN echo|NN 
+mirror|NN group|NN newspaper|NN 
+pilot|NN 
+homeland|NN 
+season|NN episode|NN october|NN 2|NN showtime|NN 
+black|NN http|NN 
+abc|NN 
+gram|NN david|NN 
+orchestra|NN music|NN s|NN 
+boston|NN globe|NN 
+april|NN march|NN 2019|NN 
+strasser|NN f|NN botti|NN d|NN 
+conductor|NN bipolar_disorder|DS music|NN illness|NN http|NN 
+news|NN 
+h|NN k|NN 
+debate|NN focus|NN bipolarity|NN temperament|NN creativity|NN leadership|NN 
+in|NN y|NN 
+bipolar_disorder|DS foundation|NN 
+wiley|NN 
+pp|NN 
+http|NN 
+mcclellan|NN j|NN r|NN rl|NN 
+work|NN group|NN quality|NN issue|NN 
+practice|NN parameter|NN assessment|NN treatment|NN of|NN child|NN adolescent|NN bipolar_disorder|DS 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+1|NN http|NN 
+pmid|NN http|NN 
+j|NN scott|NN p|NN 
+psychosis|DS in|NN childhood|NN 
+journal|NN of|NN psychology|NN psychiatry|NN 
+1|NN 
+http|NN 
+bipolar_disorder|DS http|NN iew|NN 
+march|NN june|NN 
+cosgrove|NN ve|NN d|NN chang|NN kd|NN 
+bipolar|NN depression|ST in|NN population|NN epidemiology|NN management|NN 
+paediatr|NN drug|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+ma|NN macpherson|NN ha|NN 
+treatment|NN child|NN bipolar|NN spectrum|NN disorder|NN http|NN 
+journal|NN of|NN child|NN psychology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+roy|NN ak|NN v|NN rg|NN 
+mood|NN dysregulation|NN disorder|NN approach|NN chronic|NN irritability|ST in|NN youth|NN http|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+vasudev|NN thomas|NN july|NN 
+disorder|NN in|NN in|NN name|NN 
+maturitas|NN 
+http|NN 
+pmid|NN http|NN 
+depp|NN jeste|NN dv|NN 
+bipolar_disorder|DS in|NN adult|NN review|NN 
+bipolar_disorder|DS 
+http|NN 
+pmid|NN http|NN 
+trinh|NN nh|NN forester|NN b|NN 
+bipolar_disorder|DS in|NN diagnosis|NN treatment|NN http|NN 
+time|NN 
+http|NN june|NN footnote|NN mr|NN rush|NN aj|NN 
+therapy|NN bipolar_disorder|DS ed|NN 
+york|NN guilford|NN press|NN 
+http|NN 
+mr|NN basso|NN mr|NN 
+focus|NN bipolar_disorder|DS research|NN 
+science|NN publisher|NN 
+joseph|NN c|NN 
+manicdotes|NN madness|NN in|NN method|NN 
+london|NN austin|NN macauley|NN 
+amazon|NN review|NN 
+goodwin|NN fk|NN jamison|NN kr|NN 
+illness|NN bipolar_disorder|DS depression|ST http|NN 
+oxford|NN university|NN press|NN 
+http|NN 
+2|NN jamison|NN kr|NN 
+mind|NN memoir|NN of|NN mood|NN madness|NN 
+york|NN knopf|NN 
+leahy|NN johnson|NN 
+treatment|NN of|NN bipolar_disorder|DS 
+york|NN guilford|NN press|NN 
+http|NN 
+liddell|NN hg|NN scott|NN r|NN 
+lexicon|NN 
+oxford|NN university|NN press|NN 
+millon|NN t|NN 
+disorder|NN of|NN personality|NN 
+york|NN john|NN wiley|NN son|NN 
+robinson|NN dj|NN 
+reel|NN psychiatry|NN movie|NN portrayal|NN of|NN condition|NN 
+port|NN huron|NN michigan|NN psychler|NN press|NN 
+sadock|NN bj|NN kaplan|NN hi|NN sadock|NN va|NN 
+kaplan|NN sadock|NN synopsis|NN of|NN psychiatry|NN psychiatry|NN http|NN 2|NN 2|NN 
+2|NN read|NN healy|NN d|NN 
+mania|ST history|NN of|NN bipolar_disorder|DS 
+baltimore|NN john|NN press|NN 
+mondimore|NN fm|NN 
+bipolar_disorder|DS guide|NN patient|NN family|NN 
+baltimore|NN john|NN press|NN 
+yatham|NN l|NN 
+bipolar_disorder|DS 
+york|NN wiley|NN 
+link|NN bipolar_disorder|DS http|NN curlie|NN bipolar_disorder|DS overview|NN http|NN institute|NN of|NN health|NN website|NN bipolar_disorder|DS guideline|NN http|NN 
+institute|NN health|NN excellence|NN society|NN bipolar_disorder|DS report|NN knowledge|NN in|NN bipolar_disorder|DS direction|NN http|NN 
+classification|NN f31|NN d|NN p|NN 1|NN http|NN http|NN x|NN http|NN http|NN x|NN http|NN http|NN x|NN http|NN omim|NN http|NN resource|NN http|NN mesh|NN d001714|NN http|NN i|NN diseasesdb|NN http|NN medlineplus|NN http|NN emedicine|NN http|NN ew|NN uk|NN bipolar_disorder|DS p|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

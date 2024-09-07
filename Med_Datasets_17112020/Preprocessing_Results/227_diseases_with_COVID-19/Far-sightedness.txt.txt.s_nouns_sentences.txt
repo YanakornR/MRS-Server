@@ -1,0 +1,44 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Far-sightedness|Disease
+goddess|NN god|NN Far-sightedness|Disease
+Far-sightedness|Disease name|NN Far-sightedness|Disease Far-sightedness|Disease Far-sightedness|Disease Far-sightedness|Disease Far-sightedness|Disease Far-sightedness|Disease top|NN len|NN correction|NN bottom|NN symptom|NN object|NN complication|NN dysfunction|NN dysfunction|NN cause|NN eyebal|NN len|NN cornea|NN risk|NN factor|NN family|NN history|NN method|NN eye|NN exam|NN diagnosis|NN optic|NN neuropathy|NN sine|NN treatment|NN contact|NN lense|NN surgery|NN frequency|NN
+Far-sightedness|Disease Far-sightedness|Disease condition|NN eye|NN light|NN retina|NN result|NN object|NN object|NN condition|NN object|NN distance|NN symptom|NN headache|NN eye|NN strain|NN people|NN dysfunction|NN dysfunction|NN
+cause|NN imperfection|NN eye|NN eyebal|NN len|NN cornea|NN risk|NN factor|NN family|NN history|NN condition|NN diabete|NN medication|NN tumor|NN eye|NN type|NN error|NN diagnosis|NN eye|NN exam|NN
+management|NN contact|NN lense|NN surgery|NN glass|NN contact|NN lense|NN field|NN vision|NN surgery|NN shape|NN cornea|NN Far-sightedness|Disease children|NN rate|NN year|NN year|NN age|NN people|NN content|NN
+sign|NN symptom|NN complication|NN cause|NN diagnosis|NN classification|NN treatment|NN lense|NN surgery|NN reference|NN link|NN
+sign|NN symptom|NN vision|NN vision|NN right|NN
+sign|NN symptom|NN Far-sightedness|Disease vision|NN headache|NN eye|NN strain|NN symptom|NN eye|NN strain|NN
+difficulty|NN eye|NN vision|NN difficulty|NN depth|NN perception|NN complication|NN
+Far-sightedness|Disease complication|NN
+age|NN Far-sightedness|Disease child|NN vision|NN result|NN cause|NN eye|NN cross-section|NN
+Far-sightedness|Disease result|NN image|NN retina|NN cause|NN
+power|NN eye|NN len|NN action|NN muscle|NN shape|NN cornea|NN
+Far-sightedness|Disease birth|NN children|NN eye|NN len|NN instance|NN Far-sightedness|Disease diabete|NN problem|NN blood|NN vessel|NN retina|NN diagnosis|NN section|NN
+diagnosis|NN Far-sightedness|Disease retinoscope|NN refractor-objective|NN refraction|NN trial|NN lense|NN trial|NN frame|NN phoropter|NN examination|NN
+test|NN structure|NN physiology|NN slit|NN lamp|NN test|NN cornea|NN chamber|NN iris|NN
+case|NN Far-sightedness|Disease birth|NN brain|NN difficulty|NN image|NN eye|NN
+image|NN brain|NN eye|NN
+child|NN Far-sightedness|Disease object|NN detail|NN
+brain|NN object|NN detail|NN chance|NN eye|NN
+result|NN brain|NN impulse|NN eye|NN
+contrast|NN child|NN myopia|NN object|NN eye|NN detail|NN age|NN detail|NN object|NN
+citation|NN classification|NN fold|NN Far-sightedness|Disease fluorescein|NN angiography|NN
+Far-sightedness|Disease appearance|NN severity|NN eye|NN status|NN
+category|NN Far-sightedness|Disease
+Far-sightedness|Disease diversity|NN
+Far-sightedness|Disease disease|NN trauma|NN development|NN
+Far-sightedness|Disease paralysis|NN eye|NN ability|NN
+category|NN severity|NN
+refractive|NN error|NN d|NP
+refractive|NN error|NN d|NP
+refractive|NN error|NN d|NP
+type|NN error|NN treatment|NN lense|NN
+form|NN treatment|NN Far-sightedness|Disease use|NN lense|NN contact|NN lense|NN Far-sightedness|Disease lense|NN surgery|NN
+treatment|NN Far-sightedness|Disease
+removal|NN amount|NN surface|NN
+laser|NN lasik|NN
+laser|NN eye|NN surgery|NN cornea|NN glass|NN contact|NN lense|NN
+len|NN exchange|NN
+variation|NN cataract|NN surgery|NN len|NN intraocular|NN len|NN difference|NN existence|NN anatomy|NN error|NN
+laser|NN keratomileusis|NN
+prk|NN alcohol|NN surface|NN
+term|NN Far-sightedness|Disease

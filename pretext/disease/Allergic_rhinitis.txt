@@ -1,0 +1,327 @@
+allergic_rhinitis|DS hay|NN fever|ST pollinosis|NN name|NN allergic_rhinitis|DS allergic_rhinitis|DS hay|NN fever|ST type|NN of|NN inflammation|NN in|NN nose|NN immune|NN system|NN in|NN air|NN 
+sign|NN symptom|NN runny|NN stuffy|NN eye|NN swelling|ST eye|NN 
+fluid|NN nose|NN 
+symptom|NN onset|NN minute|NN allergen|NN exposure|NN sleep|NN ability|NN 
+people|NN symptom|NN time|NN of|NN year|NN result|NN of|NN pollen|NN exposure|NN 
+people|NN allergic_rhinitis|DS asthma|DS allergic|NN conjunctivitis|NN atopic_dermatitis|DS 
+rhinitis|DS allergic|NN allergen|NN pollen|NN hair|NN dust|NN mold|NN 
+genetics|NN exposure|NN development|NN of|NN allergy|DS 
+farm|NN multiple|NN sibling|NN risk|NN 
+mechanism|NN antibody|NN allergen|NN in|NN release|NN of|NN chemical|NN histamine|NN mast|NN cell|NN 
+diagnosis|NN combination|NN of|NN symptom|NN skin|NN test|NN blood|NN test|NN test|NN 
+symptom|NN of|NN allergy|DS common_cold|DS week|NN fever|ST 
+antibody|NN 
+of|NN type|NN of|NN medication|NN animal|NN early|NN in|NN life|NN risk|NN of|NN allergy|DS 
+allergic|NN symptom|NN nasal|NN steroid|NN antihistamine|NN diphenhydramine|NN cromolyn|NN sodium|NN leukotriene|NN montelukast|NN 
+time|NN medication|NN symptom|NN effect|NN 
+people|NN amount|NN of|NN allergen|NN allergen|NN immunotherapy|NN ait|NN antagonist|NN receptor|NN onset|NN cause|NN factor|NN method|NN factor|NN asthma|DS allergic|NN conjunctivitis|NN atopic_dermatitis|DS symptom|NN skin|NN test|NN blood|NN test|NN antibody|NN common_cold|DS pollen|NN grain|NN variety|NN of|NN plant|NN time|NN mm|NN allergy|DS immunology|NN specialty|NN symptom|NN eye|NN swelling|ST eye|NN ear|NN year|NN diagnosis|NN prevention|NN exposure|NN animal|NN early|NN in|NN life|NN medication|NN nasal|NN steroid|NN antihistamine|NN diphenhydramine|NN cromolyn|NN sodium|NN receptor|NN antagonist|NN montelukast|NN allergen|NN immunotherapy|NN frequency|NN country|NN 
+allergen|NN injection|NN skin|NN tablet|NN tongue|NN 
+treatment|NN year|NN benefit|NN 
+allergic_rhinitis|DS type|NN of|NN allergy|DS number|NN of|NN people|NN 
+in|NN country|NN of|NN people|NN in|NN year|NN 
+common|NN age|NN of|NN twenty|NN forty|NN 
+description|NN century|NN physician|NN rhazes|NN 
+pollen|NN cause|NN in|NN charles|NN blackley|NN 
+in|NN mechanism|NN clemens|NN pirquet|NN 
+link|NN hay|NN early|NN incorrect|NN theory|NN symptom|NN smell|NN of|NN hay|NN 
+content|NN sign|NN symptom|NN diagnosis|NN classification|NN allergic_rhinitis|DS prevention|NN treatment|NN antihistamine|NN allergen|NN immunotherapy|NN medicine|NN epidemiology|NN history|NN reference|NN link|NN sign|NN symptom|NN of|NN allergic_rhinitis|DS rhinorrhea|ST nasal|NN secretion|NN fit|NN nasal|NN congestion|NN obstruction|NN 
+find|NN swelling|ST erythema|NN swelling|ST fold|NN venous|NN stasis|NN ring|NN eye|NN allergic|NN shiner|NN nasal|NN turbinate|NN middle|NN ear|NN effusion|NN 
+sign|NN in|NN order|NN irritation|NN flow|NN of|NN mucus|NN people|NN nose|NN palm|NN of|NN hand|NN in|NN motion|NN action|NN nasal|NN salute|NN allergic|NN salute|NN 
+inflammation|NN allergic_rhinitis|DS result|NN in|NN crease|NN nose|NN nostril|NN side|NN of|NN nose|NN time|NN nasal|NN crease|NN deformity|ST enough|NN 
+people|NN occur|NN 
+example|NN people|NN allergic|NN pollen|NN allergic|NN reaction|NN skin|NN of|NN apple|NN potato|NN 
+sign|NN of|NN occurrence|NN of|NN itchy|NN throat|NN apple|NN potato|NN apple|NN 
+of|NN similarity|NN in|NN protein|NN of|NN pollen|NN food|NN 
+substance|NN 
+hay|NN fever|ST fever|ST core|NN body|NN temperature|NN in|NN fever|ST 
+cause|NN allergic_rhinitis|DS pollen|NN of|NN plant|NN hay|NN fever|ST season|NN 
+allergic_rhinitis|DS year|NN 
+pollen|NN fever|ST vary|NN individual|NN region|NN region|NN in|NN pollen|NN of|NN plant|NN cause|NN 
+pollen|NN of|NN plant|NN risk|NN 
+example|NN of|NN plant|NN fever|ST tree|NN pine|NN pinus|NN birch|NN betula|NN alder|NN alnus|NN cedar|NN cedrus|NN corylus|NN hornbeam|NN carpinus|NN horse|NN chestnut|NN aesculus|NN salix|NN populus|NN plane|NN platanus|NN tilia|NN olea|NN 
+in|NN latitude|NN birch|NN common|NN tree|NN pollen|NN of|NN people|NN fever|ST pollen|NN grain|NN 
+major|NN antigen|NN in|NN protein|NN pollen|NN in|NN region|NN 
+hay|NN fever|ST in|NN japan|NN sugi|NN japonica|NN hinoki|NN obtusa|NN tree|NN pollen|NN 
+allergy|DS tree|NN ash|NN maple|NN yellow|NN poplar|NN dogwood|NN magnolia|NN cherry|NN fir|NN spruce|NN plum|NN 
+grass|NN family|NN poaceae|NN ryegrass|NN sp|NN 
+timothy|NN pratense|NN 
+of|NN people|NN fever|ST allergic|NN pollen|NN 
+weed|NN ragweed|NN ambrosia|NN plantain|NN plantago|NN mugwort|NN vulgaris|NN hen|NN chenopodium|NN rumex|NN allergic_rhinitis|DS allergy|DS of|NN peru|NN in|NN fragrance|NN product|NN 
+factor|NN allergic_rhinitis|DS eczema|NN atopic_dermatitis|DS asthma|DS 
+condition|NN atopic|NN triad|NN 
+exposure|NN air|NN pollution|NN tobacco|NN smoke|NN individual|NN chance|NN of|NN allergy|DS 
+diagnosis|NN allergy|DS specific|NN individual|NN 
+skin|NN test|NN common|NN method|NN of|NN allergy|DS test|NN 
+test|NN substance|NN rhinitis|DS scratch|NN test|NN 
+allergen|NN eyelid|NN mean|NN of|NN allergy|DS 
+test|NN physician|NN 
+in|NN individual|NN skin|NN test|NN doctor|NN rast|NN blood|NN test|NN in|NN allergen|NN sensitivity|NN 
+peripheral|NN eosinophilia|NN in|NN leukocyte|NN count|NN 
+allergy|DS test|NN 
+time|NN test|NN result|NN allergen|NN symptom|NN allergen|NN individual|NN symptom|NN 
+allergy|DS test|NN skin|NN prick|NN test|NN in|NN people|NN symptom|NN allergen|NN 
+person|NN blood|NN test|NN allergy|DS allergic_rhinitis|DS allergy|DS in|NN nose|NN 
+allergic_rhinitis|DS 
+test|NN allergic_rhinitis|DS 
+patch|NN test|NN classification|NN allergic_rhinitis|DS episodic|NN 
+allergic_rhinitis|DS in|NN season|NN 
+year|NN of|NN age|NN 
+allergic_rhinitis|DS year|NN 
+type|NN of|NN allergic_rhinitis|DS in|NN child|NN 
+allergic_rhinitis|DS intermittent|NN persistent|NN persistent|NN 
+intermittent|NN symptom|NN day|NN week|NN week|NN 
+persistent|NN symptom|NN week|NN 
+symptom|NN sleep|NN impairment|NN of|NN activity|NN impairment|NN of|NN work|NN school|NN symptom|NN 
+symptom|NN in|NN sleep|NN disturbance|NN impairment|NN of|NN activity|NN impairment|NN of|NN school|NN work|NN 
+allergic_rhinitis|DS allergic_rhinitis|DS allergic|NN reaction|NN in|NN nose|NN allergen|NN systemic|NN allergy|DS 
+blood|NN test|NN allergy|DS antibody|NN in|NN nose|NN allergen|NN 
+skin|NN test|NN 
+symptom|NN of|NN allergic_rhinitis|DS symptom|NN of|NN allergic_rhinitis|DS symptom|NN in|NN eye|NN 
+allergic_rhinitis|DS people|NN allergic_rhinitis|DS 
+symptom|NN of|NN allergic_rhinitis|DS 
+allergic_rhinitis|DS conjunctivitis|NN asthma|DS 
+in|NN study|NN of|NN people|NN rhinitis|DS allergic_rhinitis|DS 
+in|NN study|NN of|NN people|NN rhinitis|DS allergic_rhinitis|DS 
+nasal|NN spray|NN antihistamine|NN allergic_rhinitis|DS 
+of|NN allergenic|NN rhinitis|DS in|NN europe|NN in|NN state|NN nasal|NN provocation|NN condition|NN 
+prevention|NN prevention|NN allergen|NN individual|NN symptom|NN 
+method|NN pet|NN carpet|NN furniture|NN in|NN home|NN home|NN dry|NN 
+cover|NN household|NN item|NN pillow|NN mattress|NN in|NN mite|NN allergy|DS 
+study|NN farm|NN brother|NN sister|NN individual|NN risk|NN allergic_rhinitis|DS 
+treatment|NN goal|NN of|NN rhinitis|DS treatment|NN symptom|NN inflammation|NN of|NN tissue|NN 
+measure|NN allergen|NN 
+intranasal|NN corticosteroid|NN treatment|NN persistent|NN symptom|NN option|NN 
+line|NN therapy|NN antihistamine|NN decongestant|NN cromolyn|NN receptor|NN antagonist|NN nasal|NN irrigation|NN 
+antihistamine|NN mouth|NN use|NN intermittent|NN symptom|NN 
+cover|NN air|NN filter|NN food|NN in|NN childhood|NN evidence|NN effectiveness|NN 
+antihistamine|NN drug|NN symptom|NN sneeze|NN rhinorrhea|ST itch|ST conjunctivitis|NN 
+medication|NN exposure|NN allergic_rhinitis|DS 
+in|NN case|NN of|NN nasal|NN antihistamine|NN antihistamine|NN nasal|NN spray|NN relief|NN symptom|NN minute|NN approach|NN 
+evidence|NN of|NN efficacy|NN therapy|NN nasal|NN steroid|NN in|NN management|NN of|NN intermittent|NN allergic_rhinitis|DS in|NN child|NN effect|NN cost|NN 
+antihistamine|NN azelastine|NN in|NN eye|NN drop|NN form|NN ketotifen|NN conjunctivitis|NN intranasal|NN form|NN rhinorrhea|ST nasal|NN pruritus|NN 
+antihistamine|NN drug|NN drowsiness|NN in|NN case|NN of|NN tablet|NN 
+antihistamine|NN drug|NN diphenhydramine|NN cause|NN drowsiness|NN antihistamine|NN cetirizine|NN loratadine|NN 
+pseudoephedrine|NN vasomotor|NN rhinitis|DS 
+nasal|NN congestion|NN antihistamine|NN 
+in|NN state|NN decongestant|NN pseudoephedrine|NN pharmacy|NN counter|NN in|NN effort|NN manufacture|NN of|NN methamphetamine|NN 
+steroid|NN intranasal|NN corticosteroid|NN symptom|NN sneeze|NN rhinorrhea|ST itch|ST nasal|NN congestion|NN 
+nasal|NN spray|NN antihistamine|NN 
+day|NN week|NN effect|NN time|NN 
+in|NN study|NN efficacy|NN of|NN mometasone|NN furoate|NN nasal|NN spray|NN tablet|NN treatment|NN of|NN people|NN allergic_rhinitis|DS effect|NN nasal|NN symptom|NN in|NN people|NN 
+systemic|NN steroid|NN prednisone|NN tablet|NN triamcinolone|NN acetonide|NN glucocorticoid|NN betamethasone|NN injection|NN nasal|NN inflammation|NN use|NN duration|NN of|NN effect|NN of|NN therapy|NN 
+measure|NN line|NN decongestant|NN cromolyn|NN receptor|NN antagonist|NN therapy|NN nasal|NN irrigation|NN 
+decongestant|NN in|NN symptom|NN nasal|NN congestion|NN period|NN use|NN rebound|NN nasal|NN congestion|NN rhinitis|DS medicamentosa|NN 
+symptom|NN corticosteroid|NN oxymetazoline|NN nasal|NN spray|NN risk|NN of|NN rhinitis|DS medicamentosa|NN 
+nasal|NN irrigation|NN practice|NN salt|NN water|NN nostril|NN benefit|NN in|NN adult|NN child|NN in|NN symptom|NN of|NN allergic_rhinitis|DS effect|NN 
+allergen|NN immunotherapy|NN allergen|NN immunotherapy|NN ait|NN desensitization|NN treatment|NN do|NN of|NN allergen|NN body|NN substance|NN house|NN dust|NN mite|NN tolerance|NN 
+allergen|NN immunotherapy|NN treatment|NN disease|NN mechanism|NN 
+immunotherapy|NN tablet|NN drop|NN injection|NN skin|NN 
+immunotherapy|NN common|NN form|NN body|NN of|NN evidence|NN effectiveness|NN 
+medicine|NN form|NN of|NN medicine|NN allergic_rhinitis|DS 
+efficacy|NN of|NN treatment|NN acupuncture|NN homeopathy|NN evidence|NN 
+evidence|NN show|NN acupuncture|NN rhinitis|DS sphenopalatine|NN ganglion|NN acupoint|NN trial|NN 
+quality|NN of|NN evidence|NN medicine|NN academy|NN of|NN allergy|DS asthma|DS immunology|NN 
+epidemiology|NN allergic_rhinitis|DS type|NN of|NN allergy|DS number|NN of|NN people|NN 
+in|NN country|NN percent|NN of|NN people|NN in|NN year|NN 
+common|NN age|NN of|NN twenty|NN forty|NN 
+history|NN description|NN century|NN physician|NN rhazes|NN 
+pollen|NN cause|NN in|NN charles|NN blackley|NN 
+in|NN mechanism|NN clemens|NN pirquet|NN 
+link|NN hay|NN early|NN incorrect|NN theory|NN symptom|NN smell|NN of|NN hay|NN 
+reference|NN 1|NN 
+allergy|DS symptom|NN http|NN 
+niaid|NN 
+june|NN june|NN 
+wheatley|NN lm|NN togias|NN 
+practice|NN 
+allergic_rhinitis|DS http|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cause|NN of|NN allergy|DS http|NN 
+niaid|NN 
+june|NN june|NN 
+allergy|DS diagnosis|NN http|NN 
+niaid|NN 
+june|NN june|NN 
+allergy|DS treatment|NN http|NN 
+niaid|NN 
+june|NN june|NN 
+immunotherapy|NN allergy|DS http|NN 
+niaid|NN 
+june|NN june|NN 
+dykewicz|NN m|NN hamilos|NN dl|NN 
+rhinitis|DS sinusitis|DS 
+journal|NN of|NN allergy|DS immunology|NN 
+2|NN 2|NN 
+http|NN 
+pmid|NN http|NN 
+covar|NN ronina|NN 
+allergic|NN disorder|NN 
+diagnosis|NN treatment|NN pediatrics|NN ed|NN 
+ny|NN 
+pp|NN 
+chapter|NN 
+fireman|NN philip|NN 
+otolaryngology|NN vol|NN 2|NN http|NN 
+philadelphia|NN saunders|NN 
+isbn|NN 
+colgan|NN richard|NN 
+advice|NN physician|NN art|NN of|NN medicine|NN http|NN 
+york|NN springer|NN 
+isbn|NN http|NN 
+justin|NN parkinson|NN 1|NN 
+john|NN bostock|NN man|NN hay|NN fever|ST s|NN 
+news|NN magazine|NN 
+http|NN july|NN june|NN 
+hall|NN marshall|NN 
+hall|NN disease|NN of|NN respiratory|NN system|NN iii|NN 
+hay|NN asthma|DS http|NN 
+lancet|NN 
+http|NN 
+respect|NN cause|NN of|NN disease|NN attention|NN of|NN public|NN subject|NN idea|NN effluvium|NN hay|NN hence|NN name|NN of|NN hay|NN fever|ST 
+effluvium|NN hay|NN connection|NN disease|NN 
+history|NN of|NN allergy|DS http|NN 
+karger|NN publisher|NN 
+http|NN 
+dk|NN m|NN 1|NN december|NN 
+treatment|NN of|NN allergic_rhinitis|DS http|NN 
+physician|NN 
+valet|NN r|NN jm|NN 
+allergic_rhinitis|DS update|NN diagnosis|NN http|NN 
+consultant|NN 
+http|NN 1|NN 
+pray|NN 
+nonprescription|NN product|NN therapeutic|NN 
+lippincott|NN wilkins|NN 
+g|NN bachórska|NN j|NN 
+food|NN allergy|DS in|NN child|NN pollinosis|NN in|NN sea|NN coast|NN region|NN 
+pol|NN merkur|NN lekarski|NN 
+pmid|NN http|NN 
+yamamoto|NN t|NN asakura|NN k|NN shirasaki|NN h|NN himi|NN t|NN ogasawara|NN h|NN s|NN 
+relationship|NN pollen|NN allergy|DS allergy|DS syndrome|NN 
+jibiinkoka|NN gakkai|NN kaiho|NN 
+http|NN 
+pmid|NN http|NN 
+malandain|NN h|NN 
+allergy|DS food|NN pollen|NN 
+allerg|NN immunol|NN paris|NN 
+pmid|NN http|NN 
+allergy|DS tree|NN http|NN 
+http|NN tp|NN 
+brook|NN 
+telegraph|NN guide|NN allergy|DS http|NN nepage|NN 
+isbn|NN 
+time|NN journal|NN 
+medicine|NN http|NN book|NN 
+http|NN 
+george|NN clinton|NN nicholas|NN domonkos|NN 
+disease|NN of|NN skin|NN practitioner|NN student|NN http|NN 
+http|NN 
+cahill|NN katherine|NN 
+urticaria|ST angioedema|NN allergic_rhinitis|DS 
+principle|NN of|NN medicine|NN ed|NN 
+ny|NN 
+pp|NN 
+chapter|NN 
+academy|NN of|NN allergy|DS asthma|DS immunology|NN http|NN 
+allergy|DS test|NN http|NN 
+http|NN 
+rondón|NN carmen|NN canto|NN gabriela|NN miguel|NN 
+allergic_rhinitis|DS entity|NN characterization|NN study|NN 
+opinion|NN in|NN allergy|DS immunology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rondón|NN c|NN j|NN canto|NN g|NN 
+allergic_rhinitis|DS concept|NN manifestation|NN approach|NN http|NN pdf|NN 
+journal|NN of|NN allergology|NN immunology|NN 
+2|NN p|NN http|NN 
+http|NN pdf|NN 
+rush|NN university|NN center|NN http|NN 
+http|NN 
+bousquet|NN j|NN reid|NN j|NN van|NN weel|NN c|NN al|NN 
+allergic_rhinitis|DS management|NN pocket|NN reference|NN 
+allergy|DS 
+http|NN 
+pmid|NN http|NN 
+rondón|NN c|NN p|NN galindo|NN l|NN n|NN cassinello|NN m|NN jl|NN mj|NN blanca|NN m|NN 
+prevalence|NN relevance|NN of|NN allergic_rhinitis|DS 
+allergy|DS 
+http|NN 
+pmid|NN http|NN 
+flint|NN paul|NN haughey|NN robbins|NN thomas|NN regan|NN lesperance|NN marci|NN 
+cummings|NN head|NN neck|NN surgery|NN http|NN 
+health|NN science|NN 
+prevention|NN http|NN 
+2019|NN 
+nasser|NN m|NN fedorowicz|NN z|NN h|NN mckerrow|NN w|NN 
+antihistamine|NN in|NN addition|NN nasal|NN steroid|NN intermittent|NN allergic_rhinitis|DS in|NN child|NN 
+cochrane|NN database|NN of|NN review|NN cd006989|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+allergic_rhinitis|DS 
+in|NN dipiro|NN 
+talbert|NN 
+yee|NN 
+matzke|NN well|NN 
+ed|NN 
+pharmacotherapy|NN approach|NN 
+york|NN 
+pp|NN 
+karaki|NN m|NN akiyama|NN k|NN 
+efficacy|NN of|NN intranasal|NN steroid|NN spray|NN furoate|NN treatment|NN of|NN patient|NN allergic_rhinitis|DS comparison|NN corticosteroid|NN 
+nasus|NN larynx|NN 
+http|NN 
+pmid|NN http|NN 
+ohlander|NN bo|NN hansson|NN re|NN karlsson|NN ke|NN 
+comparison|NN of|NN corticosteroid|NN treatment|NN of|NN patient|NN hay|NN fever|ST 
+j|NN int|NN re|NN 
+1|NN 
+http|NN 1|NN 
+pmid|NN http|NN 
+baroody|NN fm|NN d|NN gavanescu|NN l|NN m|NN naclerio|NN rm|NN 
+oxymetazoline|NN effectiveness|NN of|NN fluticasone|NN furoate|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+journal|NN of|NN allergy|DS immunology|NN 
+http|NN 
+pmid|NN http|NN 
+head|NN karen|NN snidvongs|NN kornkiat|NN simon|NN scadding|NN glenis|NN schilder|NN gm|NN philpott|NN carl|NN hopkins|NN claire|NN irrigation|NN allergic_rhinitis|DS http|NN pdf|NN cochrane|NN library|NN john|NN wiley|NN son|NN ltd|NN pp|NN 
+cd012597|NN http|NN http|NN http|NN van|NN et|NN al|NN 
+mechanism|NN of|NN immunotherapy|NN 
+revue|NN française|NN d|NN allergologie|NN et|NN d|NN immunologie|NN clinique|NN 
+creticos|NN peter|NN 
+immunotherapy|NN allergic|NN disease|NN indication|NN efficacy|NN http|NN 
+uptodate|NN 
+calderon|NN alves|NN jacobson|NN hurwitz|NN sheikh|NN durham|NN 
+allergen|NN injection|NN immunotherapy|NN allergic_rhinitis|DS 
+cochrane|NN database|NN of|NN review|NN 1|NN cd001936|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+passalacqua|NN g|NN bousquet|NN pj|NN carlsen|NN kh|NN j|NN rf|NN niggemann|NN b|NN pawankar|NN r|NN price|NN d|NN j|NN 
+update|NN review|NN of|NN medicine|NN rhinitis|DS asthma|DS 
+journal|NN of|NN allergy|DS immunology|NN 
+http|NN 
+pmid|NN http|NN 
+terr|NN 
+form|NN of|NN immunotherapy|NN 
+clin|NN allergy|DS immunol|NN 
+1|NN 
+pmid|NN http|NN 
+fu|NN qinwei|NN zhang|NN lanzhi|NN dai|NN menglin|NN zhang|NN qinxiu|NN 2019|NN 
+effectiveness|NN of|NN ganglion|NN acupoint|NN treatment|NN of|NN allergic_rhinitis|DS review|NN http|NN 
+complementary|NN medicine|NN 
+2019|NN http|NN 2|NN f2019|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cm|NN brinkhaus|NN b|NN 
+efficacy|NN effectiveness|NN of|NN acupuncture|NN allergic_rhinitis|DS overview|NN study|NN 
+neuroscience|NN 
+http|NN 
+pmid|NN http|NN 
+link|NN allergic_rhinitis|DS http|NN classification|NN j30|NN d|NN p|NN resource|NN http|NN s|NN mesh|NN d012221|NN http|NN i|NN diseasesdb|NN http|NN medlineplus|NN http|NN emedicine|NN http|NN 
+http|NN http|NN uk|NN allergic_rhinitis|DS s|NN http|NN page|NN december|NN 2019|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

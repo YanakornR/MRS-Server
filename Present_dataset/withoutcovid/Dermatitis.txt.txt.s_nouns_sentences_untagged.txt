@@ -1,0 +1,115 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN dermatitis|NN name|NN dermatitis|NN dermatitis|NN case|NN dermatitis|NN hand|NN symptom|NN skin|NN rash|ST complication|NN skin|NN infection|NN onset|NN childhood|NN cause|NN dermatitis|NN contact_dermatitis|DS irritant|NN contact_dermatitis|DS stasis|NN dermatitis|NN method|NN symptom|NN diagnosis|NN psoriasis|DS dermatitis|NN lichen|NN simplex|NN treatment|NN cream|NN frequency|NN 
+dermatitis|NN dermatitis|NN group|NN disease|NN result|NN inflammation|NN skin|NN disease|NN skin|NN rash|ST case|NN duration|NN blister|ST case|NN skin|NN area|NN skin|NN body|NN 
+dermatitis|NN group|NN skin|NN condition|NN dermatitis|NN contact_dermatitis|DS irritant|NN contact_dermatitis|DS stasis|NN dermatitis|NN cause|NN dermatitis|NN case|NN combination|NN irritation|NN allergy|NN return|NN type|NN dermatitis|NN person|NN history|NN location|NN rash|ST example|NN irritant|NN dermatitis|NN hand|NN people|NN contact_dermatitis|DS exposure|NN allergen|NN hypersensitivity|DS reaction|NN skin|NN 
+treatment|NN dermatitis|NN moisturizer|NN cream|NN cream|NN mid-|NN strength|NN week|NN time|NN side|NN effect|NN antibiotics|NN sign|NN skin|NN infection|NN contact_dermatitis|DS allergen|NN irritant|NN antihistamine|NN sleep|NN nighttime|NN scratch|NN 
+dermatitis|NN people|NN atopic_dermatitis|DS type|NN childhood|NN united|NN states|NN people|NN contact_dermatitis|DS female|NN male|NN contact_dermatitis|DS people|NN point|NN time|NN contact_dermatitis|DS people|NN job|NN rate|NN content|NN 
+sign|NN symptom|NN cause|NN diagnosis|NN classification|NN terminology|NN type|NN type|NN prevention|NN management|NN lifestyle|NN therapy|NN medicine|NN epidemiology|NN history|NN society|NN culture|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN dermatitis|NN hand|NN 
+dermatitis|NN symptom|NN form|NN condition|NN 
+skin|NN rashe|NN rashe|NN blister|ST type|NN dermatitis|NN symptom|NN sign|NN redness|NN skin|NN swell|NN itch|ST skin|NN lesion|NN 
+area|NN skin|NN symptom|NN type|NN dermatitis|NN neck|NN wrist|NN forearm|NN thigh|NN ankle|NN 
+location|NN symptom|NN condition|NN skin|NN 
+area|NN vulva|NN scrotum|NN symptom|NN type|NN dermatitis|NN 
+contact_dermatitis|DS 
+symptom|NN dermatitis|NN person|NN person|NN symptom|NN skin|NN 
+skin|NN area|NN fold|NN arm|NN back|NN knee|NN wrist|NN face|NN hand|NN 
+dermatitis|NN rash|ST mouth|NN 
+dermatitis|NN symptom|NN sensation|NN 
+vesicle|NN bump|NN type|NN dermatitis|NN cm|NN size|NN red|NN color|NN back|NN buttock|NN elbow|NN knee|NN neck|NN shoulder|NN scalp|NN 
+rash|ST mouth|NN hairline|NN 
+symptom|NN dermatitis|NN hand|NN scale|NN scalp|NN dandruff|NN scale|NN area|NN itch|ST hair_loss|ST newborn|NN condition|NN scalp|NN rash|ST rash|ST 
+case|NN symptom|NN hairline|NN ear|NN eyebrow|NN bridge|NN nose|NN nose|NN chest|NN back|NN 
+patch|NN dermatitis|NN 
+cause|NN dermatitis|NN combination|NN factor|NN 
+hygiene|NN hypothesis|NN cause|NN asthma|DS dermatitis|NN disease|NN environment|NN childhood|NN microbiota|NN 
+study|NN asthma|DS hypothesis|NN exposure|NN bacteria|NN system|NN modulator|NN development|NN exposure|NN risk|NN asthma|DS allergy|NN 
+dermatitis|NN reaction|NN excrement|NN house|NN dust|NN mite|NN people|NN antibody|NN mite|NN role|NN play|NN corroboration|NN 
+number|NN gene|NN dermatitis|NN study|NN variant|NN dermatitis|NN ovol1|NN 
+dermatitis|NN time|NN individual|NN disease|NN time|NN relative|NN disease|NN link|NN condition|NN 
+dermatitis|NN spongiosis|NN mediator|NN 
+cell|NN subtype|NN cell|NN cell|NN cell|NN role|NN diagnosis|NN 
+diagnosis|NN dermatitis|NN history|NN examination|NN case|NN skin|NN biopsy|NN dermatitis|NN misdiagnosis|NN food|NN allergy|NN 
+patch|NN test|NN diagnosis|NN contact_dermatitis|DS classification|NN 
+term|NN dermatitis|NN set|NN characteristics|NN 
+classification|NN disease|NN classification|NN system|NN synonym|NN condition|NN 
+type|NN dermatitis|NN location|NN hand|NN dermatitis|NN appearance|NN dermatitis|NN cause|NN dermatitis|NN 
+confusion|ST source|NN term|NN dermatitis|NN type|NN dermatitis|NN 
+academy|NN allergology|NN immunology|NN position|NN paper|NN nomenclature|NN disease|NN atopic|NN contact_dermatitis|DS dermatitis|NN proposal|NN 
+type|NN dermatitis|NN dermatitis|NN contact_dermatitis|DS stasis|NN dermatitis|NN dermatitis|NN use|NN term|NN dermatitis|NN dermatitis|NN synonymously|NN 
+term|NN dermatitis|NN dermatitis|NN dermatitis|NN dermatitis|NN language|NN dermatitis|NN dermatitis|NN thing|NN language|NN dermatitis|NN condition|NN dermatitis|NN type|NN 
+diagnosis|NN type|NN code|NN classification|NN disease|NN health|NN problem|NN icd|NN 
+dermatitis|NN disease|NN component|NN family|NN member|NN asthma|DS 
+rash|ST head|NN scalp|NN neck|NN elbow|NN knee|NN buttock|NN 
+contact_dermatitis|DS dermatitis|NN 
+stress|NN dermatitis|NN contact|NN 
+dermatitis|NN type|NN reaction|NN allergen|NN poison|NN ivy|NN nickel|NN balsam|NN peru|NN irritant|NN reaction|NN detergent|NN sodium|NN example|NN 
+substance|NN allergen|NN irritant|NN cement|NN example|NN 
+substance|NN problem|NN sunlight|NN exposure|NN dermatitis|NN 
+quarter|NN case|NN contact_dermatitis|DS irritant|NN type|NN skin|NN disease|NN 
+dermatitis|NN substance|NN trace|NN environment|NN 
+l23|NN seborrhoeic|NN 
+dermatitis|NN dermatitis|NN cradle|NN cap|NN infant|NN condition|NN form|NN dermatitis|NN dandruff|NN 
+peel|NN scalp|NN eyebrow|NN face|NN trunk|NN 
+scalp|NN rash|ST cradle|NN cap|NN lack|NN biotin|NN 
+l21|NN type|NN 
+dyshidrotic|NN dermatitis|NN palmoplantar|NN dermatitis|NN palm|NN sole|NN side|NN finger|NN toe|NN 
+bump|NN vesicle|NN thicken|NN crack|NN itch|ST night|NN 
+type|NN hand|NN dermatitis|NN weather|NN 
+dermatitis|NN dermatitis|NN exudative|NN dermatitis|NN dermatitis|NN spot|NN ooze|NN rash|ST boundary|NN leg|NN 
+cause|NN condition|NN 
+dermatitis|NN dermatitis|NN stasis|NN dermatitis|NN dermatitis|NN people|NN circulation|NN vein|NN edema|ST ankle|NN area|NN people|NN 
+redness|NN scale|NN darken|NN skin|NN itch|ST 
+disorder|NN leg|NN ulcer|NN 
+dermatitis_herpetiformis|DS disease|NN cause|NN rash|ST arm|NN thigh|NN knee|NN back|NN 
+disease|NN remission|NN diet|NN night|NN 
+neuro|NN dermatitis|NN 
+dermatitis|NN lichen|NN simplex|NN scratch|NN dermatitis|NN area|NN dermatitis|NN patch|NN result|NN rub|NN scratch|NN 
+behavior|NN modification|NN medication|NN 
+disorder|NN lump|NN 
+l280|NN auto|NN dermatitis|NN 
+auto|NN dermatitis|NN id|NN reaction|NN autosensitization|NN dermatitis|NN reaction|NN infection|NN parasite|NN fungy|NN bacteria|NN viruse|NN 
+clearance|NN infection|NN 
+appearance|NN cause|NN 
+distance|NN infection|NN 
+dermatitis|NN infection|NN dermatitis|NN herpeticum|NN vaccinatum|NN dermatitis|NN disease|NN lymphoma|DS 
+dermatitis|NN ingestion|NN medication|NN food|NN chemical|NN 
+dermatitis|NN disorder|NN addition|NN 
+breastfeed|NN month|NN risk|NN evidence|NN mother|NN diet|NN pregnancy|NN breastfeed|NN effect|NN risk|NN evidence|NN introduction|NN food|NN evidence|NN infancy|NN rate|NN use|NN 
+military|NN healthcare|NN personnel|NN contact|NN smallpox|DS virus|NN dermatitis|NN smallpox|DS vaccination|NN risk|NN dermatitis|NN complication|NN management|NN 
+cure|NN type|NN dermatitis|NN treatment|NN control|NN symptom|NN inflammation|NN itch|ST 
+bathing|NN day|NN minute|NN water|NN skin|NN oil|NN lead|NN dryness|NN 
+evaluation|NN diet|NN dermatitis|NN evidence|NN infant|NN egg|NN allergy|NN reduction|NN symptom|NN egg|NN diet|NN benefit|NN elimination|NN diet|NN study|NN food|NN allergy|NN change|NN lifestyle|NN change|NN 
+people|NN cloth|NN itch|ST scratch|NN peel|NN 
+house|NN dust|NN mite|NN reduction|NN avoidance|NN measure|NN quality|NN trial|NN evidence|NN dermatitis|NN 
+evidence|NN agent|NN dermatitis|NN severity|NN lead|NN flare|NN children|NN formulation|NN formulation|NN product|NN dye|NN perfume|NN peanut|NN dress|NN night|NN 
+moisturizer|NN barrier|NN cream|NN irritation|NN irritant|NN hand|NN dermatitis|NN skin|NN disease|NN people|NN job|NN contact|NN water|NN detergent|NN chemical|NN irritant|NN emollient|NN number|NN flare|NN people|NN dermatitis|NN medication|NN 
+evidence|NN antihistamine|NN dermatitis|NN generation|NN evidence|NN benefit|NN generation|NN improvement|NN itch|ST 
+symptom|NN steroid|NN flare|NN symptom|NN case|NN use|NN mild-moderate|NN dermatitis|NN steroid|NN case|NN steroid|NN propionate|NN 
+case|NN corticosteroid|NN 
+improvement|NN side|NN effect|NN 
+term|NN use|NN steroid|NN skin|NN atrophy|DS use|NN skin|NN face|NN groin|NN caution|NN skin|NN skin|NN use|NN adult|NN steroid|NN year|NN 
+immunosuppressant|NN pimecrolimus|NN term|NN steroid|NN year|NN use|NN use|NN steroid|NN treatment|NN period|NN time|NN effect|NN steroid|NN link|NN risk|NN cancer|DS use|NN cream|NN 
+dermatitis|NN form|NN treatment|NN immunosuppressant|NN 
+side|NN effect|NN blood|NN test|NN 
+azathioprine|NN methotrexate|NN 
+therapy|NN light|NN support|NN quality|NN evidence|NN number|NN type|NN light|NN uva|NN uvb|NN form|NN treatment|NN light|NN chemical|NN 
+light|NN risk|NN skin|NN cancer|DS medicine|NN 
+evidence|NN acupuncture|NN itch|ST atopic_dermatitis|DS evidence|NN claim|NN treatment|NN dermatitis|NN herb|NN help|NN harm|NN supplement|NN people|NN dermatitis|NN even|NN primrose|NN oil|NN seed|NN oil|NN probiotics|NN difference|NN symptom|NN evidence|NN use|NN zinc|NN selenium|NN vitamin|NN d|NN vitamin|NN e|NN pyridoxine|NN vitamin|NN sea|NN oil|NN oil|NN sunflower|NN oil|NN fish|NN oil|NN supplement|NN 
+manipulation|NN evidence|NN use|NN dermatitis|NN evidence|NN use|NN treatment|NN bleach|NN bath|NN dermatitis|NN evidence|NN practice|NN 
+case|NN treatment|NN light|NN case|NN children|NN condition|NN adolescence|NN epidemiology|NN 
+dermatitis|NN people|NN population|NN dermatitis|NN infancy|NN predominance|NN dermatitis|NN presentation|NN period|NN year|NN uk|NN children|NN condition|NN united|NN states|NN 
+data|NN rate|NN dermatitis|NN time|NN rate|NN dermatitis|NN half|NN century|NN dermatitis|NN children|NN increase|NN world|NN rise|NN rate|NN dermatitis|NN time|NN 
+incidence|NN lifetime|NN prevalence|NN dermatitis|NN england|NN time|NN 
+dermatitis|NN worker|NN worker|NN dermatitis|NN 
+prevalence|NN rate|NN female|NN male|NN college|NN education|NN college|NN degree|NN school|NN diploma|NN 
+worker|NN healthcare|NN assistance|NN industry|NN life|NN science|NN occupation|NN rate|NN dermatitis|NN 
+dermatitis|NN case|NN worker|NN work|NN healthcare|NN professional|NN prevalence|NN rate|NN dermatitis|NN worker|NN history|NN greek|NN 
+term|NN dermatitis|NN wise|NN sulfur|NN treatment|NN dermatitis|NN era|NN 
+word|NN dermatitis|NN 
+inflammation|NN dermatitis|NN 
+eruption|NN society|NN culture|NN globe|NN icon|NN 
+example|NN perspective|NN section|NN view|NN subject|NN 
+section|NN issue|NN talk|NN page|NN article|NN 
+june|NN 2017|NN template|NN message|NN 
+term|NN doctor|NN research|NN product|NN 
+number|NN antibody|NN treatment|NN 

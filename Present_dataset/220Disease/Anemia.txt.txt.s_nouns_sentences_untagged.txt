@@ -1,0 +1,177 @@
+encyclopedia|NN anemia|DS jump|NN navigation|NN jump|NN search|NN use|NN anemia|DS disambiguation|NN 
+anemia|DS name|NN anemia|DS iron_deficiency|DS anemia|DS blood|NN blood|NN smear|NN person|NN anemia|DS 
+symptom|NN weakness|ST shortness|NN breath|NN feel|NN pass|NN cause|NN blood|NN loss|NN blood|NN cell|NN production|NN blood|NN cell|NN breakdown|NN method|NN blood|NN measurement|NN frequency|NN 
+anemia|DS anemia|DS decrease|NN amount|NN blood|NN cell|NN blood|NN ability|NN blood|NN oxygen|NN anemia|DS symptom|NN feel|NN weakness|ST shortness|NN breath|NN ability|NN exercise|NN anemia|DS symptom|NN confusion|ST feel|NN loss|NN consciousness|NN thirst|NN anemia|DS person|NN symptom|NN cause|NN 
+anemia|DS blood|NN loss|NN blood|NN cell|NN production|NN blood|NN cell|NN breakdown|NN cause|NN blood|NN loss|NN trauma|NN cause|NN production|NN iron_deficiency|DS vitamin|NN deficiency|NN number|NN neoplasm|NN bone|NN marrow|NN cause|NN breakdown|NN condition|NN sickle|NN cell|NN anemia|DS infection|NN malaria|DS autoimmune|NN disease|NN anemia|DS size|NN blood|NN cell|NN amount|NN hemoglobin|NN cell|NN cell|NN anemia|DS anemia|DS anemia|DS diagnosis|NN anemia|DS men|NN hemoglobin|NN gdl|NN women|NN gdl|NN test|NN cause|NN 
+group|NN individual|NN women|NN benefit|NN use|NN iron|NN pill|NN prevention|NN supplementation|NN cause|NN use|NN blood|NN transfusion|NN person|NN sign|NN symptom|NN symptom|NN level|NN recommendation|NN people|NN erythropoiesis-stimulate|NN medication|NN anemia|DS 
+anemia|DS blood|NN disorder|NN population|NN anemia|DS people|NN anemia|DS due|NN iron_deficiency|DS death|NN death|NN women|NN men|NN pregnancy|NN children|NN anemia|DS cost|NN care|NN person|NN productivity|NN ability|NN name|NN greek|NN 
+mean|NN lack|NN blood|NN 
+blood|NN content|NN 
+sign|NN symptom|NN cause|NN production|NN destruction|NN blood|NN loss|NN fluid|NN overload|NN inflammation|NN diagnosis|NN definition|NN test|NN blood|NN cell|NN size|NN production|NN destruction|NN loss|NN hyper|NN anemia|DS anemia|DS transfusion|NN treatment|NN iron|NN iron|NN blood|NN transfusion|NN agent|NN oxygen|NN epidemiology|NN history|NN reference|NN link|NN 
+sign|NN symptom|NN symptom|NN anemia|DS hand|NN person|NN anemia|DS left|NN right|NN 
+anemia|DS people|NN symptom|NN 
+symptom|NN cause|NN anemia|DS 
+people|NN anemia|DS report|NN feel|NN weakness|ST fatigue|ST concentration|NN 
+shortness|NN breath|NN exertion|NN 
+anemia|DS body|NN lack|NN capability|NN blood|NN output|NN 
+patient|NN symptom|NN palpitation|NN angina|NN heart|NN disease|NN claudication|ST leg|NN symptom|NN heart|NN failure|NN 
+examination|NN sign|NN pallor|NN skin|NN line|NN mucosa|NN nail|NN bed|NN sign|NN 
+coloration|NN sclera|NN case|NN iron-deficiency|NN anemia|DS sign|NN cause|NN anemia|DS iron_deficiency|DS jaundice|ST anemia|DS result|NN break|NN blood|NN cell|NN anemia|DS bone|NN deformity|ST leg|NN ulcer|NN disease|NN 
+anemia|DS sign|NN circulation|NN tachycardia|DS heart|NN rate|NN pulse|NN flow|NN murmur|NN hypertrophy|NN enlargement|NN 
+sign|NN heart|NN failure|NN 
+consumption|NN item|NN ice|NN paper|NN wax|NN grass|NN hair|NN dirt|NN symptom|NN iron_deficiency|DS level|NN 
+anemia|DS disturbance|NN children|NN result|NN development|NN infant|NN performance|NN children|NN school|NN age|NN 
+leg|NN syndrome|NN anemia|DS cause|NN figure|NN blood|NN cell|NN blood|NN vessel|NN 
+inset|NN image|NN cross-section|NN blood|NN cell|NN hemoglobin|NN 
+cause|NN anemia|DS blood|NN cell|NN production|NN destruction|NN anemia|DS blood|NN loss|NN fluid|NN overload|NN 
+interplay|NN cause|NN anemia|DS 
+cause|NN anemia|DS blood|NN loss|NN symptom|NN rbc|NN production|NN turn|NN iron_deficiency|DS production|NN 
+disturbance|NN proliferation|NN differentiation|NN stem|NN cell|NN cell|NN anemia|DS kind|NN blood|NN cell|NN 
+anemia|DS disorder|NN defect|NN anemia|DS abnormality|NN 
+anemia|DS kidney|NN failure|NN production|NN hormone|NN anemia|DS disordersmedical|NN citation|NN disturbance|NN proliferation|NN maturation|NN anemia|DS form|NN anemia|DS due|NN vitamin|NN deficiency|NN absorption|NN vitamin|NN 
+lack|NN cause|NN anemia|DS anemia|DS folate|NN deficiency|NN vitamin|NN cause|NN anemia|DS anemia|DS prematurity|NN response|NN level|NN blood|NN loss|NN laboratory|NN test|NN infant|NN week|NN age|NN 
+iron_deficiency|DS anemia|DS synthesis|NN globin|NN synthesis|NN dyserythropoietic|NN anemia|DS anemia|DS kidney|NN failure|NN stem|NN cell|NN dysfunction|NN mechanism|NN rbc|NN production|NN myelophthisic|NN anemia|DS type|NN anemia|DS replacement|NN bone|NN marrow|NN material|NN tumor|NN fibrosis|DS granuloma|NN 
+syndrome|NN anemia|DS inflammation|NN anemia|DS lesion|NN bone|NN marrow|NN production|NN blood|NN cell|NN 
+destruction|NN information|NN anemia|DS 
+anemia|DS blood|NN cell|NN destruction|NN anemia|DS 
+jaundice|ST lactate|NN dehydrogenase|NN level|NN 
+intracorpuscular|NN abnormality|NN destruction|NN 
+hemoglobinuria|DS disorder|NN spherocytosis|DS defect|NN result|NN defect|NN cell|NN membrane|NN erythrocyte|NN spleen|NN 
+defect|NN membrane|NN skeleton|NN protein|NN 
+defect|NN membrane|NN lipid|NN deficiency|NN kinase|NN hexokinase|NN deficiency|NN defect|NN dehydrogenase|NN deficiency|NN glutathione_synthetase_deficiency|DS stress|NN sickle|NN cell|NN anemia|DS hemoglobin|NN hemoglobinuria|DS 
+abnormality|NN autoimmune|NN anemia|DS autoimmune|NN attack|NN blood|NN cell|NN igg|NN 
+autoimmune|NN disease|NN cause|NN disease|NN lupus|NN malignancy|NN agglutinin|NN anemia|DS igm|NN 
+result|NN condition|NN 
+disease|NN cause|NN disease|NN transfusion|NN reaction|NN blood|NN transfusion|NN 
+trauma|NN blood|NN cell|NN anemia|DS thrombocytopenic|NN coagulation|NN malaria|DS heart|NN citation|NN citation|NN 
+blood|NN loss|NN 
+anemia|DS prematurity|NN blood|NN sample|NN laboratory|NN test|NN production|NN surgery|NN blood|NN loss|NN tract|NN lesion|NN lesion|NN ulcer|NN blood|NN loss|NN disturbance|NN blood|NN loss|NN menstruation|NN women|NN women|NN type|NN cancer|DS cancer|DS cancer|DS bladder|NN blood|NN loss|NN stage|NN 
+infection|NN nematode|NN blood|NN trichuris|NN 
+root|NN word|NN anemia|DS idea|NN lack|NN blood|NN anemia|DS thing|NN terminology|NN 
+word|NN anemia|DS effect|NN blood|NN blood|NN loss|NN ability|NN type|NN hemoglobin|NN erythrocyte|NN problem|NN 
+contrast|NN word|NN ischemia|NN lack|NN blood|NN perfusion|NN 
+body|NN part|NN anemic|NN effect|NN tissue|NN 
+fluid|NN overload|NN 
+fluid|NN overload|NN cause|NN concentration|NN anemia|DS 
+cause|NN hypervolemia|NN sodium|NN fluid|NN intake|NN sodium|NN water|NN retention|NN fluid|NN shift|NN space|NN week|NN pregnancy|NN change|NN increase|NN mother|NN blood|NN volume|NN increase|NN plasma|NN 
+disorder|NN anemia|DS 
+mechanism|NN malabsorption|NN inflammation|NN dysregulation|NN hepcidin|NN access|NN iron|NN circulation|NN 
+helicobacter|NN pylory|NN infection|NN disorder|NN disease|NN gluten|NN sensitivity|NN anemia|DS manifestation|NN disease|NN absence|NN symptom|NN bowel|NN disease|NN 
+diagnosis|NN blood|NN smear|NN microscopy|NN patient|NN anemia|DS definition|NN 
+number|NN definition|NN anemia|DS review|NN comparison|NN contrast|NN definition|NN decrease|NN blood|NN cell|NN mass|NN definition|NN ability|NN blood|NN oxygen|NN definition|NN decrease|NN concentration|NN deviation|NN mean|NN age-|NN reference|NN range|NN 
+measure|NN mass|NN amount|NN rbcs|NN hemoglobin|NN hb|NN blood|NN value|NN concentration|NN 
+example|NN pregnancy|NN woman|NN mass|NN increase|NN blood|NN volume|NN hemoglobin|NN 
+example|NN mass|NN concentration|NN hemoglobin|NN fluid|NN shift|NN area|NN body|NN space|NN 
+anemia|DS severity|NN gl|NN gl|NN anemia|DS gl|NN adult|NN male|NN adult|NN female|NN value|NN pregnancy|NN children|NN test|NN 
+anemia|DS blood|NN count|NN 
+number|NN blood|NN cell|NN level|NN counter|NN size|NN blood|NN cell|NN flow|NN cytometry|NN tool|NN cause|NN anemia|DS 
+examination|NN blood|NN smear|NN microscope|NN necessity|NN region|NN world|NN analysis|NN 
+counter|NN parameter|NN count|NN concentration|NN mch|NN mchc|NN value|NN age|NN sex|NN 
+counter|NN measurement|NN 
+citation|NN threshold|NN anemia|DS gdl|NN age|NN gender|NN group|NN hb|NN threshold|NN hb|NN threshold|NN mmoll|NN children|NN yr|NN children|NN yr|NN teen|NN yr|NN women|NN women|NN men|NN 
+count|NN approach|NN anemia|DS past|NN center|NN united|NN states|NN nation|NN part|NN counter|NN capacity|NN count|NN 
+count|NN measure|NN bone|NN marrow|NN production|NN blood|NN cell|NN 
+production|NN index|NN calculation|NN ratio|NN level|NN anemia|DS extent|NN count|NN response|NN 
+degree|NN anemia|DS reticulocyte|NN count|NN response|NN 
+count|NN count|NN stain|NN blood|NN film|NN 
+examination|NN activity|NN bone|NN marrow|NN change|NN number|NN morphology|NN rbcs|NN examination|NN microscope|NN 
+rbcs|NN show|NN 
+source|NN blood|NN loss|NN evaluation|NN erythropoiesis|NN bone|NN marrow|NN loss|NN rate|NN 
+cause|NN clinician|NN test|NN esr|NN serum|NN iron|NN folate|NN level|NN serum|NN vitamin|NN hemoglobin|NN electrophoresis|NN function|NN test|NN serum|NN creatinine|NN test|NN hypothesis|NN 
+diagnosis|NN bone|NN marrow|NN examination|NN examination|NN precursor|NN cell|NN case|NN pathology|NN 
+citation|NN blood|NN cell|NN size|NN 
+approach|NN anemia|DS size|NN blood|NN cell|NN examination|NN blood|NN smear|NN 
+size|NN volume|NN 
+cell|NN fl|NN anemia|DS size|NN fl|NN fl|NN anemia|DS 
+scheme|NN cause|NN anemia|DS instance|NN anemia|DS result|NN iron_deficiency|DS 
+workup|NN mcv|NN piece|NN information|NN clinician|NN approach|NN morphology|NN element|NN classification|NN diagnosis|NN 
+limitation|NN mcv|NN case|NN cause|NN combination|NN factor|NN iron_deficiency|DS cause|NN microcytosis|NN vitamin|NN deficiency|NN cause|NN macrocytosis|NN result|NN cell|NN 
+citation|NN production|NN destruction|NN loss|NN 
+approach|NN anemia|DS yield|NN classification|NN anemia|DS 
+classification|NN evaluation|NN parameter|NN blood|NN precursor|NN rbcs|NN count|NN 
+classification|NN defect|NN production|NN destruction|NN loss|NN 
+sign|NN loss|NN destruction|NN blood|NN smear|NN sign|NN ldh|NN cell|NN destruction|NN sign|NN stool|NN find|NN 
+citation|NN follow|NN citation|NN anemia|DS 
+production|NN index|NN production|NN response|NN anemia|DS 
+production|NN index|NN response|NN anemia|DS hemolysis|NN blood|NN loss|NN production|NN problem|NN 
+find|NN hemolysis|NN blood|NN loss|NN disorder|NN production|NN 
+find|NN mcv|NN loss|NN disorder|NN production|NN 
+find|NN hemolysis|NN loss|NN time|NN bone|NN marrow|NN production|NN 
+anemia|DS anemia|DS anemia|DS mcv80|NN 
+instance|NN sickle|NN cell|NN anemia|DS iron_deficiency|DS bleed|NN folate|NN deficiency|NN instance|NN anemia|DS cause|NN count|NN combination|NN reticulocyte|NN production|NN index|NN loss|NN bone_marrow_failure|DS anemia|DS disease|NN hemolysis|NN blood|NN loss|NN 
+representation|NN anemia|DS mcv|NN start|NN point|NN anemia|DS 
+anemia|DS anemia|DS anemia|DS 
+reticulocyte|NN count|NN low|NN reticulocyte|NN count|NN 
+characteristics|NN smear|NN clue|NN diagnosis|NN example|NN blood|NN cell|NN cause|NN bone|NN marrow|NN 
+article|NN anemia|DS 
+anemia|DS result|NN synthesis|NN etiology|NN 
+synthesis|NN defect|NN iron_deficiency|DS anemia|DS anemia|DS disease|NN anemia|DS synthesis|NN defect|NN syndrome|NN syndrome|NN hemoglobin|NN disease|NN defect|NN anemia|DS anemia|DS lead|NN toxicity|NN anemia|DS 
+iron_deficiency|DS anemia|DS type|NN anemia|DS overal|NN cause|NN 
+iron_deficiency|DS anemia|DS intake|NN absorption|NN iron|NN need|NN 
+infant|NN toddler|NN women|NN need|NN 
+iron|NN intake|NN blood|NN loss|NN tract|NN issue|NN blood|NN donation|NN period|NN iron|NN part|NN hemoglobin|NN iron|NN level|NN result|NN incorporation|NN hemoglobin|NN blood|NN cell|NN 
+united|NN states|NN women|NN childbear|NN age|NN iron_deficiency|DS adult|NN men|NN 
+incidence|NN women|NN study|NN iron_deficiency|DS anemia|DS cause|NN school|NN performance|NN iq|NN girl|NN factor|NN iron_deficiency|DS deficiency|NN state|NN basis|NN 
+cause|NN fissure|NN corner|NN section|NN lip|NN 
+united|NN states|NN cause|NN iron_deficiency|DS blood|NN loss|NN tract|NN 
+occult|NN blood|NN test|NN endoscopy|NN endoscopy|NN lesion|NN 
+men|NN women|NN chance|NN bleed|NN tract|NN colon|NN polyp|NN cancer|DS 
+cause|NN iron_deficiency|DS anemia|DS infestation|NN schistosomiasis|DS whipworm|NN 
+index|NN cell|NN volume|NN count|NN anemia|DS iron_deficiency|DS thallasemia|NN article|NN anemia|DS 
+anemia|DS cause|NN anemia|DS deficiency|NN vitamin|NN acid|NN 
+deficiency|NN folate|NN vitamin|NN intake|NN absorption|NN 
+deficiency|NN symptom|NN deficiency|NN 
+anemia|DS lack|NN factor|NN vitamin|NN food|NN 
+lack|NN factor|NN autoimmune|NN condition|NN cell|NN gastritis|NN factor|NN factor|NN 
+lead|NN absorption|NN vitamin|NN 
+anemia|DS removal|NN portion|NN stomach|NN bypass|NN surgery|NN vitamin|NN absorption|NN 
+anemia|DS procedure|NN 
+alcoholism|NN macrocytosis|NN anemia|DS 
+type|NN liver|NN disease|NN 
+drug|NN zidovudine|NN substance|NN dna|NN replication|NN metal|NN 
+anemia|DS anemia|DS anemia|DS 
+cause|NN anemia|DS failure|NN dna|NN synthesis|NN rna|NN synthesis|NN cell|NN division|NN progenitor|NN cell|NN 
+megaloblastic_anemia|DS neutrophil|NN lobe|NN 
+macrocytic|NN anemia|DS etiology|NN dna|NN globin|NN synthesis|NN example|NN alcoholism|NN 
+addition|NN symptom|NN anemia|DS feature|NN vitamin|NN deficiency|NN neuropathy|NN degeneration|NN cord|NN balance|NN difficulty|NN column|NN cord|NN pathology|NN feature|NN tongue|NN glossitis|NN 
+treatment|NN vitamin|NN anemia|DS william|NN murphy|NN dog|NN substance|NN 
+amount|NN liver|NN disease|NN 
+george|NN minot|NN george|NN whipple|NN substance|NN vitamin|NN liver|NN 
+nobel|NN prize|NN medicine|NN article|NN anemia|DS 
+anemia|DS hemoglobin|NN level|NN blood|NN cell|NN size|NN volume|NN 
+blood|NN loss|NN anemia|DS disease|NN anemia|DS bone_marrow_failure|DS anemia|DS 
+appearance|NN blood|NN smear|NN population|NN blood|NN cell|NN size|NN content|NN feature|NN color|NN blood|NN cell|NN blood|NN smear|NN 
+example|NN person|NN iron_deficiency|DS iron|NN blood|NN cell|NN donor|NN rbcs|NN size|NN color|NN 
+person|NN folate|NN vitamin|NN deficiency|NN cell|NN population|NN case|NN patient|NN donor|NN 
+person|NN sideroblastic|NN anemia|DS defect|NN synthesis|NN alcoholism|NN deficiency|NN disease|NN smear|NN sideroblastic|NN anemia|DS 
+evidence|NN cause|NN rbc|NN distribution|NN width|NN range|NN cell|NN size|NN anemia|DS 
+citation|NN heinz|NN body|NN anemia|DS 
+heinz|NN body|NN form|NN cytoplasm|NN rbcs|NN dot|NN microscope|NN 
+animal|NN heinz|NN body|NN anemia|DS cause|NN 
+example|NN cat|NN dog|NN paracetamol|NN plant|NN substance|NN 
+cat|NN dog|NN plant|NN genus|NN example|NN onion|NN garlic|NN dog|NN ingestion|NN zinc|NN example|NN eate|NN penny|NN horse|NN maple|NN leave|NN 
+anemia|DS form|NN anemia|DS hematocrit|NN refractory_anemia|DS 
+anemia|DS anemia|DS treatment|NN syndrome|NN iron_deficiency|DS anemia|DS manifestation|NN problem|NN iron|NN absorption|NN cause|NN occult|NN transfusion|NN 
+transfusion|NN anemia|DS form|NN anemia|DS blood|NN transfusion|NN people|NN syndrome|NN state|NN point|NN time|NN beta|NN transfusion|NN dependence|NN concern|NN blood|NN transfusion|NN iron_overload|DS iron_overload|DS therapy|NN treatment|NN 
+treatment|NN anemia|DS cause|NN severity|NN 
+vitamin|NN supplement|NN acid|NN vitamin|NN vitamin|NN deficiency|NN 
+citation|NN iron|NN 
+iron_deficiency|DS nation|NN 
+children|NN women|NN childbear|NN age|NN nation|NN iron_deficiency|DS anemia|DS iron_deficiency|DS anemia|DS iron_deficiency|DS iron|NN intake|NN men|NN postmenopausal|NN women|NN 
+diagnosis|NN iron_deficiency|DS mandate|NN search|NN source|NN blood|NN loss|NN bleed|NN ulcer|NN colon|NN cancer|DS 
+anemia|DS iron|NN supplementation|NN fumarate|NN gluconate|NN 
+iron|NN supplement|NN stomach|NN upset|NN darken|NN fece|NN 
+stomach|NN upset|NN iron|NN food|NN amount|NN iron|NN 
+vitamin|NN aid|NN ability|NN iron|NN iron|NN supplement|NN juice|NN benefit|NN 
+anemia|DS kidney|NN disease|NN recombinant|NN alfa|NN production|NN iron_deficiency|DS inflammation|NN iron|NN iron|NN 
+case|NN iron|NN example|NN absorption|NN example|NN case|NN inflammation|NN iron|NN 
+body|NN mg|NN iron|NN tract|NN 
+case|NN patient|NN deficit|NN mg|NN iron|NN month|NN 
+erythropoietin|NN iron|NN rate|NN blood|NN transfusion|NN 
+blood|NN transfusion|NN symptom|NN hemoglobin|NN gdl|NN artery|NN disease|NN transfusion|NN hemoglobin|NN gdl|NN survival|NN case|NN instability|NN agent|NN 
+objective|NN administration|NN agent|NN esa|NN level|NN transfusion|NN person|NN anemia|DS people|NN kidney|NN disease|NN level|NN gdl|NN symptom|NN anemia|DS 
+use|NN iron|NN oxygen|NN 
+treatment|NN blood|NN loss|NN anemia|DS indication|NN oxygen|NN undersea|NN society|NN use|NN hbo|NN oxygen|NN delivery|NN tissue|NN patient|NN blood|NN transfusion|NN reason|NN 
+reason|NN threat|NN blood|NN product|NN incompatibility|NN concern|NN disease|NN factor|NN belief|NN religion|NN witness|NN method|NN review|NN use|NN hbo|NN anemia|DS publication|NN result|NN epidemiology|NN 
+degree|NN anemia|DS people|NN population|NN female|NN male|NN iron_deficiency|DS anemia|DS history|NN 
+sign|NN anemia|DS bone|NN year|NN thailand|NN 

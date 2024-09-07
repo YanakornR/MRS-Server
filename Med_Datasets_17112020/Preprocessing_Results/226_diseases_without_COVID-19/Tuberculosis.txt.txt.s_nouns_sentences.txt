@@ -1,0 +1,162 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Tuberculosis|Disease name|NN Tuberculosis|Disease Tuberculosis|Disease Tuberculosis|Disease Tuberculosis|Disease chest|NN x-ray|NN person|NN Tuberculosis|Disease infection|NN lung|NN arrow-head|NN formation|NN cavity|NN arrow|NN
+disease|NN symptom|NN cough|NN fever|NN blood|NN sputum|NN weight|NN loss|NN cause|NN mycobacterium|NN Tuberculosis|Disease risk|NN factor|NN smoke|NN method|NN culture|NN skin|NN test|NN diagnosis|NN pneumonia|NN sarcoidosis|NN prevention|NN screen|NN risk|NN treatment|NN vaccination|NN bacillus|NN bcg|NP treatment|NN antibiotics|NN frequency|NN people|NN Tuberculosis|Disease death|NN
+Tuberculosis|Disease Tuberculosis|Disease disease|NN mycobacterium|NN Tuberculosis|Disease m|NN Tuberculosis|Disease bacteria|NN Tuberculosis|Disease lung|NN part|NN body|NN infection|NN symptom|NN case|NN Tuberculosis|Disease infection|NN progress|NN disease|NN kill|NN symptom|NN Tuberculosis|Disease cough|NN sputum|NN fever|NN night|NN sweat|NN weight|NN loss|NN Tuberculosis|Disease weight|NN loss|NN infection|NN organ|NN range|NN symptom|NN
+Tuberculosis|Disease air|NN people|NN Tuberculosis|Disease lung|NN cough|NN spit|NN people|NN Tuberculosis|Disease disease|NN infection|NN people|NN hivaid|NN diagnosis|NN Tuberculosis|Disease chest|NN x-ray|NN examination|NN culture|NN body|NN fluid|NN diagnosis|NN Tuberculosis|Disease skin|NN test|NN blood|NN test|NN
+prevention|NN Tuberculosis|Disease screen|NN risk|NN detection|NN treatment|NN case|NN vaccination|NN bacillus|NN bcg|NP vaccine|NN risk|NN household|NN workplace|NN contact|NN people|NN Tuberculosis|Disease treatment|NN use|NN antibiotics|NN period|NN time|NN resistance|NN problem|NN rate|NN drug-resistant|NN Tuberculosis|Disease Tuberculosis|Disease Tuberculosis|Disease Tuberculosis|Disease
+world|NN population|NN Tuberculosis|Disease infection|NN population|NN year|NN 2017|NN case|NN Tuberculosis|Disease death|NN number|NN cause|NN death|NN disease|NN death|NN country|NN india|NP china|NP indonesia|NP pakistan|NP philippines|NP number|NN case|NN year|NN people|NN country|NN test|NN people|NN united|NP states|NP population|NN test|NN test|NN Tuberculosis|Disease human|NN time|NN Tuberculosis|Disease media|NN video|NN summary|NN script|NN content|NN
+sign|NN symptom|NN cause|NN risk|NN factor|NN mechanism|NN transmission|NN diagnosis|NN Tuberculosis|Disease Tuberculosis|Disease prevention|NN vaccine|NN health|NN management|NN onset|NN disease|NN administration|NN resistance|NN epidemiology|NN history|NN society|NN culture|NN name|NN art|NN literature|NN health|NN effort|NN research|NN animal|NN reference|NN link|NN
+sign|NN symptom|NN symptom|NN variant|NN stage|NN Tuberculosis|Disease symptom|NN variant|NN variant|NN
+Tuberculosis|Disease part|NN body|NN lung|NN Tuberculosis|Disease Tuberculosis|Disease Tuberculosis|Disease lung|NN Tuberculosis|Disease Tuberculosis|Disease
+sign|NN symptom|NN fever|NN chill|NN night|NN sweat|NN loss|NN appetite|NN weight|NN loss|NN fatigue|NN nail|NN
+Tuberculosis|Disease infection|NN lung|NN case|NN symptom|NN chest|NN pain|NN cough|NN sputum|NN
+people|NN symptom|NN people|NN blood|NN amount|NN case|NN infection|NN artery|NN aneurysm|NN Tuberculosis|Disease illness|NN cause|NN scare|NN lobe|NN lung|NN
+lung|NN lobe|NN Tuberculosis|Disease reason|NN difference|NN air|NN flow|NN lymph|NN drainage|NN lung|NN article|NN Tuberculosis|Disease
+case|NN infection|NN lung|NN kind|NN Tuberculosis|Disease Tuberculosis|Disease extrapulmonary|NN Tuberculosis|Disease people|NN system|NN children|NN
+hiv|NP case|NN infection|NN site|NN pleura|NN pleurisy|NN system|NN meningitis|NN system|NN scrofula|NN neck|NN system|NN Tuberculosis|Disease bone|NN joint|NN pott|NP disease|NN spine|NN
+form|NN Tuberculosis|Disease Tuberculosis|Disease Tuberculosis|Disease miliary|NN Tuberculosis|Disease case|NN cause|NN article|NN mycobacterium|NN Tuberculosis|Disease electron|NN micrograph|NN m|NP Tuberculosis|Disease
+cause|NN Tuberculosis|Disease mycobacterium|NN Tuberculosis|Disease m|NP Tuberculosis|Disease nonmotile|NN bacillus|NN content|NN pathogen|NN account|NN characteristics|NN hour|NN rate|NN bacteria|NN hour|NN membrane|NN bilayer|NN gram|NN stain|NN m|NN Tuberculosis|Disease stain|NN dye|NN result|NN acid|NN content|NN cell|NN wall|NN m|NN Tuberculosis|Disease disinfectant|NN state|NN week|NN
+nature|NN bacterium|NN cell|NN host|NN organism|NN m|NN Tuberculosis|Disease laboratory|NN
+stain|NN sample|NN phlegm|NN sputum|NN scientist|NN m|NP Tuberculosis|Disease microscope|NN
+m|NP Tuberculosis|Disease stain|NN solution|NN bacillus|NN acid-fast|NN stain|NN technique|NN stain|NN stain|NN dye|NN bacilly|NN red|NN background|NN stain|NN fluorescence|NN microscopy|NN
+m|NN Tuberculosis|Disease m|NN Tuberculosis|Disease c|NP Tuberculosis|Disease mycobacteria|NN m|NN m|NP m|NP m|NP m|NP africanum|NP cause|NN Tuberculosis|Disease part|NN africa|NP m|NP cause|NN Tuberculosis|Disease introduction|NN milk|NN health|NN problem|NN country|NN m|NP canetti|NP horn|NN africa|NP case|NN emigrant|NN m|NP microti|NP people|NN prevalence|NN
+mycobacteria|NN m|NP m|NP avium|NN m|NN
+specy|NN mycobacteria|NN
+cause|NN Tuberculosis|Disease leprosy|NN lung|NN disease|NN Tuberculosis|Disease risk|NN factor|NN article|NN risk|NN factor|NN Tuberculosis|Disease
+number|NN factor|NN people|NN Tuberculosis|Disease infection|NN
+risk|NN factor|NN hiv|NP people|NN Tuberculosis|Disease virus|NN problem|NN africa|NP rate|NN hiv|NP people|NN hiv|NP Tuberculosis|Disease disease|NN lifetime|NN contrast|NN coinfect|NN hiv|NP disease|NN
+Tuberculosis|Disease overcrowd|NN malnutrition|NN disease|NN poverty|NN risk|NN people|NN drug|NN inhabitant|NN employee|NN locale|NN people|NN prison|NN shelter|NN community|NN minority|NN children|NN contact|NN category|NN patient|NN health-care|NN provider|NN patient|NN
+lung|NN disease|NN risk|NN factor|NN
+risk|NN cigarette|NN risk|NN Tuberculosis|Disease nonsmoker|NN
+disease|NN state|NN risk|NN Tuberculosis|Disease
+alcoholism|NN diabete|NN mellitus|NN increase|NN
+medication|NN corticosteroid|NN
+tnf|NP antibody|NN risk|NN factor|NN world|NN
+susceptibility|NN importance|NN mechanism|NN health|NN campaign|NN spread|NN Tuberculosis|Disease
+people|NN Tuberculosis|Disease cough|NN sneeze|NN aerosol|NN droplet|NN m|NN diameter|NN
+sneeze|NN droplet|NN droplet|NN disease|NN dose|NN Tuberculosis|Disease inhalation|NN bacteria|NN infection|NN
+people|NN contact|NN people|NN Tuberculosis|Disease risk|NN infection|NN rate|NN person|NN Tuberculosis|Disease people|NN year|NN transmission|NN people|NN Tuberculosis|Disease infection|NN probability|NN transmission|NN person|NN factor|NN number|NN droplet|NN carrier|NN effectiveness|NN ventilation|NN duration|NN exposure|NN virulence|NN m|NN Tuberculosis|Disease strain|NN level|NN immunity|NN person|NN cascade|NN spread|NN Tuberculosis|Disease Tuberculosis|Disease drug|NN regimen|NN
+week|NN treatment|NN subject|NN infection|NN week|NN person|NN disease|NN microscopy|NN epididymitis|NN
+m|NP Tuberculosis|Disease Tuberculosis|Disease infection|NN l|NP Tuberculosis|Disease lifetime|NN chance|NN infection|NN tuberculous|NN disease|NN hiv|NP risk|NN Tuberculosis|Disease increase|NN year|NN treatment|NN death|NN rate|NN Tuberculosis|Disease case|NN
+Tuberculosis|Disease infection|NN mycobacteria|NN air|NN sacs|NN lung|NN endosome|NN macrophage|NN bacterium|NN attempt|NN
+process|NN bacterium|NN macrophage|NN vesicle|NN phagosome|NN
+phagosome|NN lysosome|NN phagolysosome|NN
+phagolysosome|NN cell|NN attempt|NN oxygen|NN specy|NN acid|NN bacterium|NN
+m|NP Tuberculosis|Disease mycolic|NN acid|NN capsule|NN substance|NN
+m|NP Tuberculosis|Disease macrophage|NN cell|NN
+site|NN infection|NN lung|NN focus|NN part|NN lobe|NN part|NN lobe|NN Tuberculosis|Disease lung|NN infection|NN blood|NN stream|NN
+simon|NP focus|NN top|NN lung|NN transmission|NN infection|NN site|NN lymph|NN node|NN kidney|NN brain|NN bone|NN part|NN body|NN disease|NN reason|NN heart|NN muscle|NN pancrea|NN thyroid|NN robert|NP carswells|NP illustration|NN tubercle|NN
+Tuberculosis|Disease disease|NN
+macrophages|NP t|NP lymphocyte|NN lymphocyte|NN fibroblast|NN form|NN granuloma|NN lymphocyte|NN macrophage|NN
+macrophage|NN macrophage|NN giant|NN cell|NN lumen|NN
+granuloma|NN dissemination|NN mycobacteria|NN environment|NN interaction|NN cell|NN system|NN evidence|NN bacteria|NN granuloma|NN destruction|NN host|NN system|NN
+cell|NN granuloma|NN antigen|NN lymphocyte|NN response|NN bacteria|NN granuloma|NN infection|NN
+feature|NN granuloma|NN development|NN cell|NN death|NN necrosis|NN center|NN
+eye|NN texture|NN cheese|NN necrosis|NN
+Tuberculosis|Disease bacteria|NN gain|NN entry|NN blood|NN stream|NN area|NN tissue|NN body|NN set|NN focy|NN infection|NN tubercle|NN tissue|NN form|NN Tuberculosis|Disease disease|NN children|NN hiv|NP Tuberculosis|Disease people|NN Tuberculosis|Disease fatality|NN rate|NN treatment|NN
+people|NN infection|NN waxe|NN wane|NN
+tissue|NN destruction|NN necrosis|NN heal|NN fibrosis|NN tissue|NN scare|NN cavity|NN material|NN
+disease|NN cavity|NN air|NN passage|NN bronchy|NN material|NN
+bacteria|NN infection|NN
+treatment|NN antibiotics|NN bacteria|NN heal|NN place|NN
+cure|NN area|NN scar|NN tissue|NN diagnosis|NN article|NN Tuberculosis|Disease diagnosis|NN m|NN Tuberculosis|Disease red|NN sputum|NN Tuberculosis|Disease
+Tuberculosis|Disease sign|NN symptom|NN disease|NN system|NN diagnosis|NN Tuberculosis|Disease sign|NN lung|NN disease|NN symptom|NN week|NN chest|NN x-ray|NN sputum|NN culture|NN bacilly|NN part|NN evaluation|NN
+release|NN assay|NN skin|NN test|NN use|NN world|NN gamma|NN release|NN assay|NN limitation|NN hiv|NP
+diagnosis|NN Tuberculosis|Disease m|NN Tuberculosis|Disease sample|NN sputum|NN pus|NN tissue|NN biopsy|NN
+culture|NN process|NN organism|NN week|NN blood|NN sputum|NN culture|NN treatment|NN culture|NN
+acid|NN amplification|NN test|NN adenosine|NN test|NN diagnosis|NN Tuberculosis|Disease test|NN person|NN blood|NN test|NN antibody|NN Tuberculosis|Disease article|NN Tuberculosis|Disease skin|NN test|NN
+mantoux|NN skin|NN test|NN screen|NN people|NN risk|NN Tuberculosis|Disease bacille|NN vaccine|NN test|NN result|NN test|NN sarcoidosis|NN lymphoma|NN malnutrition|NN Tuberculosis|Disease gamma|NN release|NN assay|NN blood|NN sample|NN test|NN immunization|NN mycobacteria|NN result|NN m|NP m|NP m|NP kansasii|NP sensitivity|NN addition|NN skin|NN test|NN skin|NN test|NN
+service|NN task|NN force|NN screen|NN people|NN risk|NN Tuberculosis|Disease skin|NN test|NN release|NN assay|NN test|NN health|NN care|NN worker|NN evidence|NN benefit|NN cdc|NP test|NN health|NN care|NN worker|NN exposure|NN prevention|NN Tuberculosis|Disease prevention|NN poster|NN united|NP states|NP
+Tuberculosis|Disease prevention|NN control|NN effort|NN vaccination|NN infant|NN detection|NN treatment|NN case|NN world|NN health|NN organization|NN success|NN treatment|NN regimen|NN decrease|NN case|NN number|NN vaccine|NN article|NN Tuberculosis|Disease vaccine|NN bcg|NP vaccine|NN
+vaccine|NN bacillus|NN bcg|NP children|NN risk|NN infection|NN risk|NN infection|NN disease|NN
+vaccine|NN children|NN immunity|NN decrease|NN year|NN Tuberculosis|Disease canada|NP kingdom|NN united|NP states|NP bcg|NP people|NN risk|NN part|NN reason|NN use|NN vaccine|NN skin|NN test|NN test|NN usefulness|NN screen|NN tool|NN number|NN vaccine|NN development|NN health|NN
+world|NN health|NN organization|NN Tuberculosis|Disease health|NN emergency|NN stop|NN Tuberculosis|Disease partnership|NN plan|NN stop|NN Tuberculosis|Disease live|NN launch|NN number|NN target|NN increase|NN Tuberculosis|Disease emergence|NN drug-resistant|NN Tuberculosis|Disease Tuberculosis|Disease classification|NN system|NN thoracic|NN society|NN health|NN program|NN management|NN article|NN Tuberculosis|Disease management|NN
+treatment|NN Tuberculosis|Disease use|NN antibiotics|NN bacteria|NN
+Tuberculosis|Disease treatment|NN structure|NN composition|NN cell|NN wall|NN entry|NN drug|NN antibiotics|NN
+Tuberculosis|Disease combination|NN isoniazid|NN rifampicin|NN treatment|NN month|NN people|NN infection|NN Tuberculosis|Disease disease|NN life|NN
+Tuberculosis|Disease disease|NN combination|NN antibiotics|NN risk|NN bacteria|NN antibiotic|NN resistance|NN onset|NN
+treatment|NN Tuberculosis|Disease month|NN combination|NN antibiotics|NN pyrazinamide|NN ethambutol|NN month|NN rifampicin|NN isoniazid|NN month|NN resistance|NN isoniazid|NN month|NN disease|NN
+Tuberculosis|Disease test|NN antibiotics|NN treatment|NN drug-resistant|NN Tuberculosis|Disease Tuberculosis|Disease treatment|NN antibiotics|NN month|NN administration|NN
+therapy|NN health|NN care|NN provider|NN person|NN medication|NN effort|NN number|NN people|NN antibiotics|NN evidence|NN practice|NN people|NN medication|NN quality|NN evidence|NN therapy|NN number|NN people|NN number|NN people|NN medicine|NN quality|NN evidence|NN difference|NN people|NN home|NN clinic|NN family|NN member|NN health|NN care|NN worker|NN method|NN people|NN importance|NN treatment|NN appointment|NN improvement|NN resistance|NN
+resistance|NN person|NN strain|NN Tuberculosis|Disease
+person|NN m|NN Tuberculosis|Disease resistance|NN therapy|NN treatment|NN regimen|NN lack|NN compliance|NN medication|NN Tuberculosis|Disease health|NN issue|NN country|NN treatment|NN drug|NN
+Tuberculosis|Disease resistance|NN Tuberculosis|Disease drug|NN
+Tuberculosis|Disease class|NN drug|NN Tuberculosis|Disease drug|NN italy|NP 2012|NN iran|NP india|NP bedaquiline|NP use|NN drug-resistant|NN Tuberculosis|Disease
+Tuberculosis|Disease term|NN Tuberculosis|Disease case|NN Tuberculosis|Disease
+case|NN Tuberculosis|Disease country|NN life|NN year|NN Tuberculosis|Disease inhabitant|NN data|NN
+2550|NN 100250|NN
+500750|NN 20003000|NN
+progression|NN Tuberculosis|Disease infection|NN Tuberculosis|Disease disease|NN bacilly|NN system|NN
+Tuberculosis|Disease disease|NN case|NN infection|NN majority|NN case|NN infection|NN symptom|NN bacilly|NN Tuberculosis|Disease case|NN year|NN infection|NN
+risk|NN reactivation|NN increase|NN immunosuppression|NN infection|NN hiv|NP
+people|NN m|NP Tuberculosis|Disease hiv|NP risk|NN reactivation|NN increase|NN year|NN study|NN dna|NN fingerprint|NN m|NP Tuberculosis|Disease strain|NN reinfection|NN Tuberculosis|Disease estimate|NN case|NN area|NN Tuberculosis|Disease chance|NN death|NN case|NN Tuberculosis|Disease epidemiology|NN article|NN epidemiology|NN Tuberculosis|Disease world|NN map|NN africa|NP shade|NN mark|NN prevalence|NN canada|NP australia|NP europe|NP shade|NN mark|NN prevalence|NN
+asia|NP mark|NN prevalence|NN range|NN
+south|NP america|NP
+number|NN case|NN Tuberculosis|Disease people|NN africa|NP asia|NP Tuberculosis|Disease death|NN person|NN 2012|NP 2745|NN 216443|NN
+world|NN population|NN m|NP Tuberculosis|Disease infection|NN population|NN year|NN infection|NN m|NP Tuberculosis|Disease Tuberculosis|Disease disease|NN 9095|NN infection|NN case|NN case|NN Tuberculosis|Disease death|NN country|NN death|NN 035|NP hiv|NP
+Tuberculosis|Disease cause|NN death|NN disease|NN number|NN Tuberculosis|Disease case|NN case|NN china|NP progress|NN reduction|NN Tuberculosis|Disease mortality|NN rate|NN number|NN case|NN Tuberculosis|Disease country|NN population|NN country|NN test|NN test|NN population|NN test|NN hope|NN disease|NN number|NN factor|NN difficulty|NN vaccine|NN process|NN necessity|NN month|NN treatment|NN increase|NN Tuberculosis|Disease emergence|NN case|NN
+country|NN incidence|NN rate|NN Tuberculosis|Disease swaziland|NP case|NN people|NN
+india|NP incidence|NN case|NN country|NN Tuberculosis|Disease area|NN
+rate|NN people|NN area|NN world|NN africa|NP americas|NP mediterranean|NP europe|NP southeast|NN asia|NP pacific|NP canada|NP australia|NP Tuberculosis|Disease time|NN people|NN area|NN united|NP states|NP american|NN mortality|NN Tuberculosis|Disease minority|NN Tuberculosis|Disease case|NN
+rate|NN Tuberculosis|Disease age|NN
+africa|NP adolescent|NN adult|NN country|NN incidence|NN rate|NN united|NP states|NP Tuberculosis|Disease disease|NN people|NN risk|NN factor|NN state|NN country|NN experience|NN case|NN death|NN
+routine|NN use|NN rifabutin|NN rifampicin|NN people|NN Tuberculosis|Disease benefit|NN history|NN article|NN history|NN Tuberculosis|Disease timeline|NN Tuberculosis|Disease mummy|NN museum|NN decay|NN spine|NN
+Tuberculosis|Disease antiquity|NN m|NP Tuberculosis|Disease evidence|NN disease|NN remain|NN bison|NN wyoming|NP year|NN Tuberculosis|Disease human|NN Tuberculosis|Disease ancestor|NN comparison|NN gene|NN m|NP Tuberculosis|Disease m|NN Tuberculosis|Disease c|NP human|NN m|NP Tuberculosis|Disease c|NP animal|NN human|NN m|NP Tuberculosis|Disease c|NP animal|NN animal|NN domestication|NN researcher|NN
+strain|NN Tuberculosis|Disease bacteria|NN ancestor|NN human|NN revolution|NN remain|NN human|NN bc|NP Tuberculosis|Disease researcher|NN decay|NN spine|NN mummy|NN study|NN presence|NN Tuberculosis|Disease americas|NP ad|NN
+revolution|NN folklore|NN Tuberculosis|Disease vampire|NN
+member|NN family|NN disease|NN member|NN health|NN
+people|NN person|NN Tuberculosis|Disease life|NN family|NN member|NN
+richard|NP morton|NP form|NN tubercle|NN pathology|NN variety|NN symptom|NN Tuberculosis|Disease disease|NN
+name|NN Tuberculosis|Disease dr|NP
+john|NP owner|NN cave|NN kentucky|NP number|NN people|NN Tuberculosis|Disease cave|NN hope|NN disease|NN temperature|NN purity|NN cave|NN air|NN year|NN hermann|NP brehmer|NP Tuberculosis|Disease sanatorium|NN
+silesia|NP robert|NP koch|NP Tuberculosis|Disease bacillus|NN
+robert|NP koch|NP bacillus|NN Tuberculosis|Disease m|NN Tuberculosis|Disease march|NP nobel|NP prize|NN physiology|NN medicine|NN discovery|NN koch|NP cattle|NN Tuberculosis|Disease disease|NN recognition|NN milk|NN source|NN infection|NN
+half|NN risk|NN transmission|NN source|NN application|NN process|NN
+koch|NP glycerine|NN extract|NN tubercle|NN bacilly|NN remedy|NN Tuberculosis|Disease call|NN
+screen|NN test|NN presence|NN Tuberculosis|Disease world|NN Tuberculosis|Disease day|NN march|NP year|NN anniversary|NN announcement|NN
+albert|NP calmette|NP camille|NP gurin|NP success|NN immunization|NN Tuberculosis|Disease bovine-strain|NN Tuberculosis|Disease
+calmettegurin|NP bcg|NP
+bcg|NP vaccine|NN human|NN france|NP acceptance|NN great|NP britain|NP germany|NP world|NN war|NN
+Tuberculosis|Disease concern|NN century|NN disease|NN
+death|NN england|NP Tuberculosis|Disease
+Tuberculosis|Disease death|NN france|NP
+Tuberculosis|Disease list|NN britain|NP campaign|NN people|NN place|NN prison|NN sanatoria|NN middle|NN class|NN care|NN attention|NN benefit|NN air|NN labor|NN sanatoria|NN condition|NN year|NN research|NN council|NN britain|NP Tuberculosis|Disease research|NN
+europe|NP rate|NN Tuberculosis|Disease peak|NN level|NN death|NN mortality|NN europe|NP improvement|NN sanitation|NN vaccination|NN public-health|NN measure|NN rate|NN Tuberculosis|Disease arrival|NN streptomycin|NN antibiotics|NN disease|NN threat|NN development|NN antibiotic|NN streptomycin|NN treatment|NN cure|NN Tuberculosis|Disease reality|NN
+introduction|NN medication|NN treatment|NN intervention|NN technique|NN lung|NN rest|NN lesion|NN
+emergence|NN Tuberculosis|Disease surgery|NN case|NN Tuberculosis|Disease infection|NN
+removal|NN chest|NN cavity|NN lung|NN number|NN bacteria|NN exposure|NN bacteria|NN antibiotics|NN bloodstream|NN hope|NN Tuberculosis|Disease rise|NN strain|NN
+resurgence|NN Tuberculosis|Disease declaration|NN health|NN emergency|NN world|NN health|NN organization|NN society|NN culture|NN name|NN
+Tuberculosis|Disease name|NN Tuberculosis|Disease
+word|NN Tuberculosis|Disease term|NN Tuberculosis|Disease bce|NP hippocrates|NP Tuberculosis|Disease disease|NN season|NN abbreviation|NN Tuberculosis|Disease tubercle|NN bacillus|NN
+Tuberculosis|Disease century|NN english|NN word|NN disease|NN
+root|NN con|NN mean|NN mean|NN
+life|NN death|NN john|NP bunyan|NP author|NN call|NN Tuberculosis|Disease captain|NN men|NN death|NN
+plague|NN art|NN literature|NN paint|NN child|NN edvard|NP munch|NP 188586|NP illness|NN sister|NN sophie|NP Tuberculosis|Disease edvard|NP mother|NN disease|NN
+article|NN Tuberculosis|Disease culture|NN
+Tuberculosis|Disease century|NN quality|NN disease|NN major|NP figure|NN poet|NN john|NP keats|NP percy|NP shelley|NP edgar|NP allan|NP poe|NP composer|NN chopin|NP playwright|NN anton|NP chekhov|NP novelist|NN franz|NP kafka|NP katherine|NP mansfield|NP charlotte|NP fyodor|NP dostoevsky|NP thomas|NP mann|NP w|NP
+somerset|NP maugham|NP george|NP orwell|NP robert|NP louis|NP stevenson|NP artist|NN alice|NP neel|NP watteau|NP elizabeth|NP marie|NP edvard|NP munch|NP aubrey|NP beardsley|NP amedeo|NP modigliani|NP disease|NN people|NN
+belief|NN Tuberculosis|Disease talent|NN
+mechanism|NN effect|NN fever|NN life|NN
+Tuberculosis|Disease theme|NN literature|NN thomas|NP mountain|NN set|NN sanatorium|NN music|NN van|NP morrisons|NP song|NN tb|NN
+sheet|NN opera|NN puccinis|NP la|NP la|NP art|NN paint|NN wife|NN camille|NP deathb|NN film|NN bell|NN st|NP
+marys|NP ingrid|NP bergman|NP nun|NN Tuberculosis|Disease health|NN effort|NN
+world|NN health|NN organization|NN bill|NN melinda|NP gates|NP foundation|NN government|NN Tuberculosis|Disease test|NN use|NN low-|NN country|NN addition|NN test|NN resistance|NN antibiotic|NN Tuberculosis|Disease hiv|NP place|NN access|NN sputum|NN microscopy|NN
+india|NP number|NN Tuberculosis|Disease case|NN part|NN disease|NN management|NN health|NN care|NN sector|NN program|NN Tuberculosis|Disease control|NN program|NN Tuberculosis|Disease level|NN people|NN health|NN care|NN
+2014|NN report|NN need|NN address|NN apathy|NN fund|NN
+report|NN Tuberculosis|Disease orphan|NN
+country|NN burden|NN donor|NN health|NN intervention|NN
+progress|NN frustration|NN executive|NN director|NN fund|NN fight|NN aid|NN Tuberculosis|Disease malaria|NN mark|NP tool|NN end|NN Tuberculosis|Disease health|NN threat|NN planet|NN
+organization|NN transparency|NN treatment|NN country|NN report|NN case|NN government|NN adherence|NN
+treatment|NN provider|NN time|NN drug|NN treatment|NN demand|NN regulation|NN government|NN brazil|NP Tuberculosis|Disease problem|NN rate|NN Tuberculosis|Disease -infection|NN number|NN program|NN infection|NN rate|NN level|NN education|NN income|NN health|NN population|NN cost|NN disease|NN world|NN bank|NN 2009|NN usd|NN year|NN burden|NN country|NN lack|NN progress|NN disease|NN lack|NN patient|NN follow-up|NN migrant|NN china|NP
+progress|NN disease|NN part|NN stigma|NN Tuberculosis|Disease stigma|NN fear|NN transmission|NN individual|NN
+stigma|NN link|NN Tuberculosis|Disease poverty|NN africa|NP aid|NN stigmatization|NN example|NN ghana|NP individual|NN Tuberculosis|Disease gather|NN
+Tuberculosis|Disease delay|NN treatment|NN treatment|NN compliance|NN family|NN member|NN cause|NN death|NN secret|NN disease|NN contrast|NN russia|NP stigma|NN treatment|NN compliance|NN Tuberculosis|Disease stigma|NN individual|NN degree|NN region|NN
+way|NN decrease|NN stigma|NN promotion|NN Tuberculosis|Disease club|NN experience|NN offer|NN support|NN study|NN Tuberculosis|Disease education|NN program|NN stigma|NN treatment|NN adherence|NN study|NN relationship|NN stigma|NN mortality|NN effort|NN decrease|NN stigma|NN aid|NN stigma|NN disease|NN healthcare|NN provider|NN stigma|NN Tuberculosis|Disease understand|NN dimension|NN Tuberculosis|Disease stigma|NN reduction|NN research|NN
+bcg|NP vaccine|NN limitation|NN research|NN Tuberculosis|Disease vaccine|NN number|NN candidate|NN phase|NN trial|NN approache|NN attempt|NN efficacy|NN vaccine|NN
+approach|NN subunit|NN vaccine|NN bcg|NP strategy|NN vaccine|NN example|NN subunit|NN vaccine|NN trial|NN south|NP africa|NP vaccinia|NN virus|NN vaccine|NN role|NN treatment|NN disease|NN
+discovery|NN researcher|NN policymaker|NN model|NN vaccine|NN development|NN prize|NN tax|NN incentive|NN advance|NN market|NN commitment|NN number|NN group|NN stop|NN Tuberculosis|Disease partnership|NN south|NN Tuberculosis|Disease initiative|NN Tuberculosis|Disease foundation|NN research|NN Tuberculosis|Disease foundation|NN gift|NN bill|NN melinda|NP gates|NP foundation|NN vaccine|NN Tuberculosis|Disease use|NN burden|NN country|NN
+number|NN medication|NN Tuberculosis|Disease bedaquiline|NN delamanid|NN
+food|NN drug|NN administration|NN fda|NN approval|NN 2012|NN safety|NN effectiveness|NN agent|NN result|NN study|NN data|NN patient|NN bedaquiline|NN addition|NN standard|NN Tuberculosis|Disease therapy|NN time|NN drug|NN journal|NN article|NN health|NN policy|NN question|NN fda|NN drug|NN ty|NN company|NN make|NN physician|NN support|NN use|NN animal|NN
+animal|NN bird|NN rodent|NN reptile|NN subspecy|NN mycobacterium|NN Tuberculosis|Disease animal|NN effort|NN Tuberculosis|Disease mycobacterium|NN cattle|NN deer|NN herd|NN new|NP zealand|NP effort|NN great|NP britain|NP
+Tuberculosis|Disease elephant|NN
+animal|NN disease|NN human|NN process|NN reverse|NN
+disease|NN air|NN human|NN animal|NN health|NN concern|NN circuse|NN zoo|NN

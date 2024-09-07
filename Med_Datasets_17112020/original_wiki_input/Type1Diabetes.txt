@@ -1,0 +1,230 @@
+Type 1 diabetes,T1D,diabetes mellitus type 1,insulin-dependent diabetes,juvenile diabetes
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Type 1 diabetes
+Other names	Diabetes mellitus type 1, insulin-dependent diabetes,[1] juvenile diabetes[2]
+Blue circle for diabetes.svg
+A blue circle, the symbol for diabetes.[3]
+Pronunciation	
+
+    /daɪəbiːtəs/ 
+
+Specialty	Endocrinology
+Symptoms	Frequent urination, increased thirst, increased hunger, weight loss[4]
+Complications	Diabetic ketoacidosis, nonketotic hyperosmolar coma, poor healing, cardiovascular disease, damage to the eyes[2][4][5]
+Usual onset	Relatively short period of time[1]
+Duration	Long term[4]
+Causes	Not enough insulin[4]
+Risk factors	Family history, celiac disease[5][6]
+Diagnostic method	Blood sugar, A1C[5][7]
+Prevention	Unknown[4]
+Treatment	Insulin, diabetic diet, exercise[1][2]
+Frequency	~7.5% of diabetes cases[8]
+
+Type 1 diabetes (T1D), also known as juvenile diabetes, is a form of diabetes in which very little or no insulin is produced by the pancreas.[4] Before treatment this results in high blood sugar levels in the body.[1] The classic symptoms are frequent urination, increased thirst, increased hunger, and weight loss.[4] Additional symptoms may include blurry vision, tiredness, and poor wound healing.[2] Symptoms typically develop over a short period of time.[1]
+
+The cause of type 1 diabetes is unknown.[4] However, it is believed to involve a combination of genetic and environmental factors.[1] Risk factors include having a family member with the condition.[5] The underlying mechanism involves an autoimmune destruction of the insulin-producing beta cells in the pancreas.[2] Diabetes is diagnosed by testing the level of sugar or glycated hemoglobin (HgbA1C) in the blood.[5][7] Type 1 diabetes can be distinguished from type 2 by testing for the presence of autoantibodies.[5]
+
+There is no known way to prevent type 1 diabetes.[4] Treatment with insulin is required for survival.[1] Insulin therapy is usually given by injection just under the skin but can also be delivered by an insulin pump.[9] A diabetic diet and exercise are important parts of management.[2] If left untreated, diabetes can cause many complications.[4] Complications of relatively rapid onset include diabetic ketoacidosis and nonketotic hyperosmolar coma.[5] Long-term complications include heart disease, stroke, kidney failure, foot ulcers and damage to the eyes.[4] Furthermore, complications may arise from low blood sugar caused by excessive dosing of insulin.[5]
+
+Type 1 diabetes makes up an estimated 5–10% of all diabetes cases.[8] The number of people affected globally is unknown, although it is estimated that about 80,000 children develop the disease each year.[5] Within the United States the number of people affected is estimated at one to three million.[5][10] Rates of disease vary widely with approximately 1 new case per 100,000 per year in East Asia and Latin America and around 30 new cases per 100,000 per year in Scandinavia and Kuwait.[11][12] It typically begins in children and young adults.[1]
+Contents
+
+    1 Signs and symptoms
+    2 Cause
+        2.1 Genetics
+        2.2 Environmental
+    3 Pathophysiology
+    4 Diagnosis
+        4.1 Autoantibodies
+    5 Prevention
+        5.1 Immunosuppressive drugs
+        5.2 Diet
+    6 Management
+        6.1 Lifestyle
+        6.2 Insulin
+        6.3 Pancreas transplantation
+        6.4 Islet cell transplantation
+    7 Complications
+        7.1 Urinary tract infection
+        7.2 Sexual dysfunction
+    8 Epidemiology
+    9 History
+    10 Society and culture
+    11 Research
+        11.1 Diet
+        11.2 Gene therapy
+        11.3 Stem cells
+        11.4 Vaccine
+    12 References
+    13 External links
+
+Signs and symptoms
+Overview of the most significant symptoms of diabetes
+A posterior subcapsular cataract is an uncommon symptom in those with type 1 DM[13]
+
+The classical symptoms of type 1 diabetes include: polyuria (increased urination), polydipsia (increased thirst), dry mouth, polyphagia (increased hunger), fatigue, and weight loss.[4]
+
+Many type 1 diabetics are diagnosed when they present with diabetic ketoacidosis. The signs and symptoms of diabetic ketoacidosis include dry skin, rapid deep breathing, drowsiness, increased thirst, frequent urination, abdominal pain, and vomiting.[14]
+
+About 12 percent of people with type 1 diabetes have clinical depression.[15]
+
+About 6 percent of people with type 1 diabetes have celiac disease, but in most cases there are no digestive symptoms[6][16] or are mistakenly attributed to poor control of diabetes, gastroparesis or diabetic neuropathy.[16] In most cases, celiac disease is diagnosed after onset of type 1 diabetes. The association of celiac disease with type 1 diabetes increases the risk of complications, such as retinopathy and mortality. This association can be explained by shared genetic factors, and inflammation or nutritional deficiencies caused by untreated celiac disease, even if type 1 diabetes is diagnosed first.[6]
+
+Some people with type 1 diabetes experience dramatic and recurrent swings in glucose levels, often occurring for no apparent reason; this is called "unstable diabetes", "labile diabetes" or "brittle diabetes".[17] The results of such swings can be irregular and unpredictable hyperglycemias, sometimes involving ketoacidosis, and sometimes serious hypoglycemias. Brittle diabetes occurs no more frequently than in 1% to 2% of diabetics.[17]
+
+Type 1 diabetes is associated with alopecia areata (AA).[18]:39–54 Type 1 diabetes is also more common in the family members of people with AA.[18]:103–133
+Cause
+
+The cause of type 1 diabetes is unknown.[4] A number of explanatory theories have been put forward, and the cause may be one or more of the following: genetic susceptibility, a diabetogenic trigger, and exposure to an antigen.[19]
+Genetics
+Main article: Genetic causes of type 1 diabetes
+
+Type 1 diabetes is a disease that involves many genes. The risk of a child developing type 1 diabetes is about 5% if the father has it, about 8% if a sibling has it, and about 3% if the mother has it.[20] If one identical twin is affected there is about a 40% chance the other will be too.[21][22] Some studies of heritability have estimated it at 80 to 86%.[23][24]
+
+More than 50 genes are associated with type 1 diabetes. Depending on locus or combination of loci, they can be dominant, recessive, or somewhere in between. The strongest gene, IDDM1, is located in the MHC Class II region on chromosome 6, at staining region 6p21. Certain variants of this gene increase the risk for decreased histocompatibility characteristic of type 1. Such variants include DRB1 0401, DRB1 0402, DRB1 0405, DQA 0301, DQB1 0302 and DQB1 0201, which are common in North Americans of European ancestry and in Europeans.[25] Some variants also appear to be protective.[25]
+Environmental
+
+There is on the order of a 10-fold difference in occurrence among Caucasians living in different areas of Europe, and people tend to acquire the disease at the rate of their particular country.[19] Environmental triggers and protective factors under research include dietary agents such as proteins in gluten,[26] time of weaning, gut microbiota,[27] viral infections,[28] and bacterial infections like paratuberculosis.[29]
+Chemicals and drugs
+
+Some chemicals and drugs selectively destroy pancreatic cells. Pyrinuron (Vacor), a rodenticide introduced in the United States in 1976, selectively destroys pancreatic beta cells, resulting in type 1 diabetes after accidental poisoning.[30] Pyrinuron was withdrawn from the U.S. market in 1979 and it is not approved by the Environmental Protection Agency for use in the U.S.[31] Streptozotocin (Zanosar), an antineoplastic agent, is selectively toxic to the beta cells of the pancreatic islets. It is used in research for inducing type 1 diabetes on rodents[32] and for treating metastatic cancer of the pancreatic islet cells in patients whose cancer cannot be removed by surgery.[33] Other pancreatic problems, including trauma, pancreatitis, or tumors (either malignant or benign) can also lead to loss of insulin production.
+
+Monoclonal antibodies used for the treatment of cancer (checkpoint inhibitors inhibiting PD-1 and PD-L1), especially nivolumab and pembrolizumab have been reported to occasionally induce autoimmune diabetes.[34]
+Pathophysiology
+
+The pathophysiology in diabetes type 1 is a destruction of beta cells in the pancreas, regardless of which risk factors or causative entities have been present.
+
+Individual risk factors can have separate pathophysiological processes to, in turn, cause this beta cell destruction. Still, a process that appears to be common to most risk factors is a type IV hypersensitivity autoimmune response towards beta cells, involving an expansion of autoreactive CD4+ T helper cells and CD8+ T cells, autoantibody-producing B cells and activation of the innate immune system.[25][35]
+
+After starting treatment with insulin a person's own insulin levels may temporarily improve.[36] This is believed to be due to altered immunity and is known as the "honeymoon phase".[36]
+Diagnosis
+See also: Glycated hemoglobin and Glucose tolerance test
+WHO diabetes diagnostic criteria[37][38]  edit Condition 	2-hour glucose 	Fasting glucose 	HbA1c
+Unit 	mmol/l(mg/dl) 	mmol/l(mg/dl) 	mmol/mol 	DCCT %
+Normal 	<7.8 (<140) 	<6.1 (<110) 	<42 	<6.0
+Impaired fasting glycaemia 	<7.8 (<140) 	≥6.1(≥110) & <7.0(<126) 	42-46 	6.0–6.4
+Impaired glucose tolerance 	≥7.8 (≥140) 	<7.0 (<126) 	42-46 	6.0–6.4
+Diabetes mellitus 	≥11.1 (≥200) 	≥7.0 (≥126) 	≥48 	≥6.5
+
+Diabetes mellitus is characterized by recurrent or persistent hyperglycemia, and is diagnosed by demonstrating any one of the following:[39]
+
+    Fasting plasma glucose level at or above 7.0 mmol/l (126 mg/dl).
+    Plasma glucose at or above 11.1 mmol/l (200 mg/dl) two hours after a 75 g oral glucose load as in a glucose tolerance test.
+    Symptoms of hyperglycemia and casual plasma glucose at or above 11.1 mmol/l (200 mg/dl).
+    Glycated hemoglobin (hemoglobin A1C) at or above 48 mmol/mol (≥ 6.5 DCCT %). (This criterion was recommended by the American Diabetes Association in 2010, although it has yet to be adopted by the WHO.)[40]
+
+About a quarter of people with new type 1 diabetes have developed some degree of diabetic ketoacidosis (a type of metabolic acidosis which is caused by high concentrations of ketone bodies, formed by the breakdown of fatty acids and the deamination of amino acids) by the time the diabetes is recognized. The diagnosis of other types of diabetes is usually made in other ways. These include ordinary health screening, detection of hyperglycemia during other medical investigations, and secondary symptoms such as vision changes or unexplained fatigue. Diabetes is often detected when a person suffers a problem that may be caused by diabetes, such as a heart attack, stroke, neuropathy, poor wound healing or a foot ulcer, certain eye problems, certain fungal infections, or delivering a baby with macrosomia or hypoglycemia (low blood sugar).[citation needed]
+
+A positive result, in the absence of unequivocal hyperglycemia, should be confirmed by a repeat of any of the above-listed methods on a different day. Most physicians prefer to measure a fasting glucose level because of the ease of measurement and the considerable time commitment of formal glucose tolerance testing, which takes two hours to complete and offers no prognostic advantage over the fasting test.[41] According to the current definition, two fasting glucose measurements above 126 mg/dl (7.0 mmol/l) is considered diagnostic for diabetes mellitus.[citation needed]
+
+In type 1, pancreatic beta cells in the islets of Langerhans are destroyed, decreasing endogenous insulin production. This distinguishes type 1's origin from type 2. Type 2 diabetes is characterized by insulin resistance, while type 1 diabetes is characterized by insulin deficiency, generally without insulin resistance. Another hallmark of type 1 diabetes is islet autoreactivity, which is generally measured by the presence of autoantibodies directed towards the beta cells.[citation needed]
+Autoantibodies
+
+The appearance of diabetes-related autoantibodies has been shown to be able to predict the appearance of diabetes type 1 before any hyperglycemia arises, the main ones being islet cell autoantibodies, insulin autoantibodies, autoantibodies targeting the 65-kDa isoform of glutamic acid decarboxylase (GAD), autoantibodies targeting the phosphatase-related IA-2 molecule, and zinc transporter autoantibodies (ZnT8).[19] By definition, the diagnosis of diabetes type 1 can be made first at the appearance of clinical symptoms and/or signs, but the emergence of autoantibodies may itself be termed "latent autoimmune diabetes". Not everyone with autoantibodies progresses to diabetes type 1, but the risk increases with the number of antibody types, with three to four antibody types giving a risk of progressing to diabetes type 1 of 60–100%.[19] The time interval from emergence of autoantibodies to clinically diagnosable diabetes can be a few months in infants and young children, but in some people it may take years – in some cases more than 10 years.[19] Islet cell autoantibodies are detected by conventional immunofluorescence, while the rest are measured with specific radiobinding assays.[19]
+Prevention
+
+Type 1 diabetes is not currently preventable.[42] Some researchers believe it might be prevented at the latent autoimmune stage, before it starts destroying beta cells.[25]
+Immunosuppressive drugs
+
+Cyclosporine A, an immunosuppressive agent, has apparently halted destruction of beta cells (on the basis of reduced insulin usage), but its kidney toxicity and other side effects make it highly inappropriate for long-term use.[25]
+
+Anti-CD3 antibodies, including teplizumab and otelixizumab, had suggested evidence of preserving insulin production (as evidenced by sustained C-peptide production) in newly diagnosed type 1 diabetes patients.[25] A probable mechanism of this effect was believed to be preservation of regulatory T cells that suppress activation of the immune system and thereby maintain immune system homeostasis and tolerance to self-antigens.[25] The duration of the effect is still unknown, however.[25] In 2011, Phase III studies with otelixizumab and teplizumab both failed to show clinical efficacy, potentially due to an insufficient dosing schedule.[43][44]
+
+An anti-CD20 antibody, rituximab, inhibits B cells and has been shown to provoke C-peptide responses three months after diagnosis of type 1 diabetes, but long-term effects of this have not been reported.[25]
+Diet
+
+Some research has suggested breastfeeding decreases the risk in later life[45][46] and early introduction of gluten-containing cereals in the diet increases the risk of developing islet cell autoantibodies;[47] various other nutritional risk factors are being studied, but no firm evidence has been found.[48] Giving children 2000 IU of vitamin D daily during their first year of life is associated with reduced risk of type 1 diabetes, though the causal relationship is obscure.[49]
+
+Children with antibodies to beta cell proteins (i.e. at early stages of an immune reaction to them) but no overt diabetes, and treated with niacinamide (vitamin B3), had less than half the diabetes onset incidence in a seven-year time span than did the general population, and an even lower incidence relative to those with antibodies as above, but who received no niacinamide.[50]
+
+People with type 1 diabetes and undiagnosed celiac disease have worse glycaemic control and a higher prevalence of nephropathy and retinopathy. Gluten-free diet, when performed strictly, improves diabetes symptoms and appears to have a protective effect against developing long-term complications. Nevertheless, dietary management of both these diseases is challenging and these patients have poor compliance of the diet.[51]
+Management
+Further information: Diabetes management
+
+Diabetes is often managed by a number of health care providers including a dietitian, nurse educator, eye doctor, endocrinologist, and podiatrist.[52]
+Lifestyle
+
+There is limited evidence for the usefulness of routine use of low-carbohydrate dieting for people with type 1 diabetes.[53] Although for certain individuals it may be feasible to follow a low-carbohydrate regime combined with carefully-managed insulin dosing, this is hard to maintain and there are concerns about possible adverse health effects caused by the diet.[53] In general people with type 1 diabetes are advised to follow an individualized eating plan rather than a pre-decided one.[53]
+
+There are camps for children to teach them how and when to use or monitor their insulin without parental help.[54] As psychological stress may have a negative effect on diabetes, a number of measures have been recommended including: exercising, taking up a new hobby, or joining a charity, among others.[55]
+Insulin
+Main article: Insulin therapy
+
+Injections of insulin – either via subcutaneous injection or insulin pump – are necessary for those living with type 1 diabetes because it cannot be treated by diet and exercise alone.[56] Insulin dosage is adjusted taking into account food intake, blood glucose levels and physical activity.
+
+Untreated type 1 diabetes can commonly lead to diabetic ketoacidosis which can result in death.[57] Diabetic ketoacidosis can cause cerebral edema (accumulation of liquid in the brain). This is a life-threatening issue and children are at a higher risk for cerebral edema than adults, causing ketoacidosis to be the most common cause of death in pediatric diabetes.[58]
+
+Treatment of diabetes focuses on lowering blood sugar or glucose (BG) to the near normal range, approximately 80–140 mg/dl (4.4–7.8 mmol/l).[59] The ultimate goal of normalizing BG is to avoid long-term complications that affect the nervous system (e.g. peripheral neuropathy leading to pain and/or loss of feeling in the extremities), and the cardiovascular system (e.g. heart attacks, vision loss). This level of control over a prolonged period of time can be varied by a target HbA1c level of less than 7.5%.[5]
+
+There are four main types of insulin: rapid acting insulin, short-acting insulin, intermediate-acting insulin, and long-acting insulin. The rapid acting insulin is used as a bolus dosage. The action onsets in 15 minutes with peak actions in 30 to 90 minutes. Short acting insulin action onsets within 30 minutes with the peak action around 2 to 4 hours. Intermediate acting insulin action onsets within one to two hours with peak action of four to 10 hours. Long-acting insulin is usually given at the same time once per day.[60] The action onset is roughly 1 to 2 hours with a sustained action of up to 24 hours. Some insulins are biosynthetic products produced using genetic recombination techniques; formerly, cattle or pig insulins were used, and even sometimes insulin from fish.[61]
+
+People with type 1 diabetes always need to use insulin, but treatment can lead to low BG (hypoglycemia), i.e. BG less than 70 mg/dl (3.9 mmol/l). Hypoglycemia is a very common occurrence in people with diabetes, usually the result of a mismatch in the balance among insulin, food and physical activity. Symptoms include excess sweating, excessive hunger, fainting, fatigue, lightheadedness and shakiness.[62] Mild cases are self-treated by eating or drinking something high in sugar. Severe cases can lead to unconsciousness and are treated with intravenous glucose or injections with glucagon. Continuous glucose monitors can alert patients to the presence of dangerously high or low blood sugar levels, but continuous glucose monitors still have a margin of error.[63]
+
+As of 2016 an artificial pancreas looks promising with safety issues still being studied.[64] In 2018 they were deemed to be relatively safe.[65]
+Pancreas transplantation
+Main article: Pancreas transplantation
+
+In some cases, a pancreas transplant can restore proper glucose regulation. However, the surgery and accompanying immunosuppression required may be more dangerous than continued insulin replacement therapy, so is generally only used with or some time after a kidney transplant. One reason for this is that introducing a new kidney requires taking immunosuppressive drugs such as cyclosporine, which allows the introduction of a new pancreas to a person with diabetes without any additional immunosuppressive therapy. However, pancreas transplants alone may be beneficial in people with extremely labile type 1 diabetes.[66]
+Islet cell transplantation
+Main article: Islet cell transplantation
+
+Islet cell transplantation may be an option for some people with type 1 diabetes that is not well controlled with insulin.[67] Difficulties include finding donors that are compatible, getting the new islets to survive, and the side effects from the medications used to prevent rejection.[67][68] Success rates, defined as not needing insulin at 3 years following the procedure, occurred in 44% of people on registry from 2010.[67] In the United States, as of 2016, it is considered an experimental treatment.[68]
+Complications
+Further information: Complications of diabetes
+
+Complications of poorly managed type 1 diabetes may include cardiovascular disease, diabetic neuropathy, and diabetic retinopathy, among others. However, cardiovascular disease[69] as well as neuropathy[70] may have an autoimmune basis, as well. Women with type 1 DM have a 40% higher risk of death as compared to men with type 1 DM.[71] The life expectancy of an individual with type 1 diabetes is 11 years less for men and 13 years less for women.[72] People with type 1 diabetes are higher risk for other autoimmune diseases, such as autoimmune thyroid disease, celiac disease, rheumatoid arthritis, and lupus.[73]
+Urinary tract infection
+
+People with diabetes show an increased rate of urinary tract infection.[74] The reason is bladder dysfunction that is more common in diabetics than in non-diabetics due to diabetic nephropathy. When present, nephropathy can cause a decrease in bladder sensation, which in turn, can cause increased residual urine, a risk factor for urinary tract infections.[75]
+Sexual dysfunction
+
+Sexual dysfunction in diabetics is often a result of physical factors such as nerve damage and poor circulation, and psychological factors such as stress and/or depression caused by the demands of the disease.[76]
+Males
+
+The most common sexual issues in diabetic males are problems with erections and ejaculation: "With diabetes, blood vessels supplying the penis’s erectile tissue can get hard and narrow, preventing the adequate blood supply needed for a firm erection. The nerve damage caused by poor blood glucose control can also cause ejaculate to go into the bladder instead of through the penis during ejaculation, called retrograde ejaculation. When this happens, semen leaves the body in the urine." Another cause of erectile dysfunction is reactive oxygen species created as a result of the disease. Antioxidants can be used to help combat this.[77]
+Females
+
+Studies find a significant prevalence of sexual problems in diabetic women,[76] including reduced sensation in the genitals, dryness, difficulty/inability to orgasm, pain during sex, and decreased libido. Diabetes sometimes decreases estrogen levels in females, which can affect vaginal lubrication. Less is known about the correlation between diabetes and sexual dysfunction in females than in males.[76]
+
+Oral contraceptive pills can cause blood sugar imbalances in diabetic women. Dosage changes can help address that, at the risk of side effects and complications.[76]
+
+Women with type 1 diabetes show a higher than normal rate of polycystic ovarian syndrome (PCOS).[78] The reason may be that the ovaries are exposed to high insulin concentrations since women with type 1 diabetes can have frequent hyperglycemia.[79]
+Epidemiology
+
+Type 1 diabetes makes up an estimated 5–10% of all diabetes cases[8] or 11–22 million worldwide.[42] In 2006 it affected 440,000 children under 14 years of age and was the primary cause of diabetes in those less than 10 years of age.[80] The incidence of type 1 diabetes has been increasing by about 3% per year.[80]
+
+Rates vary widely by country. In Finland, the incidence is a high of 57 per 100,000 per year, in Japan and China a low of 1 to 3 per 100,000 per year, and in Northern Europe and the U.S., an intermediate of 8 to 17 per 100,000 per year.[81][82]
+
+In the United States, type 1 diabetes affected about 208,000 youths under the age of 20 in 2015. Over 18,000 youths are diagnosed with Type 1 diabetes every year. Every year about 234,051 Americans die due to diabetes (type I or II) or diabetes-related complications, with 69,071 having it as the primary cause of death.[83]
+
+In Australia, about one million people have been diagnosed with diabetes and of this figure 130,000 people have been diagnosed with type 1 diabetes. Australia ranks 6th-highest in the world with children under 14 years of age. Between 2000 and 2013, 31,895 new cases were established, with 2,323 in 2013, a rate of 10–13 cases per 100,00 people each year. Aboriginals and Torres Strait Islander people are less affected.[84][85]
+History
+Further information: History of diabetes
+
+Type 1 diabetes was described as an autoimmune disease in the 1970s, based on observations that autoantibodies against islets were discovered in diabetics with other autoimmune deficiencies.[86] It was also shown in the 1980s that immunosuppressive therapies could slow disease progression, further supporting the idea that type 1 diabetes is an autoimmune disorder.[87] The name juvenile diabetes was used earlier as it often first is diagnosed in childhood.
+Society and culture
+See also: List of people with type 1 diabetes
+
+Type 1 and 2 diabetes was estimated to cause $10.5 billion in annual medical costs ($875 per month per diabetic) and an additional $4.4 billion in indirect costs ($366 per month per person with diabetes) in the U.S.[88] In the United States $245 billion every year is attributed to diabetes. Individuals diagnosed with diabetes have 2.3 times the health care costs as individuals who do not have diabetes. One in ten health care dollars are spent on individuals with type 1 and 2 diabetes.[83]
+Research
+
+Funding for research into type 1 diabetes originates from government, industry (e.g., pharmaceutical companies), and charitable organizations. Government funding in the United States is distributed via the National Institute of Health, and in the UK via the National Institute for Health Research or the Medical Research Council. The Juvenile Diabetes Research Foundation (JDRF), founded by parents of children with type 1 diabetes, is the world's largest provider of charity-based funding for type 1 diabetes research.[citation needed] Other charities include the American Diabetes Association, Diabetes UK, Diabetes Research and Wellness Foundation,[89] Diabetes Australia, the Canadian Diabetes Association.
+
+A number of approaches have been explored to understand causes and provide treatments for type 1.
+Diet
+
+Data suggest that gliadin (a protein present in gluten) might play a role in the development of type 1 diabetes, but the mechanism is not fully understood.[26][47] Increased intestinal permeability caused by gluten and the subsequent loss of intestinal barrier function, which allows the passage of pro-inflammatory substances into the blood, may induce the autoimmune response in genetically predisposed individuals to type 1 diabetes.[6][47] There is evidence from experiments conducted in animal models that removal of gluten from the diet may prevent the onset of type 1 diabetes[26][90] but there has been conflicting research in humans.[90]
+Virus
+
+One theory proposes that type 1 diabetes is a virus-triggered autoimmune response in which the immune system attacks virus-infected cells along with the beta cells in the pancreas.[28][91] Several viruses have been implicated, including enteroviruses (especially coxsackievirus B), cytomegalovirus, Epstein–Barr virus, mumps virus, rubella virus and rotavirus, but to date there is no stringent evidence to support this hypothesis in humans.[92] A 2011 systematic review and meta-analysis showed an association between enterovirus infections and type 1 diabetes, but other studies have shown that, rather than triggering an autoimmune process, enterovirus infections, as coxsackievirus B, could protect against onset and development of type 1 diabetes.[93] Some studies have found a decreased risk with oral rotavirus vaccine while others found no effect.[94][95]
+Gene therapy
+
+Gene therapy has also been proposed as a possible cure for type 1 diabetes.[96]
+Stem cells
+
+Pluripotent stem cells can be used to generate beta cells but previously these cells did not function as well as normal beta cells.[97] In 2014 more mature beta cells were produced which released insulin in response to blood sugar when transplanted into mice.[98][99] Before these techniques can be used in humans more evidence of safety and effectiveness is needed.[97]
+Vaccine
+
+Vaccines are being looked at to treat or prevent type 1 diabetes by inducing immune tolerance to insulin or pancreatic beta cells.[100] While Phase II clinical trials of a vaccine containing alum and recombinant GAD65, an autoantigen involved in type 1 diabetes, were promising, as of 2014 Phase III had failed.[100] As of 2014, other approaches, such as a DNA vaccine encoding proinsulin and a peptide fragment of insulin, were in early clinical development.[100] The rotavirus vaccine and BCG vaccine are associated with a lower risk of type 1 diabetes.[101][102][103] Research continues to look at the BCG vaccine in type 1 diabetes as of 2019.[103] 

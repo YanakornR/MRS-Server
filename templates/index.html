@@ -1,0 +1,1487 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TMRS</title>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    
+    
+</head>
+
+<body class="background">
+    
+    <!-- Search Box -->
+    <div id="head-block">
+    <div id="logo-block" style= 'cursor: pointer' onclick="window.location='';"><h2>TMRS</h2></div>
+    <div class="container">
+    <div class="row">
+        <form action ="/" method="POST">
+        <div id="custom-search-input">
+        <div class="input-group col-md-12">
+            <input type="text" name="symptoms" class="search-query form-control" placeholder="Search" id="mySearch" autocomplete="off" required/>
+            <span class="input-group-btn">
+            <button class="btn btn-danger" type="submit">
+            <span class=" glyphicon glyphicon-search"></span>
+            </button>
+            </span>
+        </div>
+        </div>
+        </form>
+    </div>
+    </div>
+    </div>
+    <!-- End Search Box -->
+
+    <!-- Main block-->
+    <div id="block-main">
+    
+    {% if diseases %}
+    <!-- Symptoms block-->
+    <div id="symptoms-block">
+        <div style="padding: 10px;">
+        <p style="border:1px; border-style:solid; border-color:rgb(15, 153, 217); padding: 5px; color: #e8ebee;">
+            Keywords
+        </p>
+        </div>
+           
+        <!-- Display symptoms list -->
+        <table class="symptomstable" id="symtomslist">
+        </table>
+        <!--
+        <input class="symptominput-list" type="text" id="symptomitem"> 
+        <button class="symptomaddbtn" id="addsymptom">Add</button>
+        <div align="center"><button class="symptomsubmitbtn" onclick="centroid_calculation()">Submit</button></div>-->
+        
+    </div>
+    <!-- Table result block-->
+    <div id="block-result">
+        <!-- result add in javascript-->
+        <table id="disease_table">
+        </table>
+    </div>
+    
+    <!-- End table result block-->
+
+
+    <!-- Fish eye block-->
+    <div id="block-eyefish">
+    
+    <script src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript">
+        
+        var w = 550;
+		var h = 550;
+        var ptop = 70;
+        var pright = 250;
+        var node_radius = 6;
+        var py_symptoms = JSON.parse('{{ symptoms|tojson }}');
+        var py_diseases = JSON.parse('{{ diseases|tojson }}');
+ 		var dataset = {
+			nodes:  JSON.parse('{{ node|tojson }}'),
+			edges: JSON.parse('{{ edge|tojson }}')
+		};
+        var force;
+        var node_drag;
+        var circle4;
+        var circle3;
+        var circle2;
+        var circle1;
+        var svg;
+        var zoomContainer;
+        var edges;
+        var nodes;
+        var label;
+        //Right click menu 
+        var menu = [
+                    'Info',
+                    'Move to center',
+                    'Remove node',
+                    'Direct connected',
+                    'More relevant'
+                    ];
+        var symptomlist = [];
+        var ullist = document.getElementById('symtomslist');
+        var diseasetable = document.getElementById('disease_table');
+        var add = document.getElementById('addsymptom');
+
+        function graph_background(){
+            
+            circle4 = d3.select("body")
+						.append("svg")
+                        .style("position", "absolute")
+                        .style("top", (ptop)+"px")
+                        .style("right", (pright)+"px")
+                        .style("background", "rgb(161, 157, 157,0.1)")
+                        .style("border-radius", "100%")
+                        .style("box-shadow", "0 0 20px rgba(15, 153, 217)")
+                        .attr("width", w)
+						.attr("height",h);
+                        
+            circle3 = d3.select("body")
+						.append("svg")
+                        .style("position", "absolute")
+                        .style("top", (ptop+75)+"px")
+                        .style("right", (pright+75)+"px")
+                        .style("background", "rgba(83, 118, 233, 0.1)")
+                        .style("border-radius", "100%")
+                        .style("border-style", "solid")
+                        .style("border-color", "rgb(86, 161, 211)")
+                        .style("border-width", "3px")
+                        .attr("width", "400")
+						.attr("height", "400");
+            
+            circle2 = d3.select("body")
+						.append("svg")
+                        .style("position", "absolute")
+                        .style("top", (ptop+125)+"px")
+                        .style("right", (pright+125)+"px")
+                        .style("background", "rgba(83, 118, 233, 0.2)")
+                        .style("border-radius", "100%")
+                        .style("border-style", "solid")
+                        .style("border-color", "rgb(86, 161, 211)")
+                        .style("border-width", "3px")
+                        .attr("width", "300")
+						.attr("height", "300");
+
+            circle1 = d3.select("body")
+						.append("svg")
+                        .style("position", "absolute")
+                        .style("top", (ptop+225)+"px")
+                        .style("right", (pright+225)+"px")
+                        .style("background", "rgb(161, 157, 157,.2)")
+                        .style("border-radius", "100%")
+                        .style("border-style", "solid")
+                        .style("border-color", "rgb(240, 85, 28)")
+                        .style("border-width", "5px")
+                        .attr("width", "100")
+						.attr("height", "100");
+            svg = d3.select("body")
+						.append("svg")
+                        .style("position", "absolute")
+                        .style("top", (ptop)+"px")
+                        .style("right", (pright)+"px")
+                        .style("border-radius", "100%")
+                        .attr("width", w)
+						.attr("height", h);
+        }
+        
+        function create_graph(){
+
+            force = d3.layout.force()
+                    .nodes(dataset.nodes)
+                    .links(dataset.edges)
+                    .size([w, h])
+                    .linkDistance([100])
+                    .charge([-150])
+                    .start();
+
+            node_drag = d3.behavior.drag()
+                    .on("dragstart", dragstart)
+                    .on("drag", dragmove)
+                    .on("dragend", dragend);
+
+            zoomContainer = svg.call(d3.behavior.zoom().on("zoom", function () {
+                                //console.log("translate : "+d3.event.translate);
+                                //console.log("scal : "+d3.event.scale);
+                                circle3.style("background", "rgba(83, 118, 233, 0)")
+                                        .style("border-width", "0px");
+                                circle2.style("background", "rgba(83, 118, 233, 0)")
+                                        .style("border-width", "0px");
+                                circle1.style("background", "rgba(83, 118, 233, 0)")
+                                        .style("border-width", "0px");
+                                zoomContainer.attr("transform",                           
+                                                "translate(" + d3.event.translate + ")"
+                                                + " scale(" + d3.event.scale + ")"
+                                );
+                            }))
+                            .append("g");
+                            
+		    edges = zoomContainer.selectAll("line")
+						.data(dataset.edges)
+						.enter().append("line")
+						//.style("stroke", "white")
+                        .style("stroke", function(d){
+                            return d.color;
+                        })
+                        .style("stroke-opacity", 0.5)
+                        .style("stroke-width", 0.5)
+                        //.style("filter", "drop-shadow(0px 0px 2px rgb(15, 153, 217))")
+
+            nodes = zoomContainer.selectAll("circle")
+						.data(dataset.nodes)
+				        .enter().append("circle")
+                        .attr("r", node_radius)
+                        .style("filter", function (d) {
+                            // Label input symptoms by color
+                            if(symptomlist.includes(d.name)){
+                                return "drop-shadow(0px 0px 9px rgba(35, 65, 2, 0.966))";
+                            }
+                            else{
+                                return "drop-shadow(0px 0px 9px "+d.rgba+")";
+                            }
+                        })
+						.style("fill", "white")
+                        .style("stroke", function (d) {
+                            // Label input symptoms by color
+                            if(symptomlist.includes(d.name)){
+                                return "rgba(35, 65, 2, 0.966)";
+                            }
+                            else{
+                                return d.rgba;
+                            }
+                        })
+                        .style("stroke-opacity", .5)
+                        .style("stroke-width", 5)
+                        //.on("click", click)
+                        .on("contextmenu", function (d, i) { 
+                            // create the div element that will hold the context menu
+                            d3.selectAll('.context-menu')
+                                .data([1])
+                                .enter()
+                                .append('div')
+                                .attr('class', 'context-menu');
+                            // close menu
+                            d3.select('body').on('click.context-menu', function() {
+                            d3.select('.context-menu').style('display', 'none');
+                            });
+                            // this gets executed when a contextmenu event occurs
+                            d3.selectAll('.context-menu')
+                                .html('')
+                                .append('ul')
+                                .selectAll('li')
+                                .data(menu)
+                                .enter()
+                                .append('li')
+                                .text(function (d) {
+                                    return d;
+                                })
+                                .on('click', function(clickmenu) {
+                                    if(clickmenu == 'Info'){
+                                        Document_box(d);
+                                    }
+                                    else if(clickmenu == 'Move to center'){
+                                        get_node_symptoms(d);
+                                    }
+                                    else if(clickmenu == 'Add keyword'){
+                                        add_symptom(d);
+                                    }
+                                    else if(clickmenu == 'Remove node'){
+                                        click_remove_node(d);
+                                    }
+                                    else if(clickmenu == 'Direct connected'){
+                                        direct_connected_nodes(d);
+                                    }
+                                    else if(clickmenu == 'More relevant'){
+                                        more_relevant(d);
+                                    }
+                                    d3.select('.context-menu').style('display', 'none');
+                                });
+
+                            d3.select('.context-menu').style('display', 'none');
+                            // show the context menu
+                            d3.select('.context-menu')
+                                .style('left', (d3.event.pageX + 3) + 'px')
+                                .style('top', (d3.event.pageY - 2) + 'px')
+                                .style('display', 'block');
+                            d3.event.preventDefault();
+                        })                    
+                        .call(node_drag);
+            
+		    label = zoomContainer.selectAll("text")
+						.data(dataset.nodes)
+						.enter()
+						.append("text")
+					    .text(function (d) { return d.name; })
+					    .style("text-anchor", "middle")
+					    .style("fill", "rgb(156, 204, 236)")
+					    .style("font-family", "Arial")
+					    .style("font-size", (node_radius*2+2)+"px");
+            
+            force.on("tick", tick);
+        }
+	
+        function dragstart(d, i) {
+		    force.stop() // stops the force auto positioning before you start dragging
+	    }
+
+        function dragmove(d, i) {
+            d.px += d3.event.dx;
+            d.py += d3.event.dy;
+            d.x += d3.event.dx;
+            d.y += d3.event.dy; 
+            tick(); // this is the key to make it work together with updating both px,py,x,y on d !
+        
+        }
+
+        function dragend(d, i) {
+            d.fixed = true; // of course set the node to fixed so the force doesn't include the node in its auto positioning stuff
+            tick();
+            force.resume();
+                   
+        }
+           
+        //Node and edge position
+        function tick(){
+            d3.selectAll('circle').attr("transform", function(d) { 
+                //console.log(d.name+", translate("+d.x + "," + d.y + ")");
+                return "translate(" + (d.x) + "," + (d.y) + ")"; });
+            d3.selectAll('line')
+                .attr("x1", function(d) { return d.source.x; })
+                .attr("y1", function(d) { return d.source.y; })
+                .attr("x2", function(d) { return d.target.x; })
+                .attr("y2", function(d) { return d.target.y; });
+            
+            d3.selectAll('text').attr("x", function(d){ return d.x; })
+                .attr("y", function (d) {return d.y - 10; });
+
+            
+        }
+
+        // ************************* Click Change Centroid ****************************** 
+        function click(d){ 
+            console.log(d.name)
+            
+            $.ajax({
+                url: "/re_centroid",
+                type: "post", //send it through get method
+                data:{'centroid': d.name},
+               
+            })
+            .done(function(data){
+                if(data.error){
+                    console.log("Error")
+                }
+                else{
+                  
+                    update_position = data.node
+                    nodes.each(function(n, i){
+                        n.px = update_position[i].x;
+                        n.py = update_position[i].y;
+                        n.x = update_position[i].x;
+                        n.y = update_position[i].y; 
+                    });
+                    
+                }
+
+            });
+        }
+
+        // ************************* Display Node Document ****************************** 
+        function Document_box(d){
+            //console.log(d.name)
+         	  
+            $.ajax({
+                url: "/send_document",
+                type: "post", //send it through get method
+                data:{'over_node': d.name},
+               
+            })
+            .done(function(data){
+                if(data.error){
+                    console.log("Error")
+                }
+                else{
+                    //console.log("Document of :"+data.read)
+                    
+                    // Define the div for the tooltip
+                    var div = d3.select("body").append("div")	
+                        .attr("class", "tooltip")
+                        .style("width", 610 +"px")
+						.style("height", 610 +"px");
+                   
+                    div.transition()		
+                        .style("opacity", 1);
+                    if(data.read != null){
+                        
+                        div.html("<span class='close' style='padding:3px;'  onclick='$(this).parent().remove();'>x</span>"+
+                                "<iframe src='"+data.read+"' style=' width: 610px; height: 580px;'></iframe>");	
+                    }
+                    else{
+                        div.html("<span class='close' style='padding:3px;'  onclick='$(this).parent().remove();'>x</span>"+
+                                "<br><br><br><br><br><br><br><br><br><br><br><br><br><br> No document for this node..");	
+                    }
+                    //div.style("left", (d.x) + "px")		
+                    //    .style("top", (d.y - 28) + "px")
+                    div.style("right", 20 + "px")		
+                        .style("top", 10 + "px")
+             
+                            
+                }
+
+            });
+        }
+
+        // ************************* Get node symptoms ********************************** 
+        function get_node_symptoms(d){
+            console.log("Get nieghbors of :"+d.name);
+            $.ajax({
+                url: "/node_symptoms",
+                type: "post", //send it through get method
+                data:{'node': d.name},
+               
+            })
+            .done(function(data){
+                if(data.error){
+                    console.log("Error")
+                }
+                else{
+                    remove_graph();
+                    node_radius = 6;
+                    dataset = {
+                        nodes: data.nodes,
+                        edges: data.edges
+                    };
+                    create_graph();
+                    reset_cost_nodes_output();
+                }
+            });
+        }
+        
+         
+        // ************************* Get main centroid graph ****************************
+        function centroid_graph(){
+            $.ajax({
+                url: "/centroid_graph"
+               
+            })
+            .done(function(data){
+                if(data.error){
+                    console.log("Error")
+                }
+                else{
+                    remove_graph()
+                    dataset = {
+                        nodes: data.nodes,
+                        edges: data.edges
+                    };
+                    node_radius = 6;
+                    create_graph();
+                    circle3.style("background", "rgba(83, 118, 233, 0.1)")
+                            .style("border-width", "3px");
+                    circle2.style("background", "rgba(83, 118, 233, 0.2)")
+                            .style("border-width", "3px");
+                    circle1.style("background", "rgb(161, 157, 157,.2)")
+                            .style("border-width", "5px");
+                    reset_cost_nodes_output();
+                }
+            });
+        }
+        
+        // ************************* Remove graph ***************************************
+        function remove_graph(){
+            nodes.remove();
+            edges.remove();
+            label.remove();
+        }
+        
+        // ************************* Recieve diseases, symptoms from python *************
+        function get_symptomslist(){
+            var column = document.createElement('TR');
+            ullist.appendChild(column);
+            column.innerHTML = "<td style='text-align:left; font-size: 10pt;'>Name</td>"+
+                                "<td style='text-align:center; font-size: 10pt;'>Frequency</td>"+
+                                "<td style='text-align:center; font-size: 10pt;'>Distance</td>";
+            
+            for(var symp in py_symptoms){
+                var newElement = document.createElement('TR');
+                symptomlist.push(symp); // store in list
+                ullist.appendChild(newElement);
+                newElement.setAttribute('rel', symp);
+                newElement.innerHTML = "<td style='text-align:left; '>"+symp+"</td>";
+                newElement.innerHTML += "<td style='text-align:center;'>"+py_symptoms[symp][0]+"</td>";
+                newElement.innerHTML += "<td style='text-align:center;'>"+py_symptoms[symp][1]+"</td>";
+            }
+
+        }
+        
+        function get_diseaseslist(){
+            
+            var boxhead = document.createElement('TR');
+            diseasetable.appendChild(boxhead);
+            boxhead.innerHTML = "<th style='padding: 10px;' colspan='5'>"+
+                                "<p style='border:1px; border-style:solid; border-color:rgb(15, 153, 217); padding: 4px; color: #e8ebee;'>"+
+                                "Centroid Calculation"+
+                                "<button class='currentbtn' onclick='current_graph()'>Current Graph</button>"+
+                                "<button class='centroidbtn' onclick='centroid_graph()'>Centroid</button>"+
+                                "</p>"+
+                                "</th>";
+            var columtitle = document.createElement('TR');
+            diseasetable.appendChild(columtitle);
+            columtitle.innerHTML = "<td style='font-size: 10pt;'></td>"+
+                                    "<td style='text-align:left; font-size: 10pt;'>Name</td>"+
+                                    "<td style='text-align:left; font-size: 10pt;'>Average&nbsp;Distance</td>"+
+                                    "<td style='text-align:left; font-size: 10pt;'>Hop</td>"+
+                                    "<td style='text-align:left; font-size: 10pt;'>Symptoms</td>";
+
+            // for disease list that the result from python.
+            var number = 1;
+            var sortable = [];
+
+            for (var candidate in py_diseases) {
+                sortable.push([candidate, py_diseases[candidate][0]]);
+            }
+
+            sortable.sort(function(a, b) {
+                return a[1] - b[1];
+            });
+                 
+                
+          
+            for(s in sortable){
+                var newElement = document.createElement('TR');
+                var name = sortable[s][0]
+                var distance = sortable[s][1]
+                var hop = py_diseases[sortable[s][0]][1]
+
+                diseasetable.appendChild(newElement)
+                newElement.innerHTML = "<td>"+number+".</td>";
+                // display disease name.
+                newElement.innerHTML += "<td style='text-align:left; '>"+name+"</td>";
+                // distance, hop  
+                newElement.innerHTML += "<td style='text-align:center; '>"+distance+"</td>";
+                newElement.innerHTML += "<td style='text-align:center; '>"+hop+"</td>";
+
+                newElement.innerHTML += "<td style='text-align:center; '><button class='symptombtn' onclick='get_node_symptoms({name:\""+name+"\"})'>Show</button></td>";
+                number++;
+            }
+        }
+        
+        // ************************* Right click remove node ****************************
+        function click_remove_node(d){
+            console.log("Remove : "+ d.name);
+
+            // remove node
+            var temp_nodes = []
+            for(index in dataset.nodes){
+                if(dataset.nodes[index].name != d.name){
+                    temp_nodes.push(dataset.nodes[index]);
+                }
+            }
+            // remove link
+            var temp_edges = []
+            var connected_node = []
+            for(index in dataset.edges){
+                if(dataset.edges[index].source.name != d.name && dataset.edges[index].target.name != d.name){
+                    temp_edges.push(dataset.edges[index]);
+                }
+                else{ // keep connected node for check which node have only one connected.
+                    if(dataset.edges[index].source.name == d.name){
+                        connected_node.push(dataset.edges[index].target.name);
+                    }
+                    else{
+                        connected_node.push(dataset.edges[index].source.name);
+                    }
+
+                }
+            }
+
+            // remove connected node
+            for(index in connected_node){
+                var connect_amount = 0;
+                for(e_index in temp_edges){
+                    if(temp_edges[e_index].source.name == connected_node[index] || temp_edges[e_index].target.name == connected_node[index]){
+                        connect_amount++;
+                    }
+                }
+
+                if(connect_amount < 1){
+
+                    // remove connected node in list
+                    for(r_index in temp_nodes){
+                        if(temp_nodes[r_index].name == connected_node[index]){
+                            temp_nodes.splice(r_index, 1);
+                            break;
+                        }
+                    }
+                    // remove connected node link in list
+                    for(r_index in temp_edges){
+                        if(temp_edges[r_index].source.name == connected_node[index] || temp_edges[r_index].target.name == connected_node[index]){
+                            temp_edges.splice(r_index, 1);
+                        }
+                       
+                    }
+                }
+            }
+
+            // re-create graph
+            remove_graph();
+            dataset = {
+                nodes: temp_nodes,
+                edges: temp_edges
+            };
+            create_graph();
+
+
+        }
+        
+        
+        // ************************* Display selected node direct connected *************
+        function direct_connected_nodes(d){
+            console.log("Get direct connected of :"+d.name);
+            $.ajax({
+                url: "/direct_connected_nodes",
+                type: "post", //send it through get method
+                data:{'selectednode': d.name},
+               
+            })
+            .done(function(data){
+                if(data.error){
+                    console.log("Error")
+                }
+                else{
+                    remove_graph();
+                    dataset = {
+                        nodes: data.nodes,
+                        edges: data.edges
+                    };
+                    node_radius = 6;
+                    create_graph();
+                    reset_cost_nodes_output();
+                }
+            });
+        }
+        
+        // ************************* more_condition *************************************
+        function more_relevant(d){
+            console.log("Closest nodes of :"+d.name);
+            $.ajax({
+                url: "/more_relevant",
+                type: "post", //send it through get method
+                data:{'selectednode': d.name},
+               
+            })
+            .done(function(data){
+                if(data.error){
+                    console.log("Error")
+                }
+                else{
+                    var closest_nodes = data.relevantnodes
+                    var sortable = [];
+
+                    for (var node in closest_nodes) {
+                        sortable.push([node, closest_nodes[node][0]]);
+                    }
+
+                    sortable.sort(function(a, b) {
+                        return a[1] - b[1];
+                    });
+                    var nodetable = ""
+                    for(s in sortable){
+                        var name = sortable[s][0]
+                        var distance = sortable[s][1]
+                        var tag = closest_nodes[sortable[s][0]][1]
+                        var color = 'white';
+                        if(tag === 'DS' || tag === 'DT'){
+                            color = 'red';
+                        }
+                        else if(tag === 'ST'){
+                            color = 'yellow';
+                        }
+                        nodetable += "<tr>"
+                        nodetable += "<td>"+ name +"</td><td>" + distance +"</td><td><font color="+color+">"+tag+"</font></td>"+
+                                    "<td><input type='checkbox' class='checksymptoms[]' value='"+name+"'></td>"
+                        nodetable += "</tr>"
+                    }
+                    // Define the div for the tooltip
+                    var div = d3.select("body").append("div")	
+                        .attr("class", "tooltip")
+                        .style("width", 400 +"px")
+						.style("height", 400 +"px");
+                        div.transition()		
+                        .style("opacity", 1);
+                  
+                    div.html("<span class='close' style='padding:3px;'  onclick='$(this).parent().remove();'>x</span>"+
+                            "<h4 align='left'>Relevant nodes ["+d.name+"]</h4>"+
+                            "<table>"+
+                            "<tr>"+
+                            "<th class='text-center'>Name</th>"+"<th class='text-center'>Distance</th>"+"<th class='text-center'>Type</th>"+"<th class='text-center'>Check</th>"+
+                            "</tr>"+
+                            nodetable+
+                            "</table>"+
+                            "<button class='symptomsubmitbtn' onclick='add_symptoms(this,\""+d.name+"\")'>Submit</button>&nbsp;<button class='symptomcancelbtn' onclick='$(this).parent().remove();'>Cancel</button>");	
+                    
+                    div.style("right", 20 + "px")		
+                        .style("top", 50 + "px")
+                }
+            });
+        }
+        
+        // ************************* add more symptoms **********************************
+        function add_symptoms(elem, clicknode){
+
+            var inputElements = document.getElementsByClassName('checksymptoms[]');
+            if(!symptomlist.includes(clicknode)){
+                symptomlist.push(clicknode)
+                document.getElementById("mySearch").value += clicknode
+                document.getElementById("mySearch").value += " "
+            }
+            for(var i=0; inputElements[i]; ++i){
+                if(inputElements[i].checked){
+                    symptomlist.push(inputElements[i].value )
+                    document.getElementById("mySearch").value += inputElements[i].value 
+                    document.getElementById("mySearch").value += " "
+                }
+            }       
+            $(elem).parent().remove();
+        }
+       
+        // ************************* current graph **************************************
+        function current_graph(){
+
+            $.ajax({
+                url: "/current_graph"
+               
+            })
+            .done(function(data){
+                if(data.error){
+                    console.log("Error")
+                }
+                else{
+                    remove_graph()
+                    dataset = {
+                        nodes: data.nodes,
+                        edges: data.edges
+                    };
+                    create_graph();
+                    circle3.style("background", "rgba(83, 118, 233, 0.1)")
+                            .style("border-width", "3px");
+                    circle2.style("background", "rgba(83, 118, 233, 0.2)")
+                            .style("border-width", "3px");
+                    circle1.style("background", "rgb(161, 157, 157,.2)")
+                            .style("border-width", "5px");
+                }
+            });
+        }
+
+               
+       
+        // ************************* initiated graph ************************************ 
+        get_symptomslist();
+        get_diseaseslist();
+        graph_background();
+        create_graph();
+               
+    </script>
+    
+    </div>
+    <!-- End fish eye block -->
+    
+
+    <!-- Slider for adjust edge value-->
+    
+    <div id="slider-box">
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <p style="color:rgb(156, 204, 236); display:inline-block">
+            <b>
+                Distance : <span id="distance_value"></span>&nbsp;&nbsp;&nbsp;
+                Nodes : <span id="nodes_amount"></span>
+                
+            </b>
+        </p>
+        &nbsp;&nbsp;
+        <div id="display_loader" style="display:inline-block"></div>
+               
+    </div>
+    <span class="minusbtn">-</span>
+    <input type="range" min="1" max="100" value="1" class="edgeslider" id="sliderbar">
+    <span class="plusbtn">+</span>
+    <!-- End Slider -->
+
+</div>
+<!-- End Main box -->
+<script>
+    
+    // ************************* Symptom Add/Remove list ****************************
+    /*
+    function add_symptom(d){
+            var newElement = document.createElement('LI');
+            // Add by right click on node
+            console.log(d)
+            if(d != 0){
+                if(!symptomlist.includes(d.name)){
+                    symptomlist.push(d.name);
+                    ullist.appendChild(newElement);
+                    newElement.setAttribute('rel', d.name);
+                    newElement.innerHTML= d.name+"<button class='sympclosebtn'>X</button>";
+                }
+               
+            }
+            // Add by input box
+            else{
+                var item = document.getElementById('symptomitem');
+                if(!symptomlist.includes(item.value) && item.value){
+                    symptomlist.push(item.value);
+                    ullist.appendChild(newElement);
+                    newElement.setAttribute('rel', item.value);
+                    newElement.innerHTML= item.value+"<button class='sympclosebtn'>X</button>";
+                    
+                }
+                item.value = '';
+            }
+            
+
+        } 
+            
+        //adding a new element to the list
+        add.addEventListener('click', function(){
+            add_symptom(0)
+        
+
+        });
+        //remove a element
+        ullist.addEventListener('click', function(e){
+        if(e.target && e.target.nodeName == "BUTTON") {
+            
+            // Remove element in list
+            const removeindex = symptomlist.indexOf(e.target.parentNode.getAttribute('rel'));
+            if (removeindex > -1) {
+                symptomlist.splice(removeindex, 1);
+            }
+
+            // Remove element in ul.
+            e.target.parentNode.remove();
+           
+            }
+        });
+    */
+    // ******************* Slider bar for adjust node by edge distance *************
+    var slider = document.getElementById("sliderbar");
+    var cost_output = document.getElementById("distance_value");
+    var nodes_output = document.getElementById("nodes_amount");
+    var display_loader = document.getElementById('display_loader');
+    var cost = 1;
+    nodes_output.innerHTML = nodes[0].length; // nodes amount default
+    cost_output.innerHTML = slider.value;
+
+    slider.oninput = function() {
+        if(parseInt(this.value) > cost){
+            cost = parseInt(this.value);
+            cost_output.innerHTML = this.value;
+            display_loader.innerHTML = "<div class='loader'></div> ";
+            nodes_in_radius(this.value, 'plus');
+        }
+        else if(parseInt(this.value) < cost){
+            cost = parseInt(this.value);
+            cost_output.innerHTML = this.value;
+            display_loader.innerHTML = "<div class='loader'></div> ";
+            nodes_in_radius(this.value, 'minus');
+        }
+
+        
+       
+    }
+
+    // ******************* plus/minus button for adjust slider value *************
+    $(function(){  
+        $('span.minusbtn').click(function(e){
+            e.preventDefault(); 
+           
+            slider.value = parseInt(slider.value)-1;
+            cost_output.innerHTML = slider.value;
+            display_loader.innerHTML = "<div class='loader'></div> ";
+            nodes_in_radius(slider.value, 'minus');
+        });
+        $('span.plusbtn').click(function(e){
+            e.preventDefault(); 
+            if(slider.value < 100){
+                slider.value =  parseInt(slider.value)+1;
+                cost_output.innerHTML =  slider.value ;
+                display_loader.innerHTML = "<div class='loader'></div> ";
+                nodes_in_radius(slider.value,  'plus');
+                
+            }
+        });
+    });
+    
+    function reset_cost_nodes_output(){
+        nodes_output.innerHTML = nodes[0].length;
+        slider.value = 1; 
+        cost_output.innerHTML = 1;
+    }
+
+    function nodes_in_radius(cost, expression){
+        $.ajax({
+                url: "/nodes_radius",
+                type: "post", //send it through get method
+                data:{'cost': cost, 'expression':expression},
+               
+            })
+            .done(function(data){
+                if(data.error){
+                    console.log("Error")
+                }
+                else{
+                    nodes_output.innerHTML = data.nodes.length;
+                    remove_graph();
+                    dataset = {
+                        nodes: data.nodes,
+                        edges: data.edges
+                    };
+                    node_radius = data.node_r
+                    console.log(node_radius)
+                    create_graph();
+                    display_loader.innerHTML = "";
+                }
+        });
+
+    }
+
+    function searchbar_value() {
+        var searchval = "";
+        for(var key in py_symptoms){
+            searchval += key
+            searchval += " "
+        }
+        document.getElementById("mySearch").value = searchval;
+    }
+    searchbar_value()
+</script>
+    
+<!----------------- homepage ------------------------>
+{% elif graph_info %}
+    <!-- ******************************** Graph running *****************************-->
+    
+    <div style="float:left;">
+        <script src="https://d3js.org/d3.v3.min.js"></script>
+        <script>
+            var w = 750;
+            var h = 550;
+            var dataset = {nodes:[], edges:[]};
+            var amount = 200;
+            var color = [
+                        'rgba(247, 32, 32, 1)',
+                        'rgba(172, 247, 32)',
+                        'rgba(2, 69, 255)'
+                        ];
+            d3.range(amount).forEach(function(el) {
+                var rgba = color[Math.floor(Math.random() * color.length)];
+                dataset.nodes.push({'name':el, 'rgba':rgba}); 
+                var s = Math.floor(Math.random() *amount);
+                var t = Math.floor(Math.random() *amount);
+                dataset.edges.push({'source':s, 'target':t}); 
+            });
+            for(source=0; source < dataset.nodes.length; source++){
+                if(source == 0){
+                    for(target=source+1; target < dataset.nodes.length; target++){
+                        dataset.edges.push({'source':source, 'target':target});
+                    }
+                }
+                else{
+                    for(round=0; round < 2; round++){
+                        var target = Math.floor(Math.random() *amount);
+                        dataset.edges.push({'source':source, 'target':target}); 
+                    }
+                }
+
+            }
+
+            var force = d3.layout.force()
+                        .nodes(dataset.nodes)
+                        .links(dataset.edges)
+                        .size([w, h])
+                        .linkDistance([150])
+                        .charge([-150])
+                        .start();
+
+            var colors = d3.scale.category10();
+            var svg = d3.select("body")
+                            .append("svg")
+                            .attr("width", w)
+                            .attr("height", h);
+            var edges = svg.selectAll("line")
+                            .data(dataset.edges)
+                            .enter()
+                            .append("line")
+                            .style("stroke", "#3399ff")
+                            .style("stroke-width", 0.5)
+                            .style("stroke-opacity", .5);
+            var nodes = svg.selectAll("circle")
+                            .data(dataset.nodes)
+                            .enter()
+                            .append("circle")
+                            .attr("r", 6)
+                            .style("fill", "white")
+                            .style("stroke", function (d) {
+                                return d.rgba;
+                                
+                            })
+                            .style("stroke-opacity", .5)
+                            .style("stroke-width", 5)
+                            .call(force.drag);
+               
+            
+
+            force.on("tick", function(){
+                edges.attr("x1", function(d){ return d.source.x; })
+                    .attr("y1", function(d){ return d.source.y; })
+                    .attr("x2", function(d){ return d.target.x; })
+                    .attr("y2", function(d){ return d.target.y; });
+                nodes.attr("cx", function(d){ return d.x; })
+                    .attr("cy", function(d){ return d.y; });
+
+                
+            });
+
+           
+        </script>
+
+        
+    </div>
+    <div style="float:right; padding: 80px;">
+        <!-- Graph info box -->
+        <div style="background-color: rgba(0, 140, 255, 0.308); padding: 5px; width: 400px;  border-radius: 15px;">
+            <div style="color:rgb(255, 255, 255); margin-left: 10px;">
+                <h3 align="left"><b>Graph info</b></h3>
+                <hr>
+                <h4 align="left">Graph name : {{graph_name}}</h4>
+                <h4 align="left">Number of nodes : <p id="nodes_number" style="display:inline;"></p></h4>
+                <h4 align="left">Number of edges : <p id="edges_number" style="display:inline;"></p></h4>
+
+                <h3 align="left"><b>Node type</b></h3>
+                <hr>
+                <div id='nodetype'></div>
+                <br>
+            </div>
+            
+        </div>
+        <br>
+        <!-- Graph btn -->
+        <button class="creategraphbtn" id="display-creategraphbox">Create Graph</button>
+        <button class="creategraphbtn" id="display-selectgraphbox">Select Graph</button>
+        <button class="creategraphbtn" id="display-addGraph">Add Document</button>
+        <button class="creategraphbtn" onclick="clear_graph()">Clear</button>
+        
+        <!-- The Modal -->
+    <div id="creategraphbox" class="creategraphbox">
+        <!-- Modal content -->
+        <div class="creategraphbox-content">
+            <form id="upload-graph" method="post" enctype="multipart/form-data">
+                <span class="close">&times;</span>
+                <h3 align="left"><b>Create Graph</b></h3>
+                <hr>
+                <h4 align="left"><b>Graph name : &nbsp;</b></h4>
+                <input type="text" name="inputgraphname" style="float: left;"><br><br>
+                <hr>
+                <h4 align="left"><b>Document </b>(.Pdf)</h4>
+                <!--
+                <input type="radio" id="directory" name="documentradio" value="directory">&nbsp;Directory
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="radio" id="file" name="documentradio" value="file">&nbsp;File
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                
+                <button onclick="submit_inputdoctype()">Submit</button>-->
+                <input type='file' name='inputdocuments' style='display: inline;' webkitdirectory directory multiple/>
+                <br><br>
+                <div id="browsefile">
+                </div>
+                <hr>
+                <h4 align="left"><b>Node tagging </b></h4>
+                <p style="float: left; "><label>Number of tag : </label> &nbsp;</p>
+                <!--<select id="gettagvalue" class="numberoftag" style="float: left;"  onfocus='this.size=5;' onblur='this.size=0;' 
+                onchange='this.size=0; this.blur(); gettagnumber();'>-->
+                <!--<select id="gettagvalue" class="numberoftag" style="float: left;" 
+                onchange='gettagnumber();'>-->
+                </select><p style="float: left;">&nbsp; * |NN for None tag</p>
+                <br><br>
+                <!--<div id="inputnodetag"></div>-->
+
+                <label> Tag : &nbsp;</label>
+                <input name='tag1' type='text' class='tag' maxlength='5' size='5' style='display:inline-block;'/>
+                <label>&nbsp; Words list (txt.) : &nbsp;</label>"
+                <input name='tag_file1' type='file' class='wordlist' style='display:inline-block;' accept='.txt'/><br>
+
+                <label> Tag : &nbsp;</label>
+                <input name='tag2' type='text' class='tag' maxlength='5' size='5' style='display:inline-block;'/>
+                <label>&nbsp; Words list (txt.) : &nbsp;</label>"
+                <input name='tag_file2' type='file' class='wordlist' style='display:inline-block;' accept='.txt'/><br>
+
+                <br>
+                <hr>
+                <div style="bottom:20px; float: center;">
+                <button class="submitcreategraph" id="submit-creategraph-btn" type="button">Submit</button>
+                <button class='canclecreategraph' onclick='cancel_creategraph()' type="button">Cancel</button>
+            </form>
+            </div>
+        </div>
+       
+        </div>
+
+        <!-- The Modal -->
+        <div id="selectgraphbox" class="selectgraphbox">
+            <!-- Modal content -->
+            <div class="selectgraphbox-content">
+                <span class="closegraphlist">&times;</span>
+                <h3 align="left"><b>Select Graph Database</b></h3>
+                <hr>
+                <div id= "graphlistul" align="left"></div>
+                <br>
+                <div style="bottom:20px; float: center;">
+                <button class="submitcreategraph" onclick="submit_selectgraph()">Submit</button>
+                <button class='canclecreategraph' onclick='cancel_selectgraph()'>Cancel</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script>
+        function numberWithCommas(x) {
+                return x.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+        }
+                    
+        function graph_info(){
+            var nodes_number = '{{graph_info.nodes }}';
+            var edges_number = '{{graph_info.edges }}';
+            var node_type = JSON.parse('{{ nodes_type|tojson }}');
+            var symptoms_number = '{{nodes_type.Symptoms }}';
+            var normal_number = '{{ nodes_type.Normal }}'
+            var nodetype_div = document.getElementById("nodetype")
+            nodetype_div.innerHTML = ""
+            for(var tag in node_type){
+                nodetype_div.innerHTML += "<h4 align='left'>"+tag+" : "+numberWithCommas(node_type[tag])+"</h4>"
+            }
+            document.getElementById("nodes_number").innerHTML = numberWithCommas(nodes_number);
+            document.getElementById("edges_number").innerHTML = numberWithCommas(edges_number);
+        }
+        graph_info()
+        function clear_graph(){
+            $.ajax({
+                url: "/clear_graph"
+               
+            })
+            .done(function(data){
+                if(data.error){
+                    console.log("Error")
+                }
+                else{
+                    window.location.href = '/';
+                }
+            });
+        }
+    </script>
+
+<!-- **************************** Graph Empty ********************************* -->
+{% else %}
+<div style="float:left; color:cornflowerblue; margin-top: 200px; margin-left: 250px;">
+    <h2><b>Graph Empty</b></h2>    
+</div>
+<div style="float:right; padding: 80px;">
+    <!-- Graph info box -->
+    <div style="background-color: rgba(0, 140, 255, 0.308); padding: 5px; width: 400px;  border-radius: 15px;">
+        <div style="color:rgb(255, 255, 255); margin-left: 10px;">
+            <div style="color:cornflowerblue; padding: 150px;">
+            <h4><b>Empty</b></h4>
+            </div>
+        </div>
+        
+    </div>
+    <br>
+    <!-- Graph btn -->
+    <button class="creategraphbtn" id="display-creategraphbox">Create Graph</button>
+    <button class="creategraphbtn" id="display-selectgraphbox">Select Graph</button>
+    
+    <!-- The Modal -->
+    <div id="creategraphbox" class="creategraphbox">
+        <!-- Modal content -->
+        <div class="creategraphbox-content">
+            <form id="upload-graph" method="post" enctype="multipart/form-data">
+                <span class="close">&times;</span>
+                <h3 align="left"><b>Create Graph</b></h3>
+                <hr>
+                <h4 align="left"><b>Graph name : &nbsp;</b></h4>
+                <input type="text" name="inputgraphname" style="float: left;"><br><br>
+                <hr>
+                <h4 align="left"><b>Document </b>(.Pdf)</h4>
+                <!--
+                <input type="radio" id="directory" name="documentradio" value="directory">&nbsp;Directory
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                <input type="radio" id="file" name="documentradio" value="file">&nbsp;File
+                &nbsp;&nbsp;&nbsp;&nbsp;
+                
+                <button onclick="submit_inputdoctype()">Submit</button>-->
+                <input type='file' name='inputdocuments' style='display: inline;' webkitdirectory directory multiple/>
+                <br><br>
+                <div id="browsefile">
+                </div>
+                <hr>
+                <h4 align="left"><b>Node tagging </b></h4>
+                <p style="float: left; "><label>Number of tag : </label> &nbsp;</p>
+                <!--<select id="gettagvalue" class="numberoftag" style="float: left;"  onfocus='this.size=5;' onblur='this.size=0;' 
+                onchange='this.size=0; this.blur(); gettagnumber();'>-->
+                <!--<select id="gettagvalue" class="numberoftag" style="float: left;" 
+                onchange='gettagnumber();'>-->
+                </select><p style="float: left;">&nbsp; * |NN for None tag</p>
+                <br><br>
+                <!--<div id="inputnodetag"></div>-->
+
+                <label> Tag : &nbsp;</label>
+                <input name='tag1' type='text' class='tag' maxlength='5' size='5' style='display:inline-block;'/>
+                <label>&nbsp; Words list (txt.) : &nbsp;</label>"
+                <input name='tag_file1' type='file' class='wordlist' style='display:inline-block;' accept='.txt'/><br>
+
+                <label> Tag : &nbsp;</label>
+                <input name='tag2' type='text' class='tag' maxlength='5' size='5' style='display:inline-block;'/>
+                <label>&nbsp; Words list (txt.) : &nbsp;</label>"
+                <input name='tag_file2' type='file' class='wordlist' style='display:inline-block;' accept='.txt'/><br>
+
+                <br>
+                <hr>
+                <div style="bottom:20px; float: center;">
+                <button class="submitcreategraph" id="submit-creategraph-btn" type="button">Submit</button>
+                <button class='canclecreategraph' onclick='cancel_creategraph()' type="button">Cancel</button>
+            </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- The Modal -->
+    <div id="selectgraphbox" class="selectgraphbox">
+        <!-- Modal content -->
+        <div class="selectgraphbox-content">
+            <span class="closegraphlist">&times;</span>
+            <h3 align="left"><b>Select Graph Database</b></h3>
+            <hr>
+            <div id= "graphlistul" align="left"></div>
+            <br>
+            <div style="bottom:20px; float: center;">
+            <button class="submitcreategraph" onclick="submit_selectgraph()">Submit</button>
+            <button class='canclecreategraph' onclick='cancel_selectgraph()'>Cancel</button>
+            </div>
+        </div>
+    </div>
+
+</div>
+{% endif %}
+</body>
+
+{% if invalid_keywords %}
+<script>
+    
+    alert("Invalid keywords or Graph is empty !");
+    
+</script>
+{% endif %}
+
+{% if graph_file %}
+<script>
+    //**************************** Create graph box function **************************************
+        // Get the modal
+        var creategraph_modal = document.getElementById("creategraphbox");
+
+        // Get the button that opens the modal
+        var creategraph_btn = document.getElementById("display-creategraphbox");
+
+        // Get the <span> element that closes the modal
+        var creategraph_span = document.getElementsByClassName("close")[0];
+        
+        // When the user clicks the button, open the modal 
+        creategraph_btn.onclick = function() {
+            creategraph_modal.style.display = "block";
+        }
+        // When the user clicks on <span> (x), close the modal
+        creategraph_span.onclick = function() {
+            creategraph_modal.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == creategraph_modal) {
+                creategraph_modal.style.display = "none";
+            }
+        }
+
+        // number of tag
+        $(function(){
+            var $select = $(".numberoftag");
+            for (i=0;i<=100;i++){
+                $select.append($('<option></option>').val(i).html(i))
+            }
+        });
+        
+        // get how many of tag and display input box
+        function gettagnumber(){
+            var e = document.getElementById("gettagvalue");
+            var tagnumber = e.options[e.selectedIndex].value;
+            var inputnodetag = document.getElementById("inputnodetag");
+            inputnodetag.innerHTML = ""
+            for(number=0; number < tagnumber; number++){
+                inputnodetag.innerHTML += 
+                "<label> Tag : &nbsp;</label>"+
+                "<input type='text' class='tag' maxlength='5' size='5' style='display:inline-block;'/>"+
+                "<label>&nbsp; Words list (txt.) : &nbsp;</label>"+
+                "<input type='file' class='wordlist' style='display:inline-block;' accept='.txt'/><br>"
+            }
+            
+        }
+        
+        // get input type(singlefile or directory) and display browse file button
+        function submit_inputdoctype(){
+            var inputdoc_type = document.getElementsByName('documentradio');
+            var browsedoc_div = document.getElementById('browsefile');
+            for(i = 0; i < inputdoc_type.length; i++){ 
+
+                if(inputdoc_type[i].checked){
+                    
+                    if(inputdoc_type[i].value == 'directory'){
+                        
+                        browsedoc_div.innerHTML = "<input type='file' name='inputdocuments' style='display: inline;' webkitdirectory directory multiple/>"
+                
+                    }
+                    else if(inputdoc_type[i].value == 'file'){
+                        browsedoc_div.innerHTML = "<input type='file' name='inputdocuments'  style='display: inline;' accept='application/pdf'/>"
+                    }
+                    
+                }
+                
+            } 
+
+        }
+        
+        function cancel_creategraph(){
+            creategraph_modal.style.display = "none";
+        }
+        
+        $(function() {
+                $('#submit-creategraph-btn').click(function() {
+                    //var form_data = new FormData();
+                    //form_data.append('doc', document.getElementById('inputfile').files)
+                    var form_data = new FormData($('#upload-graph')[0]);
+                    //console.log(document.getElementById('inputfile').files)
+                    $.ajax({
+                        type: 'POST',
+                        url: '/create_graph',
+                        data: form_data,
+                        contentType: false,
+                        cache: false,
+                        processData: false,
+                        success: function(data) {
+                            console.log('Success!');
+                            creategraph_modal.style.display = "none";
+                            window.location.href = '/';
+                        },
+                    });
+                });
+            });
+      
+
+        // **************************** Select Graph **************************************
+      
+        // Get the modal
+        var selectgraph_modal = document.getElementById("selectgraphbox");
+
+        // Get the button that opens the modal
+        var selectgraph_btn = document.getElementById("display-selectgraphbox");
+
+        // Get the <span> element that closes the modal
+        var selectgraph_span = document.getElementsByClassName("closegraphlist")[0];
+        
+        // When the user clicks the button, open the modal 
+        selectgraph_btn.onclick = function() {
+            selectgraph_modal.style.display = "block";
+        }
+        // When the user clicks on <span> (x), close the modal
+        selectgraph_span.onclick = function() {
+            selectgraph_modal.style.display = "none";
+        }
+
+        // When the user clicks anywhere outside of the modal, close it
+        window.onclick = function(event) {
+            if (event.target == selectgraph_modal) {
+                selectgraph_modal.style.display = "none";
+            }
+        }
+
+        // get graph list and white in html
+        var graph_file = JSON.parse('{{ graph_file|tojson }}');
+        var graphlistul = document.getElementById('graphlistul');
+        graphlistul.innerHTML = ""
+        for(var g in graph_file){
+            graphlistul.innerHTML += "<input type='radio' id="+g+" name='graphfileradio' value="+graph_file[g]+" style='margin-left:50px;margin-right:50px'>"+g+"<br><br>";
+        }
+
+        function submit_selectgraph(){
+            var graph_select = document.getElementsByName('graphfileradio');
+            for(var i = 0; i < graph_select.length; i++){
+                if(graph_select[i].checked){
+                    console.log(graph_select[i].value)
+                    $.ajax({
+                        url: "/select_graph",
+                        type: "post", //send it through get method
+                        data:{'gpath': graph_select[i].value},
+                    
+                    })
+                    .done(function(data){
+                        if(data.error){
+                            console.log("Error")
+                        }
+                        else{
+                            selectgraph_modal.style.display = "none";
+                            window.location.href = '/';
+                        }
+                    });
+                }
+            }
+            
+
+        }
+
+        function cancel_selectgraph(){
+            selectgraph_modal.style.display = "none";
+        }
+</script>
+{% endif %}
+</html>
+<!-- The Modal -->
+<div id="addGraphDocModal" class="selectgraphbox">
+    <!-- Modal content -->
+    <div class="selectgraphbox-content">
+        <span class="closegraphlist" id="closeAddGraphDoc">&times;</span>
+        <h3 align="left"><b>Add Graph Document</b></h3>
+        <hr>
+        <form id="addDocumentFileForm">
+            <table style="width: 100%;">
+                <tr>
+                    <td colspan="2">
+                        Graph Name : <input type="text" name="newGraphName">
+                    </td>
+                    <td>
+                        <input type="file" name="inputDocumentGraph" id="inputDocumentGraph" accept=".txt">
+                    </td>
+                </tr>
+            </table>
+        </form>
+        <br>
+        <button class="submitcreategraph" onclick="add_document_graph()">Submit</button>
+        </div>
+    </div>
+</div>
+<script>
+    var addgraph_btn = document.getElementById("display-addGraph");
+    var addgraph_modal = document.getElementById("addGraphDocModal");
+    addgraph_btn.onclick = function() {
+        addgraph_modal.style.display = "block";
+    }
+    document.getElementById("closeAddGraphDoc").onclick = function() {
+        addgraph_modal.style.display = "none";
+    }
+    function add_document_graph(){
+        var formDataRaw = $('#addDocumentFileForm')[0];
+        var form_data = new FormData(formDataRaw);
+        $.ajax({
+            url: "/graph/document/add",
+            type: "POST",
+            data: form_data,
+            processData: false,
+            contentType: false
+        })
+        .done(function (data) {
+            location.reload();
+        })
+        .fail(function (data) {
+            alert("Somethig went wrong! Please contact system administrator");
+        })
+    }
+</script>
+

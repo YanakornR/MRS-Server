@@ -1,0 +1,256 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN heart|NN failure|NN name|NN heart|NN failure|NN heart|NN failure|NN heart|NN failure|NN heart|NN failure|NN sign|NN symptom|NN heart|NN failure|NN specialty|NN symptom|NN breath|NN feel|NN leg|NN swell|NN duration|NN cause|NN heart_attack|DS blood|NN pressure|NN heart|NN rhythm|NN alcohol|NN use|NN infection|NN heart|NN damage|NN risk|NN factor|NN smoke|NN lifestyle|NN method|NN diagnosis|NN kidney|NN failure|NN thyroid|NN disease|NN liver|NN disease|NN obesity|NN medication|NN frequency|NN adult|NN country|NN death|NN risk|NN death|NN year|NN 
+heart|NN failure|NN heart|NN failure|NN heart|NN failure|NN heart|NN failure|NN heart|NN blood|NN flow|NN body|NN sign|NN symptom|NN heart|NN failure|NN shortness|NN breath|NN tiredness|NN leg|NN shortness|NN breath|NN exercise|NN person|NN night|NN ability|NN exercise|NN feature|NN chest_pain|ST angina|NN heart|NN failure|NN 
+cause|NN heart|NN failure|NN artery|NN disease|NN infarction|NN heart_attack|DS blood|NN pressure|NN fibrillation|NN heart|NN disease|NN excess|NN alcohol|NN use|NN infection|NN cardiomyopathy|DS cause|NN cause|NN heart|NN failure|NN structure|NN function|NN heart|NN type|NN heart|NN failure|NN heart|NN failure|NN ejection|NN fraction|NN heart|NN failure|NN heart|NN failure|NN ejection|NN fraction|NN heart|NN failure|NN ability|NN ventricle|NN contract|NN heart|NN ability|NN severity|NN disease|NN severity|NN symptom|NN exercise|NN heart|NN failure|NN infarction|NN part|NN heart|NN muscle|NN dy|NN arrest|NN blood|NN flow|NN disease|NN symptom|NN heart|NN failure|NN obesity|NN kidney|NN failure|NN liver|NN problem|NN disease|NN heart|NN failure|NN history|NN symptom|NN examination|NN confirmation|NN blood|NN test|NN chest|NN radiography|NN cause|NN 
+treatment|NN severity|NN cause|NN disease|NN people|NN heart|NN failure|NN treatment|NN lifestyle|NN modification|NN exercisenee|NN update|NN change|NN medication|NN heart|NN failure|NN due|NN dysfunction|NN angiotensin|NN enzyme|NN inhibitor|NN angiotensin|NN receptor|NN blocker|NN valsartansacubitril|NN beta|NN blocker|NN disease|NN aldosterone|NN antagonist|NN hydralazine|NN nitrate|NN fluid|NN retention|NN shortness|NN breath|NN cause|NN device|NN pacemaker|NN defibrillator|NN icd|NN case|NN therapy|NN contractility|NN modulation|NN benefit|NN device|NN right|NN heart|NN transplant|NN disease|NN measure|NN 
+heart|NN failure|NN condition|NN people|NN adult|NN heart|NN failure|NN age|NN increase|NN rate|NN risk|NN death|NN year|NN diagnosis|NN year|NN risk|NN death|NN degree|NN risk|NN death|NN cancer|DS united|NN kingdom|NN disease|NN reason|NN emergency|NN hospital|NN admission|NN heart|NN failure|NN time|NN papyrus|NN bce|NN content|NN 
+sign|NN symptom|NN failure|NN failure|NN failure|NN cause|NN heart|NN failure|NN decompensation|NN supplement|NN diagnosis|NN classification|NN ultrasound|NN chest|NN x-ray|NN blood|NN test|NN monitor|NN classification|NN prevention|NN management|NN decompensation|NN management|NN care|NN epidemiology|NN united|NN states|NN united|NN kingdom|NN world|NN sex|NN economics|NN research|NN direction|NN reference|NN link|NN 
+sign|NN symptom|NN man|NN heart|NN failure|NN jugular|NN distension|NN 
+jugular|NN vein|NN arrow|NN 
+heart|NN failure|NN symptom|NN left|NN right|NN left|NN ventricle|NN heart|NN supply|NN portion|NN circulation|NN 
+heart|NN failure|NN failure|NN part|NN circulation|NN ventricle|NN 
+exception|NN division|NN heart|NN failure|NN symptom|NN 
+cause|NN heart|NN failure|NN heart|NN failure|NN result|NN people|NN set|NN sign|NN symptom|NN 
+side|NN heart|NN blood|NN lung|NN circulation|NN rest|NN body|NN circulation|NN 
+failure|NN side|NN heart|NN blood|NN back|NN lung|NN symptom|NN fatigue|ST supply|NN blood|NN 
+sign|NN rate|NN breath|NN work|NN sign|NN distress|NN 
+crackle|NN lung|NN base|NN lung|NN field|NN development|NN edema|ST fluid|NN alveoly|NN 
+blood|NN oxygen|NN sign|NN edema|ST 
+sign|NN failure|NN apex|NN beat|NN heart|NN gallop|NN rhythm|NN heart|NN sound|NN marker|NN blood|NN flow|NN intra-cardiac|NN pressure|NN 
+heart|NN murmur|NN presence|NN heart|NN disease|NN cause|NN stenosis|NN result|NN regurgitation|NN heart|NN failure|NN 
+failure|NN ventricle|NN cause|NN congestion|NN lung|NN blood|NN vessel|NN symptom|NN nature|NN 
+failure|NN failure|NN atrium|NN ventricle|NN circuit|NN 
+person|NN shortness|NN breath|NN exertion|NN case|NN rest|NN 
+breathlessness|NN flat|NN 
+number|NN pillow|NN person|NN sleep|NN 
+symptom|NN heart|NN failure|NN nighttime|NN attack|NN breathlessness|NN hour|NN 
+fatigability|NN exercise|NN intolerance|NN complaint|NN compromise|NN 
+asthma|DS wheez|NN 
+compromise|NN function|NN symptom|NN circulation|NN dizziness|ST confusion|ST extremity|NN rest|NN 
+failure|NN pit|NN 
+heart|NN failure|NN heart|NN disease|NN difficulty|NN circulation|NN hypertension|DS stenosis|NN 
+examination|NN ascite|NN liver|NN enlargement|NN spleen|NN enlargement|NN 
+pressure|NN marker|NN fluid|NN status|NN reflux|NN 
+pressure|NN heave|NN increase|NN contraction|NN strength|NN 
+failure|NN ventricle|NN congestion|NN capillary|NN 
+fluid|NN accumulation|NN body|NN 
+cause|NN skin|NN part|NN body|NN cause|NN foot|NN ankle|NN swell|NN people|NN edema|ST people|NN 
+nighttime|NN urination|NN fluid|NN leg|NN bloodstream|NN night|NN 
+case|NN ascite|NN fluid|NN accumulation|NN cavity|NN liver|NN enlargement|NN 
+liver|NN congestion|NN liver|NN function|NN jaundice|ST coagulopathy|NN problem|NN blood|NN clote|NN 
+dullness|NN lung|NN field|NN finger|NN percussion|NN breath|NN sound|NN base|NN lung|NN development|NN effusion|NN fluid|NN collection|NN lung|NN chest|NN wall|NN 
+heart|NN failure|NN failure|NN vein|NN drain|NN system|NN 
+person|NN failure|NN ventricle|NN live|NN progress|NN failure|NN ventricle|NN 
+example|NN failure|NN hypertension|DS increase|NN stress|NN ventricle|NN 
+failure|NN side|NN 
+cause|NN heart|NN failure|NN 
+heart|NN failure|NN situation|NN output|NN heart|NN failure|NN amount|NN blood|NN heart|NN overload|NN situation|NN blood|NN serum|NN infusion|NN kidney|NN disease|NN anemia|DS vitamin|NN deficiency|NN cirrhosis|NN disease|NN myeloma|NN arteriovenous_malformation|DS 
+infection|NN heart|NN inflammation|NN layer|NN heart|NN development|NN heart|NN failure|NN 
+heart|NN damage|NN person|NN heart|NN failure|NN life|NN cause|NN infection|NN hiv|DS agent|NN cyclophosphamide|NN trastuzumab|NN abuse|NN drug|NN alcohol|NN cocaine|NN methamphetamine|NN 
+cause|NN exposure|NN toxin|NN lead|NN cobalt|NN 
+disorder|NN amyloidosis|NN tissue|NN disease|NN lupus|NN consequence|NN 
+sleep|NN condition|NN sleep|NN breath|NN overlap|NN obesity|NN hypertension|DS diabete|NN cause|NN heart|NN failure|NN 
+article|NN decompensate|NN heart|NN failure|NN line|NN decompensation|NN 
+line|NN lung|NN 
+result|NN illness|NN infarction|NN heart_attack|DS pneumonia|DS heart|NN rhythm|NN hypertension|DS person|NN failure|NN fluid|NN restriction|NN diet|NN medication|NN factor|NN heart|NN failure|NN fluid|NN salt|NN intake|NN medication|NN nsaids|NN thiazolidinediones|NN nsaids|NN increase|NN risk|NN medication|NN 
+number|NN medication|NN disease|NN 
+inhibitor|NN number|NN agent|NN ketamine|NN number|NN cancer|DS medication|NN medication|NN receptor|NN agonist|NN cilostazol|NN stimulant|NN antidepressant|NN lithium|NN dopamine|NN agonist|NN tnf|NN inhibitor|NN calcium|NN channel|NN blocker|NN salbutamol|NN tamsulosin|NN 
+formation|NN prostaglandin|NN nsaids|NN heart|NN failure|NN mechanism|NN promotion|NN fluid|NN retention|NN blood|NN pressure|NN person|NN response|NN medication|NN accaha|NN use|NN inhibitor|NN medication|NN people|NN heart|NN failure|NN thiazolidinedione|NN case|NN heart|NN failure|NN worsen|NN heart|NN failure|NN association|NN weight_gain|ST fluid|NN retention|NN calcium|NN channel|NN blocker|NN force|NN heart|NN blood|NN people|NN heart|NN failure|NN ejection|NN fraction|NN supplement|NN 
+medicine|NN supplement|NN risk|NN heart|NN failure|NN 
+supplement|NN aconite|NN ginseng|NN lily|NN valley|NN use|NN supplement|NN people|NN heart|NN failure|NN aconite|NN heart|NN rate|NN heart|NN rhythm|NN tachycardia|DS 
+blood|NN pressure|NN effect|NN medication|NN contrast|NN use|NN effect|NN diuretics|NN toxicity|NN use|NN blood|NN pressure|NN supplement|NN consumption|NN heart|NN failure|NN blood|NN pressure|NN fluid|NN retention|NN lily|NN valley|NN heart|NN rate|NN mechanism|NN tetrandrine|NN blood|NN pressure|NN inhibition|NN calcium|NN channel|NN heart|NN failure|NN blood|NN pressure|NN receptor|NN antagonism|NN article|NN pathophysiology|NN heart|NN failure|NN comparison|NN heart|NN muscle|NN left|NN heart|NN muscle|NN right|NN 
+heart|NN failure|NN condition|NN efficiency|NN heart|NN muscle|NN damage|NN overload|NN 
+number|NN condition|NN infarction|NN heart|NN muscle|NN oxygen|NN hypertension|DS force|NN contraction|NN pump|NN blood|NN amyloidosis|NN protein|NN heart|NN muscle|NN 
+time|NN increase|NN workload|NN change|NN heart|NN 
+heart|NN person|NN heart|NN failure|NN force|NN contraction|NN overload|NN ventricle|NN 
+heart|NN fill|NN ventricle|NN result|NN contraction|NN force|NN law|NN heart|NN rise|NN output|NN 
+heart|NN failure|NN mechanism|NN ventricle|NN blood|NN point|NN heart|NN muscle|NN contraction|NN 
+ability|NN actin|NN myosin|NN filament|NN heart|NN muscle|NN diagnosis|NN 
+system|NN criteria|NN gold|NN standard|NN heart|NN failure|NN 
+institute|NN health|NN care|NN excellence|NN brain|NN peptide|NN bnp|NN ultrasound|NN heart|NN shortness|NN breath|NN heart|NN failure|NN bnp|NN troponin|NN outcome|NN classification|NN 
+heart|NN failure|NN state|NN output|NN need|NN body|NN lung|NN term|NN heart|NN failure|NN symptom|NN congestion|NN build-up|NN fluid|NN person|NN tissue|NN vein|NN lung|NN part|NN body|NN congestion|NN form|NN water|NN retention|NN swell|NN edema|ST limb|NN feet|NN edema|ST breath|NN difficulty|NN ascite|NN abdomen|NN 
+problem|NN age|NN result|NN disease|NN age|NN fetuse|NN 
+term|NN onset|NN duration|NN 
+heart|NN failure|NN condition|NN treatment|NN symptom|NN 
+decompensate|NN heart|NN failure|NN worsen|NN heart|NN failure|NN symptom|NN distress|NN heart|NN failure|NN output|NN 
+overload|NN pressure|NN congestion|NN edema|ST 
+heart|NN failure|NN type|NN ejection|NN fraction|NN proportion|NN blood|NN heart|NN contraction|NN fraction|NN percentage|NN range|NN type|NN 
+heart|NN failure|NN ejection|NN fraction|NN heart|NN failure|NN 
+heart|NN failure|NN dysfunction|NN heart|NN failure|NN 
+heart|NN failure|NN ejection|NN fraction|NN 
+heart|NN failure|NN ejection|NN fraction|NN heart|NN failure|NN 
+heart|NN failure|NN heart|NN failure|NN ejection|NN fraction|NN heart|NN failure|NN ventricle|NN contract|NN systole|NN ventricle|NN diastole|NN fill|NN 
+diagnosis|NN heart|NN failure|NN 
+modality|NN ultrasound|NN stroke|NN volume|NN amount|NN blood|NN heart|NN ventricle|NN beat|NN volume|NN amount|NN blood|NN end|NN diastole|NN sv|NN proportion|NN edv|NN value|NN ejection|NN fraction|NN ef|NN 
+shorten|NN fraction|NN measure|NN function|NN 
+ef|NN heart|NN failure|NN 
+heart|NN disease|NN state|NN pericardium|NN tissue|NN sac|NN heart|NN 
+treatment|NN person|NN medication|NN insertion|NN implantable|NN resynchronization|NN therapy|NN 
+ischemia|NN cause|NN wall|NN motion|NN abnormality|NN echo|NN 
+ultrasound|NN week|NN media|NN 
+heart|NN failure|NN ultrasound|NN week|NN media|NN 
+heart|NN failure|NN ultrasound|NN week|NN media|NN 
+ultrasound|NN lung|NN due|NN heart|NN failure|NN ultrasound|NN week|NN media|NN 
+chest|NN x-ray|NN chest|NN radiograph|NN lung|NN kerley|NN line|NN heart|NN cardiothoracic|NN ratio|NN cephalization|NN vein|NN effusion|NN example|NN fissure|NN 
+severity|NN stage|NN heart|NN failure|NN 
+chest|NN x-ray|NN aid|NN diagnosis|NN heart|NN failure|NN 
+person|NN enlargement|NN heart|NN ratio|NN proportion|NN heart|NN size|NN chest|NN 
+failure|NN evidence|NN redistribution|NN lobe|NN blood|NN diversion|NN cephalization|NN line|NN area|NN bronchy|NN edema|ST 
+ultrasound|NN lung|NN line|NN 
+heart|NN failure|NN x-ray|NN 
+heart|NN failure|NN effusion|NN 
+electrocardiogram|NN ecgekg|NN arrhythmia|ST heart|NN disease|NN right|NN hypertrophy|NN presence|NN conduction|NN delay|NN abnormality|NN bundle|NN branch|NN block|NN 
+find|NN diagnosis|NN heart|NN failure|NN ecg|NN dysfunction|NN blood|NN test|NN 
+blood|NN test|NN electrolyte|NN sodium|NN potassium|NN measure|NN kidney|NN function|NN liver|NN function|NN test|NN function|NN test|NN blood|NN count|NN protein|NN infection|NN 
+peptide|NN bnp|NN test|NN indicative|NN heart|NN failure|NN 
+bnp|NN cause|NN due|NN heart|NN failure|NN cause|NN 
+infarction|NN marker|NN 
+bnp|NN indicator|NN pro-bnp|NN diagnosis|NN heart|NN failure|NN dysfunction|NN 
+people|NN bnp|NN sensitivity|NN specificity|NN heart|NN failure|NN performance|NN age|NN 
+serum|NN sodium|NN concentration|NN heart|NN failure|NN 
+level|NN renin|NN angiotensin|NN order|NN volume|NN output|NN 
+fluid|NN sodium|NN retention|NN body|NN rate|NN fluid|NN retention|NN rate|NN sodium|NN retention|NN body|NN phenomenon|NN cause|NN sodium|NN concentration|NN body|NN fluid|NN retention|NN 
+phenomenon|NN women|NN body|NN mass|NN 
+hyponatremia|NN accumulation|NN fluid|NN brain|NN edema|ST hemorrhage|NN 
+x-ray|NN image|NN blood|NN vessel|NN contrast|NN agent|NN bloodstream|NN plastic|NN tube|NN catheter|NN blood|NN vessel|NN 
+x-ray|NN image|NN heart|NN failure|NN result|NN artery|NN disease|NN prognosis|NN part|NN ability|NN artery|NN supply|NN blood|NN myocardium|NN heart|NN muscle|NN 
+result|NN catheterization|NN possibility|NN revascularisation|NN intervention|NN bypass|NN surgery|NN 
+measure|NN progress|NN people|NN heart|NN failure|NN 
+fluid|NN balance|NN calculation|NN fluid|NN intake|NN excretion|NN monitor|NN body|NN weight|NN term|NN fluid|NN shift|NN monitor|NN complication|NN people|NN heart|NN failure|NN classification|NN 
+way|NN heart|NN failure|NN 
+side|NN heart|NN left|NN heart|NN failure|NN heart|NN failure|NN 
+heart|NN failure|NN compromise|NN flow|NN lung|NN 
+heart|NN failure|NN compromise|NN flow|NN body|NN brain|NN 
+presentation|NN left|NN heart|NN failure|NN heart|NN failure|NN term|NN 
+abnormality|NN contraction|NN dysfunction|NN relaxation|NN heart|NN dysfunction|NN 
+problem|NN back|NN pressure|NN failure|NN perfusion|NN 
+abnormality|NN output|NN resistance|NN output|NN resistance|NN heart|NN failure|NN heart|NN failure|NN 
+degree|NN impairment|NN abnormality|NN new|NN york|NN heart|NN association|NN classification|NN degree|NN illness|NN heart|NN failure|NN hypertension|DS heart|NN failure|NN hypertension|DS heart|NN failure|NN diabete|NN heart|NN failure|NN kidney|NN failure|NN 
+classification|NN new|NN york|NN heart|NN association|NN classification|NN 
+class|NN limitation|NN activity|NN symptom|NN activity|NN 
+class|NN limitation|NN activity|NN person|NN rest|NN exertion|NN 
+class|NN limitation|NN activity|NN person|NN rest|NN 
+class|NN activity|NN discomfort|NN symptom|NN rest|NN 
+score|NN document|NN severity|NN symptom|NN response|NN treatment|NN 
+use|NN score|NN walk|NN distance|NN exercise|NN tolerance|NN test|NN 
+guideline|NN college|NN heart|NN association|NN work|NN group|NN stage|NN heart|NN failure|NN 
+stage|NN people|NN risk|NN heart|NN failure|NN future|NN heart|NN disorder|NN 
+stage|NN heart|NN disorder|NN symptom|NN stage|NN 
+stage|NN symptom|NN heart|NN failure|NN context|NN heart|NN problem|NN treatment|NN 
+stage|NN disease|NN support|NN heart|NN transplant|NN care|NN 
+acc|NN stage|NN system|NN stage|NN heart|NN failure|NN stage|NN intervention|NN treatment|NN progression|NN symptom|NN 
+acc|NN stage|NN nyha|NN class|NN 
+acc|NN stage|NN b|NN class|NN 
+acc|NN stage|NN c|NN class|NN acc|NN stage|NN d|NN overlap|NN class|NN 
+algorithm|NN diagnosis|NN heart|NN failure|NN 
+example|NN algorithm|NN framingham|NN heart|NN study|NN criteria|NN examination|NN 
+contrast|NN algorithm|NN society|NN esc|NN weight|NN difference|NN parameter|NN history|NN examination|NN test|NN response|NN therapy|NN 
+framingham|NN criteria|NN 
+framingham|NN criteria|NN diagnosis|NN heart|NN failure|NN heart|NN failure|NN pump|NN capability|NN presence|NN criteria|NN criterion|NN conjunction|NN criteria|NN 
+criteria|NN heart|NN chest|NN x-ray|NN gallop|NN heart|NN sound|NN edema|ST episode|NN sleep|NN air|NN crackle|NN lung|NN pressure|NN cm|NN atrium|NN jugular|NN vein|NN distension|NN abdominojugular|NN test|NN weight_loss|ST kg|NN day|NN response|NN treatment|NN criterion|NN criteria|NN heart|NN rate|NN beat|NN minute|NN cough|ST difficulty|NN breath|NN activity|NN effusion|NN decrease|NN capacity|NN liver|NN enlargement|NN ankle|NN swell|NN 
+criteria|NN condition|NN hypertension|DS lung|NN disease|NN cirrhosis|NN ascite|NN syndrome|NN framingham|NN heart|NN study|NN criteria|NN person|NN heart|NN failure|NN esc|NN algorithm|NN 
+esc|NN algorithm|NN weight|NN parameter|NN diagnosis|NN heart|NN failure|NN assessment|NN presence|NN heart|NN failure|NN assessment|NN diagnosis|NN heart|NN failure|NN support|NN compatible|NN symptom|NN sign|NN dysfunction|NN response|NN symptom|NN sign|NN therapy|NN ecg|NN dysrhythmia|NN laboratory|NN lownormal|NN blood|NN sodium|NN kidney|NN dysfunction|NN elevation|NN chest|NN x-ray|NN congestion|NN exercise|NN capacity|NN function|NN test|NN hemodynamics|NN rest|NN importance|NN importance|NN importance|NN 
+term|NN heart|NN failure|NN cause|NN heart|NN failure|NN 
+arrest|NN situation|NN output|NN 
+treatment|NN result|NN death|NN 
+infarction|NN heart_attack|DS heart|NN muscle|NN damage|NN blood|NN supply|NN result|NN artery|NN 
+problem|NN heart|NN muscle|NN problem|NN heart|NN failure|NN 
+cardiomyopathy|DS cause|NN muscle|NN damage|NN artery|NN disease|NN 
+cardiomyopathy|DS muscle|NN damage|NN enlargement|NN heart|NN 
+cardiomyopathy|DS enlargement|NN thicken|NN heart|NN muscle|NN 
+person|NN risk|NN heart|NN failure|NN level|NN activity|NN 
+met-minutesweek|NN minimum|NN guideline|NN heart|NN failure|NN risk|NN individual|NN time|NN reduction|NN heart|NN failure|NN risk|NN level|NN activity|NN minimum|NN heart|NN failure|NN blood|NN pressure|NN blood|NN cholesterol|NN diabete|NN 
+weight|NN obesity|NN 
+lower|NN salt|NN alcohol|NN smoke|NN lower|NN sugar|NN intake|NN management|NN article|NN management|NN heart|NN failure|NN 
+treatment|NN symptom|NN progression|NN disease|NN 
+cause|NN heart|NN failure|NN infection|NN alcohol|NN ingestion|NN arrhythmia|ST hypertension|DS 
+treatment|NN lifestyle|NN modality|NN form|NN device|NN therapy|NN transplantation|NN 
+article|NN decompensate|NN heart|NN failure|NN 
+decompensate|NN heart|NN failure|NN heart|NN failure|NN goal|NN perfusion|NN oxygen|NN delivery|NN end|NN organ|NN 
+airway|NN breath|NN circulation|NN 
+treatment|NN combination|NN diuretics|NN pressure|NN ventilation|NN nippv|NN 
+oxygen|NN oxygen|NN saturation|NN level|NN oxygen|NN level|NN room|NN air|NN management|NN 
+goal|NN treatment|NN people|NN heart|NN failure|NN prolongation|NN life|NN prevention|NN decompensation|NN reduction|NN symptom|NN activity|NN 
+heart|NN failure|NN variety|NN condition|NN 
+option|NN cause|NN disease|NN tachycardia|DS alcohol|NN abuse|NN hypertension|DS dysfunction|NN heart|NN valve|NN 
+treatment|NN cause|NN approach|NN heart|NN failure|NN 
+majority|NN case|NN cause|NN treatment|NN cause|NN heart|NN function|NN 
+case|NN device|NN treatment|NN strategy|NN improvement|NN outcome|NN relief|NN symptom|NN exercise|NN tolerance|NN decrease|NN likelihood|NN hospitalization|NN death|NN 
+rehabilitation|NN disease|NN heart|NN failure|NN exercise|NN train|NN core|NN component|NN 
+rehabilitation|NN intervention|NN address|NN shortness|NN breath|NN education|NN need|NN people|NN need|NN carer|NN lifestyle|NN 
+modification|NN consideration|NN heart|NN failure|NN management|NN program|NN guideline|NN fluid|NN salt|NN intake|NN fluid|NN restriction|NN fluid|NN retention|NN body|NN status|NN body|NN evidence|NN benefit|NN salt|NN 
+exercise|NN capability|NN 
+inclusion|NN condition|NN part|NN rehabilitation|NN program|NN quality|NN life|NN risk|NN hospital|NN admission|NN symptom|NN evidence|NN reduction|NN mortality|NN rate|NN result|NN exercise|NN 
+evidence|NN people|NN heart|NN failure|NN ejection|NN fraction|NN heart|NN failure|NN exercise|NN regimen|NN place|NN home|NN 
+home|NN visit|NN monitor|NN heart|NN failure|NN clinics|NN need|NN hospitalization|NN life|NN expectancy|NN 
+therapy|NN people|NN heart|NN failure|NN due|NN function|NN enzyme|NN inhibitor|NN angiotensin|NN receptor|NN blocker|NN person|NN term|NN cough|ST side|NN effect|NN use|NN medicine|NN class|NN survival|NN hospitalization|NN heart|NN failure|NN exacerbation|NN quality|NN life|NN people|NN heart|NN failure|NN 
+agent|NN beta|NN blocker|NN form|NN part|NN line|NN treatment|NN improvement|NN symptom|NN mortality|NN ace-iarb|NN mortality|NN benefit|NN beta|NN blocker|NN people|NN dysfunction|NN fibrillation|NN af|NN af|NN ejection|NN fraction|NN heart|NN failure|NN benefit|NN beta|NN blocker|NN decrease|NN mortality|NN reduction|NN hospital|NN admission|NN symptom|NN 
+people|NN ace-y|NN arb|NN kidney|NN dysfunction|NN use|NN hydralazine|NN nitrate|NN dinitrate|NN strategy|NN 
+regimen|NN mortality|NN people|NN heart|NN failure|NN aa|NN aas|NN ace-y|NN arb|NN 
+people|NN heart|NN failure|NN ejection|NN fraction|NN ejection|NN fraction|NN heart_attack|DS use|NN aldosterone|NN antagonist|NN addition|NN beta|NN blocker|NN ace-y|NN target|NN dose|NN maximum|NN dose|NN symptom|NN mortality|NN 
+medication|NN heart|NN failure|NN mortality|NN benefit|NN 
+window|NN degree|NN toxicity|NN failure|NN trial|NN mortality|NN benefit|NN role|NN practice|NN 
+number|NN people|NN symptom|NN fibrillation|NN blood|NN pressure|NN 
+mainstay|NN treatment|NN treatment|NN fluid|NN accumulation|NN diuretics|NN class|NN loop|NN diuretics|NN diuretics|NN diuretics|NN 
+evidence|NN efficacy|NN safety|NN exception|NN antagonist|NN antagonist|NN year|NN risk|NN death|NN cochrane|NN review|NN study|NN use|NN diuretics|NN mortality|NN individual|NN heart|NN failure|NN extent|NN result|NN population|NN number|NN participant|NN study|NN 
+factor|NN mortality|NN people|NN heart|NN failure|NN 
+treatment|NN quality|NN life|NN heart|NN failure|NN reduction|NN severity|NN classification|NN mortality|NN rate|NN guideline|NN screen|NN anemia|DS iron|NN 
+decision|NN people|NN heart|NN failure|NN ejection|NN fraction|NN people|NN fibrillation|NN embolic|NN event|NN condition|NN risk|NN event|NN amyloidosis|NN cardiomyopathy|DS event|NN relative|NN 
+receptor|NN antagonist|NN heart|NN failure|NN 
+medication|NN food|NN drug|NN administration|NN treatment|NN hyponatremia|NN heart|NN failure|NN case|NN diuretics|NN hyponatremia|NN 
+combination|NN medication|NN treatment|NN heart|NN failure|NN ejection|NN fraction|NN 
+use|NN alternative|NN inhibitor|NN beta|NN blocker|NN people|NN heart|NN failure|NN ejection|NN fraction|NN guideline|NN therapy|NN maximum|NN dose|NN beta|NN blocker|NN heart|NN rhythm|NN rest|NN heart|NN rate|NN beat|NN minute|NN risk|NN hospitalization|NN heart|NN failure|NN exacerbation|NN subgroup|NN people|NN heart|NN failure|NN device|NN 
+people|NN cardiomyopathy|DS ejection|NN fraction|NN vt|NN arrhythmia|ST treatment|NN implantable|NN defibrillator|NN aicd|NN risk|NN arrhythmia|ST 
+aicd|NN symptom|NN incidence|NN arrhythmia|ST mortality|NN arrhythmia|ST conjunction|NN medication|NN 
+people|NN ejection|NN incidence|NN tachycardia|DS vt|NN death|NN placement|NN 
+use|NN guideline|NN 
+contractility|NN modulation|NN ccm|NN treatment|NN people|NN heart|NN failure|NN class|NN strength|NN contraction|NN heart|NN pump|NN capacity|NN 
+ccm|NN mechanism|NN stimulation|NN muscle|NN signal|NN ne|NN device|NN 
+ccm|NN treatment|NN heart|NN failure|NN duration|NN ms|NN symptom|NN quality|NN life|NN exercise|NN tolerance|NN ccm|NN use|NN europe|NN north|NN america|NN 
+people|NN lvef|NN conduction|NN ventricle|NN depolarization|NN right|NN ventricle|NN 
+people|NN bundle|NN branch|NN block|NN blockage|NN conduct|NN bundle|NN base|NN heart|NN impulse|NN ventricle|NN 
+pace|NN algorithm|NN resynchronization|NN therapy|NN sequence|NN depolarization|NN 
+people|NN lvef|NN qr|NN duration|NN ecg|NN ms|NN improvement|NN symptom|NN mortality|NN therapy|NN people|NN duration|NN therapy|NN 
+people|NN heart|NN failure|NN candidate|NN device|NN 
+bridge|NN heart|NN transplantation|NN destination|NN treatment|NN heart|NN failure|NN 
+case|NN heart|NN transplantation|NN 
+problem|NN heart|NN failure|NN person|NN regimen|NN rejection|NN limitation|NN treatment|NN option|NN scarcity|NN heart|NN transplantation|NN 
+people|NN heart|NN failure|NN symptom|NN shortness|NN breath|NN chest_pain|ST 
+care|NN heart|NN failure|NN trajectory|NN option|NN resort|NN care|NN symptom|NN management|NN care|NN plan|NN goal|NN care|NN case|NN decline|NN person|NN power|NN attorney|NN wishe|NN individual|NN 2016|NN review|NN care|NN outcome|NN quality|NN life|NN symptom|NN burden|NN satisfaction|NN care|NN 
+transplantation|NN heart|NN failure|NN heart|NN function|NN time|NN 
+number|NN people|NN stage|NN heart|NN failure|NN symptom|NN fatigue|ST shortness|NN breath|NN chest_pain|ST rest|NN therapy|NN care|NN hospice|NN college|NN heart|NN association|NN guideline|NN 
+heart|NN failure|NN way|NN prediction|NN rule|NN exercise|NN test|NN 
+prediction|NN rule|NN composite|NN factor|NN lab|NN test|NN blood|NN pressure|NN estimate|NN prognosis|NN 
+prediction|NN rule|NN heart|NN failure|NN effect|NN rule|NN rule|NN people|NN risk|NN death|NN hospitalization|NN day|NN method|NN people|NN 
+tree|NN rule|NN people|NN blood|NN urea|NN nitrogen|NN blood|NN pressure|NN mm|NN chance|NN inpatient|NN death|NN complication|NN 
+rule|NN people|NN blood|NN pressure|NN mm|NN rate|NN breath|NN minute|NN serum|NN sodium|NN st-t|NN wave|NN change|NN chance|NN inpatient|NN death|NN complication|NN 
+method|NN prognosis|NN people|NN heart|NN failure|NN exercise|NN test|NN test|NN 
+test|NN heart|NN transplantation|NN indicator|NN prognosis|NN 
+exercise|NN test|NN measurement|NN oxygen|NN carbon|NN dioxide|NN exercise|NN 
+peak|NN oxygen|NN consumption|NN max|NN indicator|NN prognosis|NN 
+rule|NN max|NN cckgmin|NN survival|NN person|NN candidate|NN heart|NN transplant|NN 
+people|NN max10|NN prognosis|NN 
+society|NN heart|NN lung|NN guideline|NN parameter|NN evaluation|NN prognosis|NN heart|NN failure|NN heart|NN failure|NN survival|NN score|NN use|NN criterion|NN slope|NN test|NN 
+heart|NN failure|NN survival|NN score|NN score|NN combination|NN predictor|NN max|NN exercise|NN test|NN 
+heart|NN failure|NN health|NN quality|NN life|NN exception|NN heart|NN failure|NN condition|NN condition|NN time|NN 
+people|NN year|NN disease|NN mortality|NN rate|NN 
+person|NN stroke|NN year|NN diagnosis|NN heart|NN failure|NN 
+duration|NN follow-up|NN stroke|NN rate|NN rise|NN stroke|NN case|NN heart|NN failure|NN year|NN epidemiology|NN 
+heart|NN failure|NN people|NN adult|NN heart|NN failure|NN age|NN increase|NN year|NN rate|NN 
+rate|NN rate|NN life|NN span|NN risk|NN factor|NN hypertension|DS diabete|NN obesity|NN survival|NN rate|NN type|NN disease|NN infarction|NN disease|NN arrhythmia|ST heart|NN failure|NN cause|NN hospitalization|NN people|NN united|NN states|NN 
+united|NN states|NN heart|NN failure|NN people|NN year|NN case|NN heart|NN failure|NN reason|NN hospitalization|NN adult|NN year|NN second|NN adult|NN year|NN adult|NN age|NN heart|NN failure|NN lifetime|NN people|NN heart|NN failure|NN year|NN diagnosis|NN heart|NN failure|NN american|NN hispanics|NN american|NN immigrant|NN bloc|NN country|NN russia|NN 
+prevalence|NN minority|NN population|NN incidence|NN diabete|NN hypertension|DS 
+immigrant|NN prevalence|NN heart|NN failure|NN lack|NN health|NN care|NN treatment|NN people|NN heart|NN failure|NN day|NN people|NN month|NN treatment|NN duration|NN hospital|NN stay|NN day|NN 
+heart|NN failure|NN cause|NN hospital|NN readmission|NN 
+people|NN rate|NN admission|NN 
+year|NN people|NN medicaid|NN rate|NN admission|NN people|NN rate|NN admission|NN 
+readmission|NN rate|NN category|NN 
+heart|NN failure|NN top|NN condition|NN readmission|NN united|NN kingdom|NN 
+uk|NN improvement|NN prevention|NN heart|NN failure|NN rate|NN population|NN growth|NN heart|NN failure|NN rate|NN cause|NN cancer|DS breast|NN lung|NN prostate|NN colon|NN people|NN background|NN heart|NN failure|NN age|NN world|NN 
+country|NN cause|NN heart|NN failure|NN heart|NN disease|NN type|NN cardiomyopathy|DS 
+country|NN increase|NN incidence|NN diabete|NN hypertension|DS obesity|NN turn|NN incidence|NN heart|NN failure|NN sex|NN 
+men|NN incidence|NN heart|NN failure|NN prevalence|NN rate|NN sexe|NN women|NN onset|NN heart|NN failure|NN women|NN heart|NN failure|NN menopause|NN men|NN dysfunction|NN quality|NN life|NN men|NN diagnosis|NN 
+source|NN people|NN descent|NN risk|NN heart|NN failure|NN group|NN source|NN rate|NN heart|NN failure|NN rate|NN group|NN economics|NN 
+non-hypertensive|NN heart|NN failure|NN condition|NN inpatient|NN inpatient|NN hospital|NN cost|NN 
+heart|NN failure|NN health|NN expenditure|NN cost|NN cost|NN amount|NN budget|NN health|NN service|NN kingdom|NN united|NN states|NN research|NN direction|NN 
+evidence|NN stem|NN cell|NN therapy|NN evidence|NN benefit|NN evidence|NN quality|NN evidence|NN cochrane|NN review|NN evidence|NN life|NN expectancy|NN ejection|NN fraction|NN person|NN bone|NN stem|NN cell|NN 
+g|NN receptor|NN kinase|NN inhibition|NN treatment|NN heart|NN failure|NN 

@@ -1,0 +1,86 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN alcoholic|NN liver|NN disease|NN name|NN alcoholic|NN liver|NN disease|NN microscopy|NN liver|NN change|NN cell|NN necrosis|NN mallory|NN body|NN 
+alcoholic|NN liver|NN disease|NN term|NN liver|NN manifestation|NN alcohol|NN liver|NN hepatitis|DS hepatitis|DS liver|NN fibrosis|DS cirrhosis|NN 
+cause|NN liver|NN disease|NN country|NN 
+liver|NN individual|NN quantity|NN beverage|NN period|NN time|NN process|NN drinker|NN liver|NN hepatitis|DS cirrhosis|NN content|NN 
+risk|NN factor|NN change|NN hepatitis|DS diagnosis|NN laboratory|NN find|NN treatment|NN reference|NN read|NN link|NN 
+risk|NN factor|NN 
+risk|NN factor|NN 
+quantity|NN alcohol|NN consumption|NN 6080g|NN day|NN 14g|NN drink|NN fl|NN oz|NN liquor|NN fl|NN oz|NN wine|NN fl|NN oz|NN beer|NN six-pack|NN beer|NN daily|NN middle|NN range|NN year|NN men|NN 20gday|NN women|NN risk|NN hepatitis|DS fibrosis|DS pattern|NN drink|NN drink|NN outside|NN meal|NN time|NN time|NN risk|NN alcoholic|NN liver|NN disease|NN sex|NN women|NN liver|NN disease|NN alcoholic|NN liver|NN disease|NN duration|NN dose|NN consumption|NN 
+amount|NN alcohol|NN dehydrogenase|NN gut|NN proportion|NN body|NN fat|NN women|NN change|NN absorption|NN cycle|NN phenomenon|NN hepatitis_c|DS infection|NN hepatitis_c|DS infection|NN process|NN liver|NN injury|NN factor|NN factor|NN alcoholism|NN alcoholic|NN liver|NN disease|NN 
+twin|NN alcoholics|NN liver_cirrhosis|DS dizygotic|NN twin|NN 
+enzyme|NN metabolism|NN alcohol|NN aldh|NN dysfunction|NN cytokine|NN polymorphism|NN component|NN 
+polymorphism|NN alcoholic|NN liver|NN disease|NN 
+iron_overload|DS diet|NN vitamin|NN deficiency|NN liver|NN damage|NN regeneration|NN hepatocyte|NN 
+concern|NN alcoholics|NN diet|NN anorexia|ST encephalopathy|NN 
+pathogenesis|NN alcohol|NN liver|NN injury|NN 
+mechanism|NN alcohol|NN pass|NN liver|NN 
+consumption|NN alcohol|NN result|NN secretion|NN cytokine|NN stress|NN peroxidation|NN acetaldehyde|NN toxicity|NN 
+factor|NN cause|NN inflammation|NN apoptosis|NN fibrosis|DS liver|NN cell|NN 
+liver|NN capacity|NN hepatocyte|NN function|NN change|NN article|NN liver|NN 
+change|NN accumulation|NN acid|NN liver|NN cell|NN 
+globule|NN microscope|NN 
+alcoholism|NN cause|NN development|NN globule|NN steatosis|NN liver|NN day|NN drink|NN alcohol|NN alcohol|NN dehydrogenase|NN acetaldehyde|NN dehydrogenase|NN acid|NN carbon|NN dioxide|NN co|NN water|NN h|NN process|NN ratio|NN 
+nadh|NN concentration|NN acid|NN synthesis|NN nad|NN level|NN result|NN acid|NN oxidation|NN 
+level|NN acid|NN liver|NN cell|NN compound|NN glycerol|NN form|NN triglyceride|NN 
+triglyceride|NN liver|NN 
+hepatitis|DS article|NN hepatitis|DS 
+hepatitis|DS inflammation|NN hepatocyte|NN 
+drinker|NN hepatitis|DS 
+development|NN hepatitis|DS dose|NN alcohol|NN people|NN reaction|NN 
+steato|NN necrosis|NN inflammation|NN liver|NN fibrosis|DS 
+cytokine|NN il6|NN initiation|NN perpetuation|NN liver|NN injury|NN apoptosis|NN necrosis|NN 
+mechanism|NN activity|NN 
+permeability|NN liver|NN disease|NN 
+absorption|NN endotoxin|NN portal|NN circulation|NN 
+cell|NN liver|NN endotoxin|NN release|NN 
+pathway|NN activation|NN caspase|NN cell|NN death|NN article|NN 
+stage|NN liver|NN disease|NN inflammation|NN swell|NN fibrosis|DS harden|NN membrane|NN detoxification|NN chemical|NN body|NN end|NN scare|NN necrosis|NN cell|NN death|NN 
+drinker|NN cirrhosis|NN liver|NN 
+fibrosis|DS collagen|NN deposition|NN cell|NN production|NN oxidant|NN oxi-|NN p-450|NN formation|NN adduct|NN cell|NN membrane|NN symptom|NN jaundice|ST liver|NN enlargement|NN pain|ST tenderness|NN change|NN liver|NN architecture|NN 
+abstinence|NN alcohol|NN use|NN cirrhosis|NN liver|NN failure|NN 
+complication|NN cirrhosis|NN liver|NN failure|NN portal_hypertension|DS blood|NN pressure|NN portal|NN vein|NN flow|NN resistance|NN liver|NN coagulation|NN disorder|NN production|NN coagulation|NN factor|NN ascite|NN due|NN buildup|NN fluid|NN tissue|NN complication|NN encephalopathy|NN syndrome|NN 
+cause|NN alcohol|NN abuse|NN hepatitis|DS exposure|NN toxin|NN alcohol|NN 
+stage|NN cirrhosis|NN cause|NN 
+phenomenon|NN pathway|NN disease|NN 
+change|NN hepatitis|DS abstinence|NN 
+stage|NN fibrosis|DS cirrhosis|NN abstinence|NN period|NN time|NN 
+stage|NN patient|NN exhibit|NN find|NN 
+development|NN liver|NN disease|NN stigmata|NN liver|NN disease|NN 
+routine|NN health|NN examination|NN liver|NN enzyme|NN level|NN 
+inflammation|NN liver|NN biopsy|NN specimen|NN 
+feature|NN ald|NN liver|NN disease|NN 
+discontinuation|NN alcohol|NN use|NN 
+continuation|NN alcohol|NN use|NN risk|NN progression|NN liver|NN disease|NN cirrhosis|NN 
+patient|NN hepatitis|DS manifestation|NN fever|ST jaundice|ST decompensation|NN encephalopathy|NN bleed|NN ascite|NN pain|ST 
+patient|NN laboratory|NN find|NN 
+people|NN hepatitis|DS serum|NN aspartate|NN aminotransferase|NN ast|NN aminotransferase|NN alt|NN ratio|NN 
+ast|NN alt|NN level|NN 
+ast|NN alt|NN ratio|NN deficiency|NN phosphate|NN alt|NN enzyme|NN pathway|NN 
+alcohol|NN injury|NN mitochondria|NN result|NN ast|NN release|NN 
+laboratory|NN find|NN blood|NN cell|NN volume|NN elevation|NN serum|NN ggt|NN phosphatase|NN alk|NN bilirubin|NN level|NN 
+level|NN patient|NN absorption|NN bone|NN marrow|NN requirement|NN folate|NN presence|NN alcohol|NN loss|NN 
+magnitude|NN blood|NN cell|NN depletion|NN severity|NN liver|NN injury|NN 
+feature|NN body|NN giant|NN mitochondria|NN hepatocyte|NN necrosis|NN neutrophil|NN infiltration|NN area|NN vein|NN 
+body|NN liver|NN disease|NN component|NN hepatocyte|NN cytoplasm|NN liver|NN injury|NN 
+patient|NN hepatitis|DS cirrhosis|NN biopsy|NN examination|NN time|NN diagnosis|NN treatment|NN 
+alcohol|NN part|NN treatment|NN people|NN infection|NN alcohol|NN intake|NN risk|NN acceleration|NN liver|NN disease|NN 
+cochrane|NN review|NN evidence|NN use|NN steroid|NN liver|NN inflammation|NN 
+treatment|NN result|NN review|NN benefit|NN methionine|NN disease|NN model|NN 
+effect|NN necrosis|NN factor|NN medication|NN evidence|NN propylthiouracil|NN harm|NN 
+evidence|NN nutrition|NN liver|NN disease|NN 
+case|NN liver_cirrhosis|DS disease|NN process|NN 
+liver|NN transplantation|NN therapy|NN 
+survival|NN liver|NN transplantation|NN people|NN ald|NN non-ald|NN 
+requirement|NN transplant|NN list|NN type|NN liver|NN disease|NN sobriety|NN prerequisite|NN evaluation|NN rehabilitation|NN assistance|NN alcoholics|NN 
+citation|NN requirement|NN transplant|NN center|NN 
+alcohol|NN use|NN transplant|NN list|NN result|NN 
+institution|NN month|NN sobriety|NN 
+data|NN transplant|NN survival|NN patient|NN hepatitis|DS ald|NN hepatitis|DS mdf|NN prognosis|NN 
+prognosis|NN people|NN ald|NN liver|NN histology|NN cofactor|NN hepatitis|DS 
+patient|NN hepatitis|DS progression|NN liver_cirrhosis|DS year|NN cirrhosis|NN 
+cessation|NN alcohol|NN use|NN normalization|NN histology|NN serum|NN liver|NN enzyme|NN level|NN mdf|NN mortality|NN mdf|NN 
+survival|NN 5065|NN therapy|NN mdf|NN survival|NN model|NN liver|NN disease|NN score|NN accuracy|NN meld|NN meld|NN mortality|NN 
+liver_cirrhosis|DS g|NN alcohol|NN men|NN g|NN women|NN 
+g|NN liver|NN injury|NN 
+mortality|NN cause|NN death|NN united|NN states|NN 
+mortality|NN year|NN 

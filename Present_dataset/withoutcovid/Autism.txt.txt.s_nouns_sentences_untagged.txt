@@ -1,0 +1,151 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN disorder|NN 
+condition|NN autism|DS autism|DS spectrum|NN 
+journal|NN autism|DS journal|NN 
+autism|DS boy|NN stack|NN stack|NN line|NN object|NN autism|DS 
+psychiatry|NN symptom|NN trouble|NN interaction|NN communication|NN interest|NN behavior|NN complication|NN isolation|NN employment|NN problem|NN family|NN stress|NN bully|NN onset|NN age|NN duration|NN cause|NN factor|NN method|NN behavior|NN history|NN diagnosis|NN attachment|NN disorder|NN disability|NN schizophrenia|DS treatment|NN therapy|NN speech|NN therapy|NN medication|NN antidepressant|NN stimulant|NN symptom|NN frequency|NN 
+autism|DS disorder|NN difficulty|NN interaction|NN communication|NN behavior|NN parent|NN sign|NN year|NN life|NN sign|NN children|NN autism|DS reach|NN milestone|NN pace|NN 
+autism|DS combination|NN factor|NN factor|NN pregnancy|NN infection|NN rubella|DS toxin|NN acid|NN alcohol|NN cocaine|NN pesticide|NN air|NN pollution|NN growth|NN restriction|NN autoimmune|NN disease|NN cause|NN example|NN vaccine|NN hypothesis|NN time|NN autism|DS information|NN process|NN brain|NN connection|NN organization|NN nerve|NN cell|NN synapse|NN dsm-5|NN autism|DS form|NN condition|NN syndrome|NN disorder|NN pdd-no|NN diagnosis|NN autism|DS spectrum|NN disorder|NN 
+speech|NN therapy|NN behavioral|NN intervention|NN children|NN autism|DS gain|NN self-care|NN communication|NN skill|NN cure|NN case|NN children|NN children|NN autism|DS adulthood|NN culture|NN individual|NN cure|NN autism|DS difference|NN disorder|NN 
+autism|DS people|NN 2000|NN number|NN people|NN people|NN country|NN children|NN asd|NN 2017|NN united|NN states|NN time|NN male|NN female|NN number|NN people|NN change|NN practice|NN question|NN rate|NN content|NN 
+characteristics|NN development|NN communication|NN behavior|NN symptom|NN cause|NN mechanism|NN diagnosis|NN classification|NN screen|NN prevention|NN management|NN education|NN medicine|NN epidemiology|NN history|NN development|NN diagnose|NN terminology|NN distinction|NN schizophrenia|DS society|NN culture|NN autism|DS right|NN movement|NN employment|NN reference|NN link|NN 
+autism|DS neurodevelopmental|NN disorder|NN infancy|NN childhood|NN course|NN remission|NN people|NN autism|DS respect|NN symptom|NN age|NN month|NN age|NN year|NN adulthood|NN form|NN symptom|NN triad|NN symptom|NN impairment|NN interaction|NN impairment|NN communication|NN interest|NN behavior|NN 
+aspect|NN eate|NN diagnosis|NN symptom|NN autism|DS population|NN line|NN trait|NN development|NN 
+deficit|NN autism|DS autism|DS spectrum|NN disorder|NN classification|NN disorder|NN people|NN autism|DS impairment|NN intuition|NN people|NN 
+temple|NN inability|NN communication|NN neurotypical|NN people|NN development|NN feel|NN anthropologist|NN mars|NN 
+development|NN childhood|NN 
+infant|NN attention|NN stimuly|NN smile|NN look|NN name|NN 
+toddler|NN norm|NN example|NN eye|NN contact|NN turn-take|NN ability|NN movement|NN thing|NN five-year-old|NN children|NN autism|DS understand|NN approach|NN emotion|NN turn|NN 
+attachment|NN primary|NN children|NN autism|DS display|NN attachment|NN security|NN children|NN difference|NN children|NN development|NN children|NN adult|NN asd|NN test|NN face|NN emotion|NN recognition|NN ability|NN person|NN emotion|NN 
+children|NN autism|DS loneliness|NN peer|NN belief|NN children|NN autism|DS 
+make|NN friendship|NN autism|DS 
+quality|NN friendship|NN number|NN friend|NN 
+friendship|NN invitation|NN party|NN quality|NN life|NN 
+report|NN study|NN aggression|NN violence|NN individual|NN 
+data|NN children|NN disability|NN autism|DS aggression|NN destruction|NN property|NN communication|NN 
+half|NN individual|NN autism|DS speech|NN communication|NN difference|NN communication|NN year|NN life|NN onset|NN gesture|NN responsiveness|NN pattern|NN caregiver|NN 
+second|NN year|NN children|NN autism|DS consonant|NN word|NN word|NN combination|NN gesture|NN word|NN 
+children|NN autism|DS request|NN share|NN experience|NN repeat|NN word|NN pronoun|NN attention|NN speech|NN deficit|NN attention|NN infant|NN asd|NN example|NN hand|NN object|NN point|NN object|NN order|NN experience|NN children|NN autism|DS difficulty|NN play|NN symbol|NN language|NN 
+pair|NN study|NN children|NN autism|DS adult|NN control|NN language|NN task|NN vocabulary|NN spell|NN 
+group|NN control|NN language|NN task|NN language|NN comprehension|NN inference|NN 
+people|NN language|NN skill|NN study|NN people|NN individual|NN audience|NN behavior|NN sleep|NN boy|NN toy|NN line|NN boy|NN autism|DS toy|NN row|NN 
+individual|NN form|NN behavior|NN repetitive|NN rbs-r|NN 
+behavior|NN movement|NN hand|NN flap|NN head|NN body|NN rock|NN 
+behavior|NN anxiety|ST individual|NN rule|NN place|NN object|NN order|NN thing|NN hand|NN wash|NN 
+resistance|NN example|NN furniture|NN 
+behavior|NN pattern|NN activity|NN menu|NN dress|NN ritual|NN 
+sameness|NN validation|NN factor|NN interest|NN interest|NN fixation|NN theme|NN intensity|NN focus|NN preoccupation|NN television|NN program|NN toy|NN game|NN 
+behavior|NN autism|DS autism|DS pattern|NN occurrence|NN severity|NN symptom|NN 
+individual|NN symptom|NN diagnosis|NN individual|NN family|NN individual|NN show|NN ability|NN splinter|NN skill|NN memorization|NN trivia|NN talent|NN savant|NN individual|NN show|NN skill|NN perception|NN attention|NN relative|NN population|NN abnormality|NN autism|DS core|NN feature|NN evidence|NN symptom|NN autism|DS disorder|NN difference|NN under-responsivity|NN example|NN walk|NN thing|NN over-responsivity|NN example|NN distress|NN noise|NN sensation|NN example|NN movement|NN 6080|NN people|NN sign|NN muscle|NN tone|NN motor|NN plan|NN toe|NN walk|NN deficit|NN motor|NN coordination|NN asd|NN autism|DS eate|NN behavior|NN children|NN asd|NN extent|NN indicator|NN 
+problem|NN ritual|NN food|NN refusal|NN 
+parent|NN children|NN asd|NN level|NN stress|NN sible|NN children|NN report|NN admiration|NN conflict|NN sible|NN sible|NN children|NN sible|NN children|NN syndrome|NN aspect|NN sible|NN relationship|NN 
+level|NN closeness|NN intimacy|NN sible|NN children|NN syndrome|NN sible|NN individual|NN asd|NN risk|NN well-be|NN sible|NN relationship|NN adult|NN evidence|NN autism|DS people|NN gender|NN 
+problem|NN disorder|NN people|NN autism|DS impairment|NN irritability|ST behavior|NN sleep|NN problem|NN language|NN impairment|NN mood|NN change|NN cause|NN article|NN cause|NN autism|DS 
+cause|NN level|NN autism|DS characteristic|NN triad|NN symptom|NN suspicion|NN autism|DS disorder|NN core|NN aspect|NN cause|NN diagram|NN chromosome|NN pair|NN b|NN segment|NN b|NN copy|NN segment|NN bs|NN copy|NN segment|NN reverse|NN order|NN 
+deletion|NN duplication|NN inversion|NN chromosome|NN abnormality|NN autism|DS 
+autism|DS basis|NN genetics|NN autism|DS mutation|NN effect|NN interaction|NN variant|NN complexity|NN interaction|NN gene|NN environment|NN factor|NN dna|NN sequence|NN influence|NN gene|NN expression|NN gene|NN autism|DS sequence|NN genome|NN individual|NN parent|NN study|NN twin|NN heritability|NN autism|DS sible|NN autism|DS time|NN population|NN mutation|NN autism|DS risk|NN 
+autism|DS single-gene|NN mutation|NN chromosome|NN abnormality|NN syndrome|NN asds|NN cause|NN candidate|NN gene|NN effect|NN gene|NN locy|NN case|NN autism|DS number|NN individual|NN family|NN member|NN variation|NN deletion|NN duplication|NN inversion|NN material|NN meiosis|NN fraction|NN autism|DS case|NN cause|NN mutation|NN autism|DS genome|NN autism|DS women|NN girl|NN assumption|NN condition|NN 
+nutrition|NN inflammation|NN preconception|NN pregnancy|NN influence|NN 
+growth|NN restriction|NN asd|NN term|NN preterm|NN infant|NN autoimmune|NN disease|NN tissue|NN problem|NN system|NN 
+exposure|NN air|NN pollution|NN pregnancy|NN metal|NN particulate|NN risk|NN autism|DS factor|NN evidence|NN autism|DS food|NN disease|NN solvent|NN pcb|NN plastic|NN product|NN pesticide|NN flame|NN alcohol|NN smoke|NN drug|NN vaccine|NN stress|NN 
+parent|NN symptom|NN child|NN time|NN routine|NN vaccination|NN 
+theory|NN vaccine|NN overload|NN vaccine|NN preservative|NN vaccine|NN autism|DS theory|NN study|NN fraud|NN theory|NN evidence|NN concern|NN vaccine|NN link|NN autism|DS rate|NN childhood|NN outbreak|NN childhood|NN disease|NN country|NN death|NN children|NN mechanism|NN article|NN mechanism|NN autism|DS 
+autism|DS symptom|NN result|NN change|NN system|NN brain|NN 
+mechanism|NN area|NN pathophysiology|NN brain|NN structure|NN process|NN autism|DS linkage|NN brain|NN structure|NN behavior|NN pathophysiology|NN 
+evidence|NN axis|NN abnormality|NN review|NN inflammation|NN malfunction|NN system|NN gut|NN flora|NN alteration|NN food|NN metabolite|NN brain|NN dysfunction|NN review|NN system|NN abnormality|NN role|NN disorder|NN autism|DS 
+connection|NN system|NN pathway|NN disease|NN intestine|NN brain|NN 
+line|NN evidence|NN point|NN dysfunction|NN cause|NN autism|DS mutation|NN autism|DS pathway|NN cell|NN adhesion|NN gene|NN replacement|NN study|NN mice|NN symptom|NN step|NN activity|NN synapse|NN change|NN agent|NN cause|NN birth|NN defect|NN risk|NN autism|DS week|NN conception|NN possibility|NN autism|DS evidence|NN autism|DS development|NN diagnosis|NN 
+diagnosis|NN behavior|NN cause|NN mechanism|NN autism|DS deficit|NN communication|NN interaction|NN context|NN pattern|NN behavior|NN interest|NN activity|NN 
+deficit|NN childhood|NN age|NN lead|NN impairment|NN sample|NN symptom|NN lack|NN reciprocity|NN use|NN language|NN language|NN preoccupation|NN object|NN 
+disturbance|NN syndrome|NN disability|NN delay|NN use|NN definition|NN 
+autism|DS research|NN autism|DS interview-revise|NN adi-r|NN parent|NN interview|NN autism|DS observation|NN schedule|NN observation|NN interaction|NN child|NN 
+childhood|NN autism|DS rate|NN scale|NN car|NN environment|NN severity|NN autism|DS observation|NN children|NN interview|NN communication_disorder|DS 
+pediatrician|NN investigation|NN history|NN child|NN 
+diagnosis|NN evaluation|NN help|NN specialist|NN communication|NN family|NN factor|NN tool|NN account|NN condition|NN neuropsychologist|NN behavior|NN skill|NN aid|NN diagnosis|NN intervention|NN diagnosis|NN asd|NN stage|NN disability|NN hear|NN impairment|NN language|NN impairment|NN syndrome|NN presence|NN autism|DS disorder|NN depression|ST 
+genetics|NN evaluation|NN symptom|NN cause|NN technology|NN geneticist|NN case|NN cause|NN consensus|NN guideline|NN uk|NN chromosome|NN model|NN diagnosis|NN genome|NN copy|NN number|NN variation|NN test|NN issue|NN 
+availability|NN test|NN understand|NN test|NN result|NN complexity|NN autism|DS genetics|NN test|NN 
+age|NN month|NN diagnosis|NN year|NN life|NN example|NN one-year-old|NN criteria|NN asd|NN three-year-old|NN year|NN uk|NN autism|DS plan|NN children|NN week|NN concern|NN diagnosis|NN assessment|NN case|NN practice|NN symptom|NN autism|DS childhood|NN year|NN adult|NN diagnose|NN friend|NN family|NN employer|NN adjustment|NN location|NN claim|NN disability|NN live|NN allowance|NN benefit|NN 
+girl|NN boy|NN 
+problem|NN case|NN increase|NN number|NN asd|NN case|NN change|NN practice|NN 
+popularity|NN drug|NN treatment|NN option|NN expansion|NN benefit|NN provider|NN incentive|NN overdiagnosis|NN children|NN symptom|NN 
+cost|NN screen|NN diagnosis|NN challenge|NN payment|NN diagnosis|NN autism|DS criteria|NN vision|NN symptom|NN overlap|NN blindness|NN syndrome|NN classification|NN 
+autism|DS disorder|NN abnormality|NN interaction|NN communication|NN interest|NN behavior|NN symptom|NN sickness|NN fragility|NN disturbance|NN 
+form|NN syndrome|NN autism|DS sign|NN cause|NN syndrome|NN childhood|NN disorder|NN share|NN sign|NN autism|DS cause|NN autism|DS criteria|NN disorder|NN autism|DS people|NN syndrome|NN delay|NN language|NN development|NN terminology|NN autism|DS autism|DS syndrome|NN autism|DS spectrum|NN disorder|NN disorder|NN autism|DS disorder|NN childhood|NN autism|DS autism|DS 
+article|NN autism|DS disorder|NN practice|NN autism|DS asd|NN turn|NN subset|NN autism|DS phenotype|NN individual|NN trait|NN eye|NN contact|NN 
+manifestation|NN autism|DS cover|NN spectrum|NN individual|NN impairmentswho|NN hand|NN flap|NN function|NN individual|NN approache|NN interest|NN communication|NN behavior|NN spectrum|NN boundary|NN category|NN syndrome|NN autism|DS lfa|NN iq|NN threshold|NN support|NN individual|NN life|NN subdivision|NN 
+autism|DS syndromal|NN non-syndromal|NN autism|DS autism|DS disability|NN syndrome|NN symptom|NN sclerosis|NN individual|NN syndrome|NN autism|DS extent|NN overlap|NN syndrome|NN autism|DS 
+study|NN diagnose|NN autism|DS children|NN loss|NN language|NN skill|NN failure|NN progress|NN month|NN age|NN 
+validity|NN distinction|NN autism|DS subtype|NN continuum|NN behavior|NN autism|DS regression|NN 
+research|NN cause|NN inability|NN subgroup|NN population|NN boundary|NN discipline|NN psychiatry|NN psychology|NN neurology|NN technology|NN diffusion|NN tensor|NN image|NN phenotype|NN trait|NN brain|NN scan|NN study|NN autism|DS example|NN activity|NN face|NN area|NN brain|NN perception|NN people|NN object|NN autism|DS genetics|NN behavior|NN screen|NN 
+parent|NN children|NN notice|NN behavior|NN age|NN month|NN notice|NN age|NN month|NN article|NN failure|NN milestone|NN indication|NN evaluation|NN 
+referral|NN test|NN diagnosis|NN treatment|NN outcome|NN 
+babble|NN month|NN 
+gesture|NN month|NN 
+word|NN month|NN 
+phrase|NN month|NN 
+loss|NN language|NN skill|NN age|NN 
+united|NN states|NN service|NN task|NN force|NN 2016|NN screen|NN children|NN concern|NN practice|NN children|NN asd|NN month|NN autism|DS screen|NN test|NN 
+contrast|NN uk|NN children|NN family|NN doctor|NN sign|NN autism|DS 
+approach|NN screen|NN tool|NN checklist|NN autism|DS toddler|NN screen|NN questionnaire|NN year|NN inventory|NN data|NN m-chat|NN predecessor|NN checklist|NN autism|DS toddler|NN children|NN month|NN set|NN sensitivity|NN false-negative|NN specificity|NN false-positive|NN test|NN screener|NN disorder|NN screen|NN tool|NN culture|NN norm|NN behavior|NN eye|NN contact|NN culture|NN screen|NN autism|DS case|NN children|NN symptom|NN feature|NN prevention|NN 
+infection|NN rubella|DS pregnancy|NN cause|NN case|NN autism|DS vaccination|NN rubella|DS case|NN management|NN article|NN autism|DS therapy|NN child|NN point|NN front|NN woman|NN point|NN direction|NN 
+three-year-old|NN autism|DS point|NN fish|NN aquarium|NN part|NN experiment|NN effect|NN shared-attention|NN train|NN language|NN development|NN 
+goal|NN children|NN autism|DS deficit|NN family|NN distress|NN quality|NN life|NN independence|NN 
+iqs|NN responsiveness|NN treatment|NN treatment|NN outcome|NN treatment|NN treatment|NN child|NN family|NN system|NN resource|NN treatment|NN service|NN behavior|NN analyst|NN education|NN teacher|NN speech|NN pathologist|NN psychologist|NN 
+study|NN intervention|NN problem|NN conclusion|NN efficacy|NN development|NN intervention|NN year|NN intervention|NN evidence|NN form|NN treatment|NN treatment|NN quality|NN review|NN study|NN result|NN evidence|NN effectiveness|NN treatment|NN option|NN education|NN program|NN behavior|NN therapy|NN life|NN children|NN communication|NN job|NN skill|NN function|NN decrease|NN symptom|NN severity|NN behavior|NN intervention|NN age|NN year|NN medication|NN core|NN symptom|NN symptom|NN irritability|ST inattention|NN behavior|NN pattern|NN education|NN 
+intervention|NN behavior|NN analysis|NN aba|NN model|NN teach|NN speech|NN language|NN therapy|NN skill|NN therapy|NN therapy|NN approache|NN intervention|NN feature|NN treatment|NN area|NN deficit|NN quality|NN research|NN behavioral|NN intervention|NN treatment|NN procedure|NN hour|NN week|NN type|NN aba|NN research|NN design|NN sample|NN size|NN framework|NN childhood|NN intervention|NN aba|NN intervention|NN model|NN dsp|NN strategy|NN parent|NN train|NN model|NN parent|NN aba|NN dsp|NN technique|NN parent|NN intervention|NN dsp|NN program|NN intervention|NN system|NN parent|NN implementation|NN 
+development|NN parent|NN train|NN model|NN intervention|NN effectiveness|NN study|NN mode|NN treatment|NN 
+aba|NN therapy|NN effectiveness|NN function|NN children|NN performance|NN age|NN group|NN intervention|NN form|NN aba|NN approach|NN skill|NN children|NN evidence|NN treatment|NN symptom|NN report|NN educator|NN gap|NN report|NN education|NN treatment|NN program|NN children|NN lead|NN improvement|NN children|NN research|NN effectiveness|NN adult|NN program|NN result|NN appropriateness|NN children|NN severity|NN autism|DS spectrum|NN disorder|NN education|NN population|NN subject|NN debate|NN educator|NN researcher|NN 
+symptom|NN child|NN home|NN school|NN treatment|NN health|NN problem|NN anxiety|ST children|NN asd|NN drug|NN anticonvulsant|NN drug|NN class|NN antidepressant|NN stimulant|NN antipsychotic|NN drug|NN side|NN effect|NN benefit|NN people|NN autism|DS side|NN effect|NN example|NN weight_gain|ST tiredness|NN drool|NN aggression|NN antidepressant|NN stimulant|NN medication|NN methylphenidate|NN children|NN inattentiveness|NN hyperactivity|NN research|NN effectiveness|NN safety|NN drug|NN treatment|NN adolescent|NN adult|NN medication|NN autism|DS core|NN symptom|NN communication|NN impairment|NN experiment|NN mice|NN symptom|NN autism|DS gene|NN function|NN possibility|NN target|NN therapy|NN mutation|NN autism|DS medicine|NN 
+therapy|NN intervention|NN study|NN treatment|NN approache|NN support|NN context|NN program|NN focus|NN success|NN measure|NN validity|NN relevance|NN treatment|NN child|NN risk|NN 
+preference|NN children|NN autism|DS food|NN reduction|NN bone|NN thickness|NN diet|NN consequence|NN intake|NN calcium|NN vitamin|NN d|NN bone|NN development|NN asd|NN lack|NN exercise|NN disorder|NN therapy|NN five-year-old|NN child|NN autism|DS chelation|NN people|NN asd|NN risk|NN benefit|NN medicine|NN practice|NN evidence|NN therapy|NN mixture|NN homeopathy|NN supplement|NN vaccine|NN 
+treatment|NN people|NN autism|DS 2018|NN evidence|NN gluten-|NN diet|NN treatment|NN review|NN option|NN group|NN children|NN autism|DS food|NN allergy|NN food|NN intolerance|NN marker|NN 
+author|NN trial|NN date|NN efficacy|NN gluten-|NN diet|NN children|NN asd|NN 
+diet|NN diet|NN control|NN group|NN trial|NN crossover|NN trial|NN trial|NN 
+study|NN duration|NN month|NN improvement|NN symptom|NN efficacy|NN rate|NN 
+study|NN duration|NN month|NN effect|NN author|NN duration|NN diet|NN improvement|NN symptom|NN problem|NN trial|NN transgression|NN diet|NN sample|NN size|NN heterogeneity|NN participant|NN possibility|NN placebo|NN effect|NN 
+subset|NN people|NN gluten|NN sensitivity|NN evidence|NN diet|NN behavior|NN 
+evidence|NN music|NN therapy|NN interaction|NN communication|NN communication|NN skill|NN research|NN treatment|NN children|NN autism|DS prognosis|NN 
+cure|NN children|NN diagnosis|NN treatment|NN 
+recovery|NN rate|NN sample|NN children|NN autism|DS language|NN age|NN communication|NN skill|NN year|NN children|NN autism|DS lack|NN support|NN relationship|NN future|NN employment|NN opportunity|NN self-determination|NN core|NN difficulty|NN symptom|NN age|NN 
+study|NN address|NN prognosis|NN 
+adult|NN improvement|NN communication|NN skill|NN decline|NN study|NN autism|DS midlife|NN language|NN age|NN iq|NN skill|NN outcome|NN live|NN autism|DS 
+individual|NN autism|DS face|NN obstacle|NN transition|NN adulthood|NN population|NN individual|NN autism|DS job|NN 
+people|NN autism|DS employment|NN rate|NN epidemiology|NN article|NN epidemiology|NN autism|DS bar|NN chart|NN time|NN 
+trend|NN curve|NN 
+report|NN autism|DS case|NN children|NN 
+growth|NN change|NN rate|NN autism|DS 
+review|NN prevalence|NN autism|DS children|NN united|NN states|NN asd|NN 2008|NN data|NN number|NN rate|NN autism|DS people|NN syndrome|NN nhs|NN prevalence|NN autism|DS adult|NN year|NN uk|NN rate|NN pdd-noss|NN syndrome|NN childhood|NN disorder|NN 002|NN cdc|NN estimate|NN increase|NN children|NN 
+number|NN case|NN autism|DS 2000|NN 
+increase|NN change|NN practice|NN referral|NN pattern|NN availability|NN service|NN age|NN diagnosis|NN awareness|NN risk|NN factor|NN evidence|NN possibility|NN autism|DS prevalence|NN increase|NN attention|NN fund|NN factor|NN genetics|NN 
+boy|NN risk|NN asd|NN girl|NN 
+sex|NN ratio|NN average|NN impairment|NN disability|NN theory|NN prevalence|NN male|NN cause|NN difference|NN theory|NN female|NN 
+evidence|NN risk|NN factor|NN cause|NN autism|DS risk|NN autism|DS age|NN parent|NN diabete|NN bleed|NN use|NN drug|NN mother|NN pregnancy|NN risk|NN father|NN mother|NN explanation|NN increase|NN mutation|NN burden|NN sperm|NN hypothesis|NN men|NN liability|NN sign|NN autism|DS professional|NN race|NN ethnicity|NN background|NN occurrence|NN autism|DS 
+condition|NN children|NN autism|DS 
+autism|DS case|NN single-gene|NN condition|NN chromosome|NN abnormality|NN syndrome|NN disorder|NN disability|NN 
+percentage|NN individual|NN criteria|NN disability|NN variation|NN difficulty|NN intelligence|NN individual|NN autism|DS spectrum|NN comparison|NN pdd-no|NN association|NN disability|NN definition|NN diagnosis|NN asperger|NN disability|NN anxiety|ST disorder|NN children|NN asd|NN data|NN study|NN prevalence|NN 
+anxiety|ST disorder|NN symptom|NN asd|NN symptom|NN epilepsy|DS variation|NN risk|NN epilepsy|DS age|NN level|NN type|NN language_disorder|DS defect|NN phenylketonuria|DS symptom|NN anomaly|NN population|NN diagnose|NN 
+rule|NN diagnosis|NN condition|NN autism|DS criteria|NN attention_deficit_hyperactivity_disorder|DS syndrome|NN condition|NN diagnose|NN sleep|NN problem|NN individual|NN asd|NN point|NN childhood|NN 
+symptom|NN insomnia|ST difficulty|NN awaken|NN morn|NN awaken|NN 
+sleep|NN problem|NN behavior|NN family|NN stress|NN focus|NN attention|NN asd|NN diagnosis|NN 
+history|NN information|NN history|NN syndrome|NN portrait|NN victor|NN aveyron|NN child|NN symptom|NN autism|DS 
+example|NN symptom|NN treatment|NN autism|DS 
+table|NN talk|NN martin|NN luther|NN notetaker|NN story|NN boy|NN luther|NN boy|NN mass|NN flesh|NN devil|NN critic|NN doubt|NN veracity|NN report|NN case|NN autism|DS hugh|NN blair|NN borgue|NN court|NN case|NN brother|NN marriage|NN inheritance|NN boy|NN aveyron|NN child|NN sign|NN autism|DS student|NN jean|NN itard|NN program|NN attachment|NN speech|NN imitation|NN 
+word|NN autism|DS translation|NN autism|DS psychiatrist|NN bleuler|NN symptom|NN schizophrenia|DS 
+word|NN mean|NN self|NN self-admiration|NN withdrawal|NN patient|NN fantasy|NN influence|NN outside|NN disturbance|NN child|NN psychiatrist|NN syndrome|NN russian|NN german|NN development|NN diagnose|NN balding|NN man|NN coat|NN tie|NN expression|NN leo|NN kanner|NN label|NN autism|DS 
+word|NN autism|DS sense|NN hans|NN asperger|NN vienna|NN university|NN hospital|NN terminology|NN psychopath|NN lecture|NN german|NN child|NN psychology|NN asd|NN syndrome|NN reason|NN diagnosis|NN leo|NN johns|NN hopkins|NN hospital|NN autism|DS sense|NN english|NN label|NN autism|DS report|NN children|NN similarity|NN characteristics|NN paper|NN subject|NN aloneness|NN insistence|NN sameness|NN spectrum|NN disorder|NN term|NN 
+donald|NN triplett|NN person|NN autism|DS kanner|NN case|NN ability|NN note|NN piano|NN number|NN 
+father|NN oliver|NN number|NN pattern|NN music|NN note|NN letter|NN alphabet|NN president|NN picture|NN 
+age|NN ability|NN psalm|NN question|NN answer|NN catechism|NN 
+reuse|NN autism|DS decade|NN terminology|NN schizophrenia|DS child|NN focus|NN deprivation|NN misconception|NN autism|DS infant|NN response|NN refrigerator|NN mother|NN 
+autism|DS syndrome|NN terminology|NN distinction|NN schizophrenia|DS 
+mid-1970|NN evidence|NN role|NN autism|DS condition|NN rise|NN parent|NN organization|NN destigmatization|NN childhood|NN asd|NN parent|NN stigma|NN situation|NN behavior|NN care|NN physician|NN specialist|NN belief|NN autism|DS research|NN 
+dsm-iiy|NN autism|DS childhood|NN schizophrenia|DS 
+dsm-iii-r|NN checklist|NN autism|DS 
+dsm-5|NN classification|NN disorder|NN 
+group|NN disorder|NN autism|DS syndrome|NN syndrome|NN cdd|NN term|NN autism|DS spectrum|NN disorder|NN 
+category|NN communication|NN interaction|NN behavior|NN 
+internet|NN individual|NN bypass|NN cue|NN share|NN way|NN community|NN work|NN aspect|NN autism|DS community|NN cure|NN autism|DS way|NN society|NN culture|NN article|NN aspect|NN autism|DS 
+culture|NN right|NN movement|NN event|NN world|NN autism|DS awareness|NN day|NN autism|DS sunday|NN autistic|NN pride|NN day|NN organization|NN awareness|NN autism|DS autism|DS autism|DS committee|NN autism|DS society|NN america|NN scholar|NN study|NN autism|DS hope|NN autism|DS culture|NN comparison|NN research|NN movement|NN 
+individual|NN skill|NN field|NN autism|DS right|NN movement|NN 
+autism|DS right|NN movement|NN movement|NN context|NN disability|NN right|NN concept|NN view|NN autism|DS spectrum|NN result|NN variation|NN brain|NN disorder|NN autism|DS right|NN movement|NN advocate|NN acceptance|NN behavior|NN therapy|NN focus|NN skill|NN behavior|NN autism|DS recognition|NN community|NN minority|NN group|NN autism|DS right|NN advocate|NN autism|DS spectrum|NN expression|NN genome|NN 
+perspective|NN view|NN perspective|NN autism|DS defect|NN autism|DS gene|NN fringe|NN theory|NN autism|DS factor|NN vaccine|NN criticism|NN activist|NN majority|NN syndrome|NN view|NN people|NN employment|NN 
+graduate|NN degree|NN work|NN set|NN wage|NN minimum|NN employer|NN state|NN hire|NN concern|NN productivity|NN supervision|NN employer|NN autistics|NN report|NN memory|NN detail|NN orientation|NN regard|NN rule|NN procedure|NN employee|NN majority|NN burden|NN autism|DS earn|NN job|NN market|NN study|NN earn|NN parent|NN children|NN 

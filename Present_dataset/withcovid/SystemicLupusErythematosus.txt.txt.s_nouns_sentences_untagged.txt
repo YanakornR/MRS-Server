@@ -1,0 +1,290 @@
+encyclopedia|NN systemic_lupus_erythematosus|DS jump|NN navigation|NN jump|NN article|NN type|NN systemic_lupus_erythematosus|DS 
+group|NN disease|NN systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS erythematosus|NN 
+systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS 
+use|NN systemic_lupus_erythematosus|DS disambiguation|NN systemic_lupus_erythematosus|DS disambiguation|NN 
+systemic_lupus_erythematosus|DS name|NN systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS woman|NN butterfly|NN rash|ST systemic_lupus_erythematosus|DS pronunciation|NN 
+symptom|NN joint|NN fever|ST chest_pain|ST hair_loss|ST mouth|NN ulcer|NN lymph|NN node|NN rash|ST onset|NN year|NN age|NN duration|NN term|NN cause|NN method|NN symptom|NN blood|NN test|NN nsaids|NN corticosteroid|NN methotrexate|NN year|NN survival|NN frequency|NN 
+systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS autoimmune|NN disease|NN system|NN tissue|NN part|NN body|NN symptom|NN people|NN symptom|NN joint|NN fever|ST chest_pain|ST hair_loss|ST mouth|NN ulcer|NN lymph|NN node|NN rash|ST face|NN period|NN illness|NN flare|NN period|NN remission|NN symptom|NN 
+cause|NN systemic_lupus_erythematosus|DS genetics|NN factor|NN twin|NN chance|NN sex|NN hormone|NN sunlight|NN smoke|NN vitamin|NN d|NN deficiency|NN infection|NN risk|NN mechanism|NN response|NN autoantibody|NN person|NN tissue|NN antibody|NN inflammation|NN diagnosis|NN combination|NN symptom|NN laboratory|NN test|NN number|NN kind|NN systemic_lupus_erythematosus|DS erythematosus|NN systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS 
+cure|NN systemic_lupus_erythematosus|DS treatment|NN nsaids|NN corticosteroid|NN hydroxychloroquine|NN medicine|NN disease|NN life|NN expectancy|NN people|NN systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS risk|NN disease|NN cause|NN death|NN treatment|NN year|NN women|NN systemic_lupus_erythematosus|DS pregnancy|NN risk|NN 
+rate|NN systemic_lupus_erythematosus|DS country|NN women|NN childbear|NN age|NN time|NN men|NN age|NN range|NN age|NN descent|NN risk|NN people|NN rate|NN disease|NN world|NN systemic_lupus_erythematosus|DS wolf|NN disease|NN century|NN rash|ST bite|NN content|NN 
+sign|NN symptom|NN skin|NN muscle|NN bone|NN blood|NN heart|NN eye|NN systemic|NN causes|NN genetics|NN drug|NN reaction|NN form|NN systemic_lupus_erythematosus|DS cell|NN death|NN clearance|NN deficiency|NN germinal|NN center|NN diagnosis|NN laboratory|NN test|NN criteria|NN treatment|NN lifestyle|NN change|NN kidney|NN transplantation|NN syndrome|NN management|NN pregnancy|NN epidemiology|NN sex|NN rate|NN disease|NN history|NN period|NN period|NN period|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN symptom|NN systemic_lupus_erythematosus|DS 
+systemic_lupus_erythematosus|DS disease|NN imitator|NN illness|NN systemic_lupus_erythematosus|DS item|NN diagnosis|NN systemic_lupus_erythematosus|DS symptom|NN 
+diagnosis|NN people|NN symptom|NN systemic_lupus_erythematosus|DS year|NN 
+initial|NN complaint|NN fever|ST malaise|ST pain|ST muscle|NN pain|ST fatigue|ST 
+symptom|NN association|NN disease|NN sign|NN symptom|NN part|NN criteria|NN systemic_lupus_erythematosus|DS 
+conjunction|NN sign|NN symptom|NN 
+systemic_lupus_erythematosus|DS male|NN female|NN women|NN symptom|NN sex|NN female|NN number|NN relapse|NN blood|NN cell|NN count|NN arthritis|DS phenomenon|NN symptom|NN 
+male|NN seizure|NN kidney|NN disease|NN inflammation|NN tissue|NN lung|NN heart|NN skin|NN problem|NN neuropathy|NN skin|NN 
+people|NN systemic_lupus_erythematosus|DS skin|NN symptom|NN 
+category|NN lesion|NN discoid|NN systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS 
+people|NN systemic_lupus_erythematosus|DS patche|NN skin|NN 
+systemic_lupus_erythematosus|DS patche|NN skin|NN edge|NN 
+systemic_lupus_erythematosus|DS rash|ST 
+malar|NN rash|ST butterfly|NN rash|ST disease|NN rash|ST people|NN systemic_lupus_erythematosus|DS 
+hair_loss|ST mouth|NN ulcer|NN lesion|NN skin|NN manifestation|NN muscle|NN bone|NN 
+attention|NN pain|ST joint|NN hand|NN wrist|NN joint|NN risk|NN 
+percent|NN experience|NN joint|NN muscle|NN pain|ST time|NN course|NN illness|NN arthritis|DS systemic_lupus_erythematosus|DS arthritis|DS destruction|NN joint|NN 
+percent|NN people|NN systemic_lupus_erythematosus|DS arthritis|DS deformity|ST hand|NN feet|NN people|NN systemic_lupus_erythematosus|DS risk|NN tuberculosis|DS 
+association|NN arthritis|DS systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS risk|NN bone|NN fracture|NN women|NN blood|NN 
+children|NN systemic_lupus_erythematosus|DS case|NN platelet|NN blood|NN cell|NN count|NN disease|NN side|NN effect|NN treatment|NN 
+people|NN systemic_lupus_erythematosus|DS association|NN antibody|NN syndrome|NN disorder|NN autoantibody|NN phospholipid|NN serum|NN 
+abnormality|NN antibody|NN syndrome|NN thromboplastin|NN time|NN disorder|NN test|NN antibody|NN combination|NN find|NN term|NN systemic_lupus_erythematosus|DS 
+find|NN systemic_lupus_erythematosus|DS antibody|NN test|NN syphilis|DS 
+citation|NN heart|NN 
+systemic_lupus_erythematosus|DS line|NN heart|NN myocarditisinflammation|NN heart|NN muscle|NN endocarditisinflammation|NN line|NN heart|NN 
+endocarditis|DS systemic_lupus_erythematosus|DS 
+valve|NN valve|NN 
+advance|NN population|NN 
+systemic_lupus_erythematosus|DS pain|ST inflammation|NN pleurae|NN pleurisy|NN rise|NN lung|NN syndrome|NN lung|NN volume|NN lung|NN condition|NN lung|NN disease|NN hypertension|DS hemorrhage|NN 
+passage|NN blood|NN protein|NN urine|NN present|NN sign|NN kidney|NN involvement|NN 
+impairment|NN systemic_lupus_erythematosus|DS kidney|NN failure|NN 
+recognition|NN management|NN systemic_lupus_erythematosus|DS failure|NN case|NN population|NN risk|NN time|NN 
+hallmark|NN systemic_lupus_erythematosus|DS wire|NN loop|NN abnormality|NN find|NN deposition|NN basement|NN membrane|NN appearance|NN immunofluorescence|NN test|NN 
+information|NN systemic_lupus_erythematosus|DS 
+syndrome|NN systemic_lupus_erythematosus|DS system|NN 
+college|NN rheumatology|NN syndrome|NN systemic_lupus_erythematosus|DS diagnosis|NN syndrome|NN systemic_lupus_erythematosus|DS np|NN systemic_lupus_erythematosus|DS challenge|NN medicine|NN pattern|NN symptom|NN sign|NN disease|NN stroke|NN 
+disorder|NN people|NN systemic_lupus_erythematosus|DS headache|ST existence|NN systemic_lupus_erythematosus|DS headache|ST approach|NN headache|ST systemic_lupus_erythematosus|DS case|NN neuropsychiatric|NN manifestation|NN systemic_lupus_erythematosus|DS dysfunction|NN mood|NN disorder|NN disease|NN seizure|NN anxiety|ST disorder|NN psychosis|DS depression|ST case|NN personality|NN disorder|NN psychosis|DS result|NN disease|NN hypertension|DS syndrome|NN pressure|NN headache|ST nerve|NN absence|NN lesion|NN enlargement|NN fluid|NN chemical|NN hematological|NN constituent|NN 
+manifestation|NN state|NN syndrome|NN meningitis|DS disorder|NN syndrome|NN multiplex|NN movement|NN disorder|NN myasthenia_gravis|DS neuropathy|NN plexopathy|NN 
+disorder|NN percentage|NN morbidity|NN mortality|NN people|NN systemic_lupus_erythematosus|DS result|NN side|NN systemic_lupus_erythematosus|DS hope|NN morbidity|NN mortality|NN rate|NN aspect|NN disease|NN damage|NN cell|NN barrier|NN 
+region|NN depression|ST women|NN systemic_lupus_erythematosus|DS eye|NN 
+eye|NN involvement|NN people|NN 
+disease|NN eye|NN syndrome|NN sjögren|NN syndrome|NN retinopathy|NN eye|NN ischemic|NN optic|NN neuropathy|NN detachment|NN angle-closure|NN glaucoma|DS 
+addition|NN medication|NN systemic_lupus_erythematosus|DS eye|NN disease|NN glucocorticoid|NN use|NN cataract|DS open-angle|NN glaucoma|DS hydroxychloroquine|NN treatment|NN vortex|NN information|NN systemic_lupus_erythematosus|DS pregnancy|NN 
+systemic_lupus_erythematosus|DS rate|NN death|NN utero|NN abortion|NN miscarriage|ST 
+live-birth|NN rate|NN people|NN systemic_lupus_erythematosus|DS pregnancy|NN outcome|NN people|NN systemic_lupus_erythematosus|DS disease|NN pregnancy|NN 
+systemic_lupus_erythematosus|DS occurrence|NN systemic_lupus_erythematosus|DS symptom|NN infant|NN mother|NN systemic_lupus_erythematosus|DS rash|ST systemic_lupus_erythematosus|DS abnormality|NN heart_block|DS enlargement|NN liver|NN spleen|NN systemic_lupus_erythematosus|DS 
+fatigue|ST systemic_lupus_erythematosus|DS disease|NN activity|NN complication|NN hypothyroidism|DS pain|ST depression|ST sleep|NN quality|NN fitness|NN lack|NN support|NN cause|NN 
+systemic_lupus_erythematosus|DS susceptibility|NN trigger|NN defect|NN system|NN 
+factor|NN systemic_lupus_erythematosus|DS vitamin|NN deficiency|NN genetics|NN 
+systemic_lupus_erythematosus|DS family|NN gene|NN 
+gene|NN person|NN chance|NN systemic_lupus_erythematosus|DS factor|NN 
+hla|NN class|NN class|NN class|NN gene|NN systemic_lupus_erythematosus|DS class|NN risk|NN systemic_lupus_erythematosus|DS gene|NN risk|NN variant|NN systemic_lupus_erythematosus|DS cdkn1a|NN blk|NN susceptibility|NN gene|NN population|NN study|NN rate|NN disease|NN family|NN basis|NN disease|NN heritability|NN twin|NN share|NN susceptibility|NN disease|NN rate|NN twin|NN sible|NN concordance|NN inheritance|NN 
+systemic_lupus_erythematosus|DS region|NN trait|NN mean|NN gene|NN control|NN susceptibility|NN disease|NN 
+systemic_lupus_erythematosus|DS prototype|NN disease|NN overlap|NN symptom|NN autoimmune|NN disease|NN drug|NN reaction|NN 
+systemic_lupus_erythematosus|DS erythematosus|NN condition|NN people|NN illness|NN 
+systemic_lupus_erythematosus|DS mimics|NN systemic_lupus_erythematosus|DS 
+symptom|NN systemic_lupus_erythematosus|DS medication|NN episode|NN 
+medication|NN condition|NN quinidine|NN phenytoin|NN form|NN systemic_lupus_erythematosus|DS 
+systemic_lupus_erythematosus|DS skin|NN symptom|NN biopsy|NN rash|ST face|NN neck|NN scalp|NN arm|NN 
+people|NN progress|NN systemic_lupus_erythematosus|DS pathophysiology|NN 
+systemic_lupus_erythematosus|DS factor|NN 
+systemic_lupus_erythematosus|DS system|NN antibody|NN protein|NN cell|NN nucleus|NN 
+antibody|NN attack|NN cause|NN systemic_lupus_erythematosus|DS 
+systemic_lupus_erythematosus|DS disease|NN type|NN hypersensitivity|DS response|NN type|NN involvement|NN pigmentation|NN manifestation|NN systemic_lupus_erythematosus|DS titer|NN antibody|NN consequence|NN therapy|NN 
+people|NN systemic_lupus_erythematosus|DS activation|NN population|NN shift|NN b|NN cell|NN 
+memory|NN cell|NN cd27igdare|NN immunosuppression|NN 
+memory|NN cell|NN disease|NN activity|NN systemic_lupus_erythematosus|DS 
+cell|NN response|NN target|NN tissue|NN defect|NN adhesion|NN gene|NN transcription|NN splice|NN 
+cytokine|NN interleukin|NN interleukin|NN interleukin|NN type|NN tumor|NN necrosis|NN factor|NN 
+process|NN target|NN 
+complement|NN system|NN c3|NN level|NN systemic_lupus_erythematosus|DS cell|NN death|NN 
+monocyte|NN expression|NN fa|NN b|NN cell|NN t|NN cell|NN correlation|NN rate|NN lymphocyte|NN disease|NN activity|NN 
+t|NN lymphocyte|NN 
+body|NN macrophage|NN phagocytic|NN cell|NN center|NN lymph|NN node|NN protein|NN 
+cell|NN cell|NN apoptosis|NN hypermutation|NN 
+people|NN systemic_lupus_erythematosus|DS tbm|NN cell|NN material|NN b|NN cell|NN 
+material|NN threat|NN tolerization|NN cell|NN t|NN cell|NN 
+cell|NN center|NN material|NN t|NN cell|NN 
+chromatin|NN nucley|NN surface|NN cell|NN material|NN cell|NN hypermutation|NN form|NN cell|NN death|NN t|NN lymphocyte|NN dysfunction|NN stress|NN depletion|NN atp|NN clearance|NN deficiency|NN clearance|NN deficiency|NN 
+clearance|NN cell|NN pathway|NN development|NN autoimmune|NN disease|NN 
+phagocytic|NN activity|NN serum|NN component|NN addition|NN apoptosis|NN 
+systemic_lupus_erythematosus|DS defect|NN clearance|NN effect|NN debris|NN 
+cell|NN signal|NN protein|NN cell|NN 
+cell|NN signal|NN macrophage|NN cell|NN 
+material|NN phagocyte|NN cell|NN development|NN antibody|NN 
+blood|NN people|NN systemic_lupus_erythematosus|DS show|NN expression|NN surface|NN molecule|NN uptake|NN cell|NN 
+monocyte|NN body|NN macrophage|NN centre|NN lymph|NN node|NN morphology|NN 
+serum|NN component|NN complement|NN factor|NN crp|NN glycoprotein|NN operate|NN 
+systemic_lupus_erythematosus|DS component|NN 
+research|NN association|NN people|NN systemic_lupus_erythematosus|DS systemic_lupus_erythematosus|DS nephritis|NN impairment|NN neutrophil|NN trap|NN 
+factor|NN factor|NN people|NN serum|NN abnormality|NN dnase1|NN mutation|NN systemic_lupus_erythematosus|DS cohort|NN 
+clearance|NN cell|NN function|NN organism|NN 
+progression|NN apoptosis|NN process|NN necrosis|NN cell|NN ability|NN 
+cell|NN fragment|NN potential|NN danger|NN signal|NN maturation|NN cell|NN dcs|NN membrane|NN integrity|NN 
+appearance|NN cell|NN clearance|NN 
+maturation|NN dcs|NN presentation|NN antigen|NN cell|NN mhc|NN molecule|NN 
+exposure|NN autoantigen|NN cell|NN 
+b|NN t|NN cell|NN tolerance|NN cell|NN lymphocyte|NN inflammation|NN production|NN autoantibody|NN plasma|NN cell|NN 
+clearance|NN deficiency|NN skin|NN cell|NN people|NN systemic_lupus_erythematosus|DS cle|NN center|NN centre|NN person|NN systemic_lupus_erythematosus|DS control|NN 
+red|NN body|NN macrophage|NN cell|NN donor|NN centre|NN tingible|NN body|NN macrophage|NN tbm|NN cell|NN cell|NN tbm|NN people|NN lymphoma|DS show|NN tingible|NN body|NN macrophage|NN tbm|NN cell|NN cell|NN tbm|NN systemic_lupus_erythematosus|DS show|NN lack|NN tbm|NN cell|NN surface|NN cell|NN cell|NN systemic_lupus_erythematosus|DS people|NN systemic_lupus_erythematosus|DS show|NN tbm|NN cell|NN cell|NN tbm|NN systemic_lupus_erythematosus|DS 
+people|NN systemic_lupus_erythematosus|DS show|NN centre|NN 
+condition|NN lymphocyte|NN center|NN gc|NN phagocyte|NN body|NN macrophage|NN tbm|NN autoantigenic|NN material|NN 
+people|NN systemic_lupus_erythematosus|DS build|NN debris|NN gc|NN clearance|NN cell|NN 
+proximity|NN tbm|NN cell|NN fdc|NN gc|NN antigen|NN material|NN surface|NN contrast|NN bone|NN dc|NN mhc|NN molecule|NN 
+autoreactive|NN b|NN cell|NN hypermutation|NN center|NN light|NN zone|NN 
+autoreactive|NN b|NN cell|NN survival|NN signal|NN antigen|NN cell|NN apoptosis|NN 
+case|NN clearance|NN deficiency|NN debris|NN zone|NN gc|NN fdc|NN 
+centre|NN survival|NN signal|NN b-cell|NN 
+migration|NN mantle|NN zone|NN b|NN cell|NN survival|NN signal|NN helper|NN cell|NN maturation|NN plasma|NN cell|NN b|NN memory|NN cell|NN 
+presence|NN autoreactive|NN t|NN cell|NN autoimmune|NN disease|NN consequence|NN 
+autoantibody|NN nrnp|NN nrnp|NN c|NN proline-rich|NN motif|NN 
+antibody|NN bind|NN epitope|NN 
+similarity|NN cross-reactivity|NN target|NN nrnp|NN sm|NN autoantibody|NN commonality|NN cause|NN point|NN epitope|NN spread|NN 
+expression|NN hmgb1|NN people|NN mice|NN systemic_lupus_erythematosus|DS mobility|NN group|NN box|NN protein|NN chromatin|NN architecture|NN regulation|NN 
+evidence|NN pathogenesis|NN autoimmune|NN disease|NN property|NN diagnosis|NN interface|NN dermatitis|NN systemic_lupus_erythematosus|DS 
+micrograph|NN section|NN skin|NN immunofluorescence|NN antibody|NN 
+skin|NN person|NN systemic_lupus_erythematosus|DS igg|NN deposit|NN place|NN 
+deposit|NN basement|NN membrane|NN systemic_lupus_erythematosus|DS band|NN test|NN second|NN nucley|NN cell|NN antibody|NN 
+laboratory|NN test|NN 
+antibody|NN test|NN antigen|NN form|NN mainstay|NN test|NN systemic_lupus_erythematosus|DS 
+method|NN immunofluorescence|NN 
+pattern|NN fluorescence|NN type|NN antibody|NN present|NN people|NN serum|NN 
+immunofluorescence|NN deposit|NN immunoglobulin|NN complement|NN protein|NN people|NN skin|NN 
+skin|NN sun|NN systemic_lupus_erythematosus|DS band|NN test|NN evidence|NN systemic_lupus_erythematosus|DS 
+screen|NN result|NN tissue|NN disorder|NN autoimmune|NN disease|NN individual|NN 
+subtypes|NN antibody|NN dna|NN antibody|NN systemic_lupus_erythematosus|DS anti-histone|NN antibody|NN systemic_lupus_erythematosus|DS 
+antibody|NN systemic_lupus_erythematosus|DS case|NN people|NN systemic_lupus_erythematosus|DS anti-dsdna|NN antibody|NN disease|NN activity|NN case|NN people|NN systemic_lupus_erythematosus|DS sclerosis|NN tissue|NN disease|NN syndrome|NN 
+risk|NN heart|NN conduction|NN block|NN systemic_lupus_erythematosus|DS 
+test|NN systemic_lupus_erythematosus|DS complement|NN system|NN level|NN level|NN consumption|NN system|NN electrolyte|NN kidney|NN function|NN kidney|NN liver|NN enzyme|NN blood|NN count|NN 
+systemic_lupus_erythematosus|DS le|NN cell|NN test|NN diagnosis|NN le|NN cell|NN 5075|NN systemic_lupus_erythematosus|DS case|NN people|NN arthritis|DS drug|NN sensitivity|NN 
+le|NN cell|NN test|NN significance|NN criteria|NN 
+physician|NN diagnosis|NN basis|NN college|NN acr|NN classification|NN criteria|NN 
+criteria|NN use|NN research|NN use|NN trial|NN confidence|NN level|NN people|NN systemic_lupus_erythematosus|DS criteria|NN 
+college|NN rheumatology|NN acr|NN criteria|NN instrument|NN definition|NN systemic_lupus_erythematosus|DS trial|NN 
+individual|NN capacity|NN 
+purpose|NN people|NN study|NN person|NN systemic_lupus_erythematosus|DS symptom|NN occasion|NN 
+rash|ST cheek|NN sensitivity|NN specificity|NN patche|NN skin|NN cause|NN scare|NN sensitivity|NN specificity|NN inflammation|NN membrane|NN lung|NN inflammation|NN membrane|NN heart|NN sensitivity|NN specificity|NN pleural|NN ulcer|NN ulcer|NN sensitivity|NN specificity|NN arthritis|DS arthritis|DS joint|NN tenderness|NN swell|NN effusion|NN sensitivity|NN specificity|NN exposure|NN light|NN cause|NN rash|ST symptom|NN systemic_lupus_erythematosus|DS sensitivity|NN specificity|NN blood|NN cell|NN count|NN blood|NN cell|NN 1500l|NN platelet|NN count|NN absence|NN drug|NN sensitivity|NN specificity|NN consumption|NN c3|NN inflammation|NN complement|NN deficiency|NN systemic_lupus_erythematosus|DS 
+disorder|NN g|NN day|NN protein|NN urine|NN cast|NN urine|NN microscope|NN sensitivity|NN specificity|NN antibody|NN test|NN sensitivity|NN specificity|NN disorder|NN dna|NN antibody|NN test|NN syphilis|DS sensitivity|NN specificity|NN presence|NN dna|NN case|NN disease|NN person|NN disorder|NN psychosis|DS sensitivity|NN specificity|NN 
+acr|NN criteria|NN people|NN systemic_lupus_erythematosus|DS 
+fever|ST f|NN c|NN fatigue|ST hair_loss|ST finger|NN raynaud|NN phenomenon|NN 
+criteria|NN diagnosis|NN 
+people|NN syndrome|NN systemic_lupus_erythematosus|DS criteria|NN systemic_lupus_erythematosus|DS feature|NN criteria|NN 
+partition|NN criteria|NN analysis|NN classification|NN tree|NN 
+classification|NN tree|NN systemic_lupus_erythematosus|DS person|NN disorder|NN antibody|NN antibody|NN syphilis|DS test|NN le|NN cell|NN rash|ST 
+sensitivity|NN specificity|NN 
+classification|NN tree|NN use|NN criteria|NN 
+sensitivity|NN specificity|NN 
+criteria|NN st|NN 
+thomas|NN hospital|NN alternative|NN criteria|NN treatment|NN 
+treatment|NN systemic_lupus_erythematosus|DS flare|NN severity|NN duration|NN 
+treatment|NN corticosteroid|NN drug|NN 
+type|NN systemic_lupus_erythematosus|DS nephritis|NN glomerulonephritis|DS drug|NN 
+drug|NN cyclophosphamide|NN mycophenolate|NN 
+risk|NN infection|NN pancrea|NN problem|NN blood|NN sugar|NN blood|NN pressure|NN 
+fda|NN systemic_lupus_erythematosus|DS drug|NN disease|NN systemic_lupus_erythematosus|DS off-label|NN 
+november|NN fda|NN panel|NN benlysta|NN treatment|NN pain|ST systemic_lupus_erythematosus|DS 
+drug|NN fda|NN march|NN 
+variety|NN symptom|NN organ|NN system|NN involvement|NN systemic_lupus_erythematosus|DS severity|NN individual|NN order|NN treat|NN systemic_lupus_erythematosus|DS 
+drug|NN antimalarial|NN 
+prednisone|NN acid|NN past|NN 
+drug|NN incidence|NN flare|NN progress|NN disease|NN need|NN use|NN flare|NN corticosteroid|NN 
+use|NN hydroxychloroquine|NN azathioprine|NN 
+antimalarial|NN manifestation|NN 
+side|NN effect|NN evidence|NN survival|NN people|NN systemic_lupus_erythematosus|DS cyclophosphamide|NN glomerulonephritis|DS organ-damage|NN complication|NN 
+acid|NN treatment|NN systemic_lupus_erythematosus|DS indication|NN fda|NN report|NN birth|NN defect|NN women|NN drug|NN 
+case|NN medication|NN system|NN corticosteroid|NN immunosuppressant|NN disease|NN recurrence|NN symptom|NN flare|NN 
+dosage|NN people|NN steroid|NN syndrome|NN symptom|NN obesity|NN face|NN diabete|NN mellitus|NN appetite|NN difficulty|NN sleep|NN osteoporosis|DS 
+dosage|NN use|NN dose|NN blood|NN pressure|NN cataract|DS 
+drug|NN systemic_lupus_erythematosus|DS 
+system|NN corticosteroid|NN response|NN type|NN cell|NN 
+drug|NN treatment|NN arthritis|DS use|NN 
+percentage|NN people|NN systemic_lupus_erythematosus|DS amount|NN pain|ST prescription|NN analgesics|NN painkiller|NN drug|NN drug|NN relief|NN 
+potent|NN nsaids|NN indomethacin|NN people|NN systemic_lupus_erythematosus|DS risk|NN kidney|NN failure|NN heart|NN failure|NN 
+pain|ST opioid|NN potency|NN severity|NN symptom|NN 
+opioid|NN period|NN drug|NN tolerance|NN dependency|NN addiction|NN 
+addiction|NN concern|NN condition|NN 
+treatment|NN opioid|NN pain|ST symptom|NN titration|NN regimen|NN 
+immunoglobulin|NN control|NN systemic_lupus_erythematosus|DS organ|NN involvement|NN vasculitis|DS 
+antibody|NN production|NN clearance|NN complexe|NN body|NN mechanism|NN action|NN immunosuppressive|NN corticosteroid|NN system|NN risk|NN infection|NN drug|NN lifestyle|NN change|NN 
+sunlight|NN systemic_lupus_erythematosus|DS sunlight|NN skin|NN manifestation|NN disease|NN 
+activity|NN fatigue|ST systemic_lupus_erythematosus|DS fatigue|ST 
+problem|NN people|NN period|NN time|NN 
+drug|NN systemic_lupus_erythematosus|DS disease|NN 
+exposure|NN silica|NN pesticide|NN mercury|NN disease|NN kidney|NN transplantation|NN 
+kidney|NN transplant|NN treatment|NN choice|NN kidney|NN disease|NN complication|NN systemic_lupus_erythematosus|DS recurrence|NN disease|NN people|NN syndrome|NN 
+people|NN systemic_lupus_erythematosus|DS level|NN antibody|NN syndrome|NN syndrome|NN onset|NN systemic_lupus_erythematosus|DS symptom|NN brain|NN 
+form|NN disease|NN cause|NN systemic_lupus_erythematosus|DS blood|NN clot|NN blood|NN form|NN blood|NN vessel|NN blood|NN stream|NN thrombose|NN brain|NN stroke|NN blood|NN supply|NN brain|NN 
+disorder|NN people|NN brain|NN scan|NN detection|NN 
+scan|NN area|NN brain|NN blood|NN supply|NN 
+treatment|NN plan|NN people|NN 
+aspirin|NN purpose|NN case|NN thrombosis|NN management|NN pregnancy|NN information|NN systemic_lupus_erythematosus|DS pregnancy|NN 
+infant|NN mother|NN systemic_lupus_erythematosus|DS mother|NN systemic_lupus_erythematosus|DS care|NN delivery|NN 
+systemic_lupus_erythematosus|DS identification|NN mother|NN risk|NN complication|NN treatment|NN birth|NN 
+addition|NN systemic_lupus_erythematosus|DS pregnancy|NN treatment|NN health|NN mother|NN 
+women|NN ssa|NN anti-la|NN antibody|NN ssb|NN week|NN pregnancy|NN health|NN heart|NN vasculature|NN 
+form|NN pregnancy|NN prevention|NN women|NN systemic_lupus_erythematosus|DS disease|NN 
+systemic_lupus_erythematosus|DS nephritis|NN manifestation|NN 
+cure|NN systemic_lupus_erythematosus|DS treatment|NN disease|NN 
+people|NN systemic_lupus_erythematosus|DS year|NN 
+year|NN lifespan|NN mortality|NN rate|NN people|NN systemic_lupus_erythematosus|DS 
+men|NN children|NN women|NN symptom|NN age|NN disease|NN course|NN 
+mortality|NN year|NN organ|NN failure|NN infection|NN diagnosis|NN treatment|NN 
+mortality|NN risk|NN population|NN stage|NN disease|NN atherosclerosis|DS cause|NN death|NN people|NN systemic_lupus_erythematosus|DS potential|NN issue|NN blood|NN pressure|NN cholesterol|NN 
+dose|NN period|NN drug|NN symptom|NN epidemiology|NN 
+rate|NN systemic_lupus_erythematosus|DS people|NN 
+female|NN rate|NN year|NN age|NN 
+rate|NN iceland|NN japan|NN 
+rate|NN france|NN 
+evidence|NN systemic_lupus_erythematosus|DS country|NN variability|NN country|NN 
+example|NN country|NN level|NN sunlight|NN exposure|NN ray|NN symptom|NN systemic_lupus_erythematosus|DS 
+study|NN connection|NN race|NN systemic_lupus_erythematosus|DS disease|NN prevalence|NN 
+composition|NN country|NN disease|NN incidence|NN country|NN makeup|NN change|NN 
+order|NN country|NN population|NN incidence|NN rate|NN disease|NN world|NN 
+rate|NN systemic_lupus_erythematosus|DS country|NN ethnicity|NN sex|NN change|NN time|NN united|NN states|NN estimate|NN rate|NN systemic_lupus_erythematosus|DS estimate|NN population|NN 322000|NN northern|NN europe|NN rate|NN people|NN systemic_lupus_erythematosus|DS severity|NN descent|NN rate|NN descent|NN systemic_lupus_erythematosus|DS age|NN time|NN girl|NN 
+onset|NN persistence|NN systemic_lupus_erythematosus|DS disparity|NN gender|NN status|NN role|NN 
+women|NN systemic_lupus_erythematosus|DS status|NN depression|ST score|NN body|NN mass|NN index|NN access|NN care|NN women|NN statuse|NN illness|NN 
+people|NN systemic_lupus_erythematosus|DS anxiety|ST depression|ST score|NN status|NN 
+assertion|NN race|NN rate|NN systemic_lupus_erythematosus|DS 
+review|NN study|NN race|NN systemic_lupus_erythematosus|DS source|NN error|NN connection|NN race|NN systemic_lupus_erythematosus|DS example|NN study|NN support|NN modulate|NN factor|NN systemic_lupus_erythematosus|DS damage|NN functionality|NN study|NN people|NN background|NN level|NN support|NN difference|NN variable|NN study|NN race|NN systemic_lupus_erythematosus|DS 
+caveat|NN note|NN study|NN systemic_lupus_erythematosus|DS symptom|NN 
+process|NN source|NN error|NN 
+study|NN data|NN patient|NN experience|NN support|NN level|NN helplessness|NN illness-relate|NN factor|NN self-assessment|NN 
+factor|NN degree|NN support|NN person|NN status|NN health|NN insurance|NN access|NN care|NN individual|NN disease|NN progression|NN difference|NN systemic_lupus_erythematosus|DS progression|NN study|NN control|NN status|NN se|NN participant|NN study|NN control|NN se|NN participant|NN people|NN disease|NN onset|NN people|NN disease|NN 
+patient|NN serosal|NN symptom|NN 
+severity|NN symptom|NN mortality|NN patient|NN 
+study|NN rate|NN disease|NN progression|NN systemic_lupus_erythematosus|DS difference|NN status|NN access|NN people|NN care|NN damage|NN poverty|NN line|NN study|NN education|NN status|NN occupation|NN income|NN context|NN disease|NN progression|NN sex|NN 
+systemic_lupus_erythematosus|DS autoimmune|NN disease|NN female|NN male|NN rate|NN chromosome|NN gene|NN onset|NN systemic_lupus_erythematosus|DS 
+y|NN chromosome|NN mutation|NN autoimmune|NN disease|NN 
+mechanism|NN incidence|NN systemic_lupus_erythematosus|DS female|NN 
+onset|NN systemic_lupus_erythematosus|DS hydroxylation|NN estrogen|NN level|NN androgen|NN female|NN 
+addition|NN difference|NN signal|NN onset|NN systemic_lupus_erythematosus|DS 
+female|NN male|NN intensity|NN relapse|NN sexe|NN 
+addition|NN mechanism|NN influence|NN chromosome|NN development|NN systemic_lupus_erythematosus|DS 
+study|NN chromosome|NN level|NN sex|NN hormone|NN 
+study|NN association|NN syndrome|NN systemic_lupus_erythematosus|DS 
+male|NN systemic_lupus_erythematosus|DS translocation|NN triplication|NN gene|NN region|NN rate|NN disease|NN 
+rate|NN systemic_lupus_erythematosus|DS united|NN states|NN 
+increase|NN diagnosis|NN frequency|NN disease|NN history|NN draw|NN systemic_lupus_erythematosus|DS erythematosus|NN 
+history|NN systemic_lupus_erythematosus|DS period|NN 
+period|NN research|NN documentation|NN understand|NN diagnosis|NN systemic_lupus_erythematosus|DS classification|NN autoimmune|NN disease|NN option|NN treatment|NN people|NN systemic_lupus_erythematosus|DS 
+advance|NN science|NN diagnosis|NN treatment|NN systemic_lupus_erythematosus|DS life|NN expectancy|NN person|NN systemic_lupus_erythematosus|DS etymology|NN 
+explanation|NN term|NN systemic_lupus_erythematosus|DS 
+systemic_lupus_erythematosus|DS wolf|NN greek|NN 
+explanation|NN butterfly-shap|NN rash|ST disease|NN nose|NN cheek|NN 
+account|NN doctor|NN rash|ST pattern|NN fur|NN face|NN 
+similarity|NN distribution|NN systemic_lupus_erythematosus|DS vulgaris|NN tuberculosis|DS lesion|NN bite|NN wolf|NN 
+account|NN term|NN systemic_lupus_erythematosus|DS latin|NN term|NN style|NN mask|NN women|NN rash|ST face|NN 
+mask|NN french|NN wolf|NN 
+period|NN disease|NN age|NN 
+term|NN systemic_lupus_erythematosus|DS physician|NN rogerius|NN sore|NN leg|NN people|NN treatment|NN disease|NN resource|NN physician|NN people|NN period|NN 
+period|NN skin|NN disease|NN systemic_lupus_erythematosus|DS physician|NN pierre|NN cazenave|NN 
+illness|NN systemic_lupus_erythematosus|DS word|NN disease|NN illness|NN skin|NN disease|NN people|NN note|NN diagnosis|NN 
+systemic_lupus_erythematosus|DS adult|NN adolescence|NN rash|ST feature|NN 
+research|NN documentation|NN disease|NN period|NN work|NN ferdinand|NN von|NN son-in-law|NN moritz|NN kaposi|NN 
+effect|NN systemic_lupus_erythematosus|DS insight|NN possibility|NN disease|NN trauma|NN 
+von|NN hebra|NN systemic_lupus_erythematosus|DS symptom|NN year|NN disease|NN year|NN activity|NN symptom|NN pattern|NN 
+observation|NN term|NN systemic_lupus_erythematosus|DS disease|NN 
+kaposi|NN systemic_lupus_erythematosus|DS form|NN skin|NN lesion|NN systemic_lupus_erythematosus|DS form|NN skin|NN fever|ST arthritis|DS disorder|NN people|NN rash|ST face|NN cheek|NN bridge|NN nose|NN butterfly|NN rash|ST 
+kaposi|NN patient|NN butterfly|NN rash|ST rash|ST disease|NN tuberculosis|DS death|NN kaposi|NN people|NN systemic_lupus_erythematosus|DS documentation|NN remit|NN nature|NN disease|NN relationship|NN skin|NN manifestation|NN disease|NN activity|NN 
+century|NN research|NN systemic_lupus_erythematosus|DS work|NN sir|NN william|NN paper|NN complication|NN multiforme|NN 
+patient|NN case|NN paper|NN systemic_lupus_erythematosus|DS work|NN knowledge|NN disease|NN complication|NN disease|NN systemic_lupus_erythematosus|DS people|NN systemic_lupus_erythematosus|DS disease|NN skin|NN organ|NN body|NN osler|NN word|NN term|NN systemic_lupus_erythematosus|DS erythematosus|NN type|NN disease|NN systemic_lupus_erythematosus|DS paper|NN feature|NN disease|NN attack|NN month|NN year|NN 
+study|NN disease|NN paper|NN document|NN affliction|NN arthritis|DS pneumonia|DS inability|NN idea|NN delirium|DS system|NN damage|NN patient|NN systemic_lupus_erythematosus|DS period|NN 
+period|NN begine|NN development|NN research|NN cause|NN treatment|NN discoid|NN systemic_lupus_erythematosus|DS 
+research|NN pathologic|NN description|NN systemic_lupus_erythematosus|DS disease|NN kidney|NN heart|NN lung|NN tissue|NN breakthrough|NN discovery|NN le|NN cell|NN systemic_lupus_erythematosus|DS cella|NN misnomer|NN disease|NN 
+team|NN researcher|NN mayo|NN clinic|NN blood|NN cell|NN nucleus|NN cell|NN white|NN cell|NN nucleus|NN nucleus|NN antibody|NN phagocytic|NN scavenger|NN cell|NN antibody|NN cell|NN le|NN factor|NN nucley|NN cell|NN result|NN le|NN cell|NN le|NN cell|NN part|NN antibody|NN reaction|NN body|NN antibody|NN tissue|NN 
+discovery|NN test|NN systemic_lupus_erythematosus|DS le|NN cell|NN people|NN systemic_lupus_erythematosus|DS le|NN cell|NN test|NN systemic_lupus_erythematosus|DS test|NN le|NN cell|NN people|NN systemic_lupus_erythematosus|DS individual|NN autoimmune|NN disease|NN 
+presence|NN diagnosis|NN systemic_lupus_erythematosus|DS diagnosis|NN 
+discovery|NN le|NN cell|NN research|NN test|NN systemic_lupus_erythematosus|DS 
+build|NN knowledge|NN systemic_lupus_erythematosus|DS nucley|NN cell|NN system|NN blood|NN cell|NN invader|NN test|NN antibody|NN le|NN cell|NN 
+test|NN diagnosis|NN systemic_lupus_erythematosus|DS disease|NN 
+discovery|NN understand|NN autoimmune|NN disease|NN 
+person|NN systemic_lupus_erythematosus|DS autoimmune|NN disease|NN college|NN rheumatology|NN acr|NN list|NN criteria|NN combination|NN point|NN systemic_lupus_erythematosus|DS 
+criteria|NN symptom|NN person|NN pain|ST thing|NN physician|NN examination|NN laboratory|NN test|NN result|NN 
+historian|NN people|NN porphyria|DS disease|NN symptom|NN systemic_lupus_erythematosus|DS folklore|NN story|NN vampire|NN werewolve|NN scare|NN hair|NN growth|NN porphyrin|NN teeth|NN form|NN porphyria|DS combination|NN disorder|NN compound|NN porphyria|DS 
+medication|NN disease|NN quinine|NN therapy|NN 
+year|NN use|NN salicylate|NN conjunction|NN quinine|NN benefit|NN 
+treatment|NN middle|NN century|NN efficacy|NN corticosteroid|NN treatment|NN systemic_lupus_erythematosus|DS research|NN 
+study|NN drug|NN anti-baff|NN antibody|NN baff|NN life|NN lymphocyte|NN antibody|NN self|NN cell|NN fda|NN march|NN cell|NN animal|NN model|NN disease|NN 2019|NN 
+discoid|NN systemic_lupus_erythematosus|DS erythematosus|NN dog|NN 

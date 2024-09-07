@@ -1,0 +1,325 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN breast_cancer|DS breast_cancer|DS warrowsjpg|NN breast|NN left|NN breast_cancer|DS arrow|NN 
+oncology|NN symptom|NN breast|NN change|NN breast|NN shape|NN dimple|NN skin|NN fluid|NN nipple|NN nipple|NN patch|NN skin|NN risk|NN factor|NN obesity|NN lack|NN exercise|NN alcohol|NN hormone|NN replacement|NN therapy|NN menopause|NN radiation|NN age|NN menstruation|NN children|NN age|NN breast_cancer|DS family|NN history|NN syndrome|NN method|NN tissue|NN biopsy|NN treatment|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN therapy|NN therapy|NN survival|NN rate|NN 
+uk|NN frequency|NN death|NN 
+breast_cancer|DS cancer|DS breast|NN tissue|NN sign|NN breast_cancer|DS lump|NN breast|NN change|NN breast|NN shape|NN dimple|NN skin|NN fluid|NN nipple|NN nipple|NN patch|NN skin|NN spread|NN disease|NN bone|NN pain|ST lymph|NN node|NN shortness|NN breath|NN skin|NN 
+risk|NN factor|NN breast_cancer|DS female|NN obesity|NN lack|NN exercise|NN drink|NN alcohol|NN hormone|NN replacement|NN therapy|NN menopause|NN radiation|NN age|NN menstruation|NN children|NN age|NN history|NN breast_cancer|DS family|NN history|NN case|NN gene|NN person|NN parent|NN brca1|NN brca2|NN breast_cancer|DS cell|NN line|NN milk|NN duct|NN lobule|NN supply|NN duct|NN milk|NN duct|NN carcinoma|NN lobule|NN carcinoma|NN addition|NN sub-type|NN breast_cancer|DS cancer|DS carcinoma|NN situ|NN lesion|NN diagnosis|NN breast_cancer|DS biopsy|NN lump|NN diagnosis|NN test|NN cancer|DS breast|NN treatment|NN 
+balance|NN benefit|NN harm|NN breast_cancer|DS screen|NN 
+2013|NN cochrane|NN review|NN screen|NN review|NN service|NN task|NN force|NN evidence|NN benefit|NN year|NN age|NN organization|NN year|NN women|NN year|NN age|NN medication|NN tamoxifen|NN effort|NN breast_cancer|DS risk|NN removal|NN breast|NN measure|NN risk|NN women|NN cancer|DS number|NN treatment|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN therapy|NN therapy|NN type|NN surgery|NN surgery|NN mastectomy|NN breast|NN reconstruction|NN place|NN time|NN surgery|NN date|NN cancer|DS part|NN body|NN treatment|NN quality|NN life|NN comfort|NN 
+outcome|NN breast_cancer|DS cancer|DS type|NN extent|NN disease|NN person|NN age|NN survival|NN rate|NN world|NN england|NN united|NN states|NN year|NN country|NN survival|NN rate|NN breast_cancer|DS type|NN cancer|DS women|NN case|NN 2012|NN case|NN death|NN country|NN time|NN women|NN men|NN content|NN 
+sign|NN symptom|NN risk|NN factor|NN lifestyle|NN genetics|NN condition|NN diagnosis|NN classification|NN prevention|NN lifestyle|NN surgery|NN screen|NN management|NN surgery|NN radiation|NN factor|NN aspect|NN epidemiology|NN history|NN society|NN culture|NN ribbon|NN breast_cancer|DS culture|NN emphasis|NN pregnancy|NN birth|NN control|NN hormone|NN replacement|NN research|NN breast_cancer|DS cell|NN line|NN marker|NN animal|NN reference|NN link|NN 
+sign|NN symptom|NN breast_cancer|DS breast_cancer|DS nipple|NN lump|NN skin|NN 
+symptom|NN breast_cancer|DS lump|NN rest|NN breast|NN tissue|NN 
+breast_cancer|DS case|NN woman|NN lump|NN breast_cancer|DS lump|NN lymph|NN node|NN armpit|NN breast_cancer|DS 
+indication|NN breast_cancer|DS lump|NN breast|NN tissue|NN breast|NN nipple|NN chang|NN position|NN shape|NN skin|NN rash|ST nipple|NN discharge|ST nipple|NN pain|ST part|NN breast|NN armpit|NN swell|NN armpit|NN collarbone|NN pain|ST mastodynia|NN tool|NN presence|NN absence|NN breast_cancer|DS breast|NN health|NN issue|NN 
+symptom|NN complex|NN breast_cancer|DS disease|NN breast|NN 
+syndrome|NN skin|NN change|NN eczema|DS redness|NN discoloration|NN nipple|NN skin|NN 
+disease|NN breast|NN advance|NN symptom|NN itch|ST sensitivity|NN burn|NN pain|ST 
+discharge|ST nipple|NN 
+women|NN disease|NN breast|NN lump|NN breast|NN 
+breast_cancer|DS present|NN effect|NN 
+breast_cancer|DS breast_cancer|DS diagnosis|NN form|NN breast_cancer|DS area|NN top|NN breast|NN 
+effect|NN breast_cancer|DS result|NN blockage|NN lymph|NN vessel|NN cancer|DS cell|NN 
+type|NN breast_cancer|DS age|NN women|NN women|NN 
+breast_cancer|DS lump|NN delay|NN diagnosis|NN 
+case|NN non-cancerous|NN lump|NN fact|NN tumor|NN 
+stroma|NN tissue|NN breast|NN tissue|NN 
+sense|NN basis|NN appearance|NN microscope|NN borderline|NN 
+tumor|NN tumor|NN site|NN origination|NN 
+symptom|NN breast_cancer|DS location|NN metastasis|NN 
+site|NN metastasis|NN bone|NN liver|NN lung|NN brain|NN cancer|DS state|NN stage|NN cancer|DS cancer|DS state|NN symptom|NN stage|NN cancer|DS weight_loss|ST bone|NN pain|ST jaundice|ST symptom|NN 
+symptom|NN symptom|NN manifestation|NN illness|NN 
+symptom|NN breast|NN disorder|NN lump|NN breast_cancer|DS 
+lump|NN example|NN breast|NN disease|NN mastitis|NN fibroadenoma|NN breast|NN cause|NN breast|NN disorder|NN symptom|NN factor|NN article|NN risk|NN factor|NN breast_cancer|DS 
+risk|NN factor|NN category|NN 
+risk|NN factor|NN thing|NN people|NN consumption|NN beverage|NN risk|NN factor|NN thing|NN age|NN sex|NN 
+risk|NN factor|NN breast_cancer|DS age|NN risk|NN factor|NN genetics|NN lack|NN childbear|NN lack|NN breastfeed|NN level|NN hormone|NN pattern|NN obesity|NN 
+study|NN exposure|NN pollution|NN risk|NN factor|NN development|NN breast_cancer|DS lifestyle|NN list|NN breast|NN substance|NN 
+obesity|NN drink|NN beverage|NN modifiable|NN risk|NN factor|NN 
+correlation|NN factor|NN breast_cancer|DS 
+study|NN weight|NN adulthood|NN risk|NN childhood|NN 
+fat|NN midsection|NN risk|NN weight|NN body|NN 
+food|NN importance|NN bmy|NN 
+consumption|NN alchol|NN risk|NN breast_cancer|DS 
+drink|NN beverage|NN risk|NN breast_cancer|DS drink|NN week|NN level|NN risk|NN drinker|NN factor|NN risk|NN diet|NN cholesterol|NN level|NN iodine_deficiency|DS role|NN evidence|NN fiber|NN 
+review|NN study|NN intake|NN breast_cancer|DS result|NN 2016|NN association|NN intake|NN adolescence|NN breast_cancer|DS 
+smoke|NN tobacco|NN risk|NN breast_cancer|DS amount|NN life|NN smoke|NN risk|NN smoker|NN risk|NN lack|NN activity|NN case|NN period|NN mortality|NN breast_cancer|DS 
+risk|NN exercise|NN 
+association|NN use|NN birth|NN control|NN development|NN premenopausal|NN breast_cancer|DS contraceptive|NN use|NN breast_cancer|DS matter|NN debate|NN link|NN effect|NN association|NN birth|NN control|NN mutation|NN breast_cancer|DS susceptibility|NN gene|NN family|NN history|NN breast_cancer|DS use|NN contraceptive|NN risk|NN breast_cancer|DS 
+association|NN breast|NN feed|NN breast_cancer|DS study|NN support|NN association|NN abortion|NN breast_cancer|DS hypothesis|NN abortion|NN risk|NN breast_cancer|DS hypothesis|NN subject|NN inquiry|NN miscarriage|ST abortion|NN risk|NN breast_cancer|DS 
+risk|NN factor|NN radiation|NN number|NN chemical|NN biphenyl|NN hydrocarbon|NN solvent|NN radiation|NN mammography|NN dose|NN screen|NN year|NN age|NN case|NN breast_cancer|DS women|NN genetics|NN 
+susceptibility|NN role|NN case|NN genetics|NN cause|NN case|NN women|NN mother|NN risk|NN mother|NN age|NN risk|NN zero|NN relative|NN risk|NN breast_cancer|DS age|NN mortality|NN disease|NN degree|NN relative|NN disease|NN risk|NN breast_cancer|DS age|NN population|NN 
+case|NN genetics|NN role|NN breastovarian|NN cancer|DS syndrome|NN brca1|NN gene|NN mutation|NN mutation|NN account|NN influence|NN risk|NN breast_cancer|DS 6080|NN mutation|NN syndrome|NN syndrome|NN syndrome|NN atm|NN researcher|NN type|NN breast_cancer|DS type|NN hallmark|NN change|NN lead|NN cancer|DS 
+predisposition|NN density|NN breast|NN tissue|NN level|NN 
+women|NN breast|NN tissue|NN breast_cancer|DS tissue|NN 
+women|NN progesterone|NN level|NN risk|NN tumor|NN development|NN condition|NN 
+breast|NN change|NN hyperplasia|NN carcinoma|NN situ|NN breast|NN condition|NN breast|NN change|NN breast_cancer|DS risk|NN 
+diabete|NN mellitus|NN risk|NN breast_cancer|DS disease|NN risk|NN acquisition|NN breast_cancer|DS article|NN overview|NN signal|NN transduction|NN pathway|NN cell|NN death|NN 
+mutation|NN loss|NN ability|NN cancer|DS formation|NN 
+breast_cancer|DS cancer|DS interaction|NN factor|NN host|NN 
+cell|NN time|NN 
+cell|NN stay|NN place|NN tissue|NN 
+cell|NN ability|NN cell|NN time|NN 
+cell|NN cell|NN suicide|NN cell|NN death|NN 
+cell|NN suicide|NN protein|NN cluster|NN pathway|NN 
+pathway|NN pathway|NN pathway|NN 
+gene|NN pathway|NN way|NN cell|NN suicide|NN 
+step|NN cancer|DS combination|NN mutation|NN 
+protein|NN pathway|NN cell|NN cell|NN death|NN 
+breast_cancer|DS gene|NN protein|NN pathway|NN position|NN cancer|DS cell|NN suicide|NN 
+mutation|NN breast_cancer|DS exposure|NN receptor|NN cancer|DS system|NN breast_cancer|DS 
+growth|NN factor|NN interaction|NN cell|NN cell|NN cell|NN growth|NN breast|NN tissue|NN overexpression|NN lead|NN cell|NN proliferation|NN cancer|DS 
+united|NN states|NN percent|NN people|NN breast_cancer|DS people|NN cancer|DS relative|NN disease|NN 
+tendency|NN cancer|DS breastovarian|NN cancer|DS syndrome|NN 
+mutation|NN lifetime|NN risk|NN breast_cancer|DS percent|NN lifetime|NN risk|NN cancer|DS percent|NN 
+mutation|NN cancer|DS mechanism|NN error|NN dna|NN 
+mutation|NN birth|NN 
+mutation|NN division|NN lack|NN attachment|NN metastasis|NN organ|NN evidence|NN risk|NN variation|NN gene|NN mutation|NN carrier|NN family|NN 
+risk|NN factor|NN cause|NN trigger|NN breast_cancer|DS 
+mutation|NN brca1|NN brca2|NN gene|NN repair|NN dna|NN cross|NN link|NN dna|NN strand|NN function|NN protein|NN carcinogen|NN cause|NN dna|NN damage|NN dna|NN cross|NN link|NN strand|NN repair|NN pathway|NN brca1|NN mutation|NN gene|NN account|NN percent|NN breast_cancer|DS levin|NN et|NN al|NN cancer|DS carrier|NN brca1|NN brca2|NN mutation|NN breastovarian|NN cancer|DS syndrome|NN gene|NN 
+expression|NN receptor|NN er|NN gene|NN differentiation|NN loss|NN lead|NN loss|NN differentiation|NN prognosis|NN cancer|DS cell|NN invasion|NN metastasis|NN diagnosis|NN sign|NN breast_cancer|DS 
+type|NN breast_cancer|DS analysis|NN sampleor|NN area|NN breast|NN 
+type|NN breast_cancer|DS lab|NN exam|NN 
+screen|NN method|NN examination|NN breast|NN healthcare|NN provider|NN likelihood|NN lump|NN cancer|DS lesion|NN cyst|NN examination|NN healthcare|NN provider|NN sample|NN fluid|NN lump|NN analysis|NN procedure|NN needle|NN aspiration|NN needle|NN aspiration|NN cytologyfnac|NN diagnosis|NN 
+needle|NN aspiration|NN healthcare|NN provider|NN office|NN clinic|NN 
+anaesthetic|NN breast|NN tissue|NN pain|ST procedure|NN lump|NN skin|NN 
+find|NN fluid|NN lump|NN fluid|NN inspection|NN microscope|NN cell|NN 
+examination|NN breast|NN breast_cancer|DS degree|NN accuracy|NN 
+option|NN biopsy|NN core|NN biopsy|NN breast|NN biopsy|NN procedure|NN section|NN breast|NN lump|NN biopsy|NN lump|NN 
+result|NN examination|NN healthcare|NN provider|NN test|NN circumstance|NN image|NN ultrasound|NN mry|NN biopsy|NN treatment|NN method|NN 
+mry|NN breast_cancer|DS 
+breast|NN tissue|NN stellate|NN area|NN cancer|DS cm|NN diameter|NN tissue|NN 
+ductal|NN carcinoma|NN formation|NN mitose|NN field|NN 
+lymph|NN node|NN breast|NN carcinoma|NN extension|NN tumor|NN lymph|NN node|NN 
+expression|NN breast|NN breast|NN carcinoma|NN tissue|NN 
+fdg|NN breast_cancer|DS metastasis|NN scapula|NN 
+needle|NN breast|NN biopsy|NN 
+cancer|DS tissue|NN ultrasound|NN image|NN 
+ultrasound|NN image|NN mass|NN breast_cancer|DS 
+breast|NN carcinoma|NN 
+classification|NN article|NN breast_cancer|DS classification|NN 
+breast_cancer|DS grade|NN system|NN 
+influence|NN prognosis|NN treatment|NN response|NN 
+description|NN breast_cancer|DS factor|NN 
+breast_cancer|DS appearance|NN 
+breast_cancer|DS epithelium|NN duct|NN lobule|NN cancer|DS ductal|NN carcinoma|NN 
+situ|NN growth|NN cell|NN tissue|NN compartment|NN duct|NN invasion|NN tissue|NN 
+contrast|NN carcinoma|NN tissue|NN compartment|NN grade|NN 
+grade|NN appearance|NN breast_cancer|DS cell|NN appearance|NN breast|NN tissue|NN 
+cell|NN organ|NN breast|NN mean|NN shape|NN form|NN function|NN part|NN organ|NN 
+cell|NN differentiation|NN 
+cancer|DS cell|NN way|NN milk|NN duct|NN 
+cell|NN division|NN 
+cell|NN nucley|NN 
+cell|NN grade|NN grade|NN grade|NN cell|NN feature|NN breast|NN cell|NN 
+cancer|DS tissue|NN breast|NN tissue|NN prognosis|NN 
+stage|NN breast_cancer|DS stage|NN system|NN size|NN tumor|NN tumor|NN lymph|NN node|NN n|NN armpit|NN tumor|NN m|NN part|NN body|NN 
+size|NN spread|NN metastasis|NN stage|NN number|NN prognosis|NN 
+stage|NN stage|NN pre-cancerous|NN marker|NN condition|NN carcinoma|NN dcis|NN carcinoma|NN lcis|NN 
+stage|NN breast|NN lymph|NN node|NN 
+stage|NN cancer|DS prognosis|NN breast|NN lymph|NN node|NN 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+image|NN study|NN part|NN stage|NN process|NN case|NN sign|NN cancer|DS 
+case|NN breast_cancer|DS risk|NN metastasis|NN risk|NN pet|NN scan|NN ct|NN scan|NN bone|NN scan|NN benefit|NN procedure|NN person|NN amount|NN radiation|NN 
+breast_cancer|DS cell|NN receptor|NN surface|NN cytoplasm|NN nucleus|NN 
+messenger|NN hormone|NN receptor|NN cause|NN change|NN cell|NN 
+breast_cancer|DS cell|NN receptor|NN receptor|NN er|NN progesterone|NN receptor|NN pr|NN her2|NN 
+er|NN cancer|DS cell|NN cancer|DS cell|NN receptor|NN estrogen|NN growth|NN drug|NN block|NN effect|NN tamoxifen|NN prognosis|NN 
+breast_cancer|DS breast_cancer|DS cancer|DS cell|NN drug|NN antibody|NN combination|NN chemotherapy|NN prognosis|NN cell|NN receptor|NN type|NN receptor|NN progesterone|NN receptor|NN her2|NN receptor|NN hormone|NN receptor|NN prolactin|NN receptor|NN 
+dna|NN assay|NN 
+dna|NN test|NN type|NN dna|NN microarray|NN cell|NN breast_cancer|DS cell|NN 
+change|NN breast_cancer|DS cancer|DS way|NN treatment|NN dna|NN type|NN 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+stage|NN breast_cancer|DS 
+prevention|NN lifestyle|NN 
+women|NN risk|NN breast_cancer|DS weight|NN alcohol|NN use|NN activity|NN breast-feed|NN modification|NN breast_cancer|DS uk|NN brazil|NN china|NN benefit|NN exercise|NN walk|NN age|NN group|NN postmenopausal|NN women|NN level|NN activity|NN risk|NN breast_cancer|DS strategy|NN activity|NN obesity|NN benefit|NN risk|NN disease|NN diabete|NN 
+intake|NN fruit|NN reduction|NN risk|NN breast_cancer|DS 
+acid|NN risk|NN consumption|NN food|NN risk|NN surgery|NN 
+removal|NN breast_cancer|DS lump|NN lesion|NN procedure|NN mastectomy|NN risk|NN mastectomy|NN people|NN brca1|NN brca2|NN mutation|NN risk|NN diagnosis|NN breast_cancer|DS evidence|NN procedure|NN risk|NN test|NN family|NN risk|NN counsel|NN 
+form|NN change|NN gene|NN polymorphism|NN frameshift|NN mutation|NN effect|NN change|NN gene|NN 
+test|NN person|NN result|NN 
+second|NN breast|NN person|NN breast_cancer|DS risk|NN 
+mastectomy|NN risk|NN cancer|DS breast|NN second|NN breast|NN breast_cancer|DS survival|NN 
+estrogen|NN receptor|NN tamoxifen|NN risk|NN breast_cancer|DS risk|NN thromboembolism|NN cancer|DS change|NN risk|NN death|NN prevention|NN breast_cancer|DS women|NN risk|NN risk|NN benefit|NN breast_cancer|DS reduction|NN year|NN course|NN treatment|NN medication|NN article|NN breast_cancer|DS breast_cancer|DS screen|NN unit|NN new|NN zealand|NN 
+breast_cancer|DS screen|NN test|NN women|NN breast_cancer|DS attempt|NN diagnosis|NN assumption|NN detection|NN outcome|NN 
+number|NN screen|NN test|NN self|NN breast|NN exam|NN screen|NN ultrasound|NN resonance|NN image|NN 
+self|NN breast|NN exam|NN breast|NN lump|NN abnormality|NN 
+breast|NN exam|NN health|NN care|NN provider|NN exam|NN person|NN evidence|NN effectiveness|NN type|NN breast|NN exam|NN time|NN lump|NN year|NN exam|NN screen|NN breast_cancer|DS use|NN x-ray|NN breast|NN mass|NN lump|NN 
+screen|NN breast|NN technician|NN photo|NN angle|NN 
+mammogram|NN photo|NN breast|NN mammogram|NN lump|NN area|NN concern|NN 
+number|NN body|NN breast_cancer|DS screen|NN 
+service|NN task|NN force|NN college|NN physician|NN year|NN women|NN age|NN council|NN europe|NN program|NN frequency|NN canada|NN screen|NN age|NN frequency|NN year|NN task|NN force|NN report|NN point|NN addition|NN surgery|NN anxiety|ST risk|NN mammogram|NN increase|NN breast_cancer|DS radiation|NN 
+cochrane|NN collaboration|NN 2013|NN state|NN quality|NN evidence|NN reduction|NN cancer|DS reduction|NN cause|NN mortality|NN screen|NN trial|NN analysis|NN reduction|NN mortality|NN breast_cancer|DS 005|NN decrease|NN death|NN breast_cancer|DS year|NN decrease|NN breast_cancer|DS screen|NN year|NN result|NN increase|NN rate|NN over-diagnosis|NN test|NN view|NN screen|NN harm|NN cochrane|NN due|NN improvement|NN breast_cancer|DS treatment|NN risk|NN positive|NN breast_cancer|DS screen|NN treatment|NN breast_cancer|DS screen|NN age|NN mry|NN screen|NN method|NN harm|NN benefit|NN mammography|NN management|NN article|NN breast_cancer|DS management|NN 
+management|NN breast_cancer|DS factor|NN stage|NN cancer|DS person|NN age|NN 
+treatment|NN cancer|DS risk|NN recurrence|NN cancer|DS treatment|NN 
+breast_cancer|DS surgery|NN chemotherapy|NN radiation|NN therapy|NN 
+approach|NN hormone|NN cancer|DS therapy|NN course|NN year|NN 
+antibody|NN immune-modulate|NN treatment|NN case|NN stage|NN breast_cancer|DS 
+range|NN treatment|NN surgery|NN chest|NN breast|NN mastectomy|NN 
+surgery|NN removal|NN tumor|NN tissue|NN 
+lymph|NN node|NN surgery|NN lymph|NN node|NN sample|NN sentinel|NN lymph|NN node|NN biopsy|NN 
+removal|NN breast|NN 
+removal|NN breast|NN 
+removal|NN part|NN breast|NN 
+tumor|NN person|NN desire|NN breast|NN reconstruction|NN surgery|NN type|NN plastic|NN surgery|NN appearance|NN site|NN 
+women|NN use|NN breast|NN breast|NN cloth|NN chest|NN 
+time|NN mastectomy|NN 
+addition|NN surgery|NN therapy|NN 
+type|NN therapy|NN surgery|NN therapy|NN 
+aspirin|NN mortality|NN breast_cancer|DS treatment|NN 
+group|NN medication|NN breast_cancer|DS treatment|NN agent|NN chemotherapy|NN antibody|NN 
+presence|NN receptor|NN er|NN progesterone|NN receptor|NN pr|NN surface|NN hormone|NN receptor|NN 
+er|NN cancer|DS drug|NN block|NN receptor|NN tamoxifen|NN production|NN estrogen|NN inhibitor|NN 
+use|NN tamoxifen|NN year|NN year|NN 
+inhibitor|NN women|NN menopause|NN group|NN tamoxifen|NN aromatase|NN postmenopausal|NN women|NN form|NN women|NN agent|NN aromatase|NN women|NN inhibitor|NN women|NN function|NN treatment|NN ovary|NN inhibitor|NN combination|NN therapy|NN 
+case|NN breast_cancer|DS stage|NN receptor-negative|NN disease|NN 
+chemotherapy|NN medication|NN combination|NN period|NN month|NN 
+regimen|NN ac|NN cyclophosphamide|NN 
+drug|NN regime|NN cat|NN 
+treatment|NN cyclophosphamide|NN 
+chemotherapy|NN medication|NN work|NN andor|NN cancer|DS cell|NN dna|NN damage|NN replication|NN mechanism|NN 
+medication|NN cell|NN side|NN effect|NN 
+heart|NN muscle|NN complication|NN doxorubicin|NN example|NN 
+antibody|NN her2|NN disease|NN survival|NN stage|NN breast_cancer|DS survival|NN breast_cancer|DS gene|NN protein|NN product|NN overexpression|NN her2|NN breast_cancer|DS disease|NN recurrence|NN prognosis|NN 
+use|NN side|NN effect|NN people|NN heart|NN damage|NN antibody|NN dimerization|NN trastuzumab|NN chemotherapy|NN disease|NN radiation|NN radiotherapy|NN breast_cancer|DS 
+radiotherapy|NN surgery|NN region|NN tumor|NN bed|NN lymph|NN node|NN tumor|NN cell|NN surgery|NN 
+effect|NN tumor|NN microenvironment|NN radiation|NN therapy|NN beam|NN radiotherapy|NN radiotherapy|NN 
+radiotherapy|NN operation|NN breast_cancer|DS 
+radiation|NN time|NN operation|NN breast_cancer|DS 
+radiation|NN risk|NN recurrence|NN 5066|NN reduction|NN risk|NN dose|NN breast_cancer|DS lump|NN excision|NN 
+breast|NN mastectomy|NN reconstruction|NN implant|NN example|NN breast_cancer|DS mass|NN factor|NN 
+stage|NN breast_cancer|DS component|NN classification|NN method|NN breast_cancer|DS effect|NN prognosis|NN consideration|NN 
+consideration|NN size|NN involvement|NN lymph|NN node|NN status|NN disease|NN 
+stage|NN diagnosis|NN prognosis|NN 
+stage|NN invasiveness|NN disease|NN lymph|NN node|NN chest|NN wall|NN skin|NN beyond|NN aggressiveness|NN cancer|DS cell|NN 
+stage|NN presence|NN zone|NN cell|NN behaviour|NN grade|NN 
+size|NN factor|NN stage|NN cancer|DS 
+example|NN dcis|NN breast|NN stage|NN zero|NN prognosis|NN disease|NN survival|NN 
+stage|NN cancer|DS lcis|NN prognosis|NN lumpectomy|NN radiation|NN stage|NN cancer|DS prognosis|NN risk|NN recurrence|NN surgery|NN mastectomy|NN lymph|NN node|NN removal|NN chemotherapy|NN trastuzumab|NN cancer|DS radiation|NN cancer|DS node|NN lumpectomy|NN 
+citation|NN stage|NN cancer|DS site|NN prognosis|NN combination|NN treatment|NN surgery|NN radiation|NN chemotherapy|NN therapy|NN 
+survival|NN rate|NN treatment|NN treatment|NN 
+breast_cancer|DS grade|NN comparison|NN breast_cancer|DS cell|NN breast|NN cell|NN 
+cancer|DS cell|NN growth|NN prognosis|NN 
+grade|NN grade|NN grade|NN scale|NN 
+grade|NN system|NN nottingham|NN scheme|NN 
+younger|NN women|NN age|NN year|NN women|NN year|NN prognosis|NN women|NN factor|NN 
+breast|NN cycle|NN infant|NN change|NN breast|NN 
+women|NN stage|NN 
+factor|NN risk|NN disease|NN recurrence|NN women|NN breast_cancer|DS aspect|NN 
+people|NN breast_cancer|DS experience|NN illness|NN manner|NN 
+factor|NN age|NN impact|NN way|NN person|NN breast_cancer|DS diagnosis|NN 
+women|NN breast_cancer|DS issue|NN menopause|NN chemotherapy|NN regimen|NN breast_cancer|DS use|NN hormone|NN function|NN epidemiology|NN article|NN epidemiology|NN breast_cancer|DS death|NN breast_cancer|DS inhabitant|NN data|NN 
+breast_cancer|DS cancer|DS women|NN women|NN form|NN cancer|DS skin|NN cancer|DS cancer|DS cause|NN death|NN cancer|DS statistics|NN 
+breast_cancer|DS cancer|DS women|NN cancer|DS 2012|NN cancer|DS women|NN female|NN cancer|DS 
+breast_cancer|DS death|NN cancer|DS death|NN women|NN cancer|DS death|NN men|NN women|NN lung_cancer|DS second|NN cause|NN death|NN women|NN cancer|DS death|NN women|NN cancer|DS death|NN men|NN women|NN 
+incidence|NN breast_cancer|DS world|NN country|NN country|NN 
+world|NN region|NN age-standardize|NN incidence|NN rate|NN women|NN asia|NN south|NN asia|NN africa|NN south-eastern|NN asia|NN north|NN africa|NN western|NN asia|NN south|NN america|NN europe|NN europe|NN northern|NN europe|NN oceania|NN europe|NN north|NN america|NN breast_cancer|DS usa|NN part|NN africa|NN women|NN breast_cancer|DS 
+number|NN case|NN phenomenon|NN lifestyle|NN breast_cancer|DS age|NN breast_cancer|DS women|NN year|NN case|NN breast_cancer|DS england|NN case|NN women|NN age|NN statistics|NN women|NN breast_cancer|DS united|NN states|NN incidence|NN breast_cancer|DS women|NN case|NN year|NN late-1990|NN 
+death|NN breast_cancer|DS women|NN history|NN breast_cancer|DS surgery|NN century|NN 
+visibility|NN breast_cancer|DS form|NN cancer|DS document|NN cancer|DS organ|NN medicine|NN 
+breast_cancer|DS skin|NN state|NN lesion|NN tumor|NN die|NN tumor|NN skin|NN weep|NN fluid|NN 
+evidence|NN breast_cancer|DS egypt|NN year|NN dynasty|NN study|NN woman|NN necropolis|NN el-hawa|NN damage|NN spread|NN edwin|NN smith|NN papyrus|NN case|NN tumor|NN ulcer|NN breast|NN 
+write|NN disease|NN treatment|NN 
+century|NN physician|NN case|NN practice|NN conclusion|NN 
+medicine|NN time|NN greek|NN century|NN humoralism|NN breast_cancer|DS imbalance|NN fluid|NN body|NN excess|NN bile|NN punishment|NN century|NN variety|NN explanation|NN lack|NN activity|NN activity|NN injury|NN breast|NN breast|NN milk|NN form|NN blockage|NN cloth|NN century|NN surgeon|NN john|NN rodman|NN fear|NN cancer|DS cancer|DS anxiety|ST example|NN mother|NN breast_cancer|DS tendency|NN family|NN 
+breast_cancer|DS time|NN century|NN improvement|NN sanitation|NN control|NN disease|NN increase|NN lifespan|NN 
+women|NN breast_cancer|DS childbear|NN breastfeed|NN rate|NN breast_cancer|DS development|NN women|NN age|NN 
+medicine|NN cause|NN surgery|NN mortality|NN rate|NN treatment|NN 
+herbal|NN mineral|NN preparation|NN poison|NN arsenic|NN 
+breast_cancer|DS court|NN physician|NN aetio|NN amida|NN theodora|NN doctor|NN understand|NN system|NN century|NN breast_cancer|DS lymph|NN node|NN armpit|NN 
+surgeon|NN jean|NN louis|NN petit|NN 16741750|NN mastectomy|NN lymph|NN node|NN recurrence|NN work|NN surgeon|NN bernard|NN peyrilhe|NN pectoral|NN muscle|NN breast|NN prognosis|NN surgeon|NN benjamin|NN bell|NN 17491806|NN removal|NN breast|NN portion|NN 
+work|NN william|NN stewart|NN mastectomy|NN advance|NN technology|NN technique|NN anesthesia|NN 
+mastectomy|NN breast|NN lymph|NN node|NN chest|NN muscle|NN 
+pain|ST disability|NN order|NN cancer|DS advent|NN mastectomy|NN survival|NN rate|NN halst|NN surgery|NN rate|NN work|NN jerome|NN urban|NN tissue|NN survival|NN rate|NN mastectomy|NN 
+mastectomy|NN standard|NN care|NN america|NN europe|NN procedure|NN radiation|NN therapy|NN reason|NN difference|NN approach|NN structure|NN profession|NN surgeon|NN barber|NN surgeon|NN esteem|NN physician|NN america|NN surgeon|NN king|NN profession|NN women|NN surgeon|NN percent|NN oncologist|NN breast_cancer|DS ward|NN staff|NN health|NN insurance|NN company|NN surgeon|NN breast-spare|NN surgery|NN 
+breast_cancer|DS stage|NN system|NN 
+understand|NN metastasis|NN cancer|DS illness|NN procedure|NN 
+chemotherapy|NN world|NN war|NN 
+women|NN breast_cancer|DS anne|NN austria|NN mother|NN louis|NN france|NN mary|NN washington|NN mother|NN george|NN rachel|NN carson|NN environmentalist|NN 
+case-control|NN study|NN breast_cancer|DS epidemiology|NN janet|NN study|NN breast_cancer|DS case|NN control|NN background|NN lifestyle|NN ministry|NN health|NN 
+women|NN treatment|NN bone|NN marrow|NN transplant|NN survival|NN 
+women|NN treatment|NN 
+report|NN nurse|NN health|NN study|NN conclusion|NN womens|NN health|NN initiative|NN trial|NN hormone|NN replacement|NN therapy|NN incidence|NN breast_cancer|DS society|NN culture|NN breast_cancer|DS awareness|NN list|NN people|NN breast_cancer|DS 
+century|NN breast_cancer|DS tone|NN 
+technique|NN women|NN care|NN 
+surgery|NN survival|NN rate|NN women|NN raise|NN awareness|NN disease|NN possibility|NN treatment|NN 
+womens|NN field|NN army|NN run|NN society|NN control|NN cancer|DS cancer|DS society|NN campaign|NN 
+support|NN group|NN reach|NN recovery|NN visit|NN women|NN breast_cancer|DS 
+breast_cancer|DS movement|NN movement|NN women|NN health|NN movement|NN century|NN series|NN campaign|NN aid|NN awareness|NN campaign|NN acceptance|NN second|NN opinion|NN surgery|NN procedure|NN support|NN group|NN advance|NN care|NN ribbon|NN article|NN ribbon|NN ribbon|NN symbol|NN support|NN breast_cancer|DS awareness|NN 
+ribbon|NN symbol|NN breast_cancer|DS awareness|NN 
+ribbon|NN fundraiser|NN poppy|NN remembrance|NN day|NN 
+breast_cancer|DS product|NN manufacturer|NN consumer|NN breast_cancer|DS 
+ribbon|NN generosity|NN faith|NN progress|NN attitude|NN 
+consumer|NN vision|NN cure|NN breast_cancer|DS path|NN knowledge|NN cure|NN 
+ribbon|NN opponent|NN practice|NN kind|NN slacktivism|NN effect|NN 
+hypocrisy|NN people|NN ribbon|NN women|NN breast_cancer|DS women|NN goal|NN patient|NN right|NN legislation|NN critics|NN nature|NN ribbon|NN consumption|NN society|NN lack|NN progress|NN breast_cancer|DS gender|NN stereotype|NN women|NN breast|NN breast_cancer|DS action|NN think|NN campaign|NN business|NN campaign|NN product|NN cause|NN breast_cancer|DS beverage|NN breast_cancer|DS culture|NN 
+breast_cancer|DS culture|NN ribbon|NN culture|NN set|NN activity|NN attitude|NN value|NN shape|NN breast_cancer|DS 
+value|NN selflessness|NN cheerfulness|NN unity|NN optimism|NN 
+breast_cancer|DS culture|NN breast_cancer|DS therapy|NN rite|NN passage|NN disease|NN woman|NN breast_cancer|DS need|NN appearance|NN disruption|NN health|NN issue|NN 
+anger|NN sadness|NN negativity|NN 
+model|NN people|NN model|NN status|NN case|NN cancer|DS survivor|NN 
+women|NN model|NN 
+culture|NN adult|NN women|NN girl|NN baby|NN toy|NN teddy|NN bear|NN adult|NN women|NN 
+purpose|NN goal|NN breast_cancer|DS culture|NN breast_cancer|DS dominance|NN women|NN health|NN issue|NN appearance|NN society|NN breast_cancer|DS power|NN breast_cancer|DS activist|NN emphasis|NN 
+disease|NN cancer|DS breast_cancer|DS share|NN resource|NN attention|NN 
+mp|NN ian|NN gibson|NN chairman|NN house|NN commons|NN kingdom|NN party|NN group|NN cancer|DS treatment|NN lobby|NN doubt|NN 
+breast_cancer|DS sufferer|NN treatment|NN term|NN bed|NN space|NN facility|NN doctor|NN nurse|NN 
+breast_cancer|DS media|NN coverage|NN cancer|DS study|NN coalition|NN breast_cancer|DS story|NN cover|NN cancer|DS prostate|NN concern|NN sufferer|NN breast_cancer|DS fund|NN research|NN behalf|NN live|NN prevalence|NN survival|NN rate|NN research|NN breast_cancer|DS 
+subject|NN fatigue|ST women|NN breast_cancer|DS 
+result|NN breast_cancer|DS visibility|NN result|NN claim|NN women|NN breast_cancer|DS claim|NN assumption|NN woman|NN disease|NN age|NN reality|NN time|NN women|NN heart|NN disease|NN stroke|NN breast_cancer|DS 
+emphasis|NN breast_cancer|DS screen|NN women|NN radiation|NN biopsy|NN surgery|NN 
+breast_cancer|DS screen|NN breast_cancer|DS cancer|DS 
+gilbert|NN welch|NN dartmouth|NN institute|NN health|NN policy|NN practice|NN research|NN screen|NN approach|NN test|NN cancer|DS cancer|DS pregnancy|NN 
+breast_cancer|DS pregnancy|NN rate|NN breast_cancer|DS women|NN age|NN 
+breast_cancer|DS year|NN pregnancy|NN population|NN cancer|DS breast_cancer|DS outcome|NN risk|NN spread|NN disease|NN mortality|NN cancer|DS pregnancy|NN rate|NN cancer|DS women|NN age|NN 
+cancer|DS woman|NN part|NN symptom|NN discomfort|NN pregnancy|NN result|NN cancer|DS stage|NN women|NN 
+image|NN procedure|NN resonance|NN image|NN ct|NN scan|NN shield|NN pregnancy|NN pet|NN scan|NN 
+treatment|NN women|NN radiation|NN pregnancy|NN dose|NN cgy|NN 
+case|NN treatment|NN birth|NN cancer|DS pregnancy|NN 
+delivery|NN start|NN treatment|NN 
+surgery|NN pregnancy|NN treatment|NN chemotherapy|NN drug|NN trimester|NN increase|NN risk|NN birth|NN defect|NN pregnancy|NN loss|NN abortion|NN stillbirth|NN abortion|NN likelihood|NN mother|NN 
+radiation|NN treatment|NN mother|NN ability|NN baby|NN ability|NN breast|NN milk|NN risk|NN mastitis|NN 
+chemotherapy|NN birth|NN drug|NN breast|NN milk|NN baby|NN baby|NN 
+pregnancy|NN breast_cancer|DS survivor|NN fear|NN cancer|DS recurrence|NN hand|NN regard|NN pregnancy|NN parenthood|NN normalcy|NN happiness|NN life|NN fulfillment|NN birth|NN control|NN 
+breast_cancer|DS survivor|NN birth|NN control|NN method|NN option|NN 
+method|NN depot|NN acetate|NN iud|NN progestogen|NN pill|NN risk|NN cancer|DS recurrence|NN effect|NN risk|NN hormone|NN replacement|NN 
+breast_cancer|DS survivor|NN option|NN effect|NN estrogen|NN receptor|NN osteoporosis|DS estrogen|NN symptom|NN 
+study|NN hormone|NN replacement|NN therapy|NN breast_cancer|DS 
+hormone|NN replacement|NN breast_cancer|DS therapy|NN therapy|NN device|NN progestogen|NN option|NN therapy|NN research|NN 
+treatment|NN trial|NN 
+drug|NN combination|NN drug|NN radiation|NN technique|NN investigation|NN type|NN therapy|NN cancer|DS vaccine|NN gene|NN therapy|NN immunotherapy|NN 
+research|NN meet|NN society|NN oncology|NN san|NN antonio|NN breast_cancer|DS symposium|NN st|NN 
+gallen|NN oncology|NN conference|NN st|NN 
+gallen|NN switzerland|NN study|NN society|NN organization|NN guideline|NN treatment|NN group|NN risk|NN category|NN 
+retinoid|NN way|NN risk|NN breast_cancer|DS retinoid|NN medication|NN vitamin|NN combination|NN ribociclib|NN therapy|NN subject|NN trial|NN 
+cryoablation|NN substitute|NN lumpectomy|NN cancer|DS evidence|NN surgery|NN review|NN breast_cancer|DS size|NN breast_cancer|DS cell|NN line|NN list|NN breast_cancer|DS cell|NN line|NN 
+part|NN knowledge|NN breast|NN carcinoma|NN vivo|NN study|NN cell|NN line|NN breast_cancer|DS 
+source|NN material|NN cell|NN standard|NN media|NN 
+breast_cancer|DS cell|NN line|NN 
+work|NN area|NN number|NN line|NN 
+attempt|NN culture|NN breast_cancer|DS cell|NN line|NN tumor|NN 
+efficiency|NN difficulty|NN extraction|NN tumor|NN cell|NN stroma|NN 
+breast_cancer|DS cell|NN line|NN tumor|NN effusion|NN 
+number|NN tumor|NN cell|NN contamination|NN fibroblast|NN tumor|NN stroma|NN cell|NN 
+bcc|NN line|NN 
+account|NN abstract|NN study|NN breast_cancer|DS cell|NN line|NN survey|NN 
+marker|NN transcription|NN factor|NN 
+transcription|NN factor|NN breast_cancer|DS process|NN cell|NN motility|NN basis|NN metastasis|NN formation|NN 
+nfatc2|NN breast|NN carcinoma|NN nfatc4|NN inhibitor|NN cell|NN motility|NN expression|NN tweakr|NN ligand|NN breast_cancer|DS cell|NN invasion|NN nfat3|NN expression|NN cell|NN invasion|NN marker|NN 
+marker|NN breast_cancer|DS estrogen|NN progesterone|NN receptor|NN response|NN hormone|NN therapy|NN 
+new|NN marker|NN breast_cancer|DS people|NN risk|NN breast_cancer|DS citation|NN response|NN regimen|NN urokinase|NN plasminogen|NN activator|NN prognosis|NN 
+citation|NN animal|NN 
+tumor|NN breast_cancer|DS animal|NN mouse|NN model|NN breast_cancer|DS metastasis|NN 

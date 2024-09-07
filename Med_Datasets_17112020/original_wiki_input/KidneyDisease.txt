@@ -1,0 +1,104 @@
+Kidney disease,renal disease,nephropathy
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Not to be confused with Neuropathy.
+	
+This article has multiple issues. Please help improve it or discuss these issues on the talk page. (Learn how and when to remove these template messages)
+This article needs additional citations for verification. (April 2008)
+This article needs to be updated. (August 2017)
+Kidney Disease
+Specialty	Nephrology, Urology Edit this on Wikidata
+
+Kidney disease, or renal disease, also known as nephropathy, is damage to or disease of a kidney. Nephritis is an inflammatory kidney disease and has several types according to the location of the inflammation. Inflammation can be diagnosed by blood tests. Nephrosis is non-inflammatory kidney disease. Nephritis and nephrosis can give rise to nephritic syndrome and nephrotic syndrome respectively. Kidney disease usually causes a loss of kidney function to some degree and can result in kidney failure, the complete loss of kidney function. Kidney failure is known as the end-stage of kidney disease, where dialysis or a kidney transplant is the only treatment option.
+
+Chronic kidney disease causes the gradual loss of kidney function over time. Acute kidney disease is now termed acute kidney injury and is marked by the sudden reduction in kidney function over seven days. About one in eight Americans (as of 2007) have chronic kidney disease.[1]
+Contents
+
+    1 Causes
+        1.1 Analgesics
+        1.2 Diabetes
+        1.3 Diet
+        1.4 IgA nephropathy
+        1.5 Iodinated contrast media
+        1.6 Lithium
+        1.7 Lupus
+        1.8 Xanthine oxidase deficiency
+        1.9 Polycystic disease of the kidneys
+        1.10 Toxicity of chemotherapy agents
+    2 Diagnosis
+    3 Treatment
+    4 Prognosis
+    5 See also
+    6 References
+    7 External links
+
+Causes
+Deaths due to kidney diseases per million persons in 2012
+  16-61
+  62-79
+  80-88
+  89-95
+  96-110
+  111-120
+  121-135
+  136-160
+  161-186
+  187-343
+
+Causes of kidney disease include deposition of the Immunoglobulin A antibodies in the glomerulus, administration of analgesics, xanthine oxidase deficiency, toxicity of chemotherapy agents, and long-term exposure to lead or its salts. Chronic conditions that can produce nephropathy include systemic lupus erythematosus, diabetes mellitus and high blood pressure (hypertension), which lead to diabetic nephropathy and hypertensive nephropathy, respectively.
+Analgesics
+Main article: Analgesic nephropathy
+
+One cause of nephropathy is the long term usage of pain medications known as analgesics. The pain medicines which can cause kidney problems include aspirin, acetaminophen, and nonsteroidal anti-inflammatory drugs (NSAIDs). This form of nephropathy is "chronic analgesic nephritis," a chronic inflammatory change characterized by loss and atrophy of tubules and interstitial fibrosis and inflammation (BRS Pathology, 2nd edition).
+
+Specifically, long-term use of the analgesic phenacetin has been linked to renal papillary necrosis (necrotizing papillitis).
+Diabetes
+Main article: Diabetic nephropathy
+
+Diabetic nephropathy is a progressive kidney disease caused by angiopathy of the capillaries in the glomeruli. It is characterized by nephrotic syndrome and diffuse scarring of the glomeruli. It is particularly associated with poorly managed diabetes mellitus and is a primary reason for dialysis in many developed countries. It is classified as a small blood vessel complication of diabetes.[2]
+Diet
+
+Higher dietary intake of animal protein, animal fat, and cholesterol may increase risk for microalbuminuria, a sign of kidney function decline,[3] and generally, diets higher in fruits, vegetables, and whole grains but lower in meat and sweets may be protective against kidney function decline.[4] This may be because sources of animal protein, animal fat, and cholesterol, and sweets are more acid-producing, while fruits, vegetables, legumes, and whole grains are more base-producing.[5][6][7][8][9][10][11][12][13][14]
+IgA nephropathy
+Main article: IgA nephropathy
+
+IgA nephropathy is the most common glomerulonephritis throughout the world [15] Primary IgA nephropathy is characterized by deposition of the IgA antibody in the glomerulus. The classic presentation (in 40-50% of the cases) is episodic frank hematuria which usually starts within a day or two of a non-specific upper respiratory tract infection (hence synpharyngitic) as opposed to post-streptococcal glomerulonephritis which occurs some time (weeks) after initial infection. Less commonly gastrointestinal or urinary infection can be the inciting agent. All of these infections have in common the activation of mucosal defenses and hence IgA antibody production.
+Iodinated contrast media
+Main article: Iodinated contrast media
+
+Kidney disease induced by iodinated contrast media (ICM) is called CIN (= contrast induced nephropathy) or contrast-induced AKI (= acute kidney injury). Currently, the underlying mechanisms are unclear. But there is a body of evidence that several factors including apoptosis-induction seem to play a role.[16]
+Lithium
+Main article: Lithium-induced nephropathy
+
+The long-term use of lithium, a medication commonly used to treat bipolar disorder and schizoaffective disorders, is known to cause nephropathy.[citation needed]
+Lupus
+
+Despite expensive treatments, lupus nephritis remains a major cause of morbidity and mortality in people with relapsing or refractory lupus nephritis.[17]
+Xanthine oxidase deficiency
+Main article: Xanthine oxidase deficiency
+
+Another possible cause of Kidney disease is due to decreased function of xanthine oxidase in the purine degradation pathway. Xanthine oxidase will degrade hypoxanthine to xanthine and then to uric acid. Xanthine is not very soluble in water; therefore, an increase in xanthine forms crystals (which can lead to kidney stones) and result in damage of the kidney. Xanthine oxidase inhibitors, like allopurinol, can cause nephropathy.
+Polycystic disease of the kidneys
+Main article: Polycystic kidney disease
+
+Additional possible cause of nephropathy is due to the formation of cysts or pockets containing fluid within the kidneys. These cysts become enlarged with the progression of aging causing renal failure. Cysts may also form in other organs including the liver, brain and ovaries. Polycystic Kidney Disease is a genetic disease caused by mutations in the PKD1, PKD2, and PKHD1 genes. This disease affects about half a million people in the US. Polycystic kidneys are susceptible to infections and cancer.
+Toxicity of chemotherapy agents
+Main article: Onconephrology
+
+Nephropathy can be associated with some therapies used to treat cancer. The most common form of kidney disease in cancer patients is Acute Kidney Injury (AKI) which can usually be due to volume depletion from vomiting and diarrhea that occur following chemotherapy or occasionally due to kidney toxicities of chemotherapeutic agents. Kidney failure from break down of cancer cells, usually after chemotherapy, is unique to onconephrology. Several chemotherapeutic agents, for example Cisplatin, are associated with acute and chronic kidney injuries.[18] Newer agents such as anti Vascular Endothelial Growth Factor (anti VEGF) are also associated with similar injuries, as well as proteinuria, hypertension and thrombotic microangiopathy.[19]
+Diagnosis
+
+The standard diagnostic workup of suspected kidney disease includes a medical history, physical examination, a urine test, and an ultrasound of the kidneys (renal ultrasonography). An ultrasound is essential in the diagnosis and management of kidney disease.[20]
+Treatment
+Main article: Kidney transplantation
+
+Millions of people across the world suffer from kidney disease. Of those millions, several thousand will need dialysis or a kidney transplant at its end-stage.[21] In the United States, as of 2008, 16,500 people needed a kidney transplant.[21] Of those, 5,000 died while waiting for a transplant.[21] Currently, there is a shortage of donors, and in 2007 there were only 64,606 kidney transplants in the world.[21] This shortage of donors is causing countries to place monetary value on kidneys. Countries such as Iran and Singapore are eliminating their lists by paying their citizens to donate. Also, the black market accounts for 5-10 percent of transplants that occur worldwide.[21] The act of buying an organ through the black market is illegal in the United States.[22] To be put on the waiting list for a kidney transplant, patients must first be referred by a physician, then they must choose and contact a donor hospital. Once they choose a donor hospital, patients must then receive an evaluation to make sure they are sustainable to receive a transplant. In order to be a match for a kidney transplant, patients must match blood type and human leukocyte antigen factors with their donors. They must also have no reactions to the antibodies from the donor's kidneys.[23][21]
+Prognosis
+
+Kidney disease can have serious consequences if it cannot be controlled effectively. Generally, the progression of kidney disease is from mild to serious. Some kidney diseases can cause kidney failure.
+See also
+
+    Hematologic Diseases Information Service
+    Mesoamerican nephropathy, an enigmatic chronic kidney disease of Central America
+    Protein toxicity

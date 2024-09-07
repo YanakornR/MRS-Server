@@ -1,0 +1,320 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Tooth decay|Disease bone|NN
+Tooth decay|Disease name|NN Tooth decay|Disease Tooth decay|Disease Tooth decay|Disease Tooth decay|Disease cavity|NN destruction|NN tooth|NN Tooth decay|Disease disease|NN
+symptom|NN pain|NN tooth|NN loss|NN difficulty|NN eate|NN complication|NN tooth|NN tooth|NN loss|NN infection|NN abscess|NN formation|NN duration|NN term|NN cause|NN bacteria|NN acid|NN food|NN debris|NN risk|NN factor|NN diet|NN sugar|NN diabete|NN mellitus|NN syndrome|NN medication|NN decrease|NN saliva|NN prevention|NN sugar|NN diet|NN teeth|NN fluoride|NN paracetamol|NN frequency|NN
+Tooth decay|Disease Tooth decay|Disease Tooth decay|Disease breakdown|NN teeth|NN acid|NN bacteria|NN Tooth decay|Disease number|NN color|NN yellow|NN symptom|NN pain|NN difficulty|NN eate|NN complication|NN inflammation|NN tissue|NN tooth|NN tooth|NN loss|NN infection|NN abscess|NN formation|NN
+cause|NN Tooth decay|Disease acid|NN bacteria|NN tissue|NN teeth|NN enamel|NN acid|NN bacteria|NN food|NN debris|NN sugar|NN tooth|NN surface|NN sugar|NN food|NN energy|NN source|NN diet|NN sugar|NN risk|NN factor|NN mineral|NN breakdown|NN source|NN saliva|NN Tooth decay|Disease result|NN factor|NN condition|NN result|NN saliva|NN diabete|NN mellitus|NN syndrome|NN medication|NN decrease|NN saliva|NN production|NN antidepressant|NN Tooth decay|Disease poverty|NN clean|NN mouth|NN gum|NN exposure|NN root|NN teeth|NN
+prevention|NN Tooth decay|Disease clean|NN teeth|NN diet|NN sugar|NN amount|NN fluoride|NN teeth|NN day|NN floss|NN teeth|NN day|NN water|NN salt|NN toothpaste|NN source|NN mother|NN Tooth decay|Disease risk|NN children|NN number|NN bacteria|NN screen|NN detection|NN extent|NN destruction|NN treatment|NN tooth|NN function|NN tooth|NN method|NN amount|NN tooth|NN availability|NN treatment|NN world|NN paracetamol|NN pain|NN
+people|NN population|NN Tooth decay|Disease teeth|NN world|NN health|NN organization|NN adult|NN Tooth decay|Disease point|NN time|NN baby|NN teeth|NN people|NN population|NN children|NN adult|NN year|NN disease|NN world|NN sugar|NN consumption|NN world|NN Tooth decay|Disease content|NN
+sign|NN symptom|NN cause|NN bacteria|NN sugar|NN exposure|NN teeth|NN factor|NN diagnosis|NN classification|NN childhood|NN Tooth decay|Disease rate|NN progression|NN tissue|NN prevention|NN hygiene|NN modification|NN measure|NN treatment|NN epidemiology|NN history|NN usage|NN society|NN culture|NN animal|NN reference|NN source|NN link|NN
+sign|NN symptom|NN picture|NN photograph|NN radiograph|NN tooth|NN
+spot|NN decay|NN surface|NN tooth|NN
+radiograph|NN region|NN demineralization|NN arrow|NN
+c|NP hole|NN side|NN tooth|NN begine|NN decay|NN removal|NN
+d|NP decay|NN fill|NN
+person|NN Tooth decay|Disease disease|NN sign|NN carious|NN lesion|NN appearance|NN spot|NN surface|NN tooth|NN area|NN demineralization|NN enamel|NN
+spot|NN lesion|NN carious|NN lesion|NN microcavity|NN lesion|NN cavity|NN
+cavity|NN process|NN cavity|NN tooth|NN structure|NN
+lesion|NN Tooth decay|Disease process|NN stain|NN
+decay|NN lighter|NN color|NN appearance|NN
+enamel|NN cavity|NN
+area|NN tooth|NN change|NN color|NN touch|NN
+decay|NN enamel|NN tubule|NN passage|NN nerve|NN tooth|NN pain|NN exposure|NN heat|NN cold|NN food|NN drink|NN tooth|NN decay|NN fracture|NN chew|NN force|NN
+decay|NN bacteria|NN pulp|NN tissue|NN center|NN tooth|NN toothache|NN pain|NN
+death|NN pulp|NN tissue|NN infection|NN consequence|NN
+tooth|NN pressure|NN
+Tooth decay|Disease breath|NN taste|NN case|NN infection|NN tooth|NN tissue|NN
+complication|NN sinus|NN thrombosis|NN ludwig|NP angina|NN cause|NN representation|NN theory|NN causation|NN Tooth decay|Disease
+factor|NN carbohydrate|NN substrate|NN micro-organism|NN plaque|NN tooth|NN surface|NN time|NN Tooth decay|Disease
+fluoride|NN factor|NN
+thing|NN Tooth decay|Disease formation|NN tooth|NN surface|NN enamel|NN Tooth decay|Disease bacteria|NN carbohydrate|NN sucrose|NN time|NN adherence|NN food|NN teeth|NN acid|NN creation|NN bacteria|NN plaque|NN criteria|NN disease|NN environment|NN development|NN biofilm|NN
+Tooth decay|Disease disease|NN process|NN outcome|NN individual|NN degree|NN shape|NN teeth|NN hygiene|NN habit|NN capacity|NN saliva|NN
+Tooth decay|Disease surface|NN tooth|NN cavity|NN structure|NN bone|NN
+Tooth decay|Disease plaque|NN teeth|NN decay|NN
+bacteria|NN produce|NN acid|NN presence|NN carbohydrate|NN sucrose|NN fructose|NN glucose|NN
+Tooth decay|Disease people|NN end|NN scale|NN people|NN end|NN scale|NN bacteria|NN caption|NN gram|NN stain|NN image|NN mutan|NN
+bacteria|NN Tooth decay|Disease mutan|NN sobrinus|NN lactobacilly|NN
+bacteria|NN disease|NN plaque|NN concentration|NN cause|NN problem|NN shift|NN balance|NN change|NN sugar|NN intake|NN biofilm|NN removal|NN disease|NN pain|NN tooth|NN loss|NN infection|NN
+mouth|NN variety|NN bacteria|NN specy|NN bacteria|NN Tooth decay|Disease streptococcus|NN specy|NN
+bacteria|NN surface|NN teeth|NN
+organism|NN level|NN acid|NN fermentation|NN sugar|NN effect|NN ph|NN property|NN bacteria|NN cementum|NN root|NN surface|NN enamel|NN surface|NN variety|NN bacteria|NN root|NN Tooth decay|Disease acidophilus|NN spp|NN spp|NN mutan|NN
+bacteria|NN teeth|NN gum|NN creamy-colour|NN mass|NN plaque|NN biofilm|NN
+site|NN plaque|NN example|NN site|NN rate|NN flow|NN molar|NN fissure|NN
+surface|NN molar|NN premolar|NN teeth|NN retention|NN site|NN plaque|NN bacteria|NN site|NN
+plaque|NN gingiva|NN supra-|NN plaque|NN
+strain|NN s|NP mutans|NP child|NN caretaker|NN kiss|NN sugar|NN
+bacteria|NN person|NN mouth|NN convert|NN glucose|NN fructose|NN sucrose|NN table|NN sugar|NN acid|NN acid|NN process|NN fermentation|NN contact|NN tooth|NN acid|NN dissolution|NN mineral|NN content|NN
+process|NN acid|NN saliva|NN mouthwash|NN
+toothpaste|NN varnish|NN time|NN mineral|NN content|NN material|NN cavity|NN hole|NN
+impact|NN sugar|NN progress|NN Tooth decay|Disease
+glucose|NN fructose|NN unit|NN fact|NN mixture|NN part|NN glucose|NN fructose|NN
+bacteria|NN energy|NN bond|NN glucose|NN fructose|NN subunit|NN
+biofilm|NN tooth|NN sucrose|NN substance|NN polysaccharide|NN enzyme|NN exposure|NN stephan|NP curve|NN decrease|NN plaque|NN ph|NN glucose|NN rinse|NN min|NN
+demineralization|NN tissue|NN ph|NN
+frequency|NN teeth|NN environment|NN likelihood|NN Tooth decay|Disease development|NN meal|NN snack|NN bacteria|NN mouth|NN sugar|NN by-product|NN ph|NN
+time|NN ph|NN return|NN due|NN buffer|NN capacity|NN saliva|NN mineral|NN content|NN tooth|NN surface|NN
+exposure|NN environment|NN portion|NN mineral|NN content|NN surface|NN teeth|NN hour|NN teeth|NN period|NN development|NN Tooth decay|Disease frequency|NN acid|NN exposure|NN
+process|NN day|NN tooth|NN mouth|NN diet|NN carbohydrate|NN
+evidence|NN introduction|NN fluoride|NN treatment|NN process|NN Tooth decay|Disease average|NN year|NN enamel|NN teeth|NN
+cementum|NN root|NN surface|NN enamel|NN crown|NN root|NN Tooth decay|Disease decay|NN surface|NN
+progression|NN loss|NN mineralization|NN root|NN surface|NN time|NN Tooth decay|Disease enamel|NN
+case|NN hygiene|NN diet|NN carbohydrate|NN Tooth decay|Disease Tooth decay|Disease month|NN tooth|NN eruption|NN
+example|NN children|NN drink|NN baby|NN bottle|NN discussion|NN
+teeth|NN Tooth decay|Disease
+disease|NN disorder|NN teeth|NN individual|NN risk|NN Tooth decay|Disease
+incisor|NN cause|NN combination|NN factor|NN factor|NN factor|NN level|NN dioxin|NN biphenyl|NN pcb|NN mother|NN milk|NN birth|NN oxygen|NN deprivation|NN birth|NN disorder|NN year|NN mump|NN diphtheria|NN fever|NN measle|NN malnutrition|NN malabsorption|NN d|NP disease|NN disease|NN symptom|NN
+imperfecta|NN individual|NN disease|NN enamel|NN form|NN form|NN amount|NN tooth|NN case|NN teeth|NN enamel|NN tooth|NN
+people|NN disorder|NN disease|NN teeth|NN cause|NN Tooth decay|Disease
+tooth|NN enamel|NN mineral|NN mineral|NN hydroxyapatite|NN environment|NN
+ph|NN Tooth decay|Disease enamel|NN mineral|NN content|NN root|NN surface|NN teeth|NN recession|NN disease|NN Tooth decay|Disease
+environment|NN tooth|NN Tooth decay|Disease
+evidence|NN crowd|NN Tooth decay|Disease anatomy|NN teeth|NN likelihood|NN Tooth decay|Disease formation|NN
+groove|NN teeth|NN pit|NN fissure|NN Tooth decay|Disease section|NN
+Tooth decay|Disease food|NN teeth|NN
+flow|NN rate|NN Tooth decay|Disease buffer|NN capability|NN saliva|NN environment|NN food|NN
+result|NN condition|NN amount|NN saliva|NN gland|NN gland|NN gland|NN mouth|NN Tooth decay|Disease
+example|NN syndrome|NN diabete|NN mellitus|NN diabete|NN sarcoidosis|NN antihistamine|NN antidepressant|NN flow|NN
+flow|NN saliva|NN degree|NN
+substance|NN cannabis|NN occlusion|NN salivation|NN term|NN cotton|NN mouth|NN
+medication|NN united|NP states|NP list|NN mouth|NN side-effect|NN radiation|NN therapy|NN head|NN neck|NN cell|NN gland|NN likelihood|NN Tooth decay|Disease formation|NN
+Tooth decay|Disease metabolism|NN tooth|NN fluid|NN flow|NN dentin|NN
+experiment|NN rat|NN high-sucrose|NN diet|NN rate|NN fluid|NN motion|NN
+use|NN tobacco|NN risk|NN Tooth decay|Disease formation|NN
+brand|NN tobacco|NN sugar|NN content|NN susceptibility|NN Tooth decay|Disease tobacco|NN use|NN risk|NN factor|NN disease|NN gingiva|NN gingiva|NN attachment|NN teeth|NN recession|NN root|NN surface|NN mouth|NN
+root|NN Tooth decay|Disease concern|NN cementum|NN root|NN teeth|NN acid|NN enamel|NN evidence|NN relationship|NN smoke|NN Tooth decay|Disease evidence|NN relationship|NN smoke|NN Tooth decay|Disease exposure|NN children|NN tobacco|NN smoke|NN Tooth decay|Disease
+lead|NN exposure|NN Tooth decay|Disease atom|NN charge|NN radius|NN calcium|NN cadmium|NN calcium|NN ion|NN exposure|NN Tooth decay|Disease
+poverty|NN determinant|NN health|NN Tooth decay|Disease status|NN disease|NN poverty|NN
+form|NN risk|NN assessment|NN Tooth decay|Disease case|NN system|NN evidence-base|NN Tooth decay|Disease management|NN risk|NN assessment|NN identification|NN individual|NN patient|NN management|NN Tooth decay|Disease initiation|NN arrest|NN progression|NN lesion|NN
+iodine|NN egf|NN
+egf|NN result|NN proliferation|NN differentiation|NN survival|NN egf|NN iodine|NN role|NN maintenance|NN tissue|NN integrity|NN hand|NN iodine|NN prevention|NN Tooth decay|Disease health|NN community|NN tooth|NN surface|NN biofilm|NN
+biofilm|NN environment|NN form|NN oxygen|NN
+use|NN sucrose|NN sugar|NN food|NN source|NN
+sugar|NN fermentation|NN pathway|NN lactate|NN
+lactate|NN cell|NN tooth|NN enamel|NN
+lactate|NN ion|NN hydroxyapatite|NN crystal|NN tooth|NN
+image|NN shape|NN progression|NN Tooth decay|Disease lesion|NN fissure|NN tooth|NN
+progression|NN pit|NN fissure|NN Tooth decay|Disease triangle|NN base|NN junction|NN enamel|NN dentin|NN
+teeth|NN saliva|NN coat|NN bacteria|NN
+mineral|NN tissue|NN teeth|NN enamel|NN process|NN demineralization|NN remineralisation|NN
+Tooth decay|Disease result|NN rate|NN remineralisation|NN net|NN mineral|NN loss|NN
+shift|NN biofilm|NN population|NN micro-organism|NN population|NN acid|NN acid|NN environment|NN
+acellular|NN tissue|NN Tooth decay|Disease act|NN process|NN environment|NN bacteria|NN
+bacteria|NN sugar|NN energy|NN acid|NN
+effect|NN process|NN demineralization|NN crystal|NN enamel|NN acid|NN time|NN bacteria|NN dentin|NN
+rod|NN unit|NN enamel|NN structure|NN run|NN surface|NN tooth|NN dentin|NN
+enamel|NN Tooth decay|Disease general|NN direction|NN enamel|NN rod|NN pattern|NN pit|NN fissure|NN Tooth decay|Disease enamel|NN orientation|NN enamel|NN rod|NN area|NN tooth|NN
+enamel|NN mineral|NN Tooth decay|Disease enamel|NN zone|NN microscope|NN
+layer|NN enamel|NN enamel|NN surface|NN area|NN zone|NN dark|NN zone|NN body|NN lesion|NN surface|NN zone|NN zone|NN sign|NN Tooth decay|Disease percent|NN loss|NN mineral|NN remineralization|NN enamel|NN zone|NN example|NN development|NN Tooth decay|Disease process|NN change|NN area|NN demineralization|NN destruction|NN body|NN lesion|NN
+surface|NN zone|NN loss|NN tooth|NN structure|NN result|NN cavitation|NN
+enamel|NN dentin|NN progression|NN Tooth decay|Disease
+tooth|NN formation|NN ameloblast|NN enamel|NN enamel|NN formation|NN enamel|NN destruction|NN
+hand|NN dentin|NN life|NN odontoblast|NN border|NN pulp|NN dentin|NN
+stimulus|NN Tooth decay|Disease response|NN
+defense|NN mechanism|NN formation|NN sclerotic|NN dentin|NN
+dentin|NN layer|NN enamel|NN area|NN Tooth decay|Disease front|NN zone|NN penetration|NN zone|NN destruction|NN front|NN zone|NN due|NN acid|NN bacteria|NN
+zone|NN penetration|NN destruction|NN location|NN bacteria|NN decomposition|NN
+zone|NN destruction|NN population|NN enzyme|NN matrix|NN
+dentin|NN Tooth decay|Disease collagen|NN matrix|NN repair|NN
+zone|NN degradation|NN collagen|NN matrix|NN result|NN dentin|NN
+citation|NN image|NN shape|NN progression|NN Tooth decay|Disease lesion|NN region|NN tooth|NN
+spread|NN Tooth decay|Disease dentin|NN appearance|NN surface|NN Tooth decay|Disease
+structure|NN dentin|NN arrangement|NN channel|NN tubule|NN pulp|NN chamber|NN exterior|NN enamel|NN border|NN diameter|NN tubule|NN pulp|NN
+junction|NN dentin|NN enamel|NN process|NN tubule|NN pattern|NN progression|NN Tooth decay|Disease deep|NN tooth|NN
+tubule|NN Tooth decay|Disease progress|NN
+response|NN fluid|NN tubule|NN immunoglobulin|NN system|NN infection|NN
+time|NN increase|NN mineralization|NN tubule|NN result|NN constriction|NN tubule|NN attempt|NN progression|NN
+addition|NN acid|NN bacteria|NN hydroxyapatite|NN crystal|NN calcium|NN phosphorus|NN precipitation|NN crystal|NN tubule|NN
+crystal|NN barrier|NN advancement|NN Tooth decay|Disease
+response|NN dentin|NN
+theory|NN fluid|NN tubule|NN mechanism|NN pain|NN receptor|NN pulp|NN tooth|NN dentin|NN passage|NN fluid|NN pain|NN warn|NN bacteria|NN
+Tooth decay|Disease period|NN time|NN sensitivity|NN tooth|NN loss|NN tooth|NN structure|NN
+citation|NN dentin|NN
+response|NN Tooth decay|Disease production|NN dentin|NN direction|NN pulp|NN
+dentin|NN dentin|NN pulp|NN bacteria|NN
+dentin|NN size|NN pulp|NN
+type|NN dentin|NN presence|NN absence|NN odontoblast|NN odontoblast|NN Tooth decay|Disease dentin|NN dentin|NN
+odontoblast|NN dentin|NN
+case|NN cell|NN role|NN odontoblast|NN
+growth|NN factor|NN
+production|NN dentin|NN fibroblast|NN cell|NN pulp|NN dentin|NN average|NN
+dentin|NN dentinal|NN tubule|NN tubule|NN
+ability|NN Tooth decay|Disease progress|NN tubule|NN
+incidence|NN Tooth decay|Disease increase|NN adult|NN recession|NN trauma|NN disease|NN
+condition|NN lesion|NN root|NN infection|NN pulp|NN discussion|NN classification|NN tissue|NN
+pain|NN find|NN lesion|NN challenge|NN tooth|NN loss|NN diagnosis|NN tip|NN metal|NN probe|NN point|NN
+tip|NN explorer|NN Tooth decay|Disease diagnosis|NN
+infection|NN abscess|NN inflammation|NN sinus|NN tooth|NN sample|NN light|NN source|NN row|NN lsi|NP row|NN visualization|NN lsi|NP row|NN
+presentation|NN Tooth decay|Disease
+risk|NN factor|NN stage|NN development|NN
+area|NN surface|NN Tooth decay|Disease cavitation|NN
+method|NN detection|NN x-ray|NN area|NN teeth|NN extent|NN destruction|NN
+laser|NN Tooth decay|Disease detection|NN radiation|NN detection|NN decay|NN teeth|NN
+solution|NN tooth|NN restoration|NN chance|NN recurrence|NN
+diagnosis|NN inspection|NN tooth|NN surface|NN light|NN source|NN mirror|NN explorer|NN
+radiograph|NN x-ray|NN Tooth decay|Disease Tooth decay|Disease teeth|NN
+area|NN Tooth decay|Disease eye|NN lesion|NN
+inspection|NN radiograph|NN dentist|NN pit|NN fissure|NN Tooth decay|Disease Tooth decay|Disease air|NN suspect|NN surface|NN moisture|NN change|NN property|NN enamel|NN
+researcher|NN use|NN explorer|NN Tooth decay|Disease explorer|NN
+case|NN area|NN tooth|NN pressure|NN explorer|NN cavity|NN
+process|NN cavity|NN Tooth decay|Disease fluoride|NN tooth|NN surface|NN
+cavity|NN restoration|NN tooth|NN structure|NN
+time|NN pit|NN fissure|NN Tooth decay|Disease
+bacteria|NN enamel|NN surface|NN fluoride|NN Tooth decay|Disease Tooth decay|Disease x-ray|NN radiograph|NN examination|NN tooth|NN enamel|NN
+diagnosis|NN Tooth decay|Disease defect|NN tooth|NN hypomineralization|NN tooth|NN hypoplasia|NN tooth|NN
+carious|NN lesion|NN demineralization|NN tooth|NN surface|NN property|NN
+technology|NN laser|NN image|NN lsi|NP technique|NN aid|NN carious|NN lesion|NN classification|NN chart|NN image|NN Tooth decay|Disease location|NN classification|NN
+Tooth decay|Disease location|NN rate|NN progression|NN tissue|NN form|NN classification|NN case|NN Tooth decay|Disease order|NN condition|NN severity|NN tooth|NN destruction|NN
+instance|NN Tooth decay|Disease way|NN cause|NN
+class|NN surface|NN teeth|NN pit|NN molar|NN pit|NN cingulum|NN incisor|NN class|NN surface|NN teeth|NN class|NN interproximal|NN surface|NN teeth|NN edge|NN involvement|NN class|NN interproximal|NN surface|NN teeth|NN edge|NN involvement|NN class|NN surface|NN tooth|NN class|NN edge|NN attrition|NN
+childhood|NN Tooth decay|Disease photograph|NN teeth|NN gum|NN right|NN hand|NN side|NN mouth|NN Tooth decay|Disease lesion|NN teeth|NN level|NN gum|NN Tooth decay|Disease abuse|NN
+childhood|NN Tooth decay|Disease ecc|NP baby|NN bottle|NN Tooth decay|Disease baby|NN bottle|NN Tooth decay|Disease bottle|NN rot|NN pattern|NN decay|NN children|NN baby|NN teeth|NN
+presence|NN carious|NN lesion|NN tooth|NN child|NN age|NN year|NN teeth|NN teeth|NN teeth|NN name|NN type|NN Tooth decay|Disease fact|NN decay|NN result|NN children|NN liquid|NN bottle|NN feed|NN children|NN liquid|NN time|NN day|NN
+pattern|NN decay|NN Tooth decay|Disease decay|NN surface|NN teeth|NN Tooth decay|Disease individual|NN hygiene|NN stimulant|NN use|NN mouth|NN sugar|NN intake|NN
+Tooth decay|Disease result|NN radiation|NN head|NN neck|NN Tooth decay|Disease
+problem|NN root|NN tooth|NN resorption|NN teeth|NN cause|NN
+children|NN month|NN risk|NN Tooth decay|Disease
+kid|NN month|NN Tooth decay|Disease teeth|NN teeth|NN
+range|NN study|NN correlation|NN Tooth decay|Disease teeth|NN Tooth decay|Disease teeth|NN rate|NN progression|NN
+section|NN citation|NN verification|NN
+article|NN citation|NN source|NN
+source|NN Tooth decay|Disease new|NN newspaper|NN book|NN scholar|NN november|NP template|NN message|NN
+description|NN Tooth decay|Disease progression|NN rate|NN history|NN
+condition|NN condition|NN time|NN meal|NN snack|NN acid|NN result|NN Tooth decay|Disease
+Tooth decay|Disease secondary|NN Tooth decay|Disease location|NN history|NN Tooth decay|Disease
+margin|NN fill|NN restoration|NN
+hand|NN Tooth decay|Disease decay|NN location|NN decay|NN
+Tooth decay|Disease lesion|NN tooth|NN cavitation|NN
+treatment|NN tooth|NN enamel|NN use|NN calcium|NN phosphate|NN
+tissue|NN Tooth decay|Disease enamel|NN
+development|NN Tooth decay|Disease enamel|NN
+extent|NN decay|NN layer|NN dentin|NN term|NN Tooth decay|Disease
+tissue|NN root|NN teeth|NN decay|NN root|NN teeth|NN mouth|NN
+term|NN Tooth decay|Disease decay|NN root|NN teeth|NN Tooth decay|Disease
+root|NN layer|NN cementum|NN layer|NN dentin|NN Tooth decay|Disease
+citation|NN prevention|NN head|NN toothbrush|NN teeth|NN
+world|NN approach|NN hygiene|NN care|NN tooth-brush|NN floss|NN
+purpose|NN hygiene|NN formation|NN plaque|NN study|NN effect|NN Tooth decay|Disease evidence|NN Tooth decay|Disease practice|NN
+toothbrush|NN plaque|NN surface|NN teeth|NN pit|NN fissure|NN chew|NN surface|NN
+floss|NN plaque|NN area|NN Tooth decay|Disease depth|NN sulcus|NN
+aid|NN brushe|NN water|NN
+use|NN toothbrushe|NN risk|NN plaque|NN gingivitis|NN importance|NN
+hygiene|NN gum|NN disease|NN disease|NN
+food|NN pit|NN fissure|NN chew|NN pressure|NN acid|NN brush|NN fluoride|NN toothpaste|NN saliva|NN access|NN food|NN neutralise|NN acid|NN tooth|NN enamel|NN
+Tooth decay|Disease account|NN Tooth decay|Disease children|NN
+fluoride|NN lead|NN reduction|NN Tooth decay|Disease incidence|NN concentration|NN fluoride|NN ppm|NN toothpaste|NN Tooth decay|Disease effect|NN concentration|NN update|NN trial|NN protection|NN tooth|NN fluoride|NN ppm|NN cochrane|NP review|NN use|NN fluoride|NN gel|NN professional|NN time|NN year|NN prevention|NN Tooth decay|Disease children|NN adolescent|NN importance|NN fluoride|NN mean|NN Tooth decay|Disease prevention|NN review|NN use|NN fluoride|NN mouthwash|NN onset|NN decay|NN teeth|NN children|NN
+chew|NN fibre|NN celery|NN eate|NN force|NN saliva|NN food|NN carbohydrate|NN sugar|NN neutralise|NN acid|NN remineralise|NN teeth|NN
+teeth|NN risk|NN lesion|NN molar|NN length|NN time|NN cavity|NN presence|NN surface|NN anatomy|NN
+hygiene|NN care|NN examination|NN prophylaxis|NN clean|NN
+plaque|NN removal|NN dentist|NN hygienist|NN
+hygiene|NN radiograph|NN visit|NN Tooth decay|Disease development|NN area|NN mouth|NN
+x-ray|NN crown|NN back|NN teeth|NN
+method|NN hygiene|NN world|NN use|NN teeth|NN twig|NN culture|NN
+evidence|NN efficacy|NN method|NN hygiene|NN modification|NN Tooth decay|Disease incidence|NN sugar|NN consumption|NN
+data|NN children|NN molar|NN teeth|NN age|NN year|NN age|NN
+Tooth decay|Disease scale|NN line|NN
+people|NN sugar|NN Tooth decay|Disease Tooth decay|Disease sugar|NN intake|NN
+population|NN sugar|NN intake|NN Tooth decay|Disease
+population|NN nigeria|NP sugar|NN consumption|NN percent|NN population|NN age|NN cavity|NN
+presence|NN sugar|NN carbohydrate|NN bacteria|NN mouth|NN produce|NN acid|NN enamel|NN
+teeth|NN environment|NN Tooth decay|Disease
+citation|NN snack|NN supply|NN nutrition|NN bacteria|NN mouth|NN
+food|NN candy|NN cooky|NN potato|NN chip|NN cracker|NN teeth|NN
+fruit|NN raisin|NN fruit|NN apple|NN banana|NN mouth|NN risk|NN factor|NN
+consumer|NN food|NN mouth|NN
+children|NN association|NN academy|NN dentistry|NN frequency|NN consumption|NN drink|NN sugar|NN baby|NN bottle|NN infant|NN sleep|NN discussion|NN parent|NN share|NN utensil|NN cup|NN infant|NN bacteria|NN parent|NN mouth|NN
+milk|NN kind|NN cheese|NN cheddar|NN cheese|NN counter|NN Tooth decay|Disease consumption|NN food|NN teeth|NN
+sugar|NN alcohol|NN product|NN alternative|NN sucrose|NN table|NN sugar|NN
+evidence|NN use|NN xylitol|NN chew|NN gum|NN Tooth decay|Disease measure|NN caption|NN dentistry|NN tray|NN fluoride|NN
+tablet|NN cavity|NN prevention|NN
+use|NN sealant|NN mean|NN prevention|NN sealant|NN plastic-like|NN coat|NN chew|NN surface|NN molar|NN food|NN pit|NN fissure|NN
+plaque|NN bacteria|NN carbohydrate|NN formation|NN pit|NN fissure|NN Tooth decay|Disease
+teeth|NN children|NN teeth|NN adult|NN
+access|NN food|NN plaque|NN bacteria|NN pit|NN fissure|NN professional|NN
+sealant|NN decay|NN fluoride|NN varnish|NN update|NN
+calcium|NN food|NN milk|NN vegetable|NN Tooth decay|Disease
+decay|NN tooth|NN bind|NN hydroxyapatite|NN crystal|NN enamel|NN mutan|NN cause|NN Tooth decay|Disease
+concentration|NN fluoride|NN ion|NN act|NN agent|NN concentration|NN fluoride|NN ion|NN fluorine|NN enamel|NN form|NN fluoride|NN intake|NN surface|NN teeth|NN fluoride|NN toothpaste|NN mouthwash|NN fluoride|NN varnish|NN standard|NN fluoride|NN toothpaste|NN ppm|NN fluoride|NN toothpaste|NN Tooth decay|Disease fluoride|NN toothpaste|NN rinse|NN spat|NN professional|NN application|NN fluoride|NN solution|NN part|NN routine|NN visit|NN use|NN xylitol|NN calcium|NN phosphate|NN product|NN
+silver|NP fluoride|NN fluoride|NN varnish|NN Tooth decay|Disease fluoride|NN lozenge|NN tablet|NN drop|NN water|NN fluoridation|NN
+fluoride|NN water|NN fluoridation|NN Tooth decay|Disease area|NN form|NN fluoride|NN
+cochrane|NP review|NN evidence|NN take|NN fluoride|NN women|NN decay|NN offspr|NN
+health|NN assessment|NN child|NN age|NN management|NN Tooth decay|Disease
+health|NN assessment|NN history|NN examination|NN risk|NN Tooth decay|Disease child|NN state|NN occlusion|NN parent|NN carer|NN child|NN Tooth decay|Disease order|NN increase|NN cooperation|NN Tooth decay|Disease management|NN communication|NN dentist|NN rest|NN staff|NN practice|NN
+communication|NN child|NN name|NN eye|NN contact|NN conversation|NN treatment|NN
+vaccine|NN development|NN treatment|NN restoration|NN tooth|NN extraction|NN lesion|NN treatment|NN lesion|NN lesion|NN treatment|NN lesion|NN lesion|NN treatment|NN lesion|NN treatment|NN fill|NN defect|NN replacement|NN fill|NN overhang|NN replacement|NN food|NN impaction|NN repair|NN replacement|NN lesion|NN treatment|NN lesion|NN lesion|NN treatment|NN lesion|NN repair|NN replacement|NN tooth|NN amalgam|NN metal|NN restoration|NN surface|NN amalgam|NN material|NN tooth|NN
+lesion|NN dictate|NN management|NN
+assessment|NN lesion|NN
+lesion|NN condition|NN
+change|NN diet|NN reduction|NN frequency|NN sugar|NN hygiene|NN day|NN fluoride|NN toothpaste|NN floss|NN application|NN fluoride|NN
+mutan|NN growth|NN s|NP management|NN lesion|NN drill|NN tooth|NN
+treatment|NN understand|NN motivation|NN individual|NN decay|NN
+lesion|NN restoration|NN treatment|NN
+restoration|NN decay|NN progress|NN fill|NN
+amount|NN decay|NN seal|NN bacteria|NN substrate|NN
+glass|NN container|NN candle|NN oxygen|NN
+technique|NN Tooth decay|Disease removal|NN exposure|NN pulp|NN reduction|NN amount|NN tooth|NN substance|NN removal|NN fill|NN
+enamel|NN fracture|NN
+decision-make|NN process|NN regard|NN activity|NN lesion|NN table|NN
+tooth|NN structure|NN carious|NN lesion|NN hygiene|NN level|NN lesion|NN fluoride|NN
+lesion|NN progression|NN Tooth decay|Disease treatment|NN
+goal|NN treatment|NN tooth|NN structure|NN destruction|NN tooth|NN
+treatment|NN fill|NN carious|NN lesion|NN place|NN damage|NN enamel|NN fill|NN redone|NN site|NN site|NN decay|NN
+treatment|NN treatment|NN decay|NN
+oxide|NN ga|NN prescription|NN medication|NN case|NN pain|NN treatment|NN anxiety|NN treatment|NN handpiece|NN drill|NN portion|NN material|NN tooth|NN
+spoon|NN instrument|NN decay|NN decay|NN reache|NN pulp|NN dentist|NN Tooth decay|Disease laser|NN drill|NN
+cochrane|NP review|NN technique|NN erbium-dop|NN aluminium|NN garnet|NN chromium|NN neodymium-dop|NN aluminium|NN garnet|NN laser|NN people|NN laser|NN drill|NN pain|NN need|NN anaesthesia|NN difference|NN Tooth decay|Disease removal|NN Tooth decay|Disease tooth|NN structure|NN restoration|NN sort|NN tooth|NN function|NN condition|NN
+material|NN amalgam|NN resin|NN porcelain|NN gold|NN resin|NN porcelain|NN color|NN patient|NN teeth|NN aesthetics|NN concern|NN
+restoration|NN amalgam|NN gold|NN dentist|NN restoration|NN area|NN chew|NN force|NN decay|NN tooth|NN structure|NN material|NN tooth|NN
+restoration|NN cap|NN remainder|NN crown|NN tooth|NN
+crown|NN gold|NN porcelain|NN porcelain|NN metal|NN
+children|NN crown|NN place|NN tooth|NN
+metal|NN steel|NN material|NN
+teeth|NN room|NN crown|NN steel|NN crown|NN seal|NN decay|NN tooth|NN
+hall|NN technique|NN work|NN bacteria|NN decay|NN nutrient|NN environment|NN
+method|NN decay|NN children|NN anesthetic|NN injection|NN mouth|NN
+picture|NN tooth|NN Tooth decay|Disease lesion|NN socket|NN tooth|NN tooth|NN Tooth decay|Disease extraction|NN
+case|NN therapy|NN restoration|NN tooth|NN therapy|NN root|NN canal|NN pulp|NN tooth|NN infection|NN bacteria|NN trauma|NN
+root|NN canal|NN therapy|NN pulp|NN tooth|NN nerve|NN tissue|NN portion|NN tooth|NN
+canal|NN file|NN shape|NN material|NN percha|NN tooth|NN crown|NN
+completion|NN root|NN canal|NN therapy|NN tooth|NN tissue|NN
+extraction|NN treatment|NN Tooth decay|Disease
+removal|NN tooth|NN tooth|NN decay|NN process|NN tooth|NN
+tooth|NN tooth|NN problem|NN future|NN case|NN wisdom|NN teeth|NN people|NN expense|NN difficulty|NN tooth|NN
+epidemiology|NN color|NN map|NN Tooth decay|Disease experience|NN world|NN
+life|NN year|NN Tooth decay|Disease inhabitant|NN data|NN 80-90|NN
+people|NN population|NN Tooth decay|Disease teeth|NN baby|NN teeth|NN people|NN population|NN disease|NN country|NN country|NN east|NN south|NP asia|NP china|NP united|NP states|NP Tooth decay|Disease childhood|NN disease|NN time|NN asthma|NN cause|NN tooth|NN loss|NN children|NN adult|NN age|NN experience|NN Tooth decay|Disease
+Tooth decay|Disease cost|NN health-care|NN budget|NN country|NN budget|NN country|NN
+number|NN case|NN country|NN decline|NN hygiene|NN practice|NN measure|NN fluoride|NN treatment|NN country|NN decrease|NN case|NN Tooth decay|Disease disparity|NN distribution|NN disease|NN children|NN united|NP states|NP europe|NP percent|NN population|NN percent|NN case|NN Tooth decay|Disease distribution|NN disease|NN world|NN children|NN Tooth decay|Disease number|NN australia|NP nepal|NP sweden|NP children|NN care|NN government|NN incidence|NN case|NN Tooth decay|Disease children|NN case|NN costa|NP rica|NP slovakia|NP
+classic|NN index|NN method|NN Tooth decay|Disease prevalence|NN treatment|NN need|NN population|NN
+index|NN examination|NN individual|NN probe|NN mirror|NN cotton|NN roll|NN
+index|NN x-ray|NN image|NN Tooth decay|Disease prevalence|NN treatment|NN need|NN
+bacteria|NN Tooth decay|Disease sample|NN female|NN history|NN caption|NN image|NN century|NN dentist|NN tooth|NN forcep|NN
+history|NN Tooth decay|Disease
+year|NN paranthropus|NN Tooth decay|Disease increase|NN prevalence|NN Tooth decay|Disease change|NN evidence|NN Tooth decay|Disease disease|NN date|NN prehistory|NN
+date|NN year|NN period|NN show|NN sign|NN Tooth decay|Disease paleolithic|NN age|NN increase|NN Tooth decay|Disease period|NN consumption|NN plant|NN food|NN carbohydrate|NN begine|NN rice|NN cultivation|NN south|NP asia|NP increase|NN Tooth decay|Disease women|NN evidence|NN site|NN thailand|NP di|NP decrease|NN percentage|NN Tooth decay|Disease increase|NN dependence|NN rice|NN agriculture|NN
+text|NN tooth|NN worm|NN cause|NN Tooth decay|Disease evidence|NN belief|NN india|NP egypt|NP japan|NP china|NP skull|NN show|NN evidence|NN work|NN
+pakistan|NP teeth|NN hole|NN drill|NN eber|NN text|NN disease|NN teeth|NN dynasty|NN assyria|NP bc|NP write|NN king|NN physician|NN need|NN tooth|NN inflammation|NN empire|NN consumption|NN food|NN increase|NN Tooth decay|Disease prevalence|NN civilization|NN addition|NN egyptian|NN treatment|NN pain|NN Tooth decay|Disease
+rate|NN Tooth decay|Disease bronze|NN age|NN iron|NN age|NN age|NN increase|NN Tooth decay|Disease prevalence|NN comparison|NN ad|NN increase|NN sugar|NN cane|NN world|NN
+treatment|NN remedy|NN charm|NN barber|NN surgeon|NN time|NN service|NN tooth|NN extraction|NN train|NN apprenticeship|NN health|NN provider|NN end|NN tooth|NN pain|NN spread|NN infection|NN case|NN
+catholics|NN prayer|NN saint|NP patroness|NN dentistry|NN pain|NN tooth|NN infection|NN
+evidence|NN Tooth decay|Disease increase|NN north|NP indian|NN contact|NN european|NN
+colonization|NN north|NN indian|NN diet|NN reliance|NN maize|NN agriculture|NN group|NN Tooth decay|Disease
+age|NN enlightenment|NN belief|NN tooth|NN worm|NN Tooth decay|Disease community|NN pierre|NP father|NN dentistry|NN idea|NN worm|NN Tooth decay|Disease sugar|NN teeth|NN gingiva|NN increase|NN prevalence|NN Tooth decay|Disease result|NN diet|NN change|NN time|NN Tooth decay|Disease type|NN Tooth decay|Disease availability|NN sugar|NN cane|NN flour|NN bread|NN tea|NN number|NN pit|NN fissure|NN Tooth decay|Disease
+miller|NP series|NN study|NN explanation|NN Tooth decay|Disease theory|NN
+bacteria|NN mouth|NN acid|NN tooth|NN structure|NN presence|NN carbohydrate|NN explanation|NN chemoparasitic|NN Tooth decay|Disease theory|NN miller|NN contribution|NN research|NN plaque|NN gv|NP
+williams|NP foundation|NN explanation|NN etiology|NN Tooth decay|Disease strain|NN lactobacilly|NN fernando|NP e|NP
+rodriguez|NP vargas|NP
+london|NP clarke|NP bacterium|NN chain|NN lesion|NN mutan|NN
+clarke|NP organism|NN cause|NN Tooth decay|Disease discovery|NN
+usa|NP frank|NP hamster|NN Tooth decay|Disease streptococcus|NN debate|NN Tooth decay|Disease bacteria|NN
+streptococcus|NN hamster|NN Tooth decay|Disease s|NP mutans|NP
+Tooth decay|Disease history|NN hominid|NN year|NN human|NN prevalence|NN Tooth decay|Disease century|NN revolution|NN item|NN sugar|NN flour|NN diet|NN work|NN class|NN bread|NN jam|NN tea|NN sugar|NN consumption|NN Tooth decay|Disease
+latin|NN english|NN Tooth decay|Disease form|NN noun|NN decay|NN
+sense|NN verb|NN inflection|NN word|NN decay|NN
+Tooth decay|Disease word|NN hole|NN Tooth decay|Disease form|NN form|NN mean|NN hole|NN cavity|NN
+idea|NN plural|NN reanalysis|NN speaker|NN sense|NN dictionary|NN usage|NN
+hint|NN origin|NN plurale|NN sensethat|NN scissor|NN glass|NN Tooth decay|Disease pluralnot|NN scissor|NN glass|NN cary|NN
+count-noun|NN form|NN cary|NN dictionary|NN
+sense|NN mass|NN singular|NN lesion|NN Tooth decay|Disease count|NN sense|NN
+study|NN Tooth decay|Disease
+society|NN culture|NN
+Tooth decay|Disease result|NN productivity|NN loss|NN size|NN animal|NN article|NN Tooth decay|Disease
+Tooth decay|Disease companion|NN animal|NN

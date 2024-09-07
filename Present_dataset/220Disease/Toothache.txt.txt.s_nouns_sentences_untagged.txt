@@ -1,0 +1,268 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN toothache|ST address|NN toothache|ST hell|NN disease|NN william|NN hole|NN illustration|NN robert|NN burns|NN poem|NN address|NN toothache|ST poem|NN 
+synonym|NN odontogenic|NN 
+toothache|ST toothache|ST pain|ST teeth|NN structure|NN disease|NN pain|ST teeth|NN disease|NN 
+impact|NN sleep|NN eate|NN activity|NN 
+cause|NN inflammation|NN pulp|NN response|NN tooth|NN decay|NN trauma|NN factor|NN hypersensitivity|DS periodontitis|DS inflammation|NN ligament|NN bone|NN root|NN apex|NN abscess|NN collection|NN pus|NN alveolar|NN socket|NN complication|NN tooth|NN extraction|NN gum|NN infection|NN disorder|NN 
+pain|ST time|NN stimulus|NN instance|NN cold|NN pain|ST time|NN stimulus|NN 
+pulpitis|NN progress|NN pulp|NN necrosis|NN death|NN pulp|NN periodontitis|DS 
+abscess|NN pulp|NN necrosis|NN abscess|NN pericoronitis|NN wisdom|NN tooth|NN abscess|NN complication|NN periodontitis|DS gum|NN disease|NN 
+condition|NN toothache|ST sinusitis|NN pain|ST back|NN teeth|NN angina|NN pain|ST teeth|NN 
+hygiene|NN toothache|ST disease|NN 
+treatment|NN toothache|ST cause|NN fill|NN root|NN canal|NN treatment|NN extraction|NN drainage|NN pus|NN action|NN 
+relief|NN toothache|ST responsibility|NN dentist|NN toothache|ST type|NN pain|ST mouth|NN reason|NN emergency|NN appointment|NN 2013|NN case|NN tooth|NN pain|ST result|NN cary|NN teeth|NN case|NN baby|NN teeth|NN demand|NN treatment|NN toothache|ST emergence|NN surgery|NN specialty|NN medicine|NN content|NN 
+cause|NN diagnosis|NN symptom|NN examination|NN investigation|NN diagnose|NN prevention|NN management|NN sequalae|NN abscess|NN antibiotics|NN epidemiology|NN history|NN society|NN culture|NN note|NN reference|NN link|NN 
+toothache|ST condition|NN complex|NN periodontium|NN condition|NN angina|NN 
+non-dental|NN cause|NN majority|NN toothache|ST 
+pulp|NN ligament|NN pain|ST receptor|NN pulp|NN motion|NN position|NN receptor|NN pressure|NN pain|ST complex|NN pain|ST ligament|NN 
+instance|NN ligament|NN pressure|NN grain|NN sand|NN tooth|NN people|NN tooth|NN stimulus|NN location|NN group|NN difference|NN pulpal|NN pain|ST history|NN cary|NN toothache|ST infection|NN 
+majority|NN toothache|ST fall|NN type|NN cause|NN category|NN pain|ST barodontalgia|NN 
+inflammation|NN pulp|NN stimuly|NN insult|NN chemical|NN irritant|NN change|NN cause|NN tooth|NN decay|NN trauma|NN crack|NN fracture|NN fill|NN seal|NN 
+pulp|NN shell|NN space|NN swell|NN inflammation|NN 
+pressure|NN pulp|NN system|NN blood|NN vessel|NN pulp|NN 
+lack|NN oxygen|NN necrosis|NN tissue|NN death|NN 
+pulp|NN state|NN health|NN pulp|NN necrosis|NN 
+pain|ST symptom|NN pulpitis|NN stimulus|NN decay|NN fill|NN layer|NN dentin|NN pulp|NN chamber|NN stimulus|NN 
+pulpitis|NN pain|ST response|NN hypersensitivity|DS 
+hypersensitivity|DS short-last|NN toothache|ST population|NN cold|NN liquid|NN air|NN sweet|NN food|NN beverage|NN teeth|NN sensation|NN trigger|NN hypersensitivity|DS tooth|NN sensation|NN intensity|NN pain|ST 
+lack|NN insulation|NN trigger|NN mouth|NN recession|NN gum|NN root|NN teeth|NN scale|NN root|NN plane|NN bleach|NN result|NN erosion|NN pulp|NN tooth|NN hypersensitivity510|NN 
+treatment|NN hypersensitivity|DS toothpaste|NN varnishe|NN coat|NN dentin|NN surface|NN treatment|NN root|NN cause|NN measure|NN lasting510|NN time|NN pulp|NN layer|NN dentin|NN pulp|NN chamber|NN thickness|NN pulp|NN dentin|NN surface|NN periodontal|NN 
+condition|NN pain|ST 
+inflammation|NN pain|ST abscess|NN root|NN molar|NN 
+inflammation|NN apex|NN tooth|NN response|NN bacteria|NN pulp|NN pulp|NN necrosis|NN mean|NN tooth|NN test|NN periodontitis|DS pulp|NN due|NN non-infectious|NN process|NN trauma|NN cytotoxin|NN region|NN root|NN tooth|NN foramina|NN canal|NN sensitization|NN nerve|NN bone|NN resorption|NN abscess|NN cyst|NN 
+ligament|NN pain|ST tooth|NN 
+x-ray|NN bone|NN area|NN end|NN root|NN periodontitis|DS pain125135|NN process|NN root|NN 
+tooth|NN socket|NN teeth125135|NN food|NN impaction|NN contact|NN mm|NN teeth|NN 
+meat|NN right|NN contact|NN hour|NN person|NN meat|NN teeth|NN 
+food|NN impaction|NN food|NN debris|NN food|NN meat|NN teeth|NN gum|NN chewing125135|NN cause|NN food|NN impaction|NN disruption|NN interproximal|NN contour|NN drift|NN teeth|NN gap|NN contact|NN 
+decay|NN collapse|NN part|NN tooth|NN restoration|NN contact|NN point|NN 
+discomfort|NN pain|ST feel|NN pressure|NN teeth|NN result|NN 
+papilla|NN tender|NN 
+pain|ST eate|NN mealnb|NN tooth|NN pick|NN floss|NN area125135|NN gingival|NN abscess|NN situation444445|NN abscess|NN abscess|NN arrow|NN fracture|NN green|NN arrow|NN 
+abscess|NN abscess|NN collection|NN pus|NN form|NN crevice|NN result|NN periodontitis|DS pocket|NN 3mm|NN 
+gingival|NN pocket|NN bacteria|NN calculus|NN check|NN system|NN 
+pocket|NN balance|NN response|NN result|NN pus|NN 
+debris|NN swell|NN flow|NN fluid|NN pocket|NN cycle|NN 
+pocket|NN likelihood|NN collect|NN food|NN debris|NN source|NN 
+abscess|NN abscess|NN 
+difference|NN pulp|NN tooth|NN pulp|NN test|NN 
+abscess|NN pulp|NN tooth|NN apex|NN lesion|NN 
+abscess|NN result|NN tooth|NN fracture|NN food|NN pack|NN pocket|NN fill|NN calculus|NN build-up|NN response|NN diabete|NN 
+abscess|NN scale|NN gum|NN teeth|NN trap|NN debris|NN toothache|ST abscess|NN 
+mucosa|NN abscess|NN 
+variant|NN abscess|NN abscess|NN margin|NN onset|NN trauma|NN item|NN toothpick|NN toothbrush|NN treatment|NN abscess|NN management|NN abscess|NN general|NN treatment|NN 
+tooth|NN difficulty|NN source|NN infection|NN antibiotics|NN conjunction|NN scale|NN root|NN occurrence|NN abscess|NN disease|NN management|NN abscess|NN clean|NN gumline|NN buildup|NN plaque|NN calculus|NN 
+presentation|NN anug|NN gum|NN front|NN teeth|NN 
+gingivitis|DS response|NN plaque|NN condition|NN 
+form|NN gingivitisperiodontitis|NN gingivitis|DS 
+pain|ST gum|NN ulceration|NN loss|NN papillae|NN halitosis|ST breath|NN taste|NN 
+factor|NN hygiene|NN smoke|NN malnutrition|NN stress|NN condition|NN case|NN population|NN risk|NN factor|NN student|NN dormitory|NN period|NN examination|NN anug|NN visit|NN debridement|NN gingiva|NN hydrogen|NN peroxide|NN mouthwash|NN analgesics|NN pain|ST gumline|NN home|NN 
+antibiotics|NN management|NN disease437438|NN xray|NN correlation|NN shot|NN pericoronitis|NN operculum|NN green|NN arrow|NN molar|NN tooth|NN 
+inflammation|NN xray|NN pericoronitis|NN radiograph|NN tooth|NN operculum|NN arrow|NN bone|NN destruction|NN arrow|NN inflammation|NN 
+inflammation|NN tissue|NN crown|NN tooth|NN wisdom|NN tooth|NN tooth|NN mouth|NN teeth|NN 
+tooth|NN mouth|NN flap|NN gum|NN operculum|NN tooth|NN 
+bacteria|NN food|NN debris|NN operculum|NN area|NN back|NN mouth|NN 
+wisdom|NN tooth|NN cusp|NN over-erupt|NN tooth|NN bite|NN operculum|NN 
+cary|NN molar|NN inflammation|NN tissue|NN 
+pericoronitis|NN pain|ST pericoronitis|NN episode|NN abscess|NN formation|NN 
+sign|NN symptom|NN abscess|NN pain|ST area|NN head|NN redness|NN swell|NN tenderness|NN gum|NN tooth220222|NN difficulty|NN swell|NN flush|NN cheek|NN angle|NN person|NN teen|NN 20s6|NN age|NN wisdom|NN teeth|NN 
+treatment|NN condition|NN area|NN operculum|NN solution|NN painkiller|NN antibiotics|NN 
+episode|NN treatment|NN tooth|NN extraction|NN tissue|NN 
+tooth|NN hygiene|NN area|NN debris|NN recurrence|NN infection440441|NN trauma|NN 
+trauma|NN result|NN force|NN teeth|NN ligament|NN pain|ST increase|NN tooth|NN mobility|NN 
+trauma|NN clench|NN grind|NN teeth|NN sleep|NN 
+time|NN attrition|NN tooth|NN wear|NN hypersensitivity|DS formation|NN abscess|NN trauma|NN change|NN bone153154|NN 
+trauma|NN restoration|NN force|NN tooth|NN 
+height|NN difference|NN millimeter|NN pain|ST 
+dentist|NN restoration|NN harmony|NN bite|NN force|NN teeth|NN paper|NN 
+spot|NN pain|ST harm153753|NN over-tighten|NN brace|NN pain|ST abscess503|NN 
+complication|NN tooth|NN extraction|NN wisdom|NN teeth|NN blood|NN clot|NN socket|NN tooth|NN bone|NN mouth|NN pain|ST character|NN 
+pain|ST socket|NN 
+day|NN extraction|NN heal|NN dress|NN evidence|NN mouthwash|NN extraction|NN trauma|NN tooth|NN syndrome|NN fracture|NN pulp|NN involvement|NN 
+tooth|NN syndrome|NN set|NN symptom|NN tooth|NN fracture|NN pain|ST release|NN pressure|NN pressure|NN tooth24|NN term|NN disfavor|NN way|NN description|NN fracture|NN crack|NN tooth|NN variation|NN sign|NN symptom|NN prognosis|NN teeth|NN 
+fracture|NN tooth|NN enamel|NN pulp|NN teeth|NN pain|ST mechanism|NN hypersensitivity|DS pain|ST 
+test|NN combination|NN symptom|NN fracture|NN crack|NN pain|ST separation|NN cusp|NN tooth|NN fracture|NN crack|NN radiograph|NN fracture|NN plane|NN film|NN split|NN pane|NN glass|NN 
+toothache|ST result|NN trauma|NN pulpal|NN diagnosis|NN treatment|NN prognosis|NN extent|NN damage|NN tooth|NN stage|NN development|NN tooth|NN degree|NN displacement|NN tooth|NN time|NN socket|NN start|NN health|NN tooth|NN bone|NN 
+variation|NN treatment|NN prognosis|NN dentist|NN trauma|NN guide|NN prognosis|NN treatment|NN decision|NN 
+prognosis|NN tooth|NN extent|NN fracture|NN 
+crack|NN pulp|NN pulp|NN chamber|NN restoration|NN crown|NN resin|NN 
+fracture|NN pulp|NN chamber|NN root|NN prognosis|NN tooth|NN lesion|NN 
+abscess|NN pocket|NN tooth|NN pocket|NN pulp|NN necrosis|NN canal|NN foramen|NN bottom|NN tooth|NN 
+lesion|NN lesion|NN share|NN sign|NN symptom|NN abscess|NN pain|ST pain|ST root|NN canal|NN therapy|NN treatment|NN prognosis|NN lesion|NN 
+artery|NN disease|NN neck|NN jaw|NN teeth|NN pain|ST 
+cause|NN toothache|ST cause|NN 
+toothache|ST origin|NN pain|ST teeth|NN conjunction|NN migraine|DS 
+structure|NN ear|NN brain|NN artery|NN heart|NN pain|ST non-dental|NN cause|NN toothache|ST pain|ST muscle|NN pain|ST angina|NN pain|ST jaw|NN 
+disorder|NN sinus|NN back|NN teeth|NN 
+middle|NN nerve|NN line|NN sinus|NN 
+bone|NN floor|NN sinus|NN root|NN back|NN teeth|NN apice|NN teeth|NN contour|NN sinus|NN floor|NN 
+sinusitis|NN toothache|ST neoplasm|NN sinus|NN carcinoma390|NN toothache|ST invasion|NN nerve|NN pain|ST increase|NN maneuver|NN head|NN 
+condition|NN teeth|NN structure|NN mucosa|NN gum|NN individual|NN toothache|ST 
+example|NN gingival|NN mucosa|NN cell|NN condition|NN cause|NN gingivitis|DS 
+condition|NN bone|NN cause|NN toothache|ST infarct|NN jaw|NN sickle|NN cell|NN condition|NN nerve|NN toothache|ST division487|NN neuralgia|NN cluster_headache|DS trigeminal|NN brain|NN tumor|NN toothache|ST pain|ST syndrome|NN toothache|ST disorder|NN pain-dysfunction|NN syndrome|NN 
+toothache|ST cause|NN odontalgia|NN turn|NN type|NN pain|ST pain|ST symptom|NN pain|ST tooth|NN boundary|NN teeth|NN teeth|NN 
+diagnosis|NN toothache|ST question|NN site|NN nature|NN aggravate|NN factor|NN referral|NN pain|ST cause|NN 
+treatment|NN toothache|ST treatment|NN cause|NN pain|ST toothache|ST dentist|NN source|NN pain|ST patient|NN care|NN 
+nondental|NN source|NN radiation|NN angina|NN teeth|NN need|NN care68|NN crown|NN root|NN enamel|NN tubule|NN pulp|NN chamber|NN blood|NN vessel|NN nerve|NN root|NN canal|NN ligament|NN apex|NN region|NN bone|NN 
+division|NN nerve|NN division|NN nerve|NN nerve|NN plexus|NN nerve|NN plexus|NN run|NN body|NN mandible|NN 
+process|NN capillary|NN fibroblast|NN nerve|NN zone|NN zone|NN pulp|NN chamber|NN 
+tooth|NN shell|NN tissue|NN enamel|NN tissue|NN core|NN pulp|NN system|NN nerve|NN blood|NN vessel|NN 
+part|NN teeth|NN mouth|NN crown|NN enamel|NN bone|NN root|NN 
+cementum|NN enamel|NN layer|NN form|NN bulk|NN tooth|NN pulp|NN system|NN 
+part|NN pulp|NN crown|NN pulp|NN chamber|NN tissue|NN nutrient|NN canal|NN root|NN root|NN canal|NN hole|NN root|NN end|NN foramenforamina|NN 
+ligament|NN root|NN socket|NN 
+gingiva|NN process|NN arche|NN jaws15|NN 
+tissue|NN blood|NN vessel|NN nerve|NN live|NN cell|NN process|NN enamel|NN cavity|NN crack|NN tube|NN fluid|NN process|NN cell|NN pulp|NN 
+stimuly|NN cause|NN movement|NN fluid|NN nerve|NN pulp|NN theory|NN pulp|NN sensitivity|NN relationship|NN dentin|NN pulp|NN complex118|NN 
+teeth|NN gum|NN sensation|NN health|NN 
+sensation|NN stimulus|NN spectrum|NN sensation|NN pain|ST disease|NN pain|ST sensation|NN event|NN 
+toothache|ST nerve|NN source|NN instance|NN toxin|NN chemical|NN trauma|NN factor|NN 
+pain|ST pathway|NN myelinate|NN 
+pain|ST c|NN nerve|NN pain|ST nerve|NN sensation|NN teeth|NN gum|NN division|NN branche|NN pain|ST stimuly|NN 
+exposure|NN fire|NN threshold|NN nerve|NN stimuly|NN trigger|NN pain|ST 
+insult|NN stimuly|NN discharge|ST nerve|NN pain|ST 
+pain|ST fire|NN threshold|NN stimulus|NN 
+component|NN pain|ST cord|NN cortex|NN 
+pain|ST perception|NN system|NN component|NN individual|NN response|NN stimuly|NN diagnosis|NN 
+diagnosis|NN toothache|ST list|NN cause|NN toothache|ST pain|ST teeth|NN 
+toothache|ST pain|ST syndrome|NN majority|NN toothache|ST say|NN horse|NN zebra|NN diagnosis|NN pain|ST 
+cause|NN cause|NN infarction|NN 
+context|NN pain|ST case|NN pain|ST origin|NN otherwise975|NN approach|NN toothache|ST sequence|NN history|NN examination|NN investigation|NN 
+information|NN picture|NN diagnosis|NN 
+complaint|NN onset|NN complaint|NN diagnosis|NN toothache|ST 
+example|NN distinction|NN pulpitis|NN history|NN pain|ST stimulus|NN pain|ST stimulus|NN pain|ST 
+history|NN fill|NN treatment|NN trauma|NN teeth|NN 
+cause|NN toothache|ST hypersensitivity|DS indicator|NN localization|NN pain|ST pain|ST tooth|NN sensitivity|NN pain|ST spontaneity|NN pain|ST factor|NN pain|ST quality|NN toothache|ST effect|NN chew|NN pain|ST effect|NN stimuly|NN effect|NN pain|ST sleep|NN clinician|NN fashion|NN socrates|NN pain|ST assessment|NN method|NN 
+history|NN indicator|NN combination|NN cause|NN 
+pain|ST tooth|NN tooth|NN onset|NN pain|ST 
+factor|NN toothache|ST 
+example|NN abscess|NN periodontitis|DS pain|ST 
+tooth|NN syndrome|NN combination|NN symptom|NN 
+periodontitis|DS sensitivity|NN cause|NN tooth|NN 
+source|NN pain|ST teeth|NN epicenter|NN jaw|NN 
+instance|NN pain|ST bottom|NN teeth|NN chest|NN neck|NN sinusitis|NN back|NN top|NN teeth|NN hurt|NN bend|NN condition|NN toothache|ST treatment|NN fill|NN root|NN canal|NN treatment|NN tooth|NN extraction|NN dentist|NN attempt|NN individual|NN pain|ST result|NN diagnosis|NN 
+hallmark|NN cause|NN sign|NN symptom|NN body|NN 
+migraine|DS year|NN diagnosis|NN 
+character|NN pain|ST differentiator|NN toothache|ST 
+pulpitis|NN pulp|NN necrosis|NN nerve|NN period|NN pain|ST pulpitis|NN 
+pulpitis|NN progress|NN periodontitis|DS abscess|NN treatment|NN 
+pulpitis|NN abscess|NN character|NN toothache|ST period|NN 
+instance|NN pain|ST tooth|NN 
+drink|NN tooth|NN gase|NN water|NN examination|NN 
+examination|NN source|NN tooth|NN teeth|NN cause|NN 
+examination|NN move|NN outside|NN general|NN 
+mouth|NN sinuse|NN muscle|NN face|NN neck|NN joint|NN lymph|NN node|NN pain|ST swelling9|NN mouth|NN tissue|NN mucosa|NN tongue|NN pharynx|NN redness|NN swell|NN deformity|ST 
+tooth|NN palpate|NN base|NN root|NN explorer|NN cary|NN probe|NN 
+symptom|NN history|NN point|NN examiner|NN area|NN mouth|NN 
+instance|NN people|NN pain|ST pulpitis|NN tooth|NN pain|ST teeth|NN versa|NN 
+instance|NN examination|NN find|NN lead|NN diagnosis|NN treatment|NN 
+abscess|NN molar|NN submucosal|NN plane|NN discharge|ST parulis|NN root|NN teeth|NN front|NN mouth|NN abscess|NN 
+example|NN decay|NN tooth|NN root|NN view|NN gumline|NN appearance|NN sound|NN tooth|NN examination|NN 
+factor|NN infection|NN movement|NN fluid|NN tissue|NN lymph|NN node|NN neck|NN fever|ST temperature|NN c|NN 
+citation|NN investigation|NN 
+tooth|NN history|NN pain|ST base|NN exam|NN source|NN toothache|ST test|NN vitality|NN pulp|NN infection|NN fracture|NN periodontitis|DS 
+sensitivity|NN test|NN cotton|NN wool|NN ethyl|NN chloride|NN stimulus|NN pulp|NN tester|NN 
+air|NN spray|NN syringe|NN area|NN hypersensitivity|DS 
+heat|NN test|NN gutta-percha|NN 
+tooth|NN pain|ST stimulus|NN 
+accuracy|NN test|NN test|NN pulp|NN test|NN heat|NN test|NN 
+lack|NN test|NN sensitivity|NN symptom|NN test|NN diagnosis|NN 
+cary|NN bone|NN loss|NN apex|NN 
+assessment|NN teeth|NN problem|NN cusp|NN cusp|NN syndrome|NN 
+test|NN congestion|NN sinus|NN crack|NN tooth|NN dye|NN crack|NN test|NN cavity|NN anaesthesia|NN laser|NN doppler|NN 
+sensibility|NN test|NN ethyl|NN chloride|NN stimulus|NN 
+pulp|NN tester|NN 
+plastic|NN wedge|NN pain|ST tooth|NN 
+decay|NN green|NN abscess|NN blue|NN 
+point|NN abscess|NN origin|NN 
+diagnose|NN hypersensitivity36|NN irreversible|NN necrosis37|NN abscess|NN pain|ST site|NN pain|ST tooth|NN muscle|NN back|NN teeth|NN top|NN jaw|NN variable|NN pain|ST pulpitis|NN pain|ST day|NN week|NN pain|ST tooth|NN episode|NN sensitivity|NN week|NN month|NN character|NN sharp|NN shoot|NN pain|ST 
+pain|ST pain|ST pain|ST sensitivity|NN back|NN top|NN teeth|NN radiation|NN midline|NN midline|NN midline|NN midline|NN sinus|NN area|NN symptom|NN patient|NN gum|NN toothbrush|NN abrasion|ST cavity|NN work|NN trauma|NN period|NN pain|ST period|NN pain|ST tooth|NN socket|NN follow|NN report|NN gum|NN tooth|NN eruption|NN cute|NN tooth|NN tension|NN headache|ST neck|NN pain|ST period|NN stress|NN episode|NN mouth|NN period|NN symptom|NN time|NN pattern|NN stimulus|NN weather|NN pain|ST stimulus|NN pain|ST pain|ST absence|NN pain|ST day|NN week|NN pain|ST pain|ST pain|ST development|NN ache|NN increase|NN pain|ST tooth|NN sensitivity|NN ache|NN stimulus|NN worse|NN eate|NN chew|NN movement|NN jaw|NN head|NN factor|NN analgesics|NN effect|NN heat|NN pain|ST pulpitis|NN response|NN pain|ST pain|ST tap|NN tooth|NN cleanse|NN area|NN pain|ST cleanse|NN area|NN pain|ST rest|NN ice|NN pain|ST movement|NN chew|NN head|NN movement|NN make|NN pain|ST period|NN pain|ST tissue|NN effect|NN sleep|NN sleep|NN sleep|NN variable|NN sleep|NN 
+tooth|NN tooth|NN prevention|NN 
+toothache|ST result|NN disease|NN tooth|NN decay|NN disease|NN majority|NN case|NN avoidance|NN diet|NN maintenance|NN hygiene|NN 
+reduction|NN number|NN sugar|NN day|NN teeth|NN day|NN fluoride|NN toothpaste|NN floss|NN 
+visit|NN dentist|NN likelihood|NN problem|NN toothache|ST 
+trauma|NN routine|NN use|NN mouthguard|NN contact|NN sport|NN management|NN root|NN canal|NN treatment|NN arrow|NN right|NN molar|NN restoration|NN place|NN incision|NN abscess|NN tooth|NN insertion|NN drain|NN infection|NN space|NN 
+deformation|NN cheek|NN day|NN 
+deformation|NN day|NN 
+emergency|NN treatment|NN 
+cause|NN toothache|ST diagnosis|NN specialist|NN topic|NN mean|NN attendance|NN dentist|NN 
+case|NN toothache|ST nature|NN counter|NN drug|NN nsaids|NN ulcer|NN 
+nsaids|NN aspirin|NN combination|NN analgesics|NN effect|NN cause|NN toothache|ST pain|ST individual|NN dose|NN 
+example|NN paracetamol|NN toothache|ST overdose|NN people|NN reason|NN risk|NN person|NN toothache|ST burn|NN mucosa|NN substance|NN aspirin|NN tablet|NN toothache|ST remedy|NN clove|NN oil|NN gum|NN logic|NN tablet|NN tooth|NN aspirin|NN tablet|NN effect|NN 
+toothache|ST remedy|NN application|NN tooth|NN contact|NN tissue|NN mouth|NN 
+dentist|NN goal|NN treatment|NN pain|ST function|NN 
+treatment|NN cause|NN toothache|ST decision|NN state|NN prognosis|NN tooth|NN individual|NN wishe|NN ability|NN treatment|NN treatment|NN choice|NN 
+administration|NN anesthetic|NN epinephrine|NN order|NN treatment|NN 
+treatment|NN advice|NN removal|NN decay|NN drill|NN placement|NN fill|NN root|NN canal|NN treatment|NN tooth|NN extraction|NN debridement|NN 
+distinction|NN regard|NN treatment|NN inflammation|NN 
+treatment|NN pulpitis|NN factor|NN 
+decay|NN dress|NN pulp|NN state|NN base|NN fill|NN fill|NN period|NN tooth|NN 
+pulpitis|NN pulp|NN necrosis|NN periodontitis|DS treatment|NN root|NN canal|NN therapy|NN tooth|NN extraction|NN pulp|NN act|NN nidus|NN infection|NN infection|NN 
+difference|NN outcome|NN root|NN canal|NN treatment|NN appointment|NN field|NN endodontics|NN way|NN pulp|NN chamber|NN tissue|NN regrow|NN pulp|NN structure|NN 
+children|NN tooth|NN root|NN root|NN canal|NN treatment|NN success|NN 
+concept|NN tooth|NN tooth|NN pulpitis|NN decay|NN trauma|NN point|NN tooth|NN term|NN 
+citation|NN abscess|NN 
+principle|NN abscess|NN pus|NN iby|NN pus|NN drain|NN case|NN collection|NN pus|NN tissue|NN abscess|NN abscess|NN abscess|NN 
+pus|NN abscess|NN pressure|NN tissue|NN 
+sensation|NN throb|NN time|NN pulse|NN pain|ST 
+tooth|NN drill|NN pulp|NN chamber|NN access|NN cavity|NN 
+treatment|NN drainage|NN 
+drainage|NN tooth|NN socket|NN tooth|NN 
+measure|NN incision|NN drainage|NN incision|NN tissue|NN abscess|NN point|NN 
+instrument|NN pair|NN tweezer|NN incision|NN abscess|NN pus|NN 
+reduction|NN pain|ST pus|NN drain|NN pressure|NN 
+pus|NN drain|NN mouth|NN taste|NN 
+citation|NN antibiotics|NN 
+antibiotics|NN emergency|NN problem|NN sample|NN culture|NN sensitivity|NN practice|NN antibiotics|NN amoxicillin|NN course|NN day|NN antibiotics|NN fix|NN dentist|NN time|NN emergency|NN patient|NN treatment|NN tooth|NN extraction|NN 
+antibiotics|NN infection|NN need|NN treatment|NN length|NN time|NN 
+antibiotic|NN prescription|NN dentist|NN factor|NN antibiotic|NN resistance|NN condition|NN risk|NN benefit|NN pulpitisnee|NN update|NN socket303|NN reality|NN antibiotics|NN measure|NN incision|NN drainage|NN removal|NN cause|NN infection|NN tooth|NN pulp|NN benefit|NN abscess|NN drainage|NN antibiotics|NN 
+antibiotics|NN measure|NN immediately303|NN role|NN antibiotics|NN infection|NN measure|NN 
+trismus|ST muscle|NN mastication|NN infection|NN treatment|NN 
+individual|NN infection|NN antibiotics|NN evidence|NN involvement|NN fever|ST lymphadenopathy|ST malaise|ST antibiotic|NN therapy|NN infection|NN pericoronitis303232|NN difficulty|NN swallow|NN sign|NN airway|NN difficulty|NN breath|NN 
+angina|NN sinus|NN thrombosis|NN complication|NN infection|NN 
+infection|NN hospital|NN 
+toothache|ST routine|NN dentistry|NN 
+case|NN toothache|ST symptom|NN condition|NN neck|NN infection|NN compression|NN airway|NN spread|NN infection|NN heart_attack|DS 
+cary|NN history|NN pulp|NN tooth|NN 
+pulpitis|NN transition|NN pulpitis|NN necrosis|NN necrosis|NN periodontitis|DS necrosis|NN abscess|NN 
+removal|NN cavity|NN placement|NN dress|NN part|NN cavity|NN pulp|NN chamber|NN 
+pulpitis|NN pulp|NN necrosis|NN root|NN canal|NN therapy|NN extraction|NN 
+infection|NN tissue|NN treatment|NN pulp|NN cyst|NN 
+success|NN rate|NN treatment|NN sedative|NN dress|NN pulpitis|NN extent|NN disease|NN factor|NN agent|NN dam|NN 
+success|NN rate|NN root|NN canal|NN treatment|NN degree|NN disease|NN root|NN canal|NN therapy|NN pulpitis|NN success|NN rate|NN necrosis|NN abscess|NN factors7782|NN epidemiology|NN 
+united|NN states|NN people|NN toothache|ST point|NN month|NN individual|NN rate|NN toothache|ST survey|NN schoolchildren|NN toothache|ST age|NN age|NN trauma|NN children|NN adult|NN 
+toothache|ST age|NN gender|NN region|NN 
+toothache|ST responsibility|NN dentist|NN reason|NN people|NN emergency|NN treatment|NN cary|NN pulpitis|NN cause|NN toothache|ST population|NN risk|NN cary|NN 
+prevalence|NN cary|NN population|NN factor|NN diet|NN sugar|NN status|NN exposure|NN fluoride|NN area|NN water|NN history|NN society|NN culture|NN saint|NN patron|NN saint|NN toothache|ST teeth|NN pair|NN forcep|NN nuremberg|NN chronicle|NN hartmann|NN advertisement|NN offer|NN cure|NN toothache|ST cocaine|NN toothache|ST cocaine|NN anesthetic|NN side|NN effect|NN use|NN health|NN care|NN 
+monk|NN toothache|ST mirror|NN paint|NN carl|NN bloch|NN 
+mention|NN tooth|NN decay|NN toothache|ST clay|NN tablet|NN legend|NN worm|NN 
+cuneiform|NN euphrates|NN valley|NN date|NN belief|NN tooth|NN decay|NN toothache|ST tooth|NN worm|NN india|NN egypt|NN japan|NN china|NN age|NN enlightenment|NN 
+toothache|ST problem4852|NN people|NN decay|NN lack|NN sugar|NN diet|NN 
+hand|NN diet|NN tooth|NN wear|NN example|NN hypothese|NN egyptian|NN lot|NN tooth|NN desert|NN sand|NN wind|NN mix|NN dough|NN bread|NN egyptian|NN amulet|NN toothache|ST papyrus|NN bc|NN detail|NN recipe|NN gnaw|NN blood|NN tooth|NN fruit|NN plant|NN onion|NN cake|NN dough|NN 
+archigenes|NN apamea|NN use|NN mouthwash|NN gallnut|NN hallicacabum|NN vinegar|NN mixture|NN earthworm|NN ointment|NN spider|NN pliny|NN toothache|ST sufferer|NN frog|NN pain|ST moonlight|NN 
+claudius|NN physician|NN fumigations|NN seed|NN hyoscyamus|NN charcoal|NN rinse|NN mouth|NN water|NN way|NN worm|NN 
+christianity|NN saint|NN apollonia|NN patron|NN saint|NN toothache|ST problem|NN 
+martyr|NN belief|NN alexandria|NN age|NN 
+mob|NN face|NN teeth|NN 
+christianity|NN fire|NN 
+toothache|ST sufferer|NN name|NN relief|NN 
+century|NN andrew|NN boorde|NN technique|NN teeth|NN toothache|ST worm|NN candle|NN wax|NN seed|NN light|NN perfume|NN candle|NN tooth|NN gape|NN dish|NN water|NN worm|NN water|NN nail|NN 
+albucasis|NN abu|NN ibn|NN cautery|NN toothache|ST needle|NN pulp|NN tooth4852|NN surgeon|NN guy|NN de|NN chauliac|NN camphor|NN myrrh|NN mixture|NN teeth|NN cure|NN toothache|ST anatomist|NN par|NN toothache|ST pain|ST man|NN death|NN 
+erosion|NN decay|NN effect|NN humour|NN 
+recourse|NN cauterization|NN mean|NN burn|NN nerve|NN feel|NN pain|ST 
+era|NN toothache|ST ailment|NN lover|NN massinger|NN play|NN 
+toothache|ST number|NN william|NN shakespeares|NN othello|NN cymbeline|NN 
+ado|NN act|NN scene|NN companion|NN character|NN toothache|ST truth|NN love|NN 
+reference|NN cause|NN toothache|ST tooth|NN extraction|NN cure|NN 
+act|NN scene|NN character|NN remark|NN philosopher|NN toothache|ST 
+parlance|NN observation|NN philosopher|NN pain|ST suffer|NN misfortune|NN effect|NN character|NN friend|NN platitude|NN 
+poet|NN robert|NN burns|NN address|NN toothache|ST 
+poem|NN severity|NN toothache|ST hell|NN disease|NN hell|NN disease|NN 
+number|NN plant|NN tree|NN toothache|ST name|NN 
+ash|NN americanum|NN toothache|ST tree|NN bark|NN toothache|ST bark|NN americanum|NN toothache|ST grass|NN oleracea|NN toothache|ST plant|NN 
+pyrethrum|NN toothache|ST 
+kathmandu|NN nepal|NN shrine|NN vaishya|NN dev|NN god|NN toothache|ST 
+shrine|NN part|NN tree|NN sufferer|NN toothache|ST nail|NN rupee|NN coin|NN order|NN god|NN pain|ST 
+lump|NN wood|NN toothache|ST tree|NN tree|NN 
+street|NN tooth|NN work|NN dentist|NN advertisement|NN neededpage|NN 
+phrase|NN toothache|ST bone|NN pain|ST type|NN neuropathy1342|NN note|NN 
+pattern|NN pain|ST meal|NN time|NN syndrome|NN gland|NN disease|NN 

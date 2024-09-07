@@ -1,0 +1,118 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN milk|NN allergy|NN 
+lactose|NN intolerance|NN name|NN lactose|NN intolerance|NN lactose|NN intolerance|NN lactose|NN intolerance|NN lactose|NN sugar|NN symptom|NN pain|ST bloat|NN ga|NN nausea|ST complication|NN damage|NN gi|NN tract|NN onset|NN min|NN dairy|NN product|NN cause|NN ability|NN lactose|NN intestine|NN injury|NN method|NN symptom|NN lactose|NN diagnosis|NN bowel|NN syndrome|NN disease|NN bowel|NN disease|NN milk|NN allergy|NN treatment|NN lactose|NN diet|NN supplement|NN cause|NN frequency|NN northern|NN europe|NN part|NN asia|NN africa|NN 
+lactose|NN intolerance|NN condition|NN people|NN symptom|NN ability|NN lactose|NN sugar|NN dairy|NN product|NN amount|NN lactose|NN symptom|NN symptom|NN pain|ST bloat|NN ga|NN nausea|ST symptom|NN minute|NN hour|NN eate|NN drink|NN food|NN amount|NN person|NN drink|NN lactose|NN intolerance|NN damage|NN tract|NN 
+lactose|NN intolerance|NN lack|NN enzyme|NN intestine|NN lactose|NN glucose|NN galactose|NN type|NN lactose|NN intolerance|NN amount|NN decline|NN people|NN age|NN lactose|NN intolerance|NN injury|NN intestine|NN infection|NN disease|NN bowel|NN disease|NN disease|NN lactose|NN intolerance|NN baby|NN period|NN time|NN lactose|NN intolerance|NN disorder|NN lactase|NN birth|NN 
+diagnosis|NN symptom|NN lactose|NN diet|NN test|NN hydrogen|NN breath|NN test|NN stool|NN acidity|NN test|NN condition|NN symptom|NN bowel|NN syndrome|NN disease|NN bowel|NN disease|NN lactose|NN intolerance|NN milk|NN allergy|NN management|NN amount|NN lactose|NN diet|NN supplement|NN disease|NN people|NN cup|NN milk|NN symptom|NN amount|NN meal|NN day|NN 
+number|NN adult|NN lactose|NN intolerance|NN estimate|NN average|NN population|NN rate|NN lactose|NN intolerance|NN region|NN northern|NN europe|NN part|NN asia|NN africa|NN onset|NN childhood|NN adulthood|NN ability|NN lactose|NN adulthood|NN population|NN adaptation|NN domestication|NN dairy|NN animal|NN year|NN content|NN 
+terminology|NN sign|NN symptom|NN cause|NN lactose|NN intolerance|NN secondary|NN lactose|NN intolerance|NN lactose|NN intolerance|NN diagnosis|NN hydrogen|NN breath|NN test|NN blood|NN test|NN stool|NN acidity|NN test|NN biopsy|NN stool|NN sugar|NN chromatography|NN management|NN avoidance|NN milk|NN substitute|NN supplement|NN dairy|NN product|NN epidemiology|NN history|NN history|NN research|NN animal|NN reference|NN link|NN 
+lactose|NN intolerance|NN syndrome|NN symptom|NN consumption|NN food|NN substance|NN lactose|NN 
+individual|NN lactose|NN degree|NN severity|NN symptom|NN 
+malabsorption|NN concomitant|NN lactose|NN intolerance|NN body|NN capacity|NN amount|NN lactose|NN lactose|NN intolerance|NN lactose|NN intolerance|NN lactose|NN intolerance|NN lack|NN lactase|NN defect|NN 
+lactose|NN intolerance|NN allergy|NN response|NN sensitivity|NN dairy|NN lactose|NN intolerance|NN 
+milk|NN allergy|NN population|NN condition|NN symptom|NN presence|NN milk|NN protein|NN reaction|NN sign|NN symptom|NN 
+symptom|NN lactose|NN intolerance|NN reaction|NN product|NN lactose|NN milk|NN bloat|NN cramp|DS flatulence|ST nausea|ST adolescent|NN 
+hour|NN consumption|NN severity|NN symptom|NN amount|NN lactose|NN people|NN level|NN lactose|NN diet|NN effect|NN cause|NN 
+lactose|NN intolerance|NN consequence|NN lactose|NN intolerance|NN lactose|NN intolerance|NN lactose|NN intolerance|NN hypo|NN lactose|NN intolerance|NN 
+case|NN symptom|NN level|NN lactase|NN line|NN duodenum|NN 
+molecule|NN milk|NN dairy|NN product|NN wall|NN intestine|NN bloodstream|NN absence|NN lactase|NN coloncitation|NN 
+bacteria|NN colon|NN lactose|NN fermentation|NN amount|NN ga|NN mixture|NN hydrogen|NN carbon|NN dioxide|NN methane|NN symptom|NN 
+sugar|NN fermentation|NN product|NN pressure|NN colon|NN flow|NN water|NN bowel|NN 
+gene|NN instruction|NN 
+dna|NN sequence|NN gene|NN control|NN gene|NN year|NN human|NN mutation|NN gene|NN gene|NN breast|NN feed|NN population|NN lactose|NN lack|NN mutation|NN 
+lct|NN mcm6|NN gene|NN arm|NN chromosome|NN region|NN 
+locus|NN 2q21|NN lactose|NN intolerance|NN heritage|NN 
+american|NN american|NN american|NN american|NN analysis|NN dna|NN skeleton|NN europe|NN russia|NN mutation|NN lactose|NN tolerance|NN year|NN population|NN 
+population|NN persistence|NN production|NN adulthood|NN response|NN benefit|NN milk|NN farm|NN animal|NN link|NN intolerance|NN selection|NN individual|NN response|NN production|NN culture|NN dairy|NN product|NN food|NN source|NN population|NN europe|NN india|NN arabia|NN africa|NN rate|NN persistence|NN mutation|NN persistence|NN number|NN mutation|NN allele|NN persistence|NN time|NN east|NN population|NN persistence|NN tanzania|NN beja|NN population|NN sudan|NN 
+accumulation|NN factor|NN dna|NN methylation|NN lct|NN gene|NN onset|NN lactose|NN intolerance|NN adult|NN 
+lactose|NN intolerance|NN cause|NN lactose|NN intolerance|NN 
+lactose|NN intolerance|NN lactose|NN intolerance|NN adult|NN absence|NN persistence|NN allele|NN 
+individual|NN persistence|NN allele|NN body|NN time|NN lactose|NN intolerance|NN adulthood|NN frequency|NN persistence|NN lactose|NN tolerance|NN prevalence|NN northwestern|NN europe|NN europe|NN east|NN asia|NN africa|NN population|NN africa|NN lactose|NN intolerance|NN 
+lactose|NN intolerance|NN lactose|NN intolerance|NN lactose|NN intolerance|NN lactose|NN intolerance|NN injury|NN intestine|NN 
+form|NN lactose|NN intolerance|NN infant|NN adult|NN gastroenteritis|DS disease|NN disease|NN colitis|DS chemotherapy|NN parasite|NN cause|NN lactose|NN intolerance|NN 
+lactose|NN intolerance|NN lactose|NN intolerance|NN enzyme|NN defect|NN expression|NN birth|NN people|NN lactose|NN intolerance|NN digest|NN lactose|NN birth|NN digest|NN breast|NN milk|NN 
+defect|NN lack|NN lactose|NN intolerance|NN 
+case|NN finland|NN century|NN baby|NN lactose|NN intolerance|NN death|NN rate|NN infant|NN formula|NN lactose-free|NN dairy|NN product|NN diagnosis|NN 
+section|NN reference|NN verification|NN source|NN 
+content|NN section|NN reference|NN 
+april|NN 2016|NN 
+lactose|NN intolerance|NN function|NN dairy|NN product|NN 
+symptom|NN minute|NN hour|NN food|NN activity|NN variability|NN response|NN symptom|NN nausea|ST cramp|DS bloat|NN flatulence|ST extent|NN severity|NN lactose|NN intolerance|NN individual|NN 
+step|NN lactose|NN intolerance|NN disease|NN lactose|NN intolerance|NN physician|NN presence|NN disease|NN crohn|NN disease|NN lactose|NN intolerance|NN gastroenteritis|DS 
+lactose|NN intolerance|NN milk|NN allergy|NN response|NN cow|NN milk|NN protein|NN 
+diagnosis|NN milk|NN symptom|NN case|NN lactose|NN intolerance|NN reaction|NN milk|NN presence|NN milk|NN allergy|NN 
+person|NN condition|NN 
+confirmation|NN test|NN hydrogen|NN breath|NN test|NN 
+hydrogen|NN breath|NN test|NN lactose|NN intolerance|NN test|NN gram|NN lactose|NN solution|NN water|NN 
+lactose|NN bacteria|NN hydrogen|NN methane|NN patient|NN breath|NN ga|NN detector|NN 
+test|NN hour|NN 
+hydrogen|NN level|NN patient|NN breath|NN lactose|NN intolerance|NN 
+test|NN baby|NN children|NN blood|NN test|NN 
+conjunction|NN blood|NN glucose|NN level|NN minute|NN ingestion|NN curve|NN individual|NN lactose|NN malabsorption|NN top|NN elevation|NN hour|NN 
+need|NN blood|NN sample|NN approach|NN breath|NN test|NN 
+blood|NN gram|NN lactose|NN solution|NN 
+blood|NN 1-hour|NN mark|NN 
+lactose|NN blood|NN glucose|NN level|NN mgdl|NN stool|NN acidity|NN test|NN 
+test|NN lactose|NN intolerance|NN infant|NN form|NN test|NN infant|NN lactose|NN drink|NN 
+individual|NN lactose|NN intestine|NN colon|NN 
+bacteria|NN colon|NN lactose|NN cause|NN acidity|NN stool|NN 
+ingestion|NN lactose|NN level|NN acidity|NN 
+stool|NN infant|NN lactose|NN stool|NN ph|NN lactose|NN intolerance|NN 
+biopsy|NN lactose|NN intolerance|NN discovery|NN hydrogen|NN hydrogen|NN breath|NN test|NN technique|NN bedside|NN test|NN presence|NN enzyme|NN endoscopy|NN instrument|NN research|NN application|NN mrna|NN measurement|NN specialist|NN laboratory|NN 
+stool|NN sugar|NN chromatography|NN 
+chromatography|NN sugar|NN faece|NN 
+lactose|NN faece|NN people|NN lactose|NN intolerance|NN test|NN lactose|NN intolerance|NN 
+test|NN person|NN lactose|NN intolerance|NN activity|NN persistence|NN adult|NN polymorphism|NN ct|NN ga|NN gene|NN polymorphism|NN biology|NN technique|NN dna|NN blood|NN saliva|NN sample|NN kit|NN diagnosis|NN 
+procedure|NN dna|NN sample|NN protocol|NN strip|NN 
+band|NN result|NN combination|NN patient|NN lactose|NN 
+lactose|NN intolerance|NN lactose|NN intolerance|NN treatment|NN disease|NN activity|NN level|NN people|NN disease|NN lactose|NN intolerance|NN month|NN diet|NN restriction|NN lactose|NN 
+people|NN lactose|NN intolerance|NN ability|NN society|NN lactose|NN intolerance|NN norm|NN condition|NN treatment|NN 
+dairy|NN component|NN diet|NN number|NN effort|NN 
+principle|NN lactose|NN intolerance|NN avoidance|NN lactose|NN substitution|NN nutrient|NN intake|NN regulation|NN calcium|NN intake|NN use|NN enzyme|NN substitute|NN consumption|NN dairy|NN food|NN individual|NN symptom|NN intolerance|NN bacteria|NN adaptation|NN avoidance|NN 
+way|NN symptom|NN lactose|NN intolerance|NN intake|NN lactose|NN level|NN individual|NN amount|NN lactose|NN report|NN tolerance|NN time|NN health|NN status|NN pregnancy|NN rule|NN thumb|NN people|NN lactose|NN intolerance|NN intestine|NN injury|NN gram|NN lactose|NN symptom|NN symptom|NN amount|NN meal|NN day|NN lactose|NN level|NN dairy|NN product|NN dairy|NN product|NN size|NN content|NN percentage|NN milk|NN milk|NN fat|NN low-fat|NN cheddar|NN cheese|NN cottage|NN cheese|NN butter|NN ice|NN cream|NN 
+dairy|NN product|NN amount|NN lactose|NN 
+milk|NN cow|NN milk|NN lactose|NN goat|NN milk|NN milk|NN buffalo|NN milk|NN yak|NN milk|NN cream|NN buttermilk|NN way|NN brand|NN milk|NN solid|NN butter|NN process|NN butter|NN lactose|NN quantity|NN butter|NN amount|NN lactose|NN 
+citation|NN lactobacilly|NN production|NN yogurt|NN lactose|NN degree|NN type|NN yogurt|NN bacteria|NN yogurt|NN enzyme|NN digestion|NN intestine|NN lactose|NN individual|NN cheese|NN fermentation|NN lactose|NN content|NN cheese|NN age|NN cheese|NN lactose|NN volume|NN milk|NN cheese|NN process|NN property|NN 
+method|NN lactose|NN content|NN food|NN dairy|NN content|NN product|NN manufacture|NN process|NN label|NN practice|NN terminology|NN language|NN region|NN result|NN figure|NN amount|NN lactose|NN weight|NN 
+product|NN milk|NN 
+d|NN dairy|NN food|NN product|NN milk|NN solid|NN product|NN equipment|NN product|NN milk|NN derivative|NN 
+food|NN additive|NN texture|NN quality|NN 
+additive|NN casein|NN whey|NN milk|NN solid|NN milk|NN ingredient|NN 
+citation|NN lactose|NN food|NN meat|NN dog|NN meat|NN pt|NN gravy|NN stock|NN powder|NN bread|NN breakfast|NN cereal|NN potato|NN chip|NN food|NN medication|NN meal|NN meal|NN replacement|NN powder|NN bar|NN protein|NN supplement|NN powder|NN bar|NN beer|NN milk|NN style|NN 
+barbecue|NN sauce|NN cheese|NN restaurant|NN lactose|NN 
+filler|NN ingredient|NN prescription|NN pill|NN form|NN medication|NN product|NN presence|NN lactose|NN milk|NN product|NN monogram|NN pharmacist|NN pharmacist|NN scale|NN use|NN lactose|NN medication|NN supplier|NN manufacturer|NN verification|NN 
+citation|NN milk|NN substitute|NN information|NN milk|NN reduction|NN elimination|NN lactose|NN milk|NN substitute|NN 
+milk|NN derivative|NN milk|NN rice|NN milk|NN almond|NN milk|NN coconut|NN milk|NN hazelnut|NN milk|NN oat|NN milk|NN hemp|NN milk|NN nut|NN milk|NN peanut|NN milk|NN 
+version|NN food|NN food|NN lactose|NN intolerance|NN supplement|NN 
+lactose|NN avoidance|NN occasion|NN person|NN item|NN lactase|NN supplement|NN 
+enzyme|NN intestine|NN human|NN fungy|NN genus|NN 
+tablet|NN form|NN variety|NN dose|NN country|NN prescription|NN 
+environment|NN gut|NN addition|NN juice|NN stomach|NN 
+acid|NN stomach|NN 
+enzyme|NN intestine|NN time|NN food|NN 
+individual|NN time|NN dosage|NN need|NN 
+process|NN lactose|NN digestion|NN treatment|NN milk|NN variety|NN 
+enzyme|NN yeast|NN genus|NN kluyveromyce|NN act|NN product|NN environment|NN 
+use|NN lactose-free|NN dairy|NN product|NN supermarket|NN 
+citation|NN dairy|NN product|NN 
+consumption|NN dairy|NN food|NN lactose|NN bacteria|NN adaptation|NN favorable|NN people|NN lactose|NN intolerance|NN intolerance|NN dairy|NN food|NN way|NN tolerance|NN exposure|NN amount|NN day|NN lactose|NN intolerance|NN yogurt|NN culture|NN lactose|NN dairy|NN product|NN 
+south|NN asian|NN lactose|NN quantity|NN milk|NN symptom|NN lactose|NN intolerance|NN yogurt|NN culture|NN south|NN population|NN epidemiology|NN rate|NN lactose|NN intolerance|NN region|NN world|NN estimate|NN percentage|NN adult|NN lactose|NN population|NN world|NN 
+people|NN experience|NN form|NN lactose|NN intolerance|NN age|NN infancy|NN difference|NN population|NN region|NN rate|NN european|NN adult|NN community|NN asia|NN 
+population|NN perspective|NN makeup|NN lactose|NN 
+country|NN lack|NN vitamin|NN sun|NN milk|NN calcium|NN 
+country|NN people|NN tolerance|NN lactose|NN 
+region|NN south|NN africa|NN vitamin|NN d|NN deficiency|NN tolerance|NN milk|NN consumption|NN way|NN country|NN lactose|NN intolerance|NN people|NN descent|NN west|NN africa|NN country|NN greece|NN italy|NN population|NN gene|NN construct|NN pre-set|NN region|NN history|NN article|NN persistence|NN 
+persistence|NN phenotype|NN allele|NN activity|NN lactase|NN infancy|NN phenotype|NN lactose|NN intolerance|NN 
+mammal|NN persistence|NN year|NN population|NN majority|NN people|NN nonpersistent|NN reason|NN persistence|NN interest|NN field|NN anthropology|NN genetics|NN archaeology|NN terminology|NN 
+rise|NN dairy|NN dairy|NN product|NN cow|NN milk|NN region|NN world|NN predisposition|NN process|NN turn|NN milk|NN cheese|NN date|NN 
+analysis|NN persistence|NN time|NN place|NN example|NN evolution|NN history|NN research|NN 
+medicine|NN prevalence|NN lactose|NN intolerance|NN cause|NN 
+symptom|NN hippocrates|NN bc|NN assumption|NN tolerance|NN norm|NN 
+result|NN milk|NN allergy|NN pathogen|NN culture|NN practice|NN dairy|NN people|NN culture|NN milk|NN reason|NN misconception|NN 
+population|NN incidence|NN lactose|NN intolerance|NN history|NN dairy|NN 
+tolerance|NN norm|NN society|NN researcher|NN 
+reason|NN lactose|NN intolerance|NN lactose|NN individual|NN lactose|NN symptom|NN symptom|NN severity|NN 
+people|NN quantity|NN milk|NN example|NN tea|NN coffee|NN effect|NN dairy|NN product|NN cheese|NN lactose|NN milk|NN 
+society|NN tolerance|NN norm|NN lactose|NN people|NN amount|NN dairy|NN symptom|NN lactose|NN 
+lactose|NN intolerance|NN race|NN united|NN states|NN research|NN lactose|NN intolerance|NN tolerance|NN variation|NN difference|NN adaptation|NN practice|NN animal|NN 
+mammal|NN lactose|NN downregulation|NN expression|NN mice|NN accumulation|NN dna|NN methylation|NN gene|NN mcm6|NN gene|NN 
+food|NN intolerance|NN malabsorption|NN intolerance|NN persistence|NN cheese|NN milk|NN plant|NN milk|NN intolerance|NN 

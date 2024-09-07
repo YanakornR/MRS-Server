@@ -1,0 +1,94 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN radio|NN show|NN radio|NN show|NN 
+tinnitus|DS windup|NN alarm|NN clock|NN tinnitus|DS result|NN sound|NN ring|NN 
+otorhinolaryngology|NN symptom|NN sound|NN sound|NN complication|NN depression|ST anxiety|ST concentration|NN onset|NN cause|NN hear|NN loss|NN ear|NN infection|NN disease|NN heart|NN blood|NN vessel|NN disease|NN brain|NN stress|NN method|NN symptom|NN exam|NN treatment|NN sound|NN generator|NN hear|NN aid|NN frequency|NN 
+tinnitus|DS hear|NN sound|NN sound|NN ring|NN hiss|NN voice|NN music|NN sound|NN ear|NN time|NN people|NN sound|NN depression|ST anxiety|ST concentration|NN 
+tinnitus|DS disease|NN symptom|NN number|NN cause|NN cause|NN hear|NN loss|NN cause|NN ear|NN infection|NN disease|NN heart|NN blood|NN vessel|NN disease|NN brain|NN stress|NN exposure|NN medication|NN head|NN injury|NN depression|ST 
+diagnosis|NN tinnitus|DS person|NN description|NN number|NN questionnaire|NN tinnitus|DS person|NN life|NN diagnosis|NN audiogram|NN examination|NN problem|NN image|NN mry|NN test|NN tinnitus|DS rhythm|NN heartbeat|NN sound|NN stethoscope|NN case|NN objective|NN tinnitus|DS emission|NN sound|NN ear|NN result|NN tinnitus|DS 
+prevention|NN noise|NN cause|NN improvement|NN management|NN talk|NN therapy|NN sound|NN generator|NN hear|NN aid|NN 2013|NN medication|NN 1015|NN people|NN problem|NN people|NN word|NN tinnitus|DS tinn|NN 
+sign|NN symptom|NN course|NN cause|NN tinnitus|DS objective|NN tinnitus|DS tinnitus|DS diagnosis|NN tinnitus|DS diagnosis|NN prevention|NN management|NN medicine|NN epidemiology|NN adult|NN children|NN reference|NN link|NN 
+sign|NN symptom|NN 
+tinnitus|DS ear|NN head|NN 
+description|NN noise|NN person|NN head|NN absence|NN stimulation|NN 
+noise|NN way|NN 
+ring|NN noise|NN patient|NN form|NN whine|NN hiss|NN hume|NN whistle|NN tick|NN cricket|NN tree|NN frog|NN locust|NN cicada|NN tune|NN song|NN voice|NN tone|NN hear|NN test|NN tinnitus|DS case|NN cause|NN distress|NN 
+individual|NN intensity|NN shoulder|NN head|NN tongue|NN jaw|NN eye|NN movement|NN people|NN tinnitus|DS degree|NN hear|NN loss|NN 
+sound|NN background|NN noise|NN sound|NN 
+type|NN tinnitus|DS tinnitus|DS sound|NN pulse|NN muscle|NN contraction|NN result|NN sound|NN movement|NN muscle|NN ear|NN sound|NN blood|NN flow|NN neck|NN face|NN course|NN 
+variation|NN study|NN design|NN data|NN course|NN tinnitus|DS result|NN 
+prevalence|NN age|NN adult|NN rate|NN annoyance|NN duration|NN 
+tinnitus|DS anxiety|ST depression|ST tinnitus|DS annoyance|NN condition|NN loudness|NN frequency|NN range|NN problem|NN depression|ST anxiety|ST sleep|NN disturbance|NN concentration|NN difficulty|NN tinnitus|DS people|NN tinnitus|DS anxiety|ST disorder|NN time|NN life|NN 
+research|NN tinnitus|DS distress|NN reaction|NN account|NN difference|NN tinnitus|DS severity|NN find|NN perception|NN tinnitus|DS condition|NN link|NN tinnitus|DS emotion|NN fear|NN anxiety|ST stimuly|NN time|NN 
+activity|NN system|NN system|NN tinnitus|DS awareness|NN annoyance|NN cause|NN 
+type|NN tinnitus|DS tinnitus|DS objective|NN tinnitus|DS tinnitus|DS mean|NN mean|NN tinnitus|DS tinnitus|DS non-auditory|NN non-vibratory|NN tinnitus|DS 
+case|NN tinnitus|DS stethoscope|NN case|NN otoacoustic|NN emission|NN ear|NN canal|NN 
+case|NN tinnitus|DS tinnitus|DS vibratory|NN tinnitus|DS 
+tinnitus|DS type|NN tinnitus|DS 
+cause|NN hear|NN loss|NN 
+tinnitus|DS disorder|NN ear|NN nerve|NN word|NN ear|NN otological|NN condition|NN infection|NN drug|NN cause|NN noise|NN exposure|NN hair|NN cell|NN ear|NN 
+connection|NN disorder|NN ear|NN nerve|NN tinnitus|DS 
+tinnitus|DS case|NN tinnitus|DS system|NN instance|NN people|NN tinnitus|DS face|NN head|NN neck|NN type|NN tinnitus|DS head|NN neck|NN movement|NN effect|NN 
+body|NN evidence|NN tinnitus|DS consequence|NN alteration|NN pathway|NN 
+alteration|NN result|NN input|NN hear|NN loss|NN hear|NN loss|NN response|NN neuron|NN system|NN tinnitus|DS hear|NN loss|NN 
+cause|NN tinnitus|DS hear|NN loss|NN 
+hear|NN loss|NN cause|NN tinnitus|DS cause|NN damage|NN 
+drug|NN tinnitus|DS hear|NN loss|NN damage|NN exposure|NN noise|NN 
+damage|NN dose|NN medication|NN cause|NN tinnitus|DS side|NN effect|NN case|NN cause|NN 
+tinnitus|DS discontinuation|NN dose|NN benzodiazepine|NN 
+symptom|NN withdrawal|NN month|NN tinnitus|DS case|NN cause|NN factor|NN 
+factor|NN tinnitus|DS 
+ear|NN problem|NN hear|NN loss|NN hear|NN loss|NN acoustic|NN shock|NN noise|NN music|NN middle|NN ear|NN effusion|NN otitis|NN tube|NN dysfunction|NN hear|NN loss|NN noise|NN hear|NN loss|NN disease|NN canal|NN neuroma|NN mercury|NN lead|NN poison|NN medication|NN disorder|NN malformation|NN sclerosis|NN head|NN injury|NN dysfunction|NN giant|NN cell|NN disorder|NN vitamin|NN deficiency|NN iron_deficiency|DS disorder|NN depression|ST anxiety|ST disorder|NN factor|NN drug|NN tinnitus|DS symptom|NN side|NN effect|NN dipt|NN withdrawal|NN hypotension|NN example|NN encephalitis|DS fluid|NN leak|NN 
+objective|NN tinnitus|DS 
+objective|NN tinnitus|DS people|NN twitch|NN muscle|NN group|NN muscle|NN condition|NN 
+case|NN tinnitus|DS muscle|NN spasm|NN ear|NN 
+otoacoustic|NN emission|NN tone|NN ear|NN ear|NN canal|NN microphone|NN tinnitus|DS soae|NN tinnitus|DS tinnitus|DS need|NN quotation|NN percentage|NN case|NN tinnitus|DS soae|NN pulsatile|NN tinnitus|DS 
+people|NN sound|NN time|NN pulse|NN tinnitus|DS tinnitus|DS tinnitus|DS nature|NN blood|NN flow|NN blood|NN turbulence|NN ear|NN atherosclerosis|DS hum|NN phenomenon|NN awareness|NN blood|NN flow|NN ear|NN tinnitus|DS symptom|NN condition|NN artery|NN aneurysm|DS artery|NN dissection|NN tinnitus|DS cell|NN 
+tinnitus|DS indication|NN hypertension|DS tinnitus|DS symptom|NN abnormality|NN noise|NN blood|NN flow|NN 
+mechanism|NN tinnitus|DS 
+trauma|NN ear|NN tinnitus|DS cause|NN dysfunction|NN 
+activity|NN brainstem|NN brain|NN process|NN sound|NN nerve|NN cell|NN 
+basis|NN theory|NN tinnitus|DS hear|NN loss|NN 
+review|NN 2016|NN range|NN combination|NN pathology|NN tinnitus|DS turn|NN result|NN variety|NN symptom|NN therapy|NN diagnosis|NN 
+approach|NN history|NN condition|NN examination|NN head|NN neck|NN system|NN audiogram|NN image|NN electronystagmography|NN condition|NN ear|NN infection|NN acoustic|NN concussion|NN otosclerosis|DS 
+evaluation|NN tinnitus|DS hear|NN test|NN measurement|NN parameter|NN tinnitus|DS pitch|NN loudness|NN assessment|NN condition|NN depression|ST anxiety|ST stress|NN severity|NN tinnitus|DS 
+definition|NN tinnitus|DS ear|NN noise|NN experience|NN minute|NN ear|NN noise|NN week|NN people|NN tinnitus|DS noise|NN night|NN noise|NN sound|NN 
+person|NN tinnitus|DS hear|NN loss|NN tone|NN hear|NN test|NN audiogram|NN cause|NN person|NN tinnitus|DS hear|NN loss|NN 
+audiogram|NN fit|NN hear|NN aid|NN case|NN hear|NN loss|NN 
+pitch|NN tinnitus|DS range|NN hear|NN loss|NN 
+hear|NN test|NN application|NN audiogram|NN spite|NN error|NN hear|NN threshold|NN hear|NN loss|NN audiogram|NN hear|NN aid|NN application|NN 
+qualification|NN tinnitus|DS measurement|NN parameter|NN frequency|NN case|NN monotone|NN tinnitus|DS frequency|NN range|NN bandwidth|NN case|NN band|NN noise|NN tinnitus|DS loudness|NN db|NN hear|NN threshold|NN frequency|NN mask|NN level|NN case|NN tinnitus|DS pitch|NN frequency|NN range|NN khz|NN khz|NN loudness|NN db|NN hear|NN threshold|NN 
+parameter|NN tinnitus|DS inhibition|NN suppression|NN disappearance|NN tinnitus|DS period|NN mask|NN 
+degree|NN inhibition|NN tinnitus|DS masker|NN treatment|NN modality|NN 
+assessment|NN hyperacusis|NN accompaniment|NN tinnitus|DS parameter|NN level|NN ldl|NN db|NN level|NN discomfort|NN frequency|NN frequency|NN range|NN hear|NN 
+range|NN hear|NN threshold|NN frequency|NN discomfort|NN level|NN 
+range|NN frequency|NN range|NN hyperacusis|NN 
+hear|NN threshold|NN decibel|NN db|NN 
+loudness|NN discomfort|NN level|NN db|NN authority|NN db|NN 
+range|NN db|NN severity|NN 
+condition|NN scale|NN effect|NN interference|NN sleep|NN activity|NN activity|NN case|NN man|NN suicide|NN cure|NN 
+assessment|NN process|NN tinnitus|DS measurement|NN tinnitus|DS severity|NN distress|NN nature|NN extent|NN tinnitus|DS problem|NN tinnitus|DS questionnaire|NN questionnaire|NN degree|NN distress|NN handicap|NN tinnitus|DS effect|NN hear|NN lifestyle|NN health|NN function|NN assessment|NN function|NN level|NN anxiety|ST depression|ST stress|NN life|NN stressor|NN sleep|NN difficulty|NN assessment|NN tinnitus|DS due|NN risk|NN well-be|NN area|NN tinnitus|DS symptom|NN individual|NN assessment|NN measure|NN level|NN distress|NN interference|NN cope|NN response|NN perception|NN tinnitus|DS order|NN treatment|NN monitor|NN progress|NN 
+variability|NN inconsistency|NN lack|NN consensus|NN assessment|NN methodology|NN literature|NN comparison|NN treatment|NN effectiveness|NN guide|NN diagnosis|NN severity|NN tinnitus|DS questionnaire|NN outcome|NN measure|NN tinnitus|DS 
+examination|NN sound|NN blood|NN flow|NN image|NN study|NN doppler|NN resonance|NN angiography|NN mra|NN diagnosis|NN 
+potential|NN source|NN sound|NN tinnitus|DS 
+instance|NN source|NN sound|NN field|NN wire|NN sound|NN signal|NN transmission|NN 
+condition|NN tinnitus|DS radio|NN frequency|NN rf|NN hear|NN subject|NN transmission|NN frequency|NN tinnitus|DS prevention|NN safety|NN sign|NN uk|NN government|NN regulation|NN ear|NN protection|NN 
+exposure|NN sound|NN noise|NN level|NN tinnitus|DS ear|NN plug|NN measure|NN prevention|NN 
+employer|NN hear|NN loss|NN prevention|NN program|NN level|NN exposure|NN noise|NN 
+group|NN niosh|NN help|NN set|NN regulation|NN employee|NN protocol|NN risk|NN damage|NN hear|NN 
+medicine|NN effect|NN effect|NN damage|NN noise|NN 
+medication|NN attention|NN physician|NN prescription|NN detail|NN dose|NN dosage|NN interval|NN damage|NN management|NN 
+cause|NN improvement|NN treatment|NN tinnitus|DS talk|NN therapy|NN sound|NN therapy|NN hear|NN aid|NN 
+medication|NN supplement|NN tinnitus|DS 
+treatment|NN tinnitus|DS type|NN counsel|NN behavioral|NN therapy|NN cbt|NN internet|NN person|NN amount|NN stress|NN tinnitus|DS benefit|NN effect|NN depression|ST anxiety|ST acceptance|NN commitment|NN therapy|NN act|NN promise|NN treatment|NN tinnitus|DS relaxation|NN technique|NN protocol|NN tinnitus|DS management|NN treatment|NN tinnitus|DS united|NN states|NN department|NN veteran|NN affair|NN 
+medication|NN tinnitus|DS evidence|NN antidepressant|NN acamprosate|NN evidence|NN use|NN benzodiazepine|NN tinnitus|DS usefulness|NN melatonin|NN tinnitus|DS injection|NN ear|NN evidence|NN use|NN betahistine|NN 
+toxin|NN injection|NN success|NN case|NN tinnitus|DS tremor|ST 
+country|NN tinnitus|DS evidence|NN usefulness|NN 
+use|NN sound|NN therapy|NN hear|NN aid|NN tinnitus|DS masker|NN brain|NN tinnitus|DS frequency|NN 
+method|NN evidence|NN effect|NN approache|NN tinnitus|DS sound|NN therapy|NN 
+sound|NN modification|NN individual|NN hear|NN loss|NN 
+second|NN signal|NN spectrum|NN energy|NN tinnitus|DS frequency|NN evidence|NN tinnitus|DS retrain|NN therapywhich|NN tinnitus|DS activity|NN data|NN alternative|NN tinnitus|DS method|NN application|NN method|NN mask|NN sound|NN therapy|NN exercise|NN application|NN device|NN hear|NN aid|NN control|NN system|NN evidence|NN use|NN stimulation|NN 2017|NN evidence|NN medicine|NN 
+academy|NN otolaryngology|NN melatonin|NN zinc|NN supplement|NN symptom|NN tinnitus|DS addition|NN 2016|NN cochrane|NN review|NN evidence|NN zinc|NN supplement|NN symptom|NN tinnitus|DS prognosis|NN 
+cure|NN people|NN tinnitus|DS time|NN minority|NN problem|NN epidemiology|NN adult|NN 
+tinnitus|DS people|NN north|NN american|NN experience|NN tinnitus|DS tinnitus|DS adult|NN time|NN live|NN percent|NN evaluation|NN children|NN 
+tinnitus|DS symptom|NN adulthood|NN children|NN 
+children|NN hear|NN loss|NN incidence|NN tinnitus|DS condition|NN effect|NN live|NN children|NN tinnitus|DS complaint|NN children|NN tinnitus|DS likelihood|NN otological|NN pathology|NN migraine|DS juvenile|NN disease|NN suppurative|NN otitis_media|ST prevalence|NN children|NN hear|NN threshold|NN children|NN hear|NN loss|NN children|NN tinnitus|DS see|NN 
+health|NN effect|NN noise|NN list|NN people|NN tinnitus|DS list|NN sound|NN phantom|NN vibration|NN syndrome|NN tone|NN hallucination|ST 

@@ -1,0 +1,292 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Prostate cancer|Disease name|NN prostate|NN diagram|NN position|NN prostate|NN rectum|NN position|NN prostate|NN oncology|NN symptom|NN difficulty|NN blood|NN urine|NN pain|NN pelvis|NN back|NN onset|NN age|NN risk|NN factor|NN age|NN family|NN history|NN race|NN method|NN tissue|NN biopsy|NN image|NN diagnosis|NN hyperplasia|NN treatment|NN surveillance|NN surgery|NN radiation|NN therapy|NN hormone|NN therapy|NN chemotherapy|NN survival|NN rate|NN frequency|NN case|NN death|NN
+Prostate cancer|Disease development|NN cancer|NN prostate|NN gland|NN system|NN Prostate cancer|Disease cancer|NN cell|NN prostate|NN area|NN body|NN bone|NN lymph|NN node|NN symptom|NN stage|NN difficulty|NN blood|NN urine|NN pain|NN pelvis|NN back|NN disease|NN hyperplasia|NN symptom|NN symptom|NN feel|NN due|NN level|NN blood|NN cell|NN
+factor|NN risk|NN Prostate cancer|Disease age|NN family|NN history|NN disease|NN race|NN case|NN male|NN age|NN relative|NN disease|NN risk|NN united|NP states|NP population|NN population|NN factor|NN diet|NN meat|NN meat|NN milk|NN product|NN vegetable|NN association|NN gonorrhea|NP reason|NN relationship|NN risk|NN mutation|NN Prostate cancer|Disease biopsy|NN image|NN cancer|NN part|NN body|NN
+Prostate cancer|Disease screen|NN antigen|NN psa|NP test|NN cancer|NN detection|NN outcome|NN decision|NN make|NN screen|NN year|NN test|NN life|NN expectancy|NN
+inhibitor|NN cancer|NN risk|NN cancer|NN risk|NN prevention|NN vitamin|NN mineral|NN risk|NN
+case|NN surveillance|NN wait|NN treatment|NN combination|NN surgery|NN radiation|NN therapy|NN hormone|NN therapy|NN chemotherapy|NN prostate|NN disease|NN bone|NN pain|NN medication|NN therapy|NN outcome|NN person|NN age|NN health|NN problem|NN cancer|NN men|NN Prostate cancer|Disease disease|NN survival|NN rate|NN united|NP states|NP second|NN type|NN cancer|NN cause|NN death|NN men|NN 2012|NN men|NN death|NN cancer|NN male|NN country|NN world|NN rate|NN world|NN detection|NN area|NN psa|NP test|NN study|NN male|NN cause|NN Prostate cancer|Disease age|NN content|NN
+sign|NN symptom|NN risk|NN factor|NN genetics|NN exposure|NN infection|NN diagnosis|NN image|NN biopsy|NN tumor|NN marker|NN prevention|NN diet|NN lifestyle|NN screen|NN management|NN surveillance|NN cancer|NN care|NN classification|NN system|NN life|NN expectancy|NN epidemiology|NN united|NP states|NP canada|NP europe|NP history|NN society|NN culture|NN research|NN cancer|NN model|NN diagnosis|NN reference|NN link|NN
+sign|NN symptom|NN diagram|NN Prostate cancer|Disease urethra|NN symptom|NN
+Prostate cancer|Disease symptom|NN
+Prostate cancer|Disease symptom|NN disease|NN hyperplasia|NN
+urination|NN urination|NN night|NN difficulty|NN start|NN stream|NN urine|NN blood|NN urine|NN urination|NN
+study|NN patient|NN care|NN evaluation|NN patient|NN Prostate cancer|Disease symptom|NN symptom|NN
+Prostate cancer|Disease dysfunction|NN prostate|NN gland|NN urethra|NN
+change|NN gland|NN function|NN
+va|NN deposit|NN fluid|NN urethra|NN secretion|NN prostate|NN gland|NN semen|NN content|NN Prostate cancer|Disease problem|NN function|NN performance|NN difficulty|NN erection|NN ejaculation|NN
+Prostate cancer|Disease part|NN body|NN symptom|NN
+symptom|NN bone|NN pain|NN vertebrae|NN bone|NN spine|NN pelvis|NN rib|NN
+spread|NN cancer|NN bone|NN femur|NN part|NN bone|NN
+Prostate cancer|Disease spine|NN cord|NN leg|NN weakness|NN incontinence|NN risk|NN factor|NN
+understand|NN cause|NN Prostate cancer|Disease risk|NN factor|NN obesity|NN age|NN family|NN history|NN
+Prostate cancer|Disease men|NN age|NN
+age|NN time|NN diagnosis|NN men|NN Prostate cancer|Disease
+study|NN men|NN cause|NN Prostate cancer|Disease men|NN men|NN
+men|NN family|NN member|NN Prostate cancer|Disease risk|NN disease|NN men|NN Prostate cancer|Disease family|NN risk|NN men|NN brother|NN men|NN father|NN
+united|NP states|NP case|NN Prostate cancer|Disease death|NN Prostate cancer|Disease men|NN blood|NN pressure|NN Prostate cancer|Disease risk|NN Prostate cancer|Disease lack|NN exercise|NN genetics|NN
+background|NN Prostate cancer|Disease risk|NN association|NN race|NN family|NN gene|NN variant|NN
+men|NN father|NN brother|NN Prostate cancer|Disease risk|NN Prostate cancer|Disease relative|NN risk|NN men|NN family|NN history|NN united|NP states|NP Prostate cancer|Disease men|NN men|NN men|NN contrast|NN incidence|NN mortality|NN rate|NN men|NN white|NN
+study|NN twin|NN scandinavia|NP Prostate cancer|Disease risk|NN factor|NN
+gene|NN Prostate cancer|Disease gene|NN
+mutation|NN brca1|NN risk|NN factor|NN cancer|NN breast|NN cancer|NN women|NN Prostate cancer|Disease gene|NN hereditary|NN Prostate cancer|Disease gene|NN receptor|NN vitamin|NN d|NP receptor|NN gene|NN family|NN fusion|NN cancer|NN cell|NN growth|NN fusion|NN rearrangement|NN chain|NN
+association|NN study|NN polymorphism|NN Prostate cancer|Disease study|NN risk|NN Prostate cancer|Disease
+example|NN individual|NN allele|NN pair|NN snp|NP rs10993994|NP time|NN risk|NN Prostate cancer|Disease cc|NP allele|NN pair|NN
+snp|NP part|NN Prostate cancer|Disease risk|NN men|NN men|NN descent|NN c|NP allele|NN snp|NP promoter|NN region|NN gene|NN amount|NN protein|NN cell|NN prostate|NN
+obesity|NN blood|NN level|NN testosterone|NN risk|NN Prostate cancer|Disease
+fruit|NN vegetable|NN benefit|NN Prostate cancer|Disease evidence|NN role|NN fruit|NN vegetable|NN Prostate cancer|Disease occurrence|NN meat|NN meat|NN effect|NN study|NN meat|NN consumption|NN risk|NN study|NN
+lower|NP blood|NN level|NN vitamin|NN risk|NN Prostate cancer|Disease
+acid|NN supplement|NN effect|NN risk|NN Prostate cancer|Disease exposure|NN
+link|NN Prostate cancer|Disease medication|NN procedure|NN condition|NN use|NN medication|NN statin|NN Prostate cancer|Disease risk|NN infection|NN
+infection|NN inflammation|NN prostate|NN prostatitis|NN chance|NN Prostate cancer|Disease study|NN infection|NN Prostate cancer|Disease blood|NN flow|NN area|NN
+infection|NN infection|NN chlamydia|NN syphilis|NN risk|NN
+virus|NN study|NN role|NN Prostate cancer|Disease evidence|NN review|NN 2018|NP risk|NN risk|NN
+research|NN war|NN veteran|NN agent|NN orange|NN risk|NN Prostate cancer|Disease recurrence|NN surgery|NN
+evidence|NN cohort|NN study|NN ejaculation|NN Prostate cancer|Disease risk|NN result|NN trial|NN benefit|NN association|NN vasectomy|NN Prostate cancer|Disease research|NN relationship|NN
+prostate|NN part|NN system|NN make|NN store|NN fluid|NN
+adult|NN men|NN prostate|NN gram|NN pelvis|NN bladder|NN front|NN rectum|NN
+prostate|NN part|NN urethra|NN tube|NN urine|NN bladder|NN urination|NN semen|NN ejaculation|NN location|NN prostate|NN disease|NN urination|NN ejaculation|NN defecation|NN
+prostate|NN gland|NN fluid|NN semen|NN
+Prostate cancer|Disease cell|NN prostate|NN gland|NN cancer|NN cell|NN
+prostate|NN gland|NN hormone|NN androgen|NN work|NN
+testosterone|NN teste|NN gland|NN dihydrotestosterone|NN testosterone|NN prostate|NN
+sex|NN characteristics|NN hair|NN muscle|NN mass|NN
+Prostate cancer|Disease lymph|NN node|NN Prostate cancer|Disease bone|NN
+Prostate cancer|Disease adenocarcinoma|NN cancer|NN semen-secret|NN prostate|NN gland|NN cell|NN cancer|NN cell|NN
+region|NN prostate|NN gland|NN adenocarcinoma|NN zone|NN
+clump|NN cancer|NN cell|NN prostate|NN gland|NN condition|NN carcinoma|NN situ|NN neoplasia|NN pin|NN
+proof|NN pin|NN cancer|NN precursor|NN cancer|NN
+time|NN cancer|NN cell|NN prostate|NN tissue|NN stroma|NN tumor|NN
+tumor|NN organ|NN vesicle|NN rectum|NN tumor|NN cell|NN ability|NN bloodstream|NN system|NN
+Prostate cancer|Disease tumor|NN mass|NN cell|NN area|NN body|NN
+invasion|NN organ|NN metastasis|NN
+Prostate cancer|Disease bone|NN lymph|NN node|NN rectum|NN bladder|NN ureter|NN progression|NN
+route|NN metastasis|NN bone|NN plexus|NN prostate|NN vein|NN
+prostate|NN zinc-accumulate|NN organ|NN
+protein|NN zip1|NN transport|NN zinc|NN prostate|NN cell|NN
+role|NN metabolism|NN cell|NN order|NN citrate|NN component|NN semen|NN
+process|NN zinc|NN accumulation|NN alteration|NN metabolism|NN citrate|NN production|NN energy|NN prostate|NN cell|NN amount|NN energy|NN atp|NN order|NN task|NN
+Prostate cancer|Disease cell|NN zinc|NN
+Prostate cancer|Disease cell|NN energy|NN citrate|NN abundance|NN energy|NN
+absence|NN zinc|NN silence|NN gene|NN transporter|NN protein|NN
+tumor|NN suppressor|NN gene|NN product|NN gene|NN
+cause|NN silence|NN
+strategy|NN transport|NN zinc|NN prostate|NN cell|NN cell|NN animal|NN
+pathway|NN apoptosis|NN cell|NN
+ingestion|NN zinc|NN concentration|NN zinc|NN prostate|NN cell|NN transporter|NN
+loss|NN cancer|NN suppressor|NN gene|NN carcinogenesis|NN chromosome|NN 8p|NN 13q|NN 16q|NN
+mutation|NN Prostate cancer|Disease set|NN mutation|NN event|NN pathology|NN Prostate cancer|Disease
+tumor|NN suppressor|NN gene|NN role|NN Prostate cancer|Disease gene|NN kai1|NN
+percent|NN men|NN Prostate cancer|Disease copy|NN gene|NN time|NN diagnosis|NN frequency|NN loss|NN e-cadherin|NN cd44|NN
+transcription|NN factor|NN cancer|NN cell|NN apoptosis|NN development|NN Prostate cancer|Disease
+pi3kakt|NN cascade|NN growth|NN factor|NN cascade|NN Prostate cancer|Disease cell|NN survival|NN protection|NN apoptosis|NN inhibitor|NN apoptosis|NN xiap|NN Prostate cancer|Disease cell|NN survival|NN growth|NN target|NN research|NN inhibitor|NN apoptosis|NN cascade|NN function|NN cancer|NN cell|NN proliferation|NN cytokine-1|NN adhesion|NN kinase|NN pathway|NN Prostate cancer|Disease cell|NN growth|NN survival|NN
+receptor|NN Prostate cancer|Disease cell|NN target|NN cancer|NN research|NN study|NN receptor|NN mouse|NN study|NN membrane|NN antigen|NN development|NN Prostate cancer|Disease folate|NN level|NN cancer|NN cell|NN use|NN increase|NN folate|NN use|NN glutamate|NN diagnosis|NN Prostate cancer|Disease ct|NN scan|NN
+cancer|NN position|NN detection|NN psa|NP test|NN research|NN benefit|NN test|NN harm|NN test|NN treatment|NN
+cancer|NN society|NN men|NN learn|NN risk|NN benefit|NN test|NN treatment|NN
+age|NN brother|NN father|NN condition|NN age|NN talk|NN doctor|NN pro|NN con|NN test|NN test|NN choice|NN
+test|NN information|NN prostate|NN tract|NN
+examination|NN doctor|NN prostate|NN abnormality|NN
+tract|NN bladder|NN camera|NN tube|NN urethra|NN
+ultrasonography|NN picture|NN prostate|NN sound|NN wave|NN probe|NN rectum|NN
+test|NN diagnosis|NN Prostate cancer|Disease biopsy|NN removal|NN piece|NN prostate|NN examination|NN
+ultrasound|NP resonance|NN image|NN mry|NN image|NN method|NN Prostate cancer|Disease detection|NN
+use|NN ultrasound|NN prostate|NN biopsy|NN area|NN tissue|NN structure|NN ultrasound|NN wave|NN
+ultrasound|NN tissue|NN resolution|NN
+prostate|NP mri|NP tissue|NN resolution|NN ultrasound|NN
+mry|NN risk|NN people|NN surveillance|NN risk|NN stage|NN disease|NN risk|NN bone|NN disease|NN
+mry|NN target|NN prostate|NN biopsy|NN fusion|NN mry|NN ultrasound|NN
+men|NN candidate|NN surveillance|NN fusion|NN prostate|NN biopsy|NN cancer|NN ultrasound|NN biopsy|NN
+prostate|NP mri|NP plan|NN men|NN prostatectomy|NN
+surgeon|NN bundle|NN return|NN continence|NN help|NN difficulty|NN
+prostate|NP mri|NP report|NN system|NN
+acronym|NN imaging-report|NN data|NN system|NN standard|NN service|NN resonance|NN image|NN image|NN creation|NN report|NN
+biopsy|NN article|NN biopsy|NN needle|NN biopsy|NN Prostate cancer|Disease adenocarcinoma|NN invasion|NN
+cancer|NN biopsy|NN
+biopsy|NN urologist|NN radiologist|NN tissue|NN sample|NN prostate|NN rectum|NN
+biopsy|NN gun|NN insert|NN hollow-core|NN needle|NN side|NN prostate|NN second|NN
+biopsy|NN outpatient|NN basis|NN hospitalization|NN
+antibiotics|NN complication|NN fever|NN tract|NN infection|NN sepsis|NN course|NN dose|NN antibiotic|NN percent|NN men|NN report|NN discomfort|NN prostate|NN biopsy|NN score|NN article|NN score|NN
+tissue|NN sample|NN microscope|NN cancer|NN cell|NN feature|NN score|NN cancer|NN
+membrane|NN antigen|NN transmembrane|NN folate|NN hydrolase|NN activity|NN protein|NN Prostate cancer|Disease tissue|NN gleason|NN score|NN marker|NN
+tissue|NN sample|NN presence|NN psa|NP tumor|NN marker|NN order|NN origin|NN cell|NN
+cell|NN carcinoma|NN type|NN Prostate cancer|Disease psa|NP researcher|NN way|NN screen|NN type|NN Prostate cancer|Disease part|NN body|NN
+bcl-2|NN development|NN Prostate cancer|Disease due|NN level|NN expression|NN tumour|NN stage|NN pathology|NN
+upregulation|NN bcl-2|NN ablation|NN prostate|NN carcinoma|NN cell|NN line|NN rat|NN model|NN connection|NN expression|NN Prostate cancer|Disease progression|NN
+expression|NN ki-67|NN immunohistochemistry|NN predictor|NN patient|NN outcome|NN men|NN Prostate cancer|Disease article|NN Prostate cancer|Disease stage|NN diagram|NN stage|NN Prostate cancer|Disease
+part|NN Prostate cancer|Disease stage|NN cancer|NN
+stage|NN help|NN prognosis|NN therapy|NN
+system|NN four-stage|NN system|NN
+component|NN size|NN tumor|NN number|NN lymph|NN node|NN presence|NN metastase|NN
+distinction|NN stage|NN system|NN cancer|NN prostate|NN
+system|NN cancer|NN prostate|NN cancer|NN
+test|NN evidence|NN spread|NN
+specialty|NN organization|NN use|NN pet|NN scan|NN ct|NN scan|NN bone|NN scan|NN physician|NN stage|NN Prostate cancer|Disease risk|NN metastasis|NN test|NN case|NN ct|NN scan|NN spread|NN pelvis|NN bone|NN scan|NN look|NN spread|NN bone|NN coil|NN resonance|NN image|NN capsule|NN vesicle|NN
+bone|NN scan|NN appearance|NN bone|NN density|NN area|NN bone|NN cancer|NN
+prostate|NN biopsy|NN pathologist|NN sample|NN microscope|NN
+cancer|NN pathologist|NN grade|NN tumor|NN
+grade|NN tumor|NN tissue|NN prostate|NN tissue|NN tumor|NN
+system|NN grade|NN prostate|NN score|NN abnormality|NN
+pathologist|NN number|NN pattern|NN microscope|NN pattern|NN
+sum|NN number|NN score|NN
+stage|NN method|NN
+sclerosis|NN bone|NN spine|NN Prostate cancer|Disease metastase|NN ct|NN image|NN
+sclerosis|NN bone|NN spine|NN Prostate cancer|Disease metastase|NN ct|NN image|NN
+sclerosis|NN bone|NN pelvis|NN Prostate cancer|Disease metastase|NN
+prevention|NN diet|NN lifestyle|NN
+data|NN relationship|NN diet|NN Prostate cancer|Disease light|NN rate|NN Prostate cancer|Disease consumption|NN diet|NN evidence|NN association|NN tran|NN fat|NN carbohydrate|NN intake|NN risk|NN Prostate cancer|Disease evidence|NN role|NN acid|NN Prostate cancer|Disease risk|NN Prostate cancer|Disease research|NN vitamin|NN supplement|NN effect|NN risk|NN calcium|NN intake|NN Prostate cancer|Disease
+fish|NN death|NN occurrence|NN evidence|NN rate|NN Prostate cancer|Disease diet|NN evidence|NN food|NN lycopene|NN selenium|NN vegetable|NN bean|NN legume|NN risk|NN Prostate cancer|Disease cancer|NN
+men|NN exercise|NN risk|NN activity|NN risk|NN Prostate cancer|Disease
+inhibitor|NN risk|NN Prostate cancer|Disease data|NN effect|NN risk|NN death|NN chance|NN case|NN article|NN Prostate cancer|Disease screen|NN
+Prostate cancer|Disease screen|NN effort|NN cancer|NN symptom|NN
+option|NN exam|NN antigen|NN psa|NP blood|NN test|NN screen|NN disruption|NN consequence|NN harm|NN screen|NN detection|NN cancer|NN benefit|NN decision-make|NN approach|NN option|NN screen|NN consultation|NN physician|NN positive|NN negative|NN
+united|NP states|NP service|NN task|NN force|NN decision|NN psa|NP screen|NN decision|NN patient|NN physician|NN men|NN year|NN age|NN psa|NP screen|NN male|NN age|NN center|NN disease|NN control|NN prevention|NN conclusion|NN society|NN oncology|NN college|NN physician|NN screen|NN year|NN life|NN expectancy|NN decision|NN person|NN question|NN risk|NN benefit|NN general|NN benefit|NN psa|NP test|NN Prostate cancer|Disease screen|NN harm|NN screen|NN treatment|NN
+urological|NN association|NN guideline|NN benefit|NN Prostate cancer|Disease mortality|NN man|NN men|NN period|NN harm|NN test|NN treatment|NN
+aua|NN offer|NN screen|NN decision|NN make|NN screen|NN year|NN kingdom|NN program|NN screen|NN Prostate cancer|Disease management|NN article|NN management|NN Prostate cancer|Disease
+decision|NN Prostate cancer|Disease treatment|NN
+Prostate cancer|Disease form|NN men|NN treatment|NN treatment|NN person|NN health|NN problem|NN symptom|NN
+approache|NN treatment|NN surveillance|NN Prostate cancer|Disease management|NN management|NN approache|NN intent|NN surveillance|NN intent|NN
+option|NN stage|NN disease|NN score|NN psa|NP level|NN
+factor|NN age|NN health|NN person|NN view|NN treatment|NN side|NN effect|NN
+treatment|NN side|NN effect|NN dysfunction|NN incontinence|NN treatment|NN discussion|NN goal|NN therapy|NN risk|NN lifestyle|NN alteration|NN
+combination|NN treatment|NN option|NN Prostate cancer|Disease
+guideline|NN treatment|NN situation|NN estimation|NN person|NN life|NN expectancy|NN people|NN questionnaire|NN knowledge|NN understand|NN treatment|NN option|NN
+treatment|NN choice|NN question|NN radiotherapy|NN surgery|NN result|NN outcome|NN respect|NN bowel|NN function|NN year|NN
+radiation|NN therapy|NN prostatectomy|NN option|NN surgery|NN quality|NN life|NN hand|NN radiation|NN therapy|NN failure|NN complication|NN increase|NN bladder|NN colon|NN cancer|NN
+disease|NN prostatectomy|NN wait|NN
+meta-analysis|NN effect|NN position|NN urination|NN male|NN prostate|NN enlargement|NN sit|NN
+empty|NN trend|NN flow|NN time|NN surveillance|NN
+men|NN Prostate cancer|Disease surveillance|NN
+observation|NN tumor|NN time|NN intention|NN treatment|NN sign|NN cancer|NN progression|NN
+surveillance|NN wait|NN term|NN treatment|NN program|NN monitor|NN assumption|NN palliative|NN treatment|NN disease|NN
+surveillance|NN tumor|NN sign|NN growth|NN appearance|NN symptom|NN
+monitor|NN process|NN psa|NP test|NN examination|NN prostate|NN biopsy|NN
+goal|NN surveillance|NN side|NN effect|NN treatment|NN tumor|NN people|NN problem|NN
+approach|NN cancer|NN anxiety|NN people|NN cancer|NN cancer|NN
+people|NN Prostate cancer|Disease harm|NN person|NN cause|NN cancer|NN
+treatment|NN Prostate cancer|Disease treatment|NN Prostate cancer|Disease surgery|NN prostatectomy|NN radiation|NN therapy|NN prostate|NN beam|NN radiation|NN therapy|NN particle|NN therapy|NN ultrasound|NN chemotherapy|NN chemotherapeutic|NN drug|NN therapy|NN combination|NN
+use|NN antigen|NN psa|NP screen|NN diagnosis|NN age|NN cancer|NN stage|NN majority|NN case|NN men|NN year|NN case|NN men|NN year|NN cancer|NN network|NN guideline|NN life|NN expectancy|NN year|NN treatment|NN decision|NN practice|NN patient|NN treatment|NN option|NN radiation|NN therapy|NN therapy|NN wait|NN pattern|NN factor|NN patient|NN preference|NN regard|NN quality|NN life|NN addition|NN Prostate cancer|Disease risk|NN factor|NN pretreatment|NN psa|NP gleason|NP score|NN stage|NN
+life|NN expectancy|NN advance|NN treatment|NN disease|NN patient|NN consequence|NN Prostate cancer|Disease
+interest|NN role|NN Prostate cancer|Disease treatment|NN modality|NN surgery|NN radiation|NN population|NN disease|NN
+cancer|NN prostate|NN treatment|NN option|NN doctor|NN Prostate cancer|Disease use|NN variety|NN nomogram|NN probability|NN spread|NN
+treatment|NN surveillance|NN beam|NN radiation|NN therapy|NN hifu|NN surgery|NN general|NN men|NN cancer|NN prostate|NN
+therapy|NN chemotherapy|NN disease|NN prostate|NN
+exception|NN therapy|NN radiation|NN treatment|NN tumor|NN amount|NN metastase|NN therapy|NN stage|NN
+process|NN tumor|NN therapy|NN chemotherapy|NN treatment|NN cancer|NN
+cancer|NN vaccine|NN result|NN benefit|NN increase|NN survival|NN men|NN Prostate cancer|Disease
+hormone|NN cancer|NN treatment|NN year|NN resume|NN growth|NN hormone|NN therapy|NN
+Prostate cancer|Disease androgen-independent|NN Prostate cancer|Disease term|NN castration-resistant|NN hormone|NN castration|NN treatment|NN reduction|NN androgentestosteronedht|NN chemical|NN mean|NN cancer|NN reliance|NN hormone|NN receptor|NN activation|NN
+cancer|NN docetaxel|NN treatment|NN crpc|NN survival|NN benefit|NN month|NN chemotherapy|NN treatment|NN combination|NN thalidomide|NN prednisone|NN treatment|NN
+treatment|NN sipuleucel-t|NN increase|NN survival|NN month|NN second|NN line|NN therapy|NN increase|NN survival|NN month|NN placebo|NN enzalutamide|NN second|NN line|NN agent|NN survival|NN advantage|NN placebo|NN
+trial|NN crpc|NN chemotherapy|NN
+subset|NN people|NN drug|NN cell|NN characteristics|NN stem|NN cell|NN desire|NN outcome|NN people|NN crpc|NN claim|NN dose|NN combination|NN therapy|NN androgen|NN agent|NN combination|NN cell|NN
+advance|NN combination|NN block|NN agent|NN cell|NN differentiation|NN therapy|NN drug|NN care|NN
+treatment|NN Prostate cancer|Disease treatment|NN Prostate cancer|Disease surgery|NN prostatectomy|NN radiation|NN therapy|NN prostate|NN beam|NN radiation|NN therapy|NN ultrasound|NN chemotherapy|NN chemotherapeutic|NN drug|NN therapy|NN combination|NN
+Prostate cancer|Disease rate|NN country|NN rest|NN world|NN
+risk|NN factor|NN Prostate cancer|Disease country|NN life|NN expectancy|NN diet|NN meat|NN
+access|NN screen|NN program|NN detection|NN rate|NN
+united|NP states|NP Prostate cancer|Disease time|NN diagnosis|NN survival|NN rate|NN metastase|NN survival|NN rate|NN japan|NP death|NN Prostate cancer|Disease rate|NN united|NP states|NP europe|NP india|NP half|NN people|NN Prostate cancer|Disease prostate|NN year|NN men|NN time|NN Prostate cancer|Disease Prostate cancer|Disease death|NN men|NN shanghai|NP china|NP nigeria|NP men|NN Prostate cancer|Disease year|NN men|NN disease|NN survival|NN month|NN
+patient|NN treatment|NN indicator|NN disease|NN outcome|NN stage|NN psa|NP level|NN score|NN
+general|NN grade|NN stage|NN prognosis|NN
+risk|NN patient|NN
+prediction|NN experience|NN group|NN patient|NN cancer|NN stage|NN
+charles|NP huggins|NP ablation|NN therapy|NN regression|NN androgen-dependent|NN Prostate cancer|Disease nobel|NP prize|NN physiology|NN medicine|NN discovery|NN
+ablation|NN therapy|NN remission|NN 8090|NN patient|NN therapy|NN median|NN survival|NN month|NN
+remission|NN phenotype|NN survival|NN month|NN time|NN initiation|NN ablation|NN therapy|NN Prostate cancer|Disease progression|NN possibility|NN way|NN cancer|NN change|NN lack|NN androgen|NN patient|NN
+classification|NN system|NN prostate|NN adenocarcinoma|NN type|NN type|NN Prostate cancer|Disease
+needle|NN biopsy|NN
+Prostate cancer|Disease men|NN result|NN disease|NN
+decision|NN treatment|NN type|NN time|NN estimation|NN risk|NN tumor|NN treatment|NN progress|NN metastase|NN mortality|NN
+tool|NN outcome|NN stage|NN recurrence|NN surgery|NN radiation|NN therapy|NN
+combine|NN stage|NN grade|NN psa|NP level|NN number|NN percentage|NN biopsy|NN core|NN age|NN information|NN
+classification|NN men|NN risk|NN stage|NN grade|NN psa|NP
+practice|NN research|NN set|NN
+downside|NN system|NN parameter|NN gleason|NN score|NN psa|NP patient|NN
+table|NN outcome|NN margin|NN status|NN extension|NN vesicle|NN invasion|NN variable|NN table|NN
+kattan|NN recurrence|NN surgery|NN radiation|NN therapy|NN data|NN time|NN diagnosis|NN surgery|NN
+nomogram|NN paper|NN graph|NN software|NN website|NN computer|NN
+score|NN likelihood|NN disease|NN time|NN interval|NN treatment|NN
+cancer|NN risk|NN assessment|NN score|NN status|NN recurrence|NN surgery|NN
+accuracy|NN nomogram|NN paper|NN table|NN calculator|NN
+point|NN psa|NP grade|NN stage|NN age|NN percentage|NN core|NN sum|NN score|NN point|NN double|NN risk|NN recurrence|NN
+score|NN data|NN database|NN
+patient|NN patient|NN capsure|NN search|NN registry|NN data|NN veteran|NN administration|NN center|NN cohort|NN germany|NP cohort|NN johns|NP hopkins|NP university|NN metastasis|NN mortality|NN radiation|NN therapy|NN wait|NN deprivation|NN therapy|NN
+life|NN expectancy|NN
+life|NN expectancy|NN projection|NN average|NN population|NN lifestyle|NN factor|NN number|NN
+example|NN study|NN man|NN year|NN life|NN bmy|NN year|NN life|NN bmy|NN men|NN weight|NN
+smoker|NN year|NN smoker|NN year|NN
+time|NN evidence|NN surgery|NN beam|NN radiation|NN advantage|NN regard|NN death|NN rate|NN surgery|NN surgery|NN men|NN form|NN cancer|NN
+information|NN seed|NN radiation|NN life|NN treatment|NN data|NN
+people|NN disease|NN Prostate cancer|Disease year|NN diagnosis|NN
+men|NN age|NN disease|NN survival|NN year|NN death|NN cause|NN
+men|NN disease|NN Prostate cancer|Disease mortality|NN year|NN diagnosis|NN age|NN diagnosis|NN nature|NN Prostate cancer|Disease epidemiology|NN death|NN Prostate cancer|Disease inhabitant|NN data|NN 2024|NN 3236|NN
+Prostate cancer|Disease second|NN cancer|NN cancer|NN cause|NN cancer|NN death|NN male|NN Prostate cancer|Disease death|NN death|NN rate|NN Prostate cancer|Disease world|NN
+rate|NN country|NN south|NN east|NN asia|NP europe|NP north|NP america|NP australia|NP new|NP zealand|NP Prostate cancer|Disease men|NN men|NN figure|NN men|NN
+incidence|NN rate|NN Prostate cancer|Disease men|NN united|NP states|NP time|NN counterpart|NN shanghai|NP tianjin|NP rate|NN rate|NN detection|NN Prostate cancer|Disease incidence|NN china|NP japan|NP rate|NN country|NN
+men|NN Prostate cancer|Disease age|NN majority|NN case|NN cancer|NN concern|NN
+men|NN Prostate cancer|Disease identification|NN condition|NN treatment|NN men|NN effect|NN possibility|NN live|NN united|NP states|NP new|NP case|NN death|NN Prostate cancer|Disease united|NP states|NP male|NN
+case|NN 29430|NN Prostate cancer|Disease death|NN united|NP states|NP
+Prostate cancer|Disease cause|NN cancer|NN death|NN men|NN lung|NN cancer|NN cancer|NN
+cancer|NN cancer-relate|NN death|NN
+incidence|NN rate|NN increase|NN inception|NN use|NN antigen|NN psa|NP screen|NN fall|NN incidence|NN
+decline|NN Prostate cancer|Disease incidence|NN rate|NN men|NN year|NN 2013|NP
+2013|NN mortality|NN rate|NN
+decline|NN mortality|NN rate|NN jurisdiction|NN benefit|NN psa|NP screen|NN observation|NN phenomena|NN treatment|NN
+lifetime|NN risk|NN Prostate cancer|Disease diagnosis|NN lifetime|NN risk|NN disease|NN
+cancer|NN statistics|NN cancer|NN society|NN cancer|NN institute|NN proportion|NN disease|NN stage|NN white|NN american|NN proportion|NN disease|NN stage|NN white|NN american|NN
+autopsy|NN study|NN men|NN increase|NN occult|NN Prostate cancer|Disease age|NN men|NN year|NN
+cancer|NN men|NN cancer|NN men|NN score|NN score|NN indicator|NN Prostate cancer|Disease canada|NP
+Prostate cancer|Disease type|NN cancer|NN men|NN
+2016|NN men|NN Prostate cancer|Disease europe|NP
+europe|NP cancer|NN breast|NN case|NN
+kingdom|NN second|NN cause|NN cancer|NN death|NN lung|NN cancer|NN case|NN year|NN die|NN history|NN
+prostate|NN anatomist|NN massa|NN anatomist|NN andreas|NP vesalius|NP Prostate cancer|Disease Prostate cancer|Disease disease|NN life|NN expectancy|NN detection|NN method|NN century|NN
+treatment|NN Prostate cancer|Disease surgery|NN obstruction|NN removal|NN gland|NN prostatectomy|NN hugh|NP h|NP
+young|NP johns|NP hopkins|NP hospital|NN removal|NN teste|NN Prostate cancer|Disease success|NN
+resection|NN prostate|NN prostatectomy|NN relief|NN obstruction|NN middle|NN century|NN function|NN
+retropubic|NN patrick|NP walsh|NP approach|NN removal|NN prostate|NN lymph|NN node|NN maintenance|NN function|NN
+charles|NP b|NP
+huggins|NP study|NN testosterone|NN production|NN men|NN Prostate cancer|Disease
+discovery|NN castration|NN huggins|NP nobel|NP prize|NN physiology|NN medicine|NN role|NN hormone|NN reproduction|NN andrzej|NP w|NP
+roger|NP nobel|NP prize|NN physiology|NN medicine|NN work|NN
+receptor|NN agonist|NN Prostate cancer|Disease
+radiation|NN therapy|NN Prostate cancer|Disease century|NN radium|NN implant|NN
+beam|NN radiotherapy|NN x-ray|NN radiation|NN source|NN middle|NN century|NN
+seed|NN Prostate cancer|Disease
+chemotherapy|NN Prostate cancer|Disease
+regimen|NN cyclophosphamide|NN 5-fluorouracil|NN regimen|NN host|NN chemotherapy|NN drug|NN society|NN culture|NN
+people|NN Prostate cancer|Disease encounter|NN disparity|NN awareness|NN fund|NN media|NN coverage|NN treatment|NN outcomescompare|NN cancer|NN prevalence|NN guardian|NN britain|NP nurse|NN breast|NN cancer|NN Prostate cancer|Disease
+wait|NN time|NN referral|NN diagnosis|NN week|NN breast|NN cancer|NN month|NN Prostate cancer|Disease report|NN
+Prostate cancer|Disease coalition|NN Prostate cancer|Disease drug|NN market|NN treat|NN breast|NN cancer|NN
+time|NN bia|NN cancer|NN fund|NN discrepancy|NN kingdom|NN government|NN cancer|NN charity|NN cancer|NN research|NN uk|NP equality|NN campaigner|NN author|NN warren|NP farrell|NP spend|NN inequality|NN example|NN government|NN women|NN health|NN men|NN health|NN
+area|NN detection|NN government|NN fund|NN mandate|NN Prostate cancer|Disease screen|NN breast|NN cancer|NN program|NN
+example|NN report|NN state|NN mandate|NN insurance|NN coverage|NN routine|NN breast|NN cancer|NN screen|NN Prostate cancer|Disease Prostate cancer|Disease experience|NN media|NN coverage|NN cancer|NN study|NN coalition|NN breast|NN cancer|NN story|NN cover|NN cancer|NN prostate|NN
+Prostate cancer|Disease awareness|NN month|NN place|NN september|NP number|NN country|NN
+ribbon|NN cause|NN research|NN journal|NN Prostate cancer|Disease journal|NN
+phase|NN trial|NN chemo-naive|NN patient|NN population|NN fda|NN approval|NN 2012|NN enzalutamide|NN treatment|NN Prostate cancer|Disease
+phase|NN trial|NN patient|NN bone|NN metastasis|NN
+analysis|NN survival|NN quality|NN life|NN
+study|NN reason|NN placebo|NN group|NN treatment|NN
+bone|NN isotope|NN cancer|NN cell|NN alpha|NN source|NN
+food|NN drug|NN administration|NN fda|NN schedule|NN priority|NN review|NN program|NN approval|NN medicine|NN agency|NN
+inhibitor|NN olaparib|NN promise|NN trial|NN trial|NN crpc|NN checkpoint|NN inhibitor|NN inhibitor|NN tok-001|NN immunotherapy|NN
+medication|NN block|NN target|NN ligand|NN bind|NN domain|NN
+decade|NN molecule|NN domain|NN therapy|NN advantage|NN Prostate cancer|Disease therapy|NN pre-clinical|NN
+5-lipoxygenase|NN role|NN survival|NN Prostate cancer|Disease cell|NN target|NN enzyme|NN therapy|NN tumor|NN growth|NN cancer|NN metastasis|NN cell|NN death|NN cancer|NN cell|NN arachidonate|NN inhibitor|NN cell|NN death|NN Prostate cancer|Disease cell|NN
+Prostate cancer|Disease progression|NN profile|NN Prostate cancer|Disease study|NN link|NN signature|NN Prostate cancer|Disease cancer|NN model|NN
+scientist|NN Prostate cancer|Disease cell|NN line|NN mechanism|NN progression|NN Prostate cancer|Disease
+pc-3|NN du145|NN Prostate cancer|Disease cell|NN line|NN
+cancer|NN cell|NN line|NN lymph|NN node|NN lesion|NN adenocarcinoma|NN
+cell|NN adenocarcinoma|NN bone|NN brain|NN
+cell|NN receptor|NN cell|NN
+transcription|NN factor|NN receptor|NN family|NN
+development|NN prostate|NN signal|NN development|NN Prostate cancer|Disease
+proliferation|NN cell|NN proliferation|NN pc-3|NN du-145|NN cell|NN
+elevation|NN expression|NN prostate|NN patient|NN androgen-independent|NN atcc|NN cell|NN deprivation|NN study|NN Prostate cancer|Disease progression|NN
+lncap|NN cell|NN expression|NN prostate|NN antigen|NN treatment|NN
+paradox|NN proliferation|NN androgen-independent|NN Prostate cancer|Disease cell|NN
+virus|NN prostate|NN report|NN virus|NN find|NN contamination|NN journal|NN science|NN article|NN diagnosis|NN
+present|NN area|NN research|NN investigation|NN method|NN prostate|NN tumor|NN detection|NN
+test|NN presence|NN mrna|NN fluid|NN prostate|NN urine|NN sample|NN investigation|NN
+mrna|NN prostate|NN cell|NN Prostate cancer|Disease cell|NN
+test|NN result|NN specimen|NN ratio|NN mrna|NN psa|NP mrna|NN
+replacement|NN serum|NN psa|NP level|NN test|NN tool|NN men|NN Prostate cancer|Disease biopsy|NN serum|NN psa|NP biopsyrebiopsy|NN
+expression|NN pca3|NN sample|NN likelihood|NN biopsy|NN presence|NN cancer|NN cell|NN prostate|NN
+Prostate cancer|Disease foundation|NN cancer|NN

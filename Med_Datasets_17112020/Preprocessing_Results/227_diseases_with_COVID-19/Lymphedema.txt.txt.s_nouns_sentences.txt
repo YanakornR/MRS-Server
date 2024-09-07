@@ -1,0 +1,219 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN
+article|NN reference|NN verification|NN source|NN
+content|NN article|NN reference|NN
+rod|NN Lymphedema|Disease name|NN Lymphedema|Disease Lymphedema|Disease extremity|NN Lymphedema|Disease medicine|NN medicine|NN rehabilitation|NN general|NN surgery|NN plastic|NN surgery|NN
+Lymphedema|Disease Lymphedema|Disease Lymphedema|Disease condition|NN fluid|NN retention|NN tissue|NN swell|NN system|NN
+system|NN function|NN portion|NN system|NN fluid|NN bloodstream|NN
+Lymphedema|Disease complication|NN cancer|NN treatment|NN infection|NN number|NN disorder|NN
+number|NN treatment|NN symptom|NN
+Lymphedema|Disease risk|NN infection|NN system|NN
+sign|NN symptom|NN complication|NN cause|NN Lymphedema|Disease physiology|NN diagnosis|NN Lymphedema|Disease classification|NN classification|NN method|NN treatment|NN therapy|NN compression|NN exercise|NN skin|NN care|NN surgery|NN level|NN laser|NN therapy|NN prevalence|NN reference|NN link|NN
+sign|NN symptom|NN
+manifestation|NN Lymphedema|Disease tissue|NN swell|NN
+disorder|NN skin|NN change|NN discoloration|NN hyperplasia|NN thicken|NN ulcer|NN
+risk|NN infection|NN tissue|NN
+Lymphedema|Disease ct|NN scan|NN
+Lymphedema|Disease edema|NN insufficiency|NN compromise|NN drainage|NN drainage|NN
+insufficiency|NN venouslymphatic|NN disorder|NN
+impairment|NN lymph|NN fluid|NN system|NN ability|NN transport|NN amount|NN fluid|NN tissue|NN
+fluid|NN cause|NN tissue|NN channel|NN increase|NN size|NN number|NN oxygen|NN availability|NN
+wound|NN heal|NN culture|NN medium|NN growth|NN infection|NN lymphangitis|NN case|NN skin|NN ulcer|NN Lymphedema|Disease patient|NN symptom|NN infection|NN treatment|NN infection|NN cellulitis|NN addition|NN danger|NN system|NN set|NN circle|NN
+case|NN Lymphedema|Disease form|NN cancer|NN mechanism|NN carcinogenesis|NN
+Lymphedema|Disease lymphangiosarcoma|NN syndrome|NN case|NN Lymphedema|Disease
+incidence|NN angiosarcoma|NN patient|NN year|NN mastectomy|NN Lymphedema|Disease grade|NN form|NN cancer|NN hemangioendothelioma|NN grade|NN
+Lymphedema|Disease difficulty|NN live|NN lifestyle|NN distress|NN
+Lymphedema|Disease injury|NN vessel|NN
+lymph|NN node|NN dissection|NN surgery|NN radiation|NN therapy|NN damage|NN system|NN treatment|NN cancer|NN breast|NN cancer|NN
+patient|NN cancer|NN condition|NN month|NN year|NN therapy|NN
+Lymphedema|Disease accident|NN disease|NN problem|NN system|NN function|NN area|NN world|NN cause|NN Lymphedema|Disease infection|NN
+damage|NN system|NN infection|NN
+syndrome|NN Lymphedema|Disease turner|NP syndrome|NN disease|NN syndrome|NN
+result|NN lymph|NN node|NN channel|NN
+Lymphedema|Disease birth|NN onset|NN puberty|NN year|NN adulthood|NN
+men|NN Lymphedema|Disease leg|NN
+case|NN Lymphedema|Disease abnormality|NN
+Lymphedema|Disease men|NN women|NN
+women|NN limb|NN breast|NN cancer|NN surgery|NN lymph|NN node|NN dissection|NN arm|NN side|NN body|NN surgery|NN
+breast|NN trunk|NN Lymphedema|Disease area|NN surgery|NN symptom|NN nipple|NN post|NN surgery|NN fat|NN necrosis|NN country|NN Lymphedema|Disease cancer|NN treatment|NN breast|NN cancer|NN patient|NN Lymphedema|Disease due|NN lymph|NN node|NN dissection|NN radiation|NN Lymphedema|Disease patient|NN cancer|NN men|NN incidence|NN Lymphedema|Disease patient|NN incidence|NN stage|NN removal|NN lymph|NN gland|NN addition|NN radiotherapy|NN
+head|NN neck|NN Lymphedema|Disease surgery|NN radiation|NN therapy|NN tongue|NN throat|NN cancer|NN
+limb|NN groin|NN surgery|NN colon|NN cancer|NN removal|NN lymph|NN node|NN radiation|NN therapy|NN
+surgery|NN treatment|NN prostate|NN colon|NN cancer|NN Lymphedema|Disease lymph|NN node|NN
+onset|NN Lymphedema|Disease patient|NN cancer|NN surgery|NN aircraft|NN flight|NN due|NN cabin|NN pressure|NN immobility|NN
+cancer|NN survivor|NN compression|NN garment|NN decrease|NN swell|NN air|NN travel|NN
+case|NN Lymphedema|Disease use|NN tamoxifen|NN blood|NN clot|NN vein|NN thrombosis|NN medication|NN
+resolution|NN blood|NN clot|NN dvt|NN Lymphedema|Disease treatment|NN
+Lymphedema|Disease result|NN abnormality|NN system|NN birth|NN
+limb|NN limb|NN genitalia|NN face|NN
+scan|NN post-natally|NN
+form|NN Lymphedema|Disease disease|NN mutation|NN gene|NN Lymphedema|Disease turner|NP syndrome|NN Lymphedema|Disease syndrome|NN nail|NN syndrome|NN syndrome|NN
+cause|NN Lymphedema|Disease deficiency|NN
+deficiency|NN group|NN disorder|NN defect|NN inactivate|NN mutation|NN gene|NN
+mutation|NN reduction|NN haploinsufficiency|NN level|NN gene|NN product|NN
+protein|NN transcription|NN factor|NN development|NN maintenance|NN functionality|NN blood-form|NN tissue-form|NN stem|NN cell|NN
+consequence|NN mutation|NN level|NN gata2|NN individual|NN time|NN disorder|NN
+defect|NN vessel|NN valve|NN development|NN Lymphedema|Disease extremity|NN place|NN face|NN teste|NN
+form|NN deficiency|NN hear|NN loss|NN development|NN system|NN syndrome|NN
+Lymphedema|Disease incidence|NN birth|NN birth|NN preponderance|NN ratio|NN north|NP america|NP incidence|NN Lymphedema|Disease birth|NN birth|NN Lymphedema|Disease Lymphedema|Disease physiology|NN
+fluid|NN blood|NN circulation|NN protein|NN debris|NN bacteria|NN
+collection|NN fluid|NN lymph|NN collector|NN vessel|NN open|NN fluid|NN particle|NN cell|NN
+lumen|NN vessel|NN fluid|NN vessel|NN valve|NN valve|NN valve|NN
+lymph|NN vessel|NN peristaltic-like|NN action|NN muscle|NN cell|NN vessel|NN wall|NN
+action|NN drive|NN force|NN lymph|NN vessel|NN wall|NN
+regulation|NN frequency|NN power|NN contraction|NN system|NN
+movement|NN pressure|NN muscle|NN contraction|NN pulse|NN pressure|NN vacuum|NN chest|NN cavity|NN respiration|NN force|NN percentage|NN lymph|NN transport|NN
+fluid|NN vessel|NN lymph|NN node|NN debris|NN police|NN fluid|NN microbe|NN
+lymph|NN journey|NN duct|NN duct|NN drain|NN blood|NN circulation|NN
+diagnosis|NN stage|NN management|NN Lymphedema|Disease patient|NN limb|NN condition|NN treatment|NN
+diagnosis|NN Lymphedema|Disease history|NN exam|NN limb|NN measurement|NN image|NN study|NN lymphography|NN
+method|NN Lymphedema|Disease stage|NN treatment|NN protocol|NN Lymphedema|Disease extremity|NN case|NN head|NN neck|NN
+assessment|NN extremity|NN inspection|NN
+color|NN presence|NN hair|NN vein|NN size|NN sore|NN ulceration|NN
+lack|NN hair|NN circulation|NN problem|NN extremity|NN circumference|NN reference|NN time|NN
+stage|NN Lymphedema|Disease limb|NN
+palpation|NP wrist|NN ankle|NN degree|NN assessment|NN check|NN pulse|NN
+enlargement|NP node|NN week|NN infection|NN illness|NN breast|NN cancer|NN surgery|NN attention|NN
+diagnosis|NN detection|NN Lymphedema|Disease
+sign|NN observation|NN feel|NN heaviness|NN extremity|NN
+stage|NN Lymphedema|Disease accumulation|NN lymph|NN change|NN volume|NN circumference|NN
+Lymphedema|Disease diagnosis|NN measurement|NN difference|NN limb|NN limb|NN volume|NN circumference|NN
+criterion|NN volume|NN difference|NN ml|NN limb|NN difference|NN measurement|NN site|NN set|NN interval|NN limb|NN
+measurement|NN amount|NN fluid|NN limb|NN sensitivity|NN method|NN
+stasis|NN change|NN Lymphedema|Disease change|NN stasis|NN
+Lymphedema|Disease feet|NN malleoly|NN ankle|NN level|NN part|NN work-up|NN Lymphedema|Disease cause|NN extremity|NN swell|NN failure|NN heart-failure|NN nephropathy|NN hypertension|NN obesity|NN pregnancy|NN edema|NN
+diagnosis|NN grade|NN treatment|NN extremity|NN Lymphedema|Disease patient|NN
+taiwan|NP lymphoscintigraphy|NN stage|NN approach|NN assessment|NN Lymphedema|Disease Lymphedema|Disease grade|NN treatment|NN extremity|NN Lymphedema|Disease Lymphedema|Disease classification|NN
+fifth|NP expert|NN committee|NN filariasis|NN method|NN classification|NN Lymphedema|Disease classification|NN method|NN Lymphedema|Disease society|NN isl|NN system|NN symptom|NN observer|NN bia|NN
+image|NN modality|NN adjunct|NN stage|NN diagnosis|NN
+Lymphedema|Disease expert|NN dr|NP
+ming-huei|NP cheng|NP cheng|NN Lymphedema|Disease grade|NN tool|NN severity|NN extremity|NN Lymphedema|Disease limb|NN measurement|NN option|NN management|NN Lymphedema|Disease
+grade|NN elevation|NN
+grade|NN elevation|NN
+grade|NN increase|NN volume|NN circumference|NN grade|NN Lymphedema|Disease stage|NN severity|NN assessment|NN
+fifth|NP expert|NN committee|NN filariasis|NN society|NN lymphologycitation|NN stage|NN system|NN severity|NN Lymphedema|Disease
+assistance|NN image|NN apparatus|NN ct|NN stage|NN physician|NN intervention|NN
+stage|NN vessel|NN damage|NN
+transport|NN capacity|NN amount|NN lymph|NN
+stage|NN swell|NN increase|NN day|NN patient|NN flat|NN bed|NN
+tissue|NN pit|NN stage|NN fingertip|NN area|NN indent|NN reverse|NN elevation|NN
+wake|NN morn|NN limb|NN area|NN size|NN
+treatment|NN point|NN
+stage|NN management|NN
+tissue|NN consistency|NN fingertip|NN area|NN indentation|NN
+fibrosis|NN stage|NN Lymphedema|Disease begine|NN harden|NN limb|NN size|NN
+stage|NN limb|NN area|NN
+tissue|NN patient|NN surgery|NN
+risk|NN benefit|NN damage|NN system|NN fact|NN Lymphedema|Disease
+stage|NN size|NN circumference|NN limb|NN
+lump|NN protusion|NN knob|NN skin|NN
+stage|NN limb|NN skin|NN fold|NN patient|NN stage|NN
+stage|NN knob|NN size|NN cluster|NN shape|NN limb|NN
+mobility|NN patient|NN
+stage|NN patient|NN routine|NN activity|NN walk|NN bath|NN cook|NN
+assistance|NN family|NN health|NN care|NN system|NN
+extremity|NN Lymphedema|Disease stage|NN figure|NN dr|NP
+ming-huei|NP cheng|NP
+severity|NP extremity|NN Lymphedema|Disease stage|NN
+extremity|NN Lymphedema|Disease stage|NN
+classification|NN method|NN grade|NN
+Lymphedema|Disease severity|NN extremity|NN
+grade|NN edema|NN part|NN forearm|NN hand|NN leg|NN foot|NN
+difference|NN circumference|NN cm|NN tissue|NN change|NN
+grade|NN edema|NN limb|NN quadrant|NN trunk|NN
+difference|NN circumference|NN cm|NN
+tissue|NN change|NN pit|NN
+grade|NN edema|NN Lymphedema|Disease limb|NN trunk|NN quadrant|NN
+difference|NN centimeter|NN
+skin|NN alteration|NN cyst|NN fistulae|NN
+patient|NN attack|NN
+grade|NN symptom|NN grade|NN extremity|NN
+grade|NN edema|NN stage|NN Lymphedema|Disease extremity|NN blockage|NN lymph|NN channel|NN
+treatment|NN severity|NN degree|NN fibrosis|NN
+people|NN Lymphedema|Disease treatment|NN treatment|NN combination|NN compression|NN massage|NN compression|NN garment|NN bandage|NN complex|NN physiotherapy|NN system|NN massage|NN skin|NN care|NN garment|NN
+combination|NN treatment|NN program|NN treatment|NN
+year|NN godoy|NP method|NN concept|NN treatment|NN Lymphedema|Disease normalization|NN normalization|NN stage|NN elephantiasis|NN normalization|NN decongestive|NN therapy|NN
+cdt|NP tool|NN Lymphedema|Disease management|NN manipulation|NN duct|NN compression|NN exercise|NN skin|NN care|NN
+technique|NN emil|NP treatment|NN sinusitis|NN disorder|NN
+cdt|NP visit|NN therapist|NN
+Lymphedema|Disease patient|NN participation|NN care|NN use|NN compression|NN garment|NN flow|NN foam|NN garment|NN
+manual|NN manipulation|NN duct|NN manual|NN drainage|NN mld|NN massage|NN lymph|NN flow|NN return|NN blood|NN circulation|NN system|NN
+session|NN drainage|NN neck|NN trunk|NN extremity|NN order|NN minute|NN
+cdt|NP Lymphedema|Disease leg|NN break|NN tissue|NN
+citation|NN compression|NN Lymphedema|Disease compression|NN sleeve|NN mannequin|NN
+person|NN Lymphedema|Disease compression|NN imperative|NN management|NN condition|NN
+day|NN sleep|NN
+compression|NN garment|NN limb|NN therapy|NN reduction|NN
+garment|NN containment|NN reduction|NN style|NN option|NN price|NN
+garment|NN fitter|NN Lymphedema|Disease therapist|NN option|NN patient|NN
+compression|NN bandage|NN wrap|NN application|NN layer|NN pade|NN short-stretch|NN bandage|NN area|NN
+bandage|NN bandage|NN sprain|NN bandage|NN tension|NN Lymphedema|Disease fact|NN end|NN tourniquet|NN effect|NN
+activity|NN exercise|NN activity|NN bandage|NN pump|NN action|NN lymph|NN vessel|NN resistance|NN
+flow|NN area|NN
+compression|NN therapy|NN
+compression|NN therapy|NN ipc|NN sleeve|NN cell|NN movement|NN lymph|NN fluid|NN pump|NN therapy|NN addition|NN treatment|NN compression|NN bandage|NN lymph|NN drainage|NN
+pump|NN therapy|NN lot|NN past|NN Lymphedema|Disease
+case|NN pump|NN therapy|NN help|NN tissue|NN drainage|NN link|NN pump|NN therapy|NN incidence|NN limb|NN pump|NN therapy|NN limb|NN ipc|NN combination|NN therapy|NN
+study|NN patient|NN modality|NN drainage|NN therapy|NN cdt|NP pump|NN reduction|NN limb|NN volume|NN patient|NN exercise|NN
+study|NN effect|NN exercise|NN patient|NN Lymphedema|Disease risk|NN Lymphedema|Disease patient|NN Lymphedema|Disease
+study|NN resistance|NN train|NN swell|NN patient|NN Lymphedema|Disease decrease|NN patient|NN addition|NN effect|NN update|NN resistance|NN train|NN form|NN exercise|NN risk|NN Lymphedema|Disease patient|NN breast|NN treatment|NN
+compression|NN garment|NN exercise|NN exception|NN swim|NN patient|NN patient|NN risk|NN Lymphedema|Disease physician|NN Lymphedema|Disease therapist|NN exercise|NN regimen|NN
+resistance|NN train|NN period|NN patient|NN lymph|NN node|NN dissection|NN breast|NN cancer|NN
+study|NN effect|NN exercise|NN Lymphedema|Disease Lymphedema|Disease breast|NN cancer|NN treatment|NN
+skin|NN care|NN
+Lymphedema|Disease result|NN system|NN
+system|NN nature|NN person|NN condition|NN precaution|NN overload|NN system|NN symptom|NN
+skin|NN care|NN application|NN moisturizer|NN sunscreen|NN bug|NN repellent|NN
+care|NN task|NN risk|NN cut|NN exposure|NN bacteria|NN garden|NN cook|NN
+cut|NN scrape|NN trauma|NN skin|NN area|NN dress|NN area|NN
+procedure|NN solution|NN patient|NN Lymphedema|Disease
+surgery|NN patient|NN therapist|NN Lymphedema|Disease treatment|NN treatment|NN Lymphedema|Disease
+cdt|NP mld|NP compression|NN bandage|NN component|NN Lymphedema|Disease treatment|NN lymph|NN node|NN transfer|NN
+lymph|NN node|NN transfer|NN treatment|NN arm|NN extremity|NN
+node|NN groin|NN area|NN area|NN artery|NN vein|NN armpit|NN wrist|NN area|NN
+technique|NN artery|NN vein|NN blood|NN vessel|NN axilla|NN support|NN lymph|NN node|NN blood|NN supply|NN week|NN surgery|NN
+mechanism|NN lymph|NN node|NN flap|NN transfer|NN
+lymph|NN node|NN act|NN lymph|NN pump|NN pressure|NN gradient|NN inflow|NN outflow|NN fluid|NN tissue|NN system|NN mean|NN channel|NN node|NN flap|NN
+catchment|NN effect|NN lymph|NN tissue|NN lymph|NN node|NN pressure|NN lesion|NN limb|NN
+gravity|NN effect|NN arm|NN forearm|NN forearm|NN wrist|NN
+investigation|NN hypothesis|NN
+lymph|NN node|NN conduit|NN filter|NN fluid|NN arm|NN return|NN circulation|NN
+technique|NN lymph|NN node|NN transfer|NN flap|NN breast|NN reconstruction|NN
+treatment|NN arm|NN Lymphedema|Disease creation|NN breast|NN surgery|NN
+lymph|NN node|NN transfer|NN fluid|NN return|NN form|NN function|NN arm|NN
+case|NN lymph|NN node|NN group|NN artery|NN vein|NN tissue|NN breast|NN reconstruction|NN
+node|NN transfer|NN patient|NN extremity|NN circumference|NN compression|NN wrap|NN edema|NN fluid|NN
+fluid|NN component|NN Lymphedema|Disease amount|NN Lymphedema|Disease therapy|NN compression|NN garment|NN use|NN anastomosis|NN
+anastomosis|NN use|NN channel|NN vein|NN
+lymphatics|NN mm|NN mm|NN diameter|NN
+procedure|NN use|NN technique|NN suture|NN microscope|NN
+solution|NN extremity|NN Lymphedema|Disease patient|NN result|NN range|NN improvement|NN resolution|NN
+course|NN disease|NN patient|NN extremity|NN circumference|NN compression|NN wrap|NN edema|NN fluid|NN
+patient|NN compression|NN lva|NN amount|NN extremity|NN volume|NN tissue|NN protein|NN fat|NN
+anastomosis|NN b|NP
+colleague|NN treatment|NN Lymphedema|Disease extremity|NN pioneer|NN isao|NN colleague|NN surgery|NN technique|NN standard|NN study|NN follow-up|NN lva|NN Lymphedema|Disease patient|NN improvement|NN treatment|NN stock|NN pump|NN
+study|NN result|NN reduction|NN volume|NN improvement|NN system|NN study|NN group|NN breast|NN cancer|NN patient|NN risk|NN Lymphedema|Disease onset|NN Lymphedema|Disease
+result|NN reduction|NN number|NN patient|NN Lymphedema|Disease study|NN surgery|NN severity|NN Lymphedema|Disease breast|NN cancer|NN patient|NN study|NN case|NN Lymphedema|Disease microsurgery|NN result|NN report|NN microsurgeon|NN therapist|NN patient|NN surgery|NN span|NN year|NN improvement|NN effectiveness|NN
+fluoroscopy|NN tool|NN evaluation|NN use|NN lymphography|NN surgery|NN
+people|NN limb|NN compression|NN therapy|NN candidate|NN suction|NN
+procedure|NN Lymphedema|Disease condition|NN
+technique|NN therapy|NN compression|NN garment|NN care|NN therapist|NN technique|NN
+procedure|NN brorson|NN trial|NN compression|NN therapy|NN cct|NP Lymphedema|Disease treatment|NN recurrence|NN year|NN patient|NN Lymphedema|Disease recurrence|NN lymphatic|NN compression|NN therapy|NN compression|NN therapy|NN
+year|NN cannulae|NN equipment|NN addition|NN introduction|NN tourniquet|NN technique|NN blood|NN loss|NN
+technique|NN procedure|NN train|NN
+vessel|NN graft|NN
+technique|NN lymph|NN vessel|NN graft|NN
+pathway|NN resection|NN lymph|NN node|NN bypass|NN vessel|NN
+vessel|NN lymph|NN pump|NN force|NN
+graft|NN collector|NN front|NN obstruction|NN
+technique|NN arm|NN treatment|NN breast|NN cancer|NN edema|NN extremity|NN resection|NN lymph|NN node|NN radiation|NN
+procedure|NN procedure|NN germany|NP
+method|NN baumeister|NN
+method|NN study|NN volume|NN reduction|NN extremity|NN year|NN surgery|NN patient|NN mld|NN compression|NN therapy|NN improvement|NN quality|NN life|NN vessel|NN graft|NN investigation|NN enhancement|NN transport|NN graft|NN
+patency|NN graft|NN year|NN lymphography|NN mry|NN
+level|NN laser|NN therapy|NN
+laser|NN therapy|NN food|NN drug|NN administration|NN fda|NN treatment|NN Lymphedema|Disease november|NP
+cancer|NN institute|NN
+study|NN laser|NN therapy|NN Lymphedema|Disease way|NN women|NN
+cycle|NN laser|NN treatment|NN volume|NN arm|NN fluid|NN tissue|NN hardness|NN patient|NN Lymphedema|Disease month|NN
+rationale|NN laser|NN therapy|NN decrease|NN fibrosis|NN stimulation|NN macrophage|NN system|NN role|NN lymphangiogenesis|NN
+Lymphedema|Disease people|NN
+disease|NN lymphotherapy|NN olszewski|NP

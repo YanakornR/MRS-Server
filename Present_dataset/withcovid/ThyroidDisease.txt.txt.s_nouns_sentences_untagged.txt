@@ -1,0 +1,204 @@
+encyclopedia|NN dysfunction|NN jump|NN navigation|NN jump|NN information|NN thyroid|NN disease|NN women|NN thyroid|NN disease|NN 0534|NN illustration|NN goiter|NN type|NN thyroid|NN disease|NN specialty|NN genetics|NN 
+thyroid|NN disease|NN condition|NN function|NN gland|NN 
+gland|NN front|NN neck|NN hormone|NN blood|NN organ|NN mean|NN organ|NN 
+hormone|NN body|NN energy|NN use|NN infant|NN development|NN childhood|NN development|NN 
+type|NN thyroid|NN disease|NN symptom|NN 
+person|NN type|NN time|NN 
+function|NN hormone|NN 
+function|NN hormone|NN 
+abnormality|NN enlargement|NN gland|NN 
+function|NN test|NN symptom|NN hypothyroidism|DS hyperthyroidism|DS 
+type|NN thyroiditis|NN postpartum|NN symptom|NN month|NN laboratory|NN test|NN type|NN thyroid|NN disease|NN 
+hypothyroid|NN symptom|NN fatigue|ST energy|NN weight_gain|ST inability|NN heart|NN rate|NN skin|NN constipation|ST hyperthyroid|NN symptom|NN irritability|ST anxiety|ST weight_loss|ST heartbeat|NN inability|NN heat|NN enlargement|NN abnormality|NN symptom|NN people|NN symptom|NN abnormality|NN notice|NN swell|NN neck|NN compression|NN airway|NN compression|NN vessel|NN neck|NN difficulty|NN swallow|NN nodule|NN symptom|NN hyperthyroidism|DS hypothyroidism|DS swell|NN neck|NN compression|NN structure|NN neck|NN 
+diagnosis|NN history|NN examination|NN 
+screen|NN thyroid|NN disease|NN patient|NN symptom|NN topic|NN united|NN states|NN dysfunction|NN thyroid|NN laboratory|NN test|NN support|NN rule|NN thyroid|NN disease|NN 
+blood|NN test|NN hormone|NN thyroxine|NN triiodothyronine|NN level|NN autoimmune|NN disease|NN thyroid|NN blood|NN test|NN autoantibody|NN 
+procedure|NN ultrasound|NN biopsy|NN scan|NN uptake|NN study|NN diagnosis|NN nodule|NN 
+treatment|NN thyroid|NN disease|NN disorder|NN 
+mainstay|NN treatment|NN people|NN hypothyroidism|DS people|NN hyperthyroidism|DS grave|NN disease|NN iodine|NN therapy|NN medication|NN removal|NN gland|NN surgery|NN nodule|NN size|NN goiter|NN structure|NN reason|NN content|NN 
+sign|NN symptom|NN disease|NN function|NN function|NN abnormality|NN side|NN effect|NN thyroid|NN disease|NN pregnancy|NN diagnosis|NN blood|NN test|NN function|NN test|NN antibody|NN marker|NN ultrasound|NN scan|NN uptake|NN biopsy|NN treatment|NN surgery|NN epidemiology|NN reference|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN condition|NN type|NN hyperthyroidism|DS 
+symptom|NN hypothyroidism|DS 
+weight_gain|ST movement|NN muscle|NN cramp|DS heart|NN rate|NN sensitivity|NN temperature|NN constipation|ST mood|NN memory|NN difficulty|NN 
+symptom|NN hyperthyroidism|DS 
+difficulty|NN sleep|NN insomnia|ST weight_loss|ST heart|NN rate|NN tachycardia|DS palpitation|NN sensitivity|NN temperature|NN excess|NN sweate|NN anxiety|ST irritability|ST 
+symptom|NN change|NN hypothyroidism|DS fatigue|ST thine|NN hair|NN cycle|NN irregularity|NN muscle_weakness|ST ache|NN form|NN disease|NN function|NN article|NN 
+state|NN body|NN hormone|NN hormone|NN 
+inflammation|NN gland|NN disease|NN postpartum|NN thyroiditis|NN majority|NN case|NN function|NN case|NN lead|NN hypothyroidism|DS hypothyroidism|DS hypothyroidism|DS hypothyroidism|DS hormone|NN resistance|NN syndrome|NN hypothyroidism|DS deficiency|NN hormone|NN birth|NN 
+function|NN exophthalmo|NN eye|NN grave|NN disease|NN cause|NN article|NN 
+state|NN body|NN hormone|NN 
+hyperthyroid|NN condition|NN 
+grave|NN disease|NN thyroid|NN nodule|NN storm|NN struma|NN disease|NN hyperthyroidism|DS thyroiditis|NN 
+enlargement|NN gland|NN goiter|NN thyroid|NN duct|NN cyst|NN 
+adenoma|DS non-cancerous|NN tumor|NN cancer|DS anaplastic|NN metastasis|NN 
+side|NN effect|NN 
+medication|NN side|NN effect|NN function|NN 
+medication|NN hypothyroidism|DS hyperthyroidism|DS risk|NN medication|NN hormone|NN lab|NN test|NN symptom|NN change|NN treatment|NN 
+citation|NN medication|NN form|NN thyroid|NN disease|NN 
+hypothyroidism|DS type|NN salt|NN hypothyroidism|DS type|NN interferon|NN il-2|NN dopamine|NN agonist|NN somatostatin|NN block|NN hypothyroidism|DS 
+thyroid|NN disease|NN united|NN states|NN stem|NN condition|NN system|NN attack|NN 
+instance|NN thyroid|NN disease|NN body|NN condition|NN iodine_deficiency|DS condition|NN pregnancy|NN 
+thyroid|NN disease|NN category|NN disease|NN system|NN body|NN 
+disease|NN family|NN type|NN grave|NN disease|NN body|NN antibody|NN receptor|NN cell|NN receptor|NN present|NN thyroid|NN hormone|NN form|NN autoimmune|NN thyroid|NN disease|NN hashimoto|NN body|NN antibody|NN component|NN gland|NN peroxidase|NN receptor|NN antibody|NN system|NN cell|NN cause|NN inflammation|NN infiltration|NN destruction|NN fibrosis|DS gland|NN 
+enlargement|NN thyroid|NN thyroid|NN disease|NN 
+reason|NN signal|NN thyroid|NN way|NN receptor|NN hormone|NN cause|NN increase|NN size|NN hypertrophy|NN gland|NN state|NN iodine_deficiency|DS body|NN hormone|NN thyroid|NN hormone|NN stimulation|NN gland|NN size|NN increase|NN production|NN hormone|NN 
+grave|NN disease|NN multinodular|NN excess|NN stimulation|NN receptor|NN hormone|NN level|NN grave|NN disease|NN autoantibody|NN stimulate|NN receptor|NN place|NN multinodular|NN mutation|NN receptor|NN signal|NN tsh|NN case|NN thyroid|NN hormone|NN hormone|NN precursor|NN abnormality|NN intake|NN iodine|NN supplementation|NN medication|NN pregnancy|NN 
+change|NN body|NN pregnancy|NN 
+change|NN development|NN fetus|NN production|NN gonadotropin|NN 
+hormone|NN placenta|NN structure|NN tsh|NN tsh|NN receptor|NN hormone|NN pregnancy|NN increase|NN estrogen|NN mother|NN hormone|NN blood|NN change|NN pregnancy|NN look|NN state|NN range|NN pregnancy|NN trimester|NN range|NN tsh|NN hyperthyroidism|DS pregnancy|NN autoimmune|NN mechanism|NN graves|NN disease|NN diagnosis|NN hypothyroidism|DS pregnancy|NN hypothyroidism|DS place|NN hypothyroidism|DS pregnancy|NN individual|NN hypothyroidism|DS dose|NN account|NN globulin|NN present|NN pregnancy|NN diagnosis|NN 
+diagnosis|NN thyroid|NN disease|NN symptom|NN nodule|NN 
+patient|NN blood|NN test|NN 
+ultrasound|NN biopsy|NN scan|NN uptake|NN study|NN 
+blood|NN test|NN overview|NN system|NN hormone|NN 
+function|NN test|NN information|NN function|NN test|NN 
+hormone|NN blood|NN gland|NN 
+hormone|NN precursor|NN gland|NN 
+hormone|NN tsh|NN hormone|NN pituitary|NN cell|NN brain|NN 
+function|NN production|NN gland|NN 
+marker|NN gland|NN function|NN serum|NN hormone|NN level|NN 
+level|NN feedback|NN system|NN level|NN production|NN tsh|NN level|NN production|NN 
+level|NN doctor|NN screen|NN test|NN approach|NN 
+level|NN hormone|NN production|NN hypothyroidism|DS level|NN hormone|NN production|NN 
+tsh|NN level|NN level|NN blood|NN diagnosis|NN 
+body|NN transport|NN protein|NN 
+fraction|NN hormone|NN 
+level|NN total|NN consideration|NN hormone|NN addition|NN hormone|NN 
+measurement|NN drug|NN illness|NN concentration|NN transport|NN protein|NN total|NN hormone|NN level|NN 
+guideline|NN measurement|NN 
+level|NN evaluation|NN hypothyroidism|DS diagnosis|NN 
+level|NN evaluation|NN hypothyroidism|DS total|NN suspicion|NN accuracy|NN diagnosis|NN 
+total|NN serum|NN tsh|NN 
+hyperthyroidism|DS serum|NN serum|NN tsh|NN blood|NN level|NN patient|NN symptom|NN hyper-|NN hypothyroidism|DS tsh|NN 
+gland|NN disease|NN state|NN 
+antibody|NN antibody|NN peroxidase|NN antibody|NN receptor|NN antibody|NN 
+anti-thryoglobulin|NN peroxidase|NN antibody|NN patient|NN hashimoto|NN autoimmune|NN type|NN hypothyroidism|DS 
+level|NN patient|NN hypothyroidism|DS progression|NN hypothyroidism|DS 
+association|NN association|NN level|NN hypothyroidism|DS thyroid|NN disease|NN autoimmune|NN thyroid|NN disease|NN etiology|NN hyperthyroidism|DS evaluation|NN measurement|NN receptor|NN antibody|NN diagnosis|NN 
+graves|NN disease|NN tshrab|NN level|NN receptor|NN hormone|NN production|NN 
+marker|NN cancer|DS 
+level|NN papillary|NN adenocarcinoma|NN 
+information|NN disease|NN patient|NN cancer|DS 
+serum|NN level|NN thyroid|NN disease|NN 
+routine|NN measurement|NN serum|NN evaluation|NN nodule|NN thyroid|NN association|NN level|NN blood|NN cancer|DS 
+measurement|NN level|NN tool|NN due|NN calcitonin|NN level|NN variety|NN disease|NN cancer|DS level|NN 
+type|NN hypothyroidism|DS test|NN 
+hormone|NN trh|NN body|NN vein|NN 
+hormone|NN hypothalamus|NN gland|NN 
+pituitary|NN hormone|NN 
+amount|NN release|NN 
+amount|NN release-suppression|NN hypothyroidism|DS depression|ST cocaine_dependence|DS amphetamine|NN dependence|NN phencyclidine|NN abuse|NN 
+failure|NN phase|NN disorder|NN 
+people|NN nodule|NN point|NN live|NN 
+worry|NN cancer|DS cause|NN nodule|NN 
+nodule|NN doctor|NN function|NN test|NN gland|NN activity|NN 
+information|NN exam|NN lab|NN test|NN ultrasonography|NN nature|NN nodule|NN 
+difference|NN nodule|NN sound|NN wave|NN ultrasound|NN scan|NN 
+ultrasound|NN nodule|NN doctor|NN exam|NN nodule|NN liquid|NN mixture|NN 
+image|NN process|NN doctor|NN office|NN individual|NN radiation|NN 
+characteristics|NN thyroid|NN nodule|NN ultrasound|NN cancer|DS border|NN border|NN tissue|NN halo|NN appearance|NN blood|NN flow|NN power|NN doppler|NN blood|NN flow|NN calcification|NN note|NN cancer|DS nodule|NN study|NN comet|NN tail|NN artifact|NN sound|NN wave|NN colloid|NN increase|NN size|NN nodule|NN ultrasound|NN 
+ultrasonography|NN tool|NN method|NN nodule|NN certainty|NN 
+case|NN tissue|NN sample|NN biopsy|NN examination|NN 
+scan|NN uptake|NN thyroid|NN syndrome|NN thyroid|NN grave|NN disease|NN uptake|NN lobe|NN c|NN plummers|NN disease|NN d|NN adenoma|DS e|NN 
+scintigraphy|NN thyroid|NN aid|NN iodine|NN cell|NN medicine|NN department|NN hospital|NN clinic|NN 
+gland|NN urine|NN 
+thyroid|NN emission|NN camera|NN image|NN shape|NN scan|NN tissue|NN activity|NN uptake|NN gland|NN 
+radioiodine|NN scan|NN uptake|NN activity|NN gland|NN 
+uptake|NN gland|NN portion|NN gland|NN 
+example|NN nodule|NN --|NN point|NN activity|NN rest|NN glandis|NN adenoma|DS form|NN hyperthyroidism|DS 
+contrast|NN find|NN section|NN thyroid|NN cold|NN area|NN tissue|NN cancer|DS 
+amount|NN radioactivity|NN indicator|NN activity|NN gland|NN 
+quantitation|NN uptake|NN dose|NN hour|NN 
+gland|NN hyperthyroidism|DS hypothyroidism|DS radioiodine|NN uptake|NN 
+pattern|NN cause|NN hypo-|NN hyperthyroidism|DS 
+biopsy|NN obtain|NN tissue|NN sample|NN examination|NN microscope|NN test|NN cancer|DS condition|NN 
+tissue|NN biopsy|NN needle|NN aspiration|NN surgery|NN 
+needle|NN aspiration|NN advantage|NN outpatient|NN procedure|NN surgery|NN scar|NN 
+needle|NN biopsy|NN accuracy|NN identification|NN cancer|DS 
+accuracy|NN diagnosis|NN tissue|NN area|NN gland|NN 
+reliability|NN needle|NN aspiration|NN sample|NN ultrasound|NN year|NN method|NN biopsy|NN north|NN america|NN 
+citation|NN treatment|NN 
+stereoisomer|NN patient|NN hypothyroidism|DS thyroid|NN hormone|NN pig|NN people|NN version|NN 
+graves|NN disease|NN drug|NN carbimazole|NN methimazole|NN solution|NN 
+tumor|NN iodine|NN 
+injection|NN treatment|NN cyst|NN cancer|DS lymph|NN node|NN alternative|NN surgery|NN 
+citation|NN surgery|NN 
+surgery|NN variety|NN reason|NN 
+nodule|NN lobe|NN thyroid|NN biopsy|NN presence|NN adenoma|DS 
+majority|NN thyroid|NN thyroidectomy|NN hyperthyroidism|DS grave|NN disease|NN goiter|NN structure|NN 
+thyroidectomy|NN thyroid|NN lymph|NN node|NN treatment|NN cancer|DS 
+removal|NN bulk|NN gland|NN hypothyroidism|DS person|NN hormone|NN replacement|NN 
+individual|NN thyroidectomy|NN hormone|NN replacement|NN 
+remainder|NN live|NN 
+dose|NN recurrence|NN 
+gland|NN care|NN damage|NN structure|NN gland|NN nerve|NN 
+removal|NN injury|NN surgery|NN 
+gland|NN hormone|NN hormone|NN amount|NN calcium|NN blood|NN 
+removal|NN result|NN hypoparathyroidism|DS need|NN calcium|NN vitamin|NN d|NN day|NN 
+event|NN blood|NN supply|NN gland|NN surgery|NN gland|NN muscle|NN tissue|NN 
+nerve|NN motor|NN control|NN muscle|NN larynx|NN muscle|NN thyroid|NN 
+laceration|ST nerve|NN paralysis|ST cord|NN muscle|NN voice|NN quality|NN 
+therapy|NN gland|NN instance|NN case|NN goiter|NN cause|NN symptom|NN evaluation|NN biopsy|NN nodule|NN cell|NN example|NN case|NN cancer|DS 
+iodine|NN uptake|NN country|NN iodine_deficiency|DS iodine|NN country|NN 
+uptake|NN thyroid|NN treatment|NN tsh|NN therapy|NN order|NN cell|NN 
+withdrawal|NN hormone|NN medication|NN injection|NN tsh|NN united|NN states|NN 
+injection|NN uptake|NN 
+treatment|NN hypothyroidism|DS end|NN goal|NN treatment|NN pain|ST syndrome|NN radiation|NN epidemiology|NN 
+united|NN states|NN autoimmune|NN inflammation|NN form|NN thyroid|NN disease|NN hypothyroidism|DS due|NN iodine_deficiency|DS hypothyroidism|DS percent|NN adult|NN incidence|NN women|NN world|NN population|NN area|NN iodine|NN level|NN 
+region|NN iodine_deficiency|DS prevalence|NN goiter|NN area|NN type|NN hypothyroidism|DS autoimmune|NN subtype|NN thyroiditis|NN prevalence|NN grave|NN disease|NN autoimmune|NN condition|NN type|NN prevalence|NN male|NN female|NN nodule|NN cancer|DS 
+cancer|DS account|NN cancer|DS uk|NN tumor|NN cancer|DS gland|NN 
+grave|NN disease|NN thyroiditis|NN thyroid|NN disease|NN pregnancy|NN 
+thyroid|NN disease|NN women|NN wikipedia|NN encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+thyroid|NN disease|NN women|NN autoimmune|NN disease|NN thyroid|NN women|NN 
+condition|NN effect|NN pregnancy|NN child|NN 
+pregnancy|NN infant|NN variety|NN birth|NN defect|NN 
+women|NN disease|NN thyroid|NN 
+symptom|NN symptom|NN time|NN 
+woman|NN symptom|NN disease|NN clinician|NN exam|NN order|NN test|NN 
+thyroid|NN gland|NN front|NN neck|NN 
+thyroid|NN hormone|NN body|NN energy|NN 
+hormone|NN level|NN gland|NN gland|NN brain|NN 
+hormone|NN thyroid|NN hormone|NN 
+thyroid|NN disease|NN system|NN antibody|NN cell|NN ability|NN hormone|NN 
+time|NN thyroid|NN damage|NN hormone|NN level|NN 
+thyroid|NN hypothyroidism|DS 
+thyroid|NN function|NN body|NN heart|NN rate|NN brain|NN function|NN rate|NN body|NN food|NN energy|NN 
+disease|NN cause|NN thyroid|NN 
+grave|NN disease|NN autoimmune|NN disease|NN content|NN 
+effect|NN hormone|NN test|NN disease|NN pregnancy|NN treatment|NN pregnancy|NN breastfeed|NN reference|NN link|NN 
+effect|NN hormone|NN 
+hormone|NN change|NN pregnancy|NN cause|NN thyroid|NN hormone|NN level|NN increase|NN 
+thyroid|NN women|NN pregnancy|NN 
+change|NN pregnancy|NN baby|NN 
+problem|NN pregnancy|NN baby|NN 
+symptom|NN pregnancy|NN fatigue|ST problem|NN pregnancy|NN 
+hormone|NN pregnancy|NN 
+baby|NN brain|NN system|NN need|NN thyroid|NN hormone|NN 
+trimester|NN baby|NN mother|NN supply|NN hormone|NN 
+week|NN pregnancy|NN thyroid|NN 
+baby|NN mother|NN iodine|NN thyroid|NN hormone|NN 
+women|NN microgram|NN iodine|NN day|NN 
+women|NN iodine|NN food|NN vitamin|NN 
+salt|NN salt|NN iodine|NN table|NN salt|NN 
+vitamin|NN iodine|NN 
+women|NN problem|NN year|NN birth|NN 
+symptom|NN thyroid|NN month|NN 
+women|NN symptom|NN thyroid|NN year|NN 
+case|NN function|NN return|NN thyroid|NN test|NN 
+expert|NN agreement|NN women|NN problem|NN 
+thyroid|NN symptom|NN pregnancy|NN risk|NN pregnancy|NN problem|NN 
+thyroid|NN symptom|NN pregnancy|NN 
+women|NN screen|NN disease|NN pregnancy|NN 
+women|NN disease|NN 
+thyroid|NN problem|NN mother|NN 
+miscarriage|ST cholesterol|NN 
+problem|NN baby|NN 
+birth|NN birth|NN weight|NN birth|NN defect|NN problem|NN 
+treatment|NN pregnancy|NN article|NN thyroid|NN disease|NN pregnancy|NN 
+pregnancy|NN women|NN obgyn|NN endocrinologist|NN doctor|NN people|NN hormone|NN problem|NN 
+pregnancy|NN health|NN baby|NN women|NN disease|NN thyroid|NN pregnancy|NN dose|NN function|NN 
+function|NN week|NN pregnancy|NN 
+delivery|NN hormone|NN level|NN level|NN breastfeed|NN 
+breast|NN milk|NN 
+problem|NN baby|NN 
+case|NN thyroid|NN production|NN breast|NN milk|NN 

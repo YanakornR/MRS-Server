@@ -1,0 +1,202 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Ulcerative colitis|Disease Ulcerative colitis|Disease image|NN colon|NN Ulcerative colitis|Disease
+surface|NN colon|NN place|NN
+symptom|NN pain|NN blood|NN weight|NN loss|NN fever|NN complication|NN inflammation|NN eye|NN joint|NN liver|NN colon|NN cancer|NN onset|NN year|NN year|NN duration|NN term|NN cause|NN method|NN tissue|NN biopsy|NN diagnosis|NN disease|NN colitis|NN treatment|NN change|NN medication|NN surgery|NN mesalazine|NN steroid|NN azathioprine|NN therapy|NN frequency|NN people|NN death|NN
+Ulcerative colitis|Disease Ulcerative colitis|Disease condition|NN result|NN inflammation|NN ulcer|NN colon|NN rectum|NN symptom|NN disease|NN pain|NN diarrhea|NN blood|NN weight|NN loss|NN fever|NN symptom|NN symptom|NN period|NN symptom|NN flare|NN complication|NN megacolon|NN inflammation|NN eye|NN joint|NN liver|NN colon|NN cancer|NN
+cause|NN Ulcerative colitis|Disease theory|NN system|NN dysfunction|NN genetics|NN change|NN gut|NN bacteria|NN factor|NN rate|NN world|NN result|NN exposure|NN infection|NN diet|NN lifestyle|NN removal|NN appendix|NN age|NN diagnosis|NN colonoscopy|NN tissue|NN biopsy|NN kind|NN bowel|NN disease|NN disease|NN colitis|NN
+change|NN diet|NN diet|NN symptom|NN medication|NN symptom|NN remission|NN mesalazine|NN sulfasalazine|NN steroid|NN azathioprine|NN therapy|NN removal|NN colon|NN surgery|NN disease|NN treatment|NN complication|NN colon|NN cancer|NN removal|NN colon|NN rectum|NN disease|NN
+disease|NN people|NN year|NN people|NN individual|NN disease|NN north|NP america|NP europe|NP region|NN people|NN year|NN male|NN female|NN proportion|NN Ulcerative colitis|Disease disease|NN affect|NN people|NN united|NP states|NP treatment|NN risk|NN death|NN population|NN description|NN Ulcerative colitis|Disease content|NN
+sign|NN symptom|NN gastrointestinal|NP feature|NN cause|NN factor|NN factor|NN disease|NN theory|NN diagnosis|NN diagnosis|NN management|NN surgery|NN recolonization|NN medicine|NN progression|NN remission|NN cancer|NN cholangitis|NN mortality|NN feature|NN epidemiology|NN united|NP states|NP canada|NP united|NP kingdom|NP research|NN case|NN reference|NN link|NN
+sign|NN symptom|NN sign|NN symptom|NN disease|NN Ulcerative colitis|Disease blood|NN fever|NN disease|NN weight|NN loss|NN
+presentation|NN Ulcerative colitis|Disease extent|NN disease|NN process|NN
+patient|NN blood|NN mucus|NN onset|NN period|NN week|NN
+weight|NN loss|NN blood|NN examination|NN
+inflammation|NN disease|NN bleed|NN gi|NN tract|NN rate|NN
+disease|NN degree|NN pain|NN discomfort|NN bowel|NN movement|NN cramp|NN bowel|NN movement|NN
+Ulcerative colitis|Disease process|NN part|NN body|NN
+extra-intestinal|NN symptom|NN sign|NN disease|NN knee|NN teenager|NN adult|NN
+diagnosis|NN Ulcerative colitis|Disease onset|NN manifestation|NN
+extent|NN involvement|NN diagram|NN intestine|NN
+Ulcerative colitis|Disease rectum|NN colon|NN
+disease|NN extent|NN involvement|NN disease|NN
+colitis|NN enema|NN involvement|NN rectum|NN involvement|NN colon|NN portion|NN colon|NN rectum|NN
+colitis|NN involvement|NN colon|NN patient|NN side|NN flexure|NN begine|NN colon|NN colitis|NN reach|NN enema|NN involvement|NN colon|NN rectum|NN cecum|NN intestine|NN
+severity|NP disease|NN pseudopolyp|NN patient|NN Ulcerative colitis|Disease colectomy|NN specimen|NN
+addition|NN extent|NN involvement|NN people|NN severity|NN disease|NN
+disease|NN correlate|NN stool|NN blood|NN sign|NN toxicity|NN erythrocyte|NN sedimentation|NN rate|NN esr|NP protein|NN crp|NP
+pain|NN cramp|NN
+patient|NN fact|NN feel|NN need|NN bowel|NN effort|NN pain|NN cramp|NN output|NN
+disease|NN correlate|NN stool|NN sign|NN toxicity|NN
+patient|NN transfusion|NN pain|NN fever|NN c|NP f|NP
+disease|NN correlate|NN stool|NN day|NN bowel|NN movement|NN evidence|NN toxicity|NN fever|NN tachycardia|NN esr|NP crp|NP
+disease|NN bowel|NN movement|NN toxicity|NN tenderness|NN distension|NN blood|NN transfusion|NN requirement|NN dilation|NN expansion|NN
+patient|NN category|NN inflammation|NN layer|NN motility|NN megacolon|NN
+membrane|NN perforation|NN
+disease|NN death|NN
+feature|NN patient|NN Ulcerative colitis|Disease ulcer|NN tongue|NN lip|NN palate|NN pharynx|NN
+Ulcerative colitis|Disease autoimmune|NN origin|NN patient|NN symptom|NN complication|NN colon|NN
+frequency|NN manifestation|NN
+ulcer|NN mouth|NN iritis|NN uveitis|NN inflammation|NN eye|NN iris|NN arthritis|NN large-joint|NN joint|NN joint|NN hand|NN feet|NN arthritis|NN spine|NN arthritis|NN spine|NN skin|NN erythema|NN panniculitis|NN inflammation|NN tissue|NN extremity|NN ulcerate|NN lesion|NN skin|NN thrombosis|NN embolism|NN anemia|NN deformity|NN end|NN finger|NN cholangitis|NN disease|NN inflammation|NN bile|NN duct|NN
+cause|NN Ulcerative colitis|Disease factor|NN genetics|NN stress|NN role|NN
+component|NN etiology|NN Ulcerative colitis|Disease
+aggregation|NP Ulcerative colitis|Disease family|NN twin|NN concordance|NN rate|NN twin|NN concordance|NN rate|NN difference|NN incidence|NN marker|NN linkage|NN
+region|NN genome|NN Ulcerative colitis|Disease order|NN discovery|NN chromosome|NN locy|NN fault|NN disorder|NN gene|NN
+example|NN chromosome|NN band|NN 1p36|NN region|NN bowel|NN disease|NN
+region|NN transporter|NN protein|NN
+potential|NN region|NN cell|NN scaffold|NN protein|NN family|NN
+leukocyte|NN antigen|NN association|NN work|NN
+fact|NN linkage|NN chromosome|NN candidate|NN
+autoimmune|NN disorder|NN neurovisceral|NN porphyria|NN Ulcerative colitis|Disease disease|NN disease|NN dermatitis|NN diabete|NN arthritis|NN scleroderma|NN disease|NN scleritis|NN
+physician|NN alert|NN porphyria|NN family|NN autoimmune|NN disorder|NN care|NN use|NN porphyrinogenic|NN drug|NN
+hypothese|NN factor|NN pathogenesis|NN Ulcerative colitis|Disease
+diet|NN colon|NN substance|NN inflammation|NN factor|NN role|NN pathogenesis|NN Ulcerative colitis|Disease disease|NN
+study|NN association|NN study|NN association|NN sugar|NN prevalence|NN Ulcerative colitis|Disease intake|NN fat|NN vitamin|NN risk|NN Ulcerative colitis|Disease factor|NN development|NN relapse|NN disease|NN meat|NN protein|NN beverage|NN etiology|NN Ulcerative colitis|Disease diet|NN patient|NN Ulcerative colitis|Disease animal|NN model|NN disease|NN
+theory|NN sulfur|NN factor|NN gut|NN sulfide|NN detoxification|NN addition|NN diet|NN breastfeed|NN report|NN protection|NN breastfeed|NN development|NN ibd|NN
+study|NN effect|NN study|NN isotretinoin|NN increase|NN rate|NN Ulcerative colitis|Disease
+Ulcerative colitis|Disease autoimmune|NN disease|NN t-cell|NN colon|NN contrast|NN disease|NN area|NN tract|NN outside|NN colon|NN Ulcerative colitis|Disease rectum|NN colon|NN involvement|NN ileum|NN
+backwash|NN ileitis|NN patient|NN pancolitis|NN significance|NN Ulcerative colitis|Disease comorbidity|NN symptom|NN area|NN body|NN system|NN
+removal|NN intestine|NN disease|NN alternative|NN theory|NN factor|NN disease|NN Ulcerative colitis|Disease risk|NN smoker|NN risk|NN smoker|NN age|NN onset|NN year|NN peak|NN incidence|NN year|NN
+level|NN bacteria|NN person|NN Ulcerative colitis|Disease level|NN hydrogen|NN intestine|NN
+theory|NN symptom|NN disease|NN effect|NN hydrogen|NN cell|NN intestine|NN
+infection|NN avium|NN subspecy|NN paratuberculosis|NN cause|NN Ulcerative colitis|Disease disease|NN disease|NN Ulcerative colitis|Disease response|NN
+amount|NN sulfate-reduce|NN bacteria|NN patient|NN Ulcerative colitis|Disease concentration|NN ga|NN hydrogen|NN
+mucosa|NN barrier|NN cell|NN lamina|NN propria|NN barrier|NN
+acid|NN beta|NN oxidation|NN pathway|NN carbon|NN dioxide|NN ketone|NN body|NN
+supply|NN nutrient|NN barrier|NN
+study|NN hydrogen|NN role|NN pathway|NN chain|NN dehydrogenase|NN enzyme|NN pathway|NN
+benefit|NN smoke|NN Ulcerative colitis|Disease hydrogen|NN cyanide|NN cigarette|NN smoke|NN hydrogen|NN isothiocyanate|NN sulfide|NN pathway|NN study|NN sulfur|NN meat|NN alcohol|NN risk|NN relapse|NN patient|NN remission|NN
+Ulcerative colitis|Disease patient|NN bleed|NN desire|NN bowel|NN passage|NN stool|NN pain|NN
+severity|NN disease|NN presentation|NN therapy|NN
+patient|NN disease|NN bowel|NN movement|NN sign|NN toxicity|NN
+individual|NN Ulcerative colitis|Disease bowel|NN movement|NN
+patient|NN Ulcerative colitis|Disease disease|NN presentation|NN
+patient|NN disease|NN sign|NN toxicity|NN fever|NN tachycardia|NN anemia|NN
+patient|NN colitis|NN megacolon|NN bowel|NN movement|NN day|NN distention|NN tenderness|NN evidence|NN edema|NN case|NN bowel|NN dilation|NN
+people|NN colectomy|NN colon|NN time|NN surgery|NN
+diagnosis|NN biopsy|NN crypt|NN abscess|NN find|NN Ulcerative colitis|Disease
+workup|NN Ulcerative colitis|Disease
+blood|NN count|NN anemia|NN platelet|NN count|NN study|NN function|NN test|NN diarrhea|NN hypomagnesemia|NN failure|NN
+liver|NN function|NN test|NN screen|NN bile|NN duct|NN involvement|NN cholangitis|NN
+x-ray|NN stool|NN culture|NN rule|NN parasite|NN cause|NN
+sedimentation|NN rate|NN sedimentation|NN rate|NN process|NN
+protein|NN level|NN indication|NN inflammation|NN
+type|NN endoscopy|NN presence|NN ulcer|NN intestine|NN trial|NN enema|NN
+Ulcerative colitis|Disease disease|NN causation|NN inquiry|NN factor|NN disease|NN
+colitis|NN activity|NN index|NN severity|NN symptom|NN biopsy|NN sample|NN infiltration|NN bluepurple|NN mucosa|NN distortion|NN crypt|NN
+test|NN diagnosis|NN Ulcerative colitis|Disease endoscopy|NN
+colonoscopy|NN cecum|NN entry|NN ileum|NN diagnosis|NN Ulcerative colitis|Disease
+sigmoidoscopy|NN diagnosis|NN
+physician|NN extent|NN exam|NN colitis|NN risk|NN perforation|NN colon|NN
+find|NN Ulcerative colitis|Disease
+loss|NN appearance|NN colon|NN redness|NN mucosa|NN friability|NN mucosa|NN ulceration|NN
+Ulcerative colitis|Disease rectum|NN rectum|NN
+degree|NN involvement|NN proctitis|NN inflammation|NN rectum|NN left|NN colitis|NN inflammation|NN colon|NN
+biopsies|NP mucosa|NN Ulcerative colitis|Disease disease|NN
+sample|NN time|NN endoscopy|NN
+pathology|NN Ulcerative colitis|Disease distortion|NN crypt|NN architecture|NN inflammation|NN crypt|NN crypt|NN abscess|NN hemorrhage|NN cell|NN lamina|NN propria|NN
+case|NN picture|NN analysis|NN role|NN diagnosis|NN management|NN
+contrast|NN biopsy|NN analysis|NN progression|NN disease|NN treatment|NN
+diagnosis|NN image|NN Ulcerative colitis|Disease side|NN colon|NN
+image|NN ulceration|NN loss|NN architecture|NN
+disease|NN appearance|NN fact|NN Ulcerative colitis|Disease challenge|NN
+condition|NN manner|NN Ulcerative colitis|Disease
+disease|NN colitis|NN stool|NN culture|NN parasite|NN inflammation|NN
+case|NN Ulcerative colitis|Disease outcome|NN use|NN corticosteroid|NN colitis|NN colitis|NN upset|NN administration|NN antibiotics|NN colitis|NN blood|NN supply|NN intestine|NN radiation|NN colitis|NN patient|NN radiotherapy|NN chemical|NN colitis|NN introduction|NN chemical|NN colon|NN enema|NN procedure|NN
+cancer|NN flare|NN colitis|NN vice|NN
+malignancy|NN colitis|NN treatment|NN
+disease|NN symptom|NN Ulcerative colitis|Disease disease|NN bowel|NN disease|NN colon|NN symptom|NN
+disease|NN course|NN treatment|NN
+case|NN difference|NN case|NN disease|NN colitis|NN
+find|NN disease|NN Ulcerative colitis|Disease ileum|NN involvement|NN colon|NN involvement|NN involvement|NN involvement|NN anus|NN bile|NN duct|NN involvement|NN increase|NN rate|NN cholangitis|NN rate|NN distribution|NN disease|NN area|NN inflammation|NN skip|NN lesion|NN area|NN inflammation|NN endoscopy|NN ulcer|NN ulcer|NN depth|NN inflammation|NN tissue|NN biopsy|NN crypt|NN granuloma|NN crypt|NN granuloma|NN
+management|NN article|NN management|NN Ulcerative colitis|Disease
+treatment|NN Ulcerative colitis|Disease extent|NN involvement|NN disease|NN severity|NN
+goal|NN remission|NN medication|NN administration|NN maintenance|NN medication|NN relapse|NN
+concept|NN induction|NN remission|NN maintenance|NN remission|NN
+medication|NN remission|NN overlap|NN treatment|NN
+physician|NN treatment|NN remission|NN relief|NN symptom|NN heal|NN colon|NN line|NN term|NN treatment|NN remission|NN complication|NN
+Ulcerative colitis|Disease hospitalisation|NN exclusion|NN infection|NN corticosteroid|NN
+stage|NN disease|NN fiber|NN diet|NN
+Ulcerative colitis|Disease number|NN medication|NN drug|NN mesalazine|NN
+prednisone|NN heal|NN property|NN risk|NN benefit|NN treatment|NN
+medication|NN azathioprine|NN agent|NN people|NN remission|NN 5-asa|NN corticosteroid|NN
+treatment|NN risk|NN factor|NN risk|NN cancer|NN teenager|NN adult|NN tuberculosis|NN heart|NN failure|NN side|NN effect|NN
+formulation|NN budesonide|NN fda|NN treatment|NN Ulcerative colitis|Disease january|NP tofacitinib|NP treatment|NN Ulcerative colitis|Disease 2018|NN medication|NN term|NN use|NN condition|NN evidence|NN methotrexate|NN benefit|NN remission|NN people|NN Ulcerative colitis|Disease use|NN drug|NN benefit|NN drug|NN treatment|NN allergy|NN promise|NN combination|NN therapy|NN study|NN absorption|NN drug|NN secretion|NN result|NN concentration|NN site|NN inflammation|NN
+drug|NN histamine|NN secretion|NN mast|NN cell|NN inflammation|NN
+agent|NN therapy|NN mild|NN Ulcerative colitis|Disease year|NN
+acid|NN 5-asa|NN component|NN drug|NN aim|NN compound|NN intestine|NN efficacy|NN reduction|NN side|NN effect|NN moiety|NN
+drug|NN remission|NN Ulcerative colitis|Disease suppository|NN foam|NN enema|NN formulation|NN 5-asa|NN colitis|NN rectum|NN sigmoid|NN colon|NN treatment|NN
+treatment|NN tnf|NP inhibitor|NN adalimumab|NN golimumab|NN people|NN Ulcerative colitis|Disease corticosteroid|NN
+vedolizumab|NN remission|NN response|NN rate|NN Ulcerative colitis|Disease medication|NN option|NN person|NN corticosteroid|NN immunomodulator|NN azathioprine|NN mesalazine|NN
+biologics|NN side|NN effect|NN risk|NN extra-intestinal|NN cancer|NN heart|NN failure|NN weaken|NN system|NN ability|NN system|NN infection|NN reactivation|NN infection|NN tuberculosis|NN
+reason|NN patient|NN treatment|NN test|NN hepatitis|NN tuberculosis|NN year|NN
+disease|NN Ulcerative colitis|Disease prevalence|NN smoker|NN non-smoker|NN study|NN nicotine|NN patch|NN improvement|NN
+study|NN united|NP kingdom|NP patient|NN nicotine|NN patch|NN conjunction|NN treatment|NN resolution|NN symptom|NN
+placebo-control|NN trial|NN united|NP states|NP patient|NN patch|NN improvement|NN placebo|NN use|NN nicotine|NN patch|NN addition|NN standard|NN treatment|NN mesalazine|NN relapse|NN occurrence|NN rate|NN treatment|NN use|NN nicotine|NN
+iron|NN supplementation|NN
+loss|NN blood|NN tract|NN inflammation|NN guideline|NN monitor|NN anemia|NN blood|NN test|NN month|NN disease|NN disease|NN disease|NN control|NN disease|NN iron|NN deficiency|NN iron|NN supplement|NN
+form|NN treatment|NN severity|NN anemia|NN guideline|NN
+iron|NN patient|NN side|NN effect|NN compliance|NN issue|NN iron|NN patient|NN side|NN effect|NN guideline|NN iron|NN case|NN anemia|NN level|NN gl|NN
+surgery|NN management|NN disease|NN Ulcerative colitis|Disease antibiotics|NN surgery|NN removal|NN part|NN removal|NN colon|NN
+disease|NN aspect|NN Ulcerative colitis|Disease removal|NN intestine|NN symptom|NN
+procedure|NN event|NN perforation|NN carcinoma|NN
+surgery|NN patient|NN colitis|NN megacolon|NN
+patient|NN symptom|NN drug|NN surgery|NN quality|NN life|NN
+Ulcerative colitis|Disease part|NN body|NN tract|NN
+case|NN manifestation|NN disease|NN removal|NN colon|NN
+option|NN Ulcerative colitis|Disease bowel|NN pouch|NN procedure|NN
+two-|NN procedure|NN bowel|NN stump|NN anus|NN ileostomy|NN
+part|NN surgery|NN step|NN six-|NN twelve-month|NN interval|NN surgery|NN
+step|NN surgery|NN pouch|NN patient|NN bowel|NN pouch|NN stump|NN patient|NN bowel|NN system|NN
+ileostomy|NN time|NN patient|NN bowel|NN function|NN step|NN procedure|NN pouch|NN stump|NN patient|NN time|NN patient|NN ileostomy|NN bowel|NN function|NN
+surgery|NN ileostomy|NN patient|NN bowel|NN function|NN
+type|NN leukocyte|NN granulocyte|NN monocyte|NN trial|NN result|NN trial|NN recolonization|NN
+number|NN trial|NN potential|NN treatment|NN Ulcerative colitis|Disease
+type|NN escherichia|NP coly|NN remission|NN patient|NN year|NN type|NN probiotic|NN effect|NN
+citation|NN probiotics|NN work|NN inflammation|NN disease|NN turn|NN body|NN cell|NN messenger|NN cell|NN
+cell|NN aid|NN balance|NN intestine|NN inflammation|NN infusion|NN probiotics|NN enema|NN
+Ulcerative colitis|Disease bacteriotherapy|NN treatment|NN difficile|NN infection|NN time|NN epithelium|NN
+response|NN Ulcerative colitis|Disease study|NN report|NN sufferer|NN remission|NN cause|NN Ulcerative colitis|Disease infection|NN pathogen|NN
+infection|NN imbalance|NN flora|NN cycle|NN inflammation|NN recolonize|NN colon|NN bacteria|NN bowel|NN
+case|NN patient|NN remission|NN year|NN
+bowel|NN disease|NN patient|NN treatment|NN variety|NN treatment|NN show|NN promise|NN research|NN
+research|NN animal|NN study|NN study|NN fiber|NN mean|NN plant|NN matter|NN decade|NN maintenance|NN bowel|NN function|NN
+note|NN brassica|NN constituent|NN ulcer|NN tract|NN fish|NP oil|NN acid|NN epa|NP fish|NN oil|NN leukotriene|NN activity|NN factor|NN inflammation|NN
+therapy|NN study|NN support|NN dosage|NN
+dosage|NN epa|NP mgday|NN condition|NN fish|NN oil|NN vitamin|NN people|NN ibd|NN chain|NN acid|NN butyrate|NN enema|NN
+cell|NN colon|NN butyrate|NN content|NN intestine|NN energy|NN source|NN
+amount|NN butyrate|NN decrease|NN rectum|NN
+butyrate|NN level|NN intestine|NN factor|NN disease|NN
+butyrate|NN enema|NN result|NN
+citation|NN medication|NN patient|NN Ulcerative colitis|Disease
+compound|NN effect|NN Ulcerative colitis|Disease hypothesis|NN moiety|NN sulfasalazine|NN activity|NN addition|NN component|NN control|NN trial|NN medication|NN rate|NN relapse|NN medication|NN conjunction|NN sulfasalazine|NN therapy|NN use|NN nematode|NN Ulcerative colitis|Disease premise|NN hygiene|NN hypothesis|NN
+study|NN corticosteroid|NN colitis|NN mice|NN trial|NN helminth|NN infection|NN rhesus|NN monkey|NN diarrhea|NN condition|NN Ulcerative colitis|Disease human|NN remission|NN symptom|NN animal|NN trial|NN ova|NN human|NN therapy|NN trial|NN
+therapy|NN conjunction|NN medication|NN remission|NN people|NN Ulcerative colitis|Disease
+effect|NN therapy|NN Ulcerative colitis|Disease
+complication|NN disease|NN Ulcerative colitis|Disease deficiency|NN risk|NN colon|NN cancer|NN risk|NN prevalence|NN complication|NN female|NN male|NN cholangitis|NN female|NN male|NN female|NN male|NN female|NN male|NN female|NN male|NN
+progression|NN remission|NN
+section|NN source|NN
+section|NN citation|NN source|NN
+january|NP 2012|NP template|NN message|NN
+patient|NN Ulcerative colitis|Disease course|NN period|NN disease|NN inactivity|NN flare|NN disease|NN
+patient|NN proctitis|NN colitis|NN course|NN progress|NN disease|NN remission|NN absence|NN therapy|NN
+patient|NN disease|NN remission|NN rate|NN remission|NN severity|NN disease|NN
+risk|NN cancer|NN patient|NN Ulcerative colitis|Disease year|NN involvement|NN flexure|NN
+patient|NN proctitis|NN risk|NN patient|NN screen|NN colonoscopy|NN biopsy|NN dysplasia|NN year|NN disease|NN activity|NN year|NN interval|NN cholangitis|NN
+Ulcerative colitis|Disease association|NN cholangitis|NN psc|NP disorder|NN bile|NN duct|NN
+patient|NN Ulcerative colitis|Disease cholangitis|NN mortality|NN
+research|NN difference|NN risk|NN patient|NN Ulcerative colitis|Disease background|NN population|NN
+distribution|NN background|NN population|NN disease|NN quality|NN life|NN lifespan|NN
+change|NN Ulcerative colitis|Disease loss|NN pattern|NN mucosa|NN loss|NN effacement|NN valve|NN stricture|NN epidemiology|NN
+distribution|NN Ulcerative colitis|Disease disease|NN number|NN case|NN year|NN Ulcerative colitis|Disease canada|NP new|NP zealand|NP scotland|NP kingdom|NN age|NN
+peak|NN onset|NN decade|NN life|NN rate|NN location|NN location|NN europe|NP united|NP states|NP
+disease|NN rate|NN Ulcerative colitis|Disease jew|NN decrease|NN person|NN descent|NN caucasian|NN african|NN hispanics|NN asian|NN age|NN appendicitis|NN tobacco|NN use|NN development|NN Ulcerative colitis|Disease tobacco|NN use|NN risk|NN disease|NN united|NP states|NP
+number|NN case|NN Ulcerative colitis|Disease united|NP states|NP year|NN number|NN people|NN united|NP states|NP canada|NP
+canada|NP number|NN case|NN year|NN population|NN case|NN
+number|NN people|NN united|NP kingdom|NP
+united|NP kingdom|NP people|NN condition|NN year|NN number|NN people|NN
+people|NN united|NP kingdom|NP Ulcerative colitis|Disease research|NN
+therapy|NN whipworm|NN suis|NN control|NN trial|NN iowa|NP benefit|NN patient|NN Ulcerative colitis|Disease therapy|NN hygiene|NN hypothesis|NN absence|NN helminth|NN colon|NN patient|NN world|NN inflammation|NN
+helminthic|NN therapy|NN fecal|NN characteristic|NN cell|NN response|NN area|NN Ulcerative colitis|Disease overproduction|NN
+generation|NN antisense|NN messenger|NN rna|NN base|NN pair|NN interaction|NN order|NN expression|NN response|NN extravasation|NN activation|NN leukocyte|NN blood|NN cell|NN tissue|NN expression|NN mucosa|NN Ulcerative colitis|Disease sufferer|NN production|NN disease|NN activity|NN target|NN treatment|NN Ulcerative colitis|Disease
+gram|NN bacteria|NN lumen|NN time|NN relapse|NN Ulcerative colitis|Disease
+series|NN drug|NN development|NN inflammation|NN process|NN ion|NN channel|NN inflammation|NN cascade|NN kca31|NN study|NN rat|NN mice|NN inhibition|NN kca31|NN production|NN cytokine|NN
+colon|NN inflammation|NN case|NN article|NN list|NN people|NN Ulcerative colitis|Disease

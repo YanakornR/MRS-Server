@@ -1,0 +1,48 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN
+Labyrinthitis|Disease name|NN Labyrinthitis|Disease Labyrinthitis|Disease Labyrinthitis|Disease diagram|NN ear|NN frequency|NN year|NN
+Labyrinthitis|Disease Labyrinthitis|Disease inflammation|NN ear|NN sensation|NN world|NN spine|NN hear|NN loss|NN ring|NN ear|NN
+attack|NN series|NN attack|NN condition|NN week|NN
+nausea|NN vomit|NN eye|NN
+virus|NN infection|NN head|NN injury|NN stress|NN allergy|NN reaction|NN medication|NN people|NN prior|NN disease|NN Labyrinthitis|Disease hear|NN loss|NN case|NN result|NN imbalance|NN input|NN left|NN ear|NN
+Labyrinthitis|Disease people|NN year|NN year|NN age|NN gender|NN difference|NN name|NN labyrinth|NN house|NN system|NN change|NN head|NN position|NN
+sign|NN symptom|NN cause|NN mechanism|NN treatment|NN therapy|NN reference|NN link|NN
+sign|NN symptom|NN
+symptom|NN Labyrinthitis|Disease vertigo|NN
+eye|NN motion|NN result|NN indication|NN motion|NN
+nausea|NN anxiety|NN feel|NN balance|NN signal|NN brain|NN ear|NN
+people|NN infection|NN cold|NN flu|NN onset|NN symptom|NN Labyrinthitis|Disease symptom|NN vertigo|NN attack|NN
+case|NN Labyrinthitis|Disease infection|NN ganglion|NN herpe|NN simplex|NN type|NN virus|NN cause|NN condition|NN fact|NN viruse|NN nerve|NN
+ischemia|NN structure|NN cause|NN children|NN Labyrinthitis|Disease symptom|NN cold|NN
+pressure|NN change|NN fly|NN scuba|NN dive|NN mechanism|NN
+system|NN set|NN input|NN canal|NN change|NN motion|NN sense|NN change|NN motion|NN
+brain|NN cue|NN input|NN system|NN adjustment|NN balance|NN
+system|NN information|NN head|NN movement|NN eye|NN muscle|NN reflex|NN focus|NN motion|NN
+treatment|NN Labyrinthitis|Disease cause|NN
+symptom|NN vertigo|NN way|NN vestibular|NN rehabilitation|NN therapy|NN
+treatment|NN combination|NN head|NN eye|NN movement|NN change|NN walk|NN exercise|NN
+exercise|NN eye|NN target|NN head|NN head|NN right|NN left|NN target|NN distance|NN walk|NN eye|NN target|NN walk|NN eye|NN target|NN head|NN direction|NN function|NN combination|NN head|NN eye|NN movement|NN change|NN walk|NN repetition|NN change|NN dysfunction|NN structure|NN vestibular|NN system|NN brainstem|NN cerebellum|NN
+rehabilitation|NN therapy|NN way|NN dizziness|NN Labyrinthitis|Disease vrt|NN brain|NN mechanism|NN adaptation|NN compensation|NN
+rehabilitation|NN strategy|NN
+gaze|NN stability|NN exercise|NN head|NN side|NN side|NN object|NN eye|NN head|NN rotation|NN input|NN canal|NN reflex|NN
+progression|NN exercise|NN line|NN side|NN side|NN head|NN
+exercise|NN movement|NN symptom|NN vestibular|NN response|NN repetition|NN
+example|NN exercise|NN
+retrain|NN control|NN relaxation|NN balance|NN train|NN
+exercise|NN function|NN system|NN
+progression|NN amplitude|NN head|NN point|NN movement|NN speed|NN movement|NN movement|NN walk|NN head|NN turn|NN
+study|NN patient|NN illness|NN control|NN progression|NN recovery|NN vestibular|NN injury|NN study|NN patient|NN level|NN symptom|NN control|NN
+reduction|NN belief|NN time|NN patient|NN rehabilitation|NN
+importance|NN baseline|NN belief|NN predictor|NN change|NN handicap|NN month|NN
+Labyrinthitis|Disease disease|NN
+treatment|NN drug|NN
+effect|NN glucocorticoid|NN outcome|NN
+treatment|NN symptom|NN Labyrinthitis|Disease medication|NN symptom|NN vertigo|NN nausea|NN
+study|NN adult|NN dementia|NN medication|NN illness|NN chance|NN death|NN treatment|NN
+mood|NN disorder|NN compensation|NN plasticity|NN anxiety|NN disorder|NN depression|NN
+anxiety|NN episode|NN therapy|NN
+use|NN diazepam|NN tolerance|NN issue|NN number|NN line|NN treatment|NN anxiety|NN depression|NN
+case|NN condition|NN
+Labyrinthitis|Disease experience|NN people|NN
+recovery|NN inflammation|NN week|NN symptom|NN dizziness|NN couple|NN month|NN
+recovery|NN ear|NN phase|NN
+period|NN vertigo|NN week|NN symptom|NN recovery|NN

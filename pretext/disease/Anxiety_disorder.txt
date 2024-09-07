@@ -1,0 +1,901 @@
+anxiety_disorder|DS anxiety_disorder|DS group|NN of|NN disorder|NN feel|NN of|NN anxiety|ST fear|NN 
+anxiety|ST worry|NN event|NN fear|NN reaction|NN event|NN 
+feel|NN symptom|NN heart|NN rate|NN shakiness|NN 
+anxiety_disorder|DS anxiety_disorder|DS phobia|ST anxiety_disorder|DS separation|NN anxiety_disorder|DS agoraphobia|NN disorder|NN mutism|NN 
+disorder|NN differ|NN result|NN in|NN symptom|NN 
+people|NN anxiety_disorder|DS 
+anxiety_disorder|DS cause|NN of|NN anxiety_disorder|DS combination|NN of|NN factor|NN 
+risk|NN factor|NN history|NN of|NN child|NN abuse|NN family|NN history|NN of|NN disorder|NN poverty|NN 
+anxiety_disorder|DS disorder|NN major_depressive_disorder|DS personality|NN disorder|NN substance|NN use|NN disorder|NN 
+symptom|NN month|NN function|NN 
+problem|NN in|NN symptom|NN hyperthyroidism|NN heart|NN disease|NN caffeine|NN alcohol|NN cannabis|NN use|NN withdrawal|NN drug|NN others|NN 
+situation|NN tend|NN treatment|NN anxiety_disorder|DS 
+treatment|NN change|NN counsel|NN medication|NN 
+counsel|NN type|NN of|NN therapy|NN 
+medication|NN antidepressant|NN benzodiazepine|NN beta|NN blocker|NN symptom|NN 
+of|NN people|NN anxiety_disorder|DS in|NN year|NN lifetime|NN 
+in|NN female|NN in|NN male|NN age|NN year|NN 
+common|NN phobia|ST anxiety_disorder|DS 
+scream|NN skrik|NN paint|NN artist|NN edvard|NN munch|NN specialty|NN symptom|NN psychiatry|NN psychology|NN worry|NN heart|NN rate|NN shakiness|NN risk|NN factor|NN duration|NN cause|NN complication|NN depression|ST trouble|NN sleep|NN quality|NN of|NN life|NN year|NN month|NN factor|NN abuse|NN family|NN history|NN poverty|NN hyperthyroidism|NN heart|NN disease|NN caffeine|NN alcohol|NN cannabis|NN use|NN withdrawal|NN drug|NN change|NN counsel|NN medication|NN diagnosis|NN treatment|NN people|NN age|NN of|NN common|NN age|NN 
+rate|NN in|NN state|NN europe|NN 
+medication|NN frequency|NN antidepressant|NN anxiolytic|NN beta|NN blocker|NN year|NN content|NN classification|NN anxiety_disorder|DS phobia|ST disorder|NN anxiety_disorder|DS stress|NN disorder|NN separation|NN anxiety_disorder|DS anxiety|ST obsessive–compulsive_disorder|DS mutism|NN drug|NN condition|NN stress|NN genetics|NN diagnosis|NN diagnosis|NN prevention|NN treatment|NN lifestyle|NN therapy|NN medication|NN child|NN prognosis|NN epidemiology|NN reference|NN link|NN classification|NN anxiety_disorder|DS anxiety_disorder|DS gad|NN common|NN disorder|NN anxiety|ST object|NN situation|NN 
+anxiety_disorder|DS experience|NN fear|NN worry|NN matter|NN 
+anxiety_disorder|DS chronic|NN worry|NN of|NN symptom|NN restlessness|NN fatigue|ST concentration|NN problem|NN irritability|ST muscle|NN tension|NN sleep|NN disturbance|NN 
+anxiety_disorder|DS common|NN anxiety_disorder|DS adult|NN 
+anxiety|ST symptom|NN of|NN substance|NN abuse|NN problem|NN professional|NN of|NN 
+diagnosis|NN of|NN gad|NN person|NN problem|NN month|NN 
+person|NN problem|NN decision|NN commitment|NN result|NN of|NN lack|NN of|NN worry|NN 
+appearance|NN look|NN sweat|NN hand|NN foot|NN axilla|NN depression|ST 
+diagnosis|NN of|NN anxiety_disorder|DS physician|NN anxiety|ST cause|NN 
+expression|NN of|NN someone|NN chronic|NN anxiety|ST in|NN child|NN gad|NN headache|ST restlessness|NN abdominal_pain|ST heart|NN palpitations|ST 
+year|NN of|NN age|NN 
+category|NN of|NN anxiety_disorder|DS of|NN phobia|ST case|NN in|NN fear|NN anxiety|ST stimulus|NN situation|NN 
+of|NN population|NN worldwide|NN phobia|ST 
+sufferer|NN consequence|NN object|NN of|NN fear|NN anything|NN animal|NN location|NN fluid|NN situation|NN 
+common|NN phobia|ST blood|NN water|NN highway|NN drive|NN tunnel|NN 
+people|NN phobia|ST tremble|NN shortness_of_breath|ST heartbeat|NN 
+people|NN fear|NN danger|NN 
+disorder|NN disorder|NN person|NN attack|NN of|NN terror|NN apprehension|NN confusion|ST dizziness|ST nausea|ST difficulty|NN breathe|NN 
+attack|NN apa|NN fear|NN discomfort|NN peak|NN in|NN ten|NN minute|NN hour|NN 
+attack|NN stress|NN think|NN fear|NN fear|NN of|NN exercise|NN 
+trigger|NN attack|NN 
+attack|NN trigger|NN 
+attack|NN 
+in|NN addition|NN panic|NN attack|NN diagnosis|NN of|NN disorder|NN attack|NN chronic|NN consequence|NN worry|NN attack|NN implication|NN fear|NN of|NN attack|NN change|NN in|NN behavior|NN attack|NN 
+disorder|NN experience|NN symptom|NN episode|NN 
+change|NN in|NN heartbeat|NN sufferer|NN something|NN heart|NN attack|NN 
+in|NN case|NN awareness|NN hypervigilance|NN of|NN body|NN occur|NN attack|NN change|NN illness|NN hypochondriasis|NN 
+agoraphobia|NN agoraphobia|NN anxiety|ST in|NN place|NN situation|NN escape|NN help|NN 
+agoraphobia|NN disorder|NN fear|NN of|NN attack|NN 
+common|NN manifestation|NN in|NN view|NN of|NN door|NN escape|NN route|NN 
+in|NN addition|NN fear|NN term|NN agoraphobia|NN behavior|NN sufferer|NN 
+example|NN attack|NN someone|NN agoraphobia|NN anxiety|ST drive|NN drive|NN 
+avoidance|NN behavior|NN consequence|NN fear|NN 
+anxiety_disorder|DS anxiety_disorder|DS phobia|ST fear|NN avoidance|NN of|NN scrutiny|NN embarrassment|NN humiliation|NN interaction|NN 
+fear|NN situation|NN speak|NN in|NN interaction|NN 
+anxiety|ST symptom|NN blush|NN sweat|NN difficulty|NN speak|NN 
+disorder|NN anxiety|ST source|NN of|NN anxiety|ST in|NN case|NN of|NN anxiety|ST in|NN case|NN isolation|NN 
+physique|NN anxiety|ST spa|NN subtype|NN of|NN anxiety|ST 
+concern|NN evaluation|NN of|NN body|NN others|NN 
+spa|NN common|NN adolescent|NN female|NN 
+stress|NN disorder|NN stress|NN disorder|NN ptsd|NN anxiety_disorder|DS disorder|NN in|NN result|NN traumatic|NN experience|NN 
+stress|NN situation|NN combat|NN disaster|NN rape|NN hostage|NN situation|NN child|NN abuse|NN bully|NN accident|NN 
+chronic|NN exposure|NN stressor|NN example|NN soldier|NN battle|NN combat|NN 
+common|NN symptom|NN hypervigilance|NN flashback|NN behavior|NN anxiety|ST anger|NN depression|ST 
+in|NN addition|NN individual|NN sleep|NN disturbance|NN 
+number|NN of|NN treatment|NN basis|NN of|NN care|NN plan|NN ptsd|NN 
+treatment|NN therapy|NN cbt|NN psychotherapy|NN support|NN family|NN friend|NN 
+stress|NN disorder|NN ptsd|NN research|NN veteran|NN disaster|NN victim|NN 
+study|NN degree|NN of|NN exposure|NN disaster|NN predictor|NN of|NN ptsd|NN 
+separation|NN anxiety_disorder|DS separation|NN anxiety_disorder|DS sepad|NN feel|NN of|NN level|NN of|NN anxiety|ST person|NN place|NN 
+separation|NN anxiety|ST part|NN of|NN development|NN in|NN baby|NN child|NN feel|NN disorder|NN 
+separation|NN anxiety_disorder|DS of|NN adult|NN of|NN child|NN childhood|NN case|NN in|NN instance|NN separation|NN panic|NN 
+child|NN problem|NN 
+parent|NN family|NN 
+parent|NN anxiety|ST child|NN 
+in|NN addition|NN train|NN family|NN therapy|NN medication|NN ssri|NN separation|NN anxiety|ST 
+anxiety|ST anxiety|ST situation|NN event|NN 
+event|NN 
+occurrence|NN common|NN 
+individual|NN attack|NN anxiety|ST in|NN situation|NN 
+situation|NN individual|NN anxiety|ST individual|NN 
+example|NN people|NN in|NN crowd|NN space|NN in|NN line|NN bank|NN store|NN register|NN anxiety|ST attack|NN 
+others|NN anxiety|ST major|NN change|NN in|NN life|NN occur|NN college|NN child|NN 
+obsessive–compulsive_disorder|DS obsessive–compulsive_disorder|DS ocd|NN anxiety_disorder|DS 
+anxiety_disorder|DS in|NN 
+condition|NN person|NN obsession|NN persistent|NN think|NN image|NN compulsion|NN urge|NN act|NN ritual|NN drug|NN order|NN distress|NN dysfunction|NN 
+ritual|NN rule|NN feel|NN of|NN discomfort|NN 
+ocd|NN 2|NN of|NN adult|NN woman|NN men|NN of|NN child|NN adolescent|NN 
+person|NN ocd|NN know|NN symptom|NN struggle|NN think|NN behavior|NN 
+symptom|NN event|NN home|NN down|NN stave|NN 
+people|NN factor|NN 
+risk|NN factor|NN family|NN history|NN disorder|NN class|NN in|NN employment|NN 
+of|NN of|NN people|NN symptom|NN time|NN people|NN 
+mutism|NN mutism|NN sm|NN disorder|NN in|NN person|NN of|NN speech|NN in|NN situation|NN people|NN 
+mutism|NN shyness|NN anxiety|ST 
+people|NN mutism|NN consequence|NN of|NN silence|NN shame|NN ostracism|NN punishment|NN 
+mutism|NN of|NN people|NN point|NN in|NN life|NN 
+cause|NN drug|NN anxiety|ST depression|ST alcohol|NN abuse|NN in|NN case|NN abstinence|NN 
+alcohol|NN use|NN anxiety|ST level|NN in|NN individual|NN 
+caffeine|NN alcohol|NN dependence|NN anxiety|ST attack|NN 
+anxiety|ST acute|NN withdrawal|NN phase|NN of|NN alcohol|NN 2|NN year|NN part|NN of|NN withdrawal|NN syndrome|NN in|NN quarter|NN of|NN people|NN alcoholism|DS 
+in|NN study|NN in|NN illness|NN in|NN half|NN of|NN patient|NN health|NN service|NN hospital|NN psychiatric|NN clinic|NN condition|NN anxiety_disorder|DS disorder|NN phobia|ST result|NN of|NN alcohol|NN benzodiazepine|NN dependence|NN 
+in|NN patient|NN increase|NN in|NN anxiety|ST withdrawal|NN period|NN cessation|NN of|NN anxiety|ST symptom|NN 
+evidence|NN chronic|NN exposure|NN solvent|NN in|NN work|NN environment|NN anxiety_disorder|DS 
+paint|NN of|NN job|NN in|NN exposure|NN solvent|NN 
+caffeine|NN anxiety_disorder|DS disorder|NN 
+anxiety_disorder|DS caffeine|NN sensitivity|NN 
+anxiety_disorder|DS subclass|NN disorder|NN 
+anxiety_disorder|DS category|NN of|NN anxiety_disorder|DS category|NN of|NN disorder|NN symptom|NN effect|NN of|NN substance|NN 
+diagnosis|NN anxiety|ST of|NN of|NN cannabis|NN use|NN anxiety_disorder|DS 
+precise|NN relationship|NN cannabis|NN use|NN anxiety|ST 
+condition|NN anxiety_disorder|DS of|NN endocrine|NN disease|NN system|NN hyperactivity|NN pheochromocytoma|NN hyperthyroidism|NN 
+stress|NN anxiety_disorder|DS in|NN response|NN life|NN stress|NN worry|NN chronic|NN illness|NN interaction|NN ethnicity|NN body|NN image|NN adult|NN 
+anxiety|ST stress|NN in|NN factor|NN dementia|DS cardiovascular_disease|DS 
+genetics|NN run|NN in|NN family|NN time|NN common|NN in|NN child|NN of|NN someone|NN condition|NN 
+anxiety|ST adaptation|NN in|NN time|NN of|NN in|NN context|NN of|NN anxiety_disorder|DS 
+people|NN disorder|NN system|NN system|NN stimulus|NN 
+anxiety_disorder|DS in|NN traumatic|NN youth|NN prevalence|NN of|NN anxiety|ST child|NN future|NN 
+in|NN case|NN disorder|NN way|NN individual|NN environment|NN threat|NN 
+persistence|NN of|NN anxiety|ST level|NN anxiety|ST bad|NN thing|NN 
+in|NN fact|NN response|NN anxiety|ST benefit|NN human|NN danger|NN 
+researcher|NN in|NN medicine|NN adaptation|NN human|NN threat|NN in|NN order|NN possibility|NN of|NN protection|NN 
+level|NN of|NN anxiety|ST risk|NN of|NN death|NN level|NN 
+absence|NN of|NN fear|NN injury|NN death|NN 
+patient|NN anxiety|ST depression|ST morbidity|NN depression|ST 
+significance|NN of|NN symptom|NN anxiety|ST alertness|NN preparation|NN action|NN probability|NN of|NN threat|NN 
+in|NN individual|NN example|NN threshold|NN anxiety|ST response|NN alert|NN 
+history|NN of|NN anxiety|ST response|NN 
+mismatch|NN rate|NN of|NN anxiety|ST reaction|NN environment|NN era|NN 
+example|NN in|NN stone|NN age|NN contact|NN handle|NN of|NN baby|NN mother|NN of|NN strategy|NN anxiety|ST 
+interaction|NN stranger|NN in|NN time|NN interaction|NN tribe|NN 
+researcher|NN lack|NN of|NN interaction|NN in|NN year|NN cause|NN of|NN rate|NN of|NN anxiety|ST 
+case|NN mismatch|NN mismatch|NN 
+in|NN term|NN mismatch|NN posse|NN trait|NN environment|NN individual|NN environment|NN 
+example|NN anxiety|ST reaction|NN situation|NN individual|NN in|NN culture|NN hearing|NN bad|NN news|NN reaction|NN 
+perspective|NN insight|NN alternative|NN treatment|NN method|NN anxiety_disorder|DS 
+anxiety|ST of|NN panic|NN condition|NN 
+researcher|NN in|NN theory|NN anxiety|ST patient|NN feel|NN of|NN vulnerability|NN appraisal|NN of|NN situation|NN 
+mechanism|NN level|NN of|NN gaba|NN neurotransmitter|NN activity|NN in|NN system|NN contribute|NN anxiety|ST 
+number|NN of|NN anxiolytic|NN effect|NN gaba|NN receptor|NN 
+serotonin|NN reuptake|NN inhibitor|NN drug|NN depression|ST line|NN treatment|NN anxiety_disorder|DS 
+amygdala|NN processing|NN of|NN fear|NN anxiety|ST function|NN in|NN anxiety_disorder|DS 
+information|NN amygdala|NN nucleus|NN of|NN complex|NN of|NN lateral|NN basal|NN basal|NN nucleus|NN 
+fear|NN memory|NN threat|NN importance|NN memory|NN processing|NN in|NN brain|NN prefrontal|NN cortex|NN cortex|NN 
+area|NN nucleus|NN of|NN amygdala|NN fear|NN response|NN connection|NN brainstem|NN hypothalamus|NN cerebellum|NN area|NN 
+in|NN anxiety_disorder|DS connection|NN matter|NN in|NN nucleus|NN 
+difference|NN amygdala|NN area|NN connectivity|NN insula|NN area|NN stimulus|NN salience|NN connectivity|NN cortex|NN cortex|NN circuit|NN function|NN 
+compensation|NN strategy|NN amygdala|NN processing|NN of|NN anxiety|ST 
+researcher|NN couple|NN in|NN anxiety_disorder|DS patient|NN engagement|NN of|NN control|NN system|NN anxiety|ST 
+theory|NN use|NN in|NN disorder|NN of|NN attempt|NN involvement|NN of|NN emotion|NN strategy|NN 
+study|NN correlation|NN anxiety_disorder|DS difficulty|NN in|NN balance|NN 
+mechanism|NN malfunction|NN in|NN area|NN brain|NN structure|NN function|NN coordinate|NN signal|NN amygdala|NN input|NN balance|NN 
+anxiety|ST processing|NN in|NN amygdala|NN arborization|NN of|NN neuron|NN 
+potassium|NN channel|NN influence|NN action|NN potential|NN arborization|NN 
+sk2|NN in|NN amygdala|NN anxiety|ST in|NN animal|NN level|NN of|NN corticosterone|NN secretion|NN 
+joseph|NN ledoux|NN feldman|NN barrett|NN threat|NN response|NN activity|NN anxiety|ST 
+diagnosis|NN anxiety_disorder|DS chronic|NN condition|NN early|NN age|NN event|NN 
+time|NN of|NN stress|NN symptom|NN headache|ST muscle|NN spasm|NN tachycardia|ST palpitations|ST hypertension|DS in|NN case|NN fatigue|ST 
+in|NN discourse|NN word|NN anxiety|ST fear|NN in|NN usage|NN mean|NN anxiety|ST state|NN cause|NN fear|NN response|NN threat|NN 
+term|NN anxiety_disorder|DS refer|NN number|NN of|NN disorder|NN fear|NN phobia|ST anxiety|ST symptom|NN 
+diagnosis|NN of|NN anxiety_disorder|DS biomarkers|NN symptom|NN month|NN situation|NN decrease|NN function|NN 
+anxiety|ST questionnaire|NN anxiety|ST symptom|NN anxiety|ST inventory|NN stai|NN anxiety_disorder|DS beck|NN anxiety|ST inventory|NN bai|NN zung|NN anxiety|ST scale|NN taylor|NN anxiety|ST scale|NN 
+questionnaire|NN anxiety|ST depression|ST measurement|NN hamilton|NN anxiety|ST rat|NN scale|NN hospital|NN anxiety|ST depression|ST scale|NN hads|NN patient|NN health|NN questionnaire|NN phq|NN outcome|NN information|NN system|NN promis|NN 
+example|NN of|NN anxiety|ST questionnaire|NN anxiety|ST scale|NN lsas|NN interaction|NN anxiety|ST scale|NN sias|NN phobia|ST inventory|NN spin|NN phobia|ST scale|NN sps|NN anxiety|ST questionnaire|NN 
+anxiety_disorder|DS disorder|NN in|NN depression|ST in|NN of|NN people|NN anxiety_disorder|DS 
+fact|NN overlap|NN symptom|NN of|NN anxiety|ST depression|ST trigger|NN symptom|NN in|NN condition|NN rate|NN of|NN comorbidity|NN 
+study|NN anxiety_disorder|DS family|NN history|NN of|NN anxiety_disorder|DS type|NN 
+dysfunction|NN anxiety_disorder|DS anxiety|ST dysfunction|NN common|NN cause|NN 
+common|NN manifestation|NN in|NN individual|NN anxiety_disorder|DS avoidance|NN of|NN intercourse|NN ejaculation|NN erectile_dysfunction|DS men|NN pain|ST intercourse|NN woman|NN 
+dysfunction|NN common|NN people|NN disorder|NN attack|NN arousal|NN stress|NN disorder|NN 
+diagnosis|NN diagnosis|NN of|NN anxiety_disorder|DS cause|NN 
+disease|NN anxiety_disorder|DS endocrine|NN disease|NN hyperthyroidism|NN hyperprolactinemia|NN disorder|NN diabetes|DS deficiency|NN state|NN level|NN of|NN vitamin|NN d|NN b2|NN b12|NN acid|NN gastrointestinal|NN disease|NN disease|NN sensitivity|NN bowel|NN disease|NN heart|NN disease|NN blood|NN disease|NN anemia|DS brain|NN disease|NN parkinson|NN disease|NN dementia|DS multiple_sclerosis|DS huntington|NN disease|NN 
+drug|NN anxiety|ST in|NN intoxication|NN withdrawal|NN chronic|NN use|NN 
+alcohol|NN tobacco|NN cannabis|NN sedative|NN prescription|NN benzodiazepine|NN opioids|NN prescription|NN pain|ST killer|NN drug|NN heroin|NN stimulant|NN caffeine|NN cocaine|NN amphetamine|NN inhalant|NN 
+prevention|NN focus|NN prevention|NN of|NN anxiety_disorder|DS 
+evidence|NN use|NN of|NN therapy|NN mindfulness|NN therapy|NN 
+review|NN measure|NN gad|NN in|NN adult|NN 
+review|NN intervention|NN benefit|NN prevention|NN of|NN anxiety|ST 
+treatment|NN treatment|NN option|NN change|NN therapy|NN medication|NN 
+evidence|NN therapy|NN medication|NN choice|NN of|NN person|NN anxiety_disorder|DS therapy|NN 
+in|NN addition|NN choice|NN choice|NN fail|NN symptom|NN 
+lifestyle|NN change|NN exercise|NN evidence|NN improvement|NN sleep|NN pattern|NN intake|NN smoke|NN 
+smoke|NN benefit|NN in|NN anxiety|ST of|NN medication|NN 
+fatty|NN acid|NN oil|NN anxiety|ST in|NN symptom|NN 
+therapy|NN line|NN treatment|NN 
+cbt|NN internet|NN 
+evidence|NN health|NN apps|NN 
+anxiety_disorder|DS therapy|NN cbt|NN book|NN treatment|NN of|NN people|NN anxiety_disorder|DS 
+mindfulness|NN program|NN anxiety_disorder|DS 
+meditation|NN effect|NN anxiety|ST meditation|NN type|NN of|NN meditation|NN 
+cochrane|NN review|NN of|NN therapy|NN anxiety_disorder|DS in|NN adult|NN evidence|NN conclusion|NN 
+medication|NN medication|NN snris|NN line|NN choice|NN anxiety_disorder|DS 
+evidence|NN member|NN of|NN class|NN cost|NN drug|NN choice|NN 
+year|NN 
+medication|NN result|NN in|NN risk|NN of|NN relapse|NN 
+buspirone|NN pregabalin|NN treatment|NN people|NN evidence|NN benzodiazepine|NN diazepam|NN clonazepam|NN of|NN favor|NN risk|NN of|NN dependence|NN abuse|NN 
+medication|NN care|NN adult|NN side|NN effect|NN of|NN disorder|NN 
+adherence|NN problem|NN people|NN difficulty|NN understand|NN instruction|NN 
+in|NN medication|NN helpful|NN in|NN phobia|ST benzodiazepine|NN episode|NN data|NN efficacy|NN of|NN drug|NN 
+medicine|NN remedy|NN research|NN anxiety_disorder|DS 
+of|NN 2019|NN cannabis|NN treatment|NN 
+kava|NN research|NN in|NN use|NN people|NN anxiety|ST 
+academy|NN of|NN family|NN physician|NN use|NN of|NN kava|NN mild|NN anxiety_disorder|DS in|NN people|NN alcohol|NN medicine|NN liver|NN remedy|NN 
+inositol|NN effect|NN in|NN people|NN disorder|NN disorder|NN 
+evidence|NN use|NN of|NN john|NN wort|NN passionflower|NN 
+child|NN therapy|NN number|NN of|NN medication|NN childhood|NN anxiety_disorder|DS 
+therapy|NN medication|NN 
+therapy|NN cbt|NN therapy|NN approach|NN 
+study|NN evidence|NN treatment|NN form|NN of|NN treatment|NN treatment|NN option|NN 
+adult|NN child|NN psychotherapy|NN therapy|NN counsel|NN 
+family|NN therapy|NN form|NN of|NN treatment|NN in|NN child|NN meet|NN therapist|NN guardian|NN sibling|NN 
+family|NN member|NN therapy|NN family|NN therapy|NN form|NN of|NN group|NN therapy|NN 
+art|NN play|NN therapy|NN 
+art|NN therapy|NN child|NN disability|NN in|NN 
+in|NN art|NN activity|NN child|NN others|NN 
+in|NN play|NN therapy|NN child|NN therapist|NN 
+therapist|NN time|NN time|NN question|NN comment|NN suggestion|NN 
+family|NN of|NN child|NN role|NN in|NN treatment|NN 
+medication|NN option|NN antidepressant|NN ssri|NN snris|NN 
+side|NN effect|NN medication|NN common|NN 
+prognosis|NN prognosis|NN vary|NN severity|NN of|NN case|NN utilization|NN of|NN treatment|NN individual|NN 
+child|NN risk|NN result|NN school|NN avoidance|NN of|NN activity|NN substance|NN abuse|NN 
+child|NN anxiety_disorder|DS disorder|NN depression|ST disorder|NN attention|NN deficit|NN disorder|NN 
+epidemiology|NN of|NN of|NN population|NN anxiety_disorder|DS 
+common|NN in|NN female|NN male|NN 
+in|NN europe|NN africa|NN asia|NN rate|NN of|NN anxiety_disorder|DS rate|NN 
+in|NN state|NN prevalence|NN of|NN anxiety_disorder|DS of|NN adult|NN condition|NN in|NN year|NN 
+difference|NN range|NN of|NN way|NN in|NN culture|NN anxiety|ST symptom|NN behavior|NN 
+in|NN anxiety_disorder|DS condition|NN in|NN state|NN of|NN substance|NN use|NN disorder|NN 
+adult|NN child|NN anxiety_disorder|DS percent|NN of|NN child|NN anxiety_disorder|DS age|NN of|NN anxiety|ST common|NN health|NN issue|NN in|NN people|NN 
+anxiety_disorder|DS in|NN child|NN adult|NN counterpart|NN difficulty|NN parent|NN in|NN childhood|NN fear|NN 
+anxiety|ST in|NN child|NN attention|NN deficit|NN disorder|NN tendency|NN of|NN child|NN emotion|NN stomach|NN ache|NN head|NN ache|NN 
+anxiety_disorder|DS ailment|NN 
+anxiety|ST in|NN child|NN variety|NN of|NN cause|NN anxiety|ST in|NN biology|NN product|NN of|NN condition|NN autism|DS asperger|NN disorder|NN 
+child|NN anxiety|ST child|NN 
+case|NN of|NN anxiety|ST arise|NN child|NN traumatic|NN event|NN of|NN kind|NN in|NN case|NN cause|NN of|NN child|NN anxiety|ST 
+anxiety|ST in|NN child|NN tend|NN theme|NN fear|NN of|NN school|NN school|NN fear|NN of|NN rejection|NN fear|NN of|NN something|NN one|NN 
+anxiety|ST childhood|NN anxiety|ST duration|NN intensity|NN of|NN fear|NN 
+reference|NN peter|NN aspden|NN 
+scream|NN mean|NN 
+http|NN axzz1sjsvkl2h|NN 
+time|NN 
+http|NN l|NN axzz1sjsvkl2h|NN 
+manual|NN of|NN associati|NN 
+arlington|NN publish|NN 
+pp|NN 
+anxiety_disorder|DS symptom|NN cause|NN http|NN 
+mayo|NN clinic|NN 
+2019|NN 
+craske|NN mg|NN june|NN 
+anxiety|ST 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+anxiety_disorder|DS http|NN b2|NN 
+nimh|NN 
+march|NN http|NN pub2|NN july|NN 
+testa|NN giannuzzi|NN r|NN daini|NN s|NN bernardini|NN l|NN petrongolo|NN l|NN silveri|NN n|NN 
+emergency|NN part|NN iii|NN symptom|NN disease|NN http|NN pdf|NN 
+eur|NN rev|NN sci|NN review|NN 
+1|NN 
+pmid|NN http|NN 
+http|NN pdf|NN march|NN 
+kessler|NN al|NN 
+prevalence|NN distribution|NN of|NN disorder|NN in|NN world|NN health|NN organization|NN world|NN mental|NN health|NN survey|NN initiative|NN http|NN 
+world|NN psychiatry|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+schacter|NN gilbert|NN wegner|NN 
+psychology|NN edition|NN 
+york|NN ny|NN worth|NN 
+calleo|NN j|NN stanley|NN m|NN 
+anxiety_disorder|DS in|NN life|NN diagnosis|NN treatment|NN strategy|NN http|NN 
+time|NN 
+http|NN september|NN 
+phil|NN barker|NN 
+health|NN nurse|NN craft|NN of|NN s|NN 
+london|NN arnold|NN 
+http|NN december|NN 
+psychology|NN passer|NN ronald|NN smith|NN holt|NN bremner|NN sutherland|NN michael|NN vliek|NN mcgrath|NN hill|NN education|NN mcgrath|NN hill|NN company|NN 
+anxiety_disorder|DS cause|NN treatment|NN prevention|NN http|NN 
+http|NN disorder|NN 
+psychiatry|NN michael|NN gelder|NN richard|NN mayou|NN john|NN geddes|NN ed|NN 
+oxford|NN york|NN oxford|NN university|NN press|NN varcarolis|NN 
+e|NN 
+manual|NN of|NN nurse|NN care|NN plan|NN assessment|NN guide|NN diagnosis|NN psychopharmacology|NN 
+ed|NN 
+york|NN saunders|NN 
+p|NN 
+keeton|NN cp|NN walkup|NN jt|NN 
+anxiety_disorder|DS epidemiology|NN diagnosis|NN management|NN 
+drug|NN 
+http|NN 
+pmid|NN http|NN 
+department|NN of|NN health|NN human|NN service|NN 
+phobia|ST http|NN 
+1|NN december|NN 
+psychology|NN 
+michael|NN passer|NN ronald|NN smith|NN holt|NN bremner|NN sutherland|NN michael|NN vliek|NN 
+mcgrath|NN hill|NN education|NN mcgrath|NN hill|NN company|NN 
+disorder|NN http|NN 
+center|NN treatment|NN study|NN of|NN anxiety|ST university|NN of|NN pennsylvania|NN 
+http|NN 
+craske|NN gorman|NN jane|NN fisher|NN 
+practitioner|NN guide|NN psychotherapy|NN 
+springer|NN 
+oxford|NN handbook|NN of|NN exercise|NN psychology|NN http|NN gaaqbaj|NN 
+oxford|NN university|NN press|NN 
+stress|NN disorder|NN family|NN http|NN 
+veteran|NN affair|NN canada|NN 
+http|NN 
+disorder|NN http|NN ownload|NN http|NN december|NN wayback|NN machine|NN shalev|NN arieh|NN marmar|NN charles|NN 
+stress|NN disorder|NN 
+journal|NN of|NN medicine|NN 
+s|NN 
+pmid|NN http|NN 
+fullerton|NN carol|NN 
+stress|NN disorder|NN 
+washington|NN press|NN pp|NN 
+siegler|NN robert|NN 
+child|NN child|NN media|NN tool|NN kit|NN reader|NN child|NN 
+york|NN publisher|NN 
+joan|NN 
+adult|NN separation|NN anxiety|ST psychiatr|NN news|NN 
+news|NN 
+http|NN 
+jin|NN ruscio|NN 
+walter|NN ee|NN 
+kessler|NN rc|NN 
+june|NN 
+prevalence|NN correlate|NN of|NN child|NN adult|NN separation|NN anxiety_disorder|DS in|NN comorbidity|NN survey|NN replication|NN http|NN 
+psychiatry|NN 
+http|NN 
+pmc|NN http|NN c1924723|NN 
+pmid|NN http|NN 
+mohatt|NN justin|NN walkup|NN john|NN 1|NN 
+treatment|NN of|NN separation|NN anxiety_disorder|DS in|NN youth|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+x|NN 
+pmid|NN http|NN 
+panic|NN attack|NN 
+panic|NN attack|NN http|NN 
+http|NN june|NN march|NN 
+collaborate|NN centre|NN health|NN 
+disorder|NN core|NN intervention|NN in|NN treatment|NN of|NN disorder|NN body|NN disorder|NN http|NN 
+guideline|NN 
+isbn|NN pmid|NN http|NN 
+http|NN 
+soomro|NN gm|NN 
+disorder|NN http|NN 
+evidence|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+institute|NN quality|NN efficiency|NN in|NN health|NN care|NN iqwig|NN 
+disorder|NN overview|NN http|NN 
+health|NN 
+institute|NN quality|NN efficiency|NN in|NN health|NN care|NN iqwig|NN 
+viana|NN beidel|NN b|NN 
+mutism|NN review|NN integration|NN of|NN year|NN 
+psychology|NN review|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+child|NN word|NN http|NN http|NN wayback|NN machine|NN evans|NN katie|NN j|NN 
+1|NN march|NN 
+diagnosis|NN substance|NN abuser|NN http|NN 
+guilford|NN press|NN 
+pp|NN 
+lindsay|NN 
+powell|NN graham|NN ed|NN 
+handbook|NN of|NN adult|NN psychology|NN http|NN 
+routledge|NN 
+pp|NN 
+johnson|NN 
+addiction|NN medicine|NN science|NN practice|NN http|NN 
+york|NN springer|NN 
+pp|NN 
+http|NN 1|NN december|NN 
+cohen|NN si|NN 
+alcohol|NN benzodiazepine|NN anxiety|ST panic|NN phobia|ST http|NN 
+j|NN r|NN soc|NN 
+2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+morrow|NN la|NN al|NN 
+incidence|NN of|NN anxiety|ST depressive|NN disorder|NN in|NN person|NN solvent|NN exposure|NN http|NN 
+psychosom|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN p|NN 
+scott|NN trudy|NN 
+antianxiety|NN food|NN solution|NN food|NN mind|NN mood|NN crave|NN http|NN e|NN 
+harbinger|NN publication|NN 
+october|NN 
+winston|NN ap|NN 
+effect|NN of|NN caffeine|NN 
+advance|NN in|NN treatment|NN 
+http|NN 
+hughes|NN rn|NN 
+drug|NN anxiety|ST caffeine|NN http|NN 
+zealand|NN journal|NN of|NN psychology|NN 
+1|NN 
+mm|NN araujo|NN dm|NN ae|NN 
+caffeine|NN challenge|NN test|NN disorder|NN literature|NN review|NN 
+rev|NN 
+http|NN 
+pmid|NN http|NN 
+vilarim|NN marina|NN machado|NN araujo|NN marano|NN egidio|NN 
+caffeine|NN challenge|NN test|NN disorder|NN literature|NN review|NN 
+review|NN of|NN neurotherapeutics|NN 
+http|NN 
+pmid|NN http|NN 
+bruce|NN malcolm|NN scott|NN shine|NN p|NN 
+effect|NN of|NN caffeine|NN in|NN patient|NN anxiety_disorder|DS 
+archive|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+nardi|NN lope|NN valença|NN alexandre|NN freire|NN veras|NN isabella|NN king|NN lucia|NN zin|NN 
+caffeine|NN challenge|NN test|NN in|NN disorder|NN depression|ST attack|NN 
+psychiatry|NN 
+http|NN 1|NN 
+pmid|NN http|NN 
+association|NN 
+manual|NN of|NN disorder|NN 
+publish|NN 
+pp|NN 
+kedzior|NN karina|NN karolina|NN tabata|NN 
+association|NN anxiety_disorder|DS cannabis|NN use|NN cannabis|NN use|NN disorder|NN in|NN of|NN study|NN http|NN 
+bmc|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+crippa|NN josé|NN alexandre|NN zuardi|NN waldo|NN rocio|NN atakan|NN zerrin|NN mcguire|NN philip|NN paolo|NN 1|NN 
+cannabis|NN anxiety|ST review|NN of|NN evidence|NN 
+human|NN psychopharmacology|NN 
+http|NN 
+pmid|NN http|NN 
+v|NN g|NN pacak|NN k|NN 
+pheochromocytoma|NN endocrine|NN stress|NN disorder|NN http|NN 
+ann|NN 
+acad|NN 
+sci|NN 
+1|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+guller|NN u|NN j|NN s|NN er|NN d|NN jm|NN 
+pheochromocytoma|NN test|NN http|NN 
+ann|NN 
+surg|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+copy|NN http|NN 
+http|NN april|NN 
+lijster|NN jasmijn|NN dierckx|NN bram|NN utens|NN 
+verhulst|NN zieldorff|NN carola|NN dieleman|NN legerstee|NN jeroen|NN march|NN 
+age|NN of|NN onset|NN of|NN anxiety_disorder|DS http|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+remes|NN olivia|NN carol|NN linde|NN rianne|NN louise|NN june|NN 
+review|NN of|NN review|NN prevalence|NN of|NN anxiety_disorder|DS in|NN adult|NN population|NN tps|NN 
+brain|NN behavior|NN 
+e00497|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+gimson|NN schlosser|NN marco|NN huntley|NN jonathan|NN d|NN marchant|NN l|NN 
+support|NN midlife|NN anxiety|ST diagnosis|NN risk|NN factor|NN dementia|DS review|NN http|NN 
+bmj|NN 
+e019399|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cohen|NN 
+state|NN of|NN art|NN review|NN depression|ST stress|NN anxiety|ST cardiovascular_disease|DS http|NN 
+journal|NN of|NN hypertension|DS 
+http|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+patel|NN g|NN tl|NN december|NN 
+in|NN clinic|NN 
+anxiety_disorder|DS 
+annals|NN of|NN medicine|NN 
+quiz|NN 
+http|NN 
+pmid|NN http|NN 
+grinde|NN b|NN 
+approach|NN prevention|NN of|NN disorder|NN medicine|NN http|NN pdf|NN 
+medicine|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN pdf|NN 
+bateson|NN m|NN brilot|NN 
+anxiety|ST approach|NN http|NN pdf|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+p|NN pdf|NN 
+price|NN john|NN 
+aspect|NN of|NN anxiety_disorder|DS http|NN 
+dialogue|NN in|NN neuroscience|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rb|NN 
+role|NN of|NN gaba|NN in|NN anxiety_disorder|DS 
+j|NN clin|NN psychiatry|NN 
+pmid|NN http|NN 
+nemeroff|NN cb|NN 
+role|NN of|NN gaba|NN in|NN pathophysiology|NN treatment|NN of|NN anxiety_disorder|DS 
+bull|NN 
+pmid|NN http|NN 
+sj|NN 
+role|NN of|NN acid|NN in|NN anxiety|ST 
+psychopathology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+dunlop|NN bw|NN davis|NN pg|NN 
+combination|NN treatment|NN benzodiazepine|NN ssri|NN comorbid|NN anxiety|ST depression|ST review|NN http|NN 
+prim|NN care|NN companion|NN j|NN clin|NN psychiatry|NN 
+http|NN 
+pmc|NN p|NN 
+pmid|NN http|NN 
+prater|NN ke|NN af|NN menon|NN v|NN greicius|NN md|NN 
+subregion|NN connectivity|NN evidence|NN of|NN compensatory|NN network|NN in|NN anxiety_disorder|DS 
+arch|NN gen|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+kalueff|NN av|NN k|NN griffith|NN aj|NN 
+anxiety_disorder|DS phenotype|NN in|NN men|NN mouse|NN 
+behav|NN 
+brain|NN re|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+n|NN j|NN p|NN 
+dysfunction|NN anxiety_disorder|DS interface|NN study|NN reference|NN 
+arch|NN gerontol|NN geriatr|NN 
+http|NN 
+pmid|NN http|NN 
+em|NN venault|NN p|NN f|NN joubert|NN c|NN g|NN december|NN 
+balance|NN control|NN posture|NN difference|NN in|NN mouse|NN non|NN mouse|NN 
+behav|NN 
+brain|NN re|NN 
+http|NN 
+pmid|NN http|NN 
+nm|NN pollack|NN mh|NN tuby|NN k|NN ta|NN 
+dizziness|ST disorder|NN review|NN of|NN association|NN dysfunction|NN anxiety|ST 
+clin|NN psychiatry|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+cd|NN thayer|NN jf|NN 
+base|NN link|NN 
+anxiety|ST disord|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN ferguson|NN d|NN rm|NN 
+potassium|NN channel|NN overexpression|NN in|NN amygdala|NN reduce|NN anxiety|ST corticosterone|NN secretion|NN arborization|NN http|NN 
+mol|NN 
+psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+world|NN health|NN organization|NN 
+treatment|NN of|NN disorder|NN in|NN health|NN care|NN http|NN 
+pdf|NN pdf|NN 
+geneva|NN 
+http|NN pdf|NN 
+m|NN j|NN 
+assessment|NN of|NN symptom|NN of|NN anxiety|ST http|NN 
+dialogue|NN review|NN 
+2|NN 1|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+m|NN j|NN 
+assessment|NN of|NN symptom|NN of|NN anxiety|ST http|NN 
+dialogue|NN review|NN 
+2|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cameron|NN og|NN 1|NN december|NN 
+comorbid|NN depression|ST anxiety|ST p|NN 
+time|NN 
+http|NN 
+mclaughlin|NN k|NN t|NN 
+family|NN history|NN of|NN problem|NN in|NN anxiety_disorder|DS http|NN 
+journal|NN of|NN psychology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+p|NN 
+coretti|NN g|NN baldi|NN i|NN 1|NN 
+relationship|NN anxiety_disorder|DS dysfunction|NN http|NN 
+time|NN 
+http|NN september|NN 
+samuel|NN mh|NN 
+function|NN in|NN hypothyroidism|NN hyperthyroidism|NN 
+curr|NN opin|NN endocrinol|NN diabetes|DS obes|NN review|NN 
+http|NN c|NN 
+pmid|NN http|NN 
+grigsby|NN ab|NN anderson|NN rj|NN freedland|NN ke|NN clouse|NN re|NN pj|NN 
+prevalence|NN of|NN anxiety|ST in|NN adult|NN diabetes|DS review|NN 
+j|NN psychosom|NN re|NN review|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+zingone|NN f|NN gl|NN card|NN tr|NN sander|NN jf|NN bai|NN jc|NN 
+morbidity|NN of|NN disease|NN review|NN of|NN literature|NN http|NN 
+gastroenterol|NN j|NN review|NN 
+2|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+j|NN santolaria|NN s|NN sander|NN f|NN 
+review|NN gluten|NN sensitivity|NN 
+aliment|NN pharmacol|NN ther|NN review|NN 
+http|NN 
+pmid|NN tps|NN 
+r|NN stello|NN n|NN hanes|NN h|NN 
+depression|ST anxiety|ST in|NN patient|NN bowel|NN disease|NN review|NN 
+j|NN psychosom|NN re|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+zhao|NN qf|NN l|NN wang|NN hf|NN jiang|NN t|NN m|NN l|NN al|NN 
+prevalence|NN of|NN symptom|NN in|NN alzheimer|NN disease|NN review|NN 
+j|NN affect|NN disord|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+mc|NN chan|NN ll|NN lc|NN ek|NN 
+depression|ST anxiety|ST apathy|ST in|NN parkinson|NN disease|NN insight|NN study|NN http|NN c5084819|NN 
+eur|NN j|NN neurol|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+marrie|NN ra|NN s|NN cohen|NN j|NN stuve|NN o|NN trojano|NN m|NN p|NN al|NN 
+incidence|NN prevalence|NN of|NN disorder|NN in|NN multiple_sclerosis|DS review|NN http|NN 
+mult|NN scler|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+association|NN 
+manual|NN of|NN disorder|NN fifth|NN edition|NN 
+arlington|NN va|NN association|NN 
+bienvenu|NN oj|NN ginsburg|NN g|NN 
+prevention|NN of|NN anxiety_disorder|DS 
+review|NN of|NN psychiatry|NN england|NN 
+http|NN 
+pmid|NN http|NN 
+khoury|NN b|NN lecomte|NN t|NN fortin|NN g|NN al|NN 
+therapy|NN 
+clin|NN psychol|NN rev|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN rush|NN se|NN 
+stress|NN reduction|NN stress|NN management|NN intervention|NN individual|NN review|NN 
+j|NN evid|NN altern|NN 
+http|NN 
+pmid|NN http|NN 
+patel|NN g|NN tl|NN december|NN 
+in|NN clinic|NN 
+anxiety_disorder|DS p|NN pdf|NN 
+annals|NN of|NN medicine|NN 
+quiz|NN 
+s|NN 
+pmid|NN http|NN 
+http|NN ttp|NN pdf|NN 
+evidence|NN effectiveness|NN of|NN measure|NN gad|NN in|NN adult|NN m|NN fernández|NN motrico|NN e|NN rigabert|NN luna|NN jd|NN bayón|NN mi|NN jv|NN já|NN 1|NN 
+effectiveness|NN of|NN intervention|NN in|NN prevention|NN of|NN anxiety|ST review|NN 
+jama|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+schmidt|NN allan|NN capron|NN dan|NN 2019|NN 
+anxiety|ST sensitivity|NN prevention|NN strategy|NN 
+clinician|NN guide|NN anxiety|ST sensitivity|NN treatment|NN assessment|NN http|NN 
+press|NN 
+pp|NN 
+stein|NN mb|NN j|NN 
+practice|NN anxiety_disorder|DS 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+taylor|NN mcneill|NN girling|NN farley|NN 
+change|NN in|NN health|NN cessation|NN review|NN analysis|NN http|NN 
+bmj|NN 
+1|NN g1151|NN 
+http|NN 
+pmc|NN s|NN 
+pmid|NN http|NN 
+su|NN tseng|NN okubo|NN ryo|NN chen|NN chen|NN j|NN 
+association|NN of|NN use|NN of|NN fatty|NN acid|NN change|NN in|NN severity|NN of|NN anxiety|ST symptom|NN http|NN pmc6324500|NN 
+jama|NN network|NN 
+1|NN e182327|NN 
+http|NN 
+pmc|NN s|NN 
+pmid|NN http|NN 
+cuijpers|NN p|NN s|NN huibers|NN m|NN berking|NN m|NN andersson|NN g|NN 
+treatment|NN of|NN anxiety_disorder|DS 
+psychology|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+otte|NN c|NN 
+therapy|NN in|NN anxiety_disorder|DS state|NN of|NN evidence|NN http|NN 
+dialogue|NN in|NN neuroscience|NN 
+pmc|NN http|NN mc3263389|NN 
+pmid|NN http|NN 
+pompoli|NN furukawa|NN ta|NN imai|NN h|NN efthimiou|NN o|NN g|NN 
+therapy|NN disorder|NN agoraphobia|NN in|NN adult|NN network|NN http|NN pdf|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011004|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+olthuis|NN jv|NN bailey|NN k|NN hayden|NN ja|NN sh|NN march|NN 
+internet|NN therapy|NN anxiety_disorder|DS in|NN adult|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011565|NN 
+http|NN b2|NN 
+pmid|NN http|NN 
+donker|NN t|NN petrie|NN k|NN proudfoot|NN j|NN clarke|NN j|NN birch|NN mr|NN h|NN 
+smartphones|NN delivery|NN of|NN health|NN program|NN review|NN http|NN 
+journal|NN of|NN internet|NN research|NN 
+e247|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+warren|NN mansell|NN 1|NN june|NN 
+book|NN therapy|NN anxiety_disorder|DS 
+bulletin|NN 
+http|NN 
+roemer|NN l|NN williston|NN sk|NN eustis|NN eh|NN 
+mindfulness|NN therapy|NN anxiety_disorder|DS 
+curr|NN psychiatry|NN http|NN 
+pmid|NN http|NN 
+aj|NN 
+mindfulness|NN anxiety|ST depression|ST 
+depress|NN anxiety|ST 
+http|NN 2|NN 
+pmid|NN http|NN 
+krisanaprakornkit|NN t|NN piyavhatkul|NN laopaiboon|NN m|NN 
+meditation|NN therapy|NN anxiety_disorder|DS 
+cochrane|NN database|NN of|NN review|NN 1|NN cd004998|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+wu|NN hui|NN wang|NN jijun|NN li|NN chunbo|NN 
+therapy|NN anxiety_disorder|DS in|NN adult|NN 
+cochrane|NN database|NN of|NN review|NN 
+http|NN 
+baldwin|NN s|NN anderson|NN m|NN j|NN allgulander|NN christer|NN boer|NN den|NN christmas|NN m|NN davy|NN simon|NN fineberg|NN 
+treatment|NN of|NN anxiety_disorder|DS stress|NN disorder|NN disorder|NN revision|NN of|NN guideline|NN association|NN psychopharmacology|NN http|NN pdf|NN 
+journal|NN of|NN psychopharmacology|NN 
+http|NN 
+pmid|NN http|NN 
+batelaan|NN m|NN bosman|NN c|NN d|NN huijbregts|NN m|NN balkom|NN anton|NN j|NN l|NN m|NN september|NN 
+risk|NN of|NN relapse|NN discontinuation|NN in|NN anxiety_disorder|DS disorder|NN stress|NN disorder|NN review|NN of|NN relapse|NN prevention|NN trial|NN http|NN 
+bmj|NN 
+j3927|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+batelaan|NN bosman|NN rc|NN muntingh|NN huijbregts|NN km|NN balkom|NN ajlm|NN september|NN 
+risk|NN of|NN relapse|NN discontinuation|NN in|NN anxiety_disorder|DS disorder|NN stress|NN disorder|NN review|NN of|NN relapse|NN prevention|NN trial|NN http|NN 
+bmj|NN research|NN ed|NN 
+j3927|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+choy|NN y|NN fyer|NN aj|NN jd|NN 
+treatment|NN of|NN phobia|ST in|NN adult|NN 
+psychology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+black|NN stock|NN campbell|NN gabrielle|NN tran|NN t|NN dino|NN hall|NN d|NN farrell|NN michael|NN degenhardt|NN 2019|NN 
+cannabinoids|NN treatment|NN of|NN disorder|NN symptom|NN of|NN disorder|NN review|NN analysis|NN 
+psychiatry|NN 
+http|NN 
+pittler|NN mh|NN e|NN 
+pittler|NN mh|NN 
+extract|NN anxiety|ST 
+cochrane|NN database|NN of|NN review|NN 1|NN cd003383|NN 
+http|NN 
+pmid|NN http|NN 
+witte|NN s|NN d|NN gaus|NN w|NN 
+of|NN efficacy|NN of|NN kava|NN extract|NN ws1490|NN in|NN patient|NN anxiety_disorder|DS 
+phytother|NN re|NN 
+http|NN 
+pmid|NN http|NN 
+saeed|NN sa|NN antonacci|NN dj|NN 
+herbal|NN supplement|NN treatment|NN of|NN anxiety_disorder|DS 
+family|NN physician|NN 
+pmid|NN http|NN 
+wang|NN zhen|NN farah|NN wigdan|NN morrow|NN barrionuevo|NN patricia|NN asi|NN noor|NN beuschel|NN bradley|NN daraz|NN lubna|NN zaiem|NN feras|NN laura|NN ponce|NN oscar|NN prokop|NN hassan|NN 
+effectiveness|NN safety|NN of|NN therapy|NN pharmacotherapy|NN childhood|NN anxiety_disorder|DS http|NN 
+jama|NN pediatrics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ck|NN francis|NN se|NN l|NN chorpita|NN bf|NN june|NN 
+evidence|NN base|NN update|NN year|NN of|NN research|NN treatment|NN child|NN anxiety|ST 
+journal|NN of|NN child|NN psychology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+creswell|NN cathy|NN cruddace|NN susan|NN gerry|NN stephen|NN gitau|NN rachel|NN mollison|NN jill|NN murray|NN lynne|NN shafran|NN rosamund|NN alan|NN 
+treatment|NN of|NN childhood|NN anxiety_disorder|DS in|NN context|NN of|NN anxiety_disorder|DS trial|NN analysis|NN http|NN 
+health|NN technology|NN assessment|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+hanney|NN 
+family|NN assessment|NN intervention|NN exercise|NN 
+zealand|NN journal|NN of|NN family|NN therapy|NN 
+2|NN 
+http|NN 
+bratton|NN ray|NN 
+play|NN therapy|NN 
+in|NN 
+cain|NN ed|NN 
+psychotherapy|NN handbook|NN of|NN research|NN practice|NN pp|NN 
+washington|NN dc|NN association|NN 
+stanford|NN university|NN school|NN of|NN medicine|NN department|NN of|NN psychiatry|NN science|NN 
+principle|NN practice|NN of|NN psychology|NN edition|NN 
+principle|NN practice|NN of|NN psychiatry|NN 
+pp|NN 
+http|NN 
+vos|NN t|NN flaxman|NN ad|NN lozano|NN r|NN michaud|NN c|NN shibuya|NN k|NN salomon|NN ja|NN abdalla|NN s|NN al|NN 
+december|NN 
+year|NN disability|NN ylds|NN sequela|NN of|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+simpson|NN blair|NN ed|NN 
+anxiety_disorder|DS theory|NN research|NN perspective|NN http|NN publ|NN 
+cambridge|NN cambridge|NN university|NN press|NN 
+s|NN qoc|NN 
+kessler|NN rc|NN berglund|NN p|NN demler|NN o|NN jin|NN r|NN merikangas|NN kr|NN walter|NN 
+prevalence|NN distribution|NN of|NN disorder|NN in|NN comorbidity|NN survey|NN replication|NN 
+arch|NN 
+psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+brockveld|NN rapee|NN ronald|NN 
+in|NN hofmann|NN dibartolo|NN m|NN 
+ed|NN 
+anxiety|ST perspective|NN 
+elsevier|NN 
+http|NN 
+hofmann|NN 
+aspect|NN in|NN anxiety|ST anxiety_disorder|DS http|NN 
+depress|NN anxiety|ST 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+fricchione|NN gregory|NN 
+anxiety_disorder|DS 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+essau|NN 
+child|NN psychopathology|NN implication|NN 
+church|NN road|NN heave|NN east|NN sussex|NN routledge|NN 
+anxietybc|NN 
+anxiety|ST http|NN 
+anxietybc|NN 
+anxietybc|NN 
+http|NN june|NN june|NN 
+merrill|NN anna|NN 
+anxiety|ST autism|DS spectrum|NN disorder|NN http|NN 
+resource|NN center|NN autism|DS 
+resource|NN center|NN autism|DS 
+http|NN june|NN june|NN 
+guignard|NN jacquet|NN lubart|NN todd|NN i|NN 
+perfectionism|NN anxiety|ST paradox|NN in|NN giftedness|NN 
+http|NN 
+plo|NN 
+e41043|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rapee|NN ronald|NN schniering|NN hudson|NN jennifer|NN anxiety_disorder|DS childhood|NN adolescence|NN origin|NN treatment|NN http|NN pdf|NN 
+review|NN of|NN psychology|NN 
+p|NN anxiety|ST f|NN pdf|NN june|NN link|NN support|NN group|NN provider|NN anxiety_disorder|DS http|NN curlie|NN khouzam|NN hr|NN 
+anxiety_disorder|DS guideline|NN care|NN 
+part|NN 1|NN diagnosis|NN http|NN 
+consultant|NN 
+khouzam|NN hr|NN 
+anxiety_disorder|DS guideline|NN care|NN 
+part|NN 2|NN treatment|NN http|NN 
+consultant|NN 
+classification|NN f40|NN d|NN p|NN http|NN 
+http|NN d001008|NN http|NN i|NN diseasesdb|NN http|NN emedicine|NN http|NN ew|NN resource|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

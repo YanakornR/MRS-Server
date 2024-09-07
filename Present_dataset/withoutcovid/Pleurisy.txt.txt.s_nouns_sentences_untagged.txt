@@ -1,0 +1,135 @@
+encyclopedia|NN pleurisy|NN jump|NN navigation|NN jump|NN article|NN disease|NN 
+plant|NN pleurisy|NN root|NN butterfly|NN weed|NN 
+pleurisy|NN name|NN pleurisy|NN pleurisy|NN pleurisy|NN figure|NN anatomy|NN 
+figure|NN lung|NN pleurisy|NN lung|NN pneumothorax|DS lung|NN 
+symptom|NN chest_pain|ST cause|NN infection|NN pneumonia|DS embolism|NN method|NN chest|NN x-ray|NN electrocardiogram|NN ecg|NN blood|NN test|NN diagnosis|NN heart_attack|DS cholecystitis|DS treatment|NN cause|NN acetaminophen|NN frequency|NN case|NN year|NN united|NN states|NN 
+pleurisy|NN pleurisy|NN inflammation|NN membrane|NN lung|NN line|NN chest|NN cavity|NN chest_pain|ST pain|ST ache|NN symptom|NN shortness|NN breath|NN cough|ST fever|ST weight_loss|ST cause|NN 
+cause|NN infection|NN cause|NN pneumonia|DS embolism|NN autoimmune|NN disorder|NN lung_cancer|DS heart|NN surgery|NN pancreatitis|NN chest|NN trauma|NN asbestosis|DS cause|NN mechanism|NN rub|NN pleurae|NN glide|NN condition|NN symptom|NN heart_attack|DS cholecystitis|DS diagnosis|NN chest|NN x-ray|NN electrocardiogram|NN ecg|NN blood|NN test|NN 
+treatment|NN cause|NN paracetamol|NN decrease|NN pain|ST incentive|NN breath|NN people|NN united|NN states|NN year|NN description|NN condition|NN date|NN hippocrates|NN content|NN 
+sign|NN symptom|NN problem|NN cause|NN diagnosis|NN examination|NN test|NN treatment|NN procedure|NN lifestyle|NN change|NN cause|NN treatment|NN reference|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN pleurisy|NN stab|NN burn|NN pain|ST right|NN side|NN chest|NN breath|NN inhale|NN breath|NN cough|ST sneez|NN 
+pain|ST place|NN shoulder|NN back|NN ache|NN 
+cause|NN pleurisy|NN symptom|NN 
+cough|ST fever|ST chill|NN breath|NN shortness|NN breath|NN heart|NN rate|NN throat|NN pain|ST swell|NN joint|NN 
+pleurisy|NN complication|NN space|NN 
+case|NN pleurisy|NN fluid|NN space|NN 
+buildup|NN fluid|NN force|NN layer|NN pleura|NN 
+pain|ST pleurisy|NN 
+amount|NN fluid|NN collapse|NN lung|NN 
+case|NN effusion|NN fluid|NN abscess|NN 
+effusion|NN exudate|NN fluid|NN pleurisy|NN stage|NN pleurisy|NN 
+person|NN effusion|NN absence|NN pleurisy|NN 
+example|NN pneumonia|DS heart|NN failure|NN cancer|DS embolism|NN effusion|NN 
+air|NN ga|NN space|NN 
+lung|NN injury|NN lung|NN disease|NN emphysema|DS 
+lung|NN procedure|NN surgery|NN drainage|NN fluid|NN needle|NN examination|NN lung|NN light|NN camera|NN ventilation|NN pneumothorax|DS 
+symptom|NN pain|ST side|NN lung|NN shortness|NN breath|NN 
+pneumothorax|DS pressure|NN lung|NN cause|NN collapse|NN 
+chest|NN tube|NN skin|NN chest|NN wall|NN space|NN air|NN 
+blood|NN space|NN 
+cause|NN injury|NN chest|NN force|NN surgery|NN heart|NN chest|NN 
+people|NN lung_cancer|DS 
+pressure|NN lung|NN force|NN collapse|NN 
+shock|NN state|NN hypoperfusion|NN amount|NN blood|NN organ|NN 
+cause|NN pleurisy|NN line|NN space|NN 
+space|NN fluid|NN air|NN particle|NN part|NN body|NN diagnosis|NN infection|NN b|NN virus|NN adenovirus|NN influenza|DS cause|NN pleurisy|NN 
+condition|NN pleurisy|NN 
+dissection|NN disorder|NN lupus|NN lupus|NN hepatitis|DS arthritis|DS disease|NN 
+infection|NN pneumonia|DS tuberculosis|DS chest|NN injury|NN fever|ST condition|NN fever|ST swell|NN abdomen|NN lung|NN infection|NN heart|NN surgery|NN bypass|NN graft|NN problem|NN bowel|NN disease|NN lung_cancer|DS lymphoma|DS lung|NN disease|NN fibrosis|DS sarcoidosis|DS asbestosis|DS embolism|NN blood|NN clot|NN lung|NN 
+space|NN pleurae|NN fluid|NN effusion|NN chest_pain|ST shortness|NN breath|NN lung|NN need|NN room|NN breath|NN 
+case|NN pleurisy|NN cause|NN 
+diagnosis|NN pleurisy|NN condition|NN history|NN examination|NN test|NN goal|NN rule|NN source|NN symptom|NN cause|NN pleurisy|NN disorder|NN 
+doctor|NN stethoscope|NN breath|NN 
+method|NN sound|NN lung|NN 
+person|NN pleurisy|NN layer|NN pleurae|NN sound|NN breath|NN 
+friction|NN rub|NN 
+result|NN examination|NN test|NN 
+chest|NN x-ray|NN 
+chest|NN x-ray|NN picture|NN heart|NN lung|NN 
+air|NN fluid|NN space|NN 
+cause|NN pneumonia|DS rib|NN lung|NN tumor|NN pleurisy|NN 
+x-ray|NN side|NN 
+fluid|NN change|NN fluid|NN position|NN x-ray|NN 
+blood|NN test|NN 
+blood|NN test|NN infection|NN pneumonia|DS fever|ST embolism|NN lupus|NN 
+test|NN heart|NN condition|NN symptom|NN 
+sound|NN wave|NN image|NN 
+fluid|NN chest|NN 
+ultrasound|NN fluid|NN lung|NN effusion|NN sound|NN wave|NN air|NN 
+picture|NN lung|NN ultrasonography|NN 
+tomography|NN ct|NN scan|NN 
+ct|NN scan|NN picture|NN lung|NN pocket|NN fluid|NN 
+sign|NN pneumonia|DS lung|NN abscess|NN tumor|NN 
+resonance|NN image|NN mry|NN 
+resonance|NN image|NN mry|NN resonance|NN nmr|NN scan|NN magnet|NN effusion|NN tumor|NN 
+blood|NN ga|NN 
+blood-ga|NN amount|NN blood|NN artery|NN wrist|NN 
+blood|NN oxygen|NN carbon-dioxide|NN level|NN 
+test|NN lung|NN oxygen|NN 
+illustration|NN person|NN 
+person|NN table|NN 
+fluid|NN space|NN bag|NN 
+presence|NN fluid|NN cavity|NN effusion|NN location|NN fluid|NN sample|NN fluid|NN procedure|NN fluid|NN chest|NN thoracentesis|NN doctor|NN needle|NN plastic|NN tube|NN chest|NN wall|NN fluid|NN 
+doctor|NN office|NN hospital|NN 
+ultrasound|NN needle|NN fluid|NN pocket|NN lung|NN 
+chest|NN x-ray|NN procedure|NN lung|NN 
+complication|NN thoracentesis|NN 
+case|NN lung|NN 
+doctor|NN chest|NN tube|NN blood|NN 
+case|NN surgery|NN 
+infection|NN needle|NN injury|NN liver|NN spleen|NN case|NN pain|ST 
+buildup|NN air|NN space|NN lung|NN 
+air|NN needle|NN needle|NN hole|NN lung|NN 
+hole|NN seal|NN air|NN lung|NN collapse|NN 
+chest|NN tube|NN air|NN lung|NN 
+lung|NN fluid|NN microscope|NN presence|NN chemical|NN color|NN texture|NN 
+degree|NN clarity|NN indicator|NN infection|NN cancer|DS condition|NN buildup|NN fluid|NN blood|NN space|NN 
+tuberculosis|DS cancer|DS piece|NN pleura|NN microscope|NN diagnosis|NN 
+approache|NN tissue|NN sample|NN 
+insertion|NN needle|NN skin|NN chest|NN sample|NN layer|NN insertion|NN tube|NN light|NN end|NN endoscope|NN cut|NN chest|NN wall|NN pleura|NN biopsy|NN piece|NN tissue|NN endoscope|NN removal|NN sample|NN pleura|NN cut|NN chest|NN wall|NN biopsy|NN sample|NN needle|NN biopsy|NN diagnosis|NN 
+treatment|NN goal|NN 
+relief|NN symptom|NN removal|NN fluid|NN air|NN blood|NN space|NN treatment|NN condition|NN 
+amount|NN fluid|NN air|NN blood|NN space|NN lung|NN collapse|NN 
+procedure|NN drain|NN fluid|NN air|NN blood|NN space|NN 
+needle|NN plastic|NN tube|NN rib|NN back|NN chest|NN chest|NN wall|NN 
+syringe|NN fluid|NN chest|NN 
+procedure|NN cup|NN litre|NN fluid|NN time|NN 
+amount|NN fluid|NN chest|NN tube|NN chest|NN wall|NN 
+doctor|NN painkiller|NN area|NN chest|NN wall|NN fluid|NN 
+plastic|NN tube|NN chest|NN rib|NN 
+tube|NN box|NN fluid|NN 
+chest|NN x-ray|NN tube|NN position|NN 
+chest|NN tube|NN drain|NN blood|NN air|NN space|NN 
+tube|NN place|NN patient|NN hospital|NN time|NN 
+fluid|NN pus|NN blood|NN clot|NN skin|NN peel|NN 
+break|NN pus|NN blood|NN doctor|NN chest|NN tube|NN medicine|NN space|NN 
+pus|NN blood|NN clot|NN surgery|NN 
+couple|NN medication|NN pleurisy|NN symptom|NN 
+acetaminophen|NN agent|NN control|NN pain|ST decrease|NN inflammation|NN 
+indomethacin|NN brand|NN name|NN respect|NN relief|NN pleurisy|NN cough|ST cough|ST 
+role|NN use|NN corticosteroid|NN pleurisy|NN tacrolimus|NN rheumatrex|NN treatment|NN pleurisy|NN 
+lifestyle|NN change|NN 
+follow|NN management|NN pleurisy|NN 
+side|NN breath|NN mucus|NN pain|ST 
+treatment|NN pleurisy|NN cause|NN disease|NN 
+fluid|NN treatment|NN antibiotics|NN fluid|NN 
+infection|NN tuberculosis|DS fungus|NN treatment|NN use|NN antibiotics|NN medicine|NN 
+fluid|NN tumor|NN pleura|NN 
+medicine|NN fluid|NN buildup|NN 
+doctor|NN space|NN 
+drainage|NN fluid|NN chest|NN chest|NN tube|NN 
+substance|NN chest|NN tube|NN space|NN 
+substance|NN surface|NN pleura|NN 
+layer|NN pleurae|NN room|NN fluid|NN 
+radiation|NN treatment|NN size|NN tumor|NN 
+heart|NN failure|NN fluid|NN buildup|NN treatment|NN diuretics|NN medicine|NN 
+treatment|NN pleurisy|NN origin|NN physician|NN base|NN assessment|NN paracetamol|NN amoxicillin|NN antibiotics|NN case|NN infection|NN remedy|NN doctor|NN symptom|NN pain|ST chest|NN infection|NN 
+drug|NN nsaids|NN pain|ST control|NN agent|NN treatment|NN 
+number|NN alternative|NN medicine|NN property|NN use|NN pleurisy|NN 
+time|NN trial|NN compound|NN 
+extract|NN folk|NN remedy|NN inflammation|NN cavity|NN mice|NN extract|NN enzyme|NN cox-2|NN drug|NN pleurisy|NN disorder|NN pleurae|NN 
+pleurisy|NN treatment|NN prognosis|NN complication|NN 
+example|NN heart|NN disease|NN inflammation|NN arm|NN leg|NN heart|NN failure|NN 
+condition|NN pleurisy|NN disorder|NN recovery|NN 
+help|NN physician|NN uk|NN australia|NN cause|NN chart|NN rehabilitation|NN 

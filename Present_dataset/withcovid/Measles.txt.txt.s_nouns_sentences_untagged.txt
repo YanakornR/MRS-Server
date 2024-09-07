@@ -1,0 +1,100 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN measles|DS name|NN measles|DS measles|DS measles|DS measles|DS child|NN day-four|NN measles|DS rash|ST disease|NN symptom|NN fever|ST cough|ST nose|NN eye|NN rash|ST complication|NN pneumonia|DS seizure|NN encephalitis|DS immunosuppression|NN onset|NN day|NN exposure|NN duration|NN day|NN cause|NN measles|DS virus|NN prevention|NN measles|DS vaccine|NN treatment|NN care|NN frequency|NN year|NN death|NN 
+measles|DS disease|NN measles|DS virus|NN symptom|NN day|NN exposure|NN person|NN day|NN symptom|NN fever|ST c|NN f|NN cough|ST nose|NN eye|NN spot|NN spot|NN mouth|NN day|NN start|NN symptom|NN flat|NN rash|ST face|NN rest|NN body|NN day|NN start|NN symptom|NN complication|NN case|NN middle|NN ear|NN infection|NN pneumonia|DS part|NN measles|DS immunosuppression|NN seizure|NN blindness|NN inflammation|NN brain|NN name|NN measles|DS measles|DS measles|DS measles|DS rubella|DS measles|DS roseola|NN disease|NN viruse|NN 
+measles|DS disease|NN cough|ST sneeze|NN people|NN contact|NN mouth|NN secretion|NN people|NN share|NN live|NN space|NN person|NN people|NN day|NN day|NN start|NN rash|ST people|NN disease|NN measles|DS virus|NN case|NN health|NN effort|NN 
+measles|DS vaccine|NN disease|NN combination|NN vaccine|NN vaccination|NN decrease|NN death|NN measles|DS children|NN dose|NN 2017|NN person|NN treatment|NN care|NN outcome|NN care|NN rehydration|NN solution|NN fluid|NN food|NN medication|NN fever|ST antibiotics|NN infection|NN ear|NN infection|NN pneumonia|DS vitamin|NN supplementation|NN children|NN 
+measles|DS people|NN year|NN area|NN africa|NN asia|NN childhood|NN illness|NN people|NN age|NN vaccine-preventable|NN disease|NN cause|NN death|NN people|NN vaccination|NN program|NN number|NN death|NN measles|DS trend|NN rate|NN disease|NN death|NN 2017|NN due|NN decrease|NN immunization|NN risk|NN death|NN people|NN malnutrition|NN infection|NN year|NN measles|DS animal|NN measles|DS media|NN video|NN summary|NN script|NN content|NN 
+sign|NN symptom|NN complication|NN cause|NN diagnosis|NN laboratory|NN test|NN prevention|NN treatment|NN epidemiology|NN europe|NN americas|NN southeast|NN asia|NN history|NN society|NN culture|NN name|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN rash|ST abdomen|NN day|NN measles|DS infection|NN 
+symptom|NN day|NN exposure|NN symptom|NN fever|ST ds|NN coryza|NN head|NN fever|ST sneez|NN eyesalong|NN rash|ST fever|ST week|NN fever|ST measles|DS c|NN f|NN 
+spot|NN mouth|NN measles|DS spot|NN spot|NN cheek|NN molar|NN grain|NN salt|NN background|NN 
+spot|NN person|NN infectiousness|NN spread|NN disease|NN 
+characteristic|NN measles|DS rash|ST maculopapular|NN rash|ST day|NN fever|ST 
+back|NN ear|NN hour|NN head|NN neck|NN body|NN itch|ST 
+measles|DS rash|ST day|NN symptom|NN day|NN 
+rash|ST color|NN red|NN brown|NN measles|DS week|NN 
+baby|NN measles|DS 
+spot|NN pre-eruptive|NN day|NN 
+spot|NN day|NN measles|DS rash|ST 
+complication|NN measles|DS pneumonia|DS pneumonia|DS pneumonia|DS croup|DS laryngotracheobronchitis|NN bronchitis|DS otitis_media|ST brain|NN inflammation|NN panencephalitis|NN ulceration|NN scare|NN addition|NN measles|DS system|NN week|NN month|NN superinfection|NN otitis_media|ST pneumonia|DS 
+death|NN rate|NN measles|DS pneumonia|DS people|NN risk|NN complication|NN infant|NN children|NN year|NN adult|NN year|NN women|NN people|NN system|NN hiv|DS infection|NN immunodeficiency|NN vitamin|NN deficiency|NN complication|NN adult|NN virus|NN case|NN fatality|NN rate|NN united|NN states|NN death|NN case|NN measles|DS nation|NN rate|NN malnutrition|NN healthcare|NN fatality|NN rate|NN person|NN people|NN aid|NN fatality|NN rate|NN 
+children|NN measles|DS illness|NN hospitalization|NN measles|DS case|NN encephalitis|DS brain|NN damage|NN children|NN measles|DS complication|NN electron|NN micrograph|NN measles|DS virus|NN 
+measles|DS measles|DS virus|NN single-strand|NN rna|NN virus|NN genus|NN measles|DS virus|NN family|NN 
+virus|NN cough|ST sneez|NN contact|NN contact|NN secretion|NN hour|NN airspace|NN surface|NN measles|DS person|NN people|NN human|NN host|NN virus|NN animal|NN reservoir|NN 
+risk|NN factor|NN measles|DS virus|NN infection|NN immunodeficiency|NN hiv|DS aid|NN immunosuppression|NN receipt|NN organ|NN stem|NN cell|NN transplant|NN agent|NN therapy|NN immunization|NN status|NN travel|NN area|NN measles|DS contact|NN traveler|NN area|NN loss|NN antibody|NN age|NN routine|NN immunization|NN draw|NN measles|DS virus|NN line|NN trachea|NN 
+measles|DS virus|NN mucosa|NN cell|NN trachea|NN bronchy|NN measles|DS virus|NN protein|NN surface|NN h|NN protein|NN target|NN receptor|NN host|NN cell|NN cell|NN aka|NN lymphocyte|NN activation|NN molecule|NN slam|NN cell|NN b|NN t|NN cell|NN cell|NN adhesion|NN molecule|NN fusion|NN f|NN protein|NN virus|NN fuse|NN membrane|NN cell|NN virus|NN single-strand|NN rna|NN virus|NN mean|NN rna|NN polymerase|NN mrna|NN strand|NN 
+protein|NN cell|NN envelope|NN cell|NN virus|NN day|NN measles|DS virus|NN tissue|NN cell|NN macrophage|NN tissue|NN lung|NN lymph|NN node|NN blood|NN spread|NN lung|NN tissue|NN organ|NN intestine|NN brain|NN impairment|NN cell|NN measles|DS virus|NN measles|DS immunosuppression|NN diagnosis|NN 
+diagnosis|NN measles|DS history|NN fever|ST day|NN symptom|NN cough|ST coryza|NN conjunctivitis|DS 
+observation|NN spot|NN laboratory|NN confirmation|NN laboratory|NN test|NN 
+laboratory|NN diagnosis|NN measles|DS confirmation|NN measles|DS igm|NN antibody|NN isolation|NN measles|DS virus|NN rna|NN specimen|NN people|NN blood|NN saliva|NN measles|DS iga|NN test|NN contact|NN people|NN measles|DS evidence|NN diagnosis|NN 
+contact|NN person|NN semen|NN sex|NN saliva|NN mucus|NN infection|NN 
+citation|NN prevention|NN information|NN measles|DS vaccine|NN vaccine|NN vaccine|NN rate|NN measles|DS vaccination|NN 
+mother|NN measles|DS pass|NN antibody|NN children|NN womb|NN mother|NN immunity|NN infection|NN vaccination|NN antibody|NN infant|NN immunity|NN measles|DS antibody|NN course|NN month|NN life|NN infant|NN year|NN age|NN measles|DS antibody|NN infection|NN measles|DS virus|NN 
+country|NN children|NN measles|DS month|NN part|NN mmr|NN vaccine|NN measles|DS mump|NN rubella|DS 
+vaccine|NN age|NN infant|NN vaccine|NN system|NN dose|NN vaccine|NN children|NN age|NN increase|NN rate|NN immunity|NN 
+vaccination|NN rate|NN measles|DS 
+reaction|NN vaccination|NN fever|ST pain|ST injection|NN site|NN 
+reaction|NN vaccination|NN 
+country|NN measles|DS world|NN health|NN organization|NN dose|NN vaccine|NN month|NN age|NN 
+vaccine|NN child|NN vaccine|NN infant|NN population|NN treatment|NN drug|NN effectiveness|NN measles|DS vaccination|NN program|NN child|NN health|NN intervention|NN bed|NN net|NN malaria|DS medicine|NN vitamin|NN supplement|NN reduction|NN child|NN death|NN cause|NN 
+committee|NN practice|NN adult|NN traveler|NN evidence|NN measles|DS immunity|NN dose|NN vaccine|NN united|NN states|NN disease|NN childhood|NN vaccination|NN 
+claim|NN association|NN measles|DS vaccine|NN autism|DS concern|NN rate|NN vaccination|NN number|NN case|NN measles|DS immunisation|NN rate|NN herd|NN immunity|NN treatment|NN 
+treatment|NN measles|DS medication|NN hydration|NN fluid|NN pain|ST relief|NN group|NN children|NN vitamin|NN act|NN immunomodulator|NN antibody|NN response|NN measles|DS risk|NN complication|NN 
+treatment|NN ibuprofen|NN paracetamol|NN fever|ST pain|ST medication|NN airway|NN cough|ST aspirin|NN research|NN correlation|NN children|NN aspirin|NN development|NN syndrome|NN 
+use|NN vitamin|NN treatment|NN risk|NN blindness|NN disease|NN review|NN trial|NN use|NN reduction|NN mortality|NN mortality|NN children|NN year|NN zinc|NN supplementation|NN children|NN measles|DS outcome|NN 
+people|NN measles|DS case|NN complication|NN 
+complication|NN children|NN age|NN adult|NN age|NN 
+consequence|NN measles|DS virus|NN infection|NN hear|NN loss|NN casespanencephalitis|NN measles|DS encephalitis|DS risk|NN measles|DS virus|NN infection|NN 
+day|NN week|NN measles|DS rash|ST fever|ST headache|ST convulsion|ST mentation|NN 
+person|NN measles|DS encephalitis|DS death|NN brain|NN injury|NN 
+people|NN measles|DS reinfection|NN epidemiology|NN article|NN epidemiology|NN measles|DS death|NN measles|DS person|NN 2012|NN 926|NN 74850|NN life|NN year|NN measles|DS inhabitant|NN data|NN 
+2550|NN 100250|NN 10001500|NN 
+measles|DS circulation|NN community|NN generation|NN host|NN birth|NN children|NN 
+community|NN host|NN disease|NN 
+concept|NN measles|DS bartlett|NN number|NN measles|DS community|NN size|NN analysis|NN outbreak|NN island|NN community|NN ccs|NN measles|DS herd|NN immunity|NN community|NN ease|NN measles|DS person|NN person|NN 
+death|NN measles|DS 
+death|NN measles|DS cause|NN death|NN world|NN country|NN death|NN case|NN 0102|NN population|NN level|NN malnutrition|NN lack|NN healthcare|NN mortality|NN 
+case|NN complication|NN rate|NN number|NN death|NN measles|DS rate|NN immunization|NN un|NN member|NN state|NN case|NN region|NN 520102|NN region|NN americas|NN 257790|NN region|NN 38592|NN region|NN 37421|NN south-east|NN asia|NN region|NN 61975|NN pacific|NN region|NN 176493|NN 4211431|NN 462186|NN 
+country|NN vaccination|NN rate|NN 
+measles|DS cause|NN childhood|NN mortality|NN 
+fatality|NN rate|NN vaccination|NN campaign|NN partner|NN measles|DS initiative|NN cross|NN united|NN states|NN cdc|NN nation|NN foundation|NN unicef|NN 
+measles|DS 873000|NN death|NN estimate|NN 2008|NN death|NN measles|DS death|NN 2008|NN southeast|NN region|NN 
+case|NN month|NN 2019|NN month|NN 2018|NN outbreak|NN region|NN world|NN country|NN vaccination|NN coverage|NN cluster|NN people|NN europe|NN 
+case|NN country|NN 
+case|NN individual|NN case|NN germany|NN italy|NN netherlands|NN romania|NN united|NN kingdom|NN october|NN march|NN measles|DS outbreak|NN capital|NN berlin|NN case|NN number|NN europe|NN case|NN death|NN figure|NN case|NN region|NN 3-fold|NN country|NN death|NN ukraine|NN case|NN incidence|NN rate|NN ukraine|NN case|NN serbia|NN georgia|NN albania|NN year|NN measles|DS vaccine|NN coverage|NN dose|NN dose|NN region|NN figure|NN second-dose|NN coverage|NN americas|NN 
+result|NN vaccination|NN disease|NN americas|NN 2016|NN case|NN 2018|NN 2019|NN region|NN united|NN states|NN measles|DS resurgence|NN united|NN states|NN 
+united|NN states|NN measles|DS people|NN vaccine|NN 
+childhood|NN vaccination|NN figure|NN case|NN case|NN year|NN 
+immunization|NN united|NN states|NN case|NN year|NN united|NN states|NN measles|DS case|NN 
+cdc|NN measles|DS rubella|DS rubella|DS syndrome|NN united|NN states|NN measles|DS outbreak|NN case|NN result|NN unvaccinated|NN resident|NN return|NN united|NN states|NN cdc|NN measles|DS vaccination|NN population|NN outbreak|NN 
+outbreak|NN ohio|NN men|NN measles|DS united|NN states|NN missionary|NN work|NN philippines|NN return|NN community|NN vaccination|NN rate|NN outbreak|NN total|NN case|NN county|NN case|NN individual|NN 
+january|NN april|NN case|NN measles|DS cdc|NN 
+case|NN exposure|NN december|NN 
+outbreak|NN disneyland|NN theme|NN park|NN california|NN 
+disneyland|NN outbreak|NN infection|NN people|NN state|NN mexico|NN canada|NN majority|NN vaccination|NN status|NN case|NN vaccination|NN status|NN exposure|NN virus|NN 
+woman|NN washington|NN state|NN pneumonia|DS result|NN measles|DS 
+fatality|NN measles|DS woman|NN measles|DS drug|NN condition|NN 
+drug|NN immunity|NN measles|DS woman|NN measles|DS rash|ST pneumonia|DS death|NN 
+june|NN maine|NN health|NN test|NN laboratory|NN case|NN measles|DS franklin|NN county|NN 
+instance|NN case|NN measles|DS year|NN state|NN maine|NN 2018|NN case|NN portland|NN oregon|NN people|NN immunity|NN virus|NN county|NN health|NN official|NN july|NN case|NN measles|DS united|NN states|NN 2018|NN outbreak|NN brooklyn|NN case|NN october|NN february|NN 
+outbreak|NN population|NN density|NN community|NN exposure|NN child|NN measles|DS israel|NN 
+resurgence|NN measles|DS 2019|NN parent|NN children|NN case|NN people|NN year|NN case|NN washington|NN state|NN january|NN outbreak|NN case|NN clark|NN county|NN rate|NN vaccination|NN exemption|NN rest|NN state|NN kindergartner|NN clark|NN vaccination|NN state|NN data|NN state|NN governor|NN jay|NN inslee|NN state|NN emergency|NN state|NN congress|NN legislation|NN vaccination|NN exemption|NN reason|NN april|NN bill|NN de|NN blasio|NN health|NN emergency|NN spike|NN case|NN measles|DS new|NN york|NN case|NN area|NN brooklyn|NN 2018|NN case|NN 
+county|NN outbreak|NN santa|NN cruz|NN county|NN county|NN california|NN state|NN new|NN jersey|NN michigan|NN center|NN disease|NN control|NN prevention|NN april|NN case|NN measles|DS state|NN number|NN measles|DS case|NN brazil|NN 
+spread|NN measles|DS brazil|NN 2016|NN case|NN month|NN case|NN state|NN 
+brazil|NN measles|DS elimination|NN certificate|NN pan|NN health|NN organization|NN 2016|NN ministry|NN health|NN country|NN certificate|NN outbreak|NN 2018|NN state|NN amazona|NN roraima|NN addition|NN case|NN state|NN rio|NN de|NN janeiro|NN rio|NN grande|NN sul|NN par|NN paulo|NN total|NN case|NN august|NN outbreak|NN case|NN contagion|NN importation|NN virus|NN venezuela|NN genotype|NN virus|NN venezuela|NN southeast|NN asia|NN 
+measles|DS epidemic|NN spring|NN 2014|NN 8500|NN measles|DS case|NN april|NN fatality|NN measles|DS case|NN measles|DS fatality|NN 
+naga|NN self-administer|NN zone|NN region|NN myanmar|NN children|NN measles|DS outbreak|NN august|NN lack|NN vaccination|NN area|NN health|NN infrastructure|NN history|NN measles|DS draw|NN measles|DS 
+estimate|NN biology|NN place|NN emergence|NN measles|DS disease|NN speculation|NN plague|DS ad|NN measles|DS 
+description|NN measles|DS distinction|NN smallpox|DS chickenpox|DS physician|NN rhaze|NN book|NN smallpox|DS measles|DS evolution|NN measles|DS account|NN work|NN mutation|NN rate|NN virus|NN measles|DS virus|NN cattle|NN plague|DS disease|NN period|NN outbreak|NN virus|NN human|NN observation|NN measles|DS population|NN 500000|NN epidemic|NN situation|NN time|NN growth|NN city|NN maurice|NN hillemans|NN measles|DS vaccine|NN death|NN year|NN 
+measles|DS disease|NN mean|NN community|NN people|NN resistance|NN 
+population|NN measles|DS exposure|NN disease|NN 
+measles|DS outbreak|NN cuba|NN native|NN smallpox|DS 
+year|NN measles|DS death|NN population|NN honduras|NN mexico|NN america|NN civilization|NN 
+measles|DS people|NN measles|DS percent|NN population|NN measles|DS fijian|NN population|NN century|NN disease|NN population|NN children|NN measles|DS year|NN vaccine|NN 
+virus|NN disease|NN boy|NN united|NN states|NN david|NN chick|NN embryo|NN tissue|NN culture|NN date|NN strain|NN measles|DS virus|NN merck|NN maurice|NN hilleman|NN vaccine|NN vaccine|NN disease|NN measles|DS vaccine|NN measles|DS disease|NN united|NN states|NN society|NN culture|NN 
+anti-vaccination|NN campaigner|NN hivaid|NN stefan|NN lanka|NN challenge|NN website|NN sum|NN measles|DS virus|NN diameter|NN virus|NN illness|NN measles|DS virus|NN 
+evidence|NN study|NN physician|NN david|NN bardens|NN lanka|NN find|NN barden|NN appeal|NN court|NN 
+case|NN rule|NN lanka|NN prize|NN case|NN coverage|NN comment|NN neurologist|NN medicine|NN advocate|NN steven|NN lanka|NN crank|NN 
+outbreak|NN population|NN disease|NN test|NN vaccination|NN population|NN alternative|NN name|NN 
+name|NN measles|DS measles|DS measles|DS measles|DS research|NN 
+journal|NN science|NN report|NN researcher|NN measles|DS infection|NN population|NN risk|NN mortality|NN disease|NN year|NN 
+drug|NN treatment|NN measles|DS erdrp-0519|NN result|NN animal|NN study|NN human|NN 

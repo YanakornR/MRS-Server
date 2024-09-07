@@ -1,0 +1,102 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Constipation|Disease name|NN Constipation|Disease Constipation|Disease Constipation|Disease Constipation|Disease child|NN x-ray|NN
+circle|NN area|NN matter|NN stool|NN bowel|NN ga|NN
+symptom|NN bowel|NN movement|NN pain|NN bloat|NN complication|NN fissure|NN impaction|NN cause|NN movement|NN stool|NN colon|NN bowel|NN syndrome|NN disease|NN gluten|NN sensitivity|NN floor|NN disorder|NN factor|NN diabete|NN disease|NN disorder|NN colon|NN cancer|NN bowel|NN disease|NN medication|NN treatment|NN drink|NN fluid|NN exercise|NN laxative|NN bulk|NN agent|NN agent|NN stool|NN softener|NN lubricant|NN type|NN frequency|NN
+Constipation|Disease bowel|NN movement|NN stool|NN symptom|NN pain|NN bloat|NN feel|NN bowel|NN movement|NN complication|NN Constipation|Disease fissure|NN impaction|NN frequency|NN bowel|NN movement|NN adult|NN day|NN week|NN baby|NN bowel|NN movement|NN day|NN children|NN day|NN
+Constipation|Disease cause|NN cause|NN movement|NN stool|NN colon|NN bowel|NN syndrome|NN floor|NN disorder|NN disease|NN hypothyroidism|NN diabete|NN disease|NN disease|NN gluten|NN sensitivity|NN colon|NN cancer|NN bowel|NN disease|NN Constipation|Disease opioid|NN antacid|NN calcium|NN channel|NN blocker|NN anticholinergics|NN opioid|NN Constipation|Disease Constipation|Disease weight|NN loss|NN blood|NN stool|NN history|NN bowel|NN disease|NN colon|NN cancer|NN person|NN family|NN onset|NN
+treatment|NN Constipation|Disease cause|NN duration|NN measure|NN fluid|NN exercise|NN laxative|NN bulk|NN agent|NN agent|NN stool|NN softener|NN lubricant|NN type|NN laxative|NN type|NN treatment|NN biofeedback|NN case|NN surgery|NN
+population|NN rate|NN Constipation|Disease percent|NN people|NN live|NN care|NN home|NN rate|NN Constipation|Disease percent|NN people|NN united|NP states|NP medication|NN Constipation|Disease year|NN content|NN
+definition|NN cause|NN diet|NN condition|NN approach|NN description|NN examination|NN test|NN criteria|NN prevention|NN treatment|NN fiber|NN supplement|NN intervention|NN intervention|NN epidemiology|NN history|NN population|NN children|NN women|NN reference|NN link|NN
+definition|NN bristol|NP stool|NN chart|NN
+Constipation|Disease symptom|NN disease|NN
+Constipation|Disease thought|NN bowel|NN movement|NN stool|NN week|NN people|NN complaint|NN
+bowel|NN movement|NN time|NN bowel|NN movement|NN stool|NN pain|NN bowel|NN movement|NN pain|NN bloat|NN
+sensation|NN bowel|NN evacuation|NN
+rome|NP criteria|NN set|NN symptom|NN help|NN diagnosis|NN Constipation|Disease age|NN group|NN
+criteria|NN physician|NN Constipation|Disease manner|NN
+cause|NN Constipation|Disease primary|NN kind|NN age|NN group|NN children|NN adult|NN
+Constipation|Disease symptom|NN month|NN cause|NN medication|NN side|NN effect|NN condition|NN pain|NN bowel|NN syndrome|NN kind|NN Constipation|Disease adult|NN cause|NN choice|NN fiber|NN fluid|NN intake|NN behavioral|NN cause|NN activity|NN
+cause|NN fiber|NN intake|NN fluid|NN intake|NN activity|NN side|NN effect|NN medication|NN hypothyroidism|NN obstruction|NN cancer|NN evidence|NN factor|NN
+cause|NN side|NN effect|NN medication|NN opiate|NN disorder|NN hypothyroidism|NN obstruction|NN cancer|NN disease|NN gluten|NN sensitivity|NN Constipation|Disease cystocele|NN result|NN Constipation|Disease diet|NN
+Constipation|Disease diet|NN liquid|NN intake|NN fiber|NN transport|NN time|NN stool|NN bulk|NN stool|NN
+diet|NN fiber|NN Constipation|Disease
+medication|NN Constipation|Disease side|NN effect|NN
+opioid|NN diuretics|NN antidepressant|NN antidepressant|NN antagonist|NN receptor|NN antagonist|NN antacid|NN calcium|NN channel|NN blocker|NN nifedipine|NN Constipation|Disease dysfunction|NN motility|NN colon|NN supplement|NN calcium|NN iron|NN supplement|NN Constipation|Disease side|NN effect|NN
+citation|NN condition|NN
+problem|NN Constipation|Disease hypothyroidism|NN kidney|NN disease|NN diabete|NN mellitus|NN fibrosis|NN Constipation|Disease individual|NN dystrophy|NN
+disease|NN Constipation|Disease disease|NN sclerosis|NN
+Constipation|Disease number|NN cause|NN lesion|NN colon|NN passage|NN stool|NN cancer|NN stricture|NN damage|NN malformation|NN post-surgical|NN change|NN
+mass|NN malignancy|NN Constipation|Disease compression|NN
+Constipation|Disease cause|NN perineum|NN syndrome|NN disease|NN infant|NN disease|NN disorder|NN Constipation|Disease
+minority|NN person|NN Constipation|Disease defecation|NN
+cord|NN lesion|NN disorder|NN disease|NN floor|NN dysfunction|NN Constipation|Disease
+withhold|NN stool|NN cause|NN Constipation|Disease choice|NN factor|NN fear|NN pain|NN fear|NN public|NN laziness|NN child|NN stool|NN combination|NN encouragement|NN fluid|NN laxative|NN problem|NN intervention|NN withhold|NN fissure|NN
+number|NN disease|NN birth|NN Constipation|Disease children|NN
+group|NN disease|NN hd|NP anomaly|NN Constipation|Disease displacement|NN anus|NN anus|NN stricture|NN colon|NN syndrome|NN icon|NN section|NN
+july|NP approach|NN Constipation|Disease x-ray|NN 8-year-old|NN
+diagnosis|NN person|NN description|NN symptom|NN
+bowel|NN movement|NN pellet|NN rabbit|NN Constipation|Disease day|NN
+Constipation|Disease bowel|NN movement|NN week|NN symptom|NN Constipation|Disease bloat|NN distension|NN pain|NN headache|NN feel|NN fatigue|NN exhaustion|NN sense|NN empty|NN Constipation|Disease diagnosis|NN symptom|NN evaluation|NN cause|NN
+day|NN week|NN month|NN year|NN onset|NN Constipation|Disease information|NN diagnosis|NN
+context|NN symptom|NN physician|NN cause|NN Constipation|Disease
+people|NN Constipation|Disease bowel|NN movement|NN stool|NN consistency|NN strain|NN bowel|NN movement|NN
+distension|NN pain|NN Constipation|Disease Constipation|Disease symptom|NN day|NN month|NN month|NN discomfort|NN bowel|NN syndrome|NN ib|NN cause|NN
+habit|NN surgery|NN condition|NN Constipation|Disease
+disease|NN Constipation|Disease hypothyroidism|NN type|NN cancer|NN bowel|NN syndrome|NN
+fiber|NN intake|NN amount|NN fluid|NN immobility|NN medication|NN Constipation|Disease presence|NN Constipation|Disease culmination|NN symptom|NN cause|NN Constipation|Disease
+cause|NN symptom|NN
+example|NN colon|NN cancer|NN person|NN family|NN history|NN colon|NN cancer|NN fever|NN weight|NN loss|NN sign|NN symptom|NN family|NN history|NN bowel|NN disease|NN age|NN onset|NN change|NN stool|NN nausea|NN vomit|NN symptom|NN weakness|NN numbness|NN difficulty|NN examination|NN
+examination|NN exam|NN exam|NN
+exam|NN mass|NN stool|NN burden|NN discomfort|NN
+examination|NN impression|NN tone|NN rectum|NN fece|NN
+examination|NN information|NN consistency|NN stool|NN presence|NN blood|NN irregularity|NN skin|NN tag|NN fissure|NN wart|NN examination|NN physician|NN test|NN order|NN
+Constipation|Disease test|NN
+image|NN laboratory|NN test|NN alarm|NN sign|NN symptom|NN
+laboratory|NN test|NN cause|NN Constipation|Disease
+test|NN cbc|NP blood|NN count|NN thyroid|NN function|NN test|NN serum|NN calcium|NN serum|NN potassium|NN
+x-ray|NN bowel|NN obstruction|NN fecal|NN matter|NN colon|NN cause|NN symptom|NN
+abnormality|NN colon|NN tumor|NN test|NN manometry|NN electromyography|NN defecography|NN
+propagate|NN pressure|NN wave|NN sequence|NN movement|NN bowel|NN content|NN defecation|NN
+ps|NN frequency|NN amplitude|NN extent|NN propagation|NN dysfunction|NN
+mechanism|NN motor|NN pattern|NN problem|NN
+therapy|NN nerve|NN stimulation|NN treatment|NN Constipation|Disease criteria|NN
+rome|NP criteria|NN Constipation|Disease month|NN symptom|NN month|NN diagnosis|NN
+defecation|NN bowel|NN movement|NN stool|NN sensation|NN evacuation|NN sensation|NN obstructionblockage|NN maneuver|NN defecation|NN week|NN stool|NN use|NN laxative|NN criteria|NN bowel|NN syndrome|NN
+relief|NN Constipation|Disease maintenance|NN exercise|NN fluid|NN intake|NN diet|NN treatment|NN
+number|NN cause|NN intervention|NN result|NN consequence|NN
+treatment|NN Constipation|Disease cause|NN
+institute|NN health|NN care|NN excellence|NN break|NN Constipation|Disease adult|NN category|NN Constipation|Disease cause|NN Constipation|Disease due|NN opiate|NN
+Constipation|Disease cause|NN treatment|NN intake|NN water|NN routine|NN use|NN laxative|NN bowel|NN movement|NN use|NN
+form|NN stimulation|NN
+volume|NN enema|NN colon|NN enema|NN stool|NN rectum|NN tract|NN supplement|NN
+supplement|NN psyllium|NN treatment|NN Constipation|Disease fiber|NN wheat|NN bran|NN
+side|NN effect|NN supplement|NN bloat|NN flatulence|NN malabsorption|NN iron|NN calcium|NN medication|NN
+patient|NN Constipation|Disease supplement|NN
+laxative|NN milk|NN magnesia|NN polyethylene|NN glycol|NN agent|NN cost|NN safety|NN stimulant|NN case|NN Constipation|Disease polyethylene|NN glycol|NN lactulose|NN motility|NN
+number|NN agent|NN outcome|NN Constipation|Disease cisapride|NN world|NN country|NN west|NN
+benefit|NN Constipation|Disease arrhythmia|NN death|NN intervention|NN
+Constipation|Disease measure|NN intervention|NN removal|NN stool|NN hand|NN impaction|NN
+exercise|NN Constipation|Disease intervention|NN
+case|NN procedure|NN Constipation|Disease
+nerve|NN stimulation|NN minority|NN case|NN
+anastomosis|NN intervention|NN patient|NN transit|NN time|NN defecation|NN disorder|NN operation|NN side|NN effect|NN pain|NN bowel|NN obstruction|NN post-surgical|NN infection|NN
+rate|NN success|NN case|NN prognosis|NN
+complication|NN Constipation|Disease fissure|NN prolapse|NN impaction|NN stool|NN
+stage|NN Constipation|Disease abdomen|NN
+case|NN impaction|NN Constipation|Disease symptom|NN bowel|NN obstruction|NN nausea|NN abdomen|NN encopresis|NN stool|NN intestine|NN mass|NN fecal|NN matter|NN colon|NN
+Constipation|Disease disorder|NN adult|NN
+definition|NN population|NN women|NN children|NN Constipation|Disease cause|NN female|NN male|NN reason|NN number|NN health|NN problem|NN human|NN age|NN activity|NN
+population|NN report|NN Constipation|Disease Constipation|Disease account|NN visit|NN outpatient|NN clinics|NN Constipation|Disease health|NN care|NN cost|NN total|NN american|NN Constipation|Disease account|NN physician|NN year|NN product|NN year|NN america|NP
+history|NN century|NN cartoon|NN monkey|NN style|NN design|NN marshmallow|NN opium|NN
+time|NN society|NN opinion|NN health|NN care|NN provider|NN Constipation|Disease patient|NN time|NN place|NN doctor|NN claim|NN Constipation|Disease sort|NN cause|NN doctor|NN history|NN Constipation|Disease way|NN use|NN spatula|NN
+advent|NN germ|NN theory|NN disease|NN idea|NN auto-intoxication|NN thought|NN way|NN treatment|NN colon|NN cleanse|NN treatment|NN practice|NN
+west|NN thought|NN people|NN Constipation|Disease fail|NN gluttony|NN laziness|NN population|NN children|NN article|NN Constipation|Disease children|NN
+children|NN Constipation|Disease girl|NN boy|NN Constipation|Disease account|NN pediatrician|NN visit|NN gastroenterologist|NN symptom|NN impact|NN healthcare|NN system|NN age|NN Constipation|Disease children|NN Constipation|Disease conjunction|NN
+example|NN toilet|NN train|NN start|NN school|NN change|NN diet|NN infant|NN change|NN formula|NN transition|NN breast|NN milk|NN formula|NN Constipation|Disease
+majority|NN Constipation|Disease case|NN disease|NN treatment|NN symptom|NN women|NN
+period|NN pregnancy|NN stage|NN time|NN women|NN risk|NN
+study|NN prevalence|NN Constipation|Disease month|NN Constipation|Disease discomfort|NN women|NN delivery|NN process|NN tear|NN risk|NN factor|NN risk|NN Constipation|Disease population|NN
+levator|NN muscle|NN floor|NN muscle|NN childbirth|NN delivery|NN second|NN stage|NN labor|NN child|NN
+pain|NN tear|NN Constipation|Disease patient|NN bowel|NN movement|NN pain|NN
+floor|NN muscle|NN role|NN pass|NN bowel|NN movement|NN
+injury|NN muscle|NN risk|NN factor|NN child|NN second|NN stage|NN labor|NN forcep|NN delivery|NN Constipation|Disease enema|NN labor|NN bowel|NN movement|NN day|NN birth|NN evidence|NN conclusion|NN effectiveness|NN safety|NN laxative|NN group|NN people|NN
+defecation|NN tenesmus|NN

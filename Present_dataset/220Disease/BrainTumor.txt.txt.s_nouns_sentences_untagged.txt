@@ -1,0 +1,224 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN brain|NN tumor|NN name|NN brain|NN tumor|NN brain|NN tumor|NN hirnmetastase|NN brain|NN metastasis|NN hemisphere|NN lung_cancer|DS resonance|NN image|NN oncology|NN symptom|NN part|NN brain|NN headache|ST seizure|NN problem|NN vision|NN change|NN type|NN cause|NN risk|NN factor|NN exposure|NN vinyl|NN chloride|NN virus|NN radiation|NN method|NN tomography|NN resonance|NN image|NN tissue|NN biopsy|NN treatment|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN dexamethasone|NN survival|NN rate|NN frequency|NN system|NN cancer|DS death|NN 
+brain|NN tumor|NN cell|NN form|NN brain|NN type|NN tumor|NN tumor|NN tumor|NN brain|NN tumor|NN brain|NN metastasis|NN type|NN brain|NN tumor|NN symptom|NN part|NN brain|NN symptom|NN headache|ST seizure|NN problem|NN vision|NN vomit|NN change|NN headache|ST morn|NN symptom|NN difficulty|NN walk|NN speak|NN sensation|NN disease|NN unconsciousness|ST 
+cause|NN brain|NN tumor|NN risk|NN factor|NN neurofibromatosis|DS exposure|NN vinyl|NN chloride|NN virus|NN radiation|NN study|NN phone|NN exposure|NN risk|NN type|NN tumor|NN adult|NN glioblastoma|DS children|NN type|NN medulloblastoma|DS diagnosis|NN examination|NN tomography|NN ct|NN resonance|NN image|NN mry|NN result|NN biopsy|NN find|NN tumor|NN grade|NN severity|NN 
+treatment|NN combination|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN medication|NN seizure|NN tumor|NN tumor|NN monitor|NN intervention|NN treatment|NN person|NN system|NN outcome|NN type|NN tumor|NN diagnosis|NN outcome|NN outcome|NN survival|NN rate|NN brain|NN cancer|DS united|NN states|NN 
+brain|NN tumor|NN time|NN brain|NN tumor|NN metastase|NN lung_cancer|DS brain|NN tumor|NN people|NN year|NN cancer|DS children|NN brain|NN tumor|NN second|NN leukemia|DS form|NN cancer|DS australia|NN lifetime|NN cost|NN case|NN brain|NN cancer|DS type|NN cancer|DS content|NN 
+sign|NN symptom|NN headaches|NN location|NN symptom|NN change|NN cause|NN brain|NN matter|NN cord|NN tissue|NN diagnosis|NN image|NN pathology|NN classification|NN treatment|NN surgery|NN radiation|NN therapy|NN neuroma|NN epidemiology|NN united|NN states|NN uk|NN children|NN research|NN virus|NN vector|NN reference|NN link|NN 
+sign|NN symptom|NN area|NN brain|NN system|NN 
+sign|NN symptom|NN brain|NN tumor|NN 
+people|NN brain|NN tumor|NN tumor|NN brain|NN tumor|NN present|NN symptom|NN location|NN size|NN rate|NN growth|NN tumor|NN example|NN lobe|NN change|NN ability|NN 
+tumor|NN area|NN area|NN area|NN language|NN comprehension|NN loss|NN function|NN headache|ST 
+headache|ST result|NN pressure|NN symptom|NN brain|NN cancer|DS headache|ST symptom|NN symptom|NN headache|ST warn|NN sign|NN headache|ST brain|NN cancer|DS academy|NN examination|NN headache|ST headache|ST awaken|NN sleep|NN headache|ST population|NN headache|ST headache|ST feature|NN patient|NN definition|NN migraine|DS location|NN symptom|NN 
+brain|NN lobe|NN lobe|NN area|NN function|NN tumor|NN lobe|NN area|NN performance|NN 
+location|NN tumor|NN symptom|NN person|NN 
+lobe|NN tumor|NN reason|NN behavior|NN personality|NN change|NN plan|NN inhibition|NN production|NN speech|NN area|NN 
+lobe|NN lobe|NN memory|NN loss|NN hear|NN difficulty|NN language|NN comprehension|NN area|NN 
+lobe|NN interpretation|NN language|NN difficulty|NN difficulty|NN write|NN draw|NN name|NN perception|NN lobe|NN damage|NN lobe|NN loss|NN vision|NN area|NN balance|NN muscle|NN movement|NN posture|NN brain|NN stem|NN seizure|NN problem|NN change|NN change|NN headache|ST paralysis|ST 
+personality|NN behavior|NN change|NN people|NN brain|NN tumor|NN research|NN change|NN person|NN personality|NN tumor|NN lobe|NN brain|NN 
+lobe|NN control|NN inhibition|NN emotion|NN mood|NN judgement|NN reason|NN behavior|NN tumor|NN region|NN behavior|NN temper|NN tantrum|NN thing|NN laughter|NN symptom|NN depression|ST anxiety|ST 
+personality|NN change|NN effect|NN unemployment|NN relationship|NN lack|NN control|NN cause|NN 
+study|NN risk|NN factor|NN exposure|NN vinyl|NN chloride|NN radiation|NN factor|NN brain|NN tumor|NN 
+mutation|NN deletion|NN tumor|NN suppressor|NN gene|NN cause|NN form|NN brain|NN tumor|NN condition|NN von|NN disease|NN neoplasia|NN type|NN risk|NN development|NN brain|NN tumor|NN people|NN disease|NN risk|NN brain|NN tumor|NN 
+study|NN link|NN cell|NN phone|NN phone|NN radiation|NN occurrence|NN brain|NN tumor|NN world|NN health|NN organization|NN phone|NN radiation|NN scale|NN group|NN discount|NN cell|NN phone|NN usage|NN brain|NN cancer|DS 3g|NN phone|NN average|NN energy|NN gsm|NN phone|NN use|NN study|NN increase|NN risk|NN glioma|DS type|NN brain|NN cancer|DS user|NN wireless|NN telephone|NN brain|NN cancer|DS region|NN 
+brain|NN system|NN tissue|NN membrane|NN brain|NN skull|NN 
+cover|NN outside|NN mater|NN mother|NN mater|NN mother|NN mater|NN mother|NN 
+arachnoid|NN layer|NN pia-arachnoid|NN leptomeninge|NN 
+mater|NN mater|NN space|NN fluid|NN csf|NN 
+fluid|NN space|NN cell|NN cavity|NN brain|NN support|NN brain|NN tissue|NN 
+blood|NN vessel|NN system|NN space|NN mater|NN 
+cell|NN blood|NN vessel|NN wall|NN barrier|NN brain|NN toxin|NN blood|NN 
+tumors|NN meninge|NN 
+brain|NN matter|NN 
+brain|NN human|NN vertebrate|NN tissue|NN texture|NN 
+live|NN brain|NN tissue|NN tint|NN color|NN matter|NN white|NN matter|NN variation|NN color|NN 
+brain|NN area|NN brain|NN volume|NN 
+hemisphere|NN cerebrum|NN midbrain|NN cerebellum|NN 
+area|NN class|NN cell|NN neuron|NN glia|NN 
+type|NN brain|NN whole|NN cell|NN neuron|NN cortex|NN 
+type|NN number|NN function|NN support|NN support|NN insulation|NN guidance|NN development|NN 
+tumor|NN cell|NN time|NN 
+cord|NN tissue|NN 
+pon|NN region|NN brainstem|NN axon|NN cord|NN 
+thalamus|NN hypothalamus|NN diencephalon|NN neuron|NN cell|NN tissue|NN pituitary|NN gland|NN gland|NN tissue|NN bottom|NN tumor|NN pituitary|NN gland|NN 
+oblongata|NN start|NN cord|NN neuron|NN tissue|NN oligodendrocyte|NN tissue|NN 
+cord|NN bundle|NN axon|NN 
+cell|NN schwann|NN cell|NN periphery|NN cord|NN axon|NN transmission|NN signal|NN maintenance|NN environment|NN cord|NN part|NN compound|NN response|NN injury|NN stimulus|NN 
+diagnosis|NN fossa|NN tumor|NN effect|NN midline|NN shift|NN 
+symptom|NN sign|NN presence|NN combination|NN symptom|NN lack|NN indication|NN cause|NN indicator|NN investigation|NN possibility|NN brain|NN tumor|NN 
+brain|NN tumor|NN characteristics|NN obstacle|NN diagnosis|NN therapy|NN tumor|NN body|NN 
+issue|NN property|NN organ|NN 
+diagnosis|NN history|NN antecedent|NN symptom|NN 
+laboratory|NN investigation|NN infection|NN cause|NN symptom|NN 
+examination|NN stage|NN eye|NN exam|NN 
+use|NN eeg|NN role|NN diagnosis|NN brain|NN tumor|NN 
+brain|NN tumor|NN tumor|NN area|NN body|NN challenge|NN diagnosis|NN 
+tracer|NN volume|NN due|NN activity|NN tumor|NN cell|NN image|NN tumor|NN 
+brain|NN blood|NN barrier|NN membrane|NN control|NN substance|NN brain|NN 
+tracer|NN area|NN body|NN brain|NN tumor|NN disruption|NN bbb|NN tumor|NN 
+disruption|NN bbb|NN mry|NN ct|NN scan|NN indicator|NN glioma|DS brain|NN metastase|NN 
+obstruction|NN passage|NN fluid|NN csf|NN brain|NN sign|NN pressure|NN headache|ST state|NN consciousness|NN children|NN change|NN diameter|NN skull|NN bulge|NN fontanelle|NN 
+symptom|NN dysfunction|NN doctor|NN brain|NN tumor|NN 
+field|NN defect|NN compression|NN optic|NN dilation|NN pupil|NN occurrence|NN onset|NN neurologic|NN symptom|NN impairment|NN judgment|NN memory|NN loss|NN lack|NN recognition|NN orientation|NN disorder|NN personality|NN change|NN aphasia|ST field|NN impairment|NN sense|NN smell|NN hear|NN paralysis|ST vision|NN symptom|NN tremor|ST paralysis|ST side|NN body|NN seizure|NN patient|NN history|NN epilepsy|DS possibility|NN brain|NN tumor|NN 
+image|NN ct|NN scan|NN brain|NN tumor|NN diameter|NN 
+peritumoral|NN matter|NN spread|NN 
+image|NN role|NN diagnosis|NN brain|NN tumor|NN 
+image|NN method|NN angiography|NN favor|NN technique|NN resonance|NN image|NN mry|NN tomography|NN ct|NN scan|NN mri|NN reference|NN standard|NN mass|NN process|NN ct|NN result|NN 
+brain|NN tumor|NN brain|NN tissue|NN mass|NN lesion|NN ct|NN scan|NN 
+mri|NN intensity|NN brain|NN tissue|NN scan|NN brain|NN tissue|NN mry|NN appearance|NN 
+contrast|NN agent|NN uptake|NN pattern|NN ct|NN scan|NN primary|NN brain|NN tumor|NN 
+pressure|NN area|NN brain|NN tissue|NN tumor|NN scan|NN presence|NN outline|NN 
+tumor|NN edema|ST result|NN 
+tumor|NN function|NN bbb|NN lead|NN increase|NN permeability|NN 
+advancement|NN utility|NN mry|NN data|NN diagnosis|NN prognosis|NN 
+image|NN diffusion|NN image|NN dwy|NN technique|NN review|NN grade|NN image|NN technique|NN glioma|DS diagnosis|NN brain|NN tumor|NN examination|NN tumor|NN tissue|NN sample|NN mean|NN brain|NN biopsy|NN surgery|NN 
+examination|NN treatment|NN prognosis|NN 
+examination|NN pathologist|NN stage|NN examination|NN tissue|NN examination|NN tissue|NN examination|NN tissue|NN stain|NN analysis|NN 
+pathology|NN micrograph|NN oligodendroglioma|NN type|NN brain|NN cancer|DS 
+brain|NN biopsy|NN 
+characteristics|NN determination|NN malignancy|NN characteristics|NN team|NN management|NN plan|NN 
+loss|NN differentiation|NN cell|NN orientation|NN blood|NN vessel|NN characteristic|NN tumor|NN tissue|NN 
+cell|NN control|NN function|NN cell|NN structure|NN 
+cell|NN nuclear-to-cytoplasmic|NN ratio|NN 
+nucleus|NN cell|NN 
+cell|NN way|NN tumor|NN cell|NN dedifferentiation|NN cell|NN structurefunction|NN cancer|DS stem|NN cell|NN capacity|NN growth|NN failure|NN differentiation|NN 
+indication|NN abnormality|NN cell|NN malignancy|NN 
+significance|NN abnormality|NN context|NN 
+division|NN cell|NN 
+neoplasia|NN consequence|NN division|NN cell|NN mass|NN increase|NN size|NN space|NN cavity|NN mass|NN space|NN brain|NN compression|NN brain|NN tissue|NN pressure|NN destruction|NN brain|NN parenchyma|NN 
+pressure|NN icp|NN mass|NN effect|NN tumor|NN blood|NN volume|NN fluid|NN csf|NN volume|NN turn|NN symptom|NN 
+death|NN cell|NN factor|NN infection|NN toxin|NN trauma|NN 
+cell|NN signal|NN phagocyte|NN cell|NN buildup|NN tissue|NN cell|NN debris|NN toxin|NN site|NN cell|NN 
+hypoxia|NN deprivation|NN oxygen|NN supply|NN area|NN brain|NN tumor|NN use|NN blood|NN vessel|NN supply|NN blood|NN neoplasm|NN competition|NN nutrient|NN brain|NN tissue|NN 
+neoplasm|NN release|NN end|NN product|NN radical|NN electrolyte|NN neurotransmitter|NN release|NN recruitment|NN mediator|NN cytokine|NN parenchymal|NN function|NN 
+part|NN brain|NN 
+tumor|NN brain|NN tumor|NN brain|NN area|NN body|NN incidence|NN tumor|NN time|NN tumor|NN tumor|NN patient|NN symptom|NN image|NN scan|NN autopsy|NN 
+grade|NN tumor|NN system|NN point|NN scale|NN world|NN health|NN organization|NN 
+grade|NN term|NN survival|NN severity|NN prognosis|NN worsen|NN grade|NN increase|NN 
+grade|NN grade|NN 
+grade|NN scale|NN criteria|NN scale|NN 
+adenoma|DS nerve|NN sheath|NN 
+tumor|NN tissue|NN origin|NN 
+tissue|NN origin|NN children|NN adult|NN pca|NN gbm|NN ependyma|NN medulloblastoma|DS 
+tumor|NN brain|NN brain|NN cancer|DS organ|NN 
+neoplasm|NN organ|NN body|NN cancer|DS cell|NN tumor|NN system|NN blood|NN vessel|NN 
+bloodstream|NN brain|NN 
+cell|NN neoplasm|NN cancer|DS tissue|NN 
+tumor|NN brain|NN phase|NN patient|NN metastasize|NN cancer|DS type|NN cancer|DS tumor|NN brain|NN lung_cancer|DS breast_cancer|DS melanoma|NN kidney|NN cancer|DS colon|NN cancer|DS order|NN frequency|NN 
+brain|NN tumor|NN united|NN states|NN case|NN year|NN 
+brain|NN tumor|NN cause|NN tumor|NN cavity|NN 
+skull|NN bone|NN structure|NN subject|NN neoplasm|NN nature|NN volume|NN cavity|NN brain|NN behavior|NN 
+brain|NN tumor|NN brain|NN tumor|NN 
+definition|NN neoplasm|NN type|NN neoplasm|NN body|NN 
+cancer|DS body|NN property|NN tumor|NN form|NN cancer|DS tumor|NN 
+characteristics|NN tumor|NN 
+mitosis|NN growth|NN division|NN limit|NN cell|NN neoplasm|NN form|NN size|NN shape|NN 
+cell|NN display|NN 
+cell|NN nucley|NN nucleus|NN size|NN cytoplasm|NN cell|NN ratio|NN ratio|NN 
+cell|NN neighbor|NN nucleus|NN nucley|NN 
+nucley|NN size|NN shape|NN 
+invasion|NN infiltration|NN literature|NN term|NN equivalent|NN 
+clarity|NN article|NN convention|NN thing|NN convention|NN article|NN invasion|NN expansion|NN tumor|NN mitosis|NN sense|NN neoplasm|NN space|NN tissue|NN tissue|NN tissue|NN 
+tumor|NN image|NN 
+behavior|NN tumor|NN tentacle|NN tissue|NN outline|NN tumor|NN tumor|NN cell|NN tissue|NN circumference|NN mass|NN tumor|NN space|NN tissue|NN neoplasm|NN tumor|NN end|NN tissue|NN 
+metastasis|NN spread|NN location|NN body|NN lymph|NN blood|NN 
+characteristics|NN element|NN neoplasm|NN brain|NN 
+brain|NN tumor|NN organ|NN form|NN brain|NN tumor|NN cavity|NN canal|NN 
+cell|NN neoplasm|NN bloodstream|NN location|NN body|NN 
+case|NN report|NN spread|NN brain|NN tumor|NN system|NN bone|NN metastasis|NN brain|NN tumor|NN space|NN brain|NN tissue|NN brain|NN tissue|NN brain|NN tumor|NN tissue|NN 
+classification|NN category|NN glioma|DS mutation|NN tumor|NN type|NN treatment|NN response|NN 
+mutation|NN immunohistochemistry|NN technique|NN presence|NN absence|NN protein|NN stain|NN 
+mutation|NN idh1|NN idh2|NN gene|NN grade|NN 
+loss|NN gene|NN loss|NN chromosome|NN arm|NN 1p|NN tumor|NN oligodendroglioma|NN 
+loss|NN tp53|NN atrx|NN 
+gene|NN tert|NN glioma|DS tumor|NN grade|NN biology|NN 
+type|NN article|NN classification|NN tumor|NN system|NN 
+astrocytoma|DS neurocytoma|NN plexus|NN carcinoma|NN plexus|NN plexus|NN tumor|NN tumour|NN tumor|NN giant-cel|NN multiforme|NN gliosarcoma|DS medulloepithelioma|NN neurocytoma|NN nerve|NN sheath|NN ependymoma|DS pinealoblastoma|NN neuroblastoma|DS system|NN lymphoma|DS wing|NN cell|NN retinoblastoma|DS 
+team|NN treatment|NN option|NN person|NN family|NN 
+type|NN treatment|NN tumor|NN type|NN location|NN chance|NN survival|NN 
+surgery|NN resection|NN tumor|NN objective|NN tumor|NN cell|NN 
+radiotherapy|NN treatment|NN brain|NN tumor|NN tumor|NN beta|NN ray|NN gamma|NN ray|NN 
+treatment|NN option|NN cancer|DS brain|NN tumor|NN barrier|NN drug|NN cell|NN 
+variety|NN therapy|NN trial|NN 
+survival|NN rate|NN brain|NN tumor|NN type|NN tumor|NN age|NN status|NN patient|NN extent|NN removal|NN factor|NN case|NN surgery|NN 
+course|NN action|NN literature|NN removal|NN resection|NN 
+technique|NN trend|NN oncology|NN objective|NN surgery|NN tumor|NN cell|NN removal|NN outcome|NN debulk|NN tumor|NN 
+case|NN access|NN tumor|NN surgery|NN 
+meningioma|DS exception|NN tumor|NN skull|NN base|NN 
+adenoma|DS approach|NN cavity|NN skull|NN base|NN approach|NN 
+pituitary|NN adenoma|DS open|NN skull|NN removal|NN 
+radiotherapy|NN approache|NN case|NN 
+research|NN study|NN removal|NN brain|NN tumor|NN tumor|NN cell|NN acid|NN radiotherapy|NN chemotherapy|NN part|NN standard|NN tumor|NN 
+radiotherapy|NN case|NN glioma|DS tumor|NN reduction|NN 
+tumor|NN radiotherapy|NN chemotherapy|NN surgery|NN prognosis|NN case|NN tumor|NN 
+radiation|NN therapy|NN 
+goal|NN radiation|NN therapy|NN tumor|NN cell|NN brain|NN tissue|NN 
+beam|NN radiation|NN therapy|NN treatment|NN fraction|NN radiation|NN brain|NN 
+process|NN total|NN treatment|NN type|NN tumor|NN 
+treatment|NN patient|NN outcome|NN survival|NN rate|NN 
+treatment|NN method|NN calculation|NN focus|NN radiation|NN site|NN tumor|NN radiation|NN dose|NN brain|NN 
+adjunct|NN treatment|NN treatment|NN technique|NN tumor|NN 
+form|NN gamma|NN knife|NN tx|NN source|NN 
+radiotherapy|NN treatment|NN brain|NN tumor|NN 
+amount|NN radiotherapy|NN size|NN area|NN brain|NN cancer|DS 
+beam|NN radiotherapy|NN treatment|NN irradiation|NN risk|NN tumor|NN future|NN radiotherapy|NN case|NN brain|NN tumor|NN 
+radiotherapy|NN case|NN place|NN resection|NN tumor|NN 
+form|NN radiotherapy|NN brain|NN cancer|DS beam|NN radiation|NN therapy|NN proton|NN therapy|NN children|NN 
+people|NN srs|NN radiation|NN therapy|NN treatment|NN brain|NN tumor|NN risk|NN learn|NN memory|NN problem|NN srs|NN chemotherapy|NN 
+patient|NN chemotherapy|NN drug|NN tumor|NN cell|NN 
+chemotherapy|NN survival|NN patient|NN primary|NN brain|NN tumor|NN percent|NN patient|NN 
+children|NN radiation|NN radiation|NN effect|NN brain|NN 
+decision|NN treatment|NN patient|NN health|NN type|NN tumor|NN extent|NN cancer|DS 
+toxicity|NN side|NN effect|NN drug|NN outcome|NN chemotherapy|NN brain|NN tumor|NN treatment|NN line|NN treatment|NN option|NN surgery|NN radiation|NN therapy|NN 
+ucla|NN neuro-oncology|NN survival|NN data|NN patient|NN diagnosis|NN multiforme|NN 
+institution|NN united|NN states|NN display|NN brain|NN tumor|NN patient|NN therapy|NN 
+list|NN chemotherapy|NN agent|NN glioma|DS 
+mutation|NN effect|NN effectiveness|NN chemotherapy|NN 
+idh1|NN idh2|NN mutation|NN chemotherapy|NN mutation|NN 
+loss|NN chromosome|NN arm|NN 1p|NN response|NN 
+shunt|NN symptom|NN pressure|NN build-up|NN fluid|NN blockage|NN flow|NN fluid|NN 
+prognosis|NN brain|NN cancer|DS type|NN cancer|DS 
+prognosis|NN chemotherapy|NN radiotherapy|NN resection|NN multiforme|NN survival|NN month|NN chemoradiotherapy|NN surgery|NN 
+prognosis|NN form|NN brain|NN cancer|DS patient|NN year|NN therapy|NN radiation|NN tumor|NN corticosteroid|NN 
+type|NN brainstem|NN children|NN prognosis|NN survival|NN 
+presentation|NN mutation|NN 
+mutation|NN prognosis|NN 
+mutation|NN deletion|NN chromosome|NN arm|NN 1p|NN prognosis|NN 
+egfr|NN mutation|NN prognosis|NN article|NN 
+gbm|NN grade|NN form|NN brain|NN tumor|NN 
+multimodality|NN therapy|NN radiotherapy|NN chemotherapy|NN excision|NN survival|NN month|NN 
+therapy|NN multiforme|NN resection|NN tumor|NN radiotherapy|NN week|NN procedure|NN cancer|DS chemotherapy|NN patient|NN glioblastoma|DS corticosteroid|NN dexamethasone|NN illness|NN symptom|NN 
+treatment|NN therapy|NN gamma|NN knife|NN boron|NN neutron|NN capture|NN therapy|NN gene|NN therapy|NN article|NN 
+resection|NN chemotherapy|NN radiotherapy|NN combination|NN 
+grade|NN course|NN wait|NN therapy|NN 
+tumor|NN frequency|NN co-deletion|NN p|NN arm|NN chromosome|NN chromosome|NN report|NN survival|NN year|NN grade|NN neuroma|NN 
+neuroma|NN surgery|NN radiation|NN therapy|NN observation|NN 
+intervention|NN surgery|NN radiation|NN hear|NN loss|NN epidemiology|NN 
+figure|NN incidence|NN cancer|DS brain|NN difference|NN more-|NN country|NN country|NN incidence|NN tumor|NN brain|NN death|NN patient|NN situation|NN access|NN facility|NN brain|NN tumor|NN death|NN cause|NN patient|NN life|NN tumor|NN 
+statistics|NN form|NN brain|NN tumor|NN population|NN 
+incidence|NN astrocytoma|DS nationality|NN 
+study|NN incidence|NN system|NN cns|NN tumors|NN variation|NN origin|NN 
+lesion|NN tumor|NN trend|NN 
+incidence|NN cns|NN united|NN states|NN israel|NN country|NN japan|NN country|NN incidence|NN 
+difference|NN difference|NN difference|NN diagnosis|NN report|NN data|NN incidence|NN cancer|DS world|NN health|NN organisation|NN agency|NN research|NN cancer|DS france|NN united|NN states|NN 
+united|NN states|NN people|NN brain|NN system|NN 
+case|NN brain|NN tumor|NN 16830|NN death|NN 2018|NN result|NN account|NN percent|NN cancer|DS percent|NN cancer|DS death|NN age|NN diagnosis|NN year|NN age|NN death|NN 
+diagnosis|NN male|NN case|NN people|NN female|NN 
+death|NN result|NN brain|NN cancer|DS male|NN female|NN brain|NN cancer|DS cause|NN cancer|DS death|NN united|NN states|NN 
+lifetime|NN risk|NN brain|NN cancer|DS percent|NN men|NN women|NN uk|NN 
+brain|NN cns|NN tumor|NN cancer|DS uk|NN people|NN 2013|NN cause|NN cancer|DS death|NN people|NN children|NN 
+united|NN states|NN people|NN brain|NN tumor|NN case|NN brain|NN tumor|NN rate|NN 19851994|NN 
+debate|NN reason|NN theory|NN trend|NN result|NN diagnosis|NN report|NN jump|NN time|NN jump|NN mortality|NN 
+percent|NN cancer|DS children|NN 
+survival|NN rate|NN brain|NN cancer|DS children|NN brain|NN cancer|DS cancer|DS children|NN result|NN death|NN group|NN leukemia|DS younger|NN people|NN 
+brain|NN tumor|NN type|NN children|NN glioma|DS neuronal-glial|NN 
+children|NN brain|NN tumor|NN glioma|DS 
+infant|NN teratoid|NN cell|NN teratoma|DS brain|NN tumor|NN incidence|NN 
+uk|NN children|NN brain|NN tumor|NN average|NN year|NN children|NN people|NN age|NN research|NN 
+cancer|DS immunotherapy|NN 
+glioma|DS therapy|NN life|NN expectancy|NN vesicular|NN virus|NN virus|NN 
+researcher|NN stomatitis|DS virus|NN vsv|NN cancer|DS cell|NN cell|NN vector|NN brainstem|NN four-year-old|NN 
+mri|NN contrast|NN 
+researcher|NN usc|NN ucla|NN example|NN use|NN vector|NN cell|NN line|NN build|NN work|NN researcher|NN technology|NN model|NN cancer|DS survival|NN benefit|NN brain|NN tumor|NN animal|NN source|NN 
+preparation|NN trial|NN technology|NN tocagen|NN company|NN brain|NN cancer|DS treatment|NN combination|NN treatment|NN fc|NN 
+investigation|NN phase|NN trial|NN treatment|NN glioma|DS multiforme|NN astrocytoma|DS 
+timeline|NN brain|NN cancer|DS list|NN brain|NN tumor|NN patient|NN adenoma|DS pituitary|NN tumour|NN brain|NN tumor|NN gland|NN skull|NN part|NN brain|NN 

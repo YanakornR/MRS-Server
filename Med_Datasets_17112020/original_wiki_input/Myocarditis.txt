@@ -1,0 +1,144 @@
+Myocarditis,inflammatory cardiomyopathy
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Myocarditis
+Other names	Inflammatory cardiomyopathy
+Viral myocarditis (1).JPG
+A microscope image of myocarditis at autopsy in a person with acute onset of heart failure
+Specialty	Cardiology
+Symptoms	Shortness of breath, chest pain, decreased ability to exercise, irregular heartbeat[1]
+Complications	Heart failure due to dilated cardiomyopathy, cardiac arrest[1]
+Duration	Hours to months[1]
+Causes	Usually viral infection, also bacterial infections, certain medications, toxins, autoimmune disorders[1][2]
+Diagnostic method	Electrocardiogram, blood troponin, heart MRI, heart biopsy[1][2]
+Treatment	Medications, implantable cardiac defibrillator, heart transplant[1][2]
+Medication	ACE inhibitors, beta blockers, diuretics, corticosteroids, intravenous immunoglobulin[1][2]
+Prognosis	Variable[3]
+Frequency	2.5 million with cardiomyopathy (2015)[4]
+Deaths	354,000 with cardiomyopathy (2015)[5]
+
+Myocarditis, also known as inflammatory cardiomyopathy, is inflammation of the heart muscle.[1] Symptoms can include shortness of breath, chest pain, decreased ability to exercise, and an irregular heartbeat.[1] The duration of problems can vary from hours to months.[1] Complications may include heart failure due to dilated cardiomyopathy or cardiac arrest.[1]
+
+Myocarditis is most often due to a viral infection.[1] Other causes include bacterial infections, certain medications, toxins, and autoimmune disorders.[1][2] A diagnosis may be supported by an electrocardiogram (ECG), increased troponin, heart MRI, and occasionally a heart biopsy.[1][2] An ultrasound of the heart is important to rule out other potential causes such as heart valve problems.[2]
+
+Treatment depends on both the severity and the cause.[1][2] Medications such as ACE inhibitors, beta blockers, and diuretics are often used.[1][2] A period of no exercise is typically recommended during recovery.[1][2] Corticosteroids or intravenous immunoglobulin (IVIG) may be useful in certain cases.[1][2] In severe cases an implantable cardiac defibrillator or heart transplant may be recommended.[1][2]
+
+In 2013, about 1.5 million cases of acute myocarditis occurred.[6] While people of all ages are affected, the young are most often affected.[7] It is slightly more common in males than females.[1] Most cases are mild.[2] In 2015 cardiomyopathy, including myocarditis, resulted in 354,000 deaths up from 294,000 in 1990.[8][9] The initial descriptions of the condition are from the mid-1800s.[10]
+Contents
+
+    1 Signs and symptoms
+    2 Causes
+        2.1 Infections
+        2.2 Toxins
+        2.3 Immunologic
+        2.4 Physical agents
+    3 Mechanism
+    4 Diagnosis
+    5 Treatment
+        5.1 Medication
+        5.2 Surgery
+        5.3 Alternative medicine
+    6 Epidemiology
+    7 History
+    8 References
+    9 External links
+
+Signs and symptoms
+
+The signs and symptoms associated with myocarditis are varied, and relate either to the actual inflammation of the myocardium or to the weakness of the heart muscle that is secondary to the inflammation. Signs and symptoms of myocarditis include the following:[11]
+
+    Chest pain (often described as "stabbing" in character)
+    Congestive heart failure (leading to swelling, shortness of breath and liver congestion)
+    Palpitations (due to abnormal heart rhythms)
+    Dullness of heart sounds
+    Sudden death (in young adults, myocarditis causes up to 20% of all cases of sudden death)[12]
+    Fever (especially when infectious, e.g., in rheumatic fever)
+    Symptoms in young children tend to be more nonspecific, with generalized malaise, poor appetite, abdominal pain, and chronic cough. Later stages of the illness will present with respiratory symptoms with increased work of breathing, and is often mistaken for asthma.
+
+Since myocarditis is often due to a viral illness, many patients give a history of symptoms consistent with a recent viral infection, including fever, rash, diarrhea, joint pains, and easily becoming tired.
+
+Myocarditis is often associated with pericarditis, and many people with myocarditis present with signs and symptoms that suggest myocarditis and pericarditis at the same time.
+Causes
+
+A large number of causes of myocarditis have been identified, but often a cause cannot be found. In Europe and North America, viruses are common culprits. Worldwide, however, the most common cause is Chagas' disease, an illness endemic to Central and South America that is due to infection by the protozoan Trypanosoma cruzi.[11] Many of the causes listed below, particularly those involving protozoa, fungi, parasites, allergy, autoimmune disorders, and drugs are also causes of eosinophilic myocarditis.
+Infections
+
+    Viral (adenovirus, parvovirus B19, coxsackie virus, rubella virus, polio virus, Epstein-Barr virus, and hepatitis C)[13]
+    Protozoan (Trypanosoma cruzi causing Chagas disease and Toxoplasma gondii)
+    Bacterial (Brucella, Corynebacterium diphtheriae, gonococcus, Haemophilus influenzae, Actinomyces, Tropheryma whipplei, Vibrio cholerae, Borrelia burgdorferi, leptospirosis, and Rickettsia, Mycoplasma pneumoniae)
+    Fungal (Aspergillus)
+    Parasitic (ascaris, Echinococcus granulosus, Paragonimus westermani, schistosoma, Taenia solium, Trichinella spiralis, visceral larva migrans, and Wuchereria bancrofti)
+
+Bacterial myocarditis is rare in patients without immunodeficiency.
+Toxins
+
+    Drugs, including alcohol, anthracyclines and some other forms of chemotherapy, and antipsychotics, e.g., clozapine, also some designer drugs such as mephedrone[14]
+
+Immunologic
+
+    Allergic (acetazolamide, amitriptyline)
+    Rejection after a heart transplant
+    Autoantigens (scleroderma, systemic lupus erythematosus, sarcoidosis, systemic vasculitis such as eosinophilic granulomatosis with polyangiitis, and granulomatosis with polyangiitis, Kawasaki disease, idiopathic hypereosinophilic syndrome)[15]
+    Toxins (arsenic, toxic shock syndrome toxin, carbon monoxide, or snake venom)
+    Heavy metals (copper or iron)
+
+Physical agents
+
+    Electric shock, hyperpyrexia, and radiation
+
+Mechanism
+
+Most forms of myocarditis involve the infiltration of heart tissues by one or two types of pro-inflammatory blood cells, lymphocytes and macrophages plus two respective descendants of these cells, NK cells and macrophages. Eosinophilic myocarditis is a subtype of myocarditis in which cardiac tissue is infiltrated by another type of pro-inflammatory blood cell, the eosinophil. Eosinophilic myocarditis is further distinguished from non-eosinophilic myocarditis by having a different set of causes and recommended treatments.[16][17]
+Diagnosis
+Diffuse ST elevation in a young male due to myocarditis and pericarditis
+Endomyocardial biopsy specimen with extensive eosinophilic infiltrate involving the endocardium and myocardium (hematoxylin and eosin stain)
+
+Myocarditis refers to an underlying process that causes inflammation and injury of the heart. It does not refer to inflammation of the heart as a consequence of some other insult. Many secondary causes, such as a heart attack, can lead to inflammation of the myocardium and therefore the diagnosis of myocarditis cannot be made by evidence of inflammation of the myocardium alone.[18][19]
+
+Myocardial inflammation can be suspected on the basis of electrocardiographic (ECG) results, elevated C-reactive protein (CRP) and/or erythrocyte sedimentation rate (ESR), and increased IgM (serology) against viruses known to affect the myocardium. Markers of myocardial damage (troponin or creatine kinase cardiac isoenzymes) are elevated.[11]
+
+The ECG findings most commonly seen in myocarditis are diffuse T wave inversions; saddle-shaped ST-segment elevations may be present (these are also seen in pericarditis).[11]
+
+The gold standard is still biopsy of the myocardium, in general done in the setting of angiography. A small tissue sample of the endocardium and myocardium is taken, and investigated by a pathologist by light microscopy and—if necessary—immunochemistry and special staining methods. Histopathological features are myocardial interstitium with abundant edema and inflammatory infiltrate, rich in lymphocytes and macrophages. Focal destruction of myocytes explains the myocardial pump failure.[11]
+
+Cardiac magnetic resonance imaging (cMRI or CMR) has been shown to be very useful in diagnosing myocarditis by visualizing markers for inflammation of the myocardium.[20] Recently, consensus criteria for the diagnosis of myocarditis by CMR have been published.[21]
+
+    File:UOTW 7 - Ultrasound of the Week 1.webmPlay media
+
+    Ultrasound showing cardiogenic shock due to myocarditis[22]
+    File:UOTW 7 - Ultrasound of the Week 2.webmPlay media
+
+    Ultrasound showing cardiogenic shock due to myocarditis[22]
+    File:UOTW 7 - Ultrasound of the Week 3.webmPlay media
+
+    Ultrasound showing cardiogenic shock due to myocarditis[22]
+
+Treatment
+
+As with most viral infections, symptomatic treatment is the only form of therapy for most forms of myocarditis.[23] In the acute phase, supportive therapy, including bed rest, is indicated.
+Medication
+
+In people with symptoms, digoxin and diuretics may help. For people with moderate to severe dysfunction, cardiac function can be supported by use of inotropes such as milrinone in the acute phase, followed by oral therapy with ACE inhibitors when tolerated.
+
+Systemic corticosteroids may have beneficial effects in people with proven myocarditis.[24] However, data on the usefulness of corticosteroids should be interpreted with caution, since 58% of adults recover spontaneously, while most studies on children lack control groups.[23]
+
+A 2015 Cochrane review found no evidence of benefit of using intravenous immunoglobulin (IVIG) in adults and tentative benefit in certain children.[25] It is not recommended routinely until there is better evidence.[25]
+Surgery
+
+People who do not respond to conventional therapy may be candidates for bridge therapy with left ventricular assist devices. Heart transplantation is reserved for people who fail to improve with conventional therapy.[24]
+
+Extracorporeal membrane oxygenation may be used in those who are about to go into cardiac arrest.[26]
+Alternative medicine
+
+Studies have shown no benefit for the use of herbal medicine on all cause mortality in viral myocarditis.[27]
+Epidemiology
+
+The exact incidence of myocarditis is unknown. However, in series of routine autopsies, 1–9% of all patients had evidence of myocardial inflammation. In young adults, up to 20% of all cases of sudden death are due to myocarditis.[11]
+
+Among patients with HIV, myocarditis is the most common cardiac pathological finding at autopsy, with a prevalence of 50% or more.[28]
+History
+
+Cases of myocarditis have been documented as early as the 1600s,[29] but the term "myocarditis", implying an inflammatory process of the myocardium, was introduced by German physician Joseph Friedrich Sobernheim in 1837.[30] However, the term has been confused with other cardiovascular conditions, such as hypertension and ischemic heart disease.[31] Following admonition regarding the indiscriminate use of myocarditis as a diagnosis from authorities such as British cardiologist Sir Thomas Lewis and American cardiologist and a co-founder of the American Heart Association Paul White, myocarditis was under-diagnosed.[31]
+
+Although myocarditis is clinically and pathologically clearly defined as "inflammation of the myocardium", its definition, classification, diagnosis, and treatment are subject to continued controversy, but endomyocardial biopsy has helped define the natural history of myocarditis and clarify clinicopathological correlations.[32] 

@@ -1,0 +1,155 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN disorder|NN 
+hypoglycemia|DS name|NN hypoglycemia|DS hypoglycemia|DS hypoglycemia|DS meter|NN symptom|NN difficulty|NN confusion|ST loss|NN consciousness|NN seizure|NN onset|NN cause|NN insulin|NN sepsis|DS kidney|NN failure|NN tumor|NN liver|NN disease|NN method|NN blood|NN sugar|NN level|NN treatment|NN eate|NN food|NN sugar|NN dextrose|NN glucagon|NN 
+hypoglycemia|DS hypoglycemia|DS blood|NN sugar|NN level|NN variety|NN symptom|NN clumsiness|NN trouble|NN confusion|ST loss|NN consciousness|NN seizure|NN death|NN feel|NN hunger|NN sweate|NN weakness|ST symptom|NN 
+cause|NN hypoglycemia|DS medication|NN diabete|NN mellitus|NN insulin|NN risk|NN diabetics|NN alcohol|NN cause|NN hypoglycemia|DS kidney|NN failure|NN liver|NN disease|NN hypothyroidism|DS starvation|NN error|NN metabolism|NN infection|NN hypoglycemia|DS number|NN drug|NN alcohol|NN hypoglycemia|DS baby|NN hour|NN 
+glucose|NN level|NN hypoglycemia|DS people|NN diabete|NN level|NN adult|NN diabete|NN symptom|NN hypoglycemia|DS hypoglycemia|DS time|NN symptom|NN improvement|NN blood|NN sugar|NN diagnosis|NN level|NN eate|NN exercise|NN newborn|NN level|NN symptom|NN hypoglycemia|DS test|NN cause|NN insulin|NN c|NN peptide|NN level|NN blood|NN 
+people|NN diabete|NN prevention|NN food|NN amount|NN exercise|NN medication|NN people|NN blood|NN sugar|NN test|NN glucose|NN monitor|NN people|NN symptom|NN hypoglycemia|DS routine|NN test|NN group|NN treatment|NN hypoglycemia|DS eate|NN food|NN sugar|NN dextrose|NN person|NN food|NN mouth|NN injection|NN glucagon|NN treatment|NN hypoglycemia|DS diabete|NN problem|NN diet|NN term|NN hypoglycemia|DS syndrome|NN condition|NN symptom|NN eate|NN blood|NN sugar|NN level|NN content|NN 
+sign|NN symptom|NN system|NN effect|NN cause|NN illness|NN hormone|NN deficiency|NN diagnosis|NN method|NN measurement|NN age|NN test|NN diagnosis|NN prevention|NN treatment|NN history|NN reference|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN manifestation|NN hormone|NN glucagon|NN glucose|NN effect|NN brain|NN sugar|NN 
+anxiety|ST nervousness|NN tachycardia|DS sweate|NN feel|NN warmth|NN pallor|NN coldness|NN pupil|NN hunger|NN nausea|ST discomfort|NN headache|ST 
+think|NN judgment|NN depression|ST concern|NN feel|NN numbness|NN pin|NN needle|NN irritability|ST belligerence|NN rage|NN personality|NN change|NN lability|NN fatigue|ST weakness|ST apathy|ST lethargy|NN daydream|NN sleep|NN confusion|ST memory|NN loss|NN dizziness|ST delirium|DS look|NN vision|NN vision|NN flashe|NN light|NN field|NN vision|NN behavior|NN difficulty|NN speech|NN drunkenness|NN motor|NN deficit|NN paralysis|ST headache|ST coma|NN breath|NN seizure|NN 
+manifestation|NN case|NN hypoglycemia|DS 
+order|NN appearance|NN symptom|NN symptom|NN 
+manifestation|NN age|NN severity|NN hypoglycemia|DS speed|NN decline|NN 
+children|NN vomit|NN morn|NN hypoglycemia|DS 
+children|NN adult|NN hypoglycemia|DS mania|ST illness|NN drug|NN intoxication|NN drunkenness|NN 
+hypoglycemia|DS stroke-like|NN effect|NN malaise|ST 
+symptom|NN person|NN episode|NN episode|NN speed|NN glucose|NN level|NN incident|NN 
+hypoglycemia|DS irritability|ST jitter|NN jerk|NN distress|NN episode|NN hypothermia|DS refusal|NN seizure|NN spell|NN 
+hypoglycemia|DS asphyxia|NN sepsis|DS heart|NN failure|NN 
+patient|NN brain|NN glucose|NN level|NN reduction|NN symptom|NN impairment|NN 
+patient|NN phenomenon|NN hypoglycemia|DS unawareness|NN problem|NN control|NN 
+aspect|NN phenomenon|NN type|NN hypoglycemia|DS diagnosis|NN hypoglycemia|DS treatment|NN 
+example|NN symptom|NN sleep|NN bed|NN sheet|NN clothe|NN perspiration|ST 
+nightmare|NN act|NN sign|NN hypoglycemia|DS 
+individual|NN sign|NN hypoglycemia|DS 
+case|NN hypoglycemia|DS seizure|NN unconsciousness|ST harm|NN brain|NN 
+case|NN death|NN damage|NN episode|NN unconsciousness|ST interference|NN disease|NN type|NN vulnerability|NN 
+brain|NN damage|NN death|NN hypoglycemia|DS 
+research|NN adult|NN efficiency|NN blood|NN glucose|NN mm|NN 
+defense|NN mechanism|NN adrenaline|NN glucagon|NN threshold|NN level|NN mm|NN people|NN hypoglycemic|NN symptom|NN shakiness|NN impairment|NN glucose|NN mm|NN people|NN glucose|NN level|NN morn|NN effect|NN 
+brain|NN effect|NN hypoglycemia|DS glucose|NN problem|NN person|NN doctor|NN term|NN hypoglycemia|DS glucose|NN level|NN symptom|NN brain|NN effect|NN 
+presence|NN part|NN definition|NN symptom|NN effect|NN condition|NN people|NN glucose|NN level|NN threshold|NN symptom|NN impairment|NN warn|NN measurement|NN method|NN glucose|NN meter|NN level|NN 
+hypoglycemia|DS unconsciousness|ST seizure|NN restoration|NN blood|NN glucose|NN 
+person|NN failure|NN carbohydrate|NN symptom|NN minute|NN likelihood|NN hypoglycemia|DS cause|NN symptom|NN 
+hypoglycemia|DS person|NN amount|NN glucose|NN blood|NN glucose|NN level|NN clue|NN etiology|NN 
+requirement|NN mgkgminute|NN infant|NN mgkgminute|NN children|NN adult|NN evidence|NN 
+context|NN glucose|NN infusion|NN rate|NN 
+blood|NN glucose|NN response|NN glucagon|NN glucose|NN type|NN hypoglycemia|DS 
+rise|NN blood|NN glucose|NN insulin|NN excess|NN cause|NN hypoglycemia|DS 
+hypoglycemia|DS risk|NN disease|NN cause|NN article|NN list|NN cause|NN hypoglycemia|DS 
+cause|NN hypoglycemia|DS medication|NN diabete|NN mellitus|NN insulin|NN risk|NN diabetics|NN alcohol|NN cause|NN hypoglycemia|DS kidney|NN failure|NN tumor|NN liver|NN disease|NN hypothyroidism|DS starvation|NN error|NN metabolism|NN infection|NN hypoglycemia|DS number|NN drug|NN alcohol|NN hypoglycemia|DS baby|NN hour|NN error|NN metabolism|NN lack|NN enzyme|NN glycogen|NN glycogen|NN storage|NN type|NN 
+illness|NN hypoglycemia|DS disease|NN organ|NN system|NN hypoglycemia|DS problem|NN 
+person|NN care|NN unit|NN eate|NN hypoglycemia|DS variety|NN circumstance|NN care|NN disease|NN 
+hypoglycemia|DS circumstance|NN healthcare|NN 
+type|NN hypoglycemia|DS disease|NN problem|NN 
+hormone|NN deficiency|NN 
+disease|NN glucagon|NN epinephrine|NN hypoglycemia|DS cause|NN children|NN 
+animal|NN tissue|NN brain|NN metabolism|NN glucose|NN fuel|NN circumstance|NN 
+amount|NN glucose|NN glycogen|NN astrocyte|NN minute|NN 
+purpose|NN brain|NN supply|NN glucose|NN blood|NN tissue|NN system|NN neuron|NN 
+amount|NN glucose|NN blood|NN brain|NN organ|NN 
+people|NN reduction|NN efficiency|NN glucose|NN mm|NN 
+impairment|NN action|NN judgment|NN mm|NN 
+blood|NN glucose|NN level|NN fall|NN mm|NN neuron|NN coma|NN 
+brain|NN effect|NN 
+importance|NN supply|NN glucose|NN brain|NN number|NN response|NN glucose|NN level|NN 
+tend|NN blood|NN sugar|NN glycogenolysis|NN gluconeogenesis|NN fuel|NN 
+blood|NN sugar|NN level|NN liver|NN storage|NN glycogen|NN glucose|NN bloodstream|NN person|NN coma|NN time|NN 
+hypoglycemia|DS effect|NN brain|NN brain|NN response|NN hypoglycemia|DS 
+hypoglycemia|DS damage|NN range|NN 
+impairment|NN function|NN motor|NN control|NN consciousness|NN 
+likelihood|NN brain|NN damage|NN instance|NN hypoglycemia|DS multitude|NN factor|NN age|NN blood|NN brain|NN glucose|NN experience|NN problem|NN hypoxia|NN availability|NN fuel|NN 
+prior|NN hypoglycemia|DS response|NN future|NN hypoglycemia|DS 
+mechanism|NN counterregulation|NN 
+type|NN diabetics|NN bed|NN morn|NN hypoglycemia|DS pathology|NN heart_attack|DS case|NN report|NN case|NN individual|NN bed|NN glucose|NN monitor|NN history|NN glucose|NN level|NN event|NN patient|NN hypoglycemic|NN incident|NN author|NN counter-regulatory|NN response|NN abnormality|NN autopsy|NN 
+majority|NN hypoglycemic|NN episode|NN result|NN harm|NN diagnosis|NN 
+glucose|NN level|NN hypoglycemia|DS 
+diabetics|NN level|NN adult|NN diabete|NN symptom|NN hypoglycemia|DS hypoglycemia|DS time|NN symptom|NN improvement|NN blood|NN sugar|NN diagnosis|NN triad|NN level|NN eate|NN exercise|NN newborn|NN level|NN symptom|NN hypoglycemia|DS test|NN cause|NN insulin|NN c|NN peptide|NN level|NN blood|NN blood|NN sugar|NN condition|NN 
+hour|NN period|NN blood|NN plasma|NN glucose|NN level|NN mgdl11|NN mgdl|NN limit|NN glucose|NN symptom|NN hypoglycemia|DS 
+case|NN hypoglycemia|DS symptom|NN method|NN condition|NN 
+hospital|NN duration|NN age|NN patient|NN response|NN 
+adult|NN glucose|NN level|NN mm|NN hour|NN child|NN hour|NN infant|NN hour|NN 
+purpose|NN fast|NN person|NN blood|NN glucose|NN fast|NN change|NN 
+end|NN fast|NN insulin|NN 
+patient|NN blood|NN glucose|NN level|NN specimen|NN glucose|NN 
+unpleasantness|NN expense|NN fast|NN way|NN number|NN form|NN hypoglycemia|DS insulin|NN 
+level|NN glucose|NN hypoglycemia|DS measurement|NN method|NN age|NN person|NN presence|NN absence|NN effect|NN purpose|NN definition|NN 
+disagreement|NN range|NN blood|NN sugar|NN debate|NN degree|NN hypoglycemia|DS warrant|NN evaluation|NN treatment|NN harm|NN 
+blood|NN glucose|NN borderline|NN range|NN mgdl|NN mm|NN hypoglycemia|DS 
+people|NN cutoff|NN level|NN glucose|NN context|NN purpose|NN 
+variation|NN society|NN diagnosis|NN hypoglycemia|DS problem|NN individual|NN combination|NN glucose|NN level|NN evidence|NN effect|NN 
+concentration|NN milligram|NN mgdl|NN ml|NN lebanon|NN united|NN states|NN japan|NN portugal|NN spain|NN france|NN belgium|NN egypt|NN turkey|NN saudi|NN arabia|NN colombia|NN india|NN israel|NN millimole|NN mmoll|NN mm|NN unit|NN rest|NN world|NN 
+concentration|NN mgdl|NN mass|NN glucose|NN 
+example|NN glucose|NN concentration|NN mgdl|NN mmoll|NN mm|NN 
+circumstance|NN hypoglycemia|DS clue|NN diagnosis|NN 
+circumstance|NN age|NN person|NN time|NN day|NN time|NN meal|NN episode|NN status|NN development|NN drug|NN toxin|NN insulin|NN diabete|NN drug|NN disease|NN organ|NN system|NN family|NN history|NN response|NN treatment|NN 
+hypoglycemia|DS record|NN diary|NN spell|NN month|NN circumstance|NN spell|NN time|NN day|NN relation|NN meal|NN nature|NN meal|NN response|NN carbohydrate|NN nature|NN cause|NN hypoglycemia|DS 
+method|NN measurement|NN 
+blood|NN glucose|NN level|NN article|NN plasma|NN serum|NN level|NN glucose|NN oxidase|NN method|NN laboratory|NN 
+purpose|NN plasma|NN serum|NN level|NN 
+plasma|NN serum|NN level|NN level|NN level|NN difference|NN level|NN state|NN state|NN hand|NN whole|NN blood|NN glucose|NN level|NN meter|NN plasma|NN level|NN fingerstick|NN glucose|NN meter|NN laboratory|NN value|NN conditionscitation|NN home|NN use|NN investigation|NN hypoglycemia|DS number|NN word|NN meter|NN glucose|NN read|NN mgdl|NN person|NN laboratory|NN serum|NN glucose|NN mgdl|NN variation|NN world|NN home|NN use|NN 
+factor|NN glucose|NN measurement|NN delay|NN blood|NN draw|NN 
+disparity|NN blood|NN concentration|NN hematocrit|NN infant|NN adult|NN hematocrit|NN glucose|NN measurement|NN meter|NN 
+specimen|NN fluoride|NN tube|NN serum|NN plasma|NN cell|NN glucose|NN metabolism|NN glucose|NN rate|NN mgdlh|NN presence|NN leukocytosis|NN delay|NN blood|NN satellite|NN site|NN laboratory|NN hour|NN routine|NN process|NN cause|NN glucose|NN level|NN chemistry|NN panel|NN 
+children|NN blood|NN sugar|NN level|NN adult|NN 
+fast|NN glucose|NN level|NN mm|NN adult|NN children|NN mm|NN morn|NN fast|NN state|NN duration|NN fast|NN percentage|NN infant|NN children|NN plasma|NN glucose|NN level|NN symptom|NN 
+range|NN blood|NN sugar|NN brain|NN fuel|NN glucose|NN level|NN adult|NN 
+expert|NN significance|NN risk|NN level|NN trend|NN maintenance|NN glucose|NN level|NN 6070|NN day|NN birth|NN 
+hypoglycemia|DS case|NN respect|NN relationship|NN glucose|NN hypoglycemic|NN symptom|NN reason|NN 
+home|NN glucose|NN meter|NN read|NN probability|NN read|NN symptom|NN hypoglycemia|DS person|NN insulin|NN test|NN 
+follow|NN list|NN hormone|NN metabolite|NN sample|NN 
+test|NN patient|NN 
+version|NN insulin|NN electrolyte|NN c-peptide|NN drug|NN screen|NN adult|NN growth|NN hormone|NN children|NN 
+value|NN test|NN diagnose|NN patient|NN circumstance|NN 
+level|NN change|NN minute|NN glucose|NN value|NN hypoglycemia|DS 
+list|NN hypoglycemia|DS specimen|NN 
+part|NN value|NN sample|NN proof|NN symptom|NN hypoglycemia|DS 
+measurement|NN hormone|NN metabolite|NN time|NN hypoglycemia|DS organ|NN body|NN system|NN 
+example|NN blood|NN glucose|NN hormone|NN glucose|NN insulin|NN secretion|NN 
+alcohol|NN intoxication|NN prevention|NN 
+mean|NN episode|NN hypoglycemia|DS cause|NN 
+risk|NN episode|NN hypoglycemia|DS dose|NN insulin|NN medication|NN attention|NN blood|NN sugar|NN balance|NN hour|NN level|NN exercise|NN alcohol|NN intake|NN 
+error|NN metabolism|NN avoidance|NN shorten|NN interval|NN carbohydrate|NN 
+disorder|NN type|NN glycogen_storage_disease|DS form|NN cornstarch|NN hour|NN infusion|NN 
+treatment|NN hypoglycemia|DS form|NN severity|NN 
+form|NN hyperinsulinism|NN octreotide|NN 
+removal|NN part|NN pancrea|NN risk|NN insulin-produce|NN tumor|NN pancrea|NN 
+hyperinsulinism|NN medication|NN pancreatectomy|NN treatment|NN resort|NN condition|NN complication|NN 
+hypoglycemia|DS due|NN hormone|NN deficiency|NN insufficiency|NN hormone|NN 
+hypoglycemia|DS due|NN dump|NN syndrome|NN post-surgical|NN condition|NN diet|NN 
+fat|NN protein|NN carbohydrate|NN digestion|NN insulin|NN secretion|NN 
+form|NN treatment|NN inhibitor|NN starch|NN digestion|NN 
+hypoglycemia|DS hypoglycemia|DS level|NN nuisance|NN fat|NN protein|NN carbohydrate|NN morn|NN afternoon|NN snack|NN alcohol|NN intake|NN 
+syndrome|NN glucose|NN level|NN time|NN symptom|NN management|NN challenge|NN 
+people|NN improvement|NN eate|NN pattern|NN meal|NN sugar|NN meal|NN carbohydrate|NN intake|NN stimulant|NN caffeine|NN lifestyle|NN change|NN stress|NN 
+section|NN article|NN 
+treatment|NN form|NN hypoglycemia|DS diabete|NN blood|NN sugar|NN eate|NN carbohydrate|NN sugar|NN cause|NN measure|NN episode|NN 
+treatment|NN form|NN hypoglycemia|DS carbohydrate|NN ingestion|NN episode|NN 
+blood|NN glucose|NN minute|NN gram|NN carbohydrate|NN food|NN drink|NN person|NN 
+amount|NN carbohydrate|NN ounce|NN ml|NN apple|NN grape|NN juice|NN fruit|NN juice|NN proportion|NN fructose|NN dextrose|NN 
+ounce|NN ml|NN non-diet|NN soda|NN slice|NN bread|NN cracker|NN serve|NN food|NN 
+glucose|NN person|NN fat|NN protein|NN digestion|NN 
+symptom|NN minute|NN recovery|NN minute|NN 
+recovery|NN person|NN diabete|NN 
+mnemonic|NN diabete|NN association|NN rule|NN gram|NN carbohydrate|NN wait|NN glucose|NN variable|NN individual|NN mgdl|NN 
+person|NN effect|NN hypoglycemia|DS seizure|NN unconsciousness|ST mouth|NN personnel|NN paramedics|NN personnel|NN access|NN dextrose|NN concentration|NN age|NN infant|NN dextrose|NN children|NN dextrose|NN adult|NN dextrose|NN 
+care|NN solution|NN skin|NN necrosis|NN sclerosis|NN vein|NN fluid|NN electrolyte|NN disturbance|NN 
+access|NN patient|NN milligram|NN glucagon|NN injection|NN 
+treatment|NN information|NN article|NN diabetic|NN hypoglycemia|DS 
+person|NN effect|NN ability|NN glucose|NN 
+drink|NN lucozade|NN hypoglycemia|DS kingdom|NN glucose|NN sugar|NN hypoglycemia|DS 
+situation|NN starch|NN glucose|NN sucrose|NN person|NN 
+acarbose|NN alpha-glucosidase|NN inhibitor|NN starch|NN sugar|NN body|NN patient|NN medication|NN food|NN glucose|NN tablet|NN honey|NN juice|NN hypoglycemia|DS 
+hypoglycemia|DS james|NN frederick|NN insulin|NN 
+assay|NN activity|NN insulin|NN 
+insulin|NN rabbit|NN reduction|NN blood|NN glucose|NN level|NN 
+blood|NN glucose|NN time|NN step|NN 
+rabbit|NN dose|NN insulin|NN rabbit|NN coma|NN 
+observation|NN assay|NN 
+unit|NN insulin|NN amount|NN convuls|NN reaction|NN rabbit|NN 
+money|NN rabbit|NN glucose|NN 
+word|NN hypoglycemia|DS hypoglycemia|DS hypoglycemia|DS 
+term|NN hypoglycemia|DS greek|NN haima|NN 
+hypoglycemia|DS journal|NN hypoglycemia|DS hypoglycemia|DS 

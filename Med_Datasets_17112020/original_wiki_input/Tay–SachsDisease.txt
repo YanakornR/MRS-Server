@@ -1,0 +1,166 @@
+Tay–Sachs disease,GM2 gangliosidosis,hexosaminidase A deficiency
+From Wikipedia, the free encyclopedia
+  (Redirected from Tay-Sachs disease)
+Jump to navigation
+Jump to search
+Tay–Sachs disease
+Other names	GM2 gangliosidosis, hexosaminidase A deficiency[1]
+Tay-sachsUMich.jpg
+Cherry-red spot as seen in the retina in Tay–Sachs disease. The fovea's center appears bright red because it is surrounded by a whiter than usual area.
+Specialty	Medical genetics
+Symptoms	Initially: Decreased ability to turn over, sit, or crawl[1]
+Later: Seizures, hearing loss, inability to move[1]
+Usual onset	Three to six months of age[1]
+Duration	Long term[2]
+Types	Infantile, juvenile, late-onset[2]
+Causes	Genetic (autosomal recessive)[1]
+Diagnostic method	Testing blood hexosaminidase A levels, genetic testing[2]
+Differential diagnosis	Sandhoff disease, Leigh syndrome, neuronal ceroid lipofuscinoses[2]
+Treatment	Supportive care, psychosocial support[2]
+Prognosis	Death often occurs in early childhood[1]
+Frequency	Rare in the general population[1]
+
+Tay–Sachs disease is a genetic disorder that results in the destruction of nerve cells in the brain and spinal cord.[1] The most common type, known as infantile Tay–Sachs disease, becomes apparent around three to six months of age with the baby losing the ability to turn over, sit, or crawl.[1] This is then followed by seizures, hearing loss, and inability to move.[1] Death usually occurs in early childhood.[1] Less commonly the disease may occur in later childhood or adulthood.[1] These forms are generally milder in nature.[1]
+
+Tay–Sachs disease is caused by a genetic mutation in the HEXA gene on chromosome 15.[1] It is inherited from a person's parents in an autosomal recessive manner.[1] The mutation results in problems with an enzyme called beta-hexosaminidase A which results in the buildup of the molecule GM2 ganglioside within cells, leading to toxicity.[1] Diagnosis is by measuring the blood hexosaminidase A level or genetic testing.[2] It is a type of GM2 gangliosidosis and a type of sphingolipidosis.[3]
+
+The treatment of Tay–Sachs disease is supportive in nature.[2] This may involve multiple specialities as well as psychosocial support for the family.[2] The disease is rare in the general population.[1] In Ashkenazi Jews, French Canadians of southeastern Quebec, and Cajuns of southern Louisiana, the condition is more common.[2][1] Approximately 1 in 3,600 Ashkenazi Jews at birth are affected.[2]
+
+The disease is named after Waren Tay, who in 1881 first described a symptomatic red spot on the retina of the eye; and Bernard Sachs, who described in 1887 the cellular changes and noted an increased rate of disease in Ashkenazi Jews.[4] Carriers of a single Tay–Sachs allele are typically normal.[2] It has been hypothesized that being a carrier may confer protection from another condition such as tuberculosis, explaining the persistence of the allele in certain populations.[5] Researchers are looking at gene therapy or enzyme replacement therapy as possible treatments.[2]
+Contents
+
+    1 Signs and symptoms
+        1.1 Infantile
+        1.2 Juvenile
+        1.3 Late-onset
+    2 Genetics
+    3 Pathophysiology
+    4 Diagnosis
+    5 Prevention
+    6 Management
+    7 Outcomes
+    8 Epidemiology
+    9 History
+    10 Society and culture
+    11 Research directions
+        11.1 Enzyme replacement therapy
+        11.2 Jacob sheep model
+        11.3 Substrate reduction therapy
+        11.4 Increasing β-hexosaminidase A activity
+        11.5 Cord blood transplant
+    12 References
+    13 External links
+
+Signs and symptoms
+
+Tay–Sachs disease is typically first noticed in infants around 6 months old displaying an abnormally strong response to sudden noises or other stimuli, known as the "startle response". There may also be listlessness or muscle stiffness (hypertonia). The disease is classified into several forms, which are differentiated based on the onset age of neurological symptoms.[6][7]
+Infantile
+
+Infants with Tay–Sachs disease appear to develop normally for the first six months after birth. Then, as neurons become distended with gangliosides, a relentless deterioration of mental and physical abilities begins. The child may become blind, deaf, unable to swallow, atrophied, and paralytic. Death usually occurs before the age of four.[6]
+Juvenile
+
+Juvenile Tay–Sachs disease is rarer than other forms of Tay–Sachs, and usually is initially seen in children between two and ten years old. People with Tay–Sachs disease develop cognitive and motor skill deterioration, dysarthria, dysphagia, ataxia, and spasticity.[8] Death usually occurs between the age of five to fifteen years.[9]
+Late-onset
+
+A rare form of this disease, known as Adult-Onset or Late-Onset Tay–Sachs disease, usually has its first symptoms during the 30s or 40s. In contrast to the other forms, late-onset Tay–Sachs disease is usually not fatal as the effects can stop progressing. It is frequently misdiagnosed. It is characterized by unsteadiness of gait and progressive neurological deterioration. Symptoms of late-onset Tay–Sachs – which typically begin to be seen in adolescence or early adulthood – include speech and swallowing difficulties, unsteadiness of gait, spasticity, cognitive decline, and psychiatric illness, particularly a schizophrenia-like psychosis.[10] People with late-onset Tay–Sachs may become full-time wheelchair users in adulthood.
+
+Until the 1970s and 1980s, when the disease's molecular genetics became known, the juvenile and adult forms of the disease were not always recognized as variants of Tay–Sachs disease. Post-infantile Tay–Sachs was often misdiagnosed as another neurological disorder, such as Friedreich's ataxia.[11]
+Genetics
+Tay–Sachs disease is inherited in the autosomal recessive pattern, depicted above.
+The HEXA gene is located on the long (q) arm of human chromosome 15, between positions 23 and 24.
+
+Tay–Sachs disease is an autosomal recessive genetic disorder, meaning that when both parents are carriers, there is a 25% risk of giving birth to an affected child with each pregnancy. The affected child would have received a mutated copy of the gene from each parent.[6] Tay–Sachs results from mutations in the HEXA gene on chromosome 15, which encodes the alpha-subunit of beta-N-acetylhexosaminidase A, a lysosomal enzyme. By 2000, more than 100 different mutations had been identified in the human HEXA gene.[12] These mutations have included single base insertions and deletions, splice phase mutations, missense mutations, and other more complex patterns. Each of these mutations alters the gene's protein product (i.e., the enzyme), sometimes severely inhibiting its function.[13] In recent years, population studies and pedigree analysis have shown how such mutations arise and spread within small founder populations. Initial research focused on several such founder populations:
+
+    Ashkenazi Jews. A four base pair insertion in exon 11 (1278insTATC) results in an altered reading frame for the HEXA gene. This mutation is the most prevalent mutation in the Ashkenazi Jewish population, and leads to the infantile form of Tay–Sachs disease.[14]
+    Cajuns. The same 1278insTATC mutation found among Ashkenazi Jews occurs in the Cajun population of southern Louisiana. Researchers have traced the ancestry of carriers from Louisiana families back to a single founder couple – not known to be Jewish – who lived in France in the 18th century.[15]
+    French Canadians. Two mutations, unrelated to the Ashkenazi/Cajun mutation, are absent in France but common among French Canadians living in eastern Quebec and Acadians from the Province of New Brunswick. Pedigree analysis suggests the mutations were uncommon before the late 17th century.[16][17]
+
+In the 1960s and early 1970s, when the biochemical basis of Tay–Sachs disease was first becoming known, no mutations had been sequenced directly for genetic diseases. Researchers of that era did not yet know how common polymorphisms would prove to be. The "Jewish Fur Trader Hypothesis," with its implication that a single mutation must have spread from one population into another, reflected the knowledge at the time. Subsequent research, however, has proven that a large variety of different HEXA mutations can cause the disease. Because Tay–Sachs was one of the first genetic disorders for which widespread genetic screening was possible, it is one of the first genetic disorders in which the prevalence of compound heterozygosity has been demonstrated.[18]
+
+Compound heterozygosity ultimately explains the disease's variability, including the late-onset forms. The disease can potentially result from the inheritance of two unrelated mutations in the HEXA gene, one from each parent. Classic infantile Tay–Sachs disease results when a child has inherited mutations from both parents that completely stop the biodegradation of gangliosides. Late onset forms occur due to the diverse mutation base – people with Tay–Sachs disease may technically be heterozygotes, with two differing HEXA mutations that both inactivate, alter, or inhibit enzyme activity. When a patient has at least one HEXA copy that still enables some level of hexosaminidase A activity, a later onset disease form occurs. When disease occurs because of two unrelated mutations, the patient is said to be a compound heterozygote.[19]
+
+Heterozygous carriers (individuals who inherit one mutant allele) show abnormal enzyme activity but manifest no disease symptoms. This phenomenon is called dominance; the biochemical reason for wild-type alleles' dominance over nonfunctional mutant alleles in inborn errors of metabolism comes from how enzymes function. Enzymes are protein catalysts for chemical reactions; as catalysts, they speed up reactions without being used up in the process, so only small enzyme quantities are required to carry out a reaction. Someone homozygous for a nonfunctional mutation in the enzyme-encoding gene has little or no enzyme activity, so will manifest the abnormal phenotype. A heterozygote (heterozygous individual) has at least half of the normal enzyme activity level, due to expression of the wild-type allele. This level is normally enough to enable normal function and thus prevent phenotypic expression.[20]
+Pathophysiology
+
+Tay–Sachs disease is caused by insufficient activity of the enzyme hexosaminidase A. Hexosaminidase A is a vital hydrolytic enzyme, found in the lysosomes, that breaks down sphingolipids. When hexosaminidase A is no longer functioning properly, the lipids accumulate in the brain and interfere with normal biological processes. Hexosaminidase A specifically breaks down fatty acid derivatives called gangliosides; these are made and biodegraded rapidly in early life as the brain develops. Patients with and carriers of Tay–Sachs can be identified by a simple blood test that measures hexosaminidase A activity.[6]
+
+The hydrolysis of GM2-ganglioside requires three proteins. Two of them are subunits of hexosaminidase A; the third is a small glycolipid transport protein, the GM2 activator protein (GM2A), which acts as a substrate-specific cofactor for the enzyme. Deficiency in any one of these proteins leads to ganglioside storage, primarily in the lysosomes of neurons. Tay–Sachs disease (along with AB-variant GM2-gangliosidosis and Sandhoff disease) occurs because a mutation inherited from both parents deactivates or inhibits this process. Most Tay–Sachs mutations probably do not directly affect protein functional elements (e.g., the active site). Instead, they cause incorrect folding (disrupting function) or disable intracellular transport.[21]
+Diagnosis
+
+In patients with a clinical suspicion for Tay–Sachs disease, with any age of onset, the initial testing involves an enzyme assay to measure the activity of hexosaminidase in serum, fibroblasts, or leukocytes. Total hexosaminidase enzyme activity is decreased in individuals with Tay–Sachs as is the percentage of hexosaminidase A. After confirmation of decreased enzyme activity in an individual, confirmation by molecular analysis can be pursued.[22] All patients with infantile onset Tay–Sachs disease have a "cherry red" macula in the retina, easily observable by a physician using an ophthalmoscope.[6][23] This red spot is a retinal area that appears red because of gangliosides in the surrounding retinal ganglion cells. The choroidal circulation is showing through "red" in this foveal region where all retinal ganglion cells are pushed aside to increase visual acuity. Thus, this cherry-red spot is the only normal part of the retina; it shows up in contrast to the rest of the retina. Microscopic analysis of the retinal neurons shows they are distended from excess ganglioside storage.[24] Unlike other lysosomal storage diseases (e.g., Gaucher disease, Niemann–Pick disease, and Sandhoff disease), hepatosplenomegaly (liver and spleen enlargement) is not seen in Tay–Sachs.[25]
+Prevention
+Main article: Prevention of Tay–Sachs disease
+
+Three main approaches have been used to prevent or reduce the incidence of Tay–Sachs:
+
+    Prenatal diagnosis. If both parents are identified as carriers, prenatal genetic testing can determine whether the fetus has inherited a defective gene copy from both parents.[26] Chorionic villus sampling (CVS), the most common form of prenatal diagnosis, can be performed between 10 and 14 weeks of gestation. Amniocentesis is usually performed at 15–18 weeks. These procedures have risks of miscarriage of 1% or less.[27][28]
+    Preimplantation genetic diagnosis. By retrieving the mother's eggs for in vitro fertilization, it is possible to test the embryo for the disorder prior to implantation. Healthy embryos are then selected and transferred into the mother's womb, while unhealthy embryos are discarded. In addition to Tay–Sachs disease, preimplantation genetic diagnosis has been used to prevent cystic fibrosis and sickle cell anemia among other genetic disorders.[29]
+    Mate selection. In Orthodox Jewish circles, the organization Dor Yeshorim carries out an anonymous screening program so that carriers for Tay–Sachs and other genetic disorders can avoid marrying each other.[30]
+
+Management
+
+As of 2010 there was no treatment that addressed the cause of Tay–Sachs disease or could slow its progression; people receive supportive care to ease the symptoms and extend life by reducing the chance of contracting infections.[31] Infants are given feeding tubes when they can no longer swallow.[32] In late-onset Tay–Sachs, medication (e.g., lithium for depression) can sometimes control psychiatric symptoms and seizures, although some medications (e.g., tricyclic antidepressants, phenothiazines, haloperidol, and risperidone) are associated with significant adverse effects.[19][33]
+Outcomes
+
+As of 2010, even with the best care, children with infantile Tay–Sachs disease usually die by the age of 4. Children with the juvenile form are likely to die from the ages 5–15, while those with the adult form will probably not be affected.[31]
+Epidemiology
+Founder effects occur when a small number of individuals from a larger population establish a new population. In this illustration, the original population is on the left with three possible founder populations on the right. Two of the three founder populations are genetically distinct from the original population.
+
+Ashkenazi Jews have a high incidence of Tay–Sachs and other lipid storage diseases. In the United States, about 1 in 27 to 1 in 30 Ashkenazi Jews is a recessive carrier. The disease incidence is about 1 in every 3,500 newborn among Ashkenazi Jews.[34] French Canadians and the Cajun community of Louisiana have an occurrence similar to the Ashkenazi Jews. Irish Americans have a 1 in 50 chance of being a carrier.[citation needed] In the general population, the incidence of carriers as heterozygotes is about 1 in 300.[7] The incidence is approximately 1 in 320,000 newborns in the general population in United States.[35]
+
+Three general classes of theories have been proposed to explain the high frequency of Tay–Sachs carriers in the Ashkenazi Jewish population:
+
+    Heterozygote advantage.[36] When applied to a particular allele, this theory posits that mutation carriers have a selective advantage, perhaps in a particular environment.[37]
+    Reproductive compensation. Parents who lose a child because of disease tend to "compensate" by having additional children to replace them. This phenomenon may maintain and possibly even increase the incidence of autosomal recessive disease.[38]
+    Founder effect. This hypothesis states that the high incidence of the 1278insTATC chromosomes[37] is the result of an elevated allele frequency[36] that existed by chance in an early founder population.[37]
+
+Tay–Sachs disease was one of the first genetic disorders for which epidemiology was studied using molecular data. Studies of Tay–Sachs mutations using new molecular techniques such as linkage disequilibrium and coalescence analysis have brought an emerging consensus among researchers supporting the founder effect theory.[37][39][40]
+History
+Main article: History of Tay–Sachs disease
+
+Waren Tay and Bernard Sachs, two physicians, described the disease's progression and provided differential diagnostic criteria to distinguish it from other neurological disorders with similar symptoms.
+
+Both Tay and Sachs reported their first cases among Ashkenazi Jewish families. Tay reported his observations in 1881 in the first volume of the proceedings of the British Ophthalmological Society, of which he was a founding member.[41] By 1884, he had seen three cases in a single family. Years later, Bernard Sachs, an American neurologist, reported similar findings when he reported a case of "arrested cerebral development" to other New York Neurological Society members.[42][43]
+
+Sachs, who recognized that the disease had a familial basis, proposed that the disease should be called amaurotic familial idiocy. However, its genetic basis was still poorly understood. Although Gregor Mendel had published his article on the genetics of peas in 1865, Mendel's paper was largely forgotten for more than a generation – not rediscovered by other scientists until 1899. Thus, the Mendelian model for explaining Tay–Sachs was unavailable to scientists and doctors of the time. The first edition of the Jewish Encyclopedia, published in 12 volumes between 1901 and 1906, described what was then known about the disease:[44]
+
+    It is a curious fact that amaurotic family idiocy, a rare and fatal disease of children, occurs mostly among Jews. The largest number of cases has been observed in the United States—over thirty in number. It was at first thought that this was an exclusively Jewish disease because most of the cases at first reported were between Russian and Polish Jews; but recently there have been reported cases occurring in non-Jewish children. The chief characteristics of the disease are progressive mental and physical enfeeblement; weakness and paralysis of all the extremities; and marasmus, associated with symmetrical changes in the macula lutea. On investigation of the reported cases, they found that neither consanguinity nor syphilitic, alcoholic, or nervous antecedents in the family history are factors in the etiology of the disease. No preventive measures have as yet been discovered, and no treatment has been of benefit, all the cases having terminated fatally.
+
+Jewish immigration to the United States peaked in the period 1880–1924, with the immigrants arriving from Russia and countries in Eastern Europe; this was also a period of nativism (hostility to immigrants) in the United States. Opponents of immigration often questioned whether immigrants from southern and eastern Europe could be assimilated into American society. Reports of Tay–Sachs disease contributed to a perception among nativists that Jews were an inferior race.[43]
+
+In 1969, Shintaro Okada and John S. O'Brien showed that Tay–Sachs disease was caused by an enzyme defect; he also proved that Tay–Sachs patients could be diagnosed by an assay of hexosaminidase A activity.[45] The further development of enzyme assays demonstrated that levels of hexosaminidases A and B could be measured in patients and carriers, allowing the reliable detection of heterozygotes. During the early 1970s, researchers developed protocols for newborn testing, carrier screening, and pre-natal diagnosis.[30][46] By the end of 1979, researchers had identified three variant forms of GM2 gangliosidosis, including Sandhoff disease and the AB variant of GM2-gangliosidosis, accounting for false negatives in carrier testing.[47]
+Society and culture
+Main article: Societal and cultural aspects of Tay–Sachs disease
+
+Since carrier testing for Tay–Sachs began in 1971, millions of Ashkenazi Jews have been screened as carriers. Jewish communities embraced the cause of genetic screening from the 1970s on. The success with Tay–Sachs disease has led Israel to become the first country that offers free genetic screening and counseling for all couples and opened discussions about the proper scope of genetic testing for other disorders in Israel.[48]
+
+Because Tay–Sachs disease was one of the first autosomal recessive genetic disorders for which there was an enzyme assay test (prior to polymerase chain reaction testing methods), it was intensely studied as a model for all such diseases, and researchers sought evidence of a selective process. A continuing controversy is whether heterozygotes (carriers) have or had a selective advantage. The presence of four different lysosomal storage disorders in the Ashkenazi Jewish population suggests a past selective advantage for heterozygous carriers of these conditions."[39]
+
+This controversy among researchers has reflected three debates among geneticists at large:
+
+    Dominance versus overdominance. In applied genetics (selective and agricultural breeding), this controversy has reflected the century-long debate over whether dominance or overdominance provides the best explanation for heterosis (hybrid vigor).
+    The classical/balance controversy. The classical hypothesis of genetic variability, often associated with Hermann Muller, maintains that most genes are of a normal wild type, and that most individuals are homozygous for that wild type, while most selection is purifying selection that operates to eliminate deleterious alleles. The balancing hypothesis, often associated with Theodosius Dobzhansky, states that heterozygosity will be common at loci, and that it frequently reflects either directional selection or balancing selection.
+    Selectionists versus neutralists. In theoretical population genetics, selectionists emphasize the primacy of natural selection as a determinant of evolution and of variation within a population, while neutralists favor a form of Motoo Kimura's neutral theory of molecular evolution, which emphasizes the role of genetic drift.[49]
+
+Research directions
+Enzyme replacement therapy
+
+Enzyme replacement therapy techniques have been investigated for lysosomal storage disorders, and could potentially be used to treat Tay–Sachs as well. The goal would be to replace the nonfunctional enzyme, a process similar to insulin injections for diabetes. However, in previous studies, the HEXA enzyme itself has been thought to be too large to pass through the specialized cell layer in the blood vessels that forms the blood–brain barrier in humans.
+
+Researchers have also tried directly instilling the deficient enzyme hexosaminidase A into the cerebrospinal fluid (CSF) which bathes the brain. However, intracerebral neurons seem unable to take up this physically large molecule efficiently even when it is directly by them. Therefore, this approach to treatment of Tay–Sachs disease has also been ineffective so far.[50]
+Jacob sheep model
+
+Tay–Sachs disease exists in Jacob sheep.[51] The biochemical mechanism for this disease in the Jacob sheep is virtually identical to that in humans, wherein diminished activity of hexosaminidase A results in increased concentrations of GM2 ganglioside in the affected animal.[52] Sequencing of the HEXA gene cDNA of affected Jacobs sheep reveal an identical number of nucleotides and exons as in the human HEXA gene, and 86% nucleotide sequence identity.[51] A missense mutation (G444R)[53] was found in the HEXA cDNA of the affected sheep. This mutation is a single nucleotide change at the end of exon 11, resulting in that exon's deletion (before translation) via splicing. The Tay–Sachs model provided by the Jacob sheep is the first to offer promise as a means for gene therapy clinical trials, which may prove useful for disease treatment in humans.[51]
+Substrate reduction therapy
+
+Other experimental methods being researched involve substrate reduction therapy, which attempts to use alternative enzymes to increase the brain's catabolism of GM2 gangliosides to a point where residual degradative activity is sufficient to prevent substrate accumulation.[54][55] One experiment has demonstrated that using the enzyme sialidase allows the genetic defect to be effectively bypassed, and as a consequence, GM2 gangliosides are metabolized so that their levels become almost inconsequential. If a safe pharmacological treatment can be developed – one that increases expression of lysosomal sialidase in neurons without other toxicity – then this new form of therapy could essentially cure the disease.[56]
+
+Another metabolic therapy under investigation for Tay–Sachs disease uses miglustat.[57] This drug is a reversible inhibitor of the enzyme glucosylceramide synthase, which catalyzes the first step in synthesizing glucose-based glycosphingolipids like GM2 ganglioside.[58]
+Increasing β-hexosaminidase A activity
+
+As Tay–Sachs disease is a deficiency of β-hexosaminidase A, by getting a substance that increases its activity, people affected will not be deteriorating as fast or not at all. While for infantile Tay–Sachs disease, there is no β-hexosaminidase A so then the treatment would be ineffective. However, for people affected by Late-Onset Tay–Sachs disease, they still have β-hexosaminidase A. The drug pyrimethamine has been shown to increase activity of β-hexosaminidase A.[59] However, the increased levels of β-hexosaminidase A still fall far short of the desired "10% of normal HEXA", above which the phenotypic symptoms begin to disappear.[59]
+Cord blood transplant
+
+This is a highly invasive procedure which involves destroying the patient's blood system with chemotherapy and administering cord blood. Of five people who had received the treatment as of 2008, two were still alive after five years and they still had a great deal of health problems.[60]
+
+Critics point to its harsh nature, and that it is unapproved. It is also hard for the blood to cross the blood–brain barrier, as well as very expensive, as each unit of cord blood costs $25,000 and adults need many units of cord blood.[61] 

@@ -1,0 +1,1706 @@
+attention_deficit_hyperactivity_disorder|DS attention_deficit_hyperactivity_disorder|DS adhd|NN disorder|NN of|NN type|NN 
+difficulty|NN attention|NN activity|NN regard|NN consequence|NN person|NN age|NN 
+individual|NN adhd|NN problem|NN emotion|NN 
+symptom|NN person|NN year|NN month|NN cause|NN problem|NN in|NN set|NN school|NN home|NN activity|NN 
+in|NN child|NN problem|NN attention|NN in|NN school|NN performance|NN 
+association|NN disorder|NN substance|NN misuse|NN 
+in|NN society|NN people|NN adhd|NN attention|NN task|NN hyperfocus|NN 
+cause|NN disorder|NN in|NN child|NN adolescent|NN cause|NN in|NN majority|NN of|NN case|NN 
+factor|NN of|NN risk|NN 
+exposure|NN pregnancy|NN risk|NN 
+style|NN of|NN discipline|NN 
+of|NN child|NN criterion|NN criterion|NN 
+of|NN people|NN 
+rate|NN country|NN time|NN in|NN boy|NN in|NN girl|NN disorder|NN in|NN girl|NN symptom|NN of|NN boy|NN 
+of|NN people|NN in|NN childhood|NN continue|NN symptom|NN adulthood|NN condition|NN 
+in|NN adult|NN restlessness|NN hyperactivity|NN 
+skill|NN of|NN 
+adhd|NN adult|NN of|NN attention_deficit_hyperactivity_disorder|DS disorder|NN disorder|NN people|NN adhd|NN others|NN task|NN schoolwork|NN 
+psychiatry|NN pediatrics|NN specialty|NN symptom|NN difficulty|NN attention|NN activity|NN difficulty|NN behavior|NN age|NN onset|NN duration|NN method|NN diagnosis|NN month|NN factor|NN symptom|NN cause|NN child|NN conduct|NN disorder|NN defiant|NN disorder|NN disorder|NN bipolar_disorder|DS treatment|NN counsel|NN change|NN medication|NN medication|NN stimulant|NN atomoxetine|NN guanfacine|NN frequency|NN impairment|NN 
+condition|NN condition|NN level|NN of|NN activity|NN range|NN of|NN behavior|NN 
+management|NN recommendation|NN country|NN combination|NN of|NN counsel|NN change|NN medication|NN 
+guideline|NN medication|NN treatment|NN in|NN child|NN symptom|NN medication|NN in|NN symptom|NN refuse|NN fail|NN counsel|NN adult|NN medication|NN treatment|NN 
+guideline|NN management|NN line|NN in|NN child|NN medication|NN therapy|NN 
+treatment|NN stimulant|NN month|NN effect|NN 
+effectiveness|NN literature|NN symptom|NN of|NN century|NN 
+adhd|NN diagnosis|NN treatment|NN 
+controversy|NN clinician|NN teacher|NN policymakers|NN parent|NN media|NN 
+topic|NN adhd|NN cause|NN use|NN of|NN medication|NN in|NN treatment|NN 
+provider|NN disorder|NN in|NN child|NN adult|NN debate|NN in|NN community|NN center|NN 
+condition|NN disorder|NN reaction|NN of|NN childhood|NN 
+content|NN sign|NN symptom|NN subtypes|NN disorder|NN intelligence|NN genetics|NN environment|NN society|NN pathophysiology|NN brain|NN structure|NN neurotransmitter|NN pathway|NN executive|NN function|NN motivation|NN diagnosis|NN classification|NN of|NN disease|NN diagnosis|NN biomarker|NN research|NN management|NN therapy|NN prognosis|NN epidemiology|NN history|NN controversy|NN link|NN sign|NN symptom|NN inattention|NN hyperactivity|NN in|NN adult|NN behavior|NN impulsivity|NN common|NN in|NN adhd|NN 
+difficulty|NN problem|NN relationship|NN 
+symptom|NN line|NN inattention|NN hyperactivity|NN end|NN require|NN intervention|NN 
+level|NN of|NN level|NN fifth|NN edition|NN of|NN manual|NN of|NN disorder|NN symptom|NN month|NN degree|NN others|NN of|NN age|NN problem|NN in|NN set|NN home|NN 
+criterion|NN age|NN twelve|NN in|NN order|NN diagnosis|NN of|NN adhd|NN 
+symptom|NN of|NN inattention|NN year|NN 
+adhd|NN symptom|NN impulsivity|NN fidget|NN squirm|NN in|NN seat|NN leaf|NN in|NN situation|NN risk|NN think|NN danger|NN go|NN motor|NN others|NN answer|NN trouble|NN turn|NN interrupt|NN intrude|NN conversation|NN difficulty|NN attention|NN detail|NN trouble|NN attention|NN task|NN trouble|NN task|NN activity|NN thing|NN task|NN in|NN activity|NN attention|NN span|NN difficulty|NN schoolwork|NN difficulty|NN task|NN consume|NN subtypes|NN subtypes|NN type|NN 
+person|NN type|NN of|NN symptom|NN situation|NN symptom|NN psychiatric|NN condition|NN detail|NN thing|NN activity|NN difficulty|NN focus|NN task|NN become|NN task|NN minute|NN something|NN difficulty|NN attention|NN task|NN trouble|NN complete|NN in|NN homework|NN assignment|NN thing|NN pencil|NN toy|NN assignment|NN task|NN activity|NN difficulty|NN processing|NN information|NN others|NN instruction|NN trouble|NN understand|NN detail|NN detail|NN person|NN type|NN of|NN symptom|NN situation|NN symptom|NN psychiatric|NN condition|NN fidget|NN deal|NN talk|NN dash|NN anything|NN everything|NN in|NN sight|NN trouble|NN dinner|NN school|NN homework|NN in|NN motion|NN difficulty|NN task|NN activity|NN comment|NN emotion|NN restraint|NN act|NN regard|NN consequence|NN difficulty|NN thing|NN turn|NN in|NN game|NN conversation|NN others|NN activity|NN girl|NN hyperactivity|NN impulsivity|NN symptom|NN symptom|NN inattention|NN distractibility|NN 
+symptom|NN of|NN hyperactivity|NN age|NN restlessness|NN in|NN teen|NN adult|NN adhd|NN 
+people|NN adhd|NN of|NN age|NN problem|NN skill|NN interaction|NN form|NN friendship|NN 
+subtypes|NN 
+half|NN of|NN child|NN adolescent|NN experience|NN rejection|NN peer|NN of|NN child|NN adolescent|NN 
+people|NN attention|NN deficit|NN prone|NN difficulty|NN processing|NN language|NN interaction|NN 
+conversation|NN cue|NN trouble|NN skill|NN 
+difficulty|NN anger|NN common|NN in|NN child|NN adhd|NN handwrite|NN delay|NN in|NN speech|NN language|NN motor|NN development|NN 
+difficulty|NN child|NN adhd|NN attention|NN span|NN of|NN child|NN task|NN subject|NN 
+disorder|NN in|NN child|NN adhd|NN occur|NN disorder|NN of|NN time|NN 
+condition|NN epilepsy|DS tourette_syndrome|DS autism|DS spectrum|NN disorder|NN disorder|NN skill|NN ability|NN behaviour|NN interest|NN 
+anxiety_disorder|DS in|NN population|NN 
+disorder|NN disability|NN in|NN of|NN child|NN adhd|NN 
+disability|NN speech|NN language|NN disorder|NN skill|NN disorder|NN 
+adhd|NN disability|NN difficulty|NN 
+obsessive–compulsive_disorder|DS adhd|NN share|NN of|NN characteristic|NN 
+disability|NN disorder|NN substance|NN use|NN disorder|NN 
+adolescent|NN adult|NN adhd|NN risk|NN of|NN substance|NN abuse|NN 
+alcohol|NN cannabis|NN 
+reason|NN altered|NN reward|NN pathway|NN in|NN brain|NN of|NN individual|NN 
+evaluation|NN treatment|NN of|NN adhd|NN substance|NN misuse|NN problem|NN risk|NN 
+sleep_disorder|DS 
+side|NN effect|NN of|NN medication|NN adhd|NN 
+in|NN child|NN adhd|NN insomnia|DS common|NN sleep_disorder|DS therapy|NN treatment|NN 
+problem|NN sleep|NN initiation|NN common|NN individual|NN adhd|NN sleeper|NN difficulty|NN in|NN morning|NN 
+melatonin|NN in|NN child|NN sleep|NN insomnia|DS 
+defiant|NN disorder|NN conduct|NN disorder|NN cd|NN adhd|NN in|NN of|NN case|NN 
+behavior|NN stubbornness|NN aggression|NN temper|NN tantrum|NN deceitfulness|NN 
+half|NN of|NN hyperactivity|NN cd|NN personality|NN disorder|NN in|NN adulthood|NN 
+brain|NN image|NN support|NN conduct|NN disorder|NN adhd|NN condition|NN 
+disorder|NN of|NN vigilance|NN attention|NN concentration|NN difficulty|NN awake|NN 
+child|NN yawn|NN stretch|NN in|NN order|NN 
+cognitive|NN tempo|NN sct|NN cluster|NN of|NN symptom|NN attention|NN disorder|NN 
+in|NN of|NN case|NN of|NN subtype|NN 
+movement|NN disorder|NN mood|NN disorder|NN bipolar_disorder|DS major_depressive_disorder|DS 
+boy|NN adhd|NN subtype|NN mood|NN disorder|NN 
+adult|NN adhd|NN bipolar_disorder|DS assessment|NN condition|NN 
+restless_legs_syndrome|DS common|NN in|NN iron_deficiency|DS anemia|DS 
+restless|NN legs|NN part|NN of|NN adhd|NN assessment|NN disorder|NN 
+people|NN adhd|NN risk|NN of|NN bed|NN wet|NN 
+review|NN association|NN adhd|NN obesity|NN asthma|DS sleep_disorder|DS evidence|NN association|NN disease|NN migraine|DS review|NN link|NN disease|NN adhd|NN screen|NN disease|NN in|NN people|NN adhd|NN 
+intelligence|NN study|NN people|NN score|NN intelligence|NN quotient|NN test|NN 
+significance|NN of|NN difference|NN people|NN adhd|NN difficulty|NN influence|NN of|NN symptom|NN distractibility|NN score|NN capacity|NN 
+in|NN study|NN of|NN adhd|NN iq|NN study|NN individual|NN iq|NN point|NN intelligence|NN measure|NN 
+study|NN of|NN adult|NN difference|NN in|NN intelligence|NN health|NN problem|NN 
+cause|NN case|NN of|NN cause|NN 
+interaction|NN genetics|NN environment|NN factor|NN 
+case|NN infection|NN trauma|NN brain|NN 
+genetics|NN study|NN disorder|NN parent|NN genetics|NN of|NN case|NN 
+sibling|NN of|NN child|NN adhd|NN time|NN disorder|NN sibling|NN of|NN child|NN disorder|NN 
+factor|NN in|NN persist|NN adulthood|NN 
+number|NN of|NN gene|NN of|NN neurotransmission|NN 
+dat|NN drd4|NN drd5|NN taar1|NN maoa|NN comt|NN dbh|NN 
+gene|NN htr1b|NN snap25|NN grin2a|NN adra2a|NN tph2|NN bdnf|NN 
+common|NN variant|NN of|NN gene|NN of|NN case|NN variant|NN people|NN medication|NN 
+repeat|NN variant|NN of|NN dopamine|NN receptor|NN d4|NN effect|NN dopamine|NN adhd|NN 
+drd4|NN receptor|NN receptor|NN cyclase|NN 
+mutation|NN result|NN in|NN range|NN of|NN phenotype|NN adhd|NN symptom|NN split|NN attention|NN 
+evolution|NN role|NN in|NN rate|NN of|NN adhd|NN trait|NN in|NN male|NN 
+woman|NN male|NN taker|NN frequency|NN of|NN gene|NN hyperactivity|NN impulsivity|NN in|NN gene|NN pool|NN 
+others|NN trait|NN adaptation|NN help|NN male|NN environment|NN example|NN impulsivity|NN behavior|NN 
+in|NN situation|NN trait|NN individual|NN 
+rate|NN heterogeneity|NN of|NN adhd|NN fitness|NN society|NN diversity|NN gene|NN pool|NN individual|NN 
+in|NN environment|NN trait|NN advantage|NN individual|NN quicker|NN response|NN predator|NN hunt|NN skill|NN 
+people|NN down_syndrome|DS adhd|NN 
+drd4|NN gene|NN adhd|NN 
+in|NN people|NN of|NN kenya|NN allele|NN of|NN gene|NN result|NN in|NN health|NN in|NN in|NN spot|NN 
+environment|NN in|NN addition|NN genetics|NN factor|NN role|NN in|NN adhd|NN 
+alcohol|NN pregnancy|NN fetal_alcohol_spectrum_disorder|DS symptom|NN 
+child|NN substance|NN lead|NN biphenyls|NN problem|NN adhd|NN 
+exposure|NN organophosphate|NN insecticide|NN chlorpyrifos|NN dialkyl|NN phosphate|NN risk|NN evidence|NN 
+exposure|NN smoke|NN pregnancy|NN problem|NN system|NN development|NN risk|NN of|NN adhd|NN 
+premature|NN birth|NN birth|NN weight|NN neglect|NN abuse|NN deprivation|NN risk|NN infection|NN pregnancy|NN birth|NN in|NN early|NN childhood|NN 
+infection|NN others|NN virus|NN measles|DS varicella|NN zoster|NN encephalitis|DS rubella|DS 
+association|NN term|NN term|NN use|NN of|NN acetaminophen|NN pregnancy|NN adhd|NN 
+of|NN child|NN traumatic_brain_injury|DS adhd|NN of|NN case|NN brain|NN damage|NN 
+study|NN in|NN number|NN of|NN child|NN food|NN dye|NN preservative|NN prevalence|NN of|NN adhd|NN symptom|NN evidence|NN child|NN food|NN sensitivity|NN 
+kingdom|NN union|NN in|NN place|NN measure|NN concern|NN 
+in|NN minority|NN of|NN child|NN intolerance|NN allergy|DS food|NN adhd|NN symptom|NN 
+research|NN belief|NN adhd|NN sugar|NN television|NN parent|NN poverty|NN family|NN chaos|NN adhd|NN symptom|NN in|NN people|NN 
+society|NN child|NN in|NN class|NN adhd|NN classmate|NN 
+effect|NN number|NN of|NN country|NN 
+medication|NN rate|NN peer|NN 
+in|NN case|NN diagnosis|NN of|NN adhd|NN family|NN system|NN problem|NN individual|NN 
+in|NN case|NN expectation|NN diagnosis|NN method|NN parent|NN in|NN country|NN support|NN child|NN 
+behavior|NN of|NN in|NN child|NN violence|NN abuse|NN 
+construct|NN theory|NN of|NN suggest|NN boundary|NN abnormal|NN behavior|NN 
+member|NN of|NN society|NN in|NN physician|NN parent|NN teacher|NN others|NN valuation|NN judgement|NN criterion|NN number|NN of|NN people|NN 
+situation|NN arrive|NN level|NN of|NN adhd|NN time|NN 
+thomas|NN szasz|NN supporter|NN of|NN theory|NN adhd|NN name|NN 
+pathophysiology|NN model|NN of|NN impairment|NN in|NN of|NN brain|NN system|NN dopamine|NN norepinephrine|NN 
+dopamine|NN pathway|NN in|NN area|NN locus|NN coeruleus|NN project|NN region|NN of|NN brain|NN variety|NN of|NN process|NN 
+dopamine|NN pathway|NN norepinephrine|NN pathway|NN cortex|NN striatum|NN executive|NN function|NN control|NN of|NN behavior|NN motivation|NN reward|NN perception|NN motor|NN function|NN pathway|NN role|NN in|NN pathophysiology|NN of|NN adhd|NN 
+model|NN of|NN adhd|NN pathway|NN 
+structure|NN brain|NN structure|NN in|NN child|NN adhd|NN reduction|NN of|NN volume|NN decrease|NN in|NN volume|NN in|NN cortex|NN 
+parietal|NN cortex|NN in|NN individual|NN control|NN 
+brain|NN circuit|NN people|NN adhd|NN 
+in|NN brain|NN in|NN cortex|NN in|NN adhd|NN 
+volume|NN of|NN accumbens|NN amygdala|NN caudate|NN hippocampus|NN putamen|NN in|NN individual|NN adhd|NN control|NN 
+asymmetry|NN in|NN white|NN matter|NN tract|NN in|NN youth|NN disruption|NN in|NN integration|NN characteristic|NN of|NN adhd|NN 
+neurotransmitter|NN number|NN of|NN transporter|NN in|NN people|NN adhd|NN part|NN of|NN pathophysiology|NN number|NN stimulant|NN 
+model|NN dopamine|NN pathway|NN locus|NN system|NN 
+psychostimulants|NN treatment|NN efficacy|NN activity|NN in|NN system|NN 
+abnormality|NN in|NN serotoninergic|NN glutamatergic|NN pathway|NN 
+executive|NN function|NN motivation|NN symptom|NN of|NN arise|NN deficiency|NN in|NN executive|NN function|NN control|NN inhibitory|NN control|NN memory|NN 
+executive|NN function|NN set|NN of|NN process|NN behavior|NN attainment|NN of|NN choose|NN goal|NN 
+executive|NN function|NN impairment|NN in|NN adhd|NN individual|NN in|NN problem|NN time|NN procrastination|NN concentration|NN attention|NN distraction|NN emotion|NN detail|NN 
+people|NN memory|NN deficit|NN in|NN recall|NN impairment|NN in|NN memory|NN 
+criterion|NN executive|NN function|NN deficit|NN in|NN of|NN child|NN adolescent|NN adhd|NN 
+study|NN of|NN individual|NN adhd|NN in|NN executive|NN function|NN task|NN individual|NN adhd|NN 
+rate|NN of|NN brain|NN maturation|NN demand|NN executive|NN control|NN person|NN impairment|NN adolescence|NN early|NN adulthood|NN 
+adhd|NN deficit|NN in|NN child|NN 
+child|NN adhd|NN reward|NN behavior|NN term|NN reward|NN 
+diagnosis|NN adhd|NN assessment|NN of|NN child|NN development|NN effect|NN of|NN drug|NN medication|NN problem|NN explanation|NN symptom|NN 
+account|NN feedback|NN parent|NN teacher|NN diagnosis|NN teacher|NN concern|NN 
+end|NN of|NN human|NN trait|NN in|NN people|NN 
+someone|NN medication|NN diagnosis|NN 
+study|NN of|NN brain|NN result|NN individual|NN research|NN purpose|NN diagnosis|NN 
+in|NN america|NN criterion|NN diagnosis|NN country|NN criterion|NN diagnosis|NN of|NN adhd|NN time|NN criterion|NN 
+disorder|NN 
+behavior|NN disorder|NN defiant|NN disorder|NN conduct|NN disorder|NN personality|NN disorder|NN 
+diagnosis|NN disorder|NN 
+condition|NN include|NN anxiety|ST depression|ST defiant|NN disorder|NN conduct|NN disorder|NN learn|NN language|NN disorder|NN 
+condition|NN disorder|NN tic|ST sleep|NN apnea|ST 
+diagnosis|NN of|NN adhd|NN electroencephalography|NN qeeg|NN area|NN of|NN investigation|NN value|NN of|NN qeeg|NN in|NN adhd|NN 
+in|NN state|NN food|NN drug|NN administration|NN use|NN of|NN qeeg|NN adhd|NN 
+test|NN ratio|NN of|NN eeg|NN theta|NN activity|NN diagnosis|NN study|NN find|NN 
+scale|NN adhd|NN rat|NN scale|NN adhd|NN rat|NN scale|NN in|NN screen|NN evaluation|NN of|NN adhd|NN 
+disorder|NN diagnosis|NN professional|NN set|NN number|NN of|NN criterion|NN 
+in|NN state|NN criterion|NN association|NN in|NN dsm|NN 
+dsm|NN criterion|NN of|NN adhd|NN adhd|NN type|NN present|NN symptom|NN disorganization|NN concentration|NN difficulty|NN task|NN 
+adhd|NN type|NN present|NN fidgetiness|NN restlessness|NN hyperactivity|NN difficulty|NN behavior|NN behavior|NN 
+adhd|NN type|NN combination|NN of|NN subtypes|NN 
+subdivision|NN presence|NN of|NN of|NN month|NN symptom|NN of|NN inattention|NN 
+symptom|NN age|NN of|NN in|NN environment|NN 
+home|NN school|NN work|NN 
+symptom|NN child|NN of|NN age|NN evidence|NN school|NN work|NN problem|NN 
+classification|NN of|NN disease|NN in|NN revision|NN of|NN classification|NN of|NN disease|NN health|NN problem|NN world|NN health|NN organization|NN symptom|NN of|NN disorder|NN in|NN 
+conduct|NN disorder|NN condition|NN conduct|NN disorder|NN 
+disorder|NN disturbance|NN of|NN activity|NN attention|NN disorder|NN disorder|NN 
+latter|NN syndrome|NN 
+in|NN implementation|NN version|NN of|NN disorder|NN attention_deficit_hyperactivity_disorder|DS disorder|NN 
+adult|NN adult|NN adhd|NN criterion|NN sign|NN age|NN of|NN 
+parent|NN guardian|NN person|NN child|NN part|NN of|NN assessment|NN family|NN history|NN of|NN adhd|NN weight|NN diagnosis|NN 
+core|NN symptom|NN of|NN adhd|NN in|NN child|NN adult|NN in|NN adult|NN in|NN child|NN example|NN activity|NN in|NN child|NN feel|NN of|NN restlessness|NN mental|NN activity|NN in|NN adult|NN 
+of|NN adult|NN 
+of|NN child|NN adhd|NN adhd|NN symptom|NN adulthood|NN rest|NN symptom|NN 
+adult|NN 
+adult|NN adhd|NN diagnosis|NN treatment|NN life|NN drug|NN alcohol|NN cop|NN mechanism|NN 
+problem|NN relationship|NN job|NN difficulty|NN risk|NN of|NN activity|NN 
+health|NN problem|NN depression|ST anxiety_disorder|DS disability|NN 
+adhd|NN symptom|NN in|NN adult|NN in|NN child|NN 
+child|NN adhd|NN adult|NN inability|NN in|NN situation|NN 
+adult|NN adhd|NN relationship|NN behavior|NN 
+behavior|NN substance|NN abuse|NN gamble|NN common|NN 
+criterion|NN adult|NN in|NN adult|NN claim|NN diagnosis|NN 
+adhd|NN symptom|NN childhood|NN adult|NN adhd|NN 
+proportion|NN of|NN adult|NN criterion|NN adhd|NN adhd|NN child|NN 
+case|NN of|NN adhd|NN disorder|NN age|NN of|NN early|NN adult|NN onset|NN adhd|NN 
+diagnosis|NN adhd|NN symptom|NN disorder|NN depression|ST anxiety_disorder|DS bipolar_disorder|DS feel|NN of|NN hopelessness|NN loss|NN of|NN interest|NN in|NN hobby|NN activity|NN fatigue|ST sleep|NN problem|NN attention|NN change|NN in|NN irritability|ST hostility|NN tolerance|NN stress|NN think|NN of|NN death|NN pain|ST feel|NN of|NN anxiety|ST irritability|ST feel|NN of|NN panic|NN fear|NN inability|NN attention|NN tolerance|NN stress|NN difficulty|NN attention|NN in|NN state|NN happiness|NN hyperactivity|NN think|NN aggression|NN delusion|ST need|NN sleep|NN behavior|NN difficulty|NN attention|NN in|NN depressive|NN state|NN symptom|NN in|NN depression|ST section|NN symptom|NN of|NN adhd|NN mood|NN mood|NN swing|NN irritability|ST dysthymia|NN cyclothymia|NN bipolar_disorder|DS borderline|NN personality|NN disorder|NN 
+symptom|NN anxiety_disorder|DS personality|NN disorder|NN disability|NN retardation|NN effect|NN of|NN substance|NN abuse|NN intoxication|NN withdrawal|NN adhd|NN 
+disorder|NN adhd|NN 
+condition|NN type|NN symptom|NN hyperthyroidism|NN seizure|NN disorder|NN toxicity|NN hearing|NN deficit|NN disease|NN sleep|NN apnea|ST drug|NN interaction|NN celiac|NN disease|NN injury|NN 
+sleep_disorder|DS attention|NN behavior|NN symptom|NN of|NN adhd|NN sleep|NN 
+child|NN adhd|NN sleep|NN problem|NN 
+sleepiness|NN in|NN child|NN in|NN symptom|NN one|NN of|NN yawn|NN eye|NN hyperactivity|NN inattentiveness|NN 
+obstructive|NN sleep|NN apnea|ST type|NN symptom|NN 
+tumor|NN pheochromocytoma|NN paragangliomas|NN symptom|NN 
+biomarker|NN research|NN review|NN of|NN adhd|NN biomarkers|NN platelet|NN monoamine|NN oxidase|NN expression|NN urinary|NN norepinephrine|NN urinary|NN mhpg|NN urinary|NN phenethylamine|NN level|NN individual|NN control|NN 
+measurement|NN biomarkers|NN adhd|NN research|NN utility|NN 
+urinary|NN blood|NN plasma|NN phenethylamine|NN concentration|NN in|NN individual|NN control|NN drug|NN adhd|NN amphetamine|NN methylphenidate|NN biosynthesis|NN in|NN individual|NN adhd|NN 
+urinary|NN phenethylamine|NN concentration|NN symptom|NN of|NN inattentiveness|NN in|NN individual|NN 
+electroencephalography|NN eeg|NN diagnosis|NN 
+management|NN management|NN of|NN adhd|NN medication|NN in|NN combination|NN 
+treatment|NN outcome|NN of|NN outcome|NN 
+medication|NN stimulant|NN atomoxetine|NN receptor|NN agonist|NN antidepressant|NN 
+in|NN trouble|NN reward|NN amount|NN of|NN reinforcement|NN performance|NN 
+adhd|NN stimulant|NN persistence|NN task|NN performance|NN in|NN child|NN adhd|NN 
+therapy|NN evidence|NN use|NN of|NN therapy|NN in|NN adhd|NN line|NN treatment|NN in|NN symptom|NN 
+therapy|NN input|NN therapy|NN therapy|NN cbt|NN psychotherapy|NN family|NN therapy|NN intervention|NN skill|NN train|NN peer|NN intervention|NN organization|NN train|NN parent|NN management|NN train|NN 
+parent|NN train|NN number|NN of|NN problem|NN behavior|NN 
+neurofeedback|NN 
+quality|NN research|NN effectiveness|NN of|NN family|NN therapy|NN adhd|NN evidence|NN community|NN care|NN placebo|NN 
+support|NN group|NN information|NN family|NN adhd|NN 
+train|NN in|NN skill|NN modification|NN medication|NN effect|NN 
+factor|NN in|NN problem|NN major|NN depression|ST criminality|NN school|NN failure|NN substance|NN use|NN disorder|NN formation|NN of|NN friendship|NN people|NN in|NN delinquent|NN activity|NN 
+exercise|NN exercise|NN treatment|NN adhd|NN in|NN child|NN adult|NN medication|NN intensity|NN type|NN of|NN exercise|NN symptom|NN 
+in|NN effect|NN of|NN exercise|NN in|NN individual|NN behavior|NN motor|NN ability|NN executive|NN function|NN attention|NN control|NN plan|NN domain|NN information|NN processing|NN speed|NN memory|NN 
+teacher|NN rat|NN of|NN outcome|NN in|NN response|NN exercise|NN include|NN function|NN adhd|NN symptom|NN level|NN of|NN anxiety|ST depression|ST complaint|NN classroom|NN behavior|NN behavior|NN 
+medication|NN effect|NN of|NN medication|NN executive|NN function|NN 
+effect|NN of|NN exercise|NN abundance|NN of|NN dopamine|NN norepinephrine|NN in|NN brain|NN 
+medication|NN stimulant|NN medication|NN treatment|NN of|NN choice|NN 
+effect|NN symptom|NN in|NN term|NN in|NN of|NN people|NN 
+methylphenidate|NN symptom|NN teacher|NN parent|NN 
+stimulant|NN risk|NN of|NN injury|NN in|NN child|NN adhd|NN 
+number|NN of|NN medication|NN atomoxetine|NN bupropion|NN guanfacine|NN clonidine|NN alternative|NN therapy|NN 
+study|NN medication|NN respect|NN effect|NN 
+stimulant|NN performance|NN atomoxetine|NN 
+atomoxetine|NN lack|NN of|NN addiction|NN liability|NN in|NN risk|NN of|NN stimulant|NN use|NN 
+evidence|NN effect|NN of|NN medication|NN behavior|NN 
+of|NN june|NN effect|NN of|NN medication|NN 
+resonance|NN study|NN treatment|NN amphetamine|NN methylphenidate|NN decrease|NN abnormality|NN in|NN brain|NN structure|NN function|NN in|NN subject|NN adhd|NN 
+review|NN benefit|NN methylphenidate|NN in|NN child|NN amphetamine|NN in|NN adult|NN 
+guideline|NN medication|NN country|NN 
+kingdom|NN institute|NN health|NN care|NN excellence|NN use|NN child|NN in|NN case|NN medication|NN treatment|NN 
+state|NN guideline|NN medication|NN in|NN age|NN group|NN 
+medication|NN preschool|NN child|NN 
+underdosing|NN of|NN stimulant|NN in|NN lack|NN of|NN response|NN loss|NN of|NN effectiveness|NN 
+common|NN in|NN adolescent|NN adult|NN dose|NN child|NN practitioner|NN weight|NN dose|NN 
+stimulant|NN atomoxetine|NN contraindication|NN use|NN 
+quality|NN evidence|NN of|NN association|NN methylphenidate|NN side|NN effect|NN child|NN adolescent|NN 
+monitor|NN of|NN child|NN medication|NN 
+overdose|NN stimulant|NN symptom|NN psychosis|DS mania|ST 
+do|NN event|NN in|NN of|NN individual|NN week|NN therapy|NN 
+administration|NN of|NN medication|NN symptom|NN of|NN psychosis|DS 
+monitor|NN in|NN treatment|NN 
+therapy|NN need|NN medication|NN decrease|NN growth|NN delay|NN tolerance|NN 
+misuse|NN of|NN medication|NN do|NN range|NN treatment|NN addiction|NN dependence|NN 
+adhd|NN risk|NN of|NN substance|NN use|NN disorder|NN conduct|NN disorder|NN 
+use|NN of|NN stimulant|NN risk|NN effect|NN 
+safety|NN of|NN medication|NN in|NN pregnancy|NN 
+antipsychotic|NN aggression|NN in|NN adhd|NN 
+modification|NN of|NN 2019|NN academy|NN of|NN pediatrics|NN evidence|NN 
+evidence|NN support|NN benefit|NN in|NN proportion|NN of|NN child|NN adhd|NN 
+of|NN child|NN adhd|NN improvement|NN in|NN symptom|NN fatty|NN supplementation|NN eat|NN of|NN food|NN color|NN 
+benefit|NN child|NN food|NN sensitivity|NN medication|NN 
+review|NN evidence|NN food|NN diet|NN adhd|NN 
+review|NN elimination|NN result|NN in|NN benefit|NN 
+review|NN use|NN of|NN diet|NN adhd|NN treatment|NN 
+review|NN elimination|NN diet|NN child|NN medication|NN fatty|NN supplementation|NN eat|NN of|NN food|NN adhd|NN treatment|NN 
+chronic|NN deficiency|NN of|NN iron|NN magnesium|NN iodine|NN impact|NN adhd|NN symptom|NN 
+amount|NN of|NN evidence|NN tissue|NN zinc|NN level|NN adhd|NN 
+in|NN absence|NN of|NN zinc|NN deficiency|NN of|NN country|NN supplementation|NN treatment|NN adhd|NN 
+supplementation|NN dose|NN of|NN amphetamine|NN amphetamine|NN treatment|NN of|NN adhd|NN 
+evidence|NN of|NN benefit|NN of|NN fatty|NN supplementation|NN in|NN place|NN of|NN medication|NN 
+prognosis|NN adhd|NN adulthood|NN in|NN of|NN case|NN 
+mechanism|NN extent|NN symptom|NN 
+child|NN adhd|NN risk|NN of|NN injury|NN 
+study|NN denmark|NN risk|NN of|NN death|NN adhd|NN rate|NN of|NN accident|NN 
+effect|NN of|NN medication|NN impairment|NN quality|NN of|NN life|NN 
+risk|NN of|NN accident|NN multiple|NN domain|NN 
+executive|NN function|NN deficit|NN respond|NN medication|NN 
+rate|NN of|NN smoke|NN adhd|NN in|NN population|NN 
+epidemiology|NN adhd|NN of|NN people|NN criterion|NN 
+criterion|NN rate|NN in|NN age|NN group|NN 
+child|NN in|NN appear|NN rate|NN of|NN adhd|NN child|NN in|NN africa|NN middle|NN east|NN method|NN of|NN diagnosis|NN difference|NN in|NN frequency|NN 
+method|NN rate|NN country|NN 
+time|NN in|NN boy|NN in|NN girl|NN 
+difference|NN sex|NN difference|NN in|NN susceptibility|NN female|NN adhd|NN male|NN 
+rate|NN of|NN diagnosis|NN treatment|NN in|NN kingdom|NN state|NN 
+child|NN adhd|NN in|NN rate|NN 1|NN 
+change|NN in|NN condition|NN people|NN medication|NN change|NN in|NN common|NN condition|NN 
+change|NN criterion|NN in|NN release|NN of|NN percentage|NN of|NN people|NN adhd|NN adult|NN 
+history|NN hyperactivity|NN part|NN of|NN human|NN condition|NN 
+sir|NN alexander|NN crichton|NN restlessness|NN in|NN book|NN inquiry|NN nature|NN origin|NN of|NN in|NN 
+observation|NN child|NN sign|NN of|NN fidget|NN 
+description|NN of|NN adhd|NN in|NN series|NN of|NN lecture|NN college|NN of|NN physician|NN of|NN london|NN 
+nature|NN nurture|NN disorder|NN 
+of|NN adhd|NN criterion|NN prevalence|NN treatment|NN association|NN brain|NN damage|NN problem|NN encephalitis|DS epidemic|NN 
+terminology|NN condition|NN time|NN in|NN brain|NN dysfunction|NN in|NN reaction|NN of|NN childhood|NN in|NN disorder|NN hyperactivity|NN 
+in|NN in|NN in|NN diagnosis|NN subtypes|NN type|NN type|NN adhd|NN type|NN 
+term|NN in|NN in|NN 
+term|NN brain|NN damage|NN in|NN 
+in|NN benzedrine|NN medication|NN use|NN in|NN state|NN 
+methylphenidate|NN in|NN enantiopure|NN dextroamphetamine|NN in|NN 
+use|NN of|NN stimulant|NN adhd|NN in|NN 
+charles|NN child|NN disorder|NN benzedrine|NN performance|NN behavior|NN 
+study|NN network|NN in|NN child|NN adhd|NN 
+period|NN component|NN adhd|NN disorder|NN childhood|NN adulthood|NN 
+adhd|NN subtypes|NN of|NN field|NN trial|NN lahey|NN colleague|NN 
+controversy|NN adhd|NN diagnosis|NN treatment|NN 
+controversy|NN clinician|NN teacher|NN policymakers|NN parent|NN media|NN 
+position|NN view|NN adhd|NN range|NN of|NN behavior|NN hypothesis|NN adhd|NN condition|NN 
+area|NN of|NN controversy|NN use|NN of|NN medication|NN in|NN child|NN method|NN of|NN diagnosis|NN possibility|NN of|NN overdiagnosis|NN 
+in|NN institute|NN health|NN care|NN excellence|NN controversy|NN treatment|NN method|NN of|NN diagnosis|NN view|NN of|NN literature|NN 
+in|NN conners|NN of|NN early|NN advocate|NN recognition|NN of|NN disorder|NN overdiagnosis|NN in|NN york|NN time|NN article|NN 
+in|NN contrast|NN literature|NN review|NN adhd|NN in|NN adult|NN 
+rate|NN of|NN diagnosis|NN country|NN state|NN country|NN race|NN ethnicity|NN factor|NN presence|NN of|NN symptom|NN of|NN adhd|NN role|NN in|NN diagnosis|NN 
+sociologist|NN adhd|NN example|NN of|NN medicalization|NN of|NN behavior|NN turn|NN of|NN issue|NN of|NN school|NN performance|NN 
+provider|NN disorder|NN in|NN number|NN of|NN people|NN symptom|NN 
+provider|NN debate|NN center|NN diagnosis|NN treatment|NN in|NN number|NN of|NN people|NN symptom|NN 
+reference|NN 1|NN 
+attention_deficit_hyperactivity_disorder|DS http|NN 
+institute|NN of|NN health|NN 
+march|NN http|NN july|NN march|NN 
+association|NN 
+manual|NN of|NN disorder|NN 
+arlington|NN publish|NN 
+pp|NN 
+symptom|NN diagnosis|NN http|NN 
+deficit|NN hyperactivity|NN disorder|NN adhd|NN 
+division|NN of|NN human|NN development|NN center|NN birth_defect|DS disability|NN center|NN disease|NN control|NN prevention|NN 
+http|NN tp|NN 
+nimh|NN 
+attention_deficit_hyperactivity_disorder|DS http|NN 
+institute|NN of|NN health|NN 
+http|NN http|NN april|NN 
+kooij|NN jj|NN bijlenga|NN d|NN l|NN jaeschke|NN r|NN bitter|NN i|NN balázs|NN j|NN al|NN 
+2019|NN 
+consensus|NN statement|NN diagnosis|NN treatment|NN of|NN adult|NN adhd|NN 
+psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+ff|NN 
+ferri|NN diagnosis|NN guide|NN diagnosis|NN of|NN symptom|NN sign|NN disorder|NN 
+philadelphia|NN pa|NN 
+pp|NN 
+chapter|NN 
+coghill|NN dr|NN t|NN c|NN cottingham|NN mg|NN 
+review|NN of|NN quality|NN of|NN life|NN outcome|NN in|NN study|NN of|NN medication|NN disorder|NN http|NN 
+child|NN psychiatry|NN 
+http|NN y|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+jain|NN r|NN 
+medication|NN delivery|NN system|NN disorder|NN http|NN 
+care|NN companion|NN cns|NN disorder|NN 
+http|NN 
+pmid|NN http|NN 
+gbd|NN disease|NN injury|NN incidence|NN prevalence|NN collaborator|NN 
+incidence|NN prevalence|NN year|NN disability|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN c5055577|NN 
+pmid|NN http|NN 
+sroubek|NN x|NN 
+inattentiveness|NN in|NN disorder|NN http|NN 
+neuroscience|NN bulletin|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+caroline|NN sc|NN ed|NN 
+encyclopedia|NN of|NN school|NN psychology|NN http|NN 
+springer|NN science|NN business|NN media|NN 
+isbn|NN 
+faraone|NN sv|NN rostain|NN al|NN blader|NN j|NN busch|NN b|NN childress|NN ac|NN connor|NN df|NN jh|NN 2019|NN 
+practitioner|NN review|NN dysregulation|NN in|NN disorder|NN implication|NN recognition|NN intervention|NN http|NN 
+journal|NN of|NN psychology|NN psychiatry|NN discipline|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+tenenbaum|NN rb|NN musser|NN ed|NN morris|NN s|NN ward|NN ar|NN raiker|NN j|NN cole|NN 2019|NN 
+response|NN inhibition|NN response|NN execution|NN emotion|NN regulation|NN child|NN disorder|NN http|NN c6377355|NN 
+journal|NN of|NN abnormal|NN child|NN psychology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+f|NN s|NN j|NN masi|NN g|NN 
+pharmacotherapy|NN of|NN dysregulation|NN in|NN adult|NN adhd|NN review|NN http|NN 
+neuroscience|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+mk|NN m|NN 
+axis|NN i|NN disorder|NN in|NN infancy|NN childhood|NN adolescence|NN behavior|NN disorder|NN http|NN 
+concise|NN guide|NN psychiatry|NN http|NN ed|NN 
+publish|NN 
+pp|NN 
+http|NN 
+google|NN book|NN 
+erskine|NN re|NN aj|NN chan|NN gc|NN copeland|NN ha|NN scott|NN jg|NN 
+outcome|NN of|NN disorder|NN conduct|NN disorder|NN review|NN 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN drechsler|NN r|NN ball|NN j|NN 
+school|NN child|NN http|NN school|NN child|NN pdf|NN 
+therapeutische|NN umschau|NN in|NN german|NN 
+http|NN 
+pmid|NN http|NN 
+demontis|NN ditte|NN 
+discovery|NN of|NN risk|NN locus|NN attention|NN disorder|NN http|NN 
+nature|NN genetics|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+2019|NN 
+consensus|NN study|NN heritability|NN of|NN adhd|NN lifespan|NN risk|NN sibling|NN 
+twin|NN study|NN tail|NN of|NN trait|NN 
+tiesler|NN carla|NN joachim|NN september|NN 
+nicotine|NN exposure|NN problem|NN http|NN 
+child|NN psychiatry|NN 
+y|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bad|NN cause|NN adhd|NN 
+http|NN 1|NN 
+webmd|NN 
+eg|NN 
+prevalence|NN of|NN disorder|NN review|NN http|NN 
+neurotherapeutics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cowen|NN p|NN harrison|NN p|NN burn|NN 
+drug|NN treatment|NN http|NN 
+shorter|NN oxford|NN textbook|NN of|NN psychiatry|NN http|NN 
+oxford|NN university|NN press|NN 
+pp|NN 
+s|NN 
+google|NN book|NN 
+faraone|NN sv|NN 
+ch|NN 
+epidemiology|NN of|NN attention_deficit_hyperactivity_disorder|DS s|NN 
+in|NN tsuang|NN mt|NN tohen|NN m|NN jones|NN ed|NN 
+textbook|NN of|NN epidemiology|NN 
+john|NN wiley|NN son|NN 
+isbn|NN 
+crawford|NN n|NN 
+adhd|NN woman|NN issue|NN http|NN 
+monitor|NN psychology|NN 
+2|NN http|NN 
+emond|NN v|NN joyal|NN c|NN h|NN 
+neuroanatomy|NN of|NN hyperactivity|NN disorder|NN adhd|NN neuroanatomy|NN of|NN hyperactivity|NN disorder|NN adhd|NN 
+in|NN french|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+singh|NN i|NN 
+polemic|NN science|NN ethic|NN of|NN adhd|NN 
+review|NN 
+neuroscience|NN 
+http|NN rn2514|NN 
+pmid|NN http|NN 
+kooij|NN sj|NN bejerot|NN s|NN caci|NN h|NN m|NN pj|NN edvinsson|NN d|NN j|NN k|NN m|NN gaillac|NN v|NN ginsberg|NN y|NN henry|NN c|NN j|NN mb|NN manor|NN i|NN niederhofer|NN h|NN c|NN md|NN p|NN pallanti|NN s|NN ja|NN rastam|NN m|NN d|NN s|NN asherson|NN p|NN 
+consensus|NN statement|NN diagnosis|NN treatment|NN of|NN adult|NN adhd|NN network|NN adult|NN adhd|NN http|NN 
+bmc|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bálint|NN s|NN czobor|NN p|NN v|NN bitter|NN i|NN 
+impairment|NN in|NN adult|NN attention_deficit_hyperactivity_disorder|DS literature|NN review|NN impairment|NN in|NN adult|NN attention_deficit_hyperactivity_disorder|DS literature|NN review|NN 
+psychiatria|NN hungarica|NN in|NN hungarian|NN 
+pmid|NN http|NN 
+ginsberg|NN y|NN quintero|NN j|NN anand|NN e|NN casillas|NN hp|NN 
+underdiagnosis|NN of|NN disorder|NN in|NN adult|NN patient|NN review|NN of|NN literature|NN http|NN 
+care|NN companion|NN cns|NN disorder|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+report|NN adhd|NN of|NN adult|NN in|NN of|NN of|NN adult|NN adhd|NN collaborate|NN centre|NN health|NN 
+attention_deficit_hyperactivity_disorder|DS diagnosis|NN management|NN of|NN adhd|NN in|NN child|NN people|NN adult|NN 
+collaborate|NN centre|NN health|NN britain|NN institute|NN health|NN excellence|NN britain|NN college|NN of|NN psychiatrist|NN 
+leicester|NN society|NN 
+isbn|NN oclc|NN http|NN 
+pmid|NN http|NN 
+jp|NN r|NN gillig|NN pm|NN 
+adult|NN adhd|NN diagnosis|NN diagnosis|NN medication|NN management|NN http|NN 
+psychiatry|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+likelihood|NN adult|NN adhd|NN mechanism|NN impairment|NN collaborate|NN centre|NN health|NN 
+treatment|NN s|NN 
+attention_deficit_hyperactivity_disorder|DS diagnosis|NN management|NN of|NN adhd|NN in|NN child|NN people|NN adult|NN http|NN 
+guideline|NN 
+leicester|NN society|NN 
+pp|NN 
+http|NN ch10|NN 
+s92|NN 
+http|NN p|NN bookshelf|NN 
+adhd|NN practice|NN guideline|NN http|NN pdf|NN 
+alliance|NN 
+hyperactivity|NN disorder|NN recommendation|NN http|NN 
+center|NN disease|NN control|NN prevention|NN 
+june|NN http|NN july|NN july|NN 
+wolraich|NN ml|NN jf|NN jr|NN allan|NN c|NN chan|NN e|NN davison|NN d|NN evans|NN sw|NN flinn|NN sk|NN t|NN frost|NN j|NN holbrook|NN jr|NN cu|NN hr|NN k|NN pierce|NN kl|NN winner|NN jd|NN subcommittee|NN child|NN adolescent|NN disorder|NN 
+2019|NN 
+practice|NN guideline|NN diagnosis|NN evaluation|NN treatment|NN of|NN disorder|NN in|NN child|NN adolescent|NN 
+pediatrics|NN 
+p|NN 
+pmid|NN http|NN 
+oj|NN pedersen|NN n|NN ramstad|NN e|NN ml|NN s|NN hb|NN cr|NN magnusson|NN fl|NN m|NN gerner|NN t|NN m|NN s|NN c|NN gillie|NN rasmussen|NN k|NN gauci|NN d|NN zwi|NN m|NN kirubakaran|NN r|NN håkonsen|NN sj|NN l|NN e|NN c|NN 
+methylphenidate|NN attention_deficit_hyperactivity_disorder|DS adhd|NN in|NN child|NN adolescent|NN assessment|NN of|NN event|NN in|NN study|NN s|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd012069|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+treatment|NN of|NN attention_deficit_hyperactivity_disorder|DS study|NN mta|NN question|NN answer|NN http|NN 
+home|NN 
+1|NN 2019|NN 
+medication|NN treatment|NN community|NN treatment|NN medication|NN 
+answer|NN difference|NN in|NN quality|NN intensity|NN medication|NN treatment|NN in|NN community|NN care|NN group|NN 
+collaborate|NN centre|NN health|NN 
+attention_deficit_hyperactivity_disorder|DS diagnosis|NN management|NN of|NN adhd|NN in|NN child|NN people|NN adult|NN s|NN 
+guideline|NN 
+leicester|NN society|NN 
+http|NN bookshelf|NN 
+huang|NN y|NN tsai|NN mh|NN 
+outcome|NN medication|NN hyperactivity|NN disorder|NN status|NN of|NN knowledge|NN 
+cns|NN drug|NN 
+http|NN 
+pmid|NN http|NN 
+le|NN p|NN caci|NN h|NN j|NN al|NN 
+effect|NN of|NN treatment|NN modality|NN outcome|NN in|NN disorder|NN review|NN s|NN 
+plo|NN 
+2|NN e0116407|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+parker|NN j|NN g|NN chalhoub|NN n|NN harpin|NN v|NN 
+outcome|NN of|NN intervention|NN management|NN of|NN hyperactivity|NN disorder|NN in|NN child|NN adolescent|NN review|NN of|NN trial|NN http|NN 
+psychology|NN research|NN management|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+result|NN evidence|NN intervention|NN intervention|NN in|NN core|NN adhd|NN symptom|NN performance|NN month|NN 
+effect|NN size|NN period|NN 
+paper|NN outcome|NN month|NN review|NN criterion|NN 
+level|NN evidence|NN treatment|NN major|NN effect|NN core|NN symptom|NN of|NN adhd|NN hyperactivity|NN inattention|NN impulsivity|NN in|NN of|NN case|NN placebo|NN control|NN in|NN sb|NN 
+efficacy|NN safety|NN limitation|NN of|NN hyperactivity|NN disorder|NN pharmacotherapy|NN in|NN child|NN adult|NN 
+cns|NN drug|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+lange|NN kw|NN reichl|NN s|NN lange|NN km|NN tucha|NN l|NN tucha|NN o|NN 
+history|NN of|NN attention_deficit_hyperactivity_disorder|DS http|NN 
+attention_deficit_hyperactivity_disorder|DS 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+vn|NN 
+encyclopedia|NN of|NN problem|NN http|NN b4y1cec|NN 
+sage|NN 
+isbn|NN 2|NN 
+mayes|NN r|NN bagwell|NN c|NN j|NN 
+adhd|NN rise|NN in|NN use|NN child|NN http|NN 
+review|NN of|NN psychiatry|NN 
+s|NN 
+pmid|NN http|NN 
+mg|NN g|NN e|NN 
+child|NN adhd|NN http|NN pdf|NN 
+family|NN physician|NN 
+pmid|NN http|NN 
+http|NN 
+pdf|NN september|NN 
+silver|NN lb|NN 
+disorder|NN 
+publish|NN 
+pp|NN 
+schonwald|NN lechner|NN e|NN 
+attention|NN disorder|NN complexity|NN controversy|NN 
+opinion|NN in|NN pediatrics|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+lg|NN 
+use|NN interpretation|NN perspective|NN http|NN 
+amsterdam|NN press|NN 
+adhd|NN criterion|NN http|NN 
+pb|NN 
+frontline|NN 
+http|NN march|NN 
+adhd|NN symptom|NN diagnosis|NN http|NN 
+center|NN disease|NN control|NN prevention|NN 
+c|NN 
+diagnosis|NN management|NN of|NN attention_deficit_hyperactivity_disorder|DS in|NN care|NN child|NN adolescent|NN http|NN 1|NN march|NN october|NN 
+cdc|NN adhd|NN http|NN center|NN disease|NN control|NN prevention|NN http|NN march|NN march|NN ramsay|NN jr|NN 
+therapy|NN adult|NN adhd|NN 
+routledge|NN 
+pp|NN 
+institute|NN of|NN health|NN 
+attention_deficit_hyperactivity_disorder|DS adhd|NN http|NN 
+institute|NN of|NN health|NN 
+http|NN 
+gershon|NN j|NN 
+review|NN of|NN gender|NN difference|NN in|NN adhd|NN 
+journal|NN of|NN attention|NN disorder|NN 
+http|NN 
+pmid|NN http|NN 
+wl|NN 
+competence|NN friendship|NN formation|NN in|NN adolescent|NN disorder|NN 
+medicine|NN 
+2|NN http|NN 
+management|NN directory|NN http|NN 
+http|NN p|NN 
+racine|NN mb|NN shevell|NN m|NN snider|NN l|NN 
+performance|NN in|NN child|NN attention_deficit_hyperactivity_disorder|DS adhd|NN 
+journal|NN of|NN neurology|NN 
+http|NN 
+pmid|NN http|NN 
+disorder|NN http|NN classification|NN of|NN disease|NN health|NN problem|NN revision|NN world|NN health|NN organisation|NN http|NN 2|NN 2|NN bellani|NN m|NN perlini|NN c|NN brambilla|NN p|NN 
+language|NN disturbance|NN in|NN adhd|NN 
+epidemiology|NN science|NN 
+http|NN 
+pmid|NN http|NN 
+adhd|NN symptom|NN http|NN 
+wilens|NN te|NN spencer|NN tj|NN 
+disorder|NN childhood|NN http|NN 
+postgraduate|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bailey|NN adhd|NN disability|NN child|NN cope|NN adhd|NN learn|NN difficulty|NN 
+way|NN http|NN 
+remedy|NN health|NN media|NN llc|NN 
+http|NN december|NN 
+krull|NN kr|NN december|NN 
+evaluation|NN diagnosis|NN of|NN attention_deficit_hyperactivity_disorder|DS in|NN child|NN http|NN 
+uptodate|NN 
+wolters|NN health|NN 
+http|NN june|NN september|NN 
+collaborate|NN centre|NN health|NN 
+attention_deficit_hyperactivity_disorder|DS http|NN 
+attention_deficit_hyperactivity_disorder|DS diagnosis|NN management|NN of|NN adhd|NN in|NN child|NN people|NN adult|NN s|NN 
+guideline|NN 
+leicester|NN society|NN 
+pp|NN 
+http|NN http|NN 
+http|NN bookshelf|NN 
+wilens|NN te|NN morrison|NN nr|NN 
+intersection|NN of|NN disorder|NN substance|NN abuse|NN http|NN 
+opinion|NN in|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+corkum|NN p|NN davidson|NN f|NN macpherson|NN m|NN 
+framework|NN assessment|NN treatment|NN of|NN sleep|NN problem|NN in|NN child|NN disorder|NN 
+clinic|NN of|NN america|NN 
+http|NN 
+pmid|NN http|NN 
+tsai|NN mh|NN huang|NN y|NN 
+disorder|NN sleep_disorder|DS in|NN child|NN 
+clinic|NN of|NN america|NN 
+http|NN 
+pmid|NN http|NN 
+te|NN 
+executive|NN function|NN in|NN practice|NN 
+psychiatry|NN report|NN 
+s|NN 
+pmid|NN http|NN 
+bendz|NN lm|NN ac|NN 
+melatonin|NN treatment|NN insomnia|DS in|NN patient|NN disorder|NN 
+annals|NN of|NN pharmacotherapy|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+mcburnett|NN k|NN pfiffner|NN lj|NN 
+treatment|NN of|NN adhd|NN in|NN child|NN adolescent|NN conceptualization|NN treatment|NN of|NN comorbid|NN behavior|NN disorder|NN http|NN 
+postgraduate|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+hofvander|NN b|NN d|NN s|NN anckarsäter|NN h|NN 
+continuity|NN of|NN behavior|NN childhood|NN adulthood|NN question|NN of|NN phenotype|NN definition|NN p|NN pdf|NN 
+journal|NN of|NN law|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+rubia|NN k|NN 
+cool|NN dysfunction|NN in|NN disorder|NN dysfunction|NN in|NN conduct|NN disorder|NN review|NN 
+psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+wa|NN brumback|NN ra|NN 
+disorder|NN of|NN vigilance|NN explanation|NN of|NN inattentiveness|NN boredom|NN restlessness|NN sleepiness|NN 
+journal|NN of|NN pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+barkley|NN ra|NN 
+cognitive|NN tempo|NN concentration|NN deficit|NN disorder|NN 
+status|NN direction|NN plea|NN name|NN http|NN pdf|NN 
+journal|NN of|NN abnormal|NN child|NN psychology|NN 
+1|NN 
+p|NN 
+pmid|NN http|NN 
+http|NN pdf|NN 
+baud|NN p|NN n|NN jm|NN 
+bipolar_disorder|DS attention|NN disorder|NN in|NN adult|NN diagnosis|NN comorbidity|NN 
+medicale|NN suisse|NN in|NN french|NN 
+pmid|NN http|NN 
+m|NN 
+attention_deficit_hyperactivity_disorder|DS restless_legs_syndrome|DS in|NN child|NN attention_deficit_hyperactivity_disorder|DS restless_legs_syndrome|DS in|NN child|NN 
+revista|NN in|NN spanish|NN 
+1|NN 
+pmid|NN http|NN 
+picchietti|NN ma|NN dl|NN 
+advance|NN in|NN restless_legs_syndrome|DS iron|NN genetics|NN diagnosis|NN treatment|NN 
+sleep|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+karroum|NN e|NN e|NN arnulf|NN i|NN 
+syndrome|NN 
+revue|NN neurologique|NN in|NN french|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN brother|NN 
+prevalence|NN of|NN enuresis|NN association|NN disorder|NN child|NN result|NN study|NN http|NN 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+instanes|NN jt|NN k|NN fasmer|NN ob|NN haavik|NN j|NN 
+adult|NN adhd|NN comorbid|NN disease|NN literature|NN review|NN http|NN 
+journal|NN of|NN attention|NN disorder|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+http|NN 
+e|NN wouters|NN l|NN 
+association|NN of|NN adhd|NN disease|NN evidence|NN 
+review|NN of|NN literature|NN 
+journal|NN of|NN attention|NN disorder|NN review|NN http|NN 
+pmid|NN http|NN 
+evidence|NN relationship|NN adhd|NN cd|NN 
+screen|NN of|NN cd|NN adhd|NN vice|NN versa|NN gfd|NN treatment|NN in|NN adhd|NN 
+possibility|NN of|NN cd|NN behavior|NN in|NN mind|NN 
+in|NN patient|NN cd|NN symptom|NN chronic|NN fatigue|ST inattention|NN pain|ST headache|ST patient|NN behavior|NN symptom|NN of|NN type|NN treatment|NN 
+cd|NN disease|NN gfd|NN diet|NN tw|NN ha|NN youngstrom|NN ea|NN 
+of|NN test|NN performance|NN in|NN disorder|NN http|NN 
+neuropsychology|NN 
+http|NN 
+pmid|NN http|NN 
+mackenzie|NN gb|NN wonder|NN 
+intelligence|NN quotient|NN exclusion|NN criterion|NN practice|NN in|NN study|NN of|NN attention_deficit_hyperactivity_disorder|DS http|NN 
+frontier|NN in|NN psychology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bridgett|NN dj|NN walker|NN 
+function|NN in|NN adult|NN adhd|NN examination|NN of|NN scale|NN iq|NN difference|NN adult|NN adhd|NN 
+assessment|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+millichap|NN jg|NN 
+chapter|NN 2|NN factor|NN http|NN alq0cdcbaoc|NN 
+attention_deficit_hyperactivity_disorder|DS handbook|NN physician|NN guide|NN 
+york|NN ny|NN springer|NN science|NN 
+http|NN 1|NN december|NN 2019|NN 
+lccn|NN http|NN 
+thapar|NN m|NN o|NN langley|NN k|NN 
+cause|NN of|NN adhd|NN 
+http|NN 
+journal|NN of|NN psychology|NN psychiatry|NN discipline|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+scerif|NN gaia|NN baker|NN kate|NN 
+research|NN review|NN genotype|NN childhood|NN psychopathology|NN mechanism|NN of|NN adhd|NN risk|NN 
+journal|NN of|NN psychology|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+bm|NN medland|NN se|NN ripke|NN s|NN asherson|NN p|NN franke|NN b|NN lesch|NN kp|NN faraone|NN sv|NN tt|NN schäfer|NN h|NN p|NN m|NN hc|NN c|NN renner|NN tj|NN m|NN j|NN walitza|NN s|NN meyer|NN j|NN palmason|NN h|NN buitelaar|NN j|NN vasquez|NN aa|NN n|NN gill|NN m|NN anney|NN rj|NN k|NN m|NN n|NN m|NN kent|NN l|NN j|NN roeyers|NN e|NN j|NN smalley|NN s|NN s|NN hakonarson|NN h|NN j|NN miranda|NN mulas|NN f|NN rp|NN banaschewski|NN t|NN rd|NN e|NN j|NN l|NN middleton|NN f|NN hu|NN x|NN s|NN 
+of|NN association|NN study|NN of|NN disorder|NN http|NN 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+burt|NN sa|NN 
+contribution|NN psychopathology|NN of|NN influence|NN http|NN 
+bulletin|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN 
+abnormal|NN psychology|NN ed|NN 
+franke|NN b|NN faraone|NN sv|NN asherson|NN p|NN buitelaar|NN j|NN bau|NN ch|NN ja|NN e|NN grevet|NN eh|NN johansson|NN s|NN haavik|NN j|NN lesch|NN kp|NN cormand|NN b|NN 
+genetics|NN of|NN attention|NN disorder|NN in|NN adult|NN review|NN http|NN 
+psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gizer|NN ir|NN ficks|NN id|NN 
+candidate|NN gene|NN study|NN of|NN adhd|NN review|NN 
+human|NN genetics|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+kebir|NN o|NN tabbane|NN k|NN sengupta|NN s|NN joober|NN r|NN 
+candidate|NN gene|NN phenotype|NN in|NN child|NN adhd|NN review|NN of|NN association|NN study|NN s|NN 
+journal|NN of|NN psychiatry|NN neuroscience|NN 
+2|NN 
+pmc|NN http|NN mc2647566|NN 
+pmid|NN http|NN 
+berry|NN md|NN 
+potential|NN of|NN trace|NN amine|NN receptor|NN disease|NN 
+review|NN trial|NN 
+2|NN 1|NN 
+citeseerx|NN http|NN 
+http|NN 
+pmid|NN http|NN 
+evidence|NN change|NN in|NN trace|NN amine|NN in|NN pe|NN factor|NN onset|NN of|NN attention|NN disorder|NN adhd|NN 
+amphetamine|NN utility|NN in|NN adhd|NN ligand|NN trace|NN amine|NN receptor|NN 
+of|NN relevance|NN in|NN aspect|NN effect|NN in|NN patient|NN activity|NN of|NN pe|NN taar1|NN 
+methylphenidate|NN efficacy|NN taar1|NN receptor|NN 
+in|NN respect|NN enhancement|NN of|NN taar1|NN modafanil|NN result|NN of|NN interaction|NN taar1|NN 
+td|NN caron|NN mg|NN gainetdinov|NN rr|NN 
+trace|NN receptor|NN target|NN http|NN 
+pharmacology|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+m|NN 
+understand|NN of|NN adhd|NN gene|NN variant|NN susceptibility|NN adhd|NN http|NN 
+attention_deficit_hyperactivity_disorder|DS 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+nikolaidis|NN jr|NN 
+adhd|NN drd4|NN polymorphism|NN http|NN 
+cognitive|NN neuroscience|NN 
+p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+glover|NN v|NN 
+research|NN review|NN stress|NN origin|NN of|NN psychopathology|NN perspective|NN http|NN d0da09daed622212a0d06195fb8790e|NN 
+journal|NN of|NN psychology|NN psychiatry|NN discipline|NN 
+http|NN 
+pmid|NN http|NN 
+williams|NN j|NN taylor|NN e|NN 
+evolution|NN of|NN hyperactivity|NN impulsivity|NN diversity|NN http|NN 
+journal|NN of|NN royal|NN society|NN interface|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cardo|NN e|NN redondo|NN m|NN melero|NN b|NN la|NN banda|NN g|NN servera|NN m|NN 
+attention|NN deficit|NN disorder|NN hyperactivity|NN pattern|NN of|NN evolution|NN 
+attention|NN deficit|NN disorder|NN hyperactivity|NN pattern|NN of|NN evolution|NN 
+revista|NN in|NN spanish|NN 
+pmid|NN http|NN 
+w|NN zoratto|NN f|NN laviola|NN g|NN 
+brain|NN process|NN in|NN discount|NN consequence|NN of|NN methylphenidate|NN exposure|NN http|NN 
+in|NN stanford|NN c|NN tannock|NN r|NN ed|NN 
+neuroscience|NN of|NN attention_deficit_hyperactivity_disorder|DS treatment|NN 
+topic|NN in|NN neuroscience|NN 
+volume|NN york|NN springer|NN 
+pp|NN 
+s|NN glick|NN b|NN weill|NN m|NN kay|NN b|NN berger|NN i|NN 
+down_syndrome|DS disorder|NN adhd|NN 
+journal|NN of|NN neurology|NN 
+http|NN 
+pmid|NN http|NN 
+hippokratis|NN kiaris|NN 
+gene|NN polymorphism|NN make|NN of|NN society|NN trait|NN influence|NN human|NN culture|NN http|NN kdsvkgc|NN 
+boca|NN raton|NN fl|NN 
+pp|NN 
+cdc|NN march|NN hyperactivity|NN disorder|NN adhd|NN http|NN center|NN disease|NN control|NN prevention|NN s|NN april|NN april|NN burger|NN ph|NN goecke|NN tw|NN pa|NN moll|NN g|NN h|NN beckmann|NN mw|NN kornhuber|NN j|NN 
+alcohol|NN consumption|NN pregnancy|NN development|NN of|NN attention|NN syndrome|NN in|NN child|NN 
+fortschritte|NN der|NN review|NN in|NN german|NN 
+http|NN 
+pmid|NN http|NN 
+pa|NN schantz|NN sl|NN 
+lead|NN pcbs|NN risk|NN factor|NN attention|NN disorder|NN http|NN 
+health|NN perspective|NN review|NN 
+research|NN support|NN 
+research|NN support|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+cock|NN m|NN maas|NN yg|NN 
+exposure|NN disruptors|NN autism|DS spectrum|NN attention_deficit_hyperactivity_disorder|DS 
+review|NN 
+acta|NN paediatrica|NN review|NN 
+research|NN support|NN 
+http|NN 
+pmid|NN http|NN 
+abbott|NN lc|NN uh|NN 
+smoke|NN pregnancy|NN lesson|NN study|NN study|NN model|NN 
+review|NN in|NN toxicology|NN review|NN 
+s|NN 
+pmid|NN http|NN 
+thapar|NN m|NN jefferies|NN e|NN 
+attention_deficit_hyperactivity_disorder|DS 
+http|NN 
+archive|NN of|NN disease|NN in|NN childhood|NN review|NN 
+research|NN support|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+millichap|NN jg|NN 
+classification|NN of|NN disorder|NN 
+pediatrics|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+ystrom|NN e|NN gustavson|NN k|NN brandlistuen|NN re|NN gp|NN magnus|NN p|NN susser|NN e|NN davey|NN smith|NN g|NN c|NN p|NN håberg|NN se|NN hornig|NN m|NN wi|NN h|NN kjennerud|NN t|NN 
+exposure|NN risk|NN of|NN adhd|NN http|NN 
+pediatrics|NN 
+e20163840|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ml|NN 
+association|NN prenatal|NN acetaminophen|NN use|NN adhd|NN benefit|NN of|NN data|NN set|NN 
+pediatrics|NN 
+e20172703|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN 
+adhd|NN integration|NN traumatic_brain_injury|DS 
+review|NN of|NN neurotherapeutics|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+mayes|NN r|NN bagwell|NN c|NN erkulwater|NN jl|NN 
+child|NN adhd|NN health|NN ed|NN 
+harvard|NN university|NN press|NN 
+pp|NN 
+millichap|NN jg|NN yee|NN mm|NN 
+factor|NN in|NN disorder|NN http|NN 
+pediatrics|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN 
+september|NN 
+ej|NN brandeis|NN d|NN s|NN daley|NN d|NN m|NN m|NN stevenson|NN j|NN m|NN van|NN der|NN oord|NN s|NN döpfner|NN m|NN dittmann|NN rw|NN simonoff|NN e|NN banaschewski|NN t|NN buitelaar|NN j|NN coghill|NN d|NN c|NN e|NN m|NN ic|NN j|NN 
+intervention|NN adhd|NN review|NN of|NN trial|NN of|NN treatment|NN http|NN 
+journal|NN of|NN psychiatry|NN 
+s|NN 
+pmid|NN http|NN 
+fatty|NN supplementation|NN food|NN color|NN exclusion|NN effect|NN adhd|NN symptom|NN effect|NN of|NN of|NN latter|NN patient|NN food|NN sensitivity|NN tomaska|NN ld|NN s|NN 
+food|NN additive|NN 
+in|NN motarjemi|NN y|NN moy|NN gg|NN ec|NN ed|NN 
+encyclopedia|NN of|NN food|NN safety|NN 
+amsterdam|NN press|NN 
+pp|NN 
+http|NN 
+oclc|NN http|NN 
+fda|NN document|NN food|NN committee|NN color|NN additive|NN in|NN food|NN association|NN attention_deficit_hyperactivity_disorder|DS in|NN child|NN http|NN pdf|NN food|NN drug|NN administration|NN http|NN pdf|NN jt|NN holton|NN k|NN 
+restriction|NN elimination|NN diet|NN in|NN treatment|NN p|NN 
+child|NN clinic|NN of|NN america|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+elimination|NN effect|NN benefit|NN child|NN 
+study|NN evaluation|NN of|NN likelihood|NN of|NN response|NN in|NN child|NN adhd|NN response|NN 
+holland|NN j|NN k|NN 
+age|NN adhd|NN symptom|NN diagnosis|NN medication|NN review|NN http|NN 
+child|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+parritz|NN r|NN 
+disorder|NN of|NN childhood|NN development|NN psychopathology|NN 
+cengage|NN learn|NN 
+pp|NN 
+http|NN 
+stimulant|NN adhd|NN in|NN child|NN therapeutic|NN http|NN 
+july|NN 
+ja|NN 
+year|NN book|NN of|NN pediatrics|NN http|NN i|NN 
+health|NN science|NN 
+isbn|NN 
+health|NN of|NN child|NN adolescent|NN http|NN http|NN pdf|NN 
+pdf|NN october|NN 
+parens|NN johnston|NN j|NN 
+fact|NN value|NN hyperactivity|NN disorder|NN update|NN controversy|NN http|NN 
+child|NN psychiatry|NN health|NN 
+1|NN http|NN 
+pmc|NN p|NN 
+pmid|NN http|NN 
+t|NN 
+medicine|NN disorder|NN http|NN 
+pharmacracy|NN medicine|NN politics|NN in|NN america|NN http|NN s|NN 
+westport|NN ct|NN praeger|NN 
+pp|NN 
+http|NN 
+google|NN book|NN 
+disease|NN name|NN example|NN attention_deficit_hyperactivity_disorder|DS adhd|NN 
+chandler|NN dj|NN waterhouse|NN bd|NN gao|NN wj|NN 
+perspective|NN regulation|NN of|NN circuit|NN evidence|NN modulation|NN of|NN function|NN midbrain|NN dopaminergic|NN neuron|NN http|NN 
+frontier|NN in|NN circuit|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+malenka|NN rc|NN nestler|NN ej|NN hyman|NN se|NN 
+chapter|NN 
+in|NN sydor|NN ry|NN ed|NN 
+neuropharmacology|NN foundation|NN neuroscience|NN 
+york|NN 
+pp|NN 
+early|NN result|NN mri|NN show|NN thin|NN of|NN cerebral|NN cortex|NN in|NN subject|NN control|NN in|NN cortex|NN cortex|NN area|NN in|NN memory|NN attention|NN 
+malenka|NN rc|NN nestler|NN ej|NN hyman|NN se|NN 
+chapter|NN system|NN monoamine|NN acetylcholine|NN orexin|NN 
+in|NN sydor|NN ry|NN ed|NN 
+neuropharmacology|NN foundation|NN neuroscience|NN 
+york|NN hill|NN 
+pp|NN 
+da|NN multiple|NN action|NN in|NN cortex|NN 
+control|NN of|NN behavior|NN selection|NN monitor|NN of|NN behavior|NN attainment|NN of|NN goal|NN 
+aspect|NN of|NN control|NN in|NN da|NN role|NN memory|NN ability|NN information|NN line|NN in|NN order|NN action|NN suppression|NN of|NN prepotent|NN behavior|NN action|NN control|NN of|NN attention|NN ability|NN distraction|NN 
+control|NN in|NN disorder|NN attention_deficit_hyperactivity_disorder|DS 
+projection|NN lc|NN projection|NN vta|NN control|NN 
+contribution|NN treatment|NN of|NN adhd|NN 
+note|NN da|NN dopamine|NN lc|NN locus|NN coeruleus|NN vta|NN area|NN serotonin|NN hydroxytryptamine|NN fx|NN proal|NN e|NN 
+brain|NN system|NN in|NN adhd|NN model|NN http|NN 
+trend|NN in|NN science|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+conceptualization|NN of|NN adhd|NN nature|NN of|NN processing|NN 
+of|NN candidate|NN network|NN circuit|NN region|NN 
+s|NN c|NN proal|NN e|NN di|NN martino|NN milham|NN mp|NN fx|NN 
+system|NN neuroscience|NN of|NN adhd|NN of|NN study|NN http|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN mc3879048|NN 
+pmid|NN http|NN 
+krain|NN al|NN fx|NN 
+brain|NN development|NN adhd|NN 
+psychology|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN j|NN hibar|NN dp|NN mennes|NN m|NN zwiers|NN l|NN al|NN 
+brain|NN volume|NN difference|NN in|NN participant|NN attention_deficit_hyperactivity_disorder|DS in|NN child|NN adult|NN http|NN 
+lancet|NN 
+psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+douglas|NN pk|NN gutman|NN b|NN anderson|NN c|NN lawrence|NN ke|NN k|NN sengupta|NN b|NN cooray|NN g|NN douglas|NN db|NN thompson|NN pm|NN jj|NN bookheimer|NN sy|NN 
+brain|NN asymmetry|NN difference|NN in|NN youth|NN disorder|NN http|NN 
+neuroimage|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+p|NN rubia|NN k|NN rossi|NN g|NN g|NN balottin|NN u|NN 
+dopamine|NN transporter|NN alteration|NN in|NN adhd|NN pathophysiology|NN adaptation|NN psychostimulants|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+bidwell|NN lc|NN mcclernon|NN fj|NN sh|NN 
+enhancer|NN treatment|NN of|NN adhd|NN http|NN 
+pharmacology|NN biochemistry|NN behavior|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+s|NN 
+neurobiology|NN genetics|NN of|NN disorder|NN clinician|NN 
+journal|NN of|NN neurology|NN 
+http|NN 
+pmid|NN http|NN 
+lesch|NN kp|NN merker|NN s|NN m|NN 
+dance|NN black|NN widow|NN spider|NN dysregulation|NN of|NN glutamate|NN enter|NN stage|NN in|NN adhd|NN 
+neuropsychopharmacology|NN 
+http|NN 
+pmid|NN http|NN 
+diamond|NN 
+executive|NN function|NN http|NN 
+review|NN of|NN psychology|NN 
+http|NN 
+pmc|NN s|NN 
+pmid|NN http|NN 
+efs|NN cortex|NN something|NN in|NN life|NN 
+al|NN 
+et|NN al|NN 
+hecker|NN meiser|NN baumeister|NN 
+cacioppo|NN patrick|NN 
+al|NN 
+sleep|NN barnes|NN 
+al|NN 
+chaddock|NN et|NN al|NN 
+al|NN 
+of|NN disorder|NN of|NN efs|NN adhd|NN 
+t|NN h|NN 
+memory|NN performance|NN in|NN adult|NN adhd|NN 
+journal|NN of|NN attention|NN disorder|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN tannock|NN r|NN dalsgaard|NN s|NN damm|NN d|NN ph|NN 
+subtypes|NN of|NN adhd|NN child|NN executive|NN function|NN deficit|NN differ|NN 
+journal|NN of|NN psychology|NN psychiatry|NN discipline|NN 
+http|NN 1|NN 
+pmid|NN http|NN 
+jt|NN eg|NN ae|NN ej|NN 
+causal|NN heterogeneity|NN in|NN disorder|NN subtypes|NN 
+psychiatry|NN 
+tps|NN 
+pmid|NN http|NN 
+v|NN chaplin|NN m|NN v|NN july|NN 
+deficit|NN in|NN patient|NN adhd|NN 
+review|NN of|NN literature|NN http|NN 
+postgraduate|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+study|NN altered|NN processing|NN of|NN reinforcement|NN incentive|NN in|NN child|NN adhd|NN 
+child|NN reward|NN reward|NN incentive|NN 
+intensity|NN of|NN reinforcement|NN in|NN task|NN performance|NN in|NN child|NN adhd|NN 
+pharmacotherapy|NN task|NN persistence|NN in|NN child|NN 
+study|NN approach|NN intervention|NN process|NN in|NN patient|NN adhd|NN outcome|NN child|NN transition|NN adolescence|NN adulthood|NN 
+collaborate|NN centre|NN health|NN 
+diagnosis|NN http|NN 
+attention_deficit_hyperactivity_disorder|DS diagnosis|NN management|NN of|NN adhd|NN in|NN child|NN people|NN adult|NN http|NN 
+guideline|NN 
+leicester|NN society|NN 
+pp|NN 
+http|NN http|NN 
+http|NN 
+bookshelf|NN 
+merckmedicus|NN module|NN adhd|NN http|NN p|NN 
+1|NN 
+wiener|NN jm|NN mk|NN 
+textbook|NN of|NN child|NN psychiatry|NN http|NN 
+ed|NN 
+publish|NN 
+http|NN 2|NN 
+m|NN l|NN rt|NN dupaul|NN g|NN m|NN hm|NN ganiats|NN b|NN meyer|NN b|NN perrin|NN j|NN pierce|NN k|NN reiff|NN m|NN stein|NN mt|NN visser|NN s|NN 
+adhd|NN practice|NN guideline|NN diagnosis|NN evaluation|NN treatment|NN of|NN disorder|NN in|NN child|NN adolescent|NN http|NN 
+pediatrics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+sand|NN t|NN breivik|NN n|NN 
+assessment|NN of|NN adhd|NN 
+tidsskrift|NN norske|NN laegeforening|NN in|NN norwegian|NN 
+http|NN 
+pmid|NN http|NN 
+millichap|NN jg|NN millichap|NN jj|NN stack|NN cv|NN 
+utility|NN of|NN electroencephalogram|NN in|NN attention_deficit_hyperactivity_disorder|DS 
+eeg|NN neuroscience|NN 
+http|NN 
+pmid|NN http|NN 
+fda|NN market|NN of|NN brain|NN test|NN child|NN teen|NN adhd|NN http|NN 
+state|NN food|NN drug|NN administration|NN 
+july|NN http|NN september|NN 
+lenartowicz|NN loo|NN sk|NN 
+use|NN of|NN eeg|NN adhd|NN http|NN 
+psychiatry|NN report|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+g|NN j|NN hestad|NN k|NN 
+eeg|NN ratio|NN in|NN attention|NN disorder|NN control|NN sensitivity|NN specificity|NN correlate|NN 
+psychiatry|NN research|NN 
+http|NN 
+pmid|NN http|NN 
+bj|NN barkley|NN ra|NN shapiro|NN cj|NN 
+disorder|NN 
+in|NN mash|NN ej|NN barkley|NN ra|NN ed|NN 
+assessment|NN of|NN childhood|NN disorder|NN 
+york|NN ny|NN guilford|NN press|NN 
+pp|NN 
+s|NN 
+criterion|NN in|NN attention_deficit_hyperactivity_disorder|DS change|NN in|NN dsm|NN http|NN 
+frontier|NN in|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+berger|NN i|NN 
+diagnosis|NN of|NN attention_deficit_hyperactivity_disorder|DS ado|NN something|NN http|NN pdf|NN 
+israel|NN association|NN journal|NN 
+pmid|NN http|NN 
+mortality|NN morbidity|NN statistic|NN http|NN 
+june|NN 
+culpepper|NN l|NN g|NN 
+challenge|NN in|NN identify|NN disorder|NN in|NN adult|NN in|NN care|NN set|NN review|NN of|NN literature|NN http|NN 
+care|NN companion|NN journal|NN of|NN psychiatry|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+asherson|NN philip|NN jessica|NN 2019|NN 
+research|NN review|NN disorder|NN 
+journal|NN of|NN psychology|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+consumer|NN report|NN drug|NN effectiveness|NN review|NN project|NN 
+prescription|NN drug|NN attention_deficit_hyperactivity_disorder|DS adhd|NN effectiveness|NN safety|NN price|NN http|NN pdf|NN 
+buy|NN drug|NN http|NN pdf|NN april|NN 
+owen|NN ja|NN 
+sleep_disorder|DS disorder|NN 
+psychiatry|NN report|NN 
+http|NN 
+pmid|NN http|NN 
+walter|NN silvestri|NN r|NN zucconi|NN m|NN chandrashekariah|NN r|NN e|NN 
+review|NN of|NN relationship|NN link|NN attention_deficit_hyperactivity_disorder|DS adhd|NN sleep|NN movement|NN disorder|NN parasomnias|NN hypersomnia|NN rhythm|NN disorder|NN http|NN 
+journal|NN of|NN sleep|NN medicine|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+c|NN c|NN d|NN 
+impairment|NN in|NN obstructive|NN sleep|NN apnea|ST 
+chest|NN 
+http|NN 
+pmid|NN http|NN 
+cancer|DS adhd|NN in|NN child|NN researcher|NN http|NN 
+institute|NN of|NN health|NN nih|NN 
+march|NN 2019|NN 
+c|NN bonvicini|NN c|NN faraone|NN sv|NN m|NN 
+biomarkers|NN disorder|NN review|NN 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+rahbi|NN ha|NN rm|NN chitme|NN hr|NN 
+intervention|NN pharmacist|NN in|NN patient|NN care|NN http|NN 
+journal|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+m|NN p|NN caci|NN h|NN s|NN j|NN wood|NN le|NN 
+review|NN analysis|NN of|NN outcome|NN in|NN attention_deficit_hyperactivity_disorder|DS effect|NN of|NN treatment|NN http|NN pmc3520745|NN 
+medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+fabiano|NN ga|NN pelham|NN cole|NN em|NN bc|NN 
+of|NN treatment|NN disorder|NN 
+psychology|NN review|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+evidence|NN treatment|NN adhd|NN 
+cj|NN vaughan|NN b|NN barker|NN corr|NN l|NN wheeler|NN madaan|NN v|NN 
+review|NN of|NN attention|NN disorder|NN psychiatrist|NN 
+clinic|NN of|NN america|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+evans|NN j|NN bunford|NN n|NN 
+treatment|NN child|NN adolescent|NN disorder|NN http|NN 
+journal|NN of|NN child|NN psychology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+arns|NN s|NN strehl|NN u|NN breteler|NN m|NN july|NN 
+efficacy|NN of|NN treatment|NN in|NN adhd|NN effect|NN inattention|NN impulsivity|NN hyperactivity|NN http|NN 
+eeg|NN neuroscience|NN 
+http|NN 
+pmid|NN http|NN 
+daley|NN d|NN der|NN oord|NN s|NN m|NN s|NN m|NN doepfner|NN m|NN hoofdakker|NN bj|NN coghill|NN d|NN thompson|NN m|NN asherson|NN p|NN t|NN brandeis|NN d|NN buitelaar|NN j|NN dittmann|NN rw|NN hollis|NN c|NN m|NN e|NN m|NN p|NN simonoff|NN e|NN c|NN hc|NN taylor|NN e|NN ic|NN ej|NN 
+practitioner|NN review|NN practice|NN in|NN use|NN of|NN parent|NN train|NN intervention|NN in|NN treatment|NN of|NN child|NN adolescent|NN attention_deficit_hyperactivity_disorder|DS http|NN pdf|NN 
+journal|NN of|NN psychology|NN psychiatry|NN discipline|NN 
+http|NN 
+pmid|NN http|NN 
+s|NN m|NN brandeis|NN d|NN m|NN aggensteiner|NN p|NN daley|NN d|NN p|NN simonoff|NN e|NN stevenson|NN j|NN ej|NN 
+neurofeedback|NN disorder|NN of|NN outcome|NN trial|NN http|NN 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+bjornstad|NN g|NN montgomery|NN p|NN 
+bjornstad|NN gj|NN 
+family|NN therapy|NN deficit|NN disorder|NN disorder|NN in|NN child|NN adolescent|NN s|NN 
+cochrane|NN database|NN of|NN review|NN 2|NN cd005042|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+turkington|NN c|NN j|NN 
+attention_deficit_hyperactivity_disorder|DS adhd|NN http|NN 
+encyclopedia|NN of|NN brain|NN brain|NN disorder|NN 
+infobase|NN publish|NN 
+pp|NN 
+http|NN 
+google|NN book|NN 
+mikami|NN ay|NN 
+importance|NN of|NN friendship|NN youth|NN disorder|NN http|NN 
+child|NN family|NN psychology|NN review|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+heijer|NN ae|NN groen|NN y|NN tucha|NN l|NN ab|NN koerts|NN j|NN lange|NN kw|NN j|NN tucha|NN o|NN 
+sweat|NN 
+effect|NN of|NN exercise|NN cognition|NN behavior|NN in|NN child|NN adult|NN adhd|NN literature|NN review|NN http|NN 
+journal|NN of|NN transmission|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+chronic|NN effect|NN of|NN cardio|NN exercise|NN function|NN executive|NN function|NN attention|NN behavior|NN 
+kamp|NN cf|NN b|NN holmberg|NN hc|NN 
+exercise|NN symptom|NN of|NN disorder|NN behaviour|NN motor|NN skill|NN strength|NN parameter|NN 
+acta|NN paediatrica|NN 
+http|NN 
+pmid|NN http|NN 
+type|NN of|NN exercise|NN symptom|NN of|NN adhd|NN behaviour|NN motor|NN skill|NN strength|NN parameter|NN side|NN effect|NN 
+report|NN type|NN intensity|NN duration|NN frequency|NN of|NN exercise|NN rommel|NN halperin|NN jm|NN mill|NN j|NN asherson|NN p|NN j|NN 
+protection|NN diathesis|NN in|NN disorder|NN role|NN of|NN exercise|NN http|NN 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+find|NN study|NN support|NN notion|NN exercise|NN factor|NN adhd|NN 
+castells|NN lídia|NN cunill|NN ruth|NN 
+cochrane|NN developmental|NN problem|NN group|NN 
+amphetamine|NN attention_deficit_hyperactivity_disorder|DS adhd|NN in|NN adult|NN http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd007813|NN 
+http|NN ub3|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+oj|NN ramstad|NN e|NN hb|NN td|NN m|NN m|NN s|NN c|NN magnusson|NN fl|NN cr|NN gillie|NN rasmussen|NN k|NN gauci|NN d|NN zwi|NN m|NN kirubakaran|NN r|NN forsbøl|NN b|NN simonsen|NN e|NN c|NN 
+methylphenidate|NN child|NN adolescent|NN attention_deficit_hyperactivity_disorder|DS adhd|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd009885|NN 
+http|NN ub2|NN 
+pmid|NN http|NN 
+m|NN s|NN m|NN magallón|NN s|NN zallo|NN n|NN eo|NN p|NN c|NN g|NN 
+risk|NN of|NN injury|NN in|NN child|NN adolescent|NN adhd|NN impact|NN of|NN medication|NN review|NN 
+neuroscience|NN review|NN 
+http|NN 
+pmid|NN http|NN 
+childress|NN ac|NN fr|NN 
+clonidine|NN option|NN disorder|NN 
+drug|NN of|NN today|NN 
+http|NN 
+pmid|NN http|NN 
+mcdonagh|NN m|NN peterson|NN k|NN thakurta|NN s|NN 
+drug|NN class|NN review|NN treatment|NN attention_deficit_hyperactivity_disorder|DS http|NN 
+drug|NN class|NN review|NN 
+state|NN library|NN of|NN medicine|NN 
+pmid|NN http|NN 
+http|NN 
+v|NN e|NN mulvaney|NN c|NN grainge|NN m|NN stanton|NN w|NN k|NN 
+drug|NN treatment|NN child|NN adhd|NN behaviour|NN achievement|NN in|NN school|NN classroom|NN 
+review|NN 
+child|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+b|NN 
+http|NN 
+opinion|NN in|NN pediatrics|NN 
+http|NN 
+pmid|NN http|NN 
+in|NN addition|NN consensus|NN criterion|NN adhd|NN 
+benefit|NN effect|NN of|NN therapy|NN disorder|NN continue|NN 
+gap|NN in|NN knowledge|NN hinder|NN ability|NN of|NN clinician|NN adhd|NN 
+hazell|NN p|NN 
+challenge|NN effect|NN of|NN treatment|NN disorder|NN http|NN 
+opinion|NN in|NN psychiatry|NN 
+s|NN 
+pmid|NN http|NN 
+hart|NN h|NN radua|NN j|NN t|NN d|NN rubia|NN k|NN 
+of|NN resonance|NN study|NN of|NN inhibition|NN attention|NN in|NN disorder|NN medication|NN age|NN effect|NN 
+jama|NN psychiatry|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+spencer|NN tj|NN lj|NN valera|NN em|NN makris|NN n|NN faraone|NN sv|NN j|NN 
+effect|NN of|NN psychostimulants|NN brain|NN structure|NN function|NN in|NN adhd|NN literature|NN review|NN of|NN resonance|NN neuroimaging|NN study|NN http|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+t|NN n|NN 
+of|NN mri|NN study|NN in|NN child|NN adult|NN attention_deficit_hyperactivity_disorder|DS treatment|NN effect|NN 
+acta|NN psychiatrica|NN scandinavica|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+basal|NN region|NN globus|NN pallidus|NN putamen|NN caudatus|NN in|NN child|NN adhd|NN 
+change|NN alteration|NN in|NN region|NN acc|NN amygdala|NN in|NN population|NN time|NN child|NN adulthood|NN 
+treatment|NN effect|NN brain|NN structure|NN 
+s|NN n|NN giovane|NN c|NN c|NN aj|NN carucci|NN s|NN atkinson|NN lz|NN l|NN t|NN coghill|NN d|NN c|NN simonoff|NN e|NN barbui|NN c|NN purgato|NN m|NN hc|NN shokraneh|NN f|NN xia|NN j|NN 
+efficacy|NN tolerability|NN of|NN medication|NN hyperactivity|NN disorder|NN in|NN child|NN adolescent|NN adult|NN review|NN network|NN http|NN 
+lancet|NN 
+psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+greenhill|NN ll|NN posner|NN k|NN vaughan|NN b|NN cj|NN 
+attention_deficit_hyperactivity_disorder|DS in|NN preschool|NN child|NN 
+child|NN clinic|NN of|NN america|NN 
+2|NN ix|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+stevens|NN jr|NN te|NN ta|NN 
+stimulant|NN disorder|NN approach|NN challenge|NN http|NN c3733520|NN 
+care|NN companion|NN cns|NN disorder|NN 
+2|NN 
+http|NN 
+pmc|NN p|NN 
+pmid|NN http|NN 
+individualize|NN treatment|NN adult|NN adhd|NN guideline|NN ttp|NN 
+medscape|NN 
+http|NN june|NN 
+j|NN 
+stimulant|NN treatment|NN of|NN disorder|NN http|NN t|NN 
+medscape|NN 
+http|NN december|NN june|NN 
+treatment|NN guideline|NN information|NN medication|NN in|NN child|NN do|NN patient|NN 
+evidence|NN methylphenidate|NN do|NN equipotent|NN in|NN treatment|NN of|NN patient|NN adult|NN adhd|NN patient|NN response|NN consistent|NN in|NN study|NN 
+data|NN patient|NN approach|NN in|NN term|NN of|NN dose|NN target|NN dosage|NN methylphenidate|NN d|NN in|NN adolescent|NN adult|NN risk|NN of|NN dosage|NN level|NN 
+agent|NN efficacy|NN safety|NN of|NN medication|NN behavior|NN dosage|NN titration|NN of|NN product|NN patient|NN receive|NN dose|NN benefit|NN of|NN therapy|NN 
+kessler|NN s|NN 
+drug|NN therapy|NN in|NN hyperactivity|NN disorder|NN 
+journal|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+sj|NN w|NN 
+shoptaw|NN sj|NN r|NN 
+treatment|NN psychosis|DS 
+cochrane|NN database|NN of|NN review|NN 1|NN cd003026|NN 
+http|NN ub3|NN 
+pmid|NN http|NN 
+minority|NN of|NN individual|NN amphetamine|NN psychosis|DS care|NN emergency|NN department|NN hospital|NN 
+in|NN case|NN symptom|NN of|NN psychosis|DS paranoid|NN delusion|ST auditory|NN hallucination|ST in|NN presence|NN of|NN agitation|NN 
+common|NN amphetamine|NN user|NN symptom|NN intervention|NN of|NN user|NN psychosis|DS fail|NN find|NN trial|NN indicate|NN use|NN of|NN medication|NN symptom|NN of|NN psychosis|DS 
+xr|NN information|NN http|NN pdf|NN 
+state|NN food|NN drug|NN administration|NN 
+shire|NN http|NN pdf|NN december|NN december|NN 
+psychotic|NN manic|NN symptom|NN hallucination|ST think|NN mania|ST in|NN child|NN adolescent|NN history|NN of|NN illness|NN mania|ST stimulant|NN do|NN 
+in|NN analysis|NN of|NN multiple|NN placebo|NN study|NN symptom|NN in|NN patient|NN event|NN of|NN week|NN do|NN of|NN patient|NN in|NN patient|NN 
+mosholder|NN ad|NN gelperin|NN k|NN ta|NN phelan|NN k|NN r|NN 
+hallucination|ST symptom|NN use|NN of|NN disorder|NN drug|NN in|NN child|NN 
+pediatrics|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+kraemer|NN m|NN j|NN wiltfang|NN j|NN ki|NN b|NN 
+psychosis|DS in|NN disorder|NN report|NN of|NN case|NN review|NN of|NN literature|NN 
+neuropharmacology|NN 
+http|NN 
+pmid|NN http|NN 
+van|NN gh|NN n|NN buitelaar|NN jk|NN 
+treatment|NN of|NN hyperactivity|NN disorder|NN 
+neuropsychopharmacology|NN 
+http|NN 
+pmid|NN http|NN 
+k|NN donyai|NN p|NN 
+drug|NN holiday|NN medication|NN experience|NN decade|NN http|NN 
+journal|NN of|NN attention|NN disorder|NN 
+s|NN 
+pmid|NN http|NN 
+http|NN pdf|NN june|NN 
+malenka|NN rc|NN nestler|NN ej|NN hyman|NN se|NN 
+sydor|NN ry|NN ed|NN 
+neuropharmacology|NN foundation|NN neuroscience|NN 
+york|NN hill|NN 
+pp|NN 
+use|NN of|NN stimulant|NN do|NN risk|NN of|NN experimentation|NN drug|NN symptom|NN 
+adhd|NN school|NN failure|NN peer|NN rejection|NN association|NN peer|NN group|NN drug|NN misuse|NN 
+amphetamine|NN methylphenidate|NN in|NN do|NN attention_deficit_hyperactivity_disorder|DS in|NN do|NN narcolepsy|DS chapter|NN 
+us|NN drug|NN use|NN do|NN addiction|NN health|NN science|NN university|NN 
+black|NN box|NN warn|NN of|NN drug|NN food|NN drug|NN administration|NN 
+portland|NN oregon|NN state|NN library|NN of|NN medicine|NN 
+http|NN 
+september|NN 
+ashton|NN h|NN gallagher|NN p|NN moore|NN b|NN 
+adult|NN psychiatrist|NN dilemma|NN psychostimulant|NN use|NN in|NN attention|NN disorder|NN 
+journal|NN of|NN psychopharmacology|NN 
+http|NN 
+pmid|NN http|NN 
+gurnani|NN t|NN ivanov|NN i|NN jh|NN 
+pharmacotherapy|NN of|NN aggression|NN in|NN child|NN psychiatric|NN disorder|NN 
+journal|NN of|NN child|NN psychopharmacology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+study|NN al|NN 
+al|NN 
+antipsychotic|NN generation|NN agent|NN stimulant|NN aggression|NN in|NN adhd|NN jt|NN k|NN t|NN falk|NN m|NN 
+of|NN disorder|NN disorder|NN symptom|NN restriction|NN diet|NN food|NN color|NN additive|NN http|NN 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pelsser|NN lm|NN k|NN j|NN r|NN 
+evidence|NN review|NN of|NN of|NN trial|NN efficacy|NN of|NN intervention|NN behavior|NN of|NN child|NN adhd|NN http|NN 
+plo|NN review|NN 
+1|NN e0169277|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+konikowska|NN k|NN b|NN rózańska|NN d|NN 
+influence|NN of|NN component|NN of|NN diet|NN symptom|NN of|NN adhd|NN in|NN child|NN 
+roczniki|NN panstwowego|NN zakladu|NN higieny|NN 
+2|NN 
+pmid|NN http|NN 
+le|NN disilvestro|NN ra|NN 
+zinc|NN in|NN disorder|NN 
+journal|NN of|NN child|NN psychopharmacology|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+bloch|NN mh|NN j|NN 
+supplement|NN treatment|NN of|NN adhd|NN http|NN 
+child|NN clinic|NN of|NN america|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+krause|NN j|NN 
+spect|NN pet|NN of|NN dopamine|NN transporter|NN in|NN disorder|NN 
+review|NN of|NN neurotherapeutics|NN 
+http|NN 
+pmid|NN http|NN 
+zinc|NN bind|NN site|NN of|NN dat|NN dat|NN inhibitor|NN 
+in|NN context|NN study|NN in|NN child|NN of|NN interest|NN effect|NN of|NN zinc|NN supplementation|NN symptom|NN of|NN 
+time|NN supplementation|NN zinc|NN in|NN treatment|NN algorithm|NN 
+bloch|NN mh|NN 
+fatty|NN acid|NN supplementation|NN treatment|NN of|NN child|NN disorder|NN symptomatology|NN review|NN http|NN 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+königs|NN kiliaan|NN aj|NN 
+appraisal|NN of|NN fatty|NN acid|NN in|NN disorder|NN treatment|NN http|NN 
+disease|NN treatment|NN 
+tps|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+dalsgaard|NN søren|NN østergaard|NN dinesen|NN jam|NN bo|NN 
+mortality|NN in|NN child|NN adolescent|NN adult|NN attention_deficit_hyperactivity_disorder|DS cohort|NN study|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+faraone|NN sv|NN asherson|NN p|NN t|NN j|NN buitelaar|NN jk|NN ja|NN rohde|NN la|NN ej|NN tannock|NN r|NN franke|NN b|NN 
+disorder|NN http|NN pdf|NN 
+review|NN 
+disease|NN primer|NN review|NN 
+1|NN citeseerx|NN http|NN 
+http|NN 
+pmid|NN http|NN 
+mcclernon|NN fj|NN kollins|NN sh|NN 
+adhd|NN smoke|NN gene|NN brain|NN http|NN 
+annals|NN of|NN york|NN academy|NN of|NN science|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+polanczyk|NN g|NN m|NN horta|NN bl|NN j|NN rohde|NN la|NN 
+prevalence|NN of|NN adhd|NN review|NN metaregression|NN analysis|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+staller|NN j|NN faraone|NN sv|NN 
+hyperactivity|NN disorder|NN in|NN girl|NN epidemiology|NN management|NN 
+cns|NN drug|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+adhd|NN year|NN http|NN pdf|NN 
+center|NN disease|NN control|NN prevention|NN 
+http|NN pdf|NN 2|NN 
+connor|NN df|NN 
+problem|NN of|NN overdiagnosis|NN adhd|NN 
+time|NN 
+dalsgaard|NN s|NN 
+disorder|NN adhd|NN 
+child|NN psychiatry|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+palmer|NN ed|NN finger|NN s|NN 
+early|NN description|NN of|NN adhd|NN subtype|NN dr|NN crichton|NN restlessness|NN 
+child|NN health|NN 
+2|NN 
+http|NN 
+crichton|NN 
+inquiry|NN nature|NN origin|NN of|NN derangement|NN concise|NN system|NN of|NN physiology|NN pathology|NN of|NN human|NN mind|NN history|NN of|NN passion|NN effect|NN http|NN 
+kingdom|NN press|NN 
+google|NN book|NN 
+g|NN 
+abnormal|NN condition|NN in|NN child|NN lecture|NN 
+lancet|NN 
+history|NN of|NN attention_deficit_hyperactivity_disorder|DS idiocy|NN imbecility|NN encephalitis|DS child|NN deviant|NN 
+behavior|NN 
+c|NN 
+deficiency|NN amentia|NN 1|NN 
+york|NN william|NN wood|NN company|NN 
+connors|NN 
+disorder|NN development|NN overview|NN 
+journal|NN of|NN attention|NN disorder|NN 
+millichap|NN jg|NN 
+definition|NN history|NN of|NN adhd|NN http|NN kalq0cdcbaoc|NN 
+attention_deficit_hyperactivity_disorder|DS handbook|NN physician|NN guide|NN 
+springer|NN science|NN 
+pp|NN 
+2|NN http|NN oc|NN http|NN 
+http|NN 1|NN december|NN 2019|NN 
+lccn|NN http|NN google|NN book|NN 
+m|NN hechtman|NN lt|NN g|NN 
+adhd|NN in|NN adulthood|NN introduction|NN http|NN 
+adhd|NN in|NN adulthood|NN guide|NN theory|NN diagnosis|NN treatment|NN http|NN 
+taylor|NN francis|NN 
+pp|NN 
+http|NN 
+google|NN book|NN 
+rasmussen|NN n|NN 
+amphetamine|NN in|NN medicine|NN 
+journal|NN of|NN history|NN of|NN medicine|NN science|NN 
+http|NN 
+pmid|NN http|NN 
+k|NN straughn|NN ab|NN j|NN gonzález|NN ma|NN 
+evolution|NN of|NN stimulant|NN adhd|NN methylphenidate|NN http|NN c2629554|NN 
+human|NN psychopharmacology|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+md|NN 
+origin|NN of|NN stimulant|NN use|NN treatment|NN of|NN attention|NN deficit|NN disorder|NN 
+journal|NN of|NN psychiatry|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+w|NN 
+charles|NN 
+journal|NN of|NN psychiatry|NN 
+barkley|NN r|NN 
+hyperactivity|NN disorder|NN handbook|NN diagnosis|NN treatment|NN 
+york|NN guilford|NN 
+j|NN faraone|NN sv|NN k|NN knee|NN d|NN tsuang|NN mt|NN 
+risk|NN factor|NN in|NN attention|NN deficit|NN disorder|NN 
+journal|NN of|NN academy|NN of|NN child|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+bb|NN applegate|NN b|NN mcburnett|NN k|NN j|NN greenhill|NN l|NN hynd|NN gw|NN barkley|NN ra|NN j|NN jensen|NN p|NN richters|NN 
+field|NN trial|NN attention_deficit_hyperactivity_disorder|DS in|NN child|NN adolescent|NN 
+journal|NN of|NN psychiatry|NN 
+http|NN 
+pmid|NN http|NN 
+dm|NN 
+attention_deficit_hyperactivity_disorder|DS aspect|NN http|NN 
+archive|NN of|NN disease|NN in|NN childhood|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+faraone|NN sv|NN 
+foundation|NN disorder|NN disorder|NN 
+child|NN psychiatry|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+boseley|NN sarah|NN september|NN 
+child|NN disorder|NN study|NN http|NN 
+guardian|NN 
+http|NN july|NN 
+e|NN 
+attention|NN disorder|NN review|NN 
+journal|NN of|NN nurse|NN 
+http|NN 
+pmid|NN http|NN 
+schwarz|NN alan|NN december|NN 
+sell|NN of|NN attention|NN deficit|NN disorder|NN http|NN 
+york|NN time|NN december|NN 
+http|NN 1|NN march|NN 
+elder|NN te|NN 
+importance|NN of|NN standard|NN in|NN diagnosis|NN evidence|NN birth|NN date|NN http|NN 
+journal|NN of|NN health|NN economics|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ec|NN cwik|NN jc|NN j|NN schneider|NN s|NN 
+overdiagnosis|NN of|NN disorder|NN in|NN child|NN adolescent|NN in|NN country|NN http|NN 
+child|NN psychiatry|NN health|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+taylor|NN e|NN 
+attention_deficit_hyperactivity_disorder|DS diagnosis|NN 
+http|NN 
+archive|NN of|NN disease|NN in|NN childhood|NN 
+http|NN 
+pmid|NN http|NN 
+hinshaw|NN sp|NN rm|NN 
+explosion|NN myth|NN medication|NN money|NN today|NN push|NN performance|NN 
+oxford|NN university|NN press|NN 
+link|NN quotation|NN attention_deficit_hyperactivity_disorder|DS attention_deficit_hyperactivity_disorder|DS http|NN institute|NN of|NN health|NN adhd|NN zealand|NN moh|NN guideline|NN assessment|NN treatment|NN of|NN disorder|NN http|NN aacap|NN practice|NN parameter|NN assessment|NN treatment|NN of|NN attention_deficit_hyperactivity_disorder|DS faraone|NN sv|NN asherson|NN p|NN t|NN j|NN buitelaar|NN jk|NN ja|NN rohde|NN la|NN ej|NN tannock|NN r|NN franke|NN b|NN 
+disorder|NN 
+review|NN 
+disease|NN primer|NN 
+1|NN citeseerx|NN http|NN 
+http|NN 
+pmid|NN http|NN 
+classification|NN f90|NN d|NN p|NN http|NN ttp|NN shx|NN s|NN mesh|NN d001289|NN http|NN i|NN diseasesdb|NN http|NN resource|NN medlineplus|NN http|NN emedicine|NN http|NN erview|NN p|NN 
+uk|NN attention_deficit_hyperactivity_disorder|DS http|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

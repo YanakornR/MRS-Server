@@ -1,0 +1,225 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN parkinson's_disease|DS 
+journal|NN disease|NN journal|NN 
+use|NN disambiguation|NN 
+parkinson's_disease|DS name|NN parkinson's_disease|DS parkinson's_disease|DS parkinson's_disease|DS parkinson's_disease|DS parkinson's_disease|DS sketche|NN front|NN side|NN man|NN face|NN 
+illustration|NN parkinson's_disease|DS william|NN richard|NN gowers|NN manual|NN disease|NN system|NN symptom|NN rigidity|NN slowness|NN movement|NN difficulty|NN walk|NN complication|NN dementia|DS depression|ST anxiety|ST onset|NN age|NN cause|NN risk|NN factor|NN pesticide|NN exposure|NN head|NN injury|NN method|NN symptom|NN diagnosis|NN dementia|DS body|NN palsy|NN tremor|ST use|NN treatment|NN surgery|NN dopamine|NN agonist|NN life|NN expectancy|NN year|NN frequency|NN death|NN 
+parkinson's_disease|DS parkinson's_disease|DS disorder|NN system|NN motor|NN system|NN disease|NN symptom|NN symptom|NN disease|NN symptom|NN rigidity|NN slowness|NN movement|NN difficulty|NN walk|NN think|NN behavioral|NN problem|NN dementia|DS stage|NN disease|NN depression|ST anxiety|ST people|NN parkinson's_disease|DS symptom|NN sleep|NN problem|NN motor|NN symptom|NN syndrome|NN 
+cause|NN parkinson's_disease|DS factor|NN family|NN member|NN disease|NN risk|NN people|NN pesticide|NN head|NN injury|NN risk|NN tobacco|NN smoker|NN coffee|NN tea|NN motor|NN symptom|NN disease|NN result|NN death|NN cell|NN nigra|NN region|NN midbrain|NN result|NN dopamine|NN region|NN brain|NN cause|NN cell|NN death|NN build-up|NN protein|NN body|NN neuron|NN diagnosis|NN case|NN symptom|NN test|NN rule|NN disease|NN 
+cure|NN parkinson's_disease|DS treatment|NN symptom|NN treatment|NN medication|NN l-dopa|NN dopamine|NN agonist|NN disease|NN neuron|NN medication|NN time|NN complication|NN movement|NN diet|NN form|NN rehabilitation|NN effectiveness|NN symptom|NN surgery|NN place|NN brain|NN stimulation|NN motor|NN symptom|NN case|NN drug|NN evidence|NN treatment|NN symptom|NN parkinson's_disease|DS sleep|NN disturbance|NN problem|NN 
+parkinson's_disease|DS people|NN death|NN parkinson's_disease|DS people|NN age|NN percent|NN male|NN female|NN ratio|NN people|NN age|NN parkinson's_disease|DS life|NN expectancy|NN diagnosis|NN year|NN disease|NN doctor|NN james|NN parkinson|NN description|NN essay|NN parkinson's_disease|DS awareness|NN campaign|NN world|NN day|NN birthday|NN james|NN parkinson|NN april|NN use|NN tulip|NN symbol|NN disease|NN people|NN parkinson|NN publics|NN awareness|NN condition|NN actor|NN michael|NN j|NN 
+fox|NN cyclist|NN davis|NN boxer|NN muhammad|NN ali|NN actor|NN alan|NN alda|NN content|NN 
+classification|NN sign|NN symptom|NN motor|NN cause|NN factor|NN genetics|NN brain|NN cell|NN death|NN diagnosis|NN image|NN diagnosis|NN prevention|NN management|NN surgery|NN rehabilitation|NN care|NN epidemiology|NN history|NN society|NN culture|NN cost|NN advocacy|NN case|NN research|NN animal|NN model|NN gene|NN therapy|NN neuroprotective|NN treatment|NN therapy|NN reference|NN link|NN 
+movement|NN difficulty|NN parkinson's_disease|DS slowness|NN movement|NN reduction|NN speed|NN range|NN action|NN finger-tap|NN combination|NN sign|NN rigidity|NN tremor|ST rest|NN instability|NN 
+number|NN disorder|NN type|NN movement|NN issue|NN 
+parkinson's_disease|DS form|NN parkinsonism|DS parkinson's_disease|DS mean|NN cause|NN cause|NN parkinsonism|DS toxin|NN infection|NN side|NN effect|NN drug|NN derangement|NN brain|NN lesion|NN stroke|NN 
+disorder|NN parkinsonism|DS parkinson|NN syndrome|NN illness|NN parkinsonism|DS feature|NN parkinson's_disease|DS 
+system|NN atrophy|DS supranuclear|NN palsy|NN degeneration|NN dementia|DS body|NN 
+scientist|NN disease|NN due|NN accumulation|NN protein|NN brain|NN disease|NN alzheimers|NN disease|NN brain|NN tau|NN protein|NN overlap|NN tauopathy|NN synucleinopathy|NN 
+contrast|NN parkinson's_disease|DS alzheimers|NN disease|NN memory|NN loss|NN sign|NN parkinson's_disease|DS slowness|NN tremor|ST stiffness|NN instability|NN feature|NN alzheimers|NN 
+dementia|DS body|NN similarity|NN parkinson's_disease|DS subset|NN parkinson's_disease|DS case|NN dementia|DS parkinson's_disease|DS dementia|DS 
+relationship|NN parkinson's_disease|DS part|NN continuum|NN feature|NN disease|NN sign|NN symptom|NN picture|NN male|NN parkinson's_disease|DS stoop|NN 
+side|NN chair|NN 
+man|NN parkinson's_disease|DS display|NN walk|NN posture|NN signature|NN catherine|NN handwrit|NN person|NN parkinson's_disease|DS article|NN sign|NN symptom|NN parkinson's_disease|DS 
+symptom|NN parkinson's_disease|DS movement|NN motor|NN symptom|NN dysfunction|NN problem|NN mood|NN cognition|NN behavior|NN thought|NN alteration|NN sense|NN smell|NN sleep|NN difficulty|NN 
+symptom|NN time|NN diagnosis|NN motor|NN information|NN gait|NN 
+motor|NN symptom|NN parkinson's_disease|DS tremor|ST slowness|NN movement|NN rigidity|NN instability|NN 
+sign|NN tremor|ST hand|NN rest|NN movement|NN arm|NN stage|NN sleep|NN hand|NN hand|NN disease|NN frequency|NN parkinson's_disease|DS tremor|ST hertz|NN cycle|NN second|NN 
+feature|NN tremor|ST tendency|NN index|NN finger|NN thumb|NN touch|NN movement|NN term|NN similarity|NN movement|NN people|NN parkinson's_disease|DS technique|NN pill|NN 
+slowness|NN movement|NN case|NN parkinson's_disease|DS disturbance|NN motor|NN plan|NN movement|NN initiation|NN difficulty|NN course|NN movement|NN process|NN plan|NN initiation|NN execution|NN movement|NN 
+performance|NN movement|NN 
+symptom|NN disease|NN difficulty|NN task|NN dress|NN feed|NN bath|NN 
+difficulty|NN motor|NN activity|NN time|NN stress|NN illness|NN 
+patient|NN parkinson's_disease|DS bicycle|NN climb|NN stair|NN walk|NN level|NN 
+physician|NN assessment|NN patient|NN movement|NN finger|NN feet|NN 
+stiffness|NN resistance|NN limb|NN movement|NN muscle|NN tone|NN contraction|NN muscle|NN parkinsonism|DS rigidity|NN rigidity|NN rigidity|NN combination|NN tremor|ST tone|NN origin|NN rigidity|NN rigidity|NN pain|ST pain|ST manifestation|NN disease|NN stage|NN parkinson's_disease|DS rigidity|NN neck|NN shoulder|NN muscle|NN muscle|NN face|NN extremity|NN progression|NN disease|NN rigidity|NN body|NN ability|NN 
+instability|NN stage|NN disease|NN balance|NN fall|NN bone|NN fracture|NN loss|NN confidence|NN mobility|NN instability|NN stage|NN people|NN development|NN symptom|NN people|NN parkinson's_disease|DS fall|NN fall|NN number|NN fall|NN severity|NN parkinson's_disease|DS 
+motor|NN sign|NN symptom|NN gait|NN posture|NN disturbance|NN shuffle|NN step|NN posture|NN arm|NN swing|NN 
+gait|NN arrest|NN feet|NN floor|NN turn|NN direction|NN voice|NN expression|NN handwrit|NN sign|NN 
+parkinson's_disease|DS disturbance|NN 
+disorder|NN cognition|NN mood|NN behavior|NN thought|NN 
+disturbance|NN stage|NN disease|NN diagnosis|NN increase|NN prevalence|NN duration|NN disease|NN deficit|NN parkinson's_disease|DS executive|NN dysfunction|NN problem|NN flexibility|NN think|NN rule|NN acquisition|NN action|NN action|NN memory|NN control|NN attention|NN difficulty|NN process|NN speed|NN recal|NN perception|NN estimation|NN time|NN improvement|NN recal|NN cue|NN difficulty|NN part|NN disease|NN example|NN individual|NN test|NN recognition|NN perception|NN orientation|NN line|NN 
+person|NN parkinson's_disease|DS time|NN risk|NN dementia|DS population|NN people|NN parkinson's_disease|DS parkinson's_disease|DS dementia|DS prevalence|NN dementia|DS increase|NN age|NN degree|NN duration|NN disease|NN dementia|DS quality|NN life|NN people|NN parkinson's_disease|DS mortality|NN probability|NN nurse|NN home|NN care|NN 
+control|NN disorder|NN gamble|NN behavior|NN binge|NN shop|NN generosity|NN medication|NN dopamine|NN agonist|NN 
+dopamine|NN syndrome|NN medication|NN overusage|NN complication|NN use|NN 
+mood|NN alteration|NN parkinson's_disease|DS impairment|NN population|NN parkinson's_disease|DS dementia|DS 
+mood|NN difficulty|NN depression|ST apathy|ST anxiety|ST diagnosis|NN depression|ST fact|NN body|NN language|NN depression|ST parkinson's_disease|DS face|NN hang|NN dog|NN appearance|NN movement|NN speech|NN 
+people|NN parkinson's_disease|DS symptom|NN anxiety|ST anxiety|ST disorder|NN phobia|ST panic_disorder|DS disorder|NN 
+quality|NN life|NN severity|NN motor|NN symptom|NN fluctuation|NN episode|NN 
+behavior|NN hour|NN disturbance|NN medication|NN 
+delusion|ST people|NN parkinson's_disease|DS course|NN illness|NN emergence|NN dementia|DS 
+range|NN hallucination|ST sense|NN passage|NN person|NN sense|NN presence|NN perception|NN stand|NN side|NN person|NN hallucination|ST ideation|NN 
+hallucination|ST parkinson's_disease|DS voice|NN 
+psychosis|DS part|NN disease|NN 
+psychosis|DS delusion|ST delirium|DS complication|NN drug|NN treatment|NN tract|NN infection|NN drug|NN infection|NN factor|NN brain|NN pathology|NN change|NN neurotransmitter|NN receptor|NN acetylcholine|NN serotonin|NN role|NN psychosis|DS parkinson's_disease|DS 
+addition|NN neuropsychiatric|NN motor|NN symptom|NN parkinson's_disease|DS function|NN 
+sleep_disorder|DS feature|NN disease|NN medication|NN symptom|NN daytime|NN drowsiness|NN sleep|NN attack|NN disturbance|NN rem|NN sleep|NN insomnia|ST rem|NN behavior|NN disorder|NN patient|NN dream|NN bed|NN partner|NN year|NN development|NN motor|NN feature|NN parkinson's_disease|DS dlb|NN 
+alteration|NN system|NN hypotension|NN blood|NN pressure|NN skin|NN sweate|NN incontinence|NN function|NN constipation|ST stomach|NN dysmotility|NN discomfort|NN health|NN change|NN perception|NN sense|NN smell|NN vision|NN pain|ST tingle|NN numbness|NN symptom|NN year|NN diagnosis|NN disease|NN cause|NN article|NN cause|NN parkinson's_disease|DS 
+risk|NN factor|NN relation|NN theory|NN mechanism|NN disease|NN relationship|NN risk|NN pesticide|NN risk|NN smoker|NN link|NN parkinson's_disease|DS h|NN pylory|NN infection|NN absorption|NN drug|NN factor|NN 
+exposure|NN pesticide|NN history|NN head|NN injury|NN parkinson's_disease|DS parkinson's_disease|DS risk|NN 
+cigarette|NN beverage|NN increase|NN risk|NN parkinson's_disease|DS 
+concentration|NN urate|NN blood|NN serum|NN risk|NN parkinson's_disease|DS genetics|NN parkin|NN crystal|NN structure|NN 
+research|NN parkinson's_disease|DS product|NN interaction|NN factor|NN individual|NN parkinson's_disease|DS relative|NN disease|NN people|NN parkinson's_disease|DS form|NN disease|NN mutation|NN gene|NN gene|NN mutation|NN disease|NN susceptibility|NN factor|NN individual|NN risk|NN combination|NN risk|NN factor|NN age|NN onset|NN severity|NN progression|NN autosomal|NN gene|NN mutation|NN development|NN parkinson's_disease|DS lrrk2park8|NN pink1|NN dnajc13|NN 
+people|NN parkinson's_disease|DS mutation|NN gene|NN mutation|NN population|NN 
+risk|NN parkinson's_disease|DS fold|NN mutation|NN 
+parkinson's_disease|DS mutation|NN feature|NN age|NN onset|NN decline|NN 
+gene|NN mutation|NN parkinson's_disease|DS protein|NN gene|NN component|NN body|NN brain|NN people|NN parkinson's_disease|DS mutation|NN gene|NN lrrk2|NN risk|NN factor|NN non-familial|NN parkinson's_disease|DS mutation|NN gene|NN cause|NN parkinson's_disease|DS account|NN individual|NN family|NN history|NN disease|NN case|NN mutation|NN gba|NN risk|NN disease|NN 
+gene|NN function|NN lysosome|NN organelle|NN waste|NN product|NN 
+case|NN parkinson's_disease|DS disorder|NN ability|NN cell|NN 
+form|NN mutation|NN gene|NN brain|NN cell|NN 
+neurone|NN form|NN body|NN 
+body|NN diameter|NN cell|NN 
+body|NN brain|NN cell|NN nigra|NN parkinson's_disease|DS 
+colour|NN immunohistochemistry|NN stain|NN 
+article|NN pathophysiology|NN parkinson's_disease|DS 
+characteristics|NN parkinson's_disease|DS cell|NN death|NN brain|NN ganglia|NN dopamine|NN neuron|NN nigra|NN par|NN end|NN life|NN presence|NN body|NN accumulation|NN protein|NN neuron|NN 
+loss|NN neuron|NN death|NN cell|NN increase|NN number|NN type|NN cell|NN nigra|NN image|NN row|NN caption|NN row|NN b|NN 
+top|NN mid-line|NN plane|NN brainstem|NN cerebellum|NN 
+circle|NN brainstem|NN arrow|NN bottom|NN top|NN lobe|NN brain|NN 
+line|NN text|NN circle|NN 
+motor|NN middle|NN 
+gain|NN set|NN 
+line|NN text|NN 
+image|NN bottom|NN resonance|NN image|NN mry|NN sagittal|NN transverse|NN brain|NN coordinate|NN z-49|NN 
+blob|NN mark|NN volume|NN reduction|NN brainstem|NN 
+progression|NN body|NN deposit|NN stage|NN parkinson's_disease|DS braak|NN colleague|NN area|NN brain|NN volume|NN reduction|NN parkinson's_disease|DS group|NN participant|NN disease|NN study|NN brainstem|NN damage|NN stage|NN parkinson's_disease|DS neuropathology|NN 
+pathway|NN brain|NN brain|NN area|NN ganglia|NN 
+motor|NN circuit|NN name|NN projection|NN area|NN circuit|NN parkinson's_disease|DS disruption|NN symptom|NN disease|NN circuit|NN variety|NN function|NN movement|NN attention|NN learn|NN motor|NN circuit|NN 
+model|NN motor|NN circuit|NN alteration|NN parkinson's_disease|DS influence|NN limitation|NN modification|NN model|NN ganglia|NN influence|NN range|NN motor|NN system|NN time|NN 
+decision|NN action|NN inhibition|NN motor|NN system|NN activation|NN 
+release|NN inhibition|NN level|NN dopamine|NN function|NN motor|NN activity|NN level|NN dopamine|NN function|NN parkinson's_disease|DS demand|NN exertion|NN effort|NN movement|NN 
+effect|NN dopamine|NN depletion|NN reduction|NN motor|NN output|NN drug|NN parkinson's_disease|DS dopamine|NN activity|NN motor|NN system|NN time|NN brain|NN cell|NN death|NN 
+speculation|NN mechanism|NN brain|NN cell|NN mechanism|NN accumulation|NN protein|NN ubiquitin|NN cell|NN 
+protein|NN neurone|NN inclusion|NN body|NN braak|NN classification|NN disease|NN find|NN braak|NN body|NN bulb|NN medulla|NN individual|NN stage|NN symptom|NN loss|NN sense|NN smell|NN sleep|NN dysfunction|NN 
+disease|NN body|NN nigra|NN area|NN midbrain|NN forebrain|NN neocortex|NN brain|NN site|NN place|NN degeneration|NN parkinson's_disease|DS body|NN cell|NN death|NN protein|NN 
+form|NN oligomer|NN body|NN neurite|NN form|NN protein|NN people|NN dementia|DS presence|NN body|NN area|NN 
+tangle|NN plaque|NN characteristic|NN alzheimers|NN disease|NN person|NN 
+cell-death|NN mechanism|NN system|NN dysfunction|NN activity|NN iron|NN accumulation|NN nigra|NN conjunction|NN protein|NN inclusion|NN 
+stress|NN protein|NN aggregation|NN death|NN mechanism|NN diagnosis|NN 
+physician|NN parkinson's_disease|DS history|NN examination|NN people|NN improvement|NN motor|NN impairment|NN parkinson's_disease|DS diagnosis|NN 
+find|NN body|NN midbrain|NN autopsy|NN proof|NN person|NN parkinson's_disease|DS 
+course|NN illness|NN time|NN parkinson's_disease|DS presentation|NN accuracy|NN diagnosis|NN 
+cause|NN stroke|NN drug|NN parkinson|NN syndrome|NN supranuclear|NN palsy|NN system|NN atrophy|DS medication|NN symptom|NN parkinson|NN syndrome|NN progression|NN rate|NN dysfunction|NN instability|NN tremor|ST symmetry|NN onset|NN parkinson|NN plus|NN disease|NN parkinson's_disease|DS form|NN pattern|NN inheritance|NN parkinson's_disease|DS parkinsonism|DS 
+organization|NN criteria|NN ease|NN process|NN stage|NN disease|NN 
+criteria|NN uk|NN queen|NN square|NN brain|NN bank|NN disorder|NN 
+institute|NN disorder|NN stroke|NN 
+queen|NN square|NN brain|NN bank|NN criteria|NN slowness|NN movement|NN rigidity|NN rest|NN tremor|ST instability|NN 
+cause|NN symptom|NN 
+feature|NN onset|NN evolution|NN onset|NN tremor|ST rest|NN progression|NN time|NN asymmetry|NN motor|NN symptom|NN response|NN year|NN course|NN year|NN appearance|NN dyskinesia|DS intake|NN levodopa|NN 
+parkinson's_disease|DS diagnose|NN autopsy|NN movement|NN disorder|NN expert|NN average|NN assessment|NN diagnosis|NN examination|NN 
+diagnose|NN nonexpert|NN autopsy|NN average|NN accuracy|NN 
+parkinson's_disease|DS diagnose|NN diagnose|NN brain|NN bank|NN criteria|NN 
+task|NN force|NN parkinson|NN movement|NN disorder|NN society|NN criteria|NN disease|NN research|NN criteria|NN diagnosis|NN disease|NN validation|NN criteria|NN image|NN 
+tomography|NN ct|NN scan|NN people|NN parkinson's_disease|DS mry|NN diagnosis|NN disease|NN time|NN sequence|NN field|NN strength|NN absence|NN swallow|NN tail|NN image|NN pattern|NN dorsolateral|NN nigra|NN meta-analysis|NN absence|NN pattern|NN disease|NN diffusion|NN mry|NN potential|NN parkinson's_disease|DS parkinson|NN syndrome|NN value|NN investigation|NN ct|NN mry|NN rule|NN disease|NN cause|NN encephalitis|DS ischemic|NN insult|NN entity|NN ganglia|NN 
+activity|NN dopamine|NN transporter|NN ganglia|NN pet|NN spect|NN scan|NN datscan|NN version|NN study|NN 
+agreement|NN diagnose|NN dopamine-relate|NN activity|NN ganglia|NN parkinsonism|DS 
+find|NN parkinson's_disease|DS parkinson-plus|NN disorder|NN united|NN states|NN fda|NN disease|NN parkinsonian|NN syndrome|NN tremor|ST diagnosis|NN 
+condition|NN presentation|NN parkinson's_disease|DS 
+arthritis|DS syndrome|NN dementia|DS body|NN depression|ST drug|NN x-associate|NN syndrome|NN dementia|DS parkinsonism|DS chromosome|NN disease|NN ganglia|NN system|NN atrophy|DS brain|NN iron|NN accumulation|NN slowness|NN supranuclear|NN palsy|NN wilsons|NN disease|NN vascular|NN 
+age|NN risk|NN parkinson's_disease|DS life|NN caffeine|NN decrease|NN risk|NN intake|NN beverage|NN coffee|NN people|NN cigarette|NN use|NN tobacco|NN non-smoker|NN parkinson's_disease|DS tobacco|NN parkinson's_disease|DS 
+tobacco|NN use|NN parkinson's_disease|DS factor|NN risk|NN parkinson's_disease|DS aversion|NN tobacco|NN tobacco|NN 
+vitamin|NN disease|NN result|NN study|NN effect|NN result|NN fat|NN acid|NN study|NN effect|NN effect|NN effect|NN indication|NN use|NN drug|NN calcium|NN channel|NN blocker|NN meta-analysis|NN drug|NN aspirin|NN percent|NN user|NN reduction|NN incidence|NN development|NN parkinson's_disease|DS management|NN article|NN management|NN parkinson's_disease|DS treatment|NN parkinson's_disease|DS 
+cure|NN parkinson's_disease|DS medication|NN surgery|NN treatment|NN relief|NN treatment|NN disorder|NN alzheimers|NN disease|NN motor_neuron_disease|DS parkinson|NN syndrome|NN 
+family|NN drug|NN motor|NN symptom|NN dopa|NN inhibitor|NN inhibitor|NN dopamine|NN agonist|NN inhibitor|NN 
+stage|NN disease|NN age|NN disease|NN onset|NN group|NN 
+stage|NN parkinson's_disease|DS stage|NN stage|NN stage|NN stage|NN 
+stage|NN disability|NN treatment|NN stage|NN development|NN complication|NN usage|NN stage|NN symptom|NN dopamine|NN deficiency|NN treatment|NN 
+treatment|NN stage|NN aim|NN trade-off|NN symptom|NN control|NN treatment|NN side-effect|NN 
+start|NN treatment|NN medication|NN inhibitor|NN dopamine|NN agonist|NN hope|NN onset|NN complication|NN use|NN treatment|NN motor|NN symptom|NN parkinson's_disease|DS patient|NN quality|NN life|NN 
+duration|NN severity|NN disease|NN duration|NN treatment|NN therapy|NN time|NN use|NN 
+stage|NN aim|NN parkinson's_disease|DS symptom|NN fluctuation|NN effect|NN medication|NN 
+withdrawal|NN medication|NN overuse|NN medication|NN control|NN symptom|NN surgery|NN brain|NN stimulation|NN wake|NN day|NN infusion|NN dopa|NN pump|NN stage|NN parkinson's_disease|DS challenge|NN variety|NN treatment|NN symptom|NN depression|ST hypotension|NN bladder|NN dysfunction|NN dysfunction|NN stage|NN disease|NN care|NN quality|NN life|NN 
+motor|NN symptom|NN parkinson's_disease|DS result|NN dopamine|NN production|NN brain|NN ganglia|NN 
+barrier|NN medicine|NN brain|NN level|NN dopamine|NN 
+precursor|NN dopamine|NN brain|NN dopamine|NN administration|NN motor|NN symptom|NN parkinson's_disease|DS 
+parkinson's_disease|DS treatment|NN year|NN 
+cross|NN barrier|NN 
+remainder|NN dopamine|NN body|NN variety|NN side|NN effect|NN nausea|ST vomit|NN hypotension|NN inhibitor|NN barrier|NN conversion|NN levodopa|NN dopamine|NN brain|NN side|NN effect|NN availability|NN levodopa|NN passage|NN brain|NN 
+drug|NN levodopa|NN pill|NN 
+term|NN development|NN complication|NN movement|NN fluctuation|NN effectiveness|NN medication|NN fluctuation|NN person|NN phase|NN response|NN medication|NN parkinson's_disease|DS symptom|NN state|NN phase|NN response|NN medication|NN parkinson's_disease|DS symptom|NN state|NN dose|NN levodopa|NN risk|NN severity|NN complication|NN strategy|NN dyskinesia|DS fluctuation|NN medication|NN time|NN 
+side|NN effect|NN syndrome|NN people|NN parkinson's_disease|DS fluctuation|NN dyskinesia|DS 
+controlled-release|NN preparation|NN absorption|NN bioavailability|NN control|NN parkinson's_disease|DS motor|NN symptom|NN reduction|NN complication|NN release|NN preparation|NN 
+extended-release|NN preparation|NN fluctuation|NN patient|NN problem|NN 
+infusion|NN duodopa|NN improvement|NN fluctuation|NN levodopa|NN fluctuation|NN uptake|NN 
+oral|NN formulation|NN study|NN mode|NN delivery|NN inhibitor|NN 
+activity|NN enzyme|NN dopamine|NN complement|NN usefulness|NN complication|NN liver|NN damage|NN drug|NN entacapone|NN alteration|NN liver|NN function|NN preparation|NN entacapone|NN combination|NN carbidopa|NN levodopa|NN agonist|NN 
+dopamine|NN agonist|NN dopamine|NN receptor|NN brain|NN effect|NN therapy|NN individual|NN complication|NN fluctuation|NN therapy|NN motor|NN symptom|NN parkinson's_disease|DS aim|NN initiation|NN therapy|NN onset|NN complication|NN agonist|NN pergolide|NN cabergoline|NN 
+dopamine|NN agonist|NN parkinson's_disease|DS motor|NN symptom|NN symptom|NN year|NN treatment|NN dopamine|NN agonist|NN people|NN parkinson's_disease|DS complication|NN age|NN onset|NN dopamine|NN agonist|NN treatment|NN onset|NN parkinson's_disease|DS onset|NN parkinson's_disease|DS 
+agonist|NN side|NN effect|NN drowsiness|NN hallucination|ST insomnia|ST nausea|ST constipation|ST side|NN effect|NN dose|NN physician|NN search|NN drug|NN impulse|NN control|NN disorder|NN activity|NN eate|NN gamble|NN shop|NN 
+dopamine|NN agonist|NN period|NN dyskinesia|DS parkinson's_disease|DS injection|NN infusion|NN effect|NN confusion|ST hallucination|ST individual|NN treatment|NN dopamine|NN agonist|NN skin|NN patche|NN people|NN stage|NN control|NN state|NN state|NN inhibitor|NN 
+inhibitor|NN selegiline|NN increase|NN amount|NN dopamine|NN ganglia|NN activity|NN oxidase|NN enzyme|NN dopamine|NN dopamine|NN agonist|NN use|NN commencement|NN therapy|NN disease|NN mao-b|NN inhibitor|NN effect|NN parkinson's_disease|DS motor|NN symptom|NN 
+study|NN effectiveness|NN stage|NN result|NN fluctuation|NN period|NN study|NN selegiline|NN combination|NN levodopa|NN risk|NN death|NN drug|NN article|NN medication|NN 
+drug|NN treatment|NN motor|NN symptom|NN 
+evidence|NN quality|NN choice|NN treatment|NN addition|NN motor|NN symptom|NN parkinson's_disease|DS range|NN symptom|NN 
+number|NN drug|NN problem|NN example|NN use|NN quetiapine|NN psychosis|DS inhibitor|NN dementia|DS modafinil|NN daytime|NN sleepiness|NN pimavanserin|NN management|NN parkinson's_disease|DS psychosis|DS 
+fatigue|ST parkinson's_disease|DS surgery|NN placement|NN electrode|NN brain|NN 
+head|NN frame|NN surgery|NN 
+motor|NN symptom|NN surgery|NN practice|NN discovery|NN levodopa|NN number|NN operation|NN study|NN past|NN decade|NN improvement|NN technique|NN surgery|NN people|NN parkinson's_disease|DS drug|NN therapy|NN surgery|NN parkinson's_disease|DS group|NN brain|NN stimulation|NN dbs|NN 
+target|NN area|NN dbs|NN lesion|NN thalamus|NN globus|NN nucleus|NN brain|NN stimulation|NN treatment|NN alim|NN louis|NN 
+implantation|NN device|NN neurostimulator|NN impulse|NN part|NN brain|NN 
+dbs|NN people|NN parkinson's_disease|DS motor|NN fluctuation|NN tremor|ST medication|NN medication|NN problem|NN therapy|NN formation|NN lesion|NN area|NN 
+example|NN destruction|NN pallidus|NN control|NN 
+area|NN brain|NN stimulator|NN parkinson's_disease|DS globus|NN thalamus|NN nucleus|NN nucleus|NN 
+dbs|NN pallidus|NN motor|NN function|NN dbs|NN thalamic|NN dbs|NN tremor|ST effect|NN bradykinesia|DS rigidity|NN 
+dbs|NN nucleus|NN history|NN depression|ST impairment|NN 
+dbs|NN nucleus|NN reduction|NN medication|NN 
+nucleus|NN dbs|NN 
+dbs|NN improvement|NN motor|NN score|NN evaluation|NN 
+rehabilitation|NN information|NN rehabilitation|NN parkinson's_disease|DS 
+exercise|NN program|NN people|NN parkinson's_disease|DS evidence|NN speech|NN mobility|NN problem|NN rehabilitation|NN study|NN quality|NN exercise|NN therapy|NN mobility|NN flexibility|NN strength|NN gait|NN speed|NN quality|NN life|NN exercise|NN program|NN supervision|NN physiotherapist|NN improvement|NN motor|NN symptom|NN function|NN live|NN activity|NN quality|NN life|NN exercise|NN program|NN home|NN term|NN flexibility|NN range|NN motion|NN people|NN rigidity|NN relaxation|NN technique|NN rock|NN muscle|NN tension|NN 
+technique|NN relaxation|NN movement|NN extremity|NN trunk|NN initiation|NN breath|NN meditation|NN technique|NN gait|NN challenge|NN disease|NN slowness|NN movement|NN shuffle|NN arm|NN swing|NN physiotherapist|NN variety|NN strategy|NN mobility|NN safety|NN 
+area|NN interest|NN respect|NN gait|NN rehabilitation|NN program|NN focus|NN gait|NN speed|NN base|NN support|NN stride|NN length|NN trunk|NN arm|NN swing|NN movement|NN 
+strategy|NN equipment|NN pole|NN walk|NN treadmil|NN cue|NN manual|NN exercise|NN pattern|NN environment|NN surface|NN input|NN strengthen|NN exercise|NN improvement|NN strength|NN motor|NN function|NN people|NN weakness|ST weakness|ST inactivity|NN parkinson's_disease|DS 
+report|NN interaction|NN strength|NN time|NN medication|NN 
+people|NN parkinson's_disease|DS exercise|NN minute|NN hour|NN medication|NN posture|NN dysfunction|NN parkinson's_disease|DS breath|NN exercise|NN chest|NN wall|NN mobility|NN capacity|NN exercise|NN constipation|ST exercise|NN fatigue|ST parkinson's_disease|DS 
+treatment|NN speech|NN disorder|NN parkinson's_disease|DS lee|NN silverman|NN voice|NN treatment|NN speech|NN therapy|NN speech|NN therapy|NN ot|NN health|NN quality|NN life|NN people|NN disease|NN live|NN activity|NN study|NN effectiveness|NN ot|NN quality|NN indication|NN motor|NN skill|NN quality|NN life|NN duration|NN therapy|NN care|NN 
+care|NN care|NN people|NN illness|NN 
+goal|NN speciality|NN quality|NN life|NN person|NN parkinson|NN family|NN relief|NN symptom|NN pain|ST stress|NN illness|NN disease|NN treatment|NN decline|NN quality|NN life|NN nature|NN 
+care|NN disease|NN course|NN care|NN specialist|NN symptom|NN factor|NN loss|NN function|NN job|NN depression|ST fear|NN concern|NN 
+support|NN patient|NN family|NN palliative|NN care|NN role|NN goal|NN care|NN 
+people|NN parkinson|NN decision|NN disease|NN wishe|NN tube|NN ventilator|NN tracheostomy|NN wishe|NN resuscitation|NN hospice|NN care|NN care|NN team|NN member|NN answer|NN question|NN guide|NN people|NN parkinson|NN complex|NN topics|NN decision|NN value|NN 
+muscle|NN nerve|NN process|NN parkinson's_disease|DS constipation|ST food|NN stomach|NN period|NN diet|NN periodical|NN assessment|NN weight_loss|ST gain|NN consequence|NN dysfunction|NN disease|NN advance|NN difficulty|NN dysphagia|ST 
+case|NN thicken|NN agent|NN intake|NN posture|NN measure|NN risk|NN 
+food|NN stomach|NN case|NN 
+protein|NN transportation|NN system|NN intestine|NN barrier|NN access|NN result|NN effectiveness|NN drug|NN protein|NN consumption|NN diet|NN 
+stage|NN intake|NN product|NN bread|NN pasta|NN reason|NN interaction|NN protein|NN minute|NN meal|NN time|NN regimen|NN parkinson's_disease|DS protein|NN breakfast|NN lunch|NN protein|NN intake|NN even|NN parkinson's_disease|DS rate|NN scale|NN burden|NN parkinson's_disease|DS life|NN year|NN inhabitant|NN data|NN 27535|NN 
+parkinson's_disease|DS time|NN 
+severity|NN rate|NN method|NN parkinson's_disease|DS rate|NN scale|NN u|NN parkinson's_disease|DS rs|NN study|NN 
+version|NN mds-u|NN parkinson's_disease|DS rs|NN 
+scale|NN method|NN hoehn|NN scale|NN scale|NN hoehn|NN scale|NN 
+hoehn|NN scale|NN stage|NN progression|NN 
+motor|NN symptom|NN advance|NN stage|NN disease|NN 
+individual|NN ambulation|NN average|NN year|NN year|NN people|NN 
+prognosis|NN motor|NN symptom|NN time|NN source|NN disability|NN effect|NN levodopa|NN year|NN use|NN people|NN progression|NN time|NN symptom|NN stage|NN dependency|NN caregiver|NN year|NN course|NN disease|NN age|NN predictor|NN disease|NN progression|NN rate|NN motor|NN decline|NN impairment|NN time|NN diagnosis|NN impairment|NN year|NN age|NN symptom|NN onset|NN 
+therapy|NN symptom|NN disability|NN present|NN feature|NN disease|NN relationship|NN disease|NN progression|NN disability|NN 
+disability|NN motor|NN symptom|NN disease|NN advance|NN disability|NN motor|NN symptom|NN medication|NN difficulty|NN problem|NN complication|NN individual|NN year|NN usage|NN year|NN people|NN disease|NN disturbance|NN sleep|NN problem|NN mood|NN alteration|NN decline|NN symptom|NN decline|NN increase|NN disability|NN 
+life|NN expectancy|NN people|NN parkinson's_disease|DS mortality|NN ratio|NN people|NN decline|NN dementia|DS age|NN onset|NN disease|NN state|NN presence|NN problem|NN mortality|NN risk|NN factor|NN 
+hand|NN disease|NN pattern|NN tremor|ST rigidity|NN survival|NN death|NN aspiration_pneumonia|DS individual|NN parkinson's_disease|DS population|NN 
+parkinson's_disease|DS death|NN death|NN death|NN rate|NN average|NN time|NN epidemiology|NN death|NN parkinson's_disease|DS person|NN 2012|NN 3762|NN 
+parkinson's_disease|DS second|NN neurodegenerative|NN disorder|NN alzheimers|NN disease|NN people|NN people|NN united|NN states|NN proportion|NN population|NN time|NN country|NN 
+parkinson's_disease|DS rate|NN rise|NN year|NN age|NN population|NN age|NN onset|NN year|NN case|NN onset|NN parkinson's_disease|DS age|NN male|NN female|NN ratio|NN parkinson's_disease|DS ancestry|NN find|NN study|NN men|NN women|NN difference|NN sexe|NN number|NN case|NN year|NN parkinson's_disease|DS age|NN rate|NN parkinson's_disease|DS estonia|NN person|NN year|NN rate|NN history|NN article|NN history|NN parkinson's_disease|DS jean-martin|NN contribution|NN understand|NN disease|NN name|NN james|NN parkinson|NN 
+source|NN papyrus|NN treatise|NN bible|NN galen|NN write|NN symptom|NN parkinson's_disease|DS galen|NN reference|NN parkinson's_disease|DS century|NN century|NN author|NN element|NN disease|NN sylvius|NN gaubius|NN hunter|NN chomel|NN 
+doctor|NN james|NN parkinson|NN essay|NN report|NN case|NN parkinson's_disease|DS essay|NN parkinson's_disease|DS rest|NN tremor|ST posture|NN gait|NN paralysis|ST muscle|NN strength|NN way|NN disease|NN time|NN addition|NN knowledge|NN disease|NN gowers|NN wilson|NN erb|NN study|NN landmark|NN understand|NN disease|NN advance|NN distinction|NN rigidity|NN weakness|ST renam|NN disease|NN honor|NN james|NN parkinson|NN 
+frederic|NN lewy|NN particle|NN brain|NN body|NN konstantin|NN tretiakoff|NN nigra|NN structure|NN find|NN study|NN rolf|NN change|NN brain|NN work|NN arvid|NN carlsson|NN neurotransmitter|NN dopamine|NN hornykiewicz|NN role|NN parkinson's_disease|DS alpha-synuclein|NN component|NN body|NN trojanowsky|NN 
+surgery|NN lesion|NN pathway|NN ganglia|NN structure|NN treatment|NN arrival|NN levodopa|NN use|NN casimir|NN funk|NN attention|NN century|NN practice|NN revolution|NN management|NN parkinson's_disease|DS brain|NN stimulation|NN alim|NN louis|NN colleague|NN grenoble|NN france|NN treatment|NN society|NN culture|NN cost|NN awareness|NN logo|NN tulip|NN symbol|NN 
+cost|NN parkinson's_disease|DS society|NN calculation|NN issue|NN research|NN difference|NN country|NN cost|NN uk|NN cost|NN patient|NN year|NN burden|NN share|NN cost|NN inpatient|NN care|NN nurse|NN home|NN share|NN medication|NN cost|NN productivity|NN burden|NN caregiver|NN addition|NN cost|NN parkinson's_disease|DS quality|NN life|NN disease|NN advocacy|NN 
+april|NN birthday|NN james|NN parkinson|NN world|NN day|NN tulip|NN organization|NN symbol|NN disease|NN james|NN parkinson|NN tulip|NN horticulturalist|NN advocacy|NN organization|NN parkinson|NN foundation|NN care|NN research|NN support|NN service|NN parkinson's_disease|DS foundation|NN research|NN education|NN advocacy|NN program|NN found|NN william|NN black|NN parkinson's_disease|DS association|NN parkinson's_disease|DS association|NN case|NN article|NN list|NN people|NN parkinson's_disease|DS muhammad|NN ali|NN world|NN forum|NN davos|NN age|NN 
+sign|NN parkinsonism|DS age|NN death|NN 
+actor|NN michael|NN j|NN 
+fox|NN parkinson's_disease|DS awareness|NN disease|NN diagnosis|NN fox|NN parkinson|NN television|NN role|NN medication|NN order|NN effect|NN condition|NN 
+autobiography|NN fight|NN disease|NN role|NN united|NN states|NN congress|NN medication|NN effect|NN disease|NN michael|NN j|NN 
+fox|NN foundation|NN cure|NN parkinson's_disease|DS fox|NN doctorate|NN medicine|NN institutet|NN contribution|NN research|NN parkinson's_disease|DS 
+cyclist|NN davis|NN onset|NN age|NN davis|NN phinney|NN foundation|NN research|NN quality|NN life|NN people|NN disease|NN 
+boxer|NN muhammad|NN ali|NN sign|NN parkinson|NN world|NN parkinson|NN patient|NN parkinson's_disease|DS box|NN research|NN parkinson's_disease|DS research|NN 
+prospect|NN parkinson's_disease|DS treatment|NN future|NN research|NN direction|NN search|NN animal|NN model|NN disease|NN study|NN usefulness|NN gene|NN therapy|NN stem|NN cell|NN transplant|NN agent|NN animal|NN model|NN 
+parkinson's_disease|DS specy|NN human|NN animal|NN model|NN feature|NN disease|NN research|NN 
+appearance|NN parkinsonism|DS group|NN drug|NN addict|NN batch|NN opiate|NN discovery|NN mptp|NN agent|NN primate|NN human|NN model|NN insecticide|NN herbicide|NN fungicide|NN model|NN toxin|NN primate|NN 
+rodent|NN model|NN aspect|NN parkinson's_disease|DS use|NN 6-hydroxydopamine|NN model|NN parkinson's_disease|DS rat|NN target|NN neuron|NN pathway|NN nigra|NN gene|NN therapy|NN 
+gene|NN therapy|NN use|NN virus|NN vector|NN virus|NN shuttle|NN material|NN part|NN brain|NN 
+gene|NN production|NN enzyme|NN parkinson's_disease|DS symptom|NN brain|NN damage|NN trial|NN gene|NN therapy|NN parkinson's_disease|DS effect|NN trial|NN usefulness|NN gene|NN therapy|NN result|NN company|NN bankruptcy|NN march|NN treatment|NN compound|NN structure|NN neuroprotector|NN parkinson's_disease|DS effectiveness|NN 
+investigation|NN neuroprotection|NN forefront|NN parkinson's_disease|DS research|NN 
+molecule|NN treatment|NN degeneration|NN agent|NN investigation|NN oxidase|NN inhibitor|NN promitochondrial|NN calcium|NN channel|NN blocker|NN growth|NN factor|NN research|NN target|NN vaccine|NN system|NN parkinson's_disease|DS 01a|NN company|NN affiris|NN trial|NN human|NN vaccine|NN stage|NN trial|NN stage|NN trial|NN therapy|NN article|NN therapy|NN parkinson's_disease|DS 
+tissue|NN cell|NN transplant|NN cell|NN nigra|NN hope|NN brain|NN way|NN cell|NN evidence|NN cell|NN transplant|NN trial|NN date|NN cell|NN transplant|NN benefit|NN problem|NN release|NN dopamine|NN tissue|NN stem|NN cell|NN transplant|NN research|NN target|NN stem|NN cell|NN cell|NN brain|NN rodent|NN monkey|NN abnormality|NN use|NN stem|NN cell|NN treatment|NN way|NN use|NN pluripotent|NN stem|NN cell|NN adult|NN 
+stimulation|NN usefulness|NN parkinson's_disease|DS research|NN topic|NN nutrient|NN treatment|NN evidence|NN vitamin|NN food|NN additive|NN symptom|NN evidence|NN acupuncture|NN practice|NN qigong|NN tay|NN chy|NN effect|NN course|NN disease|NN symptom|NN bean|NN velvet|NN bean|NN source|NN levodopa|NN people|NN parkinson's_disease|DS intake|NN risk|NN reaction|NN syndrome|NN 
+role|NN axis|NN gut|NN flora|NN parkinsons|NN topic|NN study|NN start|NN work|NN mice|NN transplant|NN people|NN parkinson's_disease|DS outcome|NN 
+study|NN human|NN correlation|NN pattern|NN dysbiosis|NN gut|NN flora|NN people|NN parkinson's_disease|DS pattern|NN measure|NN severity|NN constipation|ST parkinson's_disease|DS specificity|NN sensitivity|NN 
+scientist|NN change|NN gut|NN flora|NN site|NN parkinson's_disease|DS pathology|NN part|NN pathology|NN 

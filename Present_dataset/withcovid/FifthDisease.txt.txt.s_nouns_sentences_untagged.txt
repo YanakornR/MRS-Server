@@ -1,0 +1,31 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN disease|NN 
+fifth_disease|DS name|NN fifth_disease|DS fifth_disease|DS fifth_disease|DS fifth_disease|DS fifth_disease|DS 16-month-old|NN fifth_disease|DS disease|NN 
+fifth_disease|DS fifth_disease|DS manifestation|NN infection|NN b19|NN 
+name|NN fifth_disease|DS place|NN list|NN childhood|NN disease|NN measle|NN scarlet_fever|DS second|NN rubella|DS dukes|NN disease|NN 
+sign|NN symptom|NN transmission|NN treatment|NN epidemiology|NN history|NN reference|NN link|NN 
+sign|NN symptom|NN 
+fifth_disease|DS fever|ST headache|ST rash|ST cold-like|NN symptom|NN nose|NN 
+symptom|NN day|NN rash|ST 
+rash|ST face|NN cheek|NN 
+symptom|NN infection|NN children|NN name|NN fifth_disease|DS 
+rash|ST bridge|NN nose|NN mouth|NN 
+addition|NN cheek|NN children|NN rash|ST rest|NN body|NN arm|NN torso|NN leg|NN location|NN 
+rash|ST day|NN case|NN week|NN 
+patient|NN rash|ST 
+teenager|NN adult|NN arthritis|DS 
+swell|NN joint|NN arthritis|DS 
+children|NN adult|NN fifth_disease|DS difficulty|NN walk|NN joint|NN wrist|NN knee|NN ankle|NN finger|NN shoulder|NN 
+disease|NN risk|NN group|NN consequence|NN 
+women|NN infection|NN trimester|NN fetalis|NN miscarriage|ST 
+people|NN disease|NN form|NN hemolytic|NN infection|NN crisis|NN chemotherapy|NN risk|NN complication|NN 
+fifth_disease|DS secretion|NN saliva|NN mucus|NN contact|NN blood|NN 
+incubation|NN period|NN time|NN infection|NN onset|NN symptom|NN day|NN 
+individual|NN fifth_disease|DS onset|NN symptom|NN 
+school|NN children|NN worker|NN teacher|NN parent|NN virus|NN 
+symptom|NN risk|NN transmission|NN individual|NN treatment|NN 
+treatment|NN infection|NN 
+age|NN children|NN year|NN time|NN adulthood|NN population|NN infection|NN time|NN past|NN nursery|NN school|NN school|NN 
+infection|NN risk|NN school|NN personnel|NN vaccine|NN parvovirus|NN attempt|NN history|NN 
+robert|NN sine|NN 
+anton|NN rubella|DS variant|NN ortliche|NN condition|NN theodor|NN name|NN fifth_disease|DS virus|NN university|NN pennsylvania|NN werner|NN et|NN al|NN 
+list|NN condition|NN 

@@ -1,0 +1,70 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Waterborne disease|Disease groundwater|NN contamination|NN latin|NN america|NP smpng|NP Waterborne disease|Disease groundwater|NN pathogen|NN pit|NN latrine|NN disease|NN
+Waterborne disease|Disease condition|NN micro-organism|NN water|NN
+disease|NN wash|NN drink|NN water|NN eate|NN food|NN water|NN
+diarrhea|NP vomit|NN symptom|NN illness|NN symptom|NN skin|NN ear|NN eye|NN problem|NN
+form|NN diarrheal|NN disease|NN example|NN affect|NN children|NN country|NN
+world|NN health|NN organization|NN Waterborne disease|Disease account|NN total|NN life|NN year|NN burden|NN disease|NN cause|NN death|NN
+world|NN health|NN organization|NN burden|NN 842000|NN death|NN year|NN lack|NN drink|NN water|NN supply|NN sanitation|NN hygiene|NN
+term|NN Waterborne disease|Disease infection|NN contact|NN consumption|NN water|NN
+infection|NN microbe|NN parasite|NN result|NN circumstance|NN water|NN fact|NN freak|NN infection|NN disease|NN
+practice|NN disease|NN malaria|NN mosquitoe|NN phase|NN life|NN cycle|NN water|NN strategy|NN control|NN mosquitoe|NN vector|NN
+disease|NN protozoa|NN bacteria|NN parasite|NN tissue|NN system|NN wall|NN tract|NN
+Waterborne disease|Disease viruse|NN
+spite|NN difficulty|NN viruse|NN organism|NN microorganism|NN connection|NN
+class|NN Waterborne disease|Disease parasite|NN
+example|NN nematoda|NN
+example|NN nematode|NN infection|NN nematodal|NN disease|NN
+water|NN copepoda|NN act|NN vector|NN nematoda|NN
+copepod|NN larvae|NN genus|NN dracunculus|NN infection|NN
+larvae|NN cause|NN guinea|NN worm|NN disease|NN
+class|NN pathogen|NN member|NN schistosomatidae|NN family|NN blood|NN fluke|NN
+victim|NN skin|NN contact|NN water|NN blood|NN fluke|NN pathogen|NN form|NN people|NN
+study|NN germ|NN theory|NN disease|NN understand|NN nature|NN water|NN vehicle|NN disease|NN belief|NN consumption|NN water|NN beverage|NN beer|NN wine|NN tea|NN
+example|NN camel|NN caravan|NN asia|NP silk|NN road|NN explorer|NN owen|NP lattimore|NP reason|NN tea|NN water|NN
+water|NN unboil|NN
+superstition|NN blister|NN feet|NN
+impact|NN type|NN pathogen|NN bacteria|NN viruse|NN algae|NN worm|NN surveillance|NN united|NP states|NP reference|NN link|NN
+Waterborne disease|Disease impact|NN economy|NN
+people|NN Waterborne disease|Disease cost|NN burden|NN
+case|NN country|NN
+loss|NN cost|NN treatment|NN medication|NN cost|NN transport|NN food|NN loss|NN manpower|NN
+family|NN land|NN treatment|NN hospital|NN
+average|NN family|NN household|NN income|NN person|NN infection|NN type|NN pathogen|NN disease|NN transmission|NN agent|NN source|NN agent|NN water|NN supply|NN general|NN symptom|NN clean|NN contact|NN lense|NN water|NN spp|NN
+castellaniy|NN polyphaga|NN amoebae|NN type|NN environment|NN surface|NN water|NN tap|NN water|NN swim|NN pool|NN contact|NN len|NN solution|NN eye|NN pain|NN eye|NN redness|NN vision|NN sensitivity|NN sensation|NN eye|NN tear|NN protozoan|NN appearance|NN sewage|NN drink|NN water|NN fly|NN water|NN supply|NN saliva|NN person|NN disease|NN discomfort|NN fatigue|NN weight|NN loss|NN bloat|NN fever|NN protozoan|NN cryptosporidium|NN water|NN filter|NN membrane|NN animal|NN manure|NN runoff|NN water|NN
+symptom|NN loss|NN appetite|NN loss|NN weight|NN bloat|NN ga|NN nausea|NN parasite|NN sewage|NN drink|NN water|NN cramp|NN nausea|NN vomit|NN muscle|NN ache|NN fever|NN fatigue|NN hand-to-mouth|NN giardia|NP parasite|NN water|NN disinfection|NN pipe|NN leak|NN groundwater|NN contamination|NN human|NN wildlife|NN use|NN source|NN water|NN
+beavers|NP muskrats|NP pond|NN act|NN reservoir|NN giardia|NP
+discomfort|NN bloat|NN flatulence|NN phylum|NN fungy|NN groundwater|NN origin|NN drink|NN water|NN individual|NN
+amebic|NN protozoan|NN appearance|NN watersport|NN water|NN headache|NN vomit|NN confusion|NN loss|NN balance|NN light|NN sensitivity|NN hallucination|NN fatigue|NN weight|NN loss|NN fever|NN coma|NN
+bacteria|NN disease|NN transmission|NN agent|NN source|NN agent|NN water|NN supply|NN general|NN symptom|NN bacteria|NN wound|NN water|NN source|NN
+tract|NN consumption|NN drink|NN water|NN food|NN mouth|NN vision|NN difficulty|NN muscle|NN weakness|NN difficulty|NN speech|NN vomit|NN
+death|NN failure|NN
+campylobacter|NN drink|NN water|NN produce|NN symptom|NN fever|NN
+cholera|NN spread|NN bacterium|NN drink|NN water|NN bacterium|NN form|NN illness|NN
+symptom|NN diarrhea|NN nausea|NN cramp|NN pulse|NN vomit|NN shock|NN case|NN point|NN death|NN hour|NN
+coly|NN infection|NN strain|NN escherichia|NP coly|NN e|NP coly|NN water|NN bacteria|NN
+death|NN individual|NN due|NN dehydration|NN illness|NN
+m|NP infection|NN mycobacterium|NN water|NN case|NN exposure|NN swim|NN pool|NN aquarium|NN infection|NN individual|NN symptom|NN lesion|NN elbow|NN knee|NN feet|NN swim|NN pool|NN lesion|NN hand|NN aquarium|NN
+number|NN specy|NN genera|NN salmonella|NP water|NN bacterium|NN passage|NN fece|NN blood|NN mucus|NN case|NN vomit|NN blood|NN
+form|NN legionnaires|NP disease|NN fever|NN bacteria|NN genus|NN case|NN legionella|NN organism|NN number|NN water|NN disease|NN fever|NN symptom|NN influenza|NN pneumonia|NN
+legionnaires|NP disease|NN symptom|NN fever|NN chill|NN pneumonia|NN cough|NN sputum|NN anorexia|NN muscle|NN ache|NN malaise|NN vomit|NN bacterium|NN genus|NN water|NN animal|NN urine|NN bacteria|NN symptom|NN
+phase|NN meningitis|NN liver|NN damage|NN jaundice|NN failure|NN swimmer|NN ear|NN number|NN specy|NN
+swim|NN water|NN pathogen|NN ear|NN canal|NN swell|NN pain|NN tenderness|NN touch|NN bacteria|NN genus|NN salmonella|NP drink|NN water|NN bacteria|NN
+food|NN illness|NN
+symptom|NN fever|NN vomit|NN cramp|NN fever|NN salmonella|NP typhi|NP water|NN fece|NN person|NN fever|NN c|NP f|NP sweate|NN
+symptom|NN progress|NN delirium|NN spleen|NN liver|NN
+case|NN week|NN cause|NN death|NN
+people|NN fever|NN rash|NN rose|NN spot|NN spot|NN abdomen|NN chest|NN
+illness|NN vibrio|NN parahaemolyticus|NN wound|NN water|NN
+water|NN eate|NN oyster|NN
+symptom|NN tenderness|NN agitation|NN stool|NN chill|NN confusion|NN difficulty|NN attention|NN attention|NN deficit|NN delirium|NN mood|NN hallucination|NN fatigue|NN feel|NN weakness|NN
+viruse|NN disease|NN transmission|NN agent|NN source|NN agent|NN water|NN supply|NN general|NN symptom|NN syndrome|NN manifest|NN water|NN symptom|NN fever|NN lethargy|NN symptom|NN cough|NN throat|NN hepatitis|NN hepatitis|NN virus|NN hav|NN water|NN food|NN symptom|NN stage|NN virus|NN fatigue|NN fever|NN pain|NN nausea|NN weight|NN loss|NN itch|NN jaundice|NN depression|NN
+hepatitis|NN e|NP fecal-oral|NP hepatitis|NN e|NP virus|NN water|NN fece|NN individual|NN symptom|NN hepatitis|NN liver|NN disease|NN fever|NN fatigue|NN loss|NN appetite|NN nausea|NN pain|NN jaundice|NN dark|NN urine|NN stool|NN pain|NN illness|NN spread|NN food|NN water|NN person-to-person|NN fomite|NN water|NN fece|NN individual|NN vomit|NN nausea|NN stomach|NN pain|NN poliovirus|NN water|NN fece|NN individual|NN patient|NN symptom|NN symptom|NN delirium|NN headache|NN fever|NN seizure|NN paralysis|NN symptom|NN meningitis|NN
+rest|NN symptom|NN paralysis|NN death|NN infection|NN jc|NP virus|NN virus|NN water|NN population|NN antibody|NN virus|NN infection|NN kidney|NN transplant|NN patient|NN
+jc|NP virus|NN system|NN kidney|NN multifocal|NN brain|NN
+algae|NN disease|NN transmission|NN agent|NN source|NN agent|NN water|NN supply|NN general|NN symptom|NN infection|NN water|NN
+worm|NN disease|NN transmission|NN agent|NN source|NN agent|NN water|NN supply|NN general|NN symptom|NN guinea|NP worm|NN disease|NN ingestion|NN water|NN worm|NN host|NN skin|NN release|NN larvae|NN water|NN fever|NN rash|NN nausea|NN dizziness|NN formation|NN blister|NN body|NN part|NN
+surveillance|NN united|NP states|NP
+Waterborne disease|Disease surveillance|NN system|NN wbdoss|NN database|NN agent|NN deficiency|NN water|NN system|NN source|NN Waterborne disease|Disease outbreak|NN united|NP states|NP center|NN disease|NN control|NN prevention|NN cdc|NP council|NN state|NN epidemiologist|NN protection|NN agency|NN epa|NP surveillance|NN system|NN collect|NN report|NN data|NN Waterborne disease|Disease outbreak|NN water|NN drink|NN water|NN exposure|NN water|NN
+data|NN wbdoss|NN epa|NP effort|NN drink|NN water|NN regulation|NN guidance|NN water|NN activity|NN
+data|NN health|NN department|NN state|NN territory|NN jurisdiction|NN Waterborne disease|Disease outbreak|NN activity|NN report|NN transition|NN paper|NN form|NN outbreak|NN report|NN system|NN biennial|NN surveillance|NN report|NN data|NN wbdoss|NN cdc|NP report|NN surveillance|NN data|NN morbidity|NN mortality|NN report|NN
+disease|NN route|NN food|NN microbiology|NN infection|NN health|NN vector|NN epidemiology|NN list|NN disease|NN water|NN pollution|NN water|NN hygiene|NN water|NN quality|NN

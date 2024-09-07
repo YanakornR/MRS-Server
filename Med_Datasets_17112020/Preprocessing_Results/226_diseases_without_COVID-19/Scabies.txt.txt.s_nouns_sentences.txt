@@ -1,0 +1,93 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN condition|NN Scabies|Disease
+Scabies|Disease name|NN Scabies|Disease Scabies|Disease -burrowjpg|NN view|NN trail|NN Scabies|Disease mite|NN
+patch|NN left|NN scratch|NN mite|NN entry|NN point|NN skin|NN
+mite|NN top-right|NN spot|NN end|NN
+disease|NN dermatology|NN symptom|NN onset|NN week|NN infection|NN day|NN infection|NN cause|NN mite|NN spread|NN contact|NN risk|NN factor|NN live|NN condition|NN child|NN care|NN facility|NN group|NN home|NN prison|NN lack|NN access|NN water|NN method|NN symptom|NN diagnosis|NN dermatitis|NN dermatitis|NN dermatitis|NN crotamiton|NN ivermectin|NN frequency|NN
+Scabies|Disease Scabies|Disease skin|NN infestation|NN mite|NN symptom|NN rash|NN burrow|NN skin|NN infection|NN person|NN symptom|NN week|NN infection|NN symptom|NN hour|NN symptom|NN body|NN area|NN wrist|NN finger|NN waistline|NN head|NN children|NN itch|NN night|NN skin|NN breakdown|NN infection|NN skin|NN
+Scabies|Disease infection|NN mite|NN var|NN ectoparasite|NN mite|NN burrow|NN skin|NN egg|NN symptom|NN Scabies|Disease reaction|NN mite|NN mite|NN infection|NN Scabies|Disease period|NN skin|NN contact|NN person|NN minute|NN sex|NN live|NN disease|NN person|NN symptom|NN live|NN condition|NN child-care|NN facility|NN group|NN home|NN prison|NN risk|NN spread|NN area|NN lack|NN access|NN water|NN rate|NN disease|NN Scabies|Disease form|NN disease|NN system|NN people|NN mite|NN case|NN spread|NN infection|NN contact|NN object|NN mite|NN diagnosis|NN sign|NN symptom|NN
+number|NN medication|NN crotamiton|NN lindane|NN cream|NN ivermectin|NN pill|NN contact|NN month|NN people|NN house|NN time|NN bed|NN cloth|NN day|NN water|NN dryer|NN mite|NN day|NN skin|NN wash|NN symptom|NN week|NN treatment|NN time|NN symptom|NN
+Scabies|Disease skin|NN disorder|NN children|NN ringworm|NN skin|NN infection|NN people|NN world|NN population|NN sexe|NN world|NN climate|NN word|NN Scabies|Disease scabere|NN animal|NN Scabies|Disease infection|NN animal|NN mite|NN mange|NN content|NN
+sign|NN symptom|NN Scabies|Disease cause|NN Scabies|Disease mite|NN transmission|NN diagnosis|NN diagnosis|NN prevention|NN management|NN community|NN epidemiology|NN history|NN society|NN culture|NN animal|NN research|NN reference|NN link|NN
+sign|NN symptom|NN site|NN rashe|NN Scabies|Disease
+symptom|NN Scabies|Disease infection|NN itch|NN burrow|NN burrow|NN track|NN point|NN line|NN bite|NN disease|NN
+citation|NN host|NN symptom|NN reaction|NN mite|NN presence|NN time|NN delay|NN week|NN onset|NN infestation|NN onset|NN itch|NN
+symptom|NN week|NN eradication|NN mite|NN
+re-expose|NN Scabies|Disease treatment|NN symptom|NN infestation|NN day|NN
+scenario|NN itch|NN warmth|NN night|NN distraction|NN symptom|NN rash|NN
+burrow|NN Scabies|Disease area|NN finger|NN web|NN feet|NN wrist|NN elbow|NN back|NN buttock|NN genital|NN infant|NN infection|NN skin|NN face|NN scalp|NN
+burrow|NN excavation|NN adult|NN mite|NN epidermis|NN
+people|NN trail|NN mite|NN track|NN skin|NN row|NN pimple-like|NN mosquito|NN insect|NN bite|NN
+sign|NN crevice|NN body|NN web|NN finger|NN toe|NN area|NN stomach|NN fold|NN skin|NN breast|NN women|NN
+symptom|NN week|NN infestation|NN individual|NN Scabies|Disease
+symptom|NN day|NN infestation|NN
+symptom|NN month|NN year|NN blister|NN pustule|NN palm|NN sole|NN feet|NN symptom|NN Scabies|Disease infant|NN
+Scabies|Disease foot|NN
+Scabies|Disease arm|NN
+Scabies|Disease hand|NN
+Scabies|Disease finger|NN
+Scabies|Disease Scabies|Disease person|NN aid|NN
+people|NN system|NN hiv|NP cancer|NN medication|NN Scabies|Disease Scabies|Disease system|NN host|NN breed|NN ground|NN mite|NN host|NN body|NN face|NN
+mite|NN Scabies|Disease Scabies|Disease
+people|NN Scabies|Disease rashe|NN itch|NN crust|NN skin|NN number|NN Scabies|Disease mite|NN
+person|NN Scabies|Disease person|NN area|NN eradication|NN mite|NN crust|NN mite|NN miticidesscabicide|NN treatment|NN area|NN
+cause|NN Scabies|Disease mite|NN article|NN filesarcopte|NN media|NN video|NN sarcopte|NN mite|NN life|NN cycle|NN Scabies|Disease
+century|NN biologist|NN giovanni|NP cosimo|NP 16371718|NN mite|NN variety|NN cause|NN Scabies|Disease
+genus|NN skin|NN parasite|NN part|NN family|NN mite|NN scab|NN mite|NN
+organism|NN leg|NN adult|NN class|NN spider|NN tick|NN
+s|NP mite|NN mm|NN size|NN pinpoint|NN
+female|NN tunnel|NN layer|NN stratum|NN corneum|NN host|NN skin|NN deposit|NN egg|NN burrow|NN
+egg|NN hatch|NN larvae|NN day|NN
+mite|NN skin|NN molt|NN stage|NN mature|NN adult|NN week|NN host|NN skin|NN
+male|NN top|NN skin|NN skin|NN
+general|NN number|NN adult|NN mite|NN person|NN Scabies|Disease female|NN burrow|NN average|NN
+movement|NN mite|NN skin|NN itch|NN characteristics|NN response|NN allergen|NN
+antibody|NN serum|NN site|NN infection|NN protein|NN allergen|NN body|NN mite|NN
+cross-react|NN allergen|NN house|NN dust|NN mite|NN
+reaction|NN person|NN person|NN hypersensitivity|NN type|NN skin|NN response|NN reinfection|NN person|NN year|NN transmission|NN
+Scabies|Disease contact|NN person|NN intercourse|NN majority|NN case|NN form|NN contact|NN
+Scabies|Disease infestation|NN share|NN clothe|NN towel|NN bed|NN mode|NN transmission|NN individual|NN mite|NN day|NN skin|NN room|NN temperature|NN lice|NN latex|NN condom|NN Scabies|Disease transmission|NN intercourse|NN mite|NN individual|NN site|NN sex|NN organ|NN
+healthcare|NN worker|NN risk|NN Scabies|Disease patient|NN contact|NN
+symptom|NN reaction|NN host|NN body|NN mite|NN protein|NN protein|NN topic|NN study|NN
+mite|NN protein|NN gut|NN mite|NN skin|NN
+reaction|NN cell-mediate|NN antibody-mediate|NN type|NN antibody|NN symptom|NN reinfection|NN symptom|NN itch|NN day|NN week|NN mite|NN
+lesion|NN day|NN mite|NN
+lesion|NN Scabies|Disease week|NN mite|NN
+rate|NN Scabies|Disease temperature|NN humidity|NN diagnosis|NN photomicrograph|NN itch|NN mite|NN s|NP scabiei|NP
+Scabies|Disease area|NN itch|NN lesion|NN spot|NN itchiness|NN household|NN member|NN sign|NN Scabies|Disease burrow|NN mite|NN skin|NN burrow|NN area|NN ink|NN fountain|NN pen|NN tetracycline|NN solution|NN light|NN
+skin|NN alcohol|NN pad|NN
+person|NN Scabies|Disease zigzag|NN s|NP pattern|NN burrow|NN skin|NN test|NN burrow|NN scratch|NN diagnosis|NN Scabies|Disease mite|NN egg|NN pellet|NN searche|NN sign|NN area|NN sample|NN potassium|NN hydroxide|NN microscope|NN skin|NN diagnosis|NN
+symptom|NN Scabies|Disease infestation|NN mirror|NN skin|NN disease|NN dermatitis|NN syphilis|NN urticaria-relate|NN syndrome|NN reaction|NN disease|NN ectoparasite|NN lice|NN flea|NN prevention|NN
+program|NN permethrin|NN ivermectin|NN prevalence|NN Scabies|Disease number|NN population|NN vaccine|NN Scabies|Disease
+treatment|NN contact|NN symptom|NN infection|NN rate|NN recurrence|NN mite|NN day|NN host|NN object|NN environment|NN pose|NN risk|NN transmission|NN case|NN Scabies|Disease
+clean|NN importance|NN room|NN Scabies|Disease clean|NN management|NN
+number|NN medication|NN Scabies|Disease
+treatment|NN household|NN contact|NN option|NN control|NN prescription|NN agent|NN bed|NN cloth|NN towel|NN day|NN water|NN dryer|NN
+insecticide|NN treatment|NN Scabies|Disease treatment|NN choice|NN neck|NN bedtime|NN hour|NN morn|NN care|NN coat|NN skin|NN surface|NN area|NN patch|NN skin|NN haven|NN mite|NN
+application|NN egg|NN hatchl|NN adult|NN mite|NN physician|NN second|NN application|NN day|NN precaution|NN
+Scabies|Disease application|NN treatment|NN ivermectin|NN permethrin|NN irritation|NN skin|NN
+ivermectin|NN Scabies|Disease dose|NN treatment|NN choice|NN Scabies|Disease combination|NN agent|NN infant|NN children|NN year|NN age|NN
+ivermectin|NN preparation|NN Scabies|Disease adult|NN formulation|NN united|NP states|NP present|NN Scabies|Disease treatment|NN mange|NN analog|NN Scabies|Disease condition|NN
+treatment|NN benzyl|NN malathion|NN sulfur|NN preparation|NN concern|NN neurotoxicity|NN availability|NN country|NN california|NP state|NN treatment|NN ointment|NN benzoate|NN world|NN cost|NN solution|NN ointment|NN week|NN people|NN odor|NN product|NN crotamiton|NN study|NN preparation|NN permethrin|NN children|NN concern|NN absorption|NN
+day|NN treatment|NN
+day|NN treatment|NN
+Scabies|Disease country|NN area|NN
+set|NN control|NN strategy|NN rate|NN disease|NN treatment|NN individual|NN rate|NN reinfection|NN
+mass|NN drug|NN administration|NN strategy|NN intervention|NN community|NN effort|NN strategy|NN burden|NN Scabies|Disease kind|NN community|NN debate|NN strategy|NN choice|NN drug|NN
+resource|NN intervention|NN way|NN
+Scabies|Disease area|NN health|NN issue|NN attention|NN policy|NN maker|NN donor|NN epidemiology|NN
+Scabies|Disease skin|NN disorder|NN children|NN tinea|NN pyoderma|NN people|NN population|NN frequency|NN gender|NN mite|NN world|NN age|NN race|NN class|NN climate|NN Scabies|Disease area|NN live|NN condition|NN case|NN Scabies|Disease year|NN party|NN figure|NN population|NN Scabies|Disease population|NN infection|NN rate|NN history|NN wax|NN figurine|NN man|NN Scabies|Disease
+Scabies|Disease human|NN time|NN
+evidence|NN egypt|NP east|NN Scabies|Disease reference|NN Scabies|Disease bible|NN type|NN leprosy|NN leviticus|NP curse|NN deuteronomy|NP century|NN bc|NP aristotle|NP lice|NN escape|NN pimple|NN description|NN Scabies|Disease
+encyclopedist|NN writer|NN cornelius|NP celsus|NP bc|NP ad|NN disease|NN Scabies|Disease characteristic|NN etiology|NN Scabies|Disease physician|NN giovanni|NP cosimo|NP 16631696|NN letter|NN observation|NN fleshworm|NN body|NN description|NN Scabies|Disease disease|NN cause|NN
+europe|NP century|NN ointment|NN eponym|NN ointment|NN treatment|NN Scabies|Disease
+content|NN origin|NN version|NN ointment|NN correspondence|NN journal|NN society|NN culture|NN health|NN worker|NN stefania|NN toy|NN Scabies|Disease mite|NN condition|NN campaign|NN
+alliance|NN control|NN Scabies|Disease 2012|NN researcher|NN clinician|NN expert|NN country|NN
+health|NN implication|NN Scabies|Disease attention|NN world|NN health|NN organization|NN Scabies|Disease list|NN disease|NN condition|NN animal|NN article|NN mange|NN street|NN dog|NN bali|NP indonesia|NP mange|NN
+Scabies|Disease number|NN animal|NN mite|NN infestation|NN subspecy|NN form|NN subspecy|NN animal|NN host|NN infection|NN Scabies|Disease animal|NN itch|NN skin|NN infection|NN
+form|NN Scabies|Disease animal|NN mange|NN subspecy|NN canis|NN dog|NN cat|NN
+mange|NN human|NN contact|NN animal|NN Scabies|Disease distribution|NN skin|NN surface|NN cloth|NN
+Scabies|Disease fowl|NN leg|NN
+animal|NN care|NN Scabies|Disease host|NN ailment|NN animal|NN Scabies|Disease
+instance|NN infection|NN contact|NN item|NN human|NN research|NN
+treatment|NN Scabies|Disease medicine|NN range|NN parasite|NN mange|NN
+advantage|NN ivermectin|NN life|NN human|NN duration|NN action|NN tea|NN tree|NN oil|NN laboratory|NN set|NN

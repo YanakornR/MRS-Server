@@ -1,0 +1,118 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN chagas_disease|DS name|NN chagas_disease|DS cruzy|NN photomicrograph|NN trypanosoma|NN pronunciation|NN 
+disease|NN symptom|NN fever|ST lymph|NN node|NN headache|ST complication|NN heart|NN failure|NN colon|NN cause|NN spread|NN kiss|NN bug|NN method|NN parasite|NN antibody|NN blood|NN prevention|NN kiss|NN bug|NN bite|NN frequency|NN death|NN 
+chagas_disease|DS chagas_disease|DS disease|NN trypanosoma|NN insect|NN triatominae|NN kiss|NN bug|NN symptom|NN change|NN course|NN infection|NN 
+stage|NN symptom|NN fever|ST lymph|NN node|NN headache|ST swell|NN site|NN bite|NN week|NN individual|NN phase|NN disease|NN 6070|NN symptom|NN 3040|NN people|NN symptom|NN year|NN infection|NN enlargement|NN ventricle|NN heart|NN heart|NN failure|NN esophagus|NN colon|NN people|NN 
+t|NN cruzi|NN human|NN mammal|NN kiss|NN bug|NN insect|NN number|NN name|NN vinchuca|NN argentina|NN bolivia|NN chile|NN paraguay|NN barber|NN brazil|NN colombia|NN america|NN chipo|NN venezuela|NN disease|NN blood|NN transfusion|NN organ|NN transplantation|NN eate|NN food|NN parasite|NN transmission|NN mother|NN fetus|NN diagnosis|NN disease|NN parasite|NN blood|NN microscope|NN disease|NN find|NN antibody|NN t|NN blood|NN 
+prevention|NN kiss|NN bug|NN bite|NN use|NN insecticide|NN effort|NN screen|NN blood|NN transfusion|NN vaccine|NN infection|NN medication|NN result|NN cure|NN person|NN chagas_disease|DS disease|NN medication|NN development|NN symptom|NN cause|NN side|NN effect|NN people|NN skin|NN disorder|NN brain|NN toxicity|NN system|NN irritation|NN 
+people|NN mexico|NN america|NN south|NN america|NN chagas_disease|DS chaga|NN result|NN death|NN people|NN disease|NN population|NN movement|NN area|NN chagas_disease|DS country|NN united|NN states|NN area|NN increase|NN year|NN disease|NN physician|NN carlos|NN chagas|NN chagas_disease|DS disease|NN animal|NN content|NN 
+sign|NN symptom|NN transmission|NN method|NN method|NN diagnosis|NN prevention|NN management|NN complication|NN epidemiology|NN history|NN research|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN chagas_disease|DS infection|NN swell|NN eye|NN sign|NN 
+scale|NN anatomy|NN heart|NN chagas_disease|DS heart|NN radiology|NN 
+disease|NN stage|NN stage|NN infection|NN stage|NN year|NN 
+phase|NN week|NN month|NN infection|NN 
+symptom|NN chagas_disease|DS 
+fever|ST fatigue|ST body|NN ache|NN muscle|NN pain|ST headache|ST rash|ST loss|NN appetite|NN nausea|ST eyelid|NN vomit|NN 
+sign|NN examination|NN enlargement|NN liver|NN spleen|NN gland|NN swell|NN chagoma|NN parasite|NN body|NN 
+marker|NN chagas_disease|DS swell|NN eyelid|NN side|NN face|NN bite|NN wound|ST bug|NN fece|NN eye|NN people|NN disease|NN inflammationinfection|NN heart|NN muscle|NN brain|NN phase|NN people|NN system|NN 
+symptom|NN phase|NN week|NN individual|NN symptom|NN treatment|NN infection|NN phase|NN 
+individual|NN chagas_disease|DS symptom|NN chagas_disease|DS 2040|NN heart|NN disorder|NN lifetime|NN chagas_disease|DS 
+individual|NN disease|NN form|NN form|NN chagas_disease|DS 
+stage|NN system|NN system|NN heart|NN 
+people|NN symptom|NN damage|NN cardiomyopathy|DS heart|NN rhythm|NN abnormality|NN death|NN 
+patient|NN system|NN damage|NN dilation|NN tract|NN megacolon|NN megaesophagus|NN weight_loss|ST 
+difficulty|NN achalasia|DS symptom|NN disturbance|NN malnutrition|NN 
+individual|NN involvement|NN involvement|NN individual|NN result|NN tendon|NN reflexe|NN impairment|NN 
+case|NN system|NN involvement|NN dementia|DS confusion|ST encephalopathy|NN deficit|NN 
+manifestation|NN chagas_disease|DS cell|NN death|NN target|NN tissue|NN cycle|NN response|NN lesion|NN fibrosis|DS 
+example|NN amastigote|NN neuron|NN system|NN intestine|NN heart|NN megaintestine|NN heart|NN 
+chagas_disease|DS case|NN heart|NN muscle|NN damage|NN transmission|NN vector|NN colombia|NN venezuela|NN guatemala|NN honduras|NN part|NN nicaragua|NN el|NN salvador|NN 
+area|NN mode|NN transmission|NN insect|NN vector|NN bug|NN triatomine|NN t|NN blood|NN person|NN animal|NN 
+day|NN hide|NN crevice|NN wall|NN roof|NN 
+bug|NN night|NN inhabitant|NN 
+people|NN face|NN bug|NN kiss|NN bug|NN 
+blood|NN person|NN 
+parasite|NN left|NN site|NN bite|NN wound|ST 
+site|NN bite|NN trypomastigote|NN host|NN wound|ST mucous|NN membrane|NN conjunctiva|NN 
+host|NN trypomastigote|NN cell|NN amastigote|NN 
+amastigote|NN fission|NN trypomastigote|NN bloodstream|NN 
+cycle|NN cell|NN 
+parasite|NN cell|NN vector|NN life|NN cycle|NN transmission|NN t|NN 
+vegetation|NN rainforest|NN habitat|NN establishment|NN transmission|NN cycle|NN 
+region|NN habitat|NN fauna|NN exploitation|NN habitation|NN area|NN palm|NN culture|NN area|NN part|NN amazon|NN region|NN transmission|NN cycle|NN insect|NN search|NN food|NN source|NN method|NN 
+t|NN cruzi|NN blood|NN transfusion|NN 
+exception|NN blood|NN derivative|NN antibody|NN blood|NN component|NN 
+parasite|NN c|NN day|NN day|NN room|NN temperature|NN 
+t|NN cruzi|NN blood|NN component|NN 
+mode|NN transmission|NN organ|NN transplantation|NN breast|NN milk|NN laboratory|NN exposure|NN 
+chagas_disease|DS woman|NN baby|NN placenta|NN account|NN death|NN part|NN brazil|NN 
+transmission|NN route|NN infection|NN 
+farm|NN worker|NN state|NN paraba|NN brazil|NN food|NN transmission|NN aa|NN palm|NN fruit|NN juice|NN outbreak|NN school|NN children|NN guava|NN juice|NN 
+chagas_disease|DS problem|NN europe|NN majority|NN case|NN infection|NN migration|NN america|NN diagnosis|NN 
+presence|NN t|NN cruzi|NN chagas_disease|DS 
+examination|NN anticoagulate|NN blood|NN coat|NN parasite|NN preparation|NN blood|NN smear|NN giemsa|NN visualization|NN parasite|NN 
+microscopically|NN t|NN rangely|NN human|NN 
+isolation|NN t|NN cruzi|NN inoculation|NN mice|NN culture|NN media|NN example|NN lit|NN xenodiagnosis|NN reduviidae|NN bug|NN patient|NN blood|NN gut|NN content|NN parasite|NN 
+immunoassay|NN t|NN strain|NN tcruzy|NN pathogenicity|NN 
+test|NN complement|NN fixation|NN fluorescence|NN assay|NN elisa|NN 
+diagnosis|NN strain|NN identification|NN polymerase|NN chain|NN reaction|NN pcr|NN prevention|NN awareness|NN prevention|NN campaign|NN poster|NN guiana|NN 
+vaccine|NN chagas_disease|DS prevention|NN number|NN insect|NN contact|NN human|NN 
+spray|NN paint|NN insecticide|NN house|NN condition|NN area|NN dweller|NN vacation|NN wilderness|NN sleep|NN hostel|NN mud|NN house|NN area|NN mosquito|NN net|NN 
+measure|NN vector|NN control|NN 
+yeast|NN trap|NN monitor|NN infestation|NN specy|NN bug|NN triatoma|NN triatoma|NN result|NN treatment|NN vector|NN habitat|NN fungus|NN beauveria|NN symbiont|NN triatominae|NN paratransgenesis|NN 
+number|NN vaccine|NN 
+vaccination|NN rangely|NN result|NN animal|NN model|NN potential|NN dna|NN vaccine|NN immunotherapy|NN chagas_disease|DS research|NN group|NN 
+blood|NN transfusion|NN mode|NN transmission|NN chagas_disease|DS development|NN implementation|NN blood|NN bank|NN screen|NN test|NN risk|NN century|NN 
+blood|NN donation|NN country|NN screen|NN test|NN country|NN france|NN spain|NN state|NN population|NN immigrant|NN area|NN spain|NN donor|NN questionnaire|NN individual|NN risk|NN exposure|NN screen|NN test|NN 
+fda|NN test|NN april|NN guideline|NN test|NN blood|NN tissue|NN product|NN test|NN 7590|NN blood|NN supply|NN chaga|NN unit|NN cross|NN blood|NN supply|NN chaga|NN network|NN report|NN incident|NN blood|NN product|NN united|NN states|NN lab|NN screen|NN test|NN fda|NN management|NN 
+approache|NN chagas_disease|DS treatment|NN parasite|NN treatment|NN symptom|NN sign|NN infection|NN 
+management|NN failure|NN system|NN 
+disease|NN chaga|NN megacolon|NN cardiomyopathy|DS 
+mechanism|NN target|NN system|NN system|NN 
+treatment|NN course|NN infection|NN case|NN phase|NN 
+drug|NN choice|NN derivative|NN 
+agent|NN capacity|NN body|NN cure|NN patient|NN resistance|NN drug|NN 
+study|NN treatment|NN cure|NN infant|NN 6085|NN adult|NN year|NN phase|NN chagas_disease|DS 
+children|NN year|NN disease|NN cure|NN rate|NN 
+rate|NN cure|NN adult|NN treatment|NN benznidazole|NN onset|NN heart|NN disease|NN adult|NN infection|NN 
+treatment|NN infection|NN women|NN pregnancy|NN probability|NN disease|NN infant|NN 
+treatment|NN infection|NN person|NN immunosuppression|NN example|NN organ|NN transplant|NN recipient|NN person|NN example|NN hiv|DS infection|NN complication|NN 
+stage|NN treatment|NN manifestation|NN disease|NN 
+example|NN pacemaker|NN medication|NN heartbeat|NN drug|NN amiodarone|NN life|NN save|NN patient|NN disease|NN surgery|NN 
+disease|NN phase|NN 
+heart|NN disease|NN chagas_disease|DS reason|NN heart|NN transplantation|NN surgery|NN 
+chagas_disease|DS contraindication|NN procedure|NN heart|NN damage|NN parasite|NN opportunity|NN immunosuppression|NN surgery|NN epidemiology|NN chagas_disease|DS america|NN zone|NN 
+chagas_disease|DS people|NN live|NN country|NN 300000400000|NN live|NN country|NN spain|NN united|NN states|NN 
+case|NN country|NN infant|NN chagas_disease|DS death|NN 9300|NN 
+disease|NN country|NN continent|NN state|NN argentina|NN chagas|NN zone|NN 
+cone|NN region|NN vector|NN live|NN home|NN 
+america|NN mexico|NN vector|NN specy|NN live|NN dwell|NN area|NN 
+zone|NN area|NN breed|NN feed|NN specy|NN family|NN mammal|NN human|NN reservoir|NN t|NN 
+bug|NN bird|NN infection|NN t|NN cruzy|NN reservoir|NN 
+colony|NN insect|NN house|NN animal|NN shelter|NN plant|NN animal|NN part|NN sylvatic|NN animal|NN infection|NN cycle|NN 
+zone|NN savannah|NN clump|NN tree|NN habitation|NN 
+wildlife|NN reservoir|NN cruzy|NN state|NN armadillo|NN squirrel|NN mice|NN reservoir|NN parasite|NN life|NN cycle|NN gland|NN animal|NN insect|NN vector|NN prevalence|NN disease|NN opossum|NN range|NN 
+study|NN raccoon|NN southeast|NN infection|NN rate|NN prevalence|NN study|NN louisiana|NN range|NN low|NN rodent|NN squirrel|NN mice|NN rat|NN transmission|NN cycle|NN importance|NN source|NN insect|NN vector|NN 
+texas|NN study|NN percent|NN prevalence|NN specimen|NN rodent|NN specy|NN 
+chagas_disease|DS health|NN problem|NN country|NN effectiveness|NN measure|NN insect|NN 
+landmark|NN fight|NN america|NN reduction|NN incidence|NN infection|NN children|NN adult|NN country|NN cone|NN initiative|NN country|NN uruguay|NN chile|NN brazil|NN vectorial|NN transmission|NN argentina|NN transmission|NN province|NN progress|NN goal|NN paraguay|NN bolivia|NN 
+screen|NN blood|NN blood|NN component|NN organ|NN donor|NN donor|NN cell|NN tissue|NN cell|NN tissue|NN product|NN t|NN cruzi|NN country|NN people|NN state|NN result|NN immigration|NN country|NN case|NN kiss|NN bug|NN united|NN states|NN population|NN movement|NN possibility|NN transmission|NN blood|NN transfusion|NN united|NN states|NN 
+transfusion|NN blood|NN tissue|NN product|NN risk|NN history|NN carlos|NN chagas|NN laboratory|NN instituto|NN cruz|NN 
+information|NN carlos|NN chagas|NN discovery|NN chagas_disease|DS chagas_disease|DS 
+detection|NN t|NN cruzy|NN infection|NN 9000-year-old|NN mummy|NN 
+mummy|NN region|NN ceramics|NN shed|NN light|NN existence|NN chagas_disease|DS anthropologist|NN reason|NN illness|NN spread|NN physician|NN miguel|NN dial|NN pimenta|NN individual|NN report|NN symptom|NN chagas_disease|DS 
+disease|NN physician|NN epidemiologist|NN carlos|NN disease|NN health|NN problem|NN human|NN outbreak|NN chagas_disease|DS brazil|NN 
+dr|NN chagas|NN intestine|NN triatominae|NN protozoan|NN specy|NN genus|NN monkey|NN bug|NN 
+study|NN squirrel|NN monkey|NN infection|NN 
+parasite|NN cruzy|NN year|NN cruzy|NN cruz|NN physician|NN epidemiologist|NN epidemics|NN fever|ST smallpox|DS plague|DS rio|NN de|NN janeiro|NN city|NN begine|NN century|NN 
+genus|NN pneumocystis|NN pcp|NN pneumocystis|NN pneumonia|DS aid|NN victim|NN confusion|ST pathogen|NN life-cycle|NN genus|NN description|NN pneumocystis|NN genus|NN use|NN name|NN 
+argentina|NN disease|NN de|NN chagas-mazza|NN honor|NN salvador|NN physician|NN disease|NN year|NN researcher|NN disease|NN country|NN confirmation|NN existence|NN cruzy|NN argentina|NN school|NN government|NN policy|NN maker|NN 
+charles|NN darwin|NN chagas_disease|DS result|NN bite|NN bug|NN pampa|NN charles|NN illness|NN 
+episode|NN darwin|NN diary|NN voyage|NN beagle|NN march|NN east|NN andes|NN mendoza|NN 
+darwin|NN health|NN month|NN month|NN valparaiso|NN year|NN england|NN group|NN symptom|NN rest|NN life|NN 
+attempt|NN test|NN remain|NN westminster|NN abbey|NN pcr|NN technique|NN refusal|NN curator|NN research|NN 
+treatment|NN promise|NN animal|NN model|NN 
+inhibitor|NN cyclase|NN synthase|NN cysteine|NN protease|NN inhibitor|NN frog|NN genus|NN p|NN p|NN sesquiterpene|NN dehydroleucodine|NN growth|NN epimastigote-phase|NN inhibitor|NN uptake|NN inhibitor|NN enzyme|NN metabolism|NN drug|NN target|NN sequence|NN t|NN cruzy|NN genome|NN 
+chagas_disease|DS impact|NN united|NN states|NN world|NN 
+cost|NN treatment|NN united|NN states|NN disease|NN hospitalization|NN device|NN pacemaker|NN 
+study|NN chaga|NN human|NN vaccine|NN tcvac3|NN mice|NN plan|NN study|NN dog|NN 
+drug|NN disease|NN initiative|NN time|NN treat|NN campaign|NN association|NN promotion|NN disease|NN control|NN country|NN 

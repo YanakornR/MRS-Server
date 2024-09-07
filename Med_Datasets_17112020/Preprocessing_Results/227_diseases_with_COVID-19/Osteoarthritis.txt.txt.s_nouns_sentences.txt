@@ -1,0 +1,132 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Osteoarthritis|Disease name|NN Osteoarthritis|Disease Osteoarthritis|Disease Osteoarthritis|Disease photograph|NN person|NN hand|NN knob|NN caption|NN formation|NN knob|NN finger|NN joint|NN node|NN finger|NN joint|NN node|NN feature|NN Osteoarthritis|Disease hand|NN
+rheumatology|NN symptom|NN pain|NN stiffness|NN range|NN motion|NN onset|NN year|NN cause|NN injury|NN joint|NN limb|NN development|NN factor|NN factor|NN leg|NN length|NN job|NN level|NN stress|NN method|NN symptom|NN treatment|NN exercise|NN effort|NN stress|NN support|NN group|NN pain|NN medication|NN replacement|NN frequency|NN
+Osteoarthritis|Disease Osteoarthritis|Disease type|NN disease|NN result|NN breakdown|NN cartilage|NN bone|NN symptom|NN pain|NN stiffness|NN symptom|NN exercise|NN time|NN symptom|NN range|NN motion|NN back|NN weakness|NN numbness|NN arm|NN leg|NN joint|NN end|NN finger|NN base|NN thumb|NN neck|NN back|NN knee|NN hip|NN joint|NN side|NN body|NN symptom|NN year|NN work|NN activity|NN type|NN arthritis|NN joint|NN
+cause|NN injury|NN joint|NN limb|NN development|NN factor|NN risk|NN leg|NN length|NN job|NN result|NN level|NN stress|NN Osteoarthritis|Disease stress|NN grade|NN process|NN cartilage|NN bone|NN pain|NN muscle|NN loss|NN diagnosis|NN sign|NN symptom|NN image|NN test|NN support|NN rule|NN problem|NN contrast|NN arthritis|NN condition|NN Osteoarthritis|Disease joint|NN
+treatment|NN exercise|NN effort|NN stress|NN support|NN group|NN pain|NN medication|NN effort|NN stress|NN rest|NN use|NN cane|NN weight|NN loss|NN pain|NN medication|NN paracetamol|NN nsaids|NP use|NN lack|NN information|NN benefit|NN risk|NN addiction|NN side|NN effect|NN pain|NN life|NN treatment|NN replacement|NN surgery|NN joint|NN year|NN
+Osteoarthritis|Disease form|NN arthritis|NN people|NN world|NN population|NN year|NN male|NN female|NN cause|NN year|NN disability|NN australia|NP people|NN united|NP states|NP people|NN sexe|NN people|NN content|NN
+sign|NN symptom|NN risk|NN factor|NN secondary|NN diagnosis|NN classification|NN diagnosis|NN management|NN lifestyle|NN change|NN measure|NN surgery|NN medicine|NN epidemiology|NN united|NP states|NP history|NN research|NN reference|NN link|NN
+sign|NN symptom|NN outline|NN body|NN area|NN Osteoarthritis|Disease hand|NN end|NN finger|NN thumb|NN neck|NN back|NN knee|NN hip|NN
+symptom|NN pain|NN loss|NN ability|NN stiffness|NN
+pain|NN activity|NN rest|NN
+morn|NN minute|NN activity|NN period|NN inactivity|NN
+Osteoarthritis|Disease noise|NN joint|NN shoulder|NN knee|NN joint|NN
+person|NN lock|NN instability|NN
+symptom|NN activity|NN pain|NN stiffness|NN people|NN pain|NN temperature|NN humidity|NN drop|NN pressure|NN study|NN result|NN
+Osteoarthritis|Disease hand|NN feet|NN spine|NN weight-bear|NN joint|NN hip|NN knee|NN theory|NN joint|NN body|NN
+Osteoarthritis|Disease movement|NN pattern|NN gait|NN Osteoarthritis|Disease cause|NN effusion|NN knee|NN
+joint|NN finger|NN enlargement|NN node|NN interphalangeal|NN joint|NN node|NN interphalangeal|NN joint|NN movement|NN finger|NN
+Osteoarthritis|Disease toe|NN factor|NN formation|NN render|NN
+risk|NN factor|NN
+stress|NN self|NN repair|NN joint|NN cause|NN Osteoarthritis|Disease source|NN stress|NN bone|NN cause|NN injury|NN excess|NN body|NN weight|NN loss|NN strength|NN muscle|NN impairment|NN nerve|NN movement|NN exercise|NN run|NN absence|NN injury|NN risk|NN knee|NN Osteoarthritis|Disease knuckle|NN role|NN
+development|NN Osteoarthritis|Disease history|NN injury|NN obesity|NN respect|NN knee|NN change|NN sex|NN hormone|NN level|NN role|NN development|NN Osteoarthritis|Disease women|NN men|NN age|NN disease|NN injury|NN
+risk|NN knee|NN hip|NN Osteoarthritis|Disease handle|NN lift|NN work|NN walk|NN work|NN climb|NN task|NN work|NN climb|NN stair|NN ladder|NN hip|NN Osteoarthritis|Disease risk|NN development|NN time|NN bent|NN position|NN knee|NN Osteoarthritis|Disease risk|NN position|NN experience|NN lift|NN combination|NN posture|NN work|NN stand|NN women|NN men|NN risk|NN development|NN Osteoarthritis|Disease x-ray|NN scan|NN ankle|NN Osteoarthritis|Disease frontal|NN x-ray|NN scan|NN ankle|NN Osteoarthritis|Disease Osteoarthritis|Disease ankle|NN bone|NN fracture|NN woman|NN
+type|NN Osteoarthritis|Disease factor|NN pathology|NN Osteoarthritis|Disease
+disorder|NN joint|NN diabete|NN risk|NN replacement|NN Osteoarthritis|Disease people|NN diabete|NN replacement|NN age|NN diabete|NN syndrome|NN wilsons|NP disease|NN inflammatory|NN disease|NN disease|NN lyme|NP disease|NN form|NN arthritis|NN gout|NN arthritis|NN
+gout|NN acid|NN crystal|NN cartilage|NN pace|NN
+injury|NN joint|NN ligament|NN acl|NN result|NN accident|NN orthopedic|NN operation|NN
+deterioration|NN instability|NN factor|NN
+syndrome|NN obesity|NN infection|NN
+illustration|NN hip|NN hip|NN joint|NN illustration|NN hip|NN hip|NN Osteoarthritis|Disease
+Osteoarthritis|Disease Osteoarthritis|Disease cartilage|NN loss|NN damage|NN tissue|NN change|NN stage|NN Osteoarthritis|Disease progression|NN
+water|NN content|NN cartilage|NN force|NN drive|NN water|NN pressure|NN draw|NN water|NN collagen|NN fibre|NN force|NN effect|NN cartilage|NN pressure|NN water|NN
+onset|NN Osteoarthritis|Disease collagen|NN matrix|NN decrease|NN proteoglycan|NN content|NN cartilage|NN
+breakdown|NN collagen|NN result|NN increase|NN water|NN content|NN increase|NN loss|NN proteoglycan|NN pull|NN loss|NN collagen|NN effect|NN proteoglycan|NN collagen|NN fiber|NN cartilage|NN degradation|NN degeneration|NN
+inflammation|NP cavity|NN line|NN capsule|NN inflammation|NN arthritis|NN
+breakdown|NN product|NN cartilage|NN space|NN cell|NN attempt|NN
+structure|NN joint|NN ligament|NN joint|NN meniscy|NN time|NN person|NN replacement|NN
+bone|NN outgrowth|NN spur|NN osteophyte|NN margin|NN joint|NN attempt|NN congruence|NN cartilage|NN surface|NN absence|NN meniscy|NN
+bone|NN volume|NN increase|NN change|NN problem|NN
+pain|NN joint|NN synovium|NN bone|NN lesion|NN diagnosis|NN
+diagnosis|NN certainty|NN history|NN examination|NN x-ray|NN diagnosis|NN
+change|NN x-ray|NN space|NN narrow|NN sclerosis|NN bone|NN formation|NN subchondral|NN cyst|NN formation|NN film|NN find|NN examination|NN degree|NN pain|NN image|NN technique|NN Osteoarthritis|Disease
+college|NN rheumatology|NN data|NN study|NN set|NN criteria|NN diagnosis|NN hand|NN Osteoarthritis|Disease tissue|NN enlargement|NN swell|NN joint|NN criteria|NN hand|NN Osteoarthritis|Disease entity|NN arthritis|NN spondyloarthropathy|NN
+Osteoarthritis|Disease osteopenia|NN joint|NN
+mry|NN Osteoarthritis|Disease knee|NN narrow|NN space|NN
+Osteoarthritis|Disease knee|NN
+narrow|NN space|NN arrow|NN subchondral|NN bone|NN density|NN arrow|NN
+cartilage|NN sow|NN
+cartilage|NN erosion|NN ulceration|NN repair|NN bone|NN spur|NN formation|NN
+histopathology|NP Osteoarthritis|Disease knee|NN female|NN
+histopathology|NP Osteoarthritis|Disease knee|NN female|NN
+joint|NN end|NN bone|NN cartilage|NN
+capsule|NN membrane|NN fluid|NN
+capsule|NN fluid|NN cartilage|NN muscle|NN tissue|NN
+Osteoarthritis|Disease cartilage|NN
+spur|NN edge|NN bone|NN fluid|NN increase|NN
+classification|NN information|NN classification|NN Osteoarthritis|Disease
+number|NN classification|NN system|NN gradation|NN Osteoarthritis|Disease
+scale|NN account|NN pain|NN stiffness|NN limitation|NN grade|NN scale|NN Osteoarthritis|Disease knee|NN
+radiography|NN feature|NN
+classification|NN Osteoarthritis|Disease hip|NN joint|NN radiography|NN feature|NN knee|NN injury|NN Osteoarthritis|Disease outcome|NN score|NN hip|NN disability|NN Osteoarthritis|Disease outcome|NN score|NN survey|NN
+Osteoarthritis|Disease cause|NN
+x-ray|NN Osteoarthritis|Disease finger|NN joint|NN gull-w|NN appearance|NN
+Osteoarthritis|Disease Osteoarthritis|Disease e|NN Osteoarthritis|Disease Osteoarthritis|Disease Osteoarthritis|Disease
+e|NP Osteoarthritis|Disease form|NN Osteoarthritis|Disease interphalangeal|NN joint|NN hand|NN change|NN x-ray|NN
+hand|NN Osteoarthritis|Disease wrist|NN Osteoarthritis|Disease column|NN arthrosis|NN hip|NN Osteoarthritis|Disease knee|NN Osteoarthritis|Disease
+pathology|NN name|NN Osteoarthritis|Disease
+root|NN mean|NN mean|NN joint|NN end|NN disorder|NN
+diagnosis|NN result|NN diagnosis|NN fracture|NN joint|NN Osteoarthritis|Disease pathology|NN incidence|NN phalangeal|NN joint|NN patient|NN
+ivory-like|NN appearance|NN bone|NN joint|NN change|NN management|NN illustration|NN example|NN condition|NN range|NN motion|NN exercise|NN people|NN Osteoarthritis|Disease kind|NN exercise|NN benefit|NN body|NN
+lifestyle|NN modification|NN weight|NN loss|NN exercise|NN analgesics|NN mainstay|NN treatment|NN
+paracetamol|NN line|NN nsaids|NP therapy|NN pain|NN relief|NN safety|NN lifestyle|NN change|NN
+people|NN weight|NN loss|NN factor|NN patient|NN education|NN self-management|NN arthritis|NN pain|NN function|NN stiffness|NN fatigue|NN usage|NN patient|NN education|NN average|NN pain|NN relief|NN nsaids|NP patient|NN hip|NN Osteoarthritis|Disease measure|NN
+exercise|NN respect|NN pain|NN function|NN Osteoarthritis|Disease knee|NN hip|NN exercise|NN time|NN week|NN evidence|NN therapy|NN evidence|NN program|NN advice|NN exercise|NN people|NN importance|NN exercise|NN benefit|NN participation|NN evidence|NN exercise|NN therapy|NN exercise|NN adherence|NN evidence|NN effectiveness|NN massage|NN therapy|NN evidence|NN therapy|NN gait|NN balance|NN train|NN address|NN impairment|NN position|NN sense|NN balance|NN strength|NN individual|NN extremity|NN arthritis|NN rate|NN fall|NN individual|NN people|NN hand|NN Osteoarthritis|Disease exercise|NN benefit|NN hand|NN function|NN pain|NN finger|NN stiffness|NN
+wedge|NN insole|NN Osteoarthritis|Disease knee|NN knee|NN brace|NN usefulness|NN pain|NN management|NN heat|NN stiffness|NN cold|NN muscle|NN spasm|NN pain|NN people|NN hip|NN knee|NN Osteoarthritis|Disease exercise|NN water|NN pain|NN disability|NN increase|NN quality|NN life|NN term|NN exercise|NN program|NN aerobics|NN walk|NN pain|NN function|NN month|NN end|NN program|NN people|NN knee|NN Osteoarthritis|Disease treatment|NN recommendation|NN risk|NN factor|NN gi|NN risk|NN risk|NN option|NN low|NP low|NP nsaid|NP paracetamol|NN paracetamol|NN dose|NN nsaid|NP paracetamol|NN dose|NN aspirin|NN dose|NN paracetamol|NN aspirin|NN antacid|NN
+monitor|NN pain|NN stool|NN mouth|NN
+pain|NN medication|NN paracetamol|NN acetaminophen|NN line|NN treatment|NN Osteoarthritis|Disease pain|NN relief|NN dosage|NN review|NN term|NN benefit|NN laboratory|NN concern|NN liver|NN inflammation|NN symptom|NN effectiveness|NN acetaminophen|NN drug|NN nsaids|NP symptom|NN nsaids|NP nsaids|NP side|NN effect|NN bleed|NN
+class|NN nsaids|NP inhibitor|NN nonselective|NP nsaids|NP rate|NN effect|NN rate|NN disease|NN infarction|NN nsaids|NP benefit|NN risk|NN individual|NN need|NN consideration|NN treatment|NN decision|NN research|NN nsaid|NN inhibitor|NN number|NN people|NN inhibitor|NN market|NN event|NN term|NN use|NN
+failure|NN pain|NN relief|NN Osteoarthritis|Disease week|NN reassessment|NN dosage|NN pain|NN medication|NN mouth|NN opioid|NN opioid|NN
+appropriateness|NN opioid|NN line|NN therapy|NN benefit|NN risk|NN side|NN update|NN steroid|NN treatment|NN Osteoarthritis|Disease
+use|NN antibiotic|NN Osteoarthritis|Disease improvement|NN function|NN pain|NN benefit|NN potential|NN therapy|NN narrow|NN space|NN benefit|NN harm|NN side|NN effect|NN
+nsaids|NP use|NN
+cochrane|NP review|NN 2016|NP evidence|NN use|NN diclofenac|NN ketoprofen|NN people|NN year|NN knee|NN arthritis|NN pain|NN medication|NN treatment|NN Osteoarthritis|Disease use|NN capsaicin|NN Osteoarthritis|Disease review|NN benefit|NN injection|NN hip|NN injection|NN skin|NN mark|NN point|NN entry|NN needle|NN
+injection|NN term|NN pain|NN relief|NN week|NN month|NN acid|NN improvement|NN placebo|NN knee|NN arthritis|NN risk|NN pain|NN ankle|NN Osteoarthritis|Disease evidence|NN effectiveness|NN injection|NN plasma|NN suggestion|NN injection|NN function|NN pain|NN risk|NN
+cochrane|NP review|NN injection|NN knee|NN quality|NN life|NN effect|NN knee|NN space|NN effect|NN week|NN injection|NN study|NN quality|NN study|NN effect|NN injection|NN dose|NN trial|NN reduction|NN cartilage|NN thickness|NN intra-articular|NN week|NN year|NN placebo|NN study|NN triamcinolone|NN increase|NN pressure|NN surgery|NN
+impact|NN symptom|NN Osteoarthritis|Disease quality|NN life|NN management|NN replacement|NN surgery|NN resurface|NN
+evidence|NN replacement|NN knee|NN hip|NN surgery|NN cartilage|NN area|NN area|NN procedure|NN success|NN problem|NN cartilage|NN cartilage|NN transfer|NN site|NN
+people|NN knee|NN Osteoarthritis|Disease treatment|NN type|NN surgery|NN surgery|NN outcome|NN knee|NN Osteoarthritis|Disease harm|NN
+people|NN shoulder|NN Osteoarthritis|Disease approache|NN option|NN shoulder|NN part|NN shoulder|NN medicine|NN
+effectiveness|NN glucosamine|NN review|NN placebo|NN difference|NN sulfate|NN hydrochloride|NN sulfate|NN benefit|NN hydrochloride|NN evidence|NN sulfate|NN effect|NN Osteoarthritis|Disease progression|NN Osteoarthritis|Disease research|NN society|NN glucosamine|NN effect|NN month|NN institute|NN health|NN care|NN excellence|NN use|NN difficulty|NN efficacy|NN glucosamine|NN treatment|NN option|NN society|NN aspect|NN osteoporosis|NN Osteoarthritis|Disease esceo|NN sulfate|NN sulfate|NN knee|NN Osteoarthritis|Disease use|NN therapy|NN Osteoarthritis|Disease
+cochrane|NP review|NN trial|NN chondroitin|NN quality|NN evidence|NN improvement|NN pain|NN side|NN effect|NN health|NN joint|NN remedy|NN
+asu|NN extract|NN avocado|NN oil|NN oil|NN name|NN supplement|NN drug|NN france|NP cochrane|NP review|NN pain|NN term|NN people|NN Osteoarthritis|Disease health|NN joint|NN
+review|NN trial|NN efficacy|NN Osteoarthritis|Disease study|NN difference|NN review|NN safety|NN
+study|NN show|NN improvement|NN pain|NN function|NN curcumin|NN pain|NN
+2009|NP cochrane|NP review|NN routine|NN use|NN trial|NN effect|NN evidence|NN support|NN msm|NP rose|NN hip|NN
+evidence|NN benefit|NN supplement|NN preparation|NN name|NN f|NP eazmov|NP duhuo|NP preparation|NN fish|NN liver|NN oil|NN ginger|NN preparation|NN acid|NN product|NN nettle|NN vitamin|NN c|NP e|NP combination|NN vitamin|NN vitamin|NN k|NP vitamin|NN d|NP collagen|NN willow|NN bark|NN
+evidence|NN recommendation|NN safety|NN efficacy|NN treatment|NN acupuncture|NN intervention|NN
+acupuncture|NN improvement|NN pain|NN relief|NN improvement|NN importance|NN trial|NN Osteoarthritis|Disease benefit|NN placebo|NN effect|NN acupuncture|NN benefit|NN
+technique|NN year|NN Osteoarthritis|Disease knee|NN evidence|NN pain|NN disability|NN cochrane|NP review|NN laser|NN therapy|NN evidence|NN benefit|NN review|NN pain|NN relief|NN knee|NN
+research|NN Osteoarthritis|Disease mineral|NN bath|NN spa|NN treatment|NN person|NN quality|NN life|NN ability|NN use|NN ice|NN pack|NN research|NN evidence|NN benefit|NN pack|NN joint|NN
+quality|NN evidence|NN ultrasound|NN people|NN Osteoarthritis|Disease knee|NN research|NN degree|NN significance|NN benefit|NN
+evidence|NN field|NN treatment|NN pain|NN relief|NN research|NN field|NN treatment|NN quality|NN life|NN function|NN
+Osteoarthritis|Disease knee|NN effect|NN pain|NN function|NN week|NN epidemiology|NN heat|NN map|NN Osteoarthritis|Disease life|NN year|NN country|NN life|NN year|NN Osteoarthritis|Disease inhabitant|NN data|NN
+320340|NN 380400|NN
+people|NN Osteoarthritis|Disease knee|NN population|NN hip|NN Osteoarthritis|Disease 085|NN population|NN
+Osteoarthritis|Disease disability|NN people|NN knee|NN hip|NN Osteoarthritis|Disease rank|NN disability|NN disease|NN condition|NN united|NP states|NP
+Osteoarthritis|Disease people|NN united|NP states|NP year|NN population|NN evidence|NN Osteoarthritis|Disease age|NN symptom|NN rate|NN Osteoarthritis|Disease united|NP states|NP adult|NN
+united|NP states|NP hospitalization|NN Osteoarthritis|Disease rate|NN stay|NN population|NN cost|NN condition|NN hospital|NN
+payer|NN condition|NN medicare|NP insurance|NN history|NN
+evidence|NN Osteoarthritis|Disease fossil|NN record|NN specialist|NN disease|NN injury|NN
+Osteoarthritis|Disease fossil|NN dinosaur|NN
+knee|NN Osteoarthritis|Disease century|NN study|NN skeleton|NN
+Osteoarthritis|Disease prefix|NN greek|NN lit|NN
+bone|NN arthritis|NN lit|NN
+joint|NN arthr-|NN lit|NN
+limb|NN -itis|NN
+suffix|NN inflammation|NN -itis|NN Osteoarthritis|Disease inflammation|NN feature|NN
+clinician|NN condition|NN Osteoarthritis|Disease lack|NN response|NN suffix|NN
+state|NN condition|NN action|NN pathosis|NN
+effort|NN agent|NN outcome|NN Osteoarthritis|Disease
+candidate|NN drug|NN
+evidence|NN strontium|NN degeneration|NN Osteoarthritis|Disease outcome|NN
+agent|NN Osteoarthritis|Disease evidence|NN approach|NN cause|NN Osteoarthritis|Disease change|NN disease|NN abnormality|NN biology|NN structure|NN joint|NN disease|NN
+research|NN Osteoarthritis|Disease change|NN image|NN marker|NN Osteoarthritis|Disease risk|NN approache|NN intervention|NN Osteoarthritis|Disease risk|NN joint|NN disease|NN
+gene|NP transfer|NN strategy|NN disease|NN process|NN symptom|NN
+gene|NN therapy|NN version|NN south|NP korea|NP treatment|NN knee|NN Osteoarthritis|Disease mislabel|NN report|NN ingredient|NN drug|NN
+guideline|NN requirement|NN inclusion|NN biomarker|NN Osteoarthritis|Disease trial|NN biomarker|NN Osteoarthritis|Disease
+review|NN biomarker|NN Osteoarthritis|Disease molecule|NN risk|NN assessment|NN marker|NN bone|NN cartilage|NN turnover|NN publication|NN evidence|NN telopeptide|NN type|NN collagen|NN uctx-iy|NN marker|NN knee|NN Osteoarthritis|Disease progression|NN serum|NN cartilage|NN matrix|NN protein|NN level|NN marker|NN incidence|NN knee|NN hip|NN Osteoarthritis|Disease
+review|NN biomarker|NN hip|NN Osteoarthritis|Disease association|NN type|NN propeptide|NN level|NN type|NN collagen|NN synthesis|NN body|NN fluid|NN level|NN marker|NN Osteoarthritis|Disease
+problem|NN type|NN collagen|NN biomarker|NN breakdown|NN cartilage|NN amount|NN cartilage|NN time|NN progression|NN disease|NN
+result|NN patient|NN Osteoarthritis|Disease urine|NN
+problem|NN biomarker|NN patient|NN Osteoarthritis|Disease joint|NN stage|NN disease|NN time|NN source|NN
+collagen|NN breakdown|NN product|NN fluid|NN injury|NN cause|NN Osteoarthritis|Disease severity|NN injury|NN

@@ -1,0 +1,161 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN anxiety|ST disorder|NN screamjpg|NN scream|NN norwegian|NN paint|NN artist|NN edvard|NN munch|NN psychiatry|NN symptom|NN heart|NN rate|NN complication|NN depression|ST trouble|NN quality|NN life|NN suicide|NN onset|NN year|NN duration|NN month|NN cause|NN factor|NN factor|NN child|NN abuse|NN family|NN history|NN poverty|NN diagnosis|NN heart|NN disease|NN caffeine|NN alcohol|NN cannabis|NN use|NN withdrawal|NN drug|NN treatment|NN lifestyle|NN change|NN counsel|NN medication|NN beta|NN blocker|NN frequency|NN year|NN 
+anxiety|ST disorder|NN group|NN disorder|NN feel|NN anxiety|ST fear|NN anxiety|ST worry|NN event|NN fear|NN reaction|NN event|NN feel|NN symptom|NN heart|NN rate|NN shakiness|NN anxiety|ST disorder|NN anxiety|ST disorder|NN phobia|ST anxiety|ST disorder|NN separation_anxiety_disorder|DS agoraphobia|DS panic_disorder|DS disorder|NN result|NN symptom|NN people|NN anxiety|ST disorder|NN 
+cause|NN anxiety|ST disorder|NN combination|NN factor|NN factor|NN history|NN child|NN abuse|NN family|NN history|NN disorder|NN poverty|NN anxiety|ST disorder|NN disorder|NN depressive|NN disorder|NN personality|NN disorder|NN substance|NN use|NN disorder|NN symptom|NN month|NN situation|NN decrease|NN function|NN problem|NN symptom|NN heart|NN disease|NN caffeine|NN alcohol|NN cannabis|NN use|NN withdrawal|NN drug|NN 
+treatment|NN anxiety|ST disorder|NN treatment|NN lifestyle|NN change|NN counsel|NN medication|NN counsel|NN type|NN behavioral|NN therapy|NN antidepressant|NN benzodiazepine|NN beta|NN blocker|NN symptom|NN 
+people|NN anxiety|ST disorder|NN year|NN lifetime|NN female|NN male|NN age|NN year|NN phobia|ST anxiety|ST disorder|NN phobia|ST people|NN age|NN age|NN rate|NN united|NN states|NN europe|NN content|NN 
+classification|NN anxiety|ST disorder|NN phobia|ST panic_disorder|DS anxiety|ST disorder|NN stress|NN disorder|NN separation_anxiety_disorder|DS anxiety|ST disorder|NN mutism|NN cause|NN drug|NN condition|NN stress|NN genetics|NN mechanism|NN diagnosis|NN diagnosis|NN prevention|NN treatment|NN lifestyle|NN diet|NN therapy|NN medicine|NN children|NN epidemiology|NN reference|NN link|NN 
+classification|NN expression|NN anxiety|ST anxiety|ST disorder|NN article|NN anxiety|ST disorder|NN 
+anxiety|ST disorder|NN gad|NN disorder|NN anxiety|ST object|NN situation|NN 
+suffer|NN anxiety|ST disorder|NN experience|NN fear|NN worry|NN matter|NN 
+anxiety|ST disorder|NN worry|NN symptom|NN restlessness|NN fatigue|ST concentration|NN problem|NN irritability|ST muscle|NN tension|NN sleep|NN disturbance|NN anxiety|ST disorder|NN anxiety|ST disorder|NN adult|NN anxiety|ST symptom|NN substance|NN abuse|NN problem|NN professional|NN 
+diagnosis|NN gad|NN person|NN problem|NN month|NN person|NN problem|NN decision|NN commitment|NN result|NN lack|NN concentrationpreoccupation|NN worry|NN appearance|NN sweate|NN hand|NN feet|NN axillae|NN depression|ST diagnosis|NN anxiety|ST disorder|NN physician|NN anxiety|ST cause|NN 
+children|NN headache|ST restlessness|NN pain|ST heart|NN palpitation|NN year|NN age|NN phobia|ST article|NN phobia|ST 
+category|NN anxiety|ST disorder|NN phobia|ST case|NN fear|NN anxiety|ST stimulus|NN situation|NN 
+population|NN phobia|ST sufferer|NN consequence|NN object|NN fear|NN animal|NN location|NN fluid|NN situation|NN 
+phobia|ST blood|NN water|NN highway|NN drive|NN tunnel|NN 
+people|NN phobia|ST shortness|NN breath|NN heartbeat|NN people|NN fear|NN potential|NN danger|NN panic_disorder|DS article|NN panic_disorder|DS 
+panic_disorder|DS person|NN attack|NN terror|NN apprehension|NN shake|NN confusion|ST dizziness|ST nausea|ST difficulty|NN breath|NN 
+panic|NN attack|NN apa|NN fear|NN discomfort|NN peak|NN minute|NN hour|NN attack|NN stress|NN thought|NN fear|NN fear|NN exercise|NN 
+trigger|NN attack|NN warn|NN 
+attack|NN trigger|NN 
+addition|NN panic|NN diagnosis|NN panic_disorder|DS attack|NN consequence|NN attack|NN potential|NN implication|NN fear|NN attack|NN change|NN behavior|NN attack|NN 
+suffer|NN panic_disorder|DS experience|NN symptom|NN panic|NN episode|NN 
+change|NN heartbeat|NN panic|NN sufferer|NN heart|NN panic|NN attack|NN 
+case|NN awareness|NN hypervigilance|NN body|NN function|NN panic|NN attack|NN change|NN illness|NN 
+anxiety|ST place|NN situation|NN escape|NN help|NN panic_disorder|DS fear|NN panic|NN attack|NN 
+manifestation|NN view|NN door|NN escape|NN route|NN 
+addition|NN fear|NN term|NN agoraphobia|DS avoidance|NN sufferer|NN example|NN panic|NN attack|NN agoraphobia|DS anxiety|ST drive|NN drive|NN 
+avoidance|NN consequence|NN fear|NN 
+anxiety|ST disorder|NN article|NN anxiety|ST disorder|NN 
+anxiety|ST disorder|NN phobia|ST fear|NN avoidance|NN scrutiny|NN public|NN embarrassment|NN humiliation|NN interaction|NN 
+fear|NN situation|NN speak|NN interaction|NN 
+anxiety|ST symptom|NN sweate|NN difficulty|NN 
+disorder|NN suffer|NN anxiety|ST source|NN anxiety|ST case|NN anxiety|ST case|NN isolation|NN 
+physique|NN anxiety|ST spa|NN subtype|NN anxiety|ST 
+concern|NN evaluation|NN body|NN spa|NN adolescent|NN female|NN 
+stress|NN disorder|NN article|NN stress|NN disorder|NN 
+stress|NN disorder|NN anxiety|ST disorder|NN trauma-|NN stressor-relate|NN disorder|NN result|NN experience|NN 
+stress|NN situation|NN combat|NN disaster|NN rape|NN hostage|NN situation|NN child|NN abuse|NN bully|NN accident|NN 
+exposure|NN stressor--|NN example|NN soldier|NN battle|NN combat|NN 
+symptom|NN flashback|NN anxiety|ST anger|NN depression|ST addition|NN individual|NN sleep|NN disturbance|NN number|NN treatment|NN basis|NN care|NN plan|NN suffer|NN 
+treatment|NN behavioral|NN therapy|NN cbt|NN psychotherapy|NN support|NN family|NN friend|NN 
+stress|NN disorder|NN research|NN vietnam|NN veteran|NN disaster|NN victim|NN 
+study|NN degree|NN exposure|NN disaster|NN predictor|NN separation_anxiety_disorder|DS article|NN separation_anxiety_disorder|DS 
+separation_anxiety_disorder|DS sepad|NN feel|NN level|NN anxiety|ST person|NN place|NN 
+separation|NN anxiety|ST part|NN development|NN baby|NN children|NN feel|NN disorder|NN separation_anxiety_disorder|DS adult|NN children|NN childhood|NN case|NN instance|NN separation|NN panic|NN child|NN problem|NN 
+train|NN parent|NN family|NN 
+parent|NN anxiety|ST child|NN 
+addition|NN parent|NN train|NN family|NN therapy|NN medication|NN separation|NN anxiety|ST anxiety|ST 
+anxiety|ST situation|NN event|NN 
+experience|NN panic|NN attack|NN anxiety|ST situation|NN 
+situation|NN individual|NN experience|NN anxiety|ST individual|NN 
+example|NN people|NN crowd|NN space|NN line|NN bank|NN store|NN register|NN anxiety|ST panic|NN attack|NN anxiety|ST change|NN life|NN college|NN children|NN 
+disorder|NN article|NN disorder|NN 
+disorder|NN ocd|DS anxiety|ST disorder|NN dsm-5|NN icd-10|NN 
+anxiety|ST disorder|NN dsm-iv|NN 
+condition|NN person|NN obsession|NN thought|NN image|NN urge|NN act|NN ritual|NN drug|NN order|NN cause|NN distress|NN dysfunction|NN ritual|NN rule|NN anxiety|ST ocd|DS adult|NN women|NN men|NN children|NN adolescent|NN 
+person|NN ocd|DS symptom|NN struggle|NN thought|NN behavior|NN symptom|NN event|NN home|NN stove|NN worry|NN 
+people|NN factor|NN risk|NN factor|NN family|NN history|NN disorder|NN class|NN employment|NN ocd|DS people|NN symptom|NN time|NN people|NN article|NN mutism|NN 
+mutism|NN sm|NN disorder|NN person|NN speech|NN situation|NN people|NN 
+mutism|NN shyness|NN anxiety|ST people|NN mutism|NN consequence|NN silence|NN shame|NN ostracism|NN punishment|NN mutism|NN people|NN point|NN life|NN cause|NN drug|NN 
+anxiety|ST depression|ST alcohol|NN abuse|NN case|NN abstinence|NN 
+alcohol|NN use|NN anxiety|ST level|NN individual|NN caffeine|NN alcohol_dependence|DS anxiety|ST panic|NN attack|NN anxiety|ST withdrawal|NN phase|NN alcohol|NN year|NN part|NN withdrawal|NN syndrome|NN quarter|NN people|NN alcoholism|NN study|NN illness|NN patient|NN health|NN service|NN hospital|NN clinic|NN condition|NN anxiety|ST disorder|NN panic_disorder|DS phobia|ST result|NN alcohol_dependence|DS 
+patient|NN increase|NN anxiety|ST withdrawal|NN period|NN cessation|NN anxiety|ST symptom|NN 
+evidence|NN exposure|NN solvent|NN work|NN environment|NN anxiety|ST disorder|NN 
+paint|NN job|NN exposure|NN solvent|NN 
+caffeine|NN anxiety|ST disorder|NN panic_disorder|DS anxiety|ST disorder|NN caffeine|NN sensitivity|NN anxiety|ST disorder|NN subclass|NN diagnosis|NN anxiety|ST disorder|NN 
+anxiety|ST disorder|NN fall|NN category|NN anxiety|ST disorder|NN category|NN substance-relate|NN disorder|NN symptom|NN effect|NN substance|NN 
+cannabis|NN use|NN anxiety|ST disorder|NN 
+relationship|NN cannabis|NN use|NN anxiety|ST condition|NN 
+anxiety|ST disorder|NN side-effect|NN disease|NN system|NN hyperactivity|NN stress|NN 
+anxiety|ST disorder|NN response|NN life|NN stress|NN worry|NN illness|NN 
+anxiety|ST adolescent|NN adult|NN stress|NN interaction|NN evaluation|NN body|NN image|NN 
+anxiety|ST people|NN dementia|DS 
+hand|NN anxiety|ST disorder|NN adult|NN doctor|NN symptom|NN ailment|NN instance|NN race|NN heartbeat|NN arrhythmia|ST sign|NN anxiety|ST genetics|NN 
+family|NN time|NN children|NN condition|NN 
+anxiety|ST adaptation|NN time|NN context|NN anxiety|ST disorder|NN 
+people|NN disorder|NN system|NN system|NN stimuly|NN 
+anxiety|ST disorder|NN youth|NN prevalence|NN anxiety|ST child|NN future|NN case|NN disorder|NN way|NN individual|NN environment|NN threat|NN 
+persistence|NN anxiety|ST 
+level|NN anxiety|ST thing|NN 
+fact|NN response|NN anxiety|ST benefit|NN human|NN danger|NN 
+researcher|NN medicine|NN adaptation|NN human|NN threat|NN order|NN possibility|NN protection|NN 
+level|NN anxiety|ST risk|NN death|NN level|NN 
+absence|NN fear|NN injury|NN death|NN patient|NN anxiety|ST depression|ST morbidity|NN depression|ST significance|NN symptom|NN anxiety|ST alertness|NN preparation|NN action|NN probability|NN threat|NN individual|NN example|NN threshold|NN anxiety|ST response|NN history|NN anxiety|ST response|NN 
+rate|NN anxiety|ST reaction|NN environment|NN era|NN 
+example|NN stone|NN age|NN contact|NN handle|NN baby|NN mother|NN strategy|NN anxiety|ST interaction|NN stranger|NN time|NN interaction|NN tribe|NN 
+researcher|NN lack|NN interaction|NN year|NN cause|NN rate|NN anxiety|ST 
+case|NN mismatch|NN mismatch|NN 
+term|NN mismatch|NN individual|NN trait|NN environment|NN individual|NN environment|NN 
+example|NN anxiety|ST reaction|NN situation|NN individual|NN culture|NN new|NN reaction|NN 
+perspective|NN insight|NN alternative|NN treatment|NN method|NN anxiety|ST disorder|NN 
+anxiety|ST panic|NN condition|NN 
+researcher|NN theory|NN anxiety|ST patient|NN feel|NN vulnerability|NN appraisal|NN situation|NN mechanism|NN 
+level|NN gaba|NN neurotransmitter|NN activity|NN system|NN anxiety|ST 
+number|NN anxiolytics|NN effect|NN gaba|NN receptor|NN 
+serotonin|NN reuptake|NN inhibitor|NN drug|NN depression|ST line|NN treatment|NN anxiety|ST disorder|NN amygdala|NN 
+amygdala|NN process|NN fear|NN anxiety|ST function|NN anxiety|ST disorder|NN information|NN amygdala|NN nucley|NN complex|NN nucley|NN 
+process|NN fear|NN memory|NN threat|NN importance|NN memory|NN process|NN brain|NN prefrontal|NN cortex|NN cortice|NN 
+area|NN nucleus|NN amygdala|NN fear|NN response|NN connection|NN brainstem|NN hypothalamus|NN cerebellum|NN area|NN 
+anxiety|ST disorder|NN connection|NN matter|NN nucleus|NN 
+difference|NN area|NN connectivity|NN insula|NN area|NN stimulus|NN salience|NN connectivity|NN cortex|NN cortex|NN circuit|NN executive|NN function|NN 
+compensation|NN strategy|NN process|NN anxiety|ST 
+researcher|NN couple|NN anxiety|ST disorder|NN patient|NN engagement|NN control|NN system|NN anxiety|ST 
+theory|NN use|NN disorder|NN attempt|NN involvement|NN emotion|NN strategy|NN 
+animal|NN study|NN correlation|NN anxiety|ST disorder|NN difficulty|NN balance|NN mechanism|NN malfunction|NN area|NN brain|NN structure|NN function|NN coordinate|NN signal|NN amygdala|NN input|NN balance|NN 
+anxiety|ST process|NN amygdala|NN arborization|NN neuron|NN 
+potassium|NN channel|NN influence|NN action|NN potential|NN 
+sk2|NN amygdala|NN anxiety|ST animal|NN level|NN secretion|NN 
+joseph|NN e|NN 
+lisa|NN feldman|NN barrett|NN threat|NN response|NN activity|NN anxiety|ST 
+anxiety|ST disorder|NN condition|NN age|NN trigger|NN event|NN 
+time|NN stress|NN symptom|NN headache|ST sweate|NN muscle|NN spasm|NN tachycardia|DS palpitation|NN hypertension|DS case|NN fatigue|ST 
+discourse|NN word|NN anxiety|ST fear|NN usage|NN mean|NN anxiety|ST state|NN cause|NN fear|NN response|NN threat|NN umbrella|NN term|NN anxiety|ST disorder|NN number|NN disorder|NN fear|NN phobia|ST anxiety|ST symptom|NN 
+diagnosis|NN anxiety|ST disorder|NN objective|NN symptom|NN month|NN situation|NN decrease|NN function|NN anxiety|ST questionnaire|NN anxiety|ST symptom|NN anxiety|ST inventory|NN generalize|NN anxiety|ST disorder|NN beck|NN anxiety|ST inventory|NN zung|NN anxiety|ST scale|NN taylor|NN manifest|NN anxiety|ST scale|NN questionnaire|NN anxiety|ST depression|ST measurement|NN hamilton|NN anxiety|ST rate|NN scale|NN hospital|NN anxiety|ST depression|ST scale|NN health|NN questionnaire|NN outcome|NN measurement|NN information|NN system|NN example|NN anxiety|ST questionnaire|NN anxiety|ST scale|NN interaction|NN anxiety|ST scale|NN phobia|ST inventory|NN phobia|ST scale|NN sp|NN anxiety|ST questionnaire|NN 
+anxiety|ST disorder|NN disorder|NN depression|ST people|NN anxiety|ST disorder|NN 
+fact|NN overlap|NN symptom|NN anxiety|ST depression|ST trigger|NN symptom|NN condition|NN rate|NN 
+study|NN anxiety|ST disorder|NN family|NN history|NN anxiety|ST disorder|NN type|NN 
+dysfunction|NN anxiety|ST disorder|NN anxiety|ST dysfunction|NN cause|NN 
+manifestation|NN individual|NN anxiety|ST disorder|NN avoidance|NN intercourse|NN ejaculation|NN dysfunction|NN men|NN pain|ST intercourse|NN women|NN 
+dysfunction|NN people|NN panic_disorder|DS panic|NN attack|NN arousal|NN stress|NN disorder|NN diagnosis|NN 
+diagnosis|NN anxiety|ST disorder|NN rule|NN cause|NN disease|NN anxiety|ST disorder|NN disease|NN disorder|NN diabete|NN deficiency|NN state|NN level|NN vitamin|NN acid|NN disease|NN disease|NN gluten|NN sensitivity|NN bowel|NN disease|NN heart|NN disease|NN blood|NN disease|NN brain|NN disease|NN disease|NN dementia|DS sclerosis|NN disease|NN 
+drug|NN anxiety|ST intoxication|NN withdrawal|NN use|NN 
+alcohol|NN tobacco|NN cannabis|NN sedative|NN prescription|NN benzodiazepine|NN opioid|NN prescription|NN pain|ST killer|NN drug|NN heroin|NN stimulant|NN caffeine|NN cocaine|NN amphetamine|NN prevention|NN 
+focus|NN prevention|NN anxiety|ST disorder|NN evidence|NN use|NN behavioral|NN therapy|NN therapy|NN 2013|NN measure|NN adult|NN treatment|NN 
+treatment|NN option|NN lifestyle|NN change|NN therapy|NN medication|NN 
+evidence|NN therapy|NN medication|NN choice|NN person|NN anxiety|ST disorder|NN therapy|NN addition|NN choice|NN choice|NN symptom|NN lifestyle|NN diet|NN 
+lifestyle|NN change|NN exercise|NN evidence|NN improvement|NN sleep|NN pattern|NN caffeine|NN intake|NN stop|NN smoke|NN smoke|NN benefit|NN anxiety|ST medication|NN acid|NN fish|NN oil|NN anxiety|ST symptom|NN therapy|NN 
+behavioral|NN therapy|NN cbt|NN anxiety|ST disorder|NN line|NN treatment|NN cbt|NN internet|NN evidence|NN health|NN app|NN 
+book|NN treatment|NN people|NN anxiety|ST disorder|NN 
+program|NN anxiety|ST disorder|NN meditation|NN effect|NN anxiety|ST meditation|NN type|NN meditation|NN 
+cochrane|NN review|NN morita|NN therapy|NN anxiety|ST disorder|NN adult|NN evidence|NN conclusion|NN 
+line|NN choice|NN anxiety|ST disorder|NN evidence|NN member|NN class|NN cost|NN drug|NN choice|NN year|NN medication|NN result|NN risk|NN relapse|NN 
+treatment|NN people|NN evidence|NN benzodiazepine|NN diazepam|NN favor|NN risk|NN dependence|NN abuse|NN 
+care|NN adult|NN side|NN effect|NN disorder|NN 
+adherence|NN problem|NN people|NN difficulty|NN understand|NN instruction|NN 
+medication|NN phobia|ST benzodiazepine|NN episode|NN data|NN efficacy|NN drug|NN medicine|NN 
+remedy|NN anxiety|ST disorder|NN 
+potential|NN benefit|NN harm|NN use|NN anxiety|ST academy|NN family|NN physician|NN use|NN kava|NN anxiety|ST disorder|NN alcohol|NN medicine|NN liver|NN remedy|NN side|NN effect|NN kava|NN trial|NN 
+effect|NN people|NN panic_disorder|DS disorder|NN evidence|NN use|NN st|NN 
+johns|NN wort|NN 
+aromatherapy|NN benefit|NN anxiety|ST reduction|NN people|NN cancer|DS massage|NN effect|NN massage|NN children|NN 
+therapy|NN number|NN medication|NN childhood|NN anxiety|ST disorder|NN therapy|NN medication|NN 
+behavioral|NN therapy|NN cbt|NN therapy|NN approach|NN study|NN evidence|NN treatment|NN cbt|NN form|NN treatment|NN treatment|NN option|NN cbt|NN adult|NN children|NN psychotherapy|NN therapy|NN counsel|NN 
+family|NN therapy|NN form|NN treatment|NN child|NN therapist|NN guardian|NN sible|NN family|NN member|NN therapy|NN family|NN therapy|NN form|NN group|NN therapy|NN 
+art|NN play|NN therapy|NN 
+art|NN therapy|NN child|NN trauma|NN disability|NN 
+art|NN activity|NN child|NN play|NN therapy|NN child|NN therapist|NN 
+therapist|NN time|NN time|NN question|NN comment|NN suggestion|NN 
+family|NN child|NN role|NN treatment|NN 
+medication|NN option|NN antidepressant|NN side|NN effect|NN medication|NN 
+prognosis|NN severity|NN case|NN utilization|NN treatment|NN individual|NN 
+children|NN risk|NN result|NN school|NN avoidance|NN activity|NN substance|NN abuse|NN 
+children|NN anxiety|ST disorder|NN disorder|NN depression|ST eate|NN disorder|NN attention_deficit_disorder|DS 
+population|NN anxiety|ST disorder|NN female|NN male|NN 
+europe|NN africa|NN asia|NN lifetime|NN rate|NN anxiety|ST disorder|NN rate|NN united|NN states|NN lifetime|NN prevalence|NN anxiety|ST disorder|NN adult|NN condition|NN year|NN difference|NN range|NN way|NN culture|NN anxiety|ST symptom|NN behavior|NN anxiety|ST disorder|NN condition|NN united|NN states|NN outside|NN substance|NN use|NN disorder|NN 
+adult|NN children|NN anxiety|ST disorder|NN percent|NN children|NN full-fledge|NN anxiety|ST disorder|NN prior|NN age|NN make|NN anxiety|ST health|NN issue|NN people|NN 
+anxiety|ST disorder|NN children|NN adult|NN counterpart|NN difficulty|NN parent|NN face|NN childhood|NN fear|NN 
+anxiety|ST children|NN attention_deficit_disorder|DS tendency|NN children|NN emotion|NN stomach|NN ache|NN head|NN ache|NN anxiety|ST disorder|NN ailment|NN 
+anxiety|ST children|NN variety|NN cause|NN anxiety|ST biology|NN product|NN condition|NN autism|DS disorder|NN children|NN anxiety|ST children|NN case|NN anxiety|ST child|NN event|NN kind|NN case|NN cause|NN anxiety|ST 
+anxiety|ST children|NN theme|NN fear|NN school|NN bully|NN school|NN fear|NN rejection|NN fear|NN 
+anxiety|ST childhood|NN anxiety|ST duration|NN intensity|NN fear|NN 

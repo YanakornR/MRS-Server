@@ -1,0 +1,391 @@
+amnesia|DS amnesia|DS syndrome|NN amnesia|DS deficit|NN in|NN memory|NN brain|NN damage|NN disease|NN use|NN of|NN sedative|NN drug|NN 
+memory|NN extent|NN of|NN damage|NN 
+type|NN of|NN amnesia|DS retrograde|NN amnesia|DS amnesia|DS 
+retrograde|NN amnesia|DS inability|NN information|NN date|NN date|NN of|NN accident|NN operation|NN 
+in|NN case|NN memory|NN loss|NN back|NN decade|NN in|NN others|NN person|NN month|NN of|NN memory|NN 
+anterograde|NN amnesia|DS inability|NN information|NN store|NN store|NN 
+people|NN amnesia|DS thing|NN period|NN of|NN time|NN 
+type|NN 
+name|NN psychiatry|NN neurology|NN case|NN study|NN amnesia|DS damage|NN lobe|NN 
+in|NN addition|NN area|NN of|NN hippocampus|NN ca1|NN region|NN memory|NN 
+research|NN area|NN of|NN diencephalon|NN amnesia|DS 
+study|NN correlation|NN deficiency|NN of|NN rbap48|NN protein|NN memory|NN loss|NN 
+scientist|NN mouse|NN memory|NN level|NN of|NN rbap48|NN protein|NN mouse|NN 
+in|NN people|NN amnesia|DS ability|NN information|NN memory|NN 
+reduction|NN in|NN ability|NN material|NN information|NN 
+patient|NN knowledge|NN 
+in|NN addition|NN prim|NN amnesiac|NN in|NN learn|NN of|NN knowledge|NN 
+patient|NN skill|NN impairment|NN in|NN ability|NN information|NN in|NN learn|NN episode|NN 
+term|NN greek|NN μνήσις|NN mnesis|NN 
+content|NN sign|NN symptom|NN information|NN information|NN diagnosis|NN type|NN treatment|NN history|NN henry|NN molaison|NN patient|NN 
+patient|NN in|NN fiction|NN see|NN link|NN sign|NN symptom|NN individual|NN amnesia|DS information|NN information|NN knowledge|NN 
+in|NN situation|NN people|NN anterograde|NN amnesia|DS episode|NN information|NN 
+people|NN amnesia|DS show|NN abnormal|NN amount|NN of|NN memory|NN loss|NN confusion|ST difficulty|NN people|NN place|NN 
+people|NN amnesia|DS 
+information|NN patient|NN amnesia|DS information|NN knowledge|NN 
+floor|NN plan|NN of|NN home|NN in|NN surgery|NN in|NN year|NN 
+reason|NN patient|NN memory|NN region|NN of|NN hippocampus|NN lesion|NN hippocampus|NN connection|NN cortex|NN 
+ischemic|NN episode|NN surgery|NN mri|NN of|NN 
+hippocampus|NN lesion|NN ca1|NN pyramidal|NN cell|NN 
+information|NN retrograde|NN anterograde|NN amnesic|NN of|NN memory|NN learn|NN learn|NN 
+example|NN patient|NN improvement|NN pseudorandom|NN people|NN 
+learn|NN of|NN brain|NN system|NN memory|NN 
+study|NN acquisition|NN of|NN memory|NN basal|NN ganglion|NN premotor|NN cortex|NN motor|NN area|NN region|NN formation|NN of|NN memory|NN 
+type|NN of|NN dissociation|NN memory|NN in|NN patient|NN amnesia|DS korsakoff|NN syndrome|NN 
+example|NN patient|NN 
+damage|NN anterograde|NN amnesia|DS prim|NN 
+patient|NN in|NN word|NN fragment|NN completion|NN test|NN 
+cause|NN category|NN in|NN amnesia|DS person|NN 
+category|NN trauma|NN example|NN head|NN injury|NN traumatic|NN event|NN example|NN something|NN mind|NN deficiency|NN example|NN atrophy|NN of|NN hippocampus|NN 
+majority|NN of|NN amnesia|DS memory|NN issue|NN category|NN common|NN subcategory|NN of|NN 
+head|NN trauma|NN range|NN kind|NN of|NN injury|NN action|NN brain|NN amnesia|DS 
+retrograde|NN anterograde|NN amnesia|DS event|NN example|NN of|NN cause|NN of|NN therapy|NN briefly|NN receive|NN patient|NN 
+traumatic|NN event|NN 
+traumatic|NN person|NN traumatic|NN 
+traumatic|NN event|NN event|NN something|NN occur|NN mind|NN stress|NN 
+common|NN example|NN of|NN amnesia|DS traumatic|NN event|NN amnesia|DS person|NN event|NN 
+example|NN person|NN car|NN accident|NN one|NN 
+deficiency|NN head|NN trauma|NN deficiency|NN issue|NN 
+cause|NN of|NN amnesia|DS therapy|NN in|NN seizure|NN in|NN patient|NN effect|NN effect|NN retrograde|NN amnesia|DS 
+alcohol|NN blackout|NN effect|NN memory|NN formation|NN 
+diagnosis|NN type|NN amnesia|DS inability|NN memory|NN brain|NN damage|NN memory|NN event|NN remain|NN 
+brain|NN damage|NN effect|NN of|NN alcoholism|DS malnutrition|NN stroke|DS head|NN trauma|NN encephalitis|DS surgery|NN syndrome|NN event|NN anoxia|NN trauma|NN 
+brain|NN region|NN condition|NN lobe|NN diencephalon|NN 
+amnesia|DS method|NN loss|NN 
+treatment|NN exist|NN in|NN patient|NN routine|NN step|NN memory|NN 
+support|NN quality|NN of|NN life|NN amnesia|DS sufferer|NN 
+fentanyl|NN use|NN opioid|NN user|NN cause|NN in|NN cluster|NN of|NN case|NN in|NN boston|NN ma|NN 
+retrograde|NN amnesia|DS memory|NN onset|NN of|NN amnesia|DS 
+memory|NN incident|NN 
+retrograde|NN head|NN trauma|NN brain|NN damage|NN part|NN of|NN brain|NN hippocampus|NN 
+hippocampus|NN memory|NN 
+memory|NN memory|NN 
+damage|NN head|NN trauma|NN accident|NN stroke|DS tumor|NN hypoxia|NN encephalitis|DS chronic|NN alcoholism|DS 
+people|NN retrograde|NN amnesia|DS knowledge|NN specific|NN 
+memory|NN memory|NN time|NN 
+retrograde|NN amnesia|DS memory|NN loss|NN 
+type|NN of|NN consolidation|NN process|NN in|NN brain|NN period|NN of|NN week|NN month|NN year|NN involve|NN transfer|NN of|NN information|NN hippocampus|NN storage|NN site|NN in|NN cortex|NN 
+operation|NN of|NN term|NN consolidation|NN process|NN in|NN retrograde|NN amnesia|DS of|NN patient|NN damage|NN memory|NN childhood|NN experience|NN year|NN time|NN 
+amnesia|DS injury|NN example|NN fall|NN knock|NN head|NN 
+traumatic|NN amnesia|DS transient|NN retrograde|NN type|NN 
+extent|NN of|NN period|NN amnesia|DS degree|NN of|NN injury|NN indication|NN of|NN prognosis|NN recovery|NN of|NN function|NN 
+trauma|NN car|NN accident|NN result|NN in|NN whiplash|NN occupant|NN of|NN car|NN memory|NN of|NN moment|NN accident|NN interruption|NN in|NN memory|NN transfer|NN mechanism|NN 
+sufferer|NN knowledge|NN of|NN people|NN 
+period|NN of|NN amnesia|DS consciousness|NN injury|NN indication|NN recovery|NN concussion|NN symptom|NN 
+amnesia|DS result|NN cause|NN damage|NN brain|NN injury|NN trauma|NN disease|NN amnesia|DS 
+individual|NN amnesia|DS difficulty|NN emotion|NN expression|NN seriousness|NN of|NN condition|NN 
+damage|NN memory|NN 
+amnesia|DS memory|NN inability|NN information|NN traumatic|NN event|NN in|NN person|NN life|NN attack|NN disaster|NN 
+memory|NN in|NN memory|NN access|NN of|NN defense|NN mechanism|NN 
+person|NN capacity|NN information|NN recovery|NN of|NN memory|NN 
+amnesia|DS 
+fugue|NN fugue|NN fugue|NN state|NN 
+trauma|NN 
+individual|NN fugue|NN disorder|NN identity|NN in|NN journey|NN surround|NN identity|NN 
+merck|NN episode|NN of|NN amnesia|DS in|NN patient|NN of|NN past|NN identity|NN identity|NN 
+episode|NN fugue|NN result|NN trauma|NN stress|NN 
+fugue|NN home|NN 
+in|NN fiction|NN 
+amnesia|DS event|NN hypnosis|NN memory|NN 
+failure|NN event|NN suggestion|NN hypnosis|NN 
+characteristic|NN of|NN amnesia|DS inability|NN event|NN influence|NN reversibility|NN relation|NN implicit|NN memory|NN 
+research|NN amnesia|DS amnesia|DS occur|NN 
+lacunar|NN amnesia|DS loss|NN of|NN memory|NN event|NN 
+childhood|NN amnesia|DS amnesia|DS common|NN inability|NN event|NN childhood|NN 
+sigmund|NN freud|NN repression|NN approach|NN aspect|NN of|NN brain|NN development|NN psychology|NN language|NN development|NN people|NN event|NN 
+research|NN adult|NN memory|NN early|NN year|NN 
+research|NN influence|NN memory|NN 
+researcher|NN memory|NN 
+piano|NN common|NN example|NN of|NN memory|NN speak|NN activity|NN time|NN in|NN morning|NN 
+memory|NN hand|NN in|NN word|NN 
+time|NN teacher|NN example|NN of|NN memory|NN 
+transient|NN amnesia|DS phenomenon|NN 
+form|NN of|NN amnesia|DS in|NN abnormality|NN in|NN hippocampus|NN form|NN of|NN resonance|NN image|NN of|NN brain|NN image|NN dwi|NN 
+symptom|NN day|NN factor|NN deficit|NN 
+cause|NN of|NN syndrome|NN 
+hypothesis|NN of|NN syndrome|NN transient|NN blood|NN flow|NN seizure|NN type|NN of|NN migraine|DS 
+patient|NN of|NN event|NN minute|NN in|NN past|NN recall|NN 
+source|NN amnesia|DS inability|NN information|NN knowledge|NN 
+individual|NN memory|NN confusion|ST 
+korsakoff|NN syndrome|NN alcoholism|DS malnutrition|NN 
+brain|NN damage|NN vitamin|NN b1|NN deficiency|NN alcohol|NN intake|NN nutrition|NN pattern|NN 
+problem|NN in|NN combination|NN type|NN of|NN amnesia|DS problem|NN lobe|NN lobe|NN dysfunction|NN 
+korsakoff|NN syndrome|NN confabulation|ST 
+person|NN memory|NN person|NN time|NN story|NN word|NN pattern|NN 
+korsakoff|NN syndrome|NN anterograde|NN retrograde|NN amnesia|DS 
+amnesia|DS injection|NN of|NN drug|NN patient|NN forget|NN surgery|NN procedure|NN anesthesia|NN traumatic|NN 
+drug|NN premedicants|NN 
+benzodiazepine|NN midazolam|NN flunitrazepam|NN drug|NN of|NN choice|NN drug|NN propofol|NN scopolamine|NN application|NN 
+memory|NN of|NN in|NN procedure|NN drug|NN memory|NN 
+amnesia|DS in|NN variety|NN of|NN circumstance|NN example|NN offence|NN abuse|NN in|NN ptsd|NN 
+narrow|NN of|NN consciousness|NN attention|NN detail|NN traumatic|NN event|NN memory|NN 
+transient|NN amnesia|DS form|NN of|NN lobe|NN epilepsy|DS memory|NN loss|NN 
+syndrome|NN congenial|NN drug|NN 
+amnesia|DS memory|NN in|NN form|NN of|NN problem|NN language|NN use|NN acquisition|NN 
+amnesia|DS dementia|DS 
+treatment|NN form|NN of|NN amnesia|DS fix|NN 
+way|NN memory|NN loss|NN treatment|NN 
+variety|NN of|NN cause|NN amnesia|DS method|NN response|NN type|NN of|NN amnesia|DS 
+support|NN love|NN medication|NN therapy|NN 
+technique|NN amnesia|DS treatment|NN occupational|NN therapy|NN 
+in|NN therapy|NN amnesiac|NN memory|NN skill|NN technique|NN memory|NN path|NN 
+strategy|NN information|NN understand|NN of|NN conversation|NN 
+cop|NN mechanism|NN advantage|NN of|NN assistance|NN device|NN track|NN of|NN task|NN 
+reminder|NN appointment|NN medication|NN birthday|NN event|NN 
+picture|NN name|NN of|NN friend|NN family|NN 
+notebook|NN wall|NN calendar|NN pill|NN reminder|NN photograph|NN of|NN people|NN place|NN memory|NN aid|NN 
+medication|NN amnesia|DS condition|NN memory|NN 
+condition|NN thyroid|NN function|NN liver|NN kidney_disease|DS stroke|DS depression|ST bipolar_disorder|DS blood|NN clot|NN in|NN brain|NN 
+syndrome|NN lack|NN of|NN thiamin|NN vitamin|NN food|NN cereal|NN legume|NN bean|NN lentil|NN nut|NN pork|NN yeast|NN 
+alcoholism|DS alcohol|NN drug|NN use|NN damage|NN in|NN case|NN memory|NN 
+improvement|NN patient|NN treatment|NN cure|NN remedy|NN amnesia|DS 
+patient|NN recover|NN amnesia|DS depend|NN type|NN severity|NN of|NN lesion|NN 
+history|NN psychologist|NN ribot|NN scientist|NN amnesia|DS 
+ribot|NN law|NN time|NN gradient|NN in|NN retrograde|NN amnesia|DS 
+law|NN progression|NN of|NN memory|NN loss|NN disease|NN 
+patient|NN memory|NN memory|NN memory|NN 
+memory|NN 
+case|NN study|NN role|NN in|NN discovery|NN of|NN amnesia|DS part|NN of|NN brain|NN 
+study|NN insight|NN amnesia|DS brain|NN 
+study|NN scientist|NN resource|NN knowledge|NN amnesia|DS insight|NN cure|NN prevention|NN 
+case|NN study|NN henry|NN molaison|NN henry|NN molaison|NN henry|NN molaison|NN way|NN people|NN of|NN memory|NN 
+case|NN in|NN paper|NN william|NN beecher|NN scoville|NN brenda|NN milner|NN in|NN 
+patient|NN epilepsy|DS bicycle|NN accident|NN age|NN of|NN 
+physician|NN seizure|NN drug|NN neurosurgeon|NN scoville|NN approach|NN brain|NN surgery|NN 
+lobe|NN lobectomy|NN 
+epilepsy|DS molaison|NN ability|NN memory|NN amnesia|DS 
+memory|NN ability|NN 
+list|NN of|NN word|NN in|NN minute|NN time|NN 
+in|NN fact|NN list|NN in|NN place|NN 
+molaison|NN list|NN term|NN memory|NN 
+researcher|NN evidence|NN memory|NN in|NN fact|NN process|NN 
+list|NN thing|NN memory|NN 
+psychologist|NN something|NN piece|NN of|NN paper|NN paper|NN mirror|NN 
+task|NN 
+psychologist|NN thing|NN 
+study|NN molaison|NN lifetime|NN amnesia|DS 
+researcher|NN study|NN molaison|NN 
+period|NN of|NN week|NN amnesia|DS 
+year|NN molaison|NN thing|NN surgery|NN 
+thing|NN operation|NN 
+researcher|NN molaison|NN question|NN event|NN memory|NN 
+death|NN molaison|NN brain|NN science|NN area|NN of|NN brain|NN lesions|NN amnesia|DS 
+case|NN study|NN insight|NN area|NN of|NN brain|NN in|NN amnesia|DS amnesia|DS work|NN 
+man|NN age|NN of|NN age|NN angina|NN surgery|NN heart|NN problem|NN occasion|NN 
+ischemic|NN episode|NN reduction|NN of|NN blood|NN brain|NN heart|NN bypass|NN surgery|NN 
+loss|NN of|NN memory|NN loss|NN of|NN retrograde|NN memory|NN exception|NN of|NN couple|NN of|NN year|NN surgery|NN sign|NN of|NN impairment|NN 
+death|NN researcher|NN chance|NN brain|NN lesions|NN portion|NN of|NN hippocampus|NN 
+case|NN study|NN research|NN role|NN of|NN hippocampus|NN function|NN of|NN memory|NN 
+patient|NN white|NN male|NN in|NN in|NN navy|NN 
+chronic|NN failure|NN hemodialysis|NN treatment|NN rest|NN of|NN life|NN 
+in|NN hospital|NN parathyroidectomy|NN 
+thyroid|NN lobectomy|NN of|NN loss|NN of|NN blood|NN in|NN lobe|NN 
+problem|NN result|NN of|NN surgery|NN 
+day|NN hospital|NN 
+memory|NN impairment|NN none|NN of|NN process|NN 
+in|NN research|NN memory|NN test|NN doctor|NN memory|NN problem|NN year|NN death|NN 
+brain|NN study|NN 
+in|NN fiction|NN amnesia|DS common|NN motif|NN in|NN fiction|NN in|NN reality|NN 
+in|NN introduction|NN anthology|NN vintage|NN book|NN of|NN amnesia|DS write|NN amnesia|DS people|NN head|NN name|NN rumor|NN in|NN world|NN 
+condition|NN 
+in|NN book|NN movie|NN version|NN of|NN amnesia|DS lurk|NN episode|NN of|NN mission|NN masterpiece|NN dozen|NN of|NN stop|NN in|NN 
+amnesiac|NN exist|NN character|NN book|NN movie|NN dream|NN 
+lethem|NN root|NN of|NN amnesia|DS kafka|NN samuel|NN beckett|NN others|NN in|NN part|NN seep|NN culture|NN of|NN work|NN of|NN sigmund|NN freud|NN genre|NN film|NN film|NN noir|NN 
+amnesia|DS plot|NN device|NN in|NN film|NN dialogue|NN victim|NN 
+i|NN 
+of|NN name|NN bill|NN 
+bill|NN 
+in|NN movie|NN television|NN sitcom|NN soap|NN opera|NN blow|NN head|NN amnesia|DS 
+in|NN reality|NN concussion|NN deficit|NN problem|NN in|NN case|NN swelling|ST of|NN brain|NN syndrome|NN 
+see|NN aphasia|DS emotion|NN memory|NN memory|NN gollin|NN figure|NN test|NN list|NN of|NN film|NN illness|NN memory|NN erasure|NN nostalgia|NN memory|NN transient|NN amnesia|DS amnesiac|NN benjaman|NN wear|NN doug|NN bruce|NN kc|NN patient|NN scott|NN bolzan|NN sywald|NN skeid|NN reference|NN gazzaniga|NN ivry|NN mangun|NN neuroscience|NN biology|NN of|NN mind|NN 
+york|NN norton|NN company|NN 
+2|NN 
+amnesia|DS 
+encyclopedia|NN of|NN science|NN 
+ed|NN 
+lee|NN lerner|NN lerner|NN 
+ed|NN 
+vol|NN 
+detroit|NN gale|NN 
+reference|NN library|NN 
+schacter|NN daniel|NN 
+l|NN psychology|NN benson|NN frank|NN 
+amnesia|DS 
+journal|NN 
+http|NN 
+pmid|NN http|NN 
+cermak|NN 
+distinction|NN in|NN amnesia|DS 
+york|NN press|NN 
+m|NN kinsbourne|NN 
+memory|NN process|NN syndrome|NN 
+york|NN 
+pp|NN 
+h|NN weingartner|NN 
+form|NN of|NN failure|NN 
+alzheimerience|NN 
+pp|NN 
+service|NN department|NN of|NN health|NN human|NN 
+amnesia|DS http|NN 
+december|NN 2019|NN 
+myers|NN psychology|NN 
+fifth|NN ed|NN 
+york|NN publisher|NN pag|NN 
+print|NN benbow|NN sm|NN effect|NN of|NN ect|NN 
+in|NN scott|NN 
+handbook|NN edition|NN 
+http|NN london|NN college|NN of|NN psychiatrist|NN pp|NN 
+dw|NN crane|NN jb|NN sb|NN 
+alcoholic|NN blackout|NN review|NN study|NN of|NN alcoholic|NN 
+psychiatry|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+parker|NN e|NN im|NN ep|NN 
+alcohol|NN memory|NN storage|NN state|NN dependency|NN 
+journal|NN of|NN learn|NN behavior|NN 
+http|NN 
+carlson|NN 
+memory|NN 
+psychology|NN science|NN of|NN behaviour|NN 
+scarborough|NN ont|NN 
+allyn|NN bacon|NN canada|NN 
+erdogan|NN serap|NN 
+anterograde|NN amnesia|DS http|NN pdf|NN 
+guncel|NN approach|NN in|NN psychiatry|NN 
+2|NN 2|NN 
+barash|NN jed|NN ganetsky|NN michael|NN raman|NN vinod|NN kaplan|NN scott|NN worth|NN demaria|NN 
+syndrome|NN fentanyl|NN overdose|NN 
+journal|NN of|NN medicine|NN 
+http|NN ejmc1716355|NN 
+pmid|NN http|NN 
+mastin|NN 
+human|NN memory|NN retrograde|NN amnesia|DS 
+http|NN 
+memory|NN abnormality|NN 
+encyclopædia|NN britannica|NN 
+encyclopædia|NN britannica|NN edition|NN 
+encyclopædia|NN britannica|NN web|NN 
+masferrer|NN roberto|NN masferrer|NN mauricio|NN prendergast|NN virginia|NN harrington|NN r|NN 
+scale|NN cerebral|NN concussion|NN http|NN 
+1|NN 
+http|NN 
+bourget|NN dominique|NN whitehurst|NN 
+amnesia|DS crime|NN 
+journal|NN of|NN academy|NN of|NN psychiatry|NN law|NN online|NN 
+fugue|NN 
+august|NN http|NN x|NN 
+december|NN 
+merck|NN manual|NN http|NN 
+december|NN 
+carlson|NN 
+psychology|NN science|NN of|NN behaviour|NN 
+toronto|NN pearson|NN 
+http|NN 
+enea|NN violeta|NN ion|NN dafinoiu|NN 
+amnesia|DS memory|NN in|NN adolescent|NN 
+journal|NN of|NN psychotherapy|NN 
+wang|NN qi|NN 
+amnesia|DS analysis|NN 
+memory|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+hayne|NN harlene|NN jack|NN fiona|NN 
+childhood|NN amnesia|DS 
+wiley|NN review|NN science|NN 
+2|NN 2|NN 
+http|NN 
+pmid|NN http|NN 
+schacter|NN 
+harbluk|NN 
+mclachlen|NN 
+retrieval|NN recollection|NN analysis|NN of|NN source|NN amnesia|DS http|NN 
+journal|NN of|NN learn|NN behavior|NN 
+http|NN 
+psychology|NN memory|NN http|NN 
+december|NN 2019|NN 
+spiegel|NN r|NN 
+case|NN of|NN korsakoff|NN syndrome|NN syndrome|NN of|NN lobe|NN pathogenesis|NN comparison|NN lobe|NN dementia|DS http|NN 
+innovation|NN in|NN neuroscience|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+type|NN of|NN amnesia|DS http|NN 
+uwaterloo|NN 
+april|NN 
+rd|NN jr|NN iv|NN tatum|NN 
+transient|NN amnesia|DS p|NN 
+epilepsy|DS behavior|NN 
+2|NN 
+s|NN 
+murray|NN kensinger|NN 
+memory|NN in|NN profound|NN amnesia|DS 
+encyclopedia|NN of|NN science|NN of|NN learn|NN 
+boston|NN ma|NN springer|NN 
+pp|NN 
+variant|NN aphasia|DS http|NN 
+memory|NN center|NN 
+december|NN 2019|NN 
+nordqvist|NN 
+amnesia|DS cause|NN symptom|NN treatment|NN http|NN 
+news|NN today|NN 
+service|NN department|NN of|NN health|NN human|NN 
+amnesia|DS http|NN 
+december|NN 2019|NN 
+treat|NN amnesia|DS 
+neurology|NN 
+http|NN 
+staff|NN amnesia|DS treatment|NN drug|NN 
+mayo|NN clinic|NN 
+http|NN 
+mandal|NN 
+treatment|NN of|NN amnesia|DS 
+news|NN 
+http|NN benson|NN df|NN 
+amnesia|DS 
+journal|NN 
+http|NN 
+pmid|NN s|NN 
+ribot|NN 
+disease|NN of|NN memory|NN essay|NN in|NN psychology|NN http|NN 
+london|NN appleton|NN company|NN 
+scoville|NN 
+milner|NN b|NN 
+loss|NN of|NN memory|NN lesions|NN http|NN 
+journal|NN of|NN neurology|NN neurosurgery|NN psychiatry|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+corkin|NN milner|NN 
+analysis|NN of|NN syndrome|NN study|NN patient|NN http|NN pdf|NN 
+neuropsychologia|NN 
+http|NN 
+draaisma|NN 
+neuroscience|NN past|NN 
+nature|NN 
+http|NN 
+http|NN 
+rosenbaum|NN murphy|NN b|NN 
+amnesia|DS 
+wiley|NN review|NN science|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+squire|NN lr|NN dg|NN 
+human|NN amnesia|DS region|NN memory|NN impairment|NN lesion|NN field|NN ca1|NN of|NN hippocampus|NN http|NN 
+journal|NN of|NN neuroscience|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+nl|NN zola|NN sm|NN squire|NN lr|NN dg|NN 
+case|NN of|NN memory|NN impairment|NN damage|NN formation|NN http|NN 
+journal|NN of|NN neuroscience|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+lethem|NN jonathan|NN 
+vintage|NN book|NN of|NN amnesia|DS york|NN vintage|NN link|NN classification|NN f04|NN d|NN http|NN http|NN x|NN http|NN p|NN hx|NN d000647|NN tps|NN ter|NN medlineplus|NN http|NN resource|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

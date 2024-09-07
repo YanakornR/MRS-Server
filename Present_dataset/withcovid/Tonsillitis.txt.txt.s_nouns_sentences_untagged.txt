@@ -1,0 +1,63 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN tonsillitis|NN set|NN tonsil|NN back|NN throat|NN exudate|NN culture|NN case|NN pharyngitis|DS tonsillar|NN pronunciation|NN 
+disease|NN symptom|NN throat|NN fever|ST enlargement|NN tonsil|NN trouble|NN lymph|NN node|NN neck|NN complication|NN abscess|NN duration|NN week|NN cause|NN infection|NN infection|NN method|NN symptom|NN throat|NN swab|NN strep|NN test|NN acetaminophen|NN penicillin|NN frequency|NN month|NN 
+tonsillitis|NN inflammation|NN tonsil|NN onset|NN type|NN symptom|NN throat|NN fever|ST enlargement|NN tonsil|NN trouble|NN swallow|NN lymph|NN node|NN neck|NN complication|NN abscess|NN 
+tonsillitis|NN infection|NN case|NN infection|NN bacterium|NN group|NN streptococcus|NN throat|NN bacteria|NN corynebacterium|NN influenzae|NN cause|NN infection|NN people|NN air|NN score|NN system|NN score|NN cause|NN confirmation|NN throat|NN swab|NN strep|NN test|NN 
+treatment|NN effort|NN symptom|NN complication|NN acetaminophen|NN pain|ST throat|NN antibiotic|NN penicillin|NN mouth|NN penicillin|NN children|NN episode|NN tonsillitis|NN risk|NN episode|NN 
+people|NN throat|NN period|NN people|NN doctor|NN tonsillitis|NN year|NN school|NN children|NN fall|NN winter|NN month|NN majority|NN people|NN medication|NN people|NN symptom|NN day|NN symptom|NN resolve|NN week|NN antibiotics|NN symptom|NN duration|NN hour|NN content|NN 
+sign|NN symptom|NN cause|NN diagnosis|NN treatment|NN antibiotics|NN surgery|NN reference|NN link|NN 
+sign|NN symptom|NN illustration|NN anatomy|NN tonsillitis|NN 
+sign|NN symptom|NN 
+throat|NN tonsil|NN pain|ST temperature|NN fever|ST headache|ST tiredness|NN sense|NN feel|NN malaise|ST pus-fil|NN spot|NN tonsil|NN lymph|NN node|NN gland|NN neck|NN pain|ST ear|NN neck|NN weight_loss|ST difficulty|NN intake|NN difficulty|NN sleep|NN 
+nausea|ST fatigue|ST stomach|NN ache|NN tongue|NN breath|NN halitosis|ST voice|NN change|NN difficulty|NN mouth|NN loss|NN appetite|NN anxietyfear|NN 
+case|NN tonsillitis|NN surface|NN tonsil|NN red|NN area|NN streak|NN pus|NN 
+population|NN episode|NN tonsillitis|NN cause|NN bacteria|NN viruse|NN tonsillitis|NN 
+cause|NN infection|NN 
+throat|NN case|NN adenovirus|NN influenza|DS syncytial|NN virus|NN virus|NN herpe|NN simplex|NN virus|NN cytomegalovirus|DS hiv|DS case|NN virus|NN 
+second|NN cause|NN infection|NN group|NN 
+streptococcus|NN throat|NN infection|NN tonsil|NN infection|NN cause|NN staphylococcus|NN aureus|NN staphylococcus|NN aureus|NN streptococcus|NN pneumoniae|NN pertussis|DS sp|NN treponema|NN gonorrhoeae|NN 
+bacteria|NN tonsillitis|NN role|NN process|NN observation|NN 
+circumstance|NN viruse|NN bacteria|NN body|NN nose|NN mouth|NN tonsil|NN tonsil|NN blood|NN cell|NN system|NN viruse|NN bacteria|NN cytokine|NN phospholipase|NN fever|ST infection|NN throat|NN area|NN inflammation|NN pharynx|NN 
+tonsillitis|NN infection|NN spirochaeta|NN treponema|NN case|NN angina|NN angina|NN diagnosis|NN throat|NN swab|NN 
+care|NN set|NN health|NN clinics|NN criteria|NN likelihood|NN group|NN beta-hemolytic|NN infection|NN tonsilitis|NN need|NN antibiotics|NN treatment|NN criteria|NN weakness|ST diagnosis|NN adult|NN 
+diagnosis|NN tonsilitis|NN children|NN care|NN set|NN hospital|NN criteria|NN score|NN presence|NN neck|NN lymph|NN node|NN history|NN fever|ST age|NN year|NN absence|NN cough|ST 
+possibility|NN infection|NN increase|NN score|NN 
+probability|NN score|NN score|NN 
+diagnosis|NN tonsillitis|NN culture|NN sample|NN swab|NN throat|NN plate|NN sheep|NN blood|NN agar|NN medium|NN 
+isolation|NN rate|NN culture|NN condition|NN growth|NN media|NN 
+throat|NN culture|NN sensitivity|NN 9095|NN detection|NN gabh|NN time|NN culture|NN result|NN 
+percentage|NN result|NN part|NN characteristics|NN test|NN patient|NN antibiotics|NN test|NN 
+identification|NN hour|NN culture|NN screen|NN test|NN minute|NN sensitivity|NN 8590|NN 
+infection|NN gabh|NN colonization|NN presence|NN colony|NN gabh|NN blood|NN agar|NN plate|NN 
+method|NN overlap|NN carrier|NN patient|NN 
+citation|NN people|NN symptom|NN throat|NN culture|NN 
+throat|NN culture|NN practice|NN detection|NN 
+antigen|NN test|NN surface|NN group|NN carbohydrate|NN 
+test|NN serotype|NN acid|NN dna|NN probe|NN polymerase|NN chain|NN reaction|NN 
+culture|NN case|NN test|NN increase|NN antistreptolysin|NN o|NN antibody|NN week|NN infection|NN evidence|NN infection|NN proof|NN infection|NN 
+epstein|NN barr|NN virus|NN serology|NN mononucleosis|NN lymphocyte|NN count|NN blood|NN count|NN result|NN blood|NN investigation|NN hospital|NN admission|NN antibiotics|NN value|NN phospholipase|NN acid|NN metabolism|NN patient|NN tonsillitis|NN utility|NN 
+neck|NN pain|ST inability|NN fluid|NN rule|NN epiglottis|NN supraglotitis|NN 
+routine|NN nasoendscopy|NN children|NN treatment|NN 
+treatment|NN discomfort|NN tonsillitis|NN 
+pain|ST fever|ST medication|NN paracetamol|NN salt|NN water|NN gargle|NN lozenge|NN liquid|NN 
+tonsillitis|NN virus|NN length|NN illness|NN virus|NN 
+recovery|NN week|NN symptom|NN week|NN 
+tonsillitis|NN group|NN antibiotics|NN penicillin|NN amoxicillin|NN choice|NN alternative|NN penicillin|NN set|NN macrolide|NN people|NN penicillin|NN 
+individual|NN penicillin|NN therapy|NN treatment|NN bacteria|NN 
+beta|NN bacteria|NN tissue|NN group|NN streptococcus|NN penicillin|NN difference|NN efficacy|NN group|NN antibiotics|NN treatment|NN antibiotics|NN inability|NN complication|NN 
+antibiotics|NN person|NN 
+pain|ST treatment|NN 
+drug|NN nsaid|NN opioid|NN precuation|NN nsaid|NN ulcer|NN disease|NN kidney|NN 
+depression|ST children|NN paracetamol|NN nsaids|NN need|NN precaution|NN mouthwash|NN relief|NN 
+reduction|NN pain|ST improvement|NN symptom|NN hour|NN 
+corticosteroid|NN person|NN medication|NN surgery|NN 
+case|NN tonsillectomy|NN removal|NN tonsil|NN choice|NN treatment|NN children|NN benefit|NN tonsillectomy|NN case|NN tonsillitis|NN prognosis|NN 
+advent|NN penicillin|NN preoccupation|NN treatment|NN tonsillitis|NN prevention|NN fever|ST effect|NN system|NN sydenham|NN heart|NN 
+evidence|NN strain|NN group|NN beta|NN strep|NN pocket|NN salt|NN lake|NN city|NN usa|NN question|NN rationale|NN tonsillitis|NN mean|NN fever|ST 
+complication|NN dehydration|NN kidney|NN failure|NN difficulty|NN airway|NN inflammation|NN due|NN spread|NN infection|NN 
+abscess|NN tonsil|NN infection|NN day|NN onset|NN tonsillitis|NN 
+abscess|NN quinsy|NN 
+infection|NN tonsil|NN inflammation|NN infection|NN jugular|NN vein|NN rise|NN septicaemia|NN infection|NN syndrome|NN 
+case|NN episode|NN tonsillitis|NN year|NN episode|NN year|NN episode|NN year|NN case|NN palatine|NN tonsil|NN tonsillectomy|NN tonsil|NN 
+patient|NN tonsil|NN infection|NN rest|NN system|NN 
+throat|NN disease|NN fever|ST 
+complication|NN nation|NN problem|NN nation|NN tonsillitis|NN throat|NN autoimmune|NN disorder|NN infection|NN 

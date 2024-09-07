@@ -1,0 +1,191 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN diabetes_insipidus|DS 
+diabetes|DS circle|NN border|NN centre|NN circle|NN symbol|NN diabetes|DS pronunciation|NN 
+symptom|NN urination|NN thirst|NN hunger|NN complication|NN state|NN heart|NN disease|NN stroke|NN kidney|NN failure|NN foot|NN ulcer|NN risk|NN factor|NN type|NN family|NN history|NN type|NN obesity|NN lack|NN exercise|NN genetics|NN method|NN blood|NN sugar|NN treatment|NN diet|NN exercise|NN insulin|NN medication|NN frequency|NN death|NN year|NN 
+diabetes|DS diabetes|DS diabetes|DS group|NN disorder|NN blood|NN sugar|NN level|NN period|NN symptom|NN blood|NN sugar|NN urination|NN thirst|NN hunger|NN diabetes|DS complication|NN complication|NN ketoacidosis|NN state|NN death|NN complication|NN disease|NN stroke|NN kidney|NN disease|NN foot|NN ulcer|NN damage|NN eye|NN 
+diabetes|DS pancrea|NN insulin|NN cell|NN body|NN insulin|NN type|NN diabetes|DS 
+type|NN diabetes|DS result|NN failure|NN insulin|NN loss|NN beta|NN cell|NN form|NN diabetes|DS diabetes|DS diabetes|DS cause|NN type|NN diabetes|DS insulin|NN resistance|NN condition|NN cell|NN insulin|NN disease|NN lack|NN insulin|NN form|NN diabetes|DS diabetes|DS diabetes|DS cause|NN combination|NN body|NN weight|NN exercise|NN diabetes|DS form|NN women|NN history|NN diabetes|DS blood|NN sugar|NN level|NN 
+prevention|NN treatment|NN diet|NN exercise|NN body|NN weight|NN use|NN tobacco|NN control|NN blood|NN pressure|NN foot|NN care|NN people|NN disease|NN type|NN diabetes|DS insulin|NN injection|NN type|NN diabetes|DS medication|NN insulin|NN insulin|NN medication|NN blood|NN sugar|NN weight_loss|ST surgery|NN obesity|NN measure|NN type|NN diabetes|DS diabetes|DS birth|NN baby|NN 
+people|NN diabetes|DS type|NN diabetes|DS case|NN adult|NN population|NN rate|NN women|NN men|NN trend|NN rate|NN diabetes|DS double|NN person|NN risk|NN death|NN diabetes|DS death|NN cost|NN diabetes|DS health|NN expenditure|NN 2017|NN us727|NN united|NN states|NN diabetes|DS cost|NN expenditure|NN people|NN diabetes|DS time|NN content|NN 
+sign|NN symptom|NN emergency|NN complication|NN cause|NN type|NN type|NN diabetes|DS type|NN diagnosis|NN prevention|NN management|NN lifestyle|NN surgery|NN support|NN epidemiology|NN history|NN society|NN culture|NN name|NN animal|NN research|NN major|NN trial|NN reference|NN link|NN 
+sign|NN symptom|NN overview|NN symptom|NN diabetes|DS 
+symptom|NN diabetes|DS weight_loss|ST urination|NN thirst|NN hunger|NN symptom|NN week|NN month|NN type|NN diabetes|DS type|NN diabetes|DS 
+symptom|NN diabetes|DS weight_loss|ST tiredness|NN 
+sign|NN symptom|NN onset|NN diabetes|DS disease|NN 
+addition|NN vision|NN headache|ST fatigue|ST heal|NN cut|NN skin|NN 
+blood|NN glucose|NN glucose|NN absorption|NN len|NN eye|NN change|NN shape|NN vision|NN change|NN 
+vision|NN loss|NN retinopathy|NN 
+number|NN skin|NN rashe|NN diabetes|DS diabetic|NN emergency|NN 
+people|NN type|NN diabetes|DS episode|NN ketoacidosis|NN disturbance|NN nausea|ST vomit|NN pain|ST smell|NN acetone|NN breath|NN breath|NN breath|NN case|NN level|NN consciousness|NN 
+possibility|NN state|NN type|NN diabetes|DS result|NN dehydration|NN 
+blood|NN sugar|NN hypoglycemia|DS people|NN type|NN type|NN diabetes|DS medication|NN 
+case|NN emergency|NN 
+effect|NN feel|NN unease|NN sweate|NN tremble|NN appetite|NN case|NN effect|NN confusion|ST change|NN behavior|NN aggressiveness|NN seizure|NN unconsciousness|ST brain|NN damage|NN death|NN case|NN breath|NN skin|NN blood|NN sugar|NN source|NN 
+case|NN eate|NN sugar|NN 
+case|NN unconsciousness|ST glucose|NN injection|NN source|NN 
+complication|NN article|NN complication|NN diabetes|DS nephropathy|DS neuropathy|NN complication|NN diabetes|DS 
+form|NN diabetes|DS increase|NN risk|NN complication|NN 
+year|NN symptom|NN diagnosis|NN time|NN 
+complication|NN damage|NN blood|NN vessel|NN 
+diabetes|DS risk|NN disease|NN death|NN diabetics|NN artery|NN disease|NN disease|NN stroke|NN artery|NN disease|NN 
+complication|NN diabetes|DS due|NN damage|NN blood|NN vessel|NN damage|NN eye|NN kidney|NN nerve|NN eye|NN retinopathy|NN damage|NN blood|NN vessel|NN retina|NN eye|NN vision|NN loss|NN blindness|NN diabetes|DS risk|NN glaucoma|DS cataract|DS eye|NN problem|NN 
+diabetics|NN eye|NN doctor|NN year|NN damage|NN kidney|NN nephropathy|DS tissue|NN scare|NN urine|NN protein|NN loss|NN kidney|NN disease|NN dialysis|NN kidney|NN transplantation|NN damage|NN nerve|NN body|NN neuropathy|NN complication|NN diabetes|DS symptom|NN numbness|NN tingle|NN pain|ST pain|ST sensation|NN damage|NN skin|NN 
+diabetes|DS foot|NN problem|NN foot|NN ulcer|NN amputation|NN 
+neuropathy|NN muscle|NN atrophy|DS weakness|ST 
+link|NN deficit|NN diabetes|DS 
+diabetes|DS disease|NN rate|NN decline|NN function|NN insulin|NN risk|NN fall|NN people|NN cause|NN comparison|NN type|NN diabetes|DS feature|NN type|NN diabetes|DS type|NN diabetes|DS gradual|NN age|NN onset|NN children|NN adult|NN body|NN size|NN autoantibody|NN endogenous|NN insulin|NN concordance|NN twin|NN prevalence|NN 
+diabetes|DS category|NN type|NN type|NN diabetes|DS type|NN type|NN collection|NN cause|NN diabetes|DS disease|NN people|NN combination|NN form|NN term|NN diabetes|DS qualification|NN diabetes|DS 
+type|NN article|NN type|NN diabetes|DS 
+type|NN diabetes|DS loss|NN beta|NN cell|NN islet|NN insulin|NN deficiency|NN 
+type|NN immune-mediate|NN 
+majority|NN type|NN diabetes|DS nature|NN t|NN cell-mediate|NN autoimmune|NN attack|NN loss|NN beta|NN cell|NN insulin|NN diabetes|DS case|NN north|NN america|NN europe|NN 
+people|NN weight|NN onset|NN 
+sensitivity|NN responsiveness|NN insulin|NN stage|NN 
+diabetes|DS onset|NN children|NN majority|NN individual|NN type|NN diabetes|DS adult|NN 
+diabetes|DS diabetes|DS diabetes|DS term|NN swing|NN glucose|NN level|NN reason|NN diabetes|DS 
+term|NN basis|NN type|NN diabetes|DS blood|NN sugar|NN level|NN ketosis|NN blood|NN sugar|NN level|NN 
+complication|NN counterregulatory|NN response|NN blood|NN sugar|NN infection|NN absorption|NN carbohydrate|NN endocrinopathy|DS disease|NN phenomena|NN person|NN type|NN diabetes|DS attack|NN type|NN diabetes|DS 
+type|NN diabetes|DS gene|NN hla|NN genotype|NN risk|NN diabetes|DS 
+people|NN onset|NN diabetes|DS factor|NN infection|NN diet|NN 
+viruse|NN date|NN evidence|NN hypothesis|NN human|NN factor|NN data|NN gliadin|NN protein|NN present|NN gluten|NN role|NN development|NN type|NN diabetes|DS mechanism|NN 
+type|NN diabetes|DS age|NN proportion|NN adulthood|NN 
+autoimmune|NN diabetes|DS adult|NN term|NN type|NN diabetes|DS adult|NN onset|NN condition|NN children|NN 
+difference|NN use|NN term|NN type|NN diabetes|DS condition|NN 
+adult|NN lada|NN type|NN diabetes|DS age|NN cause|NN type|NN article|NN type|NN diabetes|DS insulin|NN secretion|NN absorption|NN glucose|NN content|NN blood|NN 
+type|NN diabetes|DS insulin|NN resistance|NN insulin|NN secretion|NN responsiveness|NN body|NN tissue|NN insulin|NN insulin|NN receptor|NN 
+diabetes|DS case|NN defect|NN 
+type|NN diabetes|DS type|NN diabetes|DS people|NN type|NN diabetes|DS evidence|NN diabetes|DS fast|NN glucose|NN glucose|NN tolerance|NN year|NN criteria|NN type|NN diabetes|DS 
+citation|NN diabetes|DS type|NN diabetes|DS variety|NN measure|NN medication|NN insulin|NN sensitivity|NN liver|NN glucose|NN production|NN 
+type|NN diabetes|DS lifestyle|NN factor|NN genetics|NN number|NN lifestyle|NN factor|NN development|NN type|NN diabetes|DS obesity|NN body|NN mass|NN index|NN lack|NN activity|NN diet|NN stress|NN urbanization|NN excess|NN body|NN fat|NN case|NN descent|NN 6080|NN case|NN descent|NN indian|NN pacific|NN islander|NN waisthip|NN ratio|NN 
+factor|NN risk|NN type|NN diabetes|DS 
+consumption|NN drink|NN excess|NN risk|NN type|NN fat|NN diet|NN fat|NN tran|NN fat|NN risk|NN fat|NN risk|NN rice|NN starche|NN risk|NN diabetes|DS lack|NN activity|NN cause|NN case|NN diabetes|DS article|NN diabetes|DS 
+diabetes|DS diabetes|DS type|NN diabetes|DS respect|NN combination|NN insulin|NN secretion|NN responsiveness|NN 
+pregnancy|NN delivery|NN pregnancy|NN women|NN diabetes|DS diabetes|DS type|NN diabetes|DS supervision|NN pregnancy|NN 
+management|NN change|NN blood|NN glucose|NN monitor|NN case|NN insulin|NN 
+diabetes|DS health|NN fetus|NN mother|NN 
+risk|NN baby|NN birth|NN weight|NN heart|NN system|NN abnormality|NN muscle|NN malformation|NN 
+level|NN insulin|NN blood|NN surfactant|NN production|NN cause|NN infant|NN distress|NN syndrome|NN 
+blood|NN bilirubin|NN level|NN blood|NN cell|NN destruction|NN 
+case|NN death|NN result|NN perfusion|NN impairment|NN 
+labor|NN induction|NN function|NN 
+caesarean|NN section|NN distress|NN risk|NN injury|NN shoulder|NN type|NN 
+maturity|NN onset|NN diabetes|DS mody|NN form|NN diabetes|DS due|NN mutation|NN defect|NN insulin|NN production|NN type|NN case|NN 
+name|NN disease|NN hypothese|NN nature|NN 
+gene|NN disease|NN age|NN presentation|NN severity|NN gene|NN defect|NN subtype|NN 
+people|NN insulin|NN 
+case|NN diabetes|DS tissue|NN receptor|NN insulin|NN insulin|NN level|NN type|NN diabetes|DS form|NN 
+mutation|NN defect|NN beta|NN cell|NN function|NN 
+insulin|NN action|NN case|NN 
+disease|NN damage|NN pancrea|NN diabetes|DS example|NN pancreatitis|NN fibrosis|DS 
+disease|NN secretion|NN hormone|NN diabetes|DS hormone|NN excess|NN 
+drug|NN insulin|NN secretion|NN toxin|NN beta|NN cell|NN insulin|NN resistance|NN diabetes|DS 
+entity|NN diabetes|DS diabetes|DS diabetes|DS code|NN world|NN health|NN organization|NN taxonomy|NN 
+follow|NN list|NN cause|NN diabetes|DS 
+function|NN maturity|NN onset|NN diabetes|DS mitochondrial|NN dna|NN mutation|NN defect|NN insulin|NN process|NN insulin|NN action|NN defect|NN conversion|NN insulin|NN gene|NN mutation|NN insulin|NN receptor|NN mutation|NN defect|NN pancreatitis|NN neoplasia|NN fibrosis|DS pancreatopathy|NN 
+growth|NN hormone|NN excess|NN cushing|NN syndrome|NN pheochromocytoma|DS infection|NN b|NN drug|NN hormone|NN 
+type|NN diabetes|DS name|NN researcher|NN alzheimers|NN disease|NN evidence|NN insulin|NN resistance|NN brain|NN role|NN 
+form|NN diabetes|DS fluctuation|NN blood|NN sugar|NN red|NN hormone|NN insulin|NN blue|NN human|NN course|NN day|NN meal|NN 
+effect|NN sugar-rich|NN meal|NN 
+mechanism|NN insulin|NN release|NN beta|NN cell|NN 
+insulin|NN production|NN beta|NN cell|NN 
+release|NN food|NN food|NN glucose|NN 
+insulin|NN hormone|NN uptake|NN glucose|NN blood|NN cell|NN body|NN liver|NN tissue|NN muscle|NN muscle|NN insulin|NN act|NN igf-1|NN 
+deficiency|NN insulin|NN insensitivity|NN receptor|NN role|NN form|NN diabetes|DS 
+body|NN glucose|NN source|NN absorption|NN food|NN breakdown|NN glycogen|NN storage|NN form|NN glucose|NN liver|NN generation|NN glucose|NN substrate|NN body|NN insulin|NN role|NN balance|NN glucose|NN level|NN body|NN 
+insulin|NN breakdown|NN glycogen|NN process|NN gluconeogenesis|NN transport|NN glucose|NN fat|NN muscle|NN cell|NN storage|NN glucose|NN form|NN glycogen|NN 
+insulin|NN blood|NN beta|NN cell|NN 
+islet|NN langerhan|NN pancrea|NN response|NN level|NN blood|NN glucose|NN eate|NN 
+insulin|NN cell|NN glucose|NN blood|NN use|NN fuel|NN conversion|NN molecule|NN storage|NN 
+lower|NN glucose|NN level|NN result|NN insulin|NN release|NN beta|NN cell|NN breakdown|NN glycogen|NN glucose|NN 
+process|NN hormone|NN glucagon|NN manner|NN insulin|NN 
+amount|NN insulin|NN cell|NN effect|NN insulin|NN insulin|NN insensitivity|NN insulin|NN resistance|NN insulin|NN glucose|NN body|NN cell|NN liver|NN muscle|NN 
+effect|NN level|NN blood|NN glucose|NN protein|NN synthesis|NN derangement|NN acidosis|NN 
+glucose|NN concentration|NN blood|NN time|NN kidney|NN threshold|NN reabsorption|NN body|NN glucose|NN urine|NN increase|NN pressure|NN urine|NN water|NN kidney|NN urine|NN production|NN fluid|NN loss|NN 
+blood|NN volume|NN water|NN body|NN cell|NN body|NN compartment|NN dehydration|NN thirst|NN addition|NN glucose|NN deficiency|NN appetite|NN food|NN intake|NN diagnosis|NN tolerance|NN test|NN diabetes|DS criteria|NN condition|NN glucose|NN fasting|NN glucose|NN unit|NN mmolmol|NN fast|NN 
+70126|NN glucose|NN tolerance|NN 
+42-46|NN diabetes|DS 
+diabetes|DS blood|NN sugar|NN 
+fasting|NN plasma|NN glucose|NN level|NN 
+plasma|NN glucose|NN 
+hour|NN gram|NN glucose|NN load|NN glucose|NN tolerance|NN test|NN symptom|NN blood|NN sugar|NN plasma|NN glucose|NN 
+result|NN absence|NN blood|NN sugar|NN repeat|NN method|NN day|NN 
+glucose|NN level|NN ease|NN measurement|NN time|NN commitment|NN glucose|NN tolerance|NN test|NN hour|NN advantage|NN test|NN definition|NN fast|NN glucose|NN measurement|NN diabetes|DS 
+people|NN glucose|NN level|NN mgdl|NN fast|NN glucose|NN people|NN plasma|NN glucose|NN hour|NN gram|NN glucose|NN load|NN glucose|NN tolerance|NN 
+state|NN risk|NN factor|NN progression|NN diabetes|DS disease|NN diabetes|DS association|NN ada|NN use|NN range|NN fast|NN glucose|NN 
+glucose|NN risk|NN disease|NN death|NN cause|NN prevention|NN prevention|NN type|NN diabetes|DS 
+measure|NN type|NN diabetes|DS type|NN diabetes|DS 8590|NN case|NN body|NN weight|NN activity|NN diet|NN level|NN activity|NN minute|NN day|NN risk|NN diabetes|DS change|NN diabetes|DS diet|NN grain|NN fiber|NN fat|NN fat|NN vegetable|NN oil|NN fish|NN beverage|NN meat|NN source|NN fat|NN diabetes|DS tobacco|NN smoke|NN risk|NN diabetes|DS complication|NN cessation|NN measure|NN 
+relationship|NN type|NN diabetes|DS modifiable|NN risk|NN factor|NN excess|NN weight|NN diet|NN inactivity|NN tobacco|NN use|NN region|NN world|NN 
+evidence|NN determinant|NN diabetes|DS reflection|NN force|NN change|NN globalization|NN urbanization|NN population|NN age|NN health|NN policy|NN environment|NN management|NN article|NN diabetes|DS management|NN fileabcs|NN diabetes|DS media|NN overview|NN management|NN diabetes|DS 
+diabetes|DS disease|NN cure|NN situation|NN management|NN blood|NN sugar|NN level|NN close|NN blood|NN sugar|NN 
+diet|NN exercise|NN weight_loss|ST use|NN medication|NN insulin|NN case|NN type|NN diabetes|DS medication|NN insulin|NN type|NN diabetes|DS 
+learn|NN disease|NN treatment|NN complication|NN people|NN blood|NN sugar|NN level|NN goal|NN treatment|NN level|NN attention|NN health|NN problem|NN effect|NN diabetes|DS 
+cholesterol|NN level|NN obesity|NN blood|NN pressure|NN lack|NN exercise|NN footwear|NN risk|NN ulceration|NN re-ulceration|NN feet|NN 
+evidence|NN efficacy|NN remain|NN lifestyle|NN diet|NN 
+people|NN diabetes|DS education|NN disease|NN treatment|NN nutrition|NN body|NN weight|NN exercise|NN goal|NN blood|NN glucose|NN level|NN bound|NN 
+addition|NN risk|NN disease|NN lifestyle|NN modification|NN control|NN blood|NN pressure|NN 
+pattern|NN people|NN diabetes|DS 
+people|NN type|NN diabetes|DS diet|NN weight_loss|ST control|NN medication|NN 
+diabetes|DS lower|NN blood|NN sugar|NN level|NN 
+consensus|NN people|NN diabetes|DS glucose|NN control|NN glycemic|NN control|NN glucose|NN level|NN blood|NN range|NN complication|NN kidney|NN problem|NN eye|NN problem|NN debate|NN cost|NN people|NN life|NN 
+number|NN class|NN medication|NN 
+mouth|NN injection|NN agonist|NN 
+type|NN diabetes|DS insulin|NN combination|NN insulin|NN insulin|NN 
+line|NN treatment|NN type|NN diabetes|DS evidence|NN mortality|NN liver|NN production|NN glucose|NN group|NN drug|NN mouth|NN blood|NN sugar|NN type|NN diabetes|DS 
+agent|NN increase|NN insulin|NN release|NN agent|NN decrease|NN absorption|NN sugar|NN intestine|NN agent|NN body|NN insulin|NN agent|NN excretion|NN glucose|NN urine|NN insulin|NN type|NN diabetes|DS formulation|NN medication|NN insulin|NN effect|NN blood|NN pressure|NN 
+disease|NN complication|NN diabetes|DS blood|NN pressure|NN level|NN mmhg|NN evidence|NN mmhg|NN benefit|NN blood|NN pressure|NN target|NN range|NN decrease|NN stroke|NN risk|NN risk|NN event|NN review|NN harm|NN mmhg|NN medication|NN blood|NN pressure|NN angiotensin|NN enzyme|NN inhibitor|NN outcome|NN diabetes|DS medication|NN angiotensin|NN receptor|NN blocker|NN aspirin|NN people|NN problem|NN routine|NN use|NN aspirin|NN outcome|NN diabetes|DS surgery|NN 
+weight_loss|ST surgery|NN obesity|NN type|NN diabetes|DS measure|NN blood|NN sugar|NN level|NN medication|NN surgery|NN mortality|NN mortality|NN risk|NN surgery|NN body|NN mass|NN index|NN surgery|NN option|NN weight|NN blood|NN sugar|NN control|NN 
+pancrea|NN transplant|NN people|NN type|NN diabetes|DS complication|NN disease|NN end|NN stage|NN kidney|NN disease|NN kidney|NN transplantation|NN support|NN 
+country|NN practitioner|NN system|NN kingdom|NN care|NN place|NN hospital|NN specialist|NN care|NN case|NN complication|NN blood|NN sugar|NN control|NN research|NN project|NN 
+circumstance|NN practitioner|NN specialist|NN share|NN care|NN team|NN approach|NN 
+home|NN support|NN management|NN technique|NN epidemiology|NN article|NN epidemiology|NN diabetes|DS rate|NN diabetes|DS 
+mortality|NN rate|NN diabetes|DS 2012|NN inhabitant|NN 115141|NN 185209|NN 4051879|NN 
+2017|NN people|NN diabetes|DS people|NN 2013|NN account|NN age|NN structure|NN population|NN prevalence|NN diabetes|DS adult|NN rate|NN type|NN case|NN data|NN rate|NN women|NN men|NN excess|NN diabetes|DS population|NN type|NN incidence|NN difference|NN insulin|NN sensitivity|NN consequence|NN obesity|NN body|NN fat|NN deposition|NN factor|NN blood|NN pressure|NN tobacco|NN smoke|NN alcohol|NN intake|NN 
+estimate|NN diabetes|DS death|NN make|NN cause|NN death|NN death|NN blood|NN glucose|NN risk|NN disease|NN complication|NN kidney|NN failure|NN death|NN cause|NN death|NN certificate|NN diabetes|DS example|NN 2017|NN diabetes|DS federation|NN idf|NN diabetes|DS death|NN number|NN death|NN diabetes|DS 
+diabetes|DS world|NN type|NN country|NN 
+increase|NN rate|NN low-|NN country|NN death|NN prevalence|NN increase|NN asia|NN africa|NN people|NN diabetes|DS increase|NN rate|NN country|NN trend|NN urbanization|NN lifestyle|NN change|NN lifestyle|NN work|NN nutrition|NN transition|NN intake|NN food|NN sugar|NN fat|NN diet|NN number|NN diabetes|DS case|NN history|NN article|NN history|NN diabetes|DS 
+diabetes|DS disease|NN manuscript|NN bce|NN empty|NN urine|NN 
+papyrus|NN recommendation|NN drink|NN case|NN case|NN type|NN diabetes|DS physician|NN time|NN disease|NN madhumeha|NN honey|NN urine|NN urine|NN ant|NN 
+term|NN diabetes|DS bce|NN apollonius|NN memphis|NN disease|NN time|NN empire|NN galen|NN case|NN career|NN diet|NN lifestyle|NN ancient|NN symptom|NN stage|NN disease|NN 
+galen|NN disease|NN diarrhea|ST urine|NN 
+work|NN reference|NN diabetes|DS century|NN ce|NN 
+symptom|NN course|NN disease|NN moisture|NN coldness|NN belief|NN school|NN 
+correlation|NN diabetes|DS disease|NN diagnosis|NN snakebite|NN thirst|NN 
+work|NN west|NN edition|NN venice|NN 
+type|NN diabetes|DS condition|NN time|NN physician|NN ce|NN type|NN youth|NN type|NN term|NN mellitus|NN honey|NN briton|NN john|NN rolle|NN condition|NN diabetes_insipidus|DS urination|NN treatment|NN part|NN century|NN canadian|NN frederick|NN banting|NN charles|NN herbert|NN insulin|NN development|NN insulin|NN etymology|NN 
+word|NN diabetes|DS 
+turn|NN greek|NN 
+passer|NN siphon|NN physician|NN aretaeus|NN fl|NN century|NN ce|NN word|NN mean|NN discharge|ST urine|NN name|NN disease|NN word|NN 
+mean|NN word|NN diabetes|DS english|NN form|NN text|NN 
+word|NN mellitus|NN 
+mean|NN honey|NN 
+word|NN mell-|NN mean|NN honey|NN sweetness|NN thing|NN suffix|NN 
+mean|NN suffix|NN thomas|NN willis|NN mellitus|NN word|NN diabetes|DS designation|NN disease|NN urine|NN diabetic|NN taste|NN 
+taste|NN urine|NN greek|NN egyptian|NN indian|NN persian|NN 
+society|NN culture|NN information|NN list|NN film|NN diabetes|DS 
+vincent|NN declaration|NN result|NN effort|NN care|NN diabetes|DS 
+term|NN quality|NN life|NN life|NN expectancy|NN expense|NN diabetes|DS drain|NN health|NN productivity-relate|NN resource|NN healthcare|NN system|NN government|NN 
+country|NN diabetes|DS programme|NN treatment|NN disease|NN 
+people|NN diabetes|DS symptom|NN numbness|NN tingle|NN feet|NN hand|NN symptom|NN 
+diabetes|DS emergency|NN room|NN er|NN visit|NN rate|NN united|NN states|NN people|NN income|NN community|NN population|NN income|NN community|NN population|NN 
+diabetes|DS -related|NN er|NN visit|NN name|NN 
+term|NN type|NN diabetes|DS term|NN diabetes|DS juvenile|NN diabetes|DS diabetes|DS diabetes|DS 
+term|NN type|NN diabetes|DS term|NN diabetes|DS obesity-relate|NN diabetes|DS diabetes|DS diabetes|DS 
+type|NN standard|NN nomenclature|NN 
+diabetes|DS sugar|NN diabetes|DS diabetes|DS animal|NN article|NN diabetes|DS dog|NN diabetes|DS cat|NN 
+animal|NN diabetes|DS dog|NN cat|NN 
+dog|NN male|NN source|NN cat|NN female|NN 
+specy|NN breed|NN dog|NN breed|NN diabetes|DS poodle|NN 
+diabetes|DS type|NN diabetes|DS 
+breed|NN abyssinian|NN forest|NN cat|NN breed|NN risk|NN diabetes|DS breed|NN risk|NN 
+association|NN risk|NN diabetes|DS 
+symptom|NN fluid|NN loss|NN polyuria|ST course|NN 
+animal|NN infection|NN 
+complication|NN human|NN animal|NN 
+principle|NN treatment|NN weight_loss|ST insulin|NN management|NN emergency|NN human|NN research|NN diabetes|DS journal|NN 
+insulin|NN product|NN side|NN effect|NN development|NN pharmaceutical|NN company|NN corporation|NN united|NN states|NN food|NN drug|NN administration|NN fda|NN sale|NN june|NN advantage|NN insulin|NN 
+insulin|NN form|NN cream|NN trial|NN people|NN type|NN diabetes|DS major|NN trial|NN 
+diabetes|DS control|NN complication|NN trial|NN study|NN united|NN states|NN institute|NN diabetes|DS kidney|NN disease|NN new|NN england|NN journal|NN medicine|NN 
+test|NN subject|NN diabetes|DS type|NN glycemic|NN arm|NN control|NN arm|NN standard|NN care|NN time|NN people|NN average|NN year|NN people|NN treatment|NN rate|NN complication|NN 
+landmark|NN study|NN time|NN management|NN form|NN diabetes|DS 
+united|NN kingdom|NN diabetes|DS study|NN study|NN z|NN lancet|NN 
+people|NN type|NN diabetes|DS average|NN year|NN glucose|NN control|NN standard|NN care|NN treatment|NN arm|NN outcome|NN 
+importance|NN glucose|NN control|NN blood|NN pressure|NN control|NN people|NN condition|NN 

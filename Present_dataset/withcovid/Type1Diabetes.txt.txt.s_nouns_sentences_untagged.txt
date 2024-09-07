@@ -1,0 +1,131 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN type|NN 1|NN diabetes|DS name|NN type|NN 1|NN diabetes|DS type|NN 1|NN diabetes|DS type|NN 1|NN diabetes|DS circle|NN diabetessvg|NN circle|NN symbol|NN diabete|NN pronunciation|NN 
+symptom|NN urination|NN thirst|NN hunger|NN weight_loss|ST complication|NN coma|NN heal|NN disease|NN damage|NN eye|NN onset|NN period|NN time|NN duration|NN term|NN cause|NN insulin|NN risk|NN factor|NN family|NN history|NN disease|NN method|NN blood|NN sugar|NN prevention|NN treatment|NN insulin|NN diet|NN exercise|NN frequency|NN diabete|NN case|NN 
+type|NN 1|NN diabetes|DS type|NN 1|NN diabetes|DS type|NN 1|NN diabetes|DS form|NN diabete|NN insulin|NN pancrea|NN treatment|NN result|NN blood|NN sugar|NN level|NN body|NN symptom|NN urination|NN thirst|NN hunger|NN weight_loss|ST symptom|NN vision|NN tiredness|NN wound|ST heal|NN symptom|NN period|NN time|NN 
+cause|NN type|NN 1|NN diabetes|DS combination|NN factor|NN factor|NN family|NN member|NN condition|NN mechanism|NN autoimmune|NN destruction|NN beta|NN cell|NN pancrea|NN diabete|NN level|NN sugar|NN hemoglobin|NN blood|NN type|NN 1|NN diabetes|DS type|NN test|NN presence|NN autoantibody|NN 
+way|NN type|NN 1|NN diabetes|DS treatment|NN insulin|NN survival|NN insulin|NN therapy|NN injection|NN skin|NN insulin|NN pump|NN diet|NN exercise|NN part|NN management|NN diabete|NN complication|NN complication|NN onset|NN ketoacidosis|NN nonketotic|NN coma|NN complication|NN heart|NN disease|NN stroke|NN kidney|NN failure|NN foot|NN ulcer|NN damage|NN eye|NN complication|NN blood|NN sugar|NN dose|NN insulin|NN 
+type|NN 1|NN diabetes|DS diabete|NN case|NN number|NN people|NN children|NN disease|NN year|NN united|NN states|NN number|NN people|NN rate|NN disease|NN case|NN year|NN east|NN asia|NN america|NN case|NN year|NN scandinavia|NN kuwait|NN children|NN adult|NN content|NN 
+sign|NN symptom|NN cause|NN genetics|NN diagnosis|NN prevention|NN immunosuppressive|NN drug|NN diet|NN management|NN lifestyle|NN insulin|NN transplantation|NN cell|NN transplantation|NN complication|NN tract|NN infection|NN dysfunction|NN epidemiology|NN history|NN society|NN culture|NN research|NN diet|NN gene|NN therapy|NN stem|NN cell|NN reference|NN link|NN 
+sign|NN symptom|NN overview|NN symptom|NN diabete|NN subcapsular|NN cataract|DS symptom|NN type|NN dm|NN 
+symptom|NN type|NN 1|NN diabetes|DS urination|NN thirst|NN mouth|NN hunger|NN fatigue|ST weight_loss|ST 
+type|NN diabetics|NN ketoacidosis|NN 
+sign|NN symptom|NN ketoacidosis|NN skin|NN breath|NN drowsiness|NN thirst|NN urination|NN pain|ST vomit|NN 
+percent|NN people|NN type|NN 1|NN diabetes|DS depression|ST 
+percent|NN people|NN type|NN 1|NN diabetes|DS disease|NN case|NN symptom|NN control|NN diabete|NN neuropathy|NN case|NN disease|NN onset|NN type|NN 1|NN diabetes|DS 
+association|NN disease|NN type|NN 1|NN diabetes|DS increase|NN risk|NN complication|NN retinopathy|NN mortality|NN 
+association|NN factor|NN inflammation|NN deficiency|NN disease|NN type|NN 1|NN diabetes|DS 
+people|NN type|NN 1|NN diabetes|DS experience|NN swing|NN glucose|NN level|NN reason|NN diabete|NN diabete|NN diabete|NN result|NN swing|NN 
+diabete|NN diabetics|NN 
+type|NN 1|NN diabetes|DS areata|NN type|NN 1|NN diabetes|DS family|NN member|NN people|NN cause|NN 
+cause|NN type|NN 1|NN diabetes|DS number|NN theory|NN cause|NN susceptibility|NN trigger|NN exposure|NN antigen|NN genetics|NN article|NN cause|NN type|NN 1|NN diabetes|DS 
+type|NN 1|NN diabetes|DS disease|NN gene|NN 
+risk|NN child|NN type|NN 1|NN diabetes|DS father|NN sible|NN mother|NN twin|NN chance|NN study|NN heritability|NN 
+gene|NN type|NN 1|NN diabetes|DS 
+locus|NN combination|NN locy|NN 
+gene|NN iddm1|NN mhc|NN class|NN region|NN chromosome|NN stain|NN region|NN 
+variant|NN gene|NN increase|NN risk|NN histocompatibility|NN characteristic|NN type|NN 
+variant|NN 0401|NN drb1|NN dqb1|NN 0201|NN north|NN american|NN ancestry|NN european|NN variant|NN 
+order|NN difference|NN occurrence|NN caucasian|NN area|NN europe|NN people|NN disease|NN rate|NN country|NN trigger|NN factor|NN research|NN agent|NN protein|NN gluten|NN time|NN gut|NN infection|NN infection|NN paratuberculosis|NN chemical|NN drug|NN 
+chemical|NN drug|NN cell|NN 
+rodenticide|NN united|NN states|NN beta|NN cell|NN type|NN 1|NN diabetes|DS poison|NN market|NN protection|NN agency|NN use|NN streptozotocin|NN agent|NN beta|NN cell|NN islet|NN 
+research|NN type|NN 1|NN diabetes|DS rodent|NN cancer|DS islet|NN cell|NN patient|NN cancer|DS surgery|NN problem|NN trauma|NN pancreatitis|NN loss|NN insulin|NN production|NN 
+antibody|NN treatment|NN cancer|DS checkpoint|NN inhibitor|NN autoimmune|NN diabete|NN 
+pathophysiology|NN diabete|NN type|NN destruction|NN beta|NN cell|NN pancrea|NN risk|NN factor|NN entity|NN 
+risk|NN factor|NN process|NN turn|NN cause|NN beta|NN cell|NN destruction|NN 
+process|NN risk|NN factor|NN type|NN hypersensitivity|DS autoimmune|NN response|NN beta|NN cell|NN expansion|NN t|NN helper|NN cell|NN cell|NN cell|NN activation|NN system|NN 
+start|NN treatment|NN insulin|NN person|NN insulin|NN level|NN immunity|NN honeymoon|NN phase|NN diagnosis|NN tolerance|NN test|NN diabete|NN criteria|NN condition|NN glucose|NN fasting|NN glucose|NN unit|NN mmolmol|NN fast|NN 
+70126|NN glucose|NN tolerance|NN 
+42-46|NN diabete|NN mellitus|NN 
+diabete|NN mellitus|NN hyperglycemia|DS 
+fasting|NN plasma|NN glucose|NN level|NN 
+plasma|NN glucose|NN hour|NN g|NN glucose|NN load|NN glucose|NN tolerance|NN test|NN 
+symptom|NN hyperglycemia|DS plasma|NN glucose|NN 
+hemoglobin|NN a1c|NN 
+criterion|NN diabete|NN association|NN 
+quarter|NN people|NN type|NN 1|NN diabetes|DS degree|NN diabetic|NN type|NN acidosis|NN concentration|NN body|NN breakdown|NN acid|NN deamination|NN amino|NN acid|NN time|NN diabete|NN 
+diagnosis|NN type|NN diabete|NN way|NN 
+health|NN screen|NN detection|NN hyperglycemia|DS investigation|NN symptom|NN vision|NN change|NN fatigue|ST 
+diabete|NN person|NN problem|NN diabete|NN heart_attack|DS stroke|NN neuropathy|NN wound|ST heal|NN foot|NN ulcer|NN eye|NN problem|NN infection|NN baby|NN macrosomia|DS blood|NN sugar|NN 
+result|NN absence|NN hyperglycemia|DS repeat|NN method|NN day|NN 
+physician|NN glucose|NN level|NN ease|NN measurement|NN time|NN commitment|NN glucose|NN tolerance|NN test|NN hour|NN advantage|NN test|NN definition|NN fast|NN glucose|NN measurement|NN diabete|NN mellitus|NN 
+type|NN beta|NN cell|NN islet|NN langerhan|NN insulin|NN production|NN 
+type|NN origin|NN type|NN 
+type|NN diabete|NN insulin|NN resistance|NN type|NN 1|NN diabetes|DS insulin|NN deficiency|NN insulin|NN resistance|NN 
+hallmark|NN type|NN 1|NN diabetes|DS islet|NN presence|NN autoantibody|NN beta|NN cell|NN 
+appearance|NN autoantibody|NN appearance|NN diabete|NN type|NN hyperglycemia|DS islet|NN cell|NN autoantibody|NN insulin|NN autoantibody|NN autoantibody|NN isoform|NN acid|NN autoantibody|NN phosphatase-relate|NN molecule|NN zinc|NN transporter|NN autoantibody|NN definition|NN diagnosis|NN diabete|NN type|NN appearance|NN symptom|NN sign|NN emergence|NN autoantibody|NN autoimmune|NN diabete|NN 
+autoantibody|NN diabete|NN type|NN risk|NN increase|NN number|NN antibody|NN type|NN antibody|NN type|NN risk|NN diabete|NN type|NN time|NN interval|NN emergence|NN autoantibody|NN diabete|NN month|NN infant|NN children|NN people|NN year|NN case|NN year|NN cell|NN autoantibody|NN immunofluorescence|NN rest|NN assay|NN prevention|NN 
+type|NN 1|NN diabetes|DS researcher|NN autoimmune|NN stage|NN beta|NN cell|NN drug|NN 
+agent|NN destruction|NN beta|NN cell|NN basis|NN insulin|NN usage|NN kidney|NN toxicity|NN side|NN effect|NN use|NN 
+antibody|NN teplizumab|NN evidence|NN insulin|NN production|NN production|NN type|NN 1|NN diabetes|DS patient|NN mechanism|NN effect|NN preservation|NN t|NN cell|NN activation|NN system|NN system|NN homeostasis|NN tolerance|NN duration|NN effect|NN phase|NN study|NN otelixizumab|NN efficacy|NN dose|NN schedule|NN 
+antibody|NN b|NN cell|NN response|NN month|NN diagnosis|NN type|NN 1|NN diabetes|DS effect|NN diet|NN 
+research|NN breastfeed|NN risk|NN life|NN introduction|NN cereal|NN diet|NN risk|NN islet|NN cell|NN autoantibody|NN risk|NN factor|NN evidence|NN children|NN iu|NN vitamin|NN year|NN life|NN risk|NN type|NN 1|NN diabetes|DS relationship|NN 
+children|NN antibody|NN beta|NN cell|NN protein|NN stage|NN reaction|NN diabete|NN vitamin|NN diabete|NN onset|NN incidence|NN time|NN span|NN population|NN incidence|NN relative|NN antibody|NN niacinamide|NN 
+people|NN type|NN 1|NN diabetes|DS celiac|NN disease|NN control|NN prevalence|NN nephropathy|DS retinopathy|NN 
+diet|NN diabete|NN symptom|NN effect|NN complication|NN 
+management|NN disease|NN patient|NN compliance|NN diet|NN management|NN information|NN diabete|NN management|NN 
+diabete|NN number|NN health|NN care|NN provider|NN dietitian|NN nurse|NN educator|NN eye|NN doctor|NN lifestyle|NN 
+evidence|NN usefulness|NN routine|NN use|NN diet|NN people|NN type|NN 1|NN diabetes|DS individual|NN regime|NN insulin|NN dose|NN concern|NN health|NN effect|NN diet|NN people|NN type|NN 1|NN diabetes|DS eate|NN plan|NN 
+camp|NN children|NN insulin|NN help|NN stress|NN effect|NN diabete|NN number|NN measure|NN take|NN hobby|NN charity|NN insulin|NN article|NN insulin|NN therapy|NN 
+injections|NN insulin|NN injection|NN insulin|NN pump|NN live|NN type|NN 1|NN diabetes|DS diet|NN exercise|NN insulin|NN dosage|NN account|NN food|NN intake|NN blood|NN glucose|NN level|NN activity|NN 
+type|NN 1|NN diabetes|DS ketoacidosis|NN death|NN diabetic|NN accumulation|NN liquid|NN brain|NN 
+issue|NN children|NN risk|NN edema|ST adult|NN cause|NN death|NN diabete|NN 
+treatment|NN diabete|NN lower|NN blood|NN sugar|NN glucose|NN bg|NN range|NN 4478|NN goal|NN bg|NN complication|NN system|NN neuropathy|NN pain|ST loss|NN feel|NN extremity|NN system|NN heart_attack|DS vision|NN loss|NN 
+level|NN control|NN period|NN time|NN target|NN level|NN 
+type|NN insulin|NN act|NN insulin|NN insulin|NN insulin|NN insulin|NN 
+act|NN insulin|NN bolus|NN dosage|NN 
+action|NN minute|NN peak|NN action|NN minute|NN 
+act|NN insulin|NN action|NN minute|NN peak|NN action|NN hour|NN 
+act|NN insulin|NN action|NN hour|NN peak|NN action|NN hour|NN 
+insulin|NN time|NN day|NN action|NN onset|NN hour|NN action|NN hour|NN 
+insulin|NN product|NN recombination|NN technique|NN cattle|NN pig|NN insulin|NN insulin|NN fish|NN 
+people|NN type|NN 1|NN diabetes|DS insulin|NN treatment|NN bg|NN 
+occurrence|NN people|NN diabete|NN result|NN mismatch|NN balance|NN insulin|NN food|NN activity|NN 
+symptom|NN sweate|NN hunger|NN fatigue|ST case|NN eate|NN sugar|NN 
+case|NN unconsciousness|ST glucose|NN injection|NN glucagon|NN 
+glucose|NN monitor|NN patient|NN presence|NN blood|NN sugar|NN level|NN glucose|NN monitor|NN margin|NN error|NN 
+pancrea|NN safety|NN issue|NN 2018|NN pancrea|NN transplantation|NN article|NN transplantation|NN 
+case|NN pancrea|NN transplant|NN glucose|NN regulation|NN 
+surgery|NN immunosuppression|NN insulin|NN replacement|NN therapy|NN time|NN kidney|NN transplant|NN 
+reason|NN kidney|NN drug|NN introduction|NN pancrea|NN person|NN diabete|NN therapy|NN 
+pancrea|NN transplant|NN people|NN type|NN 1|NN diabetes|DS cell|NN transplantation|NN article|NN cell|NN transplantation|NN 
+cell|NN transplantation|NN option|NN people|NN type|NN 1|NN diabetes|DS insulin|NN difficulty|NN find|NN donor|NN islet|NN side|NN effect|NN medication|NN rejection|NN success|NN rate|NN insulin|NN year|NN procedure|NN people|NN registry|NN united|NN states|NN treatment|NN complication|NN information|NN complication|NN diabete|NN 
+complication|NN type|NN 1|NN diabetes|DS disease|NN neuropathy|NN retinopathy|NN 
+disease|NN neuropathy|NN autoimmune|NN basis|NN 
+women|NN type|NN dm|NN risk|NN death|NN men|NN type|NN dm|NN life|NN expectancy|NN individual|NN type|NN 1|NN diabetes|DS year|NN men|NN year|NN women|NN people|NN type|NN 1|NN diabetes|DS risk|NN autoimmune|NN disease|NN autoimmune|NN thyroid|NN disease|NN disease|NN arthritis|DS tract|NN infection|NN 
+people|NN diabete|NN rate|NN tract|NN infection|NN reason|NN bladder|NN dysfunction|NN diabetics|NN non-diabetics|NN nephropathy|DS 
+nephropathy|DS decrease|NN bladder|NN sensation|NN turn|NN urine|NN risk|NN factor|NN tract|NN infection|NN dysfunction|NN 
+dysfunction|NN diabetics|NN result|NN factor|NN nerve|NN damage|NN circulation|NN factor|NN stress|NN depression|ST demand|NN disease|NN male|NN 
+issue|NN male|NN problem|NN erection|NN ejaculation|NN diabete|NN blood|NN vessel|NN peniss|NN tissue|NN blood|NN supply|NN firm|NN erection|NN 
+nerve|NN damage|NN blood|NN glucose|NN control|NN ejaculate|NN bladder|NN penis|NN ejaculation|NN retrograde_ejaculation|ST 
+semen|NN body|NN urine|NN 
+cause|NN dysfunction|NN oxygen|NN specy|NN result|NN disease|NN 
+study|NN prevalence|NN problem|NN women|NN sensation|NN genital|NN dryness|NN orgasm|NN pain|ST sex|NN libido|NN 
+diabete|NN level|NN female|NN lubrication|NN 
+correlation|NN diabete|NN dysfunction|NN female|NN male|NN 
+pill|NN blood|NN sugar|NN imbalance|NN women|NN 
+change|NN address|NN risk|NN side|NN effect|NN complication|NN 
+women|NN type|NN 1|NN diabetes|DS show|NN rate|NN syndrome|NN reason|NN ovary|NN insulin|NN concentration|NN women|NN type|NN 1|NN diabetes|DS epidemiology|NN 
+type|NN 1|NN diabetes|DS diabete|NN case|NN children|NN year|NN age|NN cause|NN diabete|NN year|NN age|NN incidence|NN type|NN 1|NN diabetes|DS year|NN 
+rate|NN country|NN 
+finland|NN incidence|NN high|NN year|NN japan|NN china|NN low|NN year|NN northern|NN europe|NN year|NN 
+united|NN states|NN type|NN 1|NN diabetes|DS youth|NN age|NN 
+youth|NN type|NN 1|NN diabetes|DS year|NN 
+year|NN american|NN diabete|NN type|NN complication|NN 69071|NN cause|NN death|NN 
+australia|NN people|NN diabete|NN figure|NN people|NN type|NN 1|NN diabetes|DS 
+australia|NN rank|NN world|NN children|NN year|NN age|NN 
+31895|NN case|NN 2323|NN 2013|NN rate|NN case|NN people|NN year|NN 
+aboriginals|NN torres|NN strait|NN islander|NN people|NN history|NN information|NN history|NN diabete|NN 
+type|NN 1|NN diabetes|DS autoimmune|NN disease|NN observation|NN autoantibody|NN islet|NN diabetics|NN autoimmune|NN deficiency|NN therapy|NN disease|NN progression|NN idea|NN type|NN 1|NN diabetes|DS autoimmune|NN disorder|NN name|NN type|NN 1|NN diabetes|DS childhood|NN 
+society|NN culture|NN list|NN people|NN type|NN 1|NN diabetes|DS 
+type|NN diabete|NN cause|NN cost|NN month|NN cost|NN month|NN person|NN diabete|NN united|NN states|NN year|NN diabete|NN 
+individual|NN diabete|NN time|NN health|NN care|NN cost|NN individual|NN diabete|NN 
+health|NN care|NN dollar|NN individual|NN type|NN diabete|NN research|NN 
+fund|NN research|NN type|NN 1|NN diabetes|DS government|NN industry|NN company|NN organization|NN 
+government|NN fund|NN united|NN states|NN institute|NN health|NN uk|NN institute|NN health|NN research|NN research|NN council|NN 
+type|NN 1|NN diabetes|DS research|NN foundation|NN parent|NN children|NN type|NN 1|NN diabetes|DS world|NN provider|NN fund|NN type|NN 1|NN diabetes|DS research|NN 
+citation|NN charity|NN diabete|NN association|NN diabete|NN uk|NN diabete|NN research|NN foundation|NN diabete|NN australia|NN diabete|NN association|NN 
+number|NN approache|NN cause|NN treatment|NN type|NN 
+data|NN gliadin|NN protein|NN present|NN gluten|NN role|NN development|NN type|NN 1|NN diabetes|DS mechanism|NN permeability|NN gluten|NN loss|NN barrier|NN function|NN passage|NN substance|NN blood|NN autoimmune|NN response|NN individual|NN type|NN 1|NN diabetes|DS evidence|NN experiment|NN animal|NN model|NN removal|NN gluten|NN diet|NN onset|NN type|NN 1|NN diabetes|DS research|NN human|NN virus|NN 
+theory|NN type|NN 1|NN diabetes|DS autoimmune|NN response|NN system|NN attack|NN cell|NN beta|NN cell|NN pancrea|NN viruse|NN b|NN cytomegalovirus|DS virus|NN mump|NN virus|NN rubella|DS virus|NN rotavirus|NN date|NN evidence|NN hypothesis|NN human|NN review|NN meta-analysis|NN association|NN infection|NN type|NN 1|NN diabetes|DS study|NN autoimmune|NN process|NN infection|NN coxsackievirus|NN b|NN onset|NN development|NN type|NN 1|NN diabetes|DS study|NN risk|NN vaccine|NN effect|NN gene|NN therapy|NN 
+gene|NN therapy|NN cure|NN type|NN 1|NN diabetes|DS stem|NN cell|NN 
+stem|NN cell|NN beta|NN cell|NN cell|NN beta|NN cell|NN beta|NN cell|NN insulin|NN response|NN blood|NN sugar|NN mice|NN technique|NN human|NN evidence|NN safety|NN effectiveness|NN 
+vaccine|NN type|NN 1|NN diabetes|DS tolerance|NN insulin|NN beta|NN cell|NN phase|NN trial|NN vaccine|NN alum|NN autoantigen|NN type|NN 1|NN diabetes|DS phase|NN approache|NN dna|NN vaccine|NN encod|NN peptide|NN fragment|NN insulin|NN development|NN vaccine|NN bcg|NN vaccine|NN risk|NN type|NN 1|NN diabetes|DS research|NN bcg|NN vaccine|NN type|NN 1|NN diabetes|DS 

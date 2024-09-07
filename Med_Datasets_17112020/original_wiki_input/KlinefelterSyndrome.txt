@@ -1,0 +1,153 @@
+Klinefelter syndrome,KS,XXY syndrome,Klinefelter's syndrome,Klinefelter-Reifenstein-Albright syndrome,XXY,47XXY,47XXY karyotype
+
+From Wikipedia, the free encyclopedia
+  (Redirected from Klinefelter's syndrome)
+Jump to navigation
+Jump to search
+Not to be confused with XYY syndrome.
+Klinefelter syndrome
+Other names	XXY syndrome, Klinefelter's syndrome, Klinefelter-Reifenstein-Albright syndrome
+Human chromosomesXXY01.png
+47XXY karyotype
+Pronunciation	
+
+    /ˈklaɪnfɛltər/ 
+
+Specialty	Medical genetics
+Symptoms	Often few[1]
+Usual onset	At fertilisation[2]
+Duration	Long term
+Causes	Two or more X chromosomes in males[3]
+Risk factors	Older mother[4]
+Diagnostic method	Genetic testing (karyotype)[5]
+Treatment	Physical therapy, speech and language therapy, counseling[6]
+Prognosis	Nearly normal life expectancy[7]
+Frequency	1:500 to 1:1,000 males[4][8]
+
+Klinefelter syndrome (KS) also known as 47XXY or XXY, is the set of symptoms that result from two or more X chromosomes in males.[3] The primary features are infertility and small testicles.[3][9] Often, symptoms may be subtle and many people do not realize they are affected.[1] Sometimes, symptoms are more prominent and may include weaker muscles, greater height, poor coordination, less body hair, breast growth, and less interest in sex.[1] Often it is only at puberty that these symptoms are noticed.[5] Intelligence is usually normal; however, reading difficulties and problems with speech are more common.[1] Symptoms are typically more severe if three or more X chromosomes are present (48,XXXY syndrome or 49,XXXXY syndrome).[1]
+
+Klinefelter syndrome usually occurs randomly.[4] An older mother may have a slightly increased risk of a child with KS.[4] The condition is not typically inherited from one's parents.[4] The underlying mechanisms involves at least one extra X chromosome in addition to a Y chromosome such that the total chromosome number is 47 or more rather than the usual 46.[10] KS is diagnosed by the genetic test known as a karyotype.[5]
+
+While no cure is known, a number of treatments may help.[7] Physical therapy, speech and language therapy, counselling, and adjustments of teaching methods may be useful.[6] Testosterone replacement may be used in those who have significantly lower levels.[6] Enlarged breasts may be removed by surgery.[6] About half of affected males have a chance of fathering children with the help of assisted reproductive technology, but this is expensive and not risk free.[6] Males appear to have a higher risk of breast cancer than typical, but still lower than that of females.[11] People with the condition have a nearly normal life expectancy.[7]
+
+Klinefelter syndrome is one of the most common chromosomal disorders, occurring in one to two per 1,000 live male births.[4][8] It is named after the endocrinologist Harry Klinefelter, who identified the condition in the 1940s.[12] In 1956, identification of the extra X chromosome was first noticed.[13] Mice can also have the XXY syndrome, making them a useful research model.[14]
+Contents
+
+    1 Signs and symptoms
+        1.1 Physical
+        1.2 Cognitive and developmental
+    2 Cause
+        2.1 Variations
+    3 Diagnosis
+        3.1 Differential diagnosis
+    4 Treatment
+        4.1 Infertility treatment
+    5 Prognosis
+    6 Epidemiology
+    7 History
+    8 Other animals
+    9 See also
+    10 References
+    11 Further reading
+    12 External links
+
+Signs and symptoms
+A person with typical untreated (surgery/hormones) Klinefelter 46,XY/47XXY mosaic, diagnosed at age 19 - the scar from biopsy may be visible on left nipple.
+
+While XXY males can possibly be characterised based on physical characteristics, substantial variation in physical and developmental traits mean the only reliable method of positive or negative identification is karyotype testing.[citation needed]
+Physical
+
+As babies and children, XXY males may have weaker muscles and reduced strength. As they grow older, they tend to become taller than average. They may have less muscle control and coordination than other boys of their age.[15]
+
+During puberty, the physical traits of the syndrome become more evident; because these boys do not produce as much testosterone as other boys, they have a less muscular body, less facial and body hair, and broader hips. As teens, XXY males may develop breast tissue[16] and also have weaker bones, and a lower energy level than other males.[15]
+
+By adulthood, XXY males look similar to males without the condition, although they are often taller. In adults, possible characteristics vary widely and include little to no sign of affectedness, a lanky, youthful build and facial appearance, or a rounded body type with some degree of gynecomastia (increased breast tissue).[17] Gynecomastia is present to some extent in about a third of affected individuals, a slightly higher percentage than in the XY population. About 10% of XXY males have gynecomastia noticeable enough that they may choose to have cosmetic surgery.[18]
+
+Affected males are often infertile, or may have reduced fertility. Advanced reproductive assistance is sometimes possible.[19]
+
+The term hypogonadism in XXY symptoms is often misinterpreted to mean "small testicles" when it means decreased testicular hormone/endocrine function. Because of this (primary) hypogonadism, individuals often have a low serum testosterone level, but high serum follicle-stimulating hormone and luteinizing hormone levels.[20] Despite this misunderstanding of the term, however, XXY men may also have microorchidism (i.e., small testicles).[20]
+
+The testicle size of affected males are usually less than 2 cm in length (and always shorter than 3.5 cm[21]), 1 cm in width, and 4 ml in volume.[22][23]
+
+XXY males are also more likely than other men to have certain health problems that typically affect females, such as autoimmune disorders, breast cancer, venous thromboembolic disease, and osteoporosis.[15][24] In contrast to these potentially increased risks, rare X-linked recessive conditions are thought to occur less frequently in XXY males than in normal XY males, since these conditions are transmitted by genes on the X chromosome, and people with two X chromosomes are typically only carriers rather than affected by these X-linked recessive conditions.[citation needed]
+Cognitive and developmental
+
+Some degree of language learning or reading impairment may be present,[25] and neuropsychological testing often reveals deficits in executive functions, although these deficits can often be overcome through early intervention.[26] Also, delays in motor development may occur, which can be addressed through occupational and physical therapies.[27] XXY males may sit up, crawl, and walk later than other infants; they may also struggle in school, both academically and with sports.[15]
+Cause
+Birth of a cell with karyotype XXY due to a nondisjunction event of one X chromosome from a Y chromosome during meiosis I in the male
+Birth of a cell with karyotype XXY due to a nondisjunction event of one X chromosome during meiosis II in the female
+
+The extra chromosome is retained because of a nondisjunction event during paternal or maternal meiosis I (gametogenesis). Nondisjunction occurs when homologous chromosomes, in this case the X and Y or two X sex chromosomes, fail to separate, producing a sperm with an X and a Y chromosome or an egg with two X chromosomes. Fertilizing a normal (X) egg with this sperm produces an XXY offspring (Klinefelter). Fertilizing a double X egg with a normal sperm also produces an XXY offspring (Klinefelter).[28]
+
+Another mechanism for retaining the extra chromosome is through a nondisjunction event during meiosis II in the egg. Nondisjunction occurs when sister chromatids on the sex chromosome, in this case an X and an X, fail to separate. An XX egg is produced, which when fertilized with a Y sperm, yields an XXY offspring. This XXY chromosome arrangement is one of the most common genetic variations from the XY karyotype, occurring in about one in 500 live male births.[15] See also Triple X syndrome.
+
+In mammals with more than one X chromosome, the genes on all but one X chromosome are not expressed; this is known as X inactivation. This happens in XXY males, as well as normal XX females.[29] However, in XXY males, a few genes located in the pseudoautosomal regions of their X chromosomes have corresponding genes on their Y chromosome and are capable of being expressed.[30]
+Variations
+
+48,XXYY and 48,XXXY occur in one in 18,000–50,000 male births. The incidence of 49,XXXXY is one in 85,000 to 100,000 male births.[31] These variations are extremely rare. Additional chromosomal material can contribute to cardiac, neurological, orthopedic, and other anomalies.
+
+Males with KS may have a mosaic 47XXY/46,XY constitutional karyotype and varying degrees of spermatogenic failure. Mosaicism 47XXY/46,XX with clinical features suggestive of KS is very rare. Thus far, only about 10 cases have been described in literature.[32]
+
+Analogous XXY syndromes are known to occur in cats—specifically, the presence of calico or tortoiseshell markings in male cats is an indicator of the relevant abnormal karyotype. As such, male cats with calico or tortoiseshell markings are a model organism for KS, because a color gene involved in cat tabby coloration is on the X chromosome.[33]
+Diagnosis
+
+Timing of diagnosis
+  0–9 years (1%)
+  10–19 years (10%)
+  20–29 years (18%)
+  30–39 years (20%)
+  40–49 years (21%)
+  50–59 years (18%)
+  60–69 years (12%)
+
+About 10% of KS cases are found by prenatal diagnosis.[34] The first clinical features may appear in early childhood, or more frequently, during puberty, such as lack of secondary sexual characteristics and aspermatogenesis.[35] Despite the presence of small testes, only a quarter of the affected males are recognized as having KS at puberty.[36][37] Another quarter receive their diagnosis in late adulthood. Often, the diagnosis is made incidentally as a result of examinations and medical visits for reasons not linked to the condition.[38]
+
+The standard diagnostic method is the analysis of the chromosomes' karyotype on lymphocytes. In the past, the observation of the Barr body was common practice, as well.[37] To confirm mosaicism, analysis of the karyotype using dermal fibroblasts or testicular tissue is also possible.[39]
+
+Other methods may include research of high serum levels of gonadotropins (follicle-stimulating hormone and luteinizing hormone), presence of azoospermia, determination of the sex chromatin,[40] and prenatally via chorionic villus sampling or amniocentesis. A 1999 literature review of elective abortion rates found that about 58% of pregnancies in the United States with a diagnosis of KS were terminated.[41]
+Differential diagnosis
+
+The symptoms of KS are often variable; therefore, a karyotype analysis should be ordered when small testes, infertility, gynecomastia, long arms/legs, developmental delay, speech/language deficits, learning disabilities/academic issues, and/or behavioral issues are present in an individual.[10] The differential diagnosis for KS can include fragile X syndrome, Kallmann syndrome, and Marfan syndrome. The cause of hypogonadism can be attributed to many other different medical conditions.
+
+Some individuals have been reported with KS who also have other chromosome abnormalities, such as Down syndrome.[42]
+Treatment
+
+The genetic variation is irreversible, but individuals who want to look more masculine can take testosterone.[43] Treating adolescents with implants of controlled-release testosterone has shown good results when appropriately monitored.[44] Hormone therapy is also useful in preventing the onset of osteoporosis.
+
+Often, individuals who have noticeable breast tissue or hypogonadism experience depression and/or social anxiety because they are outside of social norms. An academic term for this is psychosocial morbidity.[45] At least one study indicates that planned and timed support should be provided for young men with KS to ameliorate current poor psychosocial outcomes.[45] The surgical removal of the breasts may be considered for both the psychological reasons and to reduce the risk of breast cancer.[46]
+
+The use of behavioral therapy can mitigate any language disorders, difficulties at school, and socialization. An approach by occupational therapy is useful in children, especially those who have dyspraxia.[47]
+Infertility treatment
+Intracytoplasmic sperm injection.
+
+By 2010, over 100 successful pregnancies have been reported using IVF technology with surgically removed sperm material from males with KS.[48] Microdissection testicular sperm extraction in adult men with Klinefelter syndrome reported success rates up to 45%.[49]
+Prognosis
+
+Children with XXY differ little from other children. Although they can face problems during adolescence, often emotional and behavioral, and difficulties at school, most of them can achieve full independence from their families in adulthood. Most can lead a normal, healthy life.[citation needed]
+
+The results of a study carried out on 87 Australian adults with the syndrome show that those who have had a diagnosis and appropriate treatment from a very young age had a significant benefit compared to those who had been diagnosed in adulthood.[50]
+
+Some research suggests KS substantially decreases life expectancy among affected individuals, though the evidence is not definitive.[51] A 1985 publication identified a greater mortality mainly due to diseases of the aortic valve, development of tumors, and possible subarachnoid hemorrhages, reducing life expectancy by about 5 years.[52] Later studies have reduced this estimated reduction to an average of 2.1 years.[53] These results are still questioned data, are not absolute, and need further testing.[51]
+Epidemiology
+
+This syndrome, evenly distributed in all ethnic groups, has a prevalence of one to two subjects per every 1000 males in the general population.[36][54][55][56] 3.1% of infertile males have Klinefelter syndrome. The syndrome is also the main cause of male hypogonadism.[57]
+
+According to a 2008 meta-analysis, the prevalence of the syndrome has increased over the past decades; however, this does not appear to be related to increased age of the mother at conception, as no increase was observed in the rates of other trisomies of sex chromosomes (XXX and XYY).[58] The National Institutes of Health, however, state that older mothers might have a slightly increased risk.[4]
+History
+
+The syndrome was named after Harry Klinefelter, who in 1942 worked with Fuller Albright and E. C. Reifenstein at Massachusetts General Hospital in Boston, Massachusetts, and first described it in the same year.[17][35] The account given by Klinefelter came to be known as Klinefelter syndrome as his name appeared first on the published paper, and seminiferous tubule dysgenesis was no longer used. Considering the names of all three researchers, it is sometimes also called Klinefelter-Reifenstein-Albright syndrome.[59]
+
+In 1956 it was discovered that Klinefelter syndrome resulted from an extra chromosome.[13] Plunkett and Barr found the sex chromatin body in cell nuclei of the body.[60] This was further clarified as XXY in 1959 by Patricia Jacobs and John Anderson Strong.[61]
+
+The first published report of a man with a 47XXY karyotype was by Patricia Jacobs and John Strong at Western General Hospital in Edinburgh, Scotland, in 1959.[62] This karyotype was found in a 24-year-old man who had signs of KS. Jacobs described her discovery of this first reported human or mammalian chromosome aneuploidy in her 1981 William Allan Memorial Award address.[63]
+Other animals
+
+Klinefelter syndrome can also occur in other animals. In cats it can result in a male tortoiseshell and calico cat (patches of different colored fur), a pattern that is usually only seen in female cats.[64]
+See also
+
+    Aneuploidy
+    Intersex
+    True hermaphroditism
+    Turner syndrome
+    XYY syndrome
+    XXYY syndrome

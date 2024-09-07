@@ -1,0 +1,157 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN Rabies|Disease disambiguation|NN
+use|NN disambiguation|NN
+Rabies|Disease dog|NN Rabies|Disease dog|NN Rabies|Disease post-furious|NN stage|NN disease|NN symptom|NN fever|NN fear|NN water|NN confusion|NN salivation|NN hallucination|NN trouble|NN sleep|NN paralysis|NN coma|NN cause|NN Rabies|Disease virus|NN bat|NN prevention|NN Rabies|Disease vaccine|NN animal|NN control|NN Rabies|Disease immunoglobulin|NN death|NN death|NN
+Rabies|Disease disease|NN inflammation|NN brain|NN human|NN mammal|NN symptom|NN fever|NN tingle|NN site|NN exposure|NN symptom|NN symptom|NN movement|NN excitement|NN fear|NN water|NN inability|NN part|NN body|NN confusion|NN loss|NN consciousness|NN symptom|NN result|NN death|NN time|NN period|NN disease|NN start|NN symptom|NN month|NN week|NN year|NN time|NN distance|NN virus|NN nerve|NN system|NN
+Rabies|Disease lyssaviruse|NN Rabies|Disease virus|NN bat|NN animal|NN scratche|NN bite|NN animal|NN saliva|NN animal|NN Rabies|Disease saliva|NN contact|NN eye|NN mouth|NN nose|NN dog|NN animal|NN Rabies|Disease case|NN country|NN dog|NN disease|NN result|NN dog|NN bite|NN americas|NP bat|NN bite|NN source|NN Rabies|Disease infection|NN human|NN case|NN dog|NN Rabies|Disease disease|NN start|NN symptom|NN
+animal|NN control|NN vaccination|NN program|NN risk|NN Rabies|Disease dog|NN number|NN region|NN world|NN people|NN risk|NN bat|NN period|NN area|NN world|NN Rabies|Disease people|NN Rabies|Disease Rabies|Disease vaccine|NN Rabies|Disease immunoglobulin|NN disease|NN person|NN treatment|NN start|NN Rabies|Disease symptom|NN bite|NN scratche|NN minute|NN soap|NN water|NN detergent|NN number|NN particle|NN transmission|NN people|NN Rabies|Disease infection|NN symptom|NN
+Rabies|Disease death|NN death|NN Rabies|Disease africa|NP asia|NP death|NN children|NN age|NN Rabies|Disease country|NN continent|NN antarctica|NP people|NN region|NN world|NN Rabies|Disease number|NN country|NN australia|NP japan|NP europe|NP Rabies|Disease dog|NN pacific|NP island|NN Rabies|Disease disease|NN content|NN
+sign|NN symptom|NN fear|NN water|NN cause|NN transmission|NN diagnosis|NN diagnosis|NN prevention|NN animal|NN treatment|NN milwaukee|NP protocol|NN epidemiology|NN india|NP australia|NP united|NP states|NP europe|NP history|NN milwaukee|NP protocol|NN animal|NN research|NN reference|NN link|NN
+sign|NN symptom|NN person|NN Rabies|Disease
+period|NN infection|NN symptom|NN incubation|NN period|NN month|NN human|NN incubation|NN period|NN day|NN year|NN location|NN severity|NN wound|NN amount|NN virus|NN sign|NN symptom|NN Rabies|Disease fever|NN headache|NN Rabies|Disease inflammation|NN brain|NN sign|NN symptom|NN paralysis|NN anxiety|NN insomnia|NN confusion|NN agitation|NN behavior|NN paranoia|NN terror|NN hallucination|NN delirium|NN coma|NN person|NN death|NN day|NN symptom|NN
+survival|NN symptom|NN administration|NN care|NN fear|NN water|NN dog|NN
+fear|NN water|NN name|NN Rabies|Disease set|NN symptom|NN stage|NN infection|NN person|NN difficulty|NN swallow|NN panic|NN liquid|NN drink|NN thirst|NN
+mammal|NN virus|NN
+production|NN attempt|NN drink|NN intention|NN suggestion|NN drink|NN spasm|NN muscle|NN throat|NN larynx|NN
+fact|NN virus|NN gland|NN animal|NN effect|NN transmission|NN
+ability|NN virus|NN individual|NN saliva|NN water|NN
+Rabies|Disease Rabies|Disease people|NN
+form|NN Rabies|Disease muscle|NN weakness|NN loss|NN sensation|NN paralysis|NN form|NN Rabies|Disease fear|NN water|NN cause|NN draw|NN Rabies|Disease virus|NN
+tem|NP micrograph|NN Rabies|Disease rodlike|NN particle|NN body|NN inclusion|NN Rabies|Disease infection|NN
+Rabies|Disease number|NN lyssaviruse|NN Rabies|Disease virus|NN bat|NN
+Rabies|Disease virus|NN type|NN specy|NN genus|NN family|NN order|NN
+symmetry|NN length|NN cross-section|NN virion|NN rna|NN genome|NN sense|NN
+information|NN complex|NN rna|NN nucleoprotein|NN
+rna|NN genome|NN virus|NN gene|NN order|NN n|NP p|NP matrix|NN protein|NN m|NN glycoprotein|NN g|NP rna|NN polymerase|NN l|NP
+muscle|NN nerve|NN cell|NN virus|NN replication|NN
+spike|NN exterior|NN membrane|NN virus|NN cell|NN receptor|NN acetylcholine|NN receptor|NN
+membrane|NN pinche|NN procession|NN pinocytosis|NN entry|NN virus|NN cell|NN way|NN endosome|NN
+virus|NN environment|NN endosome|NN membrane|NN protein|NN strand|NN rna|NN cytoplasm|NN
+l|NP protein|NN mrna|NN strand|NN strand|NN rna|NN strand|NN rna|NN nucleotide|NN cytoplasm|NN
+mrna|NN strand|NN protein|NN protein|NN ribosome|NN cytoplasm|NN
+protein|NN modification|NN
+example|NN g|NP protein|NN travel|NN reticulum|NN apparatus|NN sugar|NN group|NN glycosylation|NN
+protein|NN polymerase|NN strand|NN rna|NN template|NN strand|NN rna|NN
+strand|NN complexe|NN protein|NN membrane|NN cell|NN g|NP protein|NN membrane|NN
+g|NP protein|NN coil|NN complex|NN protein|NN host|NN cell|NN membrane|NN envelope|NN virus|NN particle|NN
+virus|NN bud|NN cell|NN
+point|NN entry|NN virus|NN pathway|NN system|NN
+virus|NN muscle|NN cell|NN site|NN infection|NN host|NN system|NN
+virus|NN acetylcholine|NN receptor|NN junction|NN virus|NN nerve|NN cell|NN axon|NN retrograde|NN transport|NN p|NP protein|NN protein|NN present|NN cytoplasm|NN nerve|NN cell|NN
+virus|NN cell|NN body|NN system|NN cns|NP motor|NN neuron|NN brain|NN brain|NN virus|NN travel|NN system|NN gland|NN host317|NN transmission|NN article|NN Rabies|Disease transmission|NN
+specy|NN human|NN Rabies|Disease virus|NN symptom|NN
+birds|NP Rabies|Disease bird|NN bird|NN specy|NN Rabies|Disease antibody|NN sign|NN infection|NN Rabies|Disease mammal|NN
+virus|NN cell|NN vertebrate|NN animal|NN virus|NN disease|NN human|NN
+bat|NN monkey|NN foxe|NN cattle|NN wolve|NN coyote|NN dog|NN cat|NN mongoose|NN mongoose|NN mongoose|NN present|NN risk|NN human|NN
+Rabies|Disease exposure|NN bear|NN farm|NN animal|NN weasel|NN carnivoran|NN
+hare|NN rabbit|NN rodent|NN gerbil|NN guinea|NN pig|NN hamster|NN mice|NN rat|NN squirrel|NN Rabies|Disease Rabies|Disease human|NN bite|NN mice|NN rat|NN squirrel|NN Rabies|Disease prevention|NN rodent|NN encounter|NN animal|NN carrier|NN virginia|NP opossum|NN Rabies|Disease
+virus|NN nerve|NN saliva|NN animal|NN route|NN infection|NN bite|NN
+case|NN animal|NN provocation|NN exhibit|NN behavior|NN example|NN pathogen|NN behavior|NN host|NN transmission|NN host|NN
+transmission|NN human|NN
+case|NN transplant|NN surgery|NN case|NN Rabies|Disease transmission|NN recipient|NN cornea|NN recipient|NN organ|NN addition|NN transmission|NN cornea|NN organ|NN transplant|NN bite|NN non-bite|NN exposure|NN human|NN Rabies|Disease case|NN human|NN precaution|NN
+contact|NN person|NN Rabies|Disease contact|NN fluid|NN tissue|NN urine|NN blood|NN exposure|NN prophylaxis|NN
+virus|NN sperm|NN secretion|NN sex|NN
+infection|NN bite|NN virus|NN system|NN
+nerve|NN system|NN phase|NN virus|NN host|NN vaccination|NN immunity|NN Rabies|Disease
+virus|NN brain|NN encephalitis|NN phase|NN begine|NN symptom|NN
+patient|NN treatment|NN mortality|NN
+Rabies|Disease cord|NN diagnosis|NN
+Rabies|Disease stage|NN disease|NN aggressiveness|NN reference|NN method|NN Rabies|Disease antibody|NN test|NN fat|NN immunohistochemistry|NN procedure|NN world|NN health|NN organization|NN fat|NN ability|NN detector|NN molecule|NN fluorescein|NN Rabies|Disease antibody|NN conjugate|NN visualisation|NN Rabies|Disease antigen|NN microscopy|NN technique|NN
+analysis|NN sample|NN method|NN identification|NN Rabies|Disease antigen|NN time|NN cost|NN origin|NN status|NN host|NN
+step|NN procedure|NN laboratory|NN
+sample|NN sensitivity|NN specificity|NN fat|NN rt|NP pcr|NP assay|NN tool|NN routine|NN purpose|NN sample|NN specimen|NN diagnosis|NN brain|NN sample|NN death|NN
+diagnosis|NN saliva|NN urine|NN fluid|NN sample|NN brain|NN sample|NN inclusion|NN body|NN body|NN Rabies|Disease infection|NN case|NN animal|NN bite|NN Rabies|Disease
+microscopy|NN technique|NN Rabies|Disease cost|NN fluorescence|NN microscopy|NN technique|NN identification|NN disease|NN country|NN test|NN Rabies|Disease ln34|NN animal|NN brain|NN prevention|NN test|NN cdc|NP diagnosis|NN
+diagnosis|NN case|NN Rabies|Disease cause|NN encephalitis|NN infection|NN viruse|NN enteroviruse|NN west|NP nile|NP virus|NN
+viruse|NN herpe|NN simplex|NN virus|NN type|NN virus|NN echoviruse|NN enteroviruse|NN
+cause|NN encephalitis|NN outbreak|NN malaysia|NP case|NN encephalitis|NN mortality|NN rate|NN virus|NN viruse|NN locale|NN outbreak|NN encephalitis|NN west|NP nile|NP virus|NN united|NP states|NP factor|NN season|NN location|NN patient|NN age|NN travel|NN history|NN exposure|NN bite|NN rodent|NN tick|NN diagnosis|NN
+prevention|NN information|NN dog|NN bite|NN prevention|NN
+case|NN Rabies|Disease vaccine|NN louis|NP pasteur|NP mile|NN roux|NN
+vaccine|NN rabbit|NN virus|NN nerve|NN tissue|NN day|NN nerve|NN vaccine|NN country|NN cell|NN culture|NN vaccine|NN
+cell|NN Rabies|Disease vaccine|NN
+chicken|NN embryo|NN cell|NN vaccine|NN cell|NN Rabies|Disease vaccine|NN vaccine|NN belgium|NP france|NP germany|NP united|NP states|NP outbreak|NN Rabies|Disease animal|NN exposure|NN population|NN jurisdiction|NN animal|NN
+missouri|NP department|NN health|NN service|NN disease|NN surveillance|NN report|NN follow|NN risk|NN Rabies|Disease
+dog|NN cat|NN ferret|NN Rabies|Disease pet|NN supervision|NN animal|NN stray|NN animal|NN control|NN officer|NN animal|NN stray|NN animal|NN animal|NN wound|NN soap|NN water|NN minute|NN healthcare|NN provider|NN prophylaxis|NN
+september|NP world|NN Rabies|Disease day|NN information|NN prevention|NN elimination|NN disease|NN animal|NN
+asia|NP part|NN americas|NP africa|NP dog|NN host|NN
+vaccination|NN animal|NN area|NN
+country|NN pet|NN destruction|NN
+vaccine|NN bait|NN practice|NN Rabies|Disease area|NN canada|NP france|NP united|NP states|NP
+montreal|NP quebec|NP canada|NP bait|NN raccoon|NN park|NN area|NN
+vaccination|NN campaign|NN analysis|NN bait|NN method|NN control|NN ontario|NP drop|NN Rabies|Disease bait-vaccination|NN campaign|NN
+number|NN death|NN Rabies|Disease united|NP states|NP century|NN year|NN vaccination|NN dog|NN cat|NN development|NN vaccine|NN immunoglobulin|NN treatment|NN
+death|NN result|NN bat|NN bite|NN victim|NN treatment|NN
+treatment|NN exposure|NN disease|NN day|NN infection|NN wound|NN soap|NN water|NN minute|NN number|NN particle|NN alcohol|NN virus|NN
+center|NN disease|NN control|NN prevention|NN people|NN dose|NN Rabies|Disease immunoglobulin|NN dose|NN Rabies|Disease vaccine|NN period|NN immunoglobulin|NN dose|NN unit|NN kilogram|NN body|NN weight|NN
+cost|NN post|NN exposure|NN treatment|NN dollar|NN dose|NN bite|NN remainder|NN injection|NN site|NN vaccination|NN site|NN
+dose|NN Rabies|Disease vaccine|NN exposure|NN dose|NN day|NN
+patient|NN pre-exposure|NN vaccination|NN immunoglobulin|NN vaccination|NN day|NN
+pain|NN side|NN effect|NN cell-base|NN vaccine|NN flu|NN shot|NN
+nerve-tissue-base|NN vaccination|NN injection|NN abdomen|NN needle|NN world|NN health|NN organization|NN regimen|NN
+vaccination|NN deltoid|NN area|NN vaccination|NN failure|NN injection|NN fat|NN muscle|NN
+infant|NN thigh|NN
+awaken|NN bat|NN room|NN bat|NN room|NN child|NN person|NN indication|NN prophylaxis|NN pep|NN
+recommendation|NN use|NN pep|NN bat|NN encounter|NN contact|NN literature|NN analysis|NN study|NN protocol|NN administer|NN pep|NN child|NN individual|NN bat|NN sleep|NN area|NN bite|NN exposure|NN victim|NN delay|NN pep|NN Rabies|Disease case|NN delay|NN pep|NN treatment|NN year|NN people|NN vaccination|NN exposure|NN
+cost|NN milwaukee|NP protocol|NN
+milwaukee|NP protocol|NN wisconsin|NP protocol|NN method|NN treatment|NN Rabies|Disease infection|NN
+treatment|NN person|NN coma|NN drug|NN
+giese|NN patient|NN milwaukee|NP protocol|NN person|NN Rabies|Disease prophylaxis|NN
+analysis|NN protocol|NN survival|NN rate|NN protocol|NN treatment|NN Rabies|Disease use|NN
+human|NN Rabies|Disease symptom|NN
+vaccination|NN exposure|NN pep|NN disease|NN general|NN day|NN infection|NN
+delay|NN pep|NN Rabies|Disease case|NN delay|NN pep|NN treatment|NN chance|NN success|NN epidemiology|NN article|NN prevalence|NN Rabies|Disease death|NN Rabies|Disease person|NN 2012|NP Rabies|Disease country|NN green|NN
+year|NN Rabies|Disease elimination|NN
+26000|NN people|NN Rabies|Disease 54000|NN majority|NN death|NN asia|NP africa|NP india|NP china|NP republic|NN congo|NP 5600|NP case|NN collaboration|NN world|NN health|NN organization|NN world|NN organization|NN animal|NN health|NN food|NN agriculture|NN organization|NN nation|NN fao|NP alliance|NN Rabies|Disease control|NN goal|NN death|NN Rabies|Disease india|NP
+india|NP rate|NN Rabies|Disease world|NN dog|NN number|NN law|NN kill|NN dog|NN control|NN treatment|NN Rabies|Disease india|NP form|NN hysteria|NN puppy|NN pregnancy|NN syndrome|NN pp|NN
+dog|NN bite|NN victim|NN pp|NN female|NN puppy|NN help|NN faith|NN healer|NN service|NN people|NN year|NN Rabies|Disease india|NP total|NN australia|NP
+Rabies|Disease virus|NN animal|NN reservoir|NN
+official|NN Rabies|Disease status|NN bat|NN ablv|NN strain|NN Rabies|Disease bat|NN population|NN
+case|NN ablv|NN australia|NP
+united|NP states|NP
+section|NN citation|NN verification|NN
+article|NN citation|NN source|NN
+source|NN Rabies|Disease new|NN newspaper|NN book|NN scholar|NN june|NP template|NN message|NN Rabies|Disease case|NN human|NN animal|NN united|NP states|NP
+total|NN Rabies|Disease case|NN united|NP states|NP dog|NN bite|NN travel|NN infection|NN united|NP states|NP bat|NN
+Rabies|Disease dog|NN dog|NN wildlife|NN year|NN Rabies|Disease animal|NN united|NP states|NP
+bat|NN skunk|NN foxe|NN account|NN case|NN
+bat|NN state|NN
+reservoir|NN example|NN raccoon|NN Rabies|Disease virus|NN variant|NN band|NN east|NN coast|NN
+awareness|NN virus|NN effort|NN vaccination|NN animal|NN curtailment|NN population|NN availability|NN prophylaxis|NN incidence|NN Rabies|Disease human|NN
+total|NN case|NN disease|NN country|NN
+case|NN bat|NN bite|NN europe|NP
+case|NN Rabies|Disease year|NN europe|NP case|NN travel|NN europe|NP
+switzerland|NP disease|NN scientist|NN chicken|NN head|NN vaccine|NN alps|NP foxe|NN switzerland|NP source|NN Rabies|Disease country|NN chicken|NN head|NN immunize|NN
+italy|NP Rabies|Disease -free|NN 2008|NP reemergence|NN disease|NN animal|NN region|NN veneto|NP friuli-venezia|NP giulia|NP spread|NN epidemic|NN balkans|NP austria|NP
+animal|NN vaccination|NN campaign|NN virus|NN italy|NP Rabies|Disease country|NN status|NN 2013|NN case|NN Rabies|Disease fox|NN
+great|NP britain|NP Rabies|Disease begine|NN century|NN Rabies|Disease virus|NN bat|NN case|NN transmission|NN
+death|NN Rabies|Disease dog|NN bite|NN
+infection|NN uk|NP death|NN Rabies|Disease country|NN europe|NP island|NN quarantine|NN procedure|NN
+history|NN woodcut|NN age|NN dog|NN
+franois|NP boissier|NP de|NP de|NP lacroix|NP della|NP della|NN dissertation|NN nature|NN cause|NN rage|NN
+Rabies|Disease record|NN Rabies|Disease codex|NN owner|NN dog|NN symptom|NN Rabies|Disease measure|NN bite|NN
+person|NN dog|NN owner|NN
+folk|NN remedy|NN literature|NN world|NN
+physician|NN poultice|NN cloth|NN hyena|NN skin|NN preparation|NN skull|NN man|NN
+Rabies|Disease world|NN epizootic|NN world|NN boston|NP year|NN state|NN west|NN indies|NP north|NP america|NP
+Rabies|Disease scourge|NN prevalence|NN century|NN
+france|NP belgium|NP saint|NP hubert|NP st|NP hubert|NN key|NN wound|NN
+application|NN think|NN dog|NN key|NN hope|NN Rabies|Disease
+fear|NN Rabies|Disease due|NN number|NN vector|NN dog|NN absence|NN treatment|NN
+person|NN dog|NN suicide|NN
+time|NN attachment|NN tongue|NN lingual|NN mucous|NN membrane|NN Rabies|Disease
+practice|NN discovery|NN cause|NN Rabies|Disease louis|NP nerve|NN tissue|NN vaccine|NN side-effect|NN
+time|NN fear|NN Rabies|Disease disease|NN symptom|NN agitation|NN inspiration|NN work|NN zombie|NN fiction|NN Rabies|Disease virus|NN human|NN rage|NN illness|NN milwaukee|NP protocol|NN
+milwaukee|NP protocol|NN rodney|NP willoughby|NP jr|NP use|NN treatment|NN giese|NN teenager|NN wisconsin|NP patient|NN Rabies|Disease Rabies|Disease vaccine|NN case|NN advocacy|NN milwaukee|NP protocol|NN
+research|NN milwaukee|NP protocol|NN treatment|NN Rabies|Disease infection|NN use|NN
+term|NN Rabies|Disease madness|NN turn|NN sanskrit|NN greek|NN word|NN lud|NN root|NN genus|NN name|NN Rabies|Disease virus|NN animal|NN article|NN Rabies|Disease animal|NN
+Rabies|Disease mammal|NN stage|NN system|NN infection|NN
+stage|NN one-|NN period|NN change|NN stage|NN
+second|NN stage|NN day|NN
+stage|NN Rabies|Disease tendency|NN animal|NN stimuly|NN bite|NN
+stage|NN damage|NN motor|NN neuron|NN
+limb|NN paralysis|NN drool|NN difficulty|NN swallow|NN paralysis|NN throat|NN muscle|NN
+death|NN arrest|NN research|NN
+shell|NN Rabies|Disease virus|NN rna|NN content|NN disease|NN vector|NN delivery|NN material|NN research|NN set|NN
+advantage|NN method|NN gene|NN delivery|NN cell|NN target|NN tissue|NN tropism|NN system|NN site|NN need|NN delivery|NN method|NN
+cell|NN cell|NN axon|NN synapse|NN retrograde|NN trace|NN circuit|NN
+evidence|NN permeability|NN barrier|NN cell|NN clearance|NN
+alliance|NN Rabies|Disease control|NN Rabies|Disease haiti|NP Rabies|Disease culture|NN world|NN Rabies|Disease day|NN

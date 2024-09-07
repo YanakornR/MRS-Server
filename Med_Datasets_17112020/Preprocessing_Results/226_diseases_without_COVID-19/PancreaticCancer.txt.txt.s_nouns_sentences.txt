@@ -1,0 +1,210 @@
+encyclopedia|NN cancer|NN jump|NN navigation|NN jump|NN search|NN Pancreatic cancer|Disease diagram|NN position|NN pancrea|NN diagram|NN position|NN pancrea|NN stomach|NN
+oncology|NN symptom|NN skin|NN pain|NN weight|NN loss|NN stool|NN urine|NN loss|NN appetite|NN onset|NN year|NN risk|NN factor|NN tobacco|NN smoke|NN obesity|NN diabete|NN condition|NN method|NN image|NN blood|NN test|NN tissue|NN biopsy|NN prevention|NN smoke|NN weight|NN meat|NN diet|NN treatment|NN surgery|NN radiotherapy|NN chemotherapy|NN care|NN year|NN survival|NN rate|NN frequency|NN death|NN
+Pancreatic cancer|Disease cell|NN pancrea|NN organ|NN stomach|NN control|NN mass|NN
+cell|NN ability|NN part|NN body|NN number|NN type|NN Pancreatic cancer|Disease adenocarcinoma|NN account|NN case|NN term|NN Pancreatic cancer|Disease type|NN adenocarcinoma|NN part|NN pancrea|NN enzyme|NN type|NN cancer|NN majority|NN non-adenocarcinoma|NN cell|NN percent|NN case|NN Pancreatic cancer|Disease cell|NN pancrea|NN adenocarcinoma|NN
+sign|NN symptom|NN form|NN Pancreatic cancer|Disease skin|NN pain|NN weight|NN loss|NN stool|NN urine|NN loss|NN appetite|NN symptom|NN disease|NN stage|NN symptom|NN Pancreatic cancer|Disease disease|NN stage|NN time|NN diagnosis|NN Pancreatic cancer|Disease part|NN body|NN
+Pancreatic cancer|Disease age|NN case|NN adenocarcinoma|NN risk|NN factor|NN Pancreatic cancer|Disease tobacco|NN smoke|NN obesity|NN diabete|NN condition|NN case|NN smoke|NN gene|NN Pancreatic cancer|Disease combination|NN image|NN technique|NN ultrasound|NN tomography|NN blood|NN test|NN examination|NN tissue|NN sample|NN biopsy|NN disease|NN stage|NN stage|NN stage|NN screen|NN population|NN
+risk|NN Pancreatic cancer|Disease non-smoker|NN people|NN weight|NN consumption|NN red|NN meat|NN smoker|NN chance|NN disease|NN smoke|NN rest|NN population|NN year|NN Pancreatic cancer|Disease surgery|NN radiotherapy|NN chemotherapy|NN care|NN combination|NN treatment|NN option|NN cancer|NN stage|NN surgery|NN treatment|NN adenocarcinoma|NN quality|NN life|NN potential|NN cure|NN pain|NN management|NN medication|NN digestion|NN care|NN treatment|NN cure|NN
+Pancreatic cancer|Disease type|NN death|NN Pancreatic cancer|Disease most-common|NN cause|NN death|NN cancer|NN kingdom|NN most-common|NN united|NP states|NP disease|NN world|NN case|NN 2012|NP adenocarcinoma|NN prognosis|NN diagnosis|NN people|NN year|NN year|NN cancer|NN survival|NN rate|NN rise|NN cancer|NN outcome|NN year|NN diagnosis|NN survival|NN type|NN tumor|NN content|NN
+type|NN cancer|NN sign|NN symptom|NN find|NN symptom|NN spread|NN risk|NN factor|NN alcohol|NN cancer|NN diagnosis|NN cancer|NN prevention|NN screen|NN management|NN cancer|NN care|NN outcome|NN distribution|NN history|NN research|NN direction|NN reference|NN link|NN
+type|NN pancrea|NN function|NN cell|NN islet|NN langerhan|NN cell|NN
+Pancreatic cancer|Disease function|NN
+type|NN Pancreatic cancer|Disease group|NN
+majority|NN case|NN part|NN pancrea|NN enzyme|NN component|NN
+sub-type|NN Pancreatic cancer|Disease diagnosis|NN treatment|NN
+minority|NN cancer|NN tissue|NN pancrea|NN characteristics|NN neuroendocrine|NN
+group|NN people|NN men|NN sub-type|NN women|NN children|NN cancer|NN
+group|NN adenocarcinoma|NN variation|NN name|NN type|NN Pancreatic cancer|Disease start|NN duct|NN pancrea|NN adenocarcinoma|NN fact|NN tissue|NN ductal|NN epithelium|NN pancrea|NN cell|NN volume|NN duct|NN duct-system|NN pancrea|NN cancer|NN duct|NN secretion|NN enzyme|NN bicarbonate|NN pancrea|NN
+adenocarcinoma|NN head|NN pancrea|NN
+type|NN cell|NN carcinoma|NN pancrea|NN cluster|NN cell|NN enzyme|NN pancrea|NN cancer|NN function|NN cancer|NN cell|NN carcinoma|NN over-production|NN molecule|NN case|NN enzyme|NN symptom|NN skin|NN rashe|NN pain|NN
+account|NN Pancreatic cancer|Disease prognosis|NN type|NN
+form|NN childhood|NN prognosis|NN
+cancer|NN carcinoma|NN signet|NN ring|NN cell|NN carcinoma|NN carcinoma|NN colloid|NN carcinoma|NN carcinoma|NN carcinoma|NN cell|NN
+pseudopapillary|NN tumor|NN neoplasm|NN women|NN prognosis|NN
+neoplasm|NN group|NN pancrea|NN potential|NN
+rate|NN ct|NN scan|NN discussion|NN article|NN neuroendocrine|NN tumor|NN
+minority|NN tumor|NN pancrea|NN pannet|NN net|NN group|NN tumor|NN body|NN cell|NN system|NN
+organ|NN body|NN pancrea|NN type|NN
+function|NN non-function|NN type|NN degree|NN hormone|NN
+function|NN type|NN hormone|NN insulin|NN gastrin|NN glucagon|NN bloodstream|NN quantity|NN rise|NN symptom|NN blood|NN sugar|NN detection|NN
+function|NN hormone|NN
+type|NN hormone|NN quantity|NN rise|NN symptom|NN
+reason|NN cancer|NN part|NN body|NN
+neuroendocrine|NN history|NN terminology|NN classification|NN pannet|NN islet|NN cell|NN cancer|NN islet|NN cell|NN thought|NN sign|NN symptom|NN symptom|NN obstruction|NN tumor|NN
+Pancreatic cancer|Disease symptom|NN stage|NN disease|NN pancrea|NN reason|NN survival|NN rate|NN
+exception|NN function|NN over-production|NN hormone|NN rise|NN symptom|NN type|NN hormone|NN
+mind|NN disease|NN age|NN symptom|NN adenocarcinoma|NN diagnosis|NN
+pain|NN abdomen|NN back|NN stomach|NN back|NN
+location|NN pain|NN part|NN pancrea|NN tumor|NN
+pain|NN night|NN time|NN
+uk|NP case|NN Pancreatic cancer|Disease visit|NN hospital|NN emergency|NN department|NN pain|NN jaundice|NN
+people|NN pain|NN symptom|NN total|NN jaundice|NN jaundice|NN pain|NN tint|NN white|NN eye|NN skin|NN pain|NN combination|NN urine|NN
+result|NN cancer|NN head|NN pancrea|NN bile|NN duct|NN pancrea|NN weight|NN loss|NN loss|NN appetite|NN loss|NN function|NN digestion|NN tumor|NN organ|NN process|NN stomach|NN nausea|NN feel|NN fullness|NN
+fat|NN fece|NN constipation|NN people|NN adenocarcinoma|NN diabete|NN time|NN diagnosis|NN diabete|NN risk|NN factor|NN Pancreatic cancer|Disease risk|NN factor|NN cancer|NN diabete|NN case|NN onset|NN diabete|NN sign|NN disease|NN people|NN diabete|NN time|NN risk|NN adenocarcinoma|NN year|NN risk|NN
+syndrome|NN blood|NN form|NN portal|NN blood|NN vessel|NN vein|NN extremity|NN vein|NN body|NN Pancreatic cancer|Disease case|NN depression|NN association|NN Pancreatic cancer|Disease case|NN hindrance|NN management|NN
+depression|NN diagnosis|NN cancer|NN biology|NN disease|NN
+manifestation|NN disease|NN weakness|NN mouth|NN sleep|NN problem|NN mass|NN symptom|NN spread|NN cross|NN section|NN liver|NN autopsy|NN tumor|NN deposit|NN Pancreatic cancer|Disease
+spread|NN Pancreatic cancer|Disease organ|NN metastasis|NN symptom|NN
+adenocarcinoma|NN lymph|NN node|NN liver|NN cavity|NN intestine|NN lung|NN bone|NN brain|NN
+pancrea|NN cancer|NN part|NN body|NN
+case|NN Pancreatic cancer|Disease
+kidney|NN cancer|NN cancer|NN spread|NN pancrea|NN cancer|NN cancer|NN skin|NN breast|NN lung|NN
+surgery|NN pancrea|NN case|NN hope|NN cure|NN symptom|NN risk|NN factor|NN
+risk|NN factor|NN adenocarcinoma|NN
+age|NN sex|NN ethnicity|NN risk|NN Pancreatic cancer|Disease increase|NN age|NN
+case|NN age|NN case|NN age|NN
+disease|NN men|NN women|NN united|NP states|NP time|NN american|NN incidence|NN africa|NP cigarette|NN smoke|NN risk|NN factor|NN Pancreatic cancer|Disease double|NN risk|NN smoker|NN risk|NN number|NN cigarette|NN year|NN smoke|NN
+risk|NN smoke|NN cessation|NN year|NN return|NN non-smoker|NN obesity|NN bmy|NN increase|NN risk|NN family|NN history|NN Pancreatic cancer|Disease case|NN component|NN people|NN family|NN history|NN Pancreatic cancer|Disease risk|NN relative|NN disease|NN age|NN gene|NN pancreatitis|NN lifetime|NN risk|NN Pancreatic cancer|Disease 3040|NN age|NN screen|NN Pancreatic cancer|Disease individual|NN pancreatitis|NN research|NN basis|NN people|NN pancrea|NN cancer|NN future|NN
+Pancreatic cancer|Disease syndrome|NN syndrome|NN mutation|NN tumor|NN suppressor|NN gene|NN risk|NN factor|NN nevus|NN syndrome|NN mole|NN melanoma|NN syndrome|NN mutation|NN tumor|NN suppressor|NN gene|NN ataxia-telangiectasia|NN mutation|NN gene|NN gene|NN non-polyposis|NN colon|NN cancer|NN lynch|NP syndrome|NN polyposis|NN
+neoplasia|NN type|NN von|NP syndrome|NN
+pancreatitis|NN risk|NN diabete|NN pancreatitis|NN symptom|NN tumor|NN risk|NN Pancreatic cancer|Disease individual|NN pancreatitis|NN diabete|NN mellitus|NN risk|NN factor|NN Pancreatic cancer|Disease sign|NN symptom|NN section|NN diabete|NN sign|NN disease|NN
+people|NN type|NN diabete|NN year|NN risk|NN individual|NN diabete|NN type|NN food|NN obesity|NN risk|NN Pancreatic cancer|Disease factor|NN evidence|NN risk|NN meat|NN meat|NN meat|NN temperature|NN fry|NN
+drink|NN alcohol|NN cause|NN pancreatitis|NN turn|NN Pancreatic cancer|Disease
+research|NN alcohol|NN consumption|NN risk|NN factor|NN Pancreatic cancer|Disease
+association|NN majority|NN study|NN association|NN factor|NN
+evidence|NN link|NN drink|NN drink|NN day|NN micrograph|NN ductal|NN adenocarcinoma|NN type|NN Pancreatic cancer|Disease
+micrograph|NN pancrea|NN neoplasia|NN precursor|NN carcinoma|NN carcinoma|NN
+cancer|NN type|NN lesion|NN pancrea|NN
+lesion|NN cancer|NN number|NN by-product|NN use|NN ct|NN scan|NN reason|NN cystadenoma|NN type|NN lesion|NN
+lesion|NN abnormality|NN pancrea|NN autopsy|NN people|NN cancer|NN
+lesion|NN low|NN grade|NN tumor|NN
+case|NN grade|NN kra|NN gene|NN grade|NN damage|NN gene|NN
+type|NN papillary|NN ipmn|NN
+lesion|NN adult|NN
+rate|NN rise|NN age|NN
+lesion|NN risk|NN cancer|NN
+gene|NN mutation|NN case|NN gnas|NP gs|NP alpha|NN subunit|NN rnf43|NN wnt|NN pathway|NN risk|NN Pancreatic cancer|Disease
+type|NN neoplasm|NN women|NN progress|NN cancer|NN lesion|NN cause|NN symptom|NN feature|NN surgery|NN
+type|NN cancer|NN pancrea|NN tubulopapillary|NN
+type|NN neoplasm|NN
+age|NN diagnosis|NN year|NN range|NN year|NN
+diagnosis|NN histology|NN lesion|NN lesion|NN ground|NN cancer|NN
+event|NN adenocarcinoma|NN exome|NN sequence|NN type|NN tumor|NN
+gene|NN majority|NN adenocarcinoma|NN case|NN
+prognosis|NN adenocarcinoma|NN alteration|NN type|NN Pancreatic cancer|Disease precancerous|NN lesion|NN analyse|NN mrna|NN sequence|NN form|NN Pancreatic cancer|Disease gene|NN tumor|NN gene|NN Pancreatic cancer|Disease tumor|NN type|NN
+gene|NN pannet|NN Pancreatic cancer|Disease example|NN mutation|NN
+men1|NN gene|NN mutation|NN rise|NN syndrome|NN tumor|NN gland|NN
+people|NN mutation|NN gene|NN mtor|NN diagnosis|NN head|NN body|NN tail|NN pancrea|NN
+stomach|NN image|NN pancrea|NN body|NN tail|NN lie|NN stomach|NN neck|NN
+ct|NN image|NN contrast|NN color|NN
+cross|NN line|NN left|NN adenocarcinoma|NN head|NN
+ultrasonography|NN Pancreatic cancer|Disease adenocarcinoma|NN duct|NN right|NN
+symptom|NN adenocarcinoma|NN disease|NN stage|NN disease|NN symptom|NN diagnosis|NN location|NN cancer|NN pancrea|NN anatomist|NN left|NN right|NN diagram|NN head|NN neck|NN body|NN end|NN tail|NN
+location|NN symptom|NN weight|NN loss|NN
+minority|NN people|NN disease|NN nausea|NN vomit|NN feel|NN weakness|NN
+head|NN pancrea|NN cause|NN jaundice|NN pain|NN loss|NN appetite|NN dark|NN urine|NN light-color|NN stool|NN
+body|NN tail|NN cause|NN pain|NN
+people|NN onset|NN type|NN diabete|NN history|NN blood|NN vessel|NN inflammation|NN blood|NN clot|NN sign|NN attack|NN pancreatitis|NN doctor|NN Pancreatic cancer|Disease onset|NN diabete|NN year|NN symptom|NN weight|NN loss|NN pain|NN indigestion|NN vomit|NN fece|NN gallbladder|NN sign|NN suspicion|NN Pancreatic cancer|Disease gallstone|NN
+image|NN technique|NN tomography|NN ct|NN scan|NN ultrasound|NN diagnosis|NN tumor|NN resectability|NN contrast|NN ct|NN scan|NN Pancreatic cancer|Disease radiocontrast|NN uptake|NN washout|NN pancrea|NN washout|NN pancreatitis|NN resonance|NN image|NN positron|NN emission|NN tomography|NN resonance|NN cholangiopancreatography|NN case|NN ultrasound|NN tumor|NN cancer|NN liver|NN build-up|NN fluid|NN cavity|NN ascite|NN examination|NN technique|NN
+biopsy|NN needle|NN aspiration|NN ultrasound|NN uncertainty|NN diagnosis|NN diagnosis|NN removal|NN tumor|NN surgery|NN
+liver|NN function|NN test|NN combination|NN result|NN bile|NN duct|NN obstruction|NN bilirubin|NN
+transpeptidase|NN phosphatase|NN level|NN
+carbohydrate|NN antigen|NN tumor|NN marker|NN Pancreatic cancer|Disease
+sensitivity|NN specificity|NN people|NN lack|NN lewis|NP antigen|NN produce|NN
+sensitivity|NN specificity|NN adenocarcinoma|NN case|NN diagnosis|NN
+form|NN Pancreatic cancer|Disease adenocarcinoma|NN structure|NN examination|NN
+formation|NN stroma|NN tissue|NN range|NN cell|NN type|NN macrophage|NN lymphocyte|NN mast|NN cell|NN material|NN type|NN collagen|NN acid|NN
+tumor|NN microenvironment|NN blood|NN vessel|NN oxygen|NN tumor|NN hypoxia|NN chemotherapy|NN drug|NN tumor|NN factor|NN cancer|NN cancer|NN
+Pancreatic cancer|Disease ct|NN scan|NN cancer|NN stage|NN system|NN Pancreatic cancer|Disease committee|NN cancer|NN union|NN cancer|NN control|NN
+stage|NN system|NN stage|NN disease|NN classification|NN size|NN spread|NN lymph|NN
+treatment|NN tumor|NN category|NN removal|NN way|NN borderline|NN disease|NN stage|NN stage|NN spread|NN blood|NN vessel|NN organ|NN liver|NN lung|NN resection|NN tumor|NN patient|NN operation|NN stage|NN system|NN distinction|NN stage|NN borderline|NN surgery|NN axis|NN artery|NN disease|NN term|NN tnm|NN classification|NN group|NN
+Pancreatic cancer|Disease stage|NN classification|NN
+stage|NN Pancreatic cancer|Disease
+stage|NN Pancreatic cancer|Disease
+stage|NN Pancreatic cancer|Disease
+stage|NN Pancreatic cancer|Disease
+Pancreatic cancer|Disease lymph|NN node|NN stage|NN
+Pancreatic cancer|Disease stage|NN
+adenocarcinoma|NN organ|NN follow|NN order|NN frequency|NN duodenum|NN stomach|NN colon|NN spleen|NN gland|NN kidney|NN
+blood|NN vessel|NN nerve|NN pancrea|NN surgery|NN
+site|NN spread|NN stage|NN disease|NN liver|NN cavity|NN lung|NN case|NN
+classification|NN tumor|NN system|NN grade|NN neuroendocrine|NN pannet|NN category|NN degree|NN differentiation|NN g1|NN net|NN
+cancer|NN network|NN use|NN stage|NN system|NN adenocarcinoma52|NN scheme|NN outcome|NN pannet|NN cancer|NN tnm|NN system|NN pannets|NP neuroendocrine|NN society|NN prevention|NN screen|NN
+cancer|NN society|NN weight|NN consumption|NN fruit|NN vegetable|NN grain|NN consumption|NN red|NN meat|NN evidence|NN Pancreatic cancer|Disease review|NN research|NN evidence|NN consumption|NN fruit|NN risk|NN Pancreatic cancer|Disease effect|NN grain|NN folate|NN selenium|NN fish|NN
+population|NN screen|NN group|NN technique|NN screen|NN group|NN screen|NN ultrasound|NN image|NN risk|NN genetics|NN management|NN cancer|NN
+assessment|NN diagnosis|NN removal|NN tumor|NN cure|NN cancer|NN
+resection|NN cancer|NN
+location|NN tumor|NN factor|NN ct|NN blood|NN vessel|NN pancrea|NN
+health|NN person|NN age|NN obstacle|NN surgery|NN
+extent|NN radiotherapy|NN people|NN surgery|NN
+specialist|NN management|NN Pancreatic cancer|Disease hand|NN team|NN specialist|NN aspect|NN oncology|NN center|NN surgery|NN part|NN body|NN operation|NN
+surgery|NN intention|NN cure|NN case|NN ct|NN scan|NN help|NN practice|NN tumor|NN resectability|NN surgery|NN tumor|NN tissue|NN
+resection|NN factor|NN extent|NN adjacency|NN involvement|NN blood|NN vessel|NN expertise|NN consideration|NN recovery|NN age|NN person|NN reason|NN performance|NN status|NN operation|NN
+feature|NN presence|NN absence|NN layer|NN plane|NN fat|NN barrier|NN tumor|NN vessel|NN assessment|NN proximity|NN vessel|NN term|NN abutment|NN tumor|NN blood|NN vessel|NN circumference|NN fat|NN tumor|NN vessel|NN circumference|NN vessel|NN resection|NN section|NN blood|NN vessel|NN case|NN neoadjuvant|NN therapy|NN radiotherapy2930|NN
+operation|NN cell|NN edge|NN margin|NN tissue|NN pathologist|NN cancer|NN cancer|NN stem|NN cell|NN laparoscopy|NN procedure|NN idea|NN outcome|NN operation|NN pancrea|NN bowel|NN operation|NN
+cancer|NN head|NN pancrea|NN whipple|NP procedure|NN treatment|NN
+operation|NN head|NN curve|NN duodenum|NN bypass|NN food|NN stomach|NN jejunum|NN loop|NN jejunum|NN duct|NN drain|NN bile|NN
+person|NN surgery|NN cancer|NN structure|NN metastasize|NN
+minority|NN case|NN
+cancers|NP tail|NN pancrea|NN procedure|NN pancreatectomy|NN removal|NN spleen|NN surgery|NN
+surgery|NN death|NN rate|NN proportion|NN people|NN sickness|NN cancer|NN
+complication|NN surgery|NN difficulty|NN stomach|NN procedure|NN ease|NN symptom|NN care|NN instance|NN cancer|NN duodenum|NN colon|NN
+case|NN bypass|NN surgery|NN obstruction|NN quality|NN life|NN cure|NN
+surgery|NN adjuvant|NN chemotherapy|NN gemcitabine|NN person|NN recovery|NN period|NN month|NN people|NN surgery|NN chemotherapy|NN life|NN quality|NN surgery|NN chemotherapy|NN case|NN borderline|NN order|NN cancer|NN level|NN surgery|NN
+case|NN therapy|NN surgery|NN
+united|NP states|NP food|NN drug|NN administration|NN fda|NN trial|NN improvement|NN quality|NN life|NN improvement|NN survival|NN duration|NN people|NN Pancreatic cancer|Disease chemotherapy|NN drug|NN fda|NN trial|NN endpoint|NN standard|NN decade|NN number|NN trial|NN combination|NN drug|NN outcome|NN
+combination|NN gemcitabine|NN erlotinib|NP increase|NN survival|NN fda|NN use|NN Pancreatic cancer|Disease
+chemotherapy|NN regimen|NN drug|NN side|NN effect|NN people|NN performance|NN status|NN
+paclitaxel|NN fda|NN 2013|NN use|NN gemcitabine|NN pancrea|NN cancer|NN end|NN gemcitabine|NN choice|NN side-effect|NN gemcitabine|NN option|NN
+trial|NN option|NN trial|NN variation|NN
+change|NN year|NN survival|NN time|NN month|NN trial|NN therapy|NN radiotherapy|NN
+role|NN radiotherapy|NN treatment|NN surgery|NN society|NN oncology|NN radiotherapy|NN people|NN trial|NN tendency|NN clinician|NN radiotherapy|NN europe|NP
+trial|NN variety|NN treatment|NN combination|NN matter|NN
+radiotherapy|NN part|NN treatment|NN attempt|NN tumor|NN state|NN use|NN tumor|NN result|NN trial|NN
+result|NN trial|NN enthusiasm|NN use|NN article|NN tumor|NN neuroendocrine|NN tumor|NN
+treatment|NN pannet|NN type|NN number|NN approache|NN tumor|NN cm|NN example|NN ct|NN scan|NN purpose|NN wait|NN risk|NN surgery|NN site|NN tumor|NN presence|NN problem|NN pancrea|NN metastase|NN example|NN liver|NN surgery|NN
+type|NN surgery|NN tumor|NN location|NN degree|NN spread|NN lymph|NN node|NN
+tumor|NN procedure|NN type|NN surgery|NN adenocarcinoma|NN procedure|NN tumor|NN
+range|NN outcome|NN type|NN survival|NN rate|NN surgery|NN outlook|NN
+group|NN guideline|NN treatment|NN center|NN use|NN liver|NN transplantation|NN case|NN liver|NN metastasis|NN
+function|NN somatostatin|NN class|NN medication|NN octreotide|NN production|NN hormone|NN tumor|NN growth|NN tumor|NN removal|NN symptom|NN therapy|NN everolimus|NN symptom|NN progression|NN disease|NN standard|NN chemotherapy|NN pannet|NN drug|NN treatment|NN disease|NN pannet|NN cancer|NN
+radiation|NN therapy|NN pain|NN extension|NN metastasis|NN bone|NN
+pannet|NN peptide|NN hormone|NN pannet|NN medicine|NN therapy|NN peptide|NN hormone|NN iodine-131-mibg|NN ablation|NN rfa|NN artery|NN care|NN
+care|NN care|NN treatment|NN symptom|NN illness|NN cancer|NN quality|NN life|NN adenocarcinoma|NN stage|NN palliative|NN care|NN treatment|NN symptom|NN treatment|NN
+care|NN cancer|NN symptom|NN pain|NN nausea|NN decision-make|NN hospice|NN care|NN pain|NN medication|NN opioid|NN intervention|NN nerve|NN block|NN plexus|NN
+technique|NN nerve|NN pain|NN abdomen|NN
+way|NN pain|NN need|NN painkiller|NN side|NN effect|NN
+symptom|NN complication|NN surgery|NN obstruction|NN tumor|NN intestine|NN bile|NN duct|NN
+case|NN metal|NN tube|NN endoscope|NN duct|NN care|NN treat|NN depression|NN diagnosis|NN Pancreatic cancer|Disease
+surgery|NN tumor|NN system|NN disorder|NN lack|NN product|NN pancrea|NN insufficiency|NN
+enzyme|NN food|NN difficulty|NN stomach|NN empty|NN problem|NN hospitalization|NN
+treatment|NN variety|NN approache|NN stomach|NN aspiration|NN drug|NN inhibitor|NN antagonist|NN production|NN acid|NN metoclopramide|NN stomach|NN content|NN
+outcome|NN outcome|NN Pancreatic cancer|Disease stage|NN stage|NN survival|NN diagnose|NN Pancreatic cancer|Disease neuroendocrine|NN surgery|NN ia|NP ib|NP iia|NP iib|NP
+adenocarcinoma|NN cancer|NN prognosis|NN stage|NN cancer|NN part|NN body|NN outcome|NN symptom|NN case|NN surgery|NN survival|NN rate|NN outlook|NN type|NN
+adenocarcinoma|NN case|NN trial|NN chemotherapy|NN regime|NN survival|NN time|NN year|NN survival|NN Pancreatic cancer|Disease case|NN 197577|NN diagnose|NN case|NN adenocarcinoma|NN diagnosis|NN growth|NN cm|NN stage|NN american|NN year|NN
+gene|NN outcome|NN adenocarcinoma|NN
+gene|NN expression|NN outcome|NN example|NN gene|NN expression|NN survival|NN example|NN transcription|NN factor|NN distribution|NN death|NN Pancreatic cancer|Disease person|NN 2012|NP 2633|NN 163235|NN
+Pancreatic cancer|Disease type|NN death|NN 2014|NN 46000|NN people|NN Pancreatic cancer|Disease 40000|NN case|NN Pancreatic cancer|Disease cancer|NN death|NN year|NN cause|NN death|NN cancer|NN Pancreatic cancer|Disease cause|NN death|NN cancer|NN kingdom|NN united|NP states|NP
+Pancreatic cancer|Disease cancer|NN women|NN men|NN majority|NN case|NN country|NN people|NN united|NP states|NP lifetime|NN risk|NN disease|NN figure|NN uk|NP disease|NN men|NN women|NN difference|NN rate|NN decade|NN increase|NN smoke|NN
+united|NP states|NP risk|NN american|NN white|NN rate|NN africa|NP east|NP asia|NP north|NP america|NP europe|NP
+united|NP states|NP europe|NP argentina|NP uruguay|NP rate|NN
+incidence|NN pannet|NN type|NN type|NN study|NN autopsy|NN prevalence|NN tumor|NN pannet|NN account|NN definition|NN classification|NN pannet|NN time|NN epidemiology|NN relevance|NN history|NN Pancreatic cancer|Disease
+recognition|NN Pancreatic cancer|Disease scientist|NN giovanni|NP battista|NP father|NN anatomic|NN pathology|NN case|NN cancer|NN pancrea|NN
+physician|NN existence|NN disease|NN appearance|NN pancreatitis|NN
+case|NN report|NN histopathologic|NN diagnosis|NN clinician|NN jacob|NP mendes|NP da|NP costa|NP reliability|NN interpretation|NN
+start|NN century|NN cancer|NN head|NN pancrea|NN diagnosis|NN
+recognition|NN pannet|NN possibility|NN cancer|NN islet|NN cell|NN
+case|NN due|NN tumor|NN type|NN
+recognition|NN type|NN pannet|NN surgeon|NN r|NP
+ellison|NP name|NN syndrome|NN existence|NN tumor|NN report|NN case|NN ulcer|NN pannet|NN
+pancreaticoduodenectomy|NN surgeon|NN alessandro|NP codivilla|NP patient|NN day|NN complication|NN
+operation|NN belief|NN people|NN duodenum|NN flow|NN juice|NN
+duct|NN effect|NN fact|NN
+190708|NN operation|NN surgeon|NN procedure|NN corpse|NN surgeon|NN
+surgeon|NN walther|NN part|NN duodenum|NN pancrea|NN bloc|NN
+operation|NN dog|NN removal|NN duodenum|NN life|NN surgery|NN surgeon|NN allen|NP oldfather|NP whipple|NP result|NN series|NN operation|NN columbia|NP hospital|NN new|NP york|NP
+patient|NN duodenum|NN year|NN dy|NN metastasis|NN liver|NN
+operation|NN cancer|NN operate|NN
+success|NN way|NN future|NN operation|NN decade|NN
+refinement|NN procedure|NN removal|NN duodenum|NN total|NN operation|NN
+discovery|NN vitamin|NN k|NP jaundice|NN development|NN blood|NN transfusion|NN process|NN survival|NN people|NN hospital|NN group|NN surgeon|NN procedure|NN
+outcome|NN center|NN mortality|NN operation|NN report|NN series|NN pancreaticoduodenectomy|NN surgeon|NN johns|NP hopkins|NP hospital|NN
+rate|NN operation|NN period|NN operate|NN time|NN hour|NN hour|NN 2000|NN mortality|NN day|NN hospital|NN series|NN operation|NN massachusetts|NP hospital|NN picture|NN improvement|NN
+small|NP precancerous|NP Pancreatic cancer|Disease rate|NN image|NN
+type|NN intraductal|NN ipmn|NN researcher|NN
+decade|NN attention|NN report|NN year|NN explosion|NN recognition|NN tumor|NN
+research|NN direction|NN
+research|NN Pancreatic cancer|Disease study|NN genetics|NN detection|NN treatment|NN cancer|NN stage|NN strategy|NN therapy|NN inhibition|NN growth|NN factor|NN therapy|NN vaccine|NN question|NN time|NN event|NN disease|NN role|NN diabete|NN disease|NN knowledge|NN onset|NN diabete|NN sign|NN disease|NN diagnosis|NN prevention|NN screen|NN strategy|NN registry|NN hereditary|NN Pancreatic cancer|Disease trial|NN screen|NN people|NN family|NN history|NN disease|NN
+surgery|NN laparoscopy|NN procedure|NN term|NN recovery|NN time|NN electroporation|NN ablation|NN technique|NN potential|NN downstage|NN prolong|NN survival|NN person|NN disease|NN tumor|NN proximity|NN vessel|NN risk|NN trauma|NN
+effort|NN drug|NN target|NN mechanism|NN cancer|NN onset|NN stem|NN cell|NN cell|NN proliferation|NN approach|NN use|NN viruse|NN mechanism|NN tumor|NN microenvironment|NN study|NN
+cancer|NN Pancreatic cancer|Disease action|NN network|NN organization|NN Pancreatic cancer|Disease action|NN organization|NN uk|NP lustgarten|NN foundation|NN Pancreatic cancer|Disease research|NN organization|NN list|NN people|NN Pancreatic cancer|Disease

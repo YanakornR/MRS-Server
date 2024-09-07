@@ -1,0 +1,121 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN inflammation|NN condition|NN 
+sinusitis|NN name|NN sinusitis|NN sinusitis|NN ct|NN scan|NN sinusitis|NN sinus|NN symptom|NN mucus|NN nose|NN pain|ST face|NN fever|ST cause|NN infection|NN allergy|NN air|NN pollution|NN problem|NN nose|NN risk|NN factor|NN asthma|DS fibrosis|DS function|NN method|NN symptom|NN diagnosis|NN migraine|DS prevention|NN smoke|NN immunization|NN treatment|NN pain|ST medication|NN steroid|NN irrigation|NN antibiotic|NN frequency|NN year|NN world|NN 
+sinusitis|NN sinusitis|NN sinusitis|NN inflammation|NN mucous|NN membrane|NN sinuse|NN symptom|NN symptom|NN mucus|NN nose|NN pain|ST sign|NN symptom|NN fever|ST headache|ST sense|NN smell|NN throat|NN cough|ST cough|ST night|NN complication|NN sinusitis|NN week|NN sinusitis|NN week|NN 
+sinusitis|NN infection|NN allergy|NN air|NN pollution|NN problem|NN nose|NN case|NN infection|NN infection|NN symptom|NN day|NN person|NN episode|NN person|NN asthma|DS fibrosis|DS function|NN x-ray|NN complication|NN case|NN test|NN visualization|NN tomography|NN 
+case|NN hand|NN wash|NN smoke|NN immunization|NN pain|ST killer|NN steroid|NN irrigation|NN symptom|NN treatment|NN sinusitis|NN wait|NN symptom|NN day|NN antibiotic|NN antibiotics|NN amoxicillin|NN line|NN surgery|NN people|NN disease|NN 
+sinusitis|NN condition|NN people|NN year|NN united|NN states|NN europe|NN women|NN men|NN sinusitis|NN people|NN treatment|NN sinusitis|NN united|NN states|NN result|NN cost|NN treatment|NN sinusitis|NN antibiotics|NN content|NN 
+classification|NN sign|NN symptom|NN location|NN complication|NN cause|NN diagnosis|NN treatment|NN antibiotics|NN surgery|NN epidemiology|NN research|NN reference|NN link|NN 
+classification|NN illustration|NN sinusitis|NN 
+sinusitis|NN sinusitis|NN inflammation|NN mucous|NN membrane|NN sinuse|NN category|NN 
+sinusitis|NN infection|NN week|NN 
+use|NN definition|NN week|NN sinusitis|NN episode|NN sinusitis|NN year|NN sinusitis|NN infection|NN week|NN transition|NN infection|NN sinusitis|NN sign|NN symptom|NN week|NN exacerbation|NN sinusitis|NN sign|NN symptom|NN sinusitis|NN baseline|NN treatment|NN 
+percent|NN adult|NN sinusitis|NN point|NN life|NN sign|NN symptom|NN 
+pain|ST pressure|NN constant|NN sort|NN sinuse|NN stage|NN sinusitis|NN 
+pain|ST sinus|NN person|NN 
+pain|ST side|NN head|NN side|NN sinusitis|NN discharge|ST color|NN pus|NN blood|NN headache|ST toothache|ST symptom|NN headache|ST type|NN headache|ST tension|NN migraine|DS headache|ST 
+way|NN toothache|ST sinusitis|NN pain|ST sinusitis|NN head|NN maneuver|NN 
+infection|NN eye|NN socket|NN loss|NN sight|NN fever|ST illness|NN 
+complication|NN infection|NN bone|NN forehead|NN bone|NN potts|NN tumor|NN 
+sinusitis|NN ear|NN problem|NN congestion|NN passage|NN 
+dizziness|ST head|NN sensation|NN head|NN 
+drip|NN symptom|NN sinusitis|NN 
+breath|NN symptom|NN sinusitis|NN gold|NN standard|NN breath|NN analysis|NN technique|NN 
+mechanism|NN objective|NN halitosis|ST 
+study|NN sinus|NN headache|ST confusion|ST part|NN migraine|DS activation|NN nerve|NN sinus|NN region|NN meninge|NN brain|NN 
+result|NN site|NN pain|ST 
+people|NN migraine|DS discharge|ST symptom|NN sinusitis|NN location|NN 
+sinuse|NN sinuse|NN 
+sinuse|NN ethmoid|NN sinuse|NN division|NN lamella|NN concha|NN 
+addition|NN severity|NN disease|NN sinusitis|NN sinus|NN cavity|NN 
+pain|ST pressure|NN cheek|NN area|NN toothache|ST headache|ST pain|ST pressure|NN sinus|NN cavity|NN eye|NN headache|ST forehead|NN ethmoidal|NN pain|ST pressure|NN pain|ST eye|NN side|NN part|NN nose|NN canthy|NN headache|ST pain|ST pressure|NN eye|NN top|NN head|NN process|NN back|NN head|NN 
+complication|NN stage|NN description|NN orbital|NN abscess|NN abscess|NN sinus|NN thrombosis|NN 
+proximity|NN brain|NN sinuse|NN complication|NN sinusitis|NN sinuse|NN infection|NN brain|NN invasion|NN bacteria|NN bone|NN blood|NN vessel|NN 
+meningitis|DS condition|NN 
+case|NN patient|NN personality|NN change|NN headache|ST consciousness|NN problem|NN seizure|NN coma|NN death|NN 
+sinusitis|NN vein|NN extension|NN structure|NN 
+complication|NN chandler|NN et|NN al|NN stage|NN severity|NN table|NN spread|NN orbit|NN cellulitis|NN abscess|NN orbital|NN abscess|NN 
+orbital|NN cellulitis|NN ethmoidal|NN vein|NN spread|NN infection|NN side|NN labyrinth|NN 
+sinusitis|NN system|NN sinus|NN thrombosis|NN retrograde|NN meningitis|DS epidural|NN brain|NN abscess|NN symptom|NN spread|NN infection|NN 
+complication|NN osteomyelitis|DS bone|NN osteomyelitis|DS bone|NN spread|NN 
+periostitis|NN sinus|NN osteitis|NN periostitis|NN membrane|NN swell|NN forehead|NN 
+diagnosis|NN complication|NN tenderness|NN pain|ST ct|NN isotope|NN scan|NN 
+cause|NN bacteria|NN s|NN aureus|NN 
+treatment|NN drainage|NN administration|NN therapy|NN 
+debridement|NN course|NN therapy|NN antibiotics|NN week|NN 
+monitor|NN patient|NN complication|NN 
+citation|NN cause|NN 
+sinusitis|NN problem|NN teeth|NN case|NN case|NN cause|NN situation|NN periapical|NN infection|NN tooth|NN exudate|NN bone|NN drain|NN sinus|NN 
+infection|NN sinus|NN orbit|NN sinus|NN cavity|NN sinuse|NN instance|NN sinus|NN blindness|NN meningitis|DS brain|NN abscess|NN sinus|NN thrombosis|NN field|NN image|NN radiograph|NN ability|NN teeth|NN source|NN sinusitis|NN treatment|NN infection|NN reinfection|NN microorganism|NN by-product|NN debris|NN root|NN canal|NN antibiotics|NN solution|NN relief|NN symptom|NN sinus|NN clear|NN infection|NN debridement|NN disinfection|NN root|NN canal|NN system|NN time|NN 
+sinusitis|NN abnormality|NN tube|NN sinus|NN cavity|NN throat|NN 
+disease|NN fibrosis|DS granulomatosis|NN polyangiitis|NN sinusitis|NN 
+tube|NN eye|NN socket|NN abnormality|NN level|NN level|NN vestibule|NN entrance|NN 
+sinusitis|NN tract|NN infection|NN origin|NN coronaviruse|NN influenza|DS viruse|NN parainfluenza|NN viruse|NN syncytial|NN virus|NN 
+infection|NN origin|NN agent|NN influenzae|NN catarrhalis|NN agent|NN cause|NN sinusitis|NN 
+introduction|NN h|NN influenza|DS type|NN b|NN hib|NN vaccine|NN h|NN influenza|DS type|NN infection|NN h|NN influenza|DS clinics|NN 
+sinusitis|NN pathogen|NN staphylococcus|NN aureus|NN streptococcy|NN specy|NN bacteria|NN gram|NN bacteria|NN 
+sinusitis|NN day|NN sinusitis|NN 
+sinusitis|NN result|NN sinusitis|NN 
+irritation|NN nose|NN blow|NN infection|NN 
+episode|NN sinusitis|NN invasion|NN 
+infection|NN patient|NN diabete|NN deficiency|NN aid|NN transplant|NN patient|NN medication|NN 
+type|NN diabetics|NN sinusitis|NN due|NN 
+irritation|NN sinusitis|NN cigarette|NN smoke|NN chlorine|NN fume|NN tooth|NN infection|NN 
+definition|NN sinusitis|NN week|NN disease|NN inflammation|NN sinuse|NN symptom|NN 
+symptom|NN sinusitis|NN combination|NN congestion|NN pain|ST headache|ST night-time|NN increase|NN asthma|DS symptom|NN malaise|ST green|NN discharge|ST feel|NN fullness|NN tightness|NN dizziness|ST teeth|NN breath|NN symptom|NN cause|NN 
+sinusitis|NN inability|NN smell|NN object|NN number|NN case|NN sinusitis|NN infection|NN 
+vertigo|ST vision|NN sinusitis|NN cause|NN 
+sinusitis|NN case|NN case|NN polyp|NN case|NN polyp|NN 
+polyp|NN condition|NN sinusitis|NN cause|NN allergy|NN factor|NN dust|NN pollution|NN infection|NN fungus|NN 
+sinusitis|NN disorder|NN infection|NN management|NN sinusitis|NN inflammation|NN patient|NN obstruction|NN incidence|NN infection|NN 
+form|NN sinusitis|NN sinus|NN drainage|NN infection|NN 
+individual|NN antibiotics|NN infection|NN exacerbation|NN sinusitis|NN 
+combination|NN bacteria|NN conjunction|NN sinusitis|NN 
+staphylococcus|NN aureus|NN methicillin-resistant|NN s|NN aureus|NN coagulase-negative|NN bacteria|NN 
+attempt|NN nomenclature|NN subtype|NN sinusitis|NN 
+presence|NN eosinophil|NN mucous|NN line|NN nose|NN paranasal|NN sinuse|NN patient|NN mucin|NN sinusitis|NN 
+case|NN emr|NN response|NN allergy|NN emr|NN 
+development|NN sinusitis|NN role|NN fungy|NN disease|NN fungy|NN factor|NN development|NN sinusitis|NN difference|NN disease|NN symptom|NN 
+trial|NN treatment|NN result|NN 
+theory|NN sinusitis|NN part|NN spectrum|NN disease|NN tract|NN airway|NN theory|NN asthma|DS form|NN sinusitis|NN part|NN inflammation|NN airway|NN airway|NN symptom|NN cough|ST 
+smoke|NN smoke|NN sinusitis|NN 
+infection|NN case|NN sinusitis|NN aggregate|NN matrix|NN inter-dependent|NN microorganism|NN specy|NN laboratory|NN technique|NN bacteria|NN biofilms|NN antibiotic|NN resistance|NN time|NN bacteria|NN specy|NN 
+study|NN mucosa|NN people|NN surgery|NN sinusitis|NN diagnosis|NN 
+health|NN care|NN provider|NN sinusitis|NN wait|NN person|NN sinusitis|NN day|NN symptom|NN infection|NN symptom|NN day|NN time|NN infection|NN sinusitis|NN pain|ST teeth|NN breath|NN disease|NN 
+image|NN x-ray|NN ct|NN mry|NN complication|NN pain|ST sinusitis|NN pain|ST toothache|ST teeth|NN versa|NN 
+pain|ST head|NN sinusitis|NN 
+sinusitis|NN week|NN ct|NN scan|NN ct|NN scan|NN sinus|NN secretion|NN radiodensity|NN hounsfield|NN unit|NN state|NN radiodensity|NN 
+endoscopy|NN symptom|NN diagnosis|NN tissue|NN sample|NN histology|NN culture|NN sinusitis|NN af|NN people|NN asthma|DS polyp|NN 
+endoscopy|NN fiber-optic|NN tube|NN light|NN camera|NN tip|NN nose|NN passage|NN sinuse|NN 
+procedure|NN minute|NN 
+ct|NN sinusitis|NN 
+ct|NN scan|NN sinusitis|NN sinus|NN bone|NN 
+image|NN sinusitis|NN 
+thicken|NN sinuse|NN 
+sinusitis|NN infection|NN cellulitis|NN 
+x-ray|NN sinusitis|NN arrow|NN 
+lack|NN air|NN transparency|NN fluid|NN contrast|NN side|NN 
+treatment|NN treatment|NN treatment|NN time|NN sinusitis|NN sinusitis|NN virus|NN antibiotics|NN antibiotics|NN sinusitis|NN case|NN pain|ST skin|NN infection|NN time|NN bacteria|NN irrigation|NN congestion|NN relief|NN drink|NN liquid|NN phlegm|NN mucus|NN concern|NN allergy|NN sinusitis|NN symptom|NN treatment|NN case|NN spray|NN desire|NN relief|NN evidence|NN symptom|NN cause|NN 
+day|NN use|NN 
+treatment|NN case|NN sinusitis|NN rest|NN water|NN mucus|NN antibiotics|NN case|NN 
+steam|NN shower|NN symptom|NN evidence|NN irrigation|NN sinusitis|NN example|NN infection|NN spray|NN oxymetazoline|NN relief|NN medication|NN period|NN 
+use|NN rebound|NN sinusitis|NN irrigation|NN work|NN children|NN sinusitis|NN antibiotics|NN 
+sinusitis|NN case|NN viruse|NN resolve|NN antibiotics|NN symptom|NN day|NN amoxicillin|NN antibiotic|NN treatment|NN symptom|NN day|NN amoxicillin|NN cochrane|NN review|NN benefit|NN day|NN practice|NN complication|NN risk|NN update|NN antibiotics|NN disease|NN week|NN infection|NN risk|NN effect|NN antibiotic|NN resistance|NN cost|NN 
+macrolide|NN antibiotic|NN tetracycline|NN doxycycline|NN allergy|NN resistance|NN amoxicillin|NN guideline|NN disease|NN society|NN america|NN treatment|NN choice|NN sinusitis|NN guideline|NN antibiotics|NN clarithromycin|NN trimethoprimsulfamethoxazole|NN antibiotic|NN resistance|NN 
+fda|NN use|NN fluoroquinolone|NN option|NN risk|NN side|NN effect|NN 
+day|NN antibiotics|NN longer-course|NN day|NN antibiotics|NN sinusitis|NN disease|NN factor|NN guideline|NN day|NN antibiotics|NN infection|NN resistance|NN 
+guideline|NN children|NN antibiotic|NN treatment|NN day|NN week|NN 
+sinusitis|NN spray|NN corticosteroid|NN placebo|NN combination|NN antibiotics|NN case|NN radiology|NN endoscopy|NN treatment|NN corticosteroid|NN combination|NN antibiotics|NN benefit|NN 
+evidence|NN treatment|NN corticosteroid|NN sinusitis|NN polyp|NN surgery|NN 
+sinusitis|NN referral|NN otolaryngologist|NN treatment|NN option|NN surgery|NN 
+surgery|NN people|NN medication|NN benefit|NN surgery|NN treatment|NN polyp|NN 
+washout|NN sinus|NN flush|NN mucus|NN 
+study|NN patient|NN sinusitis|NN washout|NN benefit|NN antibiotics|NN 
+number|NN approache|NN sinuse|NN approache|NN 
+benefit|NN sinus|NN surgery|NN fess|NN ability|NN approach|NN sinuse|NN tissue|NN disruption|NN complication|NN use|NN drug|NN stent|NN implant|NN recovery|NN surgery|NN 
+treatment|NN balloon|NN 
+method|NN balloon|NN angioplasty|NN artery|NN heart|NN balloon|NN attempt|NN open|NN sinuse|NN manner|NN 
+symptom|NN disease|NN patient|NN approache|NN technique|NN inflammation|NN sinus|NN antrostomy|NN 
+surgery|NN incision|NN gum|NN open|NN wall|NN antrum|NN removal|NN sinus|NN mucosa|NN drainage|NN meatus|NN window|NN wall|NN epidemiology|NN 
+sinusitis|NN condition|NN case|NN united|NN states|NN sinusitis|NN people|NN research|NN 
+theory|NN role|NN fungus|NN development|NN sinusitis|NN treatment|NN trial|NN basis|NN 
+trial|NN result|NN 

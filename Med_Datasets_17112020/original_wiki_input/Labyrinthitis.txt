@@ -1,0 +1,83 @@
+Labyrinthitis,otitis interna,vestibular neuronitis,vestibular neuritis
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+	
+Labyrinthitis
+Other names	Otitis interna, vestibular neuronitis, vestibular neuritis
+Gray920.png
+Diagram of the inner ear
+Specialty	Otorhinolaryngology
+Frequency	35 per million per year[1]
+
+Labyrinthitis, also known as vestibular neuritis,[2][3] is the inflammation of the inner ear.[4] It results in a sensation of the world spinning and also possible hearing loss or ringing in the ears. It can occur as a single attack, a series of attacks, or a persistent condition that diminishes over three to six weeks. It may be associated with nausea, vomiting, and eye nystagmus.
+
+The cause is often not clear. It may be due to a virus, but it can also arise from bacterial infection, head injury, extreme stress, an allergy, or as a reaction to medication. 30% of affected people had a common cold prior to developing the disease.[1] Either bacterial or viral labyrinthitis can cause a permanent hearing loss in rare cases.[5] This appears to result from an imbalance of neuronal input between the left and right inner ears.[6]
+
+Vestibular neuritis affects approximately 35 million people per year.[1] It typically occurs in those between 30 and 60 years of age.[1] There is no significant gender difference.[1] It derives its name from the labyrinths that house the vestibular system, which senses changes in head position.
+Contents
+
+    1 Signs and symptoms
+    2 Causes
+    3 Mechanism
+    4 Treatment
+        4.1 Physical therapy
+        4.2 Medication
+        4.3 Other
+    5 Prognosis
+    6 References
+    7 External links
+
+Signs and symptoms
+
+The main symptom of labyrinthitis is severe vertigo. Rapid and undesired eye motion (nystagmus) often results from the improper indication of rotational motion. Nausea, anxiety, and a general ill feeling are common due to the distorted balance signals that the brain receives from the inner ear.
+Causes
+
+Some people will report having an upper respiratory infection (common cold) or flu prior to the onset of the symptoms of vestibular neuritis; others will have no viral symptoms prior to the vertigo attack.
+
+Some cases of vestibular neuritis are thought to be caused by an infection of the vestibular ganglion by the herpes simplex type 1 virus.[6] However, the cause of this condition is not fully understood, and in fact, many different viruses may be capable of infecting the vestibular nerve.
+
+Acute localized ischemia of these structures also may be an important cause, especially in children, vestibular neuritis may be preceded by symptoms of a common cold. However, the causative mechanism remains uncertain.[7]
+
+This can also be brought on by pressure changes such as those experienced while flying or scuba diving.[8][9][10]
+Mechanism
+
+The vestibular system is a set of sensory inputs consisting of three semicircular canals sensing changes in rotational motion and the otoliths, sensing changes in linear motion. The brain combines visual cues with sensory input from the vestibular system to determine the adjustments required to retain balance. The vestibular system also relays information on head movement to the eye muscle, forming the vestibulo–ocular reflex to retain continuous visual focus during motion.
+Treatment
+
+The treatment for vestibular neuritis depends on the cause. However, symptoms of vertigo can be treated in the same way as other vestibular dysfunctions with vestibular rehabilitation.[11]
+Physical therapy
+
+Typical treatments include combinations of head and eye movements, postural changes, and walking exercises. Specifically, exercises that may be prescribed include keeping eyes fixated on a specific target while moving the head, moving the head right to left at two targets at a significant distance apart, walking while keeping eyes fixated on a specific target, and walking while keeping eyes fixated on a specific target while also turning the head in different directions.[12] The main function behind repeating a combination of head and eye movements, postural changes and walking is that through this repetition, compensatory changes for the dysfunctions arising from peripheral vestibular structures may be promoted in the central vestibular system (brainstem and cerebellum).[12]
+
+Vestibular rehabilitation therapy is a highly effective way to substantially reduce or eliminate residual dizziness from labyrinthitis.[13] VRT works by causing the brain to use already existing neural mechanisms for adaptation, neuroplasticity, and compensation.[11]
+
+Rehabilitation strategies most commonly used are:[11]
+
+    Gaze stability exercises – moving the head from side to side while fixated on a stationary object (aimed at assisting the eye to fixate during head rotation without the input from the lost canal vestibulo–ocular reflex). An advanced progression of this exercise would be walking in a straight line while looking side to side by turning the head.
+    Habituation exercises – movements designed to provoke symptoms and subsequently reduce the negative vestibular response upon repetition. Examples of these include Brandt–Daroff exercises.
+    Functional retraining – including postural control, relaxation, and balance training.
+
+These exercises function by challenging the vestibular system. Progression occurs by increasing the amplitude of the head or focal point movements, increasing the speed of movement, and combining movements such as walking and head turning.
+
+One study found that patients who believed their illness was out of their control showed the slowest progression to full recovery, long after the initial vestibular injury had healed.[14] The study revealed that the patient who compensated well was one who, at the psychological level, was not afraid of the symptoms and had some positive control over them. Notably, a reduction in negative beliefs over time was greater in those patients treated with rehabilitation than in those untreated. "Of utmost importance, baseline beliefs were the only significant predictor of change in a handicap at 6 months follow-up."
+Medication
+
+Vestibular neuritis is generally a self-limiting disease. Treatment with drugs is neither necessary nor possible. The effect of glucocorticoids has been studied, but they have not been found to significantly affect long-term outcome.[15]
+
+Symptomatic treatment with antihistaminics such as cinnarizine, however, can be used to suppress the symptoms of vestibular neuritis while it spontaneously regresses.[16] Prochlorperazine is another commonly prescribed medication to help alleviate the symptoms of vertigo and nausea.
+
+Studies have shown that older adults with dementia who take antipsychotics (medications for mental illness) such as prochlorperazine have an increased chance of death during treatment.[17]
+Other
+
+Because mood disorders can interfere with the vestibular compensation and adaptive plasticity, it suggested to address any co-occurring anxiety disorder and/or depression. Severe anxiety episodes are usually addressed by short-term benzodiazapine therapy. Long-term use of benzodiazapines such as diazepam, however, is not recommended due to the tolerance issues.[18] SSRIs and SSNRIs are among a number of first - line treatments for anxiety or depression. [19]
+Prognosis
+
+In most cases, the condition tends to be self-limiting. In 95% or greater, vestibular neuritis is a one-time experience with most people fully recovering.[20]
+
+Recovery from acute labyrinthine inflammation generally takes from one to six weeks, but it is not uncommon for residual symptoms (dysequilibrium and/or dizziness) to last for a couple of months.[14]
+
+Recovery from a temporary damaged inner ear typically follows two phases:
+
+    An acute period, which may include severe vertigo and vomiting
+    approximately two weeks of sub-acute symptoms and rapid recovery

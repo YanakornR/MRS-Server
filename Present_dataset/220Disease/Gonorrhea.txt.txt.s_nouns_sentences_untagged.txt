@@ -1,0 +1,83 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN gonorrhea|NN 
+use|NN gonorrhea|NN 
+gonorrhea|NN name|NN gonorrhea|NN gonorrhea|NN gonorrhea|NN gonorrhea|NN lesion|NN skin|NN phil|NN 2038|NN lesion|NN skin|NN pronunciation|NN 
+disease|NN symptom|NN urination|NN discharge|ST discharge|ST penis|NN pain|ST pain|ST complication|NN disease|NN inflammation|NN arthritis|DS cause|NN gonorrhea|NN method|NN urine|NN urethra|ST male|NN cervix|NN female|NN prevention|NN sex|NN person|NN sex|NN treatment|NN injection|NN azithromycin|NN mouth|NN frequency|NN women|NN men|NN 
+gonorrhea|NN gonorrhea|NN infection|NN sty|NN bacterium|NN gonorrhea|NN infection|NN genital|NN mouth|NN rectum|NN men|NN pain|ST burn|NN urination|NN discharge|ST penis|NN pain|ST women|NN urination|NN discharge|ST bleed|NN period|NN pain|ST complication|NN women|NN disease|NN men|NN inflammation|NN epididymis|NN symptom|NN gonorrhea|NN joint|NN heart|NN valve|NN 
+gonorrhea|NN contact|NN person|NN sex|NN mother|NN child|NN birth|NN diagnosis|NN urine|NN urethra|ST male|NN cervix|NN female|NN women|NN year|NN age|NN year|NN partner|NN recommendation|NN men|NN sex|NN men|NN msm|NN 
+gonorrhea|NN use|NN condom|NN sex|NN person|NN sex|NN treatment|NN ceftriaxone|NN injection|NN azithromycin|NN mouth|NN resistance|NN antibiotics|NN dose|NN ceftriaxone|NN retest|NN month|NN treatment|NN partner|NN month|NN 
+gonorrhea|NN women|NN men|NN case|NN year|NN case|NN sty|NN syphilis|DS chlamydia|NN infection|NN women|NN adult|NN death|NN description|NN disease|NN date|NN back|NN era|NN testament|NN name|NN physician|NN galen|NN ce|NN discharge|ST semen|NN content|NN 
+sign|NN symptom|NN cause|NN diagnosis|NN screen|NN prevention|NN treatment|NN antibiotics|NN partner|NN resistance|NN epidemiology|NN history|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN ophthalmia|NN infant|NN women|NN gonorrhea|NN 
+women|NN gonorrhea|NN symptom|NN discharge|ST pain|ST pain|ST intercourse|NN inflammation|NN cervix|NN men|NN symptom|NN inflammation|NN urethra|ST sensation|NN urination|NN discharge|ST penis|NN men|NN discharge|ST burn|NN case|NN symptom|NN infection|NN men|NN women|NN gonorrhea|NN throat|NN sex|NN partner|NN partner|NN 
+infection|NN symptom|NN case|NN throat|NN case|NN gonorrhea|NN feel|NN tiredness|NN infection|NN individual|NN reaction|NN bacteria|NN case|NN symptom|NN 
+incubation|NN period|NN day|NN symptom|NN day|NN infection|NN 
+gonorrhea|NN skin|NN lesion|NN infection|NN pain|ST swell|NN joint|NN travel|NN blood|NN stream|NN 
+heart|NN endocarditis|DS column|NN meningitis|DS individual|NN system|NN 
+gonorrhea|NN risk|NN prostate|NN cancer|DS cause|NN view|NN neisseria|NN gonorrhea|NN bacterium|NN gonorrhea|NN 
+gonorrhea|NN bacterium|NN gonorrhea|NN infection|NN immunity|NN person|NN exposure|NN 
+person|NN sign|NN symptom|NN 
+infection|NN person|NN sex|NN men|NN risk|NN infection|NN act|NN intercourse|NN woman|NN 
+risk|NN men|NN sex|NN men|NN msm|NN msm|NN infection|NN msm|NN gonorrhea|NN women|NN risk|NN infection|NN act|NN intercourse|NN man|NN 
+mother|NN gonorrhea|NN childbirth|NN infant|NN eye|NN neonatorum|NN object|NN body|NN fluid|NN person|NN bacteria|NN body|NN minute|NN hour|NN diagnosis|NN 
+gonorrhea|NN gram|NN stain|NN culture|NN polymerase|NN chain|NN reaction|NN test|NN method|NN treatment|NN culture|NN sensitivity|NN antibiotics|NN 
+test|NN polymerase|NN chain|NN reaction|NN pcr|NN aka|NN acid|NN amplification|NN gene|NN n|NN gonorrhea|NN screen|NN diagnosis|NN gonorrhea|NN infection|NN 
+test|NN sample|NN urine|NN swab|NN swab|NN 
+culture|NN colony|NN bacteria|NN order|NN stain|NN cell|NN wall|NN morphology|NN presence|NN n|NN gonorrhea|NN specimen|NN type|NN urine|NN 
+gram|NN stain|NN pus|NN male|NN infection|NN test|NN diagnosis|NN gonorrhea|NN infection|NN case|NN infection|NN gram|NN stain|NN swab|NN n|NN gonorrhea|NN organism|NN sample|NN 
+chance|NN positive|NN native|NN flora|NN n|NN gonorrhea|NN 
+swab|NN condition|NN 
+oxidase|NN gram-negative|NN culture|NN swab|NN specimen|NN diagnosis|NN 
+culture|NN diagnosis|NN infection|NN throat|NN eye|NN blood|NN joint|NN area|NN test|NN lab|NN culture|NN sensitivity|NN test|NN treatment|NN failure|NN purpose|NN outbreak|NN surveillance|NN 
+patient|NN gonorrhea|NN site|NN pharynx|NN cervix|NN urethra|ST rectum|NN set|NN blood|NN culture|NN fluid|NN case|NN arthritis|DS 
+people|NN gonorrhea|NN disease|NN chlamydia|NN syphilis|DS immunodeficiency|NN virus|NN study|NN chlamydia|NN people|NN gonorrhea|NN reason|NN gonorrhea|NN chlamydia|NN test|NN people|NN gonorrhea|NN infection|NN increase|NN risk|NN hiv|DS transmission|NN person|NN hiv|DS shed|NN hiv|DS partner|NN episode|NN gonorrhea|NN screen|NN 
+united|NN states|NN service|NN task|NN force|NN screen|NN gonorrhea|NN women|NN risk|NN infection|NN women|NN year|NN 
+gonorrhea|NN chlamydia|NN men|NN sex|NN men|NN msm|NN uspstf|NN routine|NN screen|NN people|NN gonorrhea|NN partner|NN individual|NN condom|NN favor|NN money|NN sex|NN influence|NN alcohol|NN drug|NN 
+screen|NN gonorrhea|NN women|NN risk|NN disease|NN part|NN care|NN united|NN states|NN prevention|NN sex|NN 
+disease|NN risk|NN infection|NN use|NN condom|NN activity|NN relationship|NN person|NN 
+follow|NN care|NN infection|NN 
+addition|NN use|NN phone|NN contact|NN use|NN email|NN text|NN message|NN re-test|NN infection|NN 
+baby|NN birth|NN canal|NN ointment|NN eye|NN blindness|NN infection|NN 
+gonorrhea|NN prognosis|NN treatment|NN antibiotics|NN production|NN treatment|NN disease|NN 
+ceftriaxone|NN antibiotics|NN combination|NN azithromycin|NN doxycycline|NN cdc|NN rate|NN antibiotic|NN resistance|NN susceptibility|NN pattern|NN account|NN treatment|NN 
+adult|NN eye|NN gonorrhea|NN hygiene|NN medication|NN person|NN united|NN states|NN year|NN age|NN people|NN gonorrhea|NN infection|NN infection|NN partner|NN 
+partner|NN option|NN partner|NN people|NN partner|NN therapy|NN prescription|NN medication|NN person|NN partner|NN health|NN care|NN provider|NN 
+united|NN states|NN center|NN disease|NN control|NN prevention|NN cdc|NN individual|NN gonorrhea|NN contact|NN week|NN day|NN treatment|NN order|NN spread|NN bacterium|NN resistance|NN 
+antibiotics|NN penicillin|NN tetracycline|NN rate|NN resistance|NN resistance|NN cefixime|NN level|NN agent|NN united|NN states|NN person|NN week|NN infection|NN case|NN resistance|NN ceftriaxone|NN health|NN official|NN pattern|NN resistance|NN epidemic|NN health|NN protection|NN agency|NN drop|NN gonorrhea|NN antibiotic|NN resistance|NN year|NN life|NN year|NN gonorrhea|NN inhabitant|NN 
+data|NN 2639|NN 6578|NN 
+gonorrhea|NN week|NN month|NN risk|NN complication|NN complication|NN gonorrhea|NN dissemination|NN skin|NN arthritis|DS meningitis|DS women|NN men|NN 
+men|NN inflammation|NN prostate|NN gland|NN urethra|ST gonorrhea|NN women|NN result|NN gonorrhea|NN disease|NN 
+complication|NN inflammation|NN tissue|NN liver|NN complication|NN syndrome|NN arthritis|DS finger|NN wrist|NN toe|NN ankle|NN abortion|NN pregnancy|NN blindness|NN conjunctivitis|DS infertility|ST 
+men|NN gonorrhea|NN infection|NN risk|NN prostate|NN cancer|DS epidemiology|NN gonorrhea|NN rate|NN united|NN states|NN 
+case|NN gonorrhea|NN year|NN case|NN sty|NN year|NN syphilis|DS chlamydia|NN trichomoniasis|DS 2013|NN death|NN 
+united|NN kingdom|NN male|NN year|NN female|NN year|NN cdc|NN people|NN state|NN gonorrhea|NN infection|NN year|NN 
+infection|NN cdc|NN 
+321849|NN case|NN gonorrhea|NN cdc|NN 
+implementation|NN gonorrhea|NN control|NN program|NN mid-1970|NN gonorrhea|NN rate|NN 
+increase|NN gonorrhea|NN rate|NN 
+rate|NN gonorrhea|NN infection|NN person|NN 
+infection|NN chlamydia|NN cdc|NN american|NN gonorrhea|NN account|NN gonorrhea|NN case|NN 
+world|NN health|NN organization|NN 2017|NN spread|NN strain|NN gonorrhea|NN analysis|NN case|NN japan|NN france|NN spain|NN antibiotic|NN treatment|NN history|NN world|NN war|NN government|NN poster|NN personnel|NN danger|NN gonorrhea|NN infection|NN 
+scholar|NN term|NN male|NN zavah|NN female|NN gonorrhea|NN 
+mercury|NN treatment|NN gonorrhea|NN 
+surgeon|NN tool|NN board|NN warship|NN mary|NN rose|NN syringe|NN mercury|NN meatus|NN crewman|NN suffer|NN gonorrhea|NN 
+name|NN gonorrhea|NN reference|NN disease|NN century|NN district|NN paris|NN les|NN gonorrhea|NN iers|NN 
+rabbit|NN hole|NN hut|NN prostitute|NN 
+wilhelm|NN gollmann|NN gonorrhea|NN book|NN guide|NN disease|NN organ|NN 
+disease|NN prostitute|NN homosexual|NN city|NN 
+follow|NN cure|NN aconite|NN cure|NN shoot|NN pain|ST soreness|NN inflammation|NN mercury|NN stitch|NN pain|ST discharge|ST vomica|NN sulphur|NN symptom|NN hemorrhoid|DS stricture|NN rectum|NN 
+remedy|NN gold|NN belladonna|NN phosphorus|NN sepia|NN 
+silver|NN nitrate|NN drug|NN century|NN 
+arthur|NN eichengrün|NN type|NN silver|NN bayer|NN 
+treatment|NN antibiotics|NN use|NN 
+time|NN onset|NN gonorrhea|NN disease|NN epidemic|NN record|NN 
+notation|NN act|NN parliament|NN 
+body|NN law|NN spread|NN infirmity|NN symptom|NN gonorrhea|NN 
+decree|NN louis|NN france|NN regulation|NN banishment|NN symptom|NN siege|NN acre|NN crusader|NN 
+appearance|NN gonorrhea|NN epidemic|NN change|NN society|NN 
+city|NN health|NN doctor|NN patient|NN right|NN refusal|NN 
+pope|NN boniface|NN requirement|NN physician|NN study|NN order|NN priesthood|NN 
+health|NN physician|NN employ|NN city|NN prostitute|NN burn|NN leper|NN epidemic|NN victim|NN pope|NN boniface|NN practice|NN medicine|NN physician|NN disease|NN research|NN 
+vaccine|NN gonorrhea|NN mice|NN use|NN study|NN population|NN 
+development|NN vaccine|NN evolution|NN strain|NN variation|NN ability|NN n|NN gonorrhea|NN surface|NN marker|NN system|NN 
+n|NN gonorrhea|NN n|NN homology|NN sequence|NN cross-protection|NN vaccine|NN 
+study|NN 2017|NN group|NN vaccine|NN protection|NN gonorrhea|NN vaccine|NN efficiency|NN 

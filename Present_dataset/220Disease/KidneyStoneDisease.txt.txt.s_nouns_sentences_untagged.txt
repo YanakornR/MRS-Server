@@ -1,0 +1,241 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN kidney|NN stone|NN disease|NN name|NN kidney|NN stone|NN disease|NN kidney|NN stone|NN disease|NN kidney|NN stone|NN disease|NN kidney|NN stone|NN disease|NN kidney|NN stone|NN disease|NN color|NN photograph|NN kidney|NN stone|NN disease|NN millimetre|NN length|NN 
+kidney|NN stone|NN disease|NN diameter|NN symptom|NN pain|ST back|NN abdomen|NN blood|NN urine|NN vomit|NN nausea|ST cause|NN factor|NN method|NN symptom|NN urine|NN test|NN image|NN diagnosis|NN aneurysm|DS appendicitis|DS prevention|NN drink|NN fluid|NN liter|NN urine|NN day|NN treatment|NN pain|ST medication|NN shock|NN wave|NN lithotripsy|NN kidney|NN stone|NN disease|NN frequency|NN death|NN 
+kidney|NN stone|NN disease|NN kidney|NN stone|NN disease|NN piece|NN material|NN kidney|NN stone|NN disease|NN tract|NN kidney|NN stone|NN disease|NN form|NN kidney|NN body|NN urine|NN stream|NN stone|NN symptom|NN stone|NN blockage|NN ureter|NN pain|ST back|NN abdomen|NN stone|NN blood|NN urine|NN vomit|NN urination|NN people|NN stone|NN year|NN 
+stone|NN combination|NN genetics|NN factor|NN factor|NN urine|NN calcium|NN level|NN obesity|NN food|NN medication|NN calcium|NN supplement|NN gout|DS fluid|NN stone|NN form|NN kidney|NN mineral|NN urine|NN concentration|NN diagnosis|NN symptom|NN urine|NN test|NN image|NN blood|NN test|NN stone|NN location|NN kidney|NN stone|NN disease|NN kidney|NN cystolithiasis|NN bladder|NN calcium|NN acid|NN 
+stone|NN prevention|NN drink|NN fluid|NN liter|NN urine|NN day|NN citrate|NN drink|NN acid|NN stone|NN symptom|NN treatment|NN pain|ST control|NN measure|NN medication|NN drug|NN opioid|NN stone|NN medication|NN procedure|NN shock|NN wave|NN lithotripsy|NN kidney|NN stone|NN disease|NN 
+people|NN kidney|NN stone|NN disease|NN point|NN live|NN case|NN death|NN world|NN men|NN women|NN kidney|NN stone|NN disease|NN human|NN history|NN description|NN surgery|NN bc|NN content|NN 
+sign|NN symptom|NN risk|NN factor|NN calcium|NN electrolyte|NN animal|NN protein|NN vitamin|NN supersaturation|NN urine|NN inhibitor|NN stone|NN formation|NN diagnosis|NN image|NN study|NN laboratory|NN examination|NN composition|NN location|NN size|NN prevention|NN measure|NN urine|NN treatment|NN pain|ST management|NN therapy|NN surgery|NN epidemiology|NN history|NN research|NN direction|NN children|NN animal|NN reference|NN note|NN link|NN 
+sign|NN symptom|NN diagram|NN location|NN rib|NN cage|NN pelvis|NN 
+hallmark|NN stone|NN ureter|NN pelvis|NN pain|ST flank|NN groin|NN thigh|NN pain|ST pain|ST sensation|NN kidney|NN stone|NN disease|NN urgency|NN restlessness|NN nausea|ST vomit|NN 
+wave|NN minute|NN contraction|NN ureter|NN stone|NN 
+link|NN tract|NN system|NN tract|NN basis|NN radiation|NN pain|ST gonad|NN nausea|ST vomit|NN kidney|NN stone|NN disease|NN postrenal|NN obstruction|NN urine|NN flow|NN 
+pain|ST quadrant|NN diverticulitis|DS colon|NN ureter|NN location|NN pain|ST proximity|NN structure|NN 
+risk|NN factor|NN 
+fluid|NN intake|NN factor|NN stone|NN formation|NN obesity|NN risk|NN factor|NN 
+intake|NN animal|NN protein|NN sodium|NN sugar|NN honey|NN sugar|NN fructose|NN fructose|NN corn|NN syrup|NN grapefruit|NN juice|NN apple|NN juice|NN risk|NN kidney|NN stone|NN disease|NN formation|NN 
+kidney|NN stone|NN disease|NN condition|NN acidosis|NN disease|NN hyperoxaluria|DS sponge|NN kidney|NN people|NN kidney|NN stone|NN disease|NN sponge|NN kidney|NN 
+kidney|NN stone|NN disease|NN people|NN disease|NN disease|NN hyperoxaluria|DS malabsorption|NN magnesium|NN 
+person|NN kidney|NN stone|NN disease|NN disorder|NN 
+urine|NN collection|NN 
+urine|NN feature|NN stone|NN formation|NN calcium|NN kidney|NN stone|NN disease|NN yellow|NN calcium|NN 
+calcium|NN component|NN type|NN kidney|NN stone|NN disease|NN calcium|NN 
+people|NN calcium|NN vitamin|NN d|NN supplement|NN risk|NN kidney|NN stone|NN disease|NN 
+united|NN states|NN kidney|NN stone|NN disease|NN formation|NN indicator|NN calcium|NN intake|NN reference|NN intake|NN committee|NN calcium|NN adult|NN 
+study|NN womens|NN health|NN initiative|NN women|NN mg|NN calcium|NN unit|NN vitamin|NN day|NN year|NN risk|NN kidney|NN stone|NN disease|NN subject|NN placebo|NN nurse|NN health|NN study|NN association|NN calcium|NN intake|NN kidney|NN stone|NN disease|NN formation|NN 
+calcium|NN intake|NN calcium|NN kidney|NN stone|NN disease|NN development|NN role|NN calcium|NN oxalate|NN tract|NN 
+amount|NN calcium|NN intake|NN amount|NN absorption|NN bloodstream|NN oxalate|NN amount|NN urine|NN kidney|NN 
+urine|NN oxalate|NN promoter|NN calcium|NN time|NN calcium|NN 
+study|NN diet|NN calcium|NN risk|NN kidney|NN stone|NN disease|NN formation|NN individual|NN risk|NN factor|NN kidney|NN stone|NN disease|NN intake|NN oxalate|NN fluid|NN intake|NN play|NN role|NN calcium|NN intake|NN electrolyte|NN 
+calcium|NN electrolyte|NN formation|NN kidney|NN stone|NN disease|NN 
+example|NN calcium|NN excretion|NN sodium|NN risk|NN stone|NN formation|NN 
+drink|NN tap|NN water|NN risk|NN kidney|NN stone|NN disease|NN formation|NN mechanism|NN study|NN fluoride|NN drink|NN water|NN incidence|NN kidney|NN stone|NN disease|NN intake|NN potassium|NN risk|NN stone|NN formation|NN potassium|NN excretion|NN citrate|NN inhibitor|NN calcium|NN crystal|NN formation|NN 
+kidney|NN stone|NN disease|NN person|NN magnesium|NN 
+magnesium|NN stone|NN formation|NN animal|NN protein|NN 
+nation|NN proportion|NN animal|NN protein|NN 
+eate|NN animal|NN protein|NN acid|NN load|NN excretion|NN calcium|NN acid|NN citrate|NN 
+excretion|NN excess|NN amino|NN acid|NN cysteine|NN acid|NN metabolite|NN animal|NN protein|NN urine|NN formation|NN kidney|NN stone|NN disease|NN urinary-citrate|NN excretion|NN intake|NN animal|NN protein|NN vegetarian|NN level|NN excretion|NN citrate|NN stone|NN formation|NN vitamin|NN 
+evidence|NN link|NN vitamin|NN c|NN supplement|NN rate|NN kidney|NN stone|NN disease|NN intake|NN vitamin|NN risk|NN stone|NN formation|NN practice|NN link|NN vitamin|NN d|NN intake|NN kidney|NN stone|NN disease|NN 
+vitamin|NN d|NN supplementation|NN risk|NN stone|NN formation|NN absorption|NN calcium|NN correction|NN deficiency|NN 
+data|NN relationship|NN beverage|NN consumption|NN kidney|NN stone|NN disease|NN 
+people|NN behavior|NN binge|NN drink|NN dehydration|NN turn|NN lead|NN development|NN kidney|NN stone|NN disease|NN 
+urological|NN association|NN warm|NN incidence|NN kidney|NN stone|NN disease|NN united|NN states|NN kidney|NN stone|NN disease|NN belt|NN united|NN states|NN 
+study|NN people|NN disorder|NN chemotherapy|NN kidney|NN stone|NN disease|NN time|NN crystal|NN kidney|NN 
+crystal|NN calcium|NN mm|NN 
+calcium|NN crystal|NN nucleus|NN 
+combination|NN inhibition|NN 
+deposition|NN papillae|NN growth|NN kidney|NN stone|NN disease|NN 
+kidney|NN stone|NN disease|NN debris|NN 
+case|NN kidney|NN stone|NN disease|NN block|NN route|NN papillae|NN discomfort|NN 
+staghorn|NN stone|NN form|NN retention|NN 
+solid|NN gland|NN discomfort|NN 
+stone|NN travel|NN ureter|NN 
+urinary-citrate|NN excretion|NN mgday|NN kidney|NN stone|NN disease|NN case|NN 
+role|NN citrate|NN mechanism|NN fact|NN citrate|NN supersaturation|NN calcium|NN salt|NN complexe|NN calcium|NN ion|NN crystal|NN growth|NN aggregation|NN 
+therapy|NN potassium|NN citrate|NN magnesium|NN potassium|NN citrate|NN practice|NN order|NN citrate|NN stone|NN formation|NN rate|NN urine|NN 
+urine|NN urine|NN solvent|NN solution|NN substance|NN seed|NN crystal|NN process|NN nucleation|NN nucleation|NN surface|NN present|NN crystal|NN procee|NN nucleation|NN crystal|NN medium|NN surface|NN energy|NN 
+cell|NN surface|NN papilla|NN seed|NN crystal|NN mass|NN 
+composition|NN crystal|NN process|NN urine|NN ph|NN 
+supersaturation|NN urine|NN respect|NN compound|NN 
+example|NN ph|NN solubility|NN acid|NN urine|NN ml|NN 
+ph|NN decrease|NN solubility|NN acid|NN ml|NN 
+formation|NN stone|NN combination|NN urine|NN level|NN urine|NN ph|NN stone|NN formation|NN urine|NN ph|NN urine|NN condition|NN development|NN calculus|NN supersaturation|NN cause|NN acid|NN cystine|NN stone|NN stone|NN calcium|NN stone|NN cause|NN inhibitor|NN stone|NN formation|NN 
+urine|NN agent|NN nucleation|NN growth|NN aggregation|NN crystal|NN 
+inhibitor|NN s-100|NN protein|NN protein|NN form|NN osteopontin|NN glycoprotein|NN prothrombin|NN peptide|NN bikunin|NN protein|NN 
+mechanism|NN action|NN substance|NN 
+substance|NN proportion|NN stone|NN aggregation|NN crystal|NN 
+intake|NN magnesium|NN citrate|NN formation|NN calcium|NN calcium|NN phosphate|NN stone|NN addition|NN magnesium|NN citrate|NN kidney|NN stone|NN disease|NN 
+efficacy|NN stone|NN formation|NN growth|NN diagnosis|NN 
+diagnosis|NN kidney|NN stone|NN disease|NN basis|NN information|NN history|NN examination|NN study|NN diagnosis|NN basis|NN location|NN severity|NN pain|ST nature|NN wave|NN 
+pain|ST back|NN calculy|NN obstruction|NN kidney|NN examination|NN fever|ST tenderness|NN angle|NN side|NN image|NN study|NN 
+people|NN history|NN stone|NN year|NN age|NN symptom|NN stone|NN sign|NN ct|NN scan|NN image|NN ct|NN scan|NN children|NN 
+ct|NN scan|NN section|NN modality|NN choice|NN evaluation|NN kidney|NN stone|NN disease|NN stone|NN ct|NN scan|NN stone|NN drug|NN residue|NN urine|NN 
+stone|NN radiograph|NN abdomen|NN kidney|NN bladder|NN film|NN stone|NN calcium|NN phosphate|NN stone|NN density|NN calcium|NN magnesium|NN ammonium|NN phosphate|NN stone|NN 
+calculy|NN acid|NN stone|NN 
+ct|NN scan|NN pyelogram|NN diagnosis|NN kidney|NN stone|NN disease|NN 
+injection|NN contrast|NN agent|NN film|NN 
+present|NN kidney|NN bladder|NN use|NN contrast|NN agent|NN 
+stone|NN retrograde|NN contrast|NN agent|NN ostium|NN ureter|NN ureter|NN bladder|NN 
+ultrasonography|NN detail|NN presence|NN hydronephrosis|DS stone|NN outflow|NN urine|NN stone|NN kub|NN ultrasound|NN image|NN study|NN 
+advantage|NN ultrasonography|NN cost|NN absence|NN radiation|NN exposure|NN 
+ultrasound|NN image|NN stone|NN situation|NN x-ray|NN ct|NN scan|NN children|NN women|NN advantage|NN ultrasonography|NN 2009|NN substitute|NN ct|NN scan|NN evaluation|NN kidney|NN stone|NN disease|NN reason|NN ct|NN ultrasonography|NN stone|NN stone|NN disorder|NN symptom|NN study|NN ultrasonography|NN ct|NN test|NN result|NN radiation|NN exposure|NN complication|NN 
+kidney|NN stone|NN disease|NN radiograph|NN 
+phlebolith|NN pelvis|NN bladder|NN stone|NN 
+ct|NN scan|NN abdomen|NN contrast|NN stone|NN arrow|NN ureter|NN 
+ultrasonograph|NN stone|NN junction|NN hydronephrosis|DS 
+measurement|NN mm|NN kidney|NN stone|NN disease|NN tissue|NN ct|NN window|NN 
+laboratory|NN examination|NN crystal|NN examination|NN urine|NN 
+laboratory|NN investigation|NN 
+examination|NN urine|NN blood|NN cell|NN bacteria|NN leukocyte|NN cast|NN crystal|NN urine|NN culture|NN organism|NN tract|NN sensitivity|NN susceptibility|NN organism|NN antibiotics|NN blood|NN count|NN neutrophil|NN count|NN infection|NN set|NN stone|NN function|NN test|NN blood|NN calcium|NN blood|NN level|NN hour|NN urine|NN collection|NN volume|NN magnesium|NN sodium|NN acid|NN calcium|NN citrate|NN phosphate|NN collection|NN stone|NN stonescreen|NN kidney|NN stone|NN disease|NN collection|NN cup|NN tea|NN strainer|NN 
+analysis|NN stone|NN composition|NN turn|NN management|NN 
+composition|NN kidney|NN stone|NN disease|NN type|NN population|NN circumstance|NN color|NN sensitivity|NN detail|NN calcium|NN urine|NN ph|NN radio-opaque|NN oxalate|NN urine|NN body|NN 
+calcium|NN oxalate|NN diet|NN part|NN factor|NN formation|NN calcium|NN stone|NN 
+oxalate|NN vegetable|NN fruit|NN nut|NN 
+calcium|NN bone|NN role|NN kidney|NN stone|NN disease|NN formation|NN 
+calcium|NN phosphate|NN urine|NN ph|NN radio-opaque|NN urine|NN bacteria|NN 
+acid|NN urine|NN radiolucent|NN animal|NN protein|NN purine|NN substance|NN food|NN organ|NN meat|NN fish|NN shellfish|NN 
+infection|NN kidney|NN radio-opaque|NN prevention|NN stone|NN 
+diet|NN stone|NN formation|NN 
+disorder|NN radio-opaque|NN amino|NN acid|NN build|NN block|NN protein|NN leak|NN kidney|NN urine|NN form|NN crystal|NN 
+brick|NN red|NN electron|NN micrograph|NN surface|NN kidney|NN stone|NN disease|NN crystal|NN calcium|NN oxalate|NN part|NN stone|NN length|NN picture|NN mm|NN kidney|NN stone|NN disease|NN acid|NN amount|NN calcium|NN kidney|NN stone|NN disease|NN urine|NN stone|NN 
+type|NN kidney|NN stone|NN disease|NN calcium|NN 
+example|NN stone|NN case|NN united|NN states|NN calcium|NN combination|NN calcium|NN phosphate|NN form|NN apatite|NN brushite|NN factor|NN precipitation|NN crystal|NN urine|NN hyperoxaluria|DS development|NN calcium|NN stone|NN formation|NN calcium|NN phosphate|NN stone|NN condition|NN acidosis|NN 
+patient|NN disorder|NN bowel|NN disease|NN disease|NN patient|NN resection|NN bowel|NN bypass|NN procedure|NN 
+patient|NN amount|NN oxalate|NN vegetable|NN nut|NN 
+hyperoxaluria|DS condition|NN childhood|NN 
+calcium|NN crystal|NN urine|NN envelope|NN 
+calculy|NN ammonium|NN magnesium|NN phosphate|NN stone|NN infection|NN stone|NN urease|NN triple-phosphate|NN stone|NN form|NN presence|NN infection|NN bacteria|NN 
+enzyme|NN urease|NN organism|NN urea|NN ammonia|NN carbon|NN dioxide|NN 
+urine|NN condition|NN formation|NN stone|NN 
+proteus|NN mirabilis|NN proteus|NN vulgaris|NN morganella|NN morganiy|NN organism|NN organism|NN urealyticum|NN specy|NN klebsiella|NN 
+infection|NN stone|NN people|NN factor|NN tract|NN infection|NN cord|NN injury|NN form|NN bladder|NN conduit|NN diversion|NN reflux|NN uropathy|NN 
+people|NN disorder|NN hypercalciuria|NN gout|DS 
+infection|NN stone|NN calyceal|NN calculy|NN surgery|NN kidney|NN stone|NN disease|NN treatment|NN 
+stone|NN ammonium|NN phosphate|NN coffin|NN lid|NN morphology|NN microscopy|NN acid|NN stone|NN 
+stone|NN acid|NN people|NN abnormality|NN obesity|NN acid|NN stone|NN 
+association|NN condition|NN cause|NN amount|NN acid|NN urine|NN amount|NN acid|NN serum|NN 
+association|NN disorder|NN metabolism|NN urine|NN ph|NN precipitation|NN acid|NN crystal|NN 
+diagnosis|NN acid|NN kidney|NN stone|NN disease|NN presence|NN stone|NN face|NN urine|NN acidity|NN conjunction|NN find|NN acid|NN crystal|NN urine|NN sample|NN 
+section|NN calcium|NN stone|NN people|NN bowel|NN disease|NN disease|NN colitis|DS form|NN stone|NN 
+tendency|NN stone|NN 
+stone|NN colon|NN resection|NN 
+acid|NN stone|NN crystal|NN 
+square|NN rod|NN type|NN 
+people|NN error|NN metabolism|NN propensity|NN substance|NN urine|NN 
+example|NN cystinosis|DS syndrome|NN stone|NN 
+stone|NN formation|NN urine|NN protein|NN restriction|NN 
+people|NN stone|NN xanthine|NN 
+people|NN phosphoribosyltransferase|NN deficiency|NN stone|NN acid|NN stone|NN iminoglycinurics|NN stone|NN glycine|NN proline|NN kidney|NN stone|NN disease|NN set|NN drug|NN use|NN crystal|NN drug|NN tract|NN people|NN agent|NN sulfadiazine|NN location|NN illustration|NN kidney|NN stone|NN disease|NN 
+kidney|NN stone|NN disease|NN stone|NN system|NN kidney|NN bladder|NN kidney|NN stone|NN disease|NN presence|NN stone|NN kidney|NN 
+calculy|NN aggregation|NN calyx|NN part|NN kidney|NN pass|NN urine|NN ureter|NN tube|NN kidney|NN bladder|NN 
+condition|NN calculus|NN ureter|NN 
+stone|NN bladder|NN condition|NN bladder|NN stone|NN size|NN staghorn|NN calculus|NN calyce|NN pelvis|NN person|NN scoliosis|DS 
+stone|NN mm|NN diameter|NN pass|NN case|NN mm|NN diameter|NN pass|NN case|NN 
+stone|NN calyce|NN stone|NN struvite|NN majority|NN case|NN form|NN presence|NN bacteria|NN 
+form|NN stone|NN calcium|NN monohydrate|NN acid|NN prevention|NN 
+measure|NN type|NN stone|NN 
+calcium|NN stone|NN fluid|NN diuretics|NN citrate|NN acid|NN level|NN blood|NN urine|NN measure|NN 
+therapy|NN type|NN stone|NN 
+diet|NN effect|NN development|NN kidney|NN stone|NN disease|NN 
+strategy|NN combination|NN modification|NN medication|NN goal|NN load|NN compound|NN kidney|NN recommendation|NN formation|NN kidney|NN stone|NN disease|NN 
+fluid|NN intake|NN liter|NN day|NN urine|NN output|NN cola|NN drink|NN liter|NN week|NN animal|NN protein|NN intake|NN meal|NN association|NN animal|NN protein|NN recurrence|NN kidney|NN stone|NN disease|NN men|NN 
+maintenance|NN urine|NN mean|NN fluid|NN therapy|NN form|NN kidney|NN stone|NN disease|NN urine|NN volume|NN principle|NN prevention|NN kidney|NN stone|NN disease|NN 
+fluid|NN intake|NN urine|NN output|NN litre|NN fl|NN oz|NN day|NN fluid|NN intake|NN reduction|NN recurrence|NN risk|NN quality|NN evidence|NN 
+calcium|NN oxalate|NN tract|NN absorption|NN bloodstream|NN absorption|NN kidney|NN stone|NN disease|NN risk|NN people|NN doctor|NN chew|NN calcium|NN tablet|NN meal|NN food|NN calcium|NN citrate|NN supplement|NN meal|NN calcium|NN mean|NN 
+calcium|NN supplement|NN people|NN risk|NN stone|NN formation|NN calcium|NN citrate|NN citrate|NN excretion|NN 
+hydration|NN eate|NN calcium|NN prevention|NN strategy|NN avoidance|NN dose|NN vitamin|NN c|NN restriction|NN food|NN leaf|NN vegetable|NN rhubarb|NN product|NN chocolate|NN trial|NN restriction|NN hypothesis|NN restriction|NN stone|NN formation|NN evidence|NN magnesium|NN intake|NN risk|NN kidney|NN stone|NN disease|NN urine|NN 
+mainstay|NN management|NN acid|NN stone|NN ph|NN urine|NN 
+acid|NN stone|NN type|NN dissolution|NN therapy|NN 
+use|NN medication|NN case|NN agent|NN instillation|NN irrigate|NN agent|NN stone|NN nephrostomy|NN retrograde|NN catheter|NN medication|NN urine|NN 
+addition|NN acetazolamide|NN supplement|NN alkalinization|NN urine|NN 
+sodium|NN bicarbonate|NN potassium|NN citrate|NN magnesium|NN citrate|NN combination|NN acid|NN sodium|NN citrate|NN alkalinization|NN urine|NN supplement|NN advantage|NN citrate|NN level|NN aggregation|NN calcium|NN stone|NN 
+urine|NN ph|NN condition|NN dissolution|NN acid|NN stone|NN 
+urine|NN ph|NN value|NN increase|NN risk|NN calcium|NN phosphate|NN stone|NN formation|NN 
+urine|NN paper|NN urine|NN ph|NN range|NN 
+approach|NN stone|NN dissolution|NN rate|NN mm|NN stone|NN radius|NN month|NN 
+therapy|NN prevention|NN stone|NN thiazide|NN thiazide-like|NN diuretics|NN 
+drug|NN formation|NN stone|NN calcium|NN excretion|NN sodium|NN restriction|NN effect|NN thiazide|NN sodium|NN excess|NN calcium|NN excretion|NN 
+work|NN leak|NN urine|NN calcium|NN level|NN condition|NN calcium|NN level|NN kidney|NN defect|NN 
+condition|NN calcium|NN result|NN absorption|NN tract|NN 
+people|NN hyperuricosuria|NN calcium|NN stone|NN treatment|NN kidney|NN stone|NN disease|NN recurrence|NN 
+production|NN acid|NN liver|NN 
+drug|NN people|NN gout|DS serum|NN acid|NN level|NN excretion|NN acid|NN 
+serum|NN acid|NN level|NN ml|NN goal|NN 
+formation|NN acid|NN stone|NN presence|NN serum|NN acid|NN 
+practitioner|NN people|NN hyperuricosuria|NN use|NN agent|NN sodium|NN bicarbonate|NN potassium|NN citrate|NN treatment|NN 
+stone|NN size|NN rate|NN stone|NN passage|NN 
+example|NN stone|NN mm|NN diameter|NN urination|NN week|NN onset|NN symptom|NN stone|NN mm|NN diameter|NN rate|NN passage|NN stone|NN location|NN likelihood|NN stone|NN passage|NN 
+rate|NN increase|NN stone|NN ureter|NN stone|NN junction|NN stone|NN size|NN obstruction|NN infection|NN tract|NN symptom|NN nonsurgical|NN measure|NN passage|NN stone|NN stone|NN former|NN benefit|NN management|NN fluid|NN intake|NN use|NN medication|NN monitor|NN pain|ST management|NN 
+management|NN pain|ST administration|NN nsaids|NN opioid|NN nsaids|NN opioid|NN paracetamol|NN kidney|NN function|NN mouth|NN discomfort|NN use|NN antispasmodics|NN benefit|NN expulsive|NN therapy|NN 
+use|NN medication|NN passage|NN stone|NN ureter|NN expulsive|NN therapy|NN agent|NN alpha|NN blocker|NN calcium|NN channel|NN blocker|NN nifedipine|NN result|NN people|NN stone|NN stone|NN time|NN stone|NN mm|NN size|NN stone|NN combination|NN tamsulosin|NN corticosteroid|NN treatment|NN addition|NN lithotripsy|NN machine|NN operate|NN room|NN equipment|NN background|NN machine|NN fluoroscopic|NN system|NN c-arm|NN 
+shock|NN wave|NN lithotripsy|NN eswl|NN technique|NN removal|NN kidney|NN stone|NN disease|NN 
+eswl|NN stone|NN pelvis|NN 
+use|NN machine|NN high-intensity|NN pulse|NN energy|NN cause|NN fragmentation|NN stone|NN period|NN minute|NN 
+introduction|NN united|NN states|NN february|NN treatment|NN alternative|NN stone|NN treatment|NN stone|NN kidney|NN stone|NN burden|NN stone|NN size|NN number|NN mm|NN anatomy|NN kidney|NN 
+stone|NN mm|NN stone|NN treatment|NN treatment|NN 
+calculy|NN eswl|NN number|NN factor|NN efficacy|NN composition|NN stone|NN presence|NN anatomy|NN location|NN stone|NN kidney|NN presence|NN body|NN mass|NN index|NN distance|NN stone|NN surface|NN skin|NN effect|NN eswl|NN trauma|NN site|NN shock|NN administration|NN damage|NN blood|NN vessel|NN kidney|NN fact|NN majority|NN people|NN dose|NN shock|NN wave|NN treatment|NN set|NN degree|NN kidney|NN injury|NN 
+kidney|NN injury|NN increase|NN number|NN shock|NN wave|NN power|NN set|NN lithotriptor|NN bleed|NN subcapsular|NN 
+occasion|NN case|NN blood|NN transfusion|NN failure|NN 
+rate|NN type|NN hematoma|NN rate|NN machine|NN study|NN tissue|NN injury|NN treatment|NN protocol|NN pause|NN initiation|NN treatment|NN stone|NN breakage|NN reduction|NN injury|NN shock|NN wave|NN rate|NN 
+addition|NN potential|NN kidney|NN injury|NN animal|NN study|NN injury|NN scar|NN formation|NN loss|NN volume|NN study|NN people|NN risk|NN hypertension|DS 
+addition|NN study|NN researcher|NN mayo|NN clinic|NN risk|NN diabete|NN mellitus|NN hypertension|DS people|NN age|NN people|NN treatment|NN 
+trauma|NN effect|NN factor|NN shock|NN wave|NN dose|NN number|NN shock|NN wave|NN rate|NN delivery|NN power|NN characteristics|NN lithotriptor|NN frequency|NN retreatment|NN pathophysiologic|NN risk|NN factor|NN 
+concern|NN urological|NN association|NN shock|NN wave|NN task|NN force|NN expert|NN opinion|NN safety|NN ratio|NN 
+task|NN force|NN paper|NN conclusion|NN 
+ratio|NN people|NN advantage|NN eswl|NN nature|NN fact|NN tract|NN calculy|NN well-tolerate|NN treatment|NN majority|NN people|NN 
+shock|NN wave|NN fire|NN rate|NN pulse|NN minute|NN pulse|NN minute|NN risk|NN injury|NN degree|NN stone|NN fragmentation|NN surgery|NN ct|NN scan|NN image|NN kidney|NN arrow|NN kidney|NN stone|NN disease|NN pelvis|NN arrow|NN ureter|NN arrow|NN kidney|NN stone|NN disease|NN tip|NN stone|NN disintegration|NN apparatus|NN 
+stone|NN mm|NN pass|NN surgery|NN person|NN kidney|NN stone|NN tract|NN infection|NN kidney|NN pain|ST begine|NN mid-1980|NN treatment|NN shock|NN wave|NN lithotripsy|NN kidney|NN stone|NN disease|NN surgery|NN modality|NN choice|NN management|NN kidney|NN stone|NN disease|NN ureteroscopy|NN retrograde|NN creation|NN kidney|NN stone|NN disease|NN 
+approach|NN investigation|NN result|NN kidney|NN stone|NN disease|NN otomy|NN kidney|NN stone|NN disease|NN otomy|NN treatment|NN choice|NN stone|NN calculy|NN stone|NN procedure|NN surgery|NN 
+technique|NN placement|NN tube|NN bladder|NN ureter|NN kidney|NN relief|NN kidney|NN 
+placement|NN kidney|NN risk|NN failure|NN pressure|NN swell|NN infection|NN stone|NN 
+stent|NN length|NN cm|NN shape|NN double-j|NN pigtail|NN curl|NN end|NN 
+urine|NN flow|NN obstruction|NN ureter|NN 
+ureter|NN day|NN week|NN infection|NN resolve|NN stone|NN eswl|NN treatment|NN 
+stent|NN ureter|NN instrumentation|NN landmark|NN aid|NN visualization|NN ureter|NN stone|NN examination|NN 
+presence|NN ureteral|NN stent|NN discomfort|NN frequency|NN urgency|NN incontinence|NN infection|NN general|NN removal|NN 
+stent|NN office|NN visit|NN anesthesia|NN resolution|NN kidney|NN stone|NN disease|NN 
+ureteroscopic|NN technique|NN stone|NN extraction|NN obstruction|NN basket|NN extraction|NN ultrasound|NN 
+laser|NN lithotripsy|NN technique|NN use|NN aluminium|NN garnet|NN laser|NN fragment|NN stone|NN bladder|NN kidney|NN 
+technique|NN stone|NN ureter|NN success|NN rate|NN 93100|NN laser|NN lithotripsy|NN practitioner|NN stone|NN ureter|NN experience|NN technique|NN advantage|NN treatment|NN ureteral|NN stone|NN 
+success|NN rate|NN repeat|NN intervention|NN visit|NN treatment|NN cost|NN treatment|NN 
+advantage|NN stone|NN mm|NN diameter|NN 
+ureter|NN urologist|NN treatment|NN stone|NN mm|NN ureteroscopy|NN mm|NN diameter|NN ureteroscopy|NN treatment|NN people|NN disorder|NN epidemiology|NN country|NN prevalence|NN year|NN prevalence|NN year|NN united|NN states|NN italy|NN scotland|NN spain|NN turkey|NN country|NN case|NN year|NN trend|NN united|NN states|NN germany|NN japan|NN spain|NN sweden|NN kidney|NN stone|NN disease|NN death|NN person|NN 2012|NN 
+kidney|NN stone|NN disease|NN group|NN 
+lifetime|NN risk|NN world|NN east|NN 
+risk|NN dehydration|NN climate|NN diet|NN calcium|NN oxalate|NN diet|NN account|NN net|NN risk|NN east|NN east|NN acid|NN stone|NN stone|NN number|NN death|NN kidney|NN stone|NN disease|NN 19000|NN year|NN 
+north|NN america|NN europe|NN number|NN case|NN year|NN kidney|NN stone|NN disease|NN 
+united|NN states|NN frequency|NN population|NN kidney|NN stone|NN disease|NN mid-1970|NN united|NN states|NN population|NN kidney|NN stone|NN disease|NN 
+cost|NN kidney|NN stone|NN disease|NN kidney|NN stone|NN disease|NN men|NN stone|NN women|NN defect|NN infection|NN p|NN men|NN episode|NN year|NN age|NN women|NN age|NN presentation|NN age|NN onset|NN distribution|NN women|NN episode|NN year|NN rate|NN period|NN people|NN episode|NN course|NN lifetime|NN 
+review|NN rate|NN disease|NN history|NN list|NN kidney|NN stone|NN disease|NN former|NN 
+existence|NN kidney|NN stone|NN disease|NN year|NN removal|NN stone|NN procedure|NN stone|NN pelvis|NN mummy|NN 
+text|NN mesopotamia|NN india|NN china|NN persia|NN greece|NN rome|NN disease|NN 
+part|NN oath|NN surgeon|NN greece|NN physician|NN 
+treatise|NN de|NN medicina|NN aulus|NN cornelius|NN celsus|NN description|NN lithotomy|NN work|NN basis|NN procedure|NN century|NN 
+people|NN kidney|NN stone|NN disease|NN former|NN napoleon|NN i|NN epicurus|NN napoleon|NN peter|NN louis|NN george|NN oliver|NN cromwell|NN lyndon|NN b|NN 
+johnson|NN benjamin|NN franklin|NN michel|NN de|NN montaigne|NN francis|NN bacon|NN isaac|NN newton|NN samuel|NN pepys|NN william|NN harvey|NN herman|NN antonio|NN scarpa|NN 
+technique|NN lithotomy|NN start|NN operation|NN 
+henry|NN jacob|NN bigelow|NN technique|NN litholapaxy|NN mortality|NN rate|NN 
+treatment|NN technique|NN level|NN mortality|NN urologist|NN dornier|NN medtech|NN shock|NN wave|NN lithotripsy|NN stone|NN pulse|NN technique|NN use|NN 
+mean|NN kidney|NN calculus|NN mean|NN pebble|NN 
+stone|NN formation|NN kidney|NN kidney|NN stone|NN disease|NN 
+mean|NN kidney|NN mean|NN stone|NN mean|NN disorder|NN 
+research|NN direction|NN 
+crystallization|NN calcium|NN substance|NN urine|NN formation|NN growth|NN aggregation|NN adherence|NN crystal|NN cell|NN 
+urine|NN salt|NN precipitation|NN chromatography|NN researcher|NN calgranulin|NN protein|NN kidney|NN inhibitor|NN formation|NN calcium|NN crystal|NN 
+level|NN inhibition|NN growth|NN aggregation|NN calcium|NN crystal|NN factor|NN prevention|NN kidney|NN stone|NN disease|NN children|NN 
+kidney|NN stone|NN disease|NN children|NN incidence|NN stone|NN kidney|NN case|NN ureter|NN case|NN 
+children|NN risk|NN sex|NN 
+adult|NN kidney|NN stone|NN disease|NN calcium|NN oxalate|NN calcium|NN phosphate|NN stone|NN 
+calcium|NN stone|NN children|NN amount|NN calcium|NN magnesium|NN urine|NN animal|NN 
+ruminant|NN cause|NN problem|NN male|NN female|NN flexure|NN tract|NN passage|NN 
+male|NN risk|NN diameter|NN 
+cap|NN intake|NN ratio|NN formation|NN incidence|NN lamb|NN cap|NN intake|NN ratio|NN 
+ph|NN formation|NN carbonate|NN phosphate|NN calculy|NN 
+ruminant|NN cation|NN anion|NN balance|NN urine|NN ph|NN prevention|NN calculus|NN formation|NN 
+generalization|NN effect|NN ph|NN formation|NN silicate|NN connection|NN circumstance|NN calcium|NN carbonate|NN silica|NN urolith|NN 
+feed|NN formation|NN phosphate|NN phosphorus|NN excretion|NN 
+saliva|NN production|NN ration|NN ground|NN constituent|NN 
+blood|NN phosphate|NN saliva|NN urine|NN saliva|NN phosphate|NN 
+ruminant|NN problem|NN ingestion|NN 
+kidney|NN stone|NN disease|NN ingestion|NN damage|NN deposition|NN calcium|NN crystal|NN kidney|NN yearl|NN sheep|NN diet|NN oxalate|NN percent|NN matter|NN day|NN 
+condition|NN water|NN intake|NN stone|NN formation|NN 
+intervention|NN amputation|NN process|NN base|NN glan|NN penis|NN ruminant|NN tube|NN cystostomy|NN relief|NN kidney|NN stone|NN disease|NN 

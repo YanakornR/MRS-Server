@@ -1,0 +1,99 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN disorder|NN
+use|NN Migraine|Disease disambiguation|NN
+Migraine|Disease Migraine|Disease woman|NN Migraine|Disease headache|NN symptom|NN headache|NN nausea|NN sensitivity|NN sensitivity|NN sound|NN sensitivity|NN onset|NN puberty|NN duration|NN term|NN cause|NN risk|NN factor|NN family|NN history|NN female|NN diagnosis|NN thrombosis|NN hypertension|NN brain|NN tumor|NN tension|NN headache|NN cluster|NN headache|NN prevention|NN topiramate|NN paracetamol|NN frequency|NN
+Migraine|Disease headache|NN disorder|NN headache|NN headache|NN half|NN head|NN nature|NN hour|NN day|NN symptom|NN nausea|NN vomit|NN sensitivity|NN sound|NN pain|NN activity|NN people|NN aura|NN period|NN disturbance|NN headache|NN aura|NN headache|NN
+Migraine|Disease mixture|NN factor|NN case|NN family|NN hormone|NN level|NN role|NN Migraine|Disease affect|NN boy|NN girl|NN puberty|NN time|NN women|NN men|NN risk|NN Migraine|Disease pregnancy|NN mechanism|NN nerve|NN blood|NN vessel|NN brain|NN
+treatment|NN pain|NN medication|NN paracetamol|NN headache|NN medication|NN nausea|NN avoidance|NN trigger|NN medication|NN pain|NN medication|NN caffeine|NN number|NN medication|NN attack|NN valproate|NN topiramate|NN
+people|NN Migraine|Disease puberty|NN age|NN women|NN menopause|NN 2016|NN cause|NN disability|NN description|NN Migraine|Disease papyrus|NN bce|NP egypt|NP word|NN Migraine|Disease
+pain|NN side|NN head|NN
+skull|NN content|NN
+sign|NN symptom|NN phase|NN aura|NN phase|NN pain|NN phase|NN cause|NN genetics|NN aura|NN pain|NN diagnosis|NN classification|NN abdominal|NP Migraine|Disease diagnosis|NN prevention|NN therapy|NN device|NN surgery|NN management|NN children|NN Migraine|Disease epidemiology|NN history|NN society|NN culture|NN research|NN reference|NN link|NN
+sign|NN symptom|NN
+Migraine|Disease headache|NN symptom|NN people|NN Migraine|Disease experience|NN Migraine|Disease aura|NN Migraine|Disease aura|NN Migraine|Disease aura|NN severity|NN pain|NN duration|NN headache|NN frequency|NN attack|NN Migraine|Disease hour|NN status|NN phase|NN Migraine|Disease phase|NN
+prodrome|NN hour|NN day|NN headache|NN aura|NN headache|NN pain|NN phase|NN headache|NN phase|NN postdrome|NN effect|NN end|NN Migraine|Disease attack|NN
+Migraine|Disease depression|NN disorder|NN anxiety|NN disorder|NN disorder|NN
+disorder|NN time|NN people|NN aura|NN time|NN people|NN aura|NN phase|NN
+symptom|NN Migraine|Disease onset|NN hour|NN day|NN start|NN pain|NN aura|NN symptom|NN variety|NN phenomena|NN mood|NN irritability|NN depression|NN euphoria|NN fatigue|NN crave|NN food|NN muscle|NN neck|NN constipation|NN diarrhea|NN sensitivity|NN smell|NN noise|NN Migraine|Disease aura|NN Migraine|Disease aura|NN aura|NN phase|NN enhancement|NN zigzag|NN fort|NN structure|NN scotoma|NN loss|NN awareness|NN structure|NN perception|NN structure|NN loss|NN perception|NN animation|NN scotoma|NN
+scintillation|NN zigzag|NN pattern|NN start|NN center|NN vision|NN area|NN distortion|NN shape|NN
+aura|NN phenomenon|NN headache|NN number|NN minute|NN minute|NN symptom|NN motor|NN nature|NN people|NN effect|NN case|NN case|NN effect|NN
+vision|NN disturbance|NN scotoma|NN area|NN alteration|NN field|NN vision|NN flicker|NN person|NN ability|NN center|NN vision|NN side|NN line|NN fortification|NN wall|NN castle|NN line|NN people|NN line|NN people|NN part|NN field|NN vision|NN experience|NN blure|NN
+aura|NN second|NN type|NN 3040|NN people|NN feel|NN pins-and-needle|NN side|NN hand|NN arm|NN area|NN side|NN tingle|NN loss|NN position|NN sense|NN symptom|NN aura|NN phase|NN speech|NN language|NN disturbance|NN world|NN spine|NN problem|NN motor|NN symptom|NN Migraine|Disease weakness|NN hour|NN aura|NN hallucination|NN delusion|NN pain|NN phase|NN
+headache|NN throb|NN intensity|NN activity|NN case|NN pain|NN neck|NN pain|NN pain|NN Migraine|Disease aura|NN pain|NN back|NN top|NN head|NN pain|NN hour|NN adult|NN children|NN hour|NN frequency|NN attack|NN lifetime|NN week|NN month|NN
+pain|NN nausea|NN vomit|NN sensitivity|NN sensitivity|NN sound|NN sensitivity|NN smell|NN fatigue|NN irritability|NN basilar|NN Migraine|Disease Migraine|Disease symptom|NN brain|NN stem|NN symptom|NN side|NN body|NN effect|NN sense|NN world|NN spine|NN confusion|NN nausea|NN people|NN vomit|NN dark|NN room|NN symptom|NN vision|NN stuffiness|NN urination|NN pallor|NN sweate|NN tenderness|NN scalp|NN neck|NN stiffness|NN symptom|NN
+aura|NN headache|NN acephalgic|NN Migraine|Disease Migraine|Disease frequency|NN case|NN people|NN symptom|NN treatment|NN problem|NN
+Migraine|Disease postdrome|NN constellation|NN symptom|NN headache|NN report|NN feel|NN area|NN Migraine|Disease report|NN think|NN day|NN headache|NN
+person|NN head|NN pain|NN difficulty|NN symptom|NN mood|NN change|NN weakness|NN summary|NN people|NN attack|NN depression|NN malaise|NN
+individual|NN time|NN
+cause|NN Migraine|Disease mix|NN factor|NN family|NN case|NN gene|NN defect|NN Migraine|Disease intelligence|NN number|NN condition|NN depression|NN anxiety|NN disorder|NN event|NN trigger|NN
+genetics|NN genetics|NN Migraine|Disease headache|NN
+study|NN twin|NN influence|NN likelihood|NN Migraine|Disease headache|NN relationship|NN Migraine|Disease aura|NN Migraine|Disease aura|NN number|NN variant|NN gene|NN risk|NN amount|NN
+gene|NN disorder|NN result|NN Migraine|Disease Migraine|Disease type|NN Migraine|Disease aura|NN fashion|NN gene|NN Migraine|Disease gene|NN ion|NN transport|NN protein|NN complex|NN disorder|NN Migraine|Disease syndrome|NN arteriopathy|NN infarct|NN meta-analysis|NN effect|NN angiotensin|NN enzyme|NN polymorphism|NN Migraine|Disease gene|NN cation|NN channel|NN Migraine|Disease trigger|NN
+Migraine|Disease trigger|NN report|NN influence|NN minority|NN case|NN majority|NN thing|NN fatigue|NN food|NN weather|NN trigger|NN strength|NN significance|NN relationship|NN people|NN Migraine|Disease report|NN trigger|NN symptom|NN hour|NN trigger|NN aspect|NN
+trigger|NN stress|NN hunger|NN fatigue|NN tension|NN headache|NN stress|NN factor|NN people|NN Migraine|Disease stress|NN disorder|NN abuse|NN Migraine|Disease menstruation|NN influence|NN menarche|NN use|NN pregnancy|NN menopause|NN role|NN influence|NN role|NN Migraine|Disease aura|NN Migraine|Disease second|NN trimester|NN pregnancy|NN menopause|NN aspect|NN
+people|NN report|NN food|NN trigger|NN evidence|NN trigger|NN self-report|NN trigger|NN explanation|NN food|NN Migraine|Disease
+evidence|NN effect|NN tyramine|NN chocolate|NN beverage|NN cheese|NN meat|NN Migraine|Disease glutamate|NN msg|NP evidence|NN trigger|NN aspect|NN
+review|NN trigger|NN environment|NN evidence|NN factor|NN Migraine|Disease
+people|NN Migraine|Disease measure|NN air|NN quality|NN light|NN animation|NN spread|NN depression|NN
+Migraine|Disease disorder|NN evidence|NN mechanism|NN start|NN brain|NN blood|NN vessel|NN researcher|NN mechanism|NN role|NN blood|NN vessel|NN role|NN theory|NN excitability|NN cortex|NN control|NN pain|NN neuron|NN nucleus|NN brainstem|NN level|NN neurotransmitter|NN serotonin|NN 5-hydroxytryptamine|NN aura|NN
+depression|NN spread|NN depression|NN leo|NP burst|NN activity|NN period|NN inactivity|NN Migraine|Disease aura|NN number|NN explanation|NN occurrence|NN activation|NN nmda|NN receptor|NN calcium|NN cell|NN burst|NN activity|NN blood|NN flow|NN cortex|NN area|NN hour|NN depolarization|NN travel|NN underside|NN brain|NN nerve|NN sense|NN pain|NN head|NN neck|NN pain|NN
+mechanism|NN head|NN pain|NN Migraine|Disease evidence|NN role|NN system|NN structure|NN brainstem|NN diencephalon|NN data|NN role|NN activation|NN nerve|NN blood|NN vessel|NN head|NN neck|NN candidate|NN vessel|NN artery|NN artery|NN artery|NN scalp|NN role|NN vasodilatation|NN artery|NN diagnosis|NN
+diagnosis|NN Migraine|Disease sign|NN symptom|NN test|NN Migraine|Disease cause|NN headache|NN examination|NN history|NN Migraine|Disease diagnosis|NN number|NN people|NN condition|NN
+diagnosis|NN Migraine|Disease aura|NN headache|NN society|NN criteria|NN criteria|NN
+Migraine|Disease aura|NN attack|NN diagnosis|NN
+hour|NN day|NN duration|NN half|NN head|NN pain|NN intensity|NN avoidance|NN routine|NN activity|NN nausea|NN vomit|NN sensitivity|NN light|NN sound|NN
+photophobia|NN nausea|NN inability|NN work|NN study|NN day|NN diagnosis|NN headache|NN duration|NN hour|NN pain|NN side|NN head|NN nausea|NN symptom|NN person|NN life|NN probability|NN Migraine|Disease symptom|NN probability|NN classification|NN article|NN classification|NN diagnosis|NN Migraine|Disease
+Migraine|Disease headache|NN society|NN classification|NN headache|NN version|NN 2018|NN classification|NN Migraine|Disease headache|NN headache|NN cluster|NN headache|NN
+Migraine|Disease subclass|NN subdivision|NN
+Migraine|Disease aura|NN Migraine|Disease Migraine|Disease headache|NN aura|NN
+Migraine|Disease aura|NN classic|NN Migraine|Disease Migraine|Disease headache|NN aura|NN
+aura|NN headache|NN non|NN Migraine|Disease headache|NN
+variety|NN Migraine|Disease Migraine|Disease person|NN Migraine|Disease aura|NN motor|NN weakness|NN
+relative|NN condition|NN
+variety|NN Migraine|Disease headache|NN aura|NN difficulty|NN world|NN spine|NN ring|NN ear|NN number|NN brainstem-relate|NN symptom|NN motor|NN weakness|NN
+type|NN spasm|NN artery|NN artery|NN brainstem|NN
+mechanism|NN term|NN Migraine|Disease brainstem|NN aura|NN mba|NN childhood|NN syndrome|NN precursor|NN Migraine|Disease vomit|NN period|NN Migraine|Disease pain|NN nausea|NN paroxysmal|NN vertigo|NN childhood|NN attack|NN vertigo|NN
+Migraine|Disease Migraine|Disease headache|NN disturbance|NN blindness|NN eye|NN
+complication|NN Migraine|Disease Migraine|Disease headache|NN seizure|NN brain|NN lesion|NN
+Migraine|Disease condition|NN characteristics|NN Migraine|Disease evidence|NN Migraine|Disease certainty|NN presence|NN medication|NN overuse|NN
+Migraine|Disease complication|NN Migraine|Disease headache|NN criteria|NN Migraine|Disease headache|NN time|NN interval|NN
+daysmonth|NN month|NN
+diagnosis|NN Migraine|Disease evidence|NN episode|NN pain|NN absence|NN headache|NN type|NN Migraine|Disease precursor|NN Migraine|Disease episode|NN pain|NN Migraine|Disease prodrome|NN minute|NN hour|NN family|NN history|NN Migraine|Disease syndrome|NN precursor|NN vomit|NN syndrome|NN paroxysmal|NN vertigo|NN childhood|NN diagnosis|NN
+condition|NN symptom|NN Migraine|Disease headache|NN arteritis|NN cluster|NN headache|NN glaucoma|NN meningitis|NN subarachnoid|NN arteritis|NN people|NN year|NN tenderness|NN temple|NN cluster|NN headache|NN nose|NN stuffiness|NN tear|NN pain|NN orbit|NN glaucoma|NN vision|NN problem|NN meningitis|NN fever|NN subarachnoid|NN onset|NN tension|NN headache|NN side|NN
+headache|NN criteria|NN Migraine|Disease disease|NN find|NN swell|NN optic|NN disc|NN
+people|NN Migraine|Disease risk|NN cause|NN headache|NN
+prevention|NN article|NN prevention|NN Migraine|Disease
+treatment|NN Migraine|Disease medication|NN supplement|NN lifestyle|NN alteration|NN surgery|NN
+prevention|NN headache|NN day|NN week|NN medication|NN attack|NN attack|NN
+goal|NN frequency|NN duration|NN Migraine|Disease effectiveness|NN therapy|NN reason|NN prevention|NN medication|NN overuse|NN headache|NN
+problem|NN headache|NN
+Migraine|Disease medication|NN frequency|NN severity|NN Migraine|Disease attack|NN guideline|NN rate|NN propranolol|NN metoprolol|NN level|NN evidence|NN use|NN recommendation|NN effectiveness|NN gabapentin|NN timolol|NN Migraine|Disease prevention|NN Migraine|Disease attack|NN frequency|NN severity|NN prevention|NN Migraine|Disease evidence|NN use|NN magnesium|NN supplementation|NN intake|NN
+angiotensin|NN inhibition|NN enzyme|NN inhibitor|NN angiotensin|NN receptor|NN antagonist|NN attack|NN
+anti-calcitonin|NN peptide|NN erenumab|NN frequency|NN Migraine|Disease month|NN year|NN cost|NN therapy|NN
+acupuncture|NN effect|NN number|NN Migraine|Disease sham|NN acupuncture|NN practice|NN needle|NN skin|NN physiotherapy|NN massage|NN relaxation|NN propranolol|NN topiramate|NN prevention|NN Migraine|Disease headache|NN research|NN problem|NN methodology|NN review|NN manipulation|NN effect|NN Migraine|Disease evidence|NN manipulation|NN use|NN
+evidence|NN use|NN stress|NN reduction|NN technique|NN behavioral|NN therapy|NN biofeedback|NN relaxation|NN technique|NN exercise|NN frequency|NN medicine|NN evidence|NN use|NN supplement|NN melatonin|NN evidence|NN use|NN therapy|NN prevention|NN treatment|NN Migraine|Disease data|NN melatonin|NN study|NN result|NN reason|NN find|NN difference|NN study|NN design|NN melatonin|NN dosage|NN mechanism|NN action|NN Migraine|Disease sleep|NN action|NN melatonin|NN receptor|NN brain|NN property|NN device|NN surgery|NN
+device|NN biofeedback|NN advantage|NN Migraine|Disease prevention|NN Migraine|Disease medication|NN case|NN medication|NN overuse|NN
+people|NN parameter|NN Migraine|Disease treatment|NN use|NN pacemaker|NN treatment|NN Migraine|Disease result|NN case|NN nerve|NN stimulator|NN united|NP states|NP prevention|NN Migraine|Disease Migraine|Disease surgery|NN decompression|NN nerve|NN head|NN neck|NN option|NN people|NN medication|NN management|NN
+aspect|NN treatment|NN trigger|NN avoidance|NN control|NN medication|NN prevention|NN medication|NN attack|NN use|NN medication|NN medication|NN overuse|NN headache|NN headache|NN ergotamine|NN analgesics|NN analgesics|NN concern|NN analgesics|NN day|NN week|NN analgesics|NN
+treatment|NN symptom|NN analgesics|NN drug|NN nsaids|NP combination|NN paracetamol|NN aspirin|NN caffeine|NN nsaids|NP diclofenac|NP ibuprofen|NP evidence|NN use|NN aspirin|NN Migraine|Disease pain|NN effectiveness|NN sumatriptan|NN ketorolac|NN formulation|NN
+combination|NN metoclopramide|NN treatment|NN risk|NN effect|NN metoclopramide|NN pregnancy|NN paracetamol|NN nsaids|NP trimester|NN
+sumatriptan|NN pain|NN nausea|NN people|NN sumatriptan|NN naproxen|NN treatment|NN pain|NN symptom|NN analgesics|NN form|NN spray|NN tablet|NN triptan|NN side|NN effect|NN
+individual|NN side|NN effect|NN case|NN ischemia|NN people|NN disease|NN stroke|NN Migraine|Disease problem|NN addition|NN caution|NN risk|NN factor|NN disease|NN Migraine|Disease evidence|NN harm|NN use|NN population|NN caution|NN headache|NN day|NN month|NN
+medication|NN Migraine|Disease spray|NN form|NN triptan|NN experience|NN effect|NN case|NN status|NN treatment|NN option|NN vasospasm|NN people|NN artery|NN disease|NN
+prochlorperazine|NN intranasal|NN lidocaine|NN option|NN treatment|NN emergency|NN department|NN group|NN dose|NN dexamethasone|NN treatment|NN Migraine|Disease attack|NN decrease|NN headache|NN recurrence|NN hour|NN manipulation|NN Migraine|Disease headache|NN evidence|NN opioid|NN barbiturate|NN efficacy|NN potential|NN risk|NN rebound|NN headache|NN children|NN
+decrease|NN pain|NN children|NN Migraine|Disease
+pain|NN relief|NN
+risk|NN side|NN effect|NN taste|NN disturbance|NN symptom|NN dizziness|NN fatigue|NN energy|NN nausea|NN Migraine|Disease
+toxin|NN medication|NN evidence|NN Migraine|Disease toxin|NN Migraine|Disease
+prognosis|NN people|NN Migraine|Disease people|NN Migraine|Disease period|NN productivity|NN disease|NN condition|NN risk|NN death|NN pattern|NN disease|NN symptom|NN symptom|NN time|NN symptom|NN frequency|NN severity|NN attack|NN
+Migraine|Disease aura|NN risk|NN factor|NN stroke|NN risk|NN adult|NN female|NN birth|NN control|NN smoke|NN risk|NN association|NN artery|NN dissection|NN Migraine|Disease aura|NN factor|NN relationship|NN heart|NN problem|NN study|NN association|NN Migraine|Disease risk|NN death|NN stroke|NN heart|NN disease|NN therapy|NN Migraine|Disease Migraine|Disease aura|NN stroke|NN people|NN Migraine|Disease women|NN number|NN matter|NN brain|NN lesion|NN significance|NN epidemiology|NN life|NN year|NN Migraine|Disease inhabitant|NN data|NN 85105|NN 145165|NN 205225|NN
+Migraine|Disease people|NN women|NN men|NN united|NP states|NP men|NN women|NN Migraine|Disease year|NN lifetime|NN risk|NN europe|NP Migraine|Disease affect|NN people|NN point|NN live|NN adult|NN men|NN adult|NN women|NN rate|NN Migraine|Disease asia|NP africa|NP country|NN Migraine|Disease population|NN
+figure|NN age|NN Migraine|Disease year|NN age|NN year|NN age|NN children|NN year|NN old|NN year|NN Migraine|Disease condition|NN boy|NN puberty|NN adolescence|NN Migraine|Disease women|NN rest|NN lifespan|NN time|NN female|NN male|NN women|NN Migraine|Disease aura|NN Migraine|Disease aura|NN men|NN type|NN frequency|NN
+symptom|NN severity|NN symptom|NN history|NN head|NN george|NP cruikshank|NP
+description|NN Migraine|Disease papyrus|NN bce|NP egypt|NP bce|NP write|NN school|NN medicine|NN aura|NN headache|NN relief|NN vomit|NN
+description|NN aretaeus|NN headache|NN type|NN cephalea|NN galen|NN pergamon|NP term|NN half-head|NN word|NN Migraine|Disease pain|NN meninge|NN blood|NN vessel|NN head|NN Migraine|Disease type|NN Migraine|Disease aura|NN Migraine|Disease Migraine|Disease aura|NN Migraine|Disease louis|NP thomas|NP librarian|NN skull|NN
+perimeter|NN hole|NN skull|NN ingrowth|NN tissue|NN person|NN operation|NN
+drill|NN hole|NN skull|NN bce|NP people|NN procedure|NN infection|NN work|NN spirit|NN escape|NN william|NP harvey|NP treatment|NN Migraine|Disease century|NN
+treatment|NN Migraine|Disease use|NN substance|NN substance|NN fungus|NN methysergide|NN triptan|NN sumatriptan|NN century|NN study|NN design|NN measure|NN society|NN culture|NN
+Migraine|Disease source|NN cost|NN productivity|NN
+disorder|NN community|NN year|NN united|NP states|NP cost|NN cost|NN ability|NN work|NN cost|NN cost|NN triptan|NN work|NN Migraine|Disease effectiveness|NN impact|NN person|NN family|NN research|NN
+gene|NN peptide|NN role|NN pathogenesis|NN pain|NN Migraine|Disease receptor|NN antagonist|NN vitro|NN study|NN treatment|NN Migraine|Disease merck|NP phase|NN trial|NN drug|NN research|NN 2016|NN antibody|NN phase|NN development|NN target|NN receptor|NN stimulation|NN promise|NN nerve|NN stimulation|NN evidence|NN diet|NN Migraine|Disease

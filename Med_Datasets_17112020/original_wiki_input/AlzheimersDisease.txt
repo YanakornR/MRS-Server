@@ -1,0 +1,378 @@
+Alzheimer's disease,AD,Alzheimer disease,Alzheimer's
+From Wikipedia, the free encyclopedia
+  (Redirected from Alzheimer’s)
+Jump to navigation
+Jump to search
+"Alzheimer" redirects here. For other uses, see Alzheimer (disambiguation).
+Alzheimer's disease
+Other names	Alzheimer disease, Alzheimer's
+Alzheimer's disease brain comparison.jpg
+Comparison of a normal aged brain (left) and the brain of a person with Alzheimer's (right). Characteristics that separate the two are pointed out.
+Specialty	Neurology
+Symptoms	Difficulty in remembering recent events, problems with language, disorientation, mood swings[1][2]
+Usual onset	Over 65 years old[3]
+Duration	Long term[2]
+Causes	Poorly understood[1]
+Risk factors	Genetics, head injuries, depression, hypertension[1][4]
+Diagnostic method	Based on symptoms and cognitive testing after ruling out other possible causes[5]
+Differential diagnosis	Normal aging[1]
+Medication	Acetylcholinesterase inhibitors, NMDA receptor antagonists (small benefit)[6]
+Prognosis	Life expectancy 3–9 years[7]
+Frequency	29.8 million (2015)[2][8]
+Deaths	1.9 million (2015)[9]
+
+Alzheimer's disease (AD), also referred to simply as Alzheimer's, is a chronic neurodegenerative disease that usually starts slowly and gradually worsens over time.[1][2] It is the cause of 60–70% of cases of dementia.[1][2] The most common early symptom is difficulty in remembering recent events.[1] As the disease advances, symptoms can include problems with language, disorientation (including easily getting lost), mood swings, loss of motivation, not managing self care, and behavioural issues.[1][2] As a person's condition declines, they often withdraw from family and society.[1] Gradually, bodily functions are lost, ultimately leading to death.[10] Although the speed of progression can vary, the typical life expectancy following diagnosis is three to nine years.[7][11]
+
+The cause of Alzheimer's disease is poorly understood.[1] About 70% of the risk is believed to be inherited from a person's parents with many genes usually involved.[4] Other risk factors include a history of head injuries, depression, and hypertension.[1] The disease process is associated with plaques and neurofibrillary tangles in the brain.[4] A probable diagnosis is based on the history of the illness and cognitive testing with medical imaging and blood tests to rule out other possible causes.[5] Initial symptoms are often mistaken for normal ageing.[1] Examination of brain tissue is needed for a definite diagnosis.[4] Mental and physical exercise, and avoiding obesity may decrease the risk of AD; however, evidence to support these recommendations is weak.[4][12] There are no medications or supplements that have been shown to decrease risk.[13]
+
+No treatments stop or reverse its progression, though some may temporarily improve symptoms.[2] Affected people increasingly rely on others for assistance, often placing a burden on the caregiver.[14] The pressures can include social, psychological, physical, and economic elements.[14] Exercise programs may be beneficial with respect to activities of daily living and can potentially improve outcomes.[15] Behavioural problems or psychosis due to dementia are often treated with antipsychotics, but this is not usually recommended, as there is little benefit with an increased risk of early death.[16][17]
+
+In 2015, there were approximately 29.8 million people worldwide with AD.[2][8] It most often begins in people over 65 years of age, although 4–5% of cases are early-onset Alzheimer's.[3] It affects about 6% of people 65 years and older.[1] In 2015, dementia resulted in about 1.9 million deaths.[9] It was first described by, and later named after, German psychiatrist and pathologist Alois Alzheimer in 1906.[18] In developed countries, AD is one of the most financially costly diseases.[19][20]
+Contents
+
+    1 Signs and symptoms
+        1.1 Pre-dementia
+        1.2 Early
+        1.3 Moderate
+        1.4 Advanced
+    2 Cause
+        2.1 Genetic
+        2.2 Cholinergic hypothesis
+        2.3 Amyloid hypothesis
+        2.4 Tau hypothesis
+        2.5 Other hypotheses
+    3 Pathophysiology
+        3.1 Neuropathology
+        3.2 Biochemistry
+        3.3 Disease mechanism
+    4 Diagnosis
+        4.1 Criteria
+        4.2 Techniques
+    5 Prevention
+        5.1 Medication
+        5.2 Lifestyle
+        5.3 Diet
+    6 Management
+        6.1 Medications
+        6.2 Psychosocial intervention
+        6.3 Caregiving
+    7 Prognosis
+    8 Epidemiology
+    9 History
+    10 Society and culture
+        10.1 Social costs
+        10.2 Caregiving burden
+        10.3 Media
+    11 Research directions
+        11.1 Medication
+        11.2 Behavioral prevention
+        11.3 Possible transmission
+        11.4 Infections
+        11.5 Imaging
+        11.6 Diagnosis
+    12 References
+    13 Further reading
+    14 External links
+
+Signs and symptoms
+Stages of Alzheimer's disease[21]
+
+Effects of ageing on memory but not AD
+
+    Forgetting things occasionally
+    Misplacing items sometimes
+    Minor short-term memory loss
+    Not remembering exact details
+
+Early stage Alzheimer's
+
+    Not remembering episodes of forgetfulness
+    Forgets names of family or friends
+    Changes may only be noticed by close friends or relatives
+    Some confusion in situations outside the familiar
+
+Middle stage Alzheimer's
+
+    Greater difficulty remembering recently learned information
+    Deepening confusion in many circumstances
+    Problems with sleep
+    Trouble determining their location
+
+Late stage Alzheimer's
+
+    Poor ability to think
+    Problems speaking
+    Repeats same conversations
+    More abusive, anxious, or paranoid
+
+The disease course is divided into four stages, with a progressive pattern of cognitive and functional impairment.
+Pre-dementia
+
+The first symptoms are often mistakenly attributed to ageing or stress.[22] Detailed neuropsychological testing can reveal mild cognitive difficulties up to eight years before a person fulfils the clinical criteria for diagnosis of AD.[23] These early symptoms can affect the most complex activities of daily living.[24] The most noticeable deficit is short term memory loss, which shows up as difficulty in remembering recently learned facts and inability to acquire new information.[23][25]
+
+Subtle problems with the executive functions of attentiveness, planning, flexibility, and abstract thinking, or impairments in semantic memory (memory of meanings, and concept relationships) can also be symptomatic of the early stages of AD.[23] Apathy can be observed at this stage, and remains the most persistent neuropsychiatric symptom throughout the course of the disease.[26] Depressive symptoms, irritability and reduced awareness of subtle memory difficulties are also common.[27] The preclinical stage of the disease has also been termed mild cognitive impairment (MCI).[25] This is often found to be a transitional stage between normal ageing and dementia. MCI can present with a variety of symptoms, and when memory loss is the predominant symptom, it is termed "amnestic MCI" and is frequently seen as a prodromal stage of Alzheimer's disease.[28]
+Early
+
+In people with AD, the increasing impairment of learning and memory eventually leads to a definitive diagnosis. In a small percentage, difficulties with language, executive functions, perception (agnosia), or execution of movements (apraxia) are more prominent than memory problems.[29] AD does not affect all memory capacities equally. Older memories of the person's life (episodic memory), facts learned (semantic memory), and implicit memory (the memory of the body on how to do things, such as using a fork to eat or how to drink from a glass) are affected to a lesser degree than new facts or memories.[30][31]
+
+Language problems are mainly characterised by a shrinking vocabulary and decreased word fluency, leading to a general impoverishment of oral and written language.[29][32] In this stage, the person with Alzheimer's is usually capable of communicating basic ideas adequately.[29][32][33] While performing fine motor tasks such as writing, drawing or dressing, certain movement coordination and planning difficulties (apraxia) may be present, but they are commonly unnoticed.[29] As the disease progresses, people with AD can often continue to perform many tasks independently, but may need assistance or supervision with the most cognitively demanding activities.[29]
+Moderate
+
+Progressive deterioration eventually hinders independence, with subjects being unable to perform most common activities of daily living.[29] Speech difficulties become evident due to an inability to recall vocabulary, which leads to frequent incorrect word substitutions (paraphasias). Reading and writing skills are also progressively lost.[29][33] Complex motor sequences become less coordinated as time passes and AD progresses, so the risk of falling increases.[29] During this phase, memory problems worsen, and the person may fail to recognise close relatives.[29] Long-term memory, which was previously intact, becomes impaired.[29]
+
+Behavioural and neuropsychiatric changes become more prevalent. Common manifestations are wandering, irritability and labile affect, leading to crying, outbursts of unpremeditated aggression, or resistance to caregiving.[29] Sundowning can also appear.[34] Approximately 30% of people with AD develop illusionary misidentifications and other delusional symptoms.[29] Subjects also lose insight of their disease process and limitations (anosognosia).[29] Urinary incontinence can develop.[29] These symptoms create stress for relatives and carers, which can be reduced by moving the person from home care to other long-term care facilities.[29][35]
+Advanced
+
+During the final stages, the patient is completely dependent upon caregivers.[29] Language is reduced to simple phrases or even single words, eventually leading to complete loss of speech.[29][33] Despite the loss of verbal language abilities, people can often understand and return emotional signals. Although aggressiveness can still be present, extreme apathy and exhaustion are much more common symptoms. People with Alzheimer's disease will ultimately not be able to perform even the simplest tasks independently; muscle mass and mobility deteriorates to the point where they are bedridden and unable to feed themselves. The cause of death is usually an external factor, such as infection of pressure ulcers or pneumonia, not the disease itself.[29]
+Cause
+
+The cause for most Alzheimer's cases is still mostly unknown except for 1% to 5% of cases where genetic differences have been identified.[36][37] Several competing hypotheses exist trying to explain the cause of the disease.
+Genetic
+
+The genetic heritability of Alzheimer's disease (and memory components thereof), based on reviews of twin and family studies, ranges from 49% to 79%.[38] Around 0.1% of the cases are familial forms of autosomal (not sex-linked) dominant inheritance, which have an onset before age 65.[39] This form of the disease is known as early onset familial Alzheimer's disease. Most of autosomal dominant familial AD can be attributed to mutations in one of three genes: those encoding amyloid precursor protein (APP) and presenilins 1 and 2.[40] Most mutations in the APP and presenilin genes increase the production of a small protein called Aβ42, which is the main component of senile plaques.[41] Some of the mutations merely alter the ratio between Aβ42 and the other major forms—particularly Aβ40—without increasing Aβ42 levels.[42] Two other genes associated with autosomal dominant Alzheimer's disease are ABCA7 and SORL1.[43]
+
+Most cases of Alzheimer's disease do not exhibit autosomal-dominant inheritance and are termed sporadic AD, in which environmental and genetic differences may act as risk factors. The best known genetic risk factor is the inheritance of the ε4 allele of the apolipoprotein E (APOE).[44][45] Between 40 and 80% of people with AD possess at least one APOEε4 allele.[45] The APOEε4 allele increases the risk of the disease by three times in heterozygotes and by 15 times in homozygotes.[39] Like many human diseases, environmental effects and genetic modifiers result in incomplete penetrance. For example, certain Nigerian populations do not show the relationship between dose of APOEε4 and incidence or age-of-onset for Alzheimer's disease seen in other human populations.[46][47] Early attempts to screen up to 400 candidate genes for association with late-onset sporadic AD (LOAD) resulted in a low yield.[39][40] More recent genome-wide association studies (GWAS) have found 19 areas in genes that appear to affect the risk.[48] These genes include: CASS4, CELF1, FERMT2, HLA-DRB5, INPP5D, MEF2C, NME8, PTK2B, SORL1, ZCWPW1, SlC24A4, CLU, PICALM, CR1, BIN1, MS4A, ABCA7, EPHA1, and CD2AP.[48]
+
+Alleles in the TREM2 gene have been associated with a 3 to 5 times higher risk of developing Alzheimer's disease.[49][50] A suggested mechanism of action is that in some variants in TREM2 white blood cells in the brain are no longer able to control the amount of beta amyloid present. Many SNPs are associated with Alzheimer's with a 2018 study adding 30 SNPs by differentiating AD into 6 categories, including memory, language, visuospatial, and executive functioning.[51]
+Cholinergic hypothesis
+
+The oldest, on which most currently available drug therapies are based, is the cholinergic hypothesis,[52] which proposes that AD is caused by reduced synthesis of the neurotransmitter acetylcholine. The cholinergic hypothesis has not maintained widespread support, largely because medications intended to treat acetylcholine deficiency have not been very effective.[53]
+Amyloid hypothesis
+
+In 1991, the amyloid hypothesis postulated that extracellular amyloid beta (Aβ) deposits are the fundamental cause of the disease.[54][55] Support for this postulate comes from the location of the gene for the amyloid precursor protein (APP) on chromosome 21, together with the fact that people with trisomy 21 (Down Syndrome) who have an extra gene copy almost universally exhibit at least the earliest symptoms of AD by 40 years of age.[56][57] Also, a specific isoform of apolipoprotein, APOE4, is a major genetic risk factor for AD. While apolipoproteins enhance the breakdown of beta amyloid, some isoforms are not very effective at this task (such as APOE4), leading to excess amyloid buildup in the brain.[58] Further evidence comes from the finding that transgenic mice that express a mutant form of the human APP gene develop fibrillar amyloid plaques and Alzheimer's-like brain pathology with spatial learning deficits.[59]
+
+An experimental vaccine was found to clear the amyloid plaques in early human trials, but it did not have any significant effect on dementia.[60] Researchers have been led to suspect non-plaque Aβ oligomers (aggregates of many monomers) as the primary pathogenic form of Aβ. These toxic oligomers, also referred to as amyloid-derived diffusible ligands (ADDLs), bind to a surface receptor on neurons and change the structure of the synapse, thereby disrupting neuronal communication.[61] One receptor for Aβ oligomers may be the prion protein, the same protein that has been linked to mad cow disease and the related human condition, Creutzfeldt–Jakob disease, thus potentially linking the underlying mechanism of these neurodegenerative disorders with that of Alzheimer's disease.[62]
+
+In 2009, this theory was updated, suggesting that a close relative of the beta-amyloid protein, and not necessarily the beta-amyloid itself, may be a major culprit in the disease. The theory holds that an amyloid-related mechanism that prunes neuronal connections in the brain in the fast-growth phase of early life may be triggered by ageing-related processes in later life to cause the neuronal withering of Alzheimer's disease.[63] N-APP, a fragment of APP from the peptide's N-terminus, is adjacent to beta-amyloid and is cleaved from APP by one of the same enzymes. N-APP triggers the self-destruct pathway by binding to a neuronal receptor called death receptor 6 (DR6, also known as TNFRSF21).[63] DR6 is highly expressed in the human brain regions most affected by Alzheimer's, so it is possible that the N-APP/DR6 pathway might be hijacked in the ageing brain to cause damage. In this model, beta-amyloid plays a complementary role, by depressing synaptic function.
+
+In early 2017, a trial of verubecestat, which inhibits the beta-secretase protein responsible for creating beta-amyloid protein was discontinued as an independent panel found "virtually no chance of finding a positive clinical effect".[64] In 2018 and 2019, more trials, including aducanumab which reduced amyloid beta concentrations, failed, leading some to question the validity of the amyloid hypothesis.[65][66]
+Tau hypothesis
+In Alzheimer's disease, changes in tau protein lead to the disintegration of microtubules in brain cells.
+
+The tau hypothesis proposes that tau protein abnormalities initiate the disease cascade.[55] In this model, hyperphosphorylated tau begins to pair with other threads of tau. Eventually, they form neurofibrillary tangles inside nerve cell bodies.[67] When this occurs, the microtubules disintegrate, destroying the structure of the cell's cytoskeleton which collapses the neuron's transport system.[68] This may result first in malfunctions in biochemical communication between neurons and later in the death of the cells.[69]
+Other hypotheses
+
+A neurovascular hypothesis has been proposed which states that poor functioning of the blood–brain barrier may be involved.[70] Spirochete infections have also been linked to dementia.[71][72]
+
+The cellular homeostasis of biometals such as ionic copper, iron, and zinc is disrupted in AD, though it remains unclear whether this is produced by or causes the changes in proteins. These ions affect and are affected by tau, APP, and APOE,[73] and their dysregulation may cause oxidative stress that may contribute to the pathology.[74][75][76][77][78] The quality of some of these studies has been criticised,[79][80] and the link remains controversial.[81] The majority of researchers do not support a causal connection with aluminium.[80]
+
+Smoking is a significant AD risk factor.[82] Systemic markers of the innate immune system are risk factors for late-onset AD.[83]
+
+There is tentative evidence that exposure to air pollution may be a contributing factor to the development of Alzheimer's disease.[84]
+
+One hypothesis posits that dysfunction of oligodendrocytes and their associated myelin during aging contributes to axon damage, which then causes amyloid production and tau hyper-phosphorylation as a side effect.[85][86]
+
+Retrogenesis is a medical hypothesis about the development and progress of Alzheimer's disease proposed by Barry Reisberg in the 1980s.[87] The hypothesis is that just as the fetus goes through a process of neurodevelopment beginning with neurulation and ending with myelination, the brains of people with AD go through a reverse neurodegeneration process starting with demyelination and death of axons (white matter) and ending with the death of grey matter.[88] Likewise the hypothesis is, that as infants go through states of cognitive development, people with AD go through the reverse process of progressive cognitive impairment.[87] Reisberg developed the caregiving assessment tool known as "FAST" (Functional Assessment Staging Tool) which he says allows those caring for people with AD to identify the stages of disease progression and that provides advice about the kind of care needed at each stage.[87][89]
+
+The association with celiac disease is unclear, with a 2019 study finding no increase in dementia overall in those with CD, while a 2018 review found an association with several types of dementia including AD.[90][91]
+Pathophysiology
+Main article: Biochemistry of Alzheimer's disease
+Histopathologic image of senile plaques seen in the cerebral cortex of a person with Alzheimer's disease of presenile onset. Silver impregnation.
+Neuropathology
+
+Alzheimer's disease is characterised by loss of neurons and synapses in the cerebral cortex and certain subcortical regions. This loss results in gross atrophy of the affected regions, including degeneration in the temporal lobe and parietal lobe, and parts of the frontal cortex and cingulate gyrus.[92] Degeneration is also present in brainstem nuclei like the locus coeruleus.[93] Studies using MRI and PET have documented reductions in the size of specific brain regions in people with AD as they progressed from mild cognitive impairment to Alzheimer's disease, and in comparison with similar images from healthy older adults.[94][95]
+
+Both amyloid plaques and neurofibrillary tangles are clearly visible by microscopy in brains of those afflicted by AD.[96] Plaques are dense, mostly insoluble deposits of beta-amyloid peptide and cellular material outside and around neurons. Tangles (neurofibrillary tangles) are aggregates of the microtubule-associated protein tau which has become hyperphosphorylated and accumulate inside the cells themselves. Although many older individuals develop some plaques and tangles as a consequence of ageing, the brains of people with AD have a greater number of them in specific brain regions such as the temporal lobe.[97] Lewy bodies are not rare in the brains of people with AD.[98]
+Biochemistry
+Enzymes act on the APP (amyloid precursor protein) and cut it into fragments. The beta-amyloid fragment is crucial in the formation of senile plaques in AD.
+
+Alzheimer's disease has been identified as a protein misfolding disease (proteopathy), caused by plaque accumulation of abnormally folded amyloid beta protein and tau protein in the brain.[99] Plaques are made up of small peptides, 39–43 amino acids in length, called amyloid beta (Aβ). Aβ is a fragment from the larger amyloid precursor protein (APP). APP is a transmembrane protein that penetrates through the neuron's membrane. APP is critical to neuron growth, survival, and post-injury repair.[100][101] In Alzheimer's disease, gamma secretase and beta secretase act together in a proteolytic process which causes APP to be divided into smaller fragments.[102] One of these fragments gives rise to fibrils of amyloid beta, which then form clumps that deposit outside neurons in dense formations known as senile plaques.[96][103]
+
+AD is also considered a tauopathy due to abnormal aggregation of the tau protein. Every neuron has a cytoskeleton, an internal support structure partly made up of structures called microtubules. These microtubules act like tracks, guiding nutrients and molecules from the body of the cell to the ends of the axon and back. A protein called tau stabilises the microtubules when phosphorylated, and is therefore called a microtubule-associated protein. In AD, tau undergoes chemical changes, becoming hyperphosphorylated; it then begins to pair with other threads, creating neurofibrillary tangles and disintegrating the neuron's transport system.[104] Pathogenic tau can also cause neuronal death through transposable element dysregulation.[105]
+Disease mechanism
+
+Exactly how disturbances of production and aggregation of the beta-amyloid peptide give rise to the pathology of AD is not known.[106][107] The amyloid hypothesis traditionally points to the accumulation of beta-amyloid peptides as the central event triggering neuron degeneration. Accumulation of aggregated amyloid fibrils, which are believed to be the toxic form of the protein responsible for disrupting the cell's calcium ion homeostasis, induces programmed cell death (apoptosis).[108] It is also known that Aβ selectively builds up in the mitochondria in the cells of Alzheimer's-affected brains, and it also inhibits certain enzyme functions and the utilisation of glucose by neurons.[109]
+
+Various inflammatory processes and cytokines may also have a role in the pathology of Alzheimer's disease. Inflammation is a general marker of tissue damage in any disease, and may be either secondary to tissue damage in AD or a marker of an immunological response.[110] There is increasing evidence of a strong interaction between the neurons and the immunological mechanisms in the brain. Obesity and systemic inflammation may interfere with immunological processes which promote disease progression.[111]
+
+Alterations in the distribution of different neurotrophic factors and in the expression of their receptors such as the brain-derived neurotrophic factor (BDNF) have been described in AD.[112][113]
+Diagnosis
+PET scan of the brain of a person with AD showing a loss of function in the temporal lobe
+
+Alzheimer's disease is usually diagnosed based on the person's medical history, history from relatives, and behavioural observations. The presence of characteristic neurological and neuropsychological features and the absence of alternative conditions is supportive.[114][115] Advanced medical imaging with computed tomography (CT) or magnetic resonance imaging (MRI), and with single-photon emission computed tomography (SPECT) or positron emission tomography (PET) can be used to help exclude other cerebral pathology or subtypes of dementia.[116] Moreover, it may predict conversion from prodromal stages (mild cognitive impairment) to Alzheimer's disease.[117]
+
+Assessment of intellectual functioning including memory testing can further characterise the state of the disease.[22] Medical organisations have created diagnostic criteria to ease and standardise the diagnostic process for practising physicians. The diagnosis can be confirmed with very high accuracy post-mortem when brain material is available and can be examined histologically.[118]
+Criteria
+
+The National Institute of Neurological and Communicative Disorders and Stroke (NINCDS) and the Alzheimer's Disease and Related Disorders Association (ADRDA, now known as the Alzheimer's Association) established the most commonly used NINCDS-ADRDA Alzheimer's Criteria for diagnosis in 1984,[118] extensively updated in 2007.[119] These criteria require that the presence of cognitive impairment, and a suspected dementia syndrome, be confirmed by neuropsychological testing for a clinical diagnosis of possible or probable AD. A histopathologic confirmation including a microscopic examination of brain tissue is required for a definitive diagnosis. Good statistical reliability and validity have been shown between the diagnostic criteria and definitive histopathological confirmation.[120] Eight intellectual domains are most commonly impaired in AD—memory, language, perceptual skills, attention, motor skills, orientation, problem solving and executive functional abilities. These domains are equivalent to the NINCDS-ADRDA Alzheimer's Criteria as listed in the Diagnostic and Statistical Manual of Mental Disorders (DSM-IV-TR) published by the American Psychiatric Association.[121][122]
+Techniques
+Neuropsychological screening tests can help in the diagnosis of AD. In the tests, people are instructed to copy drawings similar to the one shown in the picture, remember words, read, and subtract serial numbers.
+
+Neuropsychological tests such as the mini–mental state examination (MMSE) are widely used to evaluate the cognitive impairments needed for diagnosis. More comprehensive test arrays are necessary for high reliability of results, particularly in the earliest stages of the disease.[123][124] Neurological examination in early AD will usually provide normal results, except for obvious cognitive impairment, which may not differ from that resulting from other diseases processes, including other causes of dementia.
+
+Further neurological examinations are crucial in the differential diagnosis of AD and other diseases.[22] Interviews with family members are also utilised in the assessment of the disease. Caregivers can supply important information on the daily living abilities, as well as on the decrease, over time, of the person's mental function.[125] A caregiver's viewpoint is particularly important, since a person with AD is commonly unaware of his own deficits.[126] Many times, families also have difficulties in the detection of initial dementia symptoms and may not communicate accurate information to a physician.[127]
+
+Supplemental testing provides extra information on some features of the disease or is used to rule out other diagnoses. Blood tests can identify other causes for dementia than AD[22]—causes which may, in rare cases, be reversible.[128] It is common to perform thyroid function tests, assess B12, rule out syphilis, rule out metabolic problems (including tests for kidney function, electrolyte levels and for diabetes), assess levels of heavy metals (e.g. lead, mercury) and anaemia. (It is also necessary to rule out delirium).
+
+Psychological tests for depression are employed, since depression can either be concurrent with AD (see Depression of Alzheimer disease), an early sign of cognitive impairment,[129] or even the cause.[130][131]
+
+Due to low accuracy, the C-PIB-PET scan is not recommended to be used as an early diagnostic tool or for predicting the development of Alzheimer's disease when people show signs of mild cognitive impairment (MCI).[132] The use of ¹⁸F-FDG PET scans, as a single test, to identify people who may develop Alzheimer's disease is also not supported by evidence.[133]
+Prevention
+Intellectual activities such as playing chess or regular social interaction have been linked to a reduced risk of AD in epidemiological studies, although no causal relationship has been found.
+
+There is no definitive evidence to support that any particular measure is effective in preventing AD.[13] Global studies of measures to prevent or delay the onset of AD have often produced inconsistent results. Epidemiological studies have proposed relationships between certain modifiable factors, such as diet, cardiovascular risk, pharmaceutical products, or intellectual activities among others, and a population's likelihood of developing AD. Only further research, including clinical trials, will reveal whether these factors can help to prevent AD.[13]
+Medication
+
+Although cardiovascular risk factors, such as hypercholesterolaemia, hypertension, diabetes, and smoking, are associated with a higher risk of onset and course of AD,[134][135] statins, which are cholesterol lowering drugs, have not been effective in preventing or improving the course of the disease.[136][137][138]
+
+Long-term usage of non-steroidal anti-inflammatory drugs (NSAIDs) were thought in 2007 to be associated with a reduced likelihood of developing AD.[139] Evidence also suggested the notion that NSAIDs could reduce inflammation related to amyloid plaques, but trials were suspended due to high adverse events.[13] No prevention trial has been completed.[13] They do not appear to be useful as a treatment, but as of 2011 were thought to be candidates as presymptomatic preventatives.[140] Hormone replacement therapy in menopause, although previously used, may increase the risk of dementia.[141]
+Lifestyle
+
+People who engage in intellectual activities such as reading, playing board games, completing crossword puzzles, playing musical instruments, or regular social interaction show a reduced risk for Alzheimer's disease.[142] This is compatible with the cognitive reserve theory, which states that some life experiences result in more efficient neural functioning providing the individual a cognitive reserve that delays the onset of dementia manifestations.[142] Education delays the onset of AD syndrome without changing the duration of the disease.[143] Learning a second language even later in life seems to delay getting Alzheimer disease.[144] Physical activity is also associated with a reduced risk of AD.[143] Physical exercise is associated with decreased rate of dementia.[145] Physical exercise is also effective in reducing symptom severity in those with Alzheimer's disease.[146]
+Diet
+
+People who maintain a healthy, Japanese, or Mediterranean diet have a reduced risk of AD.[147] A Mediterranean diet may improve outcomes in those with the disease.[148] Those who eat a diet high in saturated fats and simple carbohydrates (mono- and disaccharide) have a higher risk.[149] The Mediterranean diet's beneficial cardiovascular effect has been proposed as the mechanism of action.[150]
+
+Conclusions on dietary components have at times been difficult to ascertain as results have differed between population-based studies and randomised controlled trials.[147] There is limited evidence that light to moderate use of alcohol, particularly red wine, is associated with lower risk of AD.[147] There is tentative evidence that caffeine may be protective.[151] A number of foods high in flavonoids such as cocoa, red wine, and tea may decrease the risk of AD.[152][153]
+
+Reviews on the use of vitamins and minerals have not found enough consistent evidence to recommend them. This includes vitamin A,[154][155] C,[156][157] the alpha-tocopherol form of vitamin E,[158] selenium,[159] zinc,[160][161] and folic acid with or without vitamin B12.[162] Evidence from one randomized controlled trial indicated that the alpha-tocopherol form of vitamin E may slow cognitive decline, this evidence was judged to be "moderate" in quality.[158] Trials examining folic acid (B9) and other B vitamins failed to show any significant association with cognitive decline.[163] Omega-3 fatty acid supplements from plants and fish, and dietary docosahexaenoic acid (DHA), do not appear to benefit people with mild to moderate Alzheimer's disease.[164][165]
+
+Curcumin as of 2010 had not shown benefit in people even though there is tentative evidence in animals.[166] There was inconsistent and unconvincing evidence that ginkgo has any positive effect on cognitive impairment and dementia.[167] As of 2008 there was no concrete evidence that cannabinoids are effective in improving the symptoms of AD or dementia;[168] however, some research into endocannabinoids looked promising.[169]
+Management
+
+There is no cure for Alzheimer's disease; available treatments offer relatively small symptomatic benefit but remain palliative in nature. Current treatments can be divided into pharmaceutical, psychosocial and caregiving.
+Medications
+Three-dimensional molecular model of donepezil, an acetylcholinesterase inhibitor used in the treatment of AD symptoms
+Molecular structure of memantine, a medication approved for advanced AD symptoms
+
+Five medications are currently used to treat the cognitive problems of AD: four are acetylcholinesterase inhibitors (tacrine, rivastigmine, galantamine and donepezil) and the other (memantine) is an NMDA receptor antagonist. The benefit from their use is small.[6][170][171] No medication has been clearly shown to delay or halt the progression of the disease.
+
+Reduction in the activity of the cholinergic neurons is a well-known feature of Alzheimer's disease.[172] Acetylcholinesterase inhibitors are employed to reduce the rate at which acetylcholine (ACh) is broken down, thereby increasing the concentration of ACh in the brain and combating the loss of ACh caused by the death of cholinergic neurons.[173] There is evidence for the efficacy of these medications in mild to moderate Alzheimer's disease,[174][171][170] and some evidence for their use in the advanced stage.[170] The use of these drugs in mild cognitive impairment has not shown any effect in a delay of the onset of AD.[175] The most common side effects are nausea and vomiting, both of which are linked to cholinergic excess. These side effects arise in approximately 10–20% of users, are mild to moderate in severity, and can be managed by slowly adjusting medication doses.[176] Less common secondary effects include muscle cramps, decreased heart rate (bradycardia), decreased appetite and weight, and increased gastric acid production.[174]
+
+Glutamate is an excitatory neurotransmitter of the nervous system, although excessive amounts in the brain can lead to cell death through a process called excitotoxicity which consists of the overstimulation of glutamate receptors. Excitotoxicity occurs not only in Alzheimer's disease, but also in other neurological diseases such as Parkinson's disease and multiple sclerosis.[177] Memantine is a noncompetitive NMDA receptor antagonist first used as an anti-influenza agent. It acts on the glutamatergic system by blocking NMDA receptors and inhibiting their overstimulation by glutamate.[177][178] Memantine has been shown to have a small benefit in the treatment of moderate to severe Alzheimer's disease.[179] Reported adverse events with memantine are infrequent and mild, including hallucinations, confusion, dizziness, headache and fatigue.[180] The combination of memantine and donepezil has been shown to be "of statistically significant but clinically marginal effectiveness".[181]
+
+Atypical antipsychotics are modestly useful in reducing aggression and psychosis in people with Alzheimer's disease, but their advantages are offset by serious adverse effects, such as stroke, movement difficulties or cognitive decline.[182] When used in the long-term, they have been shown to associate with increased mortality.[183] Stopping antipsychotic use in this group of people appears to be safe.[184]
+
+Huperzine A while promising, requires further evidence before its use can be recommended.[185]
+Psychosocial intervention
+
+Psychosocial interventions are used as an adjunct to pharmaceutical treatment and can be classified within behaviour-, emotion-, cognition- or stimulation-oriented approaches. Research on efficacy is unavailable and rarely specific to AD, focusing instead on dementia in general.[186]
+
+Behavioural interventions attempt to identify and reduce the antecedents and consequences of problem behaviours. This approach has not shown success in improving overall functioning,[187] but can help to reduce some specific problem behaviours, such as incontinence.[188] There is a lack of high quality data on the effectiveness of these techniques in other behaviour problems such as wandering.[189][190] Music therapy is effective in reducing behavioural and psychological symptoms.[191]
+
+Emotion-oriented interventions include reminiscence therapy, validation therapy, supportive psychotherapy, sensory integration, also called snoezelen, and simulated presence therapy. A Cochrane review has found no evidence that this is effective.[192] Supportive psychotherapy has received little or no formal scientific study, but some clinicians find it useful in helping mildly impaired people adjust to their illness.[186] Reminiscence therapy (RT) involves the discussion of past experiences individually or in group, many times with the aid of photographs, household items, music and sound recordings, or other familiar items from the past. A 2018 review of the effectiveness of RT found that effects were inconsistent, small in size and of doubtful clinical significance, and varied by setting.[193] Simulated presence therapy (SPT) is based on attachment theories and involves playing a recording with voices of the closest relatives of the person with Alzheimer's disease. There is partial evidence indicating that SPT may reduce challenging behaviours.[194] Finally, validation therapy is based on acceptance of the reality and personal truth of another's experience, while sensory integration is based on exercises aimed to stimulate senses. There is no evidence to support the usefulness of these therapies.[195][196]
+
+The aim of cognition-oriented treatments, which include reality orientation and cognitive retraining, is the reduction of cognitive deficits. Reality orientation consists in the presentation of information about time, place or person to ease the understanding of the person about its surroundings and his or her place in them. On the other hand, cognitive retraining tries to improve impaired capacities by exercitation of mental abilities. Both have shown some efficacy improving cognitive capacities,[197] although in some studies these effects were transient and negative effects, such as frustration, have also been reported.[186]
+
+Stimulation-oriented treatments include art, music and pet therapies, exercise, and any other kind of recreational activities. Stimulation has modest support for improving behaviour, mood, and, to a lesser extent, function. Nevertheless, as important as these effects are, the main support for the use of stimulation therapies is the change in the person's routine.[186] The efficacy of non-invasive brain stimulation and invasive brain stimulation in AD remains uncertain.[198]
+Caregiving
+Further information: Caregiving and dementia
+
+Since Alzheimer's has no cure and it gradually renders people incapable of tending for their own needs, caregiving is essentially the treatment and must be carefully managed over the course of the disease.
+
+During the early and moderate stages, modifications to the living environment and lifestyle can increase patient safety and reduce caretaker burden.[199][200] Examples of such modifications are the adherence to simplified routines, the placing of safety locks, the labelling of household items to cue the person with the disease or the use of modified daily life objects.[186][201][202] If eating becomes problematic, food will need to be prepared in smaller pieces or even pureed.[203] When swallowing difficulties arise, the use of feeding tubes may be required. In such cases, the medical efficacy and ethics of continuing feeding is an important consideration of the caregivers and family members.[204][205] The use of physical restraints is rarely indicated in any stage of the disease, although there are situations when they are necessary to prevent harm to the person with AD or their caregivers.[186]
+
+As the disease progresses, different medical issues can appear, such as oral and dental disease, pressure ulcers, malnutrition, hygiene problems, or respiratory, skin, or eye infections. Careful management can prevent them, while professional treatment is needed when they do arise.[206][207] During the final stages of the disease, treatment is centred on relieving discomfort until death, often with the help of hospice.[208]
+Prognosis
+Disability-adjusted life year for Alzheimer and other dementias per 100,000 inhabitants in 2004.
+  No data
+  ≤ 50
+  50–70
+  70–90
+  90–110
+  110–130
+  130–150
+  150–170
+  170–190
+  190–210
+  210–230
+  230–250
+  ≥ 250
+
+The early stages of Alzheimer's disease are difficult to diagnose. A definitive diagnosis is usually made once cognitive impairment compromises daily living activities, although the person may still be living independently. The symptoms will progress from mild cognitive problems, such as memory loss through increasing stages of cognitive and non-cognitive disturbances, eliminating any possibility of independent living, especially in the late stages of the disease.[29]
+
+Life expectancy of people with AD is reduced.[209] Following diagnosis it typically ranges from three to ten years.[209]
+
+Fewer than 3% of people live more than fourteen years.[210] Disease features significantly associated with reduced survival are an increased severity of cognitive impairment, decreased functional level, history of falls, and disturbances in the neurological examination. Other coincident diseases such as heart problems, diabetes or history of alcohol abuse are also related with shortened survival.[211][212][213] While the earlier the age at onset the higher the total survival years, life expectancy is particularly reduced when compared to the healthy population among those who are younger.[214] Men have a less favourable survival prognosis than women.[210][215]
+
+Pneumonia and dehydration are the most frequent immediate causes of death brought by AD, while cancer is a less frequent cause of death than in the general population.[215]
+Epidemiology
+Rates after age 65[216] Age 	New affected
+per thousand
+person–years
+65–69 	 3
+70–74 	 6
+75–79 	 9
+80–84 	23
+85–89 	40
+90–     	69
+
+Two main measures are used in epidemiological studies: incidence and prevalence. Incidence is the number of new cases per unit of person–time at risk (usually number of new cases per thousand person–years); while prevalence is the total number of cases of the disease in the population at any given time.
+
+Regarding incidence, cohort longitudinal studies (studies where a disease-free population is followed over the years) provide rates between 10 and 15 per thousand person–years for all dementias and 5–8 for AD,[216][217] which means that half of new dementia cases each year are AD. Advancing age is a primary risk factor for the disease and incidence rates are not equal for all ages: every five years after the age of 65, the risk of acquiring the disease approximately doubles, increasing from 3 to as much as 69 per thousand person years.[216][217] There are also sex differences in the incidence rates, women having a higher risk of developing AD particularly in the population older than 85.[217][218] In the United States, the risk of dying from Alzheimer's disease is 26% higher among the non-Hispanic white population than among the non-Hispanic black population, whereas the Hispanic population has a 30% lower risk than the non-Hispanic white population.[219]
+Deaths per million persons in 2012 due to dementias including Alzheimer's disease
+  0–4
+  5–8
+  9–10
+  11–13
+  14–17
+  18–24
+  25–45
+  46–114
+  115–375
+  376–1266
+
+Prevalence of AD in populations is dependent upon different factors including incidence and survival. Since the incidence of AD increases with age, it is particularly important to include the mean age of the population of interest. In the United States, Alzheimer prevalence was estimated to be 1.6% in 2000 both overall and in the 65–74 age group, with the rate increasing to 19% in the 75–84 group and to 42% in the greater than 84 group.[220] Prevalence rates in less developed regions are lower.[221] The World Health Organization estimated that in 2005, 0.379% of people worldwide had dementia, and that the prevalence would increase to 0.441% in 2015 and to 0.556% in 2030.[222] Other studies have reached similar conclusions.[221] Another study estimated that in 2006, 0.40% of the world population (range 0.17–0.89%; absolute number 26.6 million, range 11.4–59.4 million) were afflicted by AD, and that the prevalence rate would triple and the absolute number would quadruple by 2050.[223]
+History
+See also: Timeline of Alzheimer's disease
+Alois Alzheimer's patient Auguste Deter in 1902. Hers was the first described case of what became known as Alzheimer's disease.
+
+The ancient Greek and Roman philosophers and physicians associated old age with increasing dementia.[18] It was not until 1901 that German psychiatrist Alois Alzheimer identified the first case of what became known as Alzheimer's disease, named after him, in a fifty-year-old woman he called Auguste D. He followed her case until she died in 1906, when he first reported publicly on it.[224] During the next five years, eleven similar cases were reported in the medical literature, some of them already using the term Alzheimer's disease.[18] The disease was first described as a distinctive disease by Emil Kraepelin after suppressing some of the clinical (delusions and hallucinations) and pathological features (arteriosclerotic changes) contained in the original report of Auguste D.[225] He included Alzheimer's disease, also named presenile dementia by Kraepelin, as a subtype of senile dementia in the eighth edition of his Textbook of Psychiatry, published on 15 July, 1910.[226]
+
+For most of the 20th century, the diagnosis of Alzheimer's disease was reserved for individuals between the ages of 45 and 65 who developed symptoms of dementia. The terminology changed after 1977 when a conference on AD concluded that the clinical and pathological manifestations of presenile and senile dementia were almost identical, although the authors also added that this did not rule out the possibility that they had different causes.[227] This eventually led to the diagnosis of Alzheimer's disease independent of age.[228] The term senile dementia of the Alzheimer type (SDAT) was used for a time to describe the condition in those over 65, with classical Alzheimer's disease being used to describe those who were younger. Eventually, the term Alzheimer's disease was formally adopted in medical nomenclature to describe individuals of all ages with a characteristic common symptom pattern, disease course, and neuropathology.[229]
+Society and culture
+See also: Alzheimer's disease organisations
+Social costs
+
+Dementia, and specifically Alzheimer's disease, may be among the most costly diseases for society in Europe and the United States,[19][20] while their costs in other countries such as Argentina,[230] and South Korea,[231] are also high and rising. These costs will probably increase with the ageing of society, becoming an important social problem. AD-associated costs include direct medical costs such as nursing home care, direct nonmedical costs such as in-home day care, and indirect costs such as lost productivity of both patient and caregiver.[20] Numbers vary between studies but dementia costs worldwide have been calculated around $160 billion,[232] while costs of Alzheimer's disease in the United States may be $100 billion each year.[20]
+
+The greatest origin of costs for society is the long-term care by health care professionals and particularly institutionalisation, which corresponds to 2/3 of the total costs for society.[19] The cost of living at home is also very high,[19] especially when informal costs for the family, such as caregiving time and caregiver's lost earnings, are taken into account.[233]
+
+Costs increase with dementia severity and the presence of behavioural disturbances,[234] and are related to the increased caregiving time required for the provision of physical care.[233] Therefore, any treatment that slows cognitive decline, delays institutionalisation or reduces caregivers' hours will have economic benefits. Economic evaluations of current treatments have shown positive results.[20]
+Caregiving burden
+Further information: Caregiving and dementia
+
+The role of the main caregiver is often taken by the spouse or a close relative.[235] Alzheimer's disease is known for placing a great burden on caregivers which includes social, psychological, physical or economic aspects.[14][236][237] Home care is usually preferred by people with AD and their families.[238] This option also delays or eliminates the need for more professional and costly levels of care.[238][239] Nevertheless, two-thirds of nursing home residents have dementias.[186]
+
+Dementia caregivers are subject to high rates of physical and mental disorders.[240] Factors associated with greater psychosocial problems of the primary caregivers include having an affected person at home, the carer being a spouse, demanding behaviours of the cared person such as depression, behavioural disturbances, hallucinations, sleep problems or walking disruptions and social isolation.[241][242] Regarding economic problems, family caregivers often give up time from work to spend 47 hours per week on average with the person with AD, while the costs of caring for them are high. Direct and indirect costs of caring for an Alzheimer's patient average between $18,000 and $77,500 per year in the United States, depending on the study.[233][235]
+
+Cognitive behavioural therapy and the teaching of coping strategies either individually or in group have demonstrated their efficacy in improving caregivers' psychological health.[14][243]
+Media
+Main article: Alzheimer's disease in the media
+
+AD has been portrayed in films such as: Iris (2001), based on John Bayley's memoir of his wife Iris Murdoch;[244] The Notebook (2004), based on Nicholas Sparks' 1996 novel of the same name;[245] A Moment to Remember (2004);Thanmathra (2005);[246] Memories of Tomorrow (Ashita no Kioku) (2006), based on Hiroshi Ogiwara's novel of the same name;[247] Away from Her (2006), based on Alice Munro's short story "The Bear Came over the Mountain";[248] Still Alice (2014), about a Columbia University professor who has early onset Alzheimer's disease, based on Lisa Genova's 2007 novel of the same name and featuring Julianne Moore in the title role. Documentaries on Alzheimer's disease include Malcolm and Barbara: A Love Story (1999) and Malcolm and Barbara: Love's Farewell (2007), both featuring Malcolm Pointon.[249][250][251]
+Research directions
+Medication
+
+In the decade 2002–2012, 244 compounds were assessed in Phase I, Phase II, or Phase III trials, and only one of these (memantine) received FDA approval (though others were still in the pipeline).[252] Solanezumab and aducanumab failed to show effectiveness in people who already had Alzheimer's symptoms.[253]
+
+One area of clinical research is focused on treating the underlying disease pathology. Reduction of beta-amyloid levels is a common target of compounds[254] (such as apomorphine) under investigation. Immunotherapy or vaccination for the amyloid protein is one treatment modality under study.[255] Unlike preventative vaccination, the putative therapy would be used to treat people already diagnosed. It is based upon the concept of training the immune system to recognise, attack, and reverse deposition of amyloid, thereby altering the course of the disease.[256] An example of such a vaccine under investigation was ACC-001,[257][258] although the trials were suspended in 2008.[259] Another similar agent is bapineuzumab, an antibody designed as identical to the naturally induced anti-amyloid antibody.[260] However, immunotherapeutic agents have been found to cause some concerning adverse drug reactions, such as amyloid-related imaging abnormalities.[261] Other approaches are neuroprotective agents, such as AL-108,[262] and metal-protein interaction attenuation agents, such as PBT2.[263] A TNFα receptor-blocking fusion protein, etanercept has showed encouraging results.[264]
+
+In 2008, two separate clinical trials showed positive results in modifying the course of disease in mild to moderate AD with methylthioninium chloride, a drug that inhibits tau aggregation,[265][266] and dimebon, an antihistamine.[267] The consecutive phase-III trial of dimebon failed to show positive effects in the primary and secondary endpoints.[268][269][270] Work with methylthioninium chloride showed that bioavailability of methylthioninium from the gut was affected by feeding and by stomach acidity, leading to unexpectedly variable dosing.[271] A new stabilised formulation, as the prodrug LMTX, is in phase-III trials (in 2014).[272]
+Behavioral prevention
+
+Research on the effects of meditation on preserving memory and cognitive functions is at an early stage.[273] A 2015 review suggests that mindfulness-based interventions may prevent or delay the onset of mild cognitive impairment and Alzheimer's disease.[274]
+Possible transmission
+
+Rare cases of possible transmission between people are being studied,[275] e.g. to growth hormone patients.[276]
+Infections
+
+The herpes simplex virus HSV-1 has been found in the same areas as amyloid plaques.[277] This suggested the possibility that AD could be treated or prevented with antiviral medication.[277][278] Studies of antivirals in cell cultures have shown promising results.[279]
+
+Fungal infection of AD brain has also been described.[280] This hypothesis was proposed by the microbiologist L. Carrasco when his group found statistical correlation between disseminated mycoses and AD.[281] Further work revealed that fungal infection is present in different brain regions of AD patients, but not in the control individuals.[282] [283] A fungal infection explains the symptoms observed in AD patients. The slow progression of AD fits with the chronic nature of some systemic fungal infections, which can be asymptomatic and thus, unnoticed and untreated.[282] The fungal hypotheses are also compatible with some other established AD hypotheses, like the amyloid hypothesis, that can be explained as an immune system response to an infection in the CNS,[284][285][286] as found by R. Moir and R. Tanzi in mouse and worm models of AD.
+Imaging
+Ambox current red.svg
+	
+This section needs to be updated. Please update this article to reflect recent events or newly available information.
+Last update: from PMID 28072381 and PMID 28259856 (April 2018)
+
+Of the many medical imaging techniques available, single photon emission computed tomography (SPECT) appears to be superior in differentiating Alzheimer's disease from other types of dementia, and this has been shown to give a greater level of accuracy compared with mental testing and medical history analysis.[287] Advances have led to the proposal of new diagnostic criteria.[22][119]
+
+PiB PET remains investigational, but a similar PET scanning radiopharmaceutical called florbetapir, containing the longer-lasting radionuclide fluorine-18, is a diagnostic tool in Alzheimer's disease.[288][289]
+
+Amyloid imaging is likely to be used in conjunction with other markers rather than as an alternative.[290] Volumetric MRI can detect changes in the size of brain regions. Measuring those regions that atrophy during the progress of Alzheimer's disease is showing promise as a diagnostic indicator. It may prove less expensive than other imaging methods currently under study.[291]
+
+In 2011 an FDA panel voted unanimously to recommend approval of florbetapir.[292] The imaging agent can help to detect Alzheimer's brain plaques.[293] A negative scan indicates sparse or no plaques, which is not consistent with a diagnosis of AD.[294]
+Diagnosis
+
+Emphasis in Alzheimer's research has been placed on diagnosing the condition before symptoms begin.[295] A number of biochemical tests have been developed to enable earlier detection. Some such tests involve the analysis of cerebrospinal fluid for beta-amyloid, total tau protein and phosphorylated tau181P protein concentrations.[296] Because drawing CSF can be painful, repeated draws are avoided. A blood test for circulatory miRNA and inflammatory biomarkers is a potential alternative indicator.[296] 

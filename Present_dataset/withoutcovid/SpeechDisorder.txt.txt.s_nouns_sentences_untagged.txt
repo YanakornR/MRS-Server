@@ -1,0 +1,44 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN speech|NN language|NN pathology|NN 
+speech|NN disorder|NN impediment|NN psychiatry|NN 
+speech|NN disorder|NN speech|NN disorder|NN type|NN communication_disorder|DS speech|NN 
+speech|NN disorder|NN content|NN 
+classification|NN type|NN disorder|NN cause|NN treatment|NN effect|NN language_disorder|DS reference|NN link|NN 
+classificationcitation|NN population|NN manner|NN respect|NN parameter|NN voice|NN disorder|NN 
+level|NN classification|NN magnitude|NN type|NN speech|NN disorder|NN treatment|NN therapy|NN 
+patient|NN request|NN speech|NN sound|NN demonstration|NN tongue|NN sound|NN production|NN 
+type|NN disorder|NN 
+apraxia|DS speech|NN stroke|NN illness|NN production|NN speech|NN sound|NN rearrang|NN sound|NN word|NN potato|NN 
+production|NN word|NN effort|NN phrase|NN effort|NN 
+speech|NN fluency|NN disorder|NN rate|NN speech|NN speech|NN 
+dyspraxia|NN childhood|NN apraxia|DS speech|NN 
+weakness|ST paralysis|ST speech|NN muscle|NN damage|NN nerve|NN brain|NN 
+stroke|NN disease|NN head|NN neck|NN injury|NN accident|NN palsy|NN 
+alteration|NN intensity|NN time|NN utterance|NN segment|NN rhythm|NN cadence|NN intonation|NN word|NN 
+change|NN duration|NN frequency|NN intensity|NN tonic|NN atonic|NN syllable|NN sentence|NN individual|NN speech|NN characteristics|NN 
+cause|NN dysprosody|NN pathology|NN brain|NN accident|NN traumatism|NN brain|NN muteness|NN inability|NN 
+speech|NN sound|NN disorder|NN difficulty|NN speech|NN consonant|NN articulation|NN disorder|NN disorder|NN disorder|NN 
+disorder|NN difficulty|NN learn|NN sound|NN 
+disorder|NN difficulty|NN sound|NN distinction|NN language|NN sound|NN place|NN 
+person|NN speech|NN sound|NN disorder|NN component|NN 
+adult|NN population|NN voice|NN disorder|NN impairment|NN function|NN larynx|NN resonance|NN 
+case|NN cause|NN 
+cause|NN speech|NN disorder|NN hear|NN loss|NN disorder|NN brain|NN injury|NN disability|NN drug|NN abuse|NN impairment|NN lip|NN palate|NN abuse|NN misuse|NN 
+treatment|NN globe|NN icon|NN 
+example|NN perspective|NN article|NN view|NN subject|NN 
+article|NN issue|NN talk|NN page|NN article|NN 
+december|NN 2009|NN template|NN message|NN 
+type|NN disorder|NN speech|NN therapy|NN attention|NN doctor|NN 
+treatment|NN correction|NN condition|NN psychotherapy|NN 
+united|NN states|NN children|NN speech|NN disorder|NN education|NN program|NN 
+children|NN experience|NN communication|NN difficulty|NN addition|NN struggle|NN student|NN school|NN education|NN program|NN school|NN year|NN speech|NN language|NN impediment|NN 
+estimate|NN children|NN speech|NN language|NN impairment|NN condition|NN deafness|DS school|NN district|NN student|NN speech|NN therapy|NN school|NN hour|NN day|NN summer|NN service|NN circumstance|NN 
+patient|NN team|NN type|NN disorder|NN 
+team|NN specialist|NN family|NN doctor|NN teacher|NN family|NN member|NN 
+suffer|NN speech|NN disorder|NN effect|NN children|NN 
+speech|NN disorder|NN target|NN bully|NN disorder|NN 
+bully|NN self-esteem|NN 
+language_disorder|DS 
+language_disorder|DS speech|NN disorder|NN 
+speech|NN disorder|NN problem|NN sound|NN speech|NN quality|NN voice|NN language_disorder|DS impairment|NN understand|NN word|NN word|NN speech|NN production|NN 
+stammer|NN association|NN family|NN language_disorder|DS list|NN voice|NN disorder|NN manner|NN articulation|NN 
+motor|NN speech|NN disorder|NN speech|NN language|NN pathology|NN speech|NN language|NN pathology|NN school|NN set|NN speech|NN language|NN assessment|NN speech|NN perception|NN speech|NN repetition|NN 

@@ -1,0 +1,1699 @@
+neck|NN surgeryseidman|NN author|NN s|NN reprint|NN permission|NN guideline|NN practice|NN guideline|NN allergic_rhinitis|DS michael|NN seidman|NN md1|NN richard|NN gurgel|NN md2|NN lin|NN md3|NN schwartz|NN md|NN mph4|NN fuad|NN baroody|NN md5|NN jam|NN bonner|NN md6|NN douglas|NN dawson|NN md7|NN mark|NN dykewicz|NN md8|NN jesse|NN hackell|NN md9|NN joseph|NN han|NN md10|NN ishman|NN md|NN mph11|NN helene|NN krouse|NN phd|NN corln12|NN sonya|NN malekzadeh|NN md13|NN jam|NN whit|NN mims|NN md14|NN omole|NN md15|NN reddy|NN lac|NN diplac16|NN dana|NN wallace|NN md17|NN walsh18|NN barbara|NN warren|NN psyd|NN med18|NN wilson|NN md19|NN nnacheta|NN head|NN neck|NN surgery|NN vol|NN 
+s1|NN academy|NN of|NN neck|NN surgery|NN foundation|NN reprint|NN permission|NN doi|NN http|NN sponsorship|NN interest|NN content|NN end|NN of|NN article|NN 
+objective|NN 
+allergic_rhinitis|DS ar|NN of|NN common|NN disease|NN adult|NN 
+common|NN chronic|NN ease|NN in|NN child|NN in|NN state|NN today|NN fifth|NN common|NN chronic|NN disease|NN in|NN state|NN 
+ar|NN 1|NN in|NN american|NN eat|NN 2|NN in|NN health|NN 
+quality|NN of|NN life|NN loss|NN of|NN work|NN school|NN attendance|NN 2|NN in|NN productivity|NN 
+tic|ST test|NN treatment|NN in|NN disorder|NN variation|NN in|NN use|NN 
+practice|NN guideline|NN care|NN of|NN patient|NN ar|NN quality|NN improvement|NN nities|NN evaluation|NN of|NN evidence|NN assessment|NN of|NN balance|NN of|NN management|NN option|NN 
+purpose|NN 
+purpose|NN of|NN guideline|NN quality|NN improvement|NN opportunity|NN clinician|NN in|NN ting|NN patient|NN ar|NN care|NN diagnosis|NN py|NN harmful|NN variation|NN in|NN care|NN 
+guideline|NN patient|NN ar|NN 
+child|NN age|NN of|NN 2|NN year|NN practice|NN guideline|NN rhinitis|DS in|NN population|NN in|NN patient|NN evidence|NN base|NN 
+guideline|NN number|NN of|NN quality|NN improvement|NN opportunity|NN group|NN reference|NN nose|NN manage|NN ar|NN 
+recommendation|NN in|NN guideline|NN standard|NN of|NN care|NN management|NN recommendation|NN treatment|NN care|NN patient|NN 
+action|NN statement|NN 
+development|NN group|NN ommendation|NN steroid|NN patient|NN diagnosis|NN of|NN ar|NN symptom|NN quality|NN of|NN life|NN 
+development|NN group|NN recommendation|NN sedate|NN antihistamine|NN patient|NN complaint|NN of|NN 
+panel|NN recommendation|NN 1|NN clinician|NN diagnosis|NN of|NN ar|NN patient|NN ent|NN history|NN examination|NN consistent|NN allergic|NN cause|NN 1|NN of|NN symptom|NN nasal|NN congestion|NN runny|NN itchy|NN 
+find|NN of|NN consistent|NN allergic|NN cause|NN include|NN rhinorrhea|ST nasal|NN congestion|NN discoloration|NN of|NN nasal|NN mucosa|NN eye|NN 
+2|NN clinician|NN clinician|NN ige|NN skin|NN blood|NN allergy|DS patient|NN diagnosis|NN of|NN ar|NN treatment|NN diagnosis|NN knowledge|NN of|NN allergen|NN therapy|NN 
+clinician|NN patient|NN diagnosis|NN of|NN ar|NN document|NN in|NN record|NN presence|NN of|NN condition|NN asthma|DS atopic_dermatitis|DS breathe|NN conjunctivitis|NN rhinosinusitis|NN otitis_media|DS 
+clinician|NN clinician|NN immunotherapy|NN patient|NN ar|NN response|NN symptom|NN therapy|NN control|NN 
+panel|NN 1|NN clinician|NN ing|NN sinonasal|NN in|NN patient|NN symptom|NN diagnosis|NN of|NN ar|NN 2|NN clinician|NN neck|NN surgery|NN leukotriene|NN receptor|NN therapy|NN patient|NN ar|NN 
+panel|NN group|NN option|NN 1|NN clinician|NN avoidance|NN of|NN allergen|NN vironmental|NN control|NN ie|NN removal|NN of|NN pet|NN use|NN of|NN air|NN tration|NN system|NN cover|NN chemical|NN agent|NN mite|NN in|NN patient|NN ar|NN allergen|NN symptom|NN 
+2|NN clinician|NN antihistamine|NN patient|NN ar|NN 
+clinician|NN combination|NN therapy|NN in|NN patient|NN ar|NN response|NN monotherapy|NN 
+clinician|NN surgeon|NN turbinate|NN reduction|NN in|NN patient|NN nasal|NN obstruction|NN turbinate|NN management|NN 
+clinician|NN acupuncture|NN clinician|NN acupuncture|NN patient|NN ar|NN in|NN therapy|NN 
+development|NN group|NN recommendation|NN use|NN of|NN therapy|NN patient|NN ar|NN 
+keywords|NN allergic_rhinitis|DS allergic_rhinitis|DS immunotherapy|NN agement|NN of|NN allergic_rhinitis|DS management|NN of|NN allergic_rhinitis|DS allergic_rhinitis|DS decongestant|NN use|NN allergic_rhinitis|DS medicine|NN acupuncture|NN therapy|NN diagnosis|NN of|NN allergic_rhinitis|DS nasal|NN allergy|DS hay|NN fever|ST atopic|NN rhinitis|DS rhinitis|DS pollinosis|NN catarrh|DS introduction|NN allergic_rhinitis|DS ar|NN of|NN common|NN disease|NN common|NN chronic|NN disease|NN in|NN child|NN in|NN state|NN today2|NN fifth|NN mon|NN chronic|NN disease|NN in|NN state|NN ar|NN 1|NN in|NN american|NN 2|NN in|NN health|NN quality|NN of|NN life|NN loss|NN of|NN work|NN school|NN attendance|NN 2|NN in|NN productivity|NN test|NN treatment|NN in|NN patient|NN disorder|NN variation|NN in|NN use|NN 
+practice|NN guideline|NN care|NN of|NN patient|NN ar|NN quality|NN ment|NN opportunity|NN evaluation|NN of|NN evidence|NN assessment|NN of|NN balance|NN of|NN management|NN option|NN 
+purpose|NN of|NN guideline|NN ar|NN immunoglobulin|NN e|NN ige|NN response|NN of|NN nasal|NN membrane|NN exposure|NN gen|NN 
+symptom|NN rhinorrhea|ST post|NN nasal|NN drip|NN nasal|NN congestion|NN nasal|NN itch|ST sneeze|NN 
+ar|NN symptom|NN 
+1|NN common|NN term|NN guideline|NN 
+allergic_rhinitis|DS ar|NN disease|NN nasal|NN congestion|NN rhinorrhea|ST nasal|NN drainage|NN nasal|NN itch|ST 
+inflammation|NN of|NN line|NN of|NN nose|NN person|NN something|NN allergic|NN dander|NN pollen|NN example|NN of|NN symptom|NN of|NN ar|NN stuffy|NN post|NN nasal|NN drip|NN itchy|NN 
+ar|NN 1|NN pattern|NN of|NN exposure|NN allergen|NN pollen|NN mite|NN episodic|NN exposure|NN in|NN patient|NN s|NN environment|NN eg|NN home|NN pet|NN 2|NN frequency|NN of|NN symptom|NN severity|NN of|NN symptom|NN 
+ar|NN in|NN manner|NN in|NN treatment|NN strategy|NN patient|NN 
+in|NN state|NN ar|NN classification|NN tem|NN food|NN drug|NN administration|NN medication|NN ar|NN 
+classification|NN system|NN limitation|NN length|NN of|NN aeroallergen|NN pollen|NN season|NN location|NN condition|NN 
+pollen|NN season|NN in|NN location|NN history|NN allergic|NN symptom|NN of|NN neck|NN surgery|NN henry|NN ford|NN hospital|NN bloomfield|NN michigan|NN of|NN surgery|NN neck|NN surgery|NN university|NN of|NN city|NN hopkins|NN school|NN of|NN medicine|NN department|NN of|NN head|NN neck|NN surgery|NN maryland|NN mason|NN center|NN seattle|NN washington|NN of|NN center|NN department|NN of|NN otolaryngology|NN chicago|NN illinois|NN center|NN birmingham|NN alabama|NN practice|NN muscatine|NN iowa|NN of|NN medicine|NN st|NN louis|NN university|NN school|NN of|NN medicine|NN st|NN louis|NN missouri|NN pediatrics|NN pomona|NN york|NN virginia|NN school|NN norfolk|NN virginia|NN child|NN hospital|NN center|NN cincinnati|NN ohio|NN state|NN university|NN philadelphia|NN pennsylvania|NN university|NN hospital|NN washington|NN dc|NN baptist|NN health|NN winston|NN salem|NN carolina|NN school|NN of|NN medicine|NN east|NN point|NN georgia|NN medicine|NN aaaom|NN virginia|NN university|NN boca|NN raton|NN florida|NN university|NN davie|NN florida|NN 18consumers|NN healthcare|NN fredericton|NN brunswick|NN canada|NN state|NN university|NN school|NN of|NN medicine|NN orleans|NN louisiana|NN of|NN research|NN quality|NN academy|NN of|NN neck|NN surgery|NN foundation|NN alexandria|NN virginia|NN usa|NN 
+author|NN michael|NN seidman|NN md|NN henry|NN ford|NN hospital|NN rd|NN bloomfield|NN mi|NN usa|NN 
+email|NN mseidma1|NN table|NN abbreviation|NN definition|NN of|NN common|NN term|NN 
+term|NN definition|NN s3|NN allergic_rhinitis|DS ar|NN disease|NN response|NN of|NN nasal|NN membrane|NN exposure|NN allergen|NN 
+symptom|NN rhinorrhea|ST nasal|NN drainage|NN nasal|NN congestion|NN nasal|NN itch|ST sneeze|NN 
+allergic_rhinitis|DS sar|NN disease|NN inflammatory|NN response|NN aeroallergens|NN 
+length|NN of|NN exposure|NN allergen|NN location|NN condition|NN 
+allergic_rhinitis|DS par|NN disease|NN inflammatory|NN response|NN aeroallergens|NN 
+dust|NN mite|NN mold|NN animal|NN allergen|NN occupational|NN allergen|NN 
+allergic_rhinitis|DS disease|NN inflammatory|NN response|NN frequency|NN of|NN exposure|NN allergic_rhinitis|DS disease|NN inflammatory|NN response|NN persistent|NN symptom|NN symptom|NN day|NN week|NN week|NN year|NN 
+day|NN week|NN week|NN year|NN 
+allergic_rhinitis|DS disease|NN inflammatory|NN response|NN individual|NN in|NN contact|NN exposure|NN part|NN of|NN s|NN environment|NN 
+ie|NN cat|NN friend|NN house|NN 
+exposure|NN symptom|NN exposure|NN in|NN zone|NN eg|NN dust|NN mite|NN 
+mold|NN patient|NN ar|NN ar|NN pollen|NN exposure|NN patient|NN implication|NN of|NN versus|NN perennial|NN patient|NN s|NN symptom|NN frequency|NN ity|NN treatment|NN selection|NN 
+tom|NN frequency|NN intermittent|NN day|NN week|NN week|NN year|NN day|NN week|NN week|NN year|NN classification|NN of|NN tom|NN frequency|NN limitation|NN 
+example|NN patient|NN symptom|NN day|NN week|NN intermittent|NN patient|NN 
+patient|NN provider|NN frequency|NN egory|NN treatment|NN plan|NN 
+definition|NN patient|NN intermittent|NN symptom|NN ar|NN tent|NN symptom|NN ar|NN 
+severity|NN mild|NN tom|NN quality|NN of|NN life|NN symptom|NN bad|NN quality|NN of|NN life|NN factor|NN sification|NN exacerbation|NN of|NN asthma|DS sleep|NN disturbance|NN impairment|NN of|NN activity|NN leisure|NN sport|NN impairment|NN of|NN school|NN performance|NN work|NN 
+guideline|NN purpose|NN of|NN guideline|NN quality|NN improvement|NN opportunity|NN clinician|NN in|NN set|NN patient|NN mize|NN patient|NN care|NN diagnosis|NN therapy|NN harmful|NN variation|NN in|NN care|NN 
+guideline|NN patient|NN ar|NN 
+child|NN age|NN of|NN 2|NN year|NN in|NN practice|NN guideline|NN rhinitis|DS in|NN population|NN in|NN patient|NN evidence|NN base|NN 
+guideline|NN number|NN of|NN ity|NN improvement|NN opportunity|NN group|NN ence|NN ar|NN 
+recommendation|NN in|NN guideline|NN guide|NN management|NN recommendation|NN treatment|NN care|NN patient|NN 
+guideline|NN patient|NN care|NN judgment|NN 
+goal|NN guideline|NN set|NN of|NN recommendation|NN process|NN level|NN of|NN evidence|NN balance|NN consensus|NN gap|NN in|NN recommendation|NN performance|NN measure|NN nues|NN quality|NN improvement|NN 
+2|NN highlight|NN topic|NN issue|NN in|NN development|NN of|NN guideline|NN 
+healthcare|NN burden|NN incidence|NN prevalence|NN allergic_rhinitis|DS health|NN problem|NN adult|NN child|NN 
+in|NN state|NN ar|NN common|NN diagnosis|NN office|NN study|NN percentage|NN of|NN population|NN rhinitis|DS symptom|NN rhinitis|DS symptom|NN allergy|DS in|NN health|NN examination|NN survey|NN nhanes|NN sample|NN of|NN people|NN state|NN age|NN year|NN hay|NN fever|ST allergy|DS rent|NN rhinitis|DS ige|NN specific|NN gen|NN 
+in|NN participant|NN rhinitis|DS symptom|NN month|NN respiratory|NN infection|NN 
+of|NN rhinitis|DS 1|NN allergy|DS standard|NN ar|NN 1|NN in|NN person|NN state|NN 
+state|NN population|NN len|NN dust|NN mite|NN study|NN of|NN asthma|DS allergy|DS in|NN childhood|NN isaac|NN worldwide|NN study|NN of|NN allergy|DS in|NN neck|NN surgery|NN table|NN topic|NN issue|NN in|NN allergic_rhinitis|DS ar|NN guideline|NN treatment|NN therapy|NN risk|NN factor|NN role|NN of|NN acupuncture|NN role|NN of|NN medicine|NN role|NN of|NN role|NN of|NN nasal|NN rinse|NN role|NN of|NN role|NN of|NN antibiotic|NN diagnosis|NN of|NN therapy|NN diagnosis|NN method|NN development|NN of|NN ar|NN nasal|NN condition|NN ar|NN patient|NN allergy|DS specialist|NN 
+ar|NN identify|NN comorbidities|NN allergic|NN component|NN s|NN type|NN of|NN test|NN 
+accuracy|NN of|NN diagnosis|NN accuracy|NN of|NN diagnosis|NN assessment|NN child|NN age|NN 2|NN 2|NN class|NN of|NN allergy|DS pharmacology|NN patient|NN 
+pharmacology|NN medication|NN class|NN v|NN effect|NN therapy|NN medication|NN prescription|NN medication|NN use|NN safety|NN of|NN nasal|NN steroid|NN medication|NN 
+treatment|NN of|NN allergic|NN role|NN of|NN education|NN symptom|NN phone|NN internet|NN 
+role|NN of|NN modification|NN value|NN of|NN pollen|NN count|NN in|NN severity|NN guidance|NN role|NN of|NN management|NN in|NN creation|NN of|NN exacerbation|NN of|NN ar|NN symptom|NN identification|NN of|NN risk|NN factor|NN development|NN of|NN older|NN diagnosis|NN of|NN allergy|DS age|NN 2|NN age|NN allergy|DS conjunctivitis|NN role|NN of|NN management|NN chronic|NN role|NN use|NN of|NN role|NN of|NN nasal|NN accurate|NN use|NN of|NN instrument|NN test|NN baseline|NN allergy|DS test|NN 
+inflammation|NN of|NN lung|NN sinus|NN skin|NN ear|NN role|NN of|NN immunotherapy|NN efficacy|NN of|NN antihistamine|NN response|NN therapy|NN need|NN therapy|NN role|NN of|NN control|NN evaluation|NN of|NN patient|NN improvement|NN in|NN accuracy|NN of|NN diagnosis|NN avoidance|NN of|NN reduction|NN in|NN care|NN variation|NN radiation|NN exposure|NN sinonasal|NN expenditure|NN reduction|NN measure|NN treatment|NN optimization|NN complication|NN comorbidities|NN optimization|NN of|NN therapy|NN avoidance|NN of|NN antihistamine|NN promotion|NN of|NN therapy|NN awareness|NN of|NN class|NN of|NN medication|NN treatment|NN of|NN reduction|NN in|NN use|NN of|NN agent|NN control|NN reduction|NN in|NN care|NN variation|NN awareness|NN use|NN of|NN immunotherapy|NN reduction|NN in|NN care|NN variation|NN nasal|NN breathe|NN quality|NN of|NN life|NN awareness|NN of|NN acupuncture|NN treatment|NN option|NN awareness|NN of|NN therapy|NN treatment|NN option|NN list|NN guideline|NN development|NN group|NN content|NN action|NN statement|NN item|NN in|NN guideline|NN 
+child|NN variation|NN in|NN prevalence|NN of|NN ar|NN country|NN rate|NN in|NN iran|NN in|NN prevalence|NN of|NN vary|NN genetics|NN epigenetics|NN exposure|NN in|NN way|NN 
+allergic_rhinitis|DS condition|NN in|NN respect|NN demiologic|NN variance|NN 
+variation|NN majority|NN of|NN center|NN prevalence|NN of|NN et|NN al|NN s5|NN in|NN child|NN time|NN 
+in|NN state|NN time|NN period|NN in|NN prevalence|NN of|NN ar|NN in|NN child|NN year|NN result|NN ar|NN common|NN concern|NN 
+cost|NN quality|NN of|NN life|NN productivity|NN impact|NN management|NN of|NN ar|NN 
+estimate|NN of|NN cost|NN of|NN range|NN 2|NN half|NN of|NN cost|NN prescription|NN data|NN expenditure|NN panel|NN survey|NN gest|NN visit|NN number|NN of|NN prescription|NN patient|NN ar|NN number|NN of|NN patient|NN cost|NN comorbidities|NN of|NN ar|NN sinusitis|DS asthma|DS in|NN addition|NN cost|NN toll|NN patient|NN quality|NN of|NN life|NN function|NN sion|NN make|NN cost|NN of|NN ar|NN in|NN adult|NN cost|NN work|NN tivity|NN day|NN absent|NN illness|NN 
+in|NN state|NN result|NN in|NN loss|NN of|NN workday|NN cohort|NN of|NN employee|NN employer|NN location|NN et|NN al16|NN ar|NN loss|NN of|NN productivity|NN illness|NN of|NN productivity|NN 
+productivity|NN ar|NN 2|NN in|NN in|NN child|NN ar|NN tie|NN 2|NN school|NN day|NN child|NN ar|NN disorder|NN of|NN performance|NN behavior|NN attention|NN common|NN comorbidities|NN breathe|NN asthma|DS method|NN guideline|NN explicit|NN ent|NN protocol|NN statement|NN evidence|NN balance|NN of|NN benefit|NN guideline|NN development|NN group|NN of|NN panel|NN member|NN expert|NN in|NN otolaryngology|NN allergy|DS immunology|NN medicine|NN family|NN medicine|NN pediatrics|NN sleep|NN medicine|NN practice|NN nurse|NN plementary|NN medicine|NN acupuncture|NN therapy|NN consumer|NN advocacy|NN 
+literature|NN information|NN specialist|NN 2|NN literature|NN search|NN june|NN filter|NN strategy|NN practice|NN guideline|NN review|NN trial|NN rcts|NN 
+search|NN term|NN nasal|NN allergy|DS tw|NN nasal|NN allergy|DS allergy|DS tw|NN pollinosis|NN tw|NN pollinoses|NN catarrh|DS tw|NN catarrh|DS tw|NN allergic_rhinitis|DS tw|NN rhinitis|DS allergic|NN mesh|NN rhinitis|DS allergic|NN mesh|NN rhinitis|DS mesh|NN pdat|NN pdat|NN lang|NN trial|NN pt|NN tw|NN trial|NN publication|NN type|NN trial|NN tw|NN trial|NN 
+search|NN term|NN evidence|NN population|NN treatment|NN outcome|NN 
+search|NN in|NN multiple|NN database|NN cochrane|NN library|NN embase|NN index|NN nurse|NN health|NN literature|NN cinahl|NN 
+in|NN instance|NN search|NN level|NN evidence|NN panel|NN member|NN gap|NN search|NN in|NN guideline|NN december|NN practice|NN guideline|NN search|NN guideline|NN publication|NN type|NN title|NN word|NN 
+search|NN guideline|NN 
+article|NN 1|NN topic|NN of|NN guideline|NN 2|NN in|NN panel|NN quality|NN criterion|NN eg|NN review|NN objective|NN method|NN search|NN strategy|NN data|NN extraction|NN method|NN 
+duplicate|NN reference|NN article|NN tally|NN guideline|NN 
+review|NN embase|NN cochrane|NN library|NN cinahl|NN 
+data|NN set|NN review|NN panel|NN member|NN 
+article|NN 1|NN topic|NN of|NN guideline|NN 2|NN in|NN panel|NN quality|NN criterion|NN eg|NN review|NN objective|NN method|NN search|NN strategy|NN data|NN extraction|NN method|NN 
+data|NN set|NN review|NN 
+set|NN of|NN rcts|NN embase|NN cinahl|NN cochrane|NN library|NN rcts|NN article|NN 
+panel|NN member|NN review|NN 
+article|NN 1|NN rcts|NN cate|NN article|NN article|NN abstract|NN 2|NN topic|NN of|NN guideline|NN in|NN panel|NN quality|NN criterion|NN eg|NN review|NN objective|NN method|NN search|NN strategy|NN data|NN extraction|NN method|NN 
+data|NN set|NN panel|NN review|NN rct|NN article|NN 
+practice|NN guideline|NN review|NN rcts|NN down|NN action|NN statement|NN category|NN 
+material|NN neck|NN surgery|NN s6|NN b|NN c|NN d|NN x|NN table|NN evidence|NN level|NN grade|NN of|NN grade|NN evidence|NN quality|NN diagnosis|NN evidence|NN quality|NN treatment|NN harm|NN review|NN of|NN study|NN randomize|NN trial|NN reference|NN standard|NN study|NN reference|NN standard|NN study|NN study|NN study|NN reference|NN standard|NN population|NN guideline|NN s|NN target|NN population|NN trial|NN evidence|NN study|NN study|NN case|NN control|NN cohort|NN design|NN reason|NN case|NN report|NN situation|NN study|NN preponderance|NN of|NN benefit|NN academy|NN of|NN pediatrics|NN classification|NN scheme25|NN consistency|NN level|NN of|NN evidence|NN search|NN need|NN in|NN guideline|NN quality|NN relevance|NN of|NN practice|NN guideline|NN of|NN review|NN of|NN rcts|NN 
+in|NN series|NN of|NN conference|NN call|NN group|NN scope|NN objective|NN of|NN guideline|NN 
+month|NN development|NN in|NN march|NN group|NN meet|NN format|NN support|NN center|NN informatics|NN ct|NN software|NN tions|NN evidence|NN review|NN feedback|NN guideline|NN draft|NN accuracy|NN of|NN content|NN consistency|NN criterion|NN practice|NN academy|NN of|NN neck|NN surgery|NN foundation|NN staff|NN implementability|NN appraisal|NN extractor|NN glia|NN adherence|NN of|NN draft|NN guideline|NN standard|NN clarity|NN of|NN recommendation|NN obstacle|NN panel|NN member|NN appraisal|NN in|NN draft|NN of|NN guideline|NN 
+guideline|NN draft|NN peer|NN review|NN 
+comment|NN el|NN s|NN chair|NN version|NN of|NN line|NN guideline|NN development|NN panel|NN 
+recommendation|NN in|NN guideline|NN data|NN data|NN combination|NN of|NN experience|NN consensus|NN 
+review|NN process|NN year|NN publication|NN pelling|NN evidence|NN warrant|NN consideration|NN 
+classification|NN of|NN statement|NN guideline|NN health|NN outcome|NN patient|NN harm|NN variation|NN in|NN care|NN 
+approach|NN development|NN evidence|NN policy|NN link|NN evidence|NN statement|NN 
+statement|NN quality|NN of|NN dence|NN balance|NN of|NN benefit|NN harm|NN statement|NN 
+definition|NN statement|NN in|NN table|NN of|NN guideline|NN deal|NN evidence|NN test|NN mendations|NN oxford|NN centre|NN guideline|NN ment|NN constraint|NN discretion|NN in|NN circumstance|NN 
+variation|NN in|NN practice|NN recommendation|NN option|NN opportunity|NN practice|NN clinician|NN in|NN way|NN patient|NN interest|NN need|NN of|NN recommendation|NN 
+clinician|NN scope|NN of|NN practice|NN train|NN 
+guideline|NN judgment|NN of|NN team|NN of|NN clinician|NN methodologists|NN evidence|NN make|NN recommendation|NN health|NN practice|NN value|NN judgment|NN desirability|NN of|NN outcome|NN management|NN option|NN 
+value|NN line|NN panel|NN harm|NN therapy|NN 
+major|NN goal|NN of|NN panel|NN value|NN process|NN 
+disclosure|NN conflict|NN of|NN interest|NN cost|NN of|NN guideline|NN travel|NN expense|NN of|NN panel|NN member|NN in|NN 
+conflict|NN of|NN interest|NN panel|NN bers|NN in|NN 2|NN year|NN conference|NN call|NN 
+review|NN discussion|NN of|NN panel|NN individual|NN conflict|NN panel|NN 1|NN panel|NN of|NN conflict|NN discussion|NN 2|NN discussion|NN panel|NN aspect|NN of|NN guideline|NN industry|NN publication|NN 
+panelist|NN conflict|NN of|NN interest|NN extend|NN et|NN al|NN s7|NN guideline|NN definition|NN statement|NN 
+statement|NN definition|NN implication|NN clinician|NN recommendation|NN rationale|NN approach|NN 
+recommendation|NN recommendation|NN benefit|NN of|NN approach|NN harm|NN harm|NN benefit|NN in|NN case|NN of|NN recommendation|NN quality|NN of|NN evidence|NN b|NN in|NN circumstance|NN recommendation|NN evidence|NN evidence|NN benefit|NN harm|NN 
+recommendation|NN recommendation|NN benefit|NN harm|NN harm|NN benefit|NN in|NN case|NN of|NN recommendation|NN quality|NN of|NN evidence|NN b|NN c|NN in|NN circumstance|NN recommendation|NN evidence|NN evidence|NN benefit|NN harm|NN 
+clinician|NN recommendation|NN information|NN preference|NN 
+option|NN option|NN quality|NN of|NN evidence|NN d|NN study|NN b|NN c|NN show|NN advantage|NN approach|NN versus|NN 
+clinician|NN in|NN decision|NN practice|NN bind|NN alternative|NN preference|NN role|NN 
+recommendation|NN recommendation|NN lack|NN of|NN evidence|NN d|NN balance|NN benefit|NN harm|NN 
+clinician|NN constraint|NN in|NN decision|NN make|NN evidence|NN balance|NN of|NN benefit|NN versus|NN harm|NN preference|NN role|NN 
+academy|NN of|NN pediatrics|NN classification|NN relationship|NN experience|NN participant|NN live|NN s|NN stake|NN in|NN guideline|NN action|NN statement|NN statement|NN in|NN ion|NN action|NN statement|NN in|NN bold|NN strength|NN of|NN recommendation|NN in|NN italic|NN 
+action|NN statement|NN action|NN statement|NN of|NN evidence|NN quality|NN level|NN of|NN confidence|NN in|NN dence|NN assessment|NN statement|NN of|NN cost|NN 
+statement|NN of|NN value|NN ments|NN role|NN of|NN preference|NN clarification|NN of|NN vagueness|NN panel|NN exception|NN ment|NN difference|NN of|NN opinion|NN repeat|NN statement|NN of|NN strength|NN of|NN recommendation|NN 
+paragraph|NN evidence|NN base|NN statement|NN 
+overview|NN of|NN statement|NN in|NN line|NN in|NN role|NN of|NN preference|NN in|NN decision|NN clarification|NN 
+statement|NN evidence|NN base|NN benefit|NN role|NN of|NN preference|NN range|NN of|NN treatment|NN decision|NN make|NN clinician|NN vide|NN patient|NN information|NN benefit|NN understand|NN decision|NN make|NN in|NN turn|NN lead|NN ence|NN outcome|NN 
+purpose|NN of|NN guideline|NN decision|NN refer|NN exchange|NN of|NN information|NN ing|NN treatment|NN risk|NN benefit|NN expression|NN of|NN preference|NN value|NN in|NN sibility|NN in|NN decision|NN treatment|NN in|NN case|NN evidence|NN benefit|NN practice|NN of|NN decision|NN management|NN sion|NN effort|NN clinician|NN 
+factor|NN preference|NN benefit|NN number|NN effect|NN number|NN harm|NN cost|NN of|NN drug|NN procedure|NN frequency|NN duration|NN of|NN treatment|NN 
+statement|NN history|NN examination|NN clinician|NN diagnosis|NN of|NN ar|NN patient|NN history|NN examination|NN consistent|NN allergic|NN cause|NN 1|NN of|NN symptom|NN nasal|NN congestion|NN runny|NN itchy|NN 
+find|NN of|NN tent|NN allergic|NN cause|NN include|NN rhinorrhea|ST nasal|NN congestion|NN discoloration|NN of|NN nasal|NN mucosa|NN eye|NN 
+recommendation|NN study|NN preponderance|NN of|NN benefit|NN harm|NN 
+statement|NN summary|NN of|NN action|NN statement|NN 
+history|NN clinician|NN diagnosis|NN of|NN ar|NN patient|NN recommendation|NN examination|NN action|NN strength|NN neck|NN surgery|NN allergy|DS recommendation|NN history|NN examination|NN consistent|NN allergic|NN cause|NN 1|NN of|NN symptom|NN nasal|NN congestion|NN runny|NN itchy|NN 
+find|NN of|NN consistent|NN allergic|NN cause|NN include|NN rhinorrhea|ST nasal|NN congestion|NN discoloration|NN of|NN nasal|NN mucosa|NN eye|NN 
+clinician|NN clinician|NN ige|NN skin|NN blood|NN allergy|DS patient|NN diagnosis|NN of|NN ar|NN treatment|NN diagnosis|NN knowledge|NN of|NN allergen|NN therapy|NN 
+clinician|NN sinonasal|NN in|NN patient|NN recommendation|NN symptom|NN diagnosis|NN of|NN ar|NN 
+factor|NN clinician|NN avoidance|NN of|NN allergen|NN option|NN chronic|NN condition|NN comorbidities|NN control|NN eg|NN removal|NN of|NN pet|NN use|NN of|NN air|NN filtration|NN system|NN cover|NN chemical|NN agent|NN mite|NN in|NN ar|NN patient|NN allergen|NN symptom|NN 
+clinician|NN patient|NN diagnosis|NN of|NN ar|NN document|NN in|NN record|NN presence|NN of|NN condition|NN asthma|DS atopic_dermatitis|DS breathe|NN conjunctivitis|NN rhinosinusitis|NN otitis_media|DS 
+recommendation|NN steroid|NN clinician|NN intranasal|NN steroid|NN patient|NN recommendation|NN diagnosis|NN of|NN ar|NN symptom|NN quality|NN of|NN life|NN 
+antihistamine|NN clinician|NN sedate|NN antihistamine|NN recommendation|NN patient|NN complaint|NN of|NN 
+clinician|NN antihistamine|NN patient|NN option|NN clinician|NN leukotriene|NN receptor|NN recommendation|NN antihistamine|NN leukotriene|NN receptor|NN antagonist|NN ltras|NN ar|NN 
+therapy|NN patient|NN ar|NN 
+combination|NN therapy|NN clinician|NN combination|NN therapy|NN in|NN patient|NN ar|NN option|NN response|NN monotherapy|NN 
+clinician|NN clinician|NN recommendation|NN patient|NN ar|NN response|NN symptom|NN therapy|NN control|NN 
+turbinate|NN clinician|NN surgeon|NN turbinate|NN option|NN reduction|NN reduction|NN in|NN patient|NN nasal|NN obstruction|NN turbinate|NN management|NN 
+acupuncture|NN clinician|NN acupuncture|NN clinician|NN acupuncture|NN option|NN patient|NN ar|NN in|NN therapy|NN 
+therapy|NN recommendation|NN use|NN of|NN therapy|NN patient|NN ar|NN 
+recommendation|NN abbreviation|NN ar|NN allergic_rhinitis|DS ige|NN immunoglobulin|NN action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN consistent|NN approach|NN ation|NN of|NN patient|NN aggregate|NN evidence|NN quality|NN grade|NN c|NN study|NN level|NN of|NN confidence|NN in|NN evidence|NN benefit|NN treatment|NN ing|NN time|NN referral|NN therapy|NN quality|NN of|NN life|NN productivity|NN accurate|NN diagnosis|NN risk|NN harm|NN cost|NN treatment|NN misdiagnosis|NN history|NN assessment|NN preponderance|NN of|NN benefit|NN harm|NN value|NN judgment|NN ment|NN group|NN diagnosis|NN of|NN ar|NN test|NN diagnosis|NN of|NN ar|NN history|NN examination|NN 
+vagueness|NN use|NN of|NN word|NN diagnosis|NN diagnosis|NN test|NN 
+seidman|NN use|NN of|NN word|NN patient|NN history|NN examination|NN consistent|NN allergic|NN cause|NN clinician|NN diagnosis|NN of|NN ar|NN 
+specific|NN of|NN history|NN examination|NN consistent|NN allergic|NN cause|NN in|NN text|NN 
+role|NN of|NN preference|NN test|NN initiation|NN of|NN treatment|NN 
+exclusion|NN none|NN policy|NN level|NN recommendation|NN difference|NN of|NN opinion|NN none|NN purpose|NN of|NN statement|NN guidance|NN diagnosis|NN of|NN ar|NN patient|NN health|NN care|NN provider|NN 
+rhinitis|DS complaint|NN complaint|NN in|NN care|NN set|NN care|NN viders|NN diagnosis|NN therapy|NN ar|NN element|NN of|NN history|NN in|NN patient|NN itch|ST of|NN nose|NN palate|NN eye|NN nasal|NN congestion|NN rhinorrhea|ST postnasal|NN child|NN of|NN malaise|ST fatigue|ST cough|ST history|NN question|NN rhinorrhea|ST nasal|NN itch|ST in|NN order|NN disease|NN exposure|NN door|NN spore|NN plant|NN pollen|NN in|NN appearance|NN symptom|NN sensitization|NN allergen|NN dust|NN mite|NN roach|NN dander|NN pollen|NN exposure|NN in|NN climate|NN 
+exposure|NN allergen|NN animal|NN in|NN connection|NN appearance|NN clear|NN of|NN symptom|NN 
+symptom|NN exposure|NN irritant|NN smoke|NN fume|NN chemical|NN ar|NN 
+symptom|NN of|NN disease|NN sinusitis|DS vasomotor|NN rhinitis|DS disease|NN ar|NN symptom|NN ar|NN 
+symptom|NN epistaxis|ST rhinorrhea|ST nasal|NN blockage|NN headache|ST anosmia|NN diagnosis|NN 
+symptom|NN diagnosis|NN fluid|NN csf|NN rhinorrhea|ST sinonasal|NN tumor|NN chronic|NN rhinosinusitis|NN 
+symptom|NN epistaxis|ST nasal|NN symptom|NN headache|ST diagnosis|NN 
+respiratory|NN infection|NN tom|NN of|NN duration|NN symptom|NN fever|ST myalgia|NN 
+clinician|NN attention|NN patient|NN medication|NN drug|NN psychotropic|NN agent|NN decongestant|NN nasal|NN moreover|NN family|NN history|NN of|NN ar|NN asthma|DS atopic_dermatitis|DS diagnosis|NN of|NN ar|NN in|NN patient|NN severity|NN of|NN symptom|NN treatment|NN decision|NN 
+find|NN examination|NN si|NN of|NN find|NN rhea|NN pink|NN swelling|ST of|NN nasal|NN turbinate|NN mucosa|NN 
+find|NN common|NN watery|NN eye|NN discharge|ST swelling|ST of|NN conjunctiva|NN in|NN dren|NN allergic|NN shiner|NN darken|NN puffiness|NN of|NN eyelid|NN venous|NN pool|NN in|NN lid|NN vessel|NN 
+adenoid|NN nasal|NN symptom|NN in|NN child|NN 
+throat|NN clear|NN postnasal|NN drip|NN 
+symptom|NN patient|NN clinician|NN cause|NN reflux|NN 
+chronic|NN ar|NN symptom|NN rub|NN of|NN nose|NN allergic|NN salute|NN development|NN of|NN allergic|NN crease|NN nasal|NN bridge|NN 
+nasal|NN congestion|NN ar|NN patient|NN child|NN facies|NN chronic|NN mouth|NN breathe|NN 
+of|NN find|NN in|NN self|NN presence|NN in|NN patient|NN priate|NN history|NN support|NN diagnosis|NN of|NN examination|NN cause|NN of|NN nasal|NN obstruction|NN rhinorrhea|ST eign|NN body|NN leak|NN nasal|NN polyp|NN ar|NN chronic|NN tory|NN origin|NN tumor|NN infection|NN 
+diagnosis|NN find|NN of|NN response|NN allergen|NN blood|NN test|NN in|NN patient|NN diagnosis|NN therapy|NN tory|NN examination|NN 
+in|NN patient|NN school|NN work|NN performance|NN quality|NN of|NN life|NN response|NN avoidance|NN of|NN allergen|NN therapy|NN diagnosis|NN of|NN ar|NN need|NN highlight|NN history|NN find|NN in|NN ar|NN 
+statement|NN allergy|DS test|NN clinician|NN clinician|NN form|NN interpret|NN ige|NN skin|NN blood|NN allergy|DS patient|NN diagnosis|NN of|NN ar|NN treatment|NN diagnosis|NN knowledge|NN of|NN allergen|NN therapy|NN 
+recommendation|NN rcts|NN review|NN preponderance|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN accurate|NN diagnosis|NN evidence|NN quality|NN grade|NN b|NN trial|NN review|NN level|NN of|NN confidence|NN in|NN evidence|NN s10|NN neck|NN surgery|NN table|NN history|NN find|NN in|NN ar|NN 
+symptom|NN find|NN find|NN nasal|NN congestion|NN rhinorrhea|ST rhinorrhea|ST comorbid|NN disease|NN process|NN ar|NN of|NN nose|NN eye|NN postnasal|NN drip|NN throat|NN cough|ST malaise|ST complaint|NN in|NN fatigue|ST complaint|NN in|NN child|NN child|NN v|NN nature|NN of|NN symptom|NN symptom|NN exposure|NN agent|NN animal|NN plant|NN medication|NN family|NN history|NN of|NN atopic|NN allergic|NN disease|NN symptom|NN exposure|NN irritant|NN allergic|NN symptom|NN of|NN respiratory|NN infection|NN allergic|NN rhinorrhea|ST rhinorrhea|ST comorbid|NN disease|NN process|NN ar|NN swelling|ST of|NN nasal|NN find|NN watery|NN discharge|ST conjunctiva|NN injection|NN throat|NN allergic|NN shiner|NN nasal|NN crease|NN absence|NN of|NN body|NN tumor|NN purulence|NN infection|NN benefit|NN diagnosis|NN therapy|NN immunotherapy|NN avoidance|NN strategy|NN avoidance|NN of|NN therapy|NN cost|NN of|NN risk|NN harm|NN cost|NN cost|NN of|NN event|NN misinterpretation|NN of|NN result|NN test|NN result|NN positive|NN negative|NN assessment|NN preponderance|NN of|NN benefit|NN harm|NN value|NN judgment|NN patient|NN cation|NN of|NN allergic|NN cause|NN 
+vagueness|NN cific|NN test|NN blood|NN skin|NN order|NN 
+scope|NN of|NN guideline|NN 
+treatment|NN treatment|NN confirmatory|NN test|NN control|NN allergen|NN avoidance|NN management|NN 
+lack|NN of|NN response|NN treatment|NN cise|NN judgment|NN in|NN determination|NN patient|NN symptom|NN therapy|NN 
+role|NN of|NN preference|NN sion|NN make|NN in|NN discussion|NN of|NN harm|NN benefit|NN of|NN clinician|NN patient|NN tial|NN cost|NN benefit|NN effect|NN of|NN test|NN type|NN of|NN skin|NN blood|NN 
+exclusion|NN none|NN policy|NN level|NN recommendation|NN difference|NN of|NN opinion|NN none|NN purpose|NN of|NN statement|NN clinician|NN allergy|DS test|NN type|NN of|NN 
+nosis|NN of|NN ar|NN history|NN examination|NN presence|NN of|NN ige|NN antibody|NN allergen|NN patient|NN symptom|NN diagnosis|NN of|NN ar|NN 
+patient|NN symptom|NN of|NN ar|NN history|NN ination|NN confirmation|NN of|NN ige|NN allergy|DS 
+ment|NN treatment|NN test|NN control|NN allergen|NN avoidance|NN management|NN 
+scenario|NN confirmatory|NN test|NN 
+patient|NN treatment|NN diagnosis|NN of|NN ar|NN tification|NN of|NN allergen|NN sion|NN in|NN titration|NN of|NN therapy|NN 
+guideline|NN world|NN health|NN organization|NN allergy|DS test|NN treatment|NN measure|NN immunotherapy|NN in|NN patient|NN in|NN antihistamine|NN intranasal|NN steroid|NN in|NN control|NN symptom|NN trial|NN of|NN medication|NN 2|NN week|NN in|NN in|NN scenario|NN result|NN of|NN test|NN skin|NN blood|NN information|NN therapy|NN alter|NN treatment|NN clinician|NN 
+ar|NN disease|NN body|NN ie|NN igg|NN allergen|NN gers|NN 
+measurement|NN of|NN ige|NN value|NN in|NN diagnosis|NN of|NN 2|NN category|NN of|NN test|NN skin|NN blood|NN test|NN 
+discussion|NN of|NN modality|NN 
+skin|NN skin|NN test|NN bioassay|NN allergen|NN patient|NN s|NN skin|NN 
+skin|NN allow|NN observation|NN of|NN body|NN reaction|NN antigen|NN 
+antigen|NN mast|NN cell|NN antibody|NN surface|NN of|NN cell|NN 
+release|NN of|NN chemical|NN substance|NN histamine|NN mast|NN cell|NN granule|NN result|NN in|NN development|NN of|NN wheal|NN reaction|NN al|NN immunoglobulin|NN e|NN ige|NN test|NN 
+skin|NN test|NN skin|NN prick|NN recommend|NN s11|NN recommendation|NN advantage|NN allow|NN observation|NN of|NN body|NN reaction|NN antigen|NN systemic|NN allergic|NN reaction|NN anaphylaxis|NN patient|NN medication|NN blood|NN laboratory|NN error|NN blood|NN intradermal|NN sensitivity|NN skin|NN prick|NN blood|NN risk|NN of|NN anaphylaxis|NN s|NN medication|NN patient|NN skin|NN condition|NN dermatographism|NN eczema|NN patient|NN condition|NN skin|NN igg|NN recommend|NN test|NN rhinometry|NN olfactory|NN nasal|NN oxide|NN measurement|NN nasal|NN allergen|NN recommendation|NN information|NN helpful|NN management|NN of|NN allergic_rhinitis|DS skin|NN test|NN skin|NN ture|NN technique|NN technique|NN 
+skin|NN prick|NN test|NN scratch|NN test|NN form|NN of|NN puncture|NN technique|NN sensitivity|NN specificity|NN reproducibility|NN patient|NN test|NN form|NN of|NN skin|NN test|NN skin|NN test|NN test|NN suspicion|NN allergic|NN sensitization|NN gen|NN sensitivity|NN neutralization|NN test|NN form|NN of|NN of|NN interest|NN allergy|DS test|NN skin|NN test|NN in|NN patient|NN of|NN age|NN 
+infant|NN wheal|NN control|NN allergen|NN test|NN degree|NN of|NN reliability|NN 
+prevalence|NN of|NN skin|NN test|NN age|NN skin|NN test|NN in|NN skin|NN test|NN asthma|DS 
+skin|NN disease|NN eczema|NN contraindication|NN 
+tions|NN condition|NN survival|NN skin|NN phylaxis|NN develop|NN example|NN disease|NN use|NN of|NN 
+reaction|NN swelling|ST redness|NN pain|ST skin|NN test|NN event|NN anaphylaxis|NN death|NN 
+fatality|NN result|NN of|NN prick|NN inhalant|NN test|NN fatality|NN test|NN of|NN patient|NN variation|NN in|NN practice|NN in|NN 1|NN number|NN of|NN skin|NN test|NN 2|NN allergen|NN concentration|NN selection|NN of|NN skin|NN device|NN interpretation|NN documentation|NN of|NN result|NN quality|NN assurance|NN procedure|NN prick|NN skin|NN test|NN clinician|NN allergen|NN extract|NN neck|NN surgery|NN measurement|NN of|NN wheal|NN erythema|NN gen|NN control|NN minute|NN placement|NN 
+clinician|NN medication|NN patient|NN week|NN tions|NN antihistamine|NN antidepressant|NN eg|NN tricyclic|NN skin|NN test|NN blood|NN ige|NN patient|NN serum|NN in|NN test|NN 
+immunoassay|NN ige|NN in|NN serum|NN serum|NN allergen|NN phase|NN eg|NN disc|NN bead|NN 
+bind|NN ige|NN addition|NN of|NN antibody|NN allergen|NN label|NN enzyme|NN detection|NN 
+antibody|NN tag|NN test|NN rast|NN today|NN term|NN advantage|NN of|NN immunoassay|NN allergy|DS ability|NN sensitivity|NN antigen|NN concern|NN reaction|NN laxis|NN 
+antihistamine|NN medication|NN eg|NN depressant|NN 
+blood|NN allergy|DS of|NN skin|NN test|NN skin|NN condition|NN dermatographism|NN skin|NN skin|NN line|NN eczema|NN in|NN condition|NN skin|NN test|NN interpretation|NN skin|NN prick|NN ige|NN test|NN property|NN skin|NN prick|NN test|NN advantage|NN of|NN skin|NN test|NN blood|NN patient|NN result|NN of|NN test|NN 
+clinician|NN judgment|NN method|NN of|NN patient|NN 
+lack|NN of|NN evidence|NN of|NN riority|NN of|NN test|NN in|NN absence|NN of|NN tions|NN form|NN of|NN preference|NN availability|NN of|NN skin|NN blood|NN test|NN role|NN in|NN ing|NN test|NN 
+clinician|NN detection|NN of|NN sensitization|NN allergen|NN diagnosis|NN of|NN allergy|DS allergen|NN 
+in|NN absence|NN of|NN symptom|NN skin|NN blood|NN test|NN patient|NN allergy|DS allergen|NN 
+test|NN test|NN patient|NN ar|NN 
+test|NN rhinometry|NN test|NN microarray|NN test|NN nasal|NN oxide|NN measurement|NN food|NN allergy|DS nasal|NN allergen|NN challenge|NN 
+nasal|NN smear|NN nasal|NN eosinophilia|NN clinician|NN agreement|NN usefulness|NN evidence|NN mendations|NN use|NN of|NN test|NN 
+point|NN provider|NN s|NN knowledge|NN of|NN patient|NN history|NN allergen|NN quality|NN of|NN allergen|NN extract|NN immunotherapy|NN use|NN of|NN test|NN modality|NN skin|NN prick|NN test|NN blood|NN serum|NN test|NN test|NN test|NN combination|NN 
+type|NN of|NN ar|NN advantage|NN disadvantage|NN of|NN test|NN 
+statement|NN image|NN clinician|NN sinonasal|NN in|NN patient|NN symptom|NN diagnosis|NN of|NN ar|NN 
+recommendation|NN study|NN preponderance|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN reduction|NN of|NN variation|NN of|NN care|NN reduction|NN of|NN harm|NN radiation|NN exposure|NN aggregate|NN evidence|NN quality|NN grade|NN c|NN study|NN level|NN of|NN confidence|NN in|NN evidence|NN benefit|NN radiation|NN exposure|NN reduction|NN of|NN cost|NN variation|NN in|NN care|NN risk|NN harm|NN cost|NN inaccurate|NN diagnosis|NN of|NN pathology|NN present|NN symptom|NN 
+assessment|NN preponderance|NN of|NN benefit|NN harm|NN value|NN judgment|NN none|NN vagueness|NN word|NN routine|NN circumstance|NN history|NN evaluation|NN of|NN lem|NN role|NN of|NN preference|NN none|NN exclusion|NN none|NN policy|NN level|NN recommendation|NN difference|NN of|NN opinion|NN none|NN purpose|NN of|NN statement|NN use|NN of|NN image|NN patient|NN ar|NN 
+history|NN examination|NN allergy|DS test|NN aspect|NN of|NN diagnosis|NN of|NN ar|NN 
+allergen|NN tic|ST test|NN 
+find|NN ar|NN 
+utility|NN of|NN dures|NN in|NN ar|NN article|NN yield|NN of|NN study|NN ar|NN 
+image|NN in|NN patient|NN criterion|NN diagnosis|NN of|NN ar|NN 
+event|NN cost|NN benefit|NN of|NN image|NN 
+plain|NN film|NN radiograph|NN tomography|NN ct|NN scan|NN patient|NN radiation|NN in|NN contrast|NN risk|NN of|NN allergic|NN reaction|NN test|NN role|NN in|NN diagnosis|NN presentation|NN point|NN sequela|NN of|NN ar|NN rhinosinusitis|NN nasal|NN polyposis|NN concern|NN of|NN seidman|NN s13|NN neoplasm|NN 
+in|NN contrast|NN nasal|NN mucosa|NN rhinosinusitis|NN inflammation|NN of|NN nasal|NN cavity|NN paranasal|NN sinus|NN 
+sinusitis|DS imply|NN spread|NN of|NN infection|NN structure|NN in|NN complication|NN abscess|NN diagnosis|NN of|NN case|NN of|NN acute|NN subacute|NN rhinosinusitis|NN find|NN 
+sinonasal|NN image|NN scan|NN contrast|NN in|NN patient|NN sign|NN symptom|NN of|NN acute|NN rhinosinusitis|NN nasal|NN si|NN chronic|NN rhinosinusitis|NN rhinosinusitis|NN sinus|NN in|NN patient|NN sinonasal|NN neoplasm|NN ct|NN resonance|NN image|NN mri|NN evaluation|NN 
+ct|NN scan|NN bony|NN anatomy|NN of|NN sinus|NN pattern|NN of|NN bone|NN destruction|NN formation|NN of|NN bone|NN matrix|NN 
+mri|NN contrast|NN density|NN secretion|NN evidence|NN of|NN base|NN extension|NN of|NN in|NN diagnosis|NN of|NN ar|NN sentation|NN role|NN image|NN 
+cost|NN side|NN effect|NN of|NN modality|NN utility|NN in|NN evaluation|NN of|NN patient|NN ar|NN 
+statement|NN factor|NN clinician|NN avoidance|NN of|NN allergen|NN control|NN eg|NN removal|NN of|NN pet|NN use|NN of|NN air|NN filtration|NN system|NN cover|NN chemical|NN agent|NN mite|NN in|NN ar|NN patient|NN allergen|NN tom|NN 
+option|NN rcts|NN limitation|NN study|NN equilibrium|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN tures|NN measure|NN symptom|NN evidence|NN quality|NN grade|NN b|NN trial|NN limitation|NN study|NN level|NN of|NN confidence|NN in|NN evidence|NN exception|NN of|NN study|NN house|NN dust|NN mite|NN majority|NN of|NN study|NN benefit|NN allergen|NN level|NN reduction|NN in|NN symptom|NN risk|NN harm|NN cost|NN cost|NN of|NN control|NN effect|NN eg|NN ance|NN in|NN lover|NN cost|NN of|NN tion|NN assessment|NN equilibrium|NN value|NN judgment|NN study|NN reduction|NN in|NN allergen|NN level|NN trols|NN benefit|NN in|NN symptom|NN 
+use|NN of|NN multiple|NN avoidance|NN technique|NN measure|NN 
+vagueness|NN none|NN role|NN of|NN preference|NN decision|NN in|NN discussion|NN of|NN evidence|NN effectiveness|NN of|NN control|NN need|NN cost|NN benefit|NN exclusion|NN none|NN policy|NN level|NN option|NN difference|NN of|NN opinion|NN none|NN purpose|NN of|NN statement|NN symptom|NN of|NN ar|NN quality|NN of|NN life|NN control|NN allergen|NN exposure|NN measure|NN 
+term|NN control|NN refer|NN intervention|NN allergen|NN irritant|NN in|NN environment|NN health|NN outcome|NN patient|NN ar|NN 
+control|NN development|NN of|NN sensitization|NN progression|NN of|NN disease|NN symptom|NN medication|NN use|NN of|NN control|NN mean|NN of|NN patient|NN in|NN treatment|NN strategy|NN exposure|NN allergen|NN allergy|DS symptom|NN 
+risk|NN efits|NN of|NN method|NN patient|NN in|NN order|NN decision|NN measure|NN time|NN 
+find|NN study|NN control|NN program|NN of|NN multiple|NN strategy|NN exposure|NN allergen|NN symptom|NN 
+control|NN effect|NN of|NN infant|NN in|NN month|NN of|NN life|NN development|NN of|NN ar|NN 
+of|NN study|NN sample|NN of|NN ticipants|NN association|NN ing|NN infant|NN protection|NN ar|NN in|NN find|NN review|NN effect|NN of|NN breastfeed|NN development|NN of|NN allergic|NN disease|NN 
+evidence|NN reduction|NN in|NN risk|NN of|NN ar|NN in|NN infant|NN 
+challenge|NN in|NN study|NN time|NN effect|NN of|NN ar|NN 
+inability|NN study|NN ogy|NN design|NN preference|NN inconsistency|NN in|NN ar|NN health|NN care|NN provider|NN misclassification|NN of|NN feed|NN method|NN duration|NN contribute|NN lenges|NN in|NN literature|NN benefit|NN in|NN development|NN of|NN ar|NN remain|NN 
+avoidance|NN measure|NN removal|NN of|NN pet|NN ronment|NN allergen|NN exposure|NN patient|NN 
+study|NN sures|NN dander|NN 
+study|NN hodson|NN leagues68|NN effectiveness|NN of|NN dog|NN allergen|NN level|NN in|NN dog|NN hair|NN dander|NN in|NN home|NN 
+allergen|NN level|NN neck|NN surgery|NN animal|NN shampoo|NN minute|NN dry|NN 
+level|NN of|NN day|NN in|NN order|NN in|NN ing|NN dog|NN allergen|NN dog|NN week|NN 
+review|NN of|NN study|NN cat|NN reduction|NN in|NN d1|NN level|NN level|NN 1|NN week|NN change|NN in|NN level|NN of|NN allergen|NN in|NN benefit|NN of|NN cat|NN research|NN find|NN 
+wash|NN of|NN pet|NN allergen|NN animal|NN in|NN home|NN level|NN week|NN benefit|NN in|NN symptom|NN of|NN ar|NN in|NN study|NN 
+find|NN study|NN of|NN birth|NN cohorts70|NN ture|NN review71|NN role|NN of|NN ownership|NN in|NN early|NN year|NN of|NN life|NN development|NN of|NN atopy|NN predisposition|NN level|NN of|NN ige|NN allergen|NN sensitization|NN 
+cochrane|NN review72|NN avoidance|NN measure|NN house|NN dust|NN mite|NN hdms|NN cochrane|NN review73|NN review|NN in|NN review72|NN rcts|NN tiveness|NN of|NN measure|NN exposure|NN use|NN of|NN cover|NN air|NN filtration|NN late|NN air|NN hepa|NN filter|NN acaricide|NN agent|NN mite|NN combination|NN of|NN 2|NN of|NN study|NN cochrane|NN inclusion|NN criterion|NN 
+acaricide|NN therapy|NN in|NN bination|NN control|NN method|NN in|NN mite|NN exposure|NN symptom|NN of|NN acaricide|NN insecticide|NN furniture|NN rug|NN bed|NN 
+acaricide|NN product|NN eat|NN indoor|NN use|NN in|NN home|NN patient|NN instruction|NN application|NN 
+in|NN domized|NN trial|NN efficacy|NN of|NN bed|NN in|NN patient|NN ar|NN researcher|NN reduction|NN in|NN mite|NN level|NN in|NN mattress|NN cover|NN change|NN in|NN dust|NN mite|NN exposure|NN improvement|NN in|NN patient|NN symptom|NN 
+effect|NN of|NN mattress|NN ment|NN of|NN sensitization|NN in|NN newborn|NN in|NN birth|NN cohort|NN study|NN 
+infant|NN in|NN intervention|NN group|NN mattress|NN 
+month|NN of|NN age|NN age|NN limitation|NN of|NN study|NN difference|NN in|NN development|NN of|NN sensitization|NN infant|NN in|NN intervention|NN group|NN in|NN control|NN study79|NN of|NN patient|NN effect|NN of|NN control|NN sures|NN in|NN bedroom|NN mattress|NN cover|NN in|NN water|NN furniture|NN floor|NN 
+1|NN month|NN combination|NN of|NN bedroom|NN control|NN method|NN mite|NN level|NN in|NN bedroom|NN 
+ally|NN patient|NN in|NN intervention|NN group|NN improvement|NN in|NN nasal|NN symptom|NN in|NN control|NN group|NN 
+effectiveness|NN of|NN filtration|NN in|NN symptom|NN of|NN ar|NN medication|NN use|NN in|NN patient|NN zation|NN air|NN filtration|NN in|NN bedroom|NN week|NN week|NN filtration|NN week|NN cebo|NN filtration|NN 
+analysis|NN 2|NN filtration|NN period|NN reduction|NN in|NN matter|NN in|NN room|NN hepa|NN filter|NN improvement|NN in|NN allergy|DS symptom|NN medication|NN use|NN 
+researcher|NN 2|NN week|NN of|NN period|NN reduction|NN in|NN symptom|NN score|NN in|NN filtration|NN group|NN benefit|NN 
+in|NN patient|NN allergic|NN rhinoconjunctivitis|NN mite|NN cat|NN dog|NN allergen|NN in|NN crossover|NN design|NN effectiveness|NN of|NN therapy|NN barrier|NN encase|NN hepa|NN air|NN filtration|NN 
+participant|NN tion|NN group|NN placebo|NN group|NN 2|NN week|NN washout|NN period|NN group|NN period|NN 
+dust|NN sample|NN bed|NN reduction|NN of|NN in|NN filtration|NN group|NN reduction|NN of|NN in|NN placebo|NN group|NN 
+nasal|NN symptom|NN of|NN ar|NN in|NN group|NN placebo|NN group|NN change|NN in|NN daytime|NN symptom|NN 
+use|NN of|NN multiple|NN strategy|NN sure|NN nasal|NN symptom|NN in|NN patient|NN intervention|NN cover|NN bed|NN hepa|NN filtration|NN quality|NN of|NN evidence|NN dust|NN mite|NN avoidance|NN measure|NN research|NN effectiveness|NN of|NN approach|NN 
+control|NN allergen|NN level|NN symptom|NN 
+statement|NN chronic|NN condition|NN comorbidities|NN clinician|NN patient|NN diagnosis|NN of|NN ar|NN document|NN in|NN record|NN presence|NN of|NN condition|NN asthma|DS atopic_dermatitis|DS breathe|NN conjunctivitis|NN rhinosinusitis|NN otitis_media|DS 
+dation|NN trial|NN heterogeneity|NN preponderance|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN identification|NN of|NN condition|NN complication|NN treatment|NN optimization|NN aggregate|NN evidence|NN quality|NN grade|NN b|NN trial|NN heterogeneity|NN level|NN of|NN confidence|NN in|NN evidence|NN seidman|NN al|NN s15|NN table|NN control|NN allergen|NN level|NN symptom|NN 
+evidence|NN support|NN reduction|NN in|NN allergen|NN level|NN evidence|NN support|NN reduction|NN in|NN symptom|NN control|NN measure|NN removal|NN of|NN pet|NN pet|NN week|NN mite|NN cover|NN air|NN filtration|NN use|NN of|NN multiple|NN control|NN x|NN x|NN x|NN x|NN x|NN x|NN x|NN x|NN x|NN x|NN x|NN benefit|NN awareness|NN of|NN condition|NN identification|NN of|NN condition|NN knowledge|NN of|NN condition|NN recommendation|NN treatment|NN condition|NN response|NN treatment|NN 
+risk|NN harm|NN cost|NN diagnosis|NN of|NN comorbid|NN condition|NN assessment|NN preponderance|NN of|NN benefit|NN harm|NN value|NN judgment|NN none|NN vagueness|NN none|NN role|NN of|NN preference|NN none|NN exclusion|NN none|NN policy|NN level|NN recommendation|NN difference|NN of|NN opinion|NN none|NN purpose|NN of|NN statement|NN awareness|NN of|NN condition|NN ar|NN importance|NN of|NN tie|NN atopic|NN disorder|NN ing|NN otitis_media|DS rhinosinusitis|NN 
+association|NN atopic|NN disorder|NN asthma|DS eczema|NN ar|NN share|NN mechanism|NN 
+of|NN patient|NN asthma|DS of|NN patient|NN ar|NN asthma|DS 
+association|NN asthma|DS ar|NN asthma|DS allergic|NN cause|NN situation|NN absence|NN of|NN ar|NN in|NN child|NN risk|NN of|NN asthma|DS severity|NN duration|NN of|NN patient|NN s|NN childhood|NN ar|NN development|NN of|NN asthma|DS in|NN childhood|NN risk|NN of|NN asthma|DS sisting|NN adulthood|NN onset|NN of|NN allergic|NN asthma|DS in|NN age|NN 
+in|NN contrast|NN asthma|DS moreover|NN presence|NN of|NN atopic_dermatitis|DS age|NN development|NN of|NN asthma|DS ar|NN in|NN childhood|NN age|NN observation|NN allergic|NN in|NN study|NN of|NN child|NN early|NN childhood|NN eczema|NN ar|NN likelihood|NN of|NN ratory|NN disorder|NN severity|NN of|NN connection|NN skin|NN inflammation|NN respiratory|NN disease|NN in|NN part|NN sensitization|NN bear|NN allergen|NN contact|NN skin|NN allergic|NN conjunctivitis|NN in|NN conjunction|NN ar|NN 
+recognition|NN of|NN connection|NN atopic|NN eas|NN implication|NN diagnosis|NN therapy|NN 
+tory|NN of|NN atopic|NN eczema|NN asthma|DS allergic|NN origin|NN in|NN patient|NN persistent|NN recurrent|NN nasal|NN symptom|NN 
+evaluation|NN of|NN patient|NN ar|NN assessment|NN asthma|DS inquiry|NN tom|NN difficulty|NN breathe|NN cough|ST wheeze|NN ity|NN exercise|NN examination|NN of|NN chest|NN 
+evaluation|NN visit|NN in|NN dren|NN spirometry|NN asthma|DS 
+treatment|NN of|NN ar|NN in|NN patient|NN asthma|DS use|NN of|NN hyperreactivity|NN asthma|DS in|NN addition|NN receptor|NN antagonist|NN choice|NN patient|NN asthma|DS therapy|NN ar|NN statement|NN ltras|NN 
+immunotherapy|NN evidence|NN treatment|NN of|NN child|NN ar|NN immunotherapy|NN ment|NN of|NN asthma103|NN sensitivity|NN evidence|NN immunotherapy|NN ar|NN control|NN of|NN atopic|NN nasal|NN blockage|NN clearance106|NN patient|NN ar|NN infection|NN definite|NN relationship|NN disorder|NN lished|NN 
+hypertrophy|NN in|NN dren|NN ar|NN disease|NN 
+association|NN ar|NN otitis_media|DS report|NN of|NN comorbidity|NN in|NN review|NN of|NN patient|NN condition|NN allergy|DS treatment|NN in|NN antibiotic|NN resolution|NN of|NN otitis_media|DS effect|NN tube|NN dysfunction|NN 
+ar|NN s16|NN neck|NN surgery|NN breathing110|NN sleep|NN quality|NN fatigue|ST study|NN causal|NN relationship|NN ar|NN breathe|NN evidence|NN treatment|NN of|NN ar|NN ar|NN association|NN hypertrophy|NN treatment|NN of|NN ar|NN sleep|NN quality|NN somnolence|ST in|NN child|NN nasal|NN blockage|NN factor|NN in|NN obstructive|NN sleep|NN apnea|ST patient|NN coexistent|NN ar|NN reduction|NN in|NN apnea|ST hypopnea|ST index|NN reduction|NN in|NN statement|NN steroid|NN clinician|NN intranasal|NN steroid|NN patient|NN diagnosis|NN of|NN ar|NN symptom|NN ity|NN of|NN life|NN 
+recommendation|NN rcts|NN limitation|NN preponderance|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN use|NN of|NN therapy|NN aggregate|NN evidence|NN quality|NN grade|NN trial|NN limitation|NN level|NN of|NN confidence|NN in|NN evidence|NN benefit|NN symptom|NN control|NN quality|NN of|NN life|NN sleep|NN cost|NN monotherapy|NN effect|NN risk|NN harm|NN cost|NN side|NN effect|NN epistaxis|ST drug|NN side|NN effect|NN growth|NN concern|NN in|NN dren|NN perforation|NN cost|NN of|NN medication|NN assessment|NN preponderance|NN of|NN benefit|NN harm|NN value|NN judgment|NN none|NN vagueness|NN none|NN role|NN of|NN preference|NN multiple|NN class|NN of|NN therapy|NN risk|NN effect|NN cost|NN benefit|NN 
+clinician|NN expertise|NN in|NN patient|NN treatment|NN compliance|NN 
+exclusion|NN none|NN policy|NN level|NN recommendation|NN difference|NN of|NN opinion|NN minor|NN 
+ferences|NN of|NN opinion|NN therapy|NN mild|NN intermittent|NN symptom|NN nasal|NN mine|NN therapy|NN patient|NN 
+purpose|NN of|NN statement|NN clinician|NN in|NN ar|NN efficacy|NN superiority|NN therapy|NN safety|NN record|NN 
+intranasal|NN steroid|NN treatment|NN of|NN ar|NN 
+property|NN in|NN late|NN pathophysiology|NN of|NN ar|NN 
+in|NN nasal|NN allergen|NN challenge|NN model|NN pretreatment|NN in|NN result|NN in|NN reduction|NN in|NN mediator|NN cytokine|NN release|NN bition|NN in|NN recruitment|NN of|NN basophil|NN eosinophil|NN neutrophil|NN cell|NN nasal|NN moreover|NN use|NN of|NN agent|NN in|NN disease|NN reduction|NN in|NN matory|NN cell|NN cytokine|NN nasal|NN mucosa|NN tions|NN of|NN patient|NN in|NN hyperresponsiveness|NN of|NN nasal|NN mucosa|NN sequent|NN challenge|NN antigen123|NN trial|NN ness|NN of|NN in|NN in|NN reduction|NN of|NN nasal|NN symptom|NN ing|NN itch|ST rhinorrhea|ST congestion|NN in|NN adult|NN child|NN nasal|NN symptom|NN quality|NN of|NN of|NN patient|NN ar|NN 
+difference|NN in|NN efficacy|NN onset|NN of|NN action|NN start|NN time|NN point|NN hour|NN hour|NN use|NN of|NN in|NN study|NN of|NN use|NN of|NN intranasal|NN fluticasone|NN intermittent|NN use|NN duration|NN of|NN therapy|NN in|NN onset|NN of|NN action|NN start|NN time|NN point|NN hour|NN hour|NN dose|NN 
+study|NN efficacy|NN dose|NN duration|NN of|NN trial|NN 
+reduction|NN in|NN of|NN parameter|NN length|NN of|NN therapy|NN change|NN time|NN point|NN drug|NN benefit|NN 
+above|NN data|NN efficacy|NN 1|NN week|NN of|NN therapy|NN none|NN treatment|NN 
+nasal|NN symptom|NN in|NN effect|NN allergic|NN eye|NN symptom|NN itch|ST ing|NN redness|NN symptom|NN effect|NN of|NN allergen|NN conjunctiva|NN reflex|NN in|NN nose|NN allergen|NN exposure|NN 
+response|NN study|NN asthma|DS control|NN in|NN patient|NN ar|NN statement|NN chronic|NN condition|NN comorbidities|NN 
+adenoid|NN in|NN size|NN in|NN 
+study|NN in|NN antihistamine|NN in|NN nasal|NN symptom|NN h|NN 1|NN nasal|NN congestion|NN difference|NN in|NN relief|NN of|NN in|NN receptor|NN antagonist|NN range|NN of|NN allergy|DS antihistamine|NN onset|NN of|NN action|NN in|NN in|NN comparison|NN preparation|NN of|NN in|NN in|NN efficacy|NN attribute|NN factor|NN in|NN erence|NN adherence|NN attribute|NN aftertaste|NN runout|NN throat|NN rundown|NN smell|NN 
+of|NN concern|NN intranasal|NN ration|NN hydrofluoroalkane|NN aerosol|NN treatment|NN of|NN ar|NN in|NN common|NN side|NN effect|NN of|NN in|NN result|NN of|NN irritation|NN dryness|NN burn|NN blood|NN al|NN s17|NN secretion|NN epistaxis|ST 
+incidence|NN of|NN epistaxis|ST preparation|NN treatment|NN period|NN 2|NN week|NN difference|NN placebo|NN incidence|NN of|NN epistaxis|ST in|NN study|NN epistaxis|ST in|NN administration|NN septum|NN side|NN of|NN nose|NN 
+perforation|NN biopsy|NN specimen|NN nasal|NN mucosa|NN of|NN patient|NN rhinitis|DS in|NN 1|NN year|NN evidence|NN of|NN study|NN in|NN adult|NN child|NN effect|NN of|NN in|NN axis|NN morning|NN cortisol|NN concentration|NN cosyntropin|NN stimulation|NN urinary|NN cortisol|NN excretion|NN show|NN evidence|NN of|NN axis|NN suppression|NN betamethasone|NN nasal|NN spray|NN patient|NN hiv|NN in|NN rate|NN need|NN caution|NN in|NN report|NN of|NN association|NN use|NN of|NN in|NN development|NN of|NN work|NN study|NN in|NN month|NN development|NN of|NN cataract|DS increase|NN in|NN pressure|NN effect|NN of|NN in|NN growth|NN in|NN child|NN in|NN study|NN knemometry|NN nique|NN growth|NN distance|NN heel|NN knee|NN of|NN child|NN accuracy|NN of|NN mm|NN in|NN study|NN etry|NN accurate|NN measurement|NN of|NN height|NN instrument|NN read|NN of|NN height|NN millimeter|NN in|NN study|NN height|NN 
+in|NN knemometry|NN study|NN intranasal|NN budesonide|NN leg|NN growth|NN rate|NN in|NN 2|NN study|NN difference|NN in|NN of|NN in|NN study|NN sone|NN furoate|NN triamcinolone|NN acetonide|NN in|NN 2|NN do|NN sone|NN propionate|NN 2|NN week|NN leg|NN growth|NN rate|NN in|NN study|NN stadiometry|NN beclomethasone|NN dipropionate|NN dosage|NN in|NN growth|NN pression|NN propionate|NN mometasone|NN furoate|NN effect|NN growth|NN in|NN study|NN child|NN 2|NN year|NN triamcinolone|NN acetonide|NN nasal|NN spray|NN height|NN stadiometry|NN value|NN difference|NN therefore|NN in|NN practice|NN roid|NN preparation|NN impact|NN growth|NN in|NN child|NN 
+course|NN of|NN systemic|NN corticosteroid|NN patient|NN ar|NN in|NN nasal|NN challenge|NN study|NN systemic|NN influx|NN steroid|NN in|NN ar|NN symptom|NN mediator|NN release|NN late|NN phase|NN study|NN effect|NN of|NN therapy|NN in|NN patient|NN ar|NN loratadine|NN loratadine|NN mometasone|NN furoate|NN nasal|NN spray|NN antihistamine|NN result|NN group|NN therapy|NN improvement|NN in|NN sneeze|NN nasal|NN obstruction|NN watery|NN nasal_discharge|ST nasal|NN day|NN of|NN therapy|NN group|NN loratadine|NN ence|NN 2|NN steroid|NN group|NN 
+corticosteroid|NN effect|NN treatment|NN of|NN ar|NN systemic|NN side|NN effect|NN lack|NN of|NN superiority|NN in|NN 
+in|NN treatment|NN of|NN ar|NN virtue|NN of|NN efficacy|NN in|NN nasal|NN congestion|NN symptom|NN of|NN condition|NN 
+treatment|NN in|NN day|NN pollen|NN season|NN in|NN subject|NN ar|NN 
+treatment|NN dose|NN evaluation|NN of|NN patient|NN response|NN 
+visit|NN nose|NN sign|NN of|NN irritation|NN drug|NN trauma|NN applicator|NN treatment|NN regimen|NN patient|NN s|NN response|NN 
+list|NN of|NN in|NN age|NN in|NN statement|NN antihistamine|NN clinician|NN sedate|NN antihistamine|NN patient|NN plaint|NN of|NN 
+recommendation|NN rcts|NN limitation|NN preponderance|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN avoidance|NN of|NN antihistamine|NN use|NN promotion|NN of|NN use|NN of|NN therapy|NN evidence|NN quality|NN grade|NN trial|NN limitation|NN level|NN of|NN confidence|NN in|NN evidence|NN benefit|NN onset|NN of|NN action|NN administration|NN relief|NN of|NN symptom|NN availability|NN cost|NN save|NN brand|NN relief|NN of|NN eye|NN symptom|NN risk|NN harm|NN cost|NN systemic|NN side|NN effect|NN sedation|NN dry|NN eye|NN urinary_retention|ST assessment|NN preponderance|NN of|NN benefit|NN harm|NN value|NN judgment|NN none|NN vagueness|NN none|NN role|NN of|NN preference|NN decision|NN make|NN in|NN benefit|NN harm|NN cost|NN evaluation|NN of|NN treatment|NN option|NN 
+cians|NN comparison|NN of|NN evidence|NN effectiveness|NN of|NN versus|NN nasal|NN administration|NN of|NN s18|NN intranasal|NN steroid|NN 
+neck|NN surgery|NN name|NN formulation|NN contraindication|NN indication|NN age|NN common|NN side|NN effect|NN acetonidea|NN allergy|DS µg|NN spray|NN propellant|NN history|NN of|NN y|NN hypersensitivity|NN medication|NN component|NN pharyngitis|DS epistaxis|ST cough|ST age|NN y|NN 1|NN spray|NN day|NN age|NN y|NN 2|NN spray|NN day|NN age|NN y|NN 2|NN spray|NN nostril|NN 1|NN 2|NN time|NN day|NN age|NN y|NN 2|NN spray|NN nostril|NN day|NN spray|NN nostril|NN in|NN morning|NN age|NN y|NN 1|NN spray|NN nostril|NN time|NN day|NN 2|NN spray|NN nostril|NN day|NN age|NN y|NN 2|NN spray|NN nostril|NN 2|NN time|NN day|NN age|NN y|NN 1|NN spray|NN day|NN adult|NN 2|NN spray|NN day|NN spray|NN day|NN age|NN y|NN 2|NN spray|NN day|NN age|NN y|NN polyp|NN 2|NN spray|NN nostril|NN day|NN age|NN y|NN 2|NN spray|NN day|NN age|NN y|NN spray|NN day|NN age|NN y|NN 2|NN spray|NN day|NN aq|NN spray|NN propellant|NN ar|NN history|NN of|NN y|NN rhinitis|DS hypersensitivity|NN medication|NN component|NN nasarel|NN µg|NN spray|NN solution|NN history|NN of|NN y|NN hypersensitivity|NN medication|NN component|NN prescription|NN epistaxis|ST pharyngitis|DS bronchospasm|NN nasal|NN irritation|NN prescription|NN epistaxis|ST pharyngitis|DS cough|ST aftertaste|NN nasal|NN burn|NN fluticasone|NN propionateb|NN flonase|NN µg|NN spray|NN nasal|NN spray|NN ar|NN rhinitis|DS hypersensitivity|NN medication|NN component|NN history|NN of|NN y|NN headache|ST prescription|NN mometasone|NN furoate|NN µg|NN spray|NN ar|NN nasal|NN polyp|NN hypersensitivity|NN medication|NN component|NN history|NN of|NN y|NN age|NN y|NN 1|NN prescription|NN ciclesonide|NN µg|NN spray|NN suspension|NN history|NN of|NN y|NN hypersensitivity|NN medication|NN component|NN suspension|NN history|NN of|NN prescription|NN veramyst|NN µg|NN spray|NN ar|NN hypersensitivity|NN medication|NN component|NN qnasl|NN µg|NN hfa|NN spray|NN ar|NN aerosol|NN ciclesonide|NN zetonna|NN spray|NN ar|NN history|NN of|NN hypersensitivity|NN medication|NN component|NN age|NN y|NN 2|NN spray|NN day|NN nasal|NN discomfort|NN prescription|NN epistaxis|ST headache|ST history|NN of|NN y|NN age|NN y|NN 1|NN spray|NN nasal|NN discomfort|NN prescription|NN hypersensitivity|NN medication|NN component|NN day|NN epistaxis|ST headache|ST abbreviation|NN ar|NN allergic_rhinitis|DS hfa|NN hydrofluoroalkane|NN counter|NN 
+preparation|NN otc|NN 
+in|NN form|NN 
+pharyngitis|DS epistaxis|ST nasal|NN burn|NN irritation|NN nausea|ST vomiting|ST asthma|DS symptom|NN cough|ST headache|ST infection|NN pharyngitis|DS epistaxis|ST cough|ST prescription|NN epistaxis|ST headache|ST nasopharyngitis|NN ear_pain|DS pharyngolaryngeal|NN pain|ST epistaxis|ST headache|ST pharyngolaryngeal|NN pain|ST nasal|NN ulceration|NN back_pain|DS pyrexia|ST cough|ST seidman|NN s19|NN antihistamine|NN nasal|NN steroid|NN patient|NN adherence|NN treatment|NN efficacy|NN 
+exclusion|NN none|NN policy|NN level|NN recommendation|NN difference|NN of|NN opinion|NN none|NN purpose|NN of|NN statement|NN role|NN age|NN use|NN of|NN antihistamine|NN in|NN treatment|NN of|NN ar|NN 
+agent|NN in|NN use|NN study|NN ness|NN in|NN child|NN adult|NN relief|NN of|NN symptom|NN rhinorrhea|ST itch|ST nasal|NN blockage|NN agent|NN in|NN patient|NN disease|NN advantage|NN of|NN cost|NN onset|NN of|NN action|NN effectiveness|NN intermittent|NN symptom|NN 
+1|NN antihistamine|NN action|NN of|NN histamine|NN receptor|NN effects206|NN h|NN agent|NN 
+agent|NN barrier|NN effect|NN 
+agent|NN h|NN receptor|NN penetration|NN of|NN 1|NN system|NN 
+example|NN of|NN medication|NN diphenhydramine|NN chlorpheniramine|NN zine|NN 
+use|NN of|NN agent|NN side|NN effect|NN of|NN sedation|NN mucosal|NN dryness|NN 
+ognize|NN performance|NN impairment|NN patient|NN perception|NN of|NN drug|NN dine|NN cetirizine|NN levocetirizine|NN loratadine|NN desloratadine|NN 
+in|NN situation|NN antihistamine|NN 
+study|NN compound|NN of|NN antihistamine|NN data|NN cetirizine|NN enantiomer|NN levocetirizine|NN risk|NN of|NN sedation|NN drug|NN in|NN of|NN antihistamine|NN onset|NN of|NN dose|NN maintenance|NN of|NN effectiveness|NN use|NN availability|NN of|NN drug|NN prescription|NN 
+patient|NN agent|NN drug|NN in|NN benefit|NN use|NN basis|NN relief|NN patient|NN study|NN in|NN basis|NN antihistamine|NN treatment|NN of|NN ar|NN symptom|NN of|NN nasal|NN antihistamine|NN agent|NN relief|NN al|NN 
+antihistamine|NN ment|NN treatment|NN in|NN addition|NN of|NN in|NN antihistamine|NN decision|NN agent|NN spray|NN matter|NN of|NN preference|NN consideration|NN of|NN preference|NN adherence|NN therapy|NN 
+list|NN of|NN antihistamine|NN medication|NN ar|NN contraindication|NN common|NN side|NN effect|NN approval|NN age|NN availability|NN counter|NN prescription|NN 
+statement|NN antihistamine|NN clinician|NN antihistamine|NN patient|NN ar|NN 
+option|NN rcts|NN limitation|NN study|NN equilibrium|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN ness|NN of|NN class|NN of|NN medication|NN treatment|NN ar|NN medication|NN class|NN evidence|NN quality|NN grade|NN trial|NN limitation|NN study|NN level|NN of|NN confidence|NN in|NN evidence|NN of|NN trial|NN of|NN duration|NN benefit|NN onset|NN effectiveness|NN antihistamine|NN nasal|NN congestion|NN risk|NN harm|NN cost|NN cost|NN relative|NN antihistamine|NN taste|NN sedation|NN dose|NN epistaxis|ST side|NN effect|NN assessment|NN equilibrium|NN value|NN judgment|NN guideline|NN development|NN group|NN in|NN class|NN of|NN medication|NN therapy|NN failure|NN of|NN nasal|NN steroid|NN antihistamine|NN tance|NN taste|NN cost|NN patient|NN in|NN class|NN therapy|NN 
+vagueness|NN none|NN role|NN of|NN preference|NN rium|NN of|NN benefit|NN risk|NN histamine|NN 
+decision|NN make|NN patient|NN benefit|NN harm|NN of|NN treatment|NN compliance|NN medication|NN 
+exclusion|NN child|NN year|NN 
+policy|NN level|NN option|NN difference|NN of|NN opinion|NN minor|NN data|NN use|NN debate|NN ratio|NN option|NN 
+panel|NN member|NN level|NN antihistamine|NN 
+purpose|NN of|NN statement|NN use|NN of|NN sal|NN antihistamine|NN patient|NN ar|NN 
+antihistamine|NN allergy|DS antagonist|NN 2|NN intranasal|NN medication|NN 1|NN antihistamine|NN medication|NN cetirizine|NN zyrtec|NN fexofenadine|NN allegra|NN table|NN allergic_rhinitis|DS antihistamine|NN 
+neck|NN surgery|NN fda|NN indication|NN contraindication|NN age|NN common|NN side|NN effect|NN otc|NN prescription|NN month|NN age|NN y|NN mg|NN hypersensitivity|NN sedation|NN mucosal|NN dryness|NN urinary_retention|ST 1|NN 2|NN time|NN day|NN age|NN y|NN levocetirizine|NN hypersensitivity|NN month|NN fexofenadine|NN hypersensitivity|NN age|NN y|NN age|NN y|NN age|NN y|NN age|NN y|NN prescription|NN sedation|NN mucosal|NN dryness|NN urinary_retention|ST age|NN y|NN age|NN y|NN headache|ST sedation|NN do|NN sedation|NN do|NN day|NN age|NN y|NN mg|NN day|NN age|NN y|NN age|NN y|NN age|NN y|NN age|NN y|NN hypersensitivity|NN year|NN age|NN y|NN mg|NN otc|NN loratadine|NN claritin|NN hypersensitivity|NN year|NN month|NN age|NN y|NN prescription|NN alavert|NN desloratadine|NN clarinex|NN abbreviation|NN otc|NN counter|NN 
+1|NN treatment|NN of|NN ar|NN 
+azelastine|NN olopatadine|NN antagonist|NN efficacy|NN in|NN generation|NN h|NN comparison|NN formulation|NN of|NN 2|NN antihistamine|NN in|NN of|NN benefit|NN of|NN application|NN delivery|NN dosage|NN nasal|NN tissue|NN systemic|NN treatment|NN of|NN nasal|NN symptom|NN intranasal|NN antihistamine|NN equality|NN superiority|NN antihistamine|NN in|NN intranasal|NN in|NN patient|NN antihistamine|NN regard|NN nasal|NN congestion|NN antihistamine|NN intranasal|NN antihistamine|NN tage|NN of|NN onset|NN of|NN action|NN in|NN range|NN of|NN minute|NN in|NN route|NN minute|NN study|NN in|NN nasal|NN antihistamine|NN 
+result|NN superiority|NN of|NN heterogeneity|NN lack|NN of|NN dose|NN lack|NN of|NN outcome|NN metric|NN limit|NN applicability|NN of|NN comparison|NN 
+formulation|NN do|NN intranasal|NN antihistamine|NN in|NN olopatadine|NN treatment|NN of|NN ar|NN in|NN adult|NN in|NN child|NN year|NN 
+age|NN year|NN 
+solution|NN bitol|NN sucralose|NN taste|NN formulation|NN ar|NN in|NN adult|NN in|NN child|NN year|NN 
+common|NN event|NN histamine|NN use|NN taste|NN epistaxis|ST headache|ST lence|NN nasal|NN burn|NN 
+taste|NN in|NN 2|NN of|NN patient|NN of|NN patient|NN patient|NN compliance|NN 
+taste|NN aversion|NN intranasal|NN antihistamine|NN taste|NN vary|NN formulation|NN 
+trial|NN of|NN formulation|NN in|NN patient|NN benefit|NN 
+early|NN study|NN somnolence|ST rate|NN study|NN rate|NN of|NN in|NN in|NN comparison|NN somnolence|ST rate|NN of|NN antihistamine|NN nasal|NN steroid|NN et|NN al|NN s21|NN allergic_rhinitis|DS ar|NN intranasal|NN antihistamine|NN 
+medication|NN fda|NN indication|NN contraindication|NN age|NN ar|NN none|NN y|NN age|NN y|NN 1|NN spray|NN common|NN side|NN effect|NN prescription|NN prescription|NN none|NN y|NN age|NN y|NN 1|NN spray|NN prescription|NN none|NN y|NN age|NN y|NN 1|NN spray|NN prescription|NN day|NN age|NN y|NN 2|NN spray|NN day|NN bitter|NN taste|NN epistaxis|ST somnolence|ST headache|ST day|NN age|NN y|NN spray|NN day|NN 2|NN spray|NN day|NN age|NN y|NN spray|NN day|NN 2|NN spray|NN day|NN bitter|NN taste|NN epistaxis|ST somnolence|ST headache|ST bitter|NN taste|NN epistaxis|ST somnolence|ST headache|ST bitter|NN taste|NN epistaxis|ST somnolence|ST headache|ST ar|NN none|NN 1|NN spray|NN prescription|NN patanase|NN hcl|NN µg|NN spray|NN nasal|NN spray|NN azelastine|NN astelin|NN solution|NN µg|NN spray|NN ar|NN vasomotor|NN rhinitis|DS azelastine|NN solution|NN µg|NN spray|NN ar|NN ar|NN azelastine|NN fluticasone|NN dymista|NN µg|NN of|NN azelastine|NN µg|NN of|NN fluticasone|NN spray|NN placebo|NN somnolence|ST rate|NN range|NN of|NN antihistamine|NN mine|NN placebo|NN overlap|NN caution|NN initiation|NN of|NN nasal|NN antihistamine|NN sign|NN of|NN somnolence|ST clinician|NN response|NN side|NN effect|NN 
+intranasal|NN antihistamine|NN treatment|NN ar|NN therapy|NN 
+onset|NN of|NN action|NN delivery|NN of|NN histamine|NN in|NN patient|NN nasal|NN symptom|NN pretreatment|NN nasal|NN allergen|NN exposure|NN 
+need|NN dose|NN side|NN effect|NN of|NN somnolence|ST taste|NN clinician|NN patient|NN treatment|NN class|NN of|NN medication|NN 
+list|NN of|NN intranasal|NN antihistamine|NN medication|NN ar|NN contraindication|NN common|NN side|NN effect|NN approval|NN age|NN availability|NN counter|NN prescription|NN 
+tion|NN recommendation|NN guideline|NN in|NN statement|NN leukotriene|NN receptor|NN antagonist|NN ltras|NN clinician|NN ltras|NN therapy|NN patient|NN ar|NN 
+recommendation|NN rcts|NN review|NN preponderance|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN use|NN of|NN agent|NN therapy|NN evidence|NN quality|NN grade|NN trial|NN review|NN level|NN of|NN confidence|NN in|NN evidence|NN benefit|NN therapy|NN cost|NN save|NN variation|NN in|NN care|NN risk|NN harm|NN cost|NN subset|NN of|NN patient|NN medication|NN patient|NN ar|NN asthma|DS 
+assessment|NN preponderance|NN of|NN benefit|NN harm|NN value|NN judgment|NN panel|NN cost|NN of|NN medication|NN in|NN combination|NN dence|NN medication|NN 
+vagueness|NN none|NN role|NN of|NN preference|NN patient|NN intolerance|NN of|NN therapy|NN concern|NN somnolence|ST ation|NN of|NN use|NN of|NN class|NN of|NN medicine|NN 
+exclusion|NN patient|NN diagnosis|NN of|NN asthma|DS 
+patient|NN riene|NN receptor|NN therapy|NN 
+s22|NN neck|NN surgery|NN r|NN f|NN s|NN o|NN i|NN d|NN e|NN m|NN c|NN e|NN r|NN r|NN o|NN f|NN s|NN o|NN i|NN d|NN e|NN m|NN c|NN e|NN r|NN y|NN t|NN i|NN e|NN v|NN e|NN t|NN p|NN m|NN y|NN s|NN y|NN c|NN e|NN q|NN e|NN r|NN m|NN o|NN t|NN p|NN m|NN y|NN s|NN r|NN o|NN f|NN s|NN o|NN i|NN d|NN e|NN m|NN c|NN e|NN r|NN e|NN g|NN r|NN e|NN l|NN t|NN e|NN r|NN s|NN o|NN p|NN x|NN e|NN s|NN o|NN i|NN d|NN e|NN m|NN c|NN e|NN r|NN s|NN m|NN o|NN t|NN p|NN m|NN y|NN s|NN r|NN o|NN f|NN t|NN e|NN i|NN p|NN e|NN e|NN r|NN e|NN f|NN e|NN r|NN p|NN e|NN r|NN e|NN v|NN e|NN s|NN e|NN g|NN l|NN e|NN g|NN l|NN e|NN g|NN l|NN w|NN o|NN l|NN t|NN o|NN y|NN p|NN r|NN e|NN h|NN t|NN o|NN m|NN d|NN l|NN i|NN y|NN t|NN e|NN s|NN i|NN r|NN e|NN p|NN t|NN e|NN t|NN i|NN r|NN e|NN s|NN i|NN e|NN l|NN i|NN e|NN r|NN e|NN p|NN o|NN e|NN s|NN i|NN h|NN c|NN t|NN i|NN s|NN g|NN n|NN i|NN e|NN e|NN e|NN h|NN r|NN r|NN o|NN n|NN h|NN r|NN i|NN o|NN i|NN s|NN e|NN g|NN c|NN b|NN s|NN e|NN y|NN b|NN 
+m|NN o|NN t|NN p|NN m|NN y|NN s|NN r|NN e|NN h|NN t|NN o|NN e|NN h|NN t|NN f|NN o|NN h|NN r|NN o|NN f|NN e|NN v|NN i|NN c|NN e|NN f|NN e|NN l|NN t|NN u|NN b|NN o|NN i|NN s|NN e|NN g|NN o|NN c|NN r|NN e|NN v|NN i|NN c|NN e|NN f|NN e|NN t|NN s|NN m|NN l|NN x|NN e|NN r|NN f|NN m|NN o|NN t|NN p|NN m|NN y|NN s|NN s|NN o|NN i|NN v|NN e|NN h|NN t|NN r|NN o|NN f|NN s|NN l|NN c|NN o|NN i|NN c|NN i|NN e|NN m|NN h|NN r|NN o|NN f|NN s|NN s|NN e|NN e|NN v|NN i|NN c|NN e|NN f|NN e|NN v|NN i|NN l|NN e|NN r|NN e|NN h|NN t|NN e|NN d|NN n|NN i|NN l|NN o|NN b|NN m|NN y|NN s|NN s|NN p|NN e|NN h|NN l|NN i|NN 
+t|NN e|NN s|NN i|NN r|NN e|NN p|NN n|NN n|NN e|NN r|NN e|NN p|NN r|NN o|NN f|NN d|NN e|NN c|NN i|NN n|NN i|NN i|NN o|NN r|NN p|NN e|NN t|NN l|NN e|NN t|NN s|NN d|NN e|NN t|NN i|NN e|NN h|NN i|NN l|NN i|NN v|NN e|NN n|NN t|NN s|NN i|NN l|NN s|NN n|NN r|NN t|NN n|NN i|NN h|NN t|NN f|NN o|NN e|NN o|NN i|NN o|NN i|NN c|NN d|NN m|NN i|NN l|NN c|NN i|NN d|NN o|NN r|NN e|NN t|NN s|NN s|NN n|NN r|NN t|NN n|NN i|NN r|NN o|NN i|NN e|NN s|NN i|NN s|NN e|NN s|NN i|NN l|NN s|NN n|NN r|NN t|NN n|NN i|NN t|NN p|NN e|NN c|NN e|NN r|NN s|NN i|NN o|NN g|NN t|NN e|NN e|NN i|NN t|NN o|NN k|NN e|NN b|NN 
+s|NN o|NN i|NN d|NN e|NN m|NN c|NN e|NN r|NN o|NN i|NN c|NN i|NN e|NN m|NN e|NN l|NN i|NN d|NN g|NN 
+2|NN 1|NN e|NN t|NN l|NN policy|NN level|NN recommendation|NN difference|NN of|NN opinion|NN none|NN purpose|NN of|NN statement|NN use|NN of|NN agent|NN treatment|NN of|NN ar|NN 
+montelukast|NN treatment|NN of|NN symptom|NN of|NN ar|NN in|NN adult|NN patient|NN 2|NN year|NN of|NN age|NN ar|NN in|NN adult|NN patient|NN month|NN of|NN age|NN 
+ltras|NN in|NN state|NN montelukast|NN ltra|NN fda|NN ar|NN 
+literature|NN review|NN study|NN of|NN montelukast|NN in|NN adult|NN ar|NN conclude|NN ltras|NN symptom|NN ity|NN of|NN life|NN study|NN ltras|NN others|NN ltras|NN mine|NN in|NN study|NN montelukast|NN effect|NN in|NN symptom|NN of|NN ar|NN symptom|NN of|NN nasal|NN tion|NN pseudoephedrine|NN in|NN patient|NN ar|NN asthma|DS montelukast|NN improve|NN montelukast|NN in|NN trial|NN event|NN postmarketing|NN report|NN event|NN aggression|NN depression|ST suicidal|NN think|NN behavior|NN suicidal_ideation|ST in|NN 1|NN of|NN patient|NN in|NN trial|NN montelukast|NN cost|NN differential|NN introduction|NN of|NN montelukast|NN 
+kast|NN antihistamine|NN ar|NN in|NN clinician|NN ltra|NN therapy|NN patient|NN ar|NN 
+subset|NN of|NN patient|NN asthma|DS medication|NN 
+statement|NN combination|NN therapy|NN clinician|NN combination|NN therapy|NN in|NN patient|NN ar|NN response|NN monotherapy|NN 
+option|NN rcts|NN limitation|NN study|NN equilibrium|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN variation|NN in|NN care|NN symptom|NN control|NN aggregate|NN evidence|NN quality|NN grade|NN trial|NN limitation|NN study|NN level|NN of|NN confidence|NN in|NN evidence|NN 
+evidence|NN use|NN of|NN tions|NN ineffectiveness|NN of|NN combination|NN 
+s23|NN benefit|NN effectiveness|NN trol|NN of|NN therapy|NN risk|NN harm|NN cost|NN cost|NN overuse|NN of|NN cation|NN use|NN of|NN combination|NN multiple|NN medication|NN side|NN effect|NN drug|NN interaction|NN assessment|NN equilibrium|NN value|NN judgment|NN none|NN vagueness|NN term|NN combination|NN therapy|NN multiple|NN ent|NN combination|NN 
+detail|NN in|NN text|NN 
+term|NN response|NN interpretation|NN clinician|NN patient|NN 
+role|NN of|NN preference|NN sion|NN make|NN in|NN consideration|NN of|NN evidence|NN benefit|NN harm|NN cost|NN of|NN combination|NN dose|NN medication|NN interaction|NN patient|NN in|NN treatment|NN compliance|NN 
+exclusion|NN decongestant|NN part|NN of|NN product|NN child|NN age|NN of|NN year|NN 
+policy|NN level|NN option|NN difference|NN of|NN opinion|NN none|NN purpose|NN of|NN statement|NN use|NN of|NN use|NN of|NN tions|NN treatment|NN of|NN ar|NN 
+therapy|NN in|NN control|NN of|NN allergic|NN nasal|NN symptom|NN patient|NN in|NN practitioner|NN combination|NN therapy|NN of|NN additive|NN in|NN antihistamine|NN 
+in|NN nasal|NN tion|NN oxymetazoline|NN in|NN day|NN benefit|NN concern|NN nasal|NN rebound|NN oxymetazoline|NN use|NN day|NN 
+nasal|NN spray|NN combination|NN therapy|NN of|NN antihistamine|NN decongestant|NN pharmacotherapy|NN ar|NN 
+selection|NN of|NN therapy|NN ar|NN condition|NN of|NN allergic|NN conjunctivitis|NN asthma|DS 
+antihistamine|NN in|NN common|NN selection|NN monotherapy|NN combination|NN benefit|NN 
+intranasal|NN steroid|NN antihistamine|NN patient|NN response|NN in|NN control|NN of|NN nasal|NN symptom|NN in|NN antihistamine|NN therapy|NN 
+trial|NN benefit|NN of|NN mine|NN in|NN placebo|NN in|NN cochrane|NN review|NN study|NN of|NN quality|NN evidence|NN combination|NN in|NN antihistamine|NN decongestant|NN antihistamine|NN combination|NN trol|NN ar|NN symptom|NN antihistamine|NN decongestant|NN 
+benefit|NN in|NN multiple|NN trial|NN subject|NN decongestant|NN antihistamine|NN increase|NN effect|NN of|NN insomnia|DS headache|ST dry_mouth|ST potential|NN tolerance|NN chronic|NN use|NN of|NN decongestant|NN 
+in|NN study|NN pseudoephedrine|NN mg|NN insomnia|DS release|NN pseudoephedrine|NN mg|NN p|NN pseudoephedrine|NN increase|NN in|NN blood|NN pressure|NN mm|NN hg|NN ci|NN heart|NN rate|NN ci|NN effect|NN blood|NN pressure|NN mm|NN hg|NN ci|NN decongestant|NN use|NN patient|NN year|NN of|NN age|NN release|NN dose|NN patient|NN year|NN of|NN age|NN 
+antihistamine|NN receptor|NN antagonist|NN evidence|NN treatment|NN antihistamine|NN ltra|NN treatment|NN use|NN of|NN therapy|NN 
+combination|NN of|NN antihistamine|NN ltras|NN antihistamine|NN arm|NN of|NN trial|NN antihistamine|NN ltra|NN ar|NN symptom|NN 
+study|NN benefit|NN antihistamine|NN antihistamine|NN ltra|NN in|NN in|NN patient|NN control|NN in|NN combination|NN of|NN antihistamine|NN ltra|NN to277|NN in|NN in|NN control|NN of|NN ar|NN symptom|NN 
+intranasal|NN steroid|NN receptor|NN antagonist|NN therapy|NN patient|NN in|NN study|NN arm|NN in|NN in|NN ltra|NN benefit|NN ltra|NN outcome|NN 
+trial|NN intranasal|NN steroid|NN intranasal|NN combination|NN of|NN in|NN antihistamine|NN in|NN monotherapy|NN benefit|NN multiple|NN symptom|NN of|NN ar|NN in|NN patient|NN in|NN patient|NN in|NN antihistamine|NN spray|NN control|NN of|NN tom|NN agent|NN in|NN tamine|NN s24|NN neck|NN surgery|NN steroid|NN in|NN antihistamine|NN monotherapy|NN intranasal|NN monotherapy|NN control|NN of|NN symptom|NN control|NN of|NN symptom|NN control|NN of|NN symptom|NN antihistamine|NN oxymetazoline|NN day|NN decongestant|NN side|NN effect|NN of|NN headache|ST dry_mouth|ST hypertension|DS 
+intranasal|NN data|NN combination|NN antihistamine|NN leukotriene|NN receptor|NN antagonist|NN receptor|NN antagonoist|NN evidence|NN mix|NN in|NN figure|NN recommendation|NN medication|NN allergic_rhinitis|DS 
+intranasal|NN steroid|NN combination|NN of|NN in|NN oxymetazoline|NN in|NN ar|NN symptom|NN development|NN of|NN rhinitis|DS medicamentosa|NN nasal|NN congestion|NN overuse|NN of|NN metazoline|NN concern|NN 
+size|NN length|NN of|NN study|NN conclusion|NN risk|NN of|NN rhinitis|DS medicamentosa|NN 
+use|NN day|NN of|NN combination|NN in|NN case|NN of|NN nasal|NN congestion|NN 
+figure|NN 1|NN recommendation|NN medication|NN allergic_rhinitis|DS 
+statement|NN immunotherapy|NN clinician|NN clinician|NN therapy|NN patient|NN ar|NN response|NN symptom|NN cologic|NN therapy|NN control|NN 
+recommendation|NN rcts|NN review|NN preponderance|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN opportunity|NN quality|NN improvement|NN use|NN of|NN immunotherapy|NN ation|NN in|NN care|NN awareness|NN of|NN immunotherapy|NN aggregate|NN evidence|NN quality|NN grade|NN trial|NN review|NN level|NN of|NN confidence|NN in|NN evidence|NN benefit|NN altered|NN history|NN symptom|NN control|NN need|NN therapy|NN term|NN asthma|DS comorbidities|NN sensitization|NN risk|NN harm|NN cost|NN reaction|NN systemic|NN tions|NN anaphylaxis|NN cost|NN frequency|NN of|NN treatment|NN logistics|NN pain|ST of|NN injection|NN onset|NN of|NN symptom|NN control|NN month|NN assessment|NN preponderance|NN of|NN benefit|NN harm|NN value|NN judgment|NN none|NN vagueness|NN term|NN response|NN therapy|NN circumstance|NN immunotherapy|NN symptom|NN control|NN response|NN therapy|NN immunotherapy|NN pathophysiology|NN of|NN atopy|NN 
+role|NN of|NN preference|NN risk|NN harm|NN cost|NN use|NN of|NN notherapy|NN onset|NN 
+decision|NN make|NN patient|NN harm|NN of|NN treatment|NN 
+in|NN addition|NN efficacy|NN of|NN mode|NN of|NN therapy|NN ance|NN frequency|NN duration|NN of|NN treatment|NN delay|NN in|NN onset|NN of|NN effect|NN immunotherapy|NN 
+exclusion|NN asthma|DS policy|NN level|NN recommendation|NN difference|NN of|NN opinion|NN minor|NN panel|NN member|NN immunotherapy|NN treatment|NN patient|NN therapy|NN 
+purpose|NN of|NN statement|NN awareness|NN of|NN immunotherapy|NN treatment|NN ar|NN eat|NN use|NN variation|NN in|NN care|NN 
+immunotherapy|NN sit|NN troll|NN repetitive|NN dose|NN of|NN allergen|NN s|NN in|NN patient|NN ar|NN history|NN allergy|DS test|NN in|NN order|NN tolerance|NN allergen|NN s|NN 
+goal|NN of|NN sit|NN comparison|NN of|NN feature|NN of|NN scit|NN slit|NN 
+s25|NN effectiveness|NN allergic|NN review|NN of|NN review|NN of|NN scit|NN slit|NN rhinitis|DS safety|NN rate|NN of|NN systemic|NN reaction|NN trial|NN death|NN 1|NN injection|NN in|NN s|NN office|NN fda|NN status|NN fda|NN cpt|NN code|NN preparation|NN injection|NN insurance|NN plan|NN trial|NN death|NN home|NN slit|NN dose|NN of|NN tablet|NN in|NN s|NN office|NN slit|NN use|NN tablet|NN fda|NN in|NN number|NN of|NN allergen|NN treatment|NN cpt|NN code|NN slit|NN preparation|NN 
+insurance|NN plan|NN 
+tablet|NN insurance|NN coverage|NN insurance|NN carrier|NN 
+abbreviation|NN cpt|NN terminology|NN immunotherapy|NN immunotherapy|NN 
+ar|NN symptom|NN 
+sit|NN prove|NN treatment|NN ar|NN history|NN of|NN disease|NN 
+role|NN preference|NN in|NN decision|NN immunotherapy|NN therapy|NN risk|NN anaphylaxis|NN cost|NN quent|NN office|NN visit|NN injection|NN onset|NN of|NN symptom|NN control|NN duration|NN of|NN therapy|NN year|NN 
+in|NN state|NN 2|NN form|NN of|NN immunotherapy|NN in|NN use|NN immunotherapy|NN scit|NN immunotherapy|NN slit|NN in|NN tablet|NN fda|NN tablet|NN use|NN in|NN state|NN in|NN formulation|NN slit|NN use|NN 
+practice|NN guideline|NN dose|NN of|NN slit|NN 
+injection|NN s|NN office|NN interval|NN slit|NN home|NN allergen|NN tongue|NN mucosal|NN absorption|NN period|NN of|NN time|NN 
+demonstration|NN of|NN allergy|DS history|NN allergy|DS test|NN skin|NN in|NN vitro|NN prerequisite|NN form|NN of|NN immunotherapy|NN slit|NN scit|NN 
+duration|NN of|NN treatment|NN form|NN of|NN immunotherapy|NN year|NN scit|NN slit|NN in|NN symptom|NN of|NN ar|NN in|NN review|NN 
+review|NN of|NN efficacy|NN of|NN scit|NN ar|NN rcts|NN evidence|NN reduce|NN ar|NN symptom|NN evidence|NN decrease|NN medication|NN find|NN of|NN review|NN of|NN scit|NN reduction|NN in|NN rhinitis|DS symptom|NN score|NN medication|NN efficacy|NN of|NN slit|NN ar|NN of|NN rcts|NN of|NN slit|NN grade|NN level|NN of|NN evidence|NN improve|NN form|NN of|NN sit|NN control|NN of|NN comorbid|NN condition|NN quality|NN of|NN in|NN addition|NN rcts|NN sit|NN development|NN of|NN allergic|NN effect|NN of|NN apy|NN discontinuation|NN of|NN sit|NN study|NN effect|NN year|NN treatment|NN cessation|NN scit309|NN slit|NN patient|NN sit|NN basis|NN effectiveness|NN parameter|NN symptom|NN medication|NN use|NN benefit|NN of|NN apy|NN ar|NN symptom|NN week|NN 1|NN year|NN initiation|NN of|NN therapy|NN repetitive|NN allergy|DS test|NN sit|NN in|NN ar|NN use|NN of|NN immunotherapy|NN event|NN 
+tions|NN systemic|NN 
+in|NN scit|NN reaction|NN redness|NN induration|NN site|NN of|NN tion|NN in|NN slit|NN reaction|NN itch|ST fort|NN 
+rate|NN of|NN reaction|NN in|NN range|NN of|NN scit|NN systemic|NN reaction|NN form|NN of|NN sit|NN urticaria|ST gastrointestinal|NN upset|NN ing|NN anaphylaxis|NN 
+scit|NN rate|NN of|NN systemic|NN reaction|NN death|NN 1|NN injection|NN death|NN year|NN slit|NN systemic|NN reaction|NN potential|NN reaction|NN practice|NN guideline|NN scit|NN in|NN patient|NN asthma|DS scit|NN in|NN s|NN office|NN reaction|NN patient|NN minute|NN observational|NN study|NN of|NN patient|NN 1|NN injection|NN of|NN neck|NN surgery|NN immunotherapy|NN injection|NN patient|NN home|NN staff|NN 
+hospitalization|NN death|NN author|NN home|NN immunotherapy|NN in|NN patient|NN in|NN addition|NN use|NN of|NN contraindication|NN treatment|NN of|NN slit|NN dose|NN home|NN of|NN safety|NN profile|NN 
+report|NN of|NN laxis|NN in|NN europe|NN call|NN dose|NN of|NN immunotherapy|NN tablet|NN in|NN s|NN recommendation|NN tablet|NN fda|NN administration|NN of|NN tablet|NN in|NN s|NN office|NN observation|NN period|NN prescription|NN of|NN epinephrine|NN device|NN precaution|NN home|NN istration|NN of|NN tablet|NN in|NN patient|NN asthma|DS 
+risk|NN of|NN systemic|NN event|NN form|NN of|NN sit|NN patient|NN apy|NN of|NN risk|NN 
+assessment|NN of|NN sit|NN preponderance|NN of|NN benefit|NN in|NN consideration|NN of|NN form|NN of|NN therapy|NN disease|NN modification|NN risk|NN reaction|NN 
+scit|NN slit|NN ar|NN debate|NN form|NN review|NN of|NN these320|NN superiority|NN of|NN mode|NN comparison|NN 
+review|NN of|NN rcts|NN comparison|NN of|NN versus|NN evidence|NN effectiveness|NN of|NN scit|NN nasal|NN reduction|NN author|NN study|NN evidence|NN base|NN decision|NN make|NN 
+in|NN addition|NN analysis|NN of|NN study|NN study|NN grass|NN allergen|NN effect|NN size|NN ar|NN symptom|NN medication|NN score|NN scit|NN table|NN feature|NN of|NN scit|NN slit|NN 
+guideline|NN child|NN adult|NN ar|NN history|NN allergy|DS test|NN action|NN statement|NN 2|NN allergy|DS 
+sit|NN patient|NN response|NN therapy|NN 
+immunotherapy|NN cial|NN symptom|NN control|NN response|NN therapy|NN sit|NN form|NN of|NN treatment|NN history|NN of|NN disease|NN 
+indication|NN immunotherapy|NN preference|NN adherence|NN medication|NN requirement|NN response|NN avoidance|NN measure|NN effect|NN of|NN medication|NN allergic|NN asthma|DS prevention|NN of|NN asthma|DS in|NN patient|NN ar|NN 
+in|NN addition|NN literature|NN cost|NN save|NN immunotherapy|NN 
+consideration|NN immunotherapy|NN evidence|NN of|NN immunotherapy|NN slit|NN pharmacotherapy|NN review|NN need|NN research|NN in|NN scit|NN slit324|NN variation|NN of|NN cost|NN patient|NN in|NN regard|NN insurance|NN plan|NN cost|NN of|NN slit|NN practice|NN benefit|NN of|NN immunotherapy|NN in|NN ar|NN decision|NN notherapy|NN decision|NN make|NN physician|NN patient|NN 
+statement|NN turbinate|NN reduction|NN clinician|NN surgeon|NN turbinate|NN reduction|NN in|NN patient|NN nasal|NN obstruction|NN turbinate|NN management|NN 
+option|NN study|NN preponderance|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN nasal|NN quality|NN of|NN life|NN aggregate|NN evidence|NN quality|NN grade|NN c|NN study|NN level|NN of|NN confidence|NN in|NN evidence|NN benefit|NN symptom|NN quality|NN of|NN life|NN medication|NN delivery|NN tion|NN use|NN sleep|NN risk|NN harm|NN cost|NN surgery|NN cost|NN of|NN surgery|NN risk|NN of|NN surgery|NN rhinitis|DS assessment|NN balance|NN of|NN benefit|NN harm|NN value|NN judgment|NN panel|NN in|NN spite|NN of|NN lack|NN of|NN trial|NN therapy|NN surgery|NN patient|NN therapy|NN risk|NN of|NN management|NN 
+vagueness|NN panel|NN term|NN failure|NN of|NN therapy|NN cumstances|NN turbinate|NN reduction|NN symptom|NN control|NN response|NN therapy|NN 
+role|NN of|NN preference|NN process|NN risk|NN benefit|NN cost|NN of|NN surgery|NN use|NN of|NN anesthesia|NN 
+exclusion|NN patient|NN candidate|NN policy|NN level|NN option|NN difference|NN of|NN opinion|NN difference|NN of|NN opinion|NN ar|NN risk|NN factor|NN nate|NN hypertrophy|NN purpose|NN of|NN statement|NN awareness|NN of|NN use|NN of|NN turbinate|NN reduction|NN surgery|NN part|NN of|NN management|NN ar|NN patient|NN nasal|NN symptom|NN hypertrophy|NN treatment|NN 
+turbinate|NN tissue|NN lateral|NN wall|NN of|NN inside|NN of|NN nose|NN consist|NN of|NN bone|NN tissue|NN in|NN response|NN inflammation|NN 
+s27|NN nasal|NN obstruction|NN turbinate|NN common|NN symptom|NN of|NN ar|NN 
+cedures|NN trophy|NN 
+method|NN 1|NN portion|NN of|NN turbinate|NN tomy|NN 2|NN tissue|NN mucosal|NN bone|NN of|NN turbinate|NN resection|NN volume|NN of|NN turbinate|NN ablation|NN 
+study|NN of|NN patient|NN turbinate|NN hypertrophy|NN turbinectomy|NN laser|NN cautery|NN electrocautery|NN cryotherapy|NN resection|NN mucosal|NN resection|NN turbinate|NN of|NN method|NN resection|NN outfracture|NN therapy|NN complication|NN 
+procedure|NN sedation|NN anesthetic|NN 
+2|NN common|NN technique|NN turbinate|NN reduction|NN resection|NN tissue|NN ablation|NN 
+study|NN of|NN patient|NN effect|NN of|NN tissue|NN ablation|NN technique|NN nasal|NN obstruction|NN month|NN 
+resection|NN group|NN nasal|NN patency|NN month|NN treatment|NN group|NN tissue|NN trial|NN of|NN ar|NN patient|NN antihistamine|NN nate|NN reduction|NN surgery|NN in|NN outcome|NN of|NN nasal|NN 1|NN year|NN group|NN reduction|NN in|NN nasal|NN resistance|NN rhinometry|NN 
+group|NN improvement|NN in|NN nasal|NN gestion|NN symptom|NN group|NN trend|NN improvement|NN 
+study|NN turbinate|NN procedure|NN symptom|NN of|NN rhinorrhea|ST sneeze|NN in|NN patient|NN fukazawa|NN et|NN patient|NN turbinate|NN reduction|NN nasal|NN congestion|NN 
+patient|NN nasal|NN congestion|NN rhinorrhea|ST 1|NN month|NN procedure|NN 
+cohort|NN of|NN patient|NN tion|NN of|NN turbinate|NN nasal|NN response|NN allergy|DS provocation|NN test|NN 2|NN month|NN report|NN in|NN cohort|NN improvement|NN of|NN symptom|NN of|NN nasal|NN congestion|NN sneeze|NN patient|NN symptom|NN surgery|NN treatment|NN 
+turbinate|NN reduction|NN nasal|NN bleeding|ST synechiae|NN scar|NN formation|NN crust|NN 
+rhinitis|DS syndrome|NN complication|NN turbinate|NN reduction|NN in|NN patient|NN sensation|NN of|NN nasal|NN obstruction|NN of|NN sensation|NN of|NN airflow|NN 
+nitis|NN resection|NN turbinectomy|NN 
+reduction|NN procedure|NN cost|NN of|NN surgery|NN risk|NN of|NN anesthesia|NN 
+management|NN treatment|NN ar|NN efficacy|NN risk|NN cost|NN turbinate|NN reduction|NN surgery|NN option|NN patient|NN turbinate|NN hypertrophy|NN symptom|NN management|NN in|NN patient|NN treatment|NN 
+statement|NN acupuncture|NN clinician|NN acupuncture|NN clinician|NN ture|NN patient|NN ar|NN in|NN therapy|NN 
+option|NN rcts|NN limitation|NN study|NN effect|NN derance|NN of|NN benefit|NN harm|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN ness|NN of|NN acupuncture|NN treatment|NN option|NN ar|NN aggregate|NN evidence|NN quality|NN grade|NN b|NN trial|NN limitation|NN study|NN effect|NN level|NN of|NN confidence|NN in|NN evidence|NN trial|NN comparison|NN therapy|NN ar|NN flaw|NN 
+benefit|NN alternative|NN therapy|NN reduction|NN of|NN symptom|NN value|NN quality|NN of|NN life|NN avoidance|NN of|NN medication|NN use|NN side|NN effect|NN risk|NN harm|NN cost|NN logistics|NN of|NN multiple|NN treatment|NN multiple|NN stick|NN cost|NN of|NN treatment|NN infection|NN assessment|NN equilibrium|NN of|NN benefit|NN harm|NN value|NN judgment|NN panel|NN member|NN in|NN bias|NN acupuncture|NN 
+vagueness|NN none|NN role|NN of|NN preference|NN decision|NN exclusion|NN none|NN policy|NN level|NN option|NN difference|NN of|NN opinion|NN none|NN purpose|NN of|NN statement|NN access|NN treatment|NN awareness|NN of|NN benefit|NN of|NN acupuncture|NN in|NN ment|NN of|NN patient|NN ar|NN 
+center|NN medicine|NN acupuncture|NN family|NN of|NN cedures|NN stimulation|NN of|NN point|NN body|NN 
+technique|NN skin|NN needle|NN hand|NN stimulation|NN 
+estimate|NN of|NN frequency|NN of|NN acupuncture|NN ar|NN in|NN state|NN study|NN of|NN adult|NN allergic|NN disease|NN in|NN germany|NN puncture|NN use|NN review|NN of|NN medicine|NN s28|NN neck|NN surgery|NN allergic_rhinitis|DS impact|NN asthma|DS aria|NN group|NN of|NN study|NN evaluation|NN of|NN rcts|NN time|NN result|NN evidence|NN use|NN of|NN acupuncture|NN in|NN ar|NN 
+pediatric|NN study|NN in|NN review|NN domized|NN study|NN of|NN child|NN ar|NN year|NN of|NN age|NN in|NN study|NN child|NN acupuncture|NN improvement|NN in|NN symptom|NN month|NN day|NN decrease|NN in|NN medication|NN use|NN 
+investigator|NN improvement|NN ture|NN in|NN week|NN acupuncture|NN 
+review|NN study|NN ar|NN review|NN trial|NN acupuncture|NN ar|NN effect|NN of|NN study|NN effect|NN of|NN acupuncture|NN patient|NN ar|NN ysis|NN patient|NN result|NN acupuncture|NN patient|NN improvement|NN in|NN symptom|NN score|NN rcts|NN in|NN review|NN acupuncture|NN ar|NN 
+response|NN rate|NN acupuncture|NN trial|NN publication|NN of|NN review|NN 
+trial|NN of|NN acupuncture|NN in|NN adult|NN patient|NN sus|NN treatment|NN versus|NN ar|NN in|NN deviation|NN of|NN number|NN of|NN acupuncture|NN treatment|NN patient|NN treatment|NN acupuncture|NN number|NN 
+month|NN score|NN rhinitis|DS quality|NN of|NN life|NN questionnaire|NN rqlq|NN mean|NN of|NN in|NN acupuncture|NN group|NN in|NN trol|NN group|NN change|NN of|NN quality|NN of|NN life|NN improvement|NN in|NN acupuncture|NN group|NN 
+rqlq|NN influence|NN of|NN ar|NN quality|NN of|NN life|NN of|NN item|NN in|NN domain|NN of|NN sleep|NN symptom|NN tion|NN problem|NN nasal|NN symptom|NN eye|NN symptom|NN activity|NN 
+patient|NN impact|NN of|NN ar|NN area|NN week|NN 
+trial|NN of|NN acupuncture|NN in|NN patient|NN ar|NN ture|NN medication|NN cetirizine|NN acupuncture|NN medication|NN medication|NN patient|NN acupuncture|NN rqlq|NN rescue|NN medication|NN score|NN week|NN patient|NN acupuncture|NN rescue|NN medication|NN medication|NN 
+treatment|NN response|NN week|NN acupuncture|NN acupuncture|NN rescue|NN medication|NN confidence|NN interval|NN improvement|NN in|NN rqlq|NN medication|NN score|NN value|NN level|NN 
+multicenter|NN rct|NN of|NN adult|NN ar|NN ment|NN in|NN nasal|NN symptom|NN score|NN end|NN of|NN treatment|NN week|NN treatment|NN deviation|NN acupuncture|NN improvement|NN in|NN symptom|NN score|NN waitlist|NN group|NN study|NN nasal|NN symptom|NN nasal|NN obstruction|NN rhinorrhea|ST nasal|NN itch|ST in|NN participant|NN scale|NN symptom|NN 1|NN mild|NN 2|NN moderate|NN 
+individual|NN nasal|NN symptom|NN score|NN tom|NN score|NN 
+outcome|NN use|NN of|NN placebo|NN control|NN in|NN therapy|NN treatment|NN trial|NN ar|NN placebo|NN effect|NN improvement|NN 
+of|NN trial|NN acupuncture|NN 
+location|NN depth|NN manipulation|NN of|NN sham|NN needle|NN trial|NN sham|NN therapy|NN effect|NN placebo|NN effect|NN sham|NN mechanism|NN of|NN action|NN of|NN acupuncture|NN in|NN treatment|NN of|NN ar|NN 
+study|NN acupuncture|NN inhibit|NN synthesis|NN in|NN patient|NN in|NN patient|NN asthma|DS find|NN in|NN review|NN rcts|NN acupuncture|NN symptom|NN control|NN quality|NN of|NN life|NN in|NN patient|NN ar|NN 
+review|NN of|NN trial|NN benefit|NN in|NN ar|NN rcts|NN benefit|NN symptom|NN control|NN in|NN ar|NN patient|NN 
+evidence|NN of|NN harm|NN acupuncture|NN 
+patient|NN interest|NN in|NN approach|NN management|NN of|NN ar|NN acupuncture|NN option|NN 
+statement|NN therapy|NN dation|NN use|NN of|NN therapy|NN patient|NN ar|NN 
+recommendation|NN knowledge|NN of|NN medicine|NN concern|NN quality|NN of|NN ization|NN safety|NN 
+action|NN statement|NN profile|NN quality|NN improvement|NN opportunity|NN aggregate|NN evidence|NN quality|NN level|NN of|NN confidence|NN in|NN evidence|NN 
+of|NN study|NN of|NN methodology|NN 
+in|NN article|NN literature|NN assessment|NN panel|NN 
+benefit|NN awareness|NN of|NN ments|NN education|NN of|NN effect|NN of|NN therapy|NN risk|NN harm|NN cost|NN et|NN al|NN assessment|NN value|NN judgment|NN therapy|NN evidence|NN priate|NN study|NN 
+knowledge|NN product|NN of|NN panel|NN member|NN bias|NN use|NN 
+concern|NN quality|NN of|NN standardization|NN of|NN medicine|NN safety|NN vagueness|NN none|NN role|NN of|NN preference|NN none|NN exclusion|NN none|NN policy|NN level|NN recommendation|NN difference|NN of|NN opinion|NN none|NN guideline|NN development|NN panel|NN ommendation|NN use|NN of|NN therapy|NN patient|NN ar|NN lack|NN of|NN translation|NN of|NN majority|NN of|NN literature|NN diversity|NN of|NN lack|NN of|NN ization|NN of|NN therapy|NN understand|NN panel|NN of|NN risk|NN harm|NN of|NN therapy|NN 
+medicine|NN century|NN 
+macopeia|NN medicinals|NN combination|NN in|NN prevalence|NN use|NN of|NN tions|NN rise|NN trial|NN safety|NN study|NN of|NN medicine|NN benefit|NN in|NN treatment|NN of|NN ar|NN of|NN study|NN in|NN size|NN study|NN medicine|NN of|NN study|NN issue|NN 
+ing|NN therapy|NN lack|NN of|NN knowledge|NN risk|NN shortcoming|NN of|NN literature|NN tion|NN use|NN of|NN medicine|NN in|NN ar|NN 
+aria|NN guideline|NN study|NN of|NN quality|NN number|NN of|NN patient|NN butterbur|NN biminne|NN mixture|NN 
+result|NN symptom|NN quality|NN of|NN life|NN ar|NN aria|NN guideline|NN y|NN remedy|NN ar|NN si|NN of|NN patient|NN sign|NN symptom|NN 
+trial|NN decoction|NN allergic|NN action|NN inhibition|NN of|NN release|NN of|NN mast|NN cell|NN mediation|NN tion|NN of|NN histamine|NN release|NN inhibition|NN of|NN inflammation|NN chemical|NN agent|NN modulation|NN of|NN serum|NN ige|NN level|NN of|NN macrophage|NN res|NN regulation|NN of|NN product|NN of|NN remedy|NN fda|NN 
+safety|NN of|NN medicine|NN clinician|NN of|NN safety|NN efficacy|NN of|NN therapy|NN ar|NN death|NN medicine|NN in|NN state|NN in|NN year|NN 
+implementation|NN consideration|NN practice|NN guideline|NN supplement|NN neck|NN surgery|NN reference|NN distribution|NN 
+version|NN of|NN guideline|NN of|NN charge|NN http|NN 
+in|NN addition|NN guideline|NN neck|NN surgery|NN app|NN smartphones|NN tablet|NN 
+guideline|NN member|NN miniseminar|NN meet|NN oto|NN expo|NN 
+chures|NN publication|NN guideline|NN s|NN recommendation|NN 
+supplement|NN clinician|NN algorithm|NN of|NN line|NN s|NN action|NN statement|NN figure|NN 2|NN table|NN common|NN allergic_rhinitis|DS scenario|NN figure|NN 
+algorithm|NN understand|NN of|NN guideline|NN s|NN logic|NN sequence|NN of|NN action|NN statement|NN 
+guideline|NN development|NN group|NN algorithm|NN reference|NN guide|NN mentation|NN of|NN guideline|NN s|NN recommendation|NN 
+research|NN guideline|NN body|NN of|NN evidence|NN treatment|NN of|NN ar|NN 
+of|NN action|NN statement|NN grade|NN level|NN evidence|NN review|NN of|NN evidence|NN profile|NN statement|NN edge|NN gap|NN need|NN research|NN 
+guideline|NN development|NN group|NN review|NN of|NN literature|NN assessment|NN of|NN practice|NN determination|NN of|NN evidence|NN gap|NN research|NN need|NN research|NN effect|NN of|NN control|NN strategy|NN ar|NN 
+evidence|NN profile|NN control|NN grade|NN trial|NN efficacy|NN of|NN control|NN ar|NN endpoint|NN 
+research|NN safety|NN cacy|NN of|NN sit|NN 
+study|NN slit|NN in|NN state|NN in|NN fashion|NN 
+approval|NN of|NN oralair|NN allergen|NN of|NN pollen|NN vernal|NN orchard|NN rye|NN timothy|NN grass|NN ment|NN grass|NN pollen|NN ragwitek|NN ment|NN ragweed|NN pollen|NN in|NN rcts|NN effect|NN of|NN s30|NN neck|NN surgery|NN pa|NN ent|NN present|NN symptom|NN nasal|NN conge|NN runny|NN itchy|NN conduct|NN history|NN examina|NN kas1|NN 
+assessment|NN of|NN chronic|NN condi|NN ons|NN comorbidi|NN e|NN kas5|NN physician|NN diagnosis|NN of|NN allergic|NN rhini|NN s|NN treatment|NN 
+yes|NN treatment|NN refer|NN medica|NN ons|NN chart|NN common|NN scenario|NN factor|NN kas4|NN clinician|NN avoidance|NN of|NN allergen|NN pa|NN ent|NN prefer|NN inadequate|NN control|NN of|NN ar|NN symptom|NN therapy|NN control|NN clinician|NN acupuncture|NN kas13|NN allergy|DS te|NN ng|NN kas2|NN clinician|NN clinician|NN ige|NN skin|NN blood|NN allergy|DS te|NN ng|NN pa|NN diagnosis|NN of|NN allergic|NN rhini|NN s|NN treatment|NN diagnosis|NN knowledge|NN of|NN speciﬁc|NN allergen|NN decision|NN turbinate|NN reduc|NN persistent|NN nasal|NN obstruc|NN kas12|NN clinician|NN surgeon|NN turbinate|NN reduc|NN in|NN pa|NN allergic|NN rhini|NN s|NN nasal|NN obstruc|NN turbinate|NN management|NN immunotherapy|NN posi|NN ve|NN allergy|DS te|NN ng|NN kas11|NN clinician|NN clinician|NN immunotherapy|NN pa|NN allergic|NN rhini|NN s|NN response|NN therapy|NN control|NN allergic_rhinitis|DS ar|NN diagnosis|NN treatment|NN flow|NN chart|NN patient|NN ar|NN guideline|NN s|NN recommendation|NN 
+ka|NN action|NN statement|NN 
+product|NN preparation|NN 
+research|NN cost|NN of|NN scit|NN slit|NN 
+comparison|NN of|NN versus|NN scit|NN comparison|NN none|NN in|NN state|NN 
+research|NN effect|NN of|NN therapy|NN target|NN response|NN ie|NN steroid|NN antihistamine|NN nasal|NN symptom|NN 
+research|NN in|NN field|NN of|NN allergy|DS immunology|NN trigger|NN patient|NN treatment|NN pathophysiology|NN of|NN ar|NN comorbid|NN condition|NN 
+research|NN safety|NN cacy|NN of|NN acupuncture|NN ar|NN 
+paucity|NN of|NN data|NN in|NN literature|NN use|NN of|NN medicine|NN ar|NN 
+recommendation|NN treatment|NN 
+level|NN of|NN evidence|NN therapy|NN trial|NN review|NN of|NN data|NN 
+study|NN therapy|NN use|NN of|NN arations|NN extract|NN in|NN amount|NN research|NN need|NN extract|NN dardization|NN of|NN efficacy|NN ar|NN 
+trial|NN versus|NN management|NN of|NN turbinate|NN hypertrophy|NN seidman|NN s31|NN research|NN trial|NN form|NN of|NN therapy|NN vaccine|NN dna|NN vaccine|NN injection|NN injection|NN 
+strategy|NN allergenicity|NN of|NN extract|NN effect|NN immune|NN system|NN 
+analysis|NN of|NN impact|NN of|NN tory|NN agent|NN treatment|NN of|NN asthma|DS ar|NN 
+relationship|NN ar|NN tions|NN otitis_media|DS sinusitis|DS 
+in|NN addition|NN research|NN mine|NN effect|NN of|NN ar|NN comorbid|NN condition|NN 
+form|NN of|NN allergy|DS information|NN 
+form|NN of|NN in|NN allergen|NN 
+study|NN effect|NN of|NN formulation|NN ar|NN 
+measure|NN tool|NN efficacy|NN of|NN treatment|NN nasal|NN in|NN child|NN adult|NN 
+practice|NN guideline|NN source|NN of|NN guidance|NN in|NN patient|NN ar|NN 
+clinician|NN framework|NN strategy|NN 
+guideline|NN judgment|NN protocol|NN al|NN condition|NN approach|NN program|NN of|NN care|NN 
+knowledge|NN expand|NN technology|NN advance|NN indicator|NN guideline|NN proposal|NN of|NN tions|NN 
+guideline|NN mandate|NN standard|NN of|NN care|NN 
+physician|NN in|NN light|NN of|NN circumstance|NN patient|NN treatment|NN 
+adherence|NN guideline|NN patient|NN outcome|NN in|NN situation|NN 
+guideline|NN treatment|NN decision|NN method|NN of|NN care|NN treatment|NN decision|NN method|NN of|NN care|NN result|NN 
+acknowledgment|NN support|NN of|NN janet|NN water|NN tance|NN literature|NN search|NN 
+author|NN contribution|NN seidman|NN writer|NN chair|NN gurgel|NN writer|NN chair|NN writer|NN chair|NN schwartz|NN methodologist|NN baroody|NN writer|NN jam|NN figure|NN common|NN allergic_rhinitis|DS scenario|NN 
+guideline|NN task|NN force|NN algorithm|NN allergic_rhinitis|DS variation|NN in|NN preference|NN severity|NN of|NN symptom|NN duration|NN of|NN symptom|NN condition|NN allergen|NN sensitization|NN recommendation|NN 
+guidance|NN practitioner|NN scenario|NN evidence|NN advice|NN 
+nasal|NN congestion|NN in|NN patient|NN ar|NN 
+in|NN addition|NN need|NN research|NN role|NN of|NN septoplasty|NN in|NN treatment|NN of|NN ar|NN 
+research|NN relationship|NN ar|NN comorbid|NN condition|NN otitis_media|DS sinusitis|DS 
+in|NN addition|NN research|NN effect|NN of|NN ar|NN treatment|NN comorbid|NN condition|NN effect|NN of|NN treatment|NN comorbid|NN condition|NN ar|NN 
+research|NN impact|NN of|NN adherence|NN treatment|NN treatment|NN outcome|NN in|NN evidence|NN base|NN ar|NN treatment|NN in|NN al|NN 
+need|NN diversity|NN in|NN trial|NN subject|NN examination|NN of|NN factor|NN treatment|NN outcome|NN ease|NN utility|NN of|NN treatment|NN administration|NN impact|NN of|NN education|NN aid|NN adherence|NN sequent|NN outcome|NN 
+s32|NN neck|NN surgery|NN bonner|NN writer|NN dawson|NN writer|NN dykewicz|NN writer|NN hackell|NN writer|NN han|NN writer|NN ishman|NN writer|NN krouse|NN writer|NN malekzadeh|NN writer|NN jam|NN whit|NN mims|NN writer|NN omole|NN writer|NN reddy|NN writer|NN wallace|NN writer|NN walsh|NN writer|NN warren|NN writer|NN writer|NN nnacheta|NN writer|NN staff|NN liaison|NN 
+disclosure|NN interest|NN michael|NN seidman|NN director|NN founder|NN of|NN body|NN language|NN co|NN institute|NN of|NN health|NN grant|NN simulation|NN patent|NN supplement|NN aircraft|NN middle|NN ear|NN brain|NN implant|NN consultant|NN wellpoint|NN baroody|NN speaker|NN merck|NN inc|NN speaker|NN glaxosmithkline|NN dykewicz|NN consultant|NN merck|NN research|NN contract|NN support|NN university|NN novartis|NN hackell|NN glaxosmithkline|NN speaker|NN sunovion|NN pharmaceutical|NN board|NN discussion|NN nasal|NN roids|NN transit|NN of|NN venus|NN board|NN han|NN research|NN grant|NN pi|NN consultant|NN study|NN intersect|NN speaker|NN merck|NN ishman|NN consultant|NN line|NN wallace|NN teva|NN speaker|NN s|NN bureau|NN sanofi|NN panel|NN speaker|NN s|NN bureau|NN mylan|NN board|NN speaker|NN s|NN bureau|NN speaker|NN s|NN bureau|NN panel|NN speaker|NN s|NN bureau|NN executive|NN committee|NN chair|NN board|NN of|NN regent|NN committee|NN practice|NN parameter|NN joint|NN task|NN force|NN 
+sponsorship|NN academy|NN of|NN neck|NN surgery|NN foundation|NN 
+source|NN academy|NN of|NN neck|NN surgery|NN foundation|NN 
+reference|NN min|NN yg|NN 
+pathophysiology|NN diagnosis|NN treatment|NN of|NN rhinitis|DS 
+allergy|DS asthma|DS immunol|NN re|NN 
+2|NN 2|NN 
+mattos|NN jl|NN woodard|NN cr|NN sc|NN 
+trend|NN in|NN common|NN illness|NN analysis|NN of|NN survey|NN int|NN forum|NN allergy|DS rhinol|NN 
+pt|NN vickery|NN j|NN management|NN of|NN ti|NN allergic|NN 
+allergy|DS asthma|DS immunol|NN re|NN 
+meltzer|NN eo|NN bukstein|NN da|NN 
+impact|NN of|NN allergic|NN nitis|NN guideline|NN treatment|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+2|NN suppl|NN 
+allergic_rhinitis|DS cost|NN 
+allergy|DS asthma|DS proc|NN 
+bousquet|NN j|NN cruz|NN aa|NN al|NN 
+allergic_rhinitis|DS impact|NN asthma|DS aria|NN update|NN in|NN collaboration|NN world|NN health|NN organization|NN ga|NN 2|NN len|NN allergen|NN 
+allergy|DS 
+wallace|NN dv|NN diagnosis|NN management|NN of|NN rhinitis|DS practice|NN parameter|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+rosenfeld|NN rm|NN rn|NN robertson|NN practice|NN guideline|NN development|NN edition|NN approach|NN evidence|NN action|NN 
+head|NN neck|NN surg|NN 
+1|NN suppl|NN 
+ambulatory|NN care|NN utilization|NN estimate|NN health|NN report|NN 
+pm|NN gergen|NN pj|NN al|NN 
+allergy|DS outcome|NN in|NN relation|NN ige|NN result|NN health|NN nutrition|NN examination|NN survey|NN j|NN allergy|DS clin|NN nol|NN 
+mi|NN montefort|NN s|NN björkstén|NN b|NN al|NN 
+time|NN trend|NN in|NN prevalence|NN of|NN symptom|NN of|NN asthma|DS allergic|NN conjunctivitis|NN eczema|NN in|NN childhood|NN phase|NN repeat|NN multicountry|NN survey|NN 
+lancet|NN 
+bhattacharyya|NN healthcare|NN utilization|NN ditures|NN allergic_rhinitis|DS in|NN state|NN 
+laryngoscope|NN 
+sm|NN 
+burden|NN of|NN allergic_rhinitis|DS dollar|NN cent|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+schoenwetter|NN wf|NN dupclay|NN l|NN appajosyula|NN s|NN al|NN 
+impact|NN quality|NN of|NN life|NN burden|NN of|NN allergic_rhinitis|DS 
+curr|NN re|NN 
+ra|NN 
+burden|NN of|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+ce|NN ratner|NN ph|NN johnson|NN ce|NN al|NN 
+impact|NN of|NN workplace|NN productivity|NN loss|NN allergic_rhinitis|DS condition|NN in|NN state|NN employer|NN perspective|NN 
+curr|NN re|NN 
+ef|NN lm|NN mm|NN al|NN 
+allergic_rhinitis|DS effect|NN child|NN s|NN learn|NN 
+ann|NN allergy|DS 
+allergic_rhinitis|DS plication|NN 
+allergy|DS asthma|DS proc|NN 
+mir|NN e|NN panjabi|NN c|NN impact|NN of|NN allergic_rhinitis|DS in|NN school|NN child|NN 
+asia|NN pac|NN allergy|DS 
+lin|NN sy|NN melvin|NN ta|NN bos|NN ef|NN al|NN 
+association|NN allergic_rhinitis|DS sleep|NN breathe|NN in|NN child|NN review|NN 
+int|NN forum|NN allergy|DS rhinol|NN 
+rosenfeld|NN rm|NN rn|NN 
+practice|NN guideline|NN manual|NN approach|NN evidence|NN action|NN 
+head|NN neck|NN surg|NN 
+suppl|NN s43|NN 
+rn|NN michel|NN g|NN rosenfeld|NN rm|NN al|NN 
+build|NN guideline|NN development|NN evaluation|NN of|NN software|NN assistant|NN clarity|NN transparency|NN mentability|NN 
+j|NN assoc|NN 
+1|NN 
+rn|NN p|NN overhage|NN j|NN al|NN 
+ing|NN of|NN practice|NN guideline|NN proposal|NN ference|NN standardization|NN 
+intern|NN 
+rn|NN j|NN brandt|NN c|NN al|NN 
+mentability|NN appraisal|NN development|NN of|NN instrument|NN obstacle|NN implementation|NN 
+bmc|NN decis|NN mak|NN 
+committee|NN quality|NN improvement|NN ment|NN 
+policy|NN statement|NN classify|NN recommendation|NN practice|NN guideline|NN 
+pediatrics|NN 
+et|NN al|NN oxford|NN centre|NN medicine|NN 
+ocebm|NN level|NN of|NN evidence|NN group|NN 
+oxford|NN level|NN of|NN evidence|NN 
+http|NN 
+choudhry|NN nk|NN stelfox|NN ht|NN detsky|NN 
+relationship|NN author|NN of|NN practice|NN guideline|NN industry|NN 
+jama|NN 
+detsky|NN 
+source|NN of|NN bias|NN author|NN of|NN practice|NN line|NN 
+cmaj|NN 
+barry|NN mj|NN decision|NN nacle|NN of|NN care|NN 
+engl|NN j|NN 
+c|NN devine|NN d|NN al|NN 
+management|NN of|NN gic|NN rhinitis|DS evidence|NN assessment|NN 
+england|NN center|NN practice|NN center|NN contract|NN 
+pub|NN 
+rockville|NN md|NN agency|NN care|NN research|NN quality|NN 
+allergic_rhinitis|DS guideline|NN team|NN 
+guideline|NN allergic_rhinitis|DS 
+university|NN of|NN michigan|NN health|NN system|NN 
+ber|NN http|NN 
+groot|NN h|NN brand|NN pl|NN wf|NN al|NN 
+allergic|NN tivitis|NN in|NN child|NN 
+bmj|NN 
+mccrory|NN dc|NN jw|NN dolor|NN rj|NN al|NN 
+management|NN of|NN allergic_rhinitis|DS in|NN population|NN 
+rep|NN technol|NN ass|NN summ|NN 
+m|NN glaum|NN mc|NN rf|NN 
+rhinitis|DS 
+clin|NN exp|NN allergy|DS 
+s|NN m|NN e|NN al|NN 
+risk|NN asthma|DS gic|NN rhinitis|DS atopic_dermatitis|DS 
+arch|NN dis|NN child|NN 
+wang|NN dy|NN 
+risk|NN factor|NN of|NN allergic_rhinitis|DS mental|NN 
+clin|NN risk|NN manag|NN 
+1|NN 2|NN 
+allergic_rhinitis|DS issue|NN in|NN schoolchildren|NN consensus|NN report|NN 
+curr|NN re|NN 
+bernstein|NN le|NN jt|NN bernstein|NN di|NN al|NN 
+allergy|DS ing|NN practice|NN parameter|NN 
+ann|NN allergy|DS asthma|DS nol|NN 
+jb|NN 
+introduction|NN in|NN vivo|NN allergy|DS test|NN 
+head|NN neck|NN surg|NN 
+2|NN 
+kim|NN bj|NN mun|NN sk|NN 
+measurement|NN skin|NN test|NN in|NN allergic_rhinitis|DS 
+arch|NN neck|NN surg|NN 
+j|NN h|NN 
+skin|NN test|NN survey|NN of|NN allergist|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+1|NN 
+bousquet|NN j|NN l|NN c|NN al|NN 
+guide|NN skin|NN prick|NN test|NN in|NN allergy|DS aeroallergens|NN 
+allergy|DS 
+1|NN 
+j|NN j|NN j|NN al|NN 
+allergic|NN ti|NN practice|NN guideline|NN 
+head|NN neck|NN surg|NN 
+1|NN 
+scichilone|NN n|NN augugliaro|NN g|NN al|NN 
+impact|NN of|NN age|NN prevalence|NN of|NN skin|NN prick|NN test|NN ige|NN test|NN 
+respir|NN 
+rf|NN gl|NN d|NN al|NN 
+reaction|NN fatality|NN therapy|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+1|NN 1|NN 
+mccann|NN wa|NN reproducibility|NN of|NN allergy|DS skin|NN test|NN score|NN interpretation|NN allergist|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+km|NN rank|NN ma|NN davé|NN sa|NN al|NN 
+tion|NN class|NN allergy|DS skin|NN test|NN 
+allergy|DS asthma|DS proc|NN 
+chafen|NN jj|NN sj|NN riedl|NN ma|NN al|NN 
+diagnose|NN common|NN food|NN allergy|DS review|NN 
+jama|NN 
+j|NN sistek|NN d|NN schindler|NN c|NN al|NN 
+allergic|NN asthma|DS rhinitis|DS efficiency|NN of|NN commonly|NN atopic|NN marker|NN ige|NN skin|NN prick|NN test|NN phadiatop|NN 
+result|NN adult|NN sapaldia|NN study|NN 
+study|NN air|NN pollution|NN lung|NN disease|NN in|NN adult|NN 
+allergy|DS 
+allergy|DS test|NN t|NN 
+http|NN 
+july|NN 
+ahmadiafshar|NN taghiloo|NN d|NN al|NN 
+nasal|NN ophilia|NN marker|NN allergic_rhinitis|DS study|NN of|NN patient|NN 
+ear|NN throat|NN j|NN 
+ciprandi|NN g|NN cirillo|NN i|NN al|NN 
+nasal|NN play|NN correlation|NN symptom|NN pulmonary|NN function|NN inflammation|NN in|NN allergic_rhinitis|DS 
+int|NN arch|NN allergy|DS immunol|NN 
+romero|NN jn|NN eosinophilia|NN in|NN nasal|NN secretion|NN skin|NN test|NN nasal|NN test|NN in|NN diagnosis|NN of|NN nasal|NN allergy|DS 
+rhinology|NN 
+college|NN of|NN radiology|NN 
+position|NN statement|NN study|NN ct|NN scan|NN cancer|DS risk|NN 
+http|NN 
+march|NN 
+pearce|NN m|NN ja|NN mp|NN al|NN 
+radiation|NN exposure|NN ct|NN scan|NN in|NN childhood|NN risk|NN of|NN leukaemia|NN brain|NN tumour|NN 
+lancet|NN 
+katayama|NN h|NN t|NN al|NN 
+reaction|NN contrast|NN media|NN 
+radiology|NN 
+dc|NN kennedy|NN dw|NN 
+adult|NN rhinosinusitis|NN 
+yngol|NN head|NN neck|NN surg|NN 
+2|NN 
+krouse|NN j|NN skin|NN inhalant|NN allergy|DS strategy|NN 
+head|NN neck|NN surg|NN 
+suppl|NN s49|NN 
+rosenfeld|NN rm|NN d|NN bhattacharyya|NN n|NN al|NN 
+tice|NN guideline|NN adult|NN sinusitis|DS 
+head|NN neck|NN surg|NN 
+suppl|NN 
+sicherer|NN sh|NN wood|NN ra|NN 
+allergy|DS in|NN childhood|NN ige|NN test|NN 
+pediatrics|NN 
+1|NN 
+menardo|NN jl|NN bousquet|NN j|NN m|NN al|NN 
+skin|NN test|NN reactivity|NN in|NN infancy|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+college|NN of|NN radiology|NN acr|NN appropriateness|NN criterion|NN 
+disease|NN 
+http|NN 
+march|NN s34|NN neck|NN surgery|NN g|NN fergurson|NN bj|NN han|NN jk|NN al|NN 
+consensus|NN ment|NN use|NN of|NN tomography|NN paranasal|NN sinus|NN disease|NN 
+head|NN neck|NN surg|NN 
+j|NN kennedy|NN k|NN j|NN al|NN 
+ment|NN exposure|NN control|NN practice|NN animal|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+bloch|NN d|NN m|NN al|NN 
+protect|NN allergic_rhinitis|DS childhood|NN 
+analysis|NN of|NN study|NN 
+acta|NN paediatr|NN 
+kramer|NN breastfeed|NN allergy|DS evidence|NN 
+ann|NN metab|NN 
+1|NN 
+matheson|NN mc|NN kj|NN tang|NN ml|NN 
+evidence|NN role|NN of|NN in|NN allergy|DS prevention|NN 
+clin|NN exp|NN allergy|DS 
+hodson|NN t|NN simpson|NN al|NN 
+dog|NN allergen|NN level|NN dog|NN week|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+custovic|NN simpson|NN bm|NN simpson|NN al|NN 
+effect|NN of|NN manipulation|NN in|NN pregnancy|NN early|NN life|NN respiratory|NN symptom|NN atopy|NN year|NN of|NN life|NN trial|NN 
+lancet|NN 
+carlsen|NN kc|NN roll|NN s|NN carlsen|NN kh|NN al|NN 
+ship|NN in|NN infancy|NN lead|NN asthma|DS allergy|DS school|NN age|NN 
+analysis|NN of|NN participant|NN data|NN birth|NN cohort|NN 
+plo|NN 
+e43214|NN 
+fretzayas|NN kotzia|NN d|NN moustaki|NN role|NN of|NN pet|NN in|NN development|NN of|NN atopy|NN in|NN child|NN 
+world|NN j|NN pediatr|NN 
+2|NN 
+sheikh|NN hurwitz|NN b|NN u|NN al|NN 
+house|NN ance|NN measure|NN allergic_rhinitis|DS 
+cochrane|NN database|NN syst|NN rev|NN 
+cd001563|NN 
+sheikh|NN hurwitz|NN house|NN dust|NN avoidance|NN measure|NN allergic_rhinitis|DS 
+cochrane|NN database|NN syst|NN rev|NN 
+cd001563|NN 
+sheikh|NN hurwitz|NN house|NN dust|NN avoidance|NN measure|NN allergic_rhinitis|DS review|NN of|NN efficacy|NN 
+br|NN j|NN gen|NN pract|NN 
+sheikh|NN hurwitz|NN b|NN house|NN dust|NN avoidance|NN measure|NN allergic_rhinitis|DS 
+cochrane|NN database|NN syst|NN rev|NN 
+1|NN cd001563|NN 
+u|NN schayk|NN cp|NN hurwitz|NN b|NN al|NN 
+house|NN avoidance|NN measure|NN allergic_rhinitis|DS cochrane|NN review|NN 
+allergy|DS 
+i|NN hak|NN e|NN aj|NN al|NN 
+evaluation|NN of|NN cover|NN in|NN patient|NN allergic_rhinitis|DS 
+engl|NN j|NN 
+horak|NN f|NN s|NN g|NN al|NN 
+effect|NN of|NN mattress|NN encase|NN package|NN ment|NN of|NN allergy|DS in|NN randomize|NN birth|NN cohort|NN study|NN 
+clin|NN exp|NN allergy|DS 
+rhinitis|DS asthma|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+allergic|NN 
+stillerman|NN c|NN w|NN al|NN 
+efficacy|NN of|NN air|NN filtration|NN pillow|NN avoidance|NN of|NN allergen|NN in|NN adult|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+custovic|NN van|NN wijk|NN rg|NN 
+effectiveness|NN of|NN measure|NN indoor|NN environment|NN in|NN treatment|NN of|NN allergic|NN ti|NN asthma|DS aria|NN update|NN in|NN collaboration|NN ga2len|NN 
+allergy|DS 
+s|NN v|NN thomas|NN burden|NN of|NN allergic_rhinitis|DS in|NN adult|NN asthma|DS 
+j|NN asthma|DS 
+1|NN 
+kapsali|NN t|NN horowitz|NN e|NN diemer|NN f|NN al|NN 
+rhinitis|DS in|NN allergic|NN asthmatic|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+s138|NN 
+j|NN j|NN al|NN 
+rhinitis|DS phenotype|NN presentation|NN risk|NN factor|NN pattern|NN of|NN asthma|DS 
+respir|NN 
+boulay|NN laprise|NN c|NN al|NN 
+asthma|DS rhinitis|DS relationship|NN 
+curr|NN opin|NN allergy|DS clin|NN immunol|NN 
+martin|NN pe|NN matheson|NN mc|NN gurrin|NN l|NN al|NN 
+childhood|NN eczema|NN rhinitis|DS atopic|NN asthma|DS cohort|NN study|NN decade|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+zeiger|NN r|NN heller|NN development|NN risk|NN of|NN allergy|DS in|NN risk|NN child|NN age|NN year|NN in|NN study|NN of|NN food|NN allergen|NN avoidance|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+ricci|NN g|NN baldi|NN e|NN al|NN 
+term|NN of|NN atopic_dermatitis|DS analysis|NN of|NN risk|NN factor|NN ciation|NN allergic|NN disease|NN 
+j|NN dermatol|NN 
+jm|NN 
+atopic_dermatitis|DS asthma|DS atopic|NN march|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+2|NN 
+s|NN z|NN michalska|NN effect|NN of|NN generation|NN of|NN h|NN 1|NN antihistamine|NN cetirizine|NN loratadine|NN histamine|NN release|NN response|NN in|NN atopic|NN patient|NN 
+j|NN investig|NN allergol|NN clin|NN immunol|NN 
+2|NN 
+jb|NN p|NN effect|NN of|NN cetirizine|NN h1|NN antihistamine|NN early|NN late|NN allergic|NN reaction|NN in|NN provocation|NN test|NN allergen|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+corren|NN j|NN adinoff|NN ad|NN ad|NN al|NN 
+nasal|NN sone|NN increase|NN in|NN responsiveness|NN in|NN patient|NN allergic_rhinitis|DS asthma|DS 
+j|NN allergy|DS clin|NN nol|NN 
+2|NN 
+et|NN jc|NN brand|NN pl|NN al|NN 
+effect|NN of|NN nasal|NN corticosteroid|NN exercise|NN bronchoconstriction|NN in|NN child|NN 
+pediatr|NN pulmonol|NN 
+1|NN 
+moon|NN j|NN choi|NN 
+control|NN in|NN house|NN dust|NN mite|NN nasal|NN symptom|NN in|NN patient|NN allergic_rhinitis|DS 
+yonsei|NN j|NN 
+bt|NN p|NN tion|NN allergic_rhinitis|DS asthma|DS 
+j|NN laryngol|NN otol|NN 
+reisman|NN re|NN mauriello|NN pm|NN davis|NN gb|NN al|NN 
+study|NN of|NN effectiveness|NN of|NN particulate|NN air|NN hepa|NN filter|NN in|NN treatment|NN of|NN patient|NN reed|NN ce|NN marcoux|NN jp|NN pw|NN 
+effect|NN of|NN nasal|NN ment|NN asthma|DS symptom|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+2|NN et|NN al|NN lohia|NN s|NN schlosser|NN rj|NN soler|NN zm|NN 
+impact|NN of|NN steroid|NN asthma|DS outcome|NN in|NN allergic_rhinitis|DS si|NN 
+allergy|DS 
+m|NN koga|NN t|NN kamimura|NN t|NN al|NN 
+comparison|NN of|NN kotriene|NN receptor|NN antagonist|NN antihistamine|NN therapy|NN in|NN patient|NN asthma|DS allergic_rhinitis|DS 
+kurume|NN j|NN 
+1|NN 
+rd|NN camporota|NN l|NN s|NN al|NN 
+effect|NN of|NN cific|NN immunotherapy|NN in|NN allergic|NN individual|NN hyperresponsiveness|NN 
+respir|NN crit|NN care|NN 
+rak|NN s|NN löwhagen|NN o|NN venge|NN effect|NN of|NN immunotherapy|NN hyperresponsiveness|NN protein|NN in|NN allergic|NN patient|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+1|NN 
+kim|NN jm|NN lin|NN sy|NN c|NN al|NN 
+immunotherapy|NN asthma|DS rhinoconjunctivitis|NN review|NN 
+pediatrics|NN 
+abramson|NN mj|NN puy|NN rm|NN weiner|NN jm|NN 
+injection|NN allergen|NN immunotherapy|NN asthma|DS 
+cochrane|NN database|NN syst|NN rev|NN 
+cd001186|NN 
+niggemann|NN b|NN jacobsen|NN l|NN dreborg|NN s|NN al|NN 
+pat|NN study|NN immunotherapy|NN prevention|NN of|NN asthma|DS in|NN child|NN 
+allergy|DS 
+jacobsen|NN l|NN in|NN evidence|NN immunotherapy|NN in|NN child|NN progression|NN of|NN allergy|DS asthma|DS 
+curr|NN opin|NN allergy|DS clin|NN immunol|NN 
+sr|NN dm|NN 
+immunotherapy|NN in|NN treatment|NN of|NN atopic_dermatitis|DS review|NN grade|NN system|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+vlastos|NN i|NN athanasopoulos|NN i|NN mastronikolis|NN n|NN al|NN 
+clearance|NN in|NN allergic_rhinitis|DS patient|NN predisposition|NN 
+ear|NN throat|NN j|NN 
+e|NN chaw|NN bl|NN p|NN al|NN 
+gic|NN rhinitis|DS otitis_media|DS effusion|NN birth|NN cohort|NN study|NN 
+clin|NN exp|NN allergy|DS 
+luong|NN roland|NN p|NN 
+link|NN allergic_rhinitis|DS chronic|NN otitis_media|DS effusion|NN in|NN atopic|NN patient|NN 
+gol|NN clin|NN 
+2|NN 
+lack|NN g|NN caulfield|NN h|NN penagos|NN link|NN otitis_media|DS effusion|NN allergy|DS role|NN steroid|NN 
+pediatr|NN allergy|DS immunol|NN 
+aj|NN sl|NN 
+allergy|DS sleep|NN breathe|NN 
+curr|NN opin|NN head|NN neck|NN surg|NN 
+el|NN tj|NN 
+outcome|NN sleep|NN bance|NN rhinitis|DS 
+curr|NN opin|NN allergy|DS clin|NN nol|NN 
+m|NN rhinitis|DS sleep|NN 
+sleep|NN rev|NN 
+santos|NN cb|NN pratt|NN el|NN hank|NN al|NN 
+allergic_rhinitis|DS effect|NN sleep|NN fatigue|ST somnolence|ST 
+ann|NN allergy|DS immunol|NN 
+f|NN glass|NN c|NN davy|NN al|NN 
+effect|NN of|NN intranasal|NN budesonide|NN congestion|NN sleep|NN disturbance|NN somnolence|ST in|NN patient|NN allergic|NN nitis|NN 
+allergy|DS asthma|DS proc|NN 
+craig|NN t|NN c|NN hughes|NN al|NN 
+effect|NN of|NN nasal|NN fluticasone|NN sleep|NN test|NN symptom|NN of|NN nitis|NN sleep|NN somnolence|ST in|NN allergic|NN ti|NN 
+allergy|DS asthma|DS proc|NN 
+1|NN 
+s|NN teets|NN eb|NN al|NN 
+effect|NN of|NN nasal|NN azelastine|NN symptom|NN of|NN rhinitis|DS sleep|NN somnolence|ST in|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+1|NN 
+mason|NN m|NN welsh|NN ej|NN drug|NN therapy|NN sleep|NN apnoea|NN in|NN adult|NN 
+cochrane|NN database|NN syst|NN rev|NN 
+cd003002|NN 
+bascom|NN r|NN m|NN naclerio|NN rm|NN al|NN 
+basophil|NN influx|NN nasal|NN antigen|NN challenge|NN effect|NN of|NN pretreatment|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+u|NN d|NN lm|NN al|NN 
+inhibition|NN of|NN ator|NN release|NN in|NN allergic_rhinitis|DS pretreatment|NN cocorticosteroids|NN 
+engl|NN j|NN 
+em|NN leaker|NN br|NN zacharasiewicz|NN al|NN 
+corticosteroid|NN il13|NN in|NN nasal|NN lavage|NN grass|NN pollen|NN challenge|NN 
+allergy|DS 
+christodoulopoulos|NN p|NN cameron|NN l|NN durham|NN s|NN al|NN 
+pathology|NN of|NN allergic|NN disease|NN ii|NN airway|NN disease|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+meltzer|NN eo|NN jalowayski|NN aa|NN al|NN 
+assessment|NN in|NN patient|NN allergic|NN ti|NN effect|NN of|NN therapy|NN mometasone|NN furoate|NN nasal|NN spray|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+u|NN d|NN lm|NN al|NN 
+effect|NN of|NN systemic|NN glucocorticoid|NN treatment|NN human|NN nasal|NN mediator|NN release|NN antigen|NN challenge|NN 
+j|NN clin|NN invest|NN 
+baroody|NN fm|NN cruz|NN aa|NN lm|NN al|NN 
+intranasal|NN beclomethasone|NN nasal|NN siveness|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+meyer|NN p|NN andersson|NN m|NN persson|NN cg|NN al|NN 
+index|NN of|NN inflammation|NN in|NN child|NN gic|NN rhinitis|DS 
+pediatr|NN allergy|DS immunol|NN 
+administration|NN of|NN steroid|NN allergic_rhinitis|DS review|NN of|NN efficacy|NN safety|NN preference|NN cost|NN 
+rhinol|NN 
+rodrigo|NN gj|NN efficacy|NN of|NN fluticasone|NN furoate|NN nasal|NN spray|NN placebo|NN treatment|NN of|NN nasal|NN tom|NN of|NN allergic_rhinitis|DS review|NN 
+clin|NN exp|NN allergy|DS 
+m|NN compalati|NN e|NN tarantini|NN f|NN al|NN 
+efficacy|NN of|NN mometasone|NN furoate|NN nasal|NN spray|NN in|NN treatment|NN of|NN allergic_rhinitis|DS of|NN trial|NN 
+allergy|DS 
+dibildox|NN safety|NN efficacy|NN of|NN mometasone|NN furoate|NN nasal|NN spray|NN in|NN child|NN allergic_rhinitis|DS result|NN of|NN trial|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+g|NN control|NN model|NN macotherapy|NN allergic_rhinitis|DS in|NN child|NN 
+jama|NN pediatr|NN 
+s36|NN neck|NN surgery|NN craig|NN tj|NN teets|NN eb|NN al|NN 
+nasal|NN congestion|NN allergic_rhinitis|DS cause|NN of|NN sleep|NN disturbance|NN time|NN fatigue|ST response|NN nasal|NN corticosteroid|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+yamada|NN t|NN yamamoto|NN h|NN s|NN al|NN 
+efficacy|NN of|NN sone|NN furoate|NN nasal|NN spray|NN nasal|NN symptom|NN quality|NN of|NN life|NN sleep|NN nasal|NN oxide|NN in|NN patient|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+e16|NN 
+hughes|NN k|NN glass|NN c|NN m|NN al|NN 
+efficacy|NN of|NN nasal|NN budesonide|NN sleep|NN somnolence|ST in|NN patient|NN allergic_rhinitis|DS 
+allergy|DS 
+meltzer|NN eo|NN munafo|NN da|NN chung|NN w|NN al|NN 
+sone|NN furoate|NN therapy|NN allergic_rhinitis|DS symptom|NN sleep|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+day|NN jh|NN briscoe|NN mp|NN rafeiro|NN e|NN al|NN 
+onset|NN of|NN action|NN of|NN nasal|NN budesonide|NN aqua|NN in|NN allergic_rhinitis|DS in|NN exposure|NN model|NN 
+j|NN allergy|DS clin|NN nol|NN 
+fokkens|NN wj|NN cserhati|NN e|NN santos|NN jm|NN al|NN 
+nasal|NN spray|NN treatment|NN in|NN child|NN allergic_rhinitis|DS onset|NN of|NN action|NN hour|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+selner|NN jc|NN weber|NN rw|NN richmond|NN gw|NN al|NN 
+onset|NN of|NN action|NN of|NN beclomethasone|NN dipropionate|NN nasal|NN spray|NN in|NN allergic_rhinitis|DS 
+clin|NN ther|NN 
+kaiser|NN hb|NN naclerio|NN rm|NN j|NN al|NN 
+fluticasone|NN furoate|NN nasal|NN spray|NN treatment|NN option|NN symptom|NN of|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+day|NN j|NN comparison|NN of|NN efficacy|NN of|NN budesonide|NN fluticasone|NN nasal|NN spray|NN treatment|NN of|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+juniper|NN ef|NN guyatt|NN gh|NN byrne|NN pm|NN al|NN 
+methasone|NN diproprionate|NN nasal|NN spray|NN versus|NN use|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+juniper|NN ef|NN guyatt|NN gh|NN b|NN al|NN 
+sone|NN dipropionate|NN in|NN treatment|NN of|NN rhinitis|DS exploration|NN of|NN use|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+jen|NN baroody|NN f|NN m|NN al|NN 
+use|NN of|NN casone|NN propionate|NN nasal|NN spray|NN symptom|NN of|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+dykewicz|NN m|NN kaiser|NN hb|NN ra|NN al|NN 
+pionate|NN nasal|NN spray|NN nasal|NN symptom|NN of|NN allergic_rhinitis|DS prn|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+dewester|NN j|NN philpot|NN ee|NN westlund|NN re|NN al|NN 
+efficacy|NN of|NN intranasal|NN fluticasone|NN propionate|NN in|NN relief|NN of|NN tom|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+bielory|NN l|NN chun|NN y|NN bielory|NN bp|NN al|NN 
+impact|NN of|NN mometasone|NN furoate|NN nasal|NN spray|NN symptom|NN of|NN allergic_rhinitis|DS 
+allergy|DS 
+baroody|NN fm|NN shenaq|NN d|NN m|NN al|NN 
+fluticasone|NN furoate|NN nasal|NN spray|NN reflex|NN mechanism|NN efficacy|NN of|NN steroid|NN in|NN allergic|NN eye|NN tom|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+taramarcaz|NN p|NN gibson|NN pg|NN 
+intranasal|NN corticosteroid|NN asthma|DS control|NN in|NN people|NN asthma|DS rhinitis|DS 
+cochrane|NN database|NN syst|NN rev|NN 
+cd003570|NN 
+weiner|NN jm|NN abramson|NN mj|NN puy|NN rm|NN 
+roids|NN h1|NN receptor|NN antagonist|NN in|NN allergic|NN ti|NN review|NN of|NN trial|NN 
+bmj|NN 
+rodrigo|NN gj|NN 
+corticosteroid|NN h1|NN receptor|NN antagonist|NN treatment|NN of|NN allergic_rhinitis|DS review|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+benninger|NN m|NN farrar|NN jr|NN m|NN al|NN 
+medication|NN allergic_rhinitis|DS in|NN state|NN evidence|NN review|NN of|NN efficacy|NN nasal|NN symptom|NN class|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+1|NN 
+wilson|NN byrne|NN pm|NN parameswaran|NN receptor|NN antagonist|NN allergic_rhinitis|DS review|NN 
+j|NN med|NN 
+patel|NN d|NN garadi|NN r|NN brubaker|NN m|NN al|NN 
+onset|NN duration|NN of|NN action|NN of|NN nasal|NN spray|NN in|NN allergic_rhinitis|DS patient|NN hydrochloride|NN mometasone|NN hydrate|NN 
+allergy|DS asthma|DS proc|NN 
+patel|NN p|NN d|NN andrea|NN c|NN sack|NN 
+onset|NN of|NN action|NN of|NN azelastine|NN nasal|NN spray|NN mometasone|NN nasal|NN spray|NN placebo|NN in|NN jects|NN allergic_rhinitis|DS in|NN exposure|NN chamber|NN 
+rhinol|NN 
+meltzer|NN eo|NN 
+formulation|NN consideration|NN of|NN costeroids|NN treatment|NN of|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+van|NN bavel|NN jh|NN ratner|NN ph|NN amar|NN nj|NN al|NN 
+safety|NN of|NN treatment|NN beclomethasone|NN nate|NN nasal|NN aerosol|NN in|NN subject|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+meltzer|NN eo|NN jacob|NN rl|NN laforce|NN cf|NN al|NN 
+safety|NN efficacy|NN of|NN treatment|NN beclomethasone|NN dipropionate|NN nasal|NN aerosol|NN in|NN subject|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+ratner|NN ph|NN c|NN martin|NN b|NN al|NN 
+study|NN of|NN efficacy|NN safety|NN of|NN hydrofluoroalkane|NN nasal|NN aerosol|NN in|NN patient|NN allergic_rhinitis|DS mountain|NN cedar|NN pollen|NN 
+allergy|DS asthma|DS proc|NN 
+1|NN 
+laforce|NN c|NN j|NN meltzer|NN eo|NN al|NN 
+efficacy|NN safety|NN of|NN hydrofluoroalkane|NN nasal|NN treatment|NN of|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+2|NN 
+maspero|NN jf|NN finn|NN al|NN 
+safety|NN efficacy|NN of|NN fluticasone|NN furoate|NN in|NN patient|NN allergic_rhinitis|DS 
+head|NN neck|NN surg|NN 
+meltzer|NN eo|NN tripathy|NN i|NN maspero|NN jf|NN al|NN 
+safety|NN ity|NN of|NN fluticasone|NN furoate|NN nasal|NN spray|NN in|NN patient|NN year|NN allergic_rhinitis|DS subanalysis|NN of|NN randomize|NN tre|NN study|NN 
+drug|NN investig|NN 
+seidman|NN s37|NN rosenblut|NN bardin|NN pg|NN muller|NN b|NN al|NN 
+safety|NN of|NN fluticasone|NN furoate|NN nasal|NN spray|NN in|NN adult|NN adolescent|NN allergic_rhinitis|DS 
+allergy|DS 
+ratner|NN ph|NN meltzer|NN eo|NN mometasone|NN furoate|NN nasal|NN spray|NN treatment|NN of|NN child|NN allergic_rhinitis|DS 
+int|NN j|NN pediatr|NN otorhinolaryngol|NN 
+b|NN kai|NN g|NN marple|NN b|NN al|NN 
+pathophysiology|NN gression|NN of|NN nasal|NN perforation|NN 
+ann|NN allergy|DS immunol|NN 
+holm|NN af|NN wj|NN godthelp|NN t|NN al|NN 
+study|NN of|NN intranasal|NN fluticasone|NN nasal|NN spray|NN in|NN patient|NN allergic_rhinitis|DS safety|NN biopsy|NN study|NN 
+clin|NN otolaryngol|NN 
+klosek|NN jm|NN f|NN mf|NN al|NN 
+safety|NN of|NN triamcinolone|NN acetonide|NN aspect|NN of|NN nasal|NN mucosa|NN in|NN term|NN treatment|NN of|NN allergic_rhinitis|DS 
+rhinology|NN 
+baroody|NN fm|NN cheng|NN cc|NN moylan|NN b|NN al|NN 
+absence|NN of|NN nasal|NN mucosal|NN atrophy|NN fluticasone|NN nasal|NN spray|NN 
+arch|NN neck|NN surg|NN 
+term|NN efficacy|NN safety|NN of|NN methasone|NN dipropionate|NN aerosol|NN in|NN rhinitis|DS 
+ann|NN allergy|DS 
+u|NN pukander|NN j|NN j|NN al|NN 
+safety|NN of|NN budesonide|NN nasal|NN aerosol|NN follow|NN study|NN 
+clin|NN allergy|DS 
+minshall|NN e|NN ghaffar|NN o|NN cameron|NN l|NN al|NN 
+assessment|NN nasal|NN biopsy|NN of|NN use|NN of|NN mometosone|NN furoate|NN nasal|NN spray|NN in|NN treatment|NN of|NN rhinitis|DS 
+head|NN neck|NN surg|NN 
+f|NN mf|NN s|NN al|NN 
+logic|NN method|NN safety|NN of|NN nasal|NN steroid|NN 
+allergy|DS 
+fokkens|NN wj|NN rinia|NN b|NN van|NN drunen|NN cm|NN al|NN 
+phy|NN inflammatory|NN cell|NN trial|NN fluticasone|NN furoate|NN nasal|NN spray|NN 
+rhinol|NN allergy|DS 
+van|NN bronsky|NN ea|NN rj|NN al|NN 
+casone|NN propionate|NN allergic_rhinitis|DS beclomethasone|NN diproprionate|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+ja|NN andersson|NN ke|NN johansson|NN sa|NN 
+systemic|NN effect|NN of|NN glucocorticosteroids|NN 
+allergy|DS 
+brannan|NN md|NN herron|NN jm|NN reidenberg|NN p|NN al|NN 
+lack|NN of|NN suppression|NN beclomethasone|NN dipropionate|NN nasal|NN spray|NN patient|NN allergic_rhinitis|DS 
+clin|NN ther|NN 
+vargas|NN r|NN rj|NN findlay|NN sr|NN al|NN 
+effect|NN of|NN fluticasone|NN propionate|NN nasal|NN spray|NN prednisone|NN axis|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+prednisone|NN placebo|NN function|NN in|NN patient|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+nayak|NN mh|NN gn|NN al|NN 
+effect|NN of|NN cinolone|NN nasal|NN spray|NN tion|NN in|NN child|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+sp|NN ir|NN al|NN 
+lack|NN of|NN effect|NN of|NN casone|NN propionate|NN nasal|NN spray|NN axis|NN in|NN patient|NN 
+pediatrics|NN 
+kim|NN k|NN m|NN r|NN al|NN 
+safety|NN of|NN ciclesonide|NN nasal|NN spray|NN in|NN child|NN 2|NN year|NN of|NN age|NN allergic_rhinitis|DS 
+pediatr|NN asthma|DS allergy|DS immunol|NN 
+p|NN s|NN miller|NN dl|NN al|NN 
+safety|NN efficacy|NN of|NN ciclesonide|NN in|NN adult|NN patient|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+patel|NN d|NN ratner|NN p|NN clements|NN al|NN 
+lack|NN of|NN effect|NN adult|NN axis|NN function|NN use|NN of|NN fluticasone|NN furoate|NN nasal|NN spray|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+weinstein|NN s|NN p|NN george|NN al|NN 
+efficacy|NN safety|NN of|NN triamcinolone|NN nasal|NN spray|NN in|NN child|NN 2|NN year|NN allergic_rhinitis|DS study|NN extension|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+i|NN ratner|NN p|NN al|NN 
+hpa|NN safety|NN of|NN sone|NN furoate|NN nasal|NN spray|NN in|NN child|NN allergic_rhinitis|DS 
+pediatr|NN allergy|DS immunol|NN 
+fowler|NN pd|NN gazis|NN ag|NN page|NN sr|NN al|NN 
+blind|NN study|NN effect|NN of|NN nasal|NN fluticasone|NN methasone|NN axis|NN bone|NN turnover|NN in|NN patient|NN nasal|NN polyposis|NN 
+clin|NN sci|NN 
+gazis|NN ag|NN homer|NN jj|NN henson|NN db|NN al|NN 
+effect|NN of|NN week|NN nasal|NN betamethasone|NN drop|NN axis|NN bone|NN turnover|NN in|NN patient|NN nasal|NN polyposis|NN 
+clin|NN sci|NN 
+package|NN 
+chicago|NN il|NN tory|NN http|NN 
+july|NN 
+package|NN 
+chicago|NN il|NN tory|NN http|NN 
+july|NN 
+prezista|NN package|NN 
+raritan|NN nj|NN tibotec|NN therapeutic|NN http|NN 
+july|NN 
+fraunfelder|NN ft|NN meyer|NN sm|NN 
+cataract|DS nasal|NN inhalation|NN corticosteroid|NN 
+thalmol|NN 
+howland|NN wc|NN iii|NN r|NN s|NN al|NN 
+son|NN of|NN effect|NN of|NN triamcinolone|NN nasal|NN spray|NN ozturk|NN f|NN yuceturk|NN av|NN kurt|NN e|NN al|NN 
+evaluation|NN of|NN pressure|NN cataract|DS formation|NN use|NN s38|NN neck|NN surgery|NN of|NN nasal|NN corticosteroid|NN 
+ear|NN throat|NN j|NN 
+p|NN baltzan|NN m|NN deschenes|NN j|NN al|NN 
+nasal|NN corticosteroid|NN use|NN risk|NN of|NN cataract|DS 
+eur|NN respir|NN j|NN 
+garbe|NN e|NN j|NN boivin|NN jf|NN al|NN 
+nasal|NN corticoid|NN risk|NN of|NN hypertension|DS glaucoma|DS 
+jama|NN 
+wolthers|NN assessment|NN of|NN activity|NN of|NN budesonide|NN in|NN child|NN 
+allergy|DS 
+2|NN 
+wolthers|NN growth|NN in|NN child|NN allergic_rhinitis|DS antihistamine|NN depot|NN nasal|NN glucocorticosteroids|NN 
+acta|NN paediatr|NN 
+j|NN caldwell|NN mf|NN wolthers|NN 
+crossover|NN study|NN effect|NN of|NN fluticasone|NN furoate|NN nasal|NN spray|NN growth|NN in|NN child|NN allergic_rhinitis|DS 
+clin|NN ther|NN 
+skoner|NN dp|NN d|NN angelini|NN b|NN al|NN 
+effect|NN of|NN sal|NN triamcinolone|NN acetonide|NN nate|NN bone|NN growth|NN hpa|NN axis|NN in|NN child|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+db|NN meltzer|NN eo|NN rf|NN jr|NN al|NN 
+growth|NN pression|NN in|NN child|NN maximum|NN dose|NN of|NN fluticasone|NN propionate|NN nasal|NN spray|NN year|NN 
+allergy|DS asthma|DS proc|NN 
+schenkel|NN ej|NN skoner|NN dp|NN ea|NN al|NN 
+absence|NN of|NN growth|NN retardation|NN in|NN child|NN allergic_rhinitis|DS year|NN of|NN treatment|NN mometasone|NN nasal|NN spray|NN 
+pediatrics|NN 
+e22|NN 
+skoner|NN dp|NN da|NN wj|NN 
+effect|NN growth|NN of|NN term|NN treatment|NN triamcinolone|NN in|NN child|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+karaki|NN m|NN akiyama|NN k|NN efficacy|NN of|NN intranasal|NN steroid|NN spray|NN furoate|NN treatment|NN of|NN patient|NN allergic_rhinitis|DS comparison|NN corticosteroid|NN 
+nasus|NN larynx|NN 
+bascom|NN r|NN u|NN d|NN al|NN 
+major|NN protein|NN neurotoxin|NN concentration|NN in|NN fluid|NN antigen|NN challenge|NN effect|NN of|NN systemic|NN corticosteroid|NN relationship|NN influx|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+chen|NN st|NN kh|NN sun|NN hl|NN al|NN 
+trial|NN montelukast|NN cetizine|NN allergic_rhinitis|DS child|NN pediatr|NN allergy|DS immunol|NN 
+1|NN 
+wilson|NN k|NN ej|NN al|NN 
+effect|NN of|NN dine|NN desloratadine|NN measure|NN of|NN nasal|NN congestion|NN in|NN allergic_rhinitis|DS 
+clin|NN exp|NN allergy|DS 
+ciprandi|NN g|NN cirillo|NN ig|NN al|NN 
+levocetirizine|NN nasal|NN symptom|NN in|NN patient|NN allergic_rhinitis|DS 
+eur|NN ann|NN allergy|DS clin|NN immunol|NN 
+1|NN 
+j|NN h|NN cauwenberge|NN p|NN al|NN 
+ogy|NN of|NN nasal|NN obstruction|NN of|NN early|NN late|NN effect|NN of|NN levocetirizine|NN 
+clin|NN exp|NN allergy|DS 
+simon|NN simon|NN 
+histamine|NN century|NN of|NN progress|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+vermeeren|NN ramaekers|NN hanlon|NN jf|NN 
+effect|NN of|NN tine|NN cetirizine|NN alcohol|NN drive|NN of|NN male|NN female|NN 
+j|NN psychopharmacol|NN 
+1|NN 
+kh|NN d|NN ck|NN al|NN 
+system|NN effect|NN of|NN antihistamine|NN in|NN school|NN child|NN allergic_rhinitis|DS comparative|NN study|NN 
+rics|NN 
+2|NN 
+day|NN jh|NN briscoe|NN m|NN md|NN 
+cetirizine|NN loratadine|NN placebo|NN in|NN subject|NN allergic_rhinitis|DS effect|NN ragweed|NN pollen|NN challenge|NN in|NN unit|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+day|NN jh|NN briscoe|NN mp|NN rafeiro|NN e|NN al|NN 
+efficacy|NN onset|NN duration|NN of|NN action|NN of|NN levocetirizine|NN desloratadine|NN symptom|NN of|NN allergic_rhinitis|DS in|NN jects|NN in|NN exposure|NN unit|NN 
+int|NN j|NN clin|NN pract|NN 
+2|NN 
+day|NN jh|NN briscoe|NN mp|NN rafeiro|NN e|NN al|NN 
+efficacy|NN of|NN cetirizine|NN fexofenadine|NN allergic_rhinitis|DS hour|NN in|NN exposure|NN unit|NN 
+allergy|DS asthma|DS proc|NN 
+mosges|NN r|NN v|NN köberlein|NN effectiveness|NN of|NN antihistamine|NN treatment|NN of|NN allergic|NN analysis|NN of|NN patient|NN 
+int|NN 
+tzanetos|NN fahrenhol|NN jm|NN scott|NN t|NN al|NN 
+comparison|NN of|NN effect|NN of|NN levocetirizine|NN cetirizine|NN trial|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+tb|NN m|NN gelfand|NN e|NN al|NN 
+harm|NN impairment|NN in|NN patient|NN allergic|NN ti|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+day|NN jh|NN briscoe|NN mp|NN onset|NN of|NN action|NN efficacy|NN safety|NN of|NN dose|NN of|NN hydrochloride|NN ragweed|NN allergy|DS exposure|NN unit|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+kaiser|NN hb|NN goplan|NN g|NN chung|NN loratadine|NN early|NN symptom|NN control|NN in|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+prenner|NN bm|NN capano|NN d|NN ag|NN 
+efficacy|NN tolerability|NN of|NN versus|NN fexofenadine|NN in|NN treatment|NN of|NN allergic_rhinitis|DS comparison|NN treatment|NN of|NN nonresponders|NN 
+clin|NN ther|NN 
+carlsen|NN kh|NN j|NN fagertun|NN al|NN 
+loratadine|NN terfenadine|NN in|NN allergic_rhinitis|DS treatment|NN of|NN responder|NN drug|NN drug|NN 
+allergy|DS 
+ciprandi|NN g|NN passalacqua|NN g|NN m|NN al|NN 
+versus|NN demand|NN treatment|NN cetirizine|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+g|NN s|NN buffels|NN al|NN 
+pharmacotherapy|NN of|NN allergic_rhinitis|DS evidence|NN practice|NN 
+respir|NN 
+dizdar|NN ea|NN sederel|NN o|NN al|NN 
+effect|NN of|NN versus|NN desloratadine|NN treatment|NN in|NN child|NN al|NN s39|NN allergic_rhinitis|DS 
+int|NN j|NN pediatr|NN otorhinolaryngol|NN 
+allergic_rhinitis|DS multicenter|NN trial|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+condemi|NN j|NN schulz|NN r|NN triamcinolone|NN nasal|NN spray|NN versus|NN loratadine|NN in|NN allergic_rhinitis|DS efficacy|NN quality|NN of|NN life|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+yamamoto|NN h|NN yonekura|NN s|NN sakurai|NN d|NN al|NN 
+comparison|NN of|NN nasal|NN steroid|NN antihistamine|NN in|NN treatment|NN pollinosis|NN challenge|NN chamber|NN 
+allergy|DS asthma|DS proc|NN 
+bender|NN bg|NN comparison|NN of|NN effect|NN of|NN sone|NN propionate|NN nasal|NN spray|NN loratadine|NN alertness|NN performance|NN in|NN child|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+rinne|NN j|NN simola|NN m|NN malmberg|NN h|NN al|NN 
+early|NN treatment|NN of|NN rhinitis|DS budesonide|NN cetirizine|NN effect|NN term|NN outcome|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+bhatia|NN s|NN baroody|NN fm|NN m|NN al|NN 
+nasal|NN budesonide|NN allergy|DS season|NN 
+arch|NN neck|NN surg|NN 
+juniper|NN ef|NN guyatt|NN fh|NN pj|NN al|NN 
+treatment|NN of|NN ragweed|NN rhinoconjunctivitis|NN ment|NN trial|NN nasal|NN steroid|NN spray|NN antihistamine|NN 
+cmaj|NN 
+effect|NN of|NN terfenadine|NN budesonide|NN nasal|NN symptom|NN olfaction|NN nasal|NN patency|NN gen|NN challenge|NN 
+allergy|DS 
+sr|NN ratner|NN p|NN al|NN 
+effect|NN of|NN hydrochloride|NN nasal|NN in|NN treatment|NN of|NN allergic_rhinitis|DS phase|NN iii|NN multicenter|NN blind|NN study|NN in|NN adolescent|NN adult|NN 
+clin|NN ther|NN 
+nickel|NN dimov|NN v|NN wolf|NN evaluation|NN of|NN oloptadine|NN treatment|NN of|NN allergic_rhinitis|DS vitis|NN 
+drug|NN metab|NN toxicol|NN 
+horak|NN f|NN zieglmayer|NN zieglmayer|NN r|NN al|NN 
+azelastine|NN nasal|NN spray|NN tablet|NN in|NN allergic_rhinitis|DS study|NN of|NN onset|NN of|NN action|NN efficacy|NN 
+curr|NN re|NN 
+kaliner|NN ma|NN berger|NN ph|NN al|NN 
+efficacy|NN of|NN antihistamine|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+laforce|NN cf|NN corren|NN j|NN wheeler|NN wj|NN al|NN 
+efficacy|NN of|NN tine|NN nasal|NN spray|NN in|NN allergic_rhinitis|DS patient|NN treatment|NN fexofenadine|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+berger|NN white|NN mv|NN rhinitis|DS study|NN group|NN 
+efficacy|NN of|NN azelastine|NN nasal|NN spray|NN in|NN patient|NN tory|NN response|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+ratner|NN ph|NN findlay|NN sr|NN f|NN jr|NN al|NN 
+trial|NN safety|NN efficacy|NN of|NN azelastine|NN nasal|NN spray|NN in|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN nol|NN 
+patel|NN p|NN roland|NN p|NN bf|NN al|NN 
+assessment|NN of|NN onset|NN duration|NN of|NN action|NN of|NN olopatadine|NN nasal|NN spray|NN 
+yngol|NN head|NN neck|NN surg|NN 
+ratner|NN p|NN hampel|NN f|NN bavel|NN j|NN al|NN 
+combination|NN therapy|NN hydrochloride|NN nasal|NN spray|NN fluticasone|NN propionate|NN nasal|NN spray|NN in|NN treatment|NN of|NN patient|NN allergic|NN nitis|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+kaliner|NN ma|NN 
+azelastine|NN olopatadine|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+carr|NN ww|NN ratner|NN p|NN munzel|NN u|NN al|NN 
+comparison|NN of|NN azelastine|NN propionate|NN symptom|NN control|NN in|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+ma|NN wade|NN ag|NN ridout|NN sm|NN al|NN 
+nasal|NN offer|NN symptom|NN relief|NN in|NN allergic_rhinitis|DS in|NN comparison|NN nasal|NN azelastine|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+s|NN berger|NN w|NN w|NN al|NN 
+efficacy|NN safety|NN of|NN nasal|NN spray|NN nasal|NN spray|NN in|NN patient|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+hampel|NN fc|NN ratner|NN ph|NN bavel|NN j|NN al|NN 
+study|NN of|NN azelastine|NN fluticasone|NN in|NN gle|NN nasal|NN spray|NN delivery|NN device|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+ratner|NN ph|NN hampel|NN fc|NN amar|NN nj|NN al|NN 
+safety|NN efficacy|NN of|NN hydrochloride|NN nasal|NN spray|NN treatment|NN of|NN allergic_rhinitis|DS cedar|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+gonyeau|NN mj|NN partisano|NN 
+review|NN of|NN kast|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+formulary|NN 
+grainger|NN j|NN montelukast|NN in|NN allergic_rhinitis|DS review|NN 
+clin|NN otolaryngol|NN 
+rodrigo|NN gj|NN role|NN of|NN therapy|NN in|NN allergic_rhinitis|DS review|NN of|NN trial|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+nayak|NN rb|NN 
+montelukast|NN in|NN treatment|NN of|NN allergic_rhinitis|DS review|NN 
+drug|NN 
+mucha|NN sm|NN m|NN naclerio|NN rm|NN al|NN 
+comparison|NN of|NN montelukast|NN pseudoephedrine|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+arch|NN neck|NN surg|NN 
+ce|NN berger|NN lm|NN al|NN 
+effect|NN of|NN desloratadine|NN versus|NN montelukast|NN asthma|DS symptom|NN use|NN of|NN beta|NN in|NN patient|NN allergic_rhinitis|DS asthma|DS 
+int|NN arch|NN allergy|DS immunol|NN 
+perry|NN tt|NN corren|NN j|NN philip|NN g|NN al|NN 
+effect|NN of|NN lukast|NN respiratory|NN tract|NN term|NN cat|NN allergen|NN exposure|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+laforce|NN c|NN rj|NN prenner|NN bm|NN al|NN 
+safety|NN efficacy|NN of|NN azelastine|NN nasal|NN spray|NN n|NN papadopoulos|NN ng|NN philip|NN g|NN giezek|NN h|NN al|NN 
+efficacy|NN of|NN montelukast|NN allergy|DS season|NN in|NN patient|NN neck|NN surgery|NN asthma|DS aeroallergen|NN sensitivity|NN 
+j|NN asthma|DS 
+philip|NN g|NN 
+effect|NN of|NN montelukast|NN rhinitis|DS symptom|NN in|NN patient|NN asthma|DS allergic_rhinitis|DS 
+curr|NN re|NN 
+bisgaard|NN h|NN skoner|NN d|NN boza|NN ml|NN al|NN 
+safety|NN tolerability|NN of|NN montelukast|NN in|NN study|NN extension|NN 
+pediatr|NN pulmonol|NN 
+philip|NN g|NN hustad|NN cm|NN malice|NN mp|NN al|NN 
+analysis|NN of|NN experience|NN in|NN trial|NN of|NN montelukast|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+merck|NN product|NN information|NN 
+food|NN drug|NN administration|NN 
+march|NN communication|NN safety|NN review|NN of|NN montelukast|NN singulair|NN 
+http|NN 
+july|NN 
+j|NN jhaveri|NN m|NN m|NN al|NN 
+cost|NN tion|NN comparison|NN of|NN antihistamine|NN telukast|NN allergic_rhinitis|DS treatment|NN 
+allergy|DS asthma|DS proc|NN 
+benefit|NN of|NN combination|NN treatment|NN mometasone|NN furoate|NN nasal|NN spray|NN loratadine|NN v|NN monotherapy|NN mometasone|NN furoate|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+benincasa|NN c|NN r|NN 
+evaluation|NN of|NN fluticasone|NN propionate|NN nasal|NN spray|NN in|NN combination|NN rizine|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+drug|NN investig|NN 
+m|NN z|NN aljufairi|NN h|NN al|NN 
+antihistamine|NN in|NN addition|NN nasal|NN steroid|NN intermittent|NN allergic_rhinitis|DS in|NN child|NN 
+cochrane|NN database|NN syst|NN rev|NN 
+cd006989|NN 
+schenkel|NN e|NN corren|NN j|NN murray|NN jj|NN 
+efficacy|NN of|NN relief|NN of|NN nasal|NN congestion|NN 
+allergy|DS asthma|DS proc|NN 
+grosclaude|NN m|NN mees|NN al|NN 
+cetirizine|NN doephedrine|NN retard|NN in|NN combination|NN in|NN patient|NN allergic_rhinitis|DS 
+rhinology|NN 
+2|NN 
+e|NN p|NN findlay|NN s|NN al|NN 
+efficacy|NN safety|NN of|NN nation|NN component|NN in|NN agement|NN of|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+2|NN 
+berkowitz|NN rb|NN mccafferty|NN f|NN c|NN al|NN 
+onset|NN of|NN action|NN of|NN hydrochloride|NN chloride|NN mg|NN in|NN subject|NN year|NN allergic_rhinitis|DS analysis|NN of|NN gen|NN exposure|NN unit|NN study|NN 
+clin|NN ther|NN 
+pleskow|NN w|NN grubbe|NN r|NN s|NN al|NN 
+efficacy|NN safety|NN of|NN formulation|NN of|NN desloratadine|NN pseudoephedrine|NN component|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+gl|NN mason|NN j|NN compton|NN d|NN al|NN 
+efficacy|NN safety|NN of|NN hcl|NN pseudoephedrine|NN in|NN combination|NN in|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN nol|NN 
+1|NN 
+p|NN rooklin|NN al|NN 
+efficacy|NN safety|NN of|NN tablet|NN mg|NN time|NN day|NN component|NN in|NN treatment|NN of|NN patient|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+williams|NN hull|NN h|NN mcsorley|NN p|NN al|NN 
+efficacy|NN of|NN pseudoephedrine|NN relief|NN of|NN gic|NN rhinitis|DS cedar|NN 
+ann|NN allergy|DS asthma|DS nol|NN 
+rj|NN bo|NN sander|NN 
+efficacy|NN of|NN astine|NN pseudoephedrine|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+2|NN 
+kaiser|NN hb|NN banov|NN ch|NN berkowitz|NN rr|NN al|NN 
+cacy|NN safety|NN of|NN pseudoephedrine|NN combination|NN placebo|NN in|NN allergic_rhinitis|DS 
+j|NN ther|NN 
+salerno|NN sm|NN jackson|NN jl|NN berbano|NN ep|NN 
+effect|NN of|NN ephedrine|NN blood|NN pressure|NN heart|NN rate|NN 
+arch|NN intern|NN 
+s|NN malice|NN mp|NN das|NN sb|NN al|NN 
+study|NN of|NN tion|NN montelukast|NN loratadine|NN in|NN patient|NN gic|NN rhinitis|DS 
+j|NN asthma|DS 
+ciebiada|NN m|NN m|NN ciebiada|NN nasal|NN philia|NN serum|NN adhesion|NN molecule|NN 1|NN in|NN patient|NN allergic_rhinitis|DS montelukast|NN in|NN combination|NN desloratadine|NN levocetirizine|NN 
+rhinol|NN allergy|DS 
+2|NN 
+watanasomsiri|NN poachanukoon|NN o|NN vichyanond|NN efficacy|NN of|NN montelukast|NN loratadine|NN treatment|NN allergic_rhinitis|DS in|NN child|NN 
+pac|NN j|NN allergy|DS immunol|NN 
+nayak|NN philip|NN g|NN s|NN al|NN 
+montelukast|NN fall|NN rhinitis|DS investigator|NN efficacy|NN tolerability|NN of|NN montelukast|NN in|NN combination|NN loratadine|NN in|NN allergic_rhinitis|DS multicenter|NN trial|NN in|NN fall|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+wilson|NN lc|NN ej|NN al|NN 
+effect|NN of|NN monotherapy|NN corticosteroid|NN histamine|NN receptor|NN antagonist|NN in|NN allergic_rhinitis|DS 
+clin|NN exp|NN allergy|DS 
+g|NN p|NN gr|NN al|NN 
+levocetirizine|NN montelukast|NN in|NN treatment|NN of|NN allergic_rhinitis|DS influence|NN symptom|NN 
+nal|NN of|NN allergy|DS immunology|NN 
+meltzer|NN eo|NN malmstrom|NN k|NN s|NN al|NN 
+kast|NN loratadine|NN treatment|NN allergic_rhinitis|DS trial|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+seidman|NN s41|NN cingi|NN c|NN k|NN l|NN al|NN 
+efficacy|NN of|NN riene|NN antagonist|NN therapy|NN in|NN allergic_rhinitis|DS 
+laryngoscope|NN 
+matreja|NN p|NN gupta|NN v|NN j|NN al|NN 
+efficacy|NN of|NN fluticasone|NN oxymetazoline|NN treatment|NN allergic_rhinitis|DS 
+j|NN clin|NN diagn|NN re|NN 
+m|NN kuna|NN p|NN montelukast|NN cetirizine|NN in|NN treatment|NN of|NN allergic_rhinitis|DS ence|NN symptom|NN nasal|NN allergic|NN inflammation|NN 
+allergy|DS 
+yamamoto|NN h|NN yamada|NN t|NN m|NN al|NN 
+efficacy|NN of|NN treatment|NN montelukast|NN loratadine|NN allergic_rhinitis|DS 
+allergy|DS asthma|DS proc|NN 
+2|NN 
+lorenzo|NN g|NN pacor|NN ml|NN al|NN 
+trial|NN nasal|NN spray|NN in|NN fluticasone|NN cetirizine|NN fluticasone|NN montelukast|NN cetirizine|NN montelukast|NN allergic_rhinitis|DS 
+clin|NN exp|NN allergy|DS 
+2|NN 
+pullerits|NN praks|NN v|NN al|NN 
+comparison|NN of|NN nasal|NN glucocorticoid|NN antileukotriene|NN combination|NN of|NN kotriene|NN antihistamine|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+s|NN m|NN naclerio|NN rm|NN al|NN 
+fluticasone|NN nasal|NN spray|NN combination|NN of|NN loratadine|NN montelukast|NN in|NN allergic_rhinitis|DS 
+arch|NN neck|NN surg|NN 
+jm|NN perception|NN practice|NN of|NN immunotherapy|NN allergist|NN in|NN state|NN survey|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+lin|NN sy|NN n|NN jm|NN al|NN 
+therapy|NN treatment|NN of|NN allergic|NN rhinoconjunctivitis|NN asthma|DS review|NN 
+jama|NN 
+cox|NN l|NN h|NN r|NN al|NN 
+allergen|NN immunotherapy|NN practice|NN parameter|NN update|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+c|NN m|NN al|NN 
+tiveness|NN of|NN immunotherapy|NN allergic|NN conjunctivitis|NN asthma|DS review|NN 
+laryngoscope|NN 
+calderon|NN ma|NN b|NN jacobson|NN m|NN al|NN 
+allergen|NN injection|NN immunotherapy|NN allergic_rhinitis|DS 
+cochrane|NN base|NN syst|NN rev|NN 
+1|NN cd001936|NN 
+matricardi|NN pm|NN kuna|NN p|NN panetta|NN v|NN al|NN 
+notherapy|NN pharmacotherapy|NN in|NN allergic_rhinitis|DS comparison|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+modgill|NN v|NN badyal|NN dk|NN efficacy|NN safety|NN of|NN therapy|NN in|NN allergic_rhinitis|DS 
+method|NN clin|NN pharmacol|NN 
+wilson|NN dr|NN therapy|NN allergic_rhinitis|DS 
+cochrane|NN database|NN syst|NN rev|NN 
+2|NN cd002893|NN 
+r|NN m|NN naclerio|NN rm|NN al|NN 
+effect|NN of|NN tion|NN of|NN montelukast|NN proprionate|NN treatment|NN of|NN allergic_rhinitis|DS 
+ann|NN allergy|DS asthma|DS immunol|NN 
+badorrek|NN p|NN m|NN al|NN 
+combination|NN of|NN cetirizine|NN pseudoephedrine|NN benefit|NN drug|NN treatment|NN in|NN allergic_rhinitis|DS 
+int|NN j|NN clin|NN pharmacol|NN ther|NN 
+2|NN 
+meltzer|NN eo|NN laforce|NN c|NN ratner|NN p|NN al|NN 
+novel|NN formulation|NN of|NN hydrochloride|NN sone|NN propionate|NN in|NN treatment|NN of|NN allergic_rhinitis|DS trial|NN of|NN efficacy|NN safety|NN 
+allergy|DS asthma|DS proc|NN 
+carr|NN w|NN bernstein|NN jp|NN p|NN al|NN 
+intranasal|NN therapy|NN of|NN azelastine|NN fluticasone|NN treatment|NN of|NN rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+sk|NN wei|NN wi|NN van|NN hasselt|NN al|NN 
+son|NN of|NN budesonide|NN nasal|NN aerosol|NN terfenadine|NN therapy|NN of|NN budesonide|NN oxymetazoline|NN in|NN adult|NN patient|NN rhinitis|DS 
+pac|NN j|NN allergy|DS immunol|NN 
+2|NN 
+meltzer|NN eo|NN bernstein|NN di|NN prenner|NN bm|NN al|NN 
+mometasone|NN furoate|NN nasal|NN spray|NN nasal|NN spray|NN efficacy|NN safety|NN in|NN allergic_rhinitis|DS 
+rhinol|NN allergy|DS 
+2|NN 
+baroody|NN fm|NN d|NN gavanescu|NN l|NN al|NN 
+oxymetazoline|NN effectiveness|NN of|NN fluticasone|NN furoate|NN in|NN ment|NN of|NN allergic_rhinitis|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+s|NN wilson|NN d|NN calderon|NN m|NN al|NN 
+review|NN of|NN immunotherapy|NN slit|NN 
+allergy|DS 
+lin|NN sy|NN n|NN c|NN al|NN 
+immunotherapy|NN treatment|NN of|NN allergic|NN ti|NN asthma|DS effectiveness|NN review|NN 
+john|NN practice|NN center|NN contract|NN 
+ahrq|NN publication|NN 
+rockville|NN md|NN agency|NN healthcare|NN research|NN quality|NN 
+march|NN 
+calderon|NN ma|NN m|NN al|NN 
+notherapy|NN allergic|NN conjunctivitis|NN cochrane|NN review|NN 
+clin|NN exp|NN allergy|DS 
+möller|NN c|NN dreborg|NN s|NN ha|NN al|NN 
+therapy|NN development|NN of|NN asthma|DS in|NN child|NN rhinoconjunctivitis|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+2|NN 
+e|NN galli|NN e|NN f|NN al|NN 
+immunotherapy|NN development|NN of|NN asthma|DS in|NN dren|NN allergic|NN rhinoconjunctivitis|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+m|NN d|NN al|NN 
+effect|NN of|NN immunotherapy|NN in|NN childhood|NN randomize|NN study|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+2|NN 
+la|NN rosa|NN m|NN ranno|NN c|NN c|NN al|NN 
+evaluation|NN of|NN immunotherapy|NN neck|NN surgery|NN parietaria|NN judaica|NN extract|NN in|NN child|NN rhinoconjunctivitis|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+2|NN 1|NN allergic_rhinitis|DS comparison|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+simoens|NN of|NN immunotherapy|NN jacobsen|NN l|NN niggemann|NN b|NN dreborg|NN s|NN al|NN 
+gator|NN group|NN 
+immunotherapy|NN effect|NN of|NN asthma|DS pat|NN study|NN 
+allergy|DS 
+m|NN spadolini|NN i|NN al|NN 
+effect|NN of|NN immunotherapy|NN duration|NN year|NN study|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+cox|NN l|NN dl|NN h|NN al|NN 
+notherapy|NN review|NN 
+j|NN allergy|DS clin|NN immunol|NN 
+bernstein|NN dl|NN wanner|NN m|NN l|NN al|NN 
+immunotherapy|NN committee|NN academy|NN of|NN allergy|DS asthma|DS nology|NN 
+survey|NN of|NN reaction|NN tions|NN skin|NN test|NN j|NN allergy|DS clin|NN immunol|NN 
+d|NN gordon|NN br|NN fornadley|NN ja|NN al|NN 
+safety|NN of|NN office|NN allergy|DS immunotherapy|NN multicenter|NN study|NN 
+head|NN neck|NN surg|NN 
+calderon|NN ma|NN simon|NN hj|NN al|NN 
+allergen|NN immunotherapy|NN mode|NN of|NN action|NN relationship|NN safety|NN profile|NN 
+allergy|DS 
+groot|NN h|NN reaction|NN dose|NN of|NN immunotherapy|NN grass|NN pollen|NN table|NN 
+allergy|DS 
+food|NN drug|NN administration|NN document|NN oralair|NN grastek|NN package|NN insert|NN 
+license|NN application|NN bla|NN rye|NN timothy|NN blue|NN grass|NN pollen|NN tablet|NN use|NN 
+apac|NN document|NN http|NN 
+june|NN 
+food|NN drug|NN administration|NN 
+package|NN insert|NN 
+http|NN 
+june|NN 
+food|NN drug|NN administration|NN 
+package|NN insert|NN 
+http|NN 
+june|NN ratory|NN allergy|DS review|NN 
+allergy|DS 
+kaambwa|NN b|NN n|NN al|NN 
+review|NN evaluation|NN of|NN allergen|NN immunotherapy|NN in|NN adult|NN child|NN allergic_rhinitis|DS 
+health|NN technol|NN ass|NN 
+vi|NN 
+k|NN j|NN j|NN al|NN 
+cost|NN of|NN allergy|DS notherapy|NN versus|NN administration|NN 
+int|NN forum|NN allergy|DS rhinol|NN 
+2|NN 
+passali|NN d|NN fm|NN damiani|NN v|NN al|NN 
+treatment|NN of|NN turbinate|NN hypertrophy|NN trial|NN 
+otol|NN rhinol|NN laryngol|NN 
+jy|NN jd|NN 
+study|NN ness|NN coblation|NN microdebrider|NN binoplasty|NN 
+laryngoscope|NN 
+gunhan|NN k|NN h|NN yuceturk|NN av|NN al|NN 
+steroid|NN radiofrequency|NN turbinoplasty|NN in|NN allergic_rhinitis|DS effect|NN quality|NN of|NN life|NN parameter|NN 
+eur|NN arch|NN otorhinolaryngol|NN 
+s|NN s|NN yamada|NN t|NN al|NN 
+turbinectomy|NN nasal|NN stiffness|NN norrhea|NN in|NN patient|NN ar|NN 
+clin|NN exp|NN allergy|DS 
+k|NN ogasawara|NN h|NN tomofuji|NN s|NN al|NN 
+argon|NN plasma|NN surgery|NN turbinate|NN of|NN patient|NN nasal|NN allergy|DS 
+laryngoscope|NN 
+1|NN 
+s|NN s|NN yamada|NN t|NN al|NN 
+effect|NN of|NN turnbinectomy|NN patient|NN allergic_rhinitis|DS 
+laryngoscope|NN 
+schafer|NN t|NN wichmann|NN h|NN al|NN 
+medicine|NN in|NN allergy|DS prevalence|NN pattern|NN of|NN use|NN cost|NN 
+allergy|DS 
+passalacqua|NN g|NN bousquet|NN p|NN carlsen|NN k|NN al|NN 
+aria|NN update|NN review|NN of|NN medicine|NN rhinitis|DS asthma|DS 
+j|NN allergy|DS clin|NN immunol|NN 
+dk|NN chow|NN py|NN sp|NN al|NN 
+trial|NN of|NN acupuncture|NN ment|NN of|NN childhood|NN allergic_rhinitis|DS 
+pediatrics|NN 
+food|NN drug|NN administration|NN 
+package|NN insert|NN 
+http|NN 
+june|NN 
+m|NN pittler|NN mh|NN bc|NN al|NN 
+acupuncture|NN allergic_rhinitis|DS review|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+j|NN n|NN al|NN 
+immunotherapy|NN allergic_rhinitis|DS review|NN comparison|NN 
+j|NN allergy|DS clin|NN nol|NN 
+chelladurai|NN y|NN c|NN n|NN al|NN 
+ness|NN of|NN versus|NN immunotherapy|NN treatment|NN of|NN allergic|NN rhinoconjunctivitis|NN asthma|DS review|NN 
+j|NN allergy|DS clin|NN immunol|NN practice|NN 
+1|NN 
+bona|NN d|NN m|NN al|NN 
+efficacy|NN of|NN immunotherapy|NN grass|NN allergen|NN wolkenstein|NN e|NN horak|NN effect|NN of|NN ture|NN allergen|NN rhinitis|DS 
+wien|NN wochenschr|NN 
+williamson|NN l|NN p|NN livingston|NN r|NN al|NN 
+hay|NN fever|ST ment|NN in|NN practice|NN randomize|NN trial|NN acupuncture|NN acupuncture|NN 
+acupunct|NN 
+cc|NN r|NN zhang|NN jj|NN al|NN 
+effect|NN of|NN acupuncture|NN in|NN treatment|NN of|NN allergic_rhinitis|DS randomize|NN trial|NN 
+j|NN chin|NN 
+seidman|NN s43|NN magnusson|NN al|NN svensson|NN re|NN c|NN al|NN 
+effect|NN of|NN acupuncture|NN allergic_rhinitis|DS randomize|NN trial|NN 
+j|NN chin|NN 
+t|NN eriksson|NN sv|NN theodorsson|NN effect|NN of|NN acupuncture|NN in|NN mouse|NN 
+lett|NN 
+cc|NN x|NN cheung|NN tp|NN al|NN 
+acupuncture|NN allergic_rhinitis|DS trial|NN 
+j|NN aust|NN 
+petti|NN ippoliti|NN study|NN cytokine|NN in|NN patient|NN of|NN chronic|NN allergic_rhinitis|DS puncture|NN 
+j|NN tradit|NN chin|NN 
+park|NN yc|NN jo|NN jh|NN ke|NN al|NN 
+effect|NN of|NN acupuncture|NN nasal|NN obstruction|NN in|NN patient|NN allergic_rhinitis|DS domized|NN trial|NN 
+j|NN kor|NN acu|NN mox|NN 
+rao|NN yq|NN han|NN ny|NN 
+effect|NN of|NN acupuncture|NN allergic_rhinitis|DS effect|NN function|NN in|NN 
+zhongguo|NN zhen|NN jiu|NN 
+ym|NN zhuang|NN lx|NN sx|NN al|NN 
+effect|NN of|NN ture|NN allergic|NN plasma|NN peptide|NN stance|NN p|NN in|NN allergic_rhinitis|DS patient|NN 
+re|NN 
+brinkhaus|NN b|NN witt|NN c|NN jena|NN s|NN al|NN 
+acupuncture|NN in|NN patient|NN allergic_rhinitis|DS trial|NN 
+intern|NN 
+brinkhaus|NN b|NN m|NN witt|NN cm|NN al|NN 
+acupuncture|NN in|NN patient|NN allergic_rhinitis|DS trial|NN 
+intern|NN 
+choi|NN sm|NN park|NN je|NN s|NN al|NN 
+multicenter|NN trial|NN effect|NN of|NN acupuncture|NN allergic_rhinitis|DS 
+allergy|DS 
+dincer|NN f|NN sham|NN intervention|NN in|NN trial|NN of|NN review|NN 
+complement|NN ther|NN 
+dawidson|NN i|NN b|NN blom|NN m|NN al|NN 
+stimulation|NN acupuncture|NN release|NN of|NN peptide|NN in|NN saliva|NN of|NN xerostomia|ST sufferer|NN 
+ropeptides|NN 
+joos|NN s|NN schotte|NN c|NN zou|NN h|NN al|NN 
+effect|NN of|NN acupuncture|NN in|NN treatment|NN of|NN allergic|NN asthma|DS randomize|NN study|NN 
+j|NN complement|NN 
+dawidson|NN i|NN b|NN blom|NN m|NN al|NN 
+influence|NN of|NN stimulation|NN acupuncture|NN release|NN of|NN neuropeptides|NN in|NN saliva|NN of|NN subject|NN 
+life|NN sci|NN 
+chen|NN k|NN progress|NN of|NN research|NN medicine|NN 
+chin|NN j|NN 
+md|NN gv|NN 
+treatment|NN care|NN center|NN hospital|NN center|NN perspective|NN 
+north|NN 
+cc|NN cg|NN hugel|NN hm|NN al|NN 
+acupuncture|NN medicine|NN role|NN in|NN treatment|NN of|NN allergic_rhinitis|DS 
+curr|NN opin|NN allergy|DS clin|NN immunol|NN 
+dd|NN hugel|NN hm|NN cg|NN al|NN 
+efficacy|NN chemistry|NN pharmacology|NN of|NN medicine|NN allergic_rhinitis|DS 
+curr|NN chem|NN 
+brinkhaus|NN b|NN j|NN kohnen|NN r|NN al|NN 
+acupuncture|NN medicine|NN in|NN treatment|NN of|NN patient|NN allergic_rhinitis|DS trial|NN 
+allergy|DS 
+hu|NN g|NN wall|NN bass|NN d|NN al|NN 
+formulation|NN biminne|NN in|NN management|NN of|NN allergic_rhinitis|DS domized|NN week|NN trial|NN 
+ann|NN allergy|DS asthma|DS immunol|NN 
+borchers|NN hackman|NN rm|NN cl|NN al|NN 
+medicine|NN review|NN of|NN effect|NN of|NN medicine|NN 
+clin|NN nutr|NN 
+y|NN banerjee|NN p|NN poulter|NN lw|NN al|NN 
+association|NN of|NN change|NN efficacy|NN in|NN atopic|NN eczema|NN patient|NN therapy|NN phyte|NN 
+int|NN arch|NN allergy|DS immunol|NN 
+fan|NN tp|NN deal|NN g|NN koo|NN hl|NN al|NN 
+development|NN of|NN regulation|NN of|NN product|NN 
+j|NN ethnopharmacol|NN 
+risk|NN of|NN herb|NN 
+planta|NN 
+j|NN e|NN seidman|NN complementary|NN therapy|NN ent|NN disorder|NN issue|NN of|NN yngologic|NN clinic|NN 
+york|NN elsevier|NN 
+md|NN 
+allergy|DS asthma|DS alternative|NN in|NN treatment|NN 
+hearing|NN health|NN 
+1|NN 

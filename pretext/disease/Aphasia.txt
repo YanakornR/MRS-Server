@@ -1,0 +1,764 @@
+aphasia|DS aphasia|DS pronunciation|NN aphasia|DS inability|NN language|NN of|NN damage|NN brain|NN region|NN 
+damage|NN cerebral|NN accident|NN stroke|DS head|NN trauma|NN cause|NN 
+aphasia|DS brain_tumor|DS brain|NN infection|NN disease|NN dementia|DS common|NN aphasia|DS 
+aphasia|DS person|NN speech|NN language|NN in|NN of|NN communication|NN modality|NN brain|NN injury|NN decline|NN time|NN period|NN aphasia|DS 
+communication|NN modality|NN auditory|NN comprehension|NN expression|NN read|NN write|NN communication|NN 
+neurology|NN psychiatry|NN specialty|NN treatment|NN speech|NN difficulty|NN of|NN people|NN aphasia|DS trouble|NN word|NN ability|NN intelligence|NN 
+language|NN language|NN 
+aphasia|DS language|NN sign|NN language|NN 
+in|NN contrast|NN use|NN of|NN expression|NN in|NN communication|NN 
+example|NN person|NN aphasia|DS broca|NN aphasia|DS birthday|NN birthday|NN 
+prevalent|NN deficit|NN in|NN aphasia|DS anomia|ST deficit|NN in|NN word|NN find|NN ability|NN 
+aphasia|DS communication|NN modality|NN in|NN brain|NN 
+aphasia|DS damage|NN brain|NN result|NN in|NN motor|NN deficit|NN abnormal|NN speech|NN aphasia|DS mechanic|NN of|NN speech|NN individual|NN language|NN cognition|NN person|NN problem|NN hemorrhage|NN area|NN of|NN brain|NN 
+individual|NN language|NN set|NN of|NN rule|NN think|NN speech|NN 
+result|NN of|NN peripheral|NN motor|NN sensory|NN difficulty|NN paralysis|ST speech|NN hearing|NN impairment|NN 
+aphasia|DS 2|NN people|NN in|NN people|NN in|NN britain|NN 
+people|NN disorder|NN year|NN in|NN 
+person|NN of|NN age|NN aphasia|DS traumatic|NN injury|NN 
+people|NN middle|NN aphasia|DS 
+individual|NN risk|NN aphasia|DS risk|NN stroke|DS increase|NN age|NN of|NN stroke|DS in|NN individual|NN age|NN of|NN 
+stroke|DS case|NN of|NN aphasia|DS of|NN people|NN stroke|DS develop|NN aphasia|DS result|NN of|NN damage|NN language|NN processing|NN region|NN of|NN brain|NN 
+content|NN sign|NN symptom|NN behavior|NN classification|NN boston|NN classification|NN approach|NN approach|NN deaf|NN aphasia|DS severity|NN deficit|NN in|NN aphasia|DS prevention|NN of|NN aphasia|DS management|NN intensity|NN of|NN treatment|NN service|NN delivery|NN history|NN etymology|NN research|NN see|NN link|NN sign|NN symptom|NN people|NN aphasia|DS of|NN behavior|NN brain|NN injury|NN of|NN symptom|NN problem|NN dysarthria|ST apraxia|ST aphasia|DS 
+aphasia|DS symptom|NN location|NN of|NN damage|NN in|NN brain|NN 
+sign|NN symptom|NN in|NN individual|NN aphasia|DS in|NN severity|NN level|NN of|NN disruption|NN communication|NN 
+aphasia|DS inability|NN object|NN word|NN thing|NN 
+pencil|NN thing|NN 
+inability|NN language|NN inability|NN muscle|NN paralysis|ST weakness|ST inability|NN inability|NN word|NN inability|NN object|NN anomia|ST enunciation|NN creation|NN use|NN of|NN neologism|NN inability|NN phrase|NN repetition|NN of|NN word|NN phrase|NN stereotypies|NN automatism|NN paraphasia|NN letter|NN syllable|NN word|NN agrammatism|NN inability|NN in|NN fashion|NN dysprosody|NN alteration|NN in|NN inflexion|NN stress|NN rhythm|NN sentence|NN inability|NN inability|NN output|NN difficulty|NN in|NN speech_disorder|DS inability|NN request|NN behavior|NN sign|NN behavior|NN in|NN people|NN aphasia|DS result|NN of|NN compensation|NN speech|NN language|NN deficit|NN disruption|NN in|NN speech|NN result|NN of|NN speech|NN production|NN 
+speech|NN disfluency|NN disfluency|NN repetition|NN prolongation|NN phonemic|NN word|NN level|NN in|NN level|NN of|NN frequency|NN 
+struggle|NN in|NN aphasia|DS increase|NN in|NN effort|NN life|NN communicate|NN ability|NN frustration|NN 
+language|NN behavior|NN in|NN language|NN language|NN sequence|NN ability|NN ease|NN language|NN post|NN onset|NN 
+eye|NN dysmorphia|NN in|NN arm|NN legs|NN heart|NN disorder|NN 
+aphasia|DS characteristic|NN symptom|NN site|NN size|NN of|NN lesion|NN 
+site|NN of|NN lesions|NN thalamus|NN capsule|NN basal|NN ganglion|NN 
+cause|NN aphasia|DS stroke|DS disease|NN damage|NN part|NN of|NN brain|NN control|NN language|NN aphasia|DS 
+of|NN brain_tumor|DS traumatic_brain_injury|DS disorder|NN 
+in|NN case|NN aphasia|DS encephalitis|DS 
+herpes_simplex|DS virus|NN lobe|NN structure|NN tissue|NN aphasia|DS 
+in|NN acute|NN disorder|NN injury|NN stroke|DS aphasia|DS 
+brain_tumor|DS infection|NN dementia|DS 
+damage|NN region|NN in|NN blue|NN figure|NN right|NN in|NN aphasia|DS 
+aphasia|DS damage|NN structure|NN leave|NN hemisphere|NN thalamus|NN capsule|NN caudate|NN nucleus|NN of|NN basal|NN ganglion|NN 
+area|NN extent|NN of|NN brain|NN damage|NN atrophy|NN type|NN of|NN aphasia|DS symptom|NN 
+number|NN of|NN people|NN aphasia|DS damage|NN right|NN 
+individual|NN brain|NN organization|NN illness|NN injury|NN reliance|NN right|NN hemisphere|NN language|NN skill|NN in|NN population|NN 
+aphasia|DS ppa|NN name|NN form|NN of|NN dementia|DS symptom|NN form|NN of|NN aphasia|DS 
+loss|NN in|NN language|NN function|NN domain|NN memory|NN personality|NN 
+ppa|NN difficulty|NN in|NN individual|NN ability|NN sentence|NN syntax|NN comprehension|NN 
+etiology|NN of|NN ppa|NN stroke|DS traumatic_brain_injury|DS tbi|NN disease|NN onset|NN of|NN ppa|NN in|NN 
+region|NN of|NN leave|NN rise|NN aphasia|DS epilepsy|DS transient|NN aphasia|DS prodromal|NN symptom|NN 
+aphasia|DS of|NN patch|NN opioid|NN chronic|NN pain|ST 
+classification|NN aphasia|DS think|NN of|NN collection|NN of|NN disorder|NN problem|NN 
+individual|NN aphasia|DS combination|NN of|NN language|NN strength|NN weakness|ST 
+major|NN challenge|NN difficulty|NN in|NN people|NN 
+classification|NN of|NN symptom|NN class|NN 
+common|NN approach|NN fluent|NN aphasia|DS speech|NN content|NN person|NN difficulty|NN others|NN aphasia|DS speech|NN of|NN word|NN time|NN 
+group|NN 
+variation|NN people|NN group|NN aphasia|DS 
+instance|NN people|NN deficit|NN anomic_aphasia|ST inability|NN build|NN people|NN color|NN 
+difficulty|NN speech|NN language|NN 
+age|NN language|NN in|NN slow|NN of|NN comprehension|NN ability|NN word|NN difficulty|NN 
+of|NN aphasia|DS functionality|NN life|NN 
+boston|NN classification|NN major|NN characteristic|NN of|NN type|NN of|NN aphasia|DS boston|NN classification|NN type|NN of|NN aphasia|DS speech|NN repetition|NN auditory|NN comprehension|NN fluency|NN broca|NN aphasia|DS mild|NN difficulty|NN wernicke|NN aphasia|DS fluent|NN paraphasic|NN fluent|NN conduction|NN aphasia|DS aphasia|DS motor|NN aphasia|DS sensory|NN aphasia|DS aphasia|DS anomic_aphasia|ST fluent|NN individual|NN wernicke|NN aphasia|DS aphasia|DS in|NN sentence|NN mean|NN word|NN word|NN 
+example|NN someone|NN aphasia|DS taco|NN dog|NN walk|NN 
+auditory|NN read|NN comprehension|NN fluent|NN expression|NN 
+individual|NN aphasia|DS difficulty|NN speech|NN of|NN others|NN of|NN mistake|NN 
+language|NN deficit|NN lesions|NN in|NN portion|NN of|NN leave|NN hemisphere|NN wernicke|NN area|NN 
+result|NN of|NN trauma|NN region|NN of|NN brain|NN area|NN 
+trauma|NN result|NN array|NN of|NN problem|NN result|NN of|NN stroke|DS individual|NN broca|NN aphasia|DS phrase|NN effort|NN 
+aphasia|DS 
+people|NN word|NN 
+example|NN person|NN aphasia|DS dog|NN i|NN dog|NN walk|NN dog|NN walk|NN dog|NN of|NN yard|NN 
+individual|NN aphasia|DS speech|NN of|NN others|NN degree|NN 
+of|NN of|NN difficulty|NN speak|NN problem|NN 
+broca|NN aphasia|DS issue|NN language|NN production|NN evidence|NN broca|NN aphasia|DS in|NN inability|NN information|NN 
+individual|NN broca|NN aphasia|DS speech|NN automatism|NN recur|NN recurrent|NN utterance|NN 
+speech|NN automatism|NN speech|NN automatism|NN modalisations|NN i|NN i|NN number|NN utterance|NN of|NN syllable|NN 
+in|NN case|NN individual|NN speech|NN time|NN speech|NN 
+example|NN reference|NN addition|NN code|NN analysis|NN of|NN recurrent|NN utterance|NN in|NN aphasia|DS 
+cortex|NN 
+individual|NN anomic_aphasia|ST difficulty|NN name|NN 
+people|NN aphasia|DS difficulty|NN word|NN type|NN difficulty|NN verb|NN noun|NN category|NN difficulty|NN word|NN nothing|NN name|NN difficulty|NN 
+people|NN speech|NN 
+auditory|NN comprehension|NN 
+anomic_aphasia|ST presentation|NN of|NN tumor|NN in|NN language|NN zone|NN presentation|NN of|NN alzheimer|NN disease|NN 
+anomic_aphasia|ST form|NN of|NN aphasia|DS possibility|NN recovery|NN 
+individual|NN sensory|NN aphasia|DS in|NN principle|NN form|NN of|NN aphasia|DS deficit|NN in|NN aphasia|DS repetition|NN ability|NN 
+aphasia|DS impairment|NN in|NN language|NN aspect|NN language|NN read|NN 
+deficit|NN evidence|NN individual|NN speech|NN language|NN therapy|NN 
+individual|NN aphasia|DS speaker|NN listener|NN writer|NN reader|NN goal|NN individual|NN quality|NN of|NN life|NN 
+individual|NN aphasia|DS treatment|NN information|NN therapy|NN 
+individual|NN conduction|NN aphasia|DS deficit|NN in|NN connection|NN comprehension|NN area|NN 
+damage|NN arcuate|NN fasciculus|NN structure|NN information|NN wernicke|NN area|NN broca|NN area|NN 
+symptom|NN damage|NN insula|NN auditory|NN cortex|NN 
+auditory|NN comprehension|NN expression|NN error|NN 
+error|NN 
+repetition|NN ability|NN 
+conduction|NN aphasia|DS damage|NN white|NN matter|NN tract|NN 
+aphasia|DS cortex|NN of|NN language|NN center|NN disconnection|NN 
+conduction|NN aphasia|DS damage|NN arcuate|NN fasciculus|NN 
+arcuate|NN fasciculus|NN white|NN matter|NN tract|NN broca|NN wernicke|NN area|NN 
+people|NN conduction|NN aphasia|DS language|NN comprehension|NN speech|NN repetition|NN difficulty|NN word|NN retrieval|NN speech|NN production|NN 
+people|NN conduction|NN aphasia|DS of|NN error|NN 
+form|NN of|NN conduction|NN aphasia|DS reproduction|NN conduction|NN aphasia|DS repetition|NN of|NN word|NN repetitionconduction|NN aphasia|DS repetition|NN of|NN word|NN reference|NN shallice|NN t|NN 
+term|NN memory|NN impairment|NN conduction|NN aphasia|DS 
+brain|NN language|NN 
+aphasia|DS motor|NN aphasia|DS sensory|NN aphasia|DS aphasia|DS 
+people|NN motor|NN aphasia|DS comprehension|NN awareness|NN of|NN error|NN word|NN find|NN speech|NN production|NN 
+people|NN sensory|NN aphasia|DS comprehension|NN unawareness|NN of|NN error|NN 
+comprehension|NN deficit|NN in|NN aphasia|DS study|NN recovery|NN type|NN of|NN aphasia|DS 
+approach|NN approach|NN aphasia|DS major|NN characteristic|NN region|NN of|NN brain|NN rise|NN 
+early|NN work|NN of|NN neurologist|NN broca|NN carl|NN wernicke|NN approach|NN major|NN subtypes|NN of|NN aphasia|DS subtypes|NN cortex|NN aphasia|DS motor|NN aphasia|DS broca|NN aphasia|DS speech|NN comprehension|NN relative|NN expression|NN 
+damage|NN in|NN portion|NN of|NN leave|NN broca|NN area|NN 
+individual|NN broca|NN aphasia|DS weakness|ST paralysis|ST of|NN arm|NN leg|NN lobe|NN body|NN movement|NN side|NN 
+aphasia|DS aphasia|DS wernicke|NN aphasia|DS fluent|NN speech|NN difficulty|NN word|NN sentence|NN 
+fluent|NN speech|NN in|NN word|NN noun|NN verb|NN adjective|NN word|NN word|NN 
+subtype|NN damage|NN posterior|NN cortex|NN area|NN 
+individual|NN body|NN weakness|ST brain|NN injury|NN part|NN of|NN brain|NN control|NN movement|NN 
+conduction|NN aphasia|DS speech|NN comprehension|NN person|NN disproportionate|NN difficulty|NN word|NN sentence|NN 
+damage|NN arcuate|NN fasciculus|NN region|NN 
+motor|NN aphasia|DS sensory|NN aphasia|DS wernicke|NN aphasia|DS ability|NN word|NN sentence|NN 
+classification|NN approach|NN model|NN group|NN aphasia|DS subtypes|NN class|NN nonfluent|NN aphasia|DS broca|NN aphasia|DS motor|NN aphasia|DS fluent|NN aphasia|DS wernicke|NN aphasia|DS conduction|NN aphasia|DS sensory|NN aphasia|DS 
+scheme|NN aphasia|DS subtypes|NN anomic_aphasia|ST difficulty|NN name|NN thing|NN aphasia|DS expression|NN comprehension|NN of|NN speech|NN 
+localizationist|NN approach|NN existence|NN of|NN pure|NN form|NN of|NN language|NN disorder|NN language|NN skill|NN 
+example|NN in|NN alexia|ST person|NN in|NN word|NN deafness|NN speech|NN speech|NN 
+approach|NN approach|NN way|NN of|NN pattern|NN of|NN language|NN difficulty|NN group|NN problem|NN number|NN of|NN individual|NN category|NN 
+problem|NN category|NN major|NN one|NN broca|NN wernicke|NN aphasia|DS 
+individual|NN criterion|NN classification|NN subtype|NN variability|NN in|NN type|NN of|NN difficulty|NN 
+of|NN individual|NN subtype|NN approach|NN language|NN skill|NN module|NN in|NN individual|NN 
+person|NN difficulty|NN module|NN number|NN of|NN module|NN 
+type|NN of|NN approach|NN framework|NN theory|NN kind|NN of|NN language|NN task|NN 
+example|NN model|NN of|NN coltheart|NN module|NN phoneme|NN task|NN recognition|NN of|NN word|NN 
+module|NN store|NN person|NN in|NN speech|NN module|NN task|NN production|NN of|NN word|NN string|NN of|NN speech|NN 
+framework|NN function|NN of|NN module|NN test|NN set|NN of|NN test|NN 
+in|NN set|NN use|NN of|NN model|NN battery|NN of|NN assessment|NN of|NN number|NN of|NN module|NN 
+diagnosis|NN impairment|NN therapy|NN skill|NN 
+aphasia|DS aphasia|DS ppa|NN dementia|DS illness|NN dementia|DS dementia|DS pick|NN complex|NN motor|NN neuron|NN disease|NN supranuclear|NN palsy|NN alzheimer|NN disease|NN process|NN of|NN ability|NN 
+loss|NN of|NN language|NN function|NN in|NN context|NN of|NN memory|NN processing|NN personality|NN stage|NN 
+symptom|NN problem|NN progress|NN grammar|NN syntax|NN comprehension|NN sentence|NN processing|NN semantics|NN association|NN loss|NN of|NN language|NN loss|NN of|NN memory|NN differentiate|NN dementia|DS 
+people|NN ppa|NN difficulty|NN others|NN 
+difficulty|NN word|NN sentence|NN 
+classification|NN of|NN aphasia|DS nonfluent|NN aphasia|DS pnfa|NN dementia|DS sd|NN progressive|NN aphasia|DS lpa|NN progressive|NN jargon|NN aphasia|DS fluent|NN aphasia|DS in|NN person|NN speech|NN sense|NN 
+speech|NN syntax|NN grammar|NN person|NN problem|NN selection|NN of|NN noun|NN 
+word|NN connection|NN sound|NN 
+people|NN jargon|NN aphasia|DS neologism|NN word|NN sound|NN 
+substitution|NN word|NN sound|NN colander|NN letter|NN scroll|NN late|NN 
+deaf|NN aphasia|DS instance|NN form|NN of|NN aphasia|DS individual|NN 
+sign|NN language|NN form|NN of|NN language|NN area|NN of|NN brain|NN form|NN of|NN language|NN 
+mirror|NN neuron|NN animal|NN in|NN way|NN individual|NN act|NN in|NN manner|NN 
+mirror|NN neuron|NN in|NN ability|NN movement|NN of|NN hand|NN 
+broca|NN area|NN of|NN speech|NN production|NN of|NN mirror|NN neuron|NN in|NN similarity|NN of|NN brain|NN activity|NN sign|NN language|NN speech|NN communication|NN 
+communication|NN portion|NN of|NN animal|NN 
+human|NN movement|NN human|NN of|NN emotion|NN 
+movement|NN speech|NN form|NN of|NN language|NN specie|NN form|NN of|NN communication|NN 
+sign|NN language|NN movement|NN emotion|NN hand|NN movement|NN way|NN of|NN communicate|NN 
+movement|NN form|NN of|NN communication|NN area|NN of|NN brain|NN 
+damage|NN area|NN of|NN brain|NN form|NN of|NN communication|NN in|NN jeopardy|NN of|NN form|NN of|NN aphasia|DS 
+area|NN of|NN brain|NN sign|NN language|NN form|NN of|NN aphasia|DS in|NN deaf|NN community|NN 
+individual|NN form|NN of|NN wernicke|NN aphasia|DS sign|NN language|NN deficit|NN in|NN ability|NN in|NN form|NN of|NN expression|NN 
+broca|NN aphasia|DS in|NN people|NN 
+individual|NN difficulty|NN in|NN sign|NN concept|NN 
+severity|NN severity|NN of|NN type|NN of|NN aphasia|DS vary|NN size|NN of|NN stroke|DS 
+variance|NN type|NN of|NN severity|NN occur|NN in|NN type|NN of|NN aphasia|DS 
+instance|NN type|NN of|NN aphasia|DS mild|NN 
+of|NN severity|NN of|NN aphasia|DS people|NN improvement|NN recovery|NN treatment|NN in|NN stage|NN of|NN recovery|NN 
+et|NN al|NN 
+people|NN aphasia|DS therapy|NN year|NN severity|NN of|NN aphasia|DS 
+study|NN outcome|NN in|NN people|NN aphasia|DS treatment|NN in|NN stage|NN of|NN recovery|NN robey|NN aphasia|DS of|NN language|NN gain|NN in|NN chronic|NN stage|NN of|NN recovery|NN 
+find|NN person|NN aphasia|DS potential|NN outcome|NN of|NN aphasia|DS 
+pattern|NN of|NN outcome|NN of|NN aphasia|DS severity|NN aphasia|DS language|NN gain|NN aphasia|DS language|NN area|NN 
+deficit|NN in|NN aphasia|DS aphasia|DS in|NN term|NN of|NN language|NN deficit|NN evidence|NN people|NN aphasia|DS experience|NN deficit|NN 
+account|NN deficit|NN attention|NN memory|NN constitute|NN cause|NN of|NN language|NN impairment|NN in|NN people|NN aphasia|DS 
+others|NN deficit|NN occur|NN deficit|NN in|NN stroke|DS patient|NN aphasia|DS brain|NN dysfunction|NN injury|NN 
+degree|NN deficit|NN in|NN attention|NN domain|NN language|NN deficit|NN in|NN aphasia|DS 
+in|NN people|NN aphasia|DS memory|NN deficit|NN 
+deficit|NN in|NN domain|NN domain|NN 
+deficit|NN performance|NN language|NN task|NN name|NN processing|NN sentence|NN comprehension|NN production|NN 
+study|NN people|NN aphasia|DS demonstrate|NN performance|NN deficit|NN task|NN of|NN attention|NN performance|NN task|NN language|NN performance|NN ability|NN in|NN domain|NN 
+patient|NN aphasia|DS ceiling|NN test|NN of|NN language|NN response|NN time|NN interference|NN effect|NN in|NN attention|NN ability|NN 
+in|NN addition|NN deficit|NN in|NN memory|NN memory|NN attention|NN people|NN aphasia|DS deficit|NN in|NN function|NN 
+instance|NN people|NN aphasia|DS deficit|NN in|NN initiation|NN plan|NN flexibility|NN 
+study|NN people|NN aphasia|DS demonstrate|NN speed|NN efficiency|NN completion|NN executive|NN function|NN assessment|NN 
+of|NN role|NN in|NN nature|NN of|NN aphasia|DS deficit|NN role|NN in|NN study|NN rehabilitation|NN of|NN aphasia|DS 
+instance|NN severity|NN of|NN deficit|NN in|NN people|NN aphasia|DS quality|NN of|NN life|NN severity|NN of|NN language|NN deficit|NN 
+deficit|NN language|NN treatment|NN outcome|NN in|NN aphasia|DS 
+cognitive|NN deficit|NN target|NN of|NN intervention|NN language|NN ability|NN outcome|NN 
+study|NN language|NN improvement|NN treatment|NN others|NN evidence|NN treatment|NN of|NN deficit|NN in|NN people|NN aphasia|DS influence|NN language|NN outcome|NN 
+caveat|NN in|NN measurement|NN treatment|NN of|NN deficit|NN in|NN people|NN aphasia|DS degree|NN assessment|NN of|NN cognition|NN language|NN ability|NN performance|NN 
+study|NN challenge|NN assessment|NN ability|NN in|NN people|NN aphasia|DS 
+degree|NN task|NN language|NN in|NN 
+instance|NN wall|NN et|NN al|NN 
+language|NN performance|NN performance|NN life|NN task|NN 
+prevention|NN of|NN aphasia|DS aphasia|DS instance|NN 
+precaution|NN risk|NN of|NN major|NN cause|NN of|NN aphasia|DS stroke|DS traumatic_brain_injury|DS tbi|NN 
+probability|NN of|NN ischemic|NN stroke|DS precaution|NN diet|NN cholesterol|NN in|NN alcohol|NN consumption|NN tobacco|NN use|NN blood|NN pressure|NN emergency|NN room|NN extremity|NN swelling|ST warmth|NN redness|NN tenderness|NN symptom|NN of|NN vein|NN thrombosis|DS stroke|DS 
+aphasia|DS traumatic|NN injury|NN measure|NN in|NN activity|NN helmet|NN bicycle|NN motor|NN cycle|NN atv|NN vehicle|NN in|NN accident|NN 
+seatbelt|NN drive|NN rid|NN in|NN car|NN 
+gear|NN contact|NN sport|NN football|NN rugby|NN hockey|NN activity|NN 
+anticoagulant|NN use|NN aspirin|NN risk|NN of|NN hemorrhage|NN injury|NN 
+attention|NN head|NN trauma|NN fall|NN accident|NN 
+sooner|NN attention|NN traumatic_brain_injury|DS one|NN effect|NN 
+management|NN wernicke|NN aphasia|DS al|NN 
+lack|NN of|NN awareness|NN of|NN language|NN impairment|NN common|NN characteristic|NN of|NN wernicke|NN aphasia|DS rate|NN extent|NN of|NN therapy|NN outcome|NN 
+et|NN al|NN 
+people|NN therapy|NN discharge|ST hospital|NN generalization|NN 
+robey|NN 2|NN hour|NN of|NN treatment|NN week|NN language|NN gain|NN 
+recovery|NN language|NN gain|NN therapy|NN outcome|NN therapy|NN 
+broca|NN aphasia|DS outcome|NN person|NN in|NN therapy|NN treatment|NN treatment|NN people|NN in|NN period|NN 
+hour|NN of|NN therapy|NN week|NN in|NN acute|NN stage|NN result|NN 
+therapy|NN therapy|NN therapy|NN 
+people|NN aphasia|DS syndrome|NN gain|NN in|NN auditory|NN comprehension|NN language|NN modality|NN therapy|NN 
+people|NN aphasia|DS communication|NN skill|NN success|NN partner|NN condition|NN 
+treatment|NN option|NN people|NN language|NN user|NN reader|NN listener|NN writer|NN matter|NN therapy|NN 
+people|NN routine|NN quality|NN of|NN life|NN goal|NN 
+month|NN language|NN ability|NN of|NN people|NN 
+prognosis|NN month|NN year|NN 
+people|NN treatment|NN approach|NN sign|NN of|NN progress|NN cost|NN of|NN therapy|NN 
+rareness|NN of|NN conduction|NN aphasia|DS study|NN effectiveness|NN of|NN therapy|NN people|NN type|NN of|NN aphasia|DS 
+study|NN result|NN therapy|NN language|NN outcome|NN 
+intervention|NN result|NN auditory|NN repetition|NN train|NN 
+kohn|NN al|NN 
+auditory|NN repetition|NN train|NN improvement|NN in|NN speech|NN al|NN 
+improvement|NN in|NN sentence|NN comprehension|NN et|NN al|NN 
+improvement|NN in|NN memory|NN 
+case|NN of|NN aphasia|DS skill|NN pathologist|NN 
+recovery|NN improvement|NN year|NN stroke|DS 
+onset|NN of|NN aphasia|DS period|NN of|NN recovery|NN time|NN brain|NN neuron|NN 
+improvement|NN vary|NN aphasia|DS cause|NN type|NN severity|NN 
+recovery|NN person|NN age|NN health|NN motivation|NN handedness|NN level|NN 
+one|NN treatment|NN prove|NN type|NN of|NN aphasia|DS 
+reason|NN treatment|NN aphasia|DS of|NN nature|NN of|NN disorder|NN way|NN in|NN section|NN 
+aphasia|DS treatment|NN need|NN individual|NN 
+study|NN consistency|NN treatment|NN methodology|NN in|NN literature|NN indication|NN treatment|NN in|NN outcome|NN 
+therapy|NN aphasia|DS range|NN communication|NN speech|NN accuracy|NN person|NN severity|NN need|NN support|NN of|NN family|NN friend|NN 
+group|NN therapy|NN individual|NN communication|NN skill|NN individual|NN aphasia|DS skill|NN in|NN therapy|NN session|NN 
+confidence|NN skill|NN in|NN set|NN 
+evidence|NN use|NN of|NN stimulation|NN tdcs|NN aphasia|DS stroke|DS 
+treatment|NN technique|NN copy|NN recall|NN therapy|NN cart|NN repetition|NN recall|NN of|NN word|NN therapy|NN representation|NN word|NN read|NN write|NN communication|NN therapy|NN vic|NN use|NN of|NN index|NN card|NN symbol|NN component|NN of|NN speech|NN action|NN therapy|NN vat|NN individual|NN aphasia|DS use|NN of|NN hand|NN gesture|NN item|NN communication|NN treatment|NN fct|NN activity|NN task|NN interaction|NN promote|NN aphasic|NN effectiveness|NN pace|NN mean|NN of|NN interaction|NN people|NN aphasia|DS clinician|NN 
+in|NN kind|NN of|NN therapy|NN focus|NN communication|NN treatment|NN 
+people|NN message|NN therapist|NN mean|NN of|NN hand|NN gesture|NN intonation|NN therapy|NN mit|NN aim|NN processing|NN skill|NN of|NN right|NN hemisphere|NN retrieval|NN of|NN word|NN language|NN 
+way|NN of|NN communicate|NN conversation|NN partner|NN feature|NN analysis|NN sfa|NN type|NN of|NN aphasia|DS treatment|NN deficit|NN 
+theory|NN connection|NN word|NN phrase|NN target|NN word|NN target|NN word|NN in|NN brain|NN 
+sfa|NN in|NN multiple|NN form|NN picture|NN card|NN 
+slp|NN question|NN individual|NN aphasia|DS in|NN order|NN person|NN picture|NN 
+study|NN sfa|NN intervention|NN name|NN 
+intonation|NN therapy|NN aphasia|DS in|NN case|NN 
+evidence|NN trial|NN efficacy|NN of|NN mit|NN in|NN chronic|NN aphasia|DS 
+mit|NN people|NN aphasia|DS vocalize|NN speech|NN song|NN word|NN 
+candidate|NN therapy|NN people|NN stroke|DS aphasia|DS broca|NN auditory|NN comprehension|NN repetition|NN articulation|NN stability|NN memory|NN 
+explanation|NN efficacy|NN of|NN mit|NN depend|NN circuit|NN in|NN processing|NN of|NN rhythmicity|NN expression|NN example|NN mit|NN i|NN thank|NN feature|NN intonation|NN area|NN of|NN brain|NN use|NN of|NN expression|NN network|NN 
+institute|NN deafness|NN communication|NN disorder|NN nidcd|NN family|NN treatment|NN of|NN in|NN recovery|NN member|NN of|NN family|NN 
+person|NN speech|NN kind|NN of|NN communication|NN alphabet|NN board|NN communication|NN book|NN software|NN computer|NN apps|NN tablet|NN smartphones|NN 
+intensity|NN of|NN treatment|NN intensity|NN of|NN aphasia|DS therapy|NN length|NN of|NN session|NN hour|NN of|NN therapy|NN week|NN week|NN of|NN therapy|NN 
+consensus|NN aphasia|DS therapy|NN therapy|NN outcome|NN 
+cochrane|NN review|NN of|NN speech|NN language|NN therapy|NN people|NN aphasia|DS treatment|NN intensity|NN dose|NN duration|NN of|NN time|NN communication|NN people|NN of|NN intensity|NN treatment|NN hour|NN week|NN 
+intensity|NN of|NN therapy|NN recency|NN of|NN stroke|DS 
+people|NN aphasia|DS react|NN treatment|NN in|NN phase|NN month|NN stroke|DS phase|NN month|NN stroke|DS chronic|NN phase|NN month|NN stroke|DS 
+therapy|NN people|NN chronic|NN aphasia|DS people|NN aphasia|DS 
+people|NN aphasia|DS therapy|NN of|NN hour|NN week|NN 
+people|NN in|NN phase|NN in|NN language|NN communication|NN measure|NN therapy|NN therapy|NN 
+service|NN delivery|NN intensity|NN of|NN treatment|NN recency|NN of|NN stroke|DS therapy|NN goal|NN characteristic|NN age|NN size|NN of|NN lesion|NN health|NN status|NN motivation|NN 
+react|NN treatment|NN intensity|NN treatment|NN time|NN stroke|DS 
+intensity|NN of|NN treatment|NN stroke|DS person|NN motivation|NN stamen|NN tolerance|NN therapy|NN 
+symptom|NN of|NN aphasia|DS month|NN stroke|DS recovery|NN 
+people|NN period|NN of|NN year|NN decade|NN 
+improvement|NN process|NN individual|NN family|NN nature|NN of|NN aphasia|DS compensatory|NN strategy|NN 
+aphasia|DS faq|NN http|NN 
+aphasia|DS association|NN 
+traumatic_brain_injury|DS tbi|NN accident|NN cva|NN brain|NN heal|NN process|NN in|NN language|NN function|NN 
+recovery|NN 
+recovery|NN recovery|NN brain|NN treatment|NN brain|NN in|NN order|NN 
+factor|NN person|NN chance|NN of|NN recovery|NN stroke|DS stroke|DS size|NN location|NN 
+age|NN sex|NN education|NN 
+aphasia|DS recovery|NN vary|NN people|NN in|NN everyone|NN recovery|NN 
+case|NN of|NN wernicke|NN aphasia|DS improvement|NN form|NN of|NN aphasia|DS people|NN wernicke|NN aphasia|DS level|NN of|NN speech|NN ability|NN form|NN of|NN aphasia|DS 
+history|NN case|NN of|NN aphasia|DS papyrus|NN edwin|NN smith|NN papyrus|NN detail|NN speech|NN problem|NN in|NN person|NN traumatic_brain_injury|DS lobe|NN 
+half|NN of|NN century|NN aphasia|DS major|NN focus|NN scientist|NN philosopher|NN in|NN begin|NN stage|NN of|NN field|NN of|NN psychology|NN 
+in|NN research|NN speechlessness|NN prognosis|NN assumption|NN language|NN complication|NN 
+broca|NN colleague|NN of|NN aphasia|DS wernicke|NN aphasia|DS disorder|NN comprehension|NN difficulty|NN 
+claim|NN of|NN aphasia|DS gall|NN description|NN of|NN aphasia|DS wind|NN brain|NN observation|NN of|NN speech|NN difficulty|NN lesions|NN 
+book|NN history|NN of|NN aphasia|DS reference|NN tesak|NN j|NN 
+code|NN milestone|NN in|NN history|NN of|NN aphasia|DS theory|NN protagonist|NN 
+heave|NN east|NN sussex|NN psychology|NN press|NN 
+etymology|NN aphasia|DS phásis|NN φάσις|NN speech|NN 
+word|NN aphasia|DS word|NN ἀφασία|NN aphasia|DS in|NN greek|NN ἄφατος|NN aphatos|NN speechless|NN φημί|NN phemi|NN speak|NN 
+research|NN research|NN resonance|NN image|NN fmri|NN difference|NN in|NN language|NN in|NN brain|NN brain|NN 
+researcher|NN brain|NN in|NN order|NN traumatic_brain_injury|DS tbi|NN area|NN of|NN brain|NN respond|NN injury|NN 
+approach|NN of|NN drug|NN therapy|NN 
+research|NN in|NN progress|NN drug|NN in|NN addition|NN therapy|NN in|NN order|NN recovery|NN of|NN language|NN function|NN 
+treatment|NN aphasia|DS drug|NN treatment|NN therapy|NN of|NN 
+method|NN combination|NN therapy|NN brain|NN stimulation|NN 
+method|NN stimulation|NN tm|NN alter|NN brain|NN activity|NN in|NN area|NN scientist|NN shift|NN in|NN brain|NN function|NN tm|NN people|NN language|NN 
+research|NN aphasia|DS 
+researcher|NN multiple|NN idea|NN aphasia|DS in|NN future|NN 
+aphasia|DS http|NN 
+institute|NN deafness|NN communication|NN disorder|NN 
+see|NN agnosia|ST aphasiology|NN apraxia|ST of|NN speech|NN auditory_processing_disorder|DS lethologica|NN list|NN of|NN language|NN disorder|NN brain|NN origin|NN of|NN speech|NN reference|NN damasio|NN ar|NN 
+aphasia|DS 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+2|NN 
+association|NN asha|NN aphasia|DS http|NN 
+stahl|NN b|NN van|NN lancker|NN sidtis|NN d|NN 
+resource|NN of|NN communication|NN language|NN in|NN aphasia|DS therapy|NN http|NN 
+frontier|NN in|NN psychology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+manasco|NN mh|NN 
+introduction|NN communication|NN disorder|NN http|NN e|NN 
+jones|NN bartlett|NN learn|NN 
+aphasia|DS statistic|NN http|NN 
+aphasia|DS fact|NN sheet|NN aphasia|DS association|NN http|NN 
+aphasia|DS association|NN 
+december|NN 
+aphasia|DS risk|NN aphasia|DS 
+http|NN phasia|NN 
+stroke|DS statistic|NN http|NN 
+aphasia|DS faq|NN http|NN 
+overview|NN of|NN aphasia|DS http|NN reatments|NN 1|NN 
+association|NN 
+disorder|NN 
+in|NN abnormal|NN psychology|NN 
+york|NN 
+manasco|NN hunter|NN 
+introduction|NN communication|NN disorder|NN 
+burlington|NN ma|NN jones|NN bartlett|NN learn|NN 
+pp|NN 
+henseler|NN i|NN regenbrecht|NN f|NN obrig|NN h|NN 
+lesion|NN correlate|NN of|NN profile|NN in|NN chronic|NN aphasia|DS comparison|NN of|NN assessment|NN 
+brain|NN 
+http|NN 
+pmid|NN http|NN 
+aphasia|DS http|NN 
+ec|NN cera|NN ml|NN kz|NN 
+aphasia|DS herpes|NN virus|NN encephalitis|DS case|NN study|NN 
+sao|NN journal|NN revista|NN paulista|NN 
+http|NN 
+pmid|NN http|NN 
+h|NN pretorius|NN e|NN jun|NN 
+herpes_simplex|DS virus|NN encephalitis|DS cause|NN aphasia|DS 
+early|NN child|NN development|NN care|NN 
+http|NN 
+aphasia|DS http|NN 
+henseler|NN i|NN regenbrecht|NN f|NN obrig|NN h|NN 
+lesion|NN correlate|NN of|NN profile|NN in|NN chronic|NN aphasia|DS comparison|NN of|NN assessment|NN 
+brain|NN 
+http|NN 
+pmid|NN http|NN 
+dc|NN 
+aphasia|DS language|NN disorder|NN syndrome|NN 
+journal|NN of|NN neurology|NN 
+http|NN 
+pmid|NN http|NN 
+kreisler|NN godefroy|NN o|NN delmaire|NN c|NN debachy|NN b|NN m|NN pruvo|NN jp|NN d|NN 
+anatomy|NN of|NN aphasia|DS 
+neurology|NN 
+http|NN 
+pmid|NN p|NN 
+coppens|NN p|NN hungerford|NN s|NN 
+aphasia|DS analysis|NN of|NN symptom|NN frequency|NN comparison|NN aphasia|DS symptomatology|NN 
+brain|NN language|NN 
+http|NN 
+pmid|NN http|NN 
+mariën|NN p|NN paghera|NN b|NN pp|NN vignolo|NN la|NN 
+adult|NN aphasia|DS in|NN dextrals|NN 
+cortex|NN journal|NN study|NN of|NN system|NN behavior|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 2|NN 
+aphasia|DS http|NN 
+blumenfeld|NN h|NN meador|NN kj|NN 
+consciousness|NN concept|NN in|NN epilepsy|DS classification|NN http|NN 
+epilepsia|NN 
+http|NN 
+pmc|NN p|NN 
+pmid|NN http|NN 
+fentanyl|NN fda|NN information|NN side|NN effect|NN us|NN http|NN 
+drug|NN information|NN online|NN 
+kolb|NN bryan|NN q|NN 
+fundamental|NN of|NN human|NN neuropsychology|NN 
+york|NN worth|NN 
+pp|NN 
+http|NN 
+manasco|NN hunter|NN 
+introduction|NN communication|NN disorder|NN 
+jones|NN bartlett|NN learn|NN 
+aphasia|DS http|NN 
+atlanta|NN aphasia|DS association|NN 
+murdoch|NN 
+aphasia|DS syndrome|NN 
+speech|NN language|NN disorder|NN 
+springer|NN boston|NN ma|NN 
+pp|NN 
+http|NN 
+manasco|NN 
+introduction|NN communication|NN disorder|NN 
+burlington|NN ma|NN jones|NN bartlett|NN learn|NN 
+dewitt|NN i|NN rauschecker|NN jp|NN 
+wernicke|NN area|NN stream|NN word|NN processing|NN http|NN 
+brain|NN language|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+manasco|NN hunter|NN 
+introduction|NN communication|NN disorder|NN 
+jones|NN bartlett|NN learn|NN 
+aphasia|DS http|NN 
+nidcd|NN 
+common|NN classification|NN of|NN aphasia|DS http|NN 
+brookshire|NN introduction|NN communication|NN disorder|NN edition|NN 
+louis|NN mo|NN mosby|NN 
+embick|NN marantz|NN miyashita|NN sakai|NN 
+specialization|NN broca|NN area|NN 
+proceed|NN of|NN academy|NN of|NN science|NN of|NN state|NN of|NN america|NN 
+alexander|NN mp|NN hillis|NN ae|NN 
+georg|NN goldenberg|NN miller|NN aminoff|NN boller|NN swaab|NN ed|NN 
+aphasia|DS 
+handbook|NN of|NN neurology|NN 
+1|NN 
+pp|NN 
+http|NN 2|NN 
+isbn|NN oclc|NN http|NN 
+pmid|NN http|NN 
+squire|NN lr|NN dronkers|NN baldo|NN jv|NN 
+encyclopedia|NN of|NN neuroscience|NN 
+language|NN recovery|NN in|NN stroke|DS patient|NN ct|NN cbf|NN study|NN 
+aphasiology|NN 
+1|NN 
+s|NN 
+basso|NN macis|NN m|NN 
+therapy|NN efficacy|NN in|NN chronic|NN aphasia|DS http|NN 
+neurology|NN 
+http|NN 
+pmc|NN p|NN 
+pmid|NN http|NN 
+c|NN c|NN roze|NN e|NN r|NN maintigneux|NN l|NN ducreux|NN d|NN al|NN 
+aphasia|DS in|NN infarct|NN pattern|NN prognosis|NN 
+journal|NN of|NN neurology|NN 
+http|NN 
+pmid|NN http|NN 
+goodglass|NN kaplan|NN barresi|NN b|NN 
+assessment|NN of|NN aphasia|DS disorder|NN 
+lippincott|NN wilkins|NN 
+kertesz|NN 
+aphasia|DS 
+austin|NN tx|NN 
+common|NN classification|NN of|NN aphasia|DS http|NN 
+kolb|NN bryan|NN q|NN 
+fundamental|NN of|NN human|NN neuropsychology|NN 
+york|NN worth|NN 
+pp|NN 
+http|NN 
+godefroy|NN o|NN dubois|NN c|NN debachy|NN b|NN m|NN march|NN 
+aphasia|DS characteristic|NN of|NN patient|NN in|NN stroke|DS unit|NN 
+stroke|DS 
+http|NN 
+pmid|NN http|NN 
+ross|NN 
+wertz|NN 
+type|NN severity|NN of|NN aphasia|DS month|NN 
+journal|NN of|NN pathology|NN 
+coltheart|NN max|NN janice|NN ruth|NN 
+palpa|NN assessment|NN of|NN language|NN processing|NN in|NN aphasia|DS 
+hillsdale|NN lawrence|NN erlbaum|NN associate|NN 
+porter|NN howard|NN 
+cat|NN aphasia|DS test|NN 
+psychology|NN press|NN 
+mesulam|NN mm|NN 
+aphasia|DS 
+annals|NN of|NN neurology|NN 
+http|NN 
+pmid|NN http|NN 
+wilson|NN sm|NN henry|NN ml|NN m|NN ogar|NN jm|NN dronkers|NN w|NN al|NN 
+july|NN 
+speech|NN production|NN in|NN variant|NN of|NN aphasia|DS http|NN 
+brain|NN 
+http|NN 
+pmc|NN tps|NN 
+pmid|NN http|NN 
+m|NN 
+aphasia|DS contribution|NN knowledge|NN relationship|NN http|NN 
+neuropsychology|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+ml|NN hillis|NN ae|NN weintraub|NN s|NN mendez|NN m|NN cappa|NN sf|NN al|NN 
+march|NN 
+classification|NN of|NN aphasia|DS variant|NN http|NN 
+neurology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+carlson|NN n|NN 
+physiology|NN of|NN behavior|NN 
+york|NN pearson|NN 
+pp|NN 
+robey|NN rr|NN 
+of|NN outcome|NN in|NN treatment|NN of|NN aphasia|DS 
+journal|NN of|NN speech|NN language|NN hearing|NN research|NN 
+1|NN 
+http|NN 
+pmid|NN s|NN 
+j|NN n|NN r|NN d|NN 
+aphasia|DS disorder|NN stroke|DS 
+medicinski|NN arhiv|NN 
+http|NN 
+pmid|NN http|NN 
+murray|NN ll|NN 
+attention|NN deficit|NN in|NN aphasia|DS presence|NN relation|NN language|NN communication|NN measure|NN http|NN pdf|NN 
+journal|NN of|NN pathology|NN 
+2|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+hula|NN wd|NN mr|NN 
+model|NN of|NN attention|NN performance|NN construct|NN in|NN aphasia|DS 
+seminar|NN in|NN speech|NN language|NN 
+quiz|NN 
+http|NN 
+pmid|NN http|NN 
+j|NN ip|NN 
+performance|NN aphasia|DS recovery|NN 
+topic|NN in|NN stroke|DS rehabilitation|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+villard|NN s|NN s|NN 
+extent|NN attention|NN language|NN in|NN aphasia|DS 
+aphasiology|NN 
+http|NN 
+martin|NN n|NN j|NN 
+measurement|NN of|NN stm|NN span|NN in|NN aphasia|DS effect|NN of|NN item|NN task|NN impairment|NN 
+brain|NN language|NN 
+http|NN 
+pmid|NN http|NN 
+j|NN marshall|NN r|NN verner|NN e|NN 
+performance|NN of|NN individual|NN stroke|DS aphasia|DS individual|NN brain|NN damage|NN forward|NN backward|NN digit|NN span|NN task|NN http|NN 
+aphasiology|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+d|NN pg|NN peppas|NN c|NN evdokimidis|NN i|NN potagas|NN c|NN 
+deficit|NN dependent|NN presence|NN of|NN aphasia|DS in|NN brain|NN patient|NN 
+neuropsychologia|NN 
+http|NN 
+pmid|NN http|NN 
+wall|NN kj|NN tb|NN copland|NN da|NN 
+association|NN language|NN test|NN in|NN poststroke|NN aphasia|DS http|NN 
+frontier|NN in|NN neurology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+d|NN jenkins|NN 
+memory|NN production|NN in|NN people|NN aphasia|DS 
+journal|NN of|NN neurolinguistics|NN 
+http|NN 
+minkina|NN i|NN martin|NN n|NN spencer|NN ka|NN dl|NN 
+link|NN memory|NN word|NN retrieval|NN in|NN aphasia|DS http|NN 
+journal|NN of|NN pathology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+r|NN d|NN bacon|NN 
+attention|NN processing|NN in|NN participant|NN mild|NN anomia|ST 
+aphasiology|NN 
+http|NN 
+murray|NN ll|NN ramage|NN ae|NN 
+executive|NN function|NN ability|NN of|NN adult|NN communication|NN disorder|NN 
+seminar|NN in|NN speech|NN language|NN 
+2|NN http|NN 
+pmid|NN http|NN 
+murray|NN ll|NN 
+design|NN fluency|NN subsequent|NN of|NN aphasia|DS pattern|NN of|NN function|NN difficulty|NN 
+aphasiology|NN 
+http|NN 
+http|NN 
+m|NN 
+executive|NN function|NN ability|NN in|NN person|NN aphasia|DS 
+aphasiology|NN 
+http|NN 
+nicholas|NN m|NN hunsaker|NN e|NN guarino|NN aj|NN 
+relation|NN language|NN cognition|NN quality|NN of|NN life|NN in|NN people|NN aphasia|DS 
+aphasiology|NN 
+http|NN 
+j|NN copland|NN d|NN k|NN burfein|NN p|NN rodriguez|NN ad|NN 
+influence|NN of|NN ability|NN therapy|NN outcome|NN anomia|ST in|NN adult|NN chronic|NN poststroke|NN aphasia|DS http|NN pdf|NN 
+journal|NN of|NN speech|NN language|NN hearing|NN research|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+lambon|NN ralph|NN ma|NN snell|NN c|NN jk|NN conroy|NN p|NN sage|NN k|NN 
+outcome|NN of|NN anomia|ST therapy|NN people|NN aphasia|DS post|NN cva|NN language|NN status|NN predictor|NN 
+rehabilitation|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+murray|NN ll|NN keeton|NN rj|NN l|NN 
+attention|NN in|NN aphasia|DS evaluation|NN of|NN attention|NN process|NN 
+journal|NN of|NN communication|NN disorder|NN 
+1|NN http|NN 
+pmid|NN http|NN 
+peach|NN rk|NN beck|NN km|NN m|NN c|NN 2019|NN 
+outcome|NN attention|NN treatment|NN attention|NN train|NN aphasia|DS effectiveness|NN study|NN 
+journal|NN of|NN speech|NN language|NN hearing|NN research|NN 
+http|NN 
+pmid|NN http|NN 
+nouwens|NN lm|NN eg|NN wm|NN hf|NN goosen|NN s|NN al|NN 
+june|NN 
+efficacy|NN of|NN early|NN treatment|NN aphasia|DS stroke|DS trial|NN aphasia|DS http|NN 
+stroke|DS journal|NN 
+2|NN 2|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mayer|NN jf|NN murray|NN ll|NN 
+memory|NN deficit|NN in|NN aphasia|DS 
+journal|NN of|NN communication|NN disorder|NN 
+tps|NN 
+pmid|NN http|NN 
+aphasia|DS 
+aphasia|DS 
+http|NN 
+news|NN today|NN 
+template|NN web|NN clot|NN in|NN template|NN article|NN albrecht|NN j|NN x|NN m|NN al|NN 
+benefit|NN risk|NN of|NN anticoagulation|NN resumption|NN traumatic_brain_injury|DS 
+jama|NN intern|NN 
+doi|NN http|NN template|NN web|NN bakheit|NN s|NN carrington|NN s|NN griffith|NN 
+rate|NN extent|NN of|NN improvement|NN therapy|NN type|NN of|NN aphasia|DS in|NN year|NN stroke|DS 
+rehabilitation|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN kohen|NN f|NN martin|NN n|NN 
+remediation|NN of|NN language|NN processing|NN in|NN aphasia|DS activation|NN maintenance|NN of|NN representation|NN in|NN memory|NN http|NN 
+aphasiology|NN 
+http|NN 
+pmc|NN http|NN pmc3393127|NN 
+pmid|NN http|NN 
+d|NN clark|NN n|NN humphreys|NN 
+treatment|NN of|NN auditory|NN memory|NN deficit|NN implication|NN sentence|NN comprehension|NN ability|NN in|NN aphasia|DS 
+aphasiology|NN 
+http|NN 
+kohn|NN se|NN smith|NN kl|NN arsenault|NN jk|NN 
+remediation|NN of|NN conduction|NN aphasia|DS sentence|NN repetition|NN case|NN study|NN 
+journal|NN of|NN disorder|NN of|NN communication|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+schmitz|NN b|NN 
+rehabilitation|NN 
+philadelphia|NN 
+davis|NN 
+http|NN 
+aphasia|DS http|NN tment|NN 
+manasco|NN hunter|NN 
+introduction|NN communication|NN disorder|NN 
+jones|NN bartlett|NN learn|NN 
+isbn|NN 
+elsner|NN b|NN kugler|NN j|NN pohl|NN m|NN j|NN 
+stimulation|NN tdcs|NN aphasia|DS in|NN patient|NN aphasia|DS stroke|DS 
+cochrane|NN database|NN of|NN review|NN cd009760|NN 
+http|NN 
+pmid|NN http|NN 
+beeson|NN egnor|NN treatment|NN name|NN journal|NN of|NN society|NN 
+aphasia|DS 
+speech|NN language|NN hearing|NN association|NN 
+http|NN alexander|NN mt|NN hillis|NN ae|NN 
+aphasia|DS 
+in|NN g|NN miller|NN bl|NN aminoff|NN mj|NN boller|NN f|NN df|NN ed|NN 
+neuropsychology|NN neurology|NN handbook|NN of|NN neurology|NN 
+health|NN science|NN 
+pp|NN 
+http|NN 
+manasco|NN aphasia|DS 
+introduction|NN communication|NN disorder|NN 
+davis|NN stanton|NN feature|NN analysis|NN therapy|NN tool|NN 
+issue|NN in|NN communication|NN science|NN disorder|NN 
+km|NN capilouto|NN gj|NN 
+effectiveness|NN of|NN feature|NN analysis|NN review|NN 
+annals|NN of|NN rehabilitation|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+norton|NN zipse|NN l|NN s|NN g|NN 
+intonation|NN therapy|NN insight|NN http|NN pmc2780359|NN 
+annals|NN of|NN york|NN academy|NN of|NN science|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+der|NN meulen|NN i|NN ribbers|NN 
+intonation|NN therapy|NN controversy|NN opportunity|NN 
+archive|NN of|NN medicine|NN rehabilitation|NN 
+1|NN suppl|NN 
+http|NN 
+pmid|NN http|NN 
+stahl|NN b|NN sa|NN 
+music|NN issue|NN in|NN research|NN sing|NN aphasia|DS http|NN 
+frontier|NN in|NN psychology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+aphasia|DS http|NN 
+institute|NN deafness|NN communication|NN disorder|NN 
+russo|NN mj|NN 
+communication|NN adult|NN stroke|DS aphasia|DS review|NN 
+review|NN of|NN device|NN 
+mc|NN j|NN p|NN campbell|NN p|NN 
+speech|NN language|NN therapy|NN aphasia|DS stroke|DS 
+cochrane|NN database|NN of|NN review|NN cd000425|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+cherney|NN lr|NN patterson|NN jp|NN raymer|NN 
+intensity|NN of|NN aphasia|DS therapy|NN evidence|NN efficacy|NN 
+neurology|NN neuroscience|NN report|NN 
+http|NN 
+pmid|NN http|NN 
+sage|NN k|NN snell|NN c|NN lambon|NN ralph|NN ma|NN 
+anomia|ST therapy|NN people|NN aphasia|DS need|NN 
+rehabilitation|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+palmer|NN r|NN 
+innovation|NN in|NN aphasia|DS treatment|NN stroke|DS technology|NN rescue|NN 
+journal|NN of|NN neuroscience|NN nurse|NN 
+p|NN 
+mm|NN balarabe|NN sa|NN 
+factor|NN aphasia|DS recovery|NN 
+journal|NN of|NN science|NN 
+s|NN 
+pmid|NN http|NN 
+ac|NN murray|NN v|NN t|NN 
+aphasia|DS in|NN stroke|DS relation|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+mccrory|NN pr|NN sf|NN 
+concussion|NN history|NN of|NN concept|NN misconception|NN 
+neurology|NN 
+http|NN 
+pmid|NN http|NN 
+p|NN whitaker|NN h|NN 
+chapter|NN history|NN of|NN aphasia|DS 
+history|NN of|NN neurology|NN 
+handbook|NN of|NN neurology|NN 
+pp|NN 
+s|NN 
+pmid|NN http|NN 
+boller|NN f|NN 
+baptist|NN schmidt|NN 
+pioneer|NN in|NN history|NN of|NN aphasia|DS 
+archive|NN of|NN neurology|NN 
+http|NN 
+pmid|NN http|NN 
+pmid|NN http|NN 
+w|NN 
+early|NN history|NN of|NN aphasia|DS 
+bulletin|NN of|NN history|NN of|NN medicine|NN 
+ἀφασία|NN http|NN george|NN liddell|NN robert|NN scott|NN lexicon|NN perseus|NN 
+ἄφατος|NN http|NN george|NN liddell|NN robert|NN scott|NN lexicon|NN perseus|NN 
+link|NN aphasia|DS http|NN classification|NN d|NN p|NN http|NN http|NN p|NN hx|NN http|NN p|NN hx|NN http|NN d001037|NN http|NN i|NN diseasesdb|NN http|NN medlineplus|NN http|NN emedicine|NN http|NN erview|NN resource|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

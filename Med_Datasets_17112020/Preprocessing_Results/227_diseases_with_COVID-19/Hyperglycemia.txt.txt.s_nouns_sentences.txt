@@ -1,0 +1,75 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN disorder|NN blood|NN sugar|NN
+Hyperglycemia|Disease name|NN Hyperglycemia|Disease Hyperglycemia|Disease hexagon|NN image|NN glucose|NN molecule|NN image|NN
+Hyperglycemia|Disease Hyperglycemia|Disease Hyperglycemia|Disease condition|NN amount|NN glucose|NN blood|NN plasma|NN
+blood|NN sugar|NN level|NN symptom|NN value|NN mmoll|NN
+subject|NN range|NN mmoll|NN diabete|NN association|NN guideline|NN diabete|NN
+diabetics|NN glucose|NN level|NN person|NN person|NN person|NN threshold|NN glucose|NN glucose|NN tolerance|NN
+average|NN level|NN mmoll|NN organ|NN damage|NN time|NN
+sign|NN symptom|NN complication|NN cause|NN diabete|NN mellitus|NN drug|NN illness|NN stress|NN mechanism|NN diagnosis|NN monitor|NN treatment|NN reference|NN link|NN
+sign|NN symptom|NN
+degree|NN Hyperglycemia|Disease time|NN cause|NN example|NN glucose|NN tolerance|NN fast|NN glucose|NN treatment|NN Hyperglycemia|Disease
+blood|NN glucose|NN level|NN cause|NN change|NN period|NN effect|NN symptom|NN period|NN abnormality|NN carbohydrate|NN metabolism|NN plasma|NN glucose|NN Hyperglycemia|Disease level|NN variety|NN complication|NN period|NN year|NN kidney|NN damage|NN damage|NN damage|NN damage|NN retina|NN damage|NN feet|NN leg|NN
+neuropathy|NN result|NN Hyperglycemia|Disease
+impairment|NP growth|NN susceptibility|NN infection|NN result|NN Hyperglycemia|Disease
+Hyperglycemia|Disease glucose|NN level|NN emergency|NN complication|NN fluid|NN loss|NN diuresis|NN
+person|NN diabete|NN
+symptom|NN Hyperglycemia|Disease hyperglycemic|NN triad|NN
+hunger|NN hunger|NN thirst|NN thirst|NN volume|NN urination|NN frequency|NN consequence|NN vision|NN fatigue|NN weight|NN loss|NN wound|NN heal|NN cut|NN
+mouth|NN skin|NN feet|NN heel|NN dysfunction|NN infection|NN ear|NN infection|NN swimmer|NN ear|NN arrhythmia|NN seizure|NN
+hunger|NN symptom|NN blood|NN sugar|NN level|NN
+people|NN diabete|NN hypoglycemic|NN medication|NN insulin|NN amount|NN food|NN
+drop|NN blood|NN sugar|NN level|NN range|NN hunger|NN response|NN
+blood|NN glucose|NN level|NN rise|NN excretion|NN glucose|NN kidney|NN presence|NN glucose|NN urine|NN
+sign|NN symptom|NN ketoacidosis|NN
+hyperventilation|NN breath|NN confusion|NN level|NN consciousness|NN glycosuria|NN thirst|NN breath|NN nausea|NN vomit|NN impairment|NN function|NN sadness|NN anxiety|NN weight|NN loss|NN
+Hyperglycemia|Disease decrease|NN performance|NN process|NN speed|NN executive|NN function|NN performance|NN performance|NN forgetfulness|NN concentration|NN loss|NN complication|NN
+Hyperglycemia|Disease condition|NN insulin|NN level|NN activity|NN hormone|NN lipase|NN degradation|NN triacylglyceride|NN lipase|NN acid|NN
+condition|NN treatment|NN
+symptom|NN shortness|NN breath|NN breath|NN pear|NN drop|NN nausea|NN vomit|NN mouth|NN
+Hyperglycemia|Disease Hyperglycemia|Disease heart|NN patient|NN history|NN heart|NN disease|NN diabete|NN heart|NN attack|NN death|NN subject|NN heart|NN disease|NN history|NN heart|NN failure|NN
+consequence|NN Hyperglycemia|Disease syndrome|NN
+Hyperglycemia|Disease immunosuppression|NN infection|NN wound|NN heal|NN sympatho-adrenergic|NN stimulation|NN mortality|NN
+addition|NN skin|NN graft|NN success|NN brain|NN cord|NN damage|NN ischemia|NN outcome|NN head|NN injury|NN dysfunction|NN cause|NN diabete|NN mellitus|NN
+Hyperglycemia|Disease state|NN diabete|NN mellitus|NN
+fact|NN Hyperglycemia|Disease characteristic|NN disease|NN
+Hyperglycemia|Disease state|NN
+episode|NN Hyperglycemia|Disease cause|NN diabete|NN predisposition|NN disorder|NN
+diabete|NN mellitus|NN Hyperglycemia|Disease insulin|NN level|NN diabete|NN mellitus|NN type|NN resistance|NN insulin|NN level|NN diabete|NN mellitus|NN type|NN type|NN state|NN disease|NN
+insulin|NN level|NN insulin|NN resistance|NN body|NN glucose|NN glycogen|NN source|NN energy|NN liver|NN turn|NN glucose|NN blood|NN
+glucose|NN level|NN amount|NN glucose|NN blood|NN moment|NN energy|NN body|NN minute|NN glucose|NN level|NN control|NN mechanism|NN
+mechanism|NN way|NN glucose|NN rise|NN level|NN Hyperglycemia|Disease result|NN
+symptom|NN diabete|NN children|NN adolescent|NN patient|NN diabete|NN fast|NN Hyperglycemia|Disease Hyperglycemia|Disease result|NN stress|NN infection|NN drug|NN
+medication|NN risk|NN Hyperglycemia|Disease corticosteroid|NN octreotide|NN beta|NN blocker|NN epinephrine|NN diuretics|NN protease|NN inhibitor|NN administration|NN stimulant|NN amphetamine|NN Hyperglycemia|Disease use|NN
+medication|NN olanzapine|NN duloxetine|NN Hyperglycemia|Disease
+type|NN diabete|NN Hyperglycemia|Disease illness|NN
+proportion|NN patient|NN stress|NN stroke|NN infarction|NN Hyperglycemia|Disease absence|NN diagnosis|NN diabete|NN
+stroke|NN infarction|NN Hyperglycemia|Disease diabete|NN
+animal|NN study|NN Hyperglycemia|Disease risk|NN mortality|NN stroke|NN infarction|NN
+hypokalemia|NN Hyperglycemia|Disease removal|NN tumour|NN stress|NN
+condition|NN Hyperglycemia|Disease absence|NN diabete|NN dysfunction|NN gland|NN disease|NN pancrea|NN increase|NN blood|NN glucose|NN sepsis|NN infection|NN disease|NN Hyperglycemia|Disease
+brain|NN gland|NN brain|NN meningitis|NN example|NN Hyperglycemia|Disease level|NN convulsion|NN stage|NN disease|NN
+surgery|NN glucose|NN level|NN
+citation|NN form|NN stress|NN trauma|NN level|NN time|NN mgdl|NN
+growth|NN hormone|NN glucagon|NN Hyperglycemia|Disease body|NN amount|NN cytokine|NN carbohydrate|NN metabolism|NN glucose|NN production|NN uptake|NN tissue|NN Hyperglycemia|Disease diagnosis|NN monitor|NN
+patient|NN glucose|NN level|NN home|NN unit|NN measurement|NN test|NN kit|NN
+mmoll|NN standard|NN unit|NN country|NN world|NN
+mgdl|NN country|NN united|NP states|NP japan|NP france|NP egypt|NP colombia|NP
+journal|NN journal|NN unit|NN quote|NN parenthese|NN
+level|NN meal|NN time|NN day|NN definition|NN professional|NN
+general|NN range|NN people|NN adult|NN
+mmoll|NN mgdl|NN
+subject|NN range|NN mgdl|NN Hyperglycemia|Disease range|NN mgdl|NN
+adult|NN blood|NN plasma|NN glucose|NN mmoll|NN mgdl|NN
+level|NN blood|NN sugar|NN cause|NN damage|NN blood|NN vessel|NN organ|NN complication|NN diabete|NN
+Hyperglycemia|Disease test|NN
+definition|NN Hyperglycemia|Disease study|NN level|NN mgdl|NN level|NN
+defect|NN insulin|NN secretion|NN insulin|NN action|NN result|NN Hyperglycemia|Disease treatment|NN
+treatment|NN Hyperglycemia|Disease elimination|NN cause|NN diabete|NN
+Hyperglycemia|Disease administration|NN insulin|NN case|NN
+Hyperglycemia|Disease therapy|NN lifestyle|NN modification|NN
+diabete|NN mellitus|NN cause|NN Hyperglycemia|Disease treatment|NN aim|NN blood|NN glucose|NN level|NN close|NN order|NN complication|NN
+combination|NN diet|NN exercise|NN insulin|NN medication|NN
+drug|NN control|NN inhibitor|NN combination|NN insulin|NN treatment|NN Hyperglycemia|Disease patient|NN hospital|NN
+origin|NN term|NN prefix|NN
+suffix|NN noun|NN gender|NN
+reference|NN range|NN blood|NN test|NN

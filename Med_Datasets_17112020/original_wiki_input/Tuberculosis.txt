@@ -1,0 +1,280 @@
+Tuberculosis,TB,phthisis,phthisis pulmonalis,consumption
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Tuberculosis
+Other names	Phthisis, phthisis pulmonalis, consumption
+Tuberculosis-x-ray-1.jpg
+Chest X-ray of a person with advanced tuberculosis: Infection in both lungs is marked by white arrow-heads, and the formation of a cavity is marked by black arrows.
+Specialty	Infectious disease, pulmonology
+Symptoms	Chronic cough, fever, blood in the sputum, weight loss[1]
+Causes	Mycobacterium tuberculosis[1]
+Risk factors	Smoking, HIV/AIDS[1]
+Diagnostic method	CXR, culture, tuberculin skin test[1]
+Differential diagnosis	Necrotizing pneumonia, histoplasmosis, sarcoidosis, coccidioidomycosis[2]
+Prevention	Screening those at high risk, treatment of those infected, vaccination with bacillus Calmette-Guérin (BCG)[3][4][5]
+Treatment	Antibiotics[1]
+Frequency	25% of people (latent TB)[6]
+Deaths	1.6 million (2017)[7]
+
+Tuberculosis (TB) is an infectious disease usually caused by Mycobacterium tuberculosis (MTB) bacteria.[1] Tuberculosis generally affects the lungs, but can also affect other parts of the body.[1] Most infections do not have symptoms, in which case it is known as latent tuberculosis.[1] About 10% of latent infections progress to active disease which, if left untreated, kills about half of those affected.[1] The classic symptoms of active TB are a chronic cough with blood-containing sputum, fever, night sweats, and weight loss.[1] It was historically called "consumption" due to the weight loss.[8] Infection of other organs can cause a wide range of symptoms.[9]
+
+Tuberculosis is spread through the air when people who have active TB in their lungs cough, spit, speak, or sneeze.[1][10] People with latent TB do not spread the disease.[1] Active infection occurs more often in people with HIV/AIDS and in those who smoke.[1] Diagnosis of active TB is based on chest X-rays, as well as microscopic examination and culture of body fluids.[11] Diagnosis of latent TB relies on the tuberculin skin test (TST) or blood tests.[11]
+
+Prevention of TB involves screening those at high risk, early detection and treatment of cases, and vaccination with the bacillus Calmette-Guérin (BCG) vaccine.[3][5][4] Those at high risk include household, workplace, and social contacts of people with active TB.[4] Treatment requires the use of multiple antibiotics over a long period of time.[1] Antibiotic resistance is a growing problem with increasing rates of multiple drug-resistant tuberculosis (MDR-TB) and extensively drug-resistant tuberculosis (XDR-TB).[1]
+
+Presently, one-quarter of the world's population is thought to be infected with TB.[6] New infections occur in about 1% of the population each year.[12] In 2017, there were more than 10 million cases of active TB which resulted in 1.6 million deaths.[7] This makes it the number one cause of death from an infectious disease.[7] More than 95% of deaths occurred in developing countries, and more than 50% in India, China, Indonesia, Pakistan, and the Philippines.[7] The number of new cases each year has decreased since 2000.[1] About 80% of people in many Asian and African countries test positive while 5–10% of people in the United States population test positive by the tuberculin test.[13] Tuberculosis has been present in humans since ancient times.[14]
+File:Wikipedia-VideoWiki-Tuberculosis.webmPlay media
+Video summary (script)
+Contents
+
+    1 Signs and symptoms
+        1.1 Pulmonary
+        1.2 Extrapulmonary
+    2 Causes
+        2.1 Mycobacteria
+        2.2 Risk factors
+    3 Mechanism
+        3.1 Transmission
+        3.2 Pathogenesis
+    4 Diagnosis
+        4.1 Active tuberculosis
+        4.2 Latent tuberculosis
+    5 Prevention
+        5.1 Vaccines
+        5.2 Public health
+    6 Management
+        6.1 New onset
+        6.2 Recurrent disease
+        6.3 Medication administration
+        6.4 Medication resistance
+    7 Prognosis
+    8 Epidemiology
+    9 History
+    10 Society and culture
+        10.1 Names
+        10.2 Art and literature
+        10.3 Public health efforts
+        10.4 Stigma
+    11 Research
+    12 Other animals
+    13 References
+    14 External links
+
+Signs and symptoms
+The main symptoms of variants and stages of tuberculosis are given,[15] with many symptoms overlapping with other variants, while others are more (but not entirely) specific for certain variants. Multiple variants may be present simultaneously.
+
+Tuberculosis may infect any part of the body, but most commonly occurs in the lungs (known as pulmonary tuberculosis).[9] Extrapulmonary TB occurs when tuberculosis develops outside of the lungs, although extrapulmonary TB may coexist with pulmonary TB.[9]
+
+General signs and symptoms include fever, chills, night sweats, loss of appetite, weight loss, and fatigue.[9] Significant nail clubbing may also occur.[16]
+Pulmonary
+
+If a tuberculosis infection does become active, it most commonly involves the lungs (in about 90% of cases).[14][17] Symptoms may include chest pain and a prolonged cough producing sputum. About 25% of people may not have any symptoms (i.e. they remain "asymptomatic").[14] Occasionally, people may cough up blood in small amounts, and in very rare cases, the infection may erode into the pulmonary artery or a Rasmussen's aneurysm, resulting in massive bleeding.[9][18] Tuberculosis may become a chronic illness and cause extensive scarring in the upper lobes of the lungs. The upper lung lobes are more frequently affected by tuberculosis than the lower ones.[9] The reason for this difference is not clear.[13] It may be due to either better air flow,[13] or poor lymph drainage within the upper lungs.[9]
+Extrapulmonary
+Main article: Extrapulmonary tuberculosis
+
+In 15–20% of active cases, the infection spreads outside the lungs, causing other kinds of TB.[19] These are collectively denoted as "extrapulmonary tuberculosis".[20] Extrapulmonary TB occurs more commonly in people with a weakened immune system and young children. In those with HIV, this occurs in more than 50% of cases.[20] Notable extrapulmonary infection sites include the pleura (in tuberculous pleurisy), the central nervous system (in tuberculous meningitis), the lymphatic system (in scrofula of the neck), the genitourinary system (in urogenital tuberculosis), and the bones and joints (in Pott disease of the spine), among others. A potentially more serious, widespread form of TB is called "disseminated tuberculosis", also known as miliary tuberculosis.[9] Miliary TB currently makes up about 10% of extrapulmonary cases.[21]
+Causes
+Mycobacteria
+Main article: Mycobacterium tuberculosis
+Scanning electron micrograph of M. tuberculosis
+
+The main cause of TB is Mycobacterium tuberculosis (MTB), a small, aerobic, nonmotile bacillus.[9] The high lipid content of this pathogen accounts for many of its unique clinical characteristics.[22] It divides every 16 to 20 hours, which is an extremely slow rate compared with other bacteria, which usually divide in less than an hour.[23] Mycobacteria have an outer membrane lipid bilayer.[24] If a Gram stain is performed, MTB either stains very weakly "Gram-positive" or does not retain dye as a result of the high lipid and mycolic acid content of its cell wall.[25] MTB can withstand weak disinfectants and survive in a dry state for weeks. In nature, the bacterium can grow only within the cells of a host organism, but M. tuberculosis can be cultured in the laboratory.[26]
+
+Using histological stains on expectorated samples from phlegm (also called "sputum"), scientists can identify MTB under a microscope. Since MTB retains certain stains even after being treated with acidic solution, it is classified as an acid-fast bacillus.[13][25] The most common acid-fast staining techniques are the Ziehl–Neelsen stain[27] and the Kinyoun stain, which dye acid-fast bacilli a bright red that stands out against a blue background.[28] Auramine-rhodamine staining[29] and fluorescence microscopy[30] are also used.
+
+The M. tuberculosis complex (MTBC) includes four other TB-causing mycobacteria: M. bovis, M. africanum, M. canetti, and M. microti.[31] M. africanum is not widespread, but it is a significant cause of tuberculosis in parts of Africa.[32][33] M. bovis was once a common cause of tuberculosis, but the introduction of pasteurized milk has almost completely eliminated this as a public health problem in developed countries.[13][34] M. canetti is rare and seems to be limited to the Horn of Africa, although a few cases have been seen in African emigrants.[35][36] M. microti is also rare and is seen almost only in immunodeficient people, although its prevalence may be significantly underestimated.[37]
+
+Other known pathogenic mycobacteria include M. leprae, M. avium, and M. kansasii. The latter two species are classified as "nontuberculous mycobacteria" (NTM). NTM cause neither TB nor leprosy, but they do cause lung diseases that resemble TB.[38]
+Risk factors
+Main article: Risk factors for tuberculosis
+
+A number of factors make people more susceptible to TB infections. The most important risk factor globally is HIV; 13% of all people with TB are infected by the virus.[39] This is a particular problem in sub-Saharan Africa, where rates of HIV are high.[40][41] Of people without HIV who are infected with tuberculosis, about 5–10% develop active disease during their lifetimes;[16] in contrast, 30% of those coinfected with HIV develop the active disease.[16]
+
+Tuberculosis is closely linked to both overcrowding and malnutrition, making it one of the principal diseases of poverty.[14] Those at high risk thus include: people who inject illicit drugs, inhabitants and employees of locales where vulnerable people gather (e.g. prisons and homeless shelters), medically underprivileged and resource-poor communities, high-risk ethnic minorities, children in close contact with high-risk category patients, and health-care providers serving these patients.[42]
+
+Chronic lung disease is another significant risk factor. Silicosis increases the risk about 30-fold.[43] Those who smoke cigarettes have nearly twice the risk of TB compared to nonsmokers.[44]
+
+Other disease states can also increase the risk of developing tuberculosis. These include alcoholism[14] and diabetes mellitus (three-fold increase).[45]
+
+Certain medications, such as corticosteroids and infliximab (an anti-αTNF monoclonal antibody), are becoming increasingly important risk factors, especially in the developed world.[14]
+
+Genetic susceptibility also exists,[46] for which the overall importance remains undefined.[14]
+Mechanism
+Public health campaigns in the 1920s tried to halt the spread of TB.
+Transmission
+
+When people with active pulmonary TB cough, sneeze, speak, sing, or spit, they expel infectious aerosol droplets 0.5 to 5.0 µm in diameter. A single sneeze can release up to 40,000 droplets.[47] Each one of these droplets may transmit the disease, since the infectious dose of tuberculosis is very small (the inhalation of fewer than 10 bacteria may cause an infection).[48]
+
+People with prolonged, frequent, or close contact with people with TB are at particularly high risk of becoming infected, with an estimated 22% infection rate.[49] A person with active but untreated tuberculosis may infect 10–15 (or more) other people per year.[50] Transmission should occur from only people with active TB – those with latent infection are not thought to be contagious.[13] The probability of transmission from one person to another depends upon several factors, including the number of infectious droplets expelled by the carrier, the effectiveness of ventilation, the duration of exposure, the virulence of the M. tuberculosis strain, the level of immunity in the uninfected person, and others.[51] The cascade of person-to-person spread can be circumvented by segregating those with active ("overt") TB and putting them on anti-TB drug regimens. After about two weeks of effective treatment, subjects with nonresistant active infections generally do not remain contagious to others.[49] If someone does become infected, it typically takes three to four weeks before the newly infected person becomes infectious enough to transmit the disease to others.[52]
+Pathogenesis
+Microscopy of tuberculous epididymitis. H&E stain
+
+About 90% of those infected with M. tuberculosis have asymptomatic, latent TB infections (sometimes called LTBI),[53] with only a 10% lifetime chance that the latent infection will progress to overt, active tuberculous disease.[54] In those with HIV, the risk of developing active TB increases to nearly 10% a year.[54] If effective treatment is not given, the death rate for active TB cases is up to 66%.[50]
+
+TB infection begins when the mycobacteria reach the alveolar air sacs of the lungs, where they invade and replicate within endosomes of alveolar macrophages.[13][55][56] Macrophages identify the bacterium as foreign and attempt to eliminate it by phagocytosis. During this process, the bacterium is enveloped by the macrophage and stored temporarily in a membrane-bound vesicle called a phagosome. The phagosome then combines with a lysosome to create a phagolysosome. In the phagolysosome, the cell attempts to use reactive oxygen species and acid to kill the bacterium. However, M. tuberculosis has a thick, waxy mycolic acid capsule that protects it from these toxic substances. M. tuberculosis is able to reproduce inside the macrophage and will eventually kill the immune cell.
+
+The primary site of infection in the lungs, known as the "Ghon focus", is generally located in either the upper part of the lower lobe, or the lower part of the upper lobe.[13] Tuberculosis of the lungs may also occur via infection from the blood stream. This is known as a Simon focus and is typically found in the top of the lung.[57] This hematogenous transmission can also spread infection to more distant sites, such as peripheral lymph nodes, the kidneys, the brain, and the bones.[13][58] All parts of the body can be affected by the disease, though for unknown reasons it rarely affects the heart, skeletal muscles, pancreas, or thyroid.[59]
+Robert Carswell's illustration of tubercle[60]
+
+Tuberculosis is classified as one of the granulomatous inflammatory diseases. Macrophages, T lymphocytes, B lymphocytes, and fibroblasts aggregate to form granulomas, with lymphocytes surrounding the infected macrophages. When other macrophages attack the infected macrophage, they fuse together to form a giant multinucleated cell in the alveolar lumen. The granuloma may prevent dissemination of the mycobacteria and provide a local environment for interaction of cells of the immune system.[61] However, more recent evidence suggests that the bacteria use the granulomas to avoid destruction by the host's immune system. Macrophages and dendritic cells in the granulomas are unable to present antigen to lymphocytes; thus the immune response is suppressed.[62] Bacteria inside the granuloma can become dormant, resulting in latent infection. Another feature of the granulomas is the development of abnormal cell death (necrosis) in the center of tubercles. To the naked eye, this has the texture of soft, white cheese and is termed caseous necrosis.[61]
+
+If TB bacteria gain entry to the blood stream from an area of damaged tissue, they can spread throughout the body and set up many foci of infection, all appearing as tiny, white tubercles in the tissues.[63] This severe form of TB disease, most common in young children and those with HIV, is called miliary tuberculosis.[64] People with this disseminated TB have a high fatality rate even with treatment (about 30%).[21][65]
+
+In many people, the infection waxes and wanes. Tissue destruction and necrosis are often balanced by healing and fibrosis.[61] Affected tissue is replaced by scarring and cavities filled with caseous necrotic material. During active disease, some of these cavities are joined to the air passages (bronchi) and this material can be coughed up. It contains living bacteria, and thus can spread the infection. Treatment with appropriate antibiotics kills bacteria and allows healing to take place. Upon cure, affected areas are eventually replaced by scar tissue.[61]
+Diagnosis
+Main article: Tuberculosis diagnosis
+M. tuberculosis (stained red) in sputum
+Active tuberculosis
+
+Diagnosing active tuberculosis based only on signs and symptoms is difficult,[66] as is diagnosing the disease in those who have a weakened immune system.[67] A diagnosis of TB should, however, be considered in those with signs of lung disease or constitutional symptoms lasting longer than two weeks.[67] A chest X-ray and multiple sputum cultures for acid-fast bacilli are typically part of the initial evaluation.[67] Interferon-γ release assays and tuberculin skin tests are of little use in the developing world.[68][69] Interferon gamma release assays (IGRA) have similar limitations in those with HIV.[69][70]
+
+A definitive diagnosis of TB is made by identifying M. tuberculosis in a clinical sample (e.g., sputum, pus, or a tissue biopsy). However, the difficult culture process for this slow-growing organism can take two to six weeks for blood or sputum culture.[71] Thus, treatment is often begun before cultures are confirmed.[72]
+
+Nucleic acid amplification tests and adenosine deaminase testing may allow rapid diagnosis of TB.[66] These tests, however, are not routinely recommended, as they rarely alter how a person is treated.[72] Blood tests to detect antibodies are not specific or sensitive, so they are not recommended.[73]
+Latent tuberculosis
+Main article: Latent tuberculosis
+Mantoux tuberculin skin test
+
+The Mantoux tuberculin skin test is often used to screen people at high risk for TB.[67] Those who have been previously immunized with the Bacille Calmette-Guerin vaccine may have a false-positive test result.[74] The test may be falsely negative in those with sarcoidosis, Hodgkin's lymphoma, malnutrition, and most notably, active tuberculosis.[13] Interferon gamma release assays, on a blood sample, are recommended in those who are positive to the Mantoux test.[72] These are not affected by immunization or most environmental mycobacteria, so they generate fewer false-positive results.[75] However, they are affected by M. szulgai, M. marinum, and M. kansasii.[76] IGRAs may increase sensitivity when used in addition to the skin test, but may be less sensitive than the skin test when used alone.[77]
+
+The US Preventive Services Task Force (USPSTF) has recommended screening people who are at high risk for latent tuberculosis with either tuberculin skin tests or interferon-gamma release assays.[78] While some have recommend testing health care workers, evidence of benefit for this is poor as of 2019.[79] The CDC stopped recommending yearly testing of health care workers without known exposure in 2019.[80]
+Prevention
+Tuberculosis prevention poster from the United States, c. 1940
+
+Tuberculosis prevention and control efforts rely primarily on the vaccination of infants and the detection and appropriate treatment of active cases.[14] The World Health Organization has achieved some success with improved treatment regimens, and a small decrease in case numbers.[14]
+Vaccines
+Main articles: Tuberculosis vaccines and BCG vaccine
+
+The only available vaccine as of 2011 is Bacillus Calmette-Guérin (BCG).[81] In children it decreases the risk of getting the infection by 20% and the risk of infection turning into active disease by nearly 60%.[82]
+
+It is the most widely used vaccine worldwide, with more than 90% of all children being vaccinated.[14] The immunity it induces decreases after about ten years.[14] As tuberculosis is uncommon in most of Canada, the United Kingdom, and the United States, BCG is administered to only those people at high risk.[83][84][85] Part of the reasoning against the use of the vaccine is that it makes the tuberculin skin test falsely positive, reducing the test's usefulness as a screening tool.[85] A number of new vaccines are currently in development.[14]
+Public health
+
+The World Health Organization declared TB a "global health emergency" in 1993,[14] and in 2006, the Stop TB Partnership developed a Global Plan to Stop Tuberculosis that aimed to save 14 million lives between its launch and 2015.[86] A number of targets they set were not achieved by 2015, mostly due to the increase in HIV-associated tuberculosis and the emergence of multiple drug-resistant tuberculosis.[14] A tuberculosis classification system developed by the American Thoracic Society is used primarily in public health programs.[87]
+Management
+Main article: Tuberculosis management
+
+Treatment of TB uses antibiotics to kill the bacteria. Effective TB treatment is difficult, due to the unusual structure and chemical composition of the mycobacterial cell wall, which hinders the entry of drugs and makes many antibiotics ineffective.[88]
+
+Latent TB is treated with either isoniazid alone, or a combination of isoniazid with either rifampicin or rifapentine.[89][90] The treatment takes at least three months.[51][89][91] People with latent infections are treated to prevent them from progressing to active TB disease later in life.[92]
+
+Active TB disease is best treated with combinations of several antibiotics to reduce the risk of the bacteria developing antibiotic resistance.[14]
+New onset
+
+The recommended treatment of new-onset pulmonary tuberculosis, as of 2010, is six months of a combination of antibiotics containing rifampicin, isoniazid, pyrazinamide, and ethambutol for the first two months, and only rifampicin and isoniazid for the last four months.[14] Where resistance to isoniazid is high, ethambutol may be added for the last four months as an alternative.[14]
+Recurrent disease
+
+If tuberculosis recurs, testing to determine which antibiotics it is sensitive to is important before determining treatment.[14] If multiple drug-resistant TB (MDR-TB) is detected, treatment with at least four effective antibiotics for 18 to 24 months is recommended.[14]
+Medication administration
+
+Directly observed therapy, i.e., having a health care provider watch the person take their medications, is recommended by the WHO in an effort to reduce the number of people not appropriately taking antibiotics.[93] The evidence to support this practice over people simply taking their medications independently is of poor quality.[94] There is no strong evidence indicating that directly observed therapy improves the number of people who were cured or the number of people who complete their medicine.[94] Moderate quality evidence suggests that there is also no difference if people are observed at home versus at a clinic, or by a family member versus a health care worker.[94] Methods to remind people of the importance of treatment and appointments may result in a small but important improvement.[95]
+Medication resistance
+
+Primary resistance occurs when a person becomes infected with a resistant strain of TB. A person with fully susceptible MTB may develop secondary (acquired) resistance during therapy because of inadequate treatment, not taking the prescribed regimen appropriately (lack of compliance), or using low-quality medication.[96] Drug-resistant TB is a serious public health issue in many developing countries, as its treatment is longer and requires more expensive drugs. MDR-TB is defined as resistance to the two most effective first-line TB drugs: rifampicin and isoniazid. Extensively drug-resistant TB is also resistant to three or more of the six classes of second-line drugs.[97] Totally drug-resistant TB is resistant to all currently used drugs.[98] It was first observed in 2003 in Italy,[99] but not widely reported until 2012,[98][100] and has also been found in Iran and India.[101][102] Bedaquiline is tentatively supported for use in multiple drug-resistant TB.[103]
+
+XDR-TB is a term sometimes used to define extensively resistant TB, and constitutes one in ten cases of MDR-TB. Cases of XDR TB have been identified in more than 90% of countries.[101]
+Prognosis
+Age-standardized disability-adjusted life years caused by tuberculosis per 100,000 inhabitants in 2004.[104]
+  no data
+  ≤10
+  10–25
+  25–50
+  50–75
+  75–100
+  100–250
+	
+  250–500
+  500–750
+  750–1000
+  1000–2000
+  2000–3000
+  ≥ 3000
+
+Progression from TB infection to overt TB disease occurs when the bacilli overcome the immune system defenses and begin to multiply. In primary TB disease (some 1–5% of cases), this occurs soon after the initial infection.[13] However, in the majority of cases, a latent infection occurs with no obvious symptoms.[13] These dormant bacilli produce active tuberculosis in 5–10% of these latent cases, often many years after infection.[16]
+
+The risk of reactivation increases with immunosuppression, such as that caused by infection with HIV. In people coinfected with M. tuberculosis and HIV, the risk of reactivation increases to 10% per year.[13] Studies using DNA fingerprinting of M. tuberculosis strains have shown reinfection contributes more substantially to recurrent TB than previously thought,[105] with estimates that it might account for more than 50% of reactivated cases in areas where TB is common.[106] The chance of death from a case of tuberculosis is about 4% as of 2008, down from 8% in 1995.[14]
+Epidemiology
+Main article: Epidemiology of tuberculosis
+World map with sub-Saharan Africa in various shades of yellow, marking prevalences above 300 per 100,000, and with the U.S., Canada, Australia, and northern Europe in shades of deep blue, marking prevalences around 10 per 100,000. Asia is yellow but not quite so bright, marking prevalences around 200 per 100,000 range. South America is a darker yellow.
+In 2007, the number of cases of TB per 100,000 people was highest in sub-Saharan Africa, and was also relatively high in Asia.[107]
+Tuberculosis deaths per million persons in 2012
+  0–3
+  4–7
+  8–16
+  17–26
+  27–45
+  46–83
+  84–137
+  138–215
+  216–443
+  444-1,359
+
+Roughly one-quarter of the world's population has been infected with M. tuberculosis,[6] with new infections occurring in about 1% of the population each year.[12] However, most infections with M. tuberculosis do not cause TB disease,[108] and 90–95% of infections remain asymptomatic.[53] In 2012, an estimated 8.6 million chronic cases were active.[109] In 2010, 8.8 million new cases of TB were diagnosed, and 1.20–1.45 million deaths occurred, most of these occurring in developing countries.[39][110] Of these 1.45 million deaths, about 0.35 million occur in those also infected with HIV.[111]
+
+Tuberculosis is the second-most common cause of death from infectious disease (after those due to HIV/AIDS).[9] The total number of tuberculosis cases has been decreasing since 2005, while new cases have decreased since 2002.[39] China has achieved particularly dramatic progress, with about an 80% reduction in its TB mortality rate between 1990 and 2010.[111] The number of new cases has declined by 17% between 2004 and 2014.[101] Tuberculosis is more common in developing countries; about 80% of the population in many Asian and African countries test positive in tuberculin tests, while only 5–10% of the US population test positive.[13] Hopes of totally controlling the disease have been dramatically dampened because of a number of factors, including the difficulty of developing an effective vaccine, the expensive and time-consuming diagnostic process, the necessity of many months of treatment, the increase in HIV-associated tuberculosis, and the emergence of drug-resistant cases in the 1980s.[14]
+
+In 2007, the country with the highest estimated incidence rate of TB was Swaziland, with 1,200 cases per 100,000 people. India had the largest total incidence, with an estimated 2.0 million new cases.[112] In developed countries, tuberculosis is less common and is found mainly in urban areas. Rates per 100,000 people in different areas of the world were: globally 178, Africa 332, the Americas 36, Eastern Mediterranean 173, Europe 63, Southeast Asia 278, and Western Pacific 139 in 2010.[111] In Canada and Australia, tuberculosis is many times more common among the aboriginal peoples, especially in remote areas.[113][114] In the United States Native Americans have a fivefold greater mortality from TB,[115] and racial and ethnic minorities accounted for 84% of all reported TB cases.[116]
+
+The rate of TB varies with age. In Africa, it primarily affects adolescents and young adults.[117] However, in countries where incidence rates have declined dramatically (such as the United States), TB is mainly a disease of older people and the immunocompromised (risk factors are listed above).[13][118] Worldwide, 22 "high-burden" states or countries together experience 80% of cases as well as 83% of deaths.[101]
+
+The routine use of rifabutin instead of rifampicin in HIV-positive people with tuberculosis is of unclear benefit as of 2007.[119]
+History
+Main articles: History of tuberculosis and Timeline of tuberculosis
+Egyptian mummy in the British Museum – tubercular decay has been found in the spine.
+
+Tuberculosis has existed since antiquity.[14] The oldest unambiguously detected M. tuberculosis gives evidence of the disease in the remains of bison in Wyoming dated to around 17,000 years ago.[120] However, whether tuberculosis originated in bovines, then transferred to humans, or whether both bovine and human tuberculosis diverged from a common ancestor, remains unclear.[121] A comparison of the genes of M. tuberculosis complex (MTBC) in humans to MTBC in animals suggests humans did not acquire MTBC from animals during animal domestication, as researchers previously believed. Both strains of the tuberculosis bacteria share a common ancestor, which could have infected humans even before the Neolithic Revolution.[122] Skeletal remains show some prehistoric humans (4000 BC) had TB, and researchers have found tubercular decay in the spines of Egyptian mummies dating from 3000 to 2400 BC.[123] Genetic studies suggest the presence of TB in the Americas from about 100 AD.[124]
+
+Before the Industrial Revolution, folklore often associated tuberculosis with vampires. When one member of a family died from the disease, the other infected members would lose their health slowly. People believed this was caused by the original person with TB draining the life from the other family members.[125]
+
+Although Richard Morton established the pulmonary form associated with tubercles as a pathology in 1689,[126][127] due to the variety of its symptoms, TB was not identified as a single disease until the 1820s. J. L. Schönlein coined the name "tuberculosis" in 1839.[128] Between 1838 and 1845, Dr. John Croghan, the owner of Mammoth Cave in Kentucky from 1839 onwards, brought a number of people with tuberculosis into the cave in the hope of curing the disease with the constant temperature and purity of the cave air; each died within a year.[129] Hermann Brehmer opened the first TB sanatorium in 1859 in Görbersdorf (now Sokołowsko) in Silesia.[130]
+Robert Koch discovered the tuberculosis bacillus.
+
+Robert Koch identified and described the bacillus causing tuberculosis, M. tuberculosis, on 24 March 1882.[131] He received the Nobel Prize in physiology or medicine in 1905 for this discovery.[132] Koch did not believe the cattle and human tuberculosis diseases were similar, which delayed the recognition of infected milk as a source of infection. During the first half of the 1900s the risk of transmission from this source was dramatically reduced after the application of the pasteurization process. Koch announced a glycerine extract of the tubercle bacilli as a "remedy" for tuberculosis in 1890, calling it "tuberculin". While it was not effective, it was later successfully adapted as a screening test for the presence of pre-symptomatic tuberculosis.[133] World Tuberculosis Day is marked on 24 March each year, the anniversary of Koch's original scientific announcement.
+
+Albert Calmette and Camille Guérin achieved the first genuine success in immunization against tuberculosis in 1906, using attenuated bovine-strain tuberculosis. It was called bacille Calmette–Guérin (BCG). The BCG vaccine was first used on humans in 1921 in France,[134] but achieved widespread acceptance in the US, Great Britain, and Germany only after World War II.[135]
+
+Tuberculosis caused widespread public concern in the 19th and early 20th centuries as the disease became common among the urban poor. In 1815 one in four deaths in England was due to "consumption". By 1918, TB still caused one in six deaths in France. After TB was determined to be contagious, in the 1880s, it was put on a notifiable-disease list in Britain; campaigns started to stop people from spitting in public places, and the infected poor were "encouraged" to enter sanatoria that resembled prisons (the sanatoria for the middle and upper classes offered excellent care and constant medical attention).[130] Whatever the benefits of the "fresh air" and labor in the sanatoria, even under the best conditions, 50% of those who entered died within five years (c. 1916).[130] When the Medical Research Council formed in Britain in 1913, it initially focused on tuberculosis research.[136]
+
+In Europe, rates of tuberculosis began to rise in the early 1600s to a peak level in the 1800s, when it caused nearly 25% of all deaths.[137] By the 1950s mortality in Europe had decreased about 90%.[138] Improvements in sanitation, vaccination, and other public-health measures began significantly reducing rates of tuberculosis even before the arrival of streptomycin and other antibiotics, although the disease remained a significant threat.[138] In 1946 the development of the antibiotic streptomycin made effective treatment and cure of TB a reality. Prior to the introduction of this medication, the only treatment was surgical intervention, including the "pneumothorax technique", which involved collapsing an infected lung to "rest" it and to allow tuberculous lesions to heal.[139]
+
+Because of the emergence of MDR-TB, surgery has been re-introduced for certain cases of TB infections. It involves the removal of infected chest cavities ("bullae") in the lungs to reduce the number of bacteria and to increase exposure of the remaining bacteria to antibiotics in the bloodstream.[140] Hopes of completely eliminating TB ended with the rise of drug-resistant strains in the 1980s. The subsequent resurgence of tuberculosis resulted in the declaration of a global health emergency by the World Health Organization in 1993.[141]
+Society and culture
+Names
+
+Tuberculosis has been known by many names from the technical to the familiar.[142] Phthisis (Φθισις) is a Greek word for consumption, an old term for pulmonary tuberculosis;[8] around 460 BCE, Hippocrates described phthisis as a disease of dry seasons.[143] The abbreviation "TB" is short for tubercle bacillus. "Consumption" was the most common nineteenth century English word for the disease. The Latin root "con" meaning "completely" is linked to "sumere" meaning "to take up from under."[144] In The Life and Death of Mr Badman by John Bunyan, the author calls consumption "the captain of all these men of death."[145] "Great white plague" has also been used.[142]
+Art and literature
+Painting The Sick Child by Edvard Munch, 1885–86, depicts the illness of his sister Sophie, who died of tuberculosis when Edvard was 14; his mother too died of the disease.
+Main article: Tuberculosis in human culture
+
+Tuberculosis was for centuries associated with poetic and artistic qualities among those infected, and was also known as "the romantic disease".[142][146] Major artistic figures such as the poets John Keats, Percy Bysshe Shelley, and Edgar Allan Poe, the composer Frédéric Chopin,[147] the playwright Anton Chekhov, the novelists Franz Kafka, Katherine Mansfield,[148] Charlotte Brontë, Fyodor Dostoevsky, Thomas Mann, W. Somerset Maugham,[149] George Orwell,[150] and Robert Louis Stevenson, and the artists Alice Neel,[151] Jean-Antoine Watteau, Elizabeth Siddal, Marie Bashkirtseff, Edvard Munch, Aubrey Beardsley and Amedeo Modigliani either had the disease or were surrounded by people who did. A widespread belief was that tuberculosis assisted artistic talent. Physical mechanisms proposed for this effect included the slight fever and toxaemia that it caused, allegedly helping them to see life more clearly and to act decisively.[152][153][154]
+
+Tuberculosis formed an often-reused theme in literature, as in Thomas Mann's The Magic Mountain, set in a sanatorium;[155] in music, as in Van Morrison's song "T.B. Sheets";[156] in opera, as in Puccini's La bohème and Verdi's La Traviata;[154] in art, as in Monet's painting of his first wife Camille on her deathbed;[157] and in film, such as the 1945 The Bells of St. Mary's starring Ingrid Bergman as a nun with tuberculosis.[158]
+Public health efforts
+
+The World Health Organization, Bill and Melinda Gates Foundation, and US government are subsidizing a fast-acting diagnostic tuberculosis test for use in low- and middle-income countries.[159][160][161] In addition to being fast-acting, the test can determine if there is resistance to the antibiotic rifampicin which may indicate multi-drug resistant tuberculosis and is accurate in those who are also infected with HIV.[159][162] Many resource-poor places as of 2011 have access to only sputum microscopy.[163]
+
+India had the highest total number of TB cases worldwide in 2010, in part due to poor disease management within the private and public health care sector.[164] Programs such as the Revised National Tuberculosis Control Program are working to reduce TB levels amongst people receiving public health care.[165][166]
+
+A 2014 the EIU-healthcare report that the need to address apathy and urging for increased funding. The report cites among others Lucica Ditui "[TB] is like an orphan. It has been neglected even in countries with a high burden and often forgotten by donors and those investing in health interventions."[101]
+
+Slow progress has led to frustration, expressed by the executive director of the Global Fund to Fight AIDS, Tuberculosis and Malaria – Mark Dybul: "we have the tools to end TB as a pandemic and public health threat on the planet, but we are not doing it."[101] Several international organizations are pushing for more transparency in treatment, and more countries are implementing mandatory reporting of cases to the government, although adherence is often sketchy. Commercial treatment providers may at times overprescribe second-line drugs as well as supplementary treatment, promoting demands for further regulations.[101] The government of Brazil provides universal TB-care, which reduces this problem.[101] Conversely, falling rates of TB-infection may not relate to the number of programs directed at reducing infection rates but may be tied to increased level of education, income, and health of the population.[101] Costs of the disease, as calculated by the World Bank in 2009 may exceed 150 billion USD per year in "high burden" countries.[101] Lack of progress eradicating the disease may also be due to lack of patient follow-up – as among the 250M rural migrants in China.[101]
+Stigma
+
+Slow progress in preventing the disease may in part be due to stigma associated with TB.[101] Stigma may be due to the fear of transmission from affected individuals. This stigma may additionally arise due to links between TB and poverty, and in Africa, AIDS.[101] Such stigmatization may be both real and perceived; for example, in Ghana individuals with TB are banned from attending public gatherings.[167]
+
+Stigma towards TB may result in delays in seeking treatment,[101] lower treatment compliance, and family members keeping cause of death secret[167] – allowing the disease to spread further.[101] In contrast, in Russia stigma was associated with increased treatment compliance.[167] TB stigma also affects socially marginalized individuals to a greater degree and varies between regions.[167]
+
+One way to decrease stigma may be through the promotion of "TB clubs", where those infected may share experiences and offer support, or through counseling.[167] Some studies have shown TB education programs to be effective in decreasing stigma, and may thus be effective in increasing treatment adherence.[167] Despite this, studies on the relationship between reduced stigma and mortality are lacking as of 2010, and similar efforts to decrease stigma surrounding AIDS have been minimally effective.[167] Some have claimed the stigma to be worse than the disease, and healthcare providers may unintentionally reinforce stigma, as those with TB are often perceived as difficult or otherwise undesirable.[101] A greater understanding of the social and cultural dimensions of tuberculosis may also help with stigma reduction.[168]
+Research
+
+The BCG vaccine has limitations, and research to develop new TB vaccines is ongoing.[169] A number of potential candidates are currently in phase I and II clinical trials.[169][170] Two main approaches are being used to attempt to improve the efficacy of available vaccines. One approach involves adding a subunit vaccine to BCG, while the other strategy is attempting to create new and better live vaccines.[169] MVA85A, an example of a subunit vaccine, currently in trials in South Africa, is based on a genetically modified vaccinia virus.[171] Vaccines are hoped to play a significant role in treatment of both latent and active disease.[172]
+
+To encourage further discovery, researchers and policymakers are promoting new economic models of vaccine development, including prizes, tax incentives, and advance market commitments.[173][174] A number of groups, including the Stop TB Partnership,[175] the South African Tuberculosis Vaccine Initiative, and the Aeras Global TB Vaccine Foundation, are involved with research.[176] Among these, the Aeras Global TB Vaccine Foundation received a gift of more than $280 million (US) from the Bill and Melinda Gates Foundation to develop and license an improved vaccine against tuberculosis for use in high burden countries.[177][178]
+
+A number of medications are being studied for multidrug-resistant tuberculosis, including bedaquiline and delamanid.[179] Bedaquiline received U.S. Food and Drug Administration (FDA) approval in late 2012.[180] The safety and effectiveness of these new agents are still uncertain, because they are based on the results of relatively small studies.[179][181] However, existing data suggest that patients taking bedaquiline in addition to standard TB therapy are five times more likely to die than those without the new drug,[182] which has resulted in medical journal articles raising health policy questions about why the FDA approved the drug and whether financial ties to the company making bedaquiline influenced physicians' support for its use.[181][183]
+Other animals
+
+Mycobacteria infect many different animals, including birds,[184] rodents,[185] and reptiles.[186] The subspecies Mycobacterium tuberculosis, though, is rarely present in wild animals.[187] An effort to eradicate bovine tuberculosis caused by Mycobacterium bovis from the cattle and deer herds of New Zealand has been relatively successful.[188] Efforts in Great Britain have been less successful.[189][190]
+
+As of 2015, tuberculosis appears to be widespread among captive elephants in the US. It is believed that the animals originally acquired the disease from humans, a process called reverse zoonosis. Because the disease can spread through the air to infect both humans and other animals, it is a public health concern affecting circuses and zoos.[191][192] 

@@ -1,0 +1,96 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN pancreatitis|NN illu|NN pancrea|NN organ|NN surgery|NN symptom|NN pain|ST abdomen|NN nausea|ST vomit|NN fever|ST stool|NN complication|NN infection|NN diabete|NN mellitus|NN duration|NN short|NN term|NN cause|NN alcohol|NN use|NN trauma|NN medication|NN mump|NN factor|NN method|NN blood|NN amylase|NN lipase|NN treatment|NN fluid|NN pain|ST medication|NN antibiotics|NN frequency|NN death|NN 
+pancreatitis|NN condition|NN inflammation|NN pancrea|NN pancrea|NN organ|NN stomach|NN enzyme|NN number|NN hormone|NN type|NN pancreatitis|NN pancreatitis|NN sign|NN symptom|NN pancreatitis|NN pain|ST abdomen|NN nausea|ST pain|ST back|NN pancreatitis|NN fever|ST symptom|NN day|NN pancreatitis|NN weight_loss|ST stool|NN complication|NN infection|NN diabete|NN mellitus|NN problem|NN organ|NN 
+cause|NN pancreatitis|NN gallstone|NN bile|NN duct|NN duct|NN alcohol|NN use|NN cause|NN trauma|NN medication|NN infection|NN mump|NN pancreatitis|NN result|NN pancreatitis|NN year|NN alcohol|NN use|NN cause|NN level|NN blood|NN fat|NN blood|NN calcium|NN medication|NN disorder|NN fibrosis|DS smoke|NN risk|NN pancreatitis|NN diagnosis|NN pancreatitis|NN increase|NN blood|NN amylase|NN lipase|NN pancreatitis|NN test|NN image|NN ultrasound|NN ct|NN scan|NN 
+pancreatitis|NN fluid|NN pain|ST medication|NN antibiotics|NN eate|NN drink|NN tube|NN stomach|NN procedure|NN retrograde|NN cholangiopancreatography|NN ercp|NN bile|NN duct|NN gallstone|NN gallstone|NN gallbladder|NN pancreatitis|NN addition|NN feed|NN tube|NN nutrition|NN change|NN enzyme|NN replacement|NN surgery|NN part|NN pancrea|NN 
+case|NN pancreatitis|NN death|NN death|NN pancreatitis|NN people|NN year|NN case|NN pancreatitis|NN people|NN year|NN people|NN united|NN states|NN men|NN women|NN pancreatitis|NN age|NN children|NN pancreatitis|NN autopsy|NN pancreatitis|NN content|NN 
+sign|NN symptom|NN complication|NN cause|NN infection|NN diagnosis|NN treatment|NN pancreatitis|NN pancreatitis|NN epidemiology|NN society|NN culture|NN economics|NN animal|NN reference|NN link|NN 
+sign|NN symptom|NN 
+symptom|NN pancreatitis|NN quadrant|NN burn|NN pain|ST back|NN nausea|ST vomit|NN eate|NN 
+examination|NN severity|NN presence|NN 
+blood|NN pressure|NN pain|ST dehydration|NN 
+heart|NN rate|NN 
+abdomen|NN degree|NN pain|ST 
+disease|NN bowel|NN sound|NN bowel|NN paralysis|ST 
+fever|ST jaundice|ST 
+pancreatitis|NN diabete|NN cancer|DS 
+weight_loss|ST lack|NN enzyme|NN digestion|NN 
+complication|NN shock|NN infection|NN response|NN syndrome|NN blood|NN calcium|NN blood|NN glucose|NN dehydration|NN 
+blood|NN loss|NN dehydration|NN fluid|NN leak|NN cavity|NN ascite|NN kidney|NN failure|NN 
+breath|NN pain|ST lung|NN collapse|NN 
+enzyme|NN lung|NN inflammation|NN 
+inflammation|NN hypertension|DS compartment_syndrome|DS function|NN management|NN abdomen|NN pressure|NN 
+complication|NN pancreatitis|NN development|NN pseudocystscollection|NN secretion|NN scar|NN tissue|NN 
+pain|ST rupture|NN block|NN bile|NN duct|NN cause|NN jaundice|ST abdomen|NN 
+necrotize|NN pancreatitis|NN abscess|NN collection|NN pus|NN necrosis|NN infection|NN 
+case|NN case|NN pseudocyst|NN ga|NN pancrea|NN cause|NN 
+percent|NN case|NN pancreatitis|NN alcohol|NN gallstone|NN 
+cause|NN pancreatitis|NN alcohol|NN cause|NN pancreatitis|NN level|NN cause|NN 
+class|NN medication|NN pancreatitis|NN inhibitor|NN replacement|NN therapy|NN hrt|NN diuretics|NN therapy|NN acid|NN hypoglycemic|NN agent|NN 
+mechanism|NN drug|NN pancreatitis|NN effect|NN pancrea|NN accumulation|NN metabolite|NN 
+inhibitor|NN cause|NN angioedema|DS pancrea|NN accumulation|NN 
+birth|NN control|NN pill|NN hrt|NN cause|NN thrombosis|NN pancrea|NN accumulation|NN hypertriglyceridemia|NN 
+effect|NN pancrea|NN 
+diuretics|NN cause|NN risk|NN factor|NN stone|NN 
+hiv|DS infection|NN person|NN pancreatitis|NN 
+drug|NN disturbance|NN pancreatitis|NN 
+acid|NN effect|NN pancrea|NN hypoglycemic|NN agent|NN pancreatitis|NN 
+peptide-1|NN pancreatitis|NN inflammation|NN 
+clozapine|NN pancreatitis|NN infection|NN 
+number|NN agent|NN cause|NN pancreatitis|NN 
+viruse|NN virus|NN hepatitis_b|DS herpes|DS simplex|NN virus|NN virus|NN bacteria|NN salmonella|NN parasite|NN cryptosporidium|NN 
+cause|NN trauma|NN autoimmune|NN disease|NN blood|NN calcium|NN hypothermia|DS retrograde|NN cholangiopancreatography|NN ercp|NN 
+malformation|NN pancrea|NN case|NN 
+diabete|NN mellitus|NN type|NN 28-fold|NN risk|NN 
+cause|NN cancer|DS duct|NN stone|NN inflammation|NN blood|NN vessel|NN pancrea|NN porphyria|DS erythropoietic|NN 
+form|NN result|NN activation|NN trypsinogen|NN pancrea|NN 
+gene|NN trypsin|NN code|NN spink1|NN code|NN trypsin|NN inhibitor|NN fibrosis|DS transmembrane|NN conductance|NN regulator|NN 
+getsmash|NN cause|NN pancreatitis|NN ttrauma|NN aautoimmune|NN pancreatitis|NN sting|NN hypothermia|DS retrograde|NN cholangiopancreatography|NN azathioprine|NN acid|NN diagnosis|NN exudative|NN pancreatitis|NN ct|NN scan|NN duct|NN stone|NN fluid|NN 
+diagnosis|NN pancreatitis|NN cholecystitis|DS ulcer|NN bowel|NN infarction|NN bowel|NN obstruction|NN hepatitis|DS ischemia|NN 
+diagnosis|NN criteria|NN 
+onset|NN pain|ST back|NN sign|NN symptom|NN serum|NN amylase|NN lipase|NN level|NN 
+time|NN limit|NN image|NN study|NN change|NN 
+ct|NN mry|NN ultrasound|NN ultrasound|NN diagnosis|NN 
+lipase|NN enzyme|NN pancrea|NN 
+lipase|NN indicator|NN pancreatitis|NN specificity|NN half|NN life|NN enzyme|NN disease|NN state|NN 
+pancreatitis|NN test|NN marker|NN function|NN 
+test|NN pancreatitis|NN immunoglobulin|NN factor|NN antibody|NN 
+image|NN ultrasound|NN pancreatitis|NN gallstone|NN image|NN modality|NN 2535|NN patient|NN view|NN pancrea|NN bowel|NN ga|NN 
+ct|NN scan|NN hour|NN onset|NN pain|ST necrosis|NN fluid|NN severity|NN disease|NN 
+ct|NN scan|NN 
+ercp|NN ultrasound|NN cause|NN pancreatitis|NN 
+treatment|NN pancreatitis|NN severity|NN 
+pain|ST control|NN 
+study|NN morphine|NN pancreatitis|NN cholecystitis|DS 
+treatment|NN pancreatitis|NN diagnosis|NN form|NN condition|NN complication|NN form|NN complication|NN 
+treatment|NN pancreatitis|NN admission|NN hospital|NN ward|NN 
+people|NN inflammation|NN evidence|NN feed|NN outcome|NN 
+pancreatitis|NN lung|NN damage|NN lung|NN function|NN oxygen|NN breath|NN tube|NN nose|NN 
+tube|NN day|NN condition|NN 
+episode|NN pancreatitis|NN fluid|NN 
+feed|NN problem|NN ability|NN hospital|NN pancreatitis|NN 
+pancreatitis|NN organ|NN failure|NN necrosis|NN necrosis|NN abscess|NN 
+pancreatitis|NN people|NN dependency|NN unit|NN care|NN unit|NN 
+level|NN fluid|NN body|NN fluid|NN nutrient|NN attempt|NN pancrea|NN 
+drop|NN fluid|NN level|NN reduction|NN volume|NN blood|NN body|NN shock|NN 
+shock|NN body|NN blood|NN 
+shock|NN fluid|NN 
+oxygen|NN tube|NN nose|NN ventilation|NN equipment|NN breath|NN 
+tube|NN nutrient|NN analgesia|NN 
+pancreatitis|NN causegallstone|NN medication|NN cessation|NN alcohol|NN 
+cause|NN gallstone|NN ercp|NN procedure|NN removal|NN gallbladder|NN 
+gallbladder|NN hospital|NN admission|NN week|NN pancreatitis|NN onset|NN risk|NN pancreatitis|NN 
+cause|NN pancreatitis|NN alcohol|NN cessation|NN alcohol|NN consumption|NN treatment|NN alcohol|NN dependency|NN pancreatitis|NN 
+cause|NN alcohol|NN consumption|NN doctor|NN month|NN damage|NN pancrea|NN recovery|NN process|NN intake|NN fat|NN feed|NN hour|NN outcome|NN electrolyte|NN 
+support|NN tube|NN portion|NN tract|NN enzyme|NN improvement|NN hour|NN treatment|NN 
+pancreatitis|NN mortality|NN rate|NN necrosis|NN pancrea|NN 
+score|NN system|NN severity|NN attack|NN pancreatitis|NN 
+laboratory|NN data|NN estimate|NN severity|NN probability|NN death|NN 
+example|NN ranson|NN glasgow|NN 
+glasgow|NN criteria|NN case|NN 
+age|NN year|NN blood|NN level|NN oxygen|NN kpa|NN blood|NN cell|NN calcium|NN mmollitre|NN dehydrogenase|NN transaminase|NN ast|NN 32glitre|NN mmollitre|NN 
+oxygen|NN kpa|NN age|NN blood|NN cell|NN calcium|NN urea|NN lactate|NN dehydrogenase|NN aspartate|NN transaminase|NN ast|NN sugar|NN glucose|NN 
+score|NN blood|NN urea|NN nitrogen|NN level|NN status|NN response|NN syndrome|NN age|NN year|NN effusion|NN score|NN system|NN epidemiology|NN 
+incidence|NN pancreatitis|NN case|NN people|NN 
+incidence|NN pancreatitis|NN prevalence|NN case|NN pancreatitis|NN death|NN death|NN society|NN culture|NN economics|NN 
+adult|NN united|NN kingdom|NN average|NN total|NN cost|NN pancreatitis|NN person|NN basis|NN pancreatitis|NN pancreatitis|NN children|NN healthcare|NN cost|NN disease|NN burden|NN average|NN total|NN cost|NN treatment|NN children|NN condition|NN animal|NN 
+food|NN pancreatitis|NN dog|NN 

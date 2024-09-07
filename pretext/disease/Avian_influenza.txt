@@ -1,0 +1,424 @@
+avian_influenza|DS avian|NN avian|NN flu|NN bird|NN flu|NN variety|NN of|NN influenza|DS virus|NN bird|NN 
+type|NN risk|NN avian_influenza|DS hpai|NN 
+bird|NN flu|NN flu|NN dog|NN flu|NN horse|NN flu|NN human|NN flu|NN illness|NN strain|NN of|NN influenza|DS virus|NN host|NN 
+of|NN type|NN of|NN influenza|DS virus|NN b|NN c|NN influenza|DS virus|NN infection|NN reservoir|NN in|NN bird|NN 
+avian_influenza|DS purpose|NN refer|NN influenza|DS virus|NN 
+influenza|DS bird|NN person|NN transmission|NN 
+influenza|DS research|NN gene|NN of|NN flu|NN virus|NN gene|NN human|NN avian|NN strain|NN 
+pig|NN human|NN avian_influenza|DS virus|NN mixture|NN of|NN gene|NN reassortment|NN virus|NN shift|NN influenza|DS virus|NN subtype|NN people|NN protection|NN 
+avian_influenza|DS strain|NN type|NN pathogenicity|NN pathogenicity|NN hp|NN pathogenicity|NN lp|NN 
+hpai|NN strain|NN h5n1|NN in|NN china|NN in|NN strain|NN in|NN america|NN 
+companion|NN bird|NN in|NN captivity|NN contract|NN virus|NN report|NN of|NN companion|NN bird|NN avian_influenza|DS pigeon|NN contract|NN avian|NN strain|NN ill|NN of|NN virus|NN human|NN animal|NN 
+early|NN early|NN human|NN case|NN of|NN h7n9|NN world|NN health|NN organization|NN 
+health|NN family|NN commission|NN of|NN china|NN case|NN of|NN h7n9|NN late|NN november|NN late|NN december|NN death|NN 2|NN case|NN of|NN transmission|NN of|NN person|NN poultry|NN market|NN 
+case|NN jiangsu|NN zhejiang|NN shanghai|NN 2|NN 2|NN hunan|NN 1|NN 
+increase|NN in|NN number|NN of|NN human|NN case|NN of|NN h7n9|NN in|NN year|NN december|NN january|NN 
+content|NN history|NN genetics|NN subtypes|NN village|NN poultry|NN research|NN h7n9|NN animal|NN bird|NN seal|NN cat|NN impact|NN stigma|NN prevention|NN village|NN poultry|NN farmer|NN relation|NN reference|NN source|NN link|NN history|NN date|NN begin|NN of|NN history|NN of|NN avian_influenza|DS fowl|NN plague|NN in|NN disease|NN mortality|NN rate|NN in|NN bird|NN 
+fowl|NN plague|NN disease|NN 
+occasion|NN of|NN emergence|NN of|NN hpai|NN virus|NN in|NN poultry|NN loss|NN 
+outbreak|NN in|NN poultry|NN time|NN of|NN outbreak|NN million|NN of|NN bird|NN 
+in|NN world|NN poultry|NN population|NN in|NN country|NN in|NN country|NN prevalence|NN of|NN avian_influenza|DS 
+hpai|NN mortality|NN in|NN poultry|NN infection|NN 
+outbreak|NN common|NN density|NN movement|NN of|NN flock|NN poultry|NN production|NN 
+influenza|DS goose|NN in|NN china|NN in|NN human|NN infection|NN in|NN in|NN kong|NN 
+human|NN case|NN of|NN hpai|NN h5n1|NN country|NN in|NN asia|NN africa|NN pacific|NN europe|NN middle|NN east|NN country|NN 
+genetics|NN factor|NN in|NN human|NN flu|NN virus|NN avian|NN flu|NN virus|NN pb2|NN polymerase|NN amino|NN acid|NN position|NN in|NN pb2|NN protein|NN pb2|NN rna|NN gene|NN 
+h5n1|NN avian_influenza|DS virus|NN glu|NN position|NN human|NN influenza|DS virus|NN lys|NN 
+ha|NN hemagglutinin|NN avian_influenza|DS ha|NN virus|NN acid|NN receptor|NN human|NN influenza|DS ha|NN virus|NN acid|NN receptor|NN 
+swine|NN influenza|DS virus|NN ability|NN type|NN of|NN receptor|NN 
+hemagglutinin|NN major|NN antigen|NN of|NN virus|NN antibody|NN influenza|DS virus|NN epidemic|NN change|NN in|NN structure|NN 
+pig|NN pig|NN flu|NN 
+subtypes|NN subtypes|NN of|NN avian_influenza|DS virus|NN strain|NN of|NN subtypes|NN human|NN h5n1|NN h7n3|NN h7n7|NN h7n9|NN h9n2|NN 
+person|NN woman|NN in|NN jiangxi|NN province|NN china|NN of|NN pneumonia|DS in|NN december|NN h10n8|NN strain|NN human|NN fatality|NN strain|NN 
+human|NN case|NN of|NN avian|NN flu|NN result|NN of|NN bird|NN contact|NN fluid|NN 
+surface|NN droppings|NN 
+bird|NN form|NN of|NN h5n1|NN strain|NN bird|NN chicken|NN turkey|NN h5n1|NN bird|NN in|NN contact|NN 
+h5n1|NN threat|NN in|NN asia|NN poultry|NN hygiene|NN condition|NN quarter|NN 
+human|NN contract|NN infection|NN bird|NN transmission|NN contact|NN 
+health|NN official|NN strain|NN of|NN avian|NN flu|NN human|NN 
+spread|NN of|NN h5n1|NN asia|NN poultry|NN trade|NN bird|NN migration|NN in|NN study|NN rise|NN in|NN infection|NN in|NN asia|NN bird|NN breed|NN grind|NN 
+infection|NN transportation|NN railroad|NN road|NN country|NN border|NN poultry|NN trade|NN 
+strain|NN of|NN avian|NN flu|NN in|NN state|NN human|NN 
+example|NN of|NN avian_influenza|DS virus|NN strain|NN ha|NN subtype|NN designation|NN designation|NN avian_influenza|DS virus|NN n9|NN n8|NN n6|NN n3|NN n8|NN n9|NN n8|NN n5|NN n1|NN n9|NN n4|NN n2|NN n7|NN n8|NN n5|NN n6|NN h1|NN h1|NN h2|NN h3|NN h3|NN h3|NN h4|NN h4|NN h5|NN h5|NN h5|NN h5|NN h5|NN h6|NN h6|NN h6|NN h6|NN h7|NN h7|NN h7|NN h7|NN h7|NN h8|NN h9|NN h9|NN h9|NN h9|NN h10|NN h11|NN h11|NN h12|NN h13|NN h14|NN h15|NN spread|NN h1n1|NN h1n8|NN h2n9|NN h3n8|NN h3n8|NN h3n2|NN h4n6|NN h4n3|NN h4n3|NN h6n6|NN h5n8|NN h5n9|NN h5n1|NN h6n2|NN h6n8|NN h6n5|NN h6n1|NN plague|NN h7n7|NN h7n1|NN h7n9|NN plague|NN h7n1|NN h8n4|NN h9n2|NN h9n6|NN h9n6|NN h9n7|NN h10n8|NN h11n6|NN h11n9|NN h12n5|NN h13n6|NN h14n4|NN h15n9|NN avian_influenza|DS contact|NN bird|NN equipment|NN 
+virus|NN in|NN secretion|NN nostril|NN mouth|NN eye|NN of|NN bird|NN droppings|NN 
+infection|NN people|NN contact|NN poultry|NN slaughter|NN pluck|NN 
+virus|NN secretion|NN disease|NN disease|NN 
+strain|NN flock|NN flock|NN hour|NN strain|NN egg|NN production|NN 
+human|NN contract|NN avian_influenza|DS virus|NN bird|NN contact|NN contact|NN 
+health|NN official|NN strain|NN of|NN avian|NN flu|NN human|NN 
+strain|NN of|NN avian_influenza|DS in|NN tract|NN of|NN number|NN of|NN shore|NN bird|NN water|NN bird|NN strain|NN human|NN infection|NN 
+manmade|NN ecosystem|NN avian_influenza|DS virus|NN ecology|NN poultry|NN poultry|NN poultry|NN market|NN backyard|NN hobby|NN flock|NN bird|NN collection|NN trade|NN system|NN cockfighting|NN 
+poultry|NN impact|NN spread|NN of|NN hpai|NN increase|NN in|NN outbreak|NN result|NN of|NN production|NN 
+village|NN poultry|NN in|NN early|NN day|NN of|NN hpai|NN h5n1|NN pandemic|NN village|NN poultry|NN owner|NN in|NN disease|NN transmission|NN 
+village|NN poultry|NN backyard|NN hobby|NN flock|NN flock|NN condition|NN range|NN multiple|NN household|NN 
+research|NN flock|NN of|NN threat|NN poultry|NN stock|NN biosecurity|NN 
+backyard|NN village|NN poultry|NN distance|NN of|NN poultry|NN contribute|NN spread|NN of|NN hpai|NN 
+implication|NN of|NN poultry|NN farmer|NN category|NN challenge|NN recommendation|NN strategy|NN poultry|NN flock|NN 
+influenza|DS virus|NN subtype|NN h5n1|NN avian_influenza|DS virus|NN concern|NN threat|NN 
+bird|NN flu|NN avian_influenza|DS of|NN subtypes|NN 
+h5n1|NN million|NN of|NN poultry|NN in|NN number|NN of|NN country|NN asia|NN europe|NN africa|NN 
+health|NN expert|NN coexistence|NN of|NN human|NN flu|NN virus|NN avian|NN flu|NN virus|NN opportunity|NN material|NN virus|NN virulent|NN influenza|DS strain|NN human|NN 
+mortality|NN rate|NN human|NN h5n1|NN 
+human|NN h5n1|NN outbreak|NN in|NN number|NN of|NN transmission|NN human|NN infection|NN 
+specie|NN exist|NN bird|NN human|NN virus|NN human|NN case|NN of|NN infection|NN transmission|NN 
+research|NN pathogenesis|NN epidemiology|NN of|NN h5n1|NN virus|NN in|NN human|NN 
+exposure|NN route|NN disease|NN transmission|NN characteristic|NN factor|NN likelihood|NN of|NN infection|NN understand|NN 
+transmission|NN of|NN h5n1|NN human|NN in|NN hong|NN kong|NN in|NN outbreak|NN of|NN human|NN case|NN death|NN 
+none|NN of|NN people|NN poultry|NN 
+of|NN poultry|NN in|NN area|NN case|NN 
+in|NN human|NN transmission|NN member|NN of|NN family|NN in|NN contact|NN family|NN member|NN poultry|NN 
+million|NN of|NN bird|NN virus|NN discovery|NN people|NN h5n1|NN in|NN twelve|NN country|NN world|NN health|NN organization|NN report|NN of|NN august|NN 
+example|NN h5n1|NN outbreak|NN in|NN thailand|NN loss|NN worker|NN 
+bird|NN 
+public|NN confidence|NN poultry|NN product|NN consumption|NN of|NN chicken|NN product|NN 
+ban|NN country|NN 
+factor|NN spread|NN of|NN virus|NN bird|NN migration|NN temperature|NN virus|NN survival|NN festival|NN time|NN 
+mutation|NN in|NN virus|NN in|NN patient|NN in|NN chicken|NN organ|NN risk|NN human|NN 
+research|NN study|NN in|NN in|NN science|NN magazine|NN research|NN find|NN transmission|NN of|NN h5n1|NN in|NN ferret|NN 
+study|NN mutation|NN virus|NN controversy|NN implication|NN of|NN information|NN public|NN 
+study|NN in|NN entirety|NN topic|NN community|NN 
+study|NN in|NN question|NN h5n1|NN amino|NN substitution|NN effect|NN of|NN disease|NN 
+fact|NN fatality|NN rate|NN ferret|NN transmission|NN biology|NN substitution|NN 
+flu|NN virus|NN cell|NN hemagluttinin|NN protein|NN envelope|NN 
+protein|NN receptor|NN host|NN cell|NN category|NN 
+acid|NN receptor|NN specie|NN of|NN origin|NN receptor|NN preference|NN 
+in|NN influenza|DS of|NN avian|NN origin|NN influenza|DS of|NN human|NN origin|NN in|NN 
+sa|NN receptor|NN in|NN human|NN in|NN respiratory|NN tract|NN fact|NN foundation|NN deadliness|NN of|NN avian_influenza|DS in|NN human|NN key|NN lack|NN of|NN transmission|NN 
+in|NN study|NN avian_influenza|DS ferret|NN receptor|NN preference|NN of|NN host|NN cell|NN of|NN in|NN human|NN respiratory|NN tract|NN in|NN order|NN infection|NN virus|NN particle|NN 
+infection|NN in|NN respiratory|NN tract|NN of|NN human|NN trajectory|NN of|NN disease|NN 
+h7n9|NN influenza|DS virus|NN subtype|NN h7n9|NN avian_influenza|DS virus|NN human|NN in|NN in|NN china|NN 
+of|NN case|NN of|NN human|NN infection|NN in|NN respiratory|NN illness|NN 
+in|NN month|NN report|NN of|NN case|NN people|NN rate|NN infection|NN fifth|NN of|NN patient|NN fifth|NN rest|NN world|NN health|NN organization|NN h7n9|NN virus|NN human|NN 
+of|NN june|NN case|NN in|NN death|NN of|NN research|NN background|NN transmission|NN 
+of|NN human|NN case|NN of|NN h7n9|NN link|NN bird|NN market|NN 
+of|NN july|NN evidence|NN of|NN transmission|NN study|NN group|NN of|NN world|NN expert|NN avian|NN flu|NN instance|NN of|NN infection|NN 
+h7n9|NN virus|NN poultry|NN surveillance|NN 
+researcher|NN prevalence|NN of|NN male|NN patient|NN 
+explanation|NN pattern|NN reason|NN 
+vaccine|NN use|NN of|NN influenza|DS drug|NN inhibitor|NN in|NN case|NN of|NN early|NN infection|NN 
+number|NN of|NN case|NN april|NN 
+decrease|NN in|NN number|NN of|NN human|NN h7n9|NN case|NN containment|NN measure|NN authority|NN bird|NN market|NN change|NN in|NN season|NN combination|NN of|NN factor|NN 
+study|NN avian_influenza|DS virus|NN pattern|NN infection|NN weather|NN cooler|NN in|NN china|NN 
+in|NN year|NN early|NN early|NN human|NN case|NN of|NN h7n9|NN 
+health|NN family|NN commission|NN of|NN china|NN case|NN late|NN november|NN december|NN 
+case|NN jiangsu|NN zhejiang|NN shanghai|NN 2|NN 2|NN hunan|NN 1|NN 
+of|NN person|NN poultry|NN market|NN 
+of|NN case|NN death|NN 
+in|NN of|NN case|NN transmission|NN 
+prefecture|NN in|NN jiangsu|NN province|NN poultry|NN market|NN in|NN late|NN december|NN whereas|NN province|NN route|NN of|NN poultry|NN market|NN regulation|NN 
+traveller|NN region|NN poultry|NN farm|NN bird|NN market|NN surface|NN poultry|NN feces|NN 
+increase|NN in|NN number|NN of|NN human|NN case|NN of|NN h7h9|NN in|NN year|NN december|NN january|NN 
+animal|NN specie|NN symptom|NN of|NN infection|NN cat|NN dog|NN ferret|NN pig|NN bird|NN 
+bird|NN attempt|NN in|NN state|NN presence|NN of|NN hpai|NN in|NN poultry|NN surveillance|NN of|NN poultry|NN flock|NN in|NN poultry|NN operation|NN 
+detection|NN of|NN virus|NN in|NN cull|NN of|NN flock|NN 
+virus|NN vaccination|NN in|NN turkey|NN flock|NN code|NN qi01aa23|NN http|NN fowl|NN vaccine|NN qi01cl01|NN http|NN combination|NN vaccine|NN 
+chicken|NN flu|NN seal|NN strain|NN of|NN virus|NN lung|NN of|NN seal|NN 
+cat|NN avian_influenza|DS in|NN cat|NN variety|NN of|NN symptom|NN death|NN 
+cat|NN bird|NN virus|NN cat|NN 
+impact|NN in|NN formation|NN of|NN partnership|NN avian_influenza|DS in|NN order|NN importance|NN of|NN avian|NN flu|NN coordinate|NN effort|NN disease|NN report|NN surveillance|NN in|NN order|NN respond|NN pandemic|NN 
+network|NN of|NN laboratory|NN avian|NN flu|NN crisis|NN management|NN center|NN health|NN avian_influenza|DS network|NN surveillance|NN offlu|NN early|NN warn|NN system|NN major|NN animal|NN disease|NN 
+outbreak|NN member|NN state|NN need|NN share|NN of|NN vaccine|NN benefit|NN network|NN 
+measure|NN in|NN response|NN hpai|NN basis|NN program|NN disease|NN 
+hpai|NN control|NN end|NN 
+in|NN indonesia|NN negotiation|NN response|NN network|NN power|NN fund|NN ministry|NN of|NN health|NN 
+in|NN policymakers|NN support|NN of|NN food|NN agriculture|NN organization|NN of|NN nation|NN fao|NN hpai|NN control|NN industrialization|NN of|NN livestock|NN production|NN export|NN portion|NN of|NN farm|NN number|NN of|NN poultry|NN keeper|NN 2|NN 
+stigma|NN backyard|NN poultry|NN production|NN practice|NN poultry|NN production|NN threat|NN biosecurity|NN 
+backyard|NN production|NN risk|NN production|NN of|NN biosecurity|NN contact|NN human|NN spread|NN in|NN flock|NN density|NN rear|NN homogeneity|NN 
+culture|NN reason|NN intervention|NN intervention|NN solution|NN 
+press|NN account|NN of|NN avian|NN flu|NN in|NN indonesia|NN poultry|NN farmer|NN conflate|NN case|NN public|NN account|NN idea|NN of|NN danger|NN behavior|NN 
+rumor|NN in|NN java|NN in|NN bird|NN flu|NN business|NN in|NN order|NN farmer|NN of|NN market|NN danger|NN of|NN avian_influenza|DS avian|NN flu|NN foreigner|NN indonesian|NN chicken|NN chicken|NN world|NN market|NN government|NN avian|NN flu|NN ploy|NN fund|NN country|NN 
+rumor|NN concern|NN business|NN globalization|NN distrust|NN of|NN government|NN in|NN country|NN amount|NN of|NN decentralization|NN bjorge|NN in|NN jakarta|NN in|NN 
+in|NN context|NN government|NN public|NN health|NN minister|NN supari|NN in|NN december|NN government|NN sample|NN of|NN h5n1|NN patient|NN 
+decision|NN shock|NN community|NN influenza|DS surveillance|NN network|NN gisn|NN influenza|DS 
+gisn|NN country|NN virus|NN specimen|NN sample|NN company|NN in|NN order|NN vaccine|NN back|NN country|NN 
+attempt|NN sovereignty|NN cost|NN struggle|NN 
+dispute|NN gisn|NN ministry|NN of|NN health|NN nature|NN government|NN leakage|NN of|NN fund|NN state|NN agency|NN health|NN intervention|NN 
+control|NN health|NN issue|NN fund|NN representative|NN ministry|NN of|NN health|NN player|NN in|NN management|NN of|NN fund|NN vaccine|NN production|NN benefit|NN surveillance|NN network|NN 
+of|NN protein|NN in|NN country|NN poultry|NN 
+in|NN wake|NN of|NN h5n1|NN pandemic|NN million|NN of|NN poultry|NN 
+in|NN bird|NN infection|NN control|NN attempt|NN 
+report|NN fao|NN loss|NN in|NN east|NN asia|NN 
+impact|NN producer|NN asset|NN chain|NN decrease|NN in|NN export|NN loss|NN of|NN consumer|NN confidence|NN 
+government|NN compensation|NN poultry|NN market|NN value|NN of|NN market|NN value|NN in|NN vietnam|NN others|NN cambodia|NN compensation|NN farmer|NN 
+poultry|NN source|NN of|NN food|NN security|NN asset|NN population|NN scale|NN farmer|NN 
+loss|NN of|NN bird|NN in|NN vietnam|NN loss|NN of|NN month|NN of|NN production|NN household|NN income|NN of|NN 2|NN day|NN 
+loss|NN of|NN food|NN security|NN household|NN in|NN stunt|NN of|NN child|NN in|NN egypt|NN 
+woman|NN population|NN risk|NN in|NN region|NN of|NN world|NN flock|NN woman|NN 
+cull|NN in|NN enrollment|NN of|NN girl|NN in|NN school|NN in|NN turkey|NN 
+prevention|NN people|NN contact|NN bird|NN risk|NN avian_influenza|DS 
+risk|NN poultry|NN farm|NN worker|NN control|NN worker|NN wildlife|NN biologist|NN ornithologist|NN bird|NN 
+organization|NN worker|NN avian_influenza|DS response|NN plan|NN in|NN place|NN case|NN 
+biosecurity|NN of|NN poultry|NN flock|NN prevention|NN 
+flock|NN bird|NN bird|NN waste|NN vehicle|NN flock|NN farm|NN bird|NN slaughter|NN channel|NN farm|NN 
+infection|NN control|NN use|NN of|NN equipment|NN ppe|NN chance|NN infection|NN 
+eye|NN mouth|NN hand|NN prevention|NN common|NN way|NN virus|NN body|NN 
+equipment|NN apron|NN coverall|NN glove|NN boot|NN boot|NN cover|NN head|NN cover|NN hair|NN cover|NN 
+ppe|NN 
+respirator|NN safety|NN goggle|NN part|NN of|NN ppe|NN 
+air|NN respirator|NN papr|NN hood|NN helmet|NN face|NN shield|NN option|NN 
+report|NN of|NN case|NN spread|NN 
+center|NN disease|NN control|NN prevention|NN recommendation|NN worker|NN symptom|NN day|NN of|NN poultry|NN material|NN care|NN employer|NN health|NN official|NN 
+avian_influenza|DS threat|NN phase|NN part|NN plan|NN 
+phase|NN opportunity|NN human|NN infection|NN early|NN warn|NN system|NN phase|NN emergence|NN of|NN virus|NN contain|NN delay|NN spread|NN source|NN phase|NN morbidity|NN mortality|NN disruption|NN conduct|NN research|NN response|NN measure|NN vaccine|NN poultry|NN of|NN avian|NN h5n1|NN influenza|DS variety|NN 
+control|NN measure|NN hpai|NN encourage|NN mass|NN vaccination|NN of|NN poultry|NN world|NN health|NN organization|NN list|NN of|NN trial|NN of|NN influenza|DS prototype|NN vaccine|NN h5n1|NN 
+in|NN country|NN risk|NN hpai|NN spread|NN vaccination|NN supply|NN shortage|NN problem|NN 
+village|NN poultry|NN farmer|NN response|NN size|NN recommendation|NN poultry|NN production|NN system|NN measure|NN bird|NN bird|NN 
+poultry|NN household|NN unit|NN flock|NN contact|NN flock|NN measure|NN use|NN unit|NN village|NN 
+recommendation|NN market|NN biosecurity|NN avian_influenza|DS 
+poultry|NN production|NN zone|NN poultry|NN area|NN of|NN environment|NN poultry|NN market|NN biosecurity|NN number|NN of|NN trader|NN license|NN producer|NN trader|NN inspection|NN 
+recommendation|NN in|NN combination|NN requirement|NN house|NN poultry|NN flock|NN producer|NN backyard|NN producer|NN livelihood|NN condition|NN 
+summary|NN of|NN report|NN world|NN organisation|NN health|NN in|NN surveillance|NN in|NN country|NN challenge|NN 
+support|NN hpai|NN control|NN disease|NN disease|NN fowl|NN cholera|NN laryngotracheitis|NN bursal|NN disease|NN poultry|NN population|NN 
+hpai|NN back|NN lack|NN of|NN diagnosis|NN farmer|NN bird|NN 
+production|NN system|NN investment|NN safety|NN net|NN income|NN household|NN prevention|NN treatment|NN poultry|NN die|NN 
+control|NN agreement|NN government|NN agency|NN indonesia|NN food|NN security|NN 
+cull|NN in|NN order|NN threat|NN of|NN avian_influenza|DS transmission|NN bird|NN 
+manual|NN hpai|NN control|NN zone|NN strategy|NN identification|NN of|NN area|NN ia|NN bird|NN 
+poultry|NN in|NN zone|NN area|NN 1|NN km|NN outer|NN boundary|NN of|NN ia|NN area|NN ra|NN surveillance|NN 
+2|NN km|NN ra|NN area|NN buffer|NN zone|NN in|NN case|NN of|NN spread|NN 
+cull|NN evidence|NN of|NN spread|NN 
+example|NN of|NN control|NN h5n1|NN poultry|NN in|NN km|NN radius|NN point|NN km|NN radius|NN fowl|NN 
+method|NN proportion|NN of|NN poultry|NN area|NN backyard|NN flock|NN distance|NN infection|NN village|NN human|NN effort|NN 
+chicken|NN in|NN asia|NN h5n1|NN 
+risk|NN of|NN mass|NN cull|NN of|NN bird|NN impact|NN farmer|NN poultry|NN 
+cull|NN lab|NN h5n1|NN avian|NN flu|NN policy|NN poultry|NN safeguard|NN spread|NN 
+in|NN response|NN policy|NN farmer|NN in|NN vietnam|NN bird|NN authority|NN poultry|NN cull|NN poultry|NN of|NN biosocial|NN worth|NN 
+end|NN of|NN government|NN policy|NN flock|NN in|NN vicinity|NN of|NN farm|NN cull|NN compensation|NN in|NN case|NN of|NN outbreak|NN 
+result|NN in|NN impact|NN scale|NN farmer|NN measure|NN 
+in|NN mass|NN goal|NN of|NN spread|NN of|NN hpai|NN evolution|NN of|NN host|NN resistance|NN success|NN of|NN hpai|NN control|NN 
+mass|NN cull|NN influenza|DS virulence|NN result|NN in|NN mortality|NN of|NN bird|NN 
+cull|NN strategy|NN considerate|NN of|NN impact|NN control|NN destruction|NN 
+relation|NN prevention|NN control|NN program|NN account|NN understand|NN of|NN relation|NN 
+in|NN past|NN program|NN understand|NN of|NN disease|NN transmission|NN 
+in|NN case|NN of|NN vietnam|NN health|NN worker|NN poultry|NN commodity|NN environment|NN control|NN of|NN people|NN 
+poultry|NN in|NN context|NN of|NN farm|NN market|NN slaughterhouse|NN road|NN human|NN transmitter|NN of|NN avian|NN flu|NN burden|NN of|NN disease|NN control|NN people|NN 
+farmer|NN poultry|NN in|NN environment|NN force|NN control|NN 
+host|NN of|NN actor|NN bird|NN weather|NN pattern|NN relationship|NN poultry|NN disease|NN farmer|NN of|NN responsibility|NN disease|NN control|NN 
+attempt|NN control|NN farmer|NN area|NN behavior|NN poultry|NN behavior|NN 
+recommendation|NN vietnam|NN steer|NN committee|NN avian_influenza|DS control|NN prevention|NN principle|NN of|NN biosecurity|NN 
+restriction|NN area|NN poultry|NN barrier|NN poultry|NN contact|NN limit|NN human|NN movement|NN of|NN poultry|NN product|NN transporter|NN recommendation|NN farmer|NN hand|NN contact|NN poultry|NN 
+farmer|NN pollution|NN reason|NN poultry|NN 
+recommendation|NN livestock|NN production|NN practice|NN gate|NN sale|NN assessment|NN of|NN bird|NN appearance|NN offend|NN customer|NN human|NN contact|NN 
+of|NN knowledge|NN recommendation|NN barrier|NN scapegoat|NN intervention|NN 
+prevention|NN control|NN method|NN agent|NN in|NN play|NN 
+see|NN spread|NN of|NN h5n1|NN health|NN crisis|NN influenza|DS influenza|DS influenza|DS genome|NN project|NN influenza|DS research|NN influenza|DS vaccine|NN partnership|NN avian_influenza|DS network|NN of|NN expertise|NN avian_influenza|DS preparedness|NN response|NN act|NN subtypes|NN of|NN influenza|DS virus|NN transmission|NN infection|NN of|NN h5n1|NN reference|NN 1|NN 
+avian_influenza|DS strain|NN bird|NN centre|NN disease|NN prevention|NN control|NN http|NN 
+chapter|NN avian_influenza|DS harder|NN werner|NN http|NN in|NN influenza|DS report|NN salzberg|NN taubenberger|NN jeffery|NN fraser|NN claire|NN taylor|NN jill|NN george|NN st|NN tatusova|NN tatiana|NN dernovoy|NN dmitry|NN 
+sequence|NN of|NN human|NN influenza|DS nature|NN of|NN evolution|NN 
+nature|NN 
+http|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+committee|NN of|NN world|NN health|NN organization|NN consultation|NN human|NN influenza|DS september|NN 
+avian_influenza|DS h5n1|NN infection|NN in|NN human|NN 
+engl|NN 
+citeseerx|NN http|NN 
+http|NN 
+pmid|NN http|NN 
+threat|NN of|NN influenza|DS 
+workshop|NN summary|NN http|NN http|NN wayback|NN machine|NN text|NN of|NN book|NN institute|NN of|NN medicine|NN of|NN academy|NN 
+http|NN cdc|NN tree|NN relationship|NN dozen|NN of|NN variety|NN of|NN z|NN genotype|NN of|NN avian|NN flu|NN virus|NN h5n1|NN strain|NN 
+hiromoto|NN fukushima|NN 
+characterization|NN of|NN gene|NN of|NN h5n1|NN human|NN influenza|DS virus|NN 
+journal|NN of|NN virology|NN 
+http|NN 
+pmid|NN http|NN 
+transmission|NN of|NN influenza|DS virus|NN animal|NN people|NN http|NN 
+avian_influenza|DS h5n1|NN h5n1|NN 
+state|NN department|NN of|NN agriculture|NN 
+july|NN 
+h5n1|NN avian_influenza|DS timeline|NN of|NN major|NN event|NN http|NN pdf|NN 
+world|NN health|NN organization|NN 
+december|NN 
+abolnik|NN celia|NN 
+review|NN of|NN avian_influenza|DS in|NN pigeon|NN dive|NN columbidae|NN http|NN df|NN pdf|NN 
+microbiology|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+human|NN infection|NN avian_influenza|DS h7n9|NN virus|NN china|NN disease|NN news|NN 
+alexander|NN 
+history|NN of|NN avian_influenza|DS 
+rev|NN 
+sci|NN 
+tech|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+alder|NN farrell|NN haan|NN 
+impact|NN of|NN avian_influenza|DS village|NN poultry|NN production|NN 
+ecohealth|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+hiromoto|NN yasuaki|NN 
+characterization|NN of|NN gene|NN of|NN h5n1|NN human|NN influenza|DS virus|NN http|NN 
+journal|NN of|NN virology|NN 
+hk|NN goh|NN c|NN st|NN al|NN 
+june|NN 
+prevention|NN control|NN of|NN avian_influenza|DS in|NN singapore|NN http|NN pdf|NN 
+ann|NN 
+acad|NN 
+singap|NN 
+pmid|NN http|NN 
+china|NN report|NN human|NN h10n8|NN avian|NN flu|NN death|NN http|NN 
+cnn|NN 
+december|NN 
+avian_influenza|DS http|NN 
+workplace|NN safety|NN health|NN topic|NN 
+institute|NN occupational|NN safety|NN health|NN 
+cox|NN kawaoka|NN 
+in|NN mahy|NN l|NN 
+ed|NN 
+topley|NN wilson|NN microbiology|NN infection|NN 
+1|NN virology|NN 
+y|NN 
+arnold|NN 
+avian_influenza|DS 
+world|NN health|NN organization|NN 
+march|NN 
+recommendation|NN worker|NN protection|NN use|NN of|NN equipment|NN ppe|NN exposure|NN avian_influenza|DS h5|NN virus|NN avian_influenza|DS flu|NN http|NN 
+srikantiah|NN s|NN 
+mass|NN cull|NN avian_influenza|DS strategy|NN destruction|NN 
+journal|NN of|NN ethic|NN 
+2|NN 
+blanchard|NN ben|NN 
+china|NN son|NN bird|NN flu|NN 
+http|NN jan|NN 
+world|NN health|NN organization|NN 
+avian_influenza|DS bird|NN flu|NN disease|NN in|NN human|NN 
+ttp|NN human|NN 
+kullman|NN greg|NN al|NN 
+poultry|NN worker|NN avian_influenza|DS flu|NN http|NN 
+alert|NN publication|NN 
+institute|NN occupational|NN safety|NN health|NN 
+p|NN 
+http|NN december|NN 
+number|NN of|NN human|NN case|NN avian_influenza|DS h5n1|NN http|NN pdf|NN 
+world|NN health|NN organization|NN 
+september|NN 
+tiensn|NN thanawat|NN al|NN 
+avian_influenza|DS h5n1|NN thailand|NN http|NN 
+disease|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+lau|NN mimi|NN 
+mutation|NN of|NN bird|NN flu|NN strain|NN in|NN patient|NN sample|NN patient|NN change|NN sign|NN of|NN risk|NN human|NN p|NN 
+morning|NN post|NN 
+herfst|NN sander|NN linster|NN martin|NN chutinimitkul|NN salin|NN wit|NN munster|NN vincent|NN sorrell|NN erin|NN smith|NN rimmelzwaan|NN june|NN 
+transmission|NN of|NN influenza|DS virus|NN ferret|NN http|NN 
+science|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+fight|NN bird|NN flu|NN 
+nature|NN 
+april|NN tps|NN 
+pmid|NN http|NN 
+li|NN zhou|NN chen|NN wu|NN xiang|NN chen|NN al|NN 
+report|NN epidemiology|NN of|NN avian_influenza|DS h7n9|NN outbreak|NN in|NN china|NN http|NN 
+journal|NN of|NN medicine|NN 
+http|NN moa1304617|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gallagher|NN jam|NN 
+q|NN h7n9|NN bird|NN flu|NN http|NN 
+news|NN 
+shadbolt|NN peter|NN 
+h7n9|NN virus|NN of|NN http|NN 
+cnn|NN 
+question|NN human|NN infection|NN influenza|DS h7n9|NN virus|NN china|NN p|NN 
+world|NN health|NN organization|NN 
+april|NN 
+oie|NN mission|NN bird|NN market|NN role|NN in|NN poultry|NN human|NN infection|NN influenza|DS h7n9|NN http|NN 
+paris|NN world|NN organisation|NN health|NN 
+2|NN 
+study|NN trait|NN of|NN h7n9|NN avian|NN flu|NN virus|NN display|NN http|NN 
+arima|NN zu|NN 
+human|NN infection|NN avian_influenza|DS h7n9|NN virus|NN in|NN china|NN assessment|NN of|NN age|NN sex|NN distribution|NN http|NN 
+pacific|NN surveillance|NN response|NN journal|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+skowronski|NN dm|NN janjua|NN tl|NN serres|NN g|NN 
+interaction|NN age|NN sex|NN distribution|NN of|NN human|NN case|NN of|NN influenza|DS h7n9|NN in|NN china|NN http|NN 
+eurosurveillance|NN 
+centre|NN disease|NN prevention|NN control|NN 
+expert|NN exposure|NN age|NN profile|NN http|NN center|NN disease|NN research|NN policy|NN university|NN of|NN minnesota|NN 
+schnirring|NN lisa|NN 1|NN 
+china|NN report|NN infection|NN fatal|NN http|NN 
+cidrap|NN news|NN 
+lineage|NN avian_influenza|DS h7n9|NN virus|NN avian_influenza|DS flu|NN http|NN 
+wildlife|NN health|NN center|NN avian_influenza|DS chart|NN http|NN 
+thacker|NN e|NN janke|NN b|NN 
+swine|NN influenza|DS virus|NN potential|NN vaccination|NN strategy|NN control|NN of|NN avian_influenza|DS 
+journal|NN of|NN disease|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+bronchiole|NN 
+bird|NN flu|NN seal|NN scientist|NN discover|NN http|NN 
+cnn|NN 
+july|NN july|NN 
+avian_influenza|DS response|NN 
+avian_influenza|DS action|NN group|NN state|NN department|NN of|NN state|NN 
+oct|NN 
+hameiri|NN s|NN 
+avian_influenza|DS sovereignty|NN politics|NN of|NN health|NN security|NN in|NN indonesia|NN http|NN 
+pacific|NN review|NN 
+http|NN 
+porter|NN 
+zoographies|NN limit|NN of|NN place|NN in|NN avian|NN flu|NN management|NN 
+humanity|NN 
+1|NN 1|NN 
+http|NN 
+porter|NN 
+bird|NN biopower|NN strategy|NN multispecies|NN coexistence|NN in|NN nam|NN 
+ethnologist|NN 
+1|NN 
+http|NN 2|NN 
+padmawati|NN 
+community|NN response|NN avian|NN flu|NN in|NN java|NN indonesia|NN 
+anthropology|NN medicine|NN 
+1|NN 
+s|NN 
+mcleod|NN morgan|NN prakash|NN hinrichs|NN j|NN 
+impact|NN of|NN avian_influenza|DS 
+food|NN agriculture|NN organisation|NN 
+bagnol|NN b|NN 
+gender|NN issue|NN way|NN disease|NN in|NN village|NN chicken|NN 
+practice|NN of|NN family|NN poultry|NN production|NN note|NN 
+publication|NN product|NN poultry|NN worker|NN avian_influenza|DS flu|NN http|NN 
+http|NN 
+avian_influenza|DS threat|NN action|NN 
+world|NN health|NN organization|NN 
+research|NN development|NN http|NN 
+shim|NN galvani|NN 
+repercussion|NN of|NN avian|NN host|NN resistance|NN influenza|DS virulence|NN http|NN 
+plo|NN 
+e5503|NN 
+http|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+transmission|NN of|NN influenza|DS virus|NN animal|NN people|NN 
+center|NN disease|NN control|NN prevention|NN 
+source|NN wendy|NN science|NN of|NN avian|NN flu|NN answer|NN question|NN http|NN magazine|NN 
+health|NN medicine|NN 
+haugan|NN salomon|NN avian_influenza|DS etiology|NN pathogenesis|NN intervention|NN http|NN science|NN publisher|NN link|NN nation|NN system|NN coordinator|NN avian|NN human|NN influenza|DS avian_influenza|DS threat|NN world|NN health|NN organisation|NN avian_influenza|DS resource|NN http|NN nation|NN world|NN health|NN organization|NN avian|NN flu|NN fact|NN sheet|NN s|NN analysis|NN of|NN bird|NN flu|NN http|NN analysis|NN avian|NN flu|NN food|NN agriculture|NN organization|NN of|NN un|NN fao|NN fao|NN avian_influenza|DS portal|NN http|NN information|NN resource|NN animation|NN video|NN photo|NN bird|NN flu|NN disease|NN card|NN world|NN organisation|NN health|NN status|NN of|NN hpai|NN worldwide|NN http|NN oie|NN 
+interface|NN oie|NN world|NN animal|NN health|NN information|NN database|NN disease|NN card|NN avian_influenza|DS resource|NN http|NN nati|NN atlas|NN vaccine|NN information|NN 
+state|NN http|NN government|NN avian|NN flu|NN information|NN cidrap|NN avian|NN flu|NN overview|NN http|NN avian_influenza|DS flu|NN consideration|NN avian_influenza|DS response|NN http|NN agency|NN development|NN avian_influenza|DS research|NN recommendation|NN http|NN institute|NN occupational|NN safety|NN health|NN influenza|DS research|NN database|NN http|NN database|NN of|NN influenza|DS sequence|NN information|NN 
+avian_influenza|DS information|NN http|NN avma|NN veterinary|NN association|NN 
+specie|NN avian_influenza|DS influenza|DS type|NN h5n1|NN s|NN specie|NN information|NN center|NN state|NN library|NN 
+list|NN information|NN resource|NN avian_influenza|DS 
+health|NN communication|NN avian_influenza|DS prevention|NN http|NN 
+john|NN hopkins|NN school|NN of|NN health|NN center|NN communication|NN program|NN program|NN avian_influenza|DS 
+avian_influenza|DS program|NN issue|NN http|NN health|NN brief|NN avian_influenza|DS 
+alert|NN poultry|NN worker|NN avian_influenza|DS flu|NN http|NN recommendation|NN poultry|NN worker|NN commission|NN avian_influenza|DS control|NN avian_influenza|DS prevention|NN control|NN http|NN proceed|NN of|NN frontis|NN workshop|NN avian_influenza|DS prevention|NN control|NN wageningen|NN netherlands|NN avian_influenza|DS question|NN answer|NN http|NN centre|NN disease|NN prevention|NN control|NN flutrop|NN avian_influenza|DS research|NN in|NN country|NN http|NN research|NN center|NN country|NN cirad|NN avian_influenza|DS http|NN page|NN december|NN 2019|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

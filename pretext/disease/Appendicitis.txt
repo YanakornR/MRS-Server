@@ -1,0 +1,676 @@
+appendicitis|DS appendicitis|DS inflammation|NN of|NN appendix|NN 
+symptom|NN abdominal_pain|ST nausea|ST vomiting|ST appetite|NN 
+of|NN people|NN symptom|NN 
+complication|NN of|NN appendix|NN painful|NN inflammation|NN of|NN line|NN of|NN abdominal|NN wall|NN sepsis|DS 
+name|NN appendicitis|DS appendix|NN specialty|NN symptom|NN lengthwise|NN 
+surgery|NN abdominal_pain|ST vomiting|ST complication|NN abdominal|NN inflammation|NN appendicitis|DS blockage|NN of|NN portion|NN of|NN appendix|NN 
+stone|NN of|NN feces|NN 
+tissue|NN infection|NN parasite|NN gallstone|DS tumor|NN blockage|NN 
+blockage|NN pressure|NN in|NN appendix|NN blood|NN flow|NN tissue|NN of|NN appendix|NN growth|NN inflammation|NN 
+combination|NN of|NN inflammation|NN blood|NN flow|NN appendix|NN distention|NN of|NN cause|NN injury|NN tissue|NN death|NN 
+process|NN appendix|NN bacteria|NN abdominal|NN cavity|NN complication|NN 
+method|NN diagnosis|NN treatment|NN sepsis|DS symptom|NN image|NN blood|NN test|NN adenitis|NN cholecystitis|NN psoas|NN abscess|NN abdominal|NN aneurysm|NN removal|NN of|NN appendix|NN antibiotic|NN diagnosis|NN of|NN appendicitis|DS person|NN sign|NN symptom|NN 
+in|NN case|NN diagnosis|NN observation|NN image|NN laboratory|NN test|NN 
+common|NN image|NN test|NN tomography|NN scan|NN 
+ct|NN scan|NN ultrasound|NN in|NN appendicitis|DS 
+ultrasound|NN test|NN in|NN child|NN woman|NN of|NN risk|NN radiation|NN exposure|NN ct|NN scan|NN 
+frequency|NN treatment|NN appendicitis|DS removal|NN of|NN appendix|NN 
+incision|NN in|NN abdomen|NN laparotomy|NN incision|NN help|NN of|NN camera|NN laparoscopy|NN 
+surgery|NN risk|NN of|NN effect|NN death|NN rupture|NN of|NN appendix|NN 
+antibiotic|NN in|NN case|NN of|NN appendicitis|DS 
+of|NN common|NN cause|NN of|NN abdominal_pain|ST 
+in|NN case|NN of|NN appendicitis|DS in|NN death|NN 
+in|NN state|NN appendicitis|DS common|NN cause|NN of|NN abdominal_pain|ST surgery|NN 
+year|NN in|NN state|NN people|NN appendicitis|DS appendix|NN 
+reginald|NN fitz|NN person|NN condition|NN in|NN 
+content|NN sign|NN symptom|NN cause|NN blood|NN test|NN system|NN diagnosis|NN management|NN pain|ST surgery|NN prognosis|NN epidemiology|NN reference|NN link|NN script|NN play|NN media|NN sign|NN presentation|NN of|NN appendicitis|DS abdominal_pain|ST nausea|ST vomiting|ST fever|ST 
+appendix|NN abdominal|NN wall|NN 
+localization|NN of|NN pain|ST right|NN quadrant|NN 
+migration|NN of|NN pain|ST in|NN child|NN year|NN 
+pain|ST sign|NN 
+sign|NN find|NN in|NN iliac|NN fossa|NN 
+abdominal|NN wall|NN pressure|NN palpation|NN 
+pain|ST release|NN of|NN pressure|NN in|NN abdomen|NN tenderness|NN 
+appendix|NN cecum|NN pressure|NN in|NN right|NN quadrant|NN tenderness|NN appendix|NN 
+cecum|NN gas|NN appendix|NN pressure|NN 
+appendix|NN pelvis|NN absence|NN of|NN abdominal|NN rigidity|NN 
+in|NN case|NN rectal|NN examination|NN elicit|NN tenderness|NN in|NN pouch|NN 
+cause|NN point|NN tenderness|NN in|NN area|NN mcburney|NN point|NN dunphy|NN sign|NN 
+location|NN of|NN appendix|NN in|NN system|NN appendicitis|DS end|NN result|NN of|NN obstruction|NN of|NN appendix|NN 
+obstruction|NN appendix|NN mucus|NN swell|NN 
+production|NN of|NN mucus|NN pressure|NN lumen|NN wall|NN of|NN appendix|NN 
+pressure|NN result|NN in|NN thrombosis|DS occlusion|NN of|NN vessel|NN stasis|NN of|NN flow|NN 
+point|NN recovery|NN 
+occlusion|NN of|NN blood|NN vessel|NN appendix|NN ischemic|NN 
+bacteria|NN wall|NN pu|NN form|NN appendix|NN suppuration|NN 
+end|NN result|NN rupture|NN appendix|NN peritonitis|NN sepsis|DS death|NN 
+event|NN abdominal_pain|ST symptom|NN 
+draw|NN of|NN appendicitis|DS 
+agent|NN bezoars|NN body|NN trauma|NN worm|NN lymphadenitis|NN fecal|NN deposit|NN appendicoliths|NN fecalith|NN 
+occurrence|NN of|NN fecalith|NN attention|NN presence|NN in|NN people|NN appendicitis|DS in|NN in|NN country|NN 
+in|NN addition|NN appendiceal|NN fecalith|NN appendicitis|DS 
+fecal|NN stasis|NN arrest|NN role|NN people|NN appendicitis|DS bowel|NN movement|NN week|NN control|NN 
+occurrence|NN of|NN fecalith|NN in|NN appendix|NN fecal|NN retention|NN reservoir|NN in|NN colon|NN transit|NN time|NN 
+transit|NN time|NN in|NN study|NN 
+disease|NN polyp|NN colon|NN cancer|DS in|NN community|NN appendicitis|DS community|NN 
+study|NN transition|NN in|NN fibre|NN in|NN frequency|NN of|NN appendicitis|DS disease|NN in|NN community|NN 
+acute|NN appendicitis|DS antecedent|NN cancer|DS in|NN colon|NN rectum|NN 
+study|NN evidence|NN fiber|NN intake|NN in|NN pathogenesis|NN of|NN appendicitis|DS 
+intake|NN of|NN fiber|NN in|NN accordance|NN occurrence|NN of|NN fecal|NN reservoir|NN fact|NN fiber|NN reduce|NN transit|NN time|NN 
+diagnosis|NN diagnosis|NN history|NN symptom|NN examination|NN elevation|NN of|NN white|NN blood|NN cell|NN study|NN 
+history|NN category|NN 
+appendicitis|DS hour|NN of|NN abdominal_pain|ST in|NN region|NN of|NN umbilicus|NN anorexia|ST nausea|ST vomiting|ST 
+pain|ST quadrant|NN tenderness|NN increase|NN in|NN intensity|NN 
+pain|ST leave|NN quadrant|NN in|NN people|NN inversus|NN totalis|NN 
+combination|NN of|NN pain|ST anorexia|ST leukocytosis|NN fever|ST 
+appendicitis|DS ct|NN history|NN progression|NN pain|ST in|NN right|NN quadrant|NN symptom|NN 
+irritation|NN of|NN peritoneum|NN line|NN of|NN abdominal|NN wall|NN pain|ST movement|NN jolt|NN example|NN speed|NN bump|NN 
+history|NN ultrasound|NN ct|NN scan|NN 
+sign|NN pain|ST palpation|NN finger|NN in|NN petit|NN triangle|NN 
+sign|NN pain|ST palpation|NN region|NN person|NN lie|NN side|NN back|NN 
+dunphy|NN sign|NN pain|ST in|NN right|NN quadrant|NN cough|ST 
+hamburger|NN sign|NN patient|NN anorexia|ST appendicitis|DS kocher|NN sign|NN person|NN history|NN start|NN of|NN pain|ST in|NN region|NN shift|NN region|NN 
+sign|NN in|NN in|NN england|NN examiner|NN swish|NN index|NN middle|NN finger|NN abdomen|NN process|NN leave|NN iliac|NN fossa|NN 
+massouh|NN sign|NN grimace|NN of|NN person|NN right|NN sweep|NN 
+obturator|NN sign|NN person|NN lie|NN back|NN hip|NN ninety|NN degree|NN 
+examiner|NN person|NN ankle|NN hand|NN knee|NN hand|NN 
+examiner|NN hip|NN person|NN ankle|NN body|NN knee|NN 
+test|NN pain|ST rotation|NN of|NN hip|NN 
+psoas|NN sign|NN obraztsova|NN sign|NN pain|ST extension|NN of|NN hip|NN flexion|NN of|NN person|NN hip|NN supine|NN 
+pain|ST inflammation|NN of|NN peritoneum|NN iliopsoas|NN muscle|NN inflammation|NN of|NN psoas|NN 
+leg|NN pain|ST muscle|NN hip|NN iliopsoas|NN pain|ST 
+sign|NN pain|ST in|NN abdominal|NN quadrant|NN palpation|NN iliac|NN fossa|NN upwards|NN counterclockwise|NN colon|NN 
+think|NN pressure|NN appendix|NN bowel|NN content|NN air|NN valve|NN abdominal_pain|ST 
+sitkovskiy|NN rosenstein|NN sign|NN pain|ST in|NN region|NN person|NN lie|NN side|NN 
+blood|NN test|NN test|NN specific|NN appendicitis|DS blood|NN count|NN cbc|NN sign|NN of|NN infection|NN 
+percent|NN of|NN people|NN appendicitis|DS white|NN blood|NN cell|NN wbc|NN count|NN abdominal|NN pelvic|NN condition|NN wbc|NN count|NN 
+sensitivity|NN specificity|NN indicator|NN of|NN appendicitis|DS 
+urinalysis|NN infection|NN pregnancy|NN status|NN possibility|NN of|NN pregnancy|NN in|NN woman|NN of|NN age|NN 
+urinalysis|NN urinary|NN tract|NN infection|NN cause|NN of|NN abdominal_pain|ST 
+presence|NN of|NN field|NN in|NN urine|NN of|NN urinary|NN tract|NN disorder|NN 
+in|NN child|NN examination|NN child|NN abdominal_pain|ST consultation|NN image|NN 
+of|NN health|NN risk|NN of|NN child|NN radiation|NN ultrasound|NN choice|NN ultrasound|NN 
+scan|NN ultrasound|NN diagnosis|NN of|NN appendicitis|DS in|NN adult|NN adolescent|NN 
+ct|NN scan|NN sensitivity|NN of|NN specificity|NN of|NN 
+ultrasonography|NN sensitivity|NN of|NN specificity|NN of|NN 
+abdominal|NN ultrasonography|NN doppler|NN sonography|NN appendicitis|DS in|NN child|NN 
+ultrasound|NN fluid|NN collection|NN in|NN iliac|NN fossa|NN appendix|NN blood|NN flow|NN color|NN doppler|NN noncompressibility|NN of|NN appendix|NN abscess|NN 
+sign|NN of|NN appendicitis|DS presence|NN of|NN fat|NN appendix|NN shadow|NN of|NN appendicolith|NN 
+in|NN case|NN ultrasonography|NN of|NN fossa|NN abnormality|NN presence|NN of|NN appendicitis|DS 
+find|NN of|NN early|NN appendicitis|DS appendix|NN 
+in|NN addition|NN find|NN common|NN in|NN adult|NN amount|NN of|NN fat|NN bowel|NN gas|NN appendix|NN 
+limitation|NN image|NN in|NN hand|NN appendicitis|DS disease|NN symptom|NN 
+of|NN condition|NN inflammation|NN of|NN lymph|NN node|NN appendix|NN pain|ST originate|NN pelvic|NN organ|NN ovary|NN tube|NN 
+ultrasound|NN radiology|NN department|NN emergency|NN physician|NN 
+image|NN of|NN acute|NN appendicitis|DS play|NN media|NN appendicitis|DS appendicolith|NN ultrasound|NN appendicitis|DS appendicolith|NN of|NN ultrasound|NN appendix|NN comparison|NN appendix|NN compression|NN 
+absence|NN compressibility|NN appendicitis|DS 
+of|NN tomography|NN tomography|NN ct|NN in|NN people|NN diagnosis|NN history|NN examination|NN 
+concern|NN radiation|NN use|NN of|NN ct|NN in|NN woman|NN child|NN usage|NN of|NN mri|NN 
+diagnosis|NN of|NN appendicitis|DS size|NN of|NN appendix|NN value|NN feature|NN sensitivity|NN specificity|NN 
+size|NN of|NN mm|NN appendicitis|DS 
+appendix|NN fecal|NN material|NN distention|NN criterion|NN utility|NN in|NN meta|NN analysis|NN 
+in|NN wall|NN of|NN appendix|NN feces|NN 
+in|NN scenario|NN feature|NN wall|NN enhancement|NN bowel|NN inflammation|NN of|NN fat|NN strand|NN of|NN diagnosis|NN absence|NN 
+in|NN case|NN perforation|NN phlegmon|NN abscess|NN 
+dense|NN fluid|NN layer|NN in|NN pelvis|NN pu|NN spillage|NN 
+patient|NN absence|NN of|NN fat|NN appendix|NN 
+appendicitis|DS appendix|NN diameter|NN of|NN mm|NN fecalith|NN arrow|NN in|NN appendicitis|DS 
+resonance|NN mri|NN use|NN common|NN diagnosis|NN of|NN appendicitis|DS in|NN child|NN patient|NN radiation|NN dosage|NN of|NN risk|NN in|NN adult|NN child|NN baby|NN 
+in|NN pregnancy|NN trimester|NN displace|NN appendix|NN ultrasound|NN 
+periappendiceal|NN strand|NN ct|NN mri|NN fluid|NN signal|NN t2|NN sequence|NN 
+trimester|NN pregnancy|NN candidate|NN mri|NN fetus|NN organogenesis|NN study|NN date|NN risk|NN side|NN effect|NN 
+in|NN abdominal|NN radiography|NN par|NN in|NN diagnosis|NN of|NN appendicitis|DS person|NN appendicitis|DS 
+abdominal|NN film|NN detection|NN of|NN calculus|NN bowel|NN obstruction|NN ulcer|NN condition|NN appendicitis|DS 
+opaque|NN fecalith|NN in|NN right|NN quadrant|NN in|NN of|NN people|NN appendicitis|DS 
+barium|NN enema|NN tool|NN appendicitis|DS 
+failure|NN of|NN appendix|NN barium|NN enema|NN appendicitis|DS of|NN appendix|NN 
+system|NN number|NN of|NN system|NN people|NN appendicitis|DS 
+performance|NN of|NN score|NN alvarado|NN score|NN appendicitis|DS score|NN 
+alvarado|NN score|NN score|NN system|NN 
+score|NN suggest|NN diagnosis|NN of|NN appendicitis|DS score|NN of|NN of|NN appendicitis|DS 
+in|NN person|NN score|NN of|NN exam|NN rate|NN of|NN appendectomy|NN 
+iliac|NN fossa|NN pain|ST anorexia|ST nausea|ST vomiting|ST iliac|NN fossa|NN tenderness|NN abdominal|NN tenderness|NN fever|ST 1|NN point|NN 1|NN point|NN 1|NN point|NN 2|NN point|NN 1|NN point|NN 1|NN point|NN white|NN blood|NN cell|NN count|NN leukocytosis|NN 2|NN point|NN shift|NN neutrophil|NN 1|NN point|NN point|NN pathology|NN diagnosis|NN pathology|NN 
+find|NN of|NN appendicitis|DS infiltrate|NN of|NN muscularis|NN propria|NN 
+periappendicitis|NN inflammation|NN of|NN tissue|NN appendix|NN in|NN conjunction|NN abdominal|NN pathology|NN 
+of|NN appendicitis|DS periappendicitis|NN 
+h|NN e|NN stain|NN 
+of|NN micrograph|NN appendicitis|DS neutrophil|NN in|NN muscularis|NN propria|NN 
+h|NN e|NN stain|NN 
+diagnosis|NN child|NN gastroenteritis|DS adenitis|NN meckel|NN diverticulitis|NN intussusception|NN purpura|ST lobar|NN pneumonia|DS urinary|NN tract|NN infection|NN abdominal_pain|ST in|NN absence|NN of|NN symptom|NN in|NN child|NN uti|NN crohn|NN disease|NN ulcerative_colitis|DS pancreatitis|DS abdominal|NN trauma|NN abuse|NN obstruction|NN syndrome|NN in|NN child|NN cystic_fibrosis|DS typhlitis|NN in|NN child|NN leukemia|DS 
+woman|NN pregnancy|NN test|NN woman|NN of|NN age|NN pregnancy|NN sign|NN symptom|NN appendicitis|DS 
+cause|NN of|NN abdominal_pain|ST in|NN woman|NN pelvic|NN disease|NN ovarian|NN torsion|NN menarche|NN dysmenorrhea|NN endometriosis|NN mittelschmerz|NN pass|NN of|NN egg|NN in|NN ovary|NN week|NN menstruation|NN 
+of|NN men|NN testicular|NN torsion|NN ct|NN scan|NN of|NN person|NN of|NN appendicitis|DS of|NN pain|ST 
+ct|NN in|NN fact|NN inflame|NN gallbladder|NN right|NN part|NN of|NN abdomen|NN 
+adult|NN crohn|NN disease|NN ulcerative_colitis|DS enteritis|NN cholecystitis|NN colic|NN peptic|NN ulcer|NN pancreatitis|DS sheath|NN hematoma|NN appendagitis|NN 
+diverticulitis|NN obstruction|NN carcinoma|NN ischemia|NN aneurysm|NN 
+term|NN pseudoappendicitis|NN condition|NN appendicitis|DS 
+yersinia|NN enterocolitica|NN 
+management|NN acute|NN appendicitis|DS surgery|NN 
+antibiotic|NN appendicitis|DS of|NN people|NN recurrence|NN year|NN appendectomy|NN 
+antibiotic|NN appendicolith|NN 
+surgery|NN management|NN approach|NN appendicitis|DS 
+cost|NN effectiveness|NN of|NN surgery|NN versus|NN antibiotic|NN 
+antibiotic|NN complication|NN in|NN emergency|NN appendectomy|NN procedure|NN antibiotic|NN person|NN surgery|NN 
+pain|ST pain|ST medication|NN morphine|NN accuracy|NN of|NN diagnosis|NN of|NN appendicitis|DS therefore|NN early|NN in|NN patient|NN care|NN 
+concern|NN surgeon|NN analgesic|NN exam|NN in|NN child|NN surgeon|NN person|NN 
+surgery|NN procedure|NN removal|NN of|NN appendix|NN appendectomy|NN 
+appendectomy|NN surgery|NN 
+laparoscopic|NN appendectomy|NN advantage|NN appendectomy|NN intervention|NN appendicitis|DS 
+appendectomy|NN century|NN laparotomy|NN appendectomy|NN treatment|NN appendicitis|DS 
+procedure|NN of|NN removal|NN of|NN appendix|NN incision|NN in|NN area|NN of|NN abdomen|NN 
+incision|NN in|NN laparotomy|NN 2|NN inch|NN mm|NN 
+removal|NN surgery|NN appendectomy|NN person|NN appendicitis|DS anesthesia|NN muscle|NN person|NN 
+incision|NN inch|NN mm|NN in|NN right|NN abdomen|NN inch|NN hip|NN bone|NN 
+incision|NN abdomen|NN cavity|NN appendix|NN surgeon|NN tissue|NN appendix|NN tissue|NN 
+inspection|NN of|NN area|NN sign|NN tissue|NN 
+in|NN case|NN of|NN appendicitis|DS emergency|NN appendectomy|NN abdominal|NN drainage|NN tube|NN abdomen|NN outside|NN formation|NN hospital|NN stay|NN 
+surgeon|NN incision|NN 
+muscle|NN staple|NN stitch|NN skin|NN 
+infection|NN incision|NN bandage|NN adhesive|NN 
+laparoscopic|NN appendectomy|NN 
+laparoscopic|NN appendectomy|NN laparoscopic|NN appendectomy|NN intervention|NN acute|NN appendicitis|DS introduction|NN in|NN 
+procedure|NN of|NN incision|NN in|NN abdomen|NN inch|NN mm|NN 
+type|NN of|NN appendectomy|NN tool|NN laparoscope|NN of|NN incision|NN 
+laparoscope|NN monitor|NN person|NN body|NN surgeon|NN area|NN in|NN abdomen|NN 
+incision|NN removal|NN of|NN appendix|NN instrument|NN 
+laparoscopic|NN surgery|NN anesthesia|NN hour|NN 
+laparoscopic|NN appendectomy|NN advantage|NN appendectomy|NN recovery|NN pain|ST site|NN infection|NN rate|NN 
+occurrence|NN of|NN abscess|NN time|NN in|NN laparoscopic|NN appendectomy|NN appendectomy|NN 
+treatment|NN person|NN surgery|NN drink|NN period|NN 
+drip|NN person|NN surgery|NN 
+antibiotic|NN cefuroxime|NN metronidazole|NN early|NN bacteria|NN spread|NN of|NN infection|NN in|NN abdomen|NN complication|NN in|NN abdomen|NN wound|ST 
+case|NN treatment|NN benefit|NN examination|NN 
+stomach|NN food|NN in|NN hour|NN anaesthesia|NN 
+anaesthesia|NN 
+decision|NN appendectomy|NN preparation|NN procedure|NN hour|NN 
+surgeon|NN surgery|NN procedure|NN risk|NN appendectomy|NN 
+surgery|NN risk|NN procedure|NN 
+risk|NN state|NN of|NN appendix|NN 
+appendix|NN complication|NN rate|NN appendix|NN complication|NN rate|NN 
+complication|NN pneumonia|DS hernia|NN of|NN incision|NN thrombophlebitis|NN bleeding|ST adhesion|NN 
+evidence|NN delay|NN in|NN surgery|NN admission|NN result|NN in|NN difference|NN in|NN outcome|NN person|NN appendicitis|DS 
+surgeon|NN recovery|NN process|NN 
+abdomen|NN hair|NN complication|NN incision|NN 
+in|NN case|NN patient|NN in|NN surgery|NN experience|NN nausea|ST vomiting|ST medication|NN surgery|NN 
+antibiotic|NN pain|ST medication|NN appendectomy|NN 
+length|NN of|NN stay|NN hour|NN day|NN week|NN complication|NN 
+recovery|NN process|NN severity|NN of|NN condition|NN appendix|NN surgery|NN 
+appendix|NN surgery|NN recovery|NN lot|NN appendix|NN rupture|NN 
+people|NN surgery|NN doctor|NN advice|NN activity|NN tissue|NN 
+recovery|NN appendectomy|NN change|NN change|NN 
+length|NN of|NN hospital|NN stay|NN appendicitis|DS vary|NN severity|NN of|NN condition|NN 
+study|NN state|NN in|NN appendicitis|DS hospital|NN stay|NN day|NN 
+stay|NN person|NN appendix|NN length|NN of|NN stay|NN day|NN 
+stitch|NN day|NN appendix|NN laparoscopic|NN surgery|NN surgery|NN patient|NN postanesthesia|NN care|NN unit|NN sign|NN complication|NN 
+pain|ST medication|NN 
+patient|NN hospital|NN room|NN 
+individual|NN liquid|NN day|NN surgery|NN progress|NN diet|NN intestine|NN 
+patient|NN edge|NN of|NN bed|NN walk|NN time|NN day|NN 
+pain|ST medication|NN 
+recovery|NN appendectomy|NN week|NN week|NN appendix|NN 
+prognosis|NN people|NN appendicitis|DS recover|NN treatment|NN complication|NN treatment|NN occur|NN 
+recovery|NN time|NN age|NN condition|NN complication|NN circumstance|NN amount|NN of|NN alcohol|NN consumption|NN day|NN 
+child|NN year|NN recovery|NN week|NN 
+possibility|NN of|NN peritonitis|NN reason|NN acute|NN appendicitis|DS warrant|NN evaluation|NN treatment|NN 
+people|NN appendicitis|DS evacuation|NN 
+appendectomy|NN in|NN emergency|NN condition|NN in|NN hospital|NN evacuation|NN 
+acute|NN appendicitis|DS 
+appendicitis|DS resolve|NN interval|NN appendectomy|NN episode|NN of|NN appendicitis|DS 
+appendicitis|DS appendicitis|DS early|NN 
+in|NN condition|NN diagnosis|NN yield|NN result|NN recovery|NN in|NN week|NN 
+mortality|NN complication|NN persist|NN 
+entity|NN lump|NN 
+appendix|NN early|NN infection|NN omentum|NN intestine|NN lump|NN 
+period|NN surgery|NN formation|NN evident|NN fever|ST toxicity|NN 
+management|NN condition|NN 
+complication|NN of|NN appendectomy|NN appendicitis|DS inflammation|NN in|NN appendiceal|NN stump|NN appendectomy|NN 
+stump|NN appendicitis|DS month|NN year|NN appendectomy|NN modality|NN ultrasound|NN 
+epidemiology|NN appendicitis|DS common|NN age|NN of|NN age|NN risk|NN factor|NN male|NN income|NN live|NN in|NN area|NN 
+in|NN in|NN death|NN down|NN in|NN 
+in|NN state|NN hospitalization|NN appendicitis|DS in|NN 
+appendicitis|DS of|NN diagnosis|NN emergency|NN in|NN hospitalization|NN child|NN year|NN in|NN state|NN 
+department|NN visit|NN appendicitis|DS death|NN person|NN in|NN 1|NN 2|NN life|NN year|NN appendicitis|DS inhabitant|NN in|NN 
+data|NN reference|NN 1|NN 
+appendicitis|DS http|NN 
+dictionary|NN 
+http|NN 
+graffeo|NN c|NN counselman|NN fl|NN 
+appendicitis|DS 
+emergency|NN medicine|NN clinic|NN of|NN america|NN 
+http|NN 
+pmid|NN http|NN 
+hobler|NN spring|NN 
+acute|NN appendicitis|DS disease|NN duration|NN implication|NN quality|NN improvement|NN http|NN pdf|NN 
+journal|NN 
+2|NN 2|NN 
+paulson|NN ek|NN mf|NN pappa|NN tn|NN 
+practice|NN 
+appendicitis|DS http|NN pdf|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+p|NN pdf|NN 
+ferri|NN 
+ferri|NN diagnosis|NN guide|NN diagnosis|NN of|NN symptom|NN sign|NN disorder|NN 
+philadelphia|NN pa|NN 
+pp|NN 
+chapter|NN 
+longo|NN ed|NN 
+harrison|NN principle|NN of|NN medicine|NN http|NN 
+york|NN 
+pp|NN 
+chapter|NN http|NN march|NN 
+varadhan|NN kk|NN kr|NN dn|NN 
+safety|NN efficacy|NN of|NN antibiotic|NN appendicectomy|NN treatment|NN of|NN appendicitis|DS of|NN trial|NN http|NN 
+bmj|NN 
+e2156|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+gbd|NN disease|NN injury|NN incidence|NN prevalence|NN collaborator|NN 
+incidence|NN prevalence|NN year|NN disability|NN disease|NN injury|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN c5055577|NN 
+pmid|NN http|NN 
+gbd|NN mortality|NN cause|NN of|NN death|NN collaborator|NN 
+life|NN expectancy|NN mortality|NN mortality|NN cause|NN of|NN death|NN analysis|NN burden|NN of|NN disease|NN study|NN ttps|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pieper|NN r|NN l|NN tidefeldt|NN u|NN 
+obstruction|NN of|NN vermiformis|NN appendicitis|DS 
+study|NN in|NN rabbit|NN 
+acta|NN chirurgica|NN scandinavica|NN 
+1|NN 
+pmid|NN http|NN 
+tintinalli|NN judith|NN ed|NN 
+emergency|NN medicine|NN study|NN guide|NN http|NN 
+york|NN 
+pp|NN 
+chapter|NN http|NN bookid|NN december|NN 
+schwartz|NN principle|NN of|NN surgery|NN 
+york|NN pub|NN 
+division|NN 
+pp|NN 
+chapter|NN 
+barrett|NN ml|NN hines|NN andrew|NN 
+trend|NN in|NN rate|NN of|NN appendix|NN http|NN pdf|NN 
+healthcare|NN cost|NN utilization|NN project|NN hcup|NN rockville|NN md|NN agency|NN healthcare|NN research|NN quality|NN 
+pmid|NN http|NN 
+http|NN pdf|NN 
+dj|NN duus|NN n|NN odom|NN sr|NN shapiro|NN ni|NN 
+appendicitis|DS review|NN of|NN approach|NN in|NN http|NN 
+journal|NN of|NN emergency|NN medicine|NN review|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+mason|NN rj|NN 
+surgery|NN appendicitis|DS 
+infection|NN 
+http|NN 
+pmid|NN http|NN 
+rh|NN 
+inflammation|NN of|NN vermiform|NN appendix|NN reference|NN early|NN diagnosis|NN treatment|NN 
+journal|NN of|NN science|NN 
+bower|NN 
+significance|NN of|NN obstructive|NN factor|NN in|NN genesis|NN of|NN appendicitis|DS 
+archive|NN of|NN surgery|NN 
+http|NN 
+hollerman|NN sr|NN 
+recurrent|NN appendicitis|DS appendicolith|NN 
+journal|NN of|NN emergency|NN medicine|NN 
+http|NN 
+dehghan|NN moaddab|NN ah|NN s|NN 
+localization|NN of|NN trichobezoar|NN in|NN appendix|NN 
+journal|NN of|NN gastroenterology|NN 
+http|NN 
+pmid|NN s|NN 
+jones|NN demetriades|NN i|NN burkitt|NN dp|NN 
+prevalence|NN of|NN fecalith|NN in|NN patient|NN appendicitis|DS 
+study|NN canada|NN south|NN africa|NN http|NN 
+annals|NN of|NN surgery|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+s|NN r|NN mg|NN 
+calculus|NN fecalith|NN indication|NN appendectomy|NN 
+surgery|NN gynecology|NN obstetrics|NN 
+pmid|NN http|NN 
+arnbjörnsson|NN e|NN 
+appendicitis|DS stasis|NN 
+annales|NN gynaecologiae|NN 
+2|NN 
+pmid|NN http|NN 
+raahave|NN d|NN christensen|NN e|NN moeller|NN h|NN fb|NN ll|NN 
+origin|NN of|NN appendicitis|DS fecal|NN retention|NN in|NN reservoir|NN case|NN control|NN study|NN 
+infection|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+burkitt|NN dp|NN 
+aetiology|NN of|NN appendicitis|DS 
+journal|NN of|NN surgery|NN 
+http|NN 
+pmid|NN http|NN 
+i|NN walker|NN ar|NN 
+disease|NN in|NN african|NN in|NN africa|NN 
+digestion|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+arnbjörnsson|NN e|NN 
+appendicitis|DS sign|NN of|NN colorectal|NN carcinoma|NN 
+journal|NN of|NN oncology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+burkitt|NN dp|NN walker|NN ar|NN painter|NN n|NN 
+effect|NN of|NN fibre|NN stool|NN role|NN in|NN causation|NN of|NN disease|NN 
+lancet|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+d|NN e|NN k|NN tselalidou|NN e|NN 
+intake|NN childhood|NN appendicitis|DS 
+journal|NN of|NN food|NN science|NN nutrition|NN 
+http|NN 
+pmid|NN http|NN 
+tb|NN tj|NN 
+appendicectomy|NN event|NN 
+http|NN 
+journal|NN of|NN australia|NN 
+1|NN 
+pmid|NN http|NN 
+s|NN 
+j|NN brodribb|NN aj|NN mann|NN ji|NN 
+fibre|NN bowel|NN transit|NN time|NN 
+journal|NN of|NN nutrition|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+hf|NN n|NN d|NN rj|NN harnden|NN 
+pain|ST speed|NN bump|NN in|NN diagnosis|NN of|NN appendicitis|DS accuracy|NN study|NN s|NN 
+bmj|NN 
+e8012|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+sachdeva|NN anupam|NN dutta|NN ak|NN 
+advance|NN in|NN pediatrics|NN 
+jp|NN 
+isbn|NN 
+v|NN 
+dolan|NN b|NN holt|NN l|NN ed|NN 
+emergency|NN 
+accident|NN emergency|NN theory|NN practice|NN 
+elsevier|NN 
+virgilio|NN de|NN 
+surgery|NN 
+springer|NN 
+isbn|NN 
+kadim|NN abdul|NN mahdi|NN 1|NN 
+review|NN of|NN appendicitis|DS http|NN pdf|NN 
+journal|NN of|NN research|NN 
+http|NN 
+http|NN pdf|NN 
+sign|NN abdominal_pain|ST cough|ST 
+indicator|NN of|NN appendicitis|DS 
+massouh|NN sign|NN grimace|NN of|NN person|NN right|NN sweep|NN 
+wolfson|NN allan|NN hendey|NN ling|NN schaider|NN jeffrey|NN 
+practice|NN of|NN emergency|NN medicine|NN http|NN 
+wolters|NN health|NN 
+isbn|NN http|NN september|NN june|NN 
+sign|NN appendicitis|DS sign|NN sign|NN obturator|NN sign|NN 
+rovsing|NN 
+indirektes|NN de|NN mcburney|NN punkt|NN 
+zur|NN diagnostik|NN der|NN appendicitis|DS typhlitis|NN 
+zentralblatt|NN für|NN chirurgie|NN in|NN german|NN 
+leipzig|NN 
+dunster|NN swift|NN hunter|NN jam|NN charles|NN foster|NN pierce|NN stragnell|NN gregory|NN félix|NN 
+record|NN of|NN medicine|NN practice|NN clinic|NN 
+york|NN journal|NN 
+gregory|NN charmaine|NN 
+appendicitis|DS http|NN ttp|NN 
+cdem|NN self|NN study|NN module|NN 
+clerkship|NN director|NN in|NN emergency|NN medicine|NN 
+dg|NN byerley|NN j|NN em|NN katznelson|NN j|NN rice|NN 
+child|NN appendicitis|DS 
+http|NN 
+jama|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+college|NN of|NN radiology|NN thing|NN physician|NN patient|NN p|NN pdf|NN initiative|NN of|NN abim|NN foundation|NN college|NN of|NN radiology|NN http|NN 
+pdf|NN krishnamoorthi|NN r|NN ramarajan|NN n|NN wang|NN ne|NN newman|NN b|NN rubesova|NN e|NN mueller|NN cm|NN barth|NN ra|NN 
+effectiveness|NN of|NN protocol|NN diagnosis|NN of|NN appendicitis|DS reduce|NN radiation|NN exposure|NN in|NN age|NN of|NN alara|NN 
+radiology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+mj|NN m|NN wj|NN caku|NN e|NN sing|NN l|NN l|NN doria|NN 
+appendicitis|DS in|NN child|NN of|NN ct|NN in|NN diagnosis|NN decision|NN model|NN 
+radiology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+terasawa|NN t|NN cc|NN bend|NN s|NN rj|NN 
+review|NN tomography|NN ultrasonography|NN appendicitis|DS in|NN adult|NN adolescent|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+reddan|NN t|NN corn|NN j|NN k|NN f|NN 
+ultrasound|NN of|NN appendicitis|DS sign|NN find|NN p|NN 
+journal|NN of|NN radiation|NN science|NN 
+1|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+reddan|NN t|NN corn|NN j|NN k|NN f|NN 
+diagnosis|NN of|NN appendicitis|DS in|NN child|NN retrospective|NN 
+sonography|NN 
+http|NN 
+lee|NN hwa|NN jong|NN 2019|NN 
+performance|NN of|NN emergency|NN ultrasonography|NN appendicitis|DS 
+journal|NN of|NN emergency|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+ultrasound|NN of|NN week|NN http|NN 
+ultrasound|NN of|NN week|NN 
+http|NN 
+kim|NN y|NN kang|NN g|NN moon|NN sb|NN 
+utilization|NN of|NN abdominal|NN ct|NN in|NN emergency|NN department|NN of|NN care|NN center|NN outcome|NN in|NN patient|NN 
+http|NN 
+annals|NN of|NN treatment|NN research|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+liu|NN b|NN ramalho|NN m|NN alobaidy|NN m|NN kk|NN e|NN j|NN rc|NN 
+gastrointestinal|NN resonance|NN image|NN approach|NN http|NN 
+world|NN journal|NN of|NN radiology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+garcia|NN k|NN m|NN bennett|NN dl|NN morrow|NN se|NN jh|NN 
+appendicitis|DS in|NN child|NN importance|NN of|NN ct|NN find|NN appendix|NN 
+radiology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+doria|NN r|NN cj|NN m|NN beyene|NN j|NN schuh|NN s|NN babyn|NN p|NN pt|NN 
+diagnosis|NN of|NN appendicitis|DS in|NN child|NN adult|NN 
+analysis|NN 
+radiology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+burke|NN lm|NN bashir|NN mr|NN miller|NN fh|NN e|NN m|NN alobaidy|NN m|NN jaffe|NN ta|NN hussain|NN sm|NN palmer|NN sl|NN garon|NN bl|NN c|NN sm|NN demulder|NN dk|NN thomas|NN s|NN s|NN borer|NN j|NN zhao|NN k|NN f|NN i|NN resende|NN d|NN rc|NN 
+resonance|NN image|NN of|NN appendicitis|DS in|NN pregnancy|NN multiinstitutional|NN study|NN 
+journal|NN of|NN obstetrics|NN gynecology|NN 
+http|NN 
+pmid|NN http|NN 
+rao|NN pm|NN rhea|NN jt|NN rao|NN ja|NN conn|NN ak|NN 
+abdominal|NN radiography|NN in|NN appendicitis|DS yield|NN resource|NN use|NN comparison|NN ct|NN 
+journal|NN of|NN emergency|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+e|NN panis|NN y|NN benoist|NN s|NN denet|NN c|NN mariani|NN p|NN valleur|NN p|NN 
+abdominal|NN radiography|NN procedure|NN abdominal_pain|ST of|NN quadrant|NN evaluation|NN 
+world|NN journal|NN of|NN surgery|NN 
+http|NN 
+pmid|NN http|NN 
+appendicitis|DS townsend|NN sabiston|NN textbook|NN of|NN surgery|NN md|NN consult|NN http|NN http|NN december|NN wayback|NN machine|NN kulik|NN dm|NN em|NN maguire|NN jl|NN 
+child|NN appendicitis|DS 
+review|NN of|NN prediction|NN rule|NN child|NN abdominal_pain|ST 
+journal|NN of|NN epidemiology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+fink|NN jr|NN cochran|NN aj|NN 
+periappendicitis|NN find|NN 
+journal|NN of|NN surgery|NN 
+http|NN 
+pmid|NN http|NN 
+pelvic|NN inflammatory|NN disease|NN symptom|NN disease|NN condition|NN http|NN 
+mayo|NN clinic|NN 
+http|NN 
+cunha|NN ba|NN fm|NN durie|NN n|NN 
+swine|NN influenza|DS h1n1|NN appendicitis|DS 
+heart|NN lung|NN 
+http|NN 
+pmid|NN http|NN 
+zheng|NN h|NN sun|NN y|NN lin|NN s|NN mao|NN z|NN jiang|NN b|NN 
+yersinia|NN infection|NN in|NN patient|NN 
+eur|NN 
+clin|NN 
+microbiol|NN 
+infect|NN 
+dis|NN 
+pp|NN 
+http|NN 
+pmid|NN http|NN 
+sallinen|NN v|NN ea|NN shoucair|NN s|NN vandvik|NN po|NN t|NN d|NN gh|NN tikkinen|NN ka|NN 
+of|NN antibiotic|NN appendicectomy|NN acute|NN appendicitis|DS http|NN 
+journal|NN of|NN surgery|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+harnoss|NN jc|NN zelienka|NN i|NN probst|NN p|NN k|NN c|NN harnoss|NN jm|NN büchler|NN mw|NN diener|NN mk|NN 
+antibiotic|NN therapy|NN appendicitis|DS review|NN of|NN trial|NN crd42015016882|NN 
+annals|NN of|NN surgery|NN 
+http|NN 
+pmid|NN http|NN 
+huang|NN l|NN yin|NN y|NN yang|NN l|NN wang|NN c|NN y|NN zhou|NN z|NN 
+comparison|NN of|NN therapy|NN appendectomy|NN acute|NN appendicitis|DS in|NN child|NN analysis|NN http|NN 
+jama|NN pediatrics|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+wilms|NN dc|NN hm|NN 
+versus|NN treatment|NN appendicitis|DS 
+cochrane|NN database|NN of|NN review|NN cd008359|NN 
+http|NN 
+pmid|NN http|NN 
+georgiou|NN r|NN eaton|NN s|NN stanton|NN mp|NN hall|NN nj|NN 
+efficacy|NN safety|NN of|NN treatment|NN appendicitis|DS http|NN pdf|NN 
+pediatrics|NN 
+e20163003|NN 
+http|NN 
+pmid|NN http|NN 
+br|NN fl|NN hk|NN 
+antibiotic|NN placebo|NN prevention|NN of|NN infection|NN appendicectomy|NN 
+cochrane|NN database|NN of|NN review|NN cd001439|NN 
+http|NN 
+pmid|NN http|NN 
+m|NN 
+analgesia|NN child|NN abdominal_pain|ST accuracy|NN http|NN 
+archive|NN of|NN disease|NN in|NN childhood|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN p|NN 
+jaschinski|NN t|NN mosch|NN cg|NN m|NN neugebauer|NN ea|NN sauerland|NN s|NN 
+laparoscopic|NN versus|NN surgery|NN appendicitis|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd001546|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+berry|NN j|NN malt|NN ra|NN 
+appendicitis|DS centenary|NN http|NN 
+annals|NN of|NN surgery|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+appendicitis|DS http|NN 
+institute|NN of|NN diabetes|DS kidney_disease|DS 
+department|NN of|NN health|NN human|NN service|NN 
+z|NN zhao|NN l|NN cheng|NN y|NN cheng|NN n|NN deng|NN y|NN 
+abdominal|NN drainage|NN peritoneal|NN abscess|NN appendectomy|NN appendicitis|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd010168|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+k|NN 
+endoscopic|NN appendectomy|NN 
+endoscopy|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+siewert|NN b|NN raptopoulos|NN v|NN si|NN hodin|NN ra|NN davis|NN rb|NN mp|NN 
+predictor|NN of|NN laparoscopic|NN appendectomy|NN 
+radiology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+appendicitis|DS http|NN 
+encyclopedia|NN of|NN surgery|NN 
+http|NN 
+surgery|NN md|NN http|NN 
+news|NN 
+http|NN 
+ingraham|NN ky|NN cy|NN hall|NN bl|NN russell|NN tr|NN ab|NN 
+effect|NN of|NN delay|NN operation|NN outcome|NN in|NN adult|NN appendicitis|DS 
+archive|NN of|NN surgery|NN 
+http|NN 
+pmid|NN http|NN 
+delay|NN of|NN appendectomy|NN appendicitis|DS in|NN adult|NN outcome|NN 
+appendicitis|DS surgery|NN removal|NN recovery|NN http|NN http|NN january|NN wayback|NN machine|NN liang|NN mk|NN hg|NN mark|NN 
+stump|NN appendicitis|DS review|NN of|NN literature|NN 
+surgeon|NN 
+2|NN 
+pmid|NN http|NN 
+reddan|NN t|NN corn|NN j|NN powell|NN j|NN f|NN k|NN 
+appendicitis|DS 
+sonography|NN 
+http|NN 2|NN 
+disease|NN injury|NN country|NN estimate|NN http|NN 
+world|NN health|NN organization|NN 
+s|NN 
+h|NN 
+acute|NN appendicitis|DS 
+journal|NN of|NN medicine|NN 
+http|NN 
+c46|NN 
+pmid|NN http|NN 
+appendicitis|DS http|NN appendicitis|DS 
+ndicitis|NN 
+gbd|NN mortality|NN cause|NN of|NN death|NN collaborator|NN 
+mortality|NN cause|NN of|NN death|NN analysis|NN burden|NN of|NN disease|NN study|NN http|NN 
+lancet|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+wier|NN hao|NN owen|NN washington|NN raynard|NN 
+overview|NN of|NN child|NN in|NN emergency|NN department|NN http|NN 
+healthcare|NN cost|NN utilization|NN project|NN report|NN 
+agency|NN healthcare|NN research|NN quality|NN 
+http|NN http|NN classification|NN k35|NN link|NN appendicitis|DS http|NN curlie|NN ct|NN of|NN abdomen|NN appendicitis|DS http|NN appendicitis|DS history|NN diagnosis|NN treatment|NN http|NN 
+surgeon|NN education|NN appendicitis|DS abdomen|NN gastroenterology|NN http|NN merck|NN professional|NN d|NN p|NN k37|NN http|NN http|NN p|NN hx|NN d001064|NN tps|NN ter|NN diseasesdb|NN http|NN ct|NN http|NN medlineplus|NN http|NN resource|NN emedicine|NN http|NN erview|NN ttp|NN tp|NN 
+p|NN 
+uk|NN appendicitis|DS s|NN http|NN page|NN 2|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

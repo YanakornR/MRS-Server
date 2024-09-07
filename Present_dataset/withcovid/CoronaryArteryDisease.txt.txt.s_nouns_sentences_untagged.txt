@@ -1,0 +1,111 @@
+encyclopedia|NN coronary|NN artery|NN disease|NN jump|NN navigation|NN jump|NN search|NN coronary|NN artery|NN disease|NN name|NN coronary|NN artery|NN disease|NN coronary|NN artery|NN disease|NN coronary|NN artery|NN disease|NN blausen|NN illustration|NN atherosclerosis|DS artery|NN 
+surgery|NN symptom|NN chest_pain|ST shortness|NN breath|NN complication|NN heart|NN failure|NN heart|NN rhythm|NN cause|NN artery|NN heart|NN risk|NN factor|NN blood|NN pressure|NN smoke|NN diabete|NN lack|NN exercise|NN obesity|NN blood|NN cholesterol|NN method|NN stress|NN test|NN tomographic|NN angiography|NN angiogram|NN prevention|NN diet|NN exercise|NN weight|NN smoke|NN treatment|NN intervention|NN pci|NN artery|NN bypass|NN surgery|NN aspirin|NN beta|NN blocker|NN frequency|NN death|NN 
+coronary|NN artery|NN disease|NN coronary|NN artery|NN disease|NN coronary|NN artery|NN disease|NN coronary|NN artery|NN disease|NN reduction|NN blood|NN flow|NN heart|NN muscle|NN build-up|NN plaque|NN artery|NN heart|NN disease|NN type|NN angina|NN angina|NN infarction|NN death|NN symptom|NN chest_pain|ST discomfort|NN shoulder|NN arm|NN back|NN neck|NN jaw|NN heartburn|ST 
+symptom|NN exercise|NN stress|NN minute|NN rest|NN shortness|NN breath|NN symptom|NN case|NN sign|NN heart_attack|DS complication|NN heart|NN failure|NN heartbeat|NN 
+risk|NN factor|NN blood|NN pressure|NN smoke|NN diabete|NN lack|NN exercise|NN obesity|NN blood|NN cholesterol|NN diet|NN depression|ST alcohol|NN number|NN test|NN diagnose|NN electrocardiogram|NN stress|NN test|NN tomographic|NN angiography|NN angiogram|NN 
+way|NN coronary|NN artery|NN disease|NN risk|NN diet|NN weight|NN diabete|NN cholesterol|NN blood|NN pressure|NN evidence|NN screen|NN people|NN risk|NN symptom|NN treatment|NN measure|NN prevention|NN medication|NN aspirin|NN beta|NN blocker|NN nitroglycerin|NN procedure|NN intervention|NN pci|NN artery|NN bypass|NN surgery|NN disease|NN coronary|NN artery|NN disease|NN pci|NN cabg|NN addition|NN treatment|NN life|NN expectancy|NN heart_attack|DS risk|NN 
+coronary|NN artery|NN disease|NN people|NN death|NN death|NN cause|NN death|NN risk|NN death|NN coronary|NN artery|NN disease|NN age|NN country|NN number|NN case|NN coronary|NN artery|NN disease|NN age|NN united|NN states|NN coronary|NN artery|NN disease|NN rate|NN men|NN women|NN age|NN content|NN 
+sign|NN symptom|NN risk|NN factor|NN blood|NN fat|NN genetics|NN diagnosis|NN angina|NN syndrome|NN risk|NN assessment|NN prevention|NN diet|NN prevention|NN treatment|NN surgery|NN epidemiology|NN society|NN culture|NN name|NN support|NN group|NN industry|NN influence|NN research|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN 
+chest_pain|ST activity|NN eate|NN time|NN angina|NN narrow|NN artery|NN heart|NN 
+change|NN intensity|NN character|NN frequency|NN 
+angina|NN infarction|NN 
+adult|NN emergency|NN department|NN cause|NN pain|ST pain|ST coronary|NN artery|NN disease|NN risk|NN factor|NN 
+coronary|NN artery|NN disease|NN number|NN risk|NN factor|NN 
+blood|NN pressure|NN smoke|NN diabete|NN lack|NN exercise|NN obesity|NN blood|NN cholesterol|NN diet|NN depression|ST family|NN history|NN alcohol|NN case|NN genetics|NN smoke|NN obesity|NN case|NN cigarette|NN day|NN risk|NN coronary|NN artery|NN disease|NN lack|NN exercise|NN 712|NN case|NN exposure|NN herbicide|NN agent|NN orange|NN risk|NN disease|NN arthritis|DS psoriasis|DS arthritis|DS risk|NN factor|NN 
+job|NN stress|NN role|NN account|NN case|NN study|NN women|NN stress|NN work|NN life|NN increase|NN diameter|NN blood|NN vessel|NN progression|NN atherosclerosis|DS contrast|NN women|NN level|NN stress|NN decrease|NN diameter|NN blood|NN vessel|NN disease|NN progression|NN type|NN behavior|NN pattern|NN group|NN personality|NN characteristics|NN time|NN urgency|NN competitiveness|NN hostility|NN impatience|NN risk|NN disease|NN blood|NN fat|NN 
+blood|NN cholesterol|NN serum|NN ldl|NN concentration|NN 
+hdl|NN density|NN lipoprotein|NN effect|NN development|NN coronary|NN artery|NN disease|NN blood|NN triglyceride|NN role|NN level|NN lipoproteina|NN compound|NN ldl|NN cholesterol|NN protein|NN 
+cholesterol|NN effect|NN blood|NN cholesterol|NN recommendation|NN consumption|NN fat|NN concern|NN genetics|NN 
+heritability|NN coronary|NN artery|NN disease|NN association|NN study|NN susceptibility|NN locy|NN coronary|NN artery|NN disease|NN 
+women|NN age|NN depression|ST hostility|NN risk|NN number|NN category|NN childhood|NN experience|NN abuse|NN violence|NN mother|NN live|NN household|NN member|NN substance|NN abuser|NN correlation|NN presence|NN adult|NN disease|NN artery|NN heart|NN disease|NN factor|NN level|NN fibrinogen|NN coagulation|NN factor|NN risk|NN coronary|NN artery|NN disease|NN hemoglobin|NN population|NN fibrinogen|NN gene|NN polymorphism|NN risk|NN coronary|NN artery|NN disease|NN 
+micrograph|NN artery|NN form|NN coronary|NN artery|NN disease|NN atherosclerosis|DS luminal|NN narrow|NN 
+illustration|NN coronary|NN artery|NN disease|NN 
+limitation|NN blood|NN flow|NN heart|NN cell|NN starvation|NN lack|NN oxygen|NN heart|NN muscle|NN cell|NN 
+heart|NN muscle|NN cell|NN lack|NN oxygen|NN infarction|NN heart_attack|DS 
+damage|NN death|NN scare|NN heart|NN muscle|NN regrowth|NN heart|NN muscle|NN cell|NN 
+narrow|NN artery|NN ischemia|NN induction|NN arrhythmia|ST heart|NN rhythm|NN fibrillation|NN death|NN 
+coronary|NN artery|NN disease|NN part|NN line|NN artery|NN artery|NN supply|NN blood|NN heart|NN muscle|NN atherosclerosis|DS 
+atherosclerosis|DS line|NN deposit|NN calcium|NN lipid|NN cell|NN plaque|NN 
+calcium|NN phosphate|NN hydroxyapatite|NN deposit|NN layer|NN blood|NN vessel|NN role|NN artery|NN phase|NN arteriosclerosis|NN 
+mechanism|NN calciphylaxis|DS kidney|NN disease|NN rainer|NN liedtke|NN 
+people|NN kidney|NN dysfunction|NN percent|NN coronary|NN artery|NN disease|NN 
+pimple|NN channel|NN artery|NN obstruction|NN blood|NN flow|NN 
+people|NN coronary|NN artery|NN disease|NN plaque|NN artery|NN 
+form|NN occlusion|NN artery|NN month|NN 
+syndrome|NN chest_pain|ST angina|NN chest|NN discomfort|NN people|NN sign|NN blockage|NN artery|NN heart|NN angiogram|NN cause|NN syndrome|NN 
+explanation|NN dysfunction|NN atherosclerosis|DS reason|NN women|NN men|NN hormone|NN risk|NN factor|NN women|NN role|NN diagnosis|NN angiogram|NN man|NN angiogram|NN woman|NN 
+people|NN stress|NN echocardiography|NN diagnosis|NN coronary|NN artery|NN disease|NN use|NN stress|NN image|NN image|NN individual|NN symptom|NN risk|NN disease|NN 
+diagnosis|NN syndrome|NN coronary|NN artery|NN disease|NN women|NN diagnosis|NN exclusion|NN 
+test|NN person|NN coronary|NN artery|NN disease|NN 
+baseline|NN ecg|NN exercise|NN ecg|NN stress|NN test|NN exercise|NN test|NN stress|NN test|NN scintigraphy|NN stress|NN angiography|NN ultrasound|NN resonance|NN image|NN mry|NN 
+diagnosis|NN disease|NN symptom|NN nature|NN symptom|NN 
+investigation|NN electrocardiogram|NN angina|NN syndrome|NN 
+x-ray|NN chest|NN blood|NN test|NN 
+citation|NN angina|NN article|NN 
+angina|NN chest_pain|ST feature|NN level|NN exertion|NN form|NN stress|NN test|NN symptom|NN change|NN way|NN electrocardiography|NN ecg|NN ultrasound|NN heart|NN scintigraphy|NN uptake|NN radionuclide|NN heart|NN muscle|NN 
+part|NN heart|NN blood|NN supply|NN angiography|NN stenosis|NN artery|NN suitability|NN angioplasty|NN bypass|NN surgery|NN 
+coronary|NN artery|NN disease|NN s|NN coronary|NN artery|NN disease|NN coronary|NN artery|NN disease|NN coronary|NN artery|NN disease|NN monograph|NN nomenclature|NN angina|NN manifestation|NN coronary|NN artery|NN disease|NN s|NN coronary|NN artery|NN disease|NN 
+practice|NN guideline|NN coronary|NN artery|NN disease|NN s|NN coronary|NN artery|NN disease|NN syndrome|NN article|NN syndrome|NN 
+section|NN source|NN 
+section|NN citation|NN source|NN 
+october|NN template|NN message|NN 
+diagnosis|NN syndrome|NN place|NN emergency|NN department|NN change|NN damage|NN heart|NN muscle|NN 
+diagnosis|NN show|NN elevation|NN st|NN segment|NN context|NN chest_pain|ST infarction|NN mi|NN stemy|NN mi|NN emergency|NN angiography|NN intervention|NN angioplasty|NN insertion|NN thrombolysis|NN clot|NN buster|NN medication|NN 
+absence|NN elevation|NN heart|NN damage|NN marker|NN blood|NN test|NN heart|NN muscle|NN damage|NN 
+evidence|NN damage|NN infarction|NN chest_pain|ST elevation|NN mi|NN nstemi|NN 
+evidence|NN damage|NN term|NN angina|NN 
+process|NN hospital|NN admission|NN observation|NN care|NN unit|NN complication|NN arrhythmia|ST irregularity|NN heart|NN rate|NN 
+risk|NN assessment|NN stress|NN test|NN angiography|NN coronary|NN artery|NN disease|NN patient|NN nstemy|NN angina|NN 
+risk|NN assessment|NN 
+section|NN source|NN 
+section|NN citation|NN source|NN 
+october|NN template|NN message|NN 
+risk|NN assessment|NN system|NN risk|NN coronary|NN artery|NN disease|NN emphasis|NN variable|NN 
+example|NN framingham|NN score|NN framingham|NN heart|NN study|NN 
+age|NN gender|NN diabete|NN total|NN cholesterol|NN hdl|NN cholesterol|NN tobacco|NN smoke|NN blood|NN pressure|NN 
+disease|NN risk|NN factor|NN prevention|NN exercise|NN obesity|NN blood|NN pressure|NN diet|NN cholesterol|NN level|NN smoke|NN 
+exercise|NN level|NN activity|NN risk|NN coronary|NN artery|NN disease|NN 
+guideline|NN strategy|NN 
+cochrane|NN review|NN evidence|NN counsel|NN education|NN effort|NN change|NN risk|NN group|NN 
+evidence|NN effect|NN mortality|NN event|NN 
+diabete|NN mellitus|NN evidence|NN blood|NN sugar|NN control|NN risk|NN sugar|NN control|NN problem|NN kidney|NN failure|NN blindness|NN 
+world|NN health|NN organization|NN alcohol|NN intake|NN risk|NN coronary|NN artery|NN disease|NN intake|NN risk|NN diet|NN article|NN diet|NN heart|NN disease|NN 
+diet|NN fruit|NN vegetable|NN risk|NN disease|NN death|NN vegetarian|NN risk|NN heart|NN disease|NN consumption|NN fruit|NN vegetable|NN evidence|NN diet|NN fiber|NN diet|NN risk|NN 
+consumption|NN tran|NN product|NN margarine|NN precursor|NN atherosclerosis|DS risk|NN coronary|NN artery|NN disease|NN 
+evidence|NN role|NN acid|NN supplementation|NN disease|NN infarction|NN death|NN evidence|NN intake|NN vitamin|NN k2|NN vitamin|NN risk|NN coronary|NN artery|NN disease|NN mortality|NN prevention|NN 
+prevention|NN sequelae|NN disease|NN 
+lifestyle|NN change|NN 
+weight|NN control|NN smoke|NN cessation|NN consumption|NN tran|NN fat|NN oil|NN stress|NN exercise|NN 
+exercise|NN walk|NN jog|NN swim|NN risk|NN mortality|NN coronary|NN artery|NN disease|NN exercise|NN decrease|NN blood|NN pressure|NN amount|NN blood|NN cholesterol|NN ldl|NN time|NN 
+hdl|NN cholesterol|NN cholesterol|NN 
+exercise|NN doctor|NN time|NN patient|NN exercise|NN 
+service|NN task|NN force|NN evidence|NN doctor|NN counsel|NN patient|NN exercise|NN evidence|NN effectiveness|NN activity|NN disease|NN morbidity|NN mortality|NN effectiveness|NN counsel|NN heart|NN association|NN review|NN doctor|NN patient|NN exercise|NN treatment|NN 
+number|NN treatment|NN option|NN coronary|NN artery|NN disease|NN 
+lifestyle|NN change|NN treatment|NN drug|NN cholesterol|NN lower|NN medication|NN calcium|NN channel|NN blocker|NN intervention|NN angioplasty|NN artery|NN bypass|NN graft|NN 
+cholesterol|NN risk|NN coronary|NN artery|NN disease|NN calcium|NN channel|NN blocker|NN drug|NN aspirin|NN 
+blood|NN pressure|NN blood|NN pressure|NN mmhg|NN 
+beta|NN blocker|NN line|NN use|NN aspirin|NN 
+history|NN heart|NN disease|NN aspirin|NN risk|NN infarction|NN risk|NN death|NN adult|NN risk|NN coronary|NN artery|NN disease|NN risk|NN men|NN year|NN age|NN postmenopausal|NN women|NN person|NN risk|NN factor|NN coronary|NN artery|NN disease|NN example|NN hypertension|DS diabete|NN smoke|NN risk|NN heart|NN disease|NN aspirin|NN therapy|NN 
+person|NN risk|NN 
+citation|NN therapy|NN 
+aspirin|NN anti-platelet|NN therapy|NN event|NN aspirin|NN stemy|NN 
+risk|NN event|NN evidence|NN use|NN risk|NN death|NN group|NN month|NN clopidogrel|NN aspirin|NN risk|NN death|NN surgery|NN 
+syndrome|NN mortality|NN benefit|NN heart|NN disease|NN benefit|NN therapy|NN disease|NN artery|NN artery|NN bypass|NN graft|NN intervention|NN artery|NN technique|NN stroke|NN rate|NN intervention|NN revascularization|NN procedure|NN advantage|NN cabg|NN epidemiology|NN death|NN heart|NN disease|NN person|NN 160288|NN 461576|NN 10691443|NN life|NN year|NN heart|NN disease|NN inhabitant|NN data|NN 10501400|NN 21002450|NN 31503500|NN 
+coronary|NN artery|NN disease|NN cause|NN death|NN death|NN death|NN coronary|NN artery|NN disease|NN individual|NN age|NN age|NN triple|NN decade|NN life|NN male|NN female|NN 
+world|NN disease|NN burden|NN south|NN subcontinent|NN account|NN world|NN population|NN 
+combination|NN predisposition|NN factor|NN 
+organization|NN heart|NN association|NN world|NN heart|NN federation|NN awareness|NN issue|NN 
+coronary|NN artery|NN disease|NN cause|NN death|NN men|NN women|NN account|NN death|NN united|NN states|NN year|NN trend|NN united|NN states|NN half|NN men|NN coronary|NN artery|NN disease|NN future|NN women|NN reason|NN death|NN men|NN women|NN year|NN age|NN united|NN states|NN society|NN culture|NN name|NN 
+term|NN condition|NN harden|NN artery|NN narrow|NN artery|NN latin|NN cordis|NN 
+support|NN group|NN 
+combat|NN project|NN icp|NN organization|NN decrease|NN coronary|NN artery|NN disease|NN education|NN research|NN industry|NN influence|NN research|NN 
+research|NN archive|NN association|NN trade|NN association|NN sugar|NN industry|NN literature|NN review|NN new|NN england|NN journal|NN medicine|NN find|NN role|NN diet|NN sugar|NN development|NN coronary|NN artery|NN disease|NN role|NN fat|NN review|NN decade|NN research|NN fund|NN guidance|NN eate|NN research|NN information|NN 
+research|NN effort|NN treatment|NN modality|NN adult|NN therapy|NN 
+region|NN chromosome|NN family|NN case|NN infarction|NN study|NN risk|NN variant|NN chromosome|NN locy|NN segment|NN research|NN understand|NN phenotype|NN 
+link|NN infection|NN atherosclerosis|DS organism|NN plaque|NN evidence|NN factor|NN treatment|NN antibiotics|NN patient|NN atherosclerosis|DS risk|NN heart_attack|DS disease|NN 
+search|NN treatment|NN option|NN coronary|NN artery|NN disease|NN patient|NN patient|NN usage|NN angiogenesis|NN adult|NN stem|NN cell|NN therapy|NN 
+trial|NN protein|NN growth|NN factor|NN therapy|NN cell|NN therapy|NN kind|NN adult|NN stem|NN cell|NN population|NN 
+research|NN result|NN fgf-1|NN utilization|NN progenitor|NN cell|NN 
+change|NN coronary|NN artery|NN disease|NN 
+example|NN data|NN benefit|NN diet|NN lower|NN heart|NN update|NN 

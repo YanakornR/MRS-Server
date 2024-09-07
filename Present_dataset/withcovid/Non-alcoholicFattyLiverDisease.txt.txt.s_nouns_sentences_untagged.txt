@@ -1,0 +1,141 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN non-alcoholic|NN fatty_liver|DS disease|NN name|NN non-alcoholic|NN fatty_liver|DS disease|NN non-alcoholic|NN fatty_liver|DS disease|NN micrograph|NN non-alcoholic|NN fatty_liver|DS disease|NN liver|NN 
+stain|NN symptom|NN liver|NN dysfunction|NN complication|NN liver|NN cancer|DS liver|NN failure|NN disease|NN duration|NN term|NN type|NN liver|NN steatohepatitis|NN cause|NN risk|NN factor|NN syndrome|NN diabete|NN type|NN liver|NN disease|NN method|NN liver|NN biopsy|NN treatment|NN weight_loss|ST diet|NN exercise|NN prognosis|NN type|NN frequency|NN population|NN death|NN risk|NN death|NN year|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN non-alcoholic|NN fatty_liver|DS disease|NN build-up|NN liver|NN cause|NN alcohol|NN use|NN type|NN liver|NN steatohepatitis|NN liver|NN liver|NN damage|NN nash|NN liver|NN liver|NN inflammation|NN complication|NN cirrhosis|NN liver|NN cancer|DS liver|NN failure|NN disease|NN 
+risk|NN factor|NN diabete|NN obesity|NN diet|NN fructose|NN age|NN non-alcoholic|NN fatty_liver|DS disease|NN liver|NN disease|NN type|NN liver|NN disease|NN non-alcoholic|NN fatty_liver|DS disease|NN insulin|NN resistance|NN syndrome|NN 
+liver|NN biopsy|NN 
+treatment|NN weight_loss|ST change|NN exercise|NN evidence|NN pioglitazone|NN vitamin|NN e|NN nash|NN risk|NN year|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN liver|NN disorder|NN country|NN american|NN 2017|NN people|NN population|NN non-alcoholic|NN fatty_liver|DS disease|NN cause|NN liver|NN disease|NN 2017|NN people|NN united|NN states|NN non-alcoholic|NN fatty_liver|DS disease|NN burden|NN us103|NN content|NN 
+sign|NN symptom|NN risk|NN factor|NN genetics|NN diet|NN diagnosis|NN definition|NN monitor|NN management|NN lifestyle|NN surgery|NN outcome|NN epidemiology|NN history|NN children|NN research|NN diagnosis|NN drug|NN development|NN reference|NN link|NN 
+sign|NN symptom|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN evidence|NN steatosis|NN absence|NN factor|NN accumulation|NN liver|NN alcohol|NN drinksweek|NN men|NN women|NN heredity|NN deficiency|NN nutrition|NN choline|NN alcohol|NN use|NN g|NN men|NN g|NN women|NN hepatitis|DS condition|NN cause|NN liver|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN category|NN form|NN 
+presence|NN steatosis|NN nafl|NN evidence|NN injury|NN form|NN hepatocyte|NN balloon|NN presence|NN inflammation|NN hepatocyte|NN injury|NN fibrosis|DS 
+people|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+laboratory|NN profile|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN symptom|NN liver|NN dysfunction|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN liver|NN biopsy|NN liver|NN function|NN test|NN routine|NN blood|NN test|NN steatosis|NN biopsy|NN 
+case|NN symptom|NN sign|NN liver|NN disease|NN test|NN liver|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+symptom|NN sign|NN liver|NN disease|NN test|NN liver|NN steatosis|NN risk|NN factor|NN obesity|NN diabete|NN mellitus|NN cause|NN alcohol|NN 
+patient|NN fatigue|ST malaise|ST discomfort|NN 
+jaundice|ST risk|NN factor|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN insulin|NN resistance|NN syndrome|NN obesity|NN diabete|NN mellitus|NN type|NN blood|NN pressure|NN insulin|NN resistance|NN age|NN bmy|NN hypoxia|NN sleep|NN predictor|NN disease|NN progression|NN 
+non-obese|NN people|NN non-alcoholic|NN fatty_liver|DS disease|NN non-alcoholic|NN fatty_liver|DS disease|NN insulin|NN sensitivity|NN risk|NN liver|NN level|NN consequence|NN capacity|NN fat|NN function|NN tissue|NN de|NN novo|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN men|NN women|NN deficiency|NN genetics|NN 
+risk|NN factor|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+family|NN history|NN diabete|NN type|NN report|NN family|NN member|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+risk|NN fibrosis|DS family|NN member|NN person|NN prevalence|NN non-alcoholic|NN fatty_liver|DS disease|NN individual|NN susceptibility|NN individual|NN 
+mutation|NN non-alcoholic|NN fatty_liver|DS disease|NN susceptibility|NN cohort|NN non-synonymous|NN polymorphism|NN pnpla3|NN tm6sf2|NN non-alcoholic|NN fatty_liver|DS disease|NN presence|NN severity|NN role|NN patient|NN diagnosis|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN component|NN aasld|NN screen|NN family|NN member|NN confirmation|NN heritability|NN evidence|NN aggregation|NN twin|NN study|NN 
+link|NN dysbiosis|NN gut|NN liver|NN disease|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+patient|NN nash|NN level|NN blood|NN ethanol|NN 
+patient|NN non-alcoholic|NN fatty_liver|DS disease|NN choline|NN depletion|NN choline|NN metabolism|NN diet|NN 
+diet|NN composition|NN quantity|NN acid|NN lipid|NN fructose|NN sugar|NN role|NN disease|NN progression|NN nafl|NN nash|NN fibrosis|DS deficiency|NN development|NN non-alcoholic|NN fatty_liver|DS disease|NN interplay|NN environment|NN diet|NN genetics|NN gut|NN development|NN progression|NN non-alcoholic|NN fatty_liver|DS disease|NN pathophysiology|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN lobular|NN portal|NN inflammation|NN balloon|NN steatosis|NN balloon|NN inflammation|NN 
+feature|NN diagnosis|NN portal|NN inflammation|NN body|NN body|NN nucley|NN steatosis|NN fibrosis|DS death|NN apoptosis|NN steatosis|NN inflammation|NN hallmark|NN 
+mechanism|NN second|NN hit|NN injury|NN change|NN steatosis|NN inflammation|NN 
+stress|NN imbalance|NN abnormality|NN cause|NN second|NN hit|NN phenomenon|NN model|NN hit|NN second|NN hit|NN model|NN disease|NN factor|NN gene|NN nutrition|NN impact|NN lifestyle|NN change|NN genetics|NN evolution|NN non-alcoholic|NN fatty_liver|DS disease|NN pathology|NN non-alcoholic|NN fatty_liver|DS disease|NN disease|NN impact|NN organ|NN pathway|NN liver|NN 
+liver|NN disease|NN share|NN feature|NN pathway|NN 
+patient|NN level|NN blood|NN ethanol|NN proteobacteria|NN alcohol|NN mechanism|NN elevation|NN inflammation|NN addiction|NN ethanol|NN pathway|NN glucose|NN researcher|NN liver|NN disease|NN disease|NN intake|NN tissue|NN inflammation|NN perturbation|NN homeostasis|NN lifestyle|NN change|NN addition|NN weight|NN risk|NN factor|NN change|NN gut|NN diagnosis|NN 
+liver|NN biopsy|NN tissue|NN examination|NN test|NN gold|NN standard|NN non-alcoholic|NN fatty_liver|DS disease|NN nafl|NN nash|NN form|NN liver|NN disease|NN severity|NN inflammation|NN fibrosis|DS 
+people|NN non-alcoholic|NN fatty_liver|DS disease|NN liver|NN biopsy|NN risk|NN routine|NN diagnosis|NN method|NN liver|NN ultrasonography|NN liver|NN mry|NN 
+people|NN liver|NN ultrasonography|NN biopsy|NN evidence|NN routine|NN liver|NN function|NN blood|NN test|NN non-alcoholic|NN fatty_liver|DS disease|NN biopsy|NN procedure|NN 
+find|NN liver|NN enzyme|NN liver|NN ultrasound|NN scan|NN mry|NN 
+ultrasound|NN problem|NN 
+guideline|NN enzyme|NN level|NN rule|NN non-alcoholic|NN fatty_liver|DS disease|NN range|NN disease|NN easl|NN screen|NN steatosis|NN non-alcoholic|NN fatty_liver|DS disease|NN predictor|NN disease|NN evolution|NN diabete|NN type|NN event|NN hypertension|DS 
+blood|NN test|NN diagnosis|NN rule|NN erythrocyte|NN sedimentation|NN rate|NN glucose|NN albumin|NN kidney|NN function|NN 
+liver|NN protein|NN blood|NN clote|NN study|NN ratio|NN 
+people|NN liver|NN injury|NN blood|NN test|NN rule|NN hepatitis|DS hepatitis|DS virus|NN cytomegalovirus|DS rubella|DS autoimmune|NN disease|NN 
+activity|NN patient|NN hormone|NN 
+blood|NN test|NN 
+guideline|NN liver|NN biopsy|NN patient|NN non-alcoholic|NN fatty_liver|DS disease|NN risk|NN fibrosis|DS liver|NN disease|NN liver|NN disease|NN 
+presence|NN syndrome|NN non-alcoholic|NN fatty_liver|DS disease|NN fibrosis|DS score|NN liver|NN stiffness|NN vcte|NN patient|NN risk|NN steatohepatitis|NN fibrosis|DS 
+non-alcoholic|NN fatty_liver|DS disease|NN patient|NN screen|NN carcinoma|NN liver|NN cancer|DS gastroesophageal|NN varice|NN 
+pathology|NN report|NN nafl|NN inflammation|NN steatosis|NN lobular|NN portal|NN inflammation|NN balloon|NN presence|NN absence|NN fibrosis|DS comment|NN severity|NN 
+easl|NN activity|NN lifestyle|NN development|NN progression|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+algorithm|NN balloon|NN use|NN non-alcoholic|NN fatty_liver|DS disease|NN activity|NN score|NN nas|NN severity|NN nash|NN diagnosis|NN 
+activity|NN fibrosis|DS saf|NN score|NN score|NN system|NN aasld|NN use|NN nas|NN saf|NN score|NN system|NN 
+system|NN screen|NN easl|NN non-alcoholic|NN fatty_liver|DS disease|NN outcome|NN result|NN complication|NN atherosclerosis|DS cause|NN majority|NN non-alcoholic|NN fatty_liver|DS disease|NN death|NN patient|NN non-alcoholic|NN fatty_liver|DS disease|NN risk|NN morbidity|NN mortality|NN modification|NN disease|NN risk|NN factor|NN patient|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+aasld|NN patient|NN nash|NN varice|NN liver|NN cancer|DS 
+routine|NN screen|NN liver|NN cancer|DS liver|NN biopsy|NN patient|NN basis|NN definition|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN non-alcoholic|NN fatty_liver|DS disease|NN accumulation|NN fat|NN liver|NN cause|NN alcohol|NN use|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN continuum|NN liver|NN abnormality|NN liver|NN steatohepatitis|NN 
+disease|NN accumulation|NN liver|NN steatosis|NN 
+liver|NN liver|NN function|NN mechanism|NN insult|NN liver|NN steatohepatitis|NN state|NN inflammation|NN fibrosis|DS monitor|NN 
+screen|NN non-alcoholic|NN fatty_liver|DS disease|NN liver|NN fibrosis|DS year|NN adult|NN year|NN children|NN liver|NN fibrosis|DS elf|NN blood|NN test|NN follow-up|NN people|NN obesity|NN insulin|NN resistance|NN homeostasis|NN model|NN assessment|NN insulin|NN resistance|NN 
+people|NN nash|NN fibrosis|DS hypertension|DS monitor|NN risk|NN disease|NN progression|NN management|NN 
+guideline|NN association|NN study|NN liver|NN disease|NN institute|NN health|NN care|NN excellence|NN association|NN study|NN liver|NN lifestyle|NN 
+weight_loss|ST treatment|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+offer|NN people|NN non-alcoholic|NN fatty_liver|DS disease|NN weight_loss|ST programme|NN weight_loss|ST advice|NN improvement|NN non-alcoholic|NN fatty_liver|DS disease|NN blood|NN test|NN ultrasound|NN image|NN liver|NN biopsy|NN 
+combination|NN diet|NN exercise|NN non-alcoholic|NN fatty_liver|DS disease|NN insulin|NN resistance|NN support|NN therapy|NN people|NN non-alcoholic|NN fatty_liver|DS disease|NN condition|NN disease|NN motivation|NN change|NN diet|NN 
+treatment|NN non-alcoholic|NN fatty_liver|DS disease|NN nutrition|NN people|NN non-alcoholic|NN fatty_liver|DS disease|NN diet|NN diet|NN diet|NN result|NN scheme|NN reduction|NN inflammation|NN fibrosis|DS weight_loss|ST evidence|NN intervention|NN individual|NN liver|NN 
+easl|NN energy|NN restriction|NN 500-1000|NN diet|NN target|NN weight_loss|ST obeseoverweight|NN non-alcoholic|NN fatty_liver|DS disease|NN low|NN fat|NN carbohydrate|NN diet|NN carbohydrate|NN protein|NN diet|NN diet|NN beverage|NN food|NN fructose|NN 
+guideline|NN recommendation|NN vitamin|NN people|NN non-alcoholic|NN fatty_liver|DS disease|NN acid|NN supplementation|NN trial|NN review|NN acid|NN supplementation|NN non-alcoholic|NN fatty_liver|DS disease|NN nash|NN dose|NN gram|NN dose|NN duration|NN month|NN treatment|NN improvement|NN liver|NN fat|NN guideline|NN acid|NN treatment|NN non-alcoholic|NN fatty_liver|DS disease|NN nash|NN patient|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+alcohol|NN factor|NN people|NN non-alcoholic|NN fatty_liver|DS disease|NN easl|NN alcohol|NN consumption|NN 30gday|NN men|NN 20gday|NN women|NN 
+easl|NN limitation|NN consumption|NN coffee|NN 
+compound|NN curcumin|NN tea|NN enhancement|NN non-alcoholic|NN fatty_liver|DS disease|NN grade|NN reduction|NN look|NN therapy|NN activity|NN 
+weight_loss|ST process|NN people|NN 
+activity|NN diet|NN people|NN non-alcoholic|NN fatty_liver|DS disease|NN people|NN activity|NN weight_loss|ST adaptation|NN intake|NN activity|NN liver|NN fat|NN body|NN weight|NN reduction|NN weight_loss|ST exercise|NN diet|NN way|NN liver|NN fat|NN help|NN fibrosis|DS remission|NN exercise|NN steatosis|NN aspect|NN liver|NN approach|NN exercise|NN diet|NN exercise|NN resistance|NN train|NN result|NN train|NN train|NN intensity|NN exercise|NN chance|NN nash|NN steatohepatitis|NN fibrosis|DS easl|NN minweek|NN session|NN intensity|NN activity|NN resistance|NN train|NN 
+liver|NN fat|NN choice|NN activity|NN individual|NN preference|NN goal|NN engagement|NN activity|NN increase|NN level|NN inactivity|NN 
+liver|NN disease|NN nash|NN fibrosis|DS 
+medicine|NN non-alcoholic|NN fatty_liver|DS disease|NN approval|NN drug|NN liver|NN fat|NN loss|NN 
+treatment|NN marker|NN transaminase|NN level|NN abnormality|NN endpoint|NN 
+insulin|NN sensitizers|NN insulin|NN resistance|NN non-alcoholic|NN fatty_liver|DS disease|NN trial|NN feature|NN lead|NN resolution|NN steatohepatitis|NN fibrosis|DS 
+side-effect|NN drug|NN fracture|NN risk|NN fluid|NN retention|NN heart|NN failure|NN bladder|NN cancer|DS weight_gain|ST adoption|NN side-effect|NN use|NN patient|NN nash|NN 
+use|NN metformin|NN study|NN improvement|NN liver|NN condition|NN improvement|NN insulin|NN resistance|NN serum|NN improvement|NN guideline|NN pioglitazone|NN care|NN adult|NN liver|NN fibrosis|DS diabete|NN 
+vitamin|NN treatment|NN patient|NN nash|NN 
+improvement|NN liver|NN biochemistry|NN histology|NN people|NN non-alcoholic|NN fatty_liver|DS disease|NN treatment|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN patient|NN risk|NN disease|NN treatment|NN 
+people|NN non-alcoholic|NN fatty_liver|DS disease|NN risk|NN liver|NN injury|NN statin|NN aasld|NN easl|NN 
+patient|NN cirrhosis|NN case|NN cirrhosis|NN use|NN patient|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+guideline|NN liver|NN enzyme|NN level|NN month|NN start|NN treatment|NN pentoxifylline|NN improvement|NN appearance|NN liver|NN tissue|NN microscope|NN trial|NN 
+acid|NN 2018|NN aasld|NN trial|NN 
+effect|NN inflammation|NN dysbiosis|NN patient|NN non-alcoholic|NN fatty_liver|DS disease|NN surgery|NN 
+surgery|NN method|NN individual|NN non-alcoholic|NN fatty_liver|DS disease|NN weight_loss|ST inflammation|NN fibrosis|DS aasld|NN surgery|NN nash|NN basis|NN bariatric|NN surgery|NN program|NN 
+patient|NN liver|NN disease|NN liver|NN failure|NN liver|NN cancer|DS liver|NN transplantation|NN procedure|NN easl|NN 
+survival|NN transplantation|NN disease|NN people|NN nash|NN liver|NN transplantation|NN disease|NN symptom|NN 
+people|NN non-alcoholic|NN fatty_liver|DS disease|NN improvement|NN steatosis|NN resolution|NN surgery|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN cause|NN liver|NN transplantation|NN outcome|NN 
+cause|NN disease|NN mechanism|NN disease|NN stage|NN find|NN insight|NN mechanism|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN disease|NN organ|NN pathway|NN liver|NN 
+progression|NN rate|NN fibrosis|DS human|NN nash|NN year|NN year|NN non-alcoholic|NN fatty_liver|DS disease|NN rate|NN stage|NN manifestation|NN individual|NN fibrosis|DS human|NN nash|NN human|NN non-alcoholic|NN fatty_liver|DS disease|NN study|NN non-alcoholic|NN fatty_liver|DS disease|NN patient|NN 
+year|NN survival|NN rate|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN risk|NN factor|NN fibrosis|DS hypertension|DS kidney|NN disease|NN fibrillation|NN infarction|NN stroke|NN death|NN cause|NN quality|NN evidence|NN study|NN 
+risk|NN liver|NN cancer|DS 
+liver|NN cancer|DS non-alcoholic|NN fatty_liver|DS disease|NN cause|NN liver|NN transplantation|NN 
+liver|NN cancer|DS nash|NN absence|NN cirrhosis|NN case|NN people|NN cirrhosis|NN risk|NN liver|NN cancer|DS 
+rate|NN liver|NN cancer|DS cause|NN liver|NN cancer|DS 
+non-alcoholic|NN fatty_liver|DS disease|NN risk|NN factor|NN liver|NN cancer|DS cirrhosis|NN patient|NN year|NN period|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN precursor|NN syndrome|NN influence|NN 
+presence|NN stage|NN fibrosis|DS factor|NN event|NN mortality|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN cirrhosis|NN liver|NN failure|NN liver|NN cancer|DS majority|NN death|NN non-alcoholic|NN fatty_liver|DS disease|NN patient|NN failure|NN meta-analysis|NN patient|NN non-alcoholic|NN fatty_liver|DS disease|NN year|NN risk|NN event|NN epidemiology|NN 
+percentage|NN people|NN non-alcoholic|NN fatty_liver|DS disease|NN range|NN part|NN world|NN study|NN liver|NN enzyme|NN prevalence|NN ultrasonography|NN proton|NN nmr|NN spectroscopy|NN study|NN population|NN non-alcoholic|NN fatty_liver|DS disease|NN united|NN states|NN population|NN liver|NN prevalence|NN europe|NN country|NN data|NN children|NN age|NN prevalence|NN population|NN study|NN data|NN child|NN obesity|NN clinics|NN 2000|NN 2010|NN usa|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN hispanics|NN rate|NN obesity|NN type|NN diabete|NN population|NN white|NN black|NN liver|NN disease|NN children|NN teenager|NN adult|NN 
+non-alcoholic|NN fatty_liver|DS disease|NN men|NN women|NN 
+disease|NN obesity|NN proportion|NN sufferer|NN weight|NN 
+lean|NN non-alcoholic|NN fatty_liver|DS disease|NN american|NN european|NN country|NN incidence|NN india|NN proportion|NN non-alcoholic|NN fatty_liver|DS disease|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+lean|NN non-alcoholic|NN fatty_liver|DS disease|NN people|NN risk|NN median|NN survival|NN rate|NN liver|NN transplantation|NN non-alcoholic|NN fatty_liver|DS disease|NN people|NN cohort|NN study|NN 
+progression|NN non-alcoholic|NN fatty_liver|DS disease|NN people|NN 
+people|NN suffer|NN non-alcoholic|NN fatty_liver|DS disease|NN population|NN treatment|NN obesity|NN 
+study|NN children|NN ultrasound|NN age|NN non-alcoholic|NN fatty_liver|DS disease|NN year|NN elastography|NN deposit|NN liver|NN non-alcoholic|NN fatty_liver|DS disease|NN half|NN 
+scan|NN liver|NN scare|NN cirrhosis|NN history|NN 
+case|NN liver|NN samuel|NN zelman|NN liver|NN hospital|NN employee|NN bottle|NN coca-cola|NN day|NN 
+trial|NN year|NN half|NN people|NN find|NN liver|NN liver|NN diabete|NN atherosclerosis|DS choline|NN depletion|NN sugar|NN occurrence|NN diabete|NN 
+name|NN steatohepatitis|NN jurgen|NN ludwig|NN colleague|NN mayo|NN clinic|NN order|NN awareness|NN existence|NN pathology|NN report|NN patient|NN paper|NN time|NN landmark|NN paper|NN start|NN condition|NN series|NN meet|NN topic|NN start|NN non-alcoholic|NN fatty_liver|DS disease|NN term|NN criteria|NN pathology|NN committee|NN nih|NN research|NN network|NN nas|NN score|NN system|NN children|NN 
+liver|NN disease|NN non-alcoholic|NN fatty_liver|DS disease|NN liver|NN disease|NN children|NN adolescent|NN non-alcoholic|NN fatty_liver|DS disease|NN syndrome|NN cluster|NN risk|NN factor|NN development|NN disease|NN type|NN diabete|NN mellitus|NN 
+study|NN obesity|NN insulin-resistance|NN contributor|NN development|NN non-alcoholic|NN fatty_liver|DS disease|NN liver|NN disease|NN hepatitis|DS disease|NN atherosclerosis|DS risk|NN non-alcoholic|NN fatty_liver|DS disease|NN children|NN year|NN age|NN diagnosis|NN year|NN age|NN year|NN children|NN symptom|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+boy|NN non-alcoholic|NN fatty_liver|DS disease|NN girl|NN weight_gain|ST childhood|NN adolescence|NN risk|NN non-alcoholic|NN fatty_liver|DS disease|NN life|NN adult|NN non-alcoholic|NN fatty_liver|DS disease|NN follow-up|NN study|NN risk|NN factor|NN childhood|NN bmy|NN plasma|NN insulin|NN level|NN sex|NN background|NN variant|NN birth|NN weight|NN risk|NN factor|NN adulthood|NN non-alcoholic|NN fatty_liver|DS disease|NN study|NN steatosis|NN children|NN suspicion|NN non-alcoholic|NN fatty_liver|DS disease|NN children|NN steatosis|NN prognosis|NN adult|NN non-alcoholic|NN fatty_liver|DS disease|NN adult|NN 
+children|NN non-alcoholic|NN fatty_liver|DS disease|NN nash|NN children|NN obesity|NN adult|NN fibrosis|DS course|NN children|NN adult|NN 
+diagnosis|NN non-alcoholic|NN fatty_liver|DS disease|NN children|NN development|NN liver|NN disease|NN adulthood|NN children|NN non-alcoholic|NN fatty_liver|DS disease|NN 42-59|NN pain|ST symptom|NN quadrant|NN pain|ST acanthosis|NN patient|NN hepatomegaly|NN 3040|NN children|NN non-alcoholic|NN fatty_liver|DS disease|NN 
+liver|NN biopsy|NN diagnosis|NN children|NN diagnosis|NN therapy|NN easl|NN fibrosis|DS test|NN radiation|NN force|NN impulse|NN image|NN serum|NN order|NN number|NN biopsy|NN children|NN non-alcoholic|NN fatty_liver|DS disease|NN screen|NN liver|NN fibrosis|DS year|NN liver|NN fibrosis|DS elf|NN blood|NN test|NN study|NN resonance|NN alternative|NN ultrasonography|NN 
+lifestyle|NN modification|NN activity|NN change|NN line|NN treatment|NN aasld|NN easl|NN liver|NN histology|NN aminotransferase|NN level|NN 
+term|NN treatment|NN vitamin|NN e|NN liver|NN health|NN children|NN use|NN vitamin|NN e|NN children|NN liver|NN fibrosis|DS diabete|NN treatment|NN childhood|NN non-alcoholic|NN fatty_liver|DS disease|NN weight_loss|ST 
+evidence|NN undernutrition|NN susceptibility|NN childhood|NN progression|NN lifespan|NN research|NN diagnosis|NN biomarker|NN 
+diagnosis|NN liver|NN biopsy|NN epidemiology|NN method|NN non-alcoholic|NN fatty_liver|DS disease|NN disease|NN progression|NN research|NN priority|NN search|NN biomarker|NN non-alcoholic|NN fatty_liver|DS disease|NN image|NN blood|NN test|NN score|NN system|NN 
+resonance|NN sensitivity|NN fat|NN accuracy|NN fibrosis|DS non-alcoholic|NN fatty_liver|DS disease|NN bmy|NN inflammation|NN alternative|NN non-alcoholic|NN fatty_liver|DS disease|NN progression|NN ultrasonography|NN blood|NN test|NN 
+nature|NN review|NN proton|NN density|NN fat|NN fraction|NN estimation|NN resonance|NN image|NN gold|NN standard|NN test|NN steatosis|NN 
+elastography|NN fibrosis|DS cirrhosis|NN routine|NN set|NN objectivity|NN ultrasonography|NN accuracy|NN resonance|NN plasma|NN fragment|NN level|NN biomarker|NN drug|NN development|NN 
+drug|NN development|NN nash|NN 
+drug|NN target|NN site|NN lipid|NN glucose|NN homeostasis|NN stress|NN target|NN hepatocyte|NN signal|NN hepatocyte|NN target|NN cell|NN activation|NN fibrogenesis|NN trial|NN elafibranor|NN acid|NN selonsertib|NN phase|NN phase|NN non-alcoholic|NN fatty_liver|DS disease|NN disease|NN organ|NN tissue|NN combination|NN therapy|NN compound|NN conjugate|NN therapy|NN drug|NN therapy|NN therapy|NN lifestyle|NN change|NN way|NN increase|NN drug|NN efficiency|NN trial|NN month|NN use|NN administration|NN lobby|NN 
+france|NN syndicate|NN beverage|NN de|NN france|NN drink|NN producer|NN coca-cola|NN france|NN pepsico|NN france|NN journal|NN enchain|NN consumer|NN communication|NN website|NN pathology|NN pathology|NN soda|NN illness|NN language|NN abuse|NN shortcut|NN consumption|NN beverage|NN 
+page|NN website|NN disinformation|NN 
+liver|NN poultry|NN pathophysiology|NN non-alcoholic|NN fatty_liver|DS disease|NN human|NN 

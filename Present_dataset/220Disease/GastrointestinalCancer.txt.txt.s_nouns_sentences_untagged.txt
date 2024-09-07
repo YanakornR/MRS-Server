@@ -1,0 +1,67 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN gastrointestinal|NN cancer|DS oncology|NN 
+gastrointestinal|NN cancer|DS condition|NN tract|NN gi|NN tract|NN accessory|NN organ|NN digestion|NN stomach|NN system|NN pancrea|NN intestine|NN intestine|NN rectum|NN anus|NN 
+symptom|NN organ|NN obstruction|NN difficulty|NN swallow|NN bleed|NN problem|NN 
+diagnosis|NN endoscopy|NN biopsy|NN tissue|NN 
+treatment|NN location|NN tumor|NN type|NN cancer|DS cell|NN tissue|NN spread|NN 
+factor|NN prognosis|NN 
+gi|NN tract|NN organ|NN digestion|NN pancrea|NN liver|NN gall|NN bladder|NN cancer|DS death|NN cancer|DS system|NN body|NN variation|NN rate|NN gastrointestinal|NN cancer|DS content|NN 
+tract|NN cancer|DS stomach_cancer|DS cancer|DS liver|NN cancer|DS cancer|DS tract|NN cancer|DS cancer|DS tumor|NN field|NN defect|NN stomach|NN intestine|NN reference|NN link|NN 
+tract|NN cancer|DS death|NN rate|NN cancer|DS article|NN cancer|DS 
+cancer|DS cancer|DS world|NN incidence|NN male|NN female|NN cancer|DS belt|NN incidence|NN cell|NN carcinoma|NN scc|NN time|NN area|NN china|NN asia|NN iran|NN ethiopia|NN incidence|NN type|NN esophageal|NN cell|NN carcinoma|NN 
+incidence|NN type|NN country|NN north|NN america|NN europe|NN adenocarcinoma|NN 
+cancer|DS esophagus|NN symptom|NN 
+cancer|DS patient|NN survival|NN rate|NN 
+time|NN cancer|DS wall|NN survival|NN rate|NN 
+china|NN survival|NN rate|NN cancer|DS united|NN states|NN stomach_cancer|DS article|NN cancer|DS 
+cancer|DS stomach_cancer|DS type|NN cancer|DS cause|NN cancer|DS death|NN asia|NN china|NN japan|NN korea|NN mongolia|NN area|NN cancer|DS north|NN america|NN australia|NN new|NN zealand|NN africa|NN area|NN risk|NN type|NN cancer|DS adenocarcinoma|NN death|NN year|NN factor|NN development|NN cancer|DS diet|NN smoke|NN alcohol|NN consumption|NN aspect|NN number|NN syndrome|NN infection|NN example|NN helicobacter|NN pylory|NN virus|NN anemia|DS survival|NN care|NN regimen|NN cancer|DS tract|NN article|NN cancer|DS 
+cancer|DS cause|NN cancer|DS death|NN united|NN states|NN europe|NN case|NN cancer|DS death|NN cancer|DS tumor|NN 
+adenocarcinoma|NN risk|NN factor|NN cancer|DS age|NN pancreatitis|NN diabete|NN condition|NN development|NN cancer|DS symptom|NN tumor|NN patient|NN pain|ST abdomen|NN back|NN symptom|NN jaundice|ST yellow|NN skin|NN eye|NN 
+cancer|DS prognosis|NN survival|NN rate|NN 
+time|NN cancer|DS stage|NN patient|NN surgery|NN cancer|DS radiotherapy|NN chemotherapy|NN liver|NN cancer|DS article|NN carcinoma|NN 
+people|NN liver|NN cancer|DS carcinoma|NN hepatitis|DS infection|NN result|NN cirrhosis|NN alcoholism|NN 
+liver|NN cancer|DS yellow|NN skin|NN eye|NN jaundice|ST itch|ST pruritus|NN buildup|NN fluid|NN abdomen|NN ascite|NN 
+person|NN enlarge|NN mass|NN cancer|DS liver|NN function|NN 
+attend|NN practitioner|NN biopsy|NN mry|NN ct|NN scan|NN patient|NN blood|NN test|NN test|NN ultrasound|NN 
+cancer|DS stage|NN cirrhosis|NN 
+option|NN resection|NN ablation|NN liver|NN cancer|DS article|NN cancer|DS 
+cancers|NN gallbladder|NN adenocarcinoma|NN women|NN 
+cancer|DS gallstone|NN porcelain|NN appearance|NN ultrasound|NN presence|NN polyp|NN gallbladder|NN 
+cancer|DS weight_loss|ST jaundice|ST pain|ST right|NN 
+ultrasound|NN ct|NN 
+prognosis|NN cancer|DS 
+malt|NN lymphoma|DS cancer|DS tissue|NN stomach|NN 
+tumor|NN malignancy|NN 
+cancers|NN tree|NN 
+tract|NN cancer|DS example|NN cancer|DS 
+article|NN cancer|DS 
+cancer|DS disease|NN age|NN cell|NN gut|NN risk|NN factor|NN diet|NN vegetable|NN fibre|NN fat|NN 
+person|NN cancer|DS syndrome|NN cancer|DS polyposis619620|NN cancer|DS bleed|NN polyp|NN bowel|NN pain|ST bowel|NN obstruction|NN biopsy|NN polyp|NN screen|NN colonoscopy|NN 
+feel|NN toilet|NN kind|NN 
+use|NN colonoscope|NN cancer|DS biopsy|NN extent|NN involvement|NN bowel|NN wall|NN 
+removal|NN section|NN colon|NN treatment|NN chemotherapy|NN 
+cancer|DS prognosis|NN cancer|DS article|NN cancer|DS 
+anatomic|NN landmark|NN cancer|DS line|NN line|NN cm|NN verge|NN mucosa|NN canal|NN skin|NN cancer|DS line|NN head|NN carcinoma|NN feet|NN cell|NN carcinoma|NN 
+cancer|DS colitis|DS infection|NN hpv|NN hiv|DS 
+cancer|DS cause|NN constipation|ST tenesmus|NN mass|NN form580|NN 
+cancer|DS biopsy|NN excision|NN radiotherapy|NN beam|NN radiotherapy|NN chemotherapy|NN 
+survival|NN rate|NN procedure|NN tumor|NN 
+tumor|NN form|NN cancer|DS cell|NN line|NN stomach|NN intestine|NN 
+cell|NN hormone|NN production|NN juice|NN muscle|NN food|NN stomach|NN intestine|NN 
+kind|NN cancer|DS appendix|NN intestine|NN rectum|NN 
+presence|NN risk|NN cancer|DS part|NN system|NN 
+surgery|NN field|NN defect|NN 
+field|NN defect|NN field|NN cancerization|NN region|NN tissue|NN development|NN cancer|DS 
+field|NN defect|NN progression|NN tract|NN cancer|DS field|NN defect|NN manifestation|NN alteration|NN mutation|NN 
+adenocarcinomas|NN esophagus|NN field|NN defect|NN esophagus|NN patch|NN tissue|NN 
+diagnosis|NN esophagus|NN change|NN mucosa|NN mucosa|NN metaplasia|NN 
+pre-malignant|NN lesion|NN adenocarcinoma|NN alteration|NN 
+carcinoma|NN second|NN primary|NN head|NN neck|NN cancer|DS field|NN reaction|NN exposure|NN field|NN defect|NN progression|NN cell|NN carcinoma|NN marker|NN stomach|NN 
+cancer|DS area|NN field|NN defect|NN stomach|NN gastritis|NN metaplasia|NN lesion|NN field|NN cancer|DS study|NN field|NN defect|NN carcinogenesis|NN throughput|NN data|NN mucosa|NN patient|NN neoplasm|NN tissue|NN cancer|DS cancer|DS tissue|NN 
+greater|NN reduction|NN mirna|NN tissue|NN cancer|DS level|NN tissue|NN intestine|NN colon|NN segment|NN cancer|DS polyp|NN 
+diagram|NN field|NN defect|NN region|NN tissue|NN development|NN cancer|DS colon|NN segment|NN 
+diagram|NN precursor|NN tumor|NN 
+segment|NN intestine|NN cancer|DS area|NN cancer|DS neoplasia|NN form|NN polyp|NN image|NN 
+evidence|NN field|NN defect|NN 
+polyp|NN tumor|NN 
+polyp|NN colon|NN year|NN polyp|NN progress|NN cancer|DS 
+luo|NN et|NN al|NN body|NN evidence|NN field|NN colon|NN dna|NN methylation|NN 

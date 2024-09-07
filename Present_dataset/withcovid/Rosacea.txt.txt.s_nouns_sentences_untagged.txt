@@ -1,0 +1,66 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN rosacea|NN disambiguation|NN 
+rosacea|NN name|NN rosacea|NN rosacea|NN rosacea|NN cheek|NN nose|NN pronunciation|NN 
+symptom|NN redness|NN pimple|NN blood|NN vessel|NN complication|NN onset|NN year|NN duration|NN term|NN type|NN cause|NN risk|NN factor|NN family|NN history|NN method|NN symptom|NN diagnosis|NN acne|DS dermatitis|NN dermatitis|NN antibiotics|NN mouth|NN skin|NN frequency|NN 
+rosacea|NN skin|NN condition|NN face|NN redness|NN pimple|NN blood|NN vessel|NN nose|NN cheek|NN forehead|NN chin|NN nose|NN disease|NN condition|NN 
+cause|NN rosacea|NN risk|NN factor|NN family|NN history|NN condition|NN factor|NN condition|NN heat|NN exercise|NN sunlight|NN food|NN alcohol|NN menopause|NN stress|NN cream|NN face|NN diagnosis|NN symptom|NN 
+treatment|NN symptom|NN treatment|NN metronidazole|NN doxycycline|NN tetracycline|NN eye|NN eye|NN drop|NN treatment|NN benefit|NN cream|NN ivermectin|NN cream|NN isotretinoin|NN laser|NN surgery|NN use|NN sunscreen|NN 
+rosacea|NN people|NN year|NN caucasian|NN condition|NN canterbury|NN tale|NN 1300|NN 200|NN content|NN 
+sign|NN symptom|NN rosacea|NN rosacea|NN cause|NN mite|NN bacteria|NN diagnosis|NN classification|NN variant|NN treatment|NN laser|NN epidemiology|NN reference|NN link|NN 
+sign|NN symptom|NN rosacea|NN face|NN 
+sign|NN redness|NN blood|NN vessel|NN skin|NN papule|NN erythematotelangiectatic|NN rosacea|NN 
+rosacea|NN rosacea|NN rosacea|NN history|NN minute|NN reaction|NN stimuly|NN stress|NN drink|NN alcohol|NN food|NN exercise|NN cold|NN weather|NN bath|NN shower|NN rosacea|NN 
+rosacea|NN men|NN skin|NN disease|NN papule|NN pustule|NN cm|NN size|NN lesion|NN cause|NN rosacea|NN left|NN withdrawal|NN therapy|NN right|NN 
+cause|NN rosacea|NN cause|NN episode|NN flush|NN play|NN part|NN development|NN 
+exposure|NN temperature|NN extreme|NN exercise|NN heat|NN sunlight|NN sunburn|NN stress|NN anxiety|ST wind|NN environment|NN shop|NN office|NN winter|NN face|NN food|NN drink|NN alcohol|NN food|NN beverage|NN caffeine|NN tea|NN coffee|NN food|NN histamine|NN food|NN 
+irritant|NN rosacea|NN flare|NN 
+acne|DS wrinkle|NN treatment|NN cause|NN rosacea|NN peel|NN dosage|NN peroxide|NN tretinoin|NN 
+rosacea|NN use|NN steroid|NN steroid|NN dermatitis|NN 
+richard|NN colleague|NN patient|NN rosacea|NN level|NN peptide|NN level|NN stratum|NN enzyme|NN 
+antibiotics|NN past|NN rosacea|NN scte|NN mite|NN 
+study|NN rosacea|NN demodex|NN mite|NN people|NN rosacea|NN number|NN mite|NN rosacea|NN 
+occasion|NN mange|NN condition|NN rosacea|NN appearance|NN 
+rosacea|NN study|NN mite|NN cause|NN factor|NN rosacea|NN researcher|NN bacillus|NN bacteria|NN mite|NN 
+blood|NN sample|NN blood|NN cell|NN proliferation|NN assay|NN b|NN system|NN response|NN percent|NN patient|NN subtype|NN rosacea|NN subject|NN disorder|NN 
+response|NN result|NN inflammation|NN bump|NN pimple|NN subtype|NN rosacea|NN 
+b|NN oleronius|NN bacteria|NN mite|NN inflammation|NN condition|NN 
+overgrowth|NN prevalence|NN rosacea|NN patient|NN antibiotics|NN rosacea|NN lesion|NN improvement|NN study|NN 
+rosacea|NN patient|NN antibiotic|NN therapy|NN effect|NN effectiveness|NN sibo|NN rosacea|NN patient|NN gut|NN bacteria|NN role|NN pathogenesis|NN rosacea|NN lesion|NN 
+people|NN rosacea|NN redness|NN 
+test|NN rosacea|NN 
+case|NN inspection|NN health-care|NN professional|NN diagnosis|NN 
+case|NN pimple|NN redness|NN part|NN face|NN trial|NN treatment|NN diagnosis|NN 
+disorder|NN acne_vulgaris|DS dermatitis|NN 
+presence|NN rash|ST scalp|NN ear|NN diagnosis|NN rosacea|NN diagnosis|NN area|NN 
+classification|NN zone|NN 
+rosacea|NN subtype|NN patient|NN subtype176|NN 
+rosacea|NN redness|NN tendency|NN flush|NN blush|NN blood|NN vessel|NN surface|NN skin|NN itch|ST people|NN type|NN skin|NN 
+addition|NN face|NN sign|NN ear|NN neck|NN chest|NN back|NN scalp|NN rosacea|NN present|NN redness|NN bump|NN pustule|NN day|NN 
+subtype|NN acne|DS 
+rosacea|NN rhinophyma|NN enlargement|NN nose|NN 
+sign|NN thicken|NN skin|NN surface|NN enlargement|NN 
+rosacea|NN chin|NN forehead|NN cheek|NN eyelid|NN ear|NN 
+rosacea|NN eye|NN eyelid|NN due|NN telangiectasia|DS inflammation|NN 
+symptom|NN sensation|NN sensitivity|NN eye|NN infection|NN 
+people|NN subtype|NN eye|NN symptom|NN 
+vision|NN vision|NN loss|NN cornea|NN 
+variant|NN rosacea|NN include689|NN 
+rosacea|NN fulminan|NN disease|NN face|NN rosacea|NN conglobata|NN rosacea|NN acne|DS abscess|NN plaque|NN rosacea|NN condition|NN overgrowth|NN gland|NN mass|NN bulb|NN face|NN ears693|NN 
+rosacea|NN severity|NN subtype|NN 
+approach|NN rosacea|NN patient|NN dermatologist|NN case|NN cosmetics|NN 
+therapy|NN treatment|NN rosacea|NN term|NN reduction|NN amount|NN redness|NN lesion|NN decrease|NN number|NN duration|NN intensity|NN flare|NN symptom|NN itch|ST burn|NN tenderness|NN 
+modality|NN rosacea|NN treatment|NN antibiotic|NN agent|NN laser|NN therapy|NN form|NN treatment|NN medication|NN remission|NN redness|NN week|NN redness|NN treatment|NN 
+treatment|NN year|NN control|NN condition|NN patient|NN treatment|NN case|NN remission|NN case|NN time|NN 
+trigger|NN condition|NN onset|NN rosacea|NN remission|NN case|NN 
+journal|NN food|NN beverage|NN trigger|NN 
+sunlight|NN trigger|NN exposure|NN sun|NN 
+people|NN rosacea|NN benefit|NN use|NN sunscreen|NN hat|NN brim|NN 
+sunlight|NN stress|NN rosacea|NN 
+people|NN infection|NN eyelid|NN practice|NN eyelid|NN hygiene|NN 
+pretrigger|NN event|NN exposure|NN environment|NN flush|NN 
+evidence|NN ivermectin|NN acid|NN cream|NN brimonidine|NN mouth|NN evidence|NN metronidazole|NN cream|NN tetracycline|NN mouth|NN 
+mechanism|NN acid|NN production|NN 
+antibiotics|NN tetracycline|NN class|NN minocycline|NN lesion|NN action|NN capability|NN 
+acid|NN peel|NN redness|NN irritation|NN rosacea|NN antibiotics|NN symptom|NN rosacea|NN 
+papules|NN pustules|NN flush|NN rosacea|NN application|NN alpha|NN agonist|NN laser|NN 
+evidence|NN use|NN laser|NN pulsed-light|NN therapy|NN rosacea|NN epidemiology|NN 
+women|NN men|NN rosacea|NN descent|NN northern|NN descent|NN 

@@ -1,0 +1,144 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN Pneumonia|Disease disambiguation|NN
+Pneumonia|Disease name|NN Pneumonia|Disease Pneumonia|Disease chest|NN radiograph|NN influensa|NN h|NP influenzae|NP chest|NN x-ray|NN Pneumonia|Disease influenza|NN influenzae|NN consolidation|NN lobe|NN arrow|NN
+disease|NN symptom|NN difficulty|NN breath|NN breath|NN fever|NN duration|NN week|NN cause|NN bacteria|NN virus|NN aspiration|NN risk|NN factor|NN fibrosis|NN asthma|NN diabete|NN heart|NN failure|NN history|NN method|NN symptom|NN chest|NN x-ray|NN diagnosis|NN asthma|NN embolism|NN prevention|NN vaccine|NN antibiotics|NN oxygen|NN therapy|NN frequency|NN year|NN death|NN year|NN
+Pneumonia|Disease condition|NN lung|NN air|NN sacs|NN symptom|NN combination|NN cough|NN chest|NN pain|NN fever|NN trouble|NN breath|NN severity|NN
+Pneumonia|Disease infection|NN viruse|NN bacteria|NN microorganism|NN medication|NN condition|NN autoimmune|NN disease|NN factor|NN lung|NN disease|NN fibrosis|NN asthma|NN diabete|NN heart|NN failure|NN history|NN ability|NN stroke|NN system|NN diagnosis|NN symptom|NN examination|NN chest|NN x-ray|NN blood|NN test|NN culture|NN sputum|NN diagnosis|NN disease|NN community|NN hospital|NN health|NN care|NN Pneumonia|Disease
+vaccine|NN type|NN Pneumonia|Disease method|NN prevention|NN smoke|NN treatment|NN cause|NN Pneumonia|Disease bacteria|NN antibiotics|NN Pneumonia|Disease person|NN oxygen|NN therapy|NN oxygen|NN level|NN
+Pneumonia|Disease people|NN population|NN result|NN death|NN year|NN Pneumonia|Disease william|NP century|NN captain|NN men|NN death|NN introduction|NN antibiotics|NN vaccine|NN century|NN survival|NN country|NN Pneumonia|Disease cause|NN death|NN Pneumonia|Disease suffer|NN death|NN mans|NP friend|NN Pneumonia|Disease media|NN video|NN summary|NN script|NN content|NN
+sign|NN symptom|NN cause|NN bacteria|NN viruse|NN mechanism|NN diagnosis|NN exam|NN image|NN microbiology|NN classification|NN diagnosis|NN prevention|NN vaccination|NN management|NN aspiration|NN follow-up|NN prediction|NN rule|NN effusion|NN abscess|NN failure|NN epidemiology|NN children|NN history|NN society|NN culture|NN awareness|NN cost|NN reference|NN link|NN
+sign|NN symptom|NN symptom|NN frequency|NN frequency|NN cough|NN fatigue|NN fever|NN shortness|NN breath|NN chest|NN pain|NN diagram|NN body|NN symptom|NN Pneumonia|Disease symptom|NN Pneumonia|Disease
+people|NN Pneumonia|Disease cough|NN fever|NN chill|NN shortness|NN breath|NN chest|NN pain|NN breath|NN rate|NN breath|NN people|NN confusion|NN sign|NN
+sign|NN symptom|NN children|NN fever|NN cough|NN breath|NN fever|NN illness|NN disease|NN malnutrition|NN
+addition|NN cough|NN children|NN month|NN sign|NN symptom|NN children|NN skin|NN unwillingness|NN drink|NN convulsion|NN vomit|NN extreme|NN temperature|NN level|NN consciousness|NN
+case|NN Pneumonia|Disease result|NN symptom|NN cause|NN classic|NN characteristics|NN
+Pneumonia|Disease pain|NN confusion|NN Pneumonia|Disease Pneumonia|Disease sputum|NN Pneumonia|Disease klebsiella|NN sputum|NN currant|NN jelly|NN sputum|NN hemoptysis|NN tuberculosis|NN Pneumonia|Disease lung|NN abscess|NN bronchitis|NN Pneumonia|Disease Pneumonia|Disease association|NN swell|NN lymph|NN node|NN neck|NN pain|NN ear|NN infection|NN Pneumonia|Disease wheez|NN Pneumonia|Disease Pneumonia|Disease belief|NN presentation|NN cause|NN evidence|NN distinction|NN cause|NN object|NN background|NN bacterium|NN Pneumonia|Disease cause|NN Pneumonia|Disease electron|NN microscope|NN
+Pneumonia|Disease infection|NN bacteria|NN viruse|NN fungy|NN parasite|NN
+strain|NN agent|NN majority|NN case|NN
+infection|NN viruse|NN bacteria|NN infection|NN children|NN infection|NN adult|NN agent|NN case|NN test|NN
+term|NN Pneumonia|Disease condition|NN inflammation|NN lung|NN example|NN autoimmune|NN disease|NN burn|NN drug|NN reaction|NN inflammation|NN Pneumonia|Disease
+factor|NN Pneumonia|Disease smoke|NN immunodeficiency|NN alcoholism|NN disease|NN asthma|NN kidney|NN disease|NN liver|NN disease|NN age|NN risk|NN children|NN breastfee|NN exposure|NN cigarette|NN air|NN pollution|NN malnutrition|NN poverty|NN use|NN medication|NN inhibitor|NN blocker|NN risk|NN Pneumonia|Disease people|NN ventilation|NN ventilator|NN Pneumonia|Disease people|NN feed|NN tube|NN risk|NN aspiration|NN Pneumonia|Disease people|NN variant|NN gene|NN risk|NN death|NN sepsis|NN Pneumonia|Disease
+variant|NN risk|NN legionnaires|NP disease|NN bacteria|NN article|NN Pneumonia|Disease Pneumonia|Disease ct|NN
+Pneumonia|Disease due|NN
+bacteria|NN cause|NN Pneumonia|Disease cap|NN Pneumonia|Disease case|NN bacteria|NN influenzae|NN Pneumonia|Disease Pneumonia|Disease case|NN staphylococcus|NP aureus|NN legionella|NN bacilly|NN number|NN version|NN infection|NN streptococcus|NN Pneumonia|Disease staphylococcus|NP aureus|NN
+spread|NN organism|NN risk|NN factor|NN alcoholism|NN Pneumonia|Disease organism|NN mycobacterium|NN tuberculosis|NN smoke|NN effect|NN streptococcus|NN Pneumonia|Disease
+exposure|NN bird|NN farm|NN animal|NN aspiration|NN stomach|NN content|NN organism|NN fibrosis|NN pseudomona|NN staphylococcus|NP aureus|NN Pneumonia|Disease winter|NN person|NN amount|NN organism|NN viruse|NN article|NN Pneumonia|Disease
+adult|NN viruse|NN account|NN children|NN Pneumonia|Disease case|NN agent|NN influenza|NN virus|NN syncytial|NN virus|NN rsv|NP adenovirus|NN herpes|NP simplex|NN virus|NN Pneumonia|Disease group|NN person|NN cancer|NN transplant|NN recipient|NN people|NN burn|NN people|NN organ|NN transplantation|NN rate|NN cytomegalovirus|NN Pneumonia|Disease infection|NN bacteria|NN Pneumonia|Disease staphylococcus|NN aureus|NN haemophilus|NN health|NN problem|NN viruse|NN period|NN year|NN flu|NN season|NN example|NN influenza|NN case|NN viruse|NN hantaviruse|NN coronavirus|NN article|NN Pneumonia|Disease
+Pneumonia|Disease individual|NN system|NN aid|NN drug|NN problem|NN capsulatum|NN pneumocystis|NN Pneumonia|Disease pcp|NP coccidioides|NP immitis|NP
+mississippi|NP river|NP basin|NN united|NP states|NP number|NN case|NN half|NN century|NN travel|NN rate|NN immunosuppression|NN population|NN people|NN hivaids|NP pcp|NP infection|NN article|NN Pneumonia|Disease
+variety|NN parasite|NN lung|NN gondiy|NN ascaris|NN plasmodium|NP organism|NN body|NN contact|NN skin|NN ingestion|NN insect|NN vector|NN paragonimus|NN parasite|NN lung|NN lung|NN site|NN parasite|NN ascaris|NN strongyloide|NN genera|NN eosinophilic|NN reaction|NN Pneumonia|Disease infection|NN malaria|NN lung|NN involvement|NN inflammation|NN world|NN infection|NN people|NN travel|NN immigrant|NN world|NN infection|NN immunodeficient|NN article|NN Pneumonia|Disease
+Pneumonia|Disease Pneumonia|Disease class|NN lung|NN disease|NN
+damage|NN Pneumonia|Disease Pneumonia|Disease Pneumonia|Disease Pneumonia|Disease lung|NN disease|NN Pneumonia|Disease Pneumonia|Disease cause|NN lipid|NN lung|NN lipid|NN lipid|NN body|NN mechanism|NN diagram|NN lung|NN circle|NN left|NN alveola|NN right|NN fluid|NN Pneumonia|Disease Pneumonia|Disease lung|NN fluid|NN oxygenation|NN
+alveolus|NN left|NN right|NN fluid|NN Pneumonia|Disease
+Pneumonia|Disease tract|NN infection|NN tract|NN type|NN Pneumonia|Disease lung|NN inflammation|NN flora|NN airway|NN protection|NN pathogen|NN nutrient|NN
+airway|NN reflexe|NN action|NN complement|NN protein|NN immunoglobulin|NN protection|NN
+microaspiration|NP secretion|NN airway|NN cause|NN Pneumonia|Disease
+virulence|NN organism|NN amount|NN organism|NN infection|NN body|NN response|NN infection|NN progress|NN Pneumonia|Disease
+bacteria|NN lung|NN aspiration|NN organism|NN throat|NN nose|NN half|NN people|NN aspiration|NN sleep|NN throat|NN bacteria|NN time|NN condition|NN minority|NN type|NN bacteria|NN mycobacterium|NN tuberculosis|NN legionella|NN lung|NN droplet|NN bacteria|NN blood|NN lung|NN bacteria|NN space|NN cell|NN alveoly|NN macrophage|NN neutrophil|NN blood|NN cell|NN bacteria|NN neutrophil|NN release|NN cytokine|NN activation|NN system|NN fever|NN chill|NN fatigue|NN Pneumonia|Disease neutrophil|NN bacteria|NN fluid|NN blood|NN vessel|NN alveoly|NN consolidation|NN chest|NN x-ray|NN
+viruse|NN lung|NN number|NN route|NN
+syncytial|NN virus|NN people|NN object|NN eye|NN nose|NN infection|NN droplet|NN mouth|NN nose|NN airway|NN viruse|NN way|NN lung|NN cell|NN airway|NN lung|NN parenchyma|NN viruse|NN measle|NN herpe|NN simplex|NN lung|NN blood|NN invasion|NN lung|NN degree|NN cell|NN death|NN system|NN infection|NN lung|NN damage|NN blood|NN cell|NN cell|NN inflammation|NN lung|NN viruse|NN organ|NN body|NN function|NN
+viruse|NN body|NN infection|NN way|NN Pneumonia|Disease time|NN Pneumonia|Disease diagnosis|NN
+menu|NN lung|NN person|NN Pneumonia|Disease stethoscope|NN
+problem|NN file|NN
+Pneumonia|Disease combination|NN sign|NN chest|NN x-ray|NN adult|NN sign|NN lung|NN examination|NN diagnosis|NN cause|NN test|NN origin|NN
+world|NN health|NN organization|NN Pneumonia|Disease children|NN cough|NN difficulty|NN breath|NN rate|NN chest|NN level|NN consciousness|NN rate|NN breath|NN minute|NN children|NN month|NN breath|NN minute|NN children|NN month|NN year|NN breath|NN minute|NN children|NN year|NN children|NN oxygen|NN level|NN chest|NN hear|NN chest|NN crackle|NN stethoscope|NN rate|NN flare|NN sign|NN children|NN year|NN lack|NN wheez|NN indicator|NN mycoplasma|NN Pneumonia|Disease children|NN Pneumonia|Disease indicator|NN treatment|NN presence|NN chest|NN pain|NN children|NN Pneumonia|Disease double|NN probability|NN mycoplasma|NN Pneumonia|Disease
+general|NN adult|NN investigation|NN case|NN risk|NN Pneumonia|Disease sign|NN auscultation|NN person|NN hospitalization|NN pulse|NN oximetry|NN chest|NN radiography|NN blood|NN test|NN blood|NN count|NN serum|NN electrolyte|NN protein|NN level|NN liver|NN function|NN test|NN cause|NN support|NN antibiotics|NN antibiotics|NN level|NN
+crp|NP mgl|NN evidence|NN Pneumonia|Disease antibiotics|NN
+diagnosis|NN illness|NN sign|NN symptom|NN confirmation|NN influenza|NN infection|NN test|NN treatment|NN presence|NN influenza|NN community|NN influenza|NN test|NN exam|NN
+examination|NN blood|NN pressure|NN heart|NN rate|NN oxygen|NN saturation|NN rate|NN day|NN sign|NN examination|NN chest|NN chest|NN expansion|NN side|NN
+breath|NN sound|NN airway|NN lung|NN breath|NN auscultation|NN stethoscope|NN rale|NN area|NN inspiration|NN percussion|NN lung|NN resonance|NN Pneumonia|Disease effusion|NN image|NN chest|NN x-ray|NN wedge-shape|NN area|NN airspace|NN consolidation|NN lung|NN characteristic|NN lobar|NN Pneumonia|Disease image|NN organ|NN cross-section|NN ct|NN
+area|NN stick|NN
+ct|NN chest|NN Pneumonia|Disease side|NN image|NN
+chest|NN radiograph|NN diagnosis|NN people|NN disease|NN image|NN complication|NN treatment|NN cause|NN person|NN hospitalization|NN chest|NN radiograph|NN find|NN severity|NN disease|NN infection|NN infection|NN
+x-ray|NN presentation|NN Pneumonia|Disease Pneumonia|Disease Pneumonia|Disease Pneumonia|Disease Pneumonia|Disease community-acquire|NN Pneumonia|Disease show|NN lung|NN consolidation|NN lung|NN lobe|NN Pneumonia|Disease find|NN pattern|NN type|NN Pneumonia|Disease aspiration|NN Pneumonia|Disease opacity|NN base|NN lung|NN side|NN radiograph|NN Pneumonia|Disease area|NN Pneumonia|Disease consolidation|NN find|NN stage|NN disease|NN presence|NN dehydration|NN history|NN lung|NN disease|NN complication|NN effusion|NN chest|NN radiograph|NN
+chest|NN radiograph|NN accuracy|NN lung|NN consolidation|NN effusion|NN ct|NN scan|NN information|NN case|NN ct|NN scan|NN detail|NN chest|NN radiograph|NN example|NN occult|NN Pneumonia|Disease disease|NN embolism|NN Pneumonia|Disease lung|NN abscess|NN treatment|NN ct|NN scan|NN dose|NN radiation|NN bedside|NN
+lung|NN ultrasound|NN diagnosis|NN ultrasound|NN radiation|NN bedside|NN
+ultrasound|NN skill|NN machine|NN find|NN chest|NN x-ray|NN
+ultrasound|NN week|NN media|NN
+Pneumonia|Disease ultrasound|NN ultrasound|NN week|NN media|NN
+Pneumonia|Disease ultrasound|NN
+Pneumonia|Disease ultrasound|NN
+lobe|NN Pneumonia|Disease child|NN plain|NN ray|NN
+people|NN community|NN agent|NN management|NN people|NN treatment|NN sputum|NN culture|NN culture|NN mycobacterium|NN tuberculosis|NN person|NN cough|NN evaluation|NN Pneumonia|Disease alcoholism|NN immunosuppression|NN hiv|NP infection|NN alcohol|NN abuse|NN blood|NN culture|NN fluid|NN culture|NN diagnosis|NN type|NN micro-organism|NN sputum|NN culture|NN care|NN possibility|NN colonisation|NN tract|NN test|NN organism|NN outbreak|NN health|NN reason|NN disease|NN sputum|NN blood|NN culture|NN urine|NN antigen|NN legionella|NN infection|NN detection|NN virus|NN antigen|NN culture|NN polymerase|NN chain|NN reaction|NN pcr|NP technique|NN streptococcus|NN pcr|NP technique|NN lavage|NN swab|NN agent|NN case|NN routine|NN test|NN classification|NN article|NN classification|NN Pneumonia|Disease
+Pneumonia|Disease lung|NN inflammation|NN Pneumonia|Disease Pneumonia|Disease infection|NN feature|NN consolidation|NN Pneumonia|Disease aspiration|NN healthcare-associate|NN Pneumonia|Disease area|NN lung|NN Pneumonia|Disease Pneumonia|Disease Pneumonia|Disease organism|NN Pneumonia|Disease children|NN sign|NN symptom|NN
+set|NN Pneumonia|Disease treatment|NN pathogen|NN suspect|NN mechanism|NN antibiotics|NN work|NN complication|NN person|NN health|NN status|NN
+community|NN article|NN Pneumonia|Disease
+Pneumonia|Disease cap|NN community|NN outside|NN health|NN care|NN facility|NN
+health|NN Pneumonia|Disease bacteria|NN
+health|NN Pneumonia|Disease hcap|NN infection|NN exposure|NN health|NN care|NN system|NN hospital|NN outpatient|NN clinic|NN nurse|NN home|NN dialysis|NN center|NN chemotherapy|NN treatment|NN home|NN care|NN hcap|NN careassociate|NN Pneumonia|Disease
+Pneumonia|Disease hospital|NN Pneumonia|Disease hour|NN admission|NN time|NN admission|NN infection|NN risk|NN pathogen|NN
+hospital|NN people|NN hospital|NN disorder|NN issue|NN
+Pneumonia|Disease people|NN breath|NN help|NN ventilation|NN Pneumonia|Disease Pneumonia|Disease hour|NN intubation|NN diagnosis|NN
+disease|NN sign|NN symptom|NN Pneumonia|Disease disease|NN asthma|NN lung|NN cancer|NN emboly|NN Pneumonia|Disease asthma|NN present|NN electrocardiogram|NN cancer|NN present|NN cough|NN duration|NN emboly|NN present|NN onset|NN chest|NN pain|NN shortness|NN breath|NN Pneumonia|Disease tract|NN infection|NN
+Pneumonia|Disease heart|NN failure|NN
+ventilation|NN heart|NN failure|NN Pneumonia|Disease
+Pneumonia|Disease lung|NN cancer|NN metastasis|NN tuberculosis|NN body|NN immunosuppression|NN hypersensitivity|NN prevention|NN
+prevention|NN vaccination|NN measure|NN treatment|NN health|NN problem|NN measure|NN mortality|NN children|NN 400000|NN treatment|NN childhood|NN death|NN vaccination|NN
+vaccination|NN Pneumonia|Disease children|NN adult|NN
+vaccine|NN symptom|NN update|NN center|NN disease|NN control|NN prevention|NN cdc|NP influenza|NN vaccination|NN person|NN month|NN health|NN care|NN worker|NN risk|NN Pneumonia|Disease people|NN
+influenzae|NN streptococcus|NN Pneumonia|Disease evidence|NN use|NN evidence|NN children|NN age|NN Pneumonia|Disease conjugate|NN vaccine|NN children|NN Pneumonia|Disease rate|NN infection|NN adult|NN adult|NN infection|NN children|NN
+streptococcus|NN Pneumonia|Disease vaccine|NN adult|NN risk|NN pneumococcal|NN disease|NN evidence|NN vaccine|NN Pneumonia|Disease death|NN adult|NN population|NN cdc|NP children|NN adult|NN age|NN vaccine|NN children|NN adult|NN risk|NN disease|NN vaccine|NN risk|NN community|NN Pneumonia|Disease people|NN disease|NN mortality|NN risk|NN hospitalization|NN people|NN condition|NN people|NN copd|NN vaccination|NN vaccine|NN support|NN effect|NN Pneumonia|Disease pertussis|NN measle|NN
+influenza|NN outbreak|NN medication|NN condition|NN side|NN effect|NN decrease|NN chance|NN people|NN virus|NN symptom|NN side|NN effect|NN account|NN
+smoke|NN cessation|NN air|NN pollution|NN cook|NN wood|NN dung|NN smoke|NN risk|NN factor|NN Pneumonia|Disease adult|NN hand|NN hygiene|NN cough|NN sleeve|NN measure|NN mask|NN illness|NN
+illness|NN diabete|NN mellitus|NN malnutrition|NN risk|NN Pneumonia|Disease children|NN month|NN age|NN breast|NN feed|NN risk|NN severity|NN disease|NN hivaid|NN count|NN antibiotic|NN trimethoprimsulfamethoxazole|NN risk|NN pneumocystis|NN Pneumonia|Disease prevention|NN hiv|NP
+test|NN women|NN group|NN trachomatis|NN antibiotic|NN treatment|NN rate|NN Pneumonia|Disease infant|NN measure|NN hiv|NP transmission|NN mother|NN child|NN mouth|NN throat|NN infant|NN fluid|NN rate|NN aspiration|NN Pneumonia|Disease harm|NN practice|NN majority|NN situation|NN health|NN care|NN risk|NN aspiration|NN Pneumonia|Disease zinc|NP supplementation|NN children|NN month|NN year|NN rate|NN Pneumonia|Disease
+people|NN level|NN vitamin|NN diet|NN blood|NN vitamin|NN supplement|NN risk|NN Pneumonia|Disease evidence|NN benefit|NN evidence|NN population|NN vitamin|NN Pneumonia|Disease
+adult|NN children|NN hospital|NN respirator|NN evidence|NN difference|NN heat|NN moisture|NN exchanger|NN humidifier|NN Pneumonia|Disease evidence|NN approach|NN mouth|NN care|NN home|NN Pneumonia|Disease management|NN point|NN confusion|NN rate30|NN
+antibiotics|NN mouth|NN rest|NN analgesics|NN fluid|NN resolution|NN condition|NN trouble|NN breath|NN care|NN
+symptom|NN Pneumonia|Disease home|NN treatment|NN complication|NN hospitalization|NN case|NN children|NN result|NN hospitalization|NN world|NN adult|NN Pneumonia|Disease score|NN need|NN admission|NN adult|NN score|NN people|NN home|NN hospital|NN stay|NN follow-up|NN hospitalization|NN children|NN distress|NN oxygen|NN saturation|NN utility|NN chest|NN physiotherapy|NN Pneumonia|Disease update|NN cough|NN medicine|NN use|NN zinc|NN children|NN evidence|NN mucolytics|NN evidence|NN children|NN Pneumonia|Disease vitamin|NN supplement|NN vitamin|NN d|NP 2018|NN benefit|NN children|NN
+Pneumonia|Disease illness|NN number|NN way|NN Pneumonia|Disease evidence|NN organ|NN dysfunction|NN care|NN unit|NN admission|NN observation|NN treatment|NN impact|NN system|NN
+failure|NN oxygen|NN therapy|NN humidify|NN therapy|NN ventilation|NN case|NN ventilation|NN tube|NN regard|NN problem|NN part|NN sepsis|NN evidence|NN blood|NN flow|NN blood|NN pressure|NN mlkg|NN crystalloid|NN situation|NN fluid|NN medication|NN
+antibiotics|NN outcome|NN Pneumonia|Disease dose|NN antibiotics|NN use|NN antibiotics|NN development|NN strain|NN bacteria|NN choice|NN characteristics|NN person|NN age|NN health|NN location|NN infection|NN
+use|NN side|NN effect|NN nausea|NN dizziness|NN taste|NN distortion|NN headache|NN uk|NP treatment|NN culture|NN result|NN amoxicillin|NN line|NN Pneumonia|Disease doxycycline|NN clarithromycin|NN alternative|NN north|NP america|NP form|NN Pneumonia|Disease azithromycin|NN erythromycin|NN amoxicillin|NN outpatient|NN treatment|NN adult|NN children|NN symptom|NN amoxicillin|NN mouth|NN line|NN use|NN fluoroquinolone|NN case|NN concern|NN side-effect|NN resistance|NN light|NN benefit|NN
+hospitalization|NN Pneumonia|Disease community|NN use|NN
+plus|NN azithromycin|NN fluoroquinolone|NN antibiotics|NN mouth|NN injection|NN children|NN Pneumonia|Disease
+duration|NN treatment|NN day|NN evidence|NN course|NN day|NN type|NN Pneumonia|Disease risk|NN antibiotic|NN resistance|NN Pneumonia|Disease ventilator|NN bacilly|NN course|NN antibiotics|NN risk|NN Pneumonia|Disease recommendation|NN Pneumonia|Disease cephalosporin|NN aminoglycoside|NN antibiotics|NN combination|NN hospital|NN antibiotics|NN people|NN ventilator-acquire|NN Pneumonia|Disease choice|NN antibiotic|NN therapy|NN person|NN risk|NN strain|NN bacteria|NN antibiotics|NN antibiotics|NN staphylococcus|NN aureus|NN infection|NN antibiotics|NN
+addition|NN corticosteroid|NN antibiotic|NN treatment|NN outcome|NN death|NN morbidity|NN adult|NN community|NN Pneumonia|Disease death|NN adult|NN children|NN community|NN Pneumonia|Disease side|NN effect|NN use|NN corticosteroid|NN blood|NN sugar|NN adult|NN community|NN Pneumonia|Disease evidence|NN corticosteroid|NN pcp|NP Pneumonia|Disease treatment|NN people|NN hiv|NP
+use|NN colony|NN factor|NN antibiotics|NN mortality|NN routine|NN use|NN Pneumonia|Disease evidence|NN
+inhibitor|NN Pneumonia|Disease influenza|NN viruse|NN influenza|NN influenza|NN medication|NN type|NN community|NN Pneumonia|Disease adenovirus|NN virus|NN rimantadine|NN influenza|NN zanamivir|NN benefit|NN hour|NN onset|NN symptom|NN strain|NN influenza|NN influenza|NN bird|NN flu|NN resistance|NN rimantadine|NN use|NN antibiotics|NN Pneumonia|Disease expert|NN infection|NN thoracic|NN society|NN antibiotics|NN disease|NN use|NN corticosteroid|NN aspiration|NN
+aspiration|NN Pneumonia|Disease antibiotics|NN aspiration|NN Pneumonia|Disease choice|NN antibiotic|NN factor|NN organism|NN Pneumonia|Disease community|NN hospital|NN set|NN
+option|NN combination|NN antibiotic|NN metronidazole|NN corticosteroid|NN aspiration|NN Pneumonia|Disease evidence|NN effectiveness|NN follow-up|NN
+thoracic|NN society|NN chest|NN radiograph|NN people|NN symptom|NN smoker|NN people|NN guideline|NN chest|NN radiograph|NN follow-up|NN
+treatment|NN type|NN Pneumonia|Disease day|NN week|NN symptom|NN x-ray|NN find|NN week|NN mortality|NN people|NN lung|NN problem|NN recovery|NN week|NN
+person|NN hospitalization|NN mortality|NN care|NN Pneumonia|Disease hospital-acquire|NN infection|NN death|NN advent|NN antibiotics|NN mortality|NN lung|NN condition|NN hour|NN problem|NN sepsis|NN Pneumonia|Disease hour|NN infection|NN excerbation|NN co-morbidity|NN hospital|NN co-morbidity|NN heart|NN lung|NN neurology|NN disorder|NN onset|NN Pneumonia|Disease
+complication|NN health|NN problem|NN lung|NN abscess|NN distress|NN syndrome|NN sepsis|NN worsen|NN health|NN problem|NN prediction|NN rule|NN
+prediction|NN rule|NN outcome|NN Pneumonia|Disease rule|NN person|NN
+Pneumonia|Disease severity|NN index|NN psy|NN score|NN score|NN account|NN severity|NN symptom|NN disease|NN age|NN
+effusion|NN abscess|NN x-ray|NN chest|NN
+area|NN lung|NN area|NN effusion|NN
+arrow|NN size|NN
+effusion|NN chest|NN x-ray|NN
+arrow|NN fluid|NN layer|NN chest|NN
+b|NP arrow|NN width|NN lung|NN
+volume|NN lung|NN collection|NN fluid|NN lung|NN
+Pneumonia|Disease collection|NN fluid|NN space|NN lung|NN microorganism|NN fluid|NN empyema|NN empyema|NN parapneumonic|NN effusion|NN fluid|NN needle|NN evidence|NN drainage|NN fluid|NN drainage|NN catheter|NN case|NN surgery|NN fluid|NN infection|NN antibiotics|NN cavity|NN
+fluid|NN symptom|NN
+circumstance|NN bacteria|NN lung|NN pocket|NN fluid|NN lung|NN abscess|NN lung|NN abscess|NN chest|NN x-ray|NN chest|NN ct|NN scan|NN diagnosis|NN aspiration|NN Pneumonia|Disease type|NN bacteria|NN
+antibiotics|NN lung|NN abscess|NN abscess|NN surgeon|NN radiologist|NN failure|NN
+Pneumonia|Disease failure|NN distress|NN syndrome|NN result|NN combination|NN infection|NN response|NN
+lung|NN fluid|NN
+stiffness|NN difficulty|NN oxygen|NN fluid|NN period|NN ventilation|NN survival|NN cause|NN failure|NN inflammation|NN coagulability|NN
+complication|NN Pneumonia|Disease people|NN immunity|NN hyposplenism|NN
+organism|NN Pneumonia|Disease haemophilus|NN Pneumonia|Disease
+cause|NN symptom|NN infarction|NN embolism|NN epidemiology|NN article|NN epidemiology|NN Pneumonia|Disease death|NN infection|NN person|NN 24120|NN 201241|NN 674864|NN life|NN year|NN infection|NN inhabitant|NN data|NN 14002100|NN 35004200|NN 56006300|NN
+Pneumonia|Disease illness|NN people|NN year|NN part|NN world|NN cause|NN death|NN age|NN group|NN death|NN world|NN death|NN rate|NN children|NN adult|NN year|NN time|NN world|NN world|NN Pneumonia|Disease account|NN case|NN united|NP states|NP Pneumonia|Disease cause|NN death|NN children|NN
+Pneumonia|Disease children|NN world|NN world|NN death|NN death|NN year|NN world|NN country|NN burden|NN disease|NN india|NP china|NP pakistan|NP cause|NN death|NN children|NN income|NN country|NN death|NN period|NN
+world|NN health|NN organization|NN infant|NN death|NN Pneumonia|Disease death|NN bacteria|NN vaccine|NN Pneumonia|Disease reason|NN admission|NN hospital|NN emergency|NN department|NN visit|NN infant|NN children|NN history|NN poster|NN shark|NN middle|NN Pneumonia|Disease strike|NN man|NN eate|NN shark|NN pilot|NN fish|NP wpa|NN poster|NN
+Pneumonia|Disease disease|NN history|NN word|NN
+mean|NN lung|NN symptom|NN hippocrates|NP bc|NP peri|NP Pneumonia|Disease affection|NN fever|NN pain|NN side|NN expiration|NN cough|NN sputa|NN color|NN character|NN
+Pneumonia|Disease height|NN case|NN remedy|NN dyspnoea|NN urine|NN sweat|NN neck|NN head|NN sweat|NN suffocation|NN violence|NN disease|NN hand|NN
+hippocrates|NP Pneumonia|Disease disease|NN ancient|NN
+result|NN drainage|NN
+ad|NN symptom|NN Pneumonia|Disease fever|NN pain|NN side|NN breath|NN pulse|NN cough|NN
+description|NN textbook|NN extent|NN knowledge|NN age|NN century|NN
+edwin|NP klebs|NP bacteria|NN airway|NN person|NN Pneumonia|Disease work|NN cause|NN Pneumonia|Disease Pneumonia|Disease carl|NP albert|NP fraenkel|NP
+work|NN gram|NN stain|NN laboratory|NN test|NN bacteria|NN
+gram|NN paper|NN procedure|NN bacteria|NN Pneumonia|Disease microorganism|NN
+sir|NP william|NP father|NN medicine|NN death|NN disability|NN Pneumonia|Disease captain|NN men|NN death|NN tuberculosis|NN cause|NN death|NN time|NN
+phrase|NN john|NP bunyan|NP reference|NN consumption|NN tuberculosis|NN Pneumonia|Disease mans|NP friend|NN death|NN way|NN
+development|NN outcome|NN Pneumonia|Disease
+advent|NN penicillin|NN antibiotics|NN technique|NN care|NN century|NN mortality|NN Pneumonia|Disease precipitously|NN world|NN
+vaccination|NN infant|NN type|NN b|NP decline|NN case|NN vaccination|NN Pneumonia|Disease adult|NN children|NN decline|NN society|NN culture|NN list|NN Pneumonia|Disease case|NN awareness|NN
+awareness|NN disease|NN november|NP world|NN Pneumonia|Disease day|NN day|NN citizen|NN policy|NN maker|NN action|NN disease|NN cost|NN
+cost|NN Pneumonia|Disease estimate|NN
+cost|NN Pneumonia|Disease united|NP states|NP cost|NN Pneumonia|Disease hospitalization|NN data|NN center|NN medicare|NP medicaid|NP service|NN hospital|NN charge|NN inpatient|NN treatment|NN Pneumonia|Disease
+cost|NN emergency|NN room|NN Pneumonia|Disease cost|NN medication|NN cost|NN Pneumonia|Disease europe|NP

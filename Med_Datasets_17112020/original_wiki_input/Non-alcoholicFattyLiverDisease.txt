@@ -1,0 +1,228 @@
+Non-alcoholic fatty liver disease,NAFLD
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Non-alcoholic fatty liver disease
+Other names	NAFLD
+Non-alcoholic fatty liver disease1.jpg
+Micrograph of non-alcoholic fatty liver disease, demonstrating marked steatosis (fatty liver appears white). Trichrome stain
+Specialty	Hepatology
+Symptoms	Asymptomatic, liver dysfunction
+Complications	Cirrhosis, liver cancer, liver failure, cardiovascular disease[1]
+Duration	Long term
+Types	Non-alcoholic fatty liver (NAFL),
+non-alcoholic steatohepatitis (NASH)[1][2]
+Causes	Genetic, environmental
+Risk factors	Metabolic syndrome, diabetes type 2, liver disease
+Diagnostic method	Liver biopsy
+Treatment	Weight loss (diet and exercise)[1]
+Prognosis	Depends on type[3]
+Frequency	24% in worldwide population, 80% in obese, 20% in normal-weight
+Deaths	NASH: 2.6% risk of death per year[2]
+
+Non-alcoholic fatty liver disease (NAFLD) is excessive fat build-up in the liver due to causes other than alcohol use.[1] There are two types non-alcoholic fatty liver (NAFL) and non-alcoholic steatohepatitis (NASH).[1][2][3] Non-alcoholic fatty liver usually does not progress to liver damage or NASH.[1] NASH includes both a fatty liver and liver inflammation.[2] It may lead to complications such as cirrhosis, liver cancer, liver failure, or cardiovascular disease.[1][4]
+
+Risk factors include diabetes, obesity, a diet high in fructose and older age.[3] NAFLD and alcoholic liver disease are types of fatty liver disease.[3] NAFLD is related to insulin resistance and metabolic syndrome. It can be diagnosed by a liver biopsy.
+
+Treatment is generally with weight loss by dietary changes and exercise.[2][5] There is tentative evidence for pioglitazone and vitamin E.[1][6][7] Those with NASH have a 2.6% risk of dying per year.[2]
+
+NAFLD is the most common liver disorder in developed countries, affecting 75 to 100 millions Americans in 2017.[8][9][10] Up to 80% of obese and up to 20% normal-weight people might develop it.[11] It is estimated that 24% of the worldwide population is affected in 2017.[11] NAFLD is the leading cause of chronic liver disease as of 2017.[11] About 12 to 25% of people in the United States have NAFLD,[12] while NASH affects between 2 and 12%.[12] The annual economic burden was estimated at US$103 billion in the US in 2016.[11]
+Contents
+
+    1 Signs and symptoms
+    2 Risk factors
+        2.1 Comorbidities
+        2.2 Genetics
+        2.3 Dysbiosis
+        2.4 Diet
+    3 Pathophysiology
+    4 Diagnosis
+        4.1 Definition
+        4.2 Monitoring
+    5 Management
+        5.1 Lifestyle
+        5.2 Medication
+        5.3 Surgery
+    6 Outcomes
+    7 Epidemiology
+    8 History
+    9 Children
+    10 Research
+        10.1 Diagnosis and biomarkers
+        10.2 Drug development
+    11 Lobbying
+    12 See also
+    13 References
+    14 External links
+
+Signs and symptoms
+
+NAFLD is evidence of hepatic steatosis, and absence of another factor that could explain the fat accumulation in the liver, such as alcohol (over 21 standard drinks/week for men and 14 for women), drug-induced steatosis, heredity or by deficiencies in parenteral nutrition such as choline.[2] Excessive alcohol use (over 30 g daily for men and 20 g for women), drug-induced steatosis, hepatitis C and endocrine conditions are alternative causes of fatty liver unrelated to NAFLD.[6][13]
+
+The NAFLD can be separated into two histological categories: NAFL, and the more aggressive form NASH. According to AASLD, both NAFL and NASH are defined by the presence of at least 5% of hepatic steatosis, but for NAFL there should be no evidence of "hepatocellular injury in the form of hepatocyte ballooning," whereas NASH is characterized by the presence of inflammation with hepatocyte injury such as ballooning, with or without any fibrosis.[2]
+
+People with NAFLD are likely to be asymptomatic − to have no noticeable symptoms − and often have normal laboratory profiles.[6][14]
+
+NAFLD can cause symptoms related to liver dysfunction. NAFLD can be diagnosed by performing a liver biopsy, and is often incidentally diagnosed following abnormal liver function tests during routine blood tests or after a hepatic steatosis is detected by biopsy. Indeed, in cases of symptoms or signs attributable to liver disease or when tests show abnormal liver chemistries, NAFLD should be suspected and investigated. However, when no symptoms or signs attributable to liver disease are reported or when the tests show normal liver chemistries, but a hepatic steatosis is detected, other metabolic risk factors (e.g., obesity, diabetes mellitus, dyslipidemia) and alternate causes such as alcohol should be investigated.[2]
+
+Patients may complain of fatigue, malaise, and dull right-upper-quadrant abdominal discomfort. Mild jaundice may be noticed, although this is rare.[15]
+Risk factors
+Comorbidities
+
+NAFLD is associated with insulin resistance and metabolic syndrome (obesity, combined hyperlipidemia, diabetes mellitus (type II), and high blood pressure), as well as insulin resistance, persistently elevated transaminases, increasing age and BMI, panhypopituitarism and hypoxia caused by obstructive sleep apnea, with some of them being strong predictors of disease progression.[4][7][8][11][16]
+
+In particular, non-obese people affected by NAFLD ("lean NAFLD") have been found to have impaired insulin sensitivity, to be frequently sedentary, to have increased cardiovascular risk and increased liver lipid levels, being the consequence of a decreased capacity for storing fat and reduced mitochondrial function in adipose tissue and increased hepatic de novo lipogenesis.[11]
+
+Controversially, NAFLD was observed to be twice as prevalent in men compared to women,[2] which might be explained by estrogen deficiencies.[17]
+Genetics
+
+Genetic risk factors of NAFLD are also known. Two-thirds of families with a history of diabetes type 2 report more than one family member having NAFLD. There is a higher risk of fibrosis for family members where someone was diagnosed with NASH.[14] Hispanic persons have higher prevalence of NAFLD than white individuals, whereas the lowest susceptibility is observed in black individuals.
+
+Two genetic mutations for NAFLD susceptibility have been identified and validated in large cohorts: the non-synonymous single-nucleotide polymorphisms (SNPs) in PNPLA3 and TM6SF2, as they have been shown to correlate with NAFLD presence and severity, but their roles for patient diagnosis remain unclear.[11][18]
+
+Although NAFLD has a genetic component, the AASLD does not recommend screening family members as there is not enough confirmation of heritability,[2] although there is some evidence from familial aggregation and twin studies.[11]
+Dysbiosis
+
+Links between dysbiosis of the gut microbiota and liver diseases, in particular NAFLD, have been documented. Patients with NASH can have increased levels of blood ethanol. Patients with a more aggressive NAFLD were found to have a choline depletion linked to an increased choline metabolism.[19][20][21][22]
+Diet
+
+Diet composition and quantity, in particular omega-6 fatty acid lipids and fructose sugar, has an important role in disease progression from NAFL to NASH and fibrosis.[23][24] Choline deficiency can lead to the development of NAFLD.[25] There is indeed a complex interplay between the environment, particularly the diet, the genetics and gut microbiota dysbiosis that can impact the development and progression of NAFLD.[24]
+Pathophysiology
+
+NAFLD can include either a steatosis alone; a steatosis concurrent with lobular or portal inflammation without ballooning; or a steatosis with ballooning but without inflammation. In NASH, other histological features can appear but are not necessary for diagnosis, such as portal inflammation, polymorphonuclear infiltrates, mallory bodies, apoptotic bodies, clear vacuolated nuclei, microvacuolar steatosis, megamitochondria, and perisinusoidal fibrosis.[13] Hepatocyte death via apoptosis or necroptosis is increased in NASH compared with simple steatosis, and inflammation is one of NASH hallmarks.[18]
+
+One debated mechanism proposes a second hit, or further injury, enough to cause change that leads from hepatic steatosis to hepatic inflammation. Oxidative stress, hormonal imbalances, and mitochondrial abnormalities are potential causes for this "second hit" phenomenon.[14] A further nutrigenomics model named multiple hit extends the second hit model by integrating multiple disease biomarkers and factors such as genes and nutrition to predict the impact of lifestyle changes and genetics for the evolution of the NAFLD pathology.[26] Indeed, NAFLD can be considered a multisystem disease, as it impacts and is influenced by organs and regulatory pathways other than the liver.[27][28][29]
+
+Non-alcoholic and alcoholic fatty liver disease share similar histological features, which suggests that they might share common pathogenic pathways. Indeed, NASH patients can have elevated levels of blood ethanol and proteobacteria (which produce alcohol), with dysbiosis proposed as a mechanism for this elevation.[19] Fructose can cause inflammation and addiction similarly to ethanol by using similar metabolic pathways, unlike glucose, which prompts some researchers to argue that non-alcoholic and alcoholic fatty liver disease are similar diseases.[23][30] Excessive macronutrients intake contributes to tissue inflammation and perturbation of homeostasis, and micronutrients might also be involved.[31] Lifestyle changes, in addition to reducing weight and risk factors, might also prompt changes in the gut microbiota.[32]
+Diagnosis
+
+A liver biopsy (tissue examination) is the only test widely accepted (gold standard) as definitively distinguishing NAFLD (including NAFL and NASH) from other forms of liver disease and can be used to assess the severity of the inflammation and resultant fibrosis. However, since most people affected by NAFLD are likely to be asymptomatic, liver biopsy presents too high a risk for routine diagnosis, so other methods might be preferred, such as liver ultrasonography or liver MRI. For young people, liver ultrasonography is advised, but biopsy remain the best evidence.[2][6][15] Routine liver function blood tests are not sensitive enough to detect NAFLD, and biopsy is the only procedure that can reliably differentiate NAFL from NASH.[13]
+
+Common findings are elevated liver enzymes and a liver ultrasound scan or MRI showing steatosis. An ultrasound may also be used to exclude gallstone problems (cholelithiasis). According to NICE guidelines, it is disadvised to test enzymes levels to rule out NAFLD, as they are often within the normal range even in advanced disease.[4][6][11] The EASL recommend screening for a steatosis whenever a NAFLD is suspected as this is a key predictor of the disease evolution and predicts future diabetes type II, cardiovascular events and hypertension.[13]
+
+Blood tests that are useful to confirm diagnosis or rule out others include erythrocyte sedimentation rate, glucose, albumin, and kidney function. Because the liver is important for making proteins used in blood clotting, coagulation-related studies are often carried out, especially the INR (international normalized ratio). In people with fatty liver with associated inflammatory injury (steatohepatitis) blood tests are usually used to rule out viral hepatitis (hepatitis A, B, C and herpesviruses such as Epstein-Barr virus or cytomegalovirus), rubella, and autoimmune diseases. Low thyroid activity is more prevalent in NASH patients, which would be detected by determining the thyroid-stimulating hormone.[33]
+
+Some biomarker-based blood tests have been developed, but as of 2011 they were not widely used.[34]
+
+According to AASLD guidelines, liver biopsy should be considered in patients with NAFLD who are at increased risk of having steatohepatitis and/or advanced fibrosis, but only when all other competing chronic liver diseases are excluded (such as alcoholic liver disease). The presence of a metabolic syndrome, NAFLD Fibrosis Score (FIB-4), or liver stiffness (as measured by VCTE or MRE) may be used to identify the patients who are at higher risk of steatohepatitis or advanced fibrosis. Also, NAFLD patients should be considered for screening for hepatocellular carcinoma (liver cancer) and gastroesophageal varices. They consider that a clinically useful pathology reporting should distinguish «between NAFL (steatosis), NAFL with inflammation and NASH (steatosis with lobular and portal inflammation and hepatocellular ballooning)», with the presence or absence of fibrosis being described, and optionally a comment on severity.[2]
+
+The EASL recommend to assess dietary and physical activities, as unhealthy lifestyles influence the development and progression of NAFLD. They recommend the FLIP algorithm to grade the ballooning, and the use of the NAFLD Activity Score (NAS) to grade the severity of NASH rather than for its diagnosis. They also consider the steatosis, activity and fibrosis (SAF) score to be an accurate and reproducible scoring system.[13] The AASLD recommends the use of the NAS and/or SAF scoring systems if deemed appropriate.[2]
+
+The cardiovascular system screening is considered mandatory by the EASL, as NAFLD outcomes often result in cardiovascular complications[13] which can manifest as subclinical atherosclerosis, and being the cause of the majority of NAFLD related deaths.[27][35] Indeed, patients with NAFLD are at a high risk for cardiovascular morbidity and mortality, and «aggressive modification of cardiovascular disease risk factors should be considered in all patients with NAFLD» according to AASLD.[2]
+
+The AASLD further recommends for patients with a cirrhotic NASH to be systematically screened for gastroesophageal varices and liver cancer. Routine screening of liver cancer and liver biopsy is not recommended for non-cirrhotic NASH patients, but it might be considered on a case-by-case basis.[2]
+Definition
+
+Non-alcoholic fatty liver disease (NAFLD) is characterized by an abnormal accumulation of fat in the liver, due to causes other than excessive alcohol use. NAFLD is a continuum of liver abnormalities, from non-alcoholic fatty liver (NAFL) to non-alcoholic steatohepatitis (NASH). These diseases begin with fatty accumulation in the liver (hepatic steatosis). A liver can remain fatty without disturbing liver function (NAFL), but by various mechanisms and possible insults to the liver, it may also progress into a non-alcoholic steatohepatitis (NASH), a state in which steatosis is combined with inflammation and sometimes fibrosis (steatohepatitis).[2][14]
+Monitoring
+
+The NICE advises regular screening of NAFLD for advanced liver fibrosis every three years to adults and every two years for children using the enhanced liver fibrosis (ELF) blood test.[6] Follow-up is recommended for people with obesity and insulin resistance using the homeostasis model assessment of insulin resistance (HOMA-IR). People with NASH with fibrosis and hypertension should have closer monitoring as there is a higher risk of disease progression.[13]
+Management
+
+Guidelines are available from the American Association for the Study of Liver Diseases (AASLD), National Institute for Health and Care Excellence (NICE) and the European Association for the Study of the Liver (EASL).[2][6][13][36]
+Lifestyle
+
+Weight loss is the most effective treatment for NAFLD. Offering people with NAFLD a structured weight loss programme achieves greater weight loss compared with simple advice and this leads to improvements in NAFLD measured using blood tests, ultrasound, imaging, or liver biopsies.[37]
+
+A combination of improved diet and exercise appears to help manage NAFLD and reduce insulin resistance.[2][5][13][38][39] Motivational support, such as with cognitive-behavioral therapy, is helpful, as most people with NAFLD do not perceive their condition as a disease, and thus have a low motivation to change.[2][4][6][13][40]
+Diet
+
+Treatment of NAFLD typically involves counseling to improve nutrition.[4][41] People with NAFLD might benefit from a moderate to low-carbohydrate diet and low-fat diet.[4][42] The Mediterranean diet also showed promising results in a 6-week scheme in reduction of NASH induced inflammation and fibrosis, independently from weight loss.[4][13][39][43] Tentative evidence supports dietary interventions in individuals with fatty liver who are not overweight.[44]
+
+The EASL recommend energy restriction of 500-1000 kcal/week less than the normal daily diet, a target of 7–10% weight loss for obese/overweight NAFLD, a low to moderate fat and moderate to high carbohydrate diet or a low carbohydrate ketogenic or high protein diet such as the Mediterranean diet, and avoiding all beverages and food containing fructose.[13]
+
+The NICE guidelines include recommendations for vitamin E, although it is not useful for all people with NAFLD.[4][6] The NICE does not recommend omega-3 fatty acid supplementation since randomized trials were inconclusive,[4][6] although previous systematic reviews found that omega-3 fatty acid supplementation in those with NAFLD/NASH using doses of 1 gram daily or more (median dose 4 grams/day with median duration 6 months treatment) has been associated with improvements in liver fat.[40][45] According to AASLD guidelines, "omega-3 fatty acids should not be used as a specific treatment of NAFLD or NASH, but they may be considered to treat hypertriglyceridemia in patients with NAFLD".[2]
+
+Alcohol is an aggravating factor and should be avoided by people with NAFLD or NASH.[2][4][6][46] The EASL allow alcohol consumption below 30g/day for men and 20g/day for women.[13]
+
+For the EASL, there are no liver-related limitations to the consumption of coffee.[13]
+
+Herbal compounds such as silymarin, curcumin and green tea were shown to be effective for biomarkers enhancement and NAFLD grade reduction.[29] Anthocyanins are being look at as a nutritional therapy.[47]
+Physical activity
+
+Weight loss may improve the process, particularly for obese or overweight people. Similar physical activities and diets are advisable for overweight people with NAFLD as for other obese and overweight people.[6][39] Although physical activity is less important for weight loss than dietary adaptations (to reduce caloric intake),[40] the NICE advises physical activity to reduce liver fat even if there is no overall body weight reduction.[4][6] Weight loss, through exercise or diet, was shown to be the most effective way to reduce liver fat and help NASH and fibrosis remission.[40] Exercise alone can prevent or reduce hepatic steatosis, but it remains unknown whether it can improve all other aspects of the liver, hence a combined approach with exercise and diet is advised.[2][5] Aerobic exercise may be more effective than resistance training, although there are contradictory results.[4][48] Vigorous training is preferable to moderate training, as only high intensity exercising was shown to reduce chances of NASH developing into a steatohepatitis or advanced fibrosis.[4][49] The EASL recommend between 150 and 200 min/week in 3 to 5 sessions of moderate intensity aerobic physical activity or resistance training. Since both effectively reduce liver fat, the choice of activity can be tailored to fit the individual's preferences with the goal of maintaining in the long-term: "Any engagement in physical activity or increase over previous levels is however better than continuing inactivity".[13]
+Medication
+
+Medications should be primarily aimed at improving liver disease and should generally be limited to those with biopsy-proven NASH and fibrosis.[2][6][13]
+
+No medicines specifically for NAFLD or NASH had received approval as of 2015 although antiglycemic drugs may help in liver fat loss. While many treatments appear to improve biochemical markers such as alanine transaminase levels, most have not been shown to reverse histological abnormalities or reduce clinical endpoints.[50]
+
+Insulin sensitizers (metformin and thiazolidinediones, such as pioglitazone) are commonly used to reduce insulin resistance in those with NAFLD, with several randomized trials showing that they can improve all histological features of NASH, lead to resolution of steatohepatitis and may improve hepatic fibrosis. However, the side-effects associated with these drugs, which include osteopenia, increased fracture risk, fluid retention, congestive heart failure, bladder cancer, and long-term weight gain, have limited their adoption.[4][51][52] Due to these side-effects, AASLD recommend the use of pioglitazone only in patients with biopsy-proven NASH. However, AASLD disadvise the use of metformin as studies were inconclusive about the improvement of the liver histological condition, although there was an improvement in insulin resistance and serum aminotransferases, as this did not translate into NASH improvements.[2] NICE provides similar guidelines regarding pioglitazone, which should be administered in secondary care to adults with advanced liver fibrosis, whether or not they have diabetes.[6]
+
+Vitamin E is an effective treatment that can be administered in patients with biopsy-proven NASH.[4][6][2]
+
+Improvements in liver biochemistry and histology have been found in people with NAFLD through treatment with statins. Since NAFLD patients are at a higher risk of cardiovascular disease, statins treatment is indicated. People with NAFLD are not at higher risk for serious liver injury from statins according to AASLD and EASL. However, even if statins can be used with patients with NASH cirrhosis, they should be avoided in case of decompensated cirrhosis.[2][13][53] Statins have also been recommended for use in treating dyslipidemia for patients with NAFLD. According to NICE guidelines, statins can continue to be administered unless liver enzyme levels double within 3 months of starting statins.[6] Treatment with pentoxifylline has demonstrated improvements in the histological appearance of fatty liver tissue under the microscope in many small trials.[51]
+
+Obeticholic acid and elafibranor were not recommended as of 2018 by the AASLD as they were still under trial.[2]
+
+Synbiotics, combining both probiotics and prebiotics, can have favorable effects on inflammation and dysbiosis in patients with NAFLD.[19][20][54]
+Surgery
+
+Bariatric surgery is an effective method for obese and diabetic individuals with NAFLD to induce weight loss and reduce or resolve NASH inflammation, including fibrosis.[4][13][40] For the AASLD, bariatric surgery can be considered only for NASH on a case-by-case basis by an experienced bariatric surgery program.[2]
+
+For NASH patients with an end-stage liver disease, liver failure or liver cancer, liver transplantation is an accepted procedure according to the EASL. The overall survival is comparable to transplantation following other diseases.[13] People with a cirrhotic NASH considered for a liver transplantation should be systematically examined for cardiovascular diseases (whether the symptoms are apparent or not).[2]
+
+About 92% of people with NAFLD saw an improvement in steatosis and 70% a complete resolution after a bariatric surgery.[55]
+
+NAFLD/NASH is expected to become the leading cause of liver transplantation by 2020.[56]
+Outcomes
+
+The exact causes of the disease and mechanisms by which the disease progresses from one stage to the next are not fully understood, although findings provide new insights into the mechanisms. Indeed, NAFLD is a multisystem disease, impacting and being influenced by several other organs and pathways other than the liver.[27][40][57][58]
+
+The progression rate of fibrosis in humans with NASH is estimated to be 7 years, compared to 14 years with NAFLD, and with a dynamically, exponentially increasing rate along as more stages are reached, but it is very variable with different clinical manifestations among individuals.[11][14][59] Fibrosis in humans with NASH progressed more rapidly than in humans with NAFLD.[4] An international study showed that NAFLD patients had a 10‐year survival rate of 81.5%.[2]
+
+NAFLD is a risk factor for fibrosis, hypertension, chronic kidney disease, atrial fibrillation, myocardial infarction, ischaemic stroke and death from cardiovascular causes based on very low to low quality evidence from observational studies.[6][60][61]
+
+NAFL and NASH increase the risk of liver cancer. Cirrhosis and liver cancer induced by NAFLD were the second cause of liver transplantation in the US in 2017. Liver cancer develops in NASH in the absence of cirrhosis in 45% in the cases,[62] and people with NASH cirrhosis have increased risk of liver cancer. Indeed, the rate of liver cancer associated with NASH increased fourfold between 2002 and 2012 in the US, which is more than any other cause of liver cancer. NAFLD constitutes the third most common risk factor for liver cancer.[63] NAFL and NASH were found to develop into cirrhosis in respectively 2-3% and 15-20% of the patients over a 10–20 year period.[4]
+
+NAFLD is also thought to be a precursor of metabolic syndrome, although a bidirectional influence is not excluded.[64][65]
+
+The presence and stage of fibrosis are the strongest prognostic factor for liver-related events and mortality, in particular for NAFLD.[11]
+
+Although NAFLD can cause cirrhosis and liver failure and liver cancer, the majority of deaths among NAFLD patients is attributable to cardiovascular failure.[27] Indeed, according to a meta-analysis of 34,000 patients with NAFLD over 7 years, they have 65% increased risk of developing fatal or nonfatal cardiovascular events.[14]
+Epidemiology
+
+The percentage of people with non-alcoholic fatty liver disease ranges from 9 to 36.9% in different parts of the world.[66][67] However, studies based on elevated liver enzymes systematically underestimated the true prevalence worldwide, and ultrasonography and proton NMR spectroscopy studies suggest about 25% of the population seems to be affected by NAFLD or NASH.[11] Approximately 20% of the United States population have non-alcoholic fatty liver.[9] Similar prevalence can be found in Europe and Asia-Pacific countries although less data is available.[11] In children ages 1 to 19, prevalence was found to be approximately 8% in the general population up to 34% in studies with data from child obesity clinics.[68] Compared to the 2000s, NAFL and NASH respectively increased 2-fold and 2.5-fold in the 2010s in the USA.[69]
+
+NAFLD and NASH are more prevalent in Hispanics - which can be attributed to high rates of obesity and type 2 diabetes in Hispanic populations -, intermediate in Whites and lowest in Blacks.[11][10][70] It is the most common chronic liver disease in children and teenagers just as for adults.[11]
+
+NAFLD was observed to be twice as prevalent in men as women.[2]
+
+Although the disease is commonly associated with obesity, a significant proportion of sufferers are normal weight or lean. Lean NAFLD affects between 10–20% of Americans and Europeans, although some countries have a higher incidence (e.g., India has a very high proportion of lean NAFLD and almost no obese NAFLD). Lean NAFLD people are at the same or higher risks, with a poorer median survival rate (free of liver transplantation) than for obese NAFLD people, according to an international cohort study. PNPLA3 may be relevant for the progression of NAFLD in lean people. Thus, people suffering from NAFLD should be considered as a potential population for treatment regardless of obesity.[11][40][71]
+
+In the study of Children of the 90s, 2.5% born in 1991 and 1992 were found by ultrasound at the age of 18 to have non-alcoholic fatty liver disease; five years later transient elastography (fibroscan) found over 20% to have the fatty deposits on the liver, indicating non-alcoholic fatty liver disease; half of those were classified as severe. The scans also found that 2.4% had the liver scarring, which can lead to cirrhosis.[72]
+History
+
+The first acknowledged case of obesity-related non-alcoholic fatty liver was observed in 1952 by Samuel Zelman.[73][74] Zelman started investigating after observing a fatty liver in a hospital employee who drank more than twenty bottles of Coca-Cola a day. He then went on to design a trial during a year and half on 20 obese people who were not alcoholic, finding that about half of them had substantially fatty livers.[73] Fatty liver was, however, linked to diabetes, atherosclerosis and choline depletion since at least 1784[75] and sugar in 1949,[76] and was already recognized as a common occurrence in severe diabetes in the 1930s.[77]
+
+The name "non-alcoholic steatohepatitis" (NASH) was later defined in 1980 by Jurgen Ludwig and his colleagues from the Mayo Clinic[78] in order to raise awareness on the existence of this pathology, as similar reports previously were dismissed as patients lies.[74] This paper was mostly ignored at the time but came to be seen as a landmark paper, and starting in the mid-1990s the condition began to be intensively studied, with a series of international meetings were held on the topic starting in 1998.[79] The broader NAFLD term started to be used around 2002.[79][80] Diagnostic criteria began to be worked out, and in 2005 the Pathology Committee of the NIH NASH Clinical Research Network proposed the NAS scoring system.[79]
+Children
+
+Pediatric nonalcoholic fatty liver disease (NAFLD) was first reported in 1983.[81][82] It is the most common chronic liver disease among children and adolescents since at least 2007, affecting 10 to 20% of them in the US in 2016.[11][82][83] NAFLD has been associated with the metabolic syndrome, which is a cluster of risk factors that contribute to the development of cardiovascular disease and type 2 diabetes mellitus. Studies have demonstrated that abdominal obesity and insulin-resistance in particular are thought to be key contributors to the development of NAFLD.[84][85][86][87][88] Coexisting liver diseases, such as hepatitis C and cardiovascular diseases such as atherosclerosis are also associated with an increased risk of NAFLD.[15][27] Some children were diagnosed as young as 2 years old, with a mean age of diagnosis between 11–13 years old.[82] The mean age is indeed usually above 10 years, as children can also report non-specific symptoms and are thus difficult to diagnose for NAFLD.[82]
+
+Boys are more likely to be diagnosed with NAFLD than girls.[15][68] Overweight, or even weight gain, in childhood and adolescence is associated with an increased risk of NAFLD later in life, with adult NAFLD predicted in a 31-year follow-up study by risk factors during childhood including BMI, plasma insulin levels, male sex, genetic background (PNPLA3 and TM6SF2 variants) and low birth weight, an emerging risk factor for adulthood NAFLD.[11][15] In a study, simple steatosis was observed in up to 45% in children with a clinical suspicion of NAFLD.[15] Children with a simple steatosis have a worse prognosis than adults, with significantly more of them progressing from NAFLD to NASH compared to adults. Indeed, 17-25% of children with NAFLD develop a NASH in general, and up to 83% for children with severe obesity (versus 29% for adults), further suggesting that hepatic fibrosis seem to follow a more aggressive clinical course in children compared to adults.[82]
+
+Early diagnosis of NAFLD in children may help prevent the development of liver disease during adulthood.[86][89] This is challenging as most children with NAFLD are asymptomatic with only 42-59% showing abdominal pain.[15][89] Other symptoms might be present, such as right upper quadrant pain or acanthosis nigricans, the latter being frequently observed in NASH patients, or hepatomegaly found in 30–40% of children with NAFLD.[15]
+
+Liver biopsies for diagnosis in children should be done when the diagnosis is unclear or before starting a potentially hepatotoxic medical therapy according to AASLD.[2] The EASL suggest using fibrosis tests such as elastography, acoustic radiation force impulse imaging and serum biomarkers in order to reduce the number of biopsies.[13] In followup, children should be offered a regular NAFLD screening for advanced liver fibrosis every two years using the enhanced liver fibrosis (ELF) blood test according to NICE.[6] Several studies also suggest magnetic resonance elastography as an alternative to the less reliable ultrasonography.[15]
+
+Intensive lifestyle modifications, including physical activity and dietary changes, should be the first line of treatment according to AASLD and EASL as it improves the liver histology and aminotransferases levels. In terms of pharmacological treatment, metformin should be avoided but Vitamin E may improve liver health for some children.[2][13] The NICE advises the use of Vitamin E for children with advanced liver fibrosis, whether they have diabetes or not.[6] The only treatment shown to be truly effective in childhood NAFLD is weight loss.[90]
+
+There is some evidence that maternal undernutrition or overnutrition increases the susceptibility to NASH in childhood and hastens its progression over lifespan.[91]
+Research
+Diagnosis and biomarkers
+
+Because diagnosis based on a liver biopsy is invasive and makes it difficult to estimate epidemiology, accurate and inexpensive and noninvasive methods of diagnosing and monitoring NAFLD disease progression are a research priority.[18][92] Search for these biomarkers of NAFLD, NAFL and NASH is involving lipidomics, medical imaging, proteomics, blood test and scoring systems.[18]
+
+Magnetic resonance elastography was found to have a good sensitivity to quantify hepatic fat and excellent accuracy to detect fibrosis in NAFLD regardless of BMI and inflammation, and is suggested as a more reliable alternative to diagnose NAFLD and its progression to NASH compared to ultrasonography and blood tests.[15][18][93]
+
+According to a 2018 Nature Review, proton density fat fraction estimation by magnetic resonance imaging (MRI-PDFF) should be considered the most accurate and even gold standard test to quantify hepatic steatosis. They recommend ultrasound-based elastography (FibroScan) to accurately diagnose both fibrosis and cirrhosis in a routine clinical setting, with more objectivity than ultrasonography but with a lower accuracy than magnetic resonance elastography; and plasma cytokeratin 18 (CK18) fragment levels to be a moderately accurate biomarker of steatohepatitis.[18]
+Drug development
+
+Drug development for NASH is very active and advancing rapidly. New drugs are being designed to target various intrahepatic sites, from regulating lipids and glucose homeostasis, to oxidant stress and mitochondrial targets in hepatocytes, inflammatory signals on hepatocytes and intracellular targets related to stellate cell activation and fibrogenesis.[14] As of 2018, clinical trials are underway for cenicriviroc, elafibranor, obeticholic acid and selonsertib in phase 3, and several others in phase 2.[4][2][14][94] Since NAFLD is a complex disease that involves several organs and tissues, combination therapies (combining compounds) and conjugate therapies (combining drugs and non-pharmacological therapies such as behavioral therapies or lifestyle changes) are investigated as a way to increase drugs efficiencies.[14][29] However, most trials were relatively short, from 3 to 18 months, whereas real-world use will involve administration in the long-term.[14]
+Lobbying
+
+In France, the French syndicate of non-alcoholic beverages «Boissons Rafraîchissantes de France», including soft drink producers such as Coca-Cola France, Orangina, PepsiCo France, was denounced by the French journal Canard Enchainé for misleading consumers using a communication on their website titled "Better understanding the NASH pathology",[95] explaining that "NASH pathology is sometimes called the soda illness by language abuse or an unfortunate semantic shortcut, as it is not directly linked to the consumption of non-alcoholic beverages." Other pages on the same website such as one titled "Say no to disinformation" were since then removed.[96]
+See also
+
+    Foie gras, fatty liver induced in poultry, with pathophysiology homologous to that of NAFLD in humans

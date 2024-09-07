@@ -1,0 +1,498 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Ovarian cancer|Disease tumour|NN micrograph|NN carcinoma|NN
+oncology|NN symptom|NN pain|NN loss|NN appetite|NN onset|NN age|NN diagnosis|NN year|NN type|NN carcinoma|NN germ|NN cell|NN tumor|NN sex|NN cord|NN tumor|NN risk|NN factor|NN children|NN hormone|NN therapy|NN menopause|NN fertility|NN medication|NN obesity|NN genetics|NN method|NN tissue|NN biopsy|NN treatment|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN survival|NN rate|NN frequency|NN death|NN
+Ovarian cancer|Disease cancer|NN form|NN ovary|NN cell|NN ability|NN part|NN body|NN process|NN symptom|NN symptom|NN cancer|NN symptom|NN pain|NN swell|NN loss|NN appetite|NN area|NN cancer|NN line|NN abdomen|NN lymph|NN node|NN lung|NN liver|NN
+risk|NN Ovarian cancer|Disease increase|NN women|NN lifetime|NN
+children|NN ovulation|NN age|NN menopause|NN age|NN risk|NN factor|NN hormone|NN therapy|NN menopause|NN fertility|NN medication|NN obesity|NN factor|NN decrease|NN risk|NN birth|NN control|NN ligation|NN breast|NN feed|NN case|NN risk|NN women|NN mutation|NN gene|NN chance|NN disease|NN carcinoma|NN type|NN Ovarian cancer|Disease case|NN subtype|NN carcinoma|NN serous|NN carcinoma|NN hgsc|NN tumor|NN cell|NN ovary|NN tube|NN type|NN Ovarian cancer|Disease germ|NN cell|NN sex|NN cord|NN diagnosis|NN Ovarian cancer|Disease biopsy|NN tissue|NN surgery|NN
+screen|NN women|NN risk|NN evidence|NN reduction|NN death|NN rate|NN test|NN surgery|NN risk|NN risk|NN ovary|NN measure|NN stage|NN Ovarian cancer|Disease treatment|NN combination|NN surgery|NN radiation|NN therapy|NN chemotherapy|NN outcome|NN extent|NN disease|NN subtype|NN cancer|NN present|NN condition|NN survival|NN rate|NN united|NP states|NP outcome|NN world|NN
+case|NN women|NN women|NN death|NN women|NN cancer|NN cause|NN death|NN cancer|NN age|NN diagnosis|NN death|NN Ovarian cancer|Disease north|NP america|NP europe|NP africa|NP asia|NP content|NN
+sign|NN symptom|NN symptom|NN symptom|NN children|NN risk|NN factor|NN genetics|NN factor|NN factor|NN diagnosis|NN examination|NN pathology|NN screen|NN prevention|NN management|NN surgery|NN radiation|NN therapy|NN therapy|NN follow-up|NN care|NN care|NN factor|NN survival|NN rate|NN rate|NN epidemiology|NN united|NP states|NP united|NP kingdom|NP women|NN pregnancy|NN animal|NN research|NN screen|NN research|NN pharmacology|NN radiation|NN trial|NN reference|NN read|NN link|NN
+sign|NN symptom|NN symptom|NN site|NN Ovarian cancer|Disease
+sign|NN symptom|NN Ovarian cancer|Disease
+case|NN symptom|NN month|NN symptom|NN bowel|NN syndrome|NN stage|NN Ovarian cancer|Disease
+symptom|NN subtype|NN potential|NN borderline|NN increase|NN level|NN ultrasound|NN
+symptom|NN tumor|NN distension|NN pain|NN
+mass|NN borderline|NN
+symptom|NN Ovarian cancer|Disease bloat|NN pain|NN discomfort|NN back|NN pain|NN menstruation|NN postmenopausal|NN pain|NN bleed|NN intercourse|NN loss|NN appetite|NN fatigue|NN indigestion|NN heartburn|NN constipation|NN nausea|NN feel|NN symptom|NN urination|NN urination|NN symptom|NN
+mass|NN pain|NN torsion|NN
+symptom|NN mass|NN abdominopelvic|NN organ|NN metastase|NN symptom|NN history|NN symptom|NN Ovarian cancer|Disease sister|NP mary|NP joseph|NP nodule|NN syndrome|NN experience|NN bleed|NN menopause|NN case|NN
+symptom|NN pain|NN mass|NN children|NN
+adolescent|NN children|NN symptom|NN pain|NN irritation|NN peritoneum|NN symptom|NN sex|NN produce|NN hormone|NN development|NN sex|NN characteristics|NN
+sex|NN tumor|NN children|NN puberty|NN pain|NN distension|NN
+adolescent|NN sex|NN
+cancer|NN accumulation|NN fluid|NN abdomen|NN
+malignancy|NN time|NN ascite|NN cancer|NN mass|NN lymph|NN node|NN mass|NN effusion|NN risk|NN factor|NN
+Ovarian cancer|Disease amount|NN time|NN
+children|NN risk|NN factor|NN Ovarian cancer|Disease ovulation|NN pregnancy|NN
+ovulation|NN cell|NN cycle|NN
+people|NN children|NN risk|NN Ovarian cancer|Disease
+period|NN ovulation|NN menstruation|NN menopause|NN risk|NN factor|NN obesity|NN hormone|NN replacement|NN therapy|NN risk|NN
+risk|NN Ovarian cancer|Disease women|NN cycle|NN cycle|NN breast|NN feed|NN contraceptive|NN pregnancy|NN pregnancy|NN age|NN
+risk|NN Ovarian cancer|Disease women|NN ligation|NN tube|NN ovary|NN hysterectomy|NN operation|NN uterus|NN cervix|NN age|NN risk|NN factor|NN
+use|NN fertility|NN medication|NN borderline|NN tumor|NN formation|NN link|NN study|NN fertility|NN drug|NN risk|NN borderline|NN infertility|NN risk|NN Ovarian cancer|Disease infertility|NN birth|NN risk|NN
+shed|NN cell|NN pregnancy|NN cause|NN risk|NN factor|NN infertility|NN treatment|NN
+condition|NN ovary|NN syndrome|NN endometriosis|NN Ovarian cancer|Disease link|NN hormone|NN replacement|NN therapy|NN hrt|NN increase|NN risk|NN Ovarian cancer|Disease
+association|NN study|NN study|NN women|NN study|NN link|NN
+hrt|NN estrogen|NN progesterone|NN risk|NN year|NN risk|NN return|NN cessation|NN therapy|NN hrt|NN increase|NN risk|NN endometrioid|NN serous|NN risk|NN tumor|NN
+dose|NN increase|NN risk|NN risk|NN factor|NN Ovarian cancer|Disease pain|NN menstruation|NN
+clear-cel|NN endometrioid|NN subtype|NN stage|NN grade|NN mortality|NN
+menopause|NN obesity|NN person|NN risk|NN Ovarian cancer|Disease risk|NN menopause|NN
+risk|NN hrt|NN
+association|NN Ovarian cancer|Disease people|NN genetics|NN information|NN breast|NN Ovarian cancer|Disease syndrome|NN people|NN breast|NN cancer|NN pedigree|NN chart|NN family|NN
+family|NN history|NN Ovarian cancer|Disease risk|NN factor|NN Ovarian cancer|Disease
+people|NN colon|NN cancer|NN lynch|NP syndrome|NN brca-1|NN abnormality|NN risk|NN
+risk|NN factor|NN Ovarian cancer|Disease mutation|NN brca1|NN dna|NN mismatch|NN repair|NN gene|NN Ovarian cancer|Disease case|NN
+allele|NN person|NN risk|NN
+gene|NN line|NN penetrance|NN mutation|NN gene|NN risk|NN breast|NN cancer|NN lifetime|NN risk|NN Ovarian cancer|Disease risk|NN peak|NN person|NN
+risk|NN mutation|NN brca1|NP lifetime|NN risk|NN Ovarian cancer|Disease mutation|NN brca2|NN brca1|NN lifetime|NN risk|NN risk|NN risk|NN brca-associate|NN cancer|NN year|NN counterpart|NN people|NN mutation|NN copy|NN gene|NN mutation|NN process|NN carcinogenesis|NN people|NN gene|NN mutation|NN
+united|NP states|NP women|NN relative|NN Ovarian cancer|Disease Ovarian cancer|Disease family|NN member|NN triple|NN risk|NN women|NN family|NN member|NN
+women|NN relative|NN Ovarian cancer|Disease Ovarian cancer|Disease general|NN Ovarian cancer|Disease case|NN cause|NN mutation|NN serous|NN Ovarian cancer|Disease
+family|NN history|NN cancer|NN colon|NN cancer|NN cancer|NN presence|NN syndrome|NN cancer|NN lynch|NP syndrome|NN risk|NN number|NN cancer|NN Ovarian cancer|Disease
+lynch|NP syndrome|NN mutation|NN mismatch|NN repair|NN gene|NN mlh6|NN risk|NN Ovarian cancer|Disease individual|NN lynch|NP syndrome|NN percent|NN people|NN descent|NN descent|NN descent|NN risk|NN Ovarian cancer|Disease receptor|NN beta|NN gene|NN key|NN pathogenesis|NN response|NN therapy|NN gene|NN Ovarian cancer|Disease chek2|NN Ovarian cancer|Disease
+disorder|NN subtype|NN Ovarian cancer|Disease
+syndrome|NN disorder|NN people|NN sex|NN cord|NN tumour|NN tubule|NN ollier|NP disease|NN syndrome|NN cell|NN children|NN tumor|NN
+cell|NN carcinoma|NN syndrome|NN factor|NN
+nation|NN exception|NN japan|NP rate|NN Ovarian cancer|Disease diet|NN country|NN
+3040|NN risk|NN Ovarian cancer|Disease people|NN due|NN factor|NN women|NN children|NN rate|NN surgery|NN risk|NN Ovarian cancer|Disease
+cohort|NN study|NN correlation|NN dairy|NN consumption|NN Ovarian cancer|Disease study|NN correlation|NN
+evidence|NN effect|NN meat|NN meat|NN Ovarian cancer|Disease
+evidence|NN talc|NN pesticide|NN herbicide|NN risk|NN Ovarian cancer|Disease cancer|NN society|NN note|NN study|NN link|NN chemical|NN environment|NN diet|NN mutation|NN Ovarian cancer|Disease
+alcohol|NN consumption|NN Ovarian cancer|Disease factor|NN level|NN vitamin|NN blood|NN presence|NN inclusion|NN cyst|NN infection|NN virus|NN cause|NN case|NN cancer|NN risk|NN factor|NN Ovarian cancer|Disease carcinogenicity|NN talc|NN irritant|NN tract|NN ovary|NN study|NN use|NN talc|NN risk|NN Ovarian cancer|Disease talc|NN risk|NN use|NN talc|NN body|NN Ovarian cancer|Disease period|NN mortality|NN Ovarian cancer|Disease
+risk|NN exercise|NN
+age|NN risk|NN factor|NN Ovarian cancer|Disease mutation|NN cell|NN cause|NN cancer|NN
+smoke|NN tobacco|NN risk|NN Ovarian cancer|Disease smoke|NN cessation|NN risk|NN
+diet|NN animal|NN fat|NN Ovarian cancer|Disease connection|NN
+diet|NN role|NN Ovarian cancer|Disease risk|NN level|NN protein|NN risk|NN Ovarian cancer|Disease factor|NN
+suppression|NN ovulation|NN damage|NN epithelium|NN inflammation|NN
+effect|NN children|NN contraceptive|NN breast|NN factor|NN period|NN breastfeed|NN correlate|NN decrease|NN risk|NN Ovarian cancer|Disease birth|NN risk|NN Ovarian cancer|Disease effect|NN birth|NN
+contraceptive|NN risk|NN Ovarian cancer|Disease effect|NN contraceptive|NN year|NN use|NN aspirin|NN paracetamol|NN risk|NN Ovarian cancer|Disease nsaids|NP effect|NN
+ligation|NN carcinogen|NN ovary|NN fimbriae|NN vagina|NN uterus|NN tube|NN ligation|NN women|NN mutation|NN mutation|NN risk|NN removal|NN tube|NN ovary|NN risk|NN Ovarian cancer|Disease breast|NN cancer|NN topic|NN research|NN link|NN hysterectomy|NN Ovarian cancer|Disease risk|NN
+reason|NN hysterectomy|NN
+diet|NN amount|NN carotene|NN vitamin|NN amount|NN fatspecifically|NN diet|NN vegetable|NN broccoly|NN onionsmay|NN research|NN area|NN caffeine|NN intake|NN consumption|NN cup|NN tea|NN day|NN Ovarian cancer|Disease risk|NN smoke|NN tobacco|NN sex|NN mutation|NN Ovarian cancer|Disease subtype|NN gene|NP mutation|NN type|NN prevalence|NN amplification|NN point|NN mutation|NN cell|NN deletion|NN point|NN mutation|NN nonsense|NN mutation|NN brca2|NN mutation|NN amplification|NN amplification|NN serous|NN deletion|NN cell|NN mutation|NN dynlrb1|NN mutation|NN amplificationoverexpression|NN serous|NN fm|NN csf-1|NP point|NN mutation|NN adult|NN cell|NN amplification|NN amplification|NN amplification|NN serous|NN amplification|NN point|NN mutation|NN amplification|NN point|NN mutation|NN amplification|NN deletion|NN point|NN mutation|NN serous|NN amplification|NN point|NN mutation|NN pi3k3|NN amplification|NN cell|NN cell|NN deletion|NN cell|NN deletion|NN point|NN mutation|NN
+tp53|NN serous|NN
+ri|NP mutation|NN
+Ovarian cancer|Disease form|NN error|NN cell|NN growth|NN
+cell|NN cell|NN place|NN
+cancer|NN cell|NN form|NN cell|NN
+buildup|NN cell|NN mass|NN tissue|NN growth|NN tumor|NN
+cancer|NN cell|NN abnormality|NN ovary|NN egg|NN egg|NN follicle|NN burst|NN corpus|NN
+structure|NN cell|NN ovary|NN ovulation|NN time|NN repair|NN ovary|NN cell|NN mutation|NN division|NN
+gene|NN mutation|NN Ovarian cancer|Disease brca1|NN
+type|NN Ovarian cancer|Disease instability|NN gene|NN oncogene|NN tumor|NN mutation|NN type|NN cancer|NN pten|NN type|NN cancer|NN type|NN gene|NN cancer|NN mutation|NN kra|NN cancer|NN grade|NN potential|NN mutation|NN type|NN cancer|NN precursor|NN lesion|NN type|NN cancer|NN carcinoma|NN cancer|NN mutation|NN mutation|NN removal|NN gene|NN cancer|NN
+serous|NN cancer|NN recombination|NN dna|NN repair|NN notch|NN foxm1|NN pathway|NN
+mutation|NN carcinoma|NN degree|NN instability|NN
+recombination|NN dna|NN repair|NN germline|NN mutation|NN gene|NN people|NN Ovarian cancer|Disease mutation|NN brca1|NN mutation|NN found|NN population|NN jew|NN
+mucinous|NN carcinoma|NN mutation|NN kra|NN amplification|NN Ovarian cancer|Disease mutation|NN
+carcinoma|NN carcinoma|NN tissue|NN
+carcinoma|NN inclusion|NN cyst|NN group|NN cell|NN stroma|NN diagnosis|NN examination|NN Ovarian cancer|Disease ct|NN micrograph|NN carcinoma|NN type|NN Ovarian cancer|Disease fluid|NN
+diagnosis|NN Ovarian cancer|Disease examination|NN examination|NN blood|NN test|NN ca-125|NN marker|NN ultrasound|NN examination|NN plan|NN surgery|NN diagnosis|NN surgery|NN cavity|NN biopsy|NN tissue|NN sample|NN analysis|NN look|NN cancer|NN cell|NN fluid|NN
+Ovarian cancer|Disease stage|NN symptom|NN use|NN diagnosis|NN result|NN advance|NN stage|NN symptom|NN Ovarian cancer|Disease bowel|NN syndrome|NN
+patient|NN pregnancy|NN possibility|NN level|NN diagnosis|NN process|NN
+serum|NN neuron-specific|NN lactate|NN dehydrogenase|NN girl|NN adolescent|NN tumor|NN patient|NN germ|NN cell|NN
+examination|NN examination|NN ultrasound|NN diagnosis|NN examination|NN girth|NN ascite|NN fluid|NN cavity|NN examination|NN mass|NN mass|NN find|NN Ovarian cancer|Disease solid|NN mass|NN malignancy|NN cause|NN mass|NN cyst|NN endometriosis|NN pregnancy|NN abscess|NN torsion|NN cyst|NN cystadenoma|NN diverticular|NN abscess|NN nerve|NN sheath|NN tumor|NN kidney|NN bladder|NN mesothelioma|NN tuberculosis|NN cyst|NN
+sign|NN Ovarian cancer|Disease postmenopausal|NN women|NN
+part|NN examination|NN Ovarian cancer|Disease breast|NN examination|NN exam|NN
+palpation|NP lymph|NN node|NN lymphadenopathy|NN metastasis|NN
+indicator|NN presence|NN effusion|NN
+malignancy|NN list|NN possibility|NN number|NN laboratory|NN test|NN
+blood|NN count|NN serum|NN electrolyte|NN test|NN Ovarian cancer|Disease test|NN number|NN platelet|NN people|NN blood|NN sodium|NN level|NN signal|NN tumor|NN test|NN inhibin|NP inhibin|NP b|NP cell|NN tumor|NN
+blood|NN test|NN marker|NN molecule|NN diagnosis|NN follow|NN disease|NN method|NN screen|NN Ovarian cancer|Disease due|NN sensitivity|NN specificity|NN level|NN people|NN uml|NN Ovarian cancer|Disease elevation|NN ca-125|NN uml|NN people|NN
+level|NN stage|NN Ovarian cancer|Disease stage|NN Ovarian cancer|Disease patient|NN ca-125|NN level|NN condition|NN endometriosis|NN pregnancy|NN fibroid|NN menstruation|NN cyst|NN liver|NN disease|NN bowel|NN disease|NN disease|NN he4|NN candidate|NN Ovarian cancer|Disease test|NN
+tumor|NN marker|NN Ovarian cancer|Disease protein|NN mesothelin|NN acid|NN fibroblast|NN growth|NN factor|NN
+use|NN blood|NN test|NN panel|NN diagnosis|NN panel|NN transferrin|NN
+people|NN postmenopausal|NN people|NN risk|NN cancer|NN set|NN laboratory|NN test|NN sex|NN
+level|NN testosterone|NN dehydroepiandrosterone|NN symptom|NN level|NN inhibin|NN scst|NN type|NN
+research|NN way|NN tumor|NN marker|NN combination|NN indicator|NN disease|NN radiology|NN symptom|NN accuracy|NN
+challenge|NN approach|NN prevalence|NN Ovarian cancer|Disease test|NN sensitivity|NN specificity|NN number|NN result|NN turn|NN issue|NN procedure|NN cancer|NN
+citation|NN approache|NN Ovarian cancer|Disease
+ct|NN scan|NN extent|NN tumor|NN cavity|NN resonance|NN image|NN ct|NN scan|NN cake|NN fluid|NN tumor|NN abdomen|NN potential|NN
+chest|NN x-ray|NN metastase|NN chest|NN effusion|NN
+test|NN disease|NN barium|NN enema|NN colon|NN disease|NN
+emission|NN tomography|NN bone|NN scan|NN paracentesis|NN use|NN fact|NN metastase|NN form|NN needle|NN insertion|NN site|NN result|NN case|NN mass|NN ascite|NN physician|NN Ovarian cancer|Disease biopsy|NN case|NN bleed|NN possibility|NN breast|NN malignancy|NN malignancy|NN
+ultrasonography|NN image|NN study|NN mass|NN
+characteristics|NN mass|NN malignancy|NN multilocular|NN feature|NN vessel|NN septation|NN characteristics|NN study|NN
+Ovarian cancer|Disease procedure|NN abdomen|NN
+procedure|NN laparotomy|NN incision|NN wall|NN keyhole|NN surgery|NN laparoscopy|NN
+procedure|NN tissue|NN analysis|NN
+salpingo-oophorectomy|NN removal|NN ovary|NN tube|NN
+fluid|NN cavity|NN cell|NN
+cancer|NN procedure|NN extent|NN spread|NN form|NN tumor|NN stage|NN risk|NN score|NN
+method|NN risk|NN Ovarian cancer|Disease risk|NN malignancy|NN index|NN rmi|NP initial|NN rmi|NP score|NN risk|NN Ovarian cancer|Disease
+rmi|NP ultrasound|NN score|NN score|NN level|NN
+method|NN ultrasound|NN score|NN score|NN score|NN rmi|NP rmi|NP method|NN
+feature|NN rmi|NP rmi|NP
+cyst|NN area|NN ascite|NN metastase|NN
+abnormality|NN abnormality|NN abnormality|NN
+abnormality|NN abnormality|NN
+quantity|NN quantity|NN
+method|NN risk|NN Ovarian cancer|Disease risk|NN Ovarian cancer|Disease algorithm|NN roca|NN level|NN time|NN ultrasound|NN risk|NN algorithm|NN use|NN level|NN level|NN risk|NN Ovarian cancer|Disease rmi|NP
+model|NN probability|NN tumor|NN risk|NN model|NN rule|NN risk|NN calculation|NN assessment|NN neoplasia|NN adnexa|NN model|NN risk|NN malignancy|NN mass|NN characteristics|NN risk|NN factor|NN
+qcancer|NN algorithm|NN likelihood|NN Ovarian cancer|Disease risk|NN factor|NN pathology|NN Ovarian cancer|Disease women|NN area|NN incidence|NN color|NN survival|NN rate|NN
+Ovarian cancer|Disease appearance|NN structure|NN histology|NN histopathology|NN
+histology|NN aspect|NN treatment|NN management|NN prognosis|NN
+pathology|NN Ovarian cancer|Disease type|NN mass|NN type|NN Ovarian cancer|Disease women|NN age|NN percent|NN Ovarian cancer|Disease women|NN age|NN percent|NN Ovarian cancer|Disease women|NN age|NN
+subdivision|NN histology|NN surface|NN tumor|NN adenocarcinoma|NN borderline|NN adenocarcinoma|NN data|NN collection|NN interval|NN tumor|NN tumor|NN adenocarcinoma|NN sex|NN tumour|NN carcinoma|NN tumor|NN cell|NN tumor|NN 851|NN cell|NN carcinoma|NN brenner|NN tumor|NN 717|NN
+Ovarian cancer|Disease type|NN type|NN
+type|NN cancer|NN grade|NN mucinous|NN clear-cel|NN carcinoma|NN
+type|NN cancer|NN grade|NN carcinoma|NN carcinoma|NN specimen|NN carcinoma|NN
+surface|NN tumour|NN carcinoma|NN type|NN Ovarian cancer|Disease Ovarian cancer|Disease
+tumour|NN tumor|NN mucinous|NN
+tumor|NN brenner|NP tumor|NN cell|NN carcinoma|NN ovary|NN
+Ovarian cancer|Disease epithelium|NN layer|NN cell|NN ovary|NN carcinoma|NN
+people|NN carcinoma|NN carcinoma|NN proportion|NN low-grade|NN carcinoma|NN serous|NN carcinoma|NN chemotherapy|NN treatment|NN carcinoma|NN tube|NN adenocarcinoma|NN body|NN
+adenocarcinoma|NN tube|NN epithelium|NN serous|NN adenocarcinoma|NN show|NN atypia|NN
+time|NN carcinoma|NN case|NN ovary|NN time|NN diagnosis|NN
+diameter|NN cm|NN carcinoma|NN
+carcinoma|NN subtype|NN
+year|NN diagnosis|NN
+cell|NN carcinoma|NN cause|NN blood|NN calcium|NN level|NN ovary|NN
+cell|NN Ovarian cancer|Disease ovary|NN women|NN look|NN carcinoma|NN lung|NN carcinoma|NN article|NN carcinoma|NN
+carcinoma|NN peritoneum|NN membrane|NN cavity|NN origin|NN ovary|NN
+Ovarian cancer|Disease ovary|NN ovary|NN carcinoma|NN
+carcinoma|NN chemotherapy|NN endometriosis|NN cancer|NN
+women|NN Ovarian cancer|Disease group|NN women|NN adenocarcinoma|NN cell|NN cell|NN carcinoma|NN sample|NN
+adenocarcinoma|NN cell|NN carcinoma|NN cell|NN cell|NN
+Ovarian cancer|Disease endometriosis|NN cavity|NN
+surgery|NN clear-cel|NN adenocarcinoma|NN prognosis|NN platinum|NN chemotherapy|NN
+adenocarcinoma|NN Ovarian cancer|Disease
+endometrioid|NN adenocarcinoma|NN prognosis|NN
+endometriosis|NN cancer|NN müllerian|NN tumor|NN
+müllerian|NN Ovarian cancer|Disease
+cell|NN prognosis|NN
+adenocarcinoma|NN mucinous|NN adenocarcinoma|NN article|NN adenocarcinoma|NN
+adenocarcinoma|NN Ovarian cancer|Disease
+adenocarcinoma|NN metastase|NN appendiceal|NN colon|NN cancer|NN
+mucinous|NN adenocarcinoma|NN prognosis|NN tumor|NN platinum|NN chemotherapy|NN article|NN
+peritoney|NN collection|NN mucous|NN material|NN cavity|NN primary|NN tumor|NN
+metastase|NN cancer|NN
+cancer|NN cell|NN type|NN Ovarian cancer|Disease prognosis|NN microscope|NN tumor|NN cell|NN clump|NN sheet|NN
+clump|NN cell|NN tumor|NN brenner|NP tumor|NN article|NN brenner|NN tumor|NN
+malignant|NP brenner|NP
+stroma|NN area|NN epithelium|NN differentiation|NN
+brenner|NN tumor|NN brenner|NN tumor|NN focy|NN cell|NN carcinoma|NN
+cell|NN carcinoma|NN component|NN tract|NN cancer|NN cell|NN carcinoma|NN article|NN cell|NN carcinoma|NN
+cell|NN carcinoma|NN Ovarian cancer|Disease
+bladder|NN carcinoma|NN
+prognosis|NN cancer|NN brenner|NN sex|NN tumor|NN article|NN sex|NN tumor|NN
+sex|NN tumor|NN cell|NN tumor|NN thecoma|NN cell|NN tumor|NN arrhenoblastoma|NN account|NN Ovarian cancer|Disease
+women|NN year|NN age|NN women|NN age|NN girl|NN
+sex|NN cord-stromal|NN tumor|NN
+cell|NN mesenchyme|NN rise|NN sex-cord|NN tumor|NN
+fibroblast|NN cell|NN
+symptom|NN sex-cord|NN tumor|NN type|NN Ovarian cancer|Disease
+sign|NN symptom|NN torsion|NN rupture|NN tumor|NN mass|NN disruption|NN
+children|NN pseudopuberty|NN cell|NN
+cause|NN abnormality|NN menstruation|NN menstruation|NN menstruation|NN postmenopausal|NN bleed|NN
+produce|NN time|NN cancer|NN breast|NN cancer|NN
+sex-cordstromal|NN present|NN symptom|NN
+cell|NN cause|NN hair|NN growth|NN production|NN testosterone|NN androstenedione|NN syndrome|NN case|NN
+tumor|NN imbalance|NN fibroma|NN cause|NN ascite|NN hydrothorax|NN germ|NN cell|NN sex|NN tumor|NN Ovarian cancer|Disease women|NN cell|NN tumor|NN
+cell|NN tumor|NN case|NN histologic|NN subtype|NN adult|NN cell|NN women|NN granulosa|NN puberty|NN age|NN
+follicle|NN population|NN cell|NN cell|NN adult|NN cell|NN tumor|NN
+adult|NN cell|NN tumor|NN onset|NN year|NN average|NN
+tumor|NN level|NN estrogen|NN symptom|NN hyperplasia|NN breast|NN postmenopausal|NN bleed|NN amenorrhea|NN
+mass|NN tumor|NN symptom|NN pain|NN distension|NN symptom|NN pregnancy|NN tumor|NN granulosa|NN cell|NN tumor|NN cell|NN tumor|NN
+women|NN age|NN puberty|NN tumor|NN
+tumor|NN girl|NN puberty|NN women|NN age|NN cell|NN tumor|NN article|NN germ|NN cell|NN
+cell|NN tumor|NN ovary|NN germ|NN cell|NN cell|NN tumor|NN account|NN tumor|NN Ovarian cancer|Disease tumor|NN
+women|NN germ|NN layer|NN tumor|NN cell|NN carcinoma|NN women|NN girl|NN Ovarian cancer|Disease age|NN group|NN yolk|NN sac|NN sinus|NN ovary|NN
+germ-cel|NN arm|NN chromosome|NN duplicate|NN cancer|NN prognosis|NN subtype|NN chemotherapy|NN
+stage|NN diagnosis|NN Ovarian cancer|Disease
+addition|NN cancer|NN marker|NN tumor|NN type|NN beta-hcg|NN sinus|NN
+sex|NN cord|NN torsion|NN hemorrhage|NN children|NN puberty|NN
+lymph|NN node|NN lymph|NN node|NN symptom|NN germ|NN cell|NN tumor|NN pain|NN tumor|NN bleed|NN capsule|NN
+tumor|NN cause|NN bleed|NN ovary|NN pain|NN tumor|NN
+hormone|NN cycle|NN
+cancer|NN routine|NN examination|NN symptom|NN
+germ|NN cell|NN cycle|NN puberty|NN pain|NN symptom|NN woman|NN symptom|NN pregnancy|NN treatment|NN stigma|NN teen|NN pregnancy|NN
+blood|NN test|NN gonadotropin|NN liver|NN function|NN germ|NN cell|NN tumor|NN potential|NN dysgenesis|NN
+germ|NN cell|NN tumor|NN cyst|NN article|NN
+account|NN Ovarian cancer|Disease women|NN germ|NN cell|NN tumor|NN metastasize|NN lymph|NN node|NN metastase|NN 2530|NN case|NN tumor|NN mutation|NN kit|NN gene|NN mutation|NN role|NN tumor|NN
+people|NN karyotype|NN ovary|NN dysgenesis|NN x0|NN ovary|NN turner|NP syndrome|NN dysgerminoma|NN risk|NN gonadoblastoma|NN ovary|NN case|NN ovary|NN dysgerminoma|NN risk|NN tumor|NN
+people|NN swyer|NN turner|NP syndrome|NN case|NN
+dysgerminoma|NN time|NN
+cell|NN germ|NN cell|NN
+case|NN hcg|NN level|NN
+appearance|NN tan-color|NN lobe|NN
+seminoma|NN germ|NN cell|NN cell|NN
+nucley|NN nucleoly|NN cytoplasm|NN level|NN glycogen|NN
+feature|NN article|NN
+tumor|NN germ|NN cell|NN disease|NN ovary|NN
+choriocarcinoma|NN prognosis|NN pregnancy|NN
+level|NN hcg|NN puberty|NN children|NN menstruation|NN menarche|NN solid|NN article|NN teratoma|NN
+teratoma|NN type|NN germ|NN cell|NN tumor|NN case|NN
+presence|NN tissue|NN germ|NN layer|NN mesoderm|NN endoderm|NN stem|NN cell|NN cyst|NN
+tissue|NN pathology|NN bone|NN cartilage|NN hair|NN mucus|NN sebum|NN tissue|NN outside|NN mass|NN lobe|NN cyst|NN
+amount|NN neuroectoderm|NN sheet|NN tubule|NN amount|NN tissue|NN grade|NN
+teratoma|NN ovary|NN cyst|NN peritoneum|NN
+teratoma|NN implant|NN abdomen|NN disease|NN teratoma|NN syndrome|NN chemotherapy|NN surgery|NN
+teratoma|NN form|NN adhesion|NN torsion|NN
+marker|NN teratoma|NN antigen|NN ca-125|NN afp|NP teratoma|NN
+stage|NN majority|NN case|NN prognosis|NN patient|NN year|NN stage|NN tumor|NN grade|NN surgery|NN
+stage|NN tumor|NN quarter|NN case|NN prognosis|NN 7388|NN patient|NN year|NN cyst|NN article|NN cyst|NN
+teratoma|NN dermoid|NN cyst|NN tissue|NN menopause|NN
+tumor|NN tissue|NN nodule|NN tissue|NN type|NN
+malignancy|NN cell|NN carcinoma|NN adenocarcinoma|NN carcinoma|NN tumor|NN tumor|NN melanoma|NN sarcoma|NN tumor|NN ovariy|NN part|NN cyst|NN
+surgery|NN platinum|NN chemotherapy|NN radiation|NN sac|NN sinus|NN tumor|NN article|NN sac|NN tumor|NN
+sac|NN sinus|NN germ|NN cell|NN malignancy|NN prognosis|NN germ|NN cell|NN
+menarche|NN case|NN menarche|NN case|NN
+people|NN yolk|NN sac|NN stage|NN
+metastasis|NN cavity|NN bloodstream|NN lung|NN
+stage|NN yolk|NN sac|NN disease|NN survival|NN rate|NN stage|NN tumor|NN survival|NN rate|NN
+appearance|NN area|NN
+yolk|NN sac|NN presence|NN body|NN yolk|NN sac|NN pattern|NN
+sac|NN presence|NN level|NN alpha-fetoprotein|NN blood|NN marker|NN recurrence|NN carcinoma|NN article|NN carcinoma|NN
+carcinoma|NN tumor|NN type|NN tumor|NN germ|NN cell|NN case|NN gonad|NN
+variety|NN neoplasm|NN yolk|NN sac|NN tumor|NN teratoma|NN
+people|NN age|NN diagnosis|NN alpha-fetoprotein|NN case|NN hcg|NN
+carcinoma|NN disc|NN anaplastic|NN cell|NN sheet|NN space|NN structure|NN article|NN
+form|NN teratoma|NN tumor|NN body|NN structure|NN germ|NN disk|NN yolk|NN sac|NN sac|NN
+cell|NN cell|NN carcinoma|NN
+cell|NN carcinoma|NN prognosis|NN
+cell|NN carcinoma|NN metastase|NN area|NN differentiation|NN tumor|NN tumor|NN
+tumor|NN element|NN class|NN tumor|NN histology|NN
+tumor|NN type|NN tumor|NN carcinoma|NN combination|NN cell|NN type|NN Ovarian cancer|Disease germ|NN cell|NN germ|NN cell|NN Ovarian cancer|Disease combination|NN yolk|NN sac|NN tumor|NN teratoma|NN
+prognosis|NN treatment|NN component|NN cell|NN type|NN Ovarian cancer|Disease
+Ovarian cancer|Disease cancer|NN result|NN metastasis|NN cancer|NN body|NN Ovarian cancer|Disease metastase|NN rest|NN cancer|NN
+citation|NN cancer|NN breast|NN cancer|NN colon|NN cancer|NN cancer|NN stomach|NN cancer|NN cancer|NN ovary|NN krukenberg|NN signet|NN ring|NN cell|NN cell|NN cancer|NN lymphoma|NN ovary|NN potential|NN
+potential|NN borderline|NN tumor|NN feature|NN tumor|NN Ovarian cancer|Disease age|NN
+invasion|NN tumor|NN area|NN microinvasion|NN 3mm|NN tumor|NN
+feature|NN mitosis|NN change|NN cell|NN size|NN nucleus|NN size|NN nucley|NN cell|NN stratification|NN projection|NN cell|NN projection|NN
+andor|NN characteristics|NN examination|NN histology|NN majority|NN lmp|NN
+tumor|NN stage|NN stage|NN stage|NN implant|NN tumor|NN
+Ovarian cancer|Disease stage|NN system|NN information|NN surgery|NN hysterectomy|NN midline|NN laparotomy|NN removal|NN ovary|NN tube|NN wash|NN assessment|NN lymph|NN node|NN lymph|NN node|NN mucinous|NN biopsy|NN cytopathology|NN Ovarian cancer|Disease ovary|NN cancer|NN cancer|NN stage|NN metastase|NN stage|NN stage|NN
+stage|NN system|NN extent|NN tumor|NN absence|NN presence|NN metastasis|NN lymph|NN node|NN absence|NN presence|NN metastasis|NN m|NN stage|NN diagnosis|NN stage|NN diagnose|NN adenocarcinoma|NN deposit|NN mesentery|NN bowel|NN stage|NN Ovarian cancer|Disease stage|NN description|NN cancer|NN ovary|NN ia|NP ovary|NN capsule|NN tumor|NN surface|NN wash|NN ib|NN ovary|NN capsule|NN tumor|NN surface|NN wash|NN tumor|NN ovary|NN spill|NN capsule|NN tumor|NN surface|NN ascite|NN wash|NN extension|NN tumor|NN pelvis|NN tumor|NN ovary|NN iia|NP tumor|NN uterus|NN tube|NN tumor|NN pelvis|NN cancer|NN pelvis|NN lymph|NN node|NN ovary|NN metastasis|NN lymph|NN node|NN extrapelvic|NN metastasis|NN metastasis|NN lymph|NN node|NN metastasis|NN mm|NN diameter|NN metastasis|NN mm|NN diameter|NN metastasis|NN peritoneum|NN lymph|NN node|NN status|NN metastasis|NN peritoneum|NN cm|NN diameter|NN lymph|NN node|NN status|NN metastasis|NN liver|NN spleen|NN capsule|NN metastasis|NN peritoneum|NN cm|NN diameter|NN lymph|NN node|NN status|NN metastasis|NN liver|NN spleen|NN capsule|NN metastasis|NN iva|NN effusion|NN cancer|NN cell|NN metastasis|NN organ|NN parenchyma|NN spleen|NN liver|NN metastasis|NN lymph|NN node|NN
+stage|NN Ovarian cancer|Disease
+stage|NN Ovarian cancer|Disease
+stage|NN Ovarian cancer|Disease
+stage|NN Ovarian cancer|Disease
+stage|NN system|NN tumor|NN spread|NN lymph|NN node|NN metastasis|NN stage|NN Ovarian cancer|Disease stage|NN description|NN tumor|NN evidence|NN ovary|NN capsule|NN surface|NN tumor|NN ascitesperitoneal|NN wash|NN ovary|NN capsule|NN surface|NN tumor|NN ascitesperitoneal|NN wash|NN ovary|NN capsule|NN capsule|NN surface|NN tumor|NN ascitesperitoneal|NN wash|NN ovary|NN pelvis|NN extension|NN implantation|NN expansion|NN uterus|NN tube|NN wash|NN expansion|NN tissue|NN wash|NN expansion|NN tissue|NN ascitesperitoneal|NN wash|NN ovary|NN pelvis|NN peritoneum|NN liver|NN capsule|NN metastasis|NN metastasis|NN cm|NN diameter|NN metastasis|NN cm|NN diameter|NN lymph|NN node|NN metastasis|NN metastasis|NN m|NN metastasis|NN metastasis|NN metastasis|NN present|NN liver|NN capsule|NN liver|NN parenchyma|NN effusion|NN
+stage|NN stage|NN ia|NP t1a|NP ib|NN t1b|NN t1c|NN iia|NP t2a|NP iib|NP t2b|NP grade|NN
+grade|NN cell|NN tissue|NN prognosis|NN
+grade|NN tumor|NN cell|NN tissue|NN
+grade|NN prognosis|NN cell|NN
+Ovarian cancer|Disease abdomen|NN cancer|NN cell|NN capsule|NN cavity|NN
+Ovarian cancer|Disease metastase|NN surface|NN organ|NN omentum|NN line|NN
+cancer|NN cell|NN system|NN metastasize|NN lymph|NN node|NN ovary|NN blood|NN vessel|NN lymph|NN node|NN ligament|NN ligament|NN ligament|NN
+group|NN paraaortic|NN iliac|NN lymph|NN node|NN
+Ovarian cancer|Disease liver|NN lung|NN brain|NN kidney|NN disease|NN Ovarian cancer|Disease form|NN cancer|NN screen|NN
+way|NN test|NN Ovarian cancer|Disease women|NN sign|NN symptom|NN
+screen|NN women|NN risk|NN evidence|NN reduction|NN death|NN rate|NN test|NN surgery|NN risk|NN test|NN Ovarian cancer|Disease
+Ovarian cancer|Disease stage|NN screen|NN measurement|NN level|NN ultrasound|NN palpation|NN women|NN risk|NN
+risk|NN Ovarian cancer|Disease factor|NN
+predisposition|NN screen|NN
+risk|NN group|NN detection|NN
+Ovarian cancer|Disease prevalence|NN group|NN women|NN age|NN screen|NN women|NN risk|NN result|NN problem|NN treatment|NN
+result|NN detection|NN problem|NN response|NN result|NN intervention|NN women|NN risk|NN harm|NN screen|NN indication|NN benefit|NN
+purpose|NN screen|NN Ovarian cancer|Disease stage|NN
+screen|NN ultrasound|NN examination|NN ca-125|NN level|NN surgery|NN women|NN mutation|NN
+strategy|NN success|NN prevention|NN
+people|NN risk|NN Ovarian cancer|Disease removal|NN ovary|NN measure|NN
+completion|NN childbear|NN year|NN
+chance|NN breast|NN cancer|NN Ovarian cancer|Disease people|NN risk|NN
+women|NN gene|NN mutation|NN tube|NN time|NN risk|NN tube|NN cancer|NN
+statistics|NN risk|NN reduction|NN
+people|NN family|NN history|NN Ovarian cancer|Disease counselor|NN test|NN mutation|NN use|NN contraceptive|NN absence|NN period|NN cycle|NN ligation|NN risk|NN association|NN Ovarian cancer|Disease stimulation|NN infertility|NN treatment|NN
+papillomavirus|NN infection|NN smoke|NN talc|NN risk|NN Ovarian cancer|Disease management|NN
+tube|NN cancer|NN treatment|NN gynecologic|NN physician|NN cancer|NN system|NN
+surgery|NN chemotherapy|NN women|NN Ovarian cancer|Disease
+treatment|NN plan|NN
+treatment|NN surgery|NN chemotherapy|NN radiotherapy|NN subtype|NN Ovarian cancer|Disease treatment|NN tumor|NN ovary|NN
+addition|NN chemotherapy|NN tumor|NN ovary|NN
+patient|NN disease|NN combination|NN reduction|NN combination|NN chemotherapy|NN regimen|NN
+borderline|NN spread|NN outside|NN ovary|NN surgery|NN chemotherapy|NN surgery|NN maintenance|NN chemotherapy|NN benefit|NN surgery|NN
+surgery|NN standard|NN care|NN decade|NN specimen|NN diagnosis|NN
+surgery|NN extent|NN invasion|NN tissue|NN cancer|NN
+extent|NN cancer|NN stage|NN type|NN grade|NN cancer|NN
+surgeon|NN oophorectomy|NN ovary|NN
+tube|NN uterus|NN hysterectomy|NN omentectomy|NN
+stage-ia|NN cancer|NN ovary|NN tube|NN
+people|NN fertility|NN
+risk|NN metastase|NN stage|NN metastase|NN second|NN surgery|NN ovary|NN uterus|NN acid|NN surgery|NN need|NN blood|NN transfusion|NN blood|NN loss|NN surgery|NN
+tumor|NN woman|NN potential|NN tumor|NN surgery|NN stage|NN cancer|NN ovary|NN
+postmenopausal|NN women|NN potential|NN hysterectomy|NN salpingo-oophorectomy|NN option|NN
+tumor|NN children|NN adolescent|NN Ovarian cancer|Disease surgeon|NN ovary|NN completion|NN puberty|NN cancer|NN
+ovary|NN ovary|NN people|NN well-differentiate|NN surgery|NN germ|NN cell|NN surgery|NN cancer|NN fertility|NN factor|NN
+cancer|NN removal|NN option|NN tumor|NN procedure|NN surgery|NN
+surgery|NN women|NN metastase|NN peritoneum|NN disease|NN cancer|NN fissure|NN liver|NN diaphragm|NN area|NN ascite|NN
+surgery|NN debulk|NN outcome|NN women|NN evidence|NN disease|NN debulking|NP survival|NN month|NN month|NN surgery|NN metastase|NN cell|NN chemotherapy|NN clump|NN cell|NN
+chemotherapy|NN cancer|NN cell|NN
+surgery|NN protocol|NN chemotherapy|NN surgery|NN chemotherapy|NN debulk|NN study|NN surgery|NN term|NN survival|NN morbidity|NN
+procedure|NN Ovarian cancer|Disease
+stage|NN cancer|NN keyhole|NN surgery|NN metastase|NN
+cancer|NN laparoscopy|NN metastase|NN access|NN cavity|NN
+extent|NN cancer|NN procedure|NN salpingo-oophorectomy|NN biopsy|NN peritoneum|NN system|NN bowel|NN resection|NN diaphragm|NN strip|NN resection|NN exenteration|NN
+stage|NN Ovarian cancer|Disease lymphadenectomy|NN surgery|NN survival|NN benefit|NN practice|NN germ|NN cell|NN lymph|NN node|NN
+Ovarian cancer|Disease surgery|NN treatment|NN option|NN
+tumor|NN fluid|NN abdomen|NN health|NN people|NN surgery|NN generalist|NN Ovarian cancer|Disease surgery|NN dysgerminoma|NN teratoma|NN
+side|NN effect|NN oophorectomy|NN women|NN menopause|NN osteoporosis|NN
+surgery|NN hormone|NN replacement|NN therapy|NN women|NN
+therapy|NN combination|NN estrogen|NN progesterone|NN
+hysterectomy|NN uterus|NN estrogen|NN risk|NN cancer|NN therapy|NN surgery|NN survival|NN rate|NN people|NN Ovarian cancer|Disease surgery|NN day|NN month|NN home|NN surgery|NN outcome|NN hospital|NN number|NN Ovarian cancer|Disease surgery|NN
+laparoscopy|NN laparotomy|NN stage|NN Ovarian cancer|Disease difference|NN hysterectomy|NN hysterectomy|NN cancer|NN
+people|NN surgery|NN Ovarian cancer|Disease week|NN surgery|NN mortality|NN rate|NN surgery|NN outcome|NN stage|NN Ovarian cancer|Disease
+standard|NN care|NN Ovarian cancer|Disease decade|NN protocol|NN
+surgery|NN disease|NN
+case|NN reason|NN chemotherapy|NN surgery|NN
+chemotherapy|NN tumor|NN surgery|NN
+increase|NN survival|NN risk|NN complication|NN surgery|NN
+salpingo-oophorectomy|NN surgery|NN chemotherapy|NN chemotherapy|NN chemotherapy|NN stage|NN cancer|NN tumor|NN histologic|NN grade|NN grade|NN substage|NN stage|NN cancer|NN surgery|NN chemotherapy|NN tumor|NN surgery|NN cancer|NN stage|NN survival|NN survival|NN chemotherapy|NN Ovarian cancer|Disease germ|NN cell|NN
+Ovarian cancer|Disease group|NN drug|NN
+therapy|NN cisplatin|NN doxorubicin|NN
+combination|NN paclitaxel|NN combination|NN carboplatin|NN cisplatin|NN side|NN effect|NN quality|NN life|NN comparison|NN three-drug|NN regimen|NN combination|NN cavity|NN chemotherapy|NN survival|NN survival|NN side|NN effect|NN chemotherapy|NN cancer|NN
+chemotherapy|NN Ovarian cancer|Disease cavity|NN dose|NN drug|NN tumor|NN way|NN
+iron|NN iron|NN supplement|NN need|NN blood|NN transfusion|NN cycle|NN treatment|NN treatment|NN week|NN week|NN week|NN cycle|NN treatment|NN week|NN malignancy|NN Ovarian cancer|Disease regimen|NN bleomycin|NN cisplatin|NN bep|NN day|NN chemotherapy|NN week|NN cycle|NN germ|NN cell|NN infertility|NN birth|NN defect|NN miscarriage|NN maintenance|NN chemotherapy|NN
+people|NN mutation|NN platinum|NN chemotherapy|NN germ-cel|NN sex-cordstromal|NN chemotherapy|NN tumor|NN
+Ovarian cancer|Disease time|NN recurrence|NN cancer|NN month|NN treatment|NN platinum-resistant|NN cancer|NN interval|NN month|NN
+chemotherapy|NN cancer|NN difference|NN survival|NN ca-125|NN recurrence|NN
+platin|NN drug|NN choice|NN chemotherapy|NN combination|NN agent|NN
+doxorubicin|NN therapy|NN paclitaxel|NN efficacy|NN case|NN
+therapy|NN recurrence|NN survival|NN survival|NN inhibitor|NN fda|NN use|NN Ovarian cancer|Disease chemotherapy|NN germ|NN cell|NN cycle|NN chemotherapy|NN treatment|NN tho|NN surgery|NN platin|NN
+tumor|NN dactinomycin|NN cyclophosphamide|NN combination|NN paclitaxel|NN therapy|NN
+tumor|NN chemotherapy|NN option|NN
+regimen|NN response|NN rate|NN regimen|NN liposomal|NN case|NN people|NN blockage|NN
+regimen|NN doxorubicin|NN cisplatin|NN topotecan|NN cyclophosphamide|NN care|NN
+radiation|NN therapy|NN
+radiation|NN infertility|NN favor|NN chemotherapy|NN radiation|NN therapy|NN survival|NN people|NN tumor|NN
+stage|NN cancer|NN radiation|NN therapy|NN surgery|NN possibility|NN disease|NN pelvis|NN abdomen|NN
+radiotherapy|NN care|NN cancer|NN
+course|NN radiotherapy|NN Ovarian cancer|Disease day|NN week|NN week|NN
+side|NN effect|NN radiotherapy|NN constipation|NN urination|NN therapy|NN
+fact|NN tumor|NN receptor|NN Ovarian cancer|Disease treatment|NN
+effect|NN cancer|NN tamoxifen|NN women|NN borderline|NN malignancy|NN Ovarian cancer|Disease Ovarian cancer|Disease therapy|NN
+topic|NN research|NN Ovarian cancer|Disease
+case|NN antibody|NN drug|NN topic|NN research|NN cancer|NN chemotherapy|NN use|NN union|NN follow-up|NN
+follow-up|NN example|NN type|NN stage|NN Ovarian cancer|Disease treatment|NN presence|NN symptom|NN
+check-up|NN appointment|NN month|NN year|NN year|NN Ovarian cancer|Disease test|NN follow-up|NN level|NN
+treatment|NN level|NN symptom|NN side|NN effect|NN prolongation|NN life|NN implication|NN outcome|NN test|NN recommendation|NN 2014|NN cancer|NN level|NN recurrence|NN ca-125|NN survival|NN
+women|NN follow-up|NN test|NN afp|NN gonadotropin|NN
+women|NN cancer|NN test|NN hormone|NN testosterone|NN inhibin|NN progress|NN tumor|NN substance|NN
+afp|NP tumor|NN lactate|NN dehydrogenase|NN isozyme|NN test|NN recurrence|NN
+women|NN Ovarian cancer|Disease routine|NN surveillance|NN image|NN cancer|NN symptom|NN tumor|NN marker|NN image|NN indication|NN recurrence|NN survival|NN cost|NN side|NN effect|NN ct|NN image|NN tumor|NN image|NN progress|NN treatment|NN care|NN
+care|NN symptom|NN quality|NN life|NN
+type|NN treatment|NN purpose|NN cancer|NN woman|NN cancer|NN
+part|NN treatment|NN plan|NN person|NN Ovarian cancer|Disease patient|NN symptom|NN platinum-refractory|NN platinum-resistant|NN case|NN chemotherapy|NN treatment|NN
+care|NN treatment|NN symptom|NN complication|NN cancer|NN pain|NN nausea|NN constipation|NN ascite|NN bowel|NN obstruction|NN effusion|NN mucositis|NN
+cancer|NN advance|NN treatment|NN symptom|NN goal|NN therapy|NN
+care|NN decision-make|NN hospice|NN care|NN place|NN patient|NN end|NN life|NN care|NN
+bowel|NN obstruction|NN surgery|NN colostomy|NN ileostomy|NN bypass|NN medicine|NN surgery|NN increase|NN survival|NN time|NN surgery|NN bowel|NN syndrome|NN fistula|NN re-obstruction|NN extent|NN obstruction|NN treatment|NN complication|NN nutrition|NN diet|NN palliative|NN pain|NN control|NN bowel|NN obstruction|NN octreotide|NN surgery|NN option|NN
+cancer|NN ureter|NN nephrostomy|NN
+paracentesis|NN placement|NN drain|NN comfort|NN effusion|NN manner|NN thoracentesis|NN placement|NN drain|NN
+radiation|NN therapy|NN part|NN care|NN Ovarian cancer|Disease symptom|NN radiotherapy|NN treatment|NN course|NN therapy|NN radiotherapy|NN palliation|NN germ|NN cell|NN care|NN
+Ovarian cancer|Disease effect|NN quality|NN life|NN health|NN well-be|NN
+need|NN support|NN
+Ovarian cancer|Disease survivor|NN quality|NN life|NN optimism|NN
+change|NN mean|NN experience|NN
+loss|NN faith|NN diagnosis|NN Ovarian cancer|Disease
+treatment|NN experience|NN isolation|NN benefit|NN relationship|NN survivor|NN
+frustration|NN guilt|NN inability|NN care|NN family|NN
+body|NN image|NN change|NN hair|NN loss|NN removal|NN ovary|NN structure|NN scar|NN
+improvement|NN hair|NN
+removal|NN ovary|NN result|NN menopause|NN intercourse|NN dryness|NN loss|NN desire|NN
+prognosis|NN survivor|NN impact|NN sexuality|NN
+anxiety|NN depression|NN distress|NN Ovarian cancer|Disease rate|NN population|NN problem|NN family|NN member|NN
+effect|NN fear|NN death|NN sadness|NN memory|NN problem|NN difficulty|NN
+optimism|NN begine|NN treatment|NN distress|NN
+fear|NN cancer|NN difficulty|NN joy|NN
+treatment|NN woman|NN loss|NN hope|NN
+women|NN effect|NN number|NN strategy|NN
+activity|NN spend|NN time|NN family|NN friend|NN statistics|NN involvement|NN event|NN survival|NN Ovarian cancer|Disease stage|NN
+Ovarian cancer|Disease prognosis|NN
+detection|NN screen|NN test|NN mean|NN case|NN stage|NN
+Ovarian cancer|Disease development|NN
+tumor|NN cell|NN cavity|NN women|NN Ovarian cancer|Disease cancer|NN ovary|NN
+Ovarian cancer|Disease shed|NN cell|NN fluid|NN cavity|NN
+cell|NN structure|NN uterus|NN bladder|NN bowel|NN line|NN bowel|NN wall|NN omentum|NN tumor|NN growth|NN cancer|NN
+survival|NN rate|NN stage|NN Ovarian cancer|Disease survival|NN rate|NN survival|NN rate|NN case|NN diagnosis|NN disease|NN cancer|NN site|NN survival|NN rate|NN women|NN disease|NN treatment|NN remission|NN half|NN women|NN recurrence|NN year|NN treatment|NN brain|NN metastasis|NN stage|NN cancer|NN cancer|NN
+people|NN brain|NN metastase|NN median|NN month|NN surgery|NN chemotherapy|NN brain|NN radiation|NN therapy|NN survival|NN
+Ovarian cancer|Disease survival|NN subtype|NN
+stage|NN survival|NN rate|NN stage|NN survival|NN chemotherapy|NN removal|NN survival|NN rate|NN
+malignancy|NN prognosis|NN disease|NN decade|NN potential|NN prognosis|NN tumor|NN implant|NN cavity|NN
+complication|NN Ovarian cancer|Disease spread|NN cancer|NN organ|NN function|NN loss|NN organ|NN ascite|NN obstruction|NN
+obstruction|NN site|NN cause|NN death|NN obstruction|NN Ovarian cancer|Disease obstruction|NN tumor|NN lumen|NN pseudo-obstruction|NN tumor|NN peristalsis|NN accumulation|NN ascite|NN drain|NN factor|NN
+number|NN factor|NN Ovarian cancer|Disease
+factor|NN chance|NN survival|NN disease|NN surgery|NN stage|NN resection|NN stage|NN brca2|NN mutation|NN age|NN year|NN type|NN histologic|NN grade|NN stage|NN co-occurrence|NN cancer|NN ca-125|NN level|NN
+evidence|NN brca1|NN factor|NN
+factor|NN chance|NN survival|NN rupture|NN capsule|NN surgery|NN age|NN year|NN type|NN stage|NN grade|NN cell|NN type|NN involvement|NN ca-125|NN level|NN presence|NN tumor|NN cell|NN blood|NN cyclooxygenase-2|NN
+expression|NN mrna|NN Ovarian cancer|Disease
+level|NN drosha|NN survival|NN level|NN hif1a|NN polymerase|NN survival|NN
+wt1|NN prognosis|NN cancer|NN prognosis|NN survival|NN rate|NN
+survival|NN rate|NN type|NN Ovarian cancer|Disease stage|NN grade|NN stage|NN survival|NN grade|NN survival|NN grade|NN grade|NN grade|NN
+survival|NN rate|NN type|NN Ovarian cancer|Disease cancer|NN society|NN cancer|NN institute|NN patient|NN
+Ovarian cancer|Disease stage|NN survival|NN rate|NN ia|NP ib|NP ic|NP iia|NP iib|NP tumor|NN stage|NN survival|NN rate|NN cell|NN tumor|NN ovary|NN stage|NN survival|NN rate|NN tube|NN carcinoma|NN stage|NN survival|NN rate|NN potential|NN stage|NN survival|NN rate|NN rate|NN
+Ovarian cancer|Disease treatment|NN
+period|NN stage|NN cancer|NN
+recurrence|NN abdomen|NN recurrence|NN disease|NN month|NN treatment|NN month|NN survival|NN
+interval|NN increase|NN recurrence|NN dysgerminoma|NN year|NN diagnosis|NN germ|NN cell|NN year|NN time|NN
+cell|NN prognosis|NN survival|NN rate|NN potential|NN relapse|NN surgery|NN treatment|NN choice|NN relapse|NN surgery|NN ovary|NN surgery|NN
+tumor|NN year|NN relapse|NN surgery|NN tumor|NN characteristics|NN
+case|NN ascite|NN chemotherapy|NN
+level|NN relapse|NN month|NN sex|NN tumor|NN treatment|NN
+gynecologic|NN cancer|NN epidemiology|NN death|NN Ovarian cancer|Disease inhabitant|NN data|NN
+number|NN case|NN country|NN country|NN people|NN Ovarian cancer|Disease
+increase|NN 113000|NN number|NN case|NN year|NN europe|NP women|NN europe|NP lithuania|NP latvia|NP ireland|NP slovakia|NP republic|NN incidence|NN Ovarian cancer|Disease portugal|NP cyprus|NP incidence|NN 2008|NN survival|NN rate|NN
+survival|NN rate|NN state|NN Ovarian cancer|Disease case|NN age|NN group|NN
+united|NP states|NP case|NN women|NN Ovarian cancer|Disease
+diagnose|NN tumor|NN
+2014|NN diagnose|NN Ovarian cancer|Disease lifetime|NN risk|NN Ovarian cancer|Disease cause|NN death|NN women|NN united|NP states|NP cancer|NN women|NN cause|NN cancer|NN death|NN decrease|NN cancer|NN women|NN
+risk|NN type|NN Ovarian cancer|Disease
+cell|NN sex|NN tumor|NN
+number|NN case|NN year|NN women|NN women|NN
+people|NN tumor|NN germ|NN cell|NN total|NN Ovarian cancer|Disease Ovarian cancer|Disease cancer|NN women|NN united|NP kingdom|NP
+cancer|NN uk|NP women|NN uk|NP incidence|NN rate|NN population|NN
+kingdom|NN diagnose|NN death|NN risk|NN uk|NP
+women|NN brca|NN allele|NN time|NN rest|NN population|NN risk|NN Ovarian cancer|Disease cause|NN death|NN 2008|NP Ovarian cancer|Disease cancer|NN women|NN uk|NP women|NN disease|NN cause|NN cancer|NN death|NN women|NN women|NN ethnicity|NN
+women|NN risk|NN sex|NN cord-stromal|NN women|NN women|NN
+incidence|NN rate|NN women|NN rate|NN Ovarian cancer|Disease women|NN age|NN cohort|NN age|NN cohort|NN Ovarian cancer|Disease menopause|NN age|NN
+percent|NN Ovarian cancer|Disease women|NN age|NN women|NN women|NN Ovarian cancer|Disease pregnancy|NN
+germ|NN cell|NN type|NN Ovarian cancer|Disease pregnancy|NN
+mass|NN examination|NN pregnancy|NN tumor|NN ultrasound|NN parent|NN level|NN alpha-fetoprotein|NN
+cyst|NN dysgerminoma|NN germ|NN cell|NN pregnancy|NN
+cell|NN pregnancy|NN surgery|NN case|NN chemotherapy|NN risk|NN birth|NN defect|NN
+sac|NN teratoma|NN chemotherapy|NN pregnancy|NN childbirth|NN animal|NN
+tumor|NN type|NN cystadenocarcinoma|NN cell|NN tumor|NN research|NN screen|NN
+screen|NN hysteroscopy|NP cell|NN sample|NN examination|NN
+pap|NN smear|NN cancer|NN uk|NP trial|NN Ovarian cancer|Disease screen|NN screen|NN technique|NN blood|NN test|NN ultrasound|NN study|NN screen|NN procedure|NN result|NN evidence|NN screen|NN live|NN result|NN trial|NN result|NN end|NN
+problem|NN screen|NN progression|NN disease|NN stage|NN stage|NN cancer|NN reach|NN stage|NN
+problem|NN screen|NN method|NN lesion|NN cancer|NN malignancy|NN surgery|NN method|NN ultrasonography|NN women|NN screen|NN method|NN
+women|NN promise|NN population|NN study|NN progress|NN screen|NN help|NN cancer|NN people|NN mutation|NN research|NN
+research|NN factor|NN Ovarian cancer|Disease
+research|NN survival|NN stage|NN cancer|NN research|NN benefit|NN surgery|NN Ovarian cancer|Disease
+area|NN research|NN immunotherapy|NN trial|NN antibody|NN inhibitor|NN growth|NN blood|NN vessel|NN cancer|NN result|NN combination|NN pazopanib|NN process|NN blood|NN vessel|NN growth|NN
+study|NN stage-iiy|NN cancer|NN response|NN rate|NN Ovarian cancer|Disease pharmacology|NN
+inhibitor|NN treatment|NN 2000|NN 2010|NN side|NN effect|NN drug|NN survival|NN benefit|NN
+kinase|NN inhibitor|NN interest|NN cause|NN
+drug|NN inhibitor|NN
+survival|NN mutation|NN
+platinum|NN chemotherapy|NN combination|NN result|NN pf|NN result|NN survival|NN
+disadvantage|NN treatment|NN side|NN effect|NN profile|NN blood|NN pressure|NN proteinuria|NN
+drug|NN bowel|NN disease|NN fistulae|NN bowel|NN perforation|NN
+antifolate|NN trial|NN folate|NN receptor|NN Ovarian cancer|Disease immunotherapy|NN positive|NN mutation|NN angiogenesis|NN inhibitor|NN Ovarian cancer|Disease treatment|NN
+combination|NN Ovarian cancer|Disease
+angiogenesis|NN inhibitor|NN
+antibody|NN farletuzumab|NN adjuvant|NN chemotherapy|NN
+type|NN immunotherapy|NN vaccine|NN
+alternative|NN chemotherapy|NN regimen|NN cycle|NN carboplatin|NN topic|NN research|NN germ|NN cell|NN malignancy|NN
+chemotherapy|NN investigation|NN 2000|NN 2010|NN potential|NN dose|NN agent|NN
+trial|NN cisplatin|NN survival|NN regimen|NN chemotherapy|NN agent|NN
+chemotherapy|NN regimen|NN cancer|NN investigation|NN cisplatin|NN
+inhibitor|NN promise|NN trial|NN people|NN gene|NN mutation|NN protein|NN pathway|NN
+Ovarian cancer|Disease general|NN study|NN
+survival|NN doxorubicin|NN treatment|NN
+responsiveness|NN inhibitor|NN inhibitor|NN brca-positive|NN Ovarian cancer|Disease
+inhibitor|NN Ovarian cancer|Disease
+kinase|NN inhibitor|NN drug|NN class|NN application|NN Ovarian cancer|Disease
+inhibitor|NN receptor|NN tyrosine|NN kinase|NN inhibitor|NN group|NN cediranib|NN increase|NN progression|NN survival|NN benefit|NN survival|NN research|NN platin|NN Ovarian cancer|Disease time|NN second|NN recurrence|NN month|NN survival|NN month|NN tyrosine|NN kinase|NN inhibitor|NN combination|NN paclitaxel|NN carboplatin|NN cancer|NN mutation|NN
+therapy|NN combination|NN cyclophosphamide|NN people|NN recurrence|NN
+inhibitor|NN area|NN research|NN
+hormone|NN therapy|NN topic|NN research|NN Ovarian cancer|Disease value|NN medication|NN breast|NN cancer|NN
+study|NN benefit|NN tamoxifen|NN number|NN people|NN Ovarian cancer|Disease
+growth|NN receptor|NN Ovarian cancer|Disease
+postmenopausal|NN people|NN cancer|NN
+research|NN side|NN effect|NN Ovarian cancer|Disease treatment|NN
+radiation|NN fibrosis|NN formation|NN scar|NN tissue|NN area|NN radiation|NN oxygen|NN therapy|NN research|NN area|NN
+treatment|NN Ovarian cancer|Disease people|NN difficulty|NN depression|NN
+research|NN psychotherapy|NN people|NN Ovarian cancer|Disease treatment|NN
+indication|NN disease|NN Ovarian cancer|Disease country|NN
+process|NN present|NN disease|NN trial|NN
+trial|NN organization|NN test|NN treatment|NN option|NN
+nih|NN research|NN trial|NN institute|NN health|NN trial|NN cancer|NN institute|NN search|NN trial|NN cancer|NN institute|NN institute|NN health|NN trial|NN canada|NP

@@ -1,0 +1,253 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN cystic_fibrosis|DS name|NN cystic_fibrosis|DS cystic_fibrosis|DS club|NN finger|NN person|NN cystic_fibrosis|DS genetics|NN symptom|NN difficulty|NN breath|NN mucus|NN growth|NN stool|NN onset|NN symptom|NN month|NN duration|NN life|NN cause|NN method|NN sweat|NN test|NN test|NN treatment|NN antibiotics|NN enzyme|NN replacement|NN lung|NN transplantation|NN life|NN expectancy|NN year|NN world|NN frequency|NN 
+cystic_fibrosis|DS cystic_fibrosis|DS disorder|NN lung|NN pancrea|NN liver|NN kidney|NN intestine|NN issue|NN difficulty|NN breath|NN cough|ST mucus|NN result|NN lung|NN infection|NN sign|NN symptom|NN sinus|NN infection|NN growth|NN stool|NN finger|NN toe|NN infertility|ST male|NN people|NN degree|NN symptom|NN 
+cystic_fibrosis|DS manner|NN presence|NN mutation|NN copy|NN gene|NN cystic_fibrosis|DS transmembrane|NN conductance|NN regulator|NN cystic_fibrosis|DS protein|NN copy|NN carrier|NN cystic_fibrosis|DS production|NN sweat|NN fluid|NN mucus|NN cystic_fibrosis|DS secretion|NN condition|NN sweat|NN test|NN test|NN screen|NN infant|NN birth|NN place|NN area|NN world|NN 
+cure|NN cystic_fibrosis|DS lung|NN infection|NN antibiotics|NN mouth|NN antibiotic|NN azithromycin|NN term|NN salbutamol|NN lung|NN transplantation|NN option|NN lung|NN function|NN enzyme|NN replacement|NN vitamin|NN supplementation|NN airway|NN clearance|NN technique|NN chest|NN physiotherapy|NN benefit|NN effect|NN life|NN expectancy|NN year|NN world|NN lung|NN problem|NN death|NN people|NN cystic_fibrosis|DS 
+cystic_fibrosis|DS people|NN ancestry|NN newborn|NN people|NN carrier|NN african|NN asian|NN disease|NN dorothy|NN andersen|NN description|NN condition|NN back|NN name|NN cystic_fibrosis|DS fibrosis|DS cyst|NN form|NN pancrea|NN cystic_fibrosis|DS media|NN video|NN summary|NN script|NN content|NN 
+sign|NN symptom|NN sinuse|NN gastrointestinal|NN cause|NN infection|NN diagnosis|NN monitor|NN management|NN antibiotics|NN medication|NN procedure|NN aspect|NN quality|NN life|NN epidemiology|NN evolution|NN history|NN research|NN gene|NN therapy|NN therapy|NN molecule|NN society|NN culture|NN reference|NN link|NN 
+sign|NN symptom|NN health|NN problem|NN cystic_fibrosis|DS 
+sign|NN symptom|NN cystic_fibrosis|DS skin|NN growth|NN weight_gain|ST food|NN intake|NN accumulation|NN mucus|NN chest|NN infection|NN cough|ST shortness|NN breath|NN male|NN absence|NN va|NN symptom|NN infancy|NN childhood|NN bowel|NN obstruction|NN ileus|NN baby|NN children|NN mucus|NN alveoly|NN cell|NN person|NN protein|NN mucus|NN production|NN growth|NN children|NN inability|NN weight|NN height|NN rate|NN peer|NN investigation|NN growth|NN 
+cause|NN growth|NN failure|NN lung|NN infection|NN absorption|NN nutrient|NN tract|NN demand|NN illness|NN 
+case|NN cystic_fibrosis|DS coagulation|NN disorder|NN 
+vitamin|NN breast|NN milk|NN formula|NN food|NN 
+absorption|NN cystic_fibrosis|DS patient|NN 
+children|NN vitamin|NN k|NN malabsorptive|NN disorder|NN amount|NN vitamin|NN placenta|NN child|NN reserve|NN ability|NN vitamin|NN source|NN birth|NN 
+factor|NN clote|NN factor|NN vitamin|NN level|NN vitamin|NN coagulation|NN problem|NN 
+child|NN bruise|ST coagulation|NN evaluation|NN disease|NN sinuse|NN infection|NN cystic_fibrosis|DS age|NN 
+pseudomona|NN brown|NN staphylococcus|NN aureus|NN burkholderia|NN cepacia|NN complex|NN 
+lung|NN disease|NN result|NN clog|NN airway|NN mucus|NN build-up|NN clearance|NN inflammation|NN infection|NN cause|NN injury|NN change|NN lung|NN variety|NN symptom|NN 
+stage|NN cough|ST phlegm|NN production|NN ability|NN exercise|NN 
+symptom|NN bacteria|NN mucus|NN control|NN cause|NN pneumonia|DS 
+stage|NN change|NN architecture|NN lung|NN pathology|NN airway|NN difficulty|NN breath|NN 
+sign|NN blood|NN blood|NN pressure|NN lung|NN hypertension|DS heart|NN failure|NN difficulty|NN oxygen|NN body|NN hypoxia|NN failure|NN support|NN breath|NN mask|NN airway|NN pressure|NN machine|NN ventilator|NN staphylococcus|NN aureus|NN pseudomona|NN aeruginosa|NN organism|NN lung|NN infection|NN cystic_fibrosis|DS patient|NN addition|NN infection|NN people|NN cystic_fibrosis|DS type|NN lung|NN disease|NN 
+response|NN fungus|NN cause|NN breath|NN problem|NN 
+infection|NN mycobacterium|NN avium|NN complex|NN group|NN bacteria|NN tuberculosis|DS lung|NN damage|NN antibiotics|NN people|NN cystic_fibrosis|DS pneumothorax|DS 
+sinuse|NN blockage|NN sinus|NN passage|NN infection|NN 
+pain|ST fever|ST drainage|NN headache|ST 
+individual|NN cystic_fibrosis|DS overgrowth|NN tissue|NN polyp|NN inflammation|NN sinus|NN infection|NN polyp|NN cystic_fibrosis|DS patient|NN polyp|NN passage|NN increase|NN breath|NN difficulty|NN 
+complication|NN cause|NN death|NN patient|NN cystic_fibrosis|DS center|NN united|NN states|NN gastrointestinal|NN 
+screen|NN cystic_fibrosis|DS infant|NN meconium|NN 
+intestine|NN cause|NN illness|NN 
+condition|NN ileus|NN newborn|NN cystic_fibrosis|DS 
+addition|NN protrusion|NN membrane|NN prolapse|NN children|NN cystic_fibrosis|DS volume|NN malnutrition|NN intraabdominal|NN pressure|NN 
+mucus|NN lung|NN counterpart|NN secretion|NN pancrea|NN organ|NN juice|NN break|NN food|NN 
+secretion|NN movement|NN enzyme|NN duodenum|NN result|NN damage|NN pancrea|NN inflammation|NN pancreatitis|NN duct|NN case|NN children|NN adolescent|NN cause|NN atrophy|DS gland|NN fibrosis|DS 
+lack|NN enzyme|NN difficulty|NN nutrient|NN excretion|NN fece|NN disorder|NN malabsorption|NN 
+malnutrition|NN growth|NN development|NN calorie|NN loss|NN 
+edema|ST individual|NN cystic_fibrosis|DS difficulty|NN vitamin|NN 
+addition|NN pancrea|NN problem|NN people|NN cystic_fibrosis|DS experience|NN heartburn|ST blockage|NN intussusception|NN constipation|ST individual|NN cystic_fibrosis|DS obstruction|NN syndrome|NN cause|NN blockage|NN 
+insufficiency|NN majority|NN patient|NN cystic_fibrosis|DS cystic_fibrosis|DS mutation|NN allele|NN 
+patient|NN cystic_fibrosis|DS mutation|NN cystic_fibrosis|DS activity|NN cystic_fibrosis|DS mutation|NN case|NN function|NN enzyme|NN supplementation|NN gi|NN complication|NN phenotype|NN general|NN individual|NN growth|NN development|NN pancreatitis|NN subset|NN individual|NN cystic_fibrosis|DS pain|ST complication|NN 
+secretion|NN liver|NN problem|NN patient|NN cystic_fibrosis|DS 
+bile|NN liver|NN aid|NN digestion|NN bile|NN duct|NN liver|NN damage|NN 
+time|NN scare|NN cirrhosis|NN 
+liver|NN blood|NN toxin|NN protein|NN blood|NN clote|NN liver|NN disease|NN cause|NN death|NN cystic_fibrosis|DS endocrine|NN 
+pancrea|NN islet|NN langerhan|NN insulin|NN hormone|NN blood|NN glucose|NN 
+damage|NN pancrea|NN loss|NN islet|NN cell|NN type|NN diabete|NN disease|NN cystic_fibrosis|DS diabete|NN share|NN characteristics|NN type|NN type|NN diabetics|NN nonpulmonary|NN complication|NN cystic_fibrosis|DS 
+vitamin|NN calcium|NN phosphate|NN regulation|NN 
+uptake|NN vitamin|NN diet|NN malabsorption|NN bone|NN disease|NN osteoporosis|DS bone|NN fracture|NN addition|NN people|NN cystic_fibrosis|DS finger|NN toe|NN effect|NN illness|NN oxygen|NN tissue|NN 
+men|NN women|NN 
+men|NN cystic_fibrosis|DS children|NN technique|NN cause|NN infertility|ST men|NN cystic_fibrosis|DS absence|NN va|NN teste|NN duct|NN penis|NN mechanism|NN sperm|NN sperm|NN sperm|NN motility|NN men|NN absence|NN va|NN evaluation|NN infertility|ST form|NN cystic_fibrosis|DS women|NN cystic_fibrosis|DS fertility|NN difficulty|NN mucus|NN malnutrition|NN 
+case|NN malnutrition|NN ovulation|NN lack|NN menstruation|NN cause|NN cystic_fibrosis|DS pattern|NN inheritance|NN 
+cystic_fibrosis|DS mutation|NN gene|NN cystic_fibrosis|DS transmembrane|NN conductance|NN regulator|NN cystic_fibrosis|DS 
+deletion|NN nucleotide|NN result|NN loss|NN amino|NN acid|NN phenylalanine|NN position|NN protein|NN 
+mutation|NN account|NN 6670|NN cystic_fibrosis|DS case|NN case|NN united|NN states|NN mutation|NN cystic_fibrosis|DS people|NN copy|NN allele|NN cystic_fibrosis|DS gene|NN cystic_fibrosis|DS 
+cystic_fibrosis|DS allele|NN cystic_fibrosis|DS protein|NN 
+cystic_fibrosis|DS disease|NN 
+cystic_fibrosis|DS gene|NN locus|NN chromosome|NN base|NN pair|NN protein|NN amino|NN acid|NN 
+location|NN base|NN pair|NN arm|NN chromosome|NN region|NN band|NN 
+cystic_fibrosis|DS type|NN gene|NN abc|NN gene|NN 
+product|NN gene|NN cystic_fibrosis|DS protein|NN chloride|NN ion|NN channel|NN sweat|NN juice|NN mucus|NN 
+protein|NN domain|NN protein|NN energy|NN form|NN atp|NN 
+domain|NN alpha|NN helice|NN protein|NN cell|NN membrane|NN 
+site|NN protein|NN activation|NN phosphorylation|NN protein|NN kinase|NN carboxyl|NN terminal|NN protein|NN cytoskeleton|NN domain|NN interaction|NN majority|NN cystic_fibrosis|DS lung|NN passage|NN cell|NN mucus|NN property|NN 
+addition|NN evidence|NN modifier|NN cystic_fibrosis|DS frequency|NN severity|NN disease|NN 
+example|NN lectin|NN immunity|NN microorganism|NN 
+allele|NN result|NN level|NN protein|NN risk|NN lung|NN disease|NN burden|NN infection|NN cystic_fibrosis|DS protein|NN channel|NN protein|NN flow|NN h2o|NN 
+ion|NN cell|NN lung|NN 
+cystic_fibrosis|DS protein|NN ion|NN flow|NN cell|NN 
+cystic_fibrosis|DS protein|NN ion|NN flow|NN cell|NN channel|NN 
+cause|NN cystic_fibrosis|DS buildup|NN mucus|NN lung|NN 
+mutation|NN cystic_fibrosis|DS gene|NN mutation|NN defect|NN cystic_fibrosis|DS protein|NN disease|NN 
+protein|NN defect|NN target|NN drug|NN function|NN 
+cystic_fibrosis|DS patient|NN protein|NN cell|NN membrane|NN degradation|NN 
+mutation|NN result|NN protein|NN production|NN 
+mutation|NN protein|NN energy|NN form|NN atp|NN chloride|NN iodide|NN thiocyanate|NN membrane|NN rate|NN 
+mutation|NN copy|NN cystic_fibrosis|DS protein|NN 
+protein|NN gene|NN membrane|NN cell|NN sweat|NN gland|NN lung|NN pancrea|NN gland|NN body|NN 
+protein|NN membrane|NN act|NN channel|NN part|NN cell|NN cytoplasm|NN fluid|NN 
+channel|NN movement|NN halogen|NN outside|NN cell|NN sweat|NN duct|NN movement|NN chloride|NN sweat|NN duct|NN cytoplasm|NN 
+cystic_fibrosis|DS protein|NN ion|NN sweat|NN duct|NN chloride|NN thiocyanate|NN sweat|NN gland|NN duct|NN skin|NN 
+defense|NN system|NN chloride|NN potential|NN cell|NN cation|NN cell|NN 
+sodium|NN cation|NN space|NN 
+chloride|NN sweat|NN duct|NN sodium|NN resorption|NN sodium|NN channel|NN combination|NN sodium|NN chloride|NN salt|NN amount|NN sweat|NN individual|NN cystic_fibrosis|DS 
+salt|NN basis|NN sweat|NN test|NN 
+damage|NN cystic_fibrosis|DS blockage|NN passage|NN organ|NN secretion|NN 
+blockage|NN infection|NN lung|NN damage|NN enzyme|NN pancrea|NN blockage|NN intestine|NN fece|NN 
+theory|NN defect|NN protein|NN function|NN cause|NN effect|NN 
+theory|NN ion|NN transport|NN dehydration|NN airway|NN epithelia|NN thicken|NN mucus|NN 
+airway|NN cell|NN cilia|NN cell|NN surface|NN mucus|NN layer|NN airway|NN surface|NN liquid|NN asl|NN 
+flow|NN ion|NN cell|NN layer|NN ion|NN channel|NN cystic_fibrosis|DS 
+cystic_fibrosis|DS chloride|NN ion|NN cell|NN asl|NN channel|NN sodium|NN ion|NN asl|NN epithelium|NN 
+cystic_fibrosis|DS channel|NN cystic_fibrosis|DS sodium|NN flow|NN asl|NN cell|NN 
+water|NN sodium|NN depth|NN asl|NN cilia|NN mucous|NN layer|NN cilia|NN environment|NN clearance|NN buildup|NN mucus|NN airway|NN accumulation|NN mucus|NN lung|NN bacteria|NN system|NN infection|NN 
+presence|NN cystic_fibrosis|DS protein|NN duct|NN sweat|NN gland|NN skin|NN cause|NN symptom|NN system|NN 
+lung|NN individual|NN cystic_fibrosis|DS bacteria|NN age|NN 
+bacteria|NN individual|NN cystic_fibrosis|DS mucus|NN airway|NN lung|NN 
+mucus|NN formation|NN microenvironment|NN biofilm|NN cell|NN antibiotics|NN 
+secretion|NN infection|NN lung|NN airway|NN infection|NN 
+time|NN type|NN bacteria|NN characteristics|NN change|NN individual|NN cystic_fibrosis|DS 
+stage|NN bacteria|NN s|NN aureus|NN h|NN lung|NN pseudomona|NN cepacia|NN 
+year|NN age|NN patient|NN cystic_fibrosis|DS p|NN cepacia|NN lung|NN bacteria|NN environment|NN resistance|NN antibiotics|NN 
+pseudomona|NN characteristics|NN formation|NN colony|NN pseudomona|NN people|NN cystic_fibrosis|DS evidence|NN interleukin|NN pathway|NN role|NN resistance|NN modulation|NN response|NN p|NN infection|NN cystic_fibrosis|DS interleukin|NN immunity|NN activity|NN airway|NN infection|NN side|NN control|NN p|NN burden|NN tissue|NN 
+infection|NN pass|NN individual|NN cystic_fibrosis|DS people|NN cystic_fibrosis|DS summer|NN cystic_fibrosis|DS camp|NN gather|NN hospital|NN patient|NN cystic_fibrosis|DS area|NN routine|NN equipment|NN patient|NN transmission|NN strain|NN bacteria|NN group|NN patient|NN 
+result|NN individual|NN cystic_fibrosis|DS healthcare|NN set|NN healthcare|NN provider|NN gown|NN glove|NN patient|NN cystic_fibrosis|DS spread|NN strain|NN 
+cystic_fibrosis|DS patient|NN airway|NN fungy|NN fumigatus|NN aspergillus|NN yeast|NN candida|NN fungy|NN flavus|NN aspergillus|NN cystic_fibrosis|DS secretion|NN exophiala|NN airway-colonizer|NN fungy|NN penicillium|NN fusispora|NN patient|NN context|NN cystic_fibrosis|DS mucociliary|NN clearance|NN cystic_fibrosis|DS disorder|NN 
+addition|NN therapy|NN antibiotics|NN use|NN treatment|NN growth|NN 
+relevance|NN airway|NN colonization|NN matter|NN debate|NN fungy|NN response|NN deterioration|NN lung|NN function|NN bronchopulmonary|NN disease|NN context|NN cystic_fibrosis|DS response|NN specy|NN diagnosis|NN location|NN cystic_fibrosis|DS gene|NN chromosome|NN 
+cystic_fibrosis|DS method|NN screen|NN sweat|NN test|NN test|NN united|NN states|NN case|NN birth|NN part|NN screen|NN program|NN 
+screen|NN blood|NN concentration|NN trypsinogen|NN infant|NN screen|NN sweat|NN test|NN cystic_fibrosis|DS diagnosis|NN 
+case|NN parent|NN diagnosis|NN infant|NN taste|NN level|NN individual|NN copy|NN cystic_fibrosis|DS gene|NN carrier|NN instance|NN individual|NN copy|NN cystic_fibrosis|DS gene|NN 
+positive|NN cystic_fibrosis|DS screen|NN newborn|NN state|NN country|NN cystic_fibrosis|DS birth|NN 
+individual|NN symptom|NN disease|NN gi|NN manifestation|NN evaluation|NN cystic_fibrosis|DS 
+form|NN test|NN sweat|NN test|NN 
+sweat|NN test|NN application|NN medication|NN sweate|NN 
+medication|NN skin|NN iontophoresis|NN electrode|NN medication|NN current|NN electrode|NN skin|NN 
+sweat|NN filter|NN paper|NN tube|NN amount|NN sodium|NN chloride|NN 
+people|NN cystic_fibrosis|DS amount|NN sweat|NN 
+contrast|NN people|NN cystic_fibrosis|DS saliva|NN mucus|NN et|NN al|NN 
+case|NN form|NN cystic_fibrosis|DS potential|NN difference|NN measurement|NN 
+cystic_fibrosis|DS identification|NN mutation|NN cystic_fibrosis|DS gene|NN 
+people|NN cystic_fibrosis|DS disease|NN registry|NN researcher|NN doctor|NN track|NN health|NN result|NN candidate|NN trial|NN 
+women|NN couple|NN pregnancy|NN cystic_fibrosis|DS gene|NN mutation|NN risk|NN child|NN cystic_fibrosis|DS 
+test|NN parent|NN risk|NN cystic_fibrosis|DS test|NN fetus|NN 
+college|NN obstetrician|NN people|NN think|NN carrier|NN 
+development|NN cystic_fibrosis|DS fetus|NN parent|NN copy|NN cystic_fibrosis|DS gene|NN cystic_fibrosis|DS test|NN test|NN parent|NN 
+test|NN parent|NN cystic_fibrosis|DS gene|NN mutation|NN carrier|NN parent|NN risk|NN children|NN cystic_fibrosis|DS 
+cystic_fibrosis|DS mutation|NN mutation|NN 
+test|NN mutation|NN 
+family|NN mutation|NN screen|NN mutation|NN 
+mutation|NN test|NN screen|NN child|NN cystic_fibrosis|DS 
+pregnancy|NN test|NN placenta|NN sample|NN fluid|NN fetus|NN amniocentesis|NN 
+sample|NN risk|NN death|NN amniocentesis|NN study|NN 
+carrier|NN couple|NN cystic_fibrosis|DS diagnosis|NN conception|NN nc|NN test|NN abortion|NN pregnancy|NN benefit|NN age|NN year|NN nc|NN test|NN abortion|NN benefit|NN management|NN 
+cure|NN cystic_fibrosis|DS treatment|NN method|NN 
+management|NN cystic_fibrosis|DS year|NN 
+infant|NN year|NN year|NN infant|NN adulthood|NN 
+advance|NN treatment|NN cystic_fibrosis|DS individual|NN cystic_fibrosis|DS life|NN condition|NN 
+cornerstone|NN management|NN treatment|NN airway|NN infection|NN encouragement|NN nutrition|NN lifestyle|NN 
+rehabilitation|NN management|NN cystic_fibrosis|DS person|NN life|NN organ|NN function|NN quality|NN life|NN 
+treatment|NN decline|NN organ|NN function|NN 
+variation|NN disease|NN symptom|NN treatment|NN specialist|NN center|NN 
+target|NN therapy|NN lung|NN tract|NN enzyme|NN organ|NN technology|NN support|NN 
+aspect|NN therapy|NN cystic_fibrosis|DS lung|NN damage|NN mucus|NN infection|NN goal|NN quality|NN life|NN 
+intravenous|NN antibiotics|NN infection|NN 
+device|NN inhalation|NN medication|NN mucus|NN 
+oxygen|NN therapy|NN home|NN oxygen|NN level|NN antibiotics|NN 
+people|NN cystic_fibrosis|DS antibiotics|NN time|NN infection|NN 
+antibiotics|NN pneumonia|DS decline|NN lung|NN function|NN result|NN sputum|ST analysis|NN person|NN response|NN 
+therapy|NN hospitalization|NN insertion|NN catheter|NN port-a-cath|NN 
+therapy|NN antibiotics|NN colistin|NN month|NN time|NN lung|NN function|NN growth|NN bacteria|NN antibiotic|NN therapy|NN lung|NN function|NN fight|NN infection|NN drawback|NN development|NN antibiotic|NN resistance|NN tinnitus|DS change|NN voice|NN levofloxacin|NN pseudomona|NN people|NN cystic_fibrosis|DS management|NN pseudomona|NN infection|NN antibiotics|NN antibiotics|NN eradication|NN year|NN 
+antibiotics|NN mouth|NN ciprofloxacin|NN infection|NN infection|NN antibiotics|NN hear|NN loss|NN damage|NN balance|NN system|NN ear|NN kidney|NN failure|NN use|NN side-effect|NN amount|NN antibiotics|NN blood|NN 
+factor|NN antibiotics|NN chronicity|NN disease|NN emergence|NN bacteria|NN exploration|NN strategy|NN antibiotic|NN adjuvant|NN therapy|NN medication|NN 
+medication|NN secretion|NN alfa|NN dornase|NN deoxyribonuclease|NN dna|NN sputum|ST viscosity|NN drug|NN chloride|NN channel|NN mucus|NN corticosteroid|NN therapy|NN evidence|NN treatment|NN harm|NN growth|NN vaccination|NN 2014|NN evidence|NN trial|NN influenza|DS vaccine|NN people|NN cystic_fibrosis|DS 
+medication|NN mouth|NN treatment|NN cystic_fibrosis|DS due|NN number|NN mutation|NN cystic_fibrosis|DS protein|NN enhancement|NN lung|NN function|NN 2014|NN year|NN market|NN list|NN price|NN year|NN united|NN states|NN july|NN 
+food|NN drug|NN administration|NN fda|NN combination|NN manufacturer|NN list|NN price|NN 292000|NN year|NN cystic_fibrosis|DS protein|NN position|NN cell|NN surface|NN people|NN mutation|NN 
+acid|NN bile|NN salt|NN cochrane|NN review|NN data|NN procedure|NN 
+technique|NN sputum|ST expectoration|NN 
+technique|NN chest|NN physiotherapy|NN therapist|NN individual|NN chest|NN hand|NN time|NN day|NN secretion|NN 
+effect|NN device|NN device|NN chest|NN wall|NN oscillation|NN ventilator|NN 
+method|NN ventilation|NN clearance|NN mode|NN device|NN cough|ST assistance|NN phase|NN vibration|NN phase|NN secretion|NN 
+home|NN use|NN 
+chest|NN physiotherapy|NN airway|NN clearance|NN 
+technique|NN pressure|NN physiotherapy|NN back|NN pressure|NN airway|NN expiration|NN 
+effect|NN device|NN mask|NN mouthpiece|NN resistance|NN expiration|NN phase|NN operate|NN principle|NN technique|NN increase|NN ga|NN pressure|NN mucus|NN collateral|NN ventilation|NN increase|NN capacity|NN collapse|NN airway|NN exhalation|NN 
+lung|NN disease|NN breath|NN support|NN 
+individual|NN cystic_fibrosis|DS mask|NN night|NN push|NN air|NN lung|NN 
+machine|NN airway|NN pressure|NN ventilator|NN help|NN blood|NN oxygen|NN level|NN sleep|NN 
+ventilator|NN therapy|NN sputum|ST clearance|NN type|NN therapy|NN impact|NN exacerbation|NN disease|NN progression|NN role|NN ventilation|NN therapy|NN exercise|NN capacity|NN people|NN cystic_fibrosis|DS illness|NN tube|NN throat|NN procedure|NN tracheostomy|NN breath|NN ventilator|NN 
+children|NN study|NN show|NN massage|NN therapy|NN people|NN family|NN quality|NN life|NN 
+lung|NN infection|NN removal|NN part|NN lung|NN 
+time|NN lung|NN function|NN treatment|NN option|NN people|NN cystic_fibrosis|DS pneumothorace|NN 
+lung|NN transplantation|NN individual|NN cystic_fibrosis|DS lung|NN function|NN exercise|NN tolerance|NN decline|NN 
+lung|NN transplantation|NN disease|NN individual|NN cystic_fibrosis|DS lung|NN lung|NN bacteria|NN lung|NN 
+liver|NN transplant|NN time|NN liver|NN disease|NN diabete|NN lung|NN transplantation|NN lung|NN function|NN point|NN assistance|NN device|NN survival|NN aspect|NN sperm|NN injection|NN fertility|NN men|NN cystic_fibrosis|DS 
+obstruction|NN surgery|NN adult|NN obstruction|NN syndrome|NN 
+treatment|NN insufficiency|NN replacement|NN enzyme|NN duodenum|NN nutrient|NN vitamin|NN fece|NN 
+dosage|NN form|NN enzyme|NN replacement|NN risk|NN effectiveness|NN treatment|NN 
+research|NN incidence|NN atherosclerosis|DS heart|NN disease|NN adult|NN cystic_fibrosis|DS 
+majority|NN people|NN cystic_fibrosis|DS atherosclerosis|DS heart|NN disease|NN 
+diabete|NN nonpulmonary|NN complication|NN cystic_fibrosis|DS 
+feature|NN type|NN type|NN diabete|NN entity|NN cystic_fibrosis|DS diabete|NN antidiabetic|NN drug|NN treatment|NN use|NN insulin|NN injection|NN insulin|NN pump|NN type|NN diabete|NN restriction|NN 
+evidence|NN people|NN cystic_fibrosis|DS osteoporosis|DS intake|NN vitamin|NN mouth|NN bone|NN mineral|NN density|NN people|NN cystic_fibrosis|DS effect|NN pain|ST symptom|NN issue|NN effect|NN bisphosphate|NN mouth|NN tract|NN 
+growth|NN insertion|NN feed|NN tube|NN food|NN energy|NN feed|NN administration|NN growth|NN hormone|NN 
+infection|NN course|NN antibiotics|NN 
+development|NN polyp|NN change|NN passage|NN airflow|NN nose|NN time|NN person|NN sense|NN smell|NN 
+surgery|NN obstruction|NN infection|NN 
+steroid|NN fluticasone|NN propionate|NN inflammation|NN 
+infertility|ST reproduction|NN technology|NN embryo|NN transfer|NN technique|NN 
+infertility|ST absence|NN va|NN sperm|NN extraction|NN sperm|NN cell|NN testicle|NN 
+sample|NN sperm|NN cell|NN fertilization|NN sperm|NN injection|NN party|NN reproduction|NN possibility|NN women|NN cystic_fibrosis|DS 
+antioxidant|NN outcome|NN 
+exercise|NN part|NN outpatient|NN care|NN people|NN cystic_fibrosis|DS exercise|NN exercise|NN capacity|NN lung|NN function|NN quality|NN life|NN quality|NN evidence|NN 
+prognosis|NN cystic_fibrosis|DS diagnosis|NN screen|NN treatment|NN access|NN health|NN care|NN 
+age|NN survival|NN children|NN cystic_fibrosis|DS united|NN states|NN month|NN survival|NN year|NN women|NN men|NN canada|NN median|NN survival|NN year|NN united|NN states|NN cystic_fibrosis|DS 2016|NN life|NN expectancy|NN specialty|NN clinics|NN 
+cystic_fibrosis|DS year|NN school|NN college|NN education|NN partner|NN quality|NN life|NN 
+cystic_fibrosis|DS illness|NN tract|NN malnutrition|NN infection|NN secretion|NN airway|NN lung|NN cause|NN inflammation|NN lung|NN infection|NN quality|NN life|NN qol|NN cystic_fibrosis|DS ability|NN task|NN chore|NN 
+schmitz|NN cystic_fibrosis|DS stress|NN individual|NN family|NN treatment|NN routine|NN effect|NN quality|NN life|NN colleague|NN outpatient|NN cystic_fibrosis|DS cystic_fibrosis|DS questionnaire-revise|NN domain|NN parent|NN outpatient|NN cystic_fibrosis|DS outlook|NN 
+way|NN qol|NN cystic_fibrosis|DS patient|NN 
+exercise|NN lung|NN function|NN 
+exercise|NN regimen|NN cystic_fibrosis|DS patient|NN routine|NN cure|NN cystic_fibrosis|DS medication|NN bronchodilator|NN steroid|NN antibiotics|NN purpose|NN loosen|NN mucus|NN airway|NN inflammation|NN fight|NN lung|NN infection|NN epidemiology|NN mutation|NN frequency|NN 
+cystic_fibrosis|DS disease|NN people|NN heritage|NN united|NN states|NN individual|NN cystic_fibrosis|DS month|NN age|NN 
+canada|NN people|NN cystic_fibrosis|DS people|NN descent|NN american|NN carrier|NN cystic_fibrosis|DS mutation|NN 
+cystic_fibrosis|DS group|NN hispanics|NN african|NN asian|NN cystic_fibrosis|DS gene|NN ireland|NN world|NN prevalence|NN cystic_fibrosis|DS 
+disease|NN cystic_fibrosis|DS disease|NN 
+nation|NN world|NN 
+exception|NN finland|NN people|NN cystic_fibrosis|DS mutation|NN world|NN health|NN organization|NN state|NN union|NN newborn|NN cystic_fibrosis|DS united|NN states|NN children|NN cystic_fibrosis|DS children|NN united|NN states|NN cystic_fibrosis|DS 
+contrast|NN children|NN american|NN rate|NN 
+cystic_fibrosis|DS male|NN female|NN 
+reason|NN data|NN male|NN life|NN expectancy|NN female|NN study|NN gender|NN gap|NN improvement|NN health|NN care|NN facility|NN study|NN ireland|NN link|NN hormone|NN outcome|NN cystic_fibrosis|DS 
+distribution|NN cystic_fibrosis|DS allele|NN population|NN 
+carrier|NN sweden|NN lithuanian|NN denmark|NN 
+carrier|NN finn|NN people|NN 
+finland|NN minority|NN allele|NN 
+cystic_fibrosis|DS family|NN pedigree|NN finland|NN evolution|NN 
+mutation|NN year|NN hypothese|NN mutation|NN population|NN 
+disease|NN carrier|NN disease|NN trade-off|NN advantage|NN 
+resistance|NN source|NN advantage|NN 
+cholera|DS discovery|NN cholera|DS toxin|NN host|NN cystic_fibrosis|DS protein|NN function|NN carrier|NN mutant|NN cystic_fibrosis|DS gene|NN resistance|NN cholera|DS cause|NN study|NN hypothesis|NN cystic_fibrosis|DS protein|NN entry|NN salmonella|NN cell|NN carrier|NN mutant|NN cystic_fibrosis|DS gene|NN fever|ST 
+case|NN level|NN cystic_fibrosis|DS outside|NN europe|NN place|NN cholera|DS fever|ST 
+prevalence|NN cystic_fibrosis|DS europe|NN development|NN cattle|NN domestication|NN 
+hypothesis|NN carrier|NN mutant|NN cystic_fibrosis|DS protection|NN diarrhea|ST lactose|NN intolerance|NN appearance|NN mutation|NN lactose|NN tolerance|NN tuberculosis|DS explanation|NN carrier|NN gene|NN resistance|NN tb|NN hypothesis|NN thesis|NN cystic_fibrosis|DS gene|NN mutation|NN carrier|NN action|NN enzyme|NN mycobacterium|NN tuberculosis|DS virulence|NN 
+m|NN tuberculosis|DS host|NN source|NN individual|NN lack|NN enzyme|NN present|NN virulence|NN carrier|NN cystic_fibrosis|DS mutation|NN resistance|NN tuberculosis|DS 
+history|NN dorothy|NN hansine|NN andersen|NN cystic_fibrosis|DS 
+list|NN people|NN cystic_fibrosis|DS 
+cystic_fibrosis|DS migration|NN people|NN gene|NN mutation|NN condition|NN nourishment|NN spectrum|NN cystic_fibrosis|DS aspect|NN cystic_fibrosis|DS 
+literature|NN germany|NN switzerland|NN century|NN sterben|NN woe|NN child|NN kiss|NN brow|NN association|NN salt|NN loss|NN cystic_fibrosis|DS illness|NN 
+century|NN carl|NN von|NN rokitansky|NN case|NN death|NN peritonitis|DS complication|NN ileus|NN cystic_fibrosis|DS 
+ileus|NN karl|NN guido|NN fanconi|NN connection|NN disease|NN cystic_fibrosis|DS pancrea|NN bronchiectasis|DS 
+dorothy|NN andersen|NN article|NN cystic_fibrosis|DS pancrea|NN relation|NN disease|NN study|NN journal|NN disease|NN children|NN 
+cystic_fibrosis|DS pancrea|NN lung|NN disease|NN cystic_fibrosis|DS cystic_fibrosis|DS disease|NN enzyme|NN replacement|NN children|NN 
+paul|NN di|NN santagnese|NN abnormality|NN sweat|NN electrolyte|NN sweat|NN test|NN decade|NN 
+linkage|NN cystic_fibrosis|DS marker|NN hans|NN locus|NN cystic_fibrosis|DS 
+mutation|NN cystic_fibrosis|DS 
+francis|NN collins|NN tsui|NN john|NN r|NN 
+research|NN mutation|NN cause|NN cystic_fibrosis|DS 
+mutation|NN cystic_fibrosis|DS gene|NN genetics|NN technique|NN gene|NN protein|NN marker|NN study|NN mutation|NN chromosome|NN 
+technique|NN gene|NN tsui|NN team|NN researcher|NN hospital|NN children|NN toronto|NN gene|NN cystic_fibrosis|DS 
+cystic_fibrosis|DS example|NN disorder|NN process|NN genetics|NN 
+research|NN gene|NN therapy|NN 
+gene|NN therapy|NN cure|NN cystic_fibrosis|DS 
+result|NN trial|NN success|NN 2016|NN gene|NN therapy|NN routine|NN therapy|NN study|NN benefit|NN 
+focus|NN cystic_fibrosis|DS gene|NN therapy|NN research|NN copy|NN cystic_fibrosis|DS gene|NN cell|NN 
+cystic_fibrosis|DS gene|NN epithelium|NN cell|NN production|NN cystic_fibrosis|DS protein|NN target|NN cell|NN reaction|NN inflammation|NN response|NN 
+lung|NN manifestation|NN cystic_fibrosis|DS amount|NN cystic_fibrosis|DS gene|NN expression|NN approache|NN gene|NN transfer|NN liposome|NN vector|NN animal|NN model|NN trial|NN 
+method|NN treatment|NN option|NN cell|NN vector|NN gene|NN treatment|NN effect|NN 
+problem|NN cdna|NN recombination|NN gene|NN treatment|NN repair|NN culture|NN cystic_fibrosis|DS crisprcas9|NN stem|NN cell|NN organoid|NN cystic_fibrosis|DS patient|NN therapy|NN 
+therapy|NN bacteria|NN people|NN cystic_fibrosis|DS molecule|NN 
+number|NN molecule|NN aim|NN mutation|NN cystic_fibrosis|DS gene|NN development|NN 
+approach|NN drug|NN stop|NN codon|NN cystic_fibrosis|DS protein|NN 
+cystic_fibrosis|DS result|NN stop|NN codon|NN dna|NN termination|NN protein|NN synthesis|NN protein|NN 
+drug|NN target|NN nonsense|NN mutation|NN amino|NN acid|NN glycine|NN position|NN stop|NN codon|NN 
+antibiotics|NN protein|NN synthesis|NN error-correction|NN 
+case|NN cell|NN stop|NN codon|NN amino|NN acid|NN expression|NN protein|NN gentamicin|NN lung|NN cell|NN cystic_fibrosis|DS patient|NN laboratory|NN cell|NN protein|NN drug|NN target|NN nonsense|NN mutation|NN phase|NN trial|NN october|NN society|NN culture|NN 
+rose|NN children|NN picture|NN book|NN diane|NN smith|NN life|NN death|NN bob|NN flanagan|NN documentary|NN film|NN documentary|NN film|NN breath|NN live|NN memoir|NN laura|NN rothenberg|NN breath|NN cystic_fibrosis|DS book|NN claire|NN feet|NN drama|NN film|NN cole|NN sprouse|NN haley|NN lu|NN richardson|NN salt|NN soul|NN life|NN memoir|NN mallory|NN smith|NN 

@@ -1,0 +1,149 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Meningitis|Disease meninge|NN system|NN mater|NN mater|NN mater|NN
+disease|NN neurology|NN symptom|NN fever|NN headache|NN neck|NN stiffness|NN complication|NN epilepsy|NN deficit|NN cause|NN method|NN puncture|NN diagnosis|NN brain|NN tumor|NN lyme|NP disease|NN seizure|NN syndrome|NN prevention|NN vaccination|NN antibiotics|NN steroid|NN frequency|NN death|NN
+Meningitis|Disease inflammation|NN membrane|NN brain|NN cord|NN meninge|NN symptom|NN fever|NN headache|NN neck|NN stiffness|NN symptom|NN confusion|NN consciousness|NN vomit|NN inability|NN light|NN noise|NN children|NN symptom|NN irritability|NN drowsiness|NN feed|NN rash|NN cause|NN Meningitis|Disease instance|NN Meningitis|Disease bacteria|NN rash|NN
+inflammation|NN infection|NN viruse|NN bacteria|NN microorganism|NN drug|NN Meningitis|Disease proximity|NN brain|NN cord|NN condition|NN emergency|NN lumbar|NN puncture|NN needle|NN canal|NN sample|NN fluid|NN csf|NP Meningitis|Disease
+form|NN Meningitis|Disease immunization|NN mump|NN vaccine|NN antibiotics|NN people|NN exposure|NN type|NN Meningitis|Disease treatment|NN Meningitis|Disease antibiotics|NN drug|NN complication|NN inflammation|NN Meningitis|Disease consequence|NN deafness|NN epilepsy|NN deficit|NN
+Meningitis|Disease people|NN deathsdown|NN death|NN treatment|NN risk|NN death|NN Meningitis|Disease outbreak|NN Meningitis|Disease december|NP june|NP year|NN area|NN africa|NP Meningitis|Disease belt|NN outbreak|NN area|NN world|NN word|NN Meningitis|Disease
+membrane|NN suffix|NN inflammation|NN content|NN
+sign|NN symptom|NN feature|NN complication|NN cause|NN mechanism|NN diagnosis|NN blood|NN test|NN image|NN puncture|NN prevention|NN vaccination|NN antibiotics|NN management|NN Meningitis|Disease Meningitis|Disease Meningitis|Disease epidemiology|NN history|NN reference|NN link|NN
+sign|NN symptom|NN feature|NN neck|NN stiffness|NN texas|NP Meningitis|Disease epidemic|NN
+adult|NN symptom|NN Meningitis|Disease headache|NN case|NN Meningitis|Disease neck|NN stiffness|NN inability|NN neck|NN neck|NN muscle|NN tone|NN stiffness|NN triad|NN sign|NN neck|NN stiffness|NN fever|NN status|NN feature|NN 4446|NN Meningitis|Disease case|NN sign|NN Meningitis|Disease sign|NN Meningitis|Disease intolerance|NN light|NN intolerance|NN noise|NN
+children|NN symptom|NN fontanelle|NN spot|NN top|NN head|NN infant|NN month|NN
+feature|NN Meningitis|Disease illness|NN children|NN leg|NN pain|NN extremity|NN skin|NN color|NN
+rigidity|NN Meningitis|Disease adult|NN sign|NN presence|NN kernig|NN sign|NN brudzy|NN
+sky|NN sign|NN
+sign|NN person|NN hip|NN knee|NN degree|NN
+person|NN kernig|NN sign|NN pain|NN limit|NN extension|NN knee|NN
+brudzinskis|NN sign|NN neck|NN flexion|NN knee|NN hip|NN
+sign|NN sign|NN screen|NN Meningitis|Disease sensitivity|NN test|NN specificity|NN Meningitis|Disease sign|NN disease|NN test|NN jolt|NN accentuation|NN Meningitis|Disease report|NN fever|NN headache|NN
+person|NN head|NN headache|NN Meningitis|Disease
+problem|NN symptom|NN cause|NN
+Meningitis|Disease bacterium|NN meningitidis|NN Meningitis|Disease Meningitis|Disease cause|NN petechial|NN rash|NN symptom|NN rash|NN purple|NN spot|NN trunk|NN extremity|NN mucous|NN membrane|NN palm|NN hand|NN sole|NN feet|NN
+rash|NN redness|NN finger|NN glass|NN tumbler|NN
+rash|NN Meningitis|Disease disease|NN Meningitis|Disease due|NN bacteria|NN clue|NN cause|NN Meningitis|Disease skin|NN sign|NN hand|NN foot|NN mouth|NN disease|NN herpe|NN form|NN Meningitis|Disease complication|NN charlotte|NP cleverley-bisman|NP meningococcal|NN Meningitis|Disease child|NN case|NN rash|NN gangrene|NN amputation|NN limb|NN
+disease|NN poster|NN child|NN Meningitis|Disease vaccination|NN campaign|NN new|NP zealand|NP
+problem|NN stage|NN illness|NN
+treatment|NN illness|NN prognosis|NN
+infection|NN sepsis|NN response|NN syndrome|NN blood|NN pressure|NN heart|NN rate|NN temperature|NN breath|NN
+blood|NN pressure|NN stage|NN meningococcal|NN Meningitis|Disease blood|NN supply|NN organ|NN coagulation|NN activation|NN blood|NN clote|NN blood|NN flow|NN organ|NN risk|NN
+gangrene|NP limb|NN disease|NN infection|NN hemorrhage|NN gland|NN syndrome|NN
+brain|NN tissue|NN pressure|NN skull|NN brain|NN skull|NN base|NN
+level|NN consciousness|NN loss|NN light|NN reflex|NN posture|NN inflammation|NN brain|NN tissue|NN flow|NN csf|NP brain|NN seizure|NN reason|NN children|NN seizure|NN stage|NN Meningitis|Disease case|NN cause|NN pressure|NN area|NN inflammation|NN brain|NN tissue|NN seizure|NN seizure|NN limb|NN part|NN body|NN seizure|NN seizure|NN medication|NN outcome|NN
+inflammation|NP meninge|NN abnormality|NN nerve|NN group|NN nerve|NN brain|NN stem|NN supply|NN head|NN neck|NN area|NN control|NN function|NN eye|NN movement|NN muscle|NN symptom|NN hear|NN loss|NN episode|NN Meningitis|Disease inflammation|NN brain|NN encephalitis|NN blood|NN vessel|NN formation|NN blood|NN clot|NN vein|NN thrombosis|NN weakness|NN loss|NN sensation|NN movement|NN function|NN part|NN body|NN area|NN brain|NN cause|NN
+Meningitis|Disease infection|NN microorganism|NN
+infection|NN viruse|NN bacteria|NN fungy|NN protozoa|NN cause|NN non-infectious|NN term|NN Meningitis|Disease case|NN Meningitis|Disease infection|NN
+type|NN Meningitis|Disease viruse|NN infection|NN bacteria|NN meninge|NN pathogen|NN space|NN meninge|NN
+infection|NN heart|NN valve|NN cluster|NN bacteria|NN bloodstream|NN Meningitis|Disease
+Meningitis|Disease infection|NN spirochete|NN group|NN bacteria|NN treponema|NN cause|NN syphilis|NN borrelia|NN lyme|NP disease|NN
+Meningitis|Disease malaria|NN malaria|NN brain|NN amoebic|NN Meningitis|Disease Meningitis|Disease due|NN infection|NN fowlery|NN source|NN infection|NN bacteria|NN Meningitis|Disease
+type|NN bacteria|NN Meningitis|Disease individual|NN age|NN group|NN
+baby|NN newborn|NN month|NN cause|NN group|NN b|NP streptococci|NP subtype|NN vagina|NN cause|NN week|NN life|NN bacteria|NN tract|NN escherichia|NP coly|NN antigen|NN
+monocytogene|NN ivb|NN mother|NN birth|NN Meningitis|Disease children|NN meningitidis|NN pneumoniae|NN type|NN country|NN vaccination|NN adult|NN meningitidis|NN streptococcus|NN cause|NN Meningitis|Disease case|NN
+risk|NN infection|NN monocytogene|NN person|NN year|NN introduction|NN vaccine|NN rate|NN Meningitis|Disease children|NN adult|NN
+skull|NN trauma|NN cavity|NN bacteria|NN space|NN
+device|NN brain|NN shunt|NN drain|NN reservoir|NN risk|NN Meningitis|Disease
+case|NN person|NN pseudomona|NN gram-negative|NN bacteria|NN pathogen|NN Meningitis|Disease people|NN system|NN infection|NN head|NN neck|NN area|NN otitis|NN media|NN mastoiditis|NN Meningitis|Disease proportion|NN people|NN recipient|NN implant|NN hear|NN loss|NN risk|NN Meningitis|Disease
+Meningitis|Disease Meningitis|Disease mycobacterium|NN tuberculosis|NN people|NN country|NN tuberculosis|NN person|NN problem|NN aid|NN
+Meningitis|Disease defect|NN disorder|NN system|NN defect|NN continuity|NN environment|NN system|NN
+cause|NN Meningitis|Disease skull|NN fracture|NN fracture|NN base|NN skull|NN sinuse|NN pyramid|NN Meningitis|Disease case|NN abnormality|NN deficiency|NN complement|NN deficiency|NN meningococcal|NN Meningitis|Disease infection|NN area|NN
+viruse|NN cause|NN Meningitis|Disease herpe|NN simplex|NN virus|NN type|NN sore|NN type|NN virus|NN chickenpox|NN shingle|NN mump|NN virus|NN hiv|NP lcmv|NP mosquito|NN insect|NN virus|NN Meningitis|Disease form|NN herpe|NN Meningitis|Disease herpe|NN simplex|NN virus|NN type|NN
+number|NN risk|NN factor|NN Meningitis|Disease use|NN organ|NN transplantation|NN loss|NN immunity|NN age|NN system|NN medication|NN contamination|NN onset|NN headache|NN fever|NN present|NN couple|NN week|NN diagnosis|NN Meningitis|Disease Meningitis|Disease neoforman|NN africa|NP Meningitis|Disease cause|NN Meningitis|Disease study|NN death|NN africa|NP pathogen|NN Meningitis|Disease immitis|NN blastomyce|NN candida|NP specy|NN
+cause|NN predominance|NN eosinophil|NN type|NN blood|NN cell|NN csf|NP
+parasite|NN spinigerum|NN condition|NN baylisascariasis|NN number|NN infection|NN condition|NN
+Meningitis|Disease result|NN cause|NN spread|NN cancer|NN Meningitis|Disease drug|NN drug|NN antibiotics|NN immunoglobulin|NN condition|NN sarcoidosis|NN tissue|NN disorder|NN lupus|NN form|NN condition|NN blood|NN vessel|NN wall|NN disease|NN cyst|NN cyst|NN Meningitis|Disease irritant|NN matter|NN space|NN migraine|NN Meningitis|Disease diagnosis|NN cause|NN mechanism|NN
+meninge|NN membrane|NN fluid|NN brain|NN cord|NN system|NN
+mater|NN membrane|NN surface|NN brain|NN contour|NN
+mater|NN appearance|NN sac|NN top|NN mater|NN
+space|NN arachnoid|NN mater|NN membrane|NN fluid|NN
+membrane|NN mater|NN membrane|NN membrane|NN skull|NN
+Meningitis|Disease bacteria|NN meninge|NN route|NN bloodstream|NN contact|NN meninge|NN cavity|NN skin|NN
+case|NN Meningitis|Disease invasion|NN bloodstream|NN organism|NN mucous|NN surface|NN cavity|NN
+turn|NN infection|NN barrier|NN mucous|NN surface|NN
+bacteria|NN bloodstream|NN space|NN place|NN barrier|NN plexus|NN
+Meningitis|Disease newborn|NN bloodstream|NN infection|NN group|NN phenomenon|NN adult|NN contamination|NN fluid|NN device|NN skull|NN fracture|NN infection|NN nasopharynx|NN sinuse|NN tract|NN space|NN defect|NN mater|NN
+inflammation|NN space|NN Meningitis|Disease result|NN infection|NN response|NN system|NN entry|NN bacteria|NN system|NN
+component|NN cell|NN membrane|NN cell|NN brain|NN amount|NN cytokine|NN mediator|NN cell|NN tissue|NN response|NN
+barrier|NN edema|NN swell|NN brain|NN fluid|NN leakage|NN blood|NN vessel|NN
+number|NN blood|NN cell|NN csf|NP cause|NN inflammation|NN meninge|NN due|NN fluid|NN cell|NN
+addition|NN wall|NN blood|NN vessel|NN vasculitis|NN blood|NN flow|NN type|NN edema|NN
+form|NN edema|NN lead|NN pressure|NN blood|NN pressure|NN infection|NN blood|NN brain|NN brain|NN cell|NN oxygen|NN apoptosis|NN cell|NN death|NN
+administration|NN antibiotics|NN process|NN amount|NN cell|NN membrane|NN product|NN destruction|NN bacteria|NN
+treatment|NN use|NN corticosteroid|NN system|NN response|NN phenomenon|NN diagnosis|NN csf|NP find|NN form|NN Meningitis|Disease type|NN Meningitis|Disease protein|NN cell|NN pmn|NN 300mm|NN 300mm|NN 300mm|NN 300mm|NN blood|NN test|NN image|NN
+Meningitis|Disease blood|NN test|NN marker|NN inflammation|NN
+protein|NN blood|NN count|NN blood|NN culture|NN
+test|NN rule|NN Meningitis|Disease analysis|NN fluid|NN lumbar|NN puncture|NN lp|NN tap|NN lumbar|NN puncture|NN mass|NN brain|NN tumor|NN abscess|NN pressure|NN icp|NP brain|NN
+risk|NN mass|NN icp|NP head|NN injury|NN system|NN problem|NN sign|NN evidence|NN examination|NN icp|NP ct|NN scan|NN lumbar|NN puncture|NN adult|NN case|NN ct|NN mry|NN lp|NN lp|NN guideline|NN antibiotics|NN delay|NN treatment|NN minute|NN ct|NN scan|NN stage|NN complication|NN Meningitis|Disease
+form|NN Meningitis|Disease monitor|NN blood|NN electrolyte|NN example|NN hyponatremia|NN Meningitis|Disease cause|NN dehydration|NN secretion|NN hormone|NN fluid|NN administration|NN puncture|NN gram|NN stain|NN meningococcy|NN culture|NN gram|NN bacteria|NN pair|NN
+lumbar|NN puncture|NN person|NN side|NN anesthetic|NN needle|NN sac|NN sac|NN cord|NN fluid|NN csf|NP
+open|NN pressure|NN csf|NP manometer|NN
+pressure|NN cm|NN water|NN cmh2o|NN Meningitis|Disease pressure|NN Meningitis|Disease pressure|NN appearance|NN fluid|NN indication|NN nature|NN infection|NN csf|NP level|NN protein|NN white|NN blood|NN cell|NN bacteria|NN Meningitis|Disease
+csf|NP sample|NN presence|NN type|NN blood|NN cell|NN blood|NN cell|NN protein|NN content|NN glucose|NN level|NN gram|NN stain|NN sample|NN bacteria|NN Meningitis|Disease absence|NN bacteria|NN Meningitis|Disease case|NN figure|NN antibiotics|NN sample|NN
+gram|NN stain|NN infection|NN
+culture|NN sample|NN organism|NN 7085|NN case|NN result|NN hour|NN type|NN blood|NN cell|NN table|NN Meningitis|Disease begine|NN disease|NN indicator|NN
+eosinophil|NN etiology|NN
+concentration|NN glucose|NN csf|NP blood|NN
+Meningitis|Disease csf|NP glucose|NN level|NN blood|NN glucose|NN csf|NP glucose|NN serum|NN glucose|NN ratio|NN
+Meningitis|Disease glucose|NN level|NN csf|NP ratio|NN level|NN lactate|NN csf|NP likelihood|NN Meningitis|Disease blood|NN cell|NN count|NN lactate|NN level|NN mgdl|NN person|NN antibiotics|NN Meningitis|Disease
+test|NN type|NN Meningitis|Disease
+latex|NN test|NN Meningitis|Disease pneumoniae|NN haemophilus|NN escherichia|NP coly|NN group|NN routine|NN use|NN change|NN treatment|NN test|NN
+lysate|NN test|NN Meningitis|Disease bacteria|NN use|NN test|NN chain|NN reaction|NN pcr|NP technique|NN trace|NN dna|NN order|NN presence|NN dna|NN fluid|NN test|NN trace|NN amount|NN agent|NN dna|NN
+bacteria|NN Meningitis|Disease cause|NN Meningitis|Disease herpe|NN simplex|NN virus|NN mump|NN identification|NN antibody|NN viruse|NN Meningitis|Disease Meningitis|Disease sample|NN stain|NN sensitivity|NN tuberculosis|NN culture|NN time|NN process|NN pcr|NP diagnosis|NN Meningitis|Disease cost|NN india|NP ink|NN stain|NN csf|NP antigen|NN blood|NN csf|NP
+difficulty|NN Meningitis|Disease Meningitis|Disease symptom|NN antibiotics|NN sinusitis|NN
+csf|NP find|NN Meningitis|Disease antibiotic|NN treatment|NN evidence|NN cause|NN enterovirus|NN pcr|NP postmortem|NP Meningitis|Disease autopsy|NN case|NN person|NN Meningitis|Disease mater|NN neutrophil|NN granulocyte|NN inset|NN magnification|NN
+Meningitis|Disease death|NN
+find|NN post|NN inflammation|NN mater|NN arachnoid|NN layer|NN meninge|NN
+granulocyte|NN fluid|NN base|NN brain|NN nerve|NN cord|NN pus|NN vessel|NN prevention|NN
+cause|NN Meningitis|Disease protection|NN term|NN vaccination|NN term|NN antibiotics|NN
+Meningitis|Disease cold|NN flu|NN droplet|NN secretion|NN contact|NN sneez|NN cough|NN air|NN person|NN Meningitis|Disease Meningitis|Disease enteroviruse|NN contamination|NN risk|NN infection|NN behavior|NN transmission|NN
+country|NN immunization|NN type|NN routine|NN childhood|NN vaccination|NN scheme|NN
+pathogen|NN cause|NN Meningitis|Disease children|NN country|NN
+country|NN disease|NN burden|NN vaccine|NN immunization|NN mump|NN fall|NN number|NN case|NN mump|NN Meningitis|Disease vaccination|NN case|NN mump|NN
+vaccine|NN group|NN country|NN vaccine|NN group|NN c|NP case|NN pathogen|NN vaccine|NN vaccine|NN exception|NN b|NP immunization|NN vaccine|NN visa|NN requirement|NN part|NN development|NN vaccine|NN group|NN b|NP meningococci|NP surface|NN protein|NN vaccine|NN response|NN system|NN cross-react|NN protein|NN country|NN new|NP zealand|NP cuba|NP norway|NP chile|NP vaccine|NN strain|NN group|NN result|NN immunization|NN schedule|NN vaccine|NN 2014|NN range|NN group|NN meningococcy|NN strain|NN africa|NP approach|NN prevention|NN control|NN epidemics|NN detection|NN disease|NN emergency|NN mass|NN vaccination|NN population|NN ac|NN acw135|NN vaccine|NN introduction|NN group|NN vaccine|NN effectiveness|NN people|NN model|NN product|NN development|NN partnership|NN set|NN
+routine|NN vaccination|NN pneumoniae|NN conjugate|NN vaccine|NN serotype|NN pathogen|NN incidence|NN pneumococcal|NN Meningitis|Disease pneumococcal|NN vaccine|NN strain|NN group|NN splenectomy|NN removal|NN spleen|NN response|NN recipient|NN children|NN childhood|NN vaccination|NN bacillus|NN rate|NN tuberculous|NN Meningitis|Disease effectiveness|NN adulthood|NN search|NN vaccine|NN antibiotics|NN
+antibiotic|NN prophylaxis|NN method|NN prevention|NN Meningitis|Disease
+case|NN Meningitis|Disease treatment|NN contact|NN antibiotics|NN ciprofloxacin|NN risk|NN condition|NN infection|NN resistance|NN rifampicin|NP use|NN agent|NN antibiotics|NN attempt|NN Meningitis|Disease skull|NN fracture|NN evidence|NN csf|NP leak|NN management|NN
+Meningitis|Disease mortality|NN rate|NN delay|NN treatment|NN outcome|NN treatment|NN antibiotics|NN test|NN disease|NN care|NN guideline|NN benzylpenicillin|NN transfer|NN hospital|NN fluid|NN hypotension|NN blood|NN pressure|NN shock|NN fluid|NN Meningitis|Disease number|NN complication|NN review|NN complication|NN person|NN care|NN unit|NN
+ventilation|NN level|NN consciousness|NN evidence|NN failure|NN
+sign|NN pressure|NN measure|NN pressure|NN optimization|NN perfusion|NN pressure|NN treatment|NN pressure|NN medication|NN flow|NN csf|NP insertion|NN drainage|NN device|NN shunt|NN therapy|NN glycerol|NN effect|NN mortality|NN hear|NN problem|NN Meningitis|Disease antibiotics|NN formula|NN cefalosporin|NN antibiotics|NN treatment|NN Meningitis|Disease
+antibiotics|NN treatment|NN diagnosis|NN result|NN lumbar|NN puncture|NN csf|NP analysis|NN
+choice|NN treatment|NN kind|NN bacteria|NN cause|NN Meningitis|Disease place|NN population|NN
+instance|NN united|NP kingdom|NP treatment|NN cefalosporin|NN resistance|NN cefalosporin|NN addition|NN vancomycin|NN treatment|NN combination|NN
+therapy|NN basis|NN person|NN age|NN infection|NN head|NN injury|NN person|NN shunt|NN children|NN year|NN age|NN addition|NN ampicillin|NN monocytogene|NN gram|NN stain|NN result|NN type|NN cause|NN antibiotics|NN group|NN pathogen|NN result|NN csf|NP culture|NN 2448|NN hour|NN
+therapy|NN antibiotic|NN therapy|NN organism|NN sensitivity|NN antibiotics|NN antibiotic|NN Meningitis|Disease bacterium|NN meninge|NN quantity|NN antibiotics|NN penetrance|NN use|NN Meningitis|Disease
+antibiotics|NN Meningitis|Disease people|NN Meningitis|Disease trial|NN
+knowledge|NN laboratory|NN study|NN rabbit|NN Meningitis|Disease treatment|NN antibiotics|NN
+tuberculosis|NN lung|NN month|NN Meningitis|Disease year|NN
+treatment|NN corticosteroid|NN dexamethasone|NN benefit|NN reduction|NN hear|NN loss|NN term|NN outcome|NN adolescent|NN adult|NN country|NN rate|NN hiv|NP research|NN rate|NN death|NN research|NN tuberculosis|NN Meningitis|Disease hiv|NP
+guideline|NN commencement|NN dexamethasone|NN corticosteroid|NN dose|NN antibiotics|NN day|NN benefit|NN treatment|NN pneumococcal|NN Meningitis|Disease guideline|NN dexamethasone|NN cause|NN Meningitis|Disease mechanism|NN suppression|NN inflammation|NN
+treatment|NN corticosteroid|NN role|NN children|NN adult|NN
+benefit|NN corticosteroid|NN adult|NN children|NN country|NN use|NN children|NN country|NN evidence|NN reason|NN discrepancy|NN country|NN benefit|NN corticosteroid|NN dose|NN antibiotics|NN case|NN h|NP influenzae|NP Meningitis|Disease incidence|NN introduction|NN vaccine|NN
+corticosteroid|NN treatment|NN pediatric|NN Meningitis|Disease cause|NN h|NP dose|NN antibiotics|NN use|NN Meningitis|Disease
+Meningitis|Disease therapy|NN viruse|NN Meningitis|Disease treatment|NN
+Meningitis|Disease course|NN Meningitis|Disease
+herpes|NP simplex|NN virus|NN virus|NN treatment|NN drug|NN trial|NN treatment|NN case|NN Meningitis|Disease home|NN measure|NN fluid|NN analgesics|NN Meningitis|Disease
+Meningitis|Disease Meningitis|Disease course|NN dose|NN b|NP pressure|NN Meningitis|Disease lumbar|NN puncture|NN pressure|NN lumbar|NN drain|NN life|NN year|NN Meningitis|Disease inhabitant|NN data|NN 2550|NN 100200|NN
+Meningitis|Disease contrast|NN
+treatment|NN mortality|NN risk|NN death|NN Meningitis|Disease age|NN person|NN cause|NN
+episode|NN Meningitis|Disease
+risk|NN children|NN mortality|NN adult|NN
+risk|NN death|NN factor|NN age|NN pathogen|NN time|NN pathogen|NN fluid|NN severity|NN illness|NN level|NN consciousness|NN count|NN blood|NN cell|NN csf|NP Meningitis|Disease h|NP prognosis|NN case|NN group|NN b|NP streptococci|NP s|NP pneumoniae|NP adult|NN Meningitis|Disease mortality|NN disease|NN
+children|NN disability|NN damage|NN system|NN hear|NN loss|NN epilepsy|NN learn|NN behavioral|NN difficulty|NN intelligence|NN survivor|NN hear|NN loss|NN adult|NN case|NN disability|NN
+problem|NN deafness|NN impairment|NN
+Meningitis|Disease children|NN risk|NN death|NN treatment|NN proportion|NN children|NN problem|NN
+case|NN problem|NN epidemiology|NN demography|NN Meningitis|Disease
+Meningitis|Disease belt|NN epidemic|NN zone|NN case|NN death|NN Meningitis|Disease person|NN 2012|NP 2131|NN 309734|NN
+Meningitis|Disease disease|NN country|NN incidence|NN rate|NN Meningitis|Disease death|NN death|NN Meningitis|Disease death|NN Meningitis|Disease
+Meningitis|Disease people|NN country|NN
+study|NN Meningitis|Disease summer|NN
+brazil|NP rate|NN Meningitis|Disease africa|NP epidemics|NN Meningitis|Disease century|NN Meningitis|Disease belt|NN
+season|NN december|NP june|NP epidemic|NN wave|NN year|NN season|NN rate|NN case|NN area|NN care|NN
+case|NN meningococcy|NN epidemic|NN history|NN region|NN 19961997|NN case|NN death|NN
+disease|NN epidemics|NN area|NN people|NN time|NN army|NN barrack|NN mobilization|NN college|NN campuse|NN hajj|NN pilgrimage|NN pattern|NN epidemic|NN cycle|NN africa|NP factor|NN development|NN epidemics|NN Meningitis|Disease belt|NN
+condition|NN susceptibility|NN population|NN condition|NN travel|NN population|NN displacement|NN condition|NN overcrowd|NN live|NN condition|NN condition|NN drought|NN dust|NN storm|NN infection|NN infection|NN
+difference|NN distribution|NN cause|NN Meningitis|Disease
+instance|NN n|NP group|NN cause|NN disease|NN episode|NN europe|NP group|NN asia|NP africa|NP epidemics|NN Meningitis|Disease belt|NN account|NN meningococcal|NN Meningitis|Disease case|NN history|NN
+hippocrate|NN existence|NN Meningitis|Disease physician|NN description|NN tuberculous|NN Meningitis|Disease brain|NN edinburgh|NP physician|NN sir|NP robert|NP report|NN link|NN tuberculosis|NN pathogen|NN century|NN
+epidemic|NN Meningitis|Disease phenomenon|NN outbreak|NN geneva|NP epidemics|NN europe|NP united|NP states|NP report|NN epidemic|NN africa|NP
+epidemics|NN century|NN start|NN epidemic|NN nigeria|NP ghana|NP
+report|NN infection|NN Meningitis|Disease austrian|NN anton|NP mortality|NN Meningitis|Disease report|NN
+antiserum|NN horse|NN scientist|NN simon|NP flexner|NP mortality|NN disease|NN penicillin|NN Meningitis|Disease introduction|NN century|NN vaccine|NN fall|NN case|NN Meningitis|Disease pathogen|NN evidence|NN treatment|NN steroid|NN prognosis|NN Meningitis|Disease world|NN Meningitis|Disease day|NN april|NP year|NN

@@ -1,0 +1,106 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN liver|NN cancer|DS name|NN liver|NN cancer|DS liver|NN cancer|DS liver|NN cancer|DS ct|NN ct|NN scan|NN liver|NN oncology|NN symptom|NN pain|ST side|NN rib|NN cage|NN swell|NN abdomen|NN skin|NN weight_loss|ST weakness|ST onset|NN year|NN cause|NN hepatitis|DS hepatitis|DS alcohol|NN liver|NN disease|NN liver|NN fluke|NN method|NN blood|NN test|NN image|NN tissue|NN biopsy|NN prevention|NN hepatitis|DS hepatitis|DS treatment|NN surgery|NN therapy|NN radiation|NN therapy|NN survival|NN rate|NN frequency|NN point|NN time|NN death|NN 
+liver|NN cancer|DS liver|NN cancer|DS liver|NN cancer|DS cancer|DS liver|NN cancer|DS liver|NN liver|NN metastasis|NN liver|NN symptom|NN liver|NN cancer|DS lump|NN pain|ST side|NN rib|NN cage|NN swell|NN abdomen|NN skin|NN weight_loss|ST weakness|ST 
+cause|NN liver|NN cancer|DS cirrhosis|NN hepatitis|DS hepatitis|DS alcohol|NN cause|NN liver|NN disease|NN liver|NN fluke|NN type|NN carcinoma|NN case|NN cholangiocarcinoma|DS type|NN neoplasm|NN intraductal|NN neoplasm|NN diagnosis|NN blood|NN test|NN image|NN confirmation|NN tissue|NN biopsy|NN 
+effort|NN immunization|NN hepatitis|DS hepatitis|DS screen|NN liver|NN disease|NN treatment|NN option|NN surgery|NN therapy|NN radiation|NN therapy|NN case|NN ablation|NN therapy|NN therapy|NN liver|NN transplantation|NN lump|NN liver|NN 
+liver|NN cancer|DS cancer|DS cause|NN death|NN cancer|DS people|NN death|NN 263000|NN death|NN liver|NN cancer|DS hepatitis|DS 245000|NN alcohol|NN 167000|NN hepatitis_c|DS rate|NN liver|NN cancer|DS hepatitis|DS asia|NN africa|NN male|NN hcc|NN female|NN diagnosis|NN year|NN survival|NN rate|NN united|NN states|NN word|NN hpar|NN mean|NN liver|NN content|NN 
+sign|NN symptom|NN cause|NN infection|NN cause|NN adult|NN children|NN diagnosis|NN classification|NN prevention|NN treatment|NN carcinoma|NN epidemiology|NN india|NN united|NN kingdom|NN united|NN states|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN 
+liver|NN cancer|DS umbrella|NN term|NN type|NN cancer|DS sign|NN symptom|NN type|NN cancer|DS 
+jaundice|ST pain|ST weight_loss|ST liver|NN enlargement|NN carcinoma|NN mass|NN pain|ST back_pain|ST jaundice|ST itch|ST weight_loss|ST fever|ST cause|NN infection|NN electron|NN micrograph|NN hepatitis|DS virus|NN dane|NN particle|NN virion|NN 
+infection|NN hepatitis_c|DS virus|NN hepatitis|DS virus|NN hbv|NN cause|NN liver|NN cancer|DS world|NN account|NN carcinoma|NN viruse|NN cause|NN inflammation|NN fibrosis|DS cirrhosis|NN liver|NN 
+cirrhosis|NN incidence|NN individual|NN individual|NN hbv|NN carrier|NN liver|NN disease|NN hbv|NN infection|NN role|NN viruse|NN hbv|NN liver|NN cancer|DS evidence|NN hbv|NN hepatitis_d|DS virus|NN risk|NN 
+change|NN liver|NN cell|NN hcv|NN hbv|NN infection|NN factor|NN production|NN liver|NN 
+viruse|NN change|NN cell|NN gene|NN methylation|NN gene|NN expression|NN signal|NN transduction|NN pathway|NN 
+viruse|NN cell|NN form|NN cell|NN death|NN apoptosis|NN replication|NN persistence|NN 
+hbv|NN hcv|NN change|NN dna|NN damage|NN instability|NN 
+oxygen|NN specy|NN protein|NN dna|NN repair|NN enzyme|NN cause|NN activation|NN enzyme|NN magnification|NN micrograph|NN liver_cirrhosis|DS 
+cause|NN cirrhosis|NN world|NN alcohol|NN abuse|NN cause|NN cirrhosis|NN case|NN 
+addition|NN cirrhosis|NN cause|NN cirrhosis|NN 
+alcohol|NN intake|NN risk|NN hcc|NN risk|NN individual|NN liver|NN 
+disorder|NN cirrhosis|NN lead|NN cancer|DS hemochromatosis|DS cirrhosis|NN 
+exposure|NN development|NN 
+aflatoxin|NN group|NN chemical|NN fungy|NN name|NN toxin|NN parasiticus|NN 
+food|NN contamination|NN fungy|NN ingestion|NN chemical|NN liver|NN 
+foodstuff|NN toxin|NN cereal|NN peanut|NN vegetable|NN 
+contamination|NN food|NN africa|NN south-east|NN asia|NN china|NN 
+hbv|NN infection|NN exposure|NN risk|NN liver|NN cancer|DS time|NN hbv|NN individual|NN exposure|NN 
+mechanism|NN cause|NN cancer|DS mutation|NN alteration|NN 
+spectrum|NN mutation|NN mutation|NN tumor|NN suppressor|NN gene|NN mutation|NN conjunction|NN mutation|NN alteration|NN cause|NN carcinogenesis|NN 
+cause|NN adult|NN 
+grade|NN nodule|NN lesion|NN liver|NN 
+year|NN risk|NN cancer|DS nodule|NN obesity|NN risk|NN factor|NN diabete|NN risk|NN smoke|NN risk|NN hcc|NN non-smoker|NN smoker|NN lifetime|NN risk|NN cholangiocarcinoma|DS people|NN cholangitis|NN liver|NN fluke|NN infection|NN risk|NN cholangiocarcinoma|DS reason|NN thailand|NN rate|NN cancer|DS 
+risk|NN liver|NN cancer|DS children|NN syndrome|NN polyposis|NN birth|NN weight|NN cholestasis|DS hcc|NN diagnosis|NN information|NN carcinoma|NN diagnosis|NN 
+image|NN modality|NN aid|NN diagnosis|NN liver|NN cancer|DS 
+ultrasound|NN tomography|NN ct|NN resonance|NN image|NN mry|NN 
+liver|NN ultrasound|NN mass|NN cm|NN chance|NN 
+majority|NN cholangiocarcima|NN region|NN liver|NN bile|NN duct|NN obstruction|NN 
+cause|NN obstruction|NN retrograde|NN cholangiopancreatography|NN ercp|NN ultrasound|NN ct|NN mry|NN resonance|NN cholangiopancreatography|NN 
+marker|NN chemical|NN blood|NN people|NN cancer|DS course|NN liver|NN cancer|DS 
+level|NN afp|NN blood|NN case|NN hcc|NN cholangiocarcinoma|DS 
+tumor|NN marker|NN carbohydrate|NN antigen|NN ca|NN antigen|NN cancer|DS antigen|NN 
+tumour|NN marker|NN liver|NN cancer|DS cancer|DS disorder|NN classification|NN 
+liver|NN cancer|DS account|NN liver|NN cancer|DS carcinoma|NN misnomer|NN adenoma|DS 
+cancer|DS liver|NN cell|NN hepatocyte|NN 
+type|NN cancer|DS liver|NN cell|NN liver|NN cell|NN tumor|NN children|NN account|NN cancer|DS children|NN liver|NN cancer|DS age|NN 
+form|NN lobe|NN 
+liver|NN cancer|DS structure|NN liver|NN bile|NN duct|NN blood|NN vessel|NN cell|NN 
+cancer|DS bile|NN duct|NN account|NN liver|NN cancer|DS variant|NN type|NN hcc|NN hcc|NN tumor|NN blood|NN vessel|NN sarcoma|NN type|NN tissue|NN mesenchyme|NN 
+muscle|NN liver|NN 
+liver|NN cancer|DS yolk|NN sac|NN tumour|NN tumour|NN lymphoma|DS infiltration|NN liver|NN liver|NN mass|NN occasion|NN 
+cancer|DS liver|NN liver|NN cancer|DS cancer|DS site|NN body|NN liver|NN metastase|NN 
+site|NN origin|NN tract|NN liver|NN blood-rich|NN organ|NN blood|NN vessel|NN lymph|NN node|NN cancer|DS stomach_cancer|DS colon|NN cancer|DS carcinoid|NN appendix|NN breast_cancer|DS cancer|DS lung_cancer|DS cancer|DS prostate|NN cancer|DS 
+prevention|NN cancer|DS prevention|NN 
+prevention|NN exposure|NN risk|NN factor|NN liver|NN cancer|DS 
+liver|NN cancer|DS vaccination|NN hepatitis|DS 
+vaccination|NN hepatitis_c|DS virus|NN 
+form|NN prevention|NN transmission|NN viruse|NN injection|NN practice|NN screen|NN blood|NN donation|NN product|NN screen|NN individual|NN 
+exposure|NN intervention|NN west|NN africa|NN 
+alcohol|NN abuse|NN obesity|NN diabete|NN rate|NN liver|NN cancer|DS 
+diet|NN control|NN hemochromatosis|DS risk|NN iron_overload|DS risk|NN cancer|DS 
+prevention|NN cure|NN agent|NN formation|NN cancer|DS carcinogenesis|NN prevention|NN carcinogenesis|NN 
+cure|NN individual|NN treatment|NN drug|NN interferon|NN risk|NN liver|NN cancer|DS 
+potential|NN effect|NN 
+prevention|NN treatment|NN recurrence|NN liver|NN cancer|DS 
+use|NN chemotherapy|NN drug|NN drug|NN treatment|NN carcinoma|NN redsvg|NN 
+article|NN event|NN information|NN 
+june|NN lobe|NN liver|NN tumor|NN male|NN king|NN saud|NN complex|NN riyadh|NN saudi|NN arabia|NN 
+resection|NN treatment|NN carcinoma|NN patient|NN function|NN reserve|NN 
+risk|NN complication|NN liver|NN failure|NN resection|NN liver|NN survival|NN rate|NN resection|NN decade|NN 
+recurrence|NN rate|NN resection|NN spread|NN tumor|NN formation|NN tumor|NN liver|NN transplantation|NN case|NN hcc|NN form|NN treatment|NN tumor|NN criteria|NN milan|NN criteria|NN 
+patient|NN liver|NN transplantation|NN lesion|NN liver|NN dysfunction|NN 
+individual|NN hcc|NN surgery|NN transplant|NN cancer|DS stage|NN 
+wait|NN time|NN liver|NN transplant|NN transplant|NN criteria|NN 
+ablation|NN treatment|NN cure|NN 
+form|NN ablation|NN chemical|NN liver|NN ethanol|NN acid|NN extreme|NN temperature|NN radio|NN frequency|NN ablation|NN microwave|NN laser|NN cryotherapy|NN 
+radio|NN frequency|NN ablation|NN reputation|NN hcc|NN limitation|NN inability|NN close|NN organ|NN blood|NN vessel|NN heat|NN generation|NN heat|NN sink|NN effect|NN addition|NN outcome|NN ablation|NN procedure|NN hcc|NN 
+surgery|NN treatment|NN modality|NN 
+chemotherapeutics|NN hcc|NN chemotherapy|NN procedure|NN chemoembolization|NN 
+procedure|NN drug|NN cisplatin|NN lipiodol|NN artery|NN liver|NN gelatin|NN sponge|NN particle|NN 
+drug|NN efficacy|NN treatment|NN research|NN pathway|NN production|NN liver|NN cancer|DS therapy|NN drug|NN cell|NN proliferation|NN blood|NN cell|NN growth|NN 
+fda|NN approval|NN treatment|NN carcinoma|NN november|NN drug|NN survival|NN benefit|NN hcc|NN 
+radiotherapy|NN hcc|NN liver|NN radiation|NN 
+technology|NN radiation|NN tumor|NN dose|NN rest|NN liver|NN 
+treatment|NN radiotherapy|NN chemotherapy|NN chemotherapy|NN therapy|NN drug|NN benefit|NN radiotherapy|NN surgeon|NN therapy|NN 
+option|NN cholangiocarcinoma|DS case|NN cholangiocarcinoma|DS diagnosis|NN 
+surgery|NN recurrence|NN rate|NN liver|NN transplant|NN resection|NN option|NN chemoradiation|NN case|NN 
+form|NN region|NN therapy|NN quality|NN life|NN survival|NN time|NN case|NN 
+therapy|NN treatment|NN molecule|NN tumor|NN 
+compound|NN tumor|NN region|NN laser|NN light|NN release|NN oxygen|NN specy|NN kill|NN tumor|NN cell|NN 
+chemotherapy|NN cisplatin|NN case|NN 
+radio|NN frequency|NN ablation|NN transarterial|NN radiotherapy|NN show|NN promise|NN treatment|NN 
+radiotherapy|NN set|NN treatment|NN hepatoblastoma|DS 
+tumor|NN resection|NN liver|NN transplant|NN treatment|NN 
+case|NN surgery|NN cure|NN 
+surgery|NN transplant|NN 
+cisplatin|NN cyclophosphamide|NN treatment|NN 
+drug|NN cisplatin|NN epidemiology|NN death|NN liver|NN cancer|DS person|NN 2532|NN 5165|NN 123479|NN 
+liver|NN cancer|DS death|NN 460000|NN make|NN cause|NN cancer|DS death|NN lung|NN stomach|NN 2012|NN cancer|DS diagnose|NN men|NN cancer|DS year|NN death|NN hepatitis_b|DS 196000|NN hepatitis|DS alcohol|NN form|NN liver|NN cancer|DS distribution|NN 
+china|NN case|NN case|NN africa|NN due|NN hepatitis|DS virus|NN distribution|NN thailand|NN rate|NN presence|NN liver|NN fluke|NN india|NN 
+number|NN case|NN carcinoma|NN year|NN india|NN male|NN female|NN 
+year|NN age|NN united|NN kingdom|NN 
+liver|NN cancer|DS cancer|DS uk|NN people|NN liver|NN cancer|DS uk|NN cause|NN cancer|DS death|NN people|NN disease|NN 2012|NN united|NN states|NN 
+liver|NN cancer|DS death|NN rate|NN adult|NN percent|NN standard|NN population|NN 
+liver|NN cancer|DS death|NN rate|NN percent|NN men|NN percent|NN women|NN 
+death|NN rate|NN men|NN time|NN rate|NN women|NN period|NN research|NN 
+immunotherapy|NN phase|NN trial|NN see|NN 
+timeline|NN liver|NN cancer|DS 

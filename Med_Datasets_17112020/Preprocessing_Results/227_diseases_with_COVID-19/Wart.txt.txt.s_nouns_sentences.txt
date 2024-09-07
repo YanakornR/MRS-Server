@@ -1,0 +1,101 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN Wart|Disease disambiguation|NN
+Wart|Disease name|NN Wart|Disease Wart|Disease number|NN Wart|Disease toe|NN symptom|NN skin|NN growth|NN duration|NN month|NN year|NN cause|NN papillomavirus|NN risk|NN factor|NN shower|NN eczema|NN diagnosis|NN cell|NN carcinoma|NN treatment|NN acid|NN frequency|NN
+Wart|Disease growth|NN color|NN rest|NN skin|NN symptom|NN bottom|NN feet|NN hand|NN feet|NN location|NN Wart|Disease
+Wart|Disease infection|NN type|NN papillomavirus|NN hpv|NP factor|NN risk|NN use|NN shower|NN meat|NN eczema|NN system|NN virus|NN body|NN skin|NN number|NN type|NN Wart|Disease Wart|Disease filiform|NN Wart|Disease Wart|Disease Wart|Disease
+treatment|NN type|NN Wart|Disease resolve|NN month|NN year|NN number|NN treatment|NN resolution|NN acid|NN skin|NN cryotherapy|NN problem|NN treatment|NN Wart|Disease type|NN
+Wart|Disease people|NN point|NN live|NN rate|NN Wart|Disease population|NN people|NN rate|NN Wart|Disease women|NN Wart|Disease back|NN hippocrates|NP content|NN
+type|NN cause|NN diagnosis|NN prevention|NN treatment|NN procedure|NN society|NN culture|NN animal|NN reference|NN link|NN
+type|NN Wart|Disease eyelid|NN
+range|NN type|NN Wart|Disease shape|NN site|NN type|NN papillomavirus|NN
+Wart|Disease Wart|Disease vulgaris|NN Wart|Disease surface|NN hand|NN body|NN
+palmer|NP Wart|Disease Wart|Disease
+Wart|Disease Wart|Disease Wart|Disease number|NN face|NN neck|NN hand|NN wrist|NN knee|NN
+Wart|Disease thread-|NN finger-like|NN Wart|Disease face|NN eyelid|NN lip|NN
+Wart|Disease Wart|Disease Wart|Disease Wart|Disease genitalia|NN
+Wart|Disease cluster|NN Wart|Disease nail|NN
+Wart|Disease Wart|Disease Wart|Disease lump|NN speck|NN center|NN pressure|NN point|NN sole|NN feet|NN
+Wart|Disease group|NN Wart|Disease hand|NN sole|NN feet|NN
+cause|NN article|NN papilloma|NN virus|NN
+Wart|Disease papilloma|NN virus|NN hpv|NP
+type|NN papilloma|NN viruse|NN hpv|NP epithelium|NN skin|NN genital|NN hpv|NP type|NN area|NN body|NN
+hpv|NP type|NN growth|NN Wart|Disease papilloma|NN area|NN
+hpv|NP Wart|Disease type|NN
+Wart|Disease hpv|NP type|NN type|NN
+dysplasia|NN hpv|NP type|NN cancer|NN cancer|NN cancer|NN
+type|NN Wart|Disease condition|NN
+cause|NN cancer|NN
+Wart|Disease Wart|Disease hpv|NP type|NN type|NN
+Wart|Disease condylomata|NN Wart|Disease hpv|NP type|NN type|NN
+Wart|Disease flat|NN Wart|Disease hpv|NP type|NN
+butcher|NN Wart|Disease hpv|NP type|NN
+disease|NN hyperplasia|NN hpv|NP type|NN
+Wart|Disease appearance|NN microscope|NN
+thicken|NN stratum|NN thicken|NN stratum|NN thicken|NN stratum|NN ridge|NN elongation|NN blood|NN vessel|NN junction|NN
+diagnosis|NN micrograph|NN Wart|Disease Wart|Disease vulgaris|NN feature|NN hypergranulosis|NN ridge|NN elongation|NN blood|NN vessel|NN junction|NN
+examination|NN Wart|Disease extension|NN prevention|NN
+hpv|NP vaccine|NN cancer|NN Wart|Disease
+infection|NN hpv|NP type|NN
+hpv|NP type|NN cause|NN cancer|NN case|NN penile|NN cancer|NN hpv|NP type|NN case|NN Wart|Disease
+2014|NN hpv|NP type|NN
+hpv|NP vaccine|NN virus|NN strain|NN Wart|Disease Wart|Disease
+virus|NN disinfectant|NN
+exposure|NN ethanol|NN minute|NN glutaraldehyde|NN sodium|NN hypochlorite|NN pathogen|NN
+virus|NN dry|NN heat|NN c|NP f|NP radiation|NN treatment|NN information|NN Wart|Disease treatment|NN
+treatment|NN procedure|NN Wart|Disease removal|NN review|NN skin|NN Wart|Disease treatment|NN treatment|NN acid|NN placebo|NN cryotherapy|NN acid|NN trial|NN Wart|Disease finger|NN mixture|NN acid|NN acid|NN
+precipitate|NN form|NN area|NN product|NN
+image|NN throat|NN Wart|Disease Wart|Disease treatment|NN treatment|NN process|NN
+left|NN Wart|Disease treatment|NN Wart|Disease day|NN silver|NN nitrate|NN treatment|NN Wart|Disease day|NN treatment|NN Wart|Disease day|NN treatment|NN Wart|Disease day|NN treatment|NN Wart|Disease day|NN treatment|NN
+throat|NN Wart|Disease carbon|NN dioxide|NN laser|NN treatment|NN
+acid|NN dermatologist|NN concentration|NN product|NN
+product|NN pharmacy|NN supermarket|NN type|NN pad|NN acid|NN salicylic|NN acid|NN solution|NN
+cream|NN system|NN fight|NN Wart|Disease virus|NN interferon|NN production|NN
+food|NN drug|NN administration|NN fda|NN Wart|Disease body|NN member|NN beetle|NN family|NN
+fda|NP canada|NP compound|NN pharmacy|NN
+fda|NP necrosis|NN digit|NN syndrome|NN treatment|NN injection|NN
+dncb|NN acid|NN Wart|Disease
+study|NN method|NN cure|NN rate|NN
+citation|NN acid|NN chemical|NN mutation|NN physician|NN
+drug|NN response|NN inflammation|NN ward|NN Wart|Disease virus|NN cidofovir|NN drug|NN hpv|NP lesion|NN larynx|NN papillomatosis|NN treatment|NN peroxide|NN bpo|NN treatment|NN flat|NN Wart|Disease
+product|NN over-the-counter|NN Wart|Disease removal|NN silver|NN nitrate|NN form|NN pencil|NN drug|NN store|NN
+study|NN patient|NN silver|NN nitrate|NN day|NN clearance|NN Wart|Disease improvement|NN Wart|Disease month|NN treatment|NN placebo|NN group|NN instruction|NN stain|NN skin|NN cloth|NN
+trial|NN zinc|NN Wart|Disease zinc|NN dosage|NN trial|NN treatment|NN Wart|Disease mgkgday|NN
+zinc|NN dosage|NN mgkgday|NN amount|NN zinc|NN copper|NN deficiency|NN trial|NN zinc|NN solution|NN zinc|NN oxide|NN
+study|NN papilloma|NN virus|NN hpv|NP
+study|NN equivalent|NN tablet|NN day|NN cervice|NN women|NN precancerous|NN condition|NN
+month|NN treatment|NN 826|NN women|NN disease|NN condition|NN smear|NN biopsy|NN
+study|NN garlic|NN extract|NN clear|NN case|NN
+extract|NN bandage|NN
+improvement|NN week|NN clear|NN average|NN week|NN procedure|NN nitrogen|NN spray|NN tank|NN
+keratolysis|NP surface|NN skin|NN cell|NN acid|NN agent|NN system|NN modifier|NN formaldehyde|NN pare|NN Wart|Disease pumice|NN stone|NN blade|NN Wart|Disease nitrogen|NN blister|NN Wart|Disease layer|NN Wart|Disease skin|NN fall|NN
+average|NN treatment|NN Wart|Disease skin|NN
+Wart|Disease skin|NN Wart|Disease treatment|NN curettage|NN Wart|Disease laser|NN treatment|NN pulse|NN dye|NN laser|NN carbon|NN dioxide|NN laser|NN
+pulse|NN dye|NN laser|NN wavelength|NN work|NN absorption|NN blood|NN cell|NN
+laser|NN work|NN absorption|NN water|NN molecule|NN
+pulse|NN dye|NN laser|NN scare|NN
+laser|NN vaporize|NN tissue|NN skin|NN
+laser|NN treatment|NN insurance|NN plan|NN
+laser|NN anaesthetic|NN
+pulse|NN dye|NN laser|NN treatment|NN sedation|NN anesthetic|NN
+treatment|NN case|NN
+day|NN treatment|NN
+measure|NN coagulator|NN source|NN light|NN beam|NN laser|NN
+principle|NN laser|NN treatment|NN
+laser|NN pain|NN scare|NN immunotherapy|NN candida|NN ppd|NP protein|NN duct|NN tape|NN occlusion|NN therapy|NN piece|NN duct|NN tape|NN Wart|Disease
+mechanism|NN action|NN technique|NN
+trial|NN evidence|NN efficacy|NN duct|NN tape|NN therapy|NN evidence|NN efficacy|NN simplicity|NN method|NN side-effect|NN researcher|NN
+society|NN culture|NN
+section|NN reference|NN culture|NN
+content|NN subject|NN impact|NN culture|NN reference|NN source|NN list|NN appearance|NN
+october|NP appearance|NN toad|NN Wart|Disease
+folk|NN belief|NN toad|NN cause|NN Wart|Disease belief|NN toad|NN moon|NN cure|NN Wart|Disease hemisphere|NN toad|NN gland|NN skin|NN Wart|Disease
+Wart|Disease virus|NN toad|NN variety|NN folk|NN remedy|NN ritual|NN Wart|Disease
+sap|NN greater|NP celandine|NP Wart|Disease remedy|NN sap|NN Wart|Disease manner|NN acid|NN solution|NN quantity|NN
+adventure|NN tom|NP sawyer|NP mark|NP twain|NN character|NN variety|NN remedy|NN
+tom|NP sawyer|NP water|NN hollow|NN tree|NN stump|NN remedy|NN Wart|Disease hand|NN
+hand|NN water|NN midnight|NN
+barley-corn|NN short|NN spunk-water|NN Wart|Disease
+step|NN eye|NN time|NN walk|NN home|NN
+huckleberry|NN finn|NN remedy|NN cat|NN graveyard|NN
+remedy|NN bean|NN draw|NN blood|NN Wart|Disease halve|NN half|NN crossroad|NN midnight|NN
+theory|NN operation|NN blood|NN bean|NN Wart|Disease twain|NN collector|NN recorder|NN folklore|NN
+louisiana|NP remedy|NN Wart|Disease Wart|Disease potato|NN potato|NN Wart|Disease remedy|NN twain|NN northern|NP ireland|NP water|NN well|NN rathlin|NP island|NP power|NN Wart|Disease animal|NN papillomavirus|NN

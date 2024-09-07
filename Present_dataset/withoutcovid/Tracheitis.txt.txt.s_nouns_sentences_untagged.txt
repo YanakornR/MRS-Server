@@ -1,0 +1,27 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN tracheitis|NN name|NN tracheitis|NN diagram|NN larynx|NN trachea|NN bronchy|NN lung|NN root|NN background|NN 
+larynx|NN top|NN image|NN gray|NN cartilage|NN 
+trachea|NN larynx|NN color|NN tube|NN cartilage|NN series|NN structure|NN 
+trachea|NN carina|NN bifurcation|NN trachea|NN split|NN left|NN bronchy|NN 
+bronchy|NN lung|NN lung|NN root|NN bronchy|NN 
+lung|NN shade|NN pink|NN trachea|NN 
+lung|NN bluer|NN shade|NN 
+image|NN side|NN right|NN image|NN vice|NN 
+anatomy|NN trachea|NN 
+tracheitis|NN tracheitis|NN trachea|NN part|NN tract|NN tracheitis|NN infection|NN 
+symptom|NN cause|NN diagnosis|NN treatment|NN reference|NN link|NN 
+croup|DS cough|ST infection|NN sound|NN feel|NN throat|NN chest_pain|ST fever|ST ear|NN ache|NN headache|ST light|NN breath|NN 
+tracheitis|NN infection|NN trachea|NN airway|NN obstruction|NN 
+cause|NN staphylococcus|NN aureus|NN infection|NN 
+tracheitis|NN complication|NN influenza|DS infection|NN children|NN size|NN trachea|NN 
+sign|NN development|NN 
+condition|NN tracheitis|NN 
+condition|NN inflammation|NN line|NN trachea|NN 
+condition|NN mucous|NN membrane|NN trachea|NN bronchy|NN swell|NN 
+trachea|NN result|NN defect|NN cartilage|NN cartilage|NN trachea|NN result|NN hack|NN cough|ST 
+condition|NN inflammation|NN line|NN trachea|NN 
+nerve|NN tissue|NN trachea|NN 
+diagnosis|NN tracheitis|NN vision|NN exudate|NN pseudomembrane|NN trachea|NN 
+x-ray|NN find|NN priority|NN patient|NN airway|NN rule|NN croup|DS epiglottitis|NN 
+suspicion|NN tracheitis|NN case|NN onset|NN airway|NN obstruction|NN epinephrine|NN 
+treatment|NN case|NN antibiotics|NN admission|NN care|NN unit|NN icu|NN intubation|NN ventilation|NN airway|NN swell|NN 
+care|NN admission|NN method|NN monitor|NN ecg|NN monitor|NN oxygen|NN saturation|NN blood|NN pressure|NN monitor|NN 

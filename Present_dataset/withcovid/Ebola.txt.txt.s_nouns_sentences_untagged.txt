@@ -1,0 +1,217 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN outbreak|NN ebola_virus_disease|DS epidemic|NN 
+use|NN ebola_virus_disease|DS disambiguation|NN 
+ebola_virus_disease|DS name|NN ebola_virus_disease|DS ebola_virus_disease|DS ebola_virus_disease|DS ebola_virus_disease|DS -zaire-cdc|NN nurse|NN nurse|NN ebola_virus_disease|DS outbreak|NN zaire|NN 
+disease|NN symptom|NN fever|ST throat|NN pain|ST headache|ST complication|NN blood|NN pressure|NN fluid|NN loss|NN onset|NN day|NN week|NN post|NN exposure|NN cause|NN ebola_virus_disease|DS viruse|NN contact|NN method|NN virus|NN rna|NN antibody|NN blood|NN diagnosis|NN malaria|DS cholera|DS typhoid|DS fever|ST meningitis|DS fever|ST prevention|NN service|NN handle|NN treatment|NN care|NN mortality|NN 
+ebola_virus_disease|DS ebola_virus_disease|DS ebola_virus_disease|DS ebola_virus_disease|DS ebola_virus_disease|DS hemorrhagic|NN fever|ST human|NN primate|NN ebola_virus_disease|DS viruse|NN sign|NN symptom|NN day|NN week|NN virus|NN fever|ST throat|NN pain|ST headache|ST diarrhea|ST rash|ST function|NN liver|NN kidney|NN time|NN people|NN disease|NN risk|NN death|NN kill|NN percent|NN average|NN percent|NN blood|NN pressure|NN fluid|NN loss|NN day|NN symptom|NN 
+virus|NN contact|NN body|NN fluid|NN blood|NN human|NN animal|NN spread|NN contact|NN item|NN fluid|NN disease|NN air|NN primate|NN human|NN laboratory|NN condition|NN breast|NN milk|NN person|NN recovery|NN ebola_virus_disease|DS virus|NN week|NN month|NN fruit|NN bat|NN carrier|NN nature|NN virus|NN disease|NN malaria|DS cholera|DS typhoid|DS fever|ST meningitis|DS hemorrhagic|NN fever|ST ebola_virus_disease|DS blood|NN sample|NN rna|NN antibody|NN virus|NN diagnosis|NN 
+control|NN outbreak|NN service|NN community|NN engagement|NN detection|NN contact|NN trace|NN access|NN laboratory|NN service|NN care|NN disposal|NN cremation|NN burial|NN sample|NN body|NN fluid|NN tissue|NN people|NN disease|NN caution|NN prevention|NN spread|NN disease|NN animal|NN human|NN handle|NN cloth|NN cook|NN cloth|NN wash|NN hand|NN person|NN disease|NN ebola_virus_disease|DS vaccine|NN africa|NN result|NN treatment|NN number|NN treatment|NN effort|NN outcome|NN rehydration|NN therapy|NN drink|NN water|NN fluid|NN symptom|NN 
+disease|NN outbreak|NN town|NN south|NN sudan|NN republic|NN congo|NN village|NN ebola_virus_disease|DS river|NN disease|NN name|NN ebola_virus_disease|DS outbreak|NN region|NN africa|NN world|NN health|NN organization|NN total|NN outbreak|NN case|NN death|NN outbreak|NN date|NN epidemic|NN west|NN africa|NN december|NN january|NN case|NN death|NN emergency|NN march|NN outbreak|NN africa|NN republic|NN congo|NN july|NN world|NN health|NN organization|NN congo|NN ebola_virus_disease|DS outbreak|NN world|NN health|NN emergency|NN content|NN 
+sign|NN symptom|NN recovery|NN death|NN cause|NN transmission|NN case|NN reservoir|NN system|NN evasion|NN diagnosis|NN laboratory|NN test|NN diagnosis|NN prevention|NN vaccine|NN infection|NN control|NN equipment|NN isolation|NN contact|NN trace|NN management|NN standard|NN support|NN care|NN epidemiology|NN west|NN 2017|NN republic|NN congo|NN province|NN society|NN culture|NN literature|NN animal|NN animal|NN animal|NN virus|NN research|NN treatment|NN test|NN reference|NN link|NN 
+sign|NN symptom|NN sign|NN symptom|NN ebola_virus_disease|DS onset|NN 
+length|NN time|NN exposure|NN virus|NN development|NN symptom|NN incubation|NN period|NN day|NN day|NN estimate|NN model|NN case|NN day|NN 
+symptom|NN influenza-like|NN stage|NN fever|ST weakness|ST appetite|NN pain|ST pain|ST headache|ST throat|NN fever|ST c|NN f|NN nausea|ST pain|ST combination|NN vomit|NN dehydration|NN shortness|NN breath|NN chest_pain|ST headache|ST confusion|ST case|NN skin|NN rash|ST area|NN bump|NN day|NN symptom|NN 
+case|NN bleed|NN day|NN symptom|NN people|NN blood|NN clote|NN mucous|NN membrane|NN site|NN needle|NN puncture|NN 4050|NN case|NN vomit|NN blood|NN blood|NN blood|NN stool|NN skin|NN purpura|DS needle|NN injection|NN site|NN white|NN eye|NN bleed|NN tract|NN incidence|NN bleed|NN tract|NN epidemics|NN prevention|NN intravascular|NN coagulation|NN recovery|NN death|NN 
+recovery|NN day|NN symptom|NN death|NN day|NN symptom|NN blood|NN pressure|NN fluid|NN loss|NN bleed|NN outcome|NN blood|NN loss|NN death|NN people|NN coma|NN end|NN life|NN 
+pain|ST liver|NN inflammation|NN hear|NN tiredness|NN weakness|ST appetite|NN difficulty|NN weight|NN problem|NN vision|NN 
+survivor|NN antibody|NN ebola_virus_disease|DS year|NN infection|NN cause|NN 
+ebola_virus_disease|DS human|NN viruse|NN genus|NN ebola_virus_disease|DS virus|NN 
+virus|NN sudan|NN virus|NN ta|NN forest|NN virus|NN ebola_virus_disease|DS virus|NN zaire|NN ebola_virus_disease|DS virus|NN specy|NN zaire|NN ebola_virus_disease|DS virus|NN ebola_virus_disease|DS viruse|NN number|NN outbreak|NN virus|NN virus|NN restv|NN disease|NN human|NN disease|NN primate|NN viruse|NN article|NN ebola_virus_disease|DS virus|NN group|NN ebola_virus_disease|DS virus|NN virus|NN electron|NN micrograph|NN ebola_virus_disease|DS virus|NN 
+ebola_virus_disease|DS viruse|NN rna|NN genome|NN ebola_virus_disease|DS virus|NN genome|NN gene|NN 3-utr-np-vp35-vp40-gp-vp30-vp24-l-5-utr|NN genome|NN ebola_virus_disease|DS viruse|NN restv|NN sequence|NN number|NN location|NN gene|NN overlap|NN 
+filoviruse|NN ebola_virus_disease|DS virus|NN virion|NN particle|NN shape|NN shepherd|NN crook|NN ebola_virus_disease|DS width|NN 
+life|NN cycle|NN virion|NN receptor|NN lectin|NN integrin|NN fusion|NN envelope|NN membrane|NN virion|NN cell|NN travel|NN endosome|NN lysosome|NN envelope|NN glycoprotein|NN gp|NN process|NN virus|NN protein|NN membrane|NN nucleocapsid|NN ebola_virus_disease|DS virus|NN glycoprotein|NN gp12|NN virus|NN ability|NN cell|NN rna|NN polymerase|NN l|NN gene|NN nucleocapsid|NN gene|NN mrna|NN protein|NN 
+protein|NN nucleoprotein|NN concentration|NN host|NN cell|NN l|NN gene|NN transcription|NN genome|NN replication|NN 
+replication|NN genome|NN result|NN positive-strand|NN turn|NN genome|NN copy|NN virus|NN progeny|NN protein|NN genome|NN cell|NN membrane|NN 
+bud|NN cell|NN envelope|NN membrane|NN 
+progeny|NN particle|NN cell|NN cycle|NN 
+genetics|NN ebola_virus_disease|DS virus|NN characteristics|NN transmission|NN life|NN cycle|NN ebola_virus_disease|DS virus|NN illustration|NN burial|NN practice|NN 
+people|NN ebola_virus_disease|DS disease|NN contact|NN blood|NN body|NN fluid|NN person|NN symptom|NN disease|NN body|NN fluid|NN ebola_virus_disease|DS viruse|NN saliva|NN mucus|NN vomit|NN sweat|NN tear|NN breast|NN milk|NN urine|NN semen|NN state|NN people|NN ebola_virus_disease|DS disease|NN saliva|NN virus|NN sweat|NN 
+people|NN virus|NN blood|NN vomit|NN entry|NN point|NN virus|NN nose|NN mouth|NN eye|NN wound|ST cut|NN abrasion|ST ebola_virus_disease|DS droplet|NN person|NN contamination|NN person|NN droplet|NN surface|NN object|NN virus|NN needle|NN syringe|NN infection|NN virus|NN object|NN hour|NN state|NN day|NN body|NN fluid|NN person|NN 
+ebola_virus_disease|DS virus|NN month|NN semen|NN recovery|NN infection|NN intercourse|NN virus|NN persistence|NN semen|NN year|NN screen|NN programme|NN ebola_virus_disease|DS breast|NN milk|NN women|NN recovery|NN virus|NN eye|NN patient|NN 2014|NN month|NN blood|NN people|NN 
+potential|NN infection|NN country|NN system|NN isolation|NN procedure|NN symptom|NN disease|NN assistance|NN 
+body|NN people|NN handle|NN remain|NN practice|NN burial|NN ritual|NN process|NN embalm|NN risk|NN case|NN ebola_virus_disease|DS infection|NN guinea|NN outbreak|NN contact|NN corpse|NN burial|NN ritual|NN 
+worker|NN people|NN ebola_virus_disease|DS risk|NN infection|NN risk|NN increase|NN cloth|NN mask|NN gown|NN glove|NN eye|NN protection|NN cloth|NN risk|NN part|NN africa|NN disease|NN health|NN system|NN function|NN transmission|NN hospital|NN country|NN needle|NN health-care|NN center|NN people|NN disease|NN run|NN water|NN united|NN states|NN spread|NN worker|NN patient|NN criticism|NN train|NN procedure|NN 
+transmission|NN ebov|NN air|NN ebola_virus_disease|DS outbreak|NN transmission|NN laboratory|NN condition|NN pig|NN primate|NN primate|NN primate|NN spread|NN ebov|NN water|NN food|NN spread|NN mosquito|NN insect|NN method|NN transmission|NN 
+transmission|NN human|NN due|NN presence|NN ebola_virus_disease|DS virus|NN particle|NN saliva|NN air|NN cough|ST sneeze|NN data|NN epidemics|NN risk|NN transmission|NN number|NN study|NN transmission|NN transmission|NN pig|NN primate|NN contact|NN human|NN primate|NN pig|NN ebola_virus_disease|DS ebola_virus_disease|DS virus|NN concentration|NN lung|NN bloodstream|NN pig|NN ebola_virus_disease|DS disease|NN droplet|NN air|NN ground|NN contrast|NN human|NN primate|NN virus|NN body|NN blood|NN lung|NN reason|NN researcher|NN pig|NN primate|NN transmission|NN contact|NN evidence|NN primate|NN contact|NN experiment|NN primate|NN air|NN case|NN cook|NN ghana|NN 
+africa|NN animal|NN fruit|NN bat|NN food|NN bushmeat|NN africa|NN consumption|NN bushmeat|NN transmission|NN disease|NN ebola_virus_disease|DS 
+ebola_virus_disease|DS animal|NN human|NN spread|NN contact|NN animal|NN fruit|NN bat|NN bat|NN animal|NN ebov|NN monkey|NN specy|NN chimpanzee|NN gorilla|NN baboon|NN duiker|NN 
+animal|NN fruit|NN bat|NN virus|NN fruit|NN production|NN animal|NN behavior|NN factor|NN outbreak|NN animal|NN population|NN 
+evidence|NN dog|NN pig|NN dog|NN symptom|NN virus|NN pig|NN virus|NN primate|NN dog|NN area|NN outbreak|NN antibody|NN role|NN disease|NN people|NN reservoir|NN 
+reservoir|NN ebola_virus_disease|DS bat|NN candidate|NN specy|NN type|NN fruit|NN bat|NN epomop|NN torquata|NN virus|NN 2013|NN animal|NN spread|NN plant|NN arthropod|NN rodent|NN bird|NN reservoir|NN 
+bat|NN cotton|NN factory|NN case|NN outbreak|NN virus|NN infection|NN plant|NN specy|NN bat|NN bat|NN sign|NN disease|NN evidence|NN bat|NN reservoir|NN specy|NN 
+survey|NN animal|NN bat|NN gabon|NN republic|NN congo|NN fruit|NN bat|NN rna|NN antibody|NN zaire|NN reston|NN viruse|NN fruit|NN bat|NN bangladesh|NN bat|NN host|NN virus|NN filoviruse|NN asia|NN 
+mammal|NN bird|NN reptile|NN amphibian|NN arthropod|NN region|NN outbreak|NN ebola_virus_disease|DS virus|NN trace|NN rodent|NN specy|NN setulosus|NN praomy|NN shrew|NN sylvisorex|NN republic|NN research|NN effort|NN rodent|NN reservoir|NN trace|NN ebov|NN carcass|NN gorilla|NN chimpanzee|NN outbreak|NN source|NN infection|NN 
+rate|NN death|NN specy|NN infection|NN specy|NN reservoir|NN virus|NN 
+contributor|NN outbreak|NN west|NN ebola_virus_disease|DS virus|NN epidemic|NN 
+index|NN case|NN ebola_virus_disease|DS land|NN 
+filoviruse|NN cell|NN amount|NN virus|NN monocyte|NN macrophage|NN cell|NN cell|NN liver|NN cell|NN fibroblast|NN gland|NN cell|NN replication|NN level|NN signal|NN lead|NN state|NN 
+human|NN contact|NN mucous|NN membrane|NN skin|NN break|NN infection|NN cell|NN cell|NN blood|NN vessel|NN liver|NN cell|NN type|NN cell|NN macrophage|NN monocyte|NN cell|NN target|NN attack|NN infection|NN cell|NN virus|NN lymph|NN node|NN reproduction|NN virus|NN place|NN virus|NN bloodstream|NN system|NN spread|NN body|NN cell|NN virus|NN infection|NN result|NN cell|NN death|NN type|NN blood|NN cell|NN lymphocyte|NN cell|NN death|NN concentration|NN lymphocyte|NN blood|NN response|NN 
+cell|NN day|NN exposure|NN virus|NN breakdown|NN cell|NN blood|NN vessel|NN injury|NN glycoprotein|NN 
+damage|NN synthesis|NN ebola_virus_disease|DS virus|NN glycoprotein|NN gp|NN availability|NN integrin|NN cell|NN adhesion|NN structure|NN cause|NN liver|NN damage|NN clote|NN 
+bleed|NN people|NN cause|NN shock|NN loss|NN blood|NN volume|NN bleed|NN clote|NN ebola_virus_disease|DS activation|NN pathway|NN coagulation|NN cascade|NN tissue|NN factor|NN production|NN macrophage|NN monocyte|NN 
+infection|NN glycoprotein|NN glycoprotein|NN gp|NN 
+replication|NN protein|NN synthesis|NN cell|NN host|NN defense|NN 
+gp|NN complex|NN virus|NN cell|NN 
+sgp|NN protein|NN signal|NN neutrophil|NN type|NN blood|NN cell|NN 
+virus|NN system|NN step|NN neutrophil|NN activation|NN 
+system|NN evasion|NN 
+infection|NN function|NN system|NN protein|NN system|NN response|NN infection|NN cell|NN ability|NN interferon|NN protein|NN interferon-beta|NN interferon|NN gamma|NN 
+vp24|NN protein|NN play|NN role|NN interference|NN 
+cell|NN receptor|NN cell|NN cytosol|NN cytosol|NN receptor|NN molecule|NN virus|NN activation|NN protein|NN interferon|NN factor|NN interferon|NN factor|NN trigger|NN cascade|NN expression|NN type|NN type|NN interferon|NN ifnar1|NN ifnar2|NN receptor|NN surface|NN cell|NN interferon|NN receptor|NN cell|NN protein|NN move|NN cell|NN nucleus|NN expression|NN gene|NN code|NN protein|NN property|NN protein|NN production|NN protein|NN stat1|NN protein|NN cell|NN nucleus|NN protein|NN production|NN interferon-beta|NN response|NN body|NN diagnosis|NN 
+ebola_virus_disease|DS travel|NN work|NN history|NN exposure|NN wildlife|NN factor|NN respect|NN effort|NN 
+laboratory|NN test|NN 
+laboratory|NN indicator|NN ebola_virus_disease|DS platelet|NN count|NN blood|NN cell|NN count|NN blood|NN cell|NN count|NN level|NN liver|NN enzyme|NN alanine|NN aminotransferase|NN alt|NN aspartate|NN aminotransferase|NN ast|NN abnormality|NN blood|NN clote|NN coagulation|NN prothrombin|NN time|NN thromboplastin|NN time|NN time|NN shape|NN cell|NN culture|NN electron|NN microscopy|NN 
+diagnosis|NN ebola_virus_disease|DS virus|NN rna|NN protein|NN antibody|NN virus|NN person|NN blood|NN 
+virus|NN cell|NN culture|NN rna|NN polymerase|NN chain|NN reaction|NN pcr|NN protein|NN assay|NN elisa|NN method|NN stage|NN disease|NN virus|NN remain|NN 
+antibody|NN virus|NN stage|NN disease|NN igm|NN antibody|NN day|NN symptom|NN onset|NN igg|NN antibody|NN day|NN symptom|NN onset|NN outbreak|NN isolation|NN virus|NN cell|NN culture|NN method|NN 
+field|NN hospital|NN method|NN pcr|NN elisa|NN 2014|NN test|NN facility|NN part|NN liberia|NN test|NN result|NN hour|NN sample|NN submission|NN antigen|NN test|NN result|NN minute|NN use|NN 
+ebola_virus_disease|DS rule|NN diagnosis|NN 
+symptom|NN ebola_virus_disease|DS disease|NN africa|NN malaria|DS fever|ST symptom|NN hemorrhagic|NN fever|ST virus|NN disease|NN congo|NN hemorrhagic|NN fever|ST fever|ST 
+diagnosis|NN consideration|NN disease|NN fever|ST disease|NN cholera|DS sepsis|DS enteritis|NN scrub|NN typhus|DS plague|DS q_fever|DS candidiasis|DS leishmaniasis|DS measle|NN hepatitis|DS 
+disease|NN symptom|NN ebola_virus_disease|DS promyelocytic|NN syndrome|NN snake|NN clote|NN factor|NN disorder|NN hemorrhagic|NN kawasaki|NN disease|NN poison|NN prevention|NN article|NN prevention|NN hemorrhagic|NN fever|ST vaccine|NN article|NN ebola_virus_disease|DS vaccine|NN 
+ebola_virus_disease|DS vaccine|NN candidate|NN decade|NN 2014|NN november|NN use|NN human|NN united|NN states|NN december|NN ebola_virus_disease|DS vaccine|NN vaccine|NN disease|NN people|NN ebola_virus_disease|DS infection|NN control|NN vhf|NN isolation|NN precaution|NN poster|NN woman|NN gear|NN 
+people|NN ebola_virus_disease|DS cloth|NN mask|NN glove|NN gown|NN goggle|NN center|NN disease|NN control|NN cdc|NN gear|NN skin|NN measure|NN object|NN person|NN body|NN fluid|NN 2014|NN cdc|NN personnel|NN train|NN suit-up|NN removal|NN equipment|NN addition|NN person|NN biosafety|NN step|NN procedure|NN sierra|NN leone|NN train|NN period|NN use|NN safety|NN equipment|NN day|NN 
+person|NN barrier-isolation|NN people|NN equipment|NN waste|NN patient|NN waste|NN surface|NN contact|NN body|NN fluid|NN outbreak|NN kit|NN family|NN ebola_virus_disease|DS disease|NN home|NN cloth|NN chlorine|NN powder|NN clean|NN supply|NN education|NN caregiver|NN technique|NN supply|NN priority|NN doctor|NN borders|NN 
+ebola_virus_disease|DS viruse|NN heat|NN heate|NN minute|NN c|NN minute|NN 
+surface|NN solvent|NN alcohol-base|NN product|NN detergent|NN sodium|NN hypochlorite|NN bleach|NN calcium|NN hypochlorite|NN bleach|NN powder|NN disinfectant|NN concentration|NN 
+education|NN public|NN risk|NN factor|NN ebola_virus_disease|DS infection|NN measure|NN individual|NN infection|NN world|NN health|NN organization|NN measure|NN contact|NN people|NN hand|NN wash|NN soap|NN water|NN 
+source|NN protein|NN diet|NN african|NN cloth|NN consumption|NN research|NN outbreak|NN ebola_virus_disease|DS disease|NN animal|NN consumption|NN outbreak|NN 
+animal|NN outbreak|NN ebola_virus_disease|DS outbreak|NN human|NN 
+person|NN ebola_virus_disease|DS disease|NN contact|NN body|NN burial|NN ritual|NN contact|NN body|NN reformulation|NN barrier|NN body|NN anthropologist|NN alternative|NN rule|NN burial|NN 
+transportation|NN crew|NN isolation|NN procedure|NN symptom|NN ebola_virus_disease|DS august|NN travel|NN ban|NN spread|NN disease|NN october|NN cdc|NN risk|NN level|NN level|NN monitor|NN symptom|NN restriction|NN activity|NN united|NN states|NN cdc|NN restriction|NN activity|NN travel|NN restriction|NN risk|NN level|NN 
+country|NN ebola_virus_disease|DS disease|NN transmission|NN exposure|NN risk|NN country|NN day|NN risk|NN encounter|NN person|NN symptom|NN feet|NN person|NN ebola_virus_disease|DS contact|NN body|NN fluid|NN skin|NN contact|NN person|NN symptom|NN ebola_virus_disease|DS disease|NN person|NN risk|NN country|NN ebola_virus_disease|DS disease|NN transmission|NN contact|NN person|NN symptom|NN disease|NN risk|NN contact|NN person|NN ebola_virus_disease|DS disease|NN person|NN symptom|NN risk|NN 
+cdc|NN monitor|NN symptom|NN ebola_virus_disease|DS disease|NN risk|NN risk|NN 
+laboratory|NN test|NN level|NN containment|NN laboratory|NN researcher|NN practice|NN ppe|NN equipment|NN 
+introduction|NN media|NN 
+introduction|NN filedon|NN observer|NN media|NN 
+observer|NN cloth|NN item|NN media|NN 
+cloth|NN media|NN 
+equipment|NN hand|NN hygiene|NN media|NN 
+hand|NN clean|NN boot|NN cover|NN media|NN 
+boot|NN cover|NN glove|NN media|NN 
+glove|NN media|NN 
+filedon|NN respirator|NN media|NN 
+respirator|NN hood|NN media|NN 
+hood|NN apron|NN media|NN 
+apron|NN glove|NN media|NN 
+glove|NN face|NN shield|NN media|NN 
+face|NN shield|NN verify|NN media|NN 
+disease|NN sign|NN disease|NN risk|NN isolation|NN spread|NN government|NN quarantine|NN area|NN disease|NN individual|NN disease|NN outside|NN area|NN united|NN states|NN law|NN quarantine|NN ebola_virus_disease|DS viruse|NN trace|NN 
+trace|NN outbreak|NN 
+contact|NN individual|NN sign|NN illness|NN day|NN 
+contact|NN disease|NN 
+process|NN contact|NN contact|NN 
+treatment|NN food|NN drug|NN administration|NN fda|NN people|NN advertisement|NN unverify|NN claim|NN benefit|NN ebola_virus_disease|DS product|NN standard|NN support|NN hospital|NN isolation|NN ward|NN gulu|NN uganda|NN october|NN outbreak|NN 
+treatment|NN nature|NN care|NN rehydration|NN treatment|NN survival|NN rehydration|NN route|NN measure|NN pain|ST management|NN treatment|NN nausea|ST fever|ST anxiety|ST world|NN health|NN organization|NN aspirin|NN ibuprofen|NN pain|ST management|NN risk|NN bleed|NN medication|NN 
+blood|NN product|NN blood|NN cell|NN platelet|NN plasma|NN regulator|NN coagulation|NN heparin|NN effort|NN intravascular|NN coagulation|NN clote|NN factor|NN antimalarial|NN medication|NN antibiotics|NN diagnosis|NN evidence|NN treatment|NN 
+hospital|NN care|NN guideline|NN home|NN care|NN 
+recommendation|NN towel|NN bleach|NN solution|NN people|NN body|NN bleach|NN stain|NN 
+wash|NN hand|NN bleach|NN solution|NN mouth|NN nose|NN cloth|NN care|NN 
+care|NN world|NN blood|NN volume|NN electrolyte|NN salt|NN balance|NN infection|NN kidney|NN failure|NN membrane|NN oxygenation|NN lung|NN dysfunction|NN 
+ebola_virus_disease|DS risk|NN death|NN september|NN risk|NN death|NN risk|NN death|NN republic|NN congo|NN outbreak|NN 
+death|NN day|NN symptom|NN blood|NN pressure|NN fluid|NN loss|NN care|NN dehydration|NN risk|NN death|NN 
+person|NN recovery|NN 
+case|NN occurrence|NN problem|NN inflammation|NN testicle|NN pain|ST fatigue|ST hear|NN loss|NN mood|NN sleep|NN disturbance|NN pain|ST pain|ST abnormality|NN miscarriage|ST skin|NN peel|NN hair_loss|ST swell|NN layer|NN eye|NN eye|NN complication|NN survivor|NN ebola_virus_disease|DS eye|NN symptom|NN sensitivity|NN excess|NN tear|NN vision|NN loss|NN 
+ebola_virus_disease|DS body|NN part|NN eye|NN breast|NN testicle|NN infection|NN transmission|NN recovery|NN transmission|NN recovery|NN event|NN case|NN condition|NN meningitis|DS month|NN recovery|NN october|NN 
+study|NN survivor|NN ebola_virus_disease|DS virus|NN sierra|NN leone|NN pain|ST headache|ST eye|NN problem|NN epidemiology|NN outbreak|NN list|NN ebola_virus_disease|DS outbreak|NN 
+disease|NN outbreak|NN region|NN africa|NN 2013|NN case|NN fatality|NN outbreak|NN date|NN ebola_virus_disease|DS virus|NN epidemic|NN west|NN africa|NN number|NN death|NN guinea|NN sierra|NN leone|NN liberia|NN sudan|NN cotton|NN factory|NN nzara|NN south|NN sudan|NN outbreak|NN 
+outbreak|NN ebola_virus_disease|DS fact|NN 
+june|NN november|NN nzara|NN south|NN sudan|NN part|NN sudan|NN sudan|NN virus|NN 
+sudan|NN outbreak|NN people|NN 
+case|NN sudan|NN june|NN storekeeper|NN cotton|NN factory|NN nzara|NN june|NN july|NN staff|NN sudan|NN outbreak|NN disease|NN identification|NN process|NN name|NN virus|NN month|NN zaire|NN zaire|NN ebola_virus_disease|DS outbreak|NN cdc|NN worker|NN waste|NN ebola_virus_disease|DS patient|NN zaire|NN 
+august|NN outbreak|NN ebola_virus_disease|DS village|NN district|NN zaire|NN republic|NN congo|NN outbreak|NN zaire|NN ebola_virus_disease|DS virus|NN member|NN genus|NN ebola_virus_disease|DS virus|NN sudan|NN outbreak|NN 
+person|NN disease|NN village|NN school|NN headmaster|NN mabalo|NN symptom|NN august|NN trip|NN northern|NN zaire|NN border|NN republic|NN ebola_virus_disease|DS river|NN august|NN 
+malaria|DS quinine|NN 
+symptom|NN mission|NN hospital|NN september|NN 
+september|NN day|NN symptom|NN 
+death|NN contact|NN people|NN yambuku|NN panic|NN 
+minister|NN health|NN zaire|NN president|NN mobutu|NN seko|NN region|NN yambuku|NN capital|NN kinshasa|NN quarantine|NN zone|NN 
+area|NN road|NN waterway|NN airfield|NN law|NN 
+school|NN business|NN organization|NN researcher|NN center|NN disease|NN control|NN prevention|NN cdc|NN peter|NN piot|NN ebola_virus_disease|DS effect|NN outbreak|NN region|NN panic|NN 
+nun|NN epidemic|NN vitamin|NN injection|NN women|NN sterilize|NN syringe|NN needle|NN 
+outbreak|NN day|NN quarantine|NN week|NN 
+researcher|NN disease|NN precaution|NN local|NN quarantine|NN area|NN injection|NN 
+outbreak|NN description|NN ebola_virus_disease|DS yambuku|NN follow|NN log|NN illness|NN temperature|NN c|NN f|NN blood|NN pain|ST prostration|NN articulation|NN evolution|NN death|NN mean|NN day|NN 
+virus|NN outbreak|NN thought|NN virus|NN type|NN virus|NN 
+virus|NN strain|NN sample|NN outbreak|NN ebola_virus_disease|DS virus|NN ebola_virus_disease|DS river|NN outbreak|NN site|NN zaire|NN report|NN conflict|NN name|NN karl|NN johnson|NN cdc|NN team|NN researcher|NN number|NN case|NN mission|NN hospital|NN contact|NN case|NN case|NN death|NN fatality|NN rate|NN zaire|NN outbreak|NN scientist|NN ebola_virus_disease|DS viruse|NN zaire|NN outbreak|NN help|NN world|NN health|NN organization|NN transport|NN air|NN force|NN villager|NN equipment|NN cloth|NN case|NN ebola_virus_disease|DS fever|ST africa|NN 
+outbreak|NN zaire|NN republic|NN congo|NN kill|NN 
+uganda|NN outbreak|NN kill|NN case|NN sudan|NN virus|NN ebola_virus_disease|DS specy|NN outbreak|NN 
+outbreak|NN republic|NN congo|NN death|NN rate|NN genus|NN ebola_virus_disease|DS virus|NN outbreak|NN date|NN 
+scientist|NN ebola_virus_disease|DS needle|NN 
+april|NN august|NN fever|ST epidemic|NN region|NN republic|NN congo|NN september|NN case|NN ebola_virus_disease|DS people|NN funeral|NN village|NN chief|NN outbreak|NN individual|NN death|NN 
+november|NN uganda|NN ministry|NN health|NN outbreak|NN ebola_virus_disease|DS district|NN uganda|NN 
+confirmation|NN sample|NN united|NN states|NN reference|NN laboratory|NN center|NN disease|NN control|NN world|NN health|NN organization|NN presence|NN specy|NN genus|NN ebola_virus_disease|DS virus|NN case|NN strain|NN death|NN 
+outbreak|NN uganda|NN 
+outbreak|NN people|NN death|NN second|NN death|NN 
+sudan|NN variant|NN outbreak|NN 
+august|NN ministry|NN health|NN republic|NN congo|NN outbreak|NN ebola_virus_disease|DS variant|NN region|NN discovery|NN time|NN variant|NN outbreak|NN 
+virus|NN people|NN live|NN 
+cause|NN outbreak|NN bush|NN meat|NN villager|NN town|NN isiro|NN viadana|NN 
+outbreak|NN ebola_virus_disease|DS republic|NN congo|NN drc|NN 
+outbreak|NN 201415|NN west|NN africa|NN ebola_virus_disease|DS virus|NN outbreak|NN specy|NN zaire|NN specy|NN august|NN november|NN year|NN total|NN case|NN death|NN outbreak|NN period|NN country|NN zaire|NN west|NN article|NN west|NN ebola_virus_disease|DS virus|NN epidemic|NN case|NN death|NN april|NN july|NN outbreak|NN 
+march|NN world|NN health|NN organization|NN ebola_virus_disease|DS outbreak|NN guinea|NN west|NN nation|NN researcher|NN outbreak|NN one-year-old|NN child|NN december|NN disease|NN country|NN liberia|NN sierra|NN leone|NN 
+ebola_virus_disease|DS outbreak|NN region|NN august|NN epidemic|NN health|NN emergency|NN 
+world|NN aid|NN region|NN director-general|NN country|NN date|NN capacity|NN outbreak|NN size|NN complexity|NN 
+community|NN support|NN basis|NN 
+mid-august|NN doctor|NN borders|NN situation|NN capital|NN monrovia|NN 
+fear|NN ebola_virus_disease|DS staff|NN member|NN patient|NN health|NN system|NN people|NN treatment|NN condition|NN september|NN statement|NN ebola_virus_disease|DS epidemic|NN ravage|NN part|NN west|NN africa|NN public|NN health|NN emergency|NN time|NN 
+history|NN level|NN pathogen|NN people|NN area|NN 
+contact|NN trace|NN isolation|NN technique|NN spread|NN disease|NN country|NN case|NN 
+case|NN death|NN number|NN body|NN fluid|NN patient|NN healthcare|NN worker|NN disease|NN august|NN percent|NN healthcare|NN worker|NN ebola_virus_disease|DS virus|NN epidemic|NN west|NN africa|NN 
+september|NN country|NN capacity|NN ebola_virus_disease|DS patient|NN equivalent|NN bed|NN december|NN number|NN bed|NN ebola_virus_disease|DS case|NN distribution|NN case|NN shortfal|NN area|NN january|NN time|NN week|NN end|NN june|NN case|NN week|NN country|NN 
+response|NN epidemic|NN phase|NN focus|NN transmission|NN epidemic|NN april|NN total|NN case|NN total|NN week|NN 
+december|NN day|NN person|NN time|NN guinea|NN ebola_virus_disease|DS transmission|NN time|NN period|NN surveillance|NN agency|NN 
+time|NN country|NN guinea|NN liberia|NN sierra|NN leone|NN chain|NN transmission|NN 
+organization|NN new|NN release|NN case|NN sierra|NN leone|NN january|NN outbreak|NN emergency|NN march|NN west|NN africa|NN article|NN ebola_virus_disease|DS virus|NN case|NN united|NN states|NN ebola_virus_disease|DS spain|NN ebola_virus_disease|DS united|NN kingdom|NN 
+september|NN eric|NN duncan|NN liberia|NN texas|NN day|NN symptom|NN hospital|NN 
+condition|NN hospital|NN september|NN october|NN 
+health|NN official|NN diagnosis|NN ebola_virus_disease|DS september|NN case|NN united|NN states|NN 
+october|NN teresa|NN romero|NN nurse|NN ebola_virus_disease|DS care|NN priest|NN west|NN africa|NN 
+transmission|NN virus|NN africa|NN romero|NN disease|NN october|NN ebola_virus_disease|DS infection|NN 
+october|NN cdc|NN nurse|NN texas|NN nina|NN pham|NN duncan|NN ebola_virus_disease|DS virus|NN case|NN transmission|NN united|NN states|NN october|NN texas|NN health-care|NN worker|NN duncan|NN virus|NN people|NN case|NN doctor|NN new|NN york|NN city|NN united|NN states|NN guinea|NN doctor|NN borders|NN ebola_virus_disease|DS october|NN person|NN bellevue|NN hospital|NN center|NN november|NN december|NN laboratory|NN atlanta|NN georgia|NN technician|NN ebola_virus_disease|DS 
+december|NN pauline|NN nurse|NN glasgow|NN sierra|NN leone|NN ebola_virus_disease|DS hospital|NN treatment|NN glasgow|NN air|NN raf|NN northolt|NN specialist|NN isolation|NN unit|NN hospital|NN london|NN treatment|NN republic|NN congo|NN article|NN republic|NN congo|NN ebola_virus_disease|DS virus|NN outbreak|NN 
+ministry|NN health|NN outbreak|NN ebola_virus_disease|DS 
+people|NN people|NN case|NN 
+total|NN contact|NN 
+july|NN end|NN outbreak|NN province|NN article|NN province|NN ebola_virus_disease|DS outbreak|NN 
+world|NN health|NN organization|NN republic|NN congo|NN case|NN ebola_virus_disease|DS april|NN death|NN 
+people|NN contact|NN ebola_virus_disease|DS patient|NN 
+outbreak|NN bikoro|NN area|NN province|NN city|NN 
+ministry|NN health|NN use|NN vaccine|NN director-general|NN report|NN map|NN area|NN provider|NN epidemiologist|NN official|NN outbreak|NN containment|NN effort|NN outbreak|NN drc|NN july|NN article|NN ebola_virus_disease|DS epidemic|NN 
+august|NN ebola_virus_disease|DS virus|NN outbreak|NN north|NN province|NN 
+contrast|NN outbreak|NN conflict|NN zone|NN refugee|NN area|NN november|NN congolese|NN ebola_virus_disease|DS city|NN beni|NN group|NN region|NN mineral|NN wealth|NN relief|NN effort|NN 
+march|NN republic|NN congo|NN outbreak|NN ebola_virus_disease|DS outbreak|NN case|NN insecurity|NN resistance|NN response|NN june|NN case|NN death|NN june|NN people|NN ebola_virus_disease|DS uganda|NN 
+july|NN man|NN goma|NN home|NN people|NN week|NN july|NN ebola_virus_disease|DS outbreak|NN health|NN emergency|NN time|NN declaration|NN organization|NN society|NN culture|NN effect|NN ebola_virus_disease|DS crisis|NN 
+ebola_virus_disease|DS virus|NN level|NN agent|NN category|NN agent|NN center|NN disease|NN control|NN prevention|NN potential|NN use|NN warfare|NN biopreparat|NN use|NN weapon|NN destruction|NN virus|NN air|NN fake|NN ebola_virus_disease|DS information|NN government|NN 2014|NN spread|NN computer|NN bbc|NN north|NN state|NN media|NN disease|NN weapon|NN 
+richard|NN book|NN zone|NN ebola_virus_disease|DS outbreak|NN reston|NN virginia|NN 
+william|NN ebola_virus_disease|DS documentary|NN novel|NN explosion|NN ebola_virus_disease|DS eye|NN people|NN individual|NN reaction|NN ebola_virus_disease|DS outbreak|NN zaire|NN 
+tom|NN novel|NN executive|NN order|NN terrorist|NN attack|NN united|NN states|NN form|NN ebola_virus_disease|DS virus|NN strain|NN ebola_virus_disease|DS mayinga|NN nseka|NN 
+ebola_virus_disease|DS virus|NN epidemic|NN west|NN africa|NN number|NN self-publish|NN well-review|NN book|NN information|NN disease|NN format|NN 
+author|NN book|NN credential|NN advice|NN 
+world|NN health|NN organization|NN nation|NN misinformation|NN spread|NN disease|NN animal|NN animal|NN 
+ebola_virus_disease|DS mortality|NN rate|NN primate|NN outbreak|NN ebola_virus_disease|DS death|NN gorilla|NN ebola_virus_disease|DS decline|NN indice|NN chimpanzee|NN population|NN km2|NN sanctuary|NN transmission|NN chimpanzee|NN meat|NN consumption|NN risk|NN factor|NN contact|NN animal|NN body|NN groom|NN 
+gorilla|NN carcass|NN ebola_virus_disease|DS virus|NN strain|NN introduction|NN virus|NN 
+body|NN carcass|NN day|NN 
+gorilla|NN group|NN transmission|NN gorilla|NN group|NN outbreak|NN result|NN transmission|NN reservoir|NN animal|NN population|NN animal|NN 
+virus|NN contact|NN pig|NN primate|NN study|NN transmission|NN manner|NN primate|NN 
+dog|NN ebov|NN symptom|NN 
+dog|NN part|NN africa|NN food|NN animal|NN corpse|NN human|NN 
+survey|NN dog|NN outbreak|NN percent|NN dog|NN outbreak|NN seroprevalence|NN ebov|NN percent|NN author|NN implication|NN outbreak|NN 
+virus|NN outbreak|NN virginia|NN virus|NN 
+hazelton|NN research|NN product|NN unit|NN reston|NN virginia|NN outbreak|NN illness|NN lab|NN monkey|NN 
+lab|NN outbreak|NN fever|ST virus|NN shipment|NN macaque|NN monkey|NN philippines|NN 
+pathologist|NN tissue|NN sample|NN animal|NN united|NN states|NN army|NN research|NN institute|NN disease|NN fort|NN maryland|NN elisa|NN test|NN antibody|NN tissue|NN response|NN ebola_virus_disease|DS virus|NN electron|NN usamriid|NN appearance|NN ebola_virus_disease|DS tissue|NN sample|NN research|NN product|NN unit|NN 
+army|NN team|NN usamriid|NN monkey|NN monkey|NN 
+study|NN pathologist|NN virologist|NN disposal|NN condition|NN blood|NN sample|NN animal|NN handler|NN incident|NN animal|NN handler|NN scalpel|NN status|NN level|NN 
+organism|NN pathogenicity|NN monkey|NN handler|NN cdc|NN virus|NN pathogenicity|NN human|NN 
+philippines|NN united|NN states|NN case|NN ebola_virus_disease|DS infection|NN isolation|NN researcher|NN strain|NN ebola_virus_disease|DS filovirus|NN origin|NN ebola_virus_disease|DS virus|NN location|NN incident|NN virus|NN pig|NN outbreak|NN primate|NN pennsylvania|NN texas|NN italy|NN virus|NN pig|NN routine|NN clean|NN disinfection|NN pig|NN monkey|NN farm|NN sodium|NN hypochlorite|NN detergent|NN reston|NN ebola_virus_disease|DS virus|NN 
+pig|NN restv|NN symptom|NN disease|NN 
+research|NN treatment|NN article|NN ebola_virus_disease|DS treatment|NN research|NN researcher|NN slide|NN culture|NN cell|NN antibody|NN 
+lab|NN researcher|NN product|NN 
+july|NN medication|NN ebola_virus_disease|DS 
+time|NN ebola_virus_disease|DS virus|NN epidemic|NN west|NN africa|NN 2013|NN candidate|NN treatment|NN 
+trial|NN 2014|NN lack|NN efficacy|NN lack|NN people|NN test|NN 
+test|NN equipment|NN personnel|NN 
+test|NN center|NN west|NN africa|NN delay|NN diagnosis|NN 
+november|NN ebola_virus_disease|DS test|NN patient|NN chance|NN survival|NN transmission|NN virus|NN people|NN 
+equipment|NN size|NN laptop|NN solar-power|NN test|NN area|NN 
+december|NN fda|NN lightmix|NN r|NN ebola_virus_disease|DS zaire|NN rrt-pcr|NN test|NN patient|NN symptom|NN ebola_virus_disease|DS 

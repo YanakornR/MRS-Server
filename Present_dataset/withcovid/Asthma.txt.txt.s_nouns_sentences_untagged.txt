@@ -1,0 +1,141 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN asthma|DS disambiguation|NN 
+asthma|DS plastic|NN tube|NN dial|NN peak|NN flow|NN meter|NN peak|NN flow|NN rate|NN monitor|NN asthma|DS specialty|NN symptom|NN episode|NN cough|ST chest|NN tightness|NN shortness|NN breath|NN duration|NN term|NN cause|NN factor|NN factor|NN air|NN pollution|NN allergen|NN method|NN symptom|NN response|NN therapy|NN treatment|NN trigger|NN corticosteroid|NN salbutamol|NN frequency|NN death|NN 
+asthma|DS disease|NN airway|NN lung|NN variable|NN symptom|NN airflow|NN obstruction|NN symptom|NN episode|NN cough|ST chest|NN tightness|NN shortness|NN breath|NN time|NN day|NN time|NN week|NN person|NN night|NN exercise|NN 
+asthma|DS combination|NN factor|NN factor|NN exposure|NN air|NN pollution|NN allergen|NN trigger|NN medication|NN aspirin|NN beta|NN blocker|NN diagnosis|NN pattern|NN symptom|NN response|NN therapy|NN time|NN asthma|DS frequency|NN symptom|NN volume|NN second|NN peak|NN flow|NN rate|NN atopic|NN non-atopic|NN predisposition|NN type|NN hypersensitivity|DS reaction|NN 
+cure|NN asthma|DS symptom|NN trigger|NN allergen|NN irritant|NN use|NN corticosteroid|NN beta|NN agonist|NN agent|NN addition|NN corticosteroid|NN asthma|DS symptom|NN treatment|NN symptom|NN beta-2|NN agonist|NN salbutamol|NN corticosteroid|NN mouth|NN case|NN corticosteroid|NN magnesium|NN hospitalization|NN 
+people|NN asthma|DS death|NN world|NN childhood|NN rate|NN asthma|DS asthma|DS egypt|NN word|NN asthma|DS sthma|NN content|NN 
+sign|NN symptom|NN condition|NN cause|NN condition|NN diagnosis|NN classification|NN diagnosis|NN prevention|NN management|NN lifestyle|NN modification|NN medicine|NN epidemiology|NN economics|NN history|NN reference|NN note|NN link|NN 
+sign|NN symptom|NN 
+menu|NN sound|NN wheez|NN stethoscope|NN 
+problem|NN file|NN 
+asthma|DS episode|NN shortness|NN breath|NN chest|NN tightness|NN cough|ST sputum|ST lung|NN cough|ST recovery|NN attack|NN due|NN level|NN blood|NN cell|NN eosinophil|NN symptom|NN night|NN morn|NN response|NN exercise|NN air|NN people|NN asthma|DS experience|NN symptom|NN response|NN trigger|NN reactivity|NN symptom|NN condition|NN 
+number|NN health|NN condition|NN asthma|DS reflux|NN disease|NN gerd|NN sleep_disorder|DS anxiety|ST disorder|NN mood|NN disorder|NN asthma|DS problem|NN problem|NN asthma|DS asthma|DS risk|NN reaction|NN cause|NN 
+asthma|DS combination|NN complex|NN interaction|NN influence|NN severity|NN responsiveness|NN treatment|NN rate|NN asthma|DS factor|NN dna|NN sequence|NN live|NN environment|NN age|NN due|NN influence|NN onset|NN age|NN due|NN influence|NN asthma|DS microbe|NN 
+factor|NN asthma|DS development|NN exacerbation|NN allergen|NN air|NN pollution|NN chemical|NN smoke|NN pregnancy|NN delivery|NN risk|NN asthma|DS symptom|NN air|NN quality|NN factor|NN traffic|NN pollution|NN ozone|NN level|NN asthma|DS development|NN asthma|DS severity|NN case|NN children|NN state|NN area|NN air|NN quality|NN epa|NN standard|NN air|NN quality|NN minority|NN community|NN 
+exposure|NN compound|NN trigger|NN asthma|DS formaldehyde|NN exposure|NN example|NN association|NN type|NN pvc|NN asthma|DS children|NN adult|NN exposure|NN pesticide|NN development|NN asthma|DS cause|NN effect|NN relationship|NN 
+association|NN paracetamol|NN use|NN asthma|DS majority|NN evidence|NN role|NN review|NN association|NN infection|NN account|NN use|NN mother|NN pregnancy|NN risk|NN stress|NN pregnancy|NN 
+asthma|DS exposure|NN allergen|NN allergen|NN dust|NN mite|NN cockroache|NN animal|NN fragment|NN fur|NN feather|NN effort|NN decrease|NN dust|NN mite|NN symptom|NN subject|NN infection|NN syncytial|NN virus|NN risk|NN asthma|DS children|NN infection|NN risk|NN hygiene|NN hypothesis|NN 
+hygiene|NN hypothesis|NN attempt|NN rate|NN asthma|DS result|NN exposure|NN childhood|NN bacteria|NN viruse|NN exposure|NN bacteria|NN viruse|NN part|NN cleanliness|NN family|NN size|NN society|NN exposure|NN endotoxin|NN childhood|NN development|NN asthma|DS exposure|NN age|NN evidence|NN hygiene|NN hypothesis|NN rate|NN asthma|DS farm|NN household|NN pet|NN 
+use|NN antibiotics|NN life|NN development|NN asthma|DS delivery|NN caesarean|NN section|NN risk|NN 2080|NN asthma|DS risk|NN lack|NN colonization|NN passage|NN birth|NN canal|NN link|NN asthma|DS degree|NN affluence|NN hygiene|NN hypothesis|NN individual|NN exposure|NN bacteria|NN viruse|NN interaction|NN cd14|NN snp|NN level|NN cc|NN genotype|NN genotype|NN exposure|NN risk|NN risk|NN exposure|NN risk|NN risk|NN 
+family|NN history|NN risk|NN factor|NN asthma|DS gene|NN twin|NN probability|NN disease|NN end|NN gene|NN asthma|DS population|NN il10|NN ltc4|NN gene|NN system|NN inflammation|NN 
+list|NN gene|NN study|NN result|NN population|NN gene|NN asthma|DS association|NN study|NN 
+variant|NN asthma|DS exposure|NN example|NN nucleotide|NN polymorphism|NN region|NN exposure|NN endotoxin|NN product|NN 
+exposure|NN source|NN tobacco|NN smoke|NN dog|NN farm|NN 
+risk|NN asthma|DS person|NN genetics|NN level|NN endotoxin|NN exposure|NN condition|NN 
+triad|NN eczema|DS rhinitis|NN asthma|DS risk|NN factor|NN asthma|DS history|NN disease|NN asthma|DS rate|NN eczema|DS hay|NN fever|ST asthma|DS granulomatosis|NN syndrome|NN autoimmune|NN disease|NN vasculitis|DS individual|NN type|NN urticaria|DS symptom|NN asthma|DS 
+correlation|NN obesity|NN risk|NN asthma|DS year|NN factor|NN play|NN function|NN buildup|NN fat|NN fact|NN tissue|NN state|NN 
+beta|NN blocker|NN medication|NN propranolol|NN asthma|DS disease|NN medication|NN problem|NN asthma|DS tics|NN enzyme|NN inhibitor|NN aspirin|NN nsaids|NN use|NN acid|NN medication|NN proton|NN pump|NN inhibitor|NN blocker|NN pregnancy|NN risk|NN asthma|DS child|NN 
+individual|NN asthma|DS week|NN month|NN episode|NN asthma|DS 
+individual|NN factor|NN way|NN individual|NN exacerbation|NN number|NN agent|NN 
+home|NN factor|NN exacerbation|NN asthma|DS dust|NN animal|NN cat|NN dog|NN hair|NN cockroach|NN allergen|NN perfume|NN cause|NN attack|NN women|NN children|NN 
+infection|NN tract|NN disease|NN stress|NN symptom|NN stress|NN system|NN airway|NN response|NN allergen|NN irritant|NN article|NN pathophysiology|NN asthma|DS 
+asthma|DS result|NN inflammation|NN conduct|NN zone|NN airway|NN bronchy|NN bronchiole|NN contractability|NN muscle|NN 
+factor|NN bout|NN narrow|NN airway|NN symptom|NN wheez|NN 
+narrow|NN treatment|NN 
+airway|NN change|NN airway|NN increase|NN eosinophil|NN thicken|NN lamina|NN 
+airway|NN muscle|NN size|NN increase|NN number|NN mucous|NN gland|NN 
+cell|NN type|NN t|NN lymphocyte|NN macrophage|NN neutrophil|NN 
+involvement|NN component|NN system|NN cytokine|NN histamine|NN leukotriene|NN 
+figure|NN location|NN lung|NN airway|NN body|NN 
+figure|NN cross-section|NN airway|NN 
+figure|NN cross-section|NN airway|NN asthma|DS symptom|NN 
+tissue|NN cross|NN section|NN airway|NN wall|NN mucous|NN 
+obstruction|NN lumen|NN bronchiole|NN goblet|NN cell|NN metaplasia|NN basement|NN membrane|NN thicken|NN person|NN asthma|DS 
+diagram|NN asthma|DS 
+asthma|DS condition|NN universal|NN definition|NN initiative|NN asthma|DS disorder|NN airway|NN cell|NN element|NN role|NN 
+inflammation|NN airway|NN lead|NN episode|NN breathlessness|NN chest|NN tightness|NN night|NN morn|NN 
+episode|NN airflow|NN obstruction|NN lung|NN treatment|NN 
+test|NN diagnosis|NN pattern|NN symptom|NN response|NN therapy|NN time|NN diagnosis|NN asthma|DS history|NN wheez|NN cough|ST difficulty|NN breath|NN symptom|NN infection|NN allergen|NN air|NN pollution|NN spirometry|NN diagnosis|NN children|NN age|NN diagnosis|NN spirometry|NN 
+aid|NN diagnosis|NN management|NN test|NN asthma|DS 
+fev1|NN technique|NN increase|NN milliliter|NN administration|NN bronchodilator|NN salbutamol|NN diagnosis|NN 
+history|NN asthma|DS caffeine|NN bronchodilator|NN people|NN asthma|DS use|NN caffeine|NN lung|NN function|NN test|NN result|NN capacity|NN asthma|DS copd|NN year|NN person|NN asthma|DS 
+challenge|NN inhalation|NN concentration|NN substance|NN airway|NN narrow|NN 
+person|NN asthma|DS disease|NN 
+difference|NN peak|NN flow|NN rate|NN day|NN week|NN week|NN 
+improvement|NN peak|NN flow|NN treatment|NN salbutamol|NN corticosteroid|NN prednisone|NN 
+decrease|NN peak|NN flow|NN exposure|NN trigger|NN test|NN peak|NN flow|NN routine|NN diagnosis|NN 
+self-monitor|NN disease|NN effectiveness|NN medication|NN 
+treatment|NN classification|NN classification|NN 
+year|NN frequency|NN symptom|NN fev1|NN variability|NN use|NN 
+1week|NN 7week|NN 
+asthma|DS frequency|NN symptom|NN volume|NN second|NN peak|NN flow|NN rate|NN asthma|DS symptom|NN allergen|NN asthma|DS severity|NN moment|NN method|NN subgroup|NN asthma|DS system|NN way|NN subgroup|NN type|NN treatment|NN goal|NN asthma|DS research|NN 
+asthma|DS condition|NN part|NN disease|NN term|NN combination|NN disease|NN emphysema|DS disease|NN airway|NN obstruction|NN asthma|DS inflammation|NN asthma|DS lung|NN due|NN airway|NN contrast|NN emphysema|DS asthma|DS bronchy|NN alveoly|NN asthma|DS exacerbation|NN severity|NN exacerbation|NN paco2|NN ventilation|NN sign|NN measurement|NN level|NN consciousness|NN peak|NN flow|NN oxygen|NN saturation|NN kpa|NN blood|NN pressure|NN chest|NN effort|NN peak|NN flow|NN rate|NN 
+breath|NN minute|NN heart|NN rate|NN 
+beat|NN minute|NN sentence|NN breath|NN worsen|NN symptom|NN peak|NN flow|NN feature|NN asthma|DS 
+asthma|DS exacerbation|NN asthma|DS attack|NN 
+symptom|NN shortness|NN breath|NN wheez|NN chest|NN tightness|NN wheez|NN symptom|NN asthma|DS people|NN cough|ST case|NN air|NN motion|NN wheez|NN children|NN chest_pain|ST 
+sign|NN asthma|DS attack|NN use|NN accessory|NN muscle|NN respiration|NN muscle|NN neck|NN pulse|NN pulse|NN inhalation|NN exhalation|NN over-inflation|NN chest|NN color|NN skin|NN nail|NN lack|NN oxygen|NN 
+exacerbation|NN peak|NN flow|NN rate|NN pefr|NN 
+asthma|DS status|NN asthma|DS ticus|NN exacerbation|NN asthma|DS treatment|NN bronchodilator|NN corticosteroid|NN case|NN infection|NN air|NN pollution|NN medication|NN use|NN 
+asthma|DS kind|NN asthma|DS attack|NN type|NN asthma|DS disease|NN peak|NN flow|NN variability|NN medication|NN 
+type|NN asthma|DS background|NN asthma|DS exacerbation|NN article|NN 
+exercise|NN people|NN asthma|DS people|NN asthma|DS people|NN asthma|DS bronchoconstriction|NN athlete|NN 
+rate|NN cyclist|NN swimmer|NN skier|NN weather|NN condition|NN inhal|NN performance|NN asthma|DS dose|NN endurance|NN strength|NN article|NN asthma|DS 
+asthma|DS result|NN workplace|NN exposure|NN disease|NN case|NN asthma|DS case|NN adult|NN 
+agent|NN grain|NN wood|NN dust|NN flux|NN latex|NN animal|NN aldehyde|NN 
+employment|NN risk|NN problem|NN paint|NN baker|NN food|NN nurse|NN worker|NN animal|NN welder|NN hairdresser|NN timber|NN worker|NN asthma|DS article|NN disease|NN 
+disease|NN asthma|DS asthma|DS tics|NN asthma|DS polyp|NN sinus|NN disease|NN reaction|NN aspirin|NN medication|NN people|NN loss|NN smell|NN experience|NN reaction|NN alcohol|NN asthma|DS article|NN reaction|NN 
+alcohol|NN asthma|DS tic|ST symptom|NN people|NN group|NN japanese|NN asthma|DS study|NN improvement|NN asthma|DS tic|ST symptom|NN alcohol|NN asthma|DS 
+asthma|DS asthma|DS case|NN 
+skin|NN test|NN allergen|NN serum|NN concentration|NN 
+life|NN women|NN men|NN 
+treatment|NN diagnosis|NN 
+condition|NN symptom|NN asthma|DS 
+children|NN airway|NN disease|NN rhinitis|NN cause|NN airway|NN obstruction|NN body|NN aspiration|NN stenosis|NN ring|NN lymph|NN node|NN neck|NN mass|NN infection|NN wheez|NN adult|NN heart|NN failure|NN airway|NN mass|NN cough|ST inhibitor|NN 
+population|NN cord|NN dysfunction|NN 
+disease|NN asthma|DS complication|NN asthma|DS 
+age|NN people|NN airway|NN disease|NN asthma|DS 
+set|NN airway|NN neutrophil|NN wall|NN thickness|NN muscle|NN bronchy|NN 
+level|NN investigation|NN copd|NN asthma|DS principle|NN management|NN corticosteroid|NN beta-agonist|NN smoke|NN cessation|NN asthma|DS symptom|NN exposure|NN cigarette|NN smoke|NN age|NN symptom|NN administration|NN likelihood|NN family|NN history|NN prevention|NN 
+evidence|NN effectiveness|NN measure|NN development|NN asthma|DS world|NN health|NN organization|NN risk|NN factor|NN tobacco|NN smoke|NN air|NN pollution|NN irritant|NN perfume|NN number|NN infection|NN effort|NN promise|NN smoke|NN exposure|NN utero|NN breastfeed|NN exposure|NN daycare|NN family|NN indication|NN 
+pet|NN exposure|NN result|NN exposure|NN pet|NN time|NN pet|NN home|NN person|NN symptom|NN pet|NN 
+restriction|NN pregnancy|NN breast|NN feed|NN compound|NN people|NN work|NN place|NN influenza|DS vaccination|NN risk|NN exacerbation|NN world|NN health|NN organization|NN smoke|NN ban|NN exacerbation|NN asthma|DS management|NN 
+cure|NN asthma|DS symptom|NN plan|NN monitor|NN symptom|NN 
+plan|NN reduction|NN exposure|NN allergen|NN severity|NN symptom|NN usage|NN medication|NN 
+treatment|NN plan|NN adjustment|NN treatment|NN change|NN symptom|NN 
+treatment|NN asthma|DS trigger|NN cigarette|NN smoke|NN pet|NN aspirin|NN exposure|NN 
+trigger|NN avoidance|NN use|NN medication|NN 
+drug|NN thing|NN severity|NN illness|NN frequency|NN symptom|NN 
+medication|NN asthma|DS fast-act|NN long-act|NN category|NN 
+relief|NN symptom|NN 
+attack|NN medication|NN 
+disease|NN attack|NN week|NN corticosteroid|NN leukotriene|NN antagonist|NN mast|NN cell|NN stabilizer|NN mouth|NN 
+attack|NN dose|NN corticosteroid|NN 
+exacerbation|NN corticosteroid|NN mouth|NN treatment|NN 
+people|NN asthma|DS rate|NN anxiety|ST depression|ST asthma|DS control|NN behavioral|NN therapy|NN quality|NN life|NN asthma|DS control|NN anxiety|ST level|NN people|NN asthma|DS lifestyle|NN modification|NN 
+avoidance|NN trigger|NN component|NN control|NN attack|NN 
+trigger|NN allergen|NN smoke|NN tobacco|NN source|NN air|NN pollution|NN beta-blocker|NN sulfite-contain|NN food|NN cigarette|NN smoke|NN smoke|NN smoke|NN effectiveness|NN medication|NN corticosteroid|NN law|NN limit|NN smoke|NN decrease|NN number|NN people|NN asthma|DS dust|NN mite|NN control|NN measure|NN air|NN filtration|NN chemical|NN mite|NN mattress|NN cover|NN method|NN effect|NN asthma|DS symptom|NN exercise|NN people|NN stable|NN asthma|DS yoga|NN improvement|NN quality|NN life|NN symptom|NN people|NN asthma|DS medication|NN 
+asthma|DS class|NN medication|NN symptom|NN control|NN medication|NN exacerbation|NN antibiotics|NN worsen|NN symptom|NN canister|NN plastic|NN holder|NN dose|NN inhaler|NN asthma|DS attack|NN 
+agonist|NN salbutamol|NN usan|NN line|NN treatment|NN asthma|DS symptom|NN exercise|NN exercise|NN symptom|NN medication|NN bromide|NN benefit|NN combination|NN saba|NN symptom|NN bronchodilator|NN person|NN saba|NN child|NN admission|NN hospital|NN ipratropium|NN saba|NN agonist|NN epinephrine|NN efficacy|NN concern|NN stimulation|NN 
+control|NN canister|NN plastic|NN holder|NN propionate|NN dose|NN inhaler|NN control|NN 
+treatment|NN control|NN form|NN case|NN disease|NN corticosteroid|NN formulation|NN severity|NN symptom|NN agonist|NN salmeterol|NN asthma|DS control|NN adult|NN combination|NN corticosteroid|NN children|NN benefit|NN steroid|NN risk|NN side-effect|NN corticosteroid|NN risk|NN evidence|NN children|NN asthma|DS treatment|NN regime|NN corticosteroid|NN lung|NN function|NN amount|NN exacerbation|NN children|NN part|NN asthma|DS treatment|NN hospital|NN receptor|NN antagonist|NN agent|NN addition|NN corticosteroid|NN conjunction|NN evidence|NN use|NN exacerbation|NN adult|NN adolescent|NN asthma|DS addition|NN agent|NN corticosteriod|NN lung|NN function|NN risk|NN asthma|DS agent|NN adolescent|NN adult|NN research|NN people|NN asthma|DS receptor|NN year|NN age|NN agent|NN therapy|NN corticosteroid|NN thoracic|NN society|NN 2009|NN cochrane|NN review|NN agent|NN benefit|NN steroid|NN children|NN class|NN drug|NN inhibitor|NN alternative|NN treatment|NN mild|NN asthma|DS children|NN adult|NN 2013|NN medication|NN family|NN administration|NN drug|NN aminophylline|NN improvement|NN bronchodilation|NN standard|NN agonist|NN treatment|NN treatment|NN effect|NN agonist|NN treatment|NN cell|NN stabilizer|NN sodium|NN alternative|NN corticosteroid|NN children|NN asthma|DS combination|NN therapy|NN corticosteroid|NN ics|NN long-acting|NN beta2-agonists|NN benefit|NN harm|NN stop|NN therapy|NN adult|NN asthma|DS combination|NN laba|NN corticosteroid|NN ics|NN stop|NN laba|NN risk|NN asthma|DS exacerbation|NN treatment|NN corticosteroid|NN mouth|NN stop|NN difference|NN asthma|DS control|NN asthma|DS quality|NN life|NN increase|NN risk|NN event|NN exacerbation|NN emergency|NN department|NN visit|NN hospitalisation|NN 
+delivery|NN method|NN 
+inhaler|NN combination|NN asthma|DS spacer|NN powder|NN inhaler|NN 
+spacer|NN plastic|NN cylinder|NN medication|NN air|NN dose|NN drug|NN 
+spacer|NN symptom|NN 
+evidence|NN difference|NN disease|NN evidence|NN use|NN laba|NN adult|NN children|NN asthma|DS effect|NN 
+use|NN corticosteroid|NN dose|NN risk|NN effect|NN risk|NN thrush|NN development|NN cataract|DS rate|NN growth|NN dose|NN steroid|NN bone|NN mineral|NN density|NN 
+asthma|DS medication|NN option|NN emergency|NN management|NN prevention|NN 
+oxygen|NN hypoxia|NN fall|NN corticosteroid|NN mouth|NN day|NN prednisone|NN day|NN dexamethasone|NN review|NN course|NN steroid|NN magnesium|NN treatment|NN increase|NN addition|NN treatment|NN asthma|DS attack|NN adult|NN reduction|NN hospital|NN admission|NN mixture|NN helium|NN oxygen|NN case|NN salbutamol|NN evidence|NN case|NN theophylline|NN effect|NN use|NN exacerbation|NN dissociative|NN ketamine|NN intubation|NN ventilation|NN people|NN arrest|NN evidence|NN trial|NN asthma|DS corticosteroid|NN thermoplasty|NN option|NN delivery|NN energy|NN airway|NN wall|NN series|NN bronchoscopy|NN exacerbation|NN frequency|NN month|NN rate|NN 
+effect|NN year|NN antibody|NN injection|NN dupilumab|NN asthma|DS medication|NN use|NN symptom|NN cost-effectiveness|NN evidence|NN immunotherapy|NN rhinitis|NN asthma|DS outcome|NN pressure|NN ventilation|NN children|NN use|NN 
+people|NN asthma|DS disorder|NN treatment|NN survey|NN use|NN form|NN therapy|NN data|NN effectiveness|NN therapy|NN 
+evidence|NN usage|NN vitamin|NN support|NN use|NN exercise|NN people|NN asthma|DS treatment|NN vitamin|NN d|NN supplementation|NN risk|NN asthma|DS exacerbation|NN 
+acupuncture|NN treatment|NN evidence|NN use|NN air|NN evidence|NN asthma|DS symptom|NN benefit|NN lung|NN function|NN ion|NN generator|NN 
+manual|NN therapy|NN physiotherapeutic|NN maneuver|NN evidence|NN use|NN asthma|DS breath|NN technique|NN hyperventilation|NN reduction|NN medication|NN use|NN technique|NN effect|NN lung|NN function|NN expert|NN panel|NN evidence|NN use|NN asthma|DS death|NN person|NN 2012|NN 2432|NN 6795|NN map|NN world|NN europe|NN yellow|NN north|NN south|NN america|NN orange|NN africa|NN disability-adjust|NN life|NN year|NN asthma|DS inhabitant|NN data|NN 250300|NN 
+prognosis|NN asthma|DS children|NN disease|NN mortality|NN decade|NN recognition|NN improvement|NN care|NN death|NN rate|NN male|NN female|NN rate|NN country|NN fold|NN 
+disability|NN people|NN income|NN country|NN asthma|DS childhood|NN half|NN case|NN diagnosis|NN decade|NN remodel|NN change|NN treatment|NN corticosteroid|NN decline|NN lung|NN function|NN asthma|DS children|NN effect|NN quality|NN life|NN parent|NN epidemiology|NN article|NN epidemiology|NN asthma|DS map|NN world|NN europe|NN north|NN america|NN australia|NN south|NN america|NN asia|NN africa|NN rate|NN asthma|DS country|NN world|NN 
+people|NN asthma|DS people|NN year|NN disease|NN rate|NN country|NN prevalence|NN country|NN rate|NN asia|NN europe|NN africa|NN country|NN contrast|NN country|NN reason|NN difference|NN income|NN country|NN mortality|NN 
+asthma|DS boy|NN girl|NN asthma|DS rate|NN contrast|NN adult|NN women|NN rate|NN asthma|DS men|NN children|NN asthma|DS reason|NN admission|NN hospital|NN emergency|NN department|NN visit|NN 
+rate|NN asthma|DS health|NN problem|NN rate|NN asthma|DS world|NN increase|NN world|NN asthma|DS population|NN united|NN states|NN people|NN united|NN kingdom|NN canada|NN australia|NN new|NN zealand|NN rate|NN 
+death|NN rate|NN asthma|DS uk|NN average|NN union|NN time|NN economics|NN 
+cost|NN asthma|DS hospital|NN stay|NN united|NN states|NN children|NN cost|NN asthma|DS hospital|NN stay|NN adult|NN 5200|NN medicaid|NN payer|NN children|NN adult|NN year|NN united|NN states|NN insurance|NN second|NN payer|NN children|NN adult|NN income|NN community|NN united|NN states|NN rate|NN hospital|NN stay|NN asthma|DS income|NN community|NN history|NN detail|NN treatment|NN asthma|DS advertisement|NN cigarette|NN mean|NN asthma|DS 
+belladonna|NN cannabis|NN 
+asthma|DS egypt|NN incense|NN mixture|NN kyphy|NN problem|NN hippocrates|NN word|NN pant|NN basis|NN name|NN emotion|NN century|NN physician-philosopher|NN treatise|NN asthma|DS arabic|NN source|NN symptom|NN mean|NN treatment|NN importance|NN climate|NN air|NN 
+paper|NN medicine|NN subject|NN pathophysiology|NN disease|NN asthma|DS chest|NN chloroform|NN treatment|NN use|NN dose|NN drug|NN f|NN 
+bosworth|NN connection|NN asthma|DS hay|NN fever|ST treatment|NN asthma|DS corticosteroid|NN condition|NN corticosteroid|NN act|NN beta|NN agonist|NN use|NN 
+case|NN century|NN theodore|NN roosevelt|NN 
+time|NN treatment|NN 
+youth|NN part|NN health|NN asthma|DS 
+nighttime|NN asthma|DS attack|NN experience|NN death|NN boy|NN parent|NN 
+asthma|DS illness|NN 
+cause|NN treatment|NN psychoanalysis|NN talk|NN cure|NN psychoanalyst|NN asthma|DS tic|ST wheeze|NN cry|NN child|NN mother|NN treatment|NN depression|ST individual|NN asthma|DS 

@@ -1,0 +1,176 @@
+Pharyngitis,acute sore throat
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Not to be confused with laryngitis.
+Pharyngitis
+Other names	Acute sore throat
+Pharyngitis.jpg
+Viral pharyngitis resulting in visible redness.
+Pronunciation	
+
+    /færɪnˈdʒaɪtɪs/ 
+
+Specialty	Infectious disease
+Symptoms	Sore throat, fever, runny nose, cough, headache, hoarse voice[1][2]
+Complications	Sinusitis, acute otitis media[2]
+Duration	3–5 days[2]
+Causes	Usually viral infection[2]
+Diagnostic method	Based on symptoms, rapid antigen detection test, throat swab[2]
+Differential diagnosis	Epiglottitis, thyroiditis, retropharyngeal abscess[2]
+Treatment	NSAIDs, lidocaine[2][3]
+Frequency	~7.5% of people in any 3-month period[4]
+
+Pharyngitis is inflammation of the back of the throat, known as the pharynx.[2] It typically results in a sore throat and fever.[2] Other symptoms may include a runny nose, cough, headache, and a hoarse voice.[1] Symptoms usually last 3–5 days.[2] Complications can include sinusitis and acute otitis media.[2] Pharyngitis is a type of upper respiratory tract infection.[5]
+
+Most cases are caused by a viral infection.[2] Strep throat, a bacterial infection, is the cause in about 25% of children and 10% of adults.[2] Uncommon causes include other bacteria such as gonorrhea, fungus, irritants such as smoke, allergies, and gastroesophageal reflux disease.[2][3] Specific testing is not recommended in people who have clear symptoms of a viral infection, such as a cold.[2] Otherwise, a rapid antigen detection test (RADT) or throat swab is recommended.[2] Other conditions that can produce similar symptoms include epiglottitis, thyroiditis, retropharyngeal abscess, and occasionally heart disease.[2]
+
+NSAIDs, such as ibuprofen, can be used to help with the pain.[2] Numbing medication, such as topical lidocaine, may also help.[3] Strep throat is typically treated with antibiotics, such as either penicillin or amoxicillin.[2] If steroids are useful in acute pharyngitis, other than possibly in severe cases, is unclear.[6][7]
+
+About 7.5% of people have a sore throat in any 3-month period.[4] Two or three episodes in a year are not uncommon.[1] This resulted in 15 million physician visits in the United States in 2007.[3] Pharyngitis is the most common cause of a sore throat.[8] The word comes from the Greek word pharynx meaning "throat" and the suffix -itis meaning "inflammation".[9][10]
+Contents
+
+    1 Classification
+    2 Cause
+        2.1 Viral
+        2.2 Bacterial
+        2.3 Fungal
+        2.4 Noninfectious
+    3 Diagnosis
+    4 Management
+        4.1 Medications
+        4.2 Alternative
+    5 Epidemiology
+    6 References
+    7 External links
+
+Classification
+A normal throat
+
+Pharyngitis is a type of inflammation caused by an upper respiratory tract infection. It may be classified as acute or chronic. Acute pharyngitis may be catarrhal, purulent, or ulcerative, depending on the causative agent and the immune capacity of the affected individual. Chronic pharyngitis may be catarrhal, hypertrophic, or atrophic.
+
+Tonsillitis is a subtype of pharyngitis.[11] If the inflammation includes both the tonsils and other parts of the throat, it may be called pharyngotonsillitis.[12] Another subclassification is nasopharyngitis (the common cold).[13]
+Cause
+
+Most cases are due to an infectious organism acquired from close contact with an infected individual.
+Viral
+
+These comprise about 40–80% of all infectious cases and can be a feature of many different types of viral infections.[8][14]
+
+    Adenovirus is the most common of the viral causes. Typically, the degree of neck lymph-node enlargement is modest and the throat often does not appear red, although it is painful.
+    The Orthomyxoviridae family which cause influenza are present with rapid onset high temperature, headache, and generalized ache. A sore throat may be associated.
+    Infectious mononucleosis ("glandular fever") is caused by the Epstein–Barr virus. This may cause significant lymph-node swelling and an exudative tonsillitis with marked redness and swelling of the throat. The heterophile test can be used if this is suspected.
+    Herpes simplex virus can cause multiple mouth ulcers.
+    Measles
+    Common cold: rhinovirus, coronavirus, respiratory syncytial virus, and parainfluenza virus can cause infection of the throat, ear, and lungs causing standard cold-like symptoms and often pain.
+
+Bacterial
+
+A number of different bacteria can infect the human throat. The most common is group A streptococcus (Streptococcus pyogenes), but others include Streptococcus pneumoniae, Haemophilus influenzae, Bordetella pertussis, Bacillus anthracis, Corynebacterium diphtheriae, Neisseria gonorrhoeae, Chlamydophila pneumoniae, Mycoplasma pneumoniae, and Fusobacterium necrophorum.[15]
+
+Streptococcal pharyngitis
+
+Main article: Streptococcal pharyngitis
+A case of strep throat
+
+Streptococcal pharyngitis or strep throat is caused by a group A beta-hemolytic streptococcus (GAS).[16] It is the most common bacterial cause of cases of pharyngitis (15–30%).[15] Common symptoms include fever, sore throat, and large lymph nodes. It is a contagious infection, spread by close contact with an infected individual. A definitive diagnosis is made based on the results of a throat culture. Antibiotics are useful to both prevent complications (such as rheumatic fever) and speed recovery.[17]
+
+Fusobacterium necrophorum
+
+Fusobacterium necrophorum is a normal inhabitant of the oropharyngeal flora and can occasionally create a peritonsillar abscess. In one out of 400 untreated cases, Lemierre's syndrome occurs.[18]
+
+Diphtheria
+
+Diphtheria is a potentially life-threatening upper respiratory infection caused by Corynebacterium diphtheriae, which has been largely eradicated in developed nations since the introduction of childhood vaccination programs, but is still reported in the Third World and increasingly in some areas in Eastern Europe. Antibiotics are effective in the early stages, but recovery is generally slow.[citation needed]
+
+Others
+
+A few other causes are rare, but possibly fatal, and include parapharyngeal space infections: peritonsillar abscess ("quinsy abscess"), submandibular space infection (Ludwig's angina), and epiglottitis.[19][20][21]
+Fungal
+
+Some cases of pharyngitis are caused by fungal infection, such as Candida albicans, causing oral thrush.[citation needed]
+Noninfectious
+
+Pharyngitis may also be caused by mechanical, chemical, or thermal irritation, for example cold air or acid reflux. Some medications may produce pharyngitis, such as pramipexole and antipsychotics.[22][23]
+Diagnosis
+Modified Centor score Points 	Probability of Strep 	Management
+1 or less 	<10% 	No antibiotic or culture needed
+2 	11–17% 	Antibiotic based on culture or rapid antigen detection test
+3 	28–35%
+4 or 5 	52% 	Empiric antibiotics
+Throat swab
+
+Differentiating a viral and a bacterial cause of a sore throat based on symptoms alone is difficult.[24] Thus, a throat swab often is done to rule out a bacterial cause.[25]
+
+The modified Centor criteria may be used to determine the management of people with pharyngitis. Based on five clinical criteria, it indicates the probability of a streptococcal infection.[17]
+
+One point is given for each of the criteria:[17]
+
+    Absence of a cough
+    Swollen and tender cervical lymph nodes
+    Temperature more than 38.0 °C (100.4 °F)
+    Tonsillar exudate or swelling
+    Age less than 15 (a point is subtracted if age is more than 44)
+
+The Infectious Disease Society of America recommends against empirical treatment and considers antibiotics only appropriate following positive testing.[24] Testing is not needed in children under three, as both group A strep and rheumatic fever are rare, except if they have a sibling with the disease.[24]
+Management
+
+The majority of the time, treatment is symptomatic. Specific treatments are effective for bacterial, fungal, and herpes simplex infections.
+Medications
+
+    Pain medication, such as NSAIDs and acetaminophen (paracetamol), can help reduce the pain associated with a sore throat. Aspirin may be used in adults, but is not recommended in children due to the risk of Reye syndrome.[26]
+    Steroids (such as dexamethasone) may be useful for severe pharyngitis.[27][7] Their general use, however, is poorly supported.[6]
+    Viscous lidocaine relieves pain by numbing the mucous membranes.[28]
+    Antibiotics are useful if a bacterial infection is the cause of the sore throat.[29][30] For viral infections, antibiotics have no effect. In the United States, they are used in 25% of people before a bacterial infection has been detected.[31]
+    Oral analgesic solutions, the active ingredient is usually phenol, but also less commonly benzocaine, cetylpyridinium chloride, and/or menthol. Chloraseptic and Cepacol are two examples of brands of these kinds of analgesics.
+
+Alternative
+See also: Alternative treatments used for the common cold
+
+Gargling salt water is often suggested, but evidence of its usefulness is lacking.[3] Alternative medicines are promoted and used for the treatment of sore throats.[32] However, they are poorly supported by evidence.[32]
+Epidemiology
+
+Acute pharyngitis is the most common cause of a sore throat and, together with cough, it is diagnosed in more than 1.9 million people a year in the United States.[8] 
+
+Sore throat
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For other uses, see Sore throat (disambiguation).
+Sore throat
+Pharyngitis.jpg
+Viral pharyngitis, the most common cause of a sore throat.
+Specialty	Otorhinolaryngology
+
+Sore throat, also known as throat pain, is pain or irritation of the throat.
+
+It is usually caused by pharyngitis (inflammation of the throat) or tonsillitis (inflammation of the tonsils). It can also result from trauma.
+
+About 7.5% of people have a sore throat in any three-month period.[1]
+Contents
+
+    1 Definition
+    2 Differential diagnosis
+    3 Management
+    4 Epidemiology
+    5 References
+    6 External links
+
+Definition
+
+A sore throat is pain anywhere in the throat.[2]
+Differential diagnosis
+
+A sore throat is usually from irritation or inflammation. The most common cause (80%) is acute viral pharyngitis, a viral infection of the throat.[2] Other causes include other infections (such as streptococcal pharyngitis), trauma, and tumors.[2] Gastroesophageal (acid) reflux disease can cause stomach acid to back up into the throat and also cause the throat to become sore.[3] In children streptococcal pharyngitis is the cause of 37% of sore throats.[4]
+Management
+
+Pain medications such as non-steroidal anti-inflammatory drugs (NSAIDs) and paracetamol (acetaminophen) help in the management of pain.[5][6] The use of corticosteroids seems to increase the likelihood of resolution and reduce the level of pain.[7][8] Antibiotics shorten the duration of pain symptoms by an average of about one day.[9]
+
+There is an old wives tale that having a hot drink can help with common cold and influenza symptoms, including sore throat, but there is only limited evidence to support this idea.[10] If the sore throat is unrelated to a cold and is caused by for example tonsillitis, a cold drink may be helpful.[11]
+
+There are also other medication like lozenges which can help people to cope with a sore throat.
+
+Without active treatment, symptoms usually last two to seven days.[12]
+Epidemiology
+
+In the United States there are about 2.4 million emergency department visits with throat-related complaints per year.[2] 

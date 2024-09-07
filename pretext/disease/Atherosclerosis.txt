@@ -1,0 +1,752 @@
+atherosclerosis|DS atherosclerosis|DS disease|NN in|NN inside|NN of|NN artery|NN build|NN of|NN plaque|NN 
+symptom|NN 
+in|NN coronary_artery_disease|DS stroke|DS peripheral|NN artery|NN disease|NN kidney|NN problem|NN 
+symptom|NN middle|NN age|NN 
+artery|NN cause|NN 
+risk|NN factor|NN abnormal|NN cholesterol|NN level|NN blood|NN pressure|NN diabetes|DS smoke|NN obesity|NN family|NN history|NN diet|NN 
+plaque|NN fat|NN cholesterol|NN calcium|NN substance|NN in|NN blood|NN 
+narrow|NN of|NN artery|NN flow|NN of|NN blood|NN part|NN of|NN body|NN 
+diagnosis|NN exam|NN electrocardiogram|NN exercise|NN stress|NN test|NN others|NN 
+of|NN prevention|NN diet|NN weight|NN 
+treatment|NN of|NN disease|NN medication|NN cholesterol|NN statin|NN blood|NN pressure|NN medication|NN medication|NN decrease|NN clot|NN aspirin|NN 
+number|NN of|NN procedure|NN coronary|NN intervention|NN coronary|NN artery|NN bypass|NN graft|NN endarterectomy|NN 
+atherosclerosis|DS person|NN age|NN 
+people|NN degree|NN age|NN of|NN 
+number|NN cause|NN of|NN death|NN disability|NN in|NN world|NN 
+in|NN evidence|NN condition|NN in|NN people|NN year|NN 
+content|NN definition|NN sign|NN symptom|NN risk|NN factor|NN atherosclerosis|DS name|NN disease|NN asvd|NN progression|NN of|NN atherosclerosis|DS onset|NN cause|NN factor|NN none|NN specialty|NN symptom|NN complication|NN coronary_artery_disease|DS stroke|DS peripheral|NN artery|NN disease|NN kidney|NN problem|NN worsen|NN age|NN blood|NN pressure|NN diabetes|DS smoke|NN obesity|NN family|NN history|NN diet|NN exercise|NN weight|NN statin|NN blood|NN pressure|NN medication|NN year|NN prevention|NN medication|NN frequency|NN lesser|NN mechanism|NN calcification|NN lipid|NN feature|NN rupture|NN stenosis|NN growth|NN of|NN plaque|NN component|NN diagnosis|NN prevention|NN exercise|NN treatment|NN statin|NN research|NN lipid|NN damage|NN microorganism|NN economics|NN link|NN definition|NN term|NN in|NN spell|NN mean|NN arteriosclerosis|NN arteriolosclerosis|NN atherosclerosis|DS 
+arteriosclerosis|NN term|NN harden|NN loss|NN of|NN elasticity|NN of|NN medium|NN artery|NN greek|NN ἀρτηρία|NN artēria|NN σκλήρωσις|NN sklerosis|NN arteriolosclerosis|NN harden|NN loss|NN of|NN elasticity|NN of|NN arteriole|NN artery|NN atherosclerosis|DS harden|NN of|NN artery|NN plaque|NN ancient|NN ἀθήρα|NN athḗra|NN 
+term|NN atherogenic|NN substance|NN cause|NN formation|NN of|NN atheroma|NN 
+sign|NN symptom|NN atherosclerosis|DS decade|NN artery|NN location|NN effect|NN blood|NN flow|NN 
+rupture|NN symptom|NN narrow|NN closure|NN of|NN artery|NN clot|NN occur|NN 
+sign|NN symptom|NN narrow|NN closure|NN impede|NN blood|NN flow|NN organ|NN symptom|NN 
+of|NN time|NN patient|NN disease|NN cardiovascular|NN disorder|NN stroke|DS heart|NN attack|NN 
+symptom|NN artery|NN organ|NN 
+atherosclerosis|DS begin|NN in|NN childhood|NN layer|NN of|NN streak|NN layer|NN of|NN artery|NN wall|NN accumulation|NN of|NN white|NN blood|NN cell|NN 
+enlargement|NN of|NN artery|NN decade|NN atherosclerosis|DS men|NN in|NN woman|NN in|NN 
+disease|NN in|NN childhood|NN birth|NN 
+sign|NN puberty|NN 
+symptom|NN in|NN child|NN early|NN screen|NN of|NN child|NN cardiovascular_disease|DS child|NN relative|NN 
+coronary_artery_disease|DS in|NN men|NN woman|NN atherosclerosis|DS of|NN cerebral|NN artery|NN stroke|DS sex|NN 
+narrow|NN in|NN coronary|NN artery|NN blood|NN heart|NN symptom|NN chest_pain|ST of|NN angina|NN shortness_of_breath|ST nausea|ST dizziness|ST breathlessness|NN palpitations|ST 
+abnormal|NN heart|NN rhythm|NN heart|NN beat|NN consequence|NN of|NN ischemia|NN 
+carotid|NN artery|NN blood|NN brain|NN neck|NN 
+narrow|NN of|NN carotid|NN artery|NN symptom|NN feel|NN of|NN weakness|ST difficulty|NN speak|NN dizzy|NN difficulty|NN in|NN blurred_vision|ST numbness|NN of|NN face|NN arm|NN legs|NN headache|ST consciousness|NN 
+symptom|NN stroke|DS death|NN of|NN brain|NN cell|NN 
+stroke|DS narrow|NN closure|NN of|NN artery|NN brain|NN lack|NN of|NN blood|NN supply|NN death|NN of|NN cell|NN of|NN tissue|NN 
+peripheral|NN artery|NN blood|NN legs|NN arm|NN pelvis|NN experience|NN rupture|NN clot|NN 
+symptom|NN narrow|NN arm|NN legs|NN pain|ST 
+location|NN plaque|NN formation|NN artery|NN blood|NN kidney|NN 
+plaque|NN occurrence|NN accumulation|NN lead|NN kidney|NN blood|NN flow|NN chronic_kidney_disease|DS area|NN late|NN stage|NN 
+state|NN data|NN in|NN of|NN men|NN of|NN woman|NN symptom|NN of|NN cardiovascular_disease|DS heart|NN attack|NN death|NN death|NN hour|NN of|NN onset|NN of|NN symptom|NN 
+stress|NN test|NN test|NN method|NN blood|NN flow|NN limitation|NN in|NN narrow|NN of|NN physician|NN stress|NN method|NN 
+case|NN study|NN autopsy|NN of|NN soldier|NN in|NN world|NN war|NN ii|NN war|NN 
+report|NN autopsy|NN of|NN soldier|NN in|NN korea|NN 
+age|NN of|NN men|NN year|NN percent|NN evidence|NN of|NN coronary|NN arteriosclerosis|NN 
+study|NN of|NN soldier|NN in|NN vietnam|NN war|NN result|NN one|NN war|NN 
+theory|NN rate|NN of|NN tobacco|NN use|NN in|NN case|NN of|NN soldier|NN advent|NN of|NN food|NN world|NN war|NN ii|NN 
+risk|NN factor|NN process|NN 
+atherosclerosis|DS inflammatory|NN in|NN cell|NN of|NN vessel|NN wall|NN lipoprotein|NN ldl|NN particle|NN 
+retention|NN cause|NN effect|NN of|NN process|NN 
+presence|NN of|NN plaque|NN muscle|NN cell|NN of|NN blood|NN vessel|NN bulk|NN line|NN thicken|NN separation|NN plaque|NN lumen|NN 
+narrow|NN growth|NN of|NN plaque|NN wall|NN heart|NN beat|NN 
+atherosclerosis|DS diabetes|DS tobacco|NN smoke|NN trans|NN abdominal|NN obesity|NN pattern|NN insulin|NN resistance|NN hypertension|DS hiv/aids|DS age|NN abnormality|NN family|NN history|NN lesser|NN descent|NN thrombophilia|NN carbohydrate|NN triglyceride|NN systemic|NN inflammation|NN hyperinsulinemia|NN sleep|NN deprivation|NN air|NN pollution|NN lifestyle|NN poison|NN alcohol|NN chronic|NN stress|NN hypothyroidism|NN periodontal_disease|DS relation|NN fat|NN atherosclerosis|DS 
+in|NN science|NN taubes|NN consideration|NN recommendation|NN of|NN government|NN body|NN 
+usda|NN in|NN food|NN pyramid|NN diet|NN of|NN carbohydrate|NN calorie|NN 
+heart|NN association|NN diabetes|DS association|NN cholesterol|NN education|NN program|NN recommendation|NN 
+in|NN contrast|NN willett|NN school|NN of|NN health|NN pi|NN of|NN nurse|NN health|NN study|NN level|NN of|NN fat|NN of|NN fat|NN 
+recommendation|NN consensus|NN consumption|NN of|NN trans|NN fat|NN 
+role|NN of|NN fat|NN fat|NN in|NN human|NN 
+rabbit|NN fat|NN atherosclerosis|DS 
+rat|NN oil|NN disruption|NN system|NN amount|NN of|NN hydroperoxide|NN in|NN blood|NN liver|NN kidney|NN 
+rabbit|NN diet|NN oil|NN amount|NN of|NN susceptibility|NN of|NN oil|NN 
+in|NN study|NN soybean|NN oil|NN atherosclerosis|DS liver|NN damage|NN 
+kummerow|NN claim|NN cholesterol|NN oxysterols|NN cholesterol|NN food|NN smoke|NN culprit|NN 
+rancid|NN fat|NN oil|NN bad|NN in|NN amount|NN people|NN 
+human|NN consumption|NN of|NN substance|NN 
+oil|NN oil|NN in|NN pill|NN form|NN taste|NN of|NN fat|NN 
+health|NN food|NN industry|NN supplement|NN of|NN regulation|NN 
+protect|NN fat|NN oxidation|NN in|NN environment|NN 
+mechanism|NN atherogenesis|NN process|NN of|NN plaque|NN 
+remodel|NN of|NN artery|NN accumulation|NN of|NN fatty|NN substance|NN plaque|NN 
+buildup|NN of|NN plaque|NN process|NN period|NN of|NN year|NN series|NN of|NN event|NN wall|NN in|NN response|NN variety|NN of|NN circulate|NN factor|NN 
+hypothesis|NN reason|NN leukocyte|NN monocyte|NN basophil|NN attack|NN endothelium|NN of|NN artery|NN lumen|NN in|NN muscle|NN 
+inflammation|NN formation|NN of|NN plaque|NN in|NN tunica|NN intima|NN region|NN of|NN vessel|NN wall|NN endothelium|NN media|NN 
+bulk|NN of|NN lesions|NN of|NN fat|NN collagen|NN elastin|NN 
+plaque|NN wall|NN thicken|NN narrow|NN 
+stenosis|NN late|NN event|NN result|NN of|NN plaque|NN rupture|NN heal|NN response|NN process|NN 
+early|NN atherogenesis|NN adherence|NN of|NN blood|NN circulate|NN monocyte|NN type|NN of|NN white|NN blood|NN cell|NN bed|NN line|NN endothelium|NN migration|NN space|NN activation|NN macrophage|NN 
+driver|NN of|NN process|NN particle|NN wall|NN cell|NN concentration|NN of|NN blood|NN glucose|NN major|NN role|NN factor|NN 
+fatty|NN streak|NN 
+lipoprotein|NN ldl|NN in|NN blood|NN plasma|NN endothelium|NN risk|NN of|NN cardiovascular_disease|DS 
+set|NN of|NN reaction|NN oxidation|NN of|NN ldl|NN enzyme|NN lpa2|NN radical|NN in|NN endothelium|NN 
+micrograph|NN of|NN artery|NN heart|NN atherosclerosis|DS narrow|NN 
+tissue|NN masson|NN trichrome|NN 
+damage|NN endothelium|NN result|NN in|NN response|NN 
+monocyte|NN artery|NN wall|NN bloodstream|NN platelet|NN area|NN of|NN insult|NN 
+redox|NN induction|NN of|NN factor|NN monocyte|NN differentiation|NN of|NN monocyte|NN macrophage|NN 
+monocyte|NN macrophage|NN ldl|NN foam|NN cell|NN of|NN appearance|NN vesicle|NN content|NN 
+microscope|NN lesion|NN fatty|NN streak|NN 
+foam|NN cell|NN propagate|NN process|NN 
+in|NN addition|NN activity|NN muscle|NN proliferation|NN migration|NN media|NN intima|NN in|NN response|NN cytokine|NN cell|NN 
+formation|NN of|NN capsule|NN fatty|NN streak|NN 
+endothelium|NN muscle|NN proliferation|NN oxide|NN 
+calcification|NN lipid|NN calcification|NN form|NN muscle|NN cell|NN of|NN layer|NN in|NN muscle|NN cell|NN surface|NN of|NN atheroma|NN plaque|NN tissue|NN 
+in|NN time|NN cell|NN calcium|NN deposit|NN wall|NN portion|NN of|NN plaque|NN 
+plaque|NN regulation|NN of|NN calcium|NN deposition|NN crystallize|NN 
+form|NN of|NN calcification|NN picture|NN of|NN early|NN phase|NN of|NN arteriosclerosis|NN number|NN of|NN drug|NN mechanism|NN of|NN action|NN rainer|NN 
+cholesterol|NN vessel|NN wall|NN lipoprotein|NN ldl|NN particle|NN 
+macrophage|NN cholesterol|NN ldl|NN particle|NN step|NN in|NN inflammatory|NN process|NN 
+process|NN lipoprotein|NN hdl|NN lipoprotein|NN particle|NN cholesterol|NN tissue|NN back|NN liver|NN 
+foam|NN cell|NN platelet|NN migration|NN proliferation|NN of|NN muscle|NN cell|NN in|NN turn|NN lipid|NN collagen|NN cell|NN 
+cap|NN fatty|NN deposit|NN artery|NN line|NN intima|NN 
+fatty|NN deposit|NN enzyme|NN artery|NN time|NN 
+artery|NN thickness|NN of|NN atheroma|NN narrow|NN stenosis|NN of|NN open|NN lumen|NN 
+artery|NN open|NN 
+enlargement|NN proportion|NN atheroma|NN thickness|NN aneurysm|NN 
+feature|NN artery|NN plaque|NN type|NN plaque|NN accumulation|NN of|NN cell|NN intima|NN of|NN artery|NN lumen|NN expansion|NN of|NN bound|NN layer|NN of|NN artery|NN wall|NN 
+endothelium|NN cap|NN core|NN of|NN plaque|NN 
+core|NN of|NN cell|NN macrophage|NN muscle|NN cell|NN tissue|NN cholesterol|NN cholesterol|NN ester|NN content|NN fibrin|NN proteoglycans|NN collagen|NN elastin|NN debris|NN 
+in|NN plaque|NN core|NN of|NN plaque|NN cholesterol|NN deposit|NN cell|NN area|NN of|NN cholesterol|NN crystal|NN cleave|NN 
+periphery|NN of|NN plaque|NN cell|NN capillary|NN 
+plaque|NN damage|NN individual|NN 
+cholesterol|NN crystal|NN role|NN 
+plaque|NN intima|NN wall|NN of|NN artery|NN in|NN expansion|NN of|NN wall|NN narrow|NN of|NN lumen|NN atrophy|NN of|NN layer|NN 
+plaque|NN contain|NN fiber|NN precipitate|NN of|NN calcium|NN cell|NN 
+atherosclerosis|DS of|NN aorta|NN 
+specimen|NN 
+in|NN effect|NN portion|NN of|NN artery|NN wall|NN form|NN aneurysm|NN atheroma|NN 
+portion|NN of|NN artery|NN wall|NN plaque|NN 
+vessel|NN wall|NN elasticity|NN 
+artery|NN contract|NN heartbeat|NN pulse|NN 
+in|NN addition|NN calcification|NN deposit|NN portion|NN of|NN atheroma|NN wall|NN loss|NN of|NN elasticity|NN stiffen|NN of|NN artery|NN whole|NN 
+calcification|NN deposit|NN coronary|NN artery|NN tomography|NN electron|NN beam|NN tomography|NN ebt|NN ring|NN of|NN density|NN halo|NN outer|NN edge|NN of|NN plaque|NN artery|NN wall|NN 
+ct|NN unit|NN hounsfield|NN scale|NN argue|NN unit|NN density|NN tissue|NN calcification|NN artery|NN 
+deposit|NN evidence|NN of|NN disease|NN lumen|NN of|NN artery|NN angiography|NN 
+rupture|NN stenosis|NN disease|NN process|NN decade|NN atheroma|NN ulcerate|NN blood|NN clot|NN site|NN of|NN ulcer|NN 
+cascade|NN of|NN event|NN enlargement|NN flow|NN of|NN blood|NN 
+blockage|NN of|NN myocardial|NN heart|NN muscle|NN damage|NN 
+process|NN myocardial_infarction|DS heart|NN attack|NN 
+heart|NN attack|NN organization|NN of|NN clot|NN lumen|NN ensue|NN rupture|NN stenosis|NN closure|NN of|NN lumen|NN time|NN rupture|NN in|NN stenosis|NN blockage|NN of|NN artery|NN lumen|NN 
+stenosis|NN plaque|NN ulceration|NN event|NN in|NN atheroma|NN cap|NN 
+progression|NN of|NN atherosclerosis|DS late|NN complication|NN 
+plaque|NN rupture|NN one|NN in|NN closure|NN clot|NN patch|NN rupture|NN response|NN clot|NN process|NN stenosis|NN time|NN 
+area|NN flow|NN velocity|NN narrow|NN 
+major|NN event|NN plaque|NN rupture|NN stenosis|NN 
+trial|NN stenosis|NN plaque|NN artery|NN closure|NN 
+event|NN plaque|NN stenosis|NN 
+trial|NN of|NN heart|NN attack|NN artery|NN closure|NN plaque|NN stenosis|NN vessel|NN close|NN 
+cap|NN atheroma|NN bloodstream|NN artery|NN tissue|NN fragment|NN 
+tissue|NN fragment|NN collagen|NN tissue|NN factor|NN platelet|NN system|NN of|NN coagulation|NN 
+result|NN formation|NN of|NN thrombus|NN blood|NN clot|NN atheroma|NN blood|NN flow|NN 
+obstruction|NN of|NN blood|NN flow|NN downstream|NN tissue|NN of|NN oxygen|NN nutrient|NN 
+myocardium|NN heart|NN muscle|NN angina|NN chest_pain|ST myocardial_infarction|DS heart|NN attack|NN 
+growth|NN of|NN plaque|NN distribution|NN of|NN plaque|NN in|NN part|NN of|NN endothelium|NN 
+multiple|NN development|NN of|NN change|NN in|NN development|NN of|NN plaque|NN in|NN brain|NN of|NN age|NN spot|NN skin|NN 
+suggest|NN misrepair|NN mechanism|NN role|NN in|NN development|NN of|NN atherosclerosis|DS 
+development|NN of|NN plaque|NN result|NN of|NN repair|NN of|NN endothelium|NN 
+of|NN infusion|NN of|NN lipid|NN repair|NN altered|NN remodel|NN of|NN endothelium|NN 
+manifestation|NN of|NN misrepair|NN 
+altered|NN remodel|NN endothelium|NN fragility|NN 
+consequence|NN part|NN of|NN endothelium|NN risk|NN 
+accumulation|NN of|NN misrepairs|NN of|NN endothelium|NN 
+in|NN way|NN of|NN plaque|NN 
+part|NN of|NN wall|NN plaque|NN blockage|NN of|NN artery|NN 
+component|NN plaque|NN component|NN atheroma|NN lump|NN of|NN gruel|NN ἀθήρα|NN athera|NN accumulation|NN of|NN material|NN center|NN of|NN plaque|NN of|NN macrophage|NN lumen|NN of|NN artery|NN area|NN of|NN cholesterol|NN crystal|NN calcification|NN base|NN of|NN lesions|NN 
+lesions|NN plaque|NN category|NN vulnerable|NN 
+pathobiology|NN of|NN lesions|NN plaque|NN in|NN matrix|NN muscle|NN cell|NN 
+hand|NN plaque|NN in|NN macrophage|NN foam|NN cell|NN matrix|NN lesion|NN lumen|NN cap|NN prone|NN rupture|NN 
+rupture|NN of|NN cap|NN material|NN collagen|NN circulation|NN formation|NN in|NN lumen|NN 
+formation|NN thrombus|NN artery|NN coronary|NN occlusion|NN circulation|NN downstream|NN branch|NN thromboembolism|NN 
+thromboembolism|NN lesions|NN closure|NN of|NN lumen|NN 
+lesions|NN stenosis|NN blood|NN supply|NN tissue|NN s|NN in|NN ischemia|NN 
+complication|NN of|NN atherosclerosis|DS chronic|NN 
+plaque|NN plaque|NN formation|NN of|NN thrombus|NN blood|NN flow|NN death|NN of|NN tissue|NN artery|NN in|NN minute|NN 
+event|NN infarction|NN 
+diagnosis|NN area|NN of|NN narrow|NN stenosis|NN angiography|NN extent|NN stress|NN focus|NN of|NN human|NN technique|NN cardiovascular_disease|DS in|NN 
+method|NN narrow|NN atherosclerosis|DS disease|NN 
+human|NN study|NN event|NN in|NN location|NN plaque|NN lumen|NN event|NN 
+rupture|NN artery|NN occlusion|NN second|NN minute|NN debility|NN death|NN 
+microphotography|NN of|NN wall|NN color|NN plaque|NN hematoxylin|NN eosin|NN stain|NN plaque|NN 
+matrix|NN of|NN lesion|NN break|NN shoulder|NN of|NN cap|NN lesion|NN lumen|NN component|NN of|NN plaque|NN collagen|NN formation|NN 
+thrombus|NN downstream|NN blood|NN vessel|NN blood|NN clot|NN blood|NN flow|NN 
+blood|NN flow|NN cell|NN death|NN lack|NN of|NN oxygen|NN supply|NN cell|NN in|NN necrosis|NN 
+narrow|NN obstruction|NN of|NN blood|NN flow|NN in|NN artery|NN body|NN 
+obstruction|NN of|NN artery|NN heart|NN muscle|NN result|NN in|NN heart|NN attack|NN obstruction|NN of|NN artery|NN brain|NN result|NN in|NN stroke|DS 
+lumen|NN stenosis|NN hallmark|NN of|NN disease|NN in|NN past|NN episode|NN of|NN angina|NN abnormality|NN in|NN stress|NN test|NN severity|NN of|NN stenosis|NN 
+trial|NN of|NN event|NN site|NN stenosis|NN 
+majority|NN of|NN cardiovascular|NN event|NN rupture|NN of|NN atheroma|NN plaque|NN narrow|NN of|NN lumen|NN 
+attention|NN plaque|NN late|NN onwards|NN 
+doppler|NN ultrasound|NN of|NN carotid|NN artery|NN plaque|NN stenosis|NN method|NN angiography|NN detection|NN technique|NN in|NN decade|NN detection|NN of|NN disease|NN 
+of|NN detection|NN approach|NN detection|NN measurement|NN 
+example|NN of|NN detection|NN method|NN coronary|NN calcium|NN score|NN ct|NN carotid|NN imt|NN media|NN thickness|NN measurement|NN ultrasound|NN ultrasound|NN ivus|NN 
+example|NN of|NN method|NN subclass|NN analysis|NN hba1c|NN homocysteine|NN 
+method|NN early|NN detection|NN symptom|NN disease|NN stag|NN track|NN of|NN disease|NN progression|NN 
+method|NN of|NN in|NN nature|NN ivus|NN 
+hand|NN method|NN safer|NN 
+state|NN of|NN disease|NN progression|NN 
+in|NN year|NN development|NN in|NN technique|NN pet|NN spect|NN way|NN of|NN severity|NN of|NN plaque|NN 
+prevention|NN of|NN cardiovascular_disease|DS risk|NN factor|NN 
+management|NN of|NN atherosclerosis|DS modification|NN example|NN cessation|NN restriction|NN 
+prevention|NN diet|NN weight|NN 
+change|NN in|NN diet|NN development|NN of|NN atherosclerosis|DS 
+evidence|NN dairy|NN product|NN effect|NN risk|NN of|NN cardiovascular_disease|DS 
+in|NN fruit|NN vegetable|NN risk|NN of|NN cardiovascular_disease|DS death|NN 
+evidence|NN diet|NN cardiovascular|NN result|NN 
+evidence|NN diet|NN diet|NN in|NN change|NN cardiovascular|NN risk|NN factor|NN cholesterol|NN level|NN blood|NN pressure|NN 
+exercise|NN exercise|NN program|NN combat|NN atherosclerosis|DS circulation|NN functionality|NN of|NN vessel|NN 
+exercise|NN weight|NN in|NN patient|NN blood|NN pressure|NN decrease|NN cholesterol|NN 
+modification|NN medication|NN therapy|NN 
+example|NN help|NN cholesterol|NN medication|NN aspirin|NN help|NN clot|NN variety|NN of|NN medication|NN blood|NN pressure|NN 
+effort|NN of|NN risk|NN factor|NN modification|NN medication|NN therapy|NN symptom|NN threat|NN of|NN ischemic|NN event|NN physician|NN procedure|NN obstruction|NN 
+treatment|NN treatment|NN of|NN disease|NN medication|NN cholesterol|NN statin|NN blood|NN pressure|NN medication|NN medication|NN decrease|NN clot|NN aspirin|NN 
+number|NN of|NN procedure|NN coronary|NN intervention|NN coronary|NN artery|NN bypass|NN graft|NN endarterectomy|NN 
+treatment|NN symptom|NN 
+measure|NN 
+mean|NN method|NN of|NN treatment|NN smoke|NN exercise|NN 
+method|NN medicine|NN step|NN in|NN cardiovascular_disease|DS improvement|NN method|NN term|NN 
+key|NN approach|NN multiple|NN treatment|NN strategy|NN 
+in|NN addition|NN approach|NN transport|NN behavior|NN success|NN combination|NN treatment|NN strategy|NN basis|NN result|NN people|NN 
+group|NN of|NN medication|NN statin|NN atherosclerosis|DS 
+benefit|NN in|NN cardiovascular_disease|DS mortality|NN in|NN cholesterol|NN side|NN effect|NN 
+data|NN in|NN men|NN conclusion|NN woman|NN people|NN age|NN of|NN 
+surgery|NN atherosclerosis|DS ischemia|NN tissue|NN loss|NN in|NN case|NN of|NN peripheral|NN artery|NN disease|NN surgery|NN 
+bypass|NN surgery|NN flow|NN segment|NN of|NN artery|NN artery|NN bloodflow|NN 
+coronary|NN artery|NN bypass|NN manipulation|NN of|NN aorta|NN rate|NN of|NN stroke|DS mortality|NN pump|NN coronary|NN revascularization|NN 
+evidence|NN anticoagulant|NN warfarin|NN clot|NN formation|NN k|NN metabolism|NN calcification|NN in|NN term|NN clot|NN formation|NN in|NN term|NN 
+research|NN indication|NN of|NN role|NN of|NN lipoprotein|NN hdl|NN atherosclerosis|DS milano|NN human|NN variant|NN of|NN hdl|NN protein|NN 
+trial|NN human|NN milano|NN hdl|NN in|NN people|NN angina|NN reduction|NN in|NN coronary|NN plaque|NN volume|NN in|NN week|NN increase|NN in|NN volume|NN in|NN 
+trial|NN in|NN jama|NN in|NN early|NN work|NN in|NN human|NN a1|NN milano|NN hdl|NN method|NN ability|NN milano|NN hdlipoprotein|NN 
+method|NN particle|NN concentration|NN in|NN study|NN revers|NN atheroma|NN 
+hdl|NN mean|NN 
+example|NN drug|NN torcetrapib|NN agent|NN hdl|NN 
+in|NN trial|NN death|NN 
+study|NN drug|NN in|NN december|NN 
+inhibitor|NN approach|NN 
+action|NN of|NN macrophage|NN plaque|NN progression|NN 
+immunomodulation|NN of|NN atherosclerosis|DS term|NN technique|NN system|NN function|NN macrophage|NN action|NN 
+research|NN expression|NN control|NN mechanism|NN 
+topic|NN ppar|NN in|NN blood|NN sugar|NN variant|NN of|NN production|NN function|NN multiple|NN variant|NN of|NN protein|NN lipoprotein|NN transport|NN particle|NN 
+involvement|NN of|NN peroxidation|NN chain|NN reaction|NN in|NN atherogenesis|NN research|NN role|NN of|NN isotope|NN fatty|NN acid|NN oxidation|NN pufas|NN 
+pufas|NN nutrient|NN in|NN metabolism|NN in|NN food|NN 
+in|NN mouse|NN model|NN lipoprotein|NN metabolism|NN body|NN weight_gain|ST cholesterol|NN handle|NN damage|NN 
+mirna|NN micrornas|NN mirnas|NN sequence|NN in|NN utr|NN of|NN target|NN mrna|NN of|NN gene|NN cleavage|NN repression|NN of|NN machinery|NN 
+in|NN vascular|NN vessel|NN mirnas|NN 
+in|NN cardiovascular_disease|DS 
+in|NN initiation|NN progression|NN metabolism|NN insulin|NN signal|NN homeostatis|NN cell|NN type|NN progression|NN proliferation|NN myeloid|NN cell|NN differentiation|NN 
+in|NN rodent|NN inhibition|NN of|NN level|NN expression|NN of|NN in|NN human|NN plaque|NN 
+intron|NN of|NN human|NN sterol|NN protein|NN 2|NN srebp2|NN gene|NN chromosome|NN of|NN gene|NN chromosome|NN 
+regulate|NN homeostatis|NN in|NN utrs|NN of|NN gene|NN in|NN cholesterol|NN transport|NN cassette|NN abc|NN transporter|NN enhance|NN expression|NN 
+study|NN abca1|NN mediate|NN transport|NN of|NN cholesterol|NN peripheral|NN tissue|NN in|NN reverse|NN cholesterol|NN transport|NN pathway|NN cholesterol|NN peripheral|NN tissue|NN liver|NN bile|NN acid|NN excretion|NN 
+abca1|NN role|NN in|NN cholesterol|NN accumulation|NN in|NN macrophage|NN 
+function|NN level|NN of|NN abca1|NN cholesterol|NN efflux|NN 
+hand|NN function|NN level|NN of|NN abca1|NN cholesterol|NN efflux|NN 
+suppression|NN of|NN cholesterol|NN plasma|NN hdl|NN level|NN regulation|NN of|NN expression|NN 
+sugar|NN cyclodextrin|NN cholesterol|NN in|NN artery|NN of|NN mouse|NN diet|NN 
+dna|NN damage|NN age|NN risk|NN factor|NN cardiovascular|NN problem|NN 
+basis|NN impact|NN of|NN risk|NN factor|NN 
+evidence|NN role|NN of|NN damage|NN in|NN age|NN 
+common|NN type|NN of|NN damage|NN in|NN dna|NN in|NN plaque|NN muscle|NN cell|NN macrophage|NN cell|NN damage|NN formation|NN 
+dna|NN strand|NN break|NN in|NN plaque|NN 
+werner|NN syndrome|NN w|NN premature|NN condition|NN in|NN human|NN 
+w|NN defect|NN in|NN recq|NN helicase|NN in|NN repair|NN damage|NN dna|NN 
+w|NN patient|NN burden|NN of|NN plaque|NN in|NN coronary|NN artery|NN aorta|NN calcification|NN of|NN valve|NN 
+find|NN dna|NN damage|NN early|NN plaque|NN development|NN damage|NN theory|NN of|NN 
+microbiota|NN microorganism|NN in|NN body|NN atherosclerosis|DS in|NN way|NN modulation|NN of|NN immune|NN system|NN change|NN in|NN metabolism|NN processing|NN of|NN nutrient|NN production|NN of|NN metabolite|NN blood|NN circulation|NN 
+metabolite|NN gut|NN bacteria|NN tmao|NN 
+level|NN atherosclerosis|DS in|NN human|NN study|NN research|NN relation|NN 
+association|NN gene|NN trimethylamine|NN enzyme|NN in|NN generation|NN atherosclerosis|DS 
+economics|NN in|NN coronary|NN atherosclerosis|DS of|NN ten|NN condition|NN hospitalization|NN in|NN hospital|NN cost|NN of|NN 
+see|NN score|NN reference|NN 1|NN 
+sign|NN symptom|NN of|NN atherosclerosis|DS 
+nhlbi|NN nih|NN http|NN 
+june|NN 
+2|NN 
+atherosclerosis|DS 
+nhlbi|NN nih|NN http|NN 
+june|NN 
+risk|NN atherosclerosis|DS 
+http|NN 
+june|NN 
+atherosclerosis|DS 
+nhlbi|NN nih|NN http|NN 
+june|NN 
+atherosclerosis|DS 
+nhlbi|NN nih|NN http|NN 
+june|NN 
+w|NN fleg|NN jl|NN mw|NN 
+tresch|NN aronow|NN cardiovascular_disease|DS in|NN fifth|NN edition|NN http|NN 
+press|NN 
+isbn|NN 
+atherosclerosis|DS 
+nhlbi|NN nih|NN http|NN 
+june|NN 
+atherosclerosis|DS 
+nhlbi|NN nih|NN http|NN 
+june|NN 
+topol|NN ej|NN califf|NN rm|NN 
+textbook|NN of|NN cardiovascular|NN medicine|NN http|NN ok|NN 
+lippincott|NN wilkins|NN 
+isbn|NN 
+shor|NN 
+chlamydia|NN atherosclerosis|DS lesion|NN discovery|NN diagnosis|NN treatment|NN s|NN 
+springer|NN science|NN business|NN media|NN 
+isbn|NN 
+http|NN 
+dictionary|NN 
+ross|NN r|NN 
+pathogenesis|NN of|NN atherosclerosis|DS perspective|NN 
+nature|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+atherosclerosis|DS 
+harvard|NN health|NN publication|NN health|NN publication|NN 
+health|NN topic|NN z|NN 
+atherosclerosis|DS http|NN 
+html|NN 
+heart|NN lung|NN blood|NN institute|NN 
+sign|NN of|NN heart|NN disease|NN in|NN early|NN childhood|NN http|NN 
+flora|NN gc|NN baker|NN ab|NN loewenson|NN rb|NN ac|NN 
+study|NN of|NN cerebral|NN atherosclerosis|DS in|NN male|NN female|NN 
+circulation|NN 
+http|NN 
+pmid|NN http|NN 
+arrhythmia|ST 
+heart|NN stroke|DS foundation|NN 
+copy|NN http|NN 
+sims|NN h|NN 
+mitochondrion|NN metabolism|NN cell|NN death|NN in|NN stroke|DS 
+biochimica|NN biophysica|NN acta|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+wf|NN rh|NN beyer|NN j|NN 
+coronary|NN disease|NN state|NN soldier|NN in|NN action|NN in|NN korea|NN report|NN 
+jama|NN 
+http|NN 
+pmid|NN http|NN 
+age|NN age|NN of|NN of|NN soldier|NN 
+age|NN in|NN of|NN men|NN 
+x|NN p|NN y|NN ym|NN aj|NN g|NN johnson|NN c|NN h|NN shan|NN h|NN du|NN f|NN ne|NN yu|NN d|NN s|NN m|NN wj|NN sun|NN j|NN jiang|NN x|NN wang|NN h|NN yang|NN x|NN 
+oxygen|NN specie|NN cell|NN activation|NN http|NN 
+arteriosclerosis|NN thrombosis|DS biology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+williams|NN i|NN 
+hypothesis|NN of|NN early|NN atherogenesis|NN http|NN 
+arteriosclerosis|NN thrombosis|DS biology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+m|NN fuhrman|NN b|NN 
+oxidation|NN wall|NN macrophage|NN status|NN in|NN lipoprotein|NN in|NN cell|NN role|NN of|NN prooxidants|NN antioxidant|NN 
+biochemistry|NN 
+http|NN 
+pmid|NN http|NN 
+http|NN sinha|NN feinstein|NN mj|NN 2019|NN 
+coronary_artery_disease|DS manifestation|NN in|NN hiv|NN 
+journal|NN of|NN cardiology|NN 
+http|NN 
+pmid|NN http|NN 
+ea|NN khanna|NN p|NN pitchumoni|NN c|NN mohan|NN v|NN 
+benefit|NN risk|NN of|NN statin|NN therapy|NN prevention|NN of|NN cardiovascular_disease|DS in|NN indian|NN population|NN risk|NN of|NN coronary_artery_disease|DS diabetes|DS http|NN 
+journal|NN of|NN research|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+heart|NN association|NN asian|NN fact|NN 
+http|NN borissoff|NN ji|NN spronk|NN hm|NN heeneman|NN s|NN cate|NN h|NN 
+player|NN in|NN maze|NN 
+http|NN 
+cardiovascular|NN research|NN 
+http|NN 
+pmid|NN http|NN 
+borissoff|NN ji|NN heeneman|NN s|NN e|NN p|NN van|NN oerle|NN r|NN winckers|NN jw|NN hamulyák|NN k|NN hackeng|NN tm|NN daemen|NN cate|NN h|NN hm|NN 
+early|NN atherosclerosis|DS procoagulant|NN state|NN 
+circulation|NN 
+http|NN 
+pmid|NN http|NN 
+borissoff|NN ji|NN spronk|NN hm|NN cate|NN h|NN 
+system|NN modulator|NN of|NN atherosclerosis|DS 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+food|NN nutrition|NN board|NN institute|NN of|NN medicine|NN of|NN academy|NN 
+reference|NN intake|NN energy|NN carbohydrate|NN fiber|NN fat|NN fatty|NN acid|NN cholesterol|NN protein|NN acid|NN macronutrients|NN http|NN pa|NN 
+academy|NN press|NN 
+pp|NN 
+d|NN rimm|NN eb|NN herrington|NN dm|NN 
+fat|NN carbohydrate|NN progression|NN of|NN coronary|NN atherosclerosis|DS in|NN woman|NN http|NN 
+journal|NN of|NN nutrition|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+bhatt|NN dl|NN topol|NN ej|NN 
+need|NN inflammation|NN hypothesis|NN http|NN 
+circulation|NN 
+1|NN 
+s|NN 
+pmid|NN http|NN 
+griffin|NN m|NN johnson|NN p|NN d|NN gh|NN 
+cholesterol|NN synthesis|NN relationship|NN glucose|NN insulin|NN weight_loss|ST 
+atherosclerosis|DS 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+king|NN cr|NN knutson|NN kl|NN rathouz|NN pj|NN sidney|NN s|NN k|NN d|NN 
+sleep|NN duration|NN coronary|NN artery|NN calcification|NN http|NN 
+jama|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+provost|NN eb|NN madhloum|NN n|NN int|NN panis|NN l|NN p|NN t|NN 
+media|NN thickness|NN marker|NN of|NN atherosclerosis|DS air|NN pollution|NN exposure|NN evidence|NN http|NN 
+plo|NN 
+e0127014|NN 
+http|NN 
+pmc|NN http|NN pmc4430520|NN 
+pmid|NN http|NN 
+adar|NN sd|NN sheppard|NN l|NN s|NN polak|NN jf|NN sampson|NN pd|NN diez|NN roux|NN av|NN budoff|NN m|NN jacob|NN dr|NN barr|NN rg|NN watson|NN k|NN kaufman|NN jd|NN 
+particulate|NN air|NN pollution|NN progression|NN of|NN thickness|NN cohort|NN study|NN study|NN of|NN atherosclerosis|DS air|NN pollution|NN http|NN pmc3637008|NN 
+medicine|NN 
+e1001430|NN 
+s|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+early|NN analysis|NN suggest|NN concentration|NN imt|NN progression|NN reduction|NN in|NN progression|NN 
+wang|NN 
+gradient|NN exposure|NN carotid|NN atherosclerosis|DS http|NN 
+hypothyroidism|NN reduce|NN atherosclerosis|DS risk|NN http|NN 
+family|NN physician|NN 
+1|NN s|NN 
+bf|NN al|NN dj|NN 
+periodontal|NN pathogen|NN pathogenesis|NN of|NN atherosclerosis|DS http|NN 
+journal|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+taubes|NN g|NN 
+nutrition|NN 
+science|NN of|NN fat|NN 
+science|NN 
+http|NN 
+pmid|NN http|NN 
+food|NN pyramid|NN nutrition|NN source|NN school|NN of|NN health|NN http|NN 
+december|NN 
+staprãns|NN i|NN rapp|NN jh|NN pan|NN xm|NN hardman|NN da|NN kr|NN 
+lipid|NN in|NN development|NN of|NN fatty|NN streak|NN in|NN rabbit|NN 
+arteriosclerosis|NN thrombosis|DS biology|NN 
+http|NN 
+pmid|NN ttps|NN 
+song|NN jh|NN fujimoto|NN k|NN miyazawa|NN t|NN 
+fatty|NN acid|NN peroxidation|NN in|NN plasma|NN tissue|NN lipid|NN of|NN rat|NN oil|NN 
+journal|NN of|NN nutrition|NN 
+http|NN 
+pmid|NN http|NN 
+yap|NN sc|NN choo|NN ym|NN hew|NN nf|NN yap|NN sf|NN khor|NN ht|NN goh|NN sh|NN 
+susceptibility|NN of|NN density|NN lipoprotein|NN rabbit|NN diet|NN coconut|NN palm|NN soybean|NN oil|NN 
+lipid|NN 
+http|NN 
+pmid|NN s|NN 
+greco|NN av|NN mingrone|NN g|NN 
+serum|NN pattern|NN in|NN rabbit|NN fatty|NN acid|NN 
+pathology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+scientist|NN challenge|NN cause|NN of|NN heart|NN disease|NN http|NN 
+matte|NN 
+taste|NN metabolism|NN in|NN human|NN 
+physiology|NN behavior|NN 
+http|NN 
+pmid|NN http|NN 
+rancid|NN odor|NN of|NN fat|NN dobarganes|NN c|NN g|NN 
+fat|NN in|NN food|NN 
+opinion|NN in|NN nutrition|NN care|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+supplement|NN fda|NN 
+supplement|NN http|NN 
+cj|NN valente|NN aj|NN sprague|NN ea|NN kelley|NN jl|NN cayatte|NN aj|NN mowery|NN j|NN 
+atherosclerosis|DS 
+target|NN stabilization|NN regression|NN 
+circulation|NN 
+suppl|NN 
+pmid|NN http|NN 
+robbins|NN hilgendorf|NN i|NN gf|NN theurl|NN i|NN iwamoto|NN y|NN jl|NN gorbatov|NN r|NN gk|NN gerhardt|NN lm|NN smyth|NN d|NN zavitz|NN cc|NN ea|NN parson|NN rooijen|NN n|NN lin|NN hy|NN husain|NN m|NN libby|NN p|NN m|NN weissleder|NN r|NN fk|NN 
+proliferation|NN macrophage|NN accumulation|NN in|NN atherosclerosis|DS s|NN 
+nature|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+miller|NN jd|NN 
+cardiovascular|NN calcification|NN origin|NN 
+nature|NN material|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+glagov|NN s|NN weisenberg|NN e|NN ck|NN stankunavicius|NN r|NN kolettis|NN gj|NN 
+enlargement|NN of|NN human|NN coronary|NN artery|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+coronary|NN atherosclerosis|DS plaque|NN calcification|NN http|NN 
+janoudi|NN shamoun|NN fe|NN jk|NN g|NN 
+cholesterol|NN crystal|NN inflammation|NN destabilization|NN of|NN plaque|NN 
+heart|NN journal|NN 
+http|NN artj|NN 
+pmid|NN http|NN 
+maton|NN rl|NN mclaughlin|NN cw|NN johnson|NN s|NN warner|NN mq|NN d|NN jd|NN 
+human|NN biology|NN health|NN http|NN 
+englewood|NN cliff|NN nj|NN prentice|NN hall|NN 
+http|NN 
+wang|NN j|NN michelitsch|NN t|NN mahadeva|NN r|NN 
+consequence|NN of|NN misrepair|NN novel|NN theory|NN of|NN 
+http|NN 
+http|NN 
+j|NN michelitsch|NN t|NN 
+process|NN of|NN accumulation|NN of|NN misrepairs|NN 
+http|NN 
+http|NN w|NN 
+j|NN michelitsch|NN t|NN 
+misrepair|NN mechanism|NN in|NN development|NN of|NN plaque|NN 
+http|NN 
+http|NN w|NN 
+ross|NN r|NN 
+atherosclerosis|DS disease|NN 
+journal|NN of|NN medicine|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+av|NN m|NN j|NN fd|NN r|NN 
+concept|NN of|NN plaque|NN http|NN 
+arteriosclerosis|NN thrombosis|DS biology|NN 
+http|NN 
+pmid|NN http|NN 
+didangelos|NN d|NN c|NN 
+proteomics|NN of|NN coronary|NN syndrome|NN 
+atherosclerosis|DS report|NN 
+http|NN 
+pmid|NN http|NN 
+maseri|NN fuster|NN v|NN 
+plaque|NN 
+circulation|NN 
+http|NN 
+pmid|NN http|NN 
+mcgill|NN hc|NN mcmahan|NN s|NN 
+heart|NN disease|NN in|NN century|NN implication|NN of|NN determinant|NN of|NN atherosclerosis|DS in|NN youth|NN pday|NN study|NN 
+circulation|NN 
+http|NN 
+pmid|NN http|NN 
+mcneal|NN cj|NN dajani|NN t|NN wilson|NN d|NN ae|NN dickerson|NN jb|NN m|NN 
+hypercholesterolemia|DS in|NN youth|NN opportunity|NN obstacle|NN cardiovascular_disease|DS 
+atherosclerosis|DS report|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rice|NN bh|NN 
+dairy|NN cardiovascular_disease|DS review|NN of|NN research|NN http|NN 
+nutrition|NN report|NN 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+m|NN baars|NN s|NN 
+relationship|NN dairy|NN consumption|NN obesity|NN cardiovascular_disease|DS 
+journal|NN of|NN nutrition|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+wang|NN x|NN y|NN j|NN zhu|NN m|NN zhao|NN g|NN bao|NN w|NN hu|NN fb|NN 
+fruit|NN consumption|NN mortality|NN cause|NN cardiovascular_disease|DS cancer|DS review|NN of|NN cohort|NN study|NN http|NN 
+bmj|NN 
+g4490|NN 
+http|NN 
+pmc|NN http|NN c4115152|NN 
+pmid|NN http|NN 
+walker|NN c|NN bv|NN 
+diet|NN cardiovascular_disease|DS prevention|NN evidence|NN 
+family|NN physician|NN 
+pmid|NN http|NN 
+aj|NN k|NN hc|NN shai|NN i|NN kr|NN r|NN briel|NN m|NN 
+diet|NN modification|NN of|NN cardiovascular|NN risk|NN factor|NN http|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+unit|NN cardiovascular|NN circulatory|NN function|NN 
+suzane|NN smeltzer|NN brenda|NN bare|NN janice|NN l|NN hinkle|NN k|NN cheever|NN 
+brunner|NN suddarth|NN textbook|NN of|NN nurse|NN 
+philadelphia|NN lippincott|NN wilkins|NN 
+textbook|NN 
+g|NN 
+treatment|NN of|NN atherosclerosis|DS time|NN 
+cleve|NN 
+clin|NN 
+http|NN 
+pmid|NN http|NN 
+ja|NN barua|NN r|NN 
+pathophysiology|NN of|NN cigarette|NN smoke|NN cardiovascular_disease|DS update|NN 
+journal|NN of|NN college|NN of|NN cardiology|NN 
+http|NN 
+pmid|NN http|NN 
+pigozzi|NN f|NN al|NN 
+dy|NN function|NN target|NN of|NN exercise|NN prevention|NN treatment|NN of|NN cardiovascular_disease|DS 
+sport|NN 
+phys|NN 
+fitness|NN 
+koh|NN kk|NN han|NN sh|NN pc|NN ek|NN mj|NN 
+combination|NN therapy|NN treatment|NN prevention|NN of|NN atherosclerosis|DS focus|NN interaction|NN http|NN 
+atherosclerosis|DS 
+2|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+taylor|NN f|NN huffman|NN md|NN macedo|NN af|NN th|NN burke|NN m|NN davey|NN smith|NN g|NN ward|NN k|NN s|NN 
+statin|NN prevention|NN of|NN cardiovascular_disease|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+1|NN 1|NN cd004816|NN 
+http|NN 2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+vos|NN e|NN cp|NN 
+benefit|NN of|NN statin|NN http|NN 
+cmaj|NN 
+author|NN reply|NN http|NN 
+pmc|NN s|NN 
+pmid|NN http|NN 
+zhao|NN df|NN jj|NN m|NN bannon|NN pg|NN wilson|NN mk|NN byrom|NN mj|NN thourani|NN v|NN taggart|NN dp|NN puskas|NN jd|NN mp|NN 
+coronary|NN artery|NN bypass|NN manipulation|NN of|NN aorta|NN network|NN http|NN 
+journal|NN of|NN college|NN of|NN cardiology|NN 
+http|NN 
+pmid|NN http|NN 
+price|NN pa|NN faus|NN sa|NN williamson|NN mk|NN 
+artery|NN calcification|NN growth|NN vitamin|NN d|NN http|NN 
+arteriosclerosis|NN thrombosis|DS biology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+geleijnse|NN jm|NN vermeer|NN c|NN schurgers|NN mh|NN van|NN der|NN meer|NN im|NN hofman|NN jc|NN 
+intake|NN of|NN menaquinone|NN risk|NN of|NN coronary|NN heart|NN disease|NN rotterdam|NN study|NN 
+journal|NN of|NN nutrition|NN 
+http|NN 
+pmid|NN http|NN 
+linus|NN institute|NN oregon|NN state|NN university|NN http|NN 
+http|NN 
+barter|NN pj|NN caulfield|NN m|NN eriksson|NN m|NN sm|NN jj|NN m|NN j|NN mosca|NN l|NN tardif|NN jc|NN water|NN cl|NN jh|NN buhr|NN ka|NN mr|NN ar|NN brewer|NN b|NN 
+effect|NN of|NN torcetrapib|NN in|NN patient|NN risk|NN coronary|NN event|NN 
+journal|NN of|NN medicine|NN 
+s|NN 
+pmid|NN http|NN 
+j|NN hansson|NN gk|NN pk|NN 
+immunomodulation|NN of|NN atherosclerosis|DS implication|NN vaccine|NN development|NN http|NN 
+arteriosclerosis|NN thrombosis|DS biology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+spiteller|NN g|NN 
+relation|NN of|NN peroxidation|NN atherogenesis|NN theory|NN atherogenesis|NN 
+nutrition|NN food|NN research|NN 
+http|NN 
+pmid|NN http|NN 
+berbée|NN jf|NN mol|NN im|NN milne|NN gl|NN pollock|NN e|NN hoeke|NN g|NN d|NN c|NN pc|NN van|NN der|NN ploeg|NN lh|NN m|NN 
+fatty|NN acid|NN atherosclerosis|DS peroxidation|NN hypercholesterolemia|DS 
+atherosclerosis|DS 
+http|NN 
+pmid|NN http|NN 
+d|NN 
+atherosclerosis|DS pufas|NN deuteron|NN proton|NN 
+atherosclerosis|DS 
+http|NN 
+pmid|NN http|NN 
+chen|NN wj|NN yin|NN k|NN zhao|NN gj|NN yc|NN tang|NN ck|NN 
+magic|NN mystery|NN of|NN in|NN atherosclerosis|DS 
+atherosclerosis|DS 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+sacco|NN j|NN k|NN 
+micrornas|NN role|NN in|NN metabolism|NN http|NN c91|NN 
+opinion|NN in|NN lipidology|NN 
+p|NN 
+pmid|NN http|NN 
+bommer|NN gt|NN march|NN 
+regulation|NN of|NN homeostasis|NN locus|NN http|NN 
+cell|NN metabolism|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+rayner|NN kj|NN sheedy|NN fj|NN cc|NN hussain|NN fn|NN temel|NN re|NN parathath|NN s|NN van|NN gils|NN jm|NN rayner|NN aj|NN suarez|NN y|NN c|NN ea|NN kj|NN 
+antagonism|NN of|NN in|NN mouse|NN promote|NN cholesterol|NN transport|NN regression|NN of|NN atherosclerosis|DS http|NN 
+journal|NN of|NN investigation|NN 
+http|NN jci57275|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+y|NN 
+role|NN of|NN cell|NN cycle|NN progression|NN cell|NN proliferation|NN 
+cell|NN cycle|NN 
+http|NN 
+pmid|NN http|NN 
+singaraja|NN rr|NN stahmer|NN b|NN m|NN merkel|NN m|NN j|NN bissada|NN n|NN m|NN jm|NN ramakrishnan|NN r|NN park|NN mr|NN rinninger|NN f|NN 
+bind|NN cassette|NN transporter|NN a1|NN molecule|NN in|NN lipoprotein|NN cholesteryl|NN ester|NN metabolism|NN in|NN mouse|NN 
+arteriosclerosis|NN thrombosis|DS biology|NN 
+http|NN 
+pmid|NN http|NN 
+zimmer|NN s|NN bakke|NN s|NN bode|NN n|NN halvorsen|NN b|NN t|NN skjelland|NN m|NN d|NN li|NN hempel|NN c|NN heneka|NN mt|NN v|NN ml|NN j|NN björkhem|NN i|NN gustafsson|NN jå|NN m|NN ar|NN sd|NN t|NN schultze|NN jl|NN g|NN d|NN e|NN 
+cyclodextrin|NN atherosclerosis|DS regression|NN macrophage|NN reprogramming|NN http|NN c4878149|NN 
+science|NN medicine|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+lay|NN summary|NN http|NN news|NN 
+wu|NN h|NN aj|NN 
+instability|NN age|NN focus|NN excision|NN repair|NN 
+trend|NN in|NN cardiovascular|NN medicine|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+pk|NN e|NN danser|NN ah|NN aj|NN 
+damage|NN determinant|NN of|NN http|NN 
+journal|NN of|NN science|NN 
+http|NN 
+pmc|NN s|NN 
+pmid|NN http|NN 
+av|NN bennett|NN mr|NN 
+mechanism|NN of|NN disease|NN in|NN microvasculature|NN http|NN 
+journal|NN of|NN pharmacology|NN 
+http|NN 
+pmid|NN http|NN 
+martinet|NN w|NN mw|NN gr|NN herman|NN ag|NN mm|NN 
+level|NN of|NN dna|NN damage|NN dna|NN repair|NN enzyme|NN in|NN human|NN plaque|NN 
+circulation|NN 
+http|NN 
+pmid|NN http|NN 
+t|NN m|NN tashiro|NN s|NN y|NN 
+role|NN of|NN damage|NN in|NN cardiovascular_disease|DS 
+circulation|NN journal|NN 
+1|NN 
+tps|NN 
+pmid|NN http|NN 
+barrington|NN wt|NN lusis|NN aj|NN 
+atherosclerosis|DS association|NN gut|NN microbiome|NN atherosclerosis|DS http|NN 
+review|NN 
+cardiology|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+jie|NN z|NN xia|NN h|NN sl|NN feng|NN q|NN s|NN liang|NN s|NN al|NN 
+gut|NN microbiome|NN in|NN cardiovascular_disease|DS http|NN 
+nature|NN communication|NN 
+1|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+pfuntner|NN lm|NN steiner|NN c|NN 
+cost|NN hospital|NN stay|NN in|NN state|NN http|NN 
+brief|NN rockville|NN md|NN agency|NN healthcare|NN research|NN quality|NN 
+link|NN atherosclerosis|DS http|NN classification|NN d|NN p|NN 
+http|NN 
+ttp|NN http|NN http|NN resource|NN mesh|NN d050197|NN http|NN i|NN diseasesdb|NN http|NN medlineplus|NN http|NN emedicine|NN http|NN ew|NN uk|NN atherosclerosis|DS p|NN q12252367|NN http|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

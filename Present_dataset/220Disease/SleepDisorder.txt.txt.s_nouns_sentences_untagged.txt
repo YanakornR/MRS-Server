@@ -1,0 +1,152 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN sleep_disorder|DS polysomnogramjpg|NN psychiatry|NN sleep|NN medicine|NN 
+sleep_disorder|DS sleep_disorder|DS disorder|NN sleep|NN pattern|NN person|NN animal|NN 
+sleep_disorder|DS function|NN 
+test|NN sleep_disorder|DS 
+sleep|NN variety|NN issue|NN teeth|NN bruxism|NN night|NN terror|NN 
+person|NN difficulty|NN andor|NN cause|NN insomnia|ST 
+sleep_disorder|DS rhythm|NN sleep_disorder|DS time|NN sleep_disorder|DS condition|NN 
+sleep_disorder|DS insomnia|ST sleep|NN apnea|ST sleepiness|NN time|NN sickness|NN disruption|NN sleep|NN cycle|NN infection|NN sleepwalk|NN night|NN terror|NN 
+management|NN sleep|NN disturbance|NN substance|NN abuse|NN disorder|NN condition|NN 
+sleep_disorder|DS men|NN women|NN age|NN 
+people|NN claim|NN sleep|NN problem|NN point|NN 
+factor|NN medication|NN use|NN change|NN rhythm|NN lifestyle|NN change|NN problem|NN stress|NN 
+risk|NN sleep_disorder|DS sleep_disorder|DS ed|NN limb|NN movement|NN leg|NN syndrome|NN rem|NN sleep|NN behavior|NN disorder|NN insomnia|ST rhythm|NN disturbance|NN content|NN 
+disorder|NN type|NN cause|NN sleep_disorder|DS disease|NN sleep|NN disturbance|NN alzheimer|NN disease|NN treatment|NN treatment|NN acupuncture|NN hypnosis|NN music|NN therapy|NN sleep|NN medicine|NN epidemiology|NN children|NN adult|NN sleep|NN sleep|NN leg|NN syndrome|NN reference|NN link|NN 
+clench|NN teeth|NN 
+groan|NN exhalation|NN 
+sleep|NN phase|NN disorder|NN inability|NN time|NN problem|NN sleep|NN maintenance|NN disorder|NN rhythm|NN 
+disorder|NN sleep|NN phase|NN disorder|NN disorder|NN sleep|NN wake|NN rhythm|NN shift|NN work|NN sleep_disorder|DS syndrome|NN breath|NN rate|NN sleep|NN 
+neurologic|NN cause|NN long-sleep|NN similarity|NN 
+disorder|NN insomnia|ST difficulty|NN andor|NN sleep|NN cause|NN symptom|NN 
+syndrome|NN disorder|NN hypersomnia|NN mood|NN change|NN daytime|NN sleepiness|NN ed|NN time|NN 
+weakness|ST motor|NN muscle|NN collapse|NN floor|NN awareness|NN night|NN terror|NN sleep|NN terror|NN disorder|NN awaken|NN sleep|NN behavior|NN terror|NN need|NN night|NN 
+enuresis|DS bed-wet|NN person|NN sleep|NN bladder|NN sleep-relate|NN event|NN action|NN sleep|NN example|NN sleep|NN walk|NN 
+limb|NN movement|NN disorder|NN movement|NN arm|NN leg|NN sleep|NN example|NN leg|NN 
+jerk|NN disorder|NN 
+eye|NN movement|NN sleep|NN behavior|NN disorder|NN dream|NN rem|NN sleep|NN bed|NN partner|NN self|NN rem|NN sleep_disorder|DS leg|NN syndrome|NN urge|NN leg|NN 
+shift|NN work|NN sleep_disorder|DS rhythm|NN sleep_disorder|DS 
+jet|NN lag|NN rhythm|NN sleep_disorder|DS manual|NN disorder|NN 
+sleep|NN sleep|NN obstruction|NN airway|NN sleep|NN lack|NN sleep|NN 
+form|NN sleep|NN apnea|ST obstructive|NN sleep_disorder|DS collapse|NN airway|NN back|NN throat|NN sleep|NN 
+purpose|NN sleep|NN study|NN episode|NN airway|NN collapse|NN second|NN sleep|NN paralysis|ST paralysis|ST body|NN sleep|NN 
+sleep|NN paralysis|ST hallucination|ST 
+activity|NN wakefulness|NN eate|NN dress|NN walk|NN knowledge|NN subject|NN 
+cause|NN sleep|NN deprivation|NN dread|NN fear|NN bed|NN 
+sign|NN illness|NN anxiety|ST panic|NN attack|NN attempt|NN 
+category|NN sleep_disorder|DS hypersomnia|NN insomnia|ST 
+subcategory|NN body|NN secondary|NN condition|NN pathologic|NN condition|NN disturbance|NN rhythm|NN disorder|NN mood|NN disorder|NN stress|NN anxiety|ST depression|ST health|NN condition|NN asthma|DS diabete|NN heart|NN disease|NN pregnancy|NN condition|NN 
+hypersomnia|NN brain|NN origin|NN 
+disorder|NN dyssomnia|NN brain|NN inability|NN control|NN sleep|NN wakefulness|NN disease|NN amount|NN fatigue|ST sleep|NN day|NN 
+patient|NN hypersomnia|NN amount|NN sleep|NN day|NN activity|NN 
+patient|NN ability|NN patient|NN rest|NN live|NN hypersomnia|NN syndrome|NN menstrual-relate|NN sleep_disorder|DS ed|NN breath|NN type|NN sleep|NN airway|NN resistance|NN syndrome|NN leg|NN syndrome|NN limb|NN movement|NN disorder|NN rhythm|NN sleep_disorder|DS sleep|NN phase|NN disorder|NN sleep|NN phase|NN disorder|NN disorder|NN category|NN sleep_disorder|DS movement|NN emotion|NN perception|NN dream|NN connection|NN sleep|NN 
+sleep|NN enuresis|DS groan|NN head|NN syndrome|NN night|NN hear|NN noise|NN 
+sleep|NN terror|NN characterize|NN arousal|NN sleep|NN scream|NN cry|NN manifestation|NN fear|NN rem|NN sleep|NN behaviour|NN disorder|NN sleep|NN talk|NN sleep|NN sex|NN condition|NN sleep_disorder|DS deletion|NN syndrome|NN alcoholism|NN mood|NN disorder|NN depression|ST anxiety|ST disorder|NN panic|NN schizophrenia|DS sleep|NN sickness|NN disease|NN fly|NN 
+review|NN childhood|NN experience|NN family|NN conflict|NN trauma|NN risk|NN number|NN sleep_disorder|DS adulthood|NN sleep|NN apnea|ST insomnia|ST alcohol|NN consumption|NN risk|NN sleep|NN 
+addition|NN synopse|NN sleep_disorder|DS rem|NN sleep|NN behavior|NN disorder|NN component|NN 
+total|NN participant|NN irbd|NN half|NN questionnaire|NN 
+result|NN study|NN people|NN irbd|NN report|NN relative|NN sleep_disorder|DS people|NN age|NN sex|NN disorder|NN research|NN information|NN nature|NN sleep_disorder|DS 
+population|NN development|NN sleep_disorder|DS people|NN brain|NN injury|NN 
+researcher|NN issue|NN review|NN find|NN 
+result|NN individual|NN risk|NN sleep|NN daytime|NN sleepiness|NN insomnia|ST find|NN table|NN source|NN data|NN sleep|NN variable|NN community|NN community|NN sleep|NN category|NN control|NN disturbance|NN sleep|NN problem|NN sleep|NN initiation|NN daytime|NN sleepiness|NN community|NN sample|NN disturbance|NN sleep_disorder|DS 001|NN sleep|NN limb|NN movement|NN sleep|NN problem|NN sleep|NN maintenance|NN 896|NN sleep|NN efficiency|NN sleep|NN initiation|NN daytime|NN sleepiness|NN morn|NN awaken|NN sleep|NN walk|NN 001|NN sleep_disorder|DS disease|NN 
+disease|NN sleep_disorder|DS accumulation|NN system|NN atrophy|DS disease|NN pd|NN body|NN disease|NN instance|NN people|NN pd|NN kind|NN sleep|NN concern|NN insomnia|ST pd|NN population|NN pd|NN population|NN rem|NN sleep|NN behavior|NN disorder|NN rbd|NN pd|NN population|NN motor|NN symptom|NN precursor|NN development|NN disease|NN year|NN opportunity|NN treatment|NN disease|NN 
+sleep|NN disturbance|NN alzheimers|NN disease|NN ad|NN population|NN report|NN percentage|NN pd|NN population|NN insomnia|ST ad|NN patient|NN accumulation|NN rhythm|NN sleep_disorder|DS melatonin|NN alteration|NN change|NN sleep|NN architecture|NN sleep|NN architecture|NN ad|NN patient|NN 
+spindle|NN time|NN rem|NN sleep|NN latency|NN sleep|NN onset|NN ad|NN hallucination|ST restlessness|NN agitation|NN sundown|NN chronobiological|NN phenomenon|NN disease|NN 
+condition|NN brain|NN structure|NN impairment|NN state|NN sleep|NN wakefulness|NN rhythm|NN motor|NN non|NN motor|NN function|NN hand|NN sleep|NN disturbance|NN patient|NN function|NN state|NN quality|NN life|NN symptom|NN relative|NN caregiver|NN understand|NN relationship|NN sleep_disorder|DS neurodegenerative|NN disease|NN research|NN expectancy|NN life|NN sleep|NN disturbance|NN alzheimer|NN disease|NN 
+people|NN dementia|DS alzheimers|NN disease|NN number|NN understand|NN mechanism|NN progression|NN disease|NN study|NN link|NN sleep|NN disturbance|NN alzheimers|NN disease|NN 
+sleep|NN change|NN age|NN age|NN decrease|NN time|NN sleep|NN decrease|NN quantity|NN sleep|NN sw|NN sw|NN people|NN insomnia|ST sleep|NN 
+alzheimers|NN disease|NN addition|NN decline|NN memory|NN impairment|NN sleep|NN disturbance|NN sleep|NN architecture|NN sleep|NN fragmentation|NN reduction|NN sleep|NN duration|NN insomnia|ST increase|NN daytime|NN quantity|NN sleep|NN stage|NN resemblance|NN sleep|NN stage|NN people|NN alzheimers|NN disease|NN type|NN sleep|NN disturbance|NN 
+factor|NN change|NN sleep|NN architecture|NN change|NN rhythm|NN disruption|NN rhythm|NN sleep|NN disturbance|NN study|NN people|NN ad|NN rhythm|NN age|NN rhythm|NN 
+addition|NN symptom|NN level|NN symptom|NN alzheimers|NN disease|NN accumulation|NN waste|NN second|NN accumulation|NN tau|NN protein|NN 
+cycle|NN act|NN burden|NN component|NN production|NN protein|NN sleep|NN phenomena|NN 
+activity|NN wake|NN protein|NN second|NN stress|NN lead|NN production|NN 
+hand|NN sleep|NN residue|NN plaque|NN formation|NN system|NN phenomenon|NN clearance|NN wakefulness|NN burden|NN activity|NN stress|NN degradation|NN protein|NN clearance|NN sleep|NN burden|NN activity|NN stress|NN addition|NN clearance|NN time|NN 
+cleanrance|NN sleep|NN nrem|NN sleep|NN sleep|NN stage|NN age|NN clearance|NN increase|NN burden|NN plaque|NN ad|NN sleep|NN disturbance|NN phenomenon|NN 
+decrease|NN quantity|NN quality|NN sw|NN disturbance|NN sleep|NN plaque|NN take|NN place|NN hippocampus|NN level|NN memory|NN cell|NN death|NN level|NN memory|NN performance|NN decline|NN ad|NN disease|NN 
+relationship|NN ad|NN sleep_disorder|DS way|NN sleep_disorder|DS disease|NN circle|NN account|NN sleep|NN disturbance|NN symptom|NN ad|NN relationship|NN sleep|NN disturbance|NN ad|NN 
+time|NN memory|NN consolidation|NN memory|NN hippocampus|NN sleep|NN decrease|NN sleep|NN consolidation|NN memory|NN performance|NN memory|NN drop|NN performance|NN symptom|NN ad|NN 
+study|NN sleep|NN disturbance|NN zone|NN zone|NN neuron|NN adult|NN brain|NN cell|NN circuit|NN zone|NN hippocampus|NN cell|NN learn|NN memory|NN role|NN memory|NN 
+study|NN factor|NN stress|NN sleep|NN deprivation|NN day|NN sleep|NN disturbance|NN ad|NN function|NN memory|NN performance|NN progression|NN ad|NN progression|NN ad|NN sleep|NN disturbance|NN circle|NN 
+aspect|NN change|NN sleep|NN architecture|NN patient|NN ad|NN phase|NN change|NN risk|NN ad|NN 
+mechanism|NN relationship|NN sleep|NN disturbance|NN ad|NN find|NN understand|NN 
+addition|NN idea|NN implementation|NN treatment|NN decline|NN patient|NN disease|NN 
+way|NN target|NN risk|NN population|NN 
+treatment|NN sign|NN text|NN sleep|NN study|NN progress|NN room|NN sleep|NN study|NN hospital|NN sweden|NN 
+treatment|NN sleep_disorder|DS category|NN 
+treatment|NN rehabilitation|NN management|NN treatment|NN 
+approache|NN patient|NN sleep_disorder|DS 
+choice|NN treatment|NN patient|NN diagnosis|NN history|NN preference|NN expertise|NN treate|NN clinician|NN 
+approache|NN benefit|NN 
+management|NN sleep|NN disturbance|NN substance|NN abuse|NN disorder|NN condition|NN 
+treatment|NN relief|NN sleep|NN disturbance|NN 
+disorder|NN narcolepsy|DS prescription|NN drug|NN insomnia|ST intervention|NN result|NN 
+sleep_disorder|DS childhood|NN children|NN disorder|NN 
+disruption|NN adolescent|NN school|NN schedule|NN rhythm|NN 
+treatment|NN diagnosis|NN sleep|NN diary|NN sleep|NN study|NN 
+modification|NN sleep|NN hygiene|NN problem|NN treatment|NN 
+equipment|NN treatment|NN disorder|NN rhythm|NN disorder|NN bruxism|NN 
+case|NN acceptance|NN live|NN disorder|NN 
+sleep_disorder|DS compromise|NN glucose|NN metabolism|NN treatment|NN 
+histamine|NN role|NN wakefulness|NN brain|NN 
+reaction|NN histamine|NN wakefulness|NN sleep|NN sleep|NN problem|NN people|NN rhinitis|NN 
+study|NN nih|NN sleep|NN symptom|NN degree|NN impairment|NN severity|NN symptom|NN treatment|NN allergy|NN sleep|NN acupuncture|NN 
+review|NN evidence|NN 2012|NN research|NN recommendation|NN use|NN acupuncture|NN insomnia|ST result|NN trial|NN acupuncture|NN likelihood|NN improvement|NN quality|NN individual|NN diagnosis|NN form|NN treatment|NN sleep_disorder|DS adult|NN children|NN 
+research|NN effect|NN acupuncture|NN sleep_disorder|DS children|NN 
+research|NN hypnosis|NN type|NN manifestation|NN sleep_disorder|DS patient|NN insomnia|ST relaxation|NN hypnotherapy|NN approache|NN sleep|NN hygiene|NN instruction|NN 
+nightmare|NN sleep|NN terror|NN 
+report|NN use|NN hypnotherapy|NN head|NN body|NN rock|NN 
+treatment|NN sleep_disorder|DS adult|NN children|NN music|NN therapy|NN 
+research|NN reliability|NN method|NN treatment|NN research|NN music|NN therapy|NN sleep|NN quality|NN sleep_disorder|DS 
+study|NN participant|NN year|NN sleep_disorder|DS trial|NN sleep|NN efficiency|NN time|NN 
+order|NN sleep|NN quality|NN researcher|NN measure|NN questionnaire|NN measure|NN 
+result|NN study|NN music|NN therapy|NN sleep|NN quality|NN subject|NN sleep_disorder|DS 
+result|NN research|NN evidence|NN music|NN therapy|NN treatment|NN sleep_disorder|DS 
+study|NN people|NN insomnia|ST result|NN 
+participant|NN music|NN sleep|NN quality|NN music|NN 
+sleep_disorder|DS solution|NN lot|NN buzz|NN melatonin|NN 
+research|NN melatonin|NN people|NN sleep|NN latency|NN sleep|NN quality|NN 
+order|NN study|NN subject|NN subject|NN placebo|NN pill|NN subject|NN sleep_disorder|DS 
+researcher|NN sleep|NN onset|NN latency|NN total|NN minute|NN sleep|NN quality|NN melatonin|NN placebo|NN group|NN difference|NN 
+end|NN researcher|NN melatonin|NN sleep|NN onset|NN latency|NN total|NN sleep|NN time|NN quality|NN sleep|NN placebo|NN group|NN sleep|NN medicine|NN article|NN sleep|NN medicine|NN 
+knowledge|NN sleep|NN century|NN discovery|NN rem|NN sleep|NN rhythm|NN disorder|NN importance|NN sleep|NN 
+community|NN attention|NN sleep_disorder|DS sleep|NN role|NN quality|NN sleep|NN condition|NN 
+clinics|NN laboratory|NN study|NN sleep|NN sleep_disorder|DS need|NN standard|NN 
+specialist|NN sleep|NN medicine|NN board|NN sleep|NN medicine|NN specialist|NN 
+pass|NN sleep|NN medicine|NN exam|NN designation|NN diplomate|NN absm|NN 
+sleep|NN medicine|NN subspecialty|NN medicine|NN family|NN medicine|NN psychiatry|NN neurology|NN united|NN states|NN 
+certification|NN sleep|NN medicine|NN specialist|NN 
+expertise|NN diagnosis|NN management|NN condition|NN sleep|NN sleep|NN disturbance|NN cycle|NN 
+specialist|NN analysis|NN interpretation|NN polysomnography|NN research|NN management|NN sleep|NN laboratory|NN 
+competence|NN sleep|NN medicine|NN understand|NN myriad|NN disorder|NN present|NN symptom|NN daytime|NN sleepiness|NN absence|NN sleep|NN deprivation|NN sleep_disorder|DS sleep|NN hypersomnia|NN syndrome|NN stupor|NN rhythm|NN disturbance|NN complaint|NN insomnia|ST set|NN symptom|NN cause|NN 
+management|NN situation|NN diagnosis|NN 
+sleep|NN dentistry|NN sleep|NN specialty|NN board-certification|NN board|NN sleep|NN medicine|NN 
+diplomate|NN status|NN academy|NN sleep|NN medicine|NN dentist|NN academy|NN sleep|NN medicine|NN usa|NN dentist|NN sleep|NN physician|NN sleep|NN center|NN appliance|NN therapy|NN airway|NN surgery|NN treat|NN breath|NN disorder|NN 
+uk|NN knowledge|NN sleep|NN medicine|NN possibility|NN diagnosis|NN treatment|NN 
+director|NN college|NN healthcare|NN sleep|NN centre|NN problem|NN train|NN sleep|NN medicine|NN country|NN train|NN sleep|NN physician|NN 
+college|NN healthcare|NN site|NN attention|NN sleep|NN syndrome|NN sleep_disorder|DS 
+nhs|NN trust|NN specialist|NN clinics|NN sleep|NN medicine|NN 
+epidemiology|NN children|NN adult|NN 
+meta-analysis|NN sleep_disorder|DS children|NN sleep|NN kid|NN year|NN experience|NN arousal|NN children|NN sleep|NN walk|NN disorder|NN boy|NN girl|NN peak|NN age|NN sleep|NN walk|NN year|NN review|NN range|NN prevalence|NN rate|NN sleep|NN children|NN 
+grind|NN teeth|NN night|NN week|NN 
+study|NN report|NN prevalence|NN age|NN prevalence|NN boy|NN girl|NN 
+review|NN adult|NN sleep|NN phase|NN disorder|NN 
+disorder|NN peak|NN prevalence|NN people|NN adolescent|NN report|NN sleep|NN onset|NN latency|NN minute|NN 
+difficulty|NN sleep|NN teen|NN prevalence|NN sleep|NN outcome|NN north|NN counterpart|NN 
+result|NN study|NN insomnia|ST china|NN prevalence|NN country|NN series|NN country|NN poland|NN france|NN italy|NN usa|NN result|NN east|NN country|NN 
+men|NN women|NN china|NN experience|NN insomnia|ST rate|NN meta-analysis|NN disorder|NN mention|NN malady|NN experience|NN rate|NN condition|NN 
+prevalence|NN insomnia|ST women|NN age|NN counterpart|NN 
+study|NN collaboration|NN massachusetts|NN hospital|NN merck|NN development|NN algorithm|NN patient|NN sleep_disorder|DS record|NN 
+algorithm|NN combination|NN variable|NN individual|NN insomnia|ST sleep|NN 
+sleep|NN osa|NN men|NN women|NN united|NN states|NN disorder|NN men|NN 
+difference|NN age|NN 
+women|NN risk|NN osa|NN pregnancy|NN report|NN depression|ST insomnia|ST conjunction|NN sleep|NN meta-analysis|NN country|NN india|NN china|NN prevalence|NN disorder|NN 
+population|NN population|NN 
+group|NN experience|NN daytime|NN symptom|NN difficulty|NN mood|NN swing|NN blood|NN pressure|NN rate|NN prevalence|NN 
+review|NN state|NN population|NN experience|NN sleep|NN paralysis|ST lifetime|NN 
+prevalence|NN men|NN women|NN experience|NN 
+population|NN student|NN patient|NN phenomenon|NN lifetime|NN 
+patient|NN panic_disorder|DS 
+sleep|NN paralysis|ST student|NN descent|NN descent|NN caucasian|NN leg|NN syndrome|NN 
+meta-analysis|NN prevalence|NN rate|NN north|NN america|NN western|NN europe|NN 
+united|NN states|NN prevalence|NN leg|NN syndrome|NN criteria|NN 
+women|NN counterpart|NN 
+health|NN effect|NN noise|NN classification|NN sleep_disorder|DS technologist|NN sleep|NN hygiene|NN sleep|NN study|NN symptom|NN noise|NN machine|NN 

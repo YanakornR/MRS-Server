@@ -1,0 +1,69 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+article|NN issue|NN 
+issue|NN talk|NN page|NN 
+template|NN message|NN article|NN citation|NN verification|NN 
+april|NN article|NN 
+august|NN 2017|NN kidney|NN disease|NN specialty|NN nephrology|NN 
+kidney|NN disease|NN kidney|NN disease|NN kidney|NN disease|NN damage|NN disease|NN kidney|NN 
+kidney|NN disease|NN type|NN location|NN inflammation|NN 
+blood|NN test|NN 
+rise|NN syndrome|NN syndrome|NN 
+kidney|NN disease|NN loss|NN kidney|NN function|NN degree|NN kidney|NN failure|NN loss|NN kidney|NN function|NN 
+kidney|NN failure|NN end-stage|NN kidney|NN disease|NN dialysis|NN kidney|NN transplant|NN treatment|NN option|NN 
+kidney|NN disease|NN loss|NN kidney|NN function|NN time|NN 
+kidney|NN disease|NN kidney|NN injury|NN reduction|NN kidney|NN function|NN day|NN 
+american|NN kidney|NN disease|NN content|NN 
+cause|NN diabete|NN diet|NN iga|NN kidney|NN disease|NN contrast|NN media|NN lupus|NN oxidase|NN deficiency|NN disease|NN kidney|NN toxicity|NN chemotherapy|NN agent|NN diagnosis|NN treatment|NN reference|NN link|NN 
+cause|NN death|NN kidney|NN disease|NN person|NN 16-61|NN 89-95|NN 121-135|NN 187-343|NN 
+cause|NN kidney|NN disease|NN deposition|NN immunoglobulin|NN antibody|NN administration|NN analgesics|NN xanthine|NN oxidase|NN deficiency|NN toxicity|NN chemotherapy|NN agent|NN exposure|NN lead|NN salt|NN 
+condition|NN kidney|NN disease|NN lupus|NN diabete|NN mellitus|NN blood|NN pressure|NN hypertension|DS lead|NN kidney|NN disease|NN kidney|NN disease|NN 
+article|NN kidney|NN disease|NN 
+cause|NN kidney|NN disease|NN term|NN usage|NN pain|ST medication|NN analgesics|NN 
+pain|ST medicine|NN kidney|NN problem|NN aspirin|NN drug|NN nsaids|NN 
+form|NN kidney|NN disease|NN analgesic|NN change|NN loss|NN atrophy|DS tubule|NN fibrosis|DS inflammation|NN brs|NN pathology|NN edition|NN 
+use|NN analgesic|NN phenacetin|NN necrosis|NN 
+diabete|NN article|NN diabetic|NN kidney|NN disease|NN 
+kidney|NN disease|NN kidney|NN disease|NN angiopathy|NN capillary|NN glomeruly|NN 
+syndrome|NN scare|NN glomeruly|NN 
+diabete|NN mellitus|NN reason|NN dialysis|NN country|NN 
+blood|NN vessel|NN complication|NN diabete|NN diet|NN 
+intake|NN animal|NN protein|NN animal|NN fat|NN cholesterol|NN risk|NN microalbuminuria|NN sign|NN kidney|NN function|NN decline|NN diet|NN fruit|NN vegetable|NN grain|NN meat|NN sweet|NN kidney|NN function|NN decline|NN source|NN animal|NN protein|NN animal|NN fat|NN cholesterol|NN sweet|NN fruit|NN vegetable|NN legume|NN grain|NN iga|NN kidney|NN disease|NN article|NN iga|NN kidney|NN disease|NN 
+iga|NN kidney|NN disease|NN glomerulonephritis|DS world|NN iga|NN kidney|NN disease|NN deposition|NN iga|NN antibody|NN glomerulus|NN 
+presentation|NN 40-50|NN case|NN hematuria|ST day|NN tract|NN infection|NN glomerulonephritis|DS time|NN week|NN infection|NN 
+infection|NN agent|NN 
+infection|NN activation|NN defense|NN iga|NN antibody|NN production|NN 
+contrast|NN media|NN article|NN contrast|NN media|NN 
+kidney|NN disease|NN contrast|NN media|NN icm|NN contrast|NN kidney|NN disease|NN kidney|NN injury|NN 
+body|NN evidence|NN factor|NN apoptosis-induction|NN role|NN article|NN kidney|NN disease|NN 
+use|NN lithium|NN medication|NN disorder|NN schizoaffective_disorder|DS kidney|NN disease|NN 
+citation|NN lupus|NN 
+treatment|NN cause|NN morbidity|NN mortality|NN people|NN relapse|NN lupus|NN oxidase|NN deficiency|NN article|NN oxidase|NN deficiency|NN 
+cause|NN kidney|NN disease|NN function|NN xanthine|NN oxidase|NN degradation|NN pathway|NN 
+oxidase|NN xanthine|NN acid|NN 
+water|NN increase|NN xanthine|NN form|NN crystal|NN kidney|NN stone|NN result|NN damage|NN kidney|NN 
+oxidase|NN inhibitor|NN allopurinol|NN kidney|NN disease|NN 
+disease|NN kidney|NN article|NN kidney|NN disease|NN 
+cause|NN kidney|NN disease|NN formation|NN cyst|NN pocket|NN fluid|NN kidney|NN 
+cyst|NN progression|NN age|NN failure|NN 
+organ|NN liver|NN brain|NN ovary|NN 
+kidney|NN disease|NN disease|NN mutation|NN pkd1|NN gene|NN 
+disease|NN people|NN 
+kidney|NN infection|NN cancer|DS 
+toxicity|NN chemotherapy|NN agent|NN article|NN 
+kidney|NN disease|NN therapy|NN cancer|DS 
+form|NN kidney|NN disease|NN cancer|DS patient|NN kidney|NN injury|NN volume|NN depletion|NN vomit|NN chemotherapy|NN kidney|NN toxicity|NN agent|NN 
+kidney|NN failure|NN break|NN cancer|DS cell|NN chemotherapy|NN 
+agent|NN example|NN cisplatin|NN kidney|NN injury|NN agent|NN growth|NN factor|NN vegf|NN injury|NN hypertension|DS diagnosis|NN 
+workup|NN kidney|NN disease|NN history|NN examination|NN urine|NN test|NN ultrasound|NN kidney|NN ultrasonography|NN 
+ultrasound|NN diagnosis|NN management|NN kidney|NN disease|NN treatment|NN article|NN kidney|NN transplantation|NN 
+people|NN world|NN kidney|NN disease|NN 
+dialysis|NN kidney|NN transplant|NN end-stage|NN united|NN states|NN people|NN kidney|NN transplant|NN transplant|NN shortage|NN donor|NN kidney|NN transplant|NN world|NN shortage|NN donor|NN country|NN value|NN kidney|NN 
+country|NN iran|NN singapore|NN list|NN citizen|NN 
+market|NN account|NN percent|NN transplant|NN act|NN organ|NN market|NN united|NN states|NN wait|NN list|NN kidney|NN transplant|NN patient|NN physician|NN donor|NN hospital|NN 
+donor|NN hospital|NN patient|NN evaluation|NN transplant|NN 
+order|NN match|NN kidney|NN transplant|NN patient|NN blood|NN type|NN leukocyte|NN antigen|NN factor|NN donor|NN 
+reaction|NN antibody|NN donor|NN kidney|NN 
+kidney|NN disease|NN consequence|NN 
+progression|NN kidney|NN disease|NN 
+kidney|NN disease|NN kidney|NN failure|NN 
+disease|NN information|NN service|NN kidney|NN disease|NN kidney|NN disease|NN america|NN protein|NN toxicity|NN 

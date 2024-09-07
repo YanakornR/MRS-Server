@@ -1,0 +1,509 @@
+back_pain|DS back_pain|DS backache|NN pain|ST felt|NN in|NN back|NN 
+back|NN neck|NN pain|ST middle|NN back_pain|DS thoracic|NN back_pain|DS lumbar|NN coccydynia|NN tailbone|NN pain|ST segment|NN 
+lumbar|NN area|NN common|NN area|NN 
+episode|NN of|NN back_pain|DS chronic|NN duration|NN 
+pain|ST ache|NN pain|ST sensation|NN 
+discomfort|NN arm|NN hand|NN legs|NN foot|NN numbness|NN weakness|ST in|NN legs|NN arm|NN 
+back_pain|DS cause|NN 
+common|NN majority|NN of|NN back_pain|DS mechanism|NN traumatic|NN change|NN disc|NN facet|NN joint|NN pain|ST in|NN muscle|NN nerve|NN pain|ST bone|NN joint|NN extremity|NN 
+disease|NN gallbladder|NN pancreas|NN aorta|NN kidney|NN pain|ST in|NN back|NN 
+tumor|NN of|NN vertebra|NN tissue|NN structure|NN back_pain|DS 
+inflammation|NN of|NN region|NN curvature|NN of|NN back_pain|DS common|NN of|NN adult|NN point|NN in|NN life|NN of|NN adult|NN year|NN 
+of|NN people|NN back_pain|DS point|NN in|NN lifetime|NN 
+common|NN cause|NN of|NN chronic|NN pain|ST major|NN contributor|NN of|NN work|NN disability|NN 
+individual|NN back_pain|DS 
+in|NN case|NN of|NN disk|NN stenosis|NN rest|NN injection|NN surgery|NN pain|ST resolution|NN outcome|NN average|NN year|NN 
+in|NN state|NN back_pain|DS fifth|NN common|NN reason|NN visit|NN of|NN day|NN work|NN 
+cause|NN of|NN disability|NN worldwide|NN 
+column|NN specialty|NN orthopedics|NN content|NN classification|NN disc|NN disease|NN disease|NN infection|NN cancer|DS autoimmune|NN pain|ST risk|NN factor|NN laboratory|NN study|NN prevention|NN management|NN nonspecific|NN pain|ST surgery|NN pregnancy|NN economics|NN reference|NN link|NN classification|NN back_pain|DS in|NN term|NN of|NN duration|NN of|NN symptom|NN 
+back_pain|DS last|NN week|NN subacute|NN back_pain|DS last|NN week|NN 
+chronic|NN back_pain|DS last|NN week|NN 
+cause|NN cause|NN of|NN back_pain|DS blood|NN vessel|NN organ|NN infection|NN cause|NN 
+percent|NN of|NN people|NN back_pain|DS acute|NN back_pain|DS in|NN pathology|NN 
+in|NN percent|NN of|NN people|NN cause|NN image|NN 
+2|NN percent|NN factor|NN cancer|DS infection|NN osteomyelitis|NN abscess|NN 1|NN percent|NN 
+common|NN cause|NN of|NN people|NN back_pain|DS compression|NN fracture|NN cancer|DS infection|NN nonspecific|NN in|NN percent|NN of|NN case|NN cause|NN abnormality|NN test|NN 
+back_pain|DS back|NN 
+cause|NN peripheral|NN injury|NN muscle|NN ligament|NN 
+patient|NN cause|NN 
+pain|ST in|NN case|NN chronic|NN pain|ST 
+chronic|NN back_pain|DS in|NN people|NN scan|NN sensitization|NN injury|NN state|NN of|NN sensitivity|NN pain|ST 
+state|NN maintain|NN pain|ST injury|NN 
+treatment|NN of|NN sensitization|NN do|NN of|NN depressant|NN rehabilitation|NN therapy|NN 
+disc|NN disease|NN disk|NN disease|NN nucleus|NN pulposus|NN material|NN in|NN core|NN of|NN disc|NN rupture|NN 
+rupture|NN of|NN pulposus|NN compression|NN of|NN nerve|NN root|NN 
+symptom|NN correlate|NN region|NN of|NN spine|NN 
+common|NN region|NN disk|NN disease|NN 
+risk|NN lumbar|NN disc|NN disease|NN in|NN overweight|DS individual|NN force|NN pulposus|NN 
+cord|NN compression|NN emergency|NN decompression|NN motor|NN function|NN 
+syndrome|NN refer|NN compression|NN of|NN cauda|NN equina|NN present|NN pain|ST motor|NN sensory|NN 
+bladder|NN incontinence|NN in|NN stage|NN of|NN syndrome|NN 
+disease|NN spondylosis|NN arthritis|DS of|NN spine|NN disc|NN undergo|NN change|NN disc|NN vertebra|NN 
+association|NN disc|NN space|NN narrow|NN lumbar|NN spine|NN pain|ST 
+space|NN vertebra|NN in|NN compression|NN irritation|NN of|NN nerve|NN 
+spondylolithesis|NN shift|NN of|NN vertebra|NN vertebra|NN 
+change|NN trauma|NN anomaly|NN 
+stenosis|NN in|NN case|NN of|NN spondylosis|NN spondylotheisis|NN age|NN thicken|NN of|NN ligamentum|NN flavum|NN 
+stenosis|NN of|NN canal|NN present|NN in|NN patient|NN year|NN of|NN age|NN 
+claudication|ST in|NN case|NN of|NN lumbar|NN stenosis|NN present|NN symptom|NN of|NN pain|ST in|NN back|NN buttock|NN leg|NN 
+compression|NN fracture|NN in|NN percent|NN of|NN patient|NN care|NN back_pain|DS 
+risk|NN factor|NN age|NN gender|NN history|NN of|NN osteoporosis|DS chronic|NN glucocorticoid|NN use|NN 
+fracture|NN in|NN case|NN 
+infection|NN common|NN cause|NN of|NN back_pain|DS osteomyelitis|NN diskitis|NN abscess|NN abscess|NN 
+cause|NN back_pain|DS involve|NN structure|NN spine|NN 
+osteomyelitis|NN infection|NN of|NN bone|NN 
+osteomyelitis|NN staphylococci|NN 
+risk|NN factor|NN skin|NN infection|NN urinary|NN tract|NN infection|NN catheter|NN use|NN drug|NN use|NN endocarditis|DS lung|NN disease|NN 
+abscess|NN infection|NN bacteremia|NN 
+risk|NN factor|NN drug|NN use|NN infection|NN 
+cancer|DS spread|NN of|NN cancer|DS bone|NN cord|NN back_pain|DS 
+bone|NN of|NN common|NN site|NN of|NN lesions|NN 
+patient|NN history|NN of|NN malignancy|NN 
+common|NN type|NN of|NN cancer|DS back_pain|DS multiple|NN myeloma|NN lymphoma|NN leukemia|DS cord|NN tumor|NN tumor|NN prostate_cancer|DS 
+back_pain|DS in|NN of|NN patient|NN systemic|NN cancer|DS 
+cause|NN of|NN back_pain|DS common|NN lumbar|NN spine|NN thoracic|NN spine|NN 
+pain|ST systemic|NN symptom|NN weight_loss|ST chills|ST fever|ST nausea|ST vomiting|ST 
+cause|NN of|NN back_pain|DS back_pain|DS rest|NN 
+metastasis|NN bone|NN risk|NN of|NN cord|NN compression|NN fracture|NN treatment|NN 
+arthritides|NN spondylitis|NN arthritis|DS arthritis|DS systemic_lupus_erythematosus|DS vary|NN level|NN of|NN destruction|NN 
+inflammatory|NN arthritides|NN spondylitis|NN back_pain|DS destruction|NN of|NN bony|NN component|NN of|NN spine|NN 
+spondylitis|NN common|NN in|NN men|NN present|NN range|NN of|NN symptom|NN uveitis|NN psoriasis|NN bowel|NN disease|NN 
+pain|ST back_pain|DS pain|ST source|NN 
+pain|ST pain|ST location|NN source|NN of|NN pain|ST 
+disease|NN back_pain|DS pancreatitis|DS kidney|NN stone|NN urinary|NN tract|NN infection|NN abdominal|NN aneurysm|NN 
+back_pain|DS vertebra|NN disc|NN 
+risk|NN factor|NN lift|NN obesity|NN lifestyle|NN lack|NN of|NN exercise|NN person|NN risk|NN of|NN back_pain|DS 
+people|NN back_pain|DS others|NN 
+posture|NN weight_gain|ST in|NN pregnancy|NN factor|NN back_pain|DS 
+in|NN fatigue|ST pain|ST 
+study|NN factor|NN stress|NN family|NN relationship|NN back_pain|DS abnormality|NN in|NN image|NN scan|NN 
+diagnosis|NN assessment|NN of|NN back_pain|DS of|NN history|NN examination|NN 
+feature|NN of|NN back_pain|DS location|NN duration|NN severity|NN history|NN of|NN back_pain|DS trauma|NN 
+component|NN of|NN history|NN age|NN trauma|NN history|NN of|NN cancer|DS fever|ST weight_loss|ST urinary_incontinence|DS weakness|ST change|NN flag|NN condition|NN 
+acute|NN back_pain|DS 
+examination|NN of|NN back|NN posture|NN deformity|ST 
+pain|ST structure|NN in|NN area|NN 
+exam|NN change|NN in|NN gait|NN sensation|NN motor|NN function|NN 
+symptom|NN pain|ST numbness|NN weakness|ST down|NN limb|NN peripheral|NN cause|NN of|NN back_pain|DS 
+leg|NN test|NN maneuver|NN presence|NN of|NN radiculopathy|NN 
+radiculopathy|NN irritation|NN in|NN nerve|NN root|NN neurologic|NN symptom|NN numbness|NN tingle|NN 
+back_pain|DS injury|NN muscle|NN ligament|NN disease|NN disk|NN 
+disk|NN herniation|NN stenosis|NN common|NN cause|NN of|NN radiculopathy|NN 
+image|NN of|NN spine|NN laboratory|NN test|NN phase|NN 
+reason|NN person|NN problem|NN 
+in|NN case|NN pain|ST week|NN 
+people|NN diagnosis|NN outcome|NN condition|NN 
+resonance|NN image|NN modality|NN evaluation|NN of|NN back_pain|DS bone|NN tissue|NN nerve|NN ligament|NN 
+option|NN patient|NN suspicion|NN of|NN infection|NN malignancy|NN laboratory|NN study|NN interpretation|NN 
+image|NN in|NN majority|NN of|NN individual|NN back_pain|DS 
+in|NN case|NN of|NN acute|NN back_pain|DS mri|NN individual|NN major|NN risk|NN suspicion|NN cancer|DS infection|NN deficit|NN 
+patient|NN subacute|NN chronic|NN back_pain|DS mri|NN risk|NN factor|NN cancer|DS risk|NN factor|NN spondylitis|NN risk|NN factor|NN compression|NN fracture|NN trauma|NN stenosis|NN 
+early|NN study|NN phase|NN care|NN prognosis|NN in|NN patient|NN 
+find|NN severity|NN outcome|NN 
+laboratory|NN study|NN study|NN suspicion|NN cause|NN infection|NN malignancy|NN 
+laboratory|NN test|NN white|NN blood|NN cell|NN wbc|NN count|NN sedimentation|NN rate|NN esr|NN protein|NN crp|NN 
+esr|NN infection|NN malignancy|NN chronic|NN disease|NN inflammation|NN trauma|NN tissue|NN ischemia|NN 
+crp|NN level|NN infection|NN 
+flag|NN in|NN diagnosis|NN treatment|NN of|NN back_pain|DS 
+flag|NN symptom|NN resonance|NN image|NN mri|NN 
+flag|NN scan|NN of|NN spine|NN calcification|NN of|NN ligament|NN 
+history|NN of|NN cancer|DS weight_loss|ST immunosuppression|NN urinary|NN infection|NN drug|NN use|NN use|NN of|NN corticosteroid|NN back_pain|DS management|NN history|NN of|NN trauma|NN fall|NN lift|NN in|NN acute|NN onset|NN of|NN urinary_retention|ST incontinence|NN loss|NN of|NN sphincter|NN tone|NN fecal_incontinence|ST anesthesia|NN motor|NN weakness|ST in|NN prevention|NN quality|NN evidence|NN combination|NN of|NN education|NN exercise|NN individual|NN risk|NN of|NN episode|NN of|NN back_pain|DS 
+quality|NN evidence|NN point|NN deterrent|NN risk|NN of|NN onset|NN of|NN condition|NN 
+management|NN pain|ST patient|NN back_pain|DS return|NN activity|NN 
+management|NN goal|NN back_pain|DS reduction|NN in|NN pain|ST intensity|NN individual|NN ability|NN function|NN in|NN activity|NN patient|NN cope|NN pain|ST of|NN therapy|NN patient|NN passage|NN impediment|NN recovery|NN 
+goal|NN pain|ST level|NN rehabilitation|NN pain|ST relief|NN 
+people|NN goal|NN therapy|NN pain|ST major|NN surgery|NN others|NN surgery|NN way|NN 
+treatment|NN condition|NN individual|NN condition|NN treatment|NN option|NN 
+stage|NN of|NN condition|NN chronic|NN factor|NN in|NN choice|NN of|NN treatment|NN 
+minority|NN of|NN people|NN back_pain|DS estimate|NN 1|NN require|NN surgery|NN 
+back_pain|DS therapy|NN use|NN of|NN medication|NN 
+heat|NN massage|NN acupuncture|NN manipulation|NN therapy|NN 
+heat|NN therapy|NN back|NN spasm|NN condition|NN 
+review|NN heat|NN therapy|NN symptom|NN of|NN acute|NN pain|ST 
+activity|NN stretch|NN exercise|NN in|NN back_pain|DS outcome|NN 
+therapy|NN muscle|NN in|NN abdomen|NN spine|NN 
+exercise|NN patient|NN satisfaction|NN improvement|NN 
+review|NN exercise|NN chronic|NN back_pain|DS pain|ST 
+supervision|NN of|NN health|NN professional|NN 
+massage|NN therapy|NN pain|ST relief|NN improvement|NN back_pain|DS 
+pain|ST relief|NN improvement|NN chronic|NN pack|NN pain|ST benefit|NN month|NN of|NN treatment|NN 
+effect|NN massage|NN 
+acupuncture|NN relief|NN back_pain|DS 
+research|NN evidence|NN need|NN 
+manipulation|NN treatment|NN 
+back|NN school|NN intervention|NN of|NN education|NN exercise|NN 
+evidence|NN use|NN of|NN back|NN school|NN acute|NN chronic|NN back_pain|DS 
+insole|NN treatment|NN intervention|NN 
+traction|NN back_pain|DS in|NN combination|NN approach|NN impact|NN pain|ST intensity|NN status|NN improvement|NN return|NN 
+medication|NN measure|NN medication|NN 
+drug|NN nsaid|NN 
+nsaid|NN placebo|NN paracetamol|NN acetaminophen|NN 
+use|NN of|NN opioids|NN in|NN order|NN chronic|NN back_pain|DS 
+back_pain|DS nsaid|NN acetaminophen|NN opioids|NN 
+opioids|NN nsaid|NN antidepressant|NN chronic|NN back_pain|DS regard|NN pain|ST relief|NN gain|NN of|NN function|NN 
+muscle|NN relaxer|NN 
+term|NN use|NN in|NN relief|NN of|NN acute|NN back_pain|DS 
+evidence|NN of|NN effect|NN medication|NN 
+in|NN people|NN root|NN pain|ST acute|NN radiculopathy|NN evidence|NN dose|NN of|NN steroid|NN dexamethasone|NN pain|ST relief|NN 
+corticosteroid|NN injection|NN esi|NN procedure|NN in|NN medication|NN space|NN 
+medication|NN inflammation|NN decrease|NN pain|ST function|NN 
+esi|NN back_pain|DS study|NN lack|NN of|NN efficacy|NN in|NN back_pain|DS 
+surgery|NN surgery|NN back_pain|DS resort|NN deficit|NN 
+review|NN of|NN back|NN surgery|NN study|NN diagnosis|NN surgery|NN common|NN treatment|NN benefit|NN of|NN surgery|NN in|NN term|NN 
+surgery|NN people|NN myelopathy|NN syndrome|NN 
+cause|NN of|NN deficit|NN herniation|NN stenosis|NN disc|NN disease|NN tumor|NN infection|NN hematoma|NN of|NN nerve|NN root|NN cord|NN 
+multiple|NN option|NN back_pain|DS option|NN cause|NN of|NN pain|ST 
+disc|NN nerve|NN root|NN laminectomy|NN discectomy|NN in|NN material|NN nerve|NN 
+laminectomy|NN canal|NN in|NN case|NN of|NN stenosis|NN 
+foraminotomy|NN foraminectomy|NN vertebra|NN nerve|NN root|NN compression|NN 
+discectomy|NN disc|NN 
+protrude|NN disc|NN portion|NN of|NN of|NN pressure|NN nerve|NN root|NN 
+replacement|NN in|NN source|NN of|NN pain|ST disc|NN mobility|NN 
+disc|NN in|NN discectomy|NN vertebra|NN fusion|NN surgery|NN 
+fusion|NN procedure|NN in|NN bone|NN graft|NN metal|NN hardware|NN vertebra|NN bone|NN of|NN column|NN cord|NN nerve|NN root|NN 
+infection|NN abscess|NN source|NN of|NN back_pain|DS surgery|NN trial|NN of|NN antibiotic|NN 
+evacuation|NN of|NN hematoma|NN blood|NN product|NN down|NN 
+pregnancy|NN of|NN woman|NN back_pain|DS pregnancy|NN 
+study|NN woman|NN back_pain|DS pregnancy|NN risk|NN of|NN back_pain|DS pregnancy|NN 
+pain|ST disability|NN in|NN of|NN woman|NN 
+back_pain|DS week|NN gestation|NN peak|NN week|NN gestation|NN 
+of|NN woman|NN back_pain|DS pregnancy|NN report|NN back_pain|DS year|NN pregnancy|NN back_pain|DS risk|NN of|NN back_pain|DS pregnancy|NN 
+factor|NN of|NN pregnancy|NN back_pain|DS curvature|NN of|NN back|NN lumbar|NN lordosis|NN weight|NN abdomen|NN 
+hormone|NN relaxin|NN pregnancy|NN tissue|NN in|NN pelvis|NN back|NN vaginal|NN delivery|NN 
+soften|NN flexibility|NN of|NN ligament|NN joint|NN in|NN back|NN in|NN pain|ST 
+back_pain|DS in|NN pregnancy|NN radicular|NN symptom|NN fetus|NN plexus|NN lumbar|NN plexus|NN in|NN pelvis|NN 
+factor|NN back_pain|DS of|NN pregnancy|NN stand|NN bend|NN lift|NN walk|NN 
+back_pain|DS in|NN pregnancy|NN pain|ST thigh|NN buttock|NN pain|ST patient|NN pain|ST pain|ST 
+heat|NN acetaminophen|NN paracetamol|NN massage|NN pain|ST 
+period|NN of|NN time|NN 
+economics|NN back_pain|DS disability|NN contributor|NN visit|NN work|NN day|NN in|NN state|NN cause|NN of|NN disability|NN worldwide|NN 
+academy|NN of|NN surgeon|NN visit|NN office|NN year|NN back_pain|DS 
+work|NN disability|NN back_pain|DS cost|NN year|NN in|NN state|NN 
+in|NN kingdom|NN in|NN year|NN expense|NN disability|NN back_pain|DS 
+reference|NN 1|NN 
+paresthesia|ST definition|NN origin|NN http|NN 
+1|NN 
+church|NN e|NN diagnosis|NN treatment|NN of|NN back_pain|DS 
+technology|NN online|NN 
+2|NN cinahl|NN text|NN ma|NN 
+december|NN 
+burke|NN gl|NN 
+chapter|NN anatomy|NN of|NN pain|ST in|NN backache|NN http|NN 
+backache|NN occiput|NN 
+vancouver|NN bc|NN macdonald|NN publish|NN 
+deyo|NN ra|NN jn|NN 
+back_pain|DS 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+cohen|NN sp|NN 
+epidemiology|NN diagnosis|NN treatment|NN of|NN neck|NN pain|ST http|NN 
+mayo|NN proceed|NN 
+2|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+patel|NN ogle|NN 
+diagnosis|NN management|NN of|NN acute|NN back_pain|DS http|NN 
+academy|NN of|NN family|NN physician|NN 
+march|NN 
+manchikanti|NN l|NN singh|NN v|NN datta|NN s|NN cohen|NN sp|NN hirsch|NN ja|NN 
+review|NN of|NN epidemiology|NN scope|NN impact|NN of|NN pain|ST 
+pain|ST physician|NN 
+pmid|NN http|NN 
+institute|NN health|NN metric|NN evaluation|NN 
+burden|NN of|NN disease|NN study|NN http|NN chou|NN r|NN v|NN casey|NN d|NN cross|NN jt|NN p|NN dk|NN 
+diagnosis|NN treatment|NN of|NN back_pain|DS practice|NN guideline|NN college|NN of|NN physician|NN pain|ST society|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+wall|NN ron|NN hockberger|NN 
+rosen|NN emergency|NN medicine|NN concept|NN practice|NN 
+wall|NN ron|NN hockberger|NN 
+philadelphia|NN isbn|NN oclc|NN http|NN 
+slipman|NN curtis|NN ed|NN 
+spine|NN approach|NN s|NN 
+philadelphia|NN pa|NN saunders|NN 
+back_pain|DS http|NN 
+http|NN 
+symptom|NN diagnosis|NN guide|NN 
+isbn|NN oclc|NN http|NN 
+j|NN cízková|NN d|NN j|NN n|NN marsala|NN m|NN sulla|NN i|NN al|NN 
+equina|NN syndrome|NN 
+progress|NN in|NN neurobiology|NN 
+http|NN 
+pmid|NN http|NN 
+den|NN bosch|NN ma|NN hollingworth|NN w|NN al|NN dixon|NN ak|NN 
+evidence|NN use|NN of|NN lumbar|NN spine|NN radiography|NN back_pain|DS 
+radiology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+woolf|NN cj|NN 
+sensitization|NN implication|NN diagnosis|NN treatment|NN of|NN pain|ST http|NN 
+pain|ST 
+suppl|NN http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+verdu|NN b|NN decosterd|NN i|NN buclin|NN t|NN stiefel|NN f|NN 
+antidepressant|NN treatment|NN of|NN chronic|NN pain|ST 
+drug|NN 
+http|NN 
+pmid|NN http|NN 
+jameson|NN larry|NN 
+harrison|NN principle|NN of|NN medicine|NN 
+isbn|NN oclc|NN http|NN 
+raastad|NN j|NN m|NN coeytaux|NN r|NN l|NN goode|NN ap|NN 
+association|NN lumbar|NN spine|NN feature|NN back_pain|DS review|NN 
+seminar|NN in|NN arthritis|DS rheumatism|DS 
+http|NN 
+pmid|NN http|NN 
+lavelle|NN kitab|NN ramakrishnan|NN benzel|NN 
+anatomy|NN of|NN nerve|NN root|NN compression|NN nerve|NN root|NN tether|NN instability|NN 
+in|NN benzel|NN spine|NN surgery|NN pp|NN 
+philadelphia|NN pa|NN elsevier|NN 
+jarvik|NN jg|NN deyo|NN ra|NN 
+evaluation|NN of|NN back_pain|DS emphasis|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+r|NN j|NN p|NN solovieva|NN s|NN e|NN 
+association|NN back_pain|DS 
+journal|NN of|NN medicine|NN 
+1|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+burton|NN ak|NN tillotson|NN km|NN cj|NN hollis|NN s|NN 
+predictor|NN of|NN outcome|NN in|NN acute|NN back|NN trouble|NN 
+spine|NN 
+http|NN 
+pmid|NN http|NN 
+carragee|NN ej|NN alamin|NN tf|NN miller|NN jl|NN carragee|NN jm|NN 
+determinant|NN of|NN back_pain|DS disability|NN remission|NN study|NN in|NN subject|NN back_pain|DS 
+journal|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+hurwitz|NN el|NN h|NN yu|NN f|NN 
+association|NN of|NN pain|ST disability|NN distress|NN patient|NN in|NN pain|ST study|NN 
+journal|NN of|NN epidemiology|NN 
+http|NN 
+pmid|NN http|NN 
+dionne|NN ce|NN 
+distress|NN predictor|NN of|NN limitation|NN in|NN care|NN set|NN 
+journal|NN of|NN epidemiology|NN 
+http|NN 
+pmid|NN http|NN 
+v|NN turko|NN e|NN d|NN ga|NN stiell|NN ig|NN 
+risk|NN factor|NN pathology|NN in|NN adult|NN emergency|NN department|NN back_pain|DS patient|NN 
+journal|NN of|NN emergency|NN medicine|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+editor|NN 
+smith|NN editor|NN 
+mayeaux|NN editor|NN 
+chumley|NN heidi|NN 
+color|NN atlas|NN synopsis|NN of|NN family|NN medicine|NN 
+isbn|NN oclc|NN http|NN 
+report|NN college|NN of|NN physician|NN annals|NN of|NN medicine|NN image|NN test|NN pain|ST 
+http|NN pdf|NN value|NN care|NN consumer|NN report|NN december|NN college|NN of|NN physician|NN thing|NN physician|NN patient|NN http|NN initiative|NN of|NN abim|NN foundation|NN college|NN of|NN physician|NN december|NN centre|NN care|NN back_pain|DS early|NN management|NN of|NN back_pain|DS http|NN uideline|NN institute|NN health|NN excellence|NN september|NN centre|NN care|NN acr|NN criterion|NN back_pain|DS http|NN http|NN agency|NN healthcare|NN research|NN quality|NN college|NN of|NN radiology|NN 
+september|NN september|NN chou|NN r|NN v|NN casey|NN d|NN cross|NN jt|NN p|NN dk|NN 
+diagnosis|NN treatment|NN of|NN back_pain|DS practice|NN guideline|NN college|NN of|NN physician|NN pain|ST society|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+back_pain|DS 
+occupational|NN medicine|NN practice|NN guideline|NN evaluation|NN management|NN of|NN common|NN health|NN 
+acoem|NN 
+chou|NN r|NN dk|NN p|NN 
+image|NN back_pain|DS advice|NN health|NN care|NN college|NN of|NN physician|NN 
+annals|NN of|NN medicine|NN 
+citeseerx|NN http|NN 
+http|NN 
+pmid|NN http|NN 
+chou|NN r|NN r|NN carrino|NN ja|NN deyo|NN ra|NN 
+image|NN strategy|NN pain|ST review|NN 
+lancet|NN 
+http|NN 
+pmid|NN http|NN 
+oland|NN g|NN hoff|NN tg|NN 
+area|NN myelography|NN tomography|NN 
+relation|NN in|NN lumbar|NN disc|NN herniation|NN 
+spine|NN 
+discussion|NN http|NN 
+pmid|NN http|NN 
+kapeller|NN p|NN f|NN krametter|NN d|NN m|NN roob|NN g|NN schmidt|NN r|NN h|NN 
+spondylitis|NN laboratory|NN mri|NN feature|NN 
+neurology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+deyo|NN ra|NN diehl|NN ak|NN 
+cancer|DS cause|NN of|NN back_pain|DS frequency|NN presentation|NN strategy|NN 
+journal|NN of|NN medicine|NN 
+http|NN 
+pmid|NN s|NN 
+patel|NN nd|NN broderick|NN df|NN burn|NN j|NN al|NN 
+acr|NN appropriateness|NN criterion|NN back_pain|DS 
+http|NN 
+college|NN of|NN radiology|NN 
+dec|NN 
+steffens|NN d|NN cg|NN pereira|NN l|NN ml|NN vc|NN m|NN al|NN 
+prevention|NN of|NN back_pain|DS review|NN 
+jama|NN medicine|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+baron|NN r|NN n|NN r|NN dickenson|NN ah|NN treede|NN rd|NN 
+back_pain|DS in|NN practice|NN http|NN 
+journal|NN of|NN pain|ST 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+publish|NN harvard|NN health|NN 
+back|NN surgery|NN right|NN choice|NN 
+http|NN 
+harvard|NN health|NN 
+stockwell|NN s|NN 
+guideline|NN back_pain|DS therapy|NN 
+journal|NN of|NN nurse|NN 
+http|NN 
+pmid|NN http|NN 
+sd|NN cameron|NN m|NN walker|NN bf|NN jw|NN aj|NN 
+cochrane|NN review|NN of|NN heat|NN cold|NN back_pain|DS 
+spine|NN 
+http|NN 
+pmid|NN http|NN 
+dahm|NN kt|NN brurberg|NN kg|NN jamtvedt|NN g|NN hagen|NN kb|NN 
+advice|NN in|NN bed|NN versus|NN advice|NN pain|ST sciatica|ST 
+cochrane|NN database|NN of|NN review|NN cd007612|NN 
+http|NN 
+pmid|NN http|NN 
+wall|NN melzack|NN textbook|NN of|NN pain|ST 
+mcmahon|NN b|NN 
+stephen|NN b|NN 
+philadelphia|NN pa|NN 
+http|NN 
+ja|NN van|NN tulder|NN mw|NN koes|NN 
+exercise|NN therapy|NN treatment|NN of|NN back_pain|DS 
+cochrane|NN database|NN of|NN review|NN cd000335|NN 
+http|NN 
+pmid|NN http|NN 
+furlan|NN ad|NN m|NN irvin|NN e|NN imamura|NN m|NN 
+massage|NN back_pain|DS 
+cochrane|NN database|NN of|NN review|NN cd001929|NN 
+http|NN ub3|NN 
+pmid|NN http|NN 
+m|NN baradaran|NN hr|NN m|NN moradi|NN y|NN dastgiri|NN s|NN 
+effectiveness|NN of|NN acupuncture|NN acupressure|NN intervention|NN treatment|NN of|NN chronic|NN nonspecific|NN back_pain|DS in|NN iran|NN review|NN http|NN 
+therapy|NN in|NN practice|NN 
+http|NN 
+pmid|NN http|NN 
+rubinstein|NN sm|NN van|NN middelkoop|NN m|NN wj|NN mr|NN van|NN tulder|NN mw|NN 2019|NN 
+benefit|NN harm|NN of|NN therapy|NN treatment|NN of|NN chronic|NN back_pain|DS review|NN of|NN trial|NN http|NN 
+bmj|NN 
+l689|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+poquet|NN n|NN lin|NN cw|NN mw|NN van|NN tulder|NN mw|NN esmail|NN r|NN koes|NN cg|NN 
+back|NN school|NN acute|NN pain|ST 
+cochrane|NN database|NN of|NN review|NN 
+cd008325|NN 
+tps|NN 
+pmid|NN http|NN 
+parreira|NN p|NN mw|NN van|NN tulder|NN mw|NN esmail|NN r|NN koes|NN n|NN al|NN 
+back|NN school|NN chronic|NN back_pain|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 
+cd011674|NN 
+http|NN ub2|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+t|NN cohen|NN mj|NN v|NN l|NN i|NN al|NN 
+insole|NN prevention|NN treatment|NN of|NN back_pain|DS 
+cochrane|NN database|NN of|NN review|NN cd005275|NN 
+http|NN 
+pmid|NN http|NN 
+wegner|NN i|NN widyahening|NN tulder|NN mw|NN blomberg|NN se|NN hc|NN brønfort|NN g|NN al|NN 
+traction|NN pain|ST sciatica|ST http|NN 
+cochrane|NN database|NN of|NN review|NN cd003010|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+jb|NN r|NN hc|NN hildebrandt|NN j|NN nelemans|NN 
+injection|NN therapy|NN subacute|NN chronic|NN pain|ST 
+cochrane|NN database|NN of|NN review|NN cd001824|NN 
+http|NN 
+pmid|NN http|NN 
+sudhir|NN perina|NN debra|NN 
+back_pain|DS http|NN 
+rosen|NN emergency|NN medicine|NN concept|NN practice|NN 
+elsevier|NN 
+pp|NN 
+isbn|NN clinicalkey|NN 
+chaparro|NN le|NN furlan|NN ad|NN atlas|NN s|NN turk|NN dc|NN 
+opioids|NN treatment|NN chronic|NN pain|ST 
+cochrane|NN database|NN of|NN review|NN cd004959|NN 
+ttps|NN 
+pmid|NN http|NN 
+deyo|NN von|NN duhrkoop|NN david|NN 
+opioids|NN back_pain|DS http|NN 
+bmj|NN 
+s|NN 
+pmid|NN http|NN 
+tulder|NN mw|NN touray|NN t|NN furlan|NN ad|NN s|NN bouter|NN lm|NN 
+muscle|NN relaxant|NN back_pain|DS http|NN 
+cochrane|NN database|NN of|NN review|NN 2|NN cd004252|NN 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+canale|NN beaty|NN jam|NN 
+campbell|NN orthopaedics|NN 
+azar|NN frederick|NN canale|NN terry|NN beaty|NN jam|NN campbell|NN cohoon|NN 
+philadelphia|NN isbn|NN oclc|NN http|NN 
+jankovic|NN joseph|NN daroff|NN mazziotta|NN john|NN loren|NN 
+bradley|NN neurology|NN in|NN practice|NN 
+daroff|NN robert|NN jankovic|NN joseph|NN mazziotta|NN john|NN pomeroy|NN scott|NN loren|NN bradley|NN george|NN ed|NN 
+london|NN 
+isbn|NN oclc|NN http|NN 
+chou|NN r|NN j|NN carragee|NN ej|NN dk|NN shaffer|NN jd|NN 
+surgery|NN back_pain|DS review|NN of|NN evidence|NN pain|ST society|NN practice|NN guideline|NN 
+spine|NN 
+s|NN 
+pmid|NN http|NN 
+surgery|NN back_pain|DS http|NN 
+june|NN 
+benzel|NN 
+benzel|NN spine|NN surgery|NN technique|NN complication|NN avoidance|NN management|NN 
+steinmetz|NN michael|NN benzel|NN 
+saint|NN louis|NN 
+isbn|NN oclc|NN http|NN 
+burke|NN backache|NN occiput|NN http|NN chapter|NN ostgaard|NN hc|NN andersson|NN gb|NN karlsson|NN k|NN 
+prevalence|NN of|NN back_pain|DS in|NN pregnancy|NN 
+spine|NN 
+http|NN 
+pmid|NN http|NN 
+risk|NN pregnancy|NN management|NN option|NN 
+jam|NN steer|NN philip|NN j|NN 
+louis|NN mo|NN 
+p|NN 
+katonis|NN p|NN kakavelakis|NN k|NN s|NN alpantaki|NN k|NN 
+back_pain|DS http|NN 
+hippokratia|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+honorio|NN benzon|NN md|NN jam|NN rathmell|NN md|NN wu|NN md|NN dennis|NN turk|NN phd|NN charles|NN md|NN hurley|NN md|NN 
+management|NN of|NN pain|ST 
+benzon|NN honorio|NN rathmell|NN jam|NN wu|NN turk|NN dennis|NN charles|NN hurley|NN fifth|NN ed|NN 
+philadelphia|NN isbn|NN oclc|NN http|NN 
+conn|NN therapy|NN bope|NN kellerman|NN conn|NN howard|NN franklin|NN philadelphia|NN elsevier|NN 
+http|NN 
+link|NN back_pain|DS guideline|NN kaiser|NN foundation|NN health|NN plan|NN of|NN washington|NN http|NN back|NN spine|NN http|NN curlie|NN handout|NN health|NN back_pain|DS http|NN institute|NN of|NN arthritis|DS musculoskeletal|NN skin|NN disease|NN m54|NN d|NN p|NN http|NN mesh|NN d001416|NN http|NN i|NN tj|NN rm|NN ma|NN 
+treatment|NN acute|NN subacute|NN chronic|NN back_pain|DS practice|NN guideline|NN college|NN of|NN physician|NN 
+annals|NN of|NN medicine|NN 
+http|NN 
+pmid|NN http|NN 
+resource|NN diseasesdb|NN http|NN medlineplus|NN http|NN http|NN page|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

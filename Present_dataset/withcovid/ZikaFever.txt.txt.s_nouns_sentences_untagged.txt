@@ -1,0 +1,110 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN zika|NN fever|ST 
+use|NN zika|NN fever|ST disambiguation|NN 
+zika|NN fever|ST name|NN zika|NN fever|ST zika|NN fever|ST zika|NN fever|ST salvador|NN zika|NN fever|ST rash|ST zika|NN fever|ST infection|NN pronunciation|NN 
+disease|NN symptom|NN fever|ST eye|NN pain|ST headache|ST rash|ST complication|NN syndrome|NN pregnancy|NN baby|NN duration|NN week|NN cause|NN zika|NN fever|ST virus|NN mosquitoe|NN method|NN test|NN blood|NN urine|NN saliva|NN rna|NN blood|NN antibody|NN diagnosis|NN malaria|DS measle|NN prevention|NN mosquito|NN bite|NN condom|NN treatment|NN care|NN death|NN infection|NN 
+zika|NN fever|ST zika|NN fever|ST zika|NN fever|ST disease|NN zika|NN fever|ST virus|NN case|NN symptom|NN fever|ST symptom|NN fever|ST eye|NN pain|ST headache|ST rash|ST symptom|NN day|NN death|NN infection|NN transmission|NN pregnancy|NN brain|NN malformation|NN baby|NN adult_syndrome|DS 
+zika|NN fever|ST bite|NN mosquitoe|NN type|NN blood|NN transfusion|NN women|NN baby|NN diagnosis|NN blood|NN urine|NN saliva|NN presence|NN rna|NN person|NN blood|NN antibody|NN symptom|NN week|NN 
+prevention|NN mosquito|NN bite|NN area|NN disease|NN use|NN condom|NN effort|NN bite|NN use|NN insect|NN repellent|NN body|NN cloth|NN mosquito|NN net|NN water|NN mosquitoe|NN vaccine|NN health|NN official|NN women|NN area|NN 201516|NN zika|NN fever|ST outbreak|NN pregnancy|NN women|NN area|NN treatment|NN paracetamol|NN symptom|NN admission|NN hospital|NN 
+virus|NN disease|NN africa|NN outbreak|NN people|NN state|NN micronesia|NN outbreak|NN brazil|NN americas|NN pacific|NN asia|NN africa|NN world|NN health|NN organization|NN health|NN emergency|NN concern|NN february|NN emergency|NN november|NN country|NN case|NN march|NN case|NN zika|NN fever|ST spread|NN united|NN states|NN content|NN 
+sign|NN symptom|NN syndrome|NN pregnancy|NN cause|NN reservoir|NN transmission|NN diagnosis|NN screen|NN pregnancy|NN infant|NN test|NN prevention|NN cdc|NN travel|NN alert|NN response|NN mosquito|NN control|NN treatment|NN outcome|NN epidemiology|NN islands|NN oceania|NN americas|NN asia|NN history|NN origin|NN name|NN infant|NN disorder|NN syndrome|NN research|NN mechanism|NN mosquito|NN control|NN reference|NN link|NN 
+sign|NN symptom|NN arm|NN zika|NN fever|ST 
+people|NN symptom|NN sign|NN symptom|NN zika|NN fever|ST fever|ST rash|ST eye|NN muscle|NN pain|ST headache|ST sign|NN symptom|NN dengue_fever|DS time|NN mosquito|NN bite|NN symptom|NN day|NN week|NN disease|NN day|NN week|NN people|NN hospital|NN 
+family|NN dengue|NN concern|NN disorder|NN 
+case|NN blood|NN semen|NN syndrome|NN 
+zika|NN fever|ST syndrome|NN onset|NN muscle_weakness|ST system|NN system|NN paralysis|ST zika|NN fever|ST infection|NN individual|NN zika|NN fever|ST virus|NN cause|NN gb|NN zika|NN fever|ST virus|NN schwann|NN cell|NN country|NN zika|NN fever|ST outbreak|NN increase|NN rate|NN case|NN 
+outbreak|NN polynesia|NN case|NN gb|NN period|NN outbreak|NN pregnancy|NN 
+disease|NN mother|NN child|NN womb|NN problem|NN baby|NN 
+range|NN birth|NN defect|NN infection|NN pregnancy|NN scale|NN abnormality|NN birth|NN association|NN abnormality|NN brain|NN eye|NN development|NN scare|NN abnormality|NN accumulation|NN fluid|NN fetus|NN abnormality|NN problem|NN seizure|NN vision|NN problem|NN hear|NN problem|NN problem|NN feed|NN development|NN 
+stage|NN pregnancy|NN mother|NN risk|NN fetus|NN risk|NN factor|NN outcome|NN group|NN risk|NN baby|NN microcephaly|DS mother|NN trimester|NN risk|NN microcephaly|DS trimester|NN baby|NN brain|NN abnormality|NN infection|NN newborn|NN brain|NN damage|NN cause|NN reservoir|NN 
+zika|NN fever|ST virus|NN mosquito-borne|NN dengue_fever|DS viruse|NN 
+mosquitoe|NN vector|NN reservoir|NN specy|NN evidence|NN west|NN monkey|NN rodent|NN transmission|NN 
+transmission|NN bite|NN mosquitoe|NN genus|NN region|NN 
+africanus|NN luteocephalus|NN 
+ae|NN furcifer|NN outbreak|NN island|NN south|NN pacific|NN hensilly|NN vector|NN spread|NN virus|NN polynesia|NN 
+zika|NN fever|ST virus|NN transmission|NN men|NN partner|NN zika|NN fever|ST virus|NN semen|NN sample|NN person|NN time|NN virus|NN semen|NN blood|NN urine|NN week|NN level|NN semen|NN body|NN fluid|NN virus|NN semen|NN 
+case|NN men|NN symptom|NN zika|NN fever|ST disease|NN cdc|NN men|NN area|NN month|NN attempt|NN conception|NN date|NN transmission|NN women|NN partner|NN sex|NN disease|NN 
+case|NN transmission|NN cdc|NN women|NN zika|NN fever|ST week|NN symptom|NN disease|NN case|NN transmission|NN breastfeed|NN virus|NN breast|NN milk|NN 
+flaviviruse|NN blood|NN transfusion|NN country|NN strategy|NN screen|NN blood|NN donor|NN 
+fda|NN screen|NN blood|NN product|NN zika|NN fever|ST virus|NN blood|NN donor|NN polynesia|NN 
+pathophysiology|NN zika|NN fever|ST microcephaly|DS subject|NN research|NN end|NN diagnosis|NN 
+zika|NN fever|ST sign|NN symptom|NN overlap|NN arboviruse|NN area|NN center|NN disease|NN control|NN prevention|NN cdc|NN feature|NN diagnosis|NN zika|NN fever|ST 
+addition|NN consideration|NN malaria|DS group|NN rubella|DS measle|NN adenovirus|NN alphavirus|NN infection|NN ross|NN river|NN forest|NN viruse|NN 
+case|NN series|NN routine|NN chemistry|NN blood|NN count|NN patient|NN 
+leukopenia|NN liver|NN 
+zika|NN fever|ST virus|NN transcriptase|NN pcr|NN rt-pcr|NN patient|NN 
+period|NN viremia|NN world|NN health|NN organization|NN test|NN serum|NN day|NN symptom|NN onset|NN saliva|NN sample|NN day|NN sample|NN zika|NN fever|ST virus|NN saliva|NN serum|NN urine|NN sample|NN day|NN onset|NN symptom|NN virus|NN urine|NN saliva|NN serum|NN period|NN virus|NN day|NN zika|NN fever|ST virus|NN latency|NN 
+serology|NN detection|NN igm|NN igg|NN antibody|NN zika|NN fever|ST virus|NN 
+igm|NN antibody|NN day|NN onset|NN illness|NN dengue|NN west_nile_virus|DS vaccine|NN flaviviruse|NN fda|NN test|NN zika|NN fever|ST virus|NN antibody|NN screen|NN pregnancy|NN 
+cdc|NN screen|NN women|NN symptom|NN infection|NN 
+women|NN area|NN week|NN return|NN travel|NN difficulty|NN order|NN interpret|NN test|NN zika|NN fever|ST virus|NN cdc|NN healthcare|NN provider|NN health|NN department|NN assistance|NN women|NN area|NN cdc|NN test|NN visit|NN doctor|NN trimester|NN resource|NN burden|NN zika|NN fever|ST virus|NN test|NN sign|NN zika|NN fever|ST 
+women|NN test|NN result|NN zika|NN fever|ST fetus|NN ultrasound|NN week|NN anatomy|NN growth|NN infant|NN test|NN 
+infant|NN zika|NN fever|ST cdc|NN test|NN serologic|NN assay|NN igm|NN elisa|NN plaque|NN reduction|NN test|NN rt-pcr|NN infant|NN serum|NN urine|NN day|NN life|NN mother|NN blood|NN test|NN calcification|NN test|NN investigation|NN abnormality|NN feature|NN hepatomegaly|NN rash|ST skin|NN lesion|NN test|NN ultrasound|NN hear|NN evaluation|NN eye|NN examination|NN test|NN abnormality|NN infection|NN syphilis|DS toxoplasmosis|DS rubella|DS cytomegalovirus|DS infection|NN choriomeningitis|NN virus|NN infection|NN herpe|NN simplex|NN virus|NN test|NN month|NN effect|NN hear|NN prevention|NN 
+virus|NN mosquitoe|NN mosquito|NN avoidance|NN element|NN disease|NN control|NN 
+cdc|NN individual|NN 
+skin|NN shirt|NN pant|NN use|NN insect|NN repellent|NN oil|NN lemon|NN eucalyptus|NN ethyl|NN product|NN direction|NN sunscreen|NN sunscreen|NN insect|NN repellent|NN follow|NN package|NN direction|NN repellent|NN children|NN 
+repellent|NN hand|NN eye|NN mouth|NN stay|NN sleep|NN screened-in|NN room|NN bed|NN net|NN area|NN outdoor|NN cover|NN stroller|NN carrier|NN mosquito|NN net|NN baby|NN month|NN 
+cdc|NN strategy|NN mosquitoe|NN stand|NN water|NN tank|NN screen|NN door|NN window|NN insecticide|NN mosquitoe|NN larvicide|NN water|NN container|NN 
+zika|NN fever|ST virus|NN men|NN area|NN zika|NN fever|ST sex|NN use|NN condom|NN month|NN travel|NN partner|NN breastfeed|NN women|NN zika|NN fever|ST 
+case|NN zika|NN fever|ST transmission|NN infant|NN breastfeed|NN virus|NN breast|NN milk|NN 
+travel|NN symptom|NN prevention|NN mosquito|NN bite|NN week|NN order|NN risk|NN virus|NN transmission|NN mosquito|NN cdc|NN travel|NN alert|NN 
+evidence|NN link|NN zika|NN fever|ST microcephaly|DS january|NN cdc|NN travel|NN alert|NN women|NN travel|NN country|NN territory|NN transmission|NN zika|NN fever|ST virus|NN advice|NN caution|NN women|NN area|NN travel|NN mosquito|NN bite|NN partner|NN women|NN couple|NN pregnancy|NN area|NN zika|NN fever|ST condom|NN sex|NN agency|NN women|NN physician|NN 
+september|NN cdc|NN travel|NN 
+cape|NN verde|NN part|NN anguilla|NN antigua|NN barbuda|NN aruba|NN bahamas|NN barbados|NN virgin|NN islands|NN cayman|NN islands|NN cuba|NN dominica|NN republic|NN grenada|NN guadeloupe|NN haiti|NN jamaica|NN martinique|NN puerto|NN rico|NN saint|NN saint|NN saint|NN lucia|NN saint|NN martin|NN saint|NN vincent|NN grenadines|NN sint|NN eustatius|NN trinidad|NN tobago|NN 
+virgin|NN islands|NN central|NN america|NN belize|NN costa|NN rica|NN el|NN salvador|NN guatemala|NN honduras|NN nicaragua|NN panama|NN mexico|NN south|NN america|NN argentina|NN bolivia|NN brazil|NN colombia|NN ecuador|NN french|NN guiana|NN guyana|NN paraguay|NN peru|NN venezuela|NN pacific|NN islands|NN samoa|NN fiji|NN marshall|NN islands|NN micronesia|NN new|NN caledonia|NN papua|NN new|NN guinea|NN samoa|NN tonga|NN asia|NN singapore|NN malaysia|NN brunei|NN 
+pan|NN health|NN organization|NN statement|NN concern|NN health|NN impact|NN zika|NN fever|ST virus|NN link|NN gb|NN director-general|NN margaret|NN chan|NN statement|NN february|NN cluster|NN case|NN disorder|NN brazil|NN cluster|NN polynesia|NN 2014|NN health|NN emergency|NN concern|NN 
+declaration|NN response|NN virus|NN guidance|NN force|NN law|NN health|NN regulation|NN declaration|NN november|NN 2016|NN 
+development|NN priority|NN institute|NN health|NN nih|NN official|NN development|NN vaccine|NN year|NN drug|NN development|NN strategy|NN nih|NN animal|NN study|NN september|NN mosquito|NN control|NN 
+disease|NN control|NN country|NN centre|NN mosquito|NN control|NN 
+approache|NN management|NN mosquito|NN population|NN destruction|NN breed|NN site|NN pool|NN egg|NN larvae|NN mosquito|NN development|NN adult|NN insecticide|NN stage|NN adult|NN mosquitoe|NN 
+host|NN novel|NN technology|NN development|NN mosquito|NN control|NN world|NN health|NN organization|NN support|NN development|NN method|NN mosquito|NN control|NN use|NN bacteria|NN mosquitoe|NN virus|NN release|NN mosquitoe|NN breed|NN mosquitoe|NN rise|NN offspr|NN offspr|NN adult|NN stage|NN 
+mosquito|NN commission|NN april|NN combat|NN mosquitoe|NN zika|NN fever|ST virus|NN town|NN paulo|NN 
+aede|NN mosquito|NN island|NN country|NN 
+money|NN mosquito|NN resistance|NN insecticide|NN pace|NN urbanization|NN eradication|NN effort|NN mosquito|NN comeback|NN treatment|NN 
+treatment|NN zika|NN fever|ST 
+care|NN treatment|NN pain|ST fever|ST authority|NN aspirin|NN nsaids|NN syndrome|NN flaviviruse|NN aspirin|NN use|NN children|NN due|NN risk|NN syndrome|NN 
+zika|NN fever|ST virus|NN outbreak|NN treatment|NN advice|NN women|NN risk|NN infection|NN treatment|NN outcome|NN 
+time|NN zika|NN fever|ST day|NN people|NN syndrome|NN fetus|NN woman|NN zika|NN fever|ST system|NN malformation|NN epidemiology|NN country|NN zika|NN fever|ST virus|NN transmission|NN september|NN 
+april|NN part|NN study|NN rockefeller|NN foundation|NN fever|ST rhesus|NN monkey|NN canopy|NN zika|NN fever|ST forest|NN uganda|NN april|NN monkey|NN fever|ST blood|NN sample|NN case|NN zika|NN fever|ST population|NN survey|NN time|NN uganda|NN individual|NN zika|NN fever|ST case|NN nigeria|NN outbreak|NN africa|NN area|NN southeast|NN asia|NN case|NN zika|NN fever|ST virus|NN subcontinent|NN 
+survey|NN antibody|NN zika|NN fever|ST people|NN india|NN exposure|NN flaviviruse|NN 
+analysis|NN strain|NN zika|NN fever|ST virus|NN southeast|NN asia|NN zika|NN fever|ST cause|NN fever|ST indonesia|NN infection|NN zika|NN fever|ST virus|NN illness|NN islands|NN article|NN islands|NN zika|NN fever|ST virus|NN outbreak|NN 
+outbreak|NN case|NN island|NN state|NN micronesia|NN total|NN case|NN pcr|NN serology|NN case|NN 
+symptom|NN fever|ST death|NN 
+mosquito|NN aede|NN specy|NN yap|NN outbreak|NN vector|NN transmission|NN 
+way|NN introduction|NN virus|NN island|NN introduction|NN mosquitoe|NN human|NN strain|NN southeast|NN asia|NN time|NN zika|NN fever|ST africa|NN asia|NN island|NN outbreak|NN case|NN oceania|NN article|NN zika|NN fever|ST virus|NN outbreak|NN oceania|NN 
+outbreak|NN zika|NN fever|ST polynesia|NN new|NN caledonia|NN easter|NN island|NN cook|NN islands|NN 
+source|NN virus|NN introduction|NN virus|NN southeast|NN asia|NN yap|NN islands|NN outbreak|NN americas|NN information|NN zika|NN fever|ST virus|NN epidemic|NN area|NN zika|NN fever|ST virus|NN transmission|NN april|NN 2016|NN 
+analyse|NN zika|NN fever|ST virus|NN strain|NN zika|NN fever|ST americas|NN december|NN hemisphere|NN february|NN south|NN america|NN mexico|NN november|NN transmission|NN florida|NN texas|NN death|NN united|NN states|NN zika|NN fever|ST february|NN 
+brazil|NN case|NN illness|NN case|NN illness|NN march|NN traveller|NN health|NN ministry|NN november|NN count|NN number|NN people|NN virus|NN brazil|NN disease|NN subject|NN notification|NN 
+case|NN state|NN country|NN 
+zika|NN fever|ST virus|NN cause|NN case|NN microcephaly|DS infant|NN death|NN brazil|NN case|NN 2165|NN investigation|NN december|NN 
+health|NN ministry|NN case|NN microcephaly|DS country|NN december|NN fatality|NN zika|NN fever|ST outbreak|NN average|NN case|NN year|NN brazil|NN state|NN pernambuco|NN rate|NN microcephaly|DS time|NN year|NN model|NN data|NN zika|NN fever|ST outbreak|NN polynesia|NN risk|NN microcephaly|DS children|NN mother|NN zika|NN fever|ST virus|NN trimester|NN 
+january|NN virus|NN country|NN americas|NN vector|NN mosquito|NN aegypty|NN country|NN region|NN canada|NN chile|NN mosquito|NN fever|ST easter|NN island|NN km|NN point|NN mainland|NN chile|NN 
+february|NN outbreak|NN health|NN emergency|NN concern|NN evidence|NN zika|NN fever|ST cause|NN birth|NN defect|NN problem|NN april|NN consensus|NN evidence|NN zika|NN fever|ST cause|NN microcephaly|DS infant|NN syndrome|NN adult|NN study|NN outbreak|NN zika|NN fever|ST infection|NN pregnancy|NN pregnancy|NN loss|NN pregnancy|NN problem|NN asia|NN 
+zika|NN fever|ST country|NN asia|NN brunei|NN hong|NN kong|NN myanmar|NN nepal|NN survey|NN zika|NN fever|ST virus|NN area|NN asia|NN level|NN rise|NN number|NN case|NN zika|NN fever|ST singapore|NN summer|NN olympics|NN brazil|NN analysis|NN strain|NN strain|NN thailand|NN epidemic|NN americas|NN history|NN origin|NN name|NN 
+zika|NN fever|ST forest|NN entebbe|NN uganda|NN zika|NN fever|ST virus|NN infant|NN disorder|NN 
+zika|NN fever|ST virus|NN kampala|NN uganda|NN africa|NN brazil|NN 
+zika|NN fever|ST country|NN territory|NN zika|NN fever|ST outbreak|NN northeastern|NN brazil|NN physician|NN surge|NN report|NN infant|NN microcephaly|DS time|NN number|NN case|NN case|NN official|NN project|NN infant|NN brazil|NN zika|NN fever|ST microcephaly|DS 
+zika|NN fever|ST effect|NN reason|NN example|NN effect|NN infant|NN month|NN mother|NN infection|NN time|NN zika|NN fever|ST body|NN addition|NN research|NN mechanism|NN zika|NN fever|ST effect|NN 
+outbreak|NN study|NN method|NN evidence|NN link|NN health|NN official|NN virus|NN microcephaly|DS miscarriage|ST february|NN world|NN health|NN organization|NN cluster|NN microcephaly|DS disorder|NN health|NN emergency|NN concern|NN march|NN committee|NN association|NN zika|NN fever|ST disorder|NN concern|NN 
+zika|NN fever|ST virus|NN microcephaly|DS brazil|NN zika|NN fever|ST virus|NN outbreak|NN 
+case|NN microcephaly|DS confirmation|NN case|NN case|NN awareness|NN risk|NN virus|NN infection|NN president|NN rousseff|NN videoconference|NN zika|NN fever|ST virus|NN center|NN disaster|NN management|NN 
+november|NN zika|NN fever|ST virus|NN baby|NN state|NN cear|NN brazil|NN microcephaly|DS disorder|NN 
+lancet|NN journal|NN january|NN ministry|NN health|NN case|NN microcephaly|DS zika|NN fever|ST 2165|NN case|NN county|NN state|NN investigation|NN analysis|NN case|NN microcephaly|DS brazil|NN week|NN 2016|NN march|NN 2016|NN association|NN illness|NN rash|ST fever|ST trimester|NN pregnancy|NN period|NN state|NN increase|NN deviation|NN case|NN microcephaly|DS 200014|NN state|NN bahia|NN report|NN increase|NN sd|NN 
+january|NN baby|NN oahu|NN hawaii|NN microcephaly|DS case|NN state|NN brain|NN damage|NN virus|NN 
+baby|NN mother|NN zika|NN fever|ST 
+mother|NN virus|NN brazil|NN stage|NN pregnancy|NN bout|NN zika|NN fever|ST 
+pregnancy|NN condition|NN birth|NN 
+february|NN disorder|NN newborns|NN zika|NN fever|ST study|NN state|NN brazil|NN percent|NN baby|NN zika|NN fever|ST -relate|NN scare|NN retina|NN spot|NN pigment|NN alteration|NN february|NN scientist|NN zika|NN fever|ST virus|NN genome|NN hope|NN vaccine|NN nature|NN link|NN birth|NN defect|NN 
+february|NN use|NN pyriproxyfen|NN drink|NN water|NN scientist|NN state|NN locality|NN case|NN microcephaly|DS government|NN statement|NN government|NN conspiracy|NN theory|NN chickenpox|DS rubella|DS vaccination|NN mosquitoe|NN increase|NN 
+researcher|NN zika|NN fever|ST virus|NN woman|NN baby|NN transmission|NN 
+february|NN paper|NN calvet|NN et|NN al|NN zika|NN fever|ST virus|NN genome|NN fluid|NN igm|NN antibody|NN virus|NN virus|NN barrier|NN antibody|NN mother|NN fetus|NN transmission|NN case|NN 
+study|NN march|NN mlakar|NN colleague|NN autopsy|NN tissue|NN fetus|NN zika|NN fever|ST virus|NN researcher|NN brain|NN tissue|NN brain|NN injury|NN virus|NN light|NN transmission|NN theory|NN march|NN evidence|NN virus|NN development|NN brain|NN brain|NN cell|NN 
+case|NN birth|NN defect|NN zika|NN fever|ST colombia|NN panama|NN march|NN month|NN researcher|NN cohort|NN study|NN impact|NN percent|NN infant|NN mother|NN zika|NN fever|ST pregnancy|NN study|NN difficulty|NN zika|NN fever|ST study|NN women|NN rio|NN de|NN janeiro|NN clinic|NN fever|ST rash|ST day|NN 
+women|NN zika|NN fever|ST pcr|NN progress|NN pregnancy|NN ultrasound|NN syndrome|NN 
+rate|NN autoimmune|NN disease|NN syndrome|NN polynesia|NN outbreak|NN outbreak|NN brazil|NN laboratory|NN analysis|NN zika|NN fever|ST infection|NN patient|NN gb|NN brazil|NN el|NN salvador|NN venezuela|NN march|NN zika|NN fever|ST infection|NN pattern|NN health|NN crisis|NN research|NN mechanism|NN 
+research|NN zika|NN fever|ST virus|NN disorder|NN 
+infection|NN stem|NN cell|NN brain|NN progenitor|NN cell|NN role|NN brain|NN stem|NN cell|NN number|NN neuron|NN process|NN zika|NN fever|ST protein|NN infection|NN brain|NN stem|NN cell|NN cell|NN death|NN production|NN neuron|NN lead|NN brain|NN zika|NN fever|ST tropism|NN cell|NN eye|NN rate|NN eye|NN abnormality|NN 
+addition|NN cell|NN death|NN infection|NN progenitor|NN cell|NN process|NN cell|NN proliferation|NN depletion|NN pool|NN progenitor|NN cell|NN number|NN case|NN microcephaly|DS gene|NN mutation|NN mutation|NN dysfunction|NN spindle|NN 
+evidence|NN zika|NN fever|ST virus|NN function|NN role|NN cell|NN proliferation|NN 
+line|NN research|NN zika|NN fever|ST flaviviruse|NN brain|NN cell|NN placenta|NN damage|NN result|NN inflammation|NN byproduct|NN response|NN infection|NN cell|NN mosquito|NN control|NN 
+method|NN prevention|NN breed|NN mosquitoe|NN pathogen|NN bacterium|NN spread|NN viruse|NN strain|NN wolbachia|NN vector|NN competence|NN zika|NN fever|ST virus|NN aede|NN medellin|NN colombia|NN gene|NN drive|NN technique|NN population|NN instance|NN combat|NN insect|NN disease|NN mosquitoe|NN case|NN malaria|DS zika|NN fever|ST method|NN aim|NN mosquitoe|NN radiation|NN hope|NN population|NN gamma|NN cell|NN world|NN health|NN organization|NN field|NN trial|NN male|NN mosquitoe|NN oxitec|NN spread|NN zika|NN fever|ST virus|NN 

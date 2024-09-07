@@ -1,0 +1,200 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN huntington's_disease|DS name|NN huntington's_disease|DS huntington's_disease|DS neuron|NN core|NN tendril|NN core|NN neuron|NN foreground|NN blob|NN quarter|NN diameter|NN image|NN neuron|NN inclusion|NN orange|NN part|NN disease|NN process|NN image|NN width|NN symptom|NN problem|NN mood|NN ability|NN coordination|NN body|NN movement|NN complication|NN pneumonia|DS heart|NN disease|NN injury|NN fall|NN suicide|NN onset|NN year|NN duration|NN term|NN cause|NN mutation|NN method|NN test|NN diagnosis|NN chorea|ST syndrome|NN wilsons|NN disease|NN treatment|NN care|NN tetrabenazine|NN year|NN diagnosis|NN frequency|NN descent|NN 
+huntington's_disease|DS huntington's_disease|DS huntington's_disease|DS disorder|NN result|NN death|NN brain|NN cell|NN symptom|NN problem|NN mood|NN ability|NN lack|NN coordination|NN gait|NN disease|NN advance|NN body|NN movement|NN ability|NN movement|NN person|NN ability|NN decline|NN dementia|DS symptom|NN people|NN symptom|NN year|NN age|NN age|NN disease|NN life|NN generation|NN percent|NN case|NN start|NN age|NN year|NN symptom|NN disease|NN people|NN huntington's_disease|DS degree|NN problem|NN 
+huntington's_disease|DS case|NN mutation|NN disease|NN mutation|NN individual|NN copy|NN gene|NN child|NN person|NN chance|NN disease|NN gene|NN information|NN protein|NN expansion|NN triplet|NN repeat|NN gene|NN code|NN protein|NN result|NN protein|NN cell|NN brain|NN mechanism|NN diagnosis|NN test|NN time|NN symptom|NN fact|NN debate|NN age|NN individual|NN test|NN parent|NN right|NN children|NN confidentiality|NN disclosure|NN test|NN result|NN 
+cure|NN huntington's_disease|DS care|NN stage|NN disease|NN treatment|NN symptom|NN quality|NN life|NN evidence|NN treatment|NN movement|NN problem|NN huntington's_disease|DS people|NN descent|NN japanese|NN occurrence|NN rate|NN africa|NN disease|NN men|NN women|NN complication|NN pneumonia|DS heart|NN disease|NN injury|NN fall|NN life|NN expectancy|NN suicide|NN cause|NN death|NN case|NN death|NN year|NN disease|NN 
+description|NN disease|NN charles|NN oscar|NN waters|NN condition|NN detail|NN physician|NN george|NN huntington|NN basis|NN effort|NN disease|NN foundation|NN research|NN support|NN organization|NN awareness|NN support|NN individual|NN family|NN research|NN research|NN direction|NN mechanism|NN disease|NN animal|NN model|NN aid|NN research|NN test|NN medication|NN symptom|NN progression|NN disease|NN procedure|NN stem|NN cell|NN therapy|NN goal|NN damage|NN disease|NN content|NN 
+sign|NN symptom|NN genetics|NN mutation|NN inheritance|NN mechanism|NN function|NN change|NN change|NN diagnosis|NN predictive|NN test|NN diagnosis|NN test|NN diagnosis|NN management|NN therapy|NN education|NN epidemiology|NN history|NN society|NN culture|NN ethics|NN support|NN organization|NN research|NN direction|NN production|NN cell|NN survival|NN replacement|NN trial|NN reference|NN link|NN 
+sign|NN symptom|NN rate|NN symptom|NN huntington's_disease|DS irritability|ST apathy|ST anxiety|ST mood|NN 3369|NN 1052|NN 
+symptom|NN huntington's_disease|DS age|NN year|NN age|NN infancy|NN age|NN stage|NN change|NN personality|NN cognition|NN skill|NN symptom|NN symptom|NN stage|NN huntington's_disease|DS symptom|NN onset|NN progression|NN extent|NN symptom|NN individual|NN 
+symptom|NN movement|NN chorea|ST restlessness|NN motion|NN lack|NN coordination|NN eye|NN movement|NN motor|NN abnormality|NN sign|NN motor|NN dysfunction|NN year|NN appearance|NN symptom|NN rigidity|NN motion|NN posture|NN disorder|NN sign|NN system|NN brain|NN movement|NN function|NN action|NN muscle|NN control|NN 
+consequence|NN instability|NN expression|NN difficulty|NN swallow|NN eate|NN difficulty|NN cause|NN weight_loss|ST malnutrition|NN sleep|NN disturbance|NN symptom|NN juvenile|NN huntington's_disease|DS symptom|NN rigidity|NN symptom|NN 
+symptom|NN form|NN huntington's_disease|DS 
+ability|NN executive|NN function|NN plan|NN flexibility|NN think|NN rule|NN acquisition|NN initiation|NN action|NN inhibition|NN action|NN disease|NN memory|NN deficit|NN 
+impairment|NN range|NN memory|NN deficit|NN memory|NN difficulty|NN deficit|NN memory|NN life|NN memory|NN body|NN activity|NN memory|NN problem|NN time|NN dementia|DS pattern|NN deficit|NN dementia|DS syndrome|NN effect|NN dementia|DS 
+alzheimers|NN disease|NN 
+manifestation|NN anxiety|ST depression|ST display|NN emotion|NN aggression|NN behavior|NN addiction|NN alcoholism|NN gamble|NN hypersexuality|NN difficulty|NN people|NN expression|NN prevalence|NN symptom|NN study|NN rate|NN lifetime|NN prevalence|NN disorder|NN sufferer|NN family|NN symptom|NN aspect|NN disease|NN function|NN reason|NN institutionalization|NN thought|NN suicide|NN attempt|NN population|NN individual|NN awareness|NN impairment|NN 
+mutant|NN huntingtin|NN body|NN abnormality|NN tissue|NN expression|NN brain|NN 
+abnormality|NN muscle|NN atrophy|DS failure|NN glucose|NN tolerance|NN weight_loss|ST osteoporosis|DS atrophy|DS genetics|NN 
+human|NN copy|NN gene|NN code|NN protein|NN 
+gene|NN huntington's_disease|DS transcript|NN 
+part|NN gene|NN section|NN repeat|NN length|NN individual|NN length|NN generation|NN 
+repeat|NN gene|NN mutation|NN repeat|NN count|NN result|NN gene|NN 
+length|NN section|NN threshold|NN form|NN protein|NN mutant|NN protein|NN 
+function|NN protein|NN cause|NN change|NN turn|NN cause|NN disease|NN symptom|NN 
+huntington's_disease|DS mutation|NN mutation|NN person|NN allele|NN disease|NN 
+sex|NN length|NN section|NN gene|NN severity|NN sex|NN parent|NN mutation|NN 
+huntington's_disease|DS repeat|NN disorder|NN length|NN section|NN gene|NN range|NN gene|NN arm|NN chromosome|NN 
+sequence|NN dna|NN time|NN 
+repeat|NN cag|NN code|NN codon|NN amino|NN acid|NN glutamine|NN series|NN result|NN production|NN chain|NN glutamine|NN tract|NN tract|NN part|NN gene|NN region|NN classification|NN repeat|NN disease|NN status|NN number|NN repeat|NN count|NN classification|NN disease|NN status|NN risk|NN offspr|NN 3639|NN penetrance|NN 
+people|NN glutamine|NN region|NN production|NN protein|NN sequence|NN result|NN production|NN protein|NN characteristics|NN form|NN mutant|NN decay|NN rate|NN type|NN neuron|NN 
+region|NN brain|NN amount|NN reliance|NN type|NN neuron|NN number|NN repeat|NN process|NN account|NN variation|NN age|NN onset|NN symptom|NN 
+variation|NN environment|NN gene|NN mechanism|NN huntington's_disease|DS 3639|NN result|NN form|NN disease|NN onset|NN progression|NN symptom|NN 
+case|NN onset|NN symptom|NN repeat|NN count|NN huntington's_disease|DS penetrance|NN age|NN huntington's_disease|DS variant|NN huntington's_disease|DS 
+account|NN huntington's_disease|DS carrier|NN inheritance|NN diagram|NN father|NN gene|NN mother|NN offspr|NN offspr|NN offspr|NN huntington's_disease|DS fashion|NN 
+probability|NN offspr|NN gene|NN 
+inheritance|NN gender|NN phenotype|NN generation|NN 
+huntington's_disease|DS inheritance|NN mean|NN individual|NN copy|NN gene|NN trinucleotide|NN mutant|NN allele|NN parent|NN penetrance|NN mutation|NN copy|NN gene|NN disease|NN 
+type|NN inheritance|NN pattern|NN offspr|NN individual|NN risk|NN mutant|NN allele|NN disorder|NN figure|NN 
+repeat|NN replication|NN instability|NN increase|NN number|NN repeat|NN expansion|NN generation|NN mutation|NN copy|NN trinucleotide|NN cause|NN number|NN repeat|NN change|NN generation|NN parent|NN number|NN repeat|NN penetrance|NN copy|NN gene|NN increase|NN number|NN repeat|NN huntington's_disease|DS increase|NN number|NN repeat|NN age|NN onset|NN severity|NN disease|NN generation|NN anticipation|NN instability|NN allele|NN repeat|NN length|NN chance|NN length|NN huntington's_disease|DS mutation|NN parent|NN repeat|NN 
+situation|NN parent|NN huntington's_disease|DS gene|NN risk|NN increase|NN parent|NN copy|NN risk|NN children|NN 
+individual|NN gene|NN 
+time|NN huntington's_disease|DS disease|NN possession|NN gene|NN symptom|NN progression|NN phenotype|NN rate|NN progression|NN mechanism|NN 
+protein|NN protein|NN function|NN behavior|NN protein|NN cell|NN type|NN brain|NN 
+damage|NN striatum|NN disease|NN area|NN brain|NN 
+symptom|NN function|NN striatum|NN connectionsnamely|NN control|NN movement|NN mood|NN function|NN dna|NN methylation|NN huntington's_disease|DS function|NN 
+concentration|NN brain|NN teste|NN amount|NN liver|NN heart|NN lung|NN function|NN htt|NN human|NN 
+protein|NN transcription|NN cell|NN transport|NN animal|NN huntington's_disease|DS function|NN htt|NN animal|NN development|NN absence|NN death|NN 
+enzyme|NN role|NN apoptosis|NN gene|NN system|NN 
+agent|NN cell|NN death|NN production|NN factor|NN protein|NN neuron|NN creation|NN 
+transport|NN transmission|NN control|NN gene|NN transcription|NN expression|NN htt|NN brain|NN cell|NN survival|NN effect|NN mhtt|NN expression|NN htt|NN characteristics|NN presence|NN mhtt|NN disease|NN production|NN htt|NN increase|NN function|NN mhtt|NN body|NN change|NN view|NN neuron|NN core|NN tendril|NN core|NN blob|NN quarter|NN diameter|NN microscope|NN image|NN neuron|NN inclusion|NN orange|NN huntington's_disease|DS image|NN width|NN 
+change|NN function|NN mhtt|NN huntington's_disease|DS pathology|NN mutant|NN form|NN protein|NN cleavage|NN fragment|NN expansion|NN protein|NN fragment|NN propensity|NN aggregation|NN aggregate|NN polyglutamine|NN 
+-strand|NN protein|NN hydrogen|NN bond|NN aggregate|NN 
+architecture|NN protein|NN deposition|NN disease|NN 
+time|NN aggregate|NN form|NN inclusion|NN body|NN cell|NN neuron|NN function|NN inclusion|NN interference|NN 
+inclusion|NN body|NN cell|NN nucleus|NN cytoplasm|NN inclusion|NN body|NN cell|NN brain|NN change|NN experiment|NN cell|NN experiment|NN part|NN defense|NN mechanism|NN help|NN cell|NN 
+pathway|NN cell|NN death|NN 
+effect|NN chaperone|NN protein|NN fold|NN protein|NN interaction|NN caspase|NN role|NN process|NN cell|NN effect|NN glutamine|NN nerve|NN cell|NN impairment|NN energy|NN production|NN cell|NN effect|NN expression|NN gene|NN 
+theory|NN way|NN cell|NN function|NN huntington's_disease|DS damage|NN mitochondria|NN cell|NN importance|NN account|NN metabolism|NN deficiency|NN 
+mutant|NN protein|NN role|NN dysfunction|NN impairment|NN electron|NN transport|NN level|NN stress|NN release|NN oxygen|NN specy|NN 
+interaction|NN huntingtin|NN protein|NN protein|NN neuron|NN vulnerability|NN glutamine|NN amount|NN excitotoxin|NN 
+damage|NN structure|NN 
+glutamine|NN amount|NN vulnerability|NN amount|NN glutamine|NN change|NN diagram|NN sideview|NN brain|NN part|NN cord|NN front|NN brain|NN left|NN centre|NN mass|NN quarter|NN size|NN brain|NN mass|NN orange|NN arm|NN region|NN spiral|NN way|NN nodule|NN mass|NN area|NN brain|NN huntington's_disease|DS 
+huntington's_disease|DS brain|NN area|NN 
+effect|NN part|NN ganglia|NN neostriatum|NN nucleus|NN area|NN nigra|NN layer|NN cortex|NN hippocampus|NN cell|NN cerebellum|NN tuberal|NN nucley|NN hypothalamus|NN part|NN thalamus|NN area|NN structure|NN type|NN neuron|NN size|NN cell|NN neuron|NN projection|NN globus|NN interneuron|NN cell|NN pallidum|NN huntington's_disease|DS increase|NN astrocyte|NN activation|NN brain|NN cell|NN 
+gangliathe|NN part|NN brain|NN huntington's_disease|DS role|NN movement|NN behavior|NN control|NN 
+function|NN theory|NN part|NN executive|NN system|NN motor|NN circuit|NN ganglia|NN number|NN circuit|NN movement|NN 
+movement|NN cortex|NN signal|NN ganglia|NN inhibition|NN 
+ganglia|NN release|NN reinstatement|NN inhibition|NN result|NN start|NN motion|NN motion|NN motion|NN completion|NN 
+damage|NN area|NN movement|NN huntington's_disease|DS movement|NN huntington's_disease|DS type|NN dysarthria|ST 
+ganglia|NN inability|NN movement|NN individual|NN ability|NN speech|NN swallow|NN food|NN liquid|NN dysphagia|ST 
+protein|NN coregulator|NN cell|NN function|NN coactivator|NN number|NN promoter|NN transcription|NN gene|NN survival|NN pathway|NN amino|NN acid|NN form|NN strip|NN glutamine|NN 
+glutamine|NN cbp|NN number|NN glutamine|NN chain|NN cbp|NN location|NN nucleus|NN domain|NN domain|NN brain|NN huntington's_disease|DS amount|NN cbp|NN addition|NN death|NN role|NN huntington's_disease|DS neuron|NN diagnosis|NN 
+diagnosis|NN onset|NN huntington's_disease|DS appearance|NN symptom|NN disease|NN test|NN diagnosis|NN family|NN history|NN huntington's_disease|DS 
+onset|NN symptom|NN test|NN individual|NN embryo|NN copy|NN repeat|NN gene|NN disease|NN 
+counsel|NN advice|NN guidance|NN test|NN procedure|NN implication|NN diagnosis|NN 
+implication|NN impact|NN individual|NN psychology|NN career|NN family|NN plan|NN decision|NN relative|NN relationship|NN 
+availability|NN test|NN risk|NN huntington's_disease|DS cross|NN section|NN brain|NN tissue|NN gap|NN gap|NN centre|NN section|NN brain|NN scan|NN patient|NN huntington's_disease|DS show|NN atrophy|DS head|NN nucley|NN enlargement|NN horn|NN ventricle|NN ex|NN atrophy|DS 
+examination|NN examination|NN onset|NN disease|NN movement|NN part|NN body|NN reason|NN consultation|NN 
+time|NN distribution|NN diagnosis|NN huntington's_disease|DS 
+symptom|NN symptom|NN hindsight|NN 
+disease|NN huntington's_disease|DS rate|NN scale|NN rate|NN system|NN motor|NN assessment|NN image|NN tomography|NN ct|NN resonance|NN image|NN mry|NN atrophy|DS nucley|NN disease|NN illustration|NN right|NN change|NN huntington's_disease|DS 
+atrophy|DS stage|NN disease|NN 
+neuroimage|NN technique|NN resonance|NN image|NN positron|NN emission|NN tomography|NN pet|NN change|NN brain|NN activity|NN onset|NN symptom|NN tool|NN test|NN 
+huntington's_disease|DS pattern|NN inheritance|NN motivation|NN individual|NN risk|NN diagnosis|NN 
+test|NN huntington's_disease|DS blood|NN test|NN number|NN repeat|NN allele|NN 
+penetrance|NN allele|NN test|NN result|NN case|NN 
+result|NN diagnosis|NN decade|NN symptom|NN 
+test|NN individual|NN copy|NN gene|NN huntington's_disease|DS test|NN person|NN percent|NN chance|NN disease|NN risk|NN percent|NN 
+person|NN disease|NN huntington's_disease|DS lifetime|NN disease|NN repeat|NN penetrance|NN allele|NN 
+symptom|NN adult|NN life|NN risk|NN person|NN rpa|NN age|NN year|NN risk|NN age|NN year|NN repeat|NN allele|NN ia|NN allele|NN 
+disease|NN individual|NN inheritance|NN symptom|NN offspr|NN huntington's_disease|DS 
+test|NN onset|NN symptom|NN event|NN decision|NN reason|NN choose|NN test|NN huntington's_disease|DS aid|NN career|NN family|NN decision|NN test|NN individual|NN gene|NN 
+time|NN survey|NN 5070|NN individual|NN test|NN test|NN individual|NN risk|NN huntington's_disease|DS test|NN treatment|NN issue|NN anxiety|ST experience|NN huntington's_disease|DS impact|NN result|NN result|NN stress|NN level|NN year|NN risk|NN suicide|NN test|NN result|NN individual|NN disorder|NN survivor|NN guilt|NN regard|NN family|NN member|NN factor|NN account|NN test|NN possibility|NN discrimination|NN implication|NN result|NN parent|NN gene|NN individual|NN sible|NN risk|NN study|NN discrimination|NN individual|NN risk|NN huntington's_disease|DS 
+rate|NN relationship|NN health|NN insurance|NN employment|NN relation|NN counsel|NN huntington's_disease|DS information|NN advice|NN support|NN decision-make|NN stage|NN test|NN process|NN implication|NN test|NN patient|NN test|NN session|NN information|NN 
+guideline|NN use|NN test|NN huntington's_disease|DS model|NN disorder|NN cerebellar|NN test|NN huntington's_disease|DS test|NN illness|NN variant|NN kidney|NN disease|NN alzheimers|NN disease|NN breast_cancer|DS genetics|NN quality|NN network|NN quality|NN assessment|NN scheme|NN test|NN disease|NN practice|NN guideline|NN test|NN huntington's_disease|DS test|NN report|NN result|NN diagnosis|NN 
+embryo|NN fertilization|NN huntington's_disease|DS diagnosis|NN 
+technique|NN cell|NN embryo|NN abnormality|NN embryo|NN huntington's_disease|DS gene|NN offspr|NN disease|NN 
+form|NN diagnosisnon-disclosure|NN exclusion|NN people|NN huntington's_disease|DS offspr|NN genotype|NN information|NN huntington's_disease|DS 
+exclusion|NN embryo|NN dna|NN parent|NN grandparent|NN inheritance|NN region|NN huntington's_disease|DS gene|NN grandparent|NN 
+non-disclosure|NN test|NN embryo|NN uterus|NN genotype|NN risk|NN huntington's_disease|DS test|NN 
+diagnosis|NN embryo|NN fetus|NN womb|NN material|NN sample|NN 
+amniocentesis|NN pregnancy|NN week|NN 
+procedure|NN fluid|NN baby|NN indicator|NN huntington's_disease|DS mutation|NN exclusion|NN test|NN disclosure|NN genotype|NN 
+test|NN parent|NN huntington's_disease|DS test|NN expansion|NN gene|NN chance|NN disease|NN 
+parent|NN option|NN termination|NN pregnancy|NN difficulty|NN child|NN gene|NN 
+addition|NN pregnancy|NN partner|NN diagnosis|NN dna|NN blood|NN sample|NN mother|NN venipuncture|NN week|NN pregnancy|NN risk|NN miscarriage|ST needle|NN contamination|NN diagnosis|NN 
+huntington's_disease|DS diagnose|NN symptom|NN family|NN history|NN disease|NN test|NN trinucleotide|NN cause|NN huntington's_disease|DS 
+huntington's_disease|DS huntington's_disease|DS l|NN syndrome|NN cause|NN huntington's_disease|DS disease|NN cause|NN mutation|NN prion|NN protein|NN gene|NN huntington's_disease|DS gene|NN huntington's_disease|DS recessively|NN gene|NN huntington's_disease|DS l3only|NN family|NN gene|NN tata|NN protein|NN huntington's_disease|DS 
+disease|NN huntington's_disease|DS atrophy|DS neuroferritinopathy|NN 
+disorder|NN case|NN huntington's_disease|DS 
+acanthocytosis|NN neurodegeneration|NN 
+disorder|NN type|NN mcleod|NN syndrome|NN management|NN diagram|NN carbon|NN hydrogen|NN oxygen|NN nitrogen|NN atom|NN structure|NN tetrabenazine|NN compound|NN management|NN chorea|ST huntington's_disease|DS 
+cure|NN huntington's_disease|DS treatment|NN severity|NN symptom|NN treatment|NN evidence|NN effectiveness|NN symptom|NN huntington's_disease|DS disease|NN ability|NN care|NN caregive|NN study|NN exercise|NN therapy|NN help|NN symptom|NN huntington's_disease|DS evidence|NN usefulness|NN therapy|NN therapy|NN speech|NN therapy|NN association|NN caffeine|NN intake|NN age|NN onset|NN huntington's_disease|DS find|NN questionnaire|NN data|NN trial|NN study|NN work|NN basis|NN lifestyle|NN decision|NN therapy|NN 
+weight_loss|ST eate|NN difficulty|NN dysphagia|ST muscle|NN make|NN nutrition|NN management|NN disease|NN advance|NN agent|NN liquid|NN fluid|NN person|NN piece|NN food|NN mouth|NN use|NN eate|NN option|NN gastrostomy|NN 
+tube|NN abdomen|NN stomach|NN risk|NN food|NN management|NN assessment|NN management|NN pathologist|NN experience|NN huntington's_disease|DS 
+people|NN huntington's_disease|DS therapist|NN way|NN symptom|NN 
+therapist|NN fall|NN risk|NN assessment|NN prevention|NN strengthen|NN stretch|NN exercise|NN 
+walk|NN aid|NN 
+therapist|NN breath|NN exercise|NN airway|NN clearance|NN technique|NN development|NN problem|NN consensus|NN guideline|NN physiotherapy|NN huntington's_disease|DS huntington's_disease|DS network|NN goal|NN rehabilitation|NN intervention|NN prevention|NN loss|NN function|NN 
+participation|NN rehabilitation|NN program|NN stage|NN disease|NN term|NN maintenance|NN motor|NN performance|NN 
+rehabilitation|NN stage|NN motor|NN loss|NN management|NN therapist|NN home|NN exercise|NN program|NN people|NN 
+number|NN people|NN huntington's_disease|DS care|NN quality|NN life|NN treatment|NN symptom|NN stress|NN illness|NN addition|NN treatment|NN 
+treatment|NN chorea|ST huntington's_disease|DS eu|NN 2008|NN drug|NN benzodiazepine|NN compound|NN investigation|NN result|NN rigidity|NN case|NN drug|NN hyperkinesia|NN acid|NN 
+symptom|NN medication|NN population|NN serotonin|NN reuptake|NN inhibitor|NN mirtazapine|NN depression|ST antipsychotic|NN drug|NN psychosis|DS behavioral|NN problem|NN specialist|NN input|NN people|NN treatment|NN medication|NN combination|NN education|NN 
+family|NN individual|NN society|NN risk|NN huntington's_disease|DS generation|NN experience|NN huntington's_disease|DS breakthrough|NN understand|NN disease|NN availability|NN test|NN 
+counsel|NN benefit|NN individual|NN knowledge|NN belief|NN future|NN option|NN plan|NN 
+information|NN family|NN plan|NN choice|NN care|NN management|NN consideration|NN 
+length|NN repeat|NN account|NN variation|NN age|NN symptom|NN rate|NN 
+repeat|NN result|NN age|NN onset|NN progression|NN symptom|NN individual|NN repeat|NN disease|NN age|NN repeat|NN symptom|NN variation|NN factor|NN gene|NN mechanism|NN disease|NN 
+life|NN expectancy|NN huntington's_disease|DS year|NN onset|NN symptom|NN complication|NN result|NN muscle|NN coordination|NN extent|NN change|NN function|NN 
+risk|NN pneumonia|DS death|NN huntington's_disease|DS 
+ability|NN movement|NN difficulty|NN lung|NN risk|NN food|NN drink|NN increase|NN risk|NN pneumonia|DS 
+risk|NN heart|NN disease|NN quarter|NN fatality|NN huntington's_disease|DS suicide|NN cause|NN fatality|NN huntington's_disease|DS live|NN 
+extent|NN thought|NN symptom|NN sufferer|NN desire|NN stage|NN disease|NN risk|NN injury|NN fall|NN malnutrition|NN epidemiology|NN 
+onset|NN huntington's_disease|DS reproduction|NN prevalence|NN huntington's_disease|DS case|NN person|NN result|NN ethnicity|NN migration|NN past|NN immigration|NN pattern|NN prevalence|NN men|NN women|NN 
+rate|NN occurrence|NN people|NN descent|NN people|NN rest|NN world|NN people|NN descent|NN 
+study|NN prevalence|NN huntington's_disease|DS uk|NN prevalence|NN uk|NN area|NN prevalence|NN average|NN incidence|NN population|NN lake|NN region|NN venezuela|NN huntington's_disease|DS person|NN area|NN localization|NN tasmania|NN region|NN scotland|NN wales|NN sweden|NN prevalence|NN case|NN founder|NN effect|NN migration|NN carrier|NN area|NN isolation|NN carrier|NN year|NN study|NN haplotype|NN clue|NN variation|NN prevalence|NN iceland|NN contrary|NN prevalence|NN fact|NN people|NN tribe|NN scandinavia|NN rise|NN swede|NN case|NN exception|NN century|NN offspr|NN couple|NN century|NN finland|NN incidence|NN people|NN 
+discovery|NN test|NN statistics|NN diagnosis|NN symptom|NN family|NN history|NN huntington's_disease|DS cause|NN diagnosis|NN 
+case|NN statistics|NN test|NN estimate|NN prevalence|NN incidence|NN disorder|NN history|NN right|NN man|NN suit|NN tie|NN moustache|NN tuft|NN hair|NN chin|NN left|NN half|NN journal|NN reporter|NN george|NN huntington|NN disorder|NN paper|NN chorea|ST age|NN 
+disorder|NN age|NN cause|NN 
+name|NN history|NN understand|NN disease|NN 
+dancelike|NN movement|NN disease|NN huntington's_disease|DS chorea|ST mention|NN huntington's_disease|DS letter|NN charles|NN oscar|NN waters|NN edition|NN practice|NN medicine|NN 
+waters|NN form|NN vulgarly|NN description|NN chorea|ST progression|NN heredity|NN disease|NN charles|NN gorman|NN prevalence|NN region|NN gorman|NN waters|NN student|NN dunglison|NN jefferson|NN college|NN philadelphia|NN johan|NN christian|NN lund|NN description|NN mountain|NN valley|NN norway|NN prevalence|NN dementia|DS pattern|NN jerk|NN movement|NN disorder|NN family|NN 
+description|NN disease|NN george|NN huntington|NN 
+history|NN generation|NN family|NN symptom|NN condition|NN definition|NN disease|NN paper|NN 
+huntington|NN pattern|NN inheritance|NN disease|NN year|NN rediscovery|NN scientist|NN inheritance|NN 
+parent|NN manifestation|NN disease|NN offspr|NN disease|NN 
+chance|NN children|NN life|NN thread|NN grandchildren|NN great-grandchildren|NN shaker|NN disease|NN 
+sir|NN william|NN disorder|NN chorea|ST paper|NN history|NN medicine|NN instance|NN disease|NN 
+interest|NN huntington's_disease|DS influence|NN field|NN medicine|NN spread|NN awareness|NN knowledge|NN disorder|NN community|NN interest|NN scientist|NN europe|NN louis|NN joseph|NN landouzy|NN bourneville|NN camillo|NN joseph|NN jules|NN end|NN century|NN research|NN huntington's_disease|DS origin|NN end|NN century|NN research|NN report|NN huntington's_disease|DS country|NN disease|NN condition|NN 
+rediscovery|NN inheritance|NN turn|NN century|NN huntington's_disease|DS example|NN inheritance|NN biologist|NN william|NN bateson|NN pedigree|NN family|NN huntington's_disease|DS inheritance|NN pattern|NN inheritance|NN pattern|NN researcher|NN smith|NN ely|NN attempt|NN trace|NN family|NN member|NN study|NN information|NN new|NN york|NN article|NN genealogy|NN huntington's_disease|DS new|NN england|NN research|NN interest|NN college|NN friend|NN charles|NN davenport|NN elizabeth|NN field|NN study|NN east|NN coast|NN state|NN family|NN huntington's_disease|DS pedigree|NN davenport|NN information|NN variable|NN age|NN onset|NN range|NN symptom|NN huntington's_disease|DS case|NN huntington's_disease|DS usa|NN handful|NN individual|NN research|NN p|NN 
+idea|NN brother|NN england|NN boston|NN progenitor|NN huntington's_disease|DS usa|NN claim|NN progenitor|NN bia|NN muncey|NN work|NN misunderstand|NN prejudice|NN huntington's_disease|DS muncey|NN davenport|NN idea|NN past|NN huntington's_disease|DS sufferer|NN spirit|NN victim|NN witchcraft|NN society|NN idea|NN 
+researcher|NN evidence|NN instance|NN community|NN family|NN george|NN huntington|NN symptom|NN huntington's_disease|DS 
+search|NN cause|NN condition|NN disease|NN foundation|NN huntington's_disease|DS f|NN milton|NN psychoanalyst|NN los|NN angeles|NN california|NN wife|NN sabin|NN year|NN huntington's_disease|DS brother|NN wife|NN disease|NN 
+foundation|NN recruitment|NN scientist|NN huntington's_disease|DS research|NN project|NN period|NN gene|NN 
+thank|NN huntington's_disease|DS f|NN us-venezuela|NN huntington's_disease|DS research|NN project|NN breakthrough|NN discovery|NN location|NN gene|NN result|NN study|NN population|NN village|NN prevalence|NN disease|NN 
+peoplemostly|NN family|NN 
+innovation|NN project|NN method|NN step|NN genome|NN project|NN research|NN group|NN gene|NN make|NN autosomal|NN disease|NN locus|NN linkage|NN analysis|NN 
+time|NN frame|NN key|NN discovery|NN mechanism|NN disorder|NN find|NN anita|NN research|NN group|NN effect|NN gene|NN length|NN 
+disease|NN type|NN animal|NN mouse|NN scale|NN experiment|NN 
+animal|NN lifespan|NN human|NN result|NN experiment|NN research|NN 
+discovery|NN fragment|NN discovery|NN inclusion|NN 
+advance|NN research|NN protein|NN disease|NN potential|NN drug|NN treatment|NN care|NN method|NN gene|NN 
+condition|NN huntington's_disease|DS term|NN huntington's_disease|DS patient|NN importance|NN problem|NN society|NN culture|NN list|NN huntington's_disease|DS media|NN depiction|NN ethics|NN fertilisation|NN ethics|NN stem|NN cell|NN controversy|NN 
+huntington's_disease|DS application|NN test|NN disease|NN issue|NN 
+issue|NN test|NN individual|NN test|NN confidentiality|NN result|NN company|NN use|NN test|NN result|NN decision|NN employment|NN life|NN insurance|NN matter|NN 
+controversy|NN charles|NN davenport|NN sterilization|NN immigration|NN control|NN people|NN disease|NN huntington's_disease|DS part|NN eugenics|NN movement|NN fertilization|NN issue|NN use|NN embryo|NN 
+huntington's_disease|DS research|NN issue|NN use|NN animal|NN test|NN stem|NN cell|NN 
+development|NN test|NN huntington's_disease|DS concern|NN access|NN use|NN person|NN result|NN guideline|NN test|NN procedure|NN procedure|NN disclosure|NN confidentiality|NN individual|NN result|NN result|NN institution|NN business|NN question|NN test|NN result|NN individual|NN life|NN insurance|NN employment|NN 
+kingdom|NN insurance|NN company|NN department|NN health|NN care|NN customer|NN genetics|NN test|NN agreement|NN test|NN huntington|NN write|NN policy|NN value|NN gb500000|NN condition|NN onset|NN test|NN child|NN adolescent|NN benefit|NN individual|NN 
+consensus|NN individual|NN counter-argument|NN parent|NN right|NN decision|NN behalf|NN 
+lack|NN treatment|NN person|NN age|NN case|NN 
+concern|NN test|NN diagnosis|NN child|NN disease|NN example|NN test|NN issue|NN abortion|NN choice|NN disease|NN difficulty|NN situation|NN parent|NN diagnosis|NN 
+part|NN process|NN parent|NN support|NN organization|NN photograph|NN woody|NN guthrie|NN wear|NN pinstripe|NN trouser|NN shirt|NN button|NN cap|NN 
+guitar|NN knee|NN 
+machine|NN fascist|NN capital|NN letter|NN sticker|NN guitar|NN 
+death|NN woody|NN guthrie|NN foundation|NN committee|NN combat|NN huntington's_disease|DS 
+huntington's_disease|DS family|NN dr|NN 
+milton|NN wexler|NN disease|NN foundation|NN huntington's_disease|DS f|NN aim|NN illness|NN research|NN foundation|NN daughter|NN nancy|NN wexler|NN part|NN research|NN team|NN venezuela|NN huntington's_disease|DS gene|NN 
+time|NN huntington's_disease|DS f|NN marjorie|NN guthrie|NN committee|NN combat|NN huntington's_disease|DS huntington's_disease|DS society|NN america|NN husband|NN woody|NN guthrie|NN complication|NN huntington's_disease|DS 
+support|NN research|NN organization|NN country|NN world|NN awareness|NN huntington's_disease|DS 
+number|NN umbrella|NN organization|NN huntington|NN association|NN huntington's_disease|DS network|NN support|NN organization|NN huntington's_disease|DS awareness|NN event|NN government|NN 
+example|NN june|NN huntington's_disease|DS awareness|NN day|NN senate|NN 
+funder|NN huntington's_disease|DS research|NN term|NN expenditure|NN huntington's_disease|DS foundation|NN foundation|NN drug|NN delay|NN huntington's_disease|DS c|NN huntington's_disease|DS q|NN foundation|NN 
+huntington's_disease|DS research|NN c|NN huntington's_disease|DS laboratory|NN oversight|NN management|NN research|NN project|NN fund|NN organization|NN support|NN huntington's_disease|DS 
+research|NN direction|NN 
+research|NN mechanism|NN huntington's_disease|DS function|NN htt|NN brain|NN pathology|NN disease|NN 
+research|NN method|NN animal|NN model|NN volunteer|NN 
+animal|NN model|NN mechanism|NN disease|NN stage|NN drug|NN development|NN animal|NN brain|NN injury|NN exhibit|NN huntington's_disease|DS symptom|NN feature|NN disease|NN identification|NN gene|NN development|NN animal|NN model|NN nematode|NN worm|NN drosophila|NN fruit|NN fly|NN mice|NN rat|NN sheep|NN pig|NN monkey|NN mutant|NN neurodegeneration|NN huntington's_disease|DS symptom|NN 
+research|NN approache|NN huntington's_disease|DS progression|NN 
+strategy|NN category|NN level|NN mutant|NN protein|NN gene|NN splice|NN gene|NN silence|NN approache|NN survival|NN harm|NN protein|NN pathway|NN mechanism|NN protein|NN homeostasis|NN histone|NN inhibition|NN strategy|NN neuron|NN 
+addition|NN novel|NN therapy|NN brain|NN function|NN development|NN therapy|NN inhibitor|NN production|NN 
+gene|NN silence|NN production|NN mutant|NN protein|NN huntington's_disease|DS gene|NN protein|NN 
+gene|NN silence|NN experiment|NN mouse|NN model|NN expression|NN mhtt|NN symptom|NN safety|NN rnay|NN gene|NN silence|NN mice|NN human-like|NN brain|NN primate|NN attempt|NN silence|NN mutant|NN 
+way|NN polymorphism|NN allele|NN produce|NN gene|NN silence|NN drug|NN target|NN polymorphism|NN mutant|NN allele|NN gene|NN silence|NN trial|NN huntington's_disease|DS patient|NN test|NN safety|NN ionis-httrx|NN pharmaceutical|NN ucl|NN institute|NN mutant|NN huntingtin|NN time|NN fluid|NN huntington's_disease|DS mutation-carrier|NN novel|NN count|NN immunoassay|NN way|NN treatment|NN effect|NN gene|NN splice|NN technique|NN genome|NN gene|NN cause|NN huntington's_disease|DS tool|NN cell|NN survival|NN 
+approache|NN cell|NN survival|NN presence|NN mutant|NN huntingtin|NN correction|NN regulation|NN histone|NN inhibitor|NN aggregation|NN metabolism|NN function|NN function|NN synapse|NN replacement|NN 
+stem|NN cell|NN therapy|NN replacement|NN neuron|NN transplantation|NN stem|NN cell|NN region|NN brain|NN 
+experiment|NN result|NN technique|NN animal|NN model|NN trial|NN potential|NN stem|NN cell|NN tool|NN huntington's_disease|DS laboratory|NN trial|NN 
+trial|NN treatment|NN huntington's_disease|DS 
+compound|NN progression|NN huntington's_disease|DS trial|NN coenzyme|NN minocycline|NN ethyl-epa|NN 
+huntington's_disease|DS association|NN 

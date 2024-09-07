@@ -1,0 +1,229 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN yellow_fever|DS yellow_fever|DS disambiguation|NN 
+rock|NN band|NN plague|DS 
+yellow_fever|DS rhos|NN wales|NN gwynedd|NN 
+yellow_fever|DS name|NN yellow_fever|DS yellow_fever|DS yellow_fever|DS tem|NN micrograph|NN yellow_fever|DS virus|NN magnification|NN disease|NN symptom|NN fever|ST muscle|NN pain|ST skin|NN complication|NN liver|NN failure|NN onset|NN day|NN post|NN exposure|NN duration|NN day|NN cause|NN yellow_fever|DS virus|NN spread|NN mosquitoe|NN method|NN blood|NN test|NN prevention|NN yellow_fever|DS vaccine|NN treatment|NN care|NN frequency|NN case|NN death|NN 
+yellow_fever|DS disease|NN duration|NN case|NN symptom|NN fever|ST chill|NN loss|NN appetite|NN nausea|ST muscle|NN pain|ST back|NN headache|ST symptom|NN day|NN people|NN day|NN fever|ST pain|ST liver|NN damage|NN skin|NN risk|NN kidney|NN problem|NN 
+disease|NN yellow_fever|DS virus|NN bite|NN mosquito|NN human|NN primate|NN type|NN mosquitoe|NN city|NN aede|NN type|NN mosquito|NN tropics|NN subtropics|NN virus|NN rna|NN virus|NN genus|NN disease|NN illness|NN stage|NN case|NN test|NN polymerase|NN chain|NN reaction|NN 
+vaccine|NN yellow_fever|DS country|NN vaccination|NN effort|NN infection|NN population|NN mosquitoe|NN area|NN yellow_fever|DS diagnosis|NN case|NN immunization|NN part|NN population|NN outbreak|NN management|NN measure|NN virus|NN death|NN disease|NN 
+yellow_fever|DS infection|NN death|NN percent|NN nation|NN people|NN area|NN world|NN disease|NN area|NN continent|NN south|NN america|NN africa|NN asia|NN number|NN case|NN yellow_fever|DS people|NN people|NN live|NN city|NN people|NN climate|NN habitat|NN mosquitoe|NN disease|NN africa|NN spread|NN south|NN america|NN slave|NN trade|NN century|NN century|NN outbreak|NN disease|NN americas|NN africa|NN europe|NN century|NN yellow_fever|DS disease|NN yellow_fever|DS virus|NN virus|NN content|NN 
+sign|NN symptom|NN cause|NN transmission|NN diagnosis|NN prevention|NN vaccination|NN vaccination|NN vector|NN control|NN treatment|NN epidemiology|NN africa|NN south|NN america|NN asia|NN history|NN history|NN cause|NN transmission|NN status|NN research|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN 
+yellow_fever|DS incubation|NN period|NN day|NN case|NN infection|NN fever|ST headache|ST chill|NN back_pain|ST fatigue|ST loss|NN appetite|NN muscle|NN pain|ST nausea|ST vomit|NN case|NN infection|NN day|NN 
+case|NN people|NN second|NN phase|NN disease|NN fever|ST time|NN jaundice|ST liver|NN damage|NN pain|ST mouth|NN eye|NN tract|NN cause|NN vomit|NN blood|NN name|NN yellow_fever|DS negro|NN vomit|NN kidney|NN failure|NN hiccup|NN delirium|DS 
+jaundice|ST fatality|NN rate|NN fatality|NN rate|NN case|NN mortality|NN 
+infection|NN immunity|NN organ|NN damage|NN result|NN yellow_fever|DS virus|NN virus|NN classification|NN virus|NN realm|NN incertae|NN family|NN genus|NN specy|NN yellow_fever|DS virus|NN 
+yellow_fever|DS yellow_fever|DS virus|NN rna|NN virus|NN type|NN specy|NN namesake|NN family|NN illness|NN serum|NN mosquitoe|NN walter|NN reed|NN positive-sense|NN rna|NN nucleotide|NN read|NN frame|NN polyprotein|NN 
+host|NN protease|NN polyprotein|NN protein|NN ns2b|NN ns4b|NN enumeration|NN arrangement|NN protein|NN code|NN gene|NN genome|NN yellow_fever|DS virus|NN region|NN stall|NN host|NN 
+utr|NN structure|NN signal|NN exonuclease|NN requirement|NN rna|NN production|NN 
+sfrna|NN result|NN degradation|NN genome|NN exonuclease|NN pathogenicity|NN yellow_fever|DS group|NN fever|ST 
+viruse|NN monocyte|NN macrophage|NN cell|NN cell|NN 
+cell|NN surface|NN receptor|NN vesicle|NN 
+endosome|NN ph|NN fusion|NN membrane|NN virus|NN envelope|NN 
+capsid|NN cytosol|NN decay|NN genome|NN 
+bind|NN membrane|NN fusion|NN protein|NN e|NN conformation|NN ph|NN rearrangement|NN homodimer|NN 
+host|NN cell|NN genome|NN reticulum|NN er|NN vesicle|NN packet|NN 
+form|NN virus|NN particle|NN er|NN form|NN precursor|NN m|NN complex|NN protein|NN 
+particle|NN apparatus|NN host|NN protein|NN m|NN 
+e|NN complex|NN place|NN virion|NN transmission|NN feed|NN adult|NN yellow_fever|DS mosquito|NN aegypty|NN male|NN female|NN right|NN 
+mosquito|NN bite|NN human|NN disease|NN 
+yellow_fever|DS virus|NN bite|NN yellow_fever|DS mosquito|NN aede|NN mosquitoe|NN tiger|NN mosquito|NN vector|NN virus|NN 
+arboviruse|NN mosquitoe|NN yellow_fever|DS virus|NN mosquito|NN blood|NN human|NN primate|NN 
+viruse|NN stomach|NN mosquito|NN virus|NN concentration|NN virion|NN cell|NN 
+haemocoel|NN blood|NN system|NN mosquitoe|NN gland|NN 
+mosquito|NN blood|NN saliva|NN wound|ST virus|NN bloodstream|NN person|NN 
+transmission|NN yellow_fever|DS virus|NN aegypty|NN transmission|NN mosquito|NN egg|NN larvae|NN 
+infection|NN vector|NN blood|NN meal|NN role|NN breakout|NN disease|NN 
+cycle|NN virus|NN mosquitoe|NN human|NN primate|NN cycle|NN yellow_fever|DS mosquito|NN aegypty|NN 
+area|NN disease|NN fever|ST fever|ST chikungunya|DS 
+cycle|NN outbreak|NN yellow_fever|DS africa|NN 
+outbreak|NN bolivia|NN cycle|NN south|NN america|NN 
+cycle|NN africa|NN south|NN america|NN cycle|NN forest|NN jungle|NN cycle|NN africanus|NN africa|NN mosquitoe|NN genus|NN south|NN america|NN vector|NN 
+jungle|NN mosquitoe|NN primate|NN disease|NN primate|NN 
+south|NN america|NN cycle|NN way|NN human|NN incidence|NN yellow_fever|DS case|NN continent|NN 
+people|NN jungle|NN virus|NN area|NN act|NN vector|NN 
+cycle|NN yellow_fever|DS mosquitoe|NN vector|NN 
+africa|NN cycle|NN savannah|NN cycle|NN cycle|NN jungle|NN cycle|NN 
+mosquitoe|NN genus|NN 
+year|NN form|NN transmission|NN yellow_fever|DS africa|NN 
+concern|NN yellow_fever|DS spread|NN southeast|NN asia|NN vector|NN aegypty|NN 
+transmission|NN mosquito|NN viruse|NN lymph|NN node|NN cell|NN 
+liver|NN infect|NN hepatocyte|NN cell|NN degradation|NN cell|NN release|NN cytokine|NN 
+mass|NN body|NN cytoplasm|NN hepatocyte|NN 
+cytokine|NN storm|NN shock|NN organ|NN failure|NN follow|NN diagnosis|NN 
+yellow_fever|DS diagnosis|NN symptom|NN person|NN 
+course|NN disease|NN 
+course|NN yellow_fever|DS outbreak|NN case|NN yellow_fever|DS symptom|NN fever|ST pain|ST nausea|ST vomit|NN day|NN area|NN 
+yellow_fever|DS virus|NN day|NN illness|NN 
+confirmation|NN transcription|NN polymerase|NN chain|NN reaction|NN genome|NN virus|NN approach|NN isolation|NN virus|NN growth|NN cell|NN culture|NN blood|NN plasma|NN week|NN 
+assay|NN phase|NN disease|NN igm|NN yellow_fever|DS increase|NN igg|NN sample|NN yellow_fever|DS 
+symptom|NN detection|NN igm|NN increase|NN igg|NN titer|NN indication|NN yellow_fever|DS 
+test|NN flaviviruse|NN virus|NN method|NN yellow_fever|DS infection|NN 
+liver|NN biopsy|NN inflammation|NN necrosis|NN hepatocyte|NN antigen|NN 
+tendency|NN yellow_fever|DS patient|NN biopsy|NN post|NN cause|NN death|NN 
+diagnosis|NN infection|NN yellow_fever|DS illness|NN malaria|DS 
+hemorrhagic|NN fever|ST virus|NN virus|NN virus|NN virus|NN cause|NN 
+prevention|NN yellow_fever|DS vaccination|NN avoidance|NN mosquito|NN bite|NN area|NN yellow_fever|DS 
+measure|NN prevention|NN yellow_fever|DS vaccination|NN programme|NN measure|NN mosquitoe|NN 
+programme|NN distribution|NN mosquito|NN net|NN use|NN home|NN reduction|NN case|NN malaria|DS yellow_fever|DS 
+use|NN insect|NN repellent|NN 
+exposure|NN time|NN mosquito|NN bite|NN 
+cloth|NN pant|NN sock|NN prevention|NN 
+awareness|NN peak|NN mosquito|NN exposure|NN dusk|NN dawn|NN 
+application|NN larvicide|NN container|NN mosquito|NN breed|NN site|NN 
+adult|NN mosquito|NN insecticide|NN spray|NN usage|NN transmission|NN yellow_fever|DS 
+use|NN insect|NN repellent|NN ethyl|NN ir3535|NN oil|NN lemon|NN eucalyptus|NN skin|NN 
+wear|NN cloth|NN mosquito|NN bite|NN 
+weather|NN permit|NN sleeve|NN pant|NN sock|NN 
+cloth|NN clothe|NN repellent|NN permethrin|NN repellent|NN protection|NN 
+cloth|NN permethrin|NN 
+mosquito|NN application|NN skin|NN 
+peak|NN time|NN mosquito|NN specy|NN dusk|NN dawn|NN 
+mosquitoe|NN yellow_fever|DS virus|NN daytime|NN 
+accommodation|NN room|NN peak|NN time|NN risk|NN mosquito|NN bite|NN 
+vaccination|NN cover|NN certificate|NN holder|NN yellow_fever|DS article|NN yellow_fever|DS vaccine|NN 
+vaccination|NN travel|NN area|NN people|NN illness|NN 
+protection|NN day|NN vaccine|NN administration|NN people|NN year|NN 
+world|NN health|NN organization|NN dose|NN vaccination|NN immunity|NN yellow_fever|DS disease|NN 
+vaccine|NN stem|NN max|NN routine|NN vaccination|NN people|NN area|NN month|NN birth|NN 
+people|NN experience|NN fever|ST ache|NN soreness|NN redness|NN site|NN injection|NN case|NN vaccination|NN yellow_fever|DS disease|NN case|NN 
+morphology|NN system|NN 
+side|NN effect|NN infection|NN system|NN case|NN yellow_fever|DS disease|NN case|NN 
+yellow_fever|DS initiative|NN people|NN country|NN west|NN africa|NN outbreak|NN 
+campaign|NN alliance|NN organization|NN europe|NN africa|NN 
+mass|NN vaccination|NN yellow_fever|DS number|NN mosquitoe|NN area|NN target|NN country|NN number|NN people|NN 
+yellow_fever|DS vaccine|NN number|NN country|NN yellow_fever|DS vaccination|NN part|NN routine|NN immunization|NN programme|NN upsurge|NN yellow_fever|DS outbreak|NN angola|NN republic|NN congo|NN uganda|NN nigeria|NN brazil|NN 2017|NN demand|NN vaccine|NN supply|NN population|NN mass|NN immunization|NN campaign|NN outbreak|NN dose|NN vaccine|NN strategy|NN vaccine|NN supply|NN dose|NN yellow_fever|DS vaccination|NN administration|NN volume|NN vaccine|NN dose|NN manufacturer|NN recommendation|NN use|NN dose|NN yellow_fever|DS vaccination|NN response|NN yellow_fever|DS outbreak|NN republic|NN congo|NN 
+march|NN vaccination|NN campaign|NN brazil|NN dose|NN emergency|NN stockpile|NN march|NN vaccination|NN traveller|NN part|NN brazil|NN march|NN brazil|NN policy|NN citizen|NN april|NN vaccination|NN 
+country|NN asia|NN danger|NN yellow_fever|DS epidemics|NN mosquitoe|NN capability|NN yellow_fever|DS monkey|NN disease|NN 
+introduction|NN virus|NN country|NN vaccination|NN visitor|NN yellow_fever|DS area|NN 
+vaccination|NN production|NN vaccination|NN certificate|NN day|NN vaccination|NN year|NN 
+2013|NN booster|NN vaccination|NN year|NN certificate|NN border|NN post|NN country|NN 
+list|NN country|NN yellow_fever|DS vaccination|NN vaccination|NN reason|NN dispensation|NN 
+case|NN exemption|NN certificate|NN vaccination|NN center|NN 
+country|NN yellow_fever|DS vaccination|NN programme|NN country|NN population|NN vector|NN control|NN information|NN campaign|NN prevention|NN dengue|NN yellow_fever|DS paraguay|NN 
+control|NN yellow_fever|DS mosquito|NN aegypty|NN importance|NN mosquito|NN fever|ST disease|NN 
+breed|NN water|NN example|NN installation|NN inhabitant|NN area|NN drink|NN water|NN supply|NN waste|NN plastic|NN bottle|NN 
+condition|NN area|NN country|NN 
+strategy|NN mosquito|NN population|NN 
+approach|NN larvae|NN 
+measure|NN water|NN accumulation|NN larvae|NN 
+fish|NN copepod|NN number|NN larvae|NN 
+year|NN copepod|NN genus|NN vietnam|NN fever|ST 
+mosquito|NN vector|NN area|NN 
+effort|NN yellow_fever|DS 
+larvicide|NN human|NN dose|NN 
+strategy|NN population|NN adult|NN yellow_fever|DS mosquito|NN 
+ovitrap|NN population|NN amount|NN pesticide|NN mosquitoe|NN 
+curtain|NN lid|NN water|NN tank|NN insecticide|NN application|NN house|NN 
+mosquito|NN net|NN mosquito|NN malaria|DS treatment|NN 
+infection|NN cure|NN yellow_fever|DS 
+care|NN deterioration|NN case|NN 
+method|NN treatment|NN disease|NN immunization|NN emergence|NN symptom|NN effect|NN 
+drug|NN treatment|NN interferon|NN effect|NN patient|NN treatment|NN rehydration|NN pain|ST relief|NN drug|NN paracetamol|NN 
+acid|NN effect|NN case|NN bleed|NN yellow_fever|DS 
+yellow_fever|DS area|NN south|NN america|NN africa|NN 
+people|NN area|NN 
+estimate|NN case|NN disease|NN death|NN year|NN number|NN case|NN 
+africa|NN area|NN risk|NN yellow_fever|DS africa|NN 
+infection|NN continent|NN 2008|NN number|NN case|NN togo|NN 
+outbreak|NN angola|NN spread|NN country|NN vaccination|NN campaign|NN 
+march|NN april|NN case|NN china|NN appearance|NN disease|NN asia|NN history|NN 
+analysis|NN genotype|NN yellow_fever|DS viruse|NN human|NN vector|NN aegypty|NN 
+genotype|NN angola|NN africa|NN east|NN africa|NN west|NN africa|NN west|NN africa|NN africa|NN 
+west|NN africa|NN genotype|NN nigeria|NN area|NN type|NN outbreak|NN 
+genotype|NN east|NN africa|NN area|NN outbreak|NN 
+outbreak|NN kenya|NN sudan|NN east|NN genotype|NN outbreak|NN south|NN america|NN area|NN risk|NN yellow_fever|DS south|NN america|NN 
+south|NN america|NN genotype|NN south|NN genotype|NN analysis|NN genotype|NN west|NN africa|NN brazil|NN date|NN introduction|NN south|NN america|NN confidence|NN interval|NN record|NN outbreak|NN yellow_fever|DS recife|NN brazil|NN 
+disease|NN outbreak|NN 
+importation|NN slave|NN slave|NN trade|NN africa|NN 
+subclade|NN e|NN 
+2016|NN outbreak|NN minas|NN state|NN brazil|NN jungle|NN outbreak|NN howler|NN monkey|NN sentinel|NN specy|NN yellow_fever|DS men|NN jungle|NN 
+case|NN human|NN aegypty|NN mosquito|NN outbreak|NN 
+april|NN outbreak|NN coast|NN people|NN end|NN outbreak|NN case|NN death|NN yellow_fever|DS health|NN ministry|NN vaccination|NN campaign|NN spread|NN season|NN february|NN march|NN cdc|NN level|NN practice|NN precaution|NN 
+analysis|NN genotype|NN genotype|NN infection|NN brazil|NN colombia|NN venezuela|NN trinidad|NN tobago|NN genotype|NN case|NN peru|NN region|NN hpd|NN 
+peru|NN hpd|NN 
+rate|NN mutation|NN genotype|NN 
+rna|NN viruse|NN 
+vector|NN aegypty|NN region|NN asia|NN pacific|NN australia|NN yellow_fever|DS jet|NN travel|NN case|NN 2016|NN angola|NN dr|NN congo|NN yellow_fever|DS outbreak|NN africa|NN 
+strain|NN mosquito|NN east|NN yellow_fever|DS virus|NN 
+immunity|NN population|NN disease|NN viruse|NN example|NN 
+disease|NN ship|NN trade|NN 
+proposal|NN absence|NN slave|NN trade|NN asia|NN scale|NN americas|NN slave|NN trade|NN yellow_fever|DS hemisphere|NN africa|NN history|NN article|NN history|NN yellow_fever|DS timeline|NN yellow_fever|DS carlos|NN finlay|NN walter|NN reed|NN history|NN 
+origin|NN yellow_fever|DS lie|NN africa|NN transmission|NN disease|NN primate|NN human|NN virus|NN east|NN africa|NN spread|NN west|NN africa|NN 
+africa|NN native|NN immunity|NN 
+outbreak|NN yellow_fever|DS village|NN colonist|NN european|NN population|NN symptom|NN influenza|DS phenomenon|NN population|NN immunity|NN yellow_fever|DS due|NN exposure|NN childhood|NN immunity|NN virus|NN vector|NN aegypty|NN north|NN south|NN america|NN importation|NN slave|NN africa|NN part|NN exchange|NN exploration|NN colonization|NN 
+outbreak|NN yellow_fever|DS world|NN island|NN barbados|NN outbreak|NN colonist|NN peninsula|NN people|NN illness|NN blood|NN vomit|NN 
+brazil|NN epidemic|NN 
+mention|NN disease|NN name|NN yellow_fever|DS mcneill|NN disruption|NN introduction|NN sugar|NN plantation|NN condition|NN mosquito|NN reproduction|NN outbreak|NN yellow_fever|DS population|NN bird|NN creature|NN mosquitoe|NN egg|NN 
+sugar|NN cure|NN house|NN sugar|NN pot|NN jar|NN sugar|NN plantation|NN breed|NN place|NN larvae|NN aegypty|NN vector|NN yellow_fever|DS 
+time|NN war|NN west|NN indies|NN post|NN soldier|NN yellow_fever|DS area|NN 
+mortality|NN rate|NN garrison|NN jamaica|NN time|NN garrison|NN canada|NN yellow_fever|DS disease|NN force|NN yellow_fever|DS 
+control|NN sugar|NN trade|NN saint-domingue|NN hispaniola|NN eye|NN frances|NN new|NN world|NN empire|NN napoleon|NN army|NN command|NN brother-in-law|NN general|NN charles|NN leclerc|NN saint-domingue|NN control|NN slave|NN revolt|NN 
+historian|NN j|NN 
+mcneill|NN yellow_fever|DS 35000|NN casualty|NN force|NN fight|NN troop|NN withdrawal|NN return|NN france|NN 
+napoleon|NN island|NN plan|NN north|NN america|NN louisiana|NN purchase|NN 
+haiti|NN independence|NN republic|NN hemisphere|NN 
+debate|NN number|NN death|NN disease|NN revolution|NN 
+yellow_fever|DS climate|NN united|NN states|NN fever|ST 
+outbreak|NN north|NN america|NN new|NN york|NN city|NN 
+colonist|NN philadelphia|NN french|NN mississippi|NN river|NN valley|NN outbreak|NN yellow_fever|DS epidemics|NN philadelphia|NN baltimore|NN new|NN york|NN city|NN century|NN 
+disease|NN steamboat|NN route|NN new|NN orleans|NN death|NN total|NN yellow_fever|DS epidemic|NN philadelphia|NN capital|NN united|NN states|NN death|NN people|NN population|NN government|NN city|NN president|NN george|NN washington|NN people|NN yellow_fever|DS epidemic|NN new|NN orleans|NN cemetery|NN 
+city|NN new|NN orleans|NN epidemics|NN century|NN 
+resident|NN disease|NN yellow_fever|DS 
+epidemics|NN united|NN states|NN outbreak|NN new|NN orleans|NN 
+outbreak|NN place|NN americas|NN century|NN cartagena|NN chile|NN cuba|NN santo|NN domingo|NN memphis|NN tennessee|NN 
+louisiana|NN outbreak|NN yellow_fever|DS inhabitant|NN 
+doctor|NN agent|NN package|NN new|NN orleans|NN resident|NN savannah|NN georgia|NN yellow_fever|DS st|NN 
+matthews|NN church|NN charleston|NN south|NN carolina|NN yellow_fever|DS death|NN congregation|NN ship|NN person|NN virus|NN hampton|NN road|NN virginia|NN june|NN disease|NN spread|NN community|NN people|NN resident|NN norfolk|NN portsmouth|NN 
+louisiana|NN citizen|NN period|NN yellow_fever|DS epidemic|NN victim|NN 
+death|NN toll|NN august|NN november|NN 
+people|NN epidemic|NN mississippi|NN river|NN valley|NN year|NN memphis|NN amount|NN rain|NN increase|NN mosquito|NN population|NN 
+result|NN epidemic|NN yellow_fever|DS steamship|NN john|NN d|NN 
+porter|NN people|NN memphis|NN hope|NN disease|NN passenger|NN concern|NN spread|NN yellow_fever|DS 
+ship|NN mississippi|NN river|NN month|NN passenger|NN outbreak|NN new|NN orleans|NN 
+outbreak|NN europe|NN 
+gibraltar|NN outbreak|NN barcelona|NN loss|NN citizen|NN outbreak|NN 
+duke|NN de|NN richelieu|NN troop|NN border|NN france|NN spain|NN pyrenees|NN mountains|NN cordon|NN order|NN epidemic|NN spread|NN spain|NN france|NN cause|NN transmission|NN 
+ezekiel|NN stone|NN wiggins|NN ottawa|NN prophet|NN cause|NN yellow_fever|DS epidemic|NN jacksonville|NN florida|NN 
+planet|NN line|NN sun|NN earth|NN earthquake|NN atmosphere|NN carbon|NN microbe|NN 
+mars|NN atmosphere|NN inhabitant|NN fever|ST canal|NN carbon|NN disease|NN 
+yellow_fever|DS buenos|NN aires|NN 
+josiah|NN c|NN 
+nott|NN yellow_fever|DS insect|NN moth|NN mosquitoe|NN idea|NN pattern|NN transmission|NN disease|NN carlos|NN finlay|NN doctor|NN scientist|NN yellow_fever|DS mosquitoe|NN contact|NN loss|NN yellow_fever|DS war|NN army|NN doctor|NN research|NN experiment|NN team|NN walter|NN reed|NN doctor|NN james|NN carroll|NN agramonte|NN jesse|NN william|NN 
+mosquito|NN hypothesis|NN 
+yellow_fever|DS virus|NN mosquitoe|NN 
+physician|NN william|NN gorgas|NN insight|NN yellow_fever|DS havana|NN 
+yellow_fever|DS construction|NN panama|NN canal|NN 
+effort|NN canal|NN build|NN french|NN part|NN mortality|NN incidence|NN yellow_fever|DS malaria|DS worker|NN 
+walter|NN reed|NN credit|NN united|NN states|NN history|NN book|NN beate|NN yellow_fever|DS dr|NN 
+finlay|NN discovery|NN yellow_fever|DS vector|NN 
+reed|NN paper|NN article|NN discovery|NN correspondence|NN acceptance|NN work|NN effect|NN walter|NN reed|NN commission|NN method|NN finlay|NN united|NN states|NN government|NN army|NN yellow_fever|DS cuba|NN panama|NN completion|NN panama|NN canal|NN 
+reed|NN research|NN finlay|NN historian|NN franois|NN delaporte|NN yellow_fever|DS research|NN issue|NN 
+scientist|NN finlay|NN reed|NN build|NN work|NN scientist|NN credit|NN research|NN fight|NN yellow_fever|DS 
+type|NN consent|NN form|NN experiment|NN cuba|NN attempt|NN participant|NN risk|NN part|NN test|NN max|NN theiler|NN 
+cuba|NN panama|NN brazil|NN sanitation|NN campaign|NN mosquitoe|NN yellow_fever|DS 
+begine|NN campaign|NN oswaldo|NN cruz|NN director|NN health|NN disease|NN landscape|NN city|NN rio|NN de|NN janeiro|NN 
+season|NN rio|NN de|NN janeiro|NN flood|NN water|NN bay|NN city|NN rios|NN street|NN 
+drainage|NN system|NN rio|NN condition|NN neighborhood|NN 
+pool|NN water|NN year|NN city|NN street|NN ground|NN mosquitoe|NN 
+direction|NN public|NN health|NN unit|NN mosquito|NN inspector|NN yellow_fever|DS rio|NN rat|NN drainage|NN house|NN 
+sanitation|NN renovation|NN campaign|NN rio|NN de|NN neighborhoods|NN 
+resident|NN city|NN center|NN rios|NN suburb|NN town|NN outskirt|NN city|NN 
+year|NN rios|NN inhabitant|NN 
+rockefeller|NN foundation|NN health|NN board|NN yellow_fever|DS eradication|NN campaign|NN mexico|NN ihb|NN respect|NN government|NN success|NN 
+eradication|NN yellow_fever|DS relationship|NN mexico|NN past|NN 
+eradication|NN yellow_fever|DS step|NN health|NN 
+scientist|NN yellow_fever|DS virus|NN west|NN africa|NN vaccine|NN 
+use|NN vaccine|NN cell|NN development|NN status|NN 
+vector|NN control|NN vaccination|NN program|NN cycle|NN yellow_fever|DS south|NN america|NN 
+outbreak|NN santa|NN cruz|NN de|NN la|NN sierra|NN bolivia|NN 
+number|NN yellow_fever|DS case|NN aegypty|NN center|NN south|NN america|NN 
+limitation|NN insecticide|NN habitat|NN dislocation|NN climate|NN change|NN 
+vector|NN control|NN program|NN 
+cycle|NN scientist|NN point|NN 
+outbreak|NN paraguay|NN 2008|NN nature|NN case|NN 
+africa|NN virus|NN eradication|NN program|NN vaccination|NN 
+program|NN cycle|NN primate|NN 
+country|NN vaccination|NN program|NN measure|NN yellow_fever|DS spread|NN virus|NN research|NN 
+hamster|NN model|NN yellow_fever|DS administration|NN ribavirin|NN treatment|NN feature|NN disease|NN treatment|NN day|NN virus|NN infection|NN survival|NN rate|NN tissue|NN damage|NN liver|NN spleen|NN level|NN aminotransferase|NN liver|NN damage|NN marker|NN 
+mechanism|NN action|NN ribavirin|NN liver|NN pathology|NN yellow_fever|DS virus|NN infection|NN activity|NN treatment|NN hepatitis|DS virus|NN survival|NN rhesus|NN model|NN yellow_fever|DS infection|NN therapy|NN infection|NN mosquitoe|NN strain|NN 
+yellow_fever|DS country|NN weapon|NN 

@@ -1,0 +1,129 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Skin cancer|Disease cell|NN Skin cancer|Disease
+appearance|NN telangiectasia|NN
+oncology|NN dermatology|NN symptom|NN area|NN skin|NN blood|NN vessel|NN run|NN ulceration|NN lump|NN top|NN mole|NN size|NN shape|NN color|NN edge|NN type|NN Skin cancer|Disease bcc|NP Skin cancer|Disease scc|NP melanoma|NN cause|NN radiation|NN sun|NN tan|NN bed|NN factor|NN skin|NN function|NN method|NN tissue|NN biopsy|NN prevention|NN exposure|NN radiation|NN sunscreen|NN treatment|NN surgery|NN radiation|NN therapy|NN frequency|NN death|NN
+Skin cancer|Disease cancer|NN skin|NN
+development|NN cell|NN ability|NN part|NN body|NN type|NN Skin cancer|Disease basal-cel|NN Skin cancer|Disease bcc|NP Skin cancer|Disease scc|NP melanoma|NN number|NN Skin cancer|Disease Skin cancer|Disease cancer|NN tissue|NN area|NN result|NN death|NN area|NN skin|NN blood|NN vessel|NN area|NN ulcer|NN Skin cancer|Disease lump|NN top|NN ulcer|NN
+sign|NN mole|NN size|NN shape|NN color|NN edge|NN color|NN
+greater|NP case|NN exposure|NN radiation|NN sun|NN exposure|NN risk|NN type|NN Skin cancer|Disease exposure|NN ozone|NN layer|NN tanning|NP bed|NN source|NN radiation|NN melanoma|NN cancer|NN exposure|NN childhood|NN Skin cancer|Disease exposure|NN melanoma|NN mole|NN people|NN light|NN skin|NN risk|NN function|NN medication|NN diagnosis|NN biopsy|NN
+exposure|NN radiation|NN use|NN sunscreen|NN method|NN melanoma|NN squamous-cel|NN Skin cancer|Disease sunscreen|NN risk|NN cancer|NN Skin cancer|Disease treatment|NN removal|NN radiation|NN therapy|NN medication|NN treatment|NN melanoma|NN combination|NN surgery|NN chemotherapy|NN radiation|NN therapy|NN therapy|NN people|NN disease|NN area|NN body|NN care|NN quality|NN life|NN melanoma|NN survival|NN rate|NN cancer|NN people|NN uk|NP united|NP states|NP year|NN
+Skin cancer|Disease form|NN cancer|NN account|NN case|NN type|NN Skin cancer|Disease people|NN year|NN estimate|NN statistics|NN Skin cancer|Disease cancer|NN Skin cancer|Disease Skin cancer|Disease death|NN united|NP states|NP cause|NN cancer|NN death|NN melanoma|NN people|NN death|NN people|NN australia|NP new|NP zealand|NP south|NP africa|NP rate|NN melanoma|NN world|NN type|NN Skin cancer|Disease year|NN area|NN content|NN
+classification|NN sign|NN symptom|NN Skin cancer|Disease Skin cancer|Disease cause|NN diagnosis|NN prevention|NN treatment|NN reconstruction|NN epidemiology|NN reference|NN link|NN
+type|NN Skin cancer|Disease basal-cel|NN Skin cancer|Disease carcinoma|NN bcc|NP squamous-cell|NP Skin cancer|Disease carcinoma|NN scc|NP melanoma|NN
+cancer|NN description|NN illustration|NN carcinoma|NN translucency|NN color|NN blood|NN vessel|NN surface|NN ulceration|NN characteristics|NN
+cell|NN skin|NN carcinoma|NN patch|NN bump|NN
+cell|NN melanoma|NN appearance|NN area|NN border|NN color|NN variation|NN mm|NN diameter|NN
+carcinoma|NN area|NN skin|NN face|NN
+cause|NN death|NN
+surgery|NN radiation|NN
+Skin cancer|Disease cancer|NN
+metastasis|NN rate|NN exception|NN scc|NP lip|NN ear|NN people|NN
+Skin cancer|Disease protuberan|NN cell|NN carcinoma|NN sarcoma|NN spindle|NN cell|NN carcinoma|NN carcinoma|NN disease|NN breast|NN fibroxanthoma|NN
+bcc|NP scc|NP mutation|NN cancer|NN uvb|NN radiation|NN dna|NN damage|NN
+melanoma|NN uva|NN radiation|NN dna|NN damage|NN
+dna|NN damage|NN radical|NN oxygen|NN specy|NN
+research|NN absorption|NN ingredient|NN skin|NN exposure|NN lead|NN increase|NN radical|NN skin|NN quantity|NN researcher|NN cream|NN compound|NN combination|NN ingredient|NN compound|NN surface|NN skin|NN
+re-application|NN risk|NN formation|NN
+sign|NN symptom|NN
+variety|NN Skin cancer|Disease symptom|NN
+change|NN skin|NN skin|NN skin|NN change|NN mole|NN edge|NN mole|NN enlargement|NN mole|NN
+Skin cancer|Disease bcc|NP bump|NN skin|NN head|NN neck|NN shoulder|NN
+blood|NN vessel|NN tumor|NN
+center|NN tumor|NN
+form|NN Skin cancer|Disease treatment|NN scare|NN
+Skin cancer|Disease scc|NP scale|NN patch|NN skin|NN
+nodule|NN dome|NN
+scc|NP mass|NN
+second|NN Skin cancer|Disease
+melanoma|NN colour|NN shade|NN brown|NN
+number|NN melanoma|NN colour|NN melanoma|NN
+warn|NN sign|NN melanoma|NN change|NN size|NN shape|NN color|NN elevation|NN mole|NN
+sign|NN appearance|NN mole|NN adulthood|NN pain|NN itch|NN ulceration|NN redness|NN site|NN bleed|NN site|NN
+mnemonic|NN b|NP border|NN coast|NN maine|NP sign|NN c|NP color|NN d|NP diameter|NN mm|NN size|NN pencil|NN eraser|NN e|NN
+cell|NN carcinoma|NN purple|NN skin|NN bump|NN
+cyst|NN type|NN cancer|NN cause|NN
+radiation|NN sun|NN exposure|NN cause|NN Skin cancer|Disease profession|NN farm|NN
+risk|NN factor|NN role|NN
+smoke|NN tobacco|NN hpv|NP infection|NN risk|NN squamous-cel|NN Skin cancer|Disease syndrome|NN melanocytic|NN syndrome|NN presence|NN nevy|NN mole|NN size|NN birth|NN month|NN birth|NN
+mm|NN size|NN risk|NN
+non-heal|NN wound|NN ulcer|NN appearance|NN Skin cancer|Disease
+radiation|NN x-ray|NN carcinogen|NN radiation|NN bed|NN age|NN light|NN skin|NN color|NN bed|NN cause|NN Skin cancer|Disease world|NN health|NN organization|NN people|NN bed|NN risk|NN category|NN Skin cancer|Disease alcohol|NN consumption|NN drink|NN increase|NN risk|NN sunburn|NN use|NN medication|NN risk|NN Skin cancer|Disease
+inhibitor|NN example|NN risk|NN time|NN azathioprine|NN time|NN
+micrograph|NN melanoma|NN aspiration|NN field|NN stain|NN
+tumor|NN epidermis|NN mucosa|NN area|NN metaplasia|NN carcinoma|NN
+tumor|NN border|NN
+tumor|NN cell|NN basement|NN membrane|NN form|NN sheet|NN mass|NN tissue|NN
+carcinoma|NN tumor|NN cell|NN keratinocyte|NN prickle|NN layer|NN cytoplasm|NN nucleus|NN
+disposal|NN epidermis|NN cell|NN periphery|NN centre|NN tumor|NN mass|NN
+cell|NN cell|NN form|NN nodule|NN layer|NN cell|NN nest|NN pearl|NN
+stroma|NN lymphocyte|NN
+carcinoma|NN cell|NN keratinization|NN
+factor|NN disease|NN process|NN mutation|NN gene|NN play|NN role|NN hedgehog|NN pathway|NN diagnosis|NN
+diagnosis|NN biopsy|NN examination|NN
+Skin cancer|Disease detection|NN method|NN photography|NN microscopy|NN raman|NN spectroscopy|NN fluorescence|NN spectroscopy|NN spectroscopy|NN coherence|NN tomography|NN image|NN technique|NN bio-impedance|NN tape|NN strip|NN analysis|NN prevention|NN
+melanoma|NN carcinoma|NN evidence|NN carcinoma|NN advice|NN rate|NN Skin cancer|Disease cloth|NN sunglass|NN hat|NN sun|NN exposure|NN period|NN peak|NN exposure|NN
+service|NN task|NN force|NN people|NN year|NN age|NN light|NN
+risk|NN Skin cancer|Disease number|NN measure|NN tan|NN day|NN sun|NN exposure|NN use|NN sunscreen|NN use|NN tobacco|NN product|NN
+evidence|NN screen|NN Skin cancer|Disease vitamin|NN supplement|NN supplement|NN effect|NN prevention|NN evidence|NN melanoma|NN risk|NN measure|NN evidence|NN trial|NN
+zinc|NP oxide|NN titanium|NN oxide|NN sun|NN screen|NN protection|NN uva|NN uvb|NN range|NN
+food|NN risk|NN sunburn|NN protection|NN sunscreen|NN
+meta-analysis|NN Skin cancer|Disease prevention|NN risk|NN individual|NN evidence|NN application|NN lotion|NN rate|NN appearance|NN cell|NN carcinoma|NN people|NN pigmentosum|NN mouth|NN skin|NN benefit|NN people|NN kidney|NN transplant|NN treatment|NN
+treatment|NN type|NN cancer|NN location|NN cancer|NN age|NN person|NN cancer|NN recurrence|NN
+basal-cel|NN cancer|NN person|NN treatment|NN cure|NN rate|NN surgery|NN
+case|NN man|NN problem|NN excise|NN cancer|NN nose|NN radiation|NN therapy|NN cure|NN rate|NN treatment|NN
+chemotherapy|NN basal-cel|NN carcinoma|NN outcome|NN basal-cel|NN carcinoma|NN squamous-cel|NN carcinoma|NN
+citation|NN melanoma|NN radiation|NN chemotherapy|NN
+disease|NN radiation|NN therapy|NN beam|NN radiotherapy|NN chemotherapy|NN 5-fluorouracil|NN freez|NN cancer|NN control|NN disease|NN cure|NN rate|NN type|NN surgery|NN
+modality|NN treatment|NN therapy|NN chemotherapy|NN curettage|NN discussion|NN carcinoma|NN carcinoma|NN
+surgery|NN surgery|NN technique|NN cancer|NN amount|NN tissue|NN edge|NN tumor|NN
+opportunity|NN amount|NN tissue|NN cosmetically|NN result|NN
+area|NN skin|NN face|NN
+cure|NN rate|NN excision|NN
+train|NN technique|NN
+method|NN pathologist|NN surgery|NN
+case|NN disease|NN procedure|NN chemotherapy|NN
+treatment|NN melanoma|NN agent|NN pembrolizumab|NN nivolumab|NN inhibitor|NN inhibitor|NN reconstruction|NN
+excision|NN form|NN treatment|NN Skin cancer|Disease
+goal|NN surgery|NN restoration|NN appearance|NN function|NN
+choice|NN technique|NN reconstruction|NN size|NN location|NN defect|NN
+reconstruction|NN Skin cancer|Disease due|NN presence|NN anatomic|NN structure|NN face|NN
+skin|NN defect|NN size|NN repair|NN skin|NN edge|NN suture|NN
+repair|NN skin|NN fold|NN wrinkle|NN line|NN scar|NN
+defect|NN repair|NN skin|NN graft|NN skin|NN flap|NN skin|NN flap|NN flap|NN
+skin|NN graft|NN skin|NN flap|NN choice|NN
+skin|NN graft|NN patch|NN defect|NN skin|NN site|NN body|NN
+skin|NN graft|NN edge|NN defect|NN bolster|NN dress|NN graft|NN day|NN graft|NN place|NN
+form|NN skin|NN graft|NN split|NN thickness|NN thickness|NN
+thickness|NN skin|NN graft|NN shaver|NN layer|NN skin|NN abdomen|NN thigh|NN
+donor|NN site|NN skin|NN heal|NN period|NN week|NN
+thickness|NN skin|NN graft|NN segment|NN skin|NN donor|NN site|NN
+thickness|NN graft|NN defect|NN graft|NN appearance|NN
+thickness|NN skin|NN graft|NN
+thickness|NN graft|NN defect|NN
+skin|NN flap|NN method|NN defect|NN tissue|NN defect|NN color|NN quality|NN
+skin|NN periphery|NN defect|NN site|NN deficit|NN
+form|NN flap|NN disruption|NN tissue|NN outcome|NN reconstruction|NN
+skin|NN flap|NN method|NN skin|NN blood|NN supply|NN region|NN body|NN
+example|NN reconstruction|NN forehead|NN flap|NN repair|NN skin|NN defect|NN
+flap|NN source|NN blood|NN supply|NN form|NN bed|NN pedicle|NN
+mortality|NN rate|NN basal-cel|NN carcinoma|NN death|NN year|NN
+comparison|NN mortality|NN rate|NN melanoma|NN death|NN melanoma|NN Skin cancer|Disease death|NN
+survival|NN rate|NN people|NN melanoma|NN treatment|NN
+cure|NN rate|NN melanoma|NN stage|NN
+prognosis|NN melanoma|NN part|NN body|NN year|NN cure|NN rate|NN surgery|NN percent|NN cell|NN carcinoma|NN
+australia|NP new|NP zealand|NP exhibit|NN rate|NN Skin cancer|Disease incidence|NN world|NN time|NN rate|NN united|NP states|NP uk|NP canada|NP
+people|NN treatment|NN Skin cancer|Disease melanoma|NN
+type|NN cancer|NN people|NN year|NN country|NN
+incidence|NN Skin cancer|Disease incidence|NN melanoma|NN auckland|NP resident|NN descent|NN case|NN people|NN year|NN century|NN effect|NN ozone|NN depletion|NN time|NN lag|NN sun|NN exposure|NN melanoma|NN development|NN
+epidemiology|NN death|NN melanoma|NN Skin cancer|Disease inhabitant|NN data|NN 2835|NN
+Skin cancer|Disease result|NN death|NN year|NN 49000|NN melanoma|NN 31000|NN Skin cancer|Disease 51000|NN
+case|NN Skin cancer|Disease state|NN form|NN cancer|NN country|NN
+american|NN Skin cancer|Disease point|NN live|NN
+form|NN Skin cancer|Disease carcinoma|NN cell|NN carcinoma|NN
+cancer|NN cell|NN Skin cancer|Disease registry|NN united|NP states|NP
+people|NN melanoma|NN people|NN australia|NP case|NN melanoma|NN year|NN die|NN disease|NN
+australia|NP incidence|NN melanoma|NN world|NN
+rate|NN cancer|NN united|NP states|NP incidence|NN melanoma|NN melanoma|NN report|NN cancer|NN institute|NN
+cancer|NN uk|NP people|NN melanoma|NN disease|NN account|NN cancer|NN death|NN people|NN non-melanoma|NN
+people|NN cell|NN Skin cancer|Disease Skin cancer|Disease united|NP states|NP year|NN
+rate|NN year|NN
+death|NN people|NN doctor|NN cancer|NN people|NN system|NN disorder|NN

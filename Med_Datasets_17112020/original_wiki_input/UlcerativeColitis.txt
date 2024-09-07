@@ -1,0 +1,352 @@
+Ulcerative colitis,UC
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Ulcerative colitis
+UC granularity.png
+Endoscopic image of a colon affected by ulcerative colitis. The internal surface of the colon is blotchy and broken in places.
+Specialty	Gastroenterology
+Symptoms	Abdominal pain, diarrhea mixed with blood, weight loss, fever, anemia[1]
+Complications	Megacolon, inflammation of the eye, joints, or liver, colon cancer[1][2]
+Usual onset	15–30 years or > 60 years[1]
+Duration	Long term[1]
+Causes	Unknown[1]
+Diagnostic method	Colonoscopy with tissue biopsies[1]
+Differential diagnosis	Dysentery, Crohn's disease, ischemic colitis[3]
+Treatment	Dietary changes, medication, surgery[1]
+Medication	Sulfasalazine, mesalazine, steroids, immunosuppressants such as azathioprine, biological therapy[1]
+Frequency	Up to 5 per 1000 people[4]
+Deaths	47,400 together with Crohn's (2015)[5]
+
+Ulcerative colitis (UC) is a long-term condition that results in inflammation and ulcers of the colon and rectum.[1][6] The primary symptoms of active disease are abdominal pain and diarrhea mixed with blood.[1] Weight loss, fever, and anemia may also occur.[1] Often, symptoms come on slowly and can range from mild to severe.[1] Symptoms typically occur intermittently with periods of no symptoms between flares.[1] Complications may include megacolon, inflammation of the eye, joints, or liver, and colon cancer.[1][2]
+
+The cause of UC is unknown.[1] Theories involve immune system dysfunction, genetics, changes in the normal gut bacteria, and environmental factors.[1][7] Rates tend to be higher in the developed world with some proposing this to be the result of less exposure to intestinal infections, or to a Western diet and lifestyle.[6][8] The removal of the appendix at an early age may be protective.[8] Diagnosis is typically by colonoscopy with tissue biopsies.[1] It is a kind of inflammatory bowel disease (IBD) along with Crohn's disease and microscopic colitis.[1]
+
+Dietary changes, such as maintaining a high-calorie diet or lactose-free diet, may improve symptoms.[1] Several medications are used to treat symptoms and bring about and maintain remission, including aminosalicylates such as mesalazine or sulfasalazine, steroids, immunosuppressants such as azathioprine, and biologic therapy.[1] Removal of the colon by surgery may be necessary if the disease is severe, does not respond to treatment, or if complications such as colon cancer develop.[1] Removal of the colon and rectum can cure the disease.[1][8]
+
+Together with Crohn's disease, about 11.2 million people were affected as of 2015.[9] Each year it newly occurs in 1 to 20 per 100,000 people, and 5 to 500 per 100,000 individuals are affected.[6][8] The disease is more common in North America and Europe than other regions.[8] Often it begins in people aged 15 to 30 years, or among those over 60.[1] Males and females appear to be affected in equal proportions.[6] It has also become more common since the 1950s.[6][8] Together, ulcerative colitis and Crohn's disease affect about a million people in the United States.[10] With appropriate treatment the risk of death appears the same as that of the general population.[2] The first description of ulcerative colitis occurred around the 1850s.[8]
+Contents
+
+    1 Signs and symptoms
+        1.1 Gastrointestinal
+        1.2 Extraintestinal features
+    2 Causes
+        2.1 Genetic factors
+        2.2 Environmental factors
+        2.3 Autoimmune disease
+        2.4 Alternative theories
+    3 Pathophysiology
+    4 Diagnosis
+        4.1 Endoscopic
+        4.2 Histologic
+        4.3 Differential diagnosis
+    5 Management
+        5.1 Medication
+        5.2 Surgery
+        5.3 Leukocyte apheresis
+        5.4 Bacterial recolonization
+        5.5 Alternative medicine
+    6 Prognosis
+        6.1 Progression or remission
+        6.2 Colorectal cancer
+        6.3 Primary sclerosing cholangitis
+        6.4 Mortality
+        6.5 Other long-term features
+    7 Epidemiology
+        7.1 United States
+        7.2 Canada
+        7.3 United Kingdom
+    8 Research
+    9 Notable cases
+    10 References
+    11 External links
+
+Signs and symptoms
+Signs and symptoms 	Crohn's disease 	Ulcerative colitis
+Defecation 	Often porridge-like,[11]
+sometimes steatorrhea 	Often mucus-like
+and with blood[11]
+Tenesmus 	Less common[11] 	More common[11]
+Fever 	Common[11] 	Indicates severe disease[11]
+Fistulae 	Common[12] 	Seldom
+Weight loss 	Often 	More seldom
+Gastrointestinal
+
+The clinical presentation[13] of ulcerative colitis depends on the extent of the disease process. Patients usually present with diarrhea mixed with blood and mucus, of gradual onset that persists for an extended period (weeks). They may also have weight loss and blood on rectal examination. The inflammation caused by the disease along with the chronic bleeding from the GI tract leads to increased rates of anemia. The disease may be accompanied by different degrees of abdominal pain, from mild discomfort to painful bowel movements or painful abdominal cramping with bowel movements.
+
+Ulcerative colitis is associated with a general inflammatory process that can affect many parts of the body. Sometimes, these associated extra-intestinal symptoms are the initial signs of the disease, such as painful arthritic knees in teenagers, which also may be seen in adults. A diagnosis of UC may not occur until the onset of intestinal manifestations, however.
+Extent of involvement
+Diagram of the human intestine
+
+Ulcerative colitis is normally continuous from the rectum up the colon. The disease is classified by the extent of involvement, depending on how far the disease extends:
+
+    Distal colitis, potentially treatable with enemas:[14]
+        Proctitis: Involvement limited to the rectum
+        Proctosigmoiditis: Involvement of the rectosigmoid colon, the portion of the colon adjacent to the rectum.
+        Left-sided colitis: Involvement of the descending colon, which runs along the patient's left side, up to the splenic flexure and the beginning of the transverse colon
+    Extensive colitis: Inflammation extending beyond the reach of enemas:
+        Pancolitis: Involvement of the entire colon, extending from the rectum to the cecum, beyond which the small intestine begins
+
+Severity of disease
+Colonic pseudopolyps of a patient with intractable UC, colectomy specimen
+
+In addition to the extent of involvement, people may also be characterized by the severity of their disease.[14]
+
+    Mild disease correlates with fewer than four stools daily, with or without blood, no systemic signs of toxicity, and a normal erythrocyte sedimentation rate (ESR) or C-reactive protein (CRP). Mild abdominal pain or cramping may occur. Patients may believe they are constipated when in fact they are experiencing tenesmus, which is a constant feeling of the need to empty the bowel accompanied by involuntary straining efforts, pain, and cramping with little or no fecal output. Rectal pain is uncommon.
+    Moderate disease correlates with more than four stools daily, but with minimal signs of toxicity. Patients may display anemia (not requiring transfusions), moderate abdominal pain, and low-grade fever, 38 to 39 °C (100 to 102 °F).
+    Severe disease correlates with more than six bloody stools a day or observable massive and significant bloody bowel movement, and evidence of toxicity as demonstrated by fever, tachycardia, anemia or an elevated ESR or CRP.
+    Fulminant disease correlates with more than 10 bowel movements daily, continuous bleeding, toxicity, abdominal tenderness and distension, blood transfusion requirement, and colonic dilation (expansion). Patients in this category may have inflammation extending beyond just the mucosal layer, causing impaired colonic motility and leading to toxic megacolon. If the serous membrane is involved, a colonic perforation may ensue. Unless treated, the fulminant disease will soon lead to death.
+
+Extraintestinal features
+Patients with UC can occasionally have aphthous ulcers involving the tongue, lips, palate, and pharynx.
+
+As UC is believed to have a systemic (i.e., autoimmune) origin, patients may present with comorbidities leading to symptoms and complications outside the colon. The frequency of such extraintestinal manifestations has been reported as between 6 and 47%,[15] and include:
+
+    Aphthous ulcer of the mouth
+    Ophthalmic
+        Iritis or uveitis, which is inflammation of the eye's iris
+        Episcleritis
+    Musculoskeletal:
+        Seronegative arthritis, which can be a large-joint oligoarthritis (affecting one or two joints), or may affect many small joints of the hands and feet
+        Ankylosing spondylitis, arthritis of the spine
+        Sacroiliitis, arthritis of the lower spine
+    Cutaneous (related to the skin):
+        Erythema nodosum, which is a panniculitis, or inflammation of subcutaneous tissue involving the lower extremities
+        Pyoderma gangrenosum, which is a painful ulcerating lesion involving the skin
+    Deep venous thrombosis and pulmonary embolism
+    Autoimmune hemolytic anemia
+    Clubbing, a deformity of the ends of the fingers
+    Primary sclerosing cholangitis, a distinct disease that causes inflammation of the bile ducts
+
+Causes
+
+No direct causes for UC are known, but many possible factors such as genetics and stress play a role.
+Genetic factors
+
+A genetic component to the etiology of UC can be hypothesized based on:[16]
+
+    Aggregation of ulcerative colitis in families
+    Identical twin concordance rate of 10% and dizygotic twin concordance rate of 3%[17]
+    Ethnic differences in incidence
+    Genetic markers and linkages
+
+Twelve regions of the genome may be linked to UC, including, in the order of their discovery, chromosomes 16, 12, 6, 14, 5, 19, 1, and 3,[18] but none of these loci has been consistently shown to be at fault, suggesting that the disorder is influenced by multiple genes. For example, chromosome band 1p36 is one such region thought to be linked to inflammatory bowel disease.[19]
+
+Some of the putative regions encode transporter proteins such as OCTN1 and OCTN2. Other potential regions involve cell scaffolding proteins such as the MAGUK family. Human leukocyte antigen associations may even be at work. In fact, this linkage on chromosome 6 may be the most convincing and consistent of the genetic candidates.[18]
+
+Multiple autoimmune disorders have been recorded with the neurovisceral and cutaneous genetic porphyrias including UC, Crohn's disease, celiac disease, dermatitis herpetiformis, diabetes, systemic and discoid lupus, rheumatoid arthritis, ankylosing spondylitis, scleroderma, Sjogren's disease and scleritis. Physicians should be on high alert for porphyrias in families with autoimmune disorders and care must be taken with the use of potential porphyrinogenic drugs, including sulfasalazine.
+Environmental factors
+
+Many hypotheses have been raised for environmental factors contributing to the pathogenesis of ulcerative colitis. They include:
+
+    Diet: As the colon is exposed to many dietary substances which may encourage inflammation, dietary factors have been hypothesized to play a role in the pathogenesis of both ulcerative colitis and Crohn's disease. Few studies have investigated such an association; one study showed no association of refined sugar on the prevalence of ulcerative colitis.[20] High intake of unsaturated fat and vitamin B6 may enhance the risk of developing ulcerative colitis.[21] Other identified dietary factors that may influence the development and/or relapse of the disease include meat protein and alcoholic beverages.[22][23] Specifically, sulfur has been investigated as being involved in the etiology of ulcerative colitis, but this is controversial.[24] Sulfur restricted diets have been investigated in patients with UC and animal models of the disease. The theory of sulfur as an etiological factor is related to the gut microbiota and mucosal sulfide detoxification in addition to the diet.[25][26][27]
+    Breastfeeding: Some reports of the protection of breastfeeding in the development of IBD contradict each other. One Italian study showed a potential protective effect.[28]
+    One study of isotretinoin found a small increase in the rate of UC.[29]
+
+Autoimmune disease
+
+Ulcerative colitis is an autoimmune disease characterized by T-cells infiltrating the colon.[30] In contrast to Crohn's disease, which can affect areas of the gastrointestinal tract outside of the colon, ulcerative colitis usually involves the rectum and is confined to the colon, with occasional involvement of the ileum. This so-called "backwash ileitis" can occur in 10–20% of patients with pancolitis and is believed to be of little clinical significance.[31] Ulcerative colitis can also be associated with comorbidities that produce symptoms in many areas of the body outside the digestive system. Surgical removal of the large intestine often cures the disease.[14]
+Alternative theories
+Risk factors 	Crohn's disease 	Ulcerative colitis
+Smoking 	Higher risk for smokers 	Lower risk for smokers[32]
+Age 	Usual onset between
+15 and 30 years[33] 	Peak incidence between
+15 and 25 years
+
+Levels of sulfate-reducing bacteria tend to be higher in persons with ulcerative colitis, which could indicate higher levels of hydrogen sulfide in the intestine. An alternative theory suggests that the symptoms of the disease may be caused by toxic effects of the hydrogen sulfide on the cells lining the intestine.[34]
+
+Infection by mycobacterium avium, subspecies paratuberculosis, has been proposed as the ultimate cause of both ulcerative colitis and Crohn's disease.[35]
+Pathophysiology
+Pathophysiology 	Crohn's disease 	Ulcerative colitis
+Cytokine response 	Associated with Th17[36] 	Vaguely associated with Th2
+
+An increased amount of colonic sulfate-reducing bacteria has been observed in some patients with ulcerative colitis, resulting in higher concentrations of the toxic gas hydrogen sulfide. Human colonic mucosa is maintained by the colonic epithelial barrier and immune cells in the lamina propria (see intestinal mucosal barrier). N-butyrate, a short-chain fatty acid, gets oxidized through the beta oxidation pathway into carbon dioxide and ketone bodies. It has been shown that N-butyrate helps supply nutrients to this epithelial barrier. Studies have proposed that hydrogen sulfide plays a role in impairing this beta-oxidation pathway by interrupting the short chain acetyl-CoA dehydrogenase, an enzyme within the pathway. Furthermore, it has been suggested that the protective benefit of smoking in ulcerative colitis is due to the hydrogen cyanide from cigarette smoke reacting with hydrogen sulfide to produce the non-toxic isothiocyanate, thereby inhibiting sulfides from interrupting the pathway.[37] An unrelated study suggested that the sulfur contained in red meats and alcohol may lead to an increased risk of relapse for patients in remission.[34]
+
+Ulcerative colitis patients typically present with rectal bleeding, diarrhea, tenesmus (urgent desire to evacuate the bowels but with the passage of little stool), and lower abdominal pain. The severity of disease at clinical presentation is important in determining the appropriate therapy. Patients with mildly active disease will have fewer than 4 bowel movements daily and no signs of toxicity. Individuals with moderate-severity UC have more frequent bowel movements with bleeding. Approximately 70% of patients with ulcerative colitis will have moderately active disease at presentation. Patients with severely active disease will have signs of toxicity with fever, tachycardia, and anemia. Patients with fulminant or toxic colitis or toxic megacolon often have more than 10 bowel movements in a day, continuous bleeding, abdominal distention and tenderness, and radiologic evidence of edema and, in some cases, bowel dilation. These people most often require immediate colectomy because 10% have perforated colon at the time of surgery.
+Diagnosis
+H&E stain of a colonic biopsy showing a crypt abscess, a classic finding in ulcerative colitis
+
+The initial diagnostic workup for ulcerative colitis includes the following:[14][38]
+
+    A complete blood count is done to check for anemia; thrombocytosis, a high platelet count, is occasionally seen
+    Electrolyte studies and renal function tests are done, as chronic diarrhea may be associated with hypokalemia, hypomagnesemia and pre-renal failure.
+    Liver function tests are performed to screen for bile duct involvement: primary sclerosing cholangitis.
+    X-ray
+    Urinalysis
+    Stool culture, to rule out parasites and infectious causes.
+    Erythrocyte sedimentation rate can be measured, with an elevated sedimentation rate indicating that an inflammatory process is present.
+    C-reactive protein can be measured, with an elevated level being another indication of inflammation.
+    Sigmoidoscopy a type of endoscopy which can detect the presence of ulcers in the large intestine after a trial of an enema.
+
+Although ulcerative colitis is a disease of unknown causation, inquiry should be made as to unusual factors believed to trigger the disease.[14]
+
+The simple clinical colitis activity index was created in 1998 and is used to assess the severity of symptoms.[39][40]
+Endoscopic
+Biopsy sample (H&E stain) that demonstrates marked lymphocytic infiltration (blue/purple) of the intestinal mucosa and architectural distortion of the crypts.
+
+The best test for diagnosis of ulcerative colitis remains endoscopy. Full colonoscopy to the cecum and entry into the terminal ileum is attempted only if the diagnosis of UC is unclear. Otherwise, a flexible sigmoidoscopy is sufficient to support the diagnosis. The physician may elect to limit the extent of the exam if severe colitis is encountered to minimize the risk of perforation of the colon. Endoscopic findings in ulcerative colitis include the following:
+
+    Loss of the vascular appearance of the colon
+    Erythema (or redness of the mucosa) and friability of the mucosa
+    Superficial ulceration, which may be confluent, and
+    Pseudopolyps.
+
+Ulcerative colitis is usually continuous from the rectum, with the rectum almost universally being involved. Perianal disease is rare. The degree of involvement endoscopically ranges from proctitis or inflammation of the rectum, to left sided colitis, to pancolitis, which is inflammation involving the ascending colon.
+Histologic
+
+Biopsies of the mucosa are taken to definitively diagnose UC and differentiate it from Crohn's disease, which is managed differently clinically. Microbiological samples are typically taken at the time of endoscopy. The pathology in ulcerative colitis typically involves distortion of crypt architecture, inflammation of crypts (cryptitis), frank crypt abscesses, and hemorrhage or inflammatory cells in the lamina propria. In cases where the clinical picture is unclear, the histomorphologic analysis often plays a pivotal role in determining the diagnosis and thus the management. By contrast, a biopsy analysis may be indeterminate, and thus the clinical progression of the disease must inform its treatment.
+Differential diagnosis
+Endoscopic image of ulcerative colitis affecting the left side of the colon. The image shows confluent superficial ulceration and loss of mucosal architecture. Crohn's disease may be similar in appearance, a fact that can make diagnosing UC a challenge.
+
+The following conditions may present in a similar manner as ulcerative colitis, and should be excluded:
+
+    Crohn's disease
+    Infectious colitis, which is typically detected on stool cultures
+        Entamoeba histolytica is a protozoan parasite that causes intestinal inflammation. A few cases have been misdiagnosed as UC with poor outcomes occurring due to the use of corticosteroids.[41]
+        Pseudomembranous colitis, or Clostridium difficile-associated colitis, bacterial upsets often seen following administration of antibiotics
+    Ischemic colitis, inadequate blood supply to the intestine, which typically affects the elderly
+    Radiation colitis in patients with previous pelvic radiotherapy
+    Chemical colitis resulting from the introduction of harsh chemicals into the colon from an enema or other procedure.
+    Malignancy[42] – Cancer may present as acute flare of colitis or vice versa. It is important to rule out malignancy especially when the colitis is refractory to the treatment.
+
+The most common disease that mimics the symptoms of ulcerative colitis is Crohn's disease, as both are inflammatory bowel diseases that can affect the colon with similar symptoms. It is important to differentiate these diseases since their courses and treatments may differ. In some cases, however, it may not be possible to tell the difference, in which case the disease is classified as indeterminate colitis.
+Diagnostic findings 	Crohn's disease 	Ulcerative colitis
+Terminal ileum involvement 	Commonly 	Seldom
+Colon involvement 	Usually 	Always
+Rectum involvement 	Seldom 	Usually[32]
+Involvement around
+the anus 	Common[12] 	Seldom
+Bile duct involvement 	No increase in rate of primary sclerosing cholangitis 	Higher rate[43]
+Distribution of disease 	Patchy areas of inflammation (skip lesions) 	Continuous area of inflammation[32]
+Endoscopy 	Deep geographic and serpiginous (snake-like) ulcers 	Continuous ulcer
+Depth of inflammation 	May be transmural, deep into tissues[12][18] 	Shallow, mucosal
+Stenosis 	Common 	Seldom
+Granulomas on biopsy 	May have non-necrotizing non-peri-intestinal crypt granulomas[12][44][45] 	Non-peri-intestinal crypt granulomas not seen[32]
+
+
+Management
+Main article: Management of ulcerative colitis
+
+Standard treatment for ulcerative colitis depends on the extent of involvement and disease severity. The goal is to induce remission initially with medications, followed by the administration of maintenance medications to prevent a relapse. The concept of induction of remission and maintenance of remission is very important. The medications used to induce and maintain a remission somewhat overlap, but the treatments are different. Physicians first direct treatment to inducing remission, which involves relief of symptoms and mucosal healing of the colon's lining, and then longer term treatment to maintain remission and prevent complications. Acute severe ulcerative colitis requires hospitalisation, exclusion of infections, and corticosteroids.[46]
+
+For acute stages of the disease, a low fiber diet may be recommended.[47][48]
+Medication
+
+Ulcerative colitis can be treated with a number of medications, including 5-ASA drugs such as sulfasalazine and mesalazine. Corticosteroids such as prednisone can also be used due to their immunosuppressive and short-term healing properties, but because their risks outweigh their benefits, they are not used long-term in treatment. Immunosuppressive medications such as azathioprine and biological agents such as infliximab and adalimumab are given only if people cannot achieve remission with 5-ASA and corticosteroids. Such treatments are used less commonly due to their possible risk factors, including but not limited to increased risk of cancers in teenagers and adults,[49] tuberculosis, and new or worsening heart failure (these side effects are rare).
+
+A formulation of budesonide was approved by the FDA for treatment of active ulcerative colitis in January 2013.[50] Tofacitinib was approved for treatment of moderately to severely active ulcerative colitis in 2018 in the US, the first oral medication indicated for long term use in this condition.[51] The evidence on methotrexate does not show a benefit in producing remission in people with ulcerative colitis.[52] Off-label use of drugs such as ciclosporin and tacrolimus has shown some benefits.[53][54] Fexofenadine, an antihistamine drug used in treatment of allergies, has shown promise in a combination therapy in some studies.[55][56] Opportunely, low gastrointestinal absorption (or high absorbed drug gastrointestinal secretion) of fexofenadine results in higher concentration at the site of inflammation. Thus, the drug may locally decrease histamine secretion by involved gastrointestinal mast cells and alleviate the inflammation.
+Aminosalicylates
+
+Sulfasalazine has been a major agent in the therapy of mild to moderate ulcerative colitis for over 50 years. In 1977, it was shown that 5-aminosalicylic acid (5-ASA, mesalazine/mesalamine) was the therapeutically active component in sulfasalazine.[57] Many 5-ASA drugs have been developed with the aim of delivering the active compound to the large intestine to maintain therapeutic efficacy but with reduction of the side effects associated with the sulfapyridine moiety in sulfasalazine. Oral 5-ASA drugs are particularly effective in inducing and in maintaining remission in mild to moderate ulcerative colitis.[58][59] Rectal suppository, foam or liquid enema formulations of 5-ASA are used for colitis affecting the rectum, sigmoid or descending colon, and have been shown to be effective especially when combined with oral treatment.[60]
+Biologics
+
+Biologic treatments such as the TNF inhibitors infliximab, adalimumab, and golimumab are commonly used to treat people with UC who are no longer responding to corticosteroids. Tofacitinib, vedolizumab, and etrolizumab can also produce good clinical remission and response rates in UC.[7] Usually, these medications are only used if other options have been exhausted (i.e., the person has received and not responded favorably to high-dose corticosteroids and immunomodulators such as azathioprine and mesalazine).
+
+Unlike aminosalicylates, biologics can cause serious side effects such as an increased risk of developing extra-intestinal cancers,[49] heart failure; and weakening of the immune system, resulting in a decreased ability of the immune system to clear infections and reactivation of latent infections such as tuberculosis. For this reason, patients on these treatments are closely monitored and are often given tests for hepatitis and tuberculosis at least once a year.
+Nicotine
+
+Unlike Crohn's disease, ulcerative colitis has a lesser prevalence in smokers than non-smokers.[61][62] Studies using a transdermal nicotine patch have shown clinical and histological improvement.[63]
+
+In one double-blind, placebo-controlled study conducted in the United Kingdom, 48.6% of patients who used the nicotine patch, in conjunction with their standard treatment, showed complete resolution of symptoms. Another randomized, double-blind, placebo-controlled, single-center clinical trial conducted in the United States showed that 39% of patients who used the patch showed significant improvement, versus 9% of those given a placebo.[64] Use of a transdermal nicotine patch without the addition of other standard treatments such as mesalazine has relapse occurrence rates similar to standard treatment without the use of nicotine.
+Iron supplementation
+
+The gradual loss of blood from the gastrointestinal tract, as well as chronic inflammation, often leads to anemia, and professional guidelines suggest routinely monitoring for anemia with blood tests repeated every three months in active disease and annually in quiescent disease.[65] Adequate disease control usually improves anemia of chronic disease, but iron deficiency anemia should be treated with iron supplements. The form in which treatment is administered depends both on the severity of the anemia and on the guidelines that are followed. Some advise that parenteral iron be used first because patients respond to it more quickly, it is associated with fewer gastrointestinal side effects, and it is not associated with compliance issues.[66] Others require oral iron to be used first, as patients eventually respond and many will tolerate the side effects.[65][67] All guidelines advise that parenteral iron should be administered in cases of severe anemia (a hemoglobin level less than 100 g/L).
+Surgery
+Management 	Crohn's disease 	Ulcerative colitis
+Mesalazine 	Less useful[68] 	More useful[68]
+Antibiotics 	Effective in long-term[69] 	Generally not useful[70]
+Surgery 	Often returns following
+removal of affected part 	Usually cured by removal
+of colon
+
+Unlike in Crohn's disease, the gastrointestinal aspects of ulcerative colitis can generally be cured by surgical removal of the large intestine, though extraintestinal symptoms may persist. This procedure is necessary in the event of: exsanguinating hemorrhage, frank perforation, or documented or strongly suspected carcinoma. Surgery is also indicated for patients with severe colitis or toxic megacolon. Patients with symptoms that are disabling and do not respond to drugs may wish to consider whether surgery would improve the quality of life.
+
+Ulcerative colitis affects many parts of the body outside the intestinal tract. In rare cases, the extra-intestinal manifestations of the disease may require removal of the colon.[14]
+
+Another surgical option for ulcerative colitis that is affecting most of the large bowel is called the ileo-anal pouch procedure. This is a two- to three-step procedure in which the large bowel is removed, except for the rectal stump and anus, and a temporary ileostomy is made. The next part of the surgery can be done in one or two steps and is usually done at six- to twelve-month intervals from each prior surgery.
+
+In the next step of the surgery, an internal pouch is made of the patient's own small bowel, and this pouch is then hooked back up internally to the rectal stump so that the patient can once again have a reasonably functioning bowel system, all internal. The temporary ileostomy can be reversed at this time so that the patient is internalized for bowel functions, or, in another step to the procedure, the pouch, and rectal stump anastamosis can be left inside the patient to heal for some time while the patient still uses the ileostomy for bowel function. Then, on a subsequent surgery, the ileostomy is reversed and the patient has internalized bowel function again.
+Leukocyte apheresis
+
+A type of leukocyte apheresis, known as granulocyte and monocyte adsorptive apheresis, still requires large-scale trials to determine whether or not it is effective.[71] Results from small trials have been tentatively positive.[72]
+Bacterial recolonization
+
+    In a number of randomized clinical trials, probiotics have demonstrated the potential to be helpful in the treatment of ulcerative colitis. Specific types of probiotics such as Escherichia coli Nissle have been shown to induce remission in some patients for up to a year.[73] Another type of probiotic that is said to have a similar effect is Lactobacillus acidophilus.[citation needed] The probiotics are said to work by calming some of the ongoing inflammation that causes the disease, which in turn allows the body to mobilize dendritic cells, otherwise known as messenger immune cells. These cells then are able to produce other T-cells that further aid in restoring balance in the intestines by rebalancing systematic inflammation.[74]
+    Fecal bacteriotherapy involves the infusion of human probiotics through fecal enemas. Ulcerative colitis typically requires a more prolonged bacteriotherapy treatment than Clostridium difficile infection to be successful, possibly due to the time needed to heal the ulcerated epithelium. The response of ulcerative colitis is potentially very favorable with one study reporting 67.7% of sufferers experiencing complete remission.[75] It suggests that the cause of ulcerative colitis may be a previous infection by a still unknown pathogen. This initial infection resolves itself naturally, but somehow causes an imbalance in the colonic bacterial flora, leading to a cycle of inflammation which can be broken by "recolonizing" the colon with bacteria from a healthy bowel. There have been several reported cases of patients who have remained in remission for up to 13 years.[76]
+
+Alternative medicine
+
+About 21% of inflammatory bowel disease patients use alternative treatments.[77] A variety of dietary treatments show promise, but they require further research before they can be recommended.[78]
+
+    Melatonin may be beneficial according to in vitro research, animal studies, and a preliminary human study.[79]
+    Dietary fiber, meaning indigestible plant matter, has been recommended for decades in the maintenance of bowel function. Of peculiar note is fiber from brassica, which seems to contain soluble constituents capable of reversing ulcers along the entire human digestive tract before it is cooked.[80]
+    Fish oil, and eicosapentaenoic acid (EPA) derived from fish oil, inhibits leukotriene activity, the latter which may be a key factor of inflammation. As an IBD therapy, there are no conclusive studies in support and no recommended dosage. But dosages of EPA between 180 and 1500 mg/day are recommended for other conditions, most commonly cardiac.[81] Fish oil also contains vitamin D, of which many people with IBD are deficient.[82]
+    Short chain fatty acid (butyrate) enema. The epithelial cells in the colon uses butyrate from the contents of the intestine as an energy source. The amount of butyrate available decreases toward the rectum. Inadequate butyrate levels in the lower intestine have been suggested as a contributing factor for the disease. This might be addressed through butyrate enemas.[83] The results however are not conclusive.[citation needed]
+    Herbal medications are used by patients with ulcerative colitis. Compounds that contain sulfhydryl may have an effect in ulcerative colitis (under a similar hypothesis that the sulfa moiety of sulfasalazine may have activity in addition to the active 5-ASA component).[84] One randomized control trial evaluated the over-the-counter medication S-methylmethionine and found a significant decreased rate of relapse when the medication was used in conjunction with oral sulfasalazine.[85]
+    Helminthic therapy is the use of intestinal parasitic nematodes to treat ulcerative colitis, and is based on the premises of the hygiene hypothesis. Studies have shown that helminths ameliorate and are more effective than daily corticosteroids at blocking chemically induced colitis in mice,[86][87] and a trial of intentional helminth infection of rhesus monkeys with idiopathic chronic diarrhea (a condition similar to ulcerative colitis in humans) resulted in remission of symptoms in 4 out of 5 of the animals treated.[88] A randomised controlled trial of Trichuris suis ova in humans found the therapy to be safe and effective,[89] and further human trials are ongoing.
+    Curcumin (turmeric) therapy, in conjunction with taking the medications mesalamine or sulfasalazine, may be effective and safe for maintaining remission in people with quiescent ulcerative colitis. The effect of curcumin therapy alone on quiescent ulcerative colitis is unknown.[90]
+
+Prognosis
+Complications 	Crohn's
+disease 	Ulcerative
+colitis
+Nutrient deficiency 	Higher risk 	
+Colon cancer risk 	Slight 	Considerable
+Prevalence of extraintestinal complications[91]
+Iritis/uveitis 	Females 	2.2% 	3.2%
+Males 	1.3% 	0.9%
+Primary sclerosing
+cholangitis 	Females 	0.3% 	1%
+Males 	0.4% 	3%
+Ankylosing
+spondylitis 	Females 	0.7% 	0.8%
+Males 	2.7% 	1.5%
+Pyoderma
+gangrenosum 	Females 	1.2% 	0.8%
+Males 	1.3% 	0.7%
+Erythema nodosum 	Females 	1.9% 	2%
+Males 	0.6% 	0.7%
+
+
+Progression or remission
+	
+This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2012) (Learn how and when to remove this template message)
+
+Patients with ulcerative colitis usually have an intermittent course, with periods of disease inactivity alternating with "flares" of disease. Patients with proctitis or left-sided colitis usually have a more benign course: only 15% progress proximally with their disease, and up to 20% can have sustained remission in the absence of any therapy. Patients with more extensive disease are less likely to sustain remission, but the rate of remission is independent of the severity of the disease.
+Colorectal cancer
+
+The risk of colorectal cancer is significantly increased in patients with ulcerative colitis after ten years if involvement is beyond the splenic flexure. Those patients with only proctitis or rectosigmoiditis usually have no increased risk.[14] It is recommended that patients have screening colonoscopies with random biopsies to look for dysplasia after eight years of disease activity, at one to two year intervals.[92]
+Primary sclerosing cholangitis
+
+Ulcerative colitis has a significant association with primary sclerosing cholangitis (PSC), a progressive inflammatory disorder of small and large bile ducts. As many as 5% of patients with ulcerative colitis may progress to develop primary sclerosing cholangitis.[93]
+Mortality
+
+Research has not revealed any difference in overall risk of dying in patients with ulcerative colitis from that of the background population. The cause-of-death distribution may be different from that of the background population.[94] It is thought that the disease primarily affects quality of life, and not lifespan.
+Other long-term features
+
+Changes that can be seen in chronic ulcerative colitis include granularity, loss of the vascular pattern of the mucosa, loss of haustra, effacement of the ileocecal valve, mucosal bridging, strictures and pseudopolyps.[95]
+Epidemiology
+
+The geographic distribution of UC and Crohn's disease is similar worldwide,[96] with the highest number of new cases a year of UC found in Canada, New Zealand, Scotland and the United Kingdom.[97] It begins most commonly between the ages of 15 and 25. A second peak of onset is the 6th decade of life.[98] In general, higher rates are seen in northern locations compared to southern locations in Europe[99] and the United States.[100]
+
+As with Crohn's disease, the rates of UC are greater among Ashkenazi Jews and decreases progressively in other persons of Jewish descent, non-Jewish Caucasians, Africans, Hispanics, and Asians.[31] Appendectomy prior to age 20 for appendicitis[101] and current tobacco use[102] are protective against development of UC (although former tobacco use is associated with a higher risk of developing the disease.[102])
+United States
+
+As of 2004, the number of new cases of UC in the United States is between 2.2 and 14.3 per 100,000 per year.[103] The number of people affected in the United States is between 37 and 246 per 100,000.[103]
+Canada
+
+In Canada, between 1998 and 2000, the number of new cases per year was 12.9 per 100,000 population or 4,500 new cases. The number of people affected was estimated to be 211 per 100,000 or 104,000.[104]
+United Kingdom
+
+In the United Kingdom 10 per 100,000 people newly develop the condition a year while the number of people affected is 243 per 100,000. Approximately 146,000 people in the United Kingdom have been diagnosed with UC.[105]
+Research
+
+Helminthic therapy using the whipworm Trichuris suis has been shown in a randomized control trial from Iowa to show benefit in patients with ulcerative colitis.[106] The therapy tests the hygiene hypothesis which argues that the absence of helminths in the colons of patients in the developed world may lead to inflammation. Both helminthic therapy and fecal bacteriotherapy induce a characteristic Th2 white cell response in the diseased areas, which was unexpected given that ulcerative colitis was thought to involve Th2 overproduction.[107]
+
+Alicaforsen is a first generation antisense oligodeoxynucleotide designed to bind specifically to the human ICAM-1 messenger RNA through Watson-Crick base pair interactions in order to subdue expression of ICAM-1.[108] ICAM-1 propagates an inflammatory response promoting the extravasation and activation of leukocytes (white blood cells) into inflamed tissue.[108] Increased expression of ICAM-1 has been observed within the inflamed intestinal mucosa of ulcerative colitis sufferers, where ICAM-1 over production correlated with disease activity.[109] This suggests that ICAM-1 is a potential therapeutic target in the treatment of ulcerative colitis.[110]
+
+Gram positive bacteria present in the lumen could be associated with extending the time of relapse for ulcerative colitis.[111]
+
+A series of drugs in development looks to disrupt the inflammation process by selectively targeting an ion channel in the inflammation signaling cascade known as KCa3.1.[112] In a preclinical study in rats and mice, inhibition of KCa3.1 disrupted the production of Th1 cytokines IL-2 and TNF-∝ and decreased colon inflammation as effectively as sulfasalazine.[112]
+Notable cases
+Main article: List of people diagnosed with ulcerative colitis

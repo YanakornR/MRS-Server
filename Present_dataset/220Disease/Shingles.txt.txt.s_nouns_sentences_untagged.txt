@@ -1,0 +1,142 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN shingle|NN disambiguation|NN 
+article|NN dress|NN shingles|DS costume|NN 
+shingles|DS name|NN shingles|DS shingles|DS shingles|DS shingles|DS shingles|DS blister|ST neck|NN shoulder|NN symptom|NN rash|ST stripe|NN complication|NN neuralgia|NN duration|NN week|NN cause|NN shingles|DS virus|NN vzv|NN risk|NN factor|NN age|NN function|NN chickenpox|DS month|NN age|NN method|NN symptom|NN diagnosis|NN herpe|NN simplex|NN angina|NN insect|NN bite|NN prevention|NN shingles|DS vaccine|NN medication|NN pain|ST medication|NN frequency|NN point|NN death|NN chickenpox|DS 
+shingles|DS shingles|DS shingles|DS disease|NN skin|NN rash|ST blister|ST area|NN rash|ST stripe|NN left|NN side|NN body|NN face|NN day|NN rash|ST pain|ST area|NN symptom|NN fever|ST headache|ST rash|ST week|NN people|NN nerve|NN pain|ST month|NN year|NN condition|NN neuralgia|NN function|NN rash|ST rash|ST eye|NN vision|NN loss|NN 
+shingles|DS reactivation|NN shingles|DS virus|NN vzv|NN person|NN body|NN disease|NN chickenpox|DS infection|NN vzv|NN chickenpox|DS virus|NN nerve|NN cell|NN nerve|NN body|NN end|NN skin|NN blister|ST factor|NN reactivation|NN age|NN function|NN chickenpox|DS month|NN age|NN virus|NN body|NN exposure|NN virus|NN blister|ST chickenpox|DS shingles|DS diagnosis|NN person|NN sign|NN symptom|NN shingles|DS virus|NN herpe|NN virus|NN family|NN viruse|NN 
+shingles|DS vaccine|NN risk|NN shingles|DS vaccine|NN rate|NN neuralgia|NN shingles|DS severity|NN shingles|DS medication|NN severity|NN duration|NN disease|NN hour|NN appearance|NN evidence|NN effect|NN antiviral|NN steroid|NN rate|NN neuralgia|NN nsaids|NN opioid|NN pain|ST 
+people|NN shingles|DS point|NN life|NN people|NN children|NN disease|NN number|NN case|NN year|NN range|NN person-year|NN individual|NN person-year|NN year|NN age|NN live|NN age|NN attack|NN attack|NN disease|NN time|NN content|NN 
+sign|NN symptom|NN face|NN shingles|DS diagnosis|NN diagnosis|NN transmission|NN prevention|NN treatment|NN shingles|DS epidemiology|NN history|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN case|NN shingles|DS dermatomal|NN distribution|NN case|NN 
+symptom|NN shingles|DS headache|ST fever|ST malaise|ST diagnosis|NN symptom|NN sensation|NN pain|ST itch|ST hyperesthesia|NN pin|NN needle|NN prick|NN numbness|NN pain|ST extreme|NN dermatome|NN sensation|NN numb|NN throb|NN stab|NN pain|ST 
+shingles|DS children|NN people|NN shingles|DS age|NN disease|NN 
+case|NN day|NN week|NN phase|NN appearance|NN skin|NN rash|ST 
+pain|ST rash|ST torso|NN face|NN eye|NN part|NN body|NN 
+rash|ST appearance|NN hive|NN hive|NN shingles|DS cause|NN skin|NN change|NN dermatome|NN stripe|NN pattern|NN side|NN body|NN midline|NN shingles|DS sine|NN shingles|DS herpe|NN person|NN symptom|NN shingles|DS rash|ST 
+rash|ST form|NN blister|ST exudate|NN fever|ST malaise|ST 
+vesicle|NN blood|NN crust|NN day|NN crust|NN skin|NN heal|NN scare|NN skin|NN development|NN shingles|DS rash|ST day|NN day|NN day|NN day|NN shingles|DS shingles|DS shingles|DS shingles|DS face|NN 
+shingles|DS symptom|NN 
+nerve|NN nerve|NN division|NN branch|NN virus|NN nerve|NN branch|NN shingles|DS 
+skin|NN forehead|NN eyelid|NN orbit|NN eye|NN 
+shingles|DS ophthalmicus|NN case|NN 
+people|NN symptom|NN keratitis|NN optic_nerve|DS inflammation|NN loss|NN vision|NN pain|ST 
+shingles|DS ramsay|NN hunt|NN syndrome|NN type|NN ear|NN 
+result|NN virus|NN spread|NN nerve|NN nerve|NN 
+symptom|NN hear|NN loss|NN vertigo|ST dizziness|ST 
+shingles|DS mouth|NN division|NN nerve|NN rash|ST mucous|NN membrane|NN jaw|NN palate|NN gum|NN teeth|NN jaw|NN tongue|NN gum|NN teeth|NN involvement|NN combination|NN rash|ST skin|NN distribution|NN branch|NN shingles|DS skin|NN lesion|NN side|NN condition|NN mouth|NN shingles|DS mm|NN blister|ST vesicle|NN ulcer|NN day|NN pain|ST rash|ST toothache|ST lead|NN treatment|NN post|NN neuralgia|NN shingles|DS mouth|NN complication|NN shingles|DS 
+relationship|NN blood|NN vessel|NN nerve|NN virus|NN blood|NN vessel|NN compromise|NN blood|NN supply|NN necrosis|NN involvement|NN complication|NN tooth|NN loss|NN gum|NN disease|NN pulp|NN pulp|NN necrosis|NN lesion|NN tooth|NN anomaly|NN shingles|DS 
+function|NN shingles|DS rash|ST skin|NN lesion|NN 
+skin|NN organ|NN liver|NN brain|NN hepatitis|DS encephalitis|DS condition|NN progression|NN shingles|DS 
+cluster|NN bump|NN turn|NN blister|ST 
+blister|ST lymph|NN break|NN open|NN crust|NN 
+neuralgia|NN nerve|NN damage|NN 
+agent|NN shingles|DS varicella|NN shingles|DS virus|NN vzv|NN dna|NN virus|NN herpe|NN simplex|NN virus|NN 
+individual|NN virus|NN children|NN episode|NN chickenpox|DS 
+system|NN virus|NN location|NN ganglia|NN cord|NN root|NN ganglion|NN ganglion|NN base|NN skull|NN 
+shingles|DS people|NN vzv|NN age|NN case|NN state|NN year|NN attack|NN shingles|DS person|NN recurrence|NN 
+disease|NN result|NN virus|NN particle|NN ganglion|NN switch|NN lysogenic|NN cycle|NN cycle|NN contrast|NN herpe|NN simplex|NN virus|NN latency|NN vzv|NN 
+virus|NN nerve|NN cell|NN cell|NN culture|NN 
+protein|NN cell|NN period|NN latency|NN infection|NN vzv|NN infection|NN vzv|NN autopsy|NN tissue|NN method|NN virus|NN ganglia|NN people|NN 
+system|NN reactivation|NN virus|NN shingles|DS outbreak|NN 
+suppression|NN shingles|DS people|NN system|NN therapy|NN stress|NN factor|NN reactivation|NN virus|NN cell|NN body|NN virion|NN cell|NN axon|NN area|NN skin|NN ganglion|NN 
+skin|NN virus|NN inflammation|NN 
+pain|ST shingles|DS outbreak|NN inflammation|NN nerve|NN growth|NN virus|NN area|NN 
+chickenpox|DS form|NN infection|NN contact|NN rash|ST virus|NN person|NN immunity|NN 
+individual|NN chickenpox|DS shingles|DS 
+sequence|NN genome|NN diagnosis|NN shingles|DS chest|NN 
+rash|ST disease|NN diagnosis|NN examination|NN disease|NN rash|ST pattern|NN map|NN 
+herpe|NN virus|NN hsv|NN rash|ST pattern|NN shingles|DS herpe|NN simplex|NN smear|NN infection|NN herpe|NN virus|NN hsv|NN vzv|NN 
+rash|ST disease|NN case|NN shingles|DS sine|NN shingles|DS rash|ST symptom|NN condition|NN 
+laboratory|NN test|NN shingles|DS 
+test|NN igm|NN antibody|NN blood|NN chickenpox|DS shingles|DS virus|NN laboratory|NN lymph|NN blister|ST polymerase|NN chain|NN reaction|NN vzv|NN dna|NN electron|NN microscope|NN virus|NN particle|NN biology|NN test|NN acid|NN amplification|NN pcr|NN test|NN 
+nested|NN pcr|NN test|NN sensitivity|NN contamination|NN result|NN 
+pcr|NN test|NN pcr|NN risk|NN contamination|NN 
+sensitivity|NN culture|NN diagnosis|NN 
+shingles|DS herpe|NN simplex|NN dermatitis|NN skin|NN reaction|NN contact_dermatitis|DS candidiasis|DS drug|NN insect|NN bite|NN transmission|NN 
+varicella|NN shingles|DS virus|NN contact|NN shingles|DS lesion|NN route|NN distance|NN feet|NN 
+risk|NN transmission|NN people|NN shingles|DS shingles|DS system|NN 
+individual|NN shingles|DS infection|NN shingles|DS risk|NN shingles|DS system|NN contact|NN precaution|NN risk|NN virus|NN individual|NN 
+citation|NN prevention|NN article|NN shingles|DS vaccine|NN 
+shingles|DS vaccine|NN risk|NN shingles|DS shingles|DS disease|NN virus|NN vaccine|NN use|NN subunit|NN vaccine|NN 
+review|NN cochrane|NN shingles|DS year|NN risk|NN reduction|NN 
+vaccine|NN rate|NN pain|ST shingles|DS people|NN shingles|DS vaccination|NN efficacy|NN year|NN follow|NN people|NN immunodeficiency|NN vaccine|NN 
+food|NN drug|NN administration|NN fda|NN 2017|NN medicine|NN agency|NN 2018|NN dose|NN shingrix|NN protection|NN year|NN people|NN system|NN 
+england|NN zostavax|NN nhs|NN people|NN age|NN 
+august|NN 7078|NN year|NN old|NN 
+age|NN condition|NN system|NN vaccine|NN 
+reaction|NN report|NN april|NN 
+cdc|NN adult|NN year|NN dose|NN month|NN treatment|NN 
+aim|NN treatment|NN severity|NN duration|NN pain|ST duration|NN shingles|DS episode|NN complication|NN 
+treatment|NN complication|NN neuralgia|NN study|NN shingles|DS rash|ST neuralgia|NN people|NN time|NN people|NN pain|ST people|NN pain|ST year|NN shingles|DS outbreak|NN 
+people|NN pain|ST pain|ST medication|NN 
+lotion|NN calamine|NN rash|ST blister|ST 
+pain|ST medication|NN morphine|NN 
+lesion|NN capsaicin|NN cream|NN 
+lidocaine|NN nerve|NN block|NN pain|ST gabapentin|NN antiviral|NN relief|NN neuralgia|NN 
+drug|NN severity|NN duration|NN shingles|DS neuralgia|NN drug|NN treatment|NN drug|NN efficacy|NN safety|NN drug|NN prevention|NN example|NN people|NN hivaid|NN therapy|NN phase|NN 
+complication|NN individual|NN shingles|DS aciclovir|NN 
+people|NN risk|NN attack|NN shingles|DS dose|NN aciclovir|NN 
+risk|NN pain|ST side|NN effect|NN 
+use|NN ramsay|NN hunt|NN syndrome|NN shingles|DS shingles|DS ophthalmicus|NN 
+treatment|NN shingles|DS ophthalmicus|NN treatment|NN shingles|DS site|NN 
+trial|NN acyclovir|NN prodrug|NN efficacy|NN form|NN disease|NN advantage|NN valacyclovir|NN acyclovir|NN dose|NN timesday|NN acyclovirs|NN dose|NN people|NN adherence|NN therapy|NN 
+rash|ST pain|ST week|NN people|NN condition|NN neuralgia|NN 
+people|NN shingles|DS shingles|DS sine|NN pain|ST path|NN nerve|NN distribution|NN rash|ST 
+condition|NN complication|NN level|NN system|NN cause|NN polyneuritis|DS meningitis|DS 
+effect|NN case|NN paralysis|ST ear|NN damage|NN encephalitis|DS infection|NN vzv|NN pregnancy|NN chickenpox|DS infection|NN fetus|NN complication|NN infection|NN reactivation|NN shingles|DS infection|NN 
+risk|NN cancer|DS shingles|DS episode|NN 
+mechanism|NN mortality|NN cancer|DS result|NN presence|NN virus|NN risk|NN suppression|NN reactivation|NN virus|NN 
+shingles|DS week|NN complication|NN 
+infectioncitation|NN motor|NN involvement|NN weakness|ST motor|NN shingles|DS citation|NN eye|NN involvement|NN nerve|NN involvement|NN herpe|NN blindness|NN 
+involvement|NN tip|NN nose|NN shingles|DS rash|ST predictor|NN herpe|NN neuralgia|NN condition|NN pain|ST shingles|DS 
+epidemiology|NN electron|NN micrograph|NN shingles|DS virus|NN 
+shingles|DS virus|NN vzv|NN level|NN infectivity|NN prevalence|NN shingles|DS re-activation|NN vzv|NN infection|NN shingles|DS chickenpox|DS 
+shingles|DS relationship|NN season|NN epidemics|NN 
+relationship|NN age|NN incidence|NN rate|NN shingles|DS range|NN person|NN 
+year|NN individual|NN person|NN 
+year|NN year|NN incidence|NN rate|NN relationship|NN age|NN country|NN fact|NN immunity|NN people|NN 
+risk|NN factor|NN immunosuppression|NN risk|NN factor|NN stress|NN study|NN north|NN carolina|NN subject|NN shingles|DS subject|NN 
+risk|NN sex|NN 
+risk|NN factor|NN trauma|NN exposure|NN 
+evidence|NN link|NN link|NN family|NN history|NN 
+study|NN people|NN relative|NN shingles|DS study|NN link|NN 
+adult|NN vzv|NN infection|NN children|NN chickenpox|DS boost|NN boost|NN system|NN shingles|DS adult|NN 
+routine|NN chickenpox|DS vaccination|NN united|NN states|NN concern|NN adult|NN boost|NN increase|NN incidence|NN shingles|DS 
+study|NN surveillance|NN data|NN trend|NN incidence|NN chickenpox|DS vaccination|NN program|NN inspection|NN study|NN increase|NN shingles|DS incidence|NN population|NN vaccination|NN community|NN study|NN patel|NN et|NN al|NN introduction|NN chickenpox|DS vaccine|NN hospitalization|NN cost|NN complication|NN shingles|DS age|NN study|NN yih|NN et|NN al|NN vaccine|NN coverage|NN children|NN incidence|NN occurrence|NN shingles|DS adult|NN result|NN study|NN yawn|NN et|NN al|NN increase|NN shingles|DS incidence|NN incidence|NN rate|NN due|NN age|NN population|NN change|NN therapy|NN autoimmune|NN disease|NN change|NN chickenpox|DS vaccination|NN rate|NN adoption|NN shingles|DS vaccination|NN incidence|NN rate|NN 
+study|NN contract|NN shingles|DS complication|NN 
+neuralgia|NN people|NN shingles|DS study|NN california|NN data|NN hospitalization|NN rate|NN person-year|NN age|NN connecticut|NN study|NN hospitalization|NN rate|NN difference|NN prevalence|NN hiv|DS study|NN introduction|NN antiviral|NN california|NN history|NN 
+shingles|DS history|NN account|NN blister|ST vzv|NN smallpox|DS 
+century|NN william|NN heberden|NN way|NN shingles|DS smallpox|DS century|NN shingles|DS 
+richard|NN bright|NN disease|NN root|NN ganglion|NN paper|NN felix|NN von|NN bärensprung|NN 
+indication|NN chickenpox|DS shingles|DS virus|NN begine|NN century|NN 
+physician|NN case|NN shingles|DS chickenpox|DS people|NN person|NN shingles|DS 
+idea|NN association|NN disease|NN strength|NN lymph|NN person|NN shingles|DS chickenpox|DS volunteer|NN 
+isolation|NN virus|NN cell|NN culture|NN nobel|NN laureate|NN thomas|NN huckle|NN weller|NN 
+disease|NN complication|NN shingles|DS disease|NN adult|NN children|NN frequency|NN age|NN 
+study|NN individual|NN disease|NN search|NN measure|NN mid-1960|NN study|NN reduction|NN immunity|NN age|NN cohort|NN people|NN age|NN attack|NN shingles|DS attack|NN 
+shingles|DS study|NN shingles|DS incidence|NN age|NN 
+paper|NN age|NN distribution|NN shingles|DS part|NN frequency|NN age|NN group|NN encounter|NN case|NN varicella|NN boost|NN antibody|NN protection|NN attack|NN shingles|DS lend|NN support|NN hypothesis|NN contact|NN children|NN chickenpox|DS adult|NN immunity|NN shingles|DS study|NN thomas|NN et|NN al|NN adult|NN household|NN children|NN rate|NN shingles|DS household|NN children|NN study|NN terada|NN et|NN al|NN incidence|NN rate|NN population|NN age|NN 
+family|NN name|NN herpesviridae|NN word|NN infection|NN group|NN viruse|NN 
+shingles|DS greek|NN 
+mean|NN belt|NN girdle|NN characteristic|NN rash|ST name|NN disease|NN shingles|DS latin|NN variant|NN cingulum|NN mean|NN girdle|NN 
+arabic|NN name|NN belt|NN fire|NN spanish|NN snake|NN hindi|NN rash|ST norwegian|NN name|NN fire|NN research|NN 
+complication|NN system|NN cns|NN vzv|NN reactivation|NN 
+presence|NN rash|ST symptom|NN cns|NN infection|NN vzv|NN 
+pcr|NN test|NN number|NN case|NN cns|NN infection|NN 
+textbook|NN description|NN state|NN vzv|NN reactivation|NN cns|NN individual|NN study|NN patient|NN year|NN 
+reference|NN rash|ST find|NN study|NN rash|ST case|NN addition|NN inflammation|NN indicator|NN level|NN protein|NN blood|NN cell|NN count|NN range|NN patient|NN vzv|NN meningitis|DS mry|NN ct|NN scan|NN case|NN vzv|NN reactivation|NN cns|NN 
+csf|NN indicator|NN vzv|NN encephalitis|DS group|NN patient|NN vzv|NN encephalitis|DS pcr|NN 
+frequency|NN cns|NN infection|NN emergency|NN room|NN community|NN hospital|NN mean|NN case|NN 
+pcr|NN method|NN diagnosis|NN indicator|NN vzv|NN infection|NN cns|NN screen|NN vzv|NN pcr|NN 
+pcr|NN vzv|NN involvement|NN pcr|NN diagnosis|NN treatment|NN example|NN antibiotics|NN 
+introduction|NN dna|NN analysis|NN technique|NN complication|NN shingles|DS 
+example|NN shingles|DS disease|NN childhood|NN chickenpox|DS 
+shingles|DS cause|NN adult|NN circumstance|NN 
+diagnosis|NN complication|NN varicella-|NN shingles|DS case|NN disease|NN year|NN decade|NN latency|NN 
+symptom|NN overlap|NN symptom|NN symptom|NN 
+dna|NN analysis|NN technique|NN polymerase|NN chain|NN reaction|NN pcr|NN dna|NN herpesviruse|NN fluid|NN blood|NN result|NN case|NN symptom|NN limitation|NN use|NN pcr|NN advance|NN state|NN art|NN understand|NN herpesviruse|NN vzv|NN 
+example|NN clinician|NN encephalitis|DS herpe|NN simplex|NN patient|NN term|NN function|NN problem|NN 
+people|NN autopsy|NN brain|NN biopsy|NN 
+brain|NN biopsy|NN case|NN method|NN 
+reason|NN knowledge|NN herpe|NN virus|NN condition|NN case|NN 
+dna|NN technique|NN case|NN vzv|NN hsv|NN symptom|NN fever|ST headache|ST status|NN 
+mortality|NN rate|NN patient|NN 

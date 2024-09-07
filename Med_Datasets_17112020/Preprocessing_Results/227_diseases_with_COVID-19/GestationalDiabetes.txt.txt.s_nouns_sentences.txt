@@ -1,0 +1,183 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Gestational diabetes|Disease name|NN Gestational diabetes|Disease Gestational diabetes|Disease circle|NN circle|NN symbol|NN diabete|NN specialty|NN symptom|NN symptom|NN complication|NN stillbirth|NN depression|NN risk|NN caesarean|NN section|NN onset|NN month|NN pregnancy|NN cause|NN insulin|NN set|NN insulin|NN resistance|NN risk|NN factor|NN Gestational diabetes|Disease family|NN history|NN type|NN diabete|NN syndrome|NN method|NN screen|NN blood|NN test|NN prevention|NN weight|NN pregnancy|NN treatment|NN diet|NN exercise|NN insulin|NN injection|NN frequency|NN pregnancy|NN
+Gestational diabetes|Disease condition|NN woman|NN diabete|NN blood|NN sugar|NN level|NN pregnancy|NN Gestational diabetes|Disease result|NN symptom|NN risk|NN depression|NN caesarean|NN section|NN baby|NN mother|NN Gestational diabetes|Disease risk|NN blood|NN sugar|NN birth|NN jaundice|NN stillbirth|NN term|NN children|NN risk|NN type|NN diabete|NN
+Gestational diabetes|Disease insulin|NN set|NN insulin|NN resistance|NN risk|NN factor|NN Gestational diabetes|Disease family|NN history|NN type|NN diabete|NN syndrome|NN diagnosis|NN blood|NN test|NN risk|NN screen|NN week|NN gestation|NN risk|NN test|NN visit|NN
+prevention|NN weight|NN pregnancy|NN Gestational diabetes|Disease diet|NN exercise|NN insulin|NN injection|NN women|NN blood|NN sugar|NN diet|NN exercise|NN blood|NN sugar|NN test|NN time|NN day|NN breastfeed|NN birth|NN
+Gestational diabetes|Disease pregnancy|NN population|NN month|NN pregnancy|NN age|NN age|NN number|NN group|NN asian|NN indian|NN australian|NN pacific|NP islander|NN risk|NN case|NN Gestational diabetes|Disease baby|NN women|NN risk|NN type|NN diabete|NN content|NN
+classification|NN risk|NN factor|NN screen|NN blood|NN glucose|NN test|NN screen|NN glucose|NN challenge|NN test|NN glucose|NN tolerance|NN test|NN glucose|NN test|NN prevention|NN management|NN lifestyle|NN complication|NN epidemiology|NN reference|NN link|NN
+Gestational diabetes|Disease degree|NN glucose|NN intolerance|NN onset|NN recognition|NN pregnancy|NN definition|NN possibility|NN woman|NN diabete|NN mellitus|NN diabete|NN pregnancy|NN
+symptom|NN pregnancy|NN diagnosis|NN woman|NN Gestational diabetes|Disease glucose|NN intolerance|NN week|NN gestation|NN
+classification|NN priscilla|NP white|NP research|NN effect|NN diabete|NN type|NN outcome|NN risk|NN Gestational diabetes|Disease type|NN Gestational diabetes|Disease diabete|NN pregnancy|NN
+group|NN risk|NN management|NN
+subtype|NN Gestational diabetes|Disease classification|NN system|NN
+type|NN glucose|NN tolerance|NN test|NN blood|NN glucose|NN level|NN fast|NN hour|NN meal|NN diet|NN modification|NN glucose|NN level|NN type|NN ogtt|NN glucose|NN level|NN andor|NN meal|NN therapy|NN insulin|NN medication|NN
+diabete|NN pregnancy|NN subtype|NN citation|NN
+type|NN onset|NN age|NN duration|NN year|NN
+type|NN c|NP onset|NN age|NN duration|NN year|NN
+type|NN d|NP onset|NN age|NN duration|NN year|NN
+type|NN diabete|NN mellitus|NN vessel|NN
+type|NN nephropathy|NN
+type|NN retinopathy|NN
+type|NN rf|NP retinopathy|NN nephropathy|NN
+type|NN h|NP ischemic|NP heart|NN disease|NN
+type|NN kidney|NN transplant|NN
+age|NN onset|NN disease|NN risk|NN subtype|NN
+set|NN criteria|NN diagnosis|NN Gestational diabetes|Disease level|NN
+criteria|NN diagnosis|NN Gestational diabetes|Disease gram|NN tolerance|NN test|NN carpenter|NP coustan|NP
+fasting|NP hour|NN hour|NN hour|NN
+criteria|NN diagnosis|NN Gestational diabetes|Disease diabete|NN data|NN group|NN
+fasting|NP hour|NN hour|NN hour|NN
+risk|NN factor|NN
+risk|NN factor|NN Gestational diabetes|Disease
+ovary|NN syndrome|NN diagnosis|NN Gestational diabetes|Disease glucose|NN tolerance|NN fast|NN family|NN history|NN relative|NN type|NN diabete|NN age|NN risk|NN factor|NN increase|NN women|NN year|NN age|NN
+age|NN study|NN father|NN age|NN year|NN ethnicity|NN risk|NN factor|NN afro-caribbeans|NP american|NN hispanics|NP pacific|NP islander|NN people|NN south|NP asia|NP increase|NN risk|NN factor|NN pregnancy|NN child|NN birth|NN weight|NN lb|NN oz|NN history|NN risk|NN factor|NN gene|NN polymorphism|NN risk|NN Gestational diabetes|Disease
+addition|NN statistics|NN risk|NN Gestational diabetes|Disease smoker|NN syndrome|NN risk|NN factor|NN evidence|NN study|NN risk|NN factor|NN stature|NN
+women|NN Gestational diabetes|Disease risk|NN factor|NN reason|NN advocate|NN screen|NN women|NN women|NN Gestational diabetes|Disease exhibit|NN symptom|NN reason|NN screen|NN women|NN thirst|NN urination|NN fatigue|NN nausea|NN vomit|NN bladder|NN infection|NN yeast|NN infection|NN vision|NN
+effect|NN insulin|NN glucose|NN uptake|NN metabolism|NN
+insulin|NN receptor|NN cell|NN membrane|NN turn|NN protein|NN activation|NN cascade|NN
+translocation|NN transporter|NN plasma|NN membrane|NN influx|NN glucose|NN glycogen|NN synthesis|NN acid|NN synthesis|NN
+mechanism|NN Gestational diabetes|Disease
+hallmark|NN Gestational diabetes|Disease insulin|NN resistance|NN
+pregnancy|NN hormone|NN factor|NN action|NN insulin|NN insulin|NN receptor|NN
+interference|NN level|NN cell|NN pathway|NN insulin|NN receptor|NN insulin|NN entry|NN glucose|NN cell|NN insulin|NN resistance|NN glucose|NN cell|NN
+result|NN glucose|NN bloodstream|NN glucose|NN level|NN rise|NN
+insulin|NN resistance|NN time|NN insulin|NN pregnancy|NN
+insulin|NN resistance|NN phenomenon|NN trimester|NN pregnancy|NN case|NN Gestational diabetes|Disease level|NN person|NN type|NN diabete|NN
+glucose|NN supply|NN fetus|NN
+women|NN Gestational diabetes|Disease insulin|NN resistance|NN production|NN
+-cells|NP pancrea|NN
+hormone|NN extent|NN fat|NN deposit|NN pregnancy|NN insulin|NN resistance|NN pregnancy|NN
+progesterone|NN culprit|NN lactogen|NN prolactin|NN
+regression|NN analysis|NN combination|NN hormone|NN tumor|NN necrosis|NN factor|NN alpha|NN decrease|NN insulin|NN sensitivity|NN pregnancy|NN tumor|NN necrosis|NN factor|NN alpha|NN predictor|NN insulin|NN sensitivity|NN pregnancy|NN
+citation|NN correlation|NN change|NN insulin|NN sensitivity|NN time|NN conception|NN gestation|NN account|NN variance|NN decrease|NN insulin|NN sensitivity|NN gestation|NN word|NN level|NN alteration|NN tnf|NP alpha|NN factor|NN chance|NN predisposition|NN insulin|NN resistance|NN sensitivity|NN
+women|NN balance|NN insulin|NN need|NN Gestational diabetes|Disease number|NN explanation|NN type|NN diabete|NN gene|NN mutation|NN obesity|NN mechanism|NN
+presentation|NN Gestational diabetes|Disease mechanism|NN disease|NN
+adaptation|NN hgfc-met|NN pathway|NN
+adaption|NN change|NN islet|NN cell|NN pregnancy|NN response|NN hormone|NN order|NN need|NN mother|NN baby|NN
+cause|NN insulin|NN secretion|NN result|NN
+proliferation|NN hgfc-met|NN
+regeneration|NN increase|NN
+mass|NN order|NN insulin|NN need|NN pregnancy|NN
+study|NN loss|NN result|NN
+receptor|NN tyrosine|NN kinase|NN ligand|NN hepatocyte|NN growth|NN factor|NN activation|NN process|NN
+receptor|NN recognition|NN domain|NN
+pathway|NN signal|NN molecule|NN affect|NN cell|NN motility|NN cell|NN motility|NN cell|NN cycle|NN progression|NN
+study|NN signal|NN molecule|NN stress|NN situation|NN insulin|NN
+pregnancy|NN insulin|NN resistance|NN insulin|NN demand|NN
+insulin|NN production|NN
+process|NN marker|NN Gestational diabetes|Disease
+pregnancy|NN increase|NN level|NN correlation|NN connection|NN pathway|NN insulin|NN need|NN
+fact|NN signal|NN Gestational diabetes|Disease
+adaptation|NN hypothese|NN molecule|NN insulin|NN level|NN pregnancy|NN molecule|NN cell|NN cycle|NN level|NN decrease|NN
+p27|NN protein|NN level|NN increase|NN c-met|NN
+apoptosis|NN lack|NN cause|NN cell|NN death|NN mechanism|NN
+mechanism|NN control|NN Gestational diabetes|Disease correlation|NN pathway|NN inability|NN amount|NN insulin|NN pregnancy|NN target|NN therapy|NN
+glucose|NN travel|NN placenta|NN diffusion|NN carrier|NN syncytiotrophoblast|NN microvillus|NN membrane|NN membrane|NN step|NN glucose|NN transport|NN
+two-|NN increase|NN expression|NN glucose|NN transporter|NN gestation|NN
+role|NN transport|NN
+Gestational diabetes|Disease fetus|NN glucose|NN level|NN level|NN insulin|NN insulin|NN placenta|NN
+effect|NN insulin|NN growth|NN body|NN
+birth|NN glucose|NN environment|NN newborn|NN insulin|NN production|NN susceptibility|NN blood|NN glucose|NN level|NN screen|NN diabete|NN criteria|NN condition|NN glucose|NN fasting|NP glucose|NN unit|NN mmolmol|NN fast|NN
+70126|NN glucose|NN tolerance|NN
+42-46|NN diabete|NN mellitus|NN
+test|NN Gestational diabetes|Disease blood|NN glucose|NN test|NN
+fasting|NP glucose|NN test|NN meal|NN glucose|NN test|NN glucose|NN test|NN
+screen|NN glucose|NN challenge|NN test|NN glucose|NN tolerance|NN test|NN
+number|NN screen|NN test|NN level|NN glucose|NN plasma|NN serum|NN circumstance|NN
+method|NN approach|NN result|NN screen|NN test|NN test|NN
+test|NN visit|NN woman|NN pregnancy|NN
+example|NN syndrome|NN acanthosis|NN
+blood|NN glucose|NN test|NN glucose|NN level|NN blood|NN sample|NN subject|NN glucose|NN solution|NN
+blood|NN glucose|NN level|NN hour|NN meal|NN time|NN
+contrast|NN challenge|NN test|NN glucose|NN solution|NN glucose|NN concentration|NN blood|NN diabete|NN
+glucose|NN solution|NN taste|NN women|NN flavour|NN
+women|NN nausea|NN test|NN glucose|NN level|NN
+way|NN Gestational diabetes|Disease routine|NN screen|NN women|NN glucose|NN challenge|NN test|NN women|NN Gestational diabetes|Disease screen|NN women|NN risk|NN screen|NN test|NN rest|NN pregnancy|NN
+research|NN method|NN screen|NN impact|NN mother|NN baby|NN
+opinion|NN screen|NN measure|NN part|NN difference|NN population|NN risk|NN cost-effectiveness|NN consideration|NN lack|NN evidence|NN base|NN screen|NN program|NN regimen|NN blood|NN glucose|NN test|NN book|NN visit|NN screen|NN glucose|NN challenge|NN test|NN week|NN gestation|NN ogtt|NN test|NN limit|NN
+suspicion|NN woman|NN
+united|NP states|NP obstetrician|NN screen|NN screen|NN glucose|NN challenge|NN test|NN united|NP kingdom|NP unit|NN risk|NN factor|NN blood|NN glucose|NN test|NN diabete|NN association|NN society|NN obstetrician|NN gynaecologist|NN canada|NP routine|NN screen|NN woman|NN risk|NN woman|NN year|NN body|NN mass|NN index|NN family|NN risk|NN factor|NN diabete|NN association|NN college|NN obstetrician|NN gynecologist|NN screen|NN
+service|NN task|NN force|NN evidence|NN routine|NN screen|NN 2017|NN cochrane|NP review|NN evidence|NN screen|NN method|NN women|NN baby|NN
+women|NN careprovider|NN routine|NN screen|NN absence|NN risk|NN factor|NN proportion|NN women|NN Gestational diabetes|Disease risk|NN factor|NN danger|NN mother|NN baby|NN Gestational diabetes|Disease non-challenge|NN blood|NN glucose|NN test|NN
+plasma|NN glucose|NN level|NN fast|NN occasion|NN day|NN diagnosis|NN Gestational diabetes|Disease test|NN test|NN visit|NN
+test|NN performance|NN test|NN sensitivity|NN specificity|NN rate|NN screen|NN glucose|NN challenge|NN test|NN
+screen|NN glucose|NN challenge|NN test|NN test|NN week|NN version|NN glucose|NN tolerance|NN test|NN
+fast|NN screen|NN test|NN contrast|NN ogtt|NN
+test|NN solution|NN gram|NN glucose|NN blood|NN level|NN hour|NN
+cut-off|NN point|NN women|NN Gestational diabetes|Disease threshold|NN test|NN Gestational diabetes|Disease case|NN women|NN ogtt|NN
+glucose|NN tolerance|NN test|NN
+glucose|NN tolerance|NN test|NN morn|NN fast|NN hour|NN
+day|NN subject|NN diet|NN g|NN carbohydrate|NN day|NN activity|NN
+subject|NN test|NN test|NN
+test|NN solution|NN amount|NN glucose|NN g|NN g|NN draw|NN blood|NN measure|NN glucose|NN level|NN start|NN set|NN time|NN interval|NN
+criteria|NN diabete|NN data|NN group|NN center|NN carpenter|NP coustan|NP criteria|NN cutoff|NN value|NN
+criteria|NN carpenter|NP coustan|NP criteria|NN lead|NN diagnosis|NN Gestational diabetes|Disease percent|NN women|NN cost|NN evidence|NN outcome|NN
+value|NN diabete|NN association|NN g|NN glucose|NN
+fasting|NP blood|NN glucose|NN level|NN
+hour|NN blood|NN glucose|NN level|NN
+hour|NN blood|NN glucose|NN level|NN
+hour|NN blood|NN glucose|NN level|NN
+test|NN g|NN glucose|NN load|NN blood|NN glucose|NN level|NN hour|NN reference|NN value|NN
+test|NN women|NN risk|NN concordance|NN agreement|NN rate|NN test|NN g|NN test|NN
+glucose|NN value|NN Gestational diabetes|Disease osullivan|NN cohort|NN study|NN gram|NN glucose|NN risk|NN type|NN diabete|NN future|NN
+value|NN blood|NN value|NN value|NN information|NN alteration|NN criteria|NN
+method|NN blood|NN glucose|NN determination|NN use|NN blood|NN plasma|NN sample|NN criteria|NN Gestational diabetes|Disease
+glucose|NN test|NN
+women|NN Gestational diabetes|Disease glucose|NN level|NN urine|NN
+dipstick|NN test|NN routine|NN dipstick|NN test|NN cause|NN screen|NN filtration|NN rate|NN pregnancy|NN women|NN glucose|NN urine|NN dipstick|NN test|NN point|NN pregnancy|NN
+sensitivity|NN glucosuria|NN Gestational diabetes|Disease trimester|NN value|NN prevention|NN
+review|NN pregnancy|NN exercise|NN prevention|NN Gestational diabetes|Disease review|NN effect|NN
+diet|NN activity|NN intervention|NN weight|NN gain|NN rate|NN Gestational diabetes|Disease
+impact|NN intervention|NN index|NN person|NN region|NN study|NN
+women|NN Gestational diabetes|Disease support|NN pregnancy|NN chance|NN Gestational diabetes|Disease pregnancy|NN support|NN diet|NN exercise|NN education|NN lifestyle|NN advice|NN research|NN intervention|NN pregnancy|NN number|NN women|NN Gestational diabetes|Disease
+cessation|NN risk|NN Gestational diabetes|Disease smoker|NN
+management|NN article|NN diabete|NN management|NN kit|NN glucose|NN meter|NN diary|NN woman|NN Gestational diabetes|Disease
+treatment|NN Gestational diabetes|Disease diet|NN insulin|NN health|NN problem|NN mother|NN child|NN treatment|NN Gestational diabetes|Disease induction|NN labour|NN
+repeat|NN ogtt|NN week|NN delivery|NN diabete|NN
+screen|NN type|NN diabete|NN
+lifestyle|NN intervention|NN exercise|NN diet|NN advice|NN intervention|NN relaxation|NN self-monitor|NN glucose|NN intervention|NN women|NN Gestational diabetes|Disease lifestyle|NN intervention|NN depression|NN weight|NN loss|NN target|NN birth|NN women|NN intervention|NN baby|NN age|NN percentage|NN fat|NN research|NN lifestyle|NN intervention|NN
+diet|NN gi|NN
+diet|NN exercise|NN medication|NN glucose|NN level|NN insulin|NN therapy|NN
+development|NN macrosomia|NN pregnancy|NN
+women|NN insulin|NN history|NN stillbirth|NN hypertension|NN women|NN diabete|NN lifestyle|NN
+counsel|NN pregnancy|NN example|NN acid|NN supplement|NN management|NN pregnancy|NN outcome|NN women|NN Gestational diabetes|Disease change|NN exercise|NN
+self|NN monitor|NN blood|NN glucose|NN level|NN therapy|NN
+women|NN drug|NN insulin|NN therapy|NN
+diet|NN calory|NN pregnancy|NN exclusion|NN carbohydrate|NN goal|NN modification|NN peak|NN blood|NN sugar|NN level|NN
+carbohydrate|NN intake|NN meal|NN snack|NN day|NN carbohydrate|NN gi|NN
+insulin|NN resistance|NN morn|NN breakfast|NN carbohydrate|NN food|NN grain|NN fruit|NN vegetable|NN risk|NN Gestational diabetes|Disease evidence|NN type|NN advice|NN
+exercise|NN consensus|NN structure|NN exercise|NN program|NN Gestational diabetes|Disease women|NN blood|NN sugar|NN level|NN meal|NN form|NN exercise|NN
+self|NN monitor|NN glucose|NN dosage|NN system|NN
+compliance|NN system|NN lot|NN research|NN target|NN blood|NN sugar|NN level|NN women|NN Gestational diabetes|Disease target|NN women|NN world|NN target|NN range|NN diabete|NN pregnancy|NN society|NN
+blood|NN glucose|NN level|NN hour|NN blood|NN glucose|NN level|NN hour|NN blood|NN glucose|NN level|NN
+blood|NN sample|NN level|NN idea|NN glucose|NN control|NN time|NN period|NN
+research|NN benefit|NN breastfeed|NN risk|NN diabete|NN risk|NN mother|NN child|NN
+monitor|NN control|NN glucose|NN level|NN measure|NN evidence|NN complication|NN growth|NN treatment|NN insulin|NN
+insulin|NN eate|NN glucose|NN rise|NN meal|NN care|NN blood|NN sugar|NN level|NN insulin|NN
+insulin|NN therapy|NN injection|NN control|NN effort|NN consensus|NN benefit|NN 2016|NP cochrane|NP review|NN quality|NN evidence|NN blood|NN sugar|NN range|NN health|NN women|NN Gestational diabetes|Disease baby|NN
+evidence|NN medication|NN mouth|NN pregnancy|NN fetus|NN diabete|NN
+diabete|NN tablet|NN medication|NN mouth|NN work|NN quality|NN research|NN support|NN medication|NN medication|NN metformin|NN blood|NN glucose|NN agent|NN combination|NN metformin|NN insulin|NN insulin|NN review|NN term|NN safety|NN mother|NN baby|NN metformin|NN term|NN safety|NN
+people|NN mouth|NN insulin|NN injection|NN treatment|NN syndrome|NN metformin|NN pregnancy|NN Gestational diabetes|Disease level|NN
+women|NN control|NN therapy|NN insulin|NN insulin|NN insulin|NN weight|NN study|NN children|NN women|NN drug|NN possibility|NN complication|NN therapy|NN baby|NN women|NN metformin|NP fat|NN insulin|NN resistance|NN life|NN
+Gestational diabetes|Disease baby|NN
+study|NN chance|NN Gestational diabetes|Disease pregnancy|NN woman|NN Gestational diabetes|Disease pregnancy|NN background|NN
+pregnancy|NN year|NN pregnancy|NN likelihood|NN Gestational diabetes|Disease recurrence|NN
+women|NN Gestational diabetes|Disease risk|NN diabete|NN mellitus|NN future|NN
+risk|NN women|NN insulin|NN treatment|NN antibody|NN diabete|NN antibody|NN glutamate|NN islet|NN cell|NN antibody|NN women|NN pregnancy|NN women|NN order|NN importance|NN women|NN insulin|NN Gestational diabetes|Disease risk|NN diabete|NN year|NN population|NN criteria|NN length|NN follow-up|NN risk|NN risk|NN year|NN plateau|NN study|NN group|NN women|NN boston|NP massachusetts|NP half|NN diabete|NN year|NN diabete|NN year|NN study|NN navajo|NN women|NN risk|NN diabete|NN Gestational diabetes|Disease year|NN study|NN risk|NN diabete|NN Gestational diabetes|Disease year|NN population|NN risk|NN type|NN diabete|NN subject|NN women|NN auto-antibody|NN rate|NN women|NN type|NN diabete|NN
+children|NN women|NN Gestational diabetes|Disease risk|NN childhood|NN adult|NN obesity|NN risk|NN glucose|NN intolerance|NN type|NN diabete|NN life|NN risk|NN glucose|NN value|NN susceptibility|NN factor|NN risk|NN treatment|NN Gestational diabetes|Disease outcome|NN
+benefit|NN harm|NN anti-diabetic|NN medication|NN
+data|NN risk|NN condition|NN women|NN Gestational diabetes|Disease jerusalem|NP study|NN women|NN Gestational diabetes|Disease tendency|NN breast|NN cancer|NN research|NN find|NN complication|NN
+Gestational diabetes|Disease risk|NN mother|NN child|NN
+risk|NN blood|NN glucose|NN level|NN consequence|NN
+risk|NN increase|NN blood|NN glucose|NN level|NN treatment|NN control|NN level|NN risk|NN Gestational diabetes|Disease
+risk|NN Gestational diabetes|Disease baby|NN growth|NN abnormality|NN imbalance|NN birth|NN admission|NN care|NN unit|NN
+infant|NN mother|NN Gestational diabetes|Disease risk|NN age|NN Gestational diabetes|Disease age|NN growth|NN retardation|NN Gestational diabetes|Disease
+turn|NN risk|NN delivery|NN forcep|NN caesarean|NN section|NN problem|NN delivery|NN shoulder|NN
+women|NN women|NN Gestational diabetes|Disease evidence|NN complication|NN hyperglycemia|NN pregnancy|NN outcome|NN study|NN example|NN risk|NN baby|NN age|NN women|NN Gestational diabetes|Disease research|NN complication|NN Gestational diabetes|Disease factor|NN obesity|NN
+woman|NN Gestational diabetes|Disease risk|NN caesarean|NN section|NN
+women|NN blood|NN sugar|NN level|NN risk|NN blood|NN glucose|NN jaundice|NN blood|NN cell|NN mass|NN blood|NN calcium|NN magnesium|NN hypomagnesemia|NN Gestational diabetes|Disease maturation|NN baby|NN distress|NN syndrome|NN lung|NN maturation|NN surfactant|NN synthesis|NN
+Gestational diabetes|Disease Gestational diabetes|Disease risk|NN factor|NN birth|NN defect|NN
+birth|NN defect|NN trimester|NN week|NN pregnancy|NN Gestational diabetes|Disease second|NN trimester|NN
+study|NN offspr|NN women|NN Gestational diabetes|Disease risk|NN malformation|NN study|NN Gestational diabetes|Disease group|NN birth|NN defect|NN association|NN women|NN body|NN mass|NN index|NN
+inclusion|NN women|NN type|NN diabete|NN pregnancy|NN
+study|NN moment|NN women|NN Gestational diabetes|Disease risk|NN preeclampsia|NN study|NN risk|NN preeclampsia|NN factor|NN epidemiology|NN
+Gestational diabetes|Disease pregnancy|NN population|NN

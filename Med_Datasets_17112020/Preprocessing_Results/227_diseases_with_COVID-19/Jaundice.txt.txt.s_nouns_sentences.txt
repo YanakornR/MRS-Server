@@ -1,0 +1,134 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN
+songbird|NN chat|NN
+Jaundice|Disease name|NN Jaundice|Disease Jaundice|Disease Jaundice|Disease skin|NN cancer|NN pronunciation|NN
+gastroenterology|NN surgery|NN symptom|NN coloration|NN skin|NN white|NN eye|NN cause|NN bilirubin|NN level|NN method|NN blood|NN bilirubin|NN liver|NN panel|NN diagnosis|NN treatment|NN cause|NN
+Jaundice|Disease Jaundice|Disease pigmentation|NN skin|NN white|NN eye|NN bilirubin|NN level|NN itchiness|NN fece|NN urine|NN dark|NN Jaundice|Disease baby|NN week|NN birth|NN threat|NN bilirubin|NN level|NN baby|NN type|NN brain|NN damage|NN Jaundice|Disease
+cause|NN Jaundice|Disease non-serious|NN level|NN bilirubin|NN blood|NN level|NN mgdl|NN result|NN Jaundice|Disease bilirubin|NN type|NN conjugate|NN bilirubin|NN find|NN bilirubin|NN urine|NN condition|NN skin|NN Jaundice|Disease amount|NN food|NN medication|NN
+unconjugate|NN bilirubin|NN blood|NN cell|NN breakdown|NN bruise|NN condition|NN syndrome|NN period|NN time|NN Jaundice|Disease problem|NN bilirubin|NN liver|NN disease|NN cirrhosis|NN hepatitis|NN infection|NN medication|NN blockage|NN bile|NN duct|NN world|NN cause|NN blockage|NN bile|NN duct|NN medication|NN world|NN infection|NN hepatitis|NN schistosomiasis|NN malaria|NN blockage|NN bile|NN duct|NN gallstone|NN cancer|NN pancreatitis|NN image|NN ultrasound|NN bile|NN duct|NN blockage|NN
+treatment|NN Jaundice|Disease cause|NN bile|NN duct|NN blockage|NN surgery|NN management|NN management|NN cause|NN medication|NN newborn|NN age|NN prematurity|NN bilirubin|NN moll|NN phototherapy|NN transfusion|NN itchiness|NN gallbladder|NN acid|NN word|NN Jaundice|Disease jaunisse|NN mean|NN disease|NN content|NN
+sign|NN symptom|NN complication|NN diagnosis|NN diagnosis|NN event|NN epidemiology|NN approach|NN reference|NN link|NN
+sign|NN symptom|NN boy|NN Jaundice|Disease sclera|NN manifestation|NN due|NN deficiency|NN bean|NN consumption|NN
+sign|NN Jaundice|Disease discoloration|NN area|NN eye|NN skin|NN
+urine|NN colour|NN increase|NN serum|NN bilirubin|NN sclerae|NN affinity|NN bilirubin|NN elastin|NN content|NN
+presence|NN Jaundice|Disease serum|NN bilirubin|NN mgdl|NN
+conjunctiva|NN eye|NN tissue|NN change|NN color|NN bilirubin|NN level|NN rise|NN Jaundice|Disease
+sclera|NN bile|NN pigment|NN membrane|NN
+yellow|NN white|NN eye|NN Jaundice|Disease
+term|NN Jaundice|Disease Jaundice|Disease sclera|NN eye|NN mean|NN Jaundice|Disease complication|NN
+fraction|NN bilirubin|NN matter|NN system|NN damage|NN condition|NN Jaundice|Disease
+level|NN exposure|NN effect|NN range|NN unnoticeable|NN brain|NN damage|NN death|NN
+damage|NN alteration|NN serum|NN bilirubin|NN level|NN
+diagnosis|NN type|NN Jaundice|Disease
+process|NN function|NN metabolism|NN excretion|NN bilirubin|NN Jaundice|Disease result|NN
+Jaundice|Disease category|NN part|NN mechanism|NN pathology|NN
+category|NN category|NN definition|NN pathology|NN liver|NN
+defect|NN rb|NP cell|NN b|NP
+rb|NP cell|NN pathology|NN liver|NN disease|NN cell|NN liver|NN
+pathology|NN conjugation|NN bilirubin|NN liver|NN obstruction|NN passage|NN
+Jaundice|Disease rate|NN breakdown|NN blood|NN cell|NN
+bilirubin|NN breakdown|NN pigment|NN blood|NN cell|NN
+breakdown|NN blood|NN cell|NN increase|NN amount|NN bilirubin|NN present|NN blood|NN deposition|NN bilirubin|NN tissue|NN Jaundice|Disease appearance|NN
+country|NN malaria|NN Jaundice|Disease manner|NN
+disease|NN sickle|NN cell|NN thalassemia|NN kinase|NN deficiency|NN dehydrogenase|NN deficiency|NN cell|NN lysis|NN Jaundice|Disease
+disease|NN kidney|NN syndrome|NN coloration|NN
+Jaundice|Disease secondary|NN production|NN bilirubin|NN production|NN
+urine|NN bilirubin|NN combination|NN urine-urobilinogen|NN bilirubin|NN unconjugate|NN urine|NN Jaundice|Disease
+laboratory|NN find|NN
+urine|NN bilirubin|NN present|NN unit|NN cause|NN metabolism|NN exception|NN infant|NN gut|NN flora|NN
+serum|NN bilirubin|NN
+kern|NP Jaundice|Disease bilirubin|NN albumin|NN
+permeability|NN barrier|NN
+microscopy|NN liver|NN bilirubin|NN pigment|NN
+Jaundice|Disease hepatitis|NN cirrhosis|NN hepatitis|NN liver|NN disease|NN
+cell|NN necrosis|NN liver|NN ability|NN metabolize|NN bilirubin|NN buildup|NN bilirubin|NN blood|NN
+cause|NN cirrhosis|NN increase|NN plasma|NN bilirubin|NN impairment|NN excretion|NN bilirubin|NN bile|NN
+blood|NN amount|NN bilirubin|NN bile|NN salt|NN urine|NN
+Jaundice|Disease Jaundice|Disease machinery|NN conjugation|NN excretion|NN bilirubin|NN week|NN age|NN
+rat|NN fever|NN Jaundice|Disease
+Jaundice|Disease cholestasis|NN
+defect|NN bilirubin|NN metabolism|NN Jaundice|Disease syndrome|NN disorder|NN bilirubin|NN metabolism|NN Jaundice|Disease population|NN syndrome|NN type|NN
+laboratory|NN find|NN cause|NN Jaundice|Disease
+urine|NN bilirubin|NN present|NN unit|NN variable|NN children|NN
+kern|NP Jaundice|Disease condition|NN bilirubin|NN
+plasma|NN protein|NN show|NN characteristic|NN change|NN
+plasma|NN albumin|NN level|NN plasma|NN globulin|NN formation|NN antibody|NN
+transport|NN hepatocyte|NN point|NN uptake|NN bilirubin|NN cell|NN transport|NN bilirubin|NN canaliculy|NN
+addition|NN swell|NN cell|NN oedema|NN inflammation|NN cause|NN obstruction|NN tree|NN
+Jaundice|Disease concentration|NN unconjugate|NN bilirubin|NN rise|NN blood|NN
+disease|NN interference|NN step|NN bilirubin|NN conjugation|NN excretion|NN
+step|NN extent|NN
+bilirubin|NN liver|NN cell|NN way|NN
+bilirubin|NN blood|NN rupture|NN bile|NN empty|NN bile|NN lymph|NN liver|NN
+bilirubin|NN plasma|NN type|NN type|NN bilirubin|NN intestine|NN urine|NN color|NN
+Jaundice|Disease Jaundice|Disease interruption|NN drainage|NN bile|NN bilirubin|NN system|NN
+cause|NN gallstone|NN bile|NN duct|NN cancer|NN head|NN pancrea|NN
+group|NN parasite|NN liver|NN fluke|NN bile|NN duct|NN Jaundice|Disease
+cause|NN stricture|NN bile|NN duct|NN pancreatitis|NN cholestasis|NN pregnancy|NN pseudocyst|NN
+cause|NN Jaundice|Disease syndrome|NN impaction|NN duct|NN neck|NN gallbladder|NN duct|NN
+obstruction|NN bile|NN duct|NN urobilinogen|NN urine|NN bilirubin|NN access|NN intestine|NN intestine|NN bilirubin|NN microorganism|NN urobilinogen|NN intestine|NN circulation|NN urine|NN
+case|NN presence|NN bilirubin|NN urine|NN urine-urobilinogen|NN Jaundice|Disease
+presence|NN stool|NN urine|NN cause|NN fece|NN color|NN bile|NN pigment|NN
+illness|NN feature|NN obstruction|NN cause|NN Jaundice|Disease
+patient|NN serum|NN cholesterol|NN itch|NN pruritus|NN effect|NN pruritogen|NN bile|NN bile|NN salt|NN
+test|NN classification|NN Jaundice|Disease
+combination|NN liver|NN function|NN test|NN diagnosis|NN
+citation|NN test|NN function|NN test|NN Jaundice|Disease Jaundice|Disease Jaundice|Disease bilirubin|NN conjugate|NN bilirubin|NN unconjugate|NN bilirubin|NN decrease|NN urine|NN color|NN dark|NN bilirubin|NN dark|NN bilirubin|NN stool|NN color|NN brown|NP alkaline|NN phosphatase|NN level|NN alanine|NN aspartate|NN level|NN bilirubin|NN urine|NN present|NN spleen|NN present|NN present|NN article|NN Jaundice|Disease
+Jaundice|Disease condition|NN infant|NN day|NN birth|NN day|NN birth|NN day|NN birth|NN
+cause|NN Jaundice|Disease physiologic|NN Jaundice|Disease Jaundice|Disease due|NN formula|NN supplementation|NN hemolytic|NN disorder|NN dehydrogenase|NN deficiency|NN kinase|NN deficiency|NN blood|NN type|NN autoantibody|NN pyknocytosis|NN
+serum|NN bilirubin|NN level|NN intervention|NN
+case|NN bilirubin|NN condition|NN Jaundice|Disease disability|NN condition|NN year|NN time|NN
+light|NN tool|NN treatment|NN baby|NN phototherapy|NN
+treatment|NN advantage|NN ultra-violet-b|NN vitamin|NN d|NP production|NN count|NN bowel|NN movement|NN urination|NN feed|NN diagnosis|NN
+discoloration|NN skin|NN palm|NN sole|NN sclera|NN mouth|NN condition|NN
+Jaundice|Disease disease|NN sign|NN process|NN point|NN pathway|NN metabolism|NN bilirubin|NN blood|NN
+blood|NN cell|NN life|NN span|NN day|NN membrane|NN
+blood|NN cell|NN system|NN cell|NN membrane|NN rupture|NN membrane|NN
+content|NN hemoglobin|NN blood|NN
+hemoglobin|NN macrophage|NN split|NN heme|NN globin|NN portion|NN
+globin|NN portion|NN protein|NN amino|NN acid|NN role|NN Jaundice|Disease
+reaction|NN place|NN molecule|NN
+oxidation|NN reaction|NN enzyme|NN heme|NN result|NN color|NN pigment|NN iron|NN carbon|NN monoxide|NN
+step|NN reduction|NN biliverdin|NN color|NN pigment|NN bilirubin|NN enzyme|NN
+bilirubin|NN bilirubin|NN
+mg|NN bilirubin|NN kg|NN blood|NN day|NN majority|NN bilirubin|NN breakdown|NN heme|NN blood|NN cell|NN process|NN
+percent|NN source|NN erythropoiesis|NN breakdown|NN heme-contain|NN protein|NN muscle|NN event|NN
+bilirubin|NN liver|NN bloodstream|NN
+bilirubin|NN blood|NN serum|NN albumin|NN
+liver|NN acid|NN form|NN bilirubin|NN bilirubin|NN
+reaction|NN enzyme|NN
+bilirubin|NN liver|NN duct|NN part|NN bile|NN
+bacteria|NN bilirubin|NN
+stercobilinogen|NN stercobilin|NN fece|NN cell|NN blood|NN kidney|NN urine|NN product|NN
+product|NN coloration|NN fece|NN urine|NN
+citation|NN epidemiology|NN
+Jaundice|Disease adult|NN approach|NN tract|NN dilation|NN obstruction|NN cat|NN scan|NN tract|NN dilation|NN obstruction|NN
+patient|NN Jaundice|Disease pattern|NN liver|NN panel|NN abnormality|NN variation|NN
+liver|NN panel|NN blood|NN level|NN enzyme|NN liver|NN aminotransferases|NP alt|NP ast|NP phosphatase|NN alp|NN bilirubin|NN Jaundice|Disease protein|NN level|NN protein|NN albumin|NN
+lab|NN test|NN liver|NN function|NN gamma|NN ggt|NP prothrombin|NN time|NN pt|NN
+bone|NN heart|NN disorder|NN increase|NN alp|NP aminotransferase|NN step|NN liver|NN problem|NN level|NN ggt|NP condition|NN
+step|NN liver|NN cause|NN Jaundice|Disease laboratory|NN result|NN
+response|NN response|NN
+alp|NP ggt|NP level|NN pattern|NN aspartate|NN aminotransferase|NN ast|NN aminotransferase|NN alt|NP rise|NN pattern|NN
+alp|NN iul|NN ggt|NP level|NN rise|NN ast|NP alt|NP level|NN problem|NN
+hand|NN ast|NN alt|NP rise|NN alp|NN ggt|NP rise|NN problem|NN
+cause|NN Jaundice|Disease level|NN ast|NP alt|NP
+ast|NP level|NN alt|NP
+case|NN disorder|NN hepatitis|NN
+liver|NN damage|NN alt|NP level|NN ast|NP alt|NP
+hand|NN alt|NP ast|NP hepatitis|NN
+level|NN alt|NP ast|NP extent|NN liver|NN damage|NN drop|NN level|NN level|NN necrosis|NN
+level|NN albumin|NN condition|NN hepatitis|NN cholestasis|NN
+lab|NN result|NN liver|NN panel|NN magnitude|NN difference|NN number|NN ratio|NN
+ratio|NN indicator|NN disorder|NN liver|NN damage|NN form|NN liver|NN damage|NN hepatitis|NN
+level|NN cholestasis|NN
+level|NN cause|NN
+ast|NP level|NN damage|NN
+alp|NN level|NN obstruction|NN level|NN drug|NN hepatitis|NN cytomegalovirus|NN
+condition|NN alt|NP ast|NP
+ggt|NP level|NN cholestasis|NN
+level|NN hepatitis|NN
+level|NN drug|NN toxicity|NN
+hepatitis|NN alt|NP ast|NP level|NN week|NN
+toxicity|NN alt|NP ast|NP level|NN
+Jaundice|Disease jaune|NN mean|NN jaunisse|NN mean|NN disease|NN
+term|NN Jaundice|Disease word|NN

@@ -1,0 +1,20 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN meningism|NN name|NN meningism|NN meningism|NN 
+meningism|NN set|NN symptom|NN meningitis|DS meningitis|DS meningitis|DS inflammation|NN membrane|NN system|NN meningism|NN irritation|NN meninge|NN illness|NN children|NN adolescent|NN meningism|NN triad|NN syndrome|NN rigidity|NN neck_stiffness|ST intolerance|NN light|NN headache|ST 
+cns|NN problem|NN symptom|NN meningitis|DS type|NN hemorrhage|NN 
+sign|NN sign|NN sign|NN sign|NN 
+code|NN system|NN meningism|NN meningism|NN meningitis-like|NN fact|NN meningitis|DS physician|NN term|NN meningism|NN sense|NN set|NN symptom|NN cause|NN 
+sense|NN word|NN meningitis|DS 
+word|NN symptom|NN confusion|ST word|NN sense|NN term|NN meningism|NN sense|NN 
+reader|NN literature|NN word|NN sense|NN 
+sign|NN symptom|NN rigidity|NN sign|NN brudzinskis|NN sign|NN reference|NN link|NN 
+sign|NN symptom|NN sign|NN meningitis|DS 
+sign|NN meningism|NN rigidity|NN sign|NN brudzinskis|NN sign|NN 
+sign|NN adult|NN meningitis|DS rigidity|NN sign|NN rigidity|NN 
+rigidity|NN inability|NN neck|NN rigidity|NN neck|NN muscle|NN flexion|NN neck|NN range|NN motion|NN rigidity|NN 
+citation|NN sign|NN 
+sign|NN kernig|NN neurologist|NN thigh|NN hip|NN knee|NN degree|NN angle|NN extension|NN knee|NN resistance|NN hemorrhage|NN meningitis|DS patient|NN body|NN leg|NN head|NN body|NN 
+citation|NN sign|NN article|NN 
+sky|NN sign|NN 
+jozef|NN brudzinski|NN pediatrician|NN sign|NN meningitis|DS 
+sign|NN neck|NN sign|NN flexion|NN neck|NN flexion|NN hip|NN patient|NN 
+sign|NN pressure|NN symphysis|NN abduction|NN leg|NN reflexive|NN hip|NN knee|NN cheek|NN sign|NN pressure|NN cheek|NN zygoma|NN rise|NN flexion|NN forearm|NN reflex|NN flexion|NN knee|NN abdomen|NN flexion|NN leg|NN stretch|NN limb|NN extension|NN 

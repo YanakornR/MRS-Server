@@ -1,0 +1,45 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN encephalitis|DS encephalitis|DS scan|NN image|NN signal|NN lobe|NN gyrus|NN encephalitis|DS 
+disease|NN symptom|NN headache|ST fever|ST confusion|ST neck|NN vomit|NN complication|NN trouble|NN memory|NN problem|NN problem|NN hear|NN duration|NN week|NN month|NN recovery|NN type|NN herpes|DS simplex|NN west|NN nile|NN raby|NN encephalitis|DS cause|NN infection|NN autoimmune|NN medication|NN method|NN symptom|NN blood|NN test|NN image|NN analysis|NN fluid|NN treatment|NN medication|NN corticosteroid|NN respiration|NN frequency|NN death|NN 
+encephalitis|DS inflammation|NN brain|NN severity|NN symptom|NN headache|ST fever|ST confusion|ST neck|NN vomit|NN complication|NN seizure|NN hallucination|ST trouble|NN memory|NN problem|NN problem|NN hear|NN 
+cause|NN encephalitis|DS viruse|NN herpe|NN simplex|NN virus|NN raby|NN bacteria|NN fungy|NN parasite|NN cause|NN autoimmune|NN disease|NN medication|NN case|NN cause|NN risk|NN factor|NN system|NN diagnosis|NN symptom|NN blood|NN test|NN image|NN analysis|NN fluid|NN 
+type|NN vaccine|NN treatment|NN medication|NN acyclovir|NN corticosteroid|NN treatment|NN place|NN hospital|NN people|NN respiration|NN problem|NN control|NN rehabilitation|NN encephalitis|DS people|NN death|NN content|NN 
+sign|NN symptom|NN cause|NN encephalitis|DS encephalitis|DS encephalitis|DS diagnosis|NN prevention|NN treatment|NN epidemiology|NN terminology|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN 
+adult|NN encephalitis|DS present|NN onset|NN fever|ST headache|ST confusion|ST seizure|NN 
+younger|NN children|NN infant|NN irritability|ST appetite|NN fever|ST examination|NN person|NN 
+neck|NN irritation|NN meninge|NN brain|NN patient|NN meningitis|DS encephalitis|DS cause|NN virus|NN article|NN encephalitis|DS encephalitis|DS 
+encephalitis|DS effect|NN infection|NN sequelae|NN infection|NN 
+majority|NN case|NN encephalitis|DS cause|NN cause|NN encephalitis|DS herpe|NN simplex|NN infection|NN cause|NN encephalitis|DS raby|NN virus|NN poliovirus|NN measle|NN virus|NN 
+cause|NN st|NN 
+louis|NN encephalitis|DS west_nile_virus|DS la|NN crosse|NN strain|NN choriomeningitis|NN virus|NN colorado|NN tick|NN virus|NN henipavirus|NN infection|NN virus|NN cause|NN encephalitis|DS 
+infection|NN meningitis|DS complication|NN disease|NN syphilis|DS secondary|NN encephalitis|DS 
+infestation|NN toxoplasmosis|DS malaria|DS amoebic|NN encephalitis|DS encephalitis|DS people|NN system|NN 
+lyme_disease|DS henselae|NN encephalitis|DS 
+pathogen|NN mycoplasma|NN disease|NN cause|NN inflammation|NN meninge|NN encephalitis|DS 
+cause|NN encephalitis|DS encephalitis|DS article|NN encephalitis|DS 
+encephalitis|DS disease|NN system|NN brain|NN 
+presentation|NN disorientation|NN memory|NN loss|NN seizure|NN anomaly|NN 
+image|NN structure|NN lobe|NN case|NN structure|NN 
+case|NN encephalitis|DS autoimmune|NN origin|NN encephalitis|DS article|NN encephalitis|DS 
+encephalitis|DS sign|NN psychosis|DS movement|NN dysregulation|NN 
+anti-n-methyl-d-aspartate-receptor|NN encephalitis|DS rasmussen|NN encephalitis|DS example|NN autoimmune|NN encephalitis|DS receptor|NN encephalitis|DS autoimmune|NN form|NN teratoma|DS percent|NN women|NN year|NN age|NN encephalitis|DS article|NN encephalitis|DS 
+encephalitis|DS fever|ST headache|ST response|NN lethargy|NN 
+individual|NN body|NN weakness|ST pain|ST tremor|ST cause|NN encephalitis_lethargica|DS 
+epidemic_encephalitis|DS lethargica|NN diagnosis|NN tap|NN 
+people|NN encephalitis|DS level|NN consciousness|NN lethargy|NN personality|NN change|NN hour|NN cause|NN encephalitis|DS variety|NN test|NN 
+brain|NN scan|NN mry|NN inflammation|NN cause|NN 
+eeg|NN monitor|NN brain|NN activity|NN encephalitis|DS signal|NN 
+puncture|NN tap|NN help|NN test|NN fluid|NN lumbar|NN region|NN 
+blood|NN test|NN urine|NN analysis|NN chain|NN reaction|NN pcr|NN test|NN fluid|NN presence|NN dna|NN sign|NN encephalitis|DS 
+vaccination|NN tick-borne_encephalitis|DS individual|NN 
+smallpox|DS vaccination|NN intent|NN purpose|NN smallpox|DS immunization|NN patient|NN encephalitis|DS treatment|NN 
+treatment|NN care|NN 
+medication|NN virus|NN cause|NN antibiotics|NN bacteria|NN cause|NN brain|NN swell|NN restlessness|NN fever|ST therapy|NN brain|NN 
+maintenance|NN therapy|NN encephalitis|DS te|NN gondiy|NN people|NN system|NN use|NN antiretroviral|NN therapy|NN conjunction|NN pyrimethamine-base|NN maintenance|NN therapy|NN chance|NN relapse|NN patient|NN hiv|DS difference|NN relapse|NN severity|NN prognosis|NN disease|NN result|NN increase|NN healthcare|NN expenditure|NN 
+identification|NN factor|NN edema|ST status|NN contrast|NN encephalogram|NN stage|NN diagnosis|NN rate|NN survival|NN epidemiology|NN encephalitis|DS death|NN person|NN 2012|NN 15-24|NN 
+number|NN case|NN year|NN encephalitis|DS country|NN case|NN people|NN year|NN 
+country|NN incidence|NN people|NN year|NN number|NN case|NN encephalitis|DS time|NN case|NN year|NN 
+people|NN encephalitis|DS time|NN encephalitis|DS people|NN death|NN herpes_simplex_encephalitis|DS incidence|NN population|NN year|NN terminology|NN 
+encephalitis|DS meningitis|DS encephalitis|DS encephalitis|DS involvement|NN cord|NN 
+word|NN enkphalo|NN brain|NN head|NN suffix|NN inflammation|NN 
+encephalitis|DS bickerstaff|NN encephalitis|DS la|NN crosse|NN encephalitis|DS encephalopathy|NN meningitis|DS virus|NN amoebic|NN encephalitis|DS world|NN encephalitis|DS day|NN 

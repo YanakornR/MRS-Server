@@ -1,0 +1,131 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN thalassemia|DS name|NN thalassemia|DS thalassemia|DS delta|NN beta|NN thalassemia|DS blood|NN film|NN person|NN delta|NN beta|NN thalassemia|DS pronunciation|NN 
+symptom|NN skin|NN spleen|NN skin|NN dark|NN urine|NN cause|NN disorder|NN method|NN blood|NN test|NN test|NN treatment|NN blood|NN transfusion|NN iron|NN acid|NN frequency|NN death|NN 
+thalassemia|DS blood|NN disorder|NN production|NN symptom|NN type|NN blood|NN cell|NN skin|NN bone|NN problem|NN spleen|NN skin|NN urine|NN growth|NN children|NN 
+thalassemia|DS disorder|NN person|NN parent|NN type|NN alpha|NN thalassemia|DS beta|NN thalassemia|DS severity|NN alpha|NN beta|NN thalassemia|DS gene|NN alpha|NN globin|NN gene|NN beta|NN globin|NN diagnosis|NN blood|NN test|NN blood|NN count|NN hemoglobin|NN test|NN test|NN diagnosis|NN birth|NN test|NN 
+treatment|NN type|NN severity|NN treatment|NN disease|NN blood|NN transfusion|NN iron|NN acid|NN iron|NN deferoxamine|NN bone|NN marrow|NN transplant|NN option|NN complication|NN iron_overload|DS transfusion|NN heart|NN liver|NN disease|NN infection|NN osteoporosis|DS spleen|NN removal|NN 
+thalassemia|DS people|NN disease|NN people|NN south|NN descent|NN male|NN female|NN rate|NN disease|NN death|NN death|NN degree|NN thalassemia|DS trait|NN protection|NN malaria|DS region|NN world|NN malaria|DS content|NN 
+sign|NN symptom|NN cause|NN evolution|NN thalassemia|DS thalassemia|DS thalassemia|DS combination|NN diagnosis|NN prevention|NN management|NN iron_overload|DS bone|NN marrow|NN transplantation|NN epidemiology|NN synonym|NN society|NN culture|NN research|NN gene|NN therapy|NN induction|NN reference|NN link|NN 
+sign|NN symptom|NN hand|NN person|NN anemia|DS hand|NN 
+iron_overload|DS people|NN thalassemia|DS overload|NN iron|NN body|NN disease|NN blood|NN transfusion|NN 
+iron|NN damage|NN heart|NN liver|NN system|NN gland|NN hormone|NN process|NN body|NN 
+damage|NN deposit|NN iron|NN 
+iron|NN therapy|NN patient|NN thalassemia|DS iron|NN level|NN infection|NN people|NN thalassemia|DS risk|NN infection|NN 
+spleen|NN bone|NN deformity|ST thalassemia|DS bone|NN marrow|NN bone|NN 
+bone|NN structure|NN face|NN skull|NN 
+bone|NN marrow|NN expansion|NN bone|NN risk|NN bone|NN spleen|NN spleen|NN aid|NN fight|NN infection|NN filter|NN material|NN blood|NN cell|NN 
+thalassemia|DS destruction|NN number|NN blood|NN cell|NN task|NN cell|NN spleen|NN 
+life|NN blood|NN cell|NN 
+enlargement|NN spleen|NN removal|NN growth|NN rate|NN growth|NN 
+children|NN thalassemia|DS heart|NN problem|NN disease|NN heart|NN failure|NN heart|NN rhythm|NN thalassemia|DS 
+cause|NN thalassemia|DS pattern|NN inheritance|NN 
+thalassemia|DS manner|NN 
+thalassemia|DS family|NN deletion|NN bp|NN exon|NN insertion|NN bp|NN 
+form|NN disease|NN parent|NN carrier|NN child|NN 
+parent|NN trait|NN risk|NN pregnancy|NN child|NN 
+variant|NN thalassemia|DS malaria|DS advantage|NN 
+people|NN carrier|NN 
+thalassemia|DS protection|NN heart|NN disease|NN 
+majority|NN adult|NN hba|NN protein|NN chain|NN 
+globin|NN chain|NN heterotetramer|NN 
+thalassemia|DS patient|NN defect|NN 
+globin|NN chain|NN production|NN blood|NN cell|NN disease|NN mutation|NN 
+thalassemia|DS chain|NN molecule|NN 
+thalassemia|DS production|NN 
+globin|NN chain|NN 
+thalassemia|DS production|NN 
+globin|NN chain|NN 
+globin|NN chain|NN gene|NN chromosome|NN 
+globin|NN chain|NN gene|NN chromosome|NN person|NN copy|NN chromosome|NN locy|NN 
+chain|NN locy|NN 
+locy|NN prevalence|NN people|NN descent|NN 
+thalassemia|DS african|NN greek|NN italian|NN 
+thalassemia|DS article|NN thalassemia|DS 
+thalassemia|DS gene|NN fashion|NN 
+gene|NN locy|NN allele|NN 
+deletion|NN 16p|NN chromosome|NN 
+thalassemia|DS result|NN production|NN alpha-globin|NN chain|NN excess|NN 
+chain|NN adult|NN 
+chain|NN tetramer|NN h|NN hbh|NN beta|NN chain|NN oxygen|NN dissociation|NN curve|NN 
+alpha|NN thalassemia|DS people|NN southeast|NN asia|NN east|NN china|NN descent|NN thalassemia|DS article|NN thalassemia|DS 
+beta|NN thalassemia|DS mutation|NN gene|NN chromosome|NN fashion|NN 
+severity|NN disease|NN nature|NN mutation|NN presence|NN mutation|NN allele|NN 
+function|NN protein|NN function|NN quantity|NN 
+function|NN protein|NN 
+situation|NN allele|NN picture|NN 
+thalassemia|DS thalassemia|DS cooley|NN anemia|DS 
+chain|NN hemoglobin|NN 
+form|NN hemoglobin|NN 
+thalassemia_minor|DS 
+globin|NN allele|NN mutation|NN 
+chain|NN production|NN patient|NN 
+beta|NN thalassemia|DS people|NN origin|NN 
+extent|NN asian|NN american|NN thalassemia|DS article|NN thalassemia|DS 
+alpha|NN beta|NN chain|NN hemoglobin|NN adult|NN hemoglobin|NN alpha|NN delta|NN chain|NN 
+beta|NN thalassemia|DS mutation|NN ability|NN gene|NN delta|NN chain|NN 
+citation|NN combination|NN 
+thalassemia|DS hemoglobinopathy|DS 
+hemoglobin|NN e|NN thalassemia|DS common|NN cambodia|NN thailand|NN part|NN india|NN 
+thalassemia|DS thalassemia|DS intermedia|NN 
+citation|NN s|NN thalassemia|DS population|NN anemia|DS feature|NN 
+citation|NN c|NN thalassemia|DS population|NN c|NN 
+thalassemia|DS hemolytic|NN splenomegaly|DS hemoglobin|NN c|NN 
+thalassemia|DS disease|NN 
+citation|NN d|NN thalassemia|DS part|NN india|NN pakistan|NN punjab|NN region|NN 
+thalassemia|DS blood|NN count|NN electrophoresis|NN dna|NN test|NN prevention|NN 
+college|NN obstetrician|NN people|NN think|NN thalassemia|DS counsel|NN test|NN family|NN thalassemia|DS trait|NN 
+screen|NN policy|NN cyprus|NN rate|NN thalassemia|DS program|NN implementation|NN screen|NN abortion|NN number|NN children|NN disease|NN birth|NN greece|NN screen|NN program|NN people|NN carrier|NN 
+iran|NN screen|NN mans|NN red|NN cell|NN indice|NN cell|NN pg|NN cell|NN volume|NN fl|NN woman|NN 
+hemoglobin|NN concentration|NN 
+concentration|NN thalassemia|DS trait|NN health|NN post|NN counsel|NN 
+scale|NN awareness|NN campaign|NN india|NN government|NN organization|NN favor|NN screen|NN carrier|NN thalassemia|DS marriage|NN carrier|NN 
+management|NN article|NN management|NN thalassemia|DS 
+thalassemia|DS people|NN thalassemia|DS trait|NN care|NN diagnosis|NN people|NN 
+thalassemia|DS trait|NN condition|NN iron_deficiency|DS 
+routine|NN use|NN iron|NN supplement|NN iron_deficiency|DS pregnancy|NN counsel|NN person|NN disorder|NN family|NN risk|NN form|NN disease|NN 
+people|NN thalassemia|DS treatment|NN 
+blood|NN transfusion|NN regimen|NN measure|NN life|NN iron_overload|DS 
+blood|NN transfusion|NN iron_overload|DS 
+iron_overload|DS thalassemia|DS therapy|NN medication|NN deferiprone|NN treatment|NN life|NN expectancy|NN thalassemia|DS 
+injection|NN use|NN 
+benefit|NN safety|NN 
+effect|NN skin|NN reaction|NN injection|NN site|NN hear|NN loss|NN 
+benefit|NN medication|NN 
+side|NN effect|NN nausea|ST vomit|NN diarrhea|ST 
+issue|NN iron_overload|DS 
+medication|NN mouth|NN 
+nausea|ST vomit|NN use|NN europe|NN united|NN states|NN agent|NN heart|NN 
+evidence|NN trial|NN support|NN zinc|NN supplementation|NN thalassemia|DS bone|NN marrow|NN transplantation|NN 
+bone|NN marrow|NN transplantation|NN possibility|NN cure|NN people|NN donor|NN success|NN rate|NN range|NN mortality|NN procedure|NN trial|NN safety|NN efficacy|NN donor|NN bone|NN marrow|NN transplantation|NN person|NN 
+thalassemia|DS blood|NN transfusion|NN 
+person|NN donor|NN method|NN bone|NN marrow|NN transplantation|NN mother|NN child|NN donor|NN 
+study|NN people|NN thalassemia|DS survival|NN rate|NN rejection|NN mortality|NN 
+result|NN people|NN epidemiology|NN 
+beta|NN form|NN thalassemia|DS people|NN association|NN name|NN thalassemia|DS death|NN death|NN 
+europe|NN concentration|NN disease|NN greece|NN region|NN turkey|NN aegean|NN region|NN aydin|NN region|NN adana|NN mersin|NN part|NN italy|NN italy|NN po|NN valley|NN 
+island|NN balearics|NN sicily|NN sardinia|NN malta|NN corsica|NN cyprus|NN crete|NN 
+people|NN vicinity|NN rate|NN thalassemia|DS people|NN west|NN asia|NN north|NN africa|NN 
+south|NN asian|NN world|NN concentration|NN carrier|NN population|NN maldives|NN 
+population|NN africa|NN americas|NN people|NN region|NN nepal|NN india|NN account|NN malaria|DS death|NN account|NN ability|NN tharus|NN area|NN malaria|DS infestation|NN 
+thalassemia|DS people|NN origin|NN arab|NN palestinian|NN people|NN descent|NN asian|NN maldives|NN incidence|NN thalassemia|DS world|NN carrier|NN rate|NN population|NN 
+prevalence|NN people|NN cyprus|NN thailand|NN population|NN bangladesh|NN china|NN india|NN malaysia|NN pakistan|NN 
+thalassemia|DS descendant|NN people|NN country|NN 
+greece|NN italy|NN spain|NN america|NN 
+estimate|NN population|NN people|NN 
+thalassemia|DS carrier|NN data|NN carrier|NN rate|NN population|NN area|NN world|NN prevalence|NN disease|NN country|NN knowledge|NN thalassemia|DS access|NN treatment|NN diagnosis|NN treatment|NN facility|NN country|NN case|NN government|NN service|NN patient|NN 
+population|NN access|NN facility|NN blood|NN transfusion|NN 
+country|NN facility|NN diagnosis|NN management|NN thalassemia|DS synonym|NN 
+word|NN thalassemia|DS 
+sea|NN -emia|NN haema|NN 
+condition|NN thalassemia|DS people|NN ethnicity|NN 
+thalassemia|DS thalassemia|DS genetics|NN 
+word|NN thalassemia|DS society|NN culture|NN 
+2008|NN spain|NN baby|NN cure|NN brother|NN thalassemia|DS 
+child|NN embryo|NN disease|NN implantation|NN fertilization|NN 
+supply|NN cord|NN blood|NN transplantation|NN brother|NN 
+transplantation|NN group|NN doctor|NN specialist|NN chennay|NN treatment|NN thalassemia|DS child|NN sible|NN cord|NN blood|NN research|NN gene|NN therapy|NN 
+gene|NN therapy|NN thalassemia|DS procedure|NN stem|NN cell|NN person|NN blood|NN 
+hscs|NN gene|NN vector|NN 
+person|NN bone|NN marrow|NN dose|NN chemotherapy|NN condition|NN regimen|NN hscs|NN person|NN bone|NN marrow|NN 
+result|NN increase|NN synthesis|NN blood|NN cell|NN resolution|NN anemia|DS 
+person|NN beta|NN thalassemia|DS blood|NN transfusion|NN treatment|NN research|NN trial|NN treatment|NN induction|NN 
+induction|NN attempt|NN globin|NN gene|NN transcription|NN effort|NN globin|NN gene|NN promoter|NN 

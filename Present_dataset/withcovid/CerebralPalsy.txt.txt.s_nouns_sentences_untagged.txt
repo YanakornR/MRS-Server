@@ -1,0 +1,267 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN cerebral_palsy|DS uss|NN team|NN treat|NN patient|NN district|NN health|NN facility|NN child|NN cerebral_palsy|DS specialty|NN neurology|NN symptom|NN coordination|NN muscle|NN muscle|NN tremor|ST complication|NN disability|NN onset|NN childhood|NN duration|NN cause|NN risk|NN factor|NN birth|NN infection|NN pregnancy|NN delivery|NN method|NN development|NN treatment|NN therapy|NN therapy|NN speech|NN therapy|NN brace|NN surgery|NN baclofen|NN toxin|NN frequency|NN 
+cerebral_palsy|DS cerebral_palsy|DS group|NN movement|NN disorder|NN childhood|NN sign|NN symptom|NN people|NN time|NN symptom|NN coordination|NN muscle|NN muscle|NN tremor|ST problem|NN sensation|NN vision|NN hear|NN swallow|NN baby|NN cerebral_palsy|DS sit|NN crawl|NN walk|NN children|NN age|NN symptom|NN seizure|NN problem|NN think|NN reason|NN people|NN cerebral_palsy|DS symptom|NN year|NN life|NN problem|NN time|NN 
+cerebral_palsy|DS development|NN damage|NN part|NN brain|NN control|NN movement|NN balance|NN posture|NN problem|NN pregnancy|NN childbirth|NN birth|NN cause|NN risk|NN factor|NN preterm|NN birth|NN infection|NN pregnancy|NN toxoplasmosis|DS rubella|DS exposure|NN methylmercury|NN pregnancy|NN delivery|NN head|NN trauma|NN year|NN life|NN case|NN cause|NN number|NN sub-type|NN problem|NN example|NN muscle|NN cerebral_palsy|DS coordination|NN cerebral_palsy|DS movement|NN cerebral_palsy|DS diagnosis|NN development|NN time|NN blood|NN test|NN image|NN rule|NN cause|NN 
+cerebral_palsy|DS immunization|NN mother|NN effort|NN head|NN injury|NN children|NN safety|NN cure|NN cerebral_palsy|DS treatment|NN medication|NN surgery|NN individual|NN therapy|NN therapy|NN speech|NN therapy|NN diazepam|NN toxin|NN muscle|NN surgery|NN muscle|NN nerve|NN brace|NN assistive|NN technology|NN children|NN adult|NN live|NN treatment|NN medicine|NN evidence|NN use|NN 
+cerebral_palsy|DS movement|NN disorder|NN children|NN birth|NN cerebral_palsy|DS history|NN description|NN work|NN hippocrate|NN century|NN bce|NN study|NN condition|NN century|NN william|NN john|NN little|NN diplegia|NN disease|NN william|NN osler|NN cerebral_palsy|DS zerebrale|NN child-paralysis|NN number|NN treatment|NN stem|NN cell|NN therapy|NN research|NN content|NN 
+sign|NN symptom|NN skeleton|NN eate|NN language|NN pain|ST sleep_disorder|DS cause|NN birth|NN term|NN infant|NN genetics|NN childhood|NN diagnosis|NN classification|NN prevention|NN management|NN productivity|NN leisure|NN participation|NN barrier|NN epidemiology|NN history|NN society|NN culture|NN impact|NN use|NN term|NN media|NN case|NN litigation|NN reference|NN link|NN 
+sign|NN symptom|NN 
+cerebral_palsy|DS group|NN disorder|NN development|NN movement|NN posture|NN activity|NN limitation|NN disturbance|NN infant|NN brain|NN 
+movement|NN problem|NN feature|NN cerebral_palsy|DS difficulty|NN think|NN learn|NN feel|NN communication|NN behavior|NN epilepsy|DS difficulty|NN communication|NN problem|NN vision|NN 2356|NN learn|NN disability|NN muscle|NN contraction|NN people|NN cerebral_palsy|DS 
+cerebral_palsy|DS muscle|NN tone|NN reflexe|NN motor|NN development|NN coordination|NN 
+lesion|NN manifestation|NN 
+cerebral_palsy|DS growth|NN unit|NN bone|NN bone|NN deformity|ST 
+time|NN deformity|ST contracture|NN 
+deformity|ST contracture|NN cause|NN gait|NN difficulty|NN form|NN gait|NN tightness|NN achille|NN tendon|NN gait|NN tightness|NN hip|NN 
+gait|NN pattern|NN gait|NN abnormality|NN children|NN cerebral_palsy|DS 
+manifestation|NN cerebral_palsy|DS effect|NN cerebral_palsy|DS fall|NN continuum|NN motor|NN dysfunction|NN clumsiness|NN end|NN spectrum|NN impairment|NN movement|NN end|NN spectrum|NN 
+citation|NN people|NN cerebral_palsy|DS problem|NN muscle|NN tone|NN muscle|NN tone|NN 
+muscle|NN tone|NN spasticity|NN dystonia|DS 
+baby|NN cerebral_palsy|DS posture|NN body|NN 
+birth|NN defect|NN curvature|NN jawbone|NN head|NN cerebral_palsy|DS 
+symptom|NN child|NN 
+baby|NN cerebral_palsy|DS symptom|NN cerebral_palsy|DS baby|NN stage|NN month|NN use|NN limb|NN asymmetry|NN motor|NN delay|NN 
+children|NN cerebral_palsy|DS variety|NN impact|NN rejection|NN speak|NN damage|NN cloth|NN book|NN mouth|NN infection|NN 
+average|NN people|NN cerebral_palsy|DS experience|NN tract|NN symptom|NN storage|NN issue|NN issue|NN 
+issue|NN floor|NN adult|NN experience|NN tract|NN dysfunction|NN 
+children|NN cerebral_palsy|DS process|NN issue|NN adult|NN cerebral_palsy|DS risk|NN failure|NN skeleton|NN 
+bone|NN shape|NN size|NN stress|NN musculature|NN people|NN cerebral_palsy|DS risk|NN bone|NN mineral|NN density|NN shaft|NN bone|NN growth|NN 
+shaft|NN centre|NN balloon|NN 
+citation|NN compression|NN imbalance|NN cartilage|NN space|NN 
+degree|NN spasticity|NN person|NN cerebral_palsy|DS variety|NN deformity|ST 
+body|NN load|NN force|NN spasticity|NN gait|NN bone|NN development|NN 
+people|NN cerebral_palsy|DS height|NN person|NN bone|NN potential|NN 
+bone|NN length|NN person|NN leg|NN 
+children|NN cerebral_palsy|DS trauma|NN fracture|NN children|NN level|NN walk|NN 
+mobility|NN strength|NN experience|NN pain|ST school|NN child|NN abuse|NN suspicion|NN children|NN fracture|NN leg|NN children|NN fracture|NN arm|NN context|NN activity|NN 
+hip_dislocation|DS ankle|NN planter|NN deformity|ST deformity|ST children|NN cerebral_palsy|DS 
+deformity|ST hip|NN knee|NN 
+deformity|ST bone|NN femur|NN tibia|NN children|NN age|NN prevalence|NN scoliosis|DS children|NN cerebral_palsy|DS level|NN impairment|NN gmfcs|NN scoliosis|DS hip_dislocation|DS surgery|NN cerebral_palsy|DS complication|NN technique|NN hip|NN migration|NN tissue|NN procedure|NN musculature|NN release|NN 
+degree|NN hip|NN migration|NN dislocation|NN procedure|NN corrective|NN 
+tissue|NN procedure|NN aim|NN prevention|NN hip_dislocation|DS phase|NN aim|NN hip|NN containment|NN restoration|NN anatomy|NN phase|NN disease|NN deformity|ST method|NN 
+deformity|ST surgery|NN 
+growth|NN spurt|NN puberty|NN eate|NN 
+impairment|NN cerebral_palsy|DS difficulty|NN food|NN hold|NN utensil|NN chew|NN 
+infant|NN cerebral_palsy|DS swallow|NN reflux|NN children|NN cerebral_palsy|DS children|NN cerebral_palsy|DS sensitivity|NN mouth|NN balance|NN lack|NN control|NN head|NN mouth|NN trunk|NN hip|NN arm|NN food|NN utensil|NN lack|NN coordination|NN feed|NN difficulty|NN level|NN problem|NN difficulty|NN eate|NN pneumonia|DS eate|NN difficulty|NN aspiration|NN food|NN liquid|NN finger|NN dexterity|NN utensil|NN dexterity|NN food|NN source|NN grip|NN strength|NN impairment|NN source|NN 
+children|NN cerebral_palsy|DS issue|NN risk|NN skin|NN fold|NN test|NN indicator|NN malnutrition|NN children|NN cerebral_palsy|DS language|NN 
+speech|NN language_disorder|DS people|NN cerebral_palsy|DS 
+incidence|NN dysarthria|ST range|NN quarter|NN people|NN cerebral_palsy|DS speech|NN problem|NN control|NN dysfunction|NN articulation|NN disorder|NN movement|NN muscle|NN 
+type|NN dysarthria|ST cerebral_palsy|DS dyskinetic|NN 
+use|NN augmentative|NN communication|NN system|NN child|NN language|NN skill|NN language|NN delay|NN problem|NN cognition|NN deafness|DS helplessness|NN children|NN cerebral_palsy|DS risk|NN helplessness|NN communicator|NN communication|NN intervention|NN clientele|NN parent|NN target|NN situation|NN children|NN people|NN object|NN environment|NN communication|NN choice|NN decision|NN mistake|NN pain|ST sleep|NN 
+pain|ST deficit|NN condition|NN procedure|NN children|NN face|NN children|NN cerebral_palsy|DS pain|ST muscle|NN spasm|NN pain|ST muscle|NN posture|NN joint|NN 
+hip|NN migration|NN dislocation|NN source|NN pain|ST cerebral_palsy|DS children|NN population|NN 
+score|NN scale|NN pain|ST cerebral_palsy|DS children|NN pain|ST cerebral_palsy|DS number|NN cause|NN pain|ST treatment|NN 
+likelihood|NN sleep_disorder|DS factor|NN children|NN cerebral_palsy|DS rate|NN sleep|NN disturbance|NN children|NN baby|NN cerebral_palsy|DS stiffness|NN issue|NN sleep|NN baby|NN baby|NN pain|ST children|NN cerebral_palsy|DS children|NN cerebral_palsy|DS experience|NN pain|ST disorder|NN 
+disorder|NN disability|NN seizure|NN muscle|NN gait|NN osteoporosis|DS communication_disorder|DS malnutrition|NN sleep_disorder|DS health|NN disorder|NN depression|ST anxiety|ST addition|NN abnormality|NN bowel|NN obstruction|NN vomit|NN constipation|ST 
+adult|NN cerebral_palsy|DS heart|NN disease|NN disease|NN cancer|DS trauma|NN obesity|NN people|NN cerebral_palsy|DS motor|NN function|NN classification|NN system|NN assessment|NN risk|NN factor|NN issue|NN symptom|NN cerebral_palsy|DS 
+condition|NN apraxia|DS communication_disorder|DS impairment|NN incontinence|NN incontinence|NN disorder|NN 
+management|NN people|NN cerebral_palsy|DS seizure|NN 
+disorder|NN cerebral_palsy|DS motor|NN function|NN problem|NN cause|NN caption|NN vein|NN thrombosis|NN case|NN thrombotic|NN 
+cerebral_palsy|DS state|NN cause|NN 
+cerebral_palsy|DS development|NN damage|NN brain|NN damage|NN pregnancy|NN delivery|NN month|NN life|NN childhood|NN problem|NN brain|NN case|NN matter|NN case|NN result|NN issue|NN pregnancy|NN children|NN cerebral_palsy|DS risk|NN factor|NN cerebral_palsy|DS 
+case|NN cause|NN cause|NN problem|NN development|NN exposure|NN radiation|NN infection|NN growth|NN restriction|NN hypoxia|NN brain|NN event|NN condition|NN birth|NN trauma|NN labor|NN delivery|NN complication|NN birth|NN childhood|NN 
+africa|NN birth|NN asphyxia|NN bilirubin|NN level|NN infection|NN newborn|NN system|NN cause|NN 
+case|NN cerebral_palsy|DS africa|NN resource|NN birth|NN 
+children|NN cerebral_palsy|DS case|NN issue|NN time|NN birth|NN birth|NN infant|NN infant|NN cerebral_palsy|DS birth|NN weight|NN 
+weight|NN kg|NN kg|NN cerebral_palsy|DS week|NN gestation|NN factor|NN role|NN prematurity|NN cerebral_palsy|DS week|NN risk|NN time|NN term|NN infant|NN 
+baby|NN term|NN risk|NN factor|NN problem|NN placenta|NN birth|NN defect|NN birth|NN weight|NN breath|NN lung|NN delivery|NN use|NN instrument|NN emergency|NN caesarean|NN section|NN birth|NN asphyxia|NN seizure|NN birth|NN distress|NN syndrome|NN blood|NN sugar|NN infection|NN baby|NN 
+role|NN birth|NN asphyxia|NN cause|NN size|NN placenta|NN role|NN country|NN case|NN cerebral_palsy|DS term|NN near-term|NN neonate|NN explanation|NN asphyxia|NN genetics|NN inheritance|NN pattern|NN 
+cerebral_palsy|DS case|NN glutamate|NN enzyme|NN case|NN childhood|NN 
+birth|NN cause|NN toxin|NN jaundice|ST lead|NN poison|NN brain|NN injury|NN stroke|NN head|NN trauma|NN incident|NN hypoxia|NN brain|NN drown|NN encephalitis|DS meningitis|DS 
+mother|NN risk|NN child|NN cerebral_palsy|DS infection|NN membrane|NN increase|NN risk|NN 
+insult|NN increase|NN risk|NN 
+case|NN cerebral_palsy|DS death|NN pregnancy|NN twin|NN 
+blood|NN type|NN incompatibility|NN mother|NN system|NN blood|NN cell|NN diagnosis|NN 
+diagnosis|NN cerebral_palsy|DS person|NN history|NN examination|NN 
+movement|NN assessment|NN movement|NN month|NN age|NN children|NN 
+muscle|NN tone|NN motor|NN development|NN persistence|NN reflexe|NN symptom|NN cerebral_palsy|DS symptom|NN diagnosis|NN age|NN person|NN form|NN cerebral_palsy|DS age|NN adulthood|NN diagnosis|NN intervention|NN part|NN cerebral_palsy|DS disability|NN 
+person|NN cerebral_palsy|DS test|NN 
+ct|NN mry|NN cause|NN person|NN cerebral_palsy|DS 
+mry|NN ct|NN yield|NN safety|NN 
+study|NN time|NN damage|NN 
+ct|NN mry|NN condition|NN porencephaly|DS malformation|NN subdural|NN tumour|NN study|NN time|NN 
+neuroimage|NN study|NN likelihood|NN condition|NN epilepsy|DS disability|NN risk|NN children|NN mry|NN 
+age|NN cerebral_palsy|DS professional|NN age|NN diagnosis|NN cerebral_palsy|DS opportunity|NN child|NN help|NN chance|NN cerebral_palsy|DS problem|NN child|NN month|NN age|NN infant|NN problem|NN muscle|NN tone|NN control|NN cerebral_palsy|DS metabolism|NN disorder|NN tumor|NN system|NN cerebral_palsy|DS disorder|NN brain|NN problem|NN cerebral_palsy|DS disorder|NN matter|NN brain|NN problem|NN cause|NN spasm|NN weakness|ST leg|NN cerebral_palsy|DS life|NN disorder|NN time|NN cerebral_palsy|DS character|NN infancy|NN difference|NN uk|NN age|NN month|NN sign|NN syndrome|NN cause|NN autism|DS disability|NN disability|NN cerebral_palsy|DS specialist|NN john|NN mclaughlin|NN wait|NN child|NN month|NN age|NN diagnosis|NN age|NN motor|NN capacity|NN classification|NN 
+cerebral_palsy|DS type|NN motor|NN impairment|NN limb|NN organ|NN restriction|NN activity|NN person|NN motor|NN function|NN classification|NN ability|NN classification|NN system|NN mobility|NN dexterity|NN people|NN cerebral_palsy|DS communication|NN function|NN classification|NN system|NN eate|NN drink|NN ability|NN classification|NN system|NN function|NN cerebral_palsy|DS classification|NN motor|NN impairment|NN spastic|NN 
+type|NN combination|NN feature|NN type|NN 
+classification|NN area|NN brain|NN 
+cerebral_palsy|DS distribution|NN muscle|NN spasticity|NN method|NN children|NN involvement|NN leg|NN involvement|NN arm|NN involvement|NN involvement|NN involvement|NN arm|NN involvement|NN leg|NN involvement|NN article|NN cerebral_palsy|DS 
+cerebral_palsy|DS cerebral_palsy|DS spasticity|NN muscle|NN tightness|NN impairment|NN present|NN type|NN cerebral_palsy|DS case|NN people|NN type|NN cerebral_palsy|DS mobility|NN impairment|NN paralysis|ST stem|NN motor|NN neuron|NN lesion|NN brain|NN tract|NN motor|NN cortex|NN 
+damage|NN ability|NN nerve|NN receptor|NN spine|NN acid|NN muscle|NN nerve|NN 
+type|NN cerebral_palsy|DS mobility|NN disability|NN cerebral_palsy|DS person|NN treatment|NN multitude|NN orthopedic|NN front|NN life|NN 
+form|NN cerebral_palsy|DS clonus|NN limb|NN muscle|NN spasm|NN pain|ST stress|NN tightness|NN 
+spasticity|NN onset|NN muscle|NN stress|NN symptom|NN arthritis|DS individual|NN mid-20|NN early-30|NN 
+therapy|NN therapy|NN regimen|NN stretch|NN task|NN activity|NN exercise|NN way|NN cerebral_palsy|DS 
+spasticity|NN person|NN remedy|NN medication|NN toxin|NN neurosurgery|NN rhizotomy|NN spasticity|NN response|NN nerve|NN 
+citation|NN toxin|NN spasticity|NN 
+increase|NN range|NN motion|NN cerebral_palsy|DS effect|NN bone|NN children|NN 
+improvement|NN motor|NN function|NN children|NN ability|NN article|NN cerebral_palsy|DS 
+cerebral_palsy|DS case|NN cerebral_palsy|DS make|NN form|NN cerebral_palsy|DS cerebral_palsy|DS damage|NN structure|NN damage|NN cerebellum|NN muscle|NN movement|NN balance|NN patient|NN cerebral_palsy|DS experience|NN problem|NN coordination|NN arm|NN leg|NN trunk|NN 
+cerebral_palsy|DS decrease|NN muscle|NN tone|NN manifestation|NN cerebral_palsy|DS intention|NN action|NN tremor|ST movement|NN shoe|NN lace|NN write|NN pencil|NN 
+symptom|NN movement|NN hand|NN shake|NN 
+hand|NN task|NN tremble|NN article|NN cerebral_palsy|DS 
+cerebral_palsy|DS dyskinetic|NN cerebral_palsy|DS ad|NN cerebral_palsy|DS damage|NN ganglia|NN nigra|NN form|NN lesion|NN brain|NN development|NN bilirubin|NN encephalopathy|NN brain|NN injury|NN cerebral_palsy|DS hypertonia|NN due|NN individual|NN inability|NN control|NN muscle|NN tone|NN diagnosis|NN ad|NN cerebral_palsy|DS month|NN birth|NN motor|NN function|NN neuroimage|NN technique|NN cerebral_palsy|DS non-spastic|NN form|NN cerebral_palsy|DS cerebral_palsy|DS group|NN cerebral_palsy|DS movement|NN face|NN extremity|NN cerebral_palsy|DS contraction|NN body|NN 
+cerebral_palsy|DS symptom|NN athetoid|NN cerebral_palsy|DS degree|NN symptom|NN 
+cerebral_palsy|DS symptom|NN development|NN lifespan|NN 
+citation|NN prevention|NN 
+cause|NN cerebral_palsy|DS range|NN intervention|NN 
+monitor|NN cerebral_palsy|DS college|NN obstetrician|NN australian|NN new|NN zealand|NN college|NN obstetrician|NN gynaecologist|NN society|NN obstetrician|NN gynaecologist|NN canada|NN benefit|NN monitor|NN monitor|NN litigation|NN 
+risk|NN delivery|NN magnesium|NN sulphate|NN risk|NN cerebral_palsy|DS term|NN risk|NN preterm|NN labor|NN review|NN cerebral_palsy|DS administration|NN magnesium|NN sulphate|NN effect|NN baby|NN magnesium|NN sulphate|NN 
+mother|NN magnesium|NN sulphate|NN side|NN effect|NN depression|ST nausea|ST guideline|NN use|NN magnesium|NN mother|NN risk|NN preterm|NN labour|NN caffeine|NN prematurity|NN risk|NN cerebral_palsy|DS baby|NN concern|NN term|NN effect|NN quality|NN level|NN evidence|NN women|NN antibiotics|NN preterm|NN labor|NN membrane|NN water|NN risk|NN cerebral_palsy|DS child|NN preterm|NN baby|NN chance|NN compromise|NN birth|NN birth|NN risk|NN cerebral_palsy|DS child|NN women|NN preterm|NN birth|NN baby|NN corticosteroid|NN pregnancy|NN correlation|NN cerebral_palsy|DS preterm|NN birth|NN 
+baby|NN birth|NN disability|NN form|NN brain|NN damage|NN cerebral_palsy|DS management|NN girl|NN leg|NN brace|NN walk|NN woman|NN gym|NN treadmil|NN background|NN 
+researcher|NN stimulation|NN device|NN children|NN cerebral_palsy|DS foot|NN drop|NN 
+article|NN management|NN cerebral_palsy|DS 
+time|NN approach|NN cerebral_palsy|DS management|NN attempt|NN problem|NN spasticity|NN limb|NN treatment|NN part|NN goal|NN person|NN independence|NN community|NN childhood|NN therapy|NN gait|NN walk|NN 
+people|NN cerebral_palsy|DS aid|NN adulthood|NN evidence|NN base|NN effectiveness|NN intervention|NN program|NN philosophy|NN independence|NN intervention|NN body|NN structure|NN function|NN evidence|NN base|NN evidence|NN intervention|NN participation|NN environment|NN factor|NN evidence|NN intervention|NN level|NN improvement|NN activity|NN level|NN vice|NN cross-over|NN benefit|NN study|NN 
+cerebral_palsy|DS severity|NN complexity|NN lifespan|NN collection|NN condition|NN management|NN purpose|NN approach|NN cerebral_palsy|DS management|NN function|NN choice|NN independence|NN line|NN classification|NN disability|NN health|NN goal|NN team|NN paediatrician|NN health|NN visitor|NN worker|NN physiotherapist|NN orthotist|NN speech|NN language|NN therapist|NN therapist|NN teacher|NN children|NN impairment|NN psychologist|NN surgeon|NN neurologist|NN neurosurgeon|NN 
+form|NN therapy|NN people|NN cerebral_palsy|DS caregiver|NN parent|NN 
+treatment|NN therapy|NN therapy|NN speech|NN therapy|NN water|NN therapy|NN drug|NN control|NN seizure|NN pain|ST muscle|NN spasm|NN surgery|NN abnormality|NN release|NN muscle|NN brace|NN orthotic|NN device|NN walker|NN communication|NN aid|NN computer|NN voice|NN synthesiser|NN 
+citation|NN cochrane|NN review|NN trend|NN benefit|NN speech|NN language|NN therapy|NN children|NN cerebral_palsy|DS need|NN quality|NN research|NN review|NN therapy|NN cerebral_palsy|DS evidence|NN base|NN treatment|NN evidence|NN medication|NN toxin|NN diazepam|NN therapy|NN train|NN cast|NN movement|NN therapy|NN therapy|NN fitness|NN train|NN train|NN hip|NN surveillance|NN home|NN programme|NN therapy|NN toxin|NN pressure|NN care|NN surgery|NN 
+intervention|NN cerebral_palsy|DS children|NN surgery|NN rhizotomy|NN 
+cerebral_palsy|DS disorder|NN mean|NN brain|NN damage|NN symptom|NN time|NN 
+person|NN disorder|NN childhood|NN care|NN bone|NN musculature|NN orthopedic|NN surgery|NN 
+people|NN cerebral_palsy|DS degree|NN impairment|NN 
+potential|NN child|NN cerebral_palsy|DS child|NN school|NN 
+people|NN cerebral_palsy|DS learn|NN disorder|NN intelligence|NN 
+level|NN people|NN cerebral_palsy|DS genius|NN population|NN expert|NN capability|NN person|NN cerebral_palsy|DS opportunity|NN 
+ability|NN cerebral_palsy|DS severity|NN person|NN impairment|NN capability|NN person|NN logistics|NN life|NN 
+individual|NN cerebral_palsy|DS assistant|NN service|NN activity|NN live|NN 
+assistance|NN activity|NN assistance|NN 
+severity|NN person|NN impairment|NN person|NN ability|NN person|NN capacity|NN reality|NN life|NN 
+case|NN people|NN cerebral_palsy|DS recruit|NN hire|NN staff|NN care|NN assistant|NN 
+independence|NN employer|NN need|NN way|NN control|NN live|NN 
+adult|NN cerebral_palsy|DS 
+puberty|NN consequence|NN deficiency|NN evidence|NN cerebral_palsy|DS fertility|NN symptom|NN desire|NN performance|NN adult|NN cerebral_palsy|DS routine|NN health|NN screen|NN 
+examination|NN due|NN spasticity|NN equipment|NN 
+breast|NN self-examination|NN partner|NN carer|NN 
+women|NN cerebral_palsy|DS level|NN spasticity|NN incontinence|NN menstruation|NN study|NN 
+men|NN cerebral_palsy|DS level|NN cryptorchidism|NN age|NN 
+cerebral_palsy|DS person|NN life|NN expectancy|NN severity|NN condition|NN quality|NN care|NN children|NN cerebral_palsy|DS die|NN childhood|NN seizure|NN disability|NN child|NN ability|NN roll|NN self-fee|NN life|NN expectancy|NN lot|NN variation|NN cerebral_palsy|DS people|NN motor|NN ability|NN determinant|NN life|NN expectancy|NN bureau|NN statistics|NN 2014|NN australian|NN cerebral_palsy|DS cause|NN death|NN cerebral_palsy|DS cause|NN age|NN issue|NN disorder|NN 
+children|NN cerebral_palsy|DS parent|NN activity|NN 
+activity|NN dress|NN groom|NN children|NN cerebral_palsy|DS self-care|NN use|NN limb|NN live|NN cerebral_palsy|DS limb|NN function|NN children|NN factor|NN activity|NN participation|NN hand|NN task|NN impairment|NN hand|NN self-care|NN source|NN source|NN motor|NN impairment|NN problem|NN impairmentsnon-primary|NN source|NN impairment|NN finger|NN dexterity|NN ability|NN object|NN source|NN disability|NN people|NN cerebral_palsy|DS help|NN task|NN productivity|NN 
+effect|NN motor|NN impairment|NN occupation|NN children|NN cerebral_palsy|DS productivity|NN occupation|NN 
+productivity|NN school|NN work|NN household|NN chore|NN community|NN 
+play|NN occupation|NN activity|NN children|NN play|NN due|NN disability|NN cerebral_palsy|DS problem|NN child|NN difficulty|NN self-esteem|NN addition|NN problem|NN children|NN cerebral_palsy|DS affect|NN child|NN surround|NN environment|NN people|NN limitation|NN ability|NN limitation|NN child|NN playmate|NN play|NN activity|NN children|NN disability|NN time|NN disability|NN child|NN problem|NN dependence|NN motivation|NN skill|NN 
+school|NN student|NN task|NN activity|NN handwrit|NN 
+children|NN cerebral_palsy|DS capacity|NN school|NN environment|NN student|NN cerebral_palsy|DS handwrit|NN demand|NN school|NN write|NN addition|NN write|NN effort|NN student|NN part|NN factor|NN handwrit|NN stability|NN ability|NN hand|NN write|NN tool|NN pressure|NN 
+speech|NN impairment|NN children|NN cerebral_palsy|DS severity|NN brain|NN damage|NN communication|NN school|NN set|NN peer|NN teacher|NN part|NN school|NN experience|NN interaction|NN 
+problem|NN language|NN motor|NN dysfunction|NN student|NN intelligence|NN summary|NN children|NN cerebral_palsy|DS difficulty|NN school|NN difficulty|NN handwrit|NN school|NN activity|NN 
+leisure|NN activity|NN effect|NN health|NN health|NN life|NN satisfaction|NN growth|NN people|NN disability|NN cerebral_palsy|DS benefit|NN stress|NN reduction|NN development|NN cope|NN skill|NN companionship|NN enjoyment|NN relaxation|NN effect|NN life|NN satisfaction|NN addition|NN children|NN cerebral_palsy|DS leisure|NN adjustment|NN live|NN disability|NN 
+leisure|NN activity|NN children|NN teen|NN cerebral_palsy|DS activity|NN peer|NN children|NN cerebral_palsy|DS activity|NN therapy|NN cerebral_palsy|DS sport|NN people|NN disability|NN change|NN term|NN activity|NN children|NN cerebral_palsy|DS gender|NN manual|NN dexterity|NN preference|NN impairment|NN epilepsy|DS children|NN leisure|NN activity|NN dexterity|NN leisure|NN activity|NN leisure|NN children|NN cerebral_palsy|DS difficulty|NN leisure|NN activity|NN barrier|NN 
+children|NN cerebral_palsy|DS challenge|NN sport|NN 
+activity|NN limitation|NN condition|NN participation|NN barrier|NN 
+participation|NN involvement|NN life|NN situation|NN activity|NN participation|NN productivity|NN leisure|NN 
+fact|NN communication|NN mobility|NN education|NN home|NN life|NN leisure|NN relationship|NN participation|NN extent|NN children|NN function|NN environment|NN barrier|NN level|NN barrier|NN level|NN person|NN barrier|NN level|NN limitation|NN motor|NN impairment|NN feel|NN ability|NN example|NN child|NN group|NN activity|NN lack|NN confidence|NN 
+second|NN barrier|NN level|NN family|NN community|NN attitude|NN people|NN disability|NN lack|NN support|NN family|NN community|NN reason|NN support|NN result|NN lack|NN awareness|NN knowledge|NN ability|NN activity|NN disability|NN barrier|NN level|NN system|NN policy|NN place|NN children|NN cerebral_palsy|DS 
+barrier|NN participation|NN barrier|NN lack|NN assistive|NN technology|NN transportation|NN difficulty|NN wheelchair|NN access|NN transit|NN children|NN cerebral_palsy|DS example|NN build|NN elevator|NN child|NN floor|NN 
+review|NN outcome|NN adult|NN cerebral_palsy|DS disability|NN 2000|NN school|NN college|NN community|NN 25-55|NN term|NN relationship|NN partner|NN family|NN adult|NN cerebral_palsy|DS therapy|NN transport|NN issue|NN restriction|NN practitioner|NN cerebral_palsy|DS people|NN cerebral_palsy|DS client|NN 
+study|NN adult|NN transition|NN adulthood|NN concern|NN health|NN care|NN body|NN service|NN support|NN prejudice|NN 
+feel|NN adulthood|NN study|NN 
+children|NN cerebral_palsy|DS transition|NN adult|NN service|NN turn|NN use|NN service|NN children|NN cerebral_palsy|DS disease|NN effect|NN process|NN adult|NN cerebral_palsy|DS experience|NN problem|NN age|NN adult|NN experience|NN adult|NN cerebral_palsy|DS experience|NN difficulty|NN age|NN disease|NN risk|NN obesity|NN adult|NN cerebral_palsy|DS population|NN problem|NN pain|ST flexibility|NN spasm|NN contracture|NN syndrome|NN problem|NN balance|NN fatigue|ST problem|NN adulthood|NN cerebral_palsy|DS term|NN stage|NN adulthood|NN 
+childhood|NN adult|NN cerebral_palsy|DS experience|NN issue|NN cerebral_palsy|DS need|NN support|NN acceptance|NN 
+workplace|NN accommodation|NN employment|NN adult|NN cerebral_palsy|DS age|NN 
+rehabilitation|NN program|NN cope|NN potential|NN adult|NN cerebral_palsy|DS age|NN epidemiology|NN 
+cerebral_palsy|DS birth|NN term|NN rate|NN birth|NN rate|NN world|NN population|NN people|NN rate|NN male|NN female|NN europe|NN time|NN male|NN rate|NN incidence|NN prevalence|NN area|NN country|NN discrepancy|NN criteria|NN inclusion|NN exclusion|NN 
+discrepancy|NN register|NN patient|NN cerebral_palsy|DS example|NN extent|NN children|NN cerebral_palsy|DS prevalence|NN rate|NN rate|NN 
+rise|NN prevalence|NN cerebral_palsy|DS 
+rise|NN birth|NN weight|NN infant|NN survival|NN rate|NN infant|NN 
+survival|NN rate|NN infant|NN cerebral_palsy|DS disability|NN right|NN movement|NN perspective|NN worth|NN infant|NN disability|NN baby|NN doe|NN law|NN 
+advance|NN care|NN mother|NN baby|NN decrease|NN cerebral_palsy|DS 
+advance|NN area|NN care|NN baby|NN result|NN survival|NN rate|NN 
+introduction|NN quality|NN care|NN location|NN care|NN decrease|NN 
+incidence|NN cerebral_palsy|DS increase|NN baby|NN quality|NN care|NN 2016|NN suggestion|NN incidence|NN severity|NN research|NN intervention|NN 
+prevalence|NN cerebral_palsy|DS school|NN entry|NN age|NN year|NN prevalence|NN children|NN history|NN 
+cerebral_palsy|DS human|NN antiquity|NN 
+grave|NN marker|NN date|NN century|NN bce|NN figure|NN leg|NN crutch|NN cerebral_palsy|DS 
+evidence|NN condition|NN mummy|NN siptah|NN pharaoh|NN 1196|NN bce|NN year|NN age|NN 
+presence|NN cerebral_palsy|DS foot|NN hand|NN 
+literature|NN greek|NN paralysis|ST weakness|ST arm|NN leg|NN word|NN palsy|NN word|NN 
+mean|NN paralysis|ST 
+work|NN school|NN hippocrates|NN bce|NN manuscript|NN disease|NN group|NN problem|NN understand|NN cerebral_palsy|DS 
+emperor|NN claudius|NN ce|NN cerebral_palsy|DS record|NN problem|NN line|NN condition|NN 
+historian|NN depiction|NN cerebral_palsy|DS art|NN 
+paint|NN century|NN individual|NN problem|NN de|NN paint|NN clubfoot|DS 
+understand|NN cerebral_palsy|DS problem|NN brain|NN decade|NN number|NN publication|NN brain|NN abnormality|NN johann|NN christian|NN claude|NN franois|NN philippe|NN pinel|NN 
+physician|NN research|NN problem|NN brain|NN symptom|NN 
+surgeon|NN william|NN john|NN little|NN person|NN study|NN cerebral_palsy|DS 
+thesis|NN cerebral_palsy|DS result|NN problem|NN time|NN birth|NN 
+delivery|NN preterm|NN birth|NN asphyxia|NN risk|NN factor|NN 
+diplegia|NN form|NN cerebral_palsy|DS disease|NN time|NN surgeon|NN cerebral_palsy|DS polio|NN neurologist|NN william|NN gowers|NN work|NN link|NN paralysis|ST newborn|NN birth|NN 
+problem|NN birth|NN palsy|NN birth|NN type|NN 
+pennsylvania|NN physician|NN william|NN osler|NN 18491919|NN cerebral_palsy|DS case|NN disorder|NN site|NN problem|NN body|NN cause|NN 
+observation|NN problem|NN time|NN delivery|NN cerebral_palsy|DS problem|NN brain|NN root|NN cause|NN 
+scientist|NN cerebral_palsy|DS polio|NN 
+psychiatry|NN neurologist|NN sigmund|NN freud|NN 18561939|NN refinement|NN classification|NN disorder|NN 
+system|NN cause|NN disorder|NN problem|NN birth|NN problem|NN birth|NN problem|NN birth|NN 
+freud|NN correlation|NN location|NN problem|NN brain|NN location|NN limb|NN body|NN kind|NN movement|NN disorder|NN 
+century|NN attention|NN community|NN cerebral_palsy|DS surgeon|NN winthrop|NN phelps|NN physician|NN disorder|NN 
+cerebral_palsy|DS perspective|NN 
+phelps|NN technique|NN operate|NN muscle|NN address|NN issue|NN spasticity|NN muscle|NN rigidity|NN 
+rehabilitation|NN practitioner|NN pet|NN 
+system|NN children|NN cerebral_palsy|DS movement|NN 
+system|NN foundation|NN education|NN children|NN cerebral_palsy|DS 
+decade|NN therapy|NN cerebral_palsy|DS core|NN component|NN cerebral_palsy|DS management|NN program|NN 
+robert|NN et|NN al|NN motor|NN function|NN classification|NN system|NN improvement|NN assessment|NN limitation|NN grade|NN limitation|NN proficiency|NN mobility|NN skill|NN stand|NN walk|NN account|NN level|NN dependency|NN aid|NN wheelchair|NN walker|NN 
+gmfcs|NN society|NN culture|NN impact|NN 
+cost|NN cost-effectiveness|NN intervention|NN cerebral_palsy|DS cost|NN intervention|NN cerebral_palsy|DS access|NN economics|NN report|NN impact|NN cerebral_palsy|DS australia|NN 
+report|NN cost|NN cerebral_palsy|DS cerebral_palsy|DS australia|NN gdp|NN 
+699|NN productivity|NN employment|NN absenteeism|NN death|NN australian|NN cerebral_palsy|DS dwl|NN transfer|NN welfare|NN payment|NN taxation|NN cost|NN program|NN service|NN aide|NN home|NN modification|NN bringing-forward|NN funeral|NN cost|NN value|NN care|NN people|NN cerebral_palsy|DS health|NN system|NN expenditure|NN 
+value|NN well-be|NN disability|NN death|NN 
+term|NN amount|NN cost|NN 43431|NN person|NN cerebral_palsy|DS 
+value|NN well-be|NN cost|NN person|NN 
+individual|NN cerebral_palsy|DS bear|NN cost|NN family|NN friend|NN 
+government|NN bear|NN cost|NN taxation|NN revenue|NN welfare|NN payment|NN 
+state|NN government|NN cost|NN employer|NN rest|NN society|NN 
+burden|NN disease|NN well-be|NN individual|NN bear|NN cost|NN 
+lifetime|NN cost|NN people|NN cerebral_palsy|DS individual|NN income|NN 
+united|NN states|NN state|NN medicaid|NN beneficiary|NN medicaid|NN fund|NN pca|NN care|NN 
+india|NN program|NN care|NN children|NN deformity|ST measure|NN person|NN disability|NN person|NN disability|NN live|NN independence|NN use|NN term|NN 
+mean|NN cerebrum|NN brain|NN palsy|NN paralysis|ST body|NN area|NN movement|NN name|NN cerebral_palsy|DS spectrum|NN disorder|NN diversity|NN presentation|NN cerebral_palsy|DS 
+term|NN palsy|NN language_disorder|DS movement|NN word|NN root|NN palsy|NN paralysis|ST mean|NN cerebral_palsy|DS 
+use|NN palsy|NN term|NN cerebral_palsy|DS disorder|NN fact|NN cerebral_palsy|DS mean|NN condition|NN tetraplegia|NN cord|NN injury|NN brain|NN injury|NN quadriplegia|DS cerebral_palsy|DS condition|NN diplegia|NN diplegia|NN 
+fact|NN century|NN clinician|NN use|NN term|NN name|NN scheme|NN example|NN evolution|NN use|NN term|NN spasticity|NN diplegia|NN 
+clinician|NN term|NN term|NN 
+people|NN person|NN disability|NN language|NN 
+cerebral_palsy|DS guide|NN care|NN university|NN delaware|NN guideline|NN 
+term|NN use|NN deviation|NN muscle|NN move|NN movement|NN 
+disability|NN term|NN restriction|NN ability|NN activity|NN live|NN age|NN 
+example|NN child|NN disability|NN three-year-old|NN 
+child|NN adult|NN disability|NN role|NN society|NN age|NN milieu|NN 
+example|NN meal|NN care|NN toilet|NN hygiene|NN need|NN 
+hand|NN assistance|NN crutche|NN school|NN activity|NN live|NN 
+people|NN people|NN person|NN person|NN 
+term|NN spastic|NN attribute|NN spasticity|NN type|NN cerebral_palsy|DS 
+uk|NN charity|NN spastics|NN society|NN term|NN spastics|NN charity|NN term|NN people|NN cerebral_palsy|DS 
+word|NN spastic|NN insult|NN people|NN 
+people|NN sport|NN 
+charity|NN name|NN scope|NN united|NN states|NN word|NN spaz|NN usage|NN insult|NN cerebral_palsy|DS media|NN cerebral_palsy|DS syndrome|NN 
+maverick|NN documentary|NN filmmaker|NN custom|NN society|NN portrait|NN adult|NN cerebral_palsy|DS film|NN goodbye|NN cerebral_palsy|DS cerebral_palsy|DS 
+people|NN cerebral_palsy|DS japan|NN hara|NN taboo|NN handicap|NN 
+style|NN photography|NN sound|NN hara|NN realism|NN subject|NN 
+film|NN vegitha|NN reddy|NN aman|NN tripathi|NN dilemma|NN parent|NN child|NN cerebral_palsy|DS 
+film|NN children|NN need|NN character|NN predicament|NN parent|NN stigma|NN condition|NN 
+song|NN chal|NN tu|NN cerebral_palsy|DS kid|NN 
+singer|NN pandit|NN voice|NN song|NN prof|NN 
+dhupkar|NN film|NN award|NN winner|NN isaac|NN thomas|NN 
+foot|NN drama|NN film|NN jim|NN sheridan|NN daniel|NN day-lewis|NN 
+story|NN christy|NN brown|NN irishman|NN cerebral_palsy|DS foot|NN 
+christy|NN brown|NN family|NN writer|NN artist|NN 
+academy|NN award|NN best|NN actor|NN daniel|NN day-lewis|NN best|NN actress|NN role|NN brenda|NN fricker|NN 
+best|NN director|NN best|NN picture|NN write|NN material|NN medium|NN 
+new|NN york|NN film|NN critics|NN circle|NN award|NN best|NN film|NN 
+midwife|NN 2012|NN episode|NN actor|NN colin|NN young|NN cerebral_palsy|DS character|NN disability|NN 
+story|NN line|NN segregation|NN disability|NN uk|NN relationship|NN people|NN disability|NN 
+micah|NN fowler|NN actor|NN cerebral_palsy|DS star|NN abc|NN sitcom|NN speechless|NN challenge|NN family|NN face|NN teenager|NN cerebral_palsy|DS 
+2019|NN comedy|NN series|NN netflix|NN april|NN 
+star|NN ryan|NN oconnell|NN man|NN cerebral_palsy|DS 
+book|NN ly|NN case|NN cerebral_palsy|DS 
+josh|NN winner|NN season|NN stand|NN act|NN cerebral_palsy|DS blue|NN 
+soccer|NN team|NN jason|NN benetti|NN broadcaster|NN espn|NN fox|NN sports|NN westwood|NN time|NN warner|NN cover|NN footbal|NN basebal|NN lacrosse|NN hockey|NN basketbal|NN 
+television|NN announcer|NN chicago|NN white|NN home|NN game|NN jack|NN carroll|NN comedian|NN runner-up|NN season|NN britain|NN talent|NN abbey|NN curran|NN beauty|NN queen|NN iowa|NN miss|NN usa|NN contestant|NN disability|NN jewel|NN role|NN prime-time|NN series|NN fact|NN life|NN role|NN sesame|NN street|NN jump|NN street|NN francesca|NN martinez|NN comedian|NN actress|NN harold|NN elwood|NN psychologist|NN educator|NN university|NN professor|NN psychology|NN director|NN center|NN study|NN attitude|NN person|NN disability|NN critic|NN tendency|NN people|NN 
+motto|NN thing|NN disability|NN world|NN evan|NN athlete|NN cerebral_palsy|DS world|NN arun|NN shouries|NN son|NN aditya|NN book|NN mother|NN heart|NN virgin|NN cerebral_palsy|DS new|NN jersey|NN actress|NN comedian|NN activist|NN zayid|NN resident|NN park|NN new|NN jersey|NN americas|NN muslim|NN women|NN comedian|NN person|NN palestine|NN jordan|NN rj|NN actor|NN role|NN walter|NN white|NN jr|NN 
+celebrity|NN ambassador|NN united|NN cerebral_palsy|DS zach|NN comedian|NN actor|NN writer|NN 
+television|NN series|NN oprah|NN rollin|NN zach|NN author|NN birth|NN member|NN atlanta|NN georgia-base|NN hip-hop|NN duo|NN ying|NN yang|NN twin|NN form|NN cerebral_palsy|DS hannah|NN cockroft|NN wheelchair|NN athlete|NN sprint|NN distance|NN classification|NN 
+paralympic|NN world|NN record|NN metre|NN metre|NN metre|NN classification|NN 
+perception|NN cerebral_palsy|DS trauma|NN birth|NN litigation|NN cerebral_palsy|DS alastair|NN maclennan|NN professor|NN obstetrics|NN gynaecology|NN university|NN adelaide|NN exodus|NN profession|NN half|NN century|NN litigation|NN cause|NN cerebral_palsy|DS medicine|NN 
+disability|NN portal|NN 
+cerebral_palsy|DS sport|NN classification|NN disability|NN sport|NN classification|NN cerebral_palsy|DS 
+recreation|NN world|NN cerebral_palsy|DS day|NN 

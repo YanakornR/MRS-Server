@@ -1,0 +1,185 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN narcolepsy|DS disambiguation|NN 
+narcolepsy|DS 1r02|NN concentration|NN neuropeptide|NN fluid|NN individual|NN pronunciation|NN 
+sleep|NN medicine|NN psychiatry|NN neurology|NN symptom|NN daytime|NN sleepiness|NN second|NN minute|NN loss|NN muscle|NN strength|NN hallucination|ST complication|NN motor|NN vehicle|NN collision|NN onset|NN childhood|NN duration|NN term|NN cause|NN risk|NN factor|NN family|NN history|NN method|NN symptom|NN sleep|NN study|NN diagnosis|NN sleep|NN depressive|NN disorder|NN heart|NN failure|NN drink|NN alcohol|NN sleep|NN treatment|NN nap|NN sleep|NN hygiene|NN sodium|NN frequency|NN 
+narcolepsy|DS disorder|NN ability|NN cycle|NN symptom|NN period|NN daytime|NN sleepiness|NN second|NN minute|NN time|NN experience|NN episode|NN loss|NN muscle|NN strength|NN experience|NN emotion|NN inability|NN move|NN hallucination|ST wake|NN people|NN narcolepsy|DS number|NN hour|NN day|NN people|NN quality|NN sleep|NN 
+cause|NN narcolepsy|DS cause|NN case|NN family|NN history|NN disorder|NN level|NN neuropeptide|NN autoimmune|NN disorder|NN infection|NN toxin|NN stress|NN role|NN diagnosis|NN symptom|NN sleep|NN study|NN rule|NN potential|NN daytime|NN sleepiness|NN sleep_disorder|DS sleep|NN depressive|NN disorder|NN heart|NN failure|NN drink|NN alcohol|NN sleep|NN seizure|NN 
+cure|NN number|NN lifestyle|NN change|NN medication|NN lifestyle|NN change|NN nap|NN sleep|NN hygiene|NN sodium|NN tolerance|NN benefit|NN time|NN antidepressant|NN serotonin|NN reuptake|NN inhibitor|NN 
+people|NN condition|NN childhood|NN male|NN female|NN narcolepsy|DS risk|NN motor|NN vehicle|NN collision|NN term|NN narcolepsy|DS french|NN term|NN glineau|NN 
+mean|NN numbness|NN 
+mean|NN attack|NN content|NN 
+sign|NN symptom|NN cause|NN genetics|NN vaccine|NN diagnosis|NN classification|NN treatment|NN children|NN epidemiology|NN society|NN culture|NN research|NN histamine-direct|NN medication|NN medication|NN receptor|NN agonist|NN animal|NN model|NN reference|NN link|NN 
+sign|NN symptom|NN 
+characteristics|NN narcolepsy|DS daytime|NN sleepiness|NN rem|NN sleep|NN daytime|NN sleepiness|NN ed|NN night|NN time|NN sleep|NN 
+person|NN narcolepsy|DS time|NN place|NN day|NN 
+amount|NN sleep|NN people|NN experience|NN 
+fact|NN live|NN state|NN sleep|NN deprivation|NN 
+sleepiness|NN severity|NN situation|NN interaction|NN 
+daytime|NN nap|NN warn|NN 
+nap|NN time|NN day|NN 
+dream|NN basis|NN nap|NN 
+addition|NN night-time|NN sleep|NN awaken|NN 
+symptom|NN narcolepsy|DS rem|NN sleep|NN 
+rem|NN phase|NN sleep|NN begine|NN sleep|NN day|NN 
+symptom|NN disorder|NN tetrad|NN narcolepsy|DS sleep|NN paralysis|ST hallucination|ST daytime|NN sleepiness|NN symptom|NN behavior|NN wakefulness|NN symptom|NN patient|NN 
+loss|NN muscle|NN function|NN weakness|ST neck|NN knee|NN muscle_weakness|ST knee|NN knee|NN buckle|NN inability|NN body|NN collapse|NN 
+reaction|NN laughter|NN anger|NN surprise|NN fear|NN second|NN minute|NN 
+person|NN episode|NN 
+case|NN seizure|NN speech|NN vision|NN vision|NN inability|NN focus|NN hear|NN awareness|NN 
+impact|NN narcoleptics|NN anxiety|ST fear|NN avoidance|NN people|NN situation|NN attack|NN 
+narcolepsy|DS paralysis|ST paralysis|ST mechanism|NN sleep|NN 
+opposite|NN situation|NN failure|NN paralysis|ST eye|NN movement|NN behavior|NN disorder|NN 
+period|NN wakefulness|NN night|NN sleep|NN paralysis|ST inability|NN wake|NN 
+second|NN minute|NN 
+hallucination|ST experience|NN doze|NN 
+hallucination|ST sensation|NN sleep|NN 
+hallucination|ST form|NN sensation|NN person|NN function|NN talk|NN thing|NN sleep|NN episode|NN memory|NN activity|NN 
+percent|NN people|NN narcolepsy|DS experience|NN behavior|NN sleep|NN episode|NN 
+case|NN symptom|NN narcolepsy|DS daytime|NN sleepiness|NN 
+symptom|NN combination|NN month|NN year|NN onset|NN daytime|NN nap|NN 
+variation|NN development|NN severity|NN order|NN appearance|NN sleep|NN paralysis|ST hypnagogic|NN hallucination|ST individual|NN 
+percent|NN people|NN narcolepsy|DS experience|NN symptom|NN 
+daytime|NN sleepiness|NN life|NN sleep|NN paralysis|ST hypnagogic|NN hallucination|ST 
+subset|NN experience|NN sense|NN taste|NN smell|NN phenomenon|NN 
+people|NN narcolepsy|DS insomnia|ST period|NN time|NN 
+daytime|NN sleepiness|NN problem|NN person|NN life|NN 
+individual|NN brain|NN wave|NN rhythm|NN 
+person|NN brain|NN wave|NN eye|NN movement|NN sleep|NN 
+hour|NN half|NN sleep|NN brain|NN wave|NN pattern|NN rem|NN sleep|NN eye|NN movement|NN sleep|NN dream|NN 
+wave|NN rem|NN sleep|NN muscle|NN atonia|NN rem|NN 
+narcolepsy|DS order|NN length|NN nrem|NN rem|NN sleep|NN period|NN rem|NN sleep|NN sleep|NN onset|NN period|NN sleep|NN 
+aspect|NN rem|NN sleep|NN sleep|NN lack|NN control|NN sleep|NN paralysis|ST dream|NN time|NN people|NN narcolepsy|DS 
+example|NN lack|NN control|NN wakefulness|NN episode|NN intrusion|NN rem|NN wakefulness|NN 
+sleep|NN paralysis|ST dream|NN 
+brain|NN stage|NN doze|NN sleep|NN eye|NN movement|NN rem|NN sleep|NN 
+consequence|NN night|NN time|NN sleep|NN sleep|NN brain|NN day|NN ed|NN 
+people|NN narcolepsy|DS moment|NN motion|NN head|NN bob|NN 
+people|NN narcolepsy|DS fall|NN sleep|NN dizziness|ST occurrence|NN 
+dream|NN detail|NN 
+people|NN narcolepsy|DS second|NN 
+dream|NN people|NN narcolepsy|DS hallucination|ST 
+weight|NN children|NN lb|NN kg|NN narcolepsy|DS adult|NN index|NN cause|NN 
+cause|NN narcolepsy|DS factor|NN part|NN mechanism|NN loss|NN neuron|NN hypothalamus|NN case|NN family|NN history|NN disorder|NN link|NN variant|NN addition|NN factor|NN level|NN peptide|NN history|NN infection|NN diet|NN contact|NN toxin|NN pesticide|NN brain|NN injury|NN brain|NN stroke|NN role|NN genetics|NN 
+factor|NN development|NN narcolepsy|DS area|NN chromosome|NN leukocyte|NN antigen|NN hla|NN variation|NN hla|NN gene|NN presence|NN narcolepsy|DS variation|NN condition|NN individual|NN narcolepsy|DS variation|NN hla|NN complex|NN risk|NN response|NN neuron|NN hypothalamus|NN 
+allele|NN hla-dqb10602|NN gene|NN patient|NN allele|NN hla|NN gene|NN 
+study|NN association|NN polymorphism|NN gene|NN locus|NN rs1154155|NN review|NN article|NN link|NN locy|NN gene|NN rs7553711|NN h|NN gene|NN locus|NN narcolepsy|DS vaccine|NN 
+link|NN flu|NN vaccine|NN narcolepsy|DS children|NN adult|NN institute|NN health|NN welfare|NN vaccination|NN investigation|NN narcolepsy|DS pathophysiology|NN 
+hypocretin|NN neuropeptide|NN brain|NN appetite|NN wakefulness|NN number|NN process|NN cell|NN brain|NN neuron|NN peptide|NN neuron|NN project|NN hypothalamus|NN loss|NN neuron|NN cause|NN narcolepsy|DS individual|NN narcolepsy|DS number|NN neuron|NN brain|NN 
+control|NN sleep|NN state|NN relationship|NN narcolepsy|DS 
+human|NN sleep|NN tendency|NN wake|NN state|NN rem|NN sleep|NN non-rem|NN sleep|NN 
+change|NN motor|NN proprioceptive|NN system|NN rem|NN sleep|NN animal|NN model|NN 
+rem|NN sleep|NN brainstem|NN alpha|NN motor|NN neuron|NN atonia|NN muscle|NN reticulospinal|NN pathway|NN 
+neurotransmitter|NN pathway|NN 
+narcolepsy|DS inhibition|NN motor|NN system|NN cataplexy|ST feature|NN rem|NN sleep|NN diagnosis|NN 
+diagnosis|NN symptom|NN narcolepsy|DS sleep|NN attack|NN diagnosis|NN 
+cataplexy|ST isolation|NN test|NN narcolepsy|DS polysomnogram|NN sleep|NN latency|NN test|NN administration|NN epworth|NN scale|NN 
+test|NN sleep|NN specialist|NN 
+polysomnogram|NN record|NN sleep|NN brain|NN wave|NN number|NN nerve|NN muscle|NN function|NN night|NN time|NN sleep|NN 
+people|NN narcolepsy|DS fall|NN rem|NN sleep|NN night|NN 
+polysomnogram|NN sleep_disorder|DS daytime|NN sleepiness|NN 
+epworth|NN scale|NN questionnaire|NN likelihood|NN presence|NN sleep_disorder|DS narcolepsy|DS 
+sleep|NN latency|NN test|NN person|NN chance|NN hour|NN wake|NN time|NN 
+patient|NN sleep|NN study|NN 
+day|NN patient|NN test|NN nap|NN night|NN sleep|NN hour|NN 
+observation|NN time|NN stage|NN sleep|NN sleep|NN onset|NN latency|NN 
+test|NN degree|NN daytime|NN sleepiness|NN rem|NN sleep|NN 
+people|NN narcolepsy|DS fall|NN rem|NN sleep|NN 
+sleep|NN latency|NN test|NN false-negative|NN narcoleptic|NN 
+system|NN sleep|NN arousal|NN transition|NN state|NN human|NN subsystem|NN projection|NN hypothalamus|NN system|NN ventrolateral|NN nucleus|NN individual|NN system|NN impairment|NN number|NN projection|NN neuron|NN orexin|NN fluid|NN tissue|NN individual|NN narcolepsy|DS rem|NN stage|NN sleep|NN minute|NN people|NN narcolepsy|DS sleep|NN rem|NN period|NN sleep|NN hour|NN sleep|NN cycle|NN 
+level|NN person|NN fluid|NN tap|NN narcolepsy|DS level|NN indicator|NN disorder|NN 
+test|NN result|NN classification|NN 
+type|NN narcolepsy|DS narcolepsy|DS narcolepsy|DS narcolepsy|DS narcolepsy|DS due|NN condition|NN 
+cause|NN disorder|NN 
+classification|NN sleep_disorder|DS hypersomnia|NN syndrome|NN narcolepsy|DS hypersomnia|NN hypersomnia|NN syndrome|NN narcolepsy|DS cataplexy|ST version|NN narcolepsy|DS disorder|NN cause|NN sleepiness|NN cataplexy|ST rem-sleep|NN phenomena|NN sleep|NN paralysis|ST hypnagogic|NN hallucination|ST 
+baseline|NN standard|NN diagnosis|NN narcolepsy|DS set|NN criteria|NN narcolepsy|DS criteria|NN 
+complaint|NN sleepiness|NN muscle_weakness|ST 
+feature|NN sleep|NN paralysis|ST sleep|NN episode|NN hallucination|ST 
+sleep|NN latency|NN minute|NN rem|NN sleep|NN latency|NN minute|NN mslt|NN sleep|NN latency|NN minute|NN rem|NN period|NN 
+disorder|NN account|NN symptom|NN 
+absence|NN cataplexy|ST firm|NN diagnosis|NN narcolepsy|DS 
+term|NN narcolepsy|DS narcolepsy|DS patient|NN phase|NN narcolepsy|DS 
+classification|NN hypersomnia|NN research|NN overlap|NN narcolepsy|DS edition|NN icsd|NN classification|NN narcolepsy|DS deficiency|NN type|NN narcolepsy|DS 
+hypersomnia|NN presence|NN 
+type|NN narcolepsy|DS mslt|NN hypersomnia|NN soremp|NN 
+evidence|NN pathophysiology|NN response|NN hypersomnia|NN soremp|NN mslt|NN overlap|NN hypersomnia|NN narcolepsy|DS edition|NN manual|NN disorder|NN classification|NN hypersomnia|NN 
+narcolepsy|DS cataplexy|ST disorder|NN 
+syndrome|NN hypersomnolence|DS concentration|NN hypersomnia|NN sleep|NN time|NN sleeper|NN people|NN hour|NN 
+classification|NN scheme|NN overlap|NN narcolepsy|DS cataplexy|ST hypersomnia|NN 
+subgroup|NN narcoleptics|NN sleep|NN time|NN narcoleptics|NN study|NN symptom|NN narcolepsy|DS cataplexy|ST sleep|NN time|NN unrefresh|NN nap|NN 
+subgroup|NN dysfunction|NN arousal|NN system|NN orexin|NN gaba|NN hypersomnia|NN cause|NN treatment|NN 
+people|NN narcolepsy|DS 
+treatment|NN individual|NN symptom|NN response|NN 
+time|NN control|NN symptom|NN month|NN 
+adjustment|NN control|NN symptom|NN 
+medication|NN mainstay|NN narcolepsy|DS treatment|NN lifestyle|NN change|NN 
+citation|NN strategy|NN patient|NN family|NN education|NN sleep|NN hygiene|NN medication|NN compliance|NN discussion|NN safety|NN issue|NN example|NN drive|NN license|NN 
+side|NN effect|NN medication|NN follow-up|NN response|NN treatment|NN presence|NN sleep_disorder|DS sleep|NN issue|NN 
+treatment|NN daytime|NN sleepiness|NN narcolepsy|DS system|NN stimulant|NN amphetamine|NN modafinil|NN armodafinil|NN 
+alert|NN skin|NN reaction|NN modafinil|NN fda|NN 
+sodium|NN oxybate|NN treatment|NN sleepiness|NN 
+study|NN sodium|NN 
+drug|NN non-stimulant|NN reuptake|NN inhibitor|NN addiction|NN liability|NN effect|NN 
+case|NN nap|NN need|NN treatment|NN ed|NN symptom|NN duration|NN 
+nap|NN benefit|NN hour|NN patient|NN alertness|NN nap|NN benefit|NN daytime|NN nap|NN replacement|NN night|NN time|NN sleep|NN 
+communication|NN health|NN care|NN provider|NN patient|NN patient|NN family|NN member|NN management|NN narcolepsy|DS 
+treatment|NN option|NN narcolepsy|DS sodium|NN sodium|NN 
+cataplexy|ST narcolepsy|DS daytime|NN sleepiness|NN narcolepsy|DS 
+narcolepsy|DS serotonin|NN reuptake|NN inhibitor|NN antidepressant|NN imipramine|NN protriptyline|NN drug|NN rem|NN sleep|NN antidepressant|NN reuptake|NN serotonin|NN norepinephrine|NN usefulness|NN symptom|NN side-effect|NN sleep|NN disruption|NN children|NN 
+children|NN school|NN teacher|NN problem|NN nap|NN lunchtime|NN 
+medication|NN sodium|NN methylphenidate|NN atomoxetine|NN sleepiness|NN sodium|NN venlafaxine|NN medication|NN fda|NN children|NN 
+children|NN school|NN teacher|NN 
+nap|NN lunch|NN 
+sleep|NN schedule|NN hour|NN sleep|NN night|NN 
+children|NN medication|NN sodium|NN methylphenidate|NN atomoxetine|NN sleepiness|NN sodium|NN oxybate|NN epidemiology|NN 
+united|NN states|NN condition|NN american|NN 
+disease|NN sclerosis|NN fibrosis|DS 
+narcolepsy|DS depression|ST epilepsy|DS side|NN effect|NN medication|NN 
+sleep|NN habit|NN drug|NN use|NN laziness|NN 
+narcolepsy|DS men|NN women|NN age|NN symptom|NN teenager|NN adult|NN 
+evidence|NN narcolepsy|DS family|NN percent|NN people|NN narcolepsy|DS cataplexy|ST relative|NN disorder|NN narcolepsy|DS symptom|NN depression|ST link|NN disorder|NN 
+research|NN study|NN result|NN co-occurrence|NN depression|ST narcolepsy|DS patient|NN number|NN study|NN 
+narcolepsy|DS onset|NN adolescence|NN adulthood|NN 
+delay|NN onset|NN diagnosis|NN feature|NN disorder|NN 
+problem|NN daytime|NN sleepiness|NN narcolepsy|DS 
+teen|NN year|NN education|NN development|NN self-image|NN development|NN choice|NN place|NN 
+impairment|NN reflection|NN daytime|NN 
+prevalence|NN narcolepsy|DS person|NN reason|NN patient|NN visit|NN sleep_disorder|DS center|NN onset|NN adolescence|NN cause|NN learn|NN difficulty|NN absenteeism|NN school|NN 
+teenager|NN experience|NN daytime|NN sleepiness|NN increase|NN sleep|NN tendency|NN pressure|NN addition|NN narcolepsy|DS symptom|NN teenager|NN 
+practice|NN differentiation|NN narcolepsy|DS condition|NN somnolence|ST 
+treatment|NN option|NN 
+paucity|NN literature|NN study|NN drug|NN form|NN therapy|NN 
+mechanism|NN action|NN agent|NN study|NN mechanism|NN action|NN class|NN agent|NN 
+narcolepsy|DS condition|NN population|NN 
+severity|NN illness|NN 
+people|NN narcolepsy|DS loss|NN muscle|NN control|NN 
+society|NN culture|NN list|NN people|NN narcolepsy|DS 
+department|NN health|NN sodium|NN medication|NN cost|NN 12000|NN year|NN people|NN action|NN problem|NN use|NN swine|NN flu|NN vaccine|NN 
+sodium|NN oxybate|NN people|NN narcolepsy|DS health|NN service|NN research|NN medication|NN 
+role|NN histamine|NN people|NN side|NN effect|NN cause|NN sleepiness|NN medication|NN act|NN histamine|NN development|NN treatment|NN sleepiness|NN 
+antagonist|NN compound|NN release|NN amine|NN histamine|NN agent|NN medication|NN 
+role|NN receptor|NN hypersomnia|NN narcolepsy|DS hypersomnia|NN medication|NN activity|NN potential|NN sleepiness|NN 
+receptor|NN antagonist|NN market|NN jan|NN formulation|NN 
+pharmacology|NN researcher|NN medication|NN treatment|NN hypersomnia|NN 
+result|NN trial|NN november|NN 
+research|NN relief|NN patient|NN csf|NN somnogen|NN function|NN receptor|NN effect|NN gaba|NN 
+patient|NN administration|NN flumazenil|NN lozenge|NN cream|NN year|NN case|NN report|NN improvement|NN symptom|NN treatment|NN flumazenil|NN infusion|NN supply|NN flumazenil|NN demand|NN treatment|NN hypersomnia|NN scarcity|NN patient|NN clarithromycin|NN 
+test|NN tube|NN model|NN antibiotic|NN fda|NN treatment|NN infection|NN function|NN gaba|NN system|NN patient|NN hypersomnia|NN 
+investigator|NN patient|NN clarithromycin|NN symptom|NN treatment|NN 
+order|NN treatment|NN narcolepsy|DS trial|NN 2012|NN pilot|NN study|NN sleepiness|NN hypersomnia|NN 
+trial|NN duration|NN 
+review|NN use|NN efficacy|NN percentage|NN patient|NN hypersomnia|NN effect|NN clarithromycin|NN benzodiazepine|NN effect|NN antibiotic|NN effect|NN treatment|NN receptor|NN agonist|NN receptor|NN 
+aka|NN hypocretin-1|NN animal|NN model|NN barrier|NN 
+company|NN receptor|NN antagonist|NN suvorexant|NN treatment|NN insomnia|ST 
+receptor|NN agonist|NN treatment|NN l-carnitine|NN 
+level|NN acylcarnitine|NN people|NN narcolepsy|DS level|NN hypersomnia|NN general|NN mouse|NN study|NN 
+mice|NN deficiency|NN frequency|NN wakefulness|NN eye|NN movement|NN rem|NN sleep|NN activity|NN administration|NN acetyl-l-carnitine|NN symptom|NN mice|NN trial|NN narcolepsy|DS patient|NN time|NN daytime|NN sleep|NN patient|NN placebo|NN animal|NN model|NN 
+animal|NN study|NN disorder|NN human|NN receptor|NN peptide|NN deficit|NN degeneration|NN neuron|NN cause|NN narcolepsy|DS study|NN animal|NN human|NN function|NN regulation|NN wakefulness|NN sleep|NN 
+function|NN regulation|NN process|NN reward|NN learn|NN behaviour|NN energy|NN homeostasis|NN 
+study|NN concentration|NN hypocretin|NN circumstance|NN level|NN emotion|NN anger|NN interaction|NN sleep|NN pain|ST experience|NN 
+animal|NN model|NN narcoleptic|NN dog|NN rodent|NN mice|NN narcolepsy|DS focus|NN role|NN orexin|NN disorder|NN dog|NN 
+dog|NN specy|NN cat|NN horse|NN narcolepsy|DS symptom|NN human|NN 
+attack|NN cataplexy|ST dog|NN collapse|NN narcolepsy|DS cataplexy|ST breed|NN labrador|NN pinscher|NN possibility|NN disorder|NN mode|NN model|NN narcolepsy|DS symptom|NN result|NN mutation|NN gene|NN 
+animal|NN daytime|NN sleepiness|NN state|NN vigilance|NN cataplexy|ST food|NN interaction|NN owner|NN animal|NN 
+mice|NN study|NN phase|NN mice|NN animal|NN episode|NN arrest|NN nrem|NN lot|NN rem|NN phase|NN rem|NN latency|NN 
+mouse|NN mode|NN knockout|NN display|NN narcolepsy|DS phenotype|NN 
+mice|NN interaction|NN anticipation|NN food|NN activity|NN group|NN house|NN vocalization|NN example|NN rodent|NN model|NN characteristics|NN 
+ko|NN arrest|NN sleepwake|NN fragmentation|NN transition|NN wakefulness|NN rem|NN sleep|NN ko|NN sleepwake|NN fragmentation|NN ko|NN sleepwake|NN fragmentation|NN cataplexy|ST sleepwake|NN fragmentation|NN transition|NN wakefulness|NN rem|NN sleep|NN 

@@ -1,0 +1,419 @@
+Obesity
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+For the medical journal, see Obesity (journal).
+Obesity
+Three silhouettes depicting the outlines of an optimally sized (left), overweight (middle), and obese person (right).
+Silhouettes and waist circumferences representing optimal, overweight, and obese
+Specialty	Endocrinology
+Symptoms	Increased fat[1]
+Complications	Cardiovascular diseases, type 2 diabetes, obstructive sleep apnea, certain types of cancer, osteoarthritis, depression[2][3]
+Causes	Excessive food, lack of exercise, genetics[1][4]
+Diagnostic method	BMI > 30 kg/m2[1]
+Prevention	Societal changes, personal choices[1]
+Treatment	Diet, exercise, medications, surgery[1][5][6]
+Prognosis	Reduced life expectancy[2]
+Frequency	700 million / 12% (2015)[7]
+
+Obesity is a medical condition in which excess body fat has accumulated to an extent that it may have a negative effect on health.[1] People are generally considered obese when their body mass index (BMI), a measurement obtained by dividing a person's weight by the square of the person's height, is over 30 kg/m2; the range 25–30 kg/m2 is defined as overweight.[1] Some East Asian countries use lower values.[8] Obesity increases the likelihood of various diseases and conditions, particularly cardiovascular diseases, type 2 diabetes, obstructive sleep apnea, certain types of cancer, osteoarthritis, and depression.[2][3]
+
+Obesity is most commonly caused by a combination of excessive food intake, lack of physical activity, and genetic susceptibility.[1][4] A few cases are caused primarily by genes, endocrine disorders, medications, or mental disorder.[9] The view that obese people eat little yet gain weight due to a slow metabolism is not medically supported.[10] On average, obese people have a greater energy expenditure than their normal counterparts due to the energy required to maintain an increased body mass.[10][11]
+
+Obesity is mostly preventable through a combination of social changes and personal choices.[1] Changes to diet and exercising are the main treatments.[2] Diet quality can be improved by reducing the consumption of energy-dense foods, such as those high in fat or sugars, and by increasing the intake of dietary fiber.[1] Medications can be used, along with a suitable diet, to reduce appetite or decrease fat absorption.[5] If diet, exercise, and medication are not effective, a gastric balloon or surgery may be performed to reduce stomach volume or length of the intestines, leading to feeling full earlier or a reduced ability to absorb nutrients from food.[6][12]
+
+Obesity is a leading preventable cause of death worldwide, with increasing rates in adults and children.[1][13] In 2015, 600 million adults (12%) and 100 million children were obese in 195 countries.[7] Obesity is more common in women than men.[1] Authorities view it as one of the most serious public health problems of the 21st century.[14] Obesity is stigmatized in much of the modern world (particularly in the Western world), though it was seen as a symbol of wealth and fertility at other times in history and still is in some parts of the world.[2][15] In 2013, the American Medical Association classified obesity as a disease.[16][17]
+Contents
+
+    1 Classification
+    2 Effects on health
+        2.1 Mortality
+        2.2 Morbidity
+        2.3 Survival paradox
+    3 Causes
+        3.1 Diet
+        3.2 Sedentary lifestyle
+        3.3 Genetics
+        3.4 Other illnesses
+        3.5 Social determinants
+        3.6 Gut bacteria
+        3.7 Other factors
+    4 Pathophysiology
+    5 Public health
+        5.1 Reports
+    6 Management
+    7 Epidemiology
+    8 History
+        8.1 Etymology
+        8.2 Historical attitudes
+        8.3 The arts
+    9 Society and culture
+        9.1 Economic impact
+        9.2 Size acceptance
+        9.3 Industry influence on research
+    10 Childhood obesity
+    11 Other animals
+    12 References
+        12.1 Cited sources
+    13 Further reading
+
+Classification
+Main article: Classification of obesity
+BMI (kg/m2) 	Classification[18]
+from 	up to
+	18.5 	underweight
+18.5 	25.0 	normal weight
+25.0 	30.0 	overweight
+30.0 	35.0 	class I obesity
+35.0 	40.0 	class II obesity
+40.0 		class III obesity  
+A front and side view of a "super obese" male torso. Stretch marks of the skin are visible along with gynecomastia.
+A "super obese" male with a BMI of 53 kg/m2: weight 182 kg (400 lb), height 185 cm (6 ft 1 in). He presents with stretch marks and enlarged breasts
+
+Obesity is a medical condition in which excess body fat has accumulated to the extent that it may have an adverse effect on health.[19] It is defined by body mass index (BMI) and further evaluated in terms of fat distribution via the waist–hip ratio and total cardiovascular risk factors.[20][21] BMI is closely related to both percentage body fat and total body fat.[22] In children, a healthy weight varies with age and sex. Obesity in children and adolescents is defined not as an absolute number but in relation to a historical normal group, such that obesity is a BMI greater than the 95th percentile.[23] The reference data on which these percentiles were based date from 1963 to 1994, and thus have not been affected by the recent increases in weight.[24] BMI is defined as the subject's weight divided by the square of their height and is calculated as follows.
+
+    B M I = m h 2 {\displaystyle \mathrm {BMI} ={\frac {m}{h^{2}}}} {\mathrm {BMI}}={\frac {m}{h^{2}}},
+
+    where m and h are the subject's weight and height respectively.
+
+BMI is usually expressed in kilograms of weight per metre squared of height. To convert from pounds per inch squared multiply by 703 (kg/m2)/(lb/sq in).[25]
+
+The most commonly used definitions, established by the World Health Organization (WHO) in 1997 and published in 2000, provide the values listed in the table.[26][27]
+
+Some modifications to the WHO definitions have been made by particular organizations.[28] The surgical literature breaks down class II and III obesity into further categories whose exact values are still disputed.[29]
+
+    Any BMI ≥ 35 or 40 kg/m2 is severe obesity.
+    A BMI of ≥ 35 kg/m2 and experiencing obesity-related health conditions or ≥40–44.9 kg/m2 is morbid obesity.
+    A BMI of ≥ 45 or 50 kg/m2 is super obesity.
+
+As Asian populations develop negative health consequences at a lower BMI than Caucasians, some nations have redefined obesity; Japan has defined obesity as any BMI greater than 25 kg/m2[8] while China uses a BMI of greater than 28 kg/m2.[28]
+Effects on health
+
+Excessive body weight is associated with various diseases and conditions, particularly cardiovascular diseases, diabetes mellitus type 2, obstructive sleep apnea, certain types of cancer, osteoarthritis,[2] and asthma.[2][30] As a result, obesity has been found to reduce life expectancy.[2]
+Mortality
+A graph showing how the risk of death varies with BMI. The lowest risk is found at a BMI of 20 to 25 and increases in both directions.
+A graph showing how the risk of death varies with BMI. The lowest risk is found at a BMI of 20 to 25 and increases in both directions.
+Relative risk of death over 10 years for white men (left) and women (right) who have never smoked in the United States by BMI.[31]
+
+Obesity is one of the leading preventable causes of death worldwide.[32][33][34] A number of reviews have found that mortality risk is lowest at a BMI of 20–25 kg/m2[35][36][37] in non-smokers and at 24–27 kg/m2 in current smokers, with risk increasing along with changes in either direction.[38][39] This appears to apply in at least four continents.[37] In contrast, a 2013 review found that grade 1 obesity (BMI 30–35) was not associated with higher mortality than normal weight, and that overweight (BMI 25–30) was associated with "lower" mortality than was normal weight (BMI 18.5–25).[40] Other evidence suggests that the association of BMI and waist circumference with mortality is U- or J-shaped, while the association between waist-to-hip ratio and waist-to-height ratio with mortality is more positive.[41] In Asians the risk of negative health effects begins to increase between 22–25 kg/m2.[42] A BMI above 32 kg/m2 has been associated with a doubled mortality rate among women over a 16-year period.[43] In the United States, obesity is estimated to cause 111,909 to 365,000 deaths per year,[2][34] while 1 million (7.7%) of deaths in Europe are attributed to excess weight.[44][45] On average, obesity reduces life expectancy by six to seven years,[2][46] a BMI of 30–35 kg/m2 reduces life expectancy by two to four years,[36] while severe obesity (BMI > 40 kg/m2) reduces life expectancy by ten years.[36]
+Morbidity
+Main article: Obesity-associated morbidity
+
+Obesity increases the risk of many physical and mental conditions. These comorbidities are most commonly shown in metabolic syndrome,[2] a combination of medical disorders which includes: diabetes mellitus type 2, high blood pressure, high blood cholesterol, and high triglyceride levels.[47]
+
+Complications are either directly caused by obesity or indirectly related through mechanisms sharing a common cause such as a poor diet or a sedentary lifestyle. The strength of the link between obesity and specific conditions varies. One of the strongest is the link with type 2 diabetes. Excess body fat underlies 64% of cases of diabetes in men and 77% of cases in women.[48]
+
+Health consequences fall into two broad categories: those attributable to the effects of increased fat mass (such as osteoarthritis, obstructive sleep apnea, social stigmatization) and those due to the increased number of fat cells (diabetes, cancer, cardiovascular disease, non-alcoholic fatty liver disease).[2][49] Increases in body fat alter the body's response to insulin, potentially leading to insulin resistance. Increased fat also creates a proinflammatory state,[50][51] and a prothrombotic state.[49][52]
+Medical field 	Condition 	Medical field 	Condition
+Cardiology 	
+
+    coronary heart disease:[53] angina and myocardial infarction
+    congestive heart failure[2][54]
+    high blood pressure[2]
+    abnormal cholesterol levels[2]
+    deep vein thrombosis and pulmonary embolism[55]
+
+	Dermatology 	
+
+    stretch marks[56]
+    acanthosis nigricans[56]
+    lymphedema[56]
+    cellulitis[56]
+    hirsutism[56]
+    intertrigo[57]
+
+Endocrinology and Reproductive medicine 	
+
+    diabetes mellitus[2]
+    polycystic ovarian syndrome[2]
+    menstrual disorders[2]
+    infertility[2][58]
+    complications during pregnancy[2][58]
+    birth defects[2]
+    intrauterine fetal death[58]
+
+	Gastroenterology 	
+
+    gastroesophageal reflux disease[14]
+    fatty liver disease[14]
+    cholelithiasis (gallstones)[14]
+
+Neurology 	
+
+    stroke[2]
+    meralgia paresthetica[59]
+    migraines[60]
+    carpal tunnel syndrome[61]
+    dementia[62]
+    idiopathic intracranial hypertension[63]
+    multiple sclerosis[64]
+
+	Oncology[65] 	
+
+    esophageal
+    colorectal
+    pancreatic
+    gallbladder
+    endometrial
+    kidney
+    Leukemia
+    Hepatocellular carcinoma[14]
+    malignant melanoma
+
+Psychiatry 	
+
+    depression in women[2]
+    social stigmatization[2]
+
+	Respirology 	
+
+    obstructive sleep apnea[2][30]
+    obesity hypoventilation syndrome[2][30]
+    asthma[2][30]
+    increased complications during general anaesthesia[2]
+
+Rheumatology and Orthopedics 	
+
+    gout[66]
+    poor mobility[67]
+    osteoarthritis[2]
+    low back pain[68]
+
+	Urology and Nephrology 	
+
+    erectile dysfunction[69]
+    urinary incontinence[70]
+    chronic renal failure[71]
+    hypogonadism[72]
+    buried penis[73]
+
+Survival paradox
+See also: Obesity paradox
+
+Although the negative health consequences of obesity in the general population are well supported by the available evidence, health outcomes in certain subgroups seem to be improved at an increased BMI, a phenomenon known as the obesity survival paradox.[74] The paradox was first described in 1999 in overweight and obese people undergoing hemodialysis,[74] and has subsequently been found in those with heart failure and peripheral artery disease (PAD).[75]
+
+In people with heart failure, those with a BMI between 30.0 and 34.9 had lower mortality than those with a normal weight. This has been attributed to the fact that people often lose weight as they become progressively more ill.[76] Similar findings have been made in other types of heart disease. People with class I obesity and heart disease do not have greater rates of further heart problems than people of normal weight who also have heart disease. In people with greater degrees of obesity, however, the risk of further cardiovascular events is increased.[77][78] Even after cardiac bypass surgery, no increase in mortality is seen in the overweight and obese.[79] One study found that the improved survival could be explained by the more aggressive treatment obese people receive after a cardiac event.[80] Another found that if one takes into account chronic obstructive pulmonary disease (COPD) in those with PAD, the benefit of obesity no longer exists.[75]
+Causes
+
+At an individual level, a combination of excessive food energy intake and a lack of physical activity is thought to explain most cases of obesity.[81] A limited number of cases are due primarily to genetics, medical reasons, or psychiatric illness.[9] In contrast, increasing rates of obesity at a societal level are felt to be due to an easily accessible and palatable diet,[82] increased reliance on cars, and mechanized manufacturing.[83][84]
+
+A 2006 review identified ten other possible contributors to the recent increase of obesity: (1) insufficient sleep, (2) endocrine disruptors (environmental pollutants that interfere with lipid metabolism), (3) decreased variability in ambient temperature, (4) decreased rates of smoking, because smoking suppresses appetite, (5) increased use of medications that can cause weight gain (e.g., atypical antipsychotics), (6) proportional increases in ethnic and age groups that tend to be heavier, (7) pregnancy at a later age (which may cause susceptibility to obesity in children), (8) epigenetic risk factors passed on generationally, (9) natural selection for higher BMI, and (10) assortative mating leading to increased concentration of obesity risk factors (this would increase the number of obese people by increasing population variance in weight).[85] While there is evidence supporting the influence of these mechanisms on the increased prevalence of obesity, the evidence is still inconclusive, and the authors state that these are probably less influential than the ones discussed in the previous paragraph.
+Diet
+Main article: Diet and obesity
+(Left) A world map with countries colored to reflect the food energy consumption of their people in 1961. North America, Europe, and Australia have relatively high intake, while Africa and Asia consume much less.
+1961
+(Right) A world map with countries colored to reflect the food energy consumption of their people in 2001–2003. Consumption in North America, Europe, and Australia has increased with respect to previous levels in 1971. Food consumption has also increased substantially in many parts of Asia. However, food consumption in Africa remains low.
+2001–03
+Map of dietary energy availability per person per day in 1961 (left) and 2001–2003 (right)[86] Calories per person per day (kilojoules per person per day)
+  no data
+  <1,600 (<6,700)
+  1,600–1,800 (6,700–7,500)
+  1,800–2,000 (7,500–8,400)
+  2,000–2,200 (8,400–9,200)
+  2,200–2,400 (9,200–10,000)
+  2,400–2,600 (10,000–10,900)
+
+	
+  2,600–2,800 (10,900–11,700)
+  2,800–3,000 (11,700–12,600)
+  3,000–3,200 (12,600–13,400)
+  3,200–3,400 (13,400–14,200)
+  3,400–3,600 (14,200–15,100)
+  >3,600 (>15,100)
+
+A graph showing a gradual increase in global food energy consumption per person per day between 1961 and 2002.
+Average per capita energy consumption of the world from 1961 to 2002[86]
+
+A 2016 review supported excess food as the primary factor.[87] Dietary energy supply per capita varies markedly between different regions and countries. It has also changed significantly over time.[86] From the early 1970s to the late 1990s the average food energy available per person per day (the amount of food bought) increased in all parts of the world except Eastern Europe. The United States had the highest availability with 3,654 calories (15,290 kJ) per person in 1996.[86] This increased further in 2003 to 3,754 calories (15,710 kJ).[86] During the late 1990s Europeans had 3,394 calories (14,200 kJ) per person, in the developing areas of Asia there were 2,648 calories (11,080 kJ) per person, and in sub-Saharan Africa people had 2,176 calories (9,100 kJ) per person.[86][88] Total food energy consumption has been found to be related to obesity.[89]
+
+The widespread availability of nutritional guidelines[90] has done little to address the problems of overeating and poor dietary choice.[91] From 1971 to 2000, obesity rates in the United States increased from 14.5% to 30.9%.[92] During the same period, an increase occurred in the average amount of food energy consumed. For women, the average increase was 335 calories (1,400 kJ) per day (1,542 calories (6,450 kJ) in 1971 and 1,877 calories (7,850 kJ) in 2004), while for men the average increase was 168 calories (700 kJ) per day (2,450 calories (10,300 kJ) in 1971 and 2,618 calories (10,950 kJ) in 2004). Most of this extra food energy came from an increase in carbohydrate consumption rather than fat consumption.[93] The primary sources of these extra carbohydrates are sweetened beverages, which now account for almost 25 percent of daily food energy in young adults in America,[94] and potato chips.[95] Consumption of sweetened drinks such as soft drinks, fruit drinks, iced tea, and energy and vitamin water drinks is believed to be contributing to the rising rates of obesity[96][97] and to an increased risk of metabolic syndrome and type 2 diabetes.[98] Vitamin D deficiency is related to diseases associated with obesity.[99]
+
+As societies become increasingly reliant on energy-dense, big-portions, and fast-food meals, the association between fast-food consumption and obesity becomes more concerning.[100] In the United States consumption of fast-food meals tripled and food energy intake from these meals quadrupled between 1977 and 1995.[101]
+
+Agricultural policy and techniques in the United States and Europe have led to lower food prices. In the United States, subsidization of corn, soy, wheat, and rice through the U.S. farm bill has made the main sources of processed food cheap compared to fruits and vegetables.[102] Calorie count laws and nutrition facts labels attempt to steer people toward making healthier food choices, including awareness of how much food energy is being consumed.
+
+Obese people consistently under-report their food consumption as compared to people of normal weight.[103] This is supported both by tests of people carried out in a calorimeter room[104] and by direct observation.
+Sedentary lifestyle
+See also: Sedentary lifestyle and Exercise trends
+
+A sedentary lifestyle plays a significant role in obesity.[105] Worldwide there has been a large shift towards less physically demanding work,[106][107][108] and currently at least 30% of the world's population gets insufficient exercise.[107] This is primarily due to increasing use of mechanized transportation and a greater prevalence of labor-saving technology in the home.[106][107][108] In children, there appear to be declines in levels of physical activity due to less walking and physical education.[109] World trends in active leisure time physical activity are less clear. The World Health Organization indicates people worldwide are taking up less active recreational pursuits, while a study from Finland[110] found an increase and a study from the United States found leisure-time physical activity has not changed significantly.[111] A 2011 review of physical activity in children found that it may not be a significant contributor.[112]
+
+In both children and adults, there is an association between television viewing time and the risk of obesity.[113][114][115] A review found 63 of 73 studies (86%) showed an increased rate of childhood obesity with increased media exposure, with rates increasing proportionally to time spent watching television.[116]
+Genetics
+Main article: Genetics of obesity
+A painting of a dark haired pink cheeked obese nude young female leaning against a table. She is holding grapes and grape leaves in her left hand which cover her genitalia.
+A 1680 painting by Juan Carreno de Miranda of a girl presumed to have Prader–Willi syndrome[117]
+
+Like many other medical conditions, obesity is the result of an interplay between genetic and environmental factors.[118] Polymorphisms in various genes controlling appetite and metabolism predispose to obesity when sufficient food energy is present. As of 2006, more than 41 of these sites on the human genome have been linked to the development of obesity when a favorable environment is present.[119] People with two copies of the FTO gene (fat mass and obesity associated gene) have been found on average to weigh 3–4 kg more and have a 1.67-fold greater risk of obesity compared with those without the risk allele.[120] The differences in BMI between people that are due to genetics varies depending on the population examined from 6% to 85%.[121]
+
+Obesity is a major feature in several syndromes, such as Prader–Willi syndrome, Bardet–Biedl syndrome, Cohen syndrome, and MOMO syndrome. (The term "non-syndromic obesity" is sometimes used to exclude these conditions.)[122] In people with early-onset severe obesity (defined by an onset before 10 years of age and body mass index over three standard deviations above normal), 7% harbor a single point DNA mutation.[123]
+
+Studies that have focused on inheritance patterns rather than on specific genes have found that 80% of the offspring of two obese parents were also obese, in contrast to less than 10% of the offspring of two parents who were of normal weight.[124] Different people exposed to the same environment have different risks of obesity due to their underlying genetics.[125]
+
+The thrifty gene hypothesis postulates that, due to dietary scarcity during human evolution, people are prone to obesity. Their ability to take advantage of rare periods of abundance by storing energy as fat would be advantageous during times of varying food availability, and individuals with greater adipose reserves would be more likely to survive famine. This tendency to store fat, however, would be maladaptive in societies with stable food supplies.[126] This theory has received various criticisms, and other evolutionarily-based theories such as the drifty gene hypothesis and the thrifty phenotype hypothesis have also been proposed.[127][128]
+Other illnesses
+
+Certain physical and mental illnesses and the pharmaceutical substances used to treat them can increase risk of obesity. Medical illnesses that increase obesity risk include several rare genetic syndromes (listed above) as well as some congenital or acquired conditions: hypothyroidism, Cushing's syndrome, growth hormone deficiency,[129] and some eating disorders such as binge eating disorder and night eating syndrome.[2] However, obesity is not regarded as a psychiatric disorder, and therefore is not listed in the DSM-IVR as a psychiatric illness.[130] The risk of overweight and obesity is higher in patients with psychiatric disorders than in persons without psychiatric disorders.[131]
+
+Certain medications may cause weight gain or changes in body composition; these include insulin, sulfonylureas, thiazolidinediones, atypical antipsychotics, antidepressants, steroids, certain anticonvulsants (phenytoin and valproate), pizotifen, and some forms of hormonal contraception.[2]
+Social determinants
+Main article: Social determinants of obesity
+The disease scroll (Yamai no soshi, late 12th century) depicts a woman moneylender with obesity, considered a disease of the rich.
+Obesity in developed countries is correlated with economic inequality
+
+While genetic influences are important to understanding obesity, they cannot explain the current dramatic increase seen within specific countries or globally.[132] Though it is accepted that energy consumption in excess of energy expenditure leads to obesity on an individual basis, the cause of the shifts in these two factors on the societal scale is much debated. There are a number of theories as to the cause but most believe it is a combination of various factors.
+
+The correlation between social class and BMI varies globally. A review in 1989 found that in developed countries women of a high social class were less likely to be obese. No significant differences were seen among men of different social classes. In the developing world, women, men, and children from high social classes had greater rates of obesity.[133] An update of this review carried out in 2007 found the same relationships, but they were weaker. The decrease in strength of correlation was felt to be due to the effects of globalization.[134] Among developed countries, levels of adult obesity, and percentage of teenage children who are overweight, are correlated with income inequality. A similar relationship is seen among US states: more adults, even in higher social classes, are obese in more unequal states.[135]
+
+Many explanations have been put forth for associations between BMI and social class. It is thought that in developed countries, the wealthy are able to afford more nutritious food, they are under greater social pressure to remain slim, and have more opportunities along with greater expectations for physical fitness. In undeveloped countries the ability to afford food, high energy expenditure with physical labor, and cultural values favoring a larger body size are believed to contribute to the observed patterns.[134] Attitudes toward body weight held by people in one's life may also play a role in obesity. A correlation in BMI changes over time has been found among friends, siblings, and spouses.[136] Stress and perceived low social status appear to increase risk of obesity.[135][137][138]
+
+Smoking has a significant effect on an individual's weight. Those who quit smoking gain an average of 4.4 kilograms (9.7 lb) for men and 5.0 kilograms (11.0 lb) for women over ten years.[139] However, changing rates of smoking have had little effect on the overall rates of obesity.[140]
+
+In the United States the number of children a person has is related to their risk of obesity. A woman's risk increases by 7% per child, while a man's risk increases by 4% per child.[141] This could be partly explained by the fact that having dependent children decreases physical activity in Western parents.[142]
+
+In the developing world urbanization is playing a role in increasing rate of obesity. In China overall rates of obesity are below 5%; however, in some cities rates of obesity are greater than 20%.[143]
+
+Malnutrition in early life is believed to play a role in the rising rates of obesity in the developing world.[144] Endocrine changes that occur during periods of malnutrition may promote the storage of fat once more food energy becomes available.[144]
+
+Consistent with cognitive epidemiological data, numerous studies confirm that obesity is associated with cognitive deficits.[145] Whether obesity causes cognitive deficits, or vice versa is unclear at present.
+Gut bacteria
+See also: Infectobesity
+
+The study of the effect of infectious agents on metabolism is still in its early stages. Gut flora has been shown to differ between lean and obese people. There is an indication that gut flora can affect the metabolic potential. This apparent alteration is believed to confer a greater capacity to harvest energy contributing to obesity. Whether these differences are the direct cause or the result of obesity has yet to be determined unequivocally.[146] The use of antibiotics among children has also been associated with obesity later in life.[147][148]
+
+An association between viruses and obesity has been found in humans and several different animal species. The amount that these associations may have contributed to the rising rate of obesity is yet to be determined.[149]
+Other factors
+
+A number of reviews have found an association between short duration of sleep and obesity.[150][151] Whether one causes the other is unclear.[150] Even if shorts sleep does increase weight gain it is unclear if this is to a meaningful degree or increasing sleep would be of benefit.[152]
+
+Certain aspects of personality are associated with being obese.[153] Neuroticism, impulsivity, and sensitivity to reward are more common in people who are obese while conscientiousness and self-control are less common in people who are obese.[153][154]
+Pathophysiology
+Two white mice both with similar sized ears, black eyes, and pink noses. The body of the mouse on the left, however, is about three times the width of the normal sized mouse on the right.
+A comparison of a mouse unable to produce leptin thus resulting in obesity (left) and a normal mouse (right)
+Main article: Pathophysiology of obesity
+
+There are many possible pathophysiological mechanisms involved in the development and maintenance of obesity.[155] This field of research had been almost unapproached until the leptin gene was discovered in 1994 by J. M. Friedman's laboratory.[156] While leptin and ghrelin are produced peripherally, they control appetite through their actions on the central nervous system. In particular, they and other appetite-related hormones act on the hypothalamus, a region of the brain central to the regulation of food intake and energy expenditure. There are several circuits within the hypothalamus that contribute to its role in integrating appetite, the melanocortin pathway being the most well understood.[155] The circuit begins with an area of the hypothalamus, the arcuate nucleus, that has outputs to the lateral hypothalamus (LH) and ventromedial hypothalamus (VMH), the brain's feeding and satiety centers, respectively.[157]
+
+The arcuate nucleus contains two distinct groups of neurons.[155] The first group coexpresses neuropeptide Y (NPY) and agouti-related peptide (AgRP) and has stimulatory inputs to the LH and inhibitory inputs to the VMH. The second group coexpresses pro-opiomelanocortin (POMC) and cocaine- and amphetamine-regulated transcript (CART) and has stimulatory inputs to the VMH and inhibitory inputs to the LH. Consequently, NPY/AgRP neurons stimulate feeding and inhibit satiety, while POMC/CART neurons stimulate satiety and inhibit feeding. Both groups of arcuate nucleus neurons are regulated in part by leptin. Leptin inhibits the NPY/AgRP group while stimulating the POMC/CART group. Thus a deficiency in leptin signaling, either via leptin deficiency or leptin resistance, leads to overfeeding and may account for some genetic and acquired forms of obesity.[155]
+Public health
+
+The World Health Organization (WHO) predicts that overweight and obesity may soon replace more traditional public health concerns such as undernutrition and infectious diseases as the most significant cause of poor health.[158] Obesity is a public health and policy problem because of its prevalence, costs, and health effects.[159] The United States Preventive Services Task Force recommends screening for all adults followed by behavioral interventions in those who are obese.[160] Public health efforts seek to understand and correct the environmental factors responsible for the increasing prevalence of obesity in the population. Solutions look at changing the factors that cause excess food energy consumption and inhibit physical activity. Efforts include federally reimbursed meal programs in schools, limiting direct junk food marketing to children,[161] and decreasing access to sugar-sweetened beverages in schools.[162] The World Health Organization recommends the taxing of sugary drinks.[163] When constructing urban environments, efforts have been made to increase access to parks and to develop pedestrian routes.[164]
+Reports
+
+Many organizations have published reports pertaining to obesity. In 1998, the first US Federal guidelines were published, titled "Clinical Guidelines on the Identification, Evaluation, and Treatment of Overweight and Obesity in Adults: The Evidence Report".[165] In 2006 the Canadian Obesity Network, now known as Obesity Canada published the "Canadian Clinical Practice Guidelines (CPG) on the Management and Prevention of Obesity in Adults and Children". This is a comprehensive evidence-based guideline to address the management and prevention of overweight and obesity in adults and children.[81]
+
+In 2004, the United Kingdom Royal College of Physicians, the Faculty of Public Health and the Royal College of Paediatrics and Child Health released the report "Storing up Problems", which highlighted the growing problem of obesity in the UK.[166] The same year, the House of Commons Health Select Committee published its "most comprehensive inquiry [...] ever undertaken" into the impact of obesity on health and society in the UK and possible approaches to the problem.[167] In 2006, the National Institute for Health and Clinical Excellence (NICE) issued a guideline on the diagnosis and management of obesity, as well as policy implications for non-healthcare organizations such as local councils.[168] A 2007 report produced by Derek Wanless for the King's Fund warned that unless further action was taken, obesity had the capacity to cripple the National Health Service financially.[169]
+
+Comprehensive approaches are being looked at to address the rising rates of obesity. The Obesity Policy Action (OPA) framework divides measure into 'upstream' policies, 'midstream' policies, 'downstream' policies. 'Upstream' policies look at changing society, 'midstream' policies try to alter individuals' behavior to prevent obesity, and 'downstream' policies try to treat currently afflicted people.[170]
+Management
+Main article: Management of obesity
+
+The main treatment for obesity consists of dieting and physical exercise.[81] Diet programs may produce weight loss over the short term,[171] but maintaining this weight loss is frequently difficult and often requires making exercise and a lower food energy diet a permanent part of a person's lifestyle.[172][173] Intensive behavioral interventions are recommended by the United States Preventive Services Task Force.[174]
+
+In the short-term low carbohydrate diets appear better than low fat diets for weight loss.[175] In the long term; however, all types of low-carbohydrate and low-fat diets appear equally beneficial.[175][176] A 2014 review found that the heart disease and diabetes risks associated with different diets appear to be similar.[177] Promotion of the Mediterranean diets among the obese may lower the risk of heart disease.[175] Decreased intake of sweet drinks is also related to weight-loss.[175] Success rates of long-term weight loss maintenance with lifestyle changes are low, ranging from 2–20%.[178] Dietary and lifestyle changes are effective in limiting excessive weight gain in pregnancy and improve outcomes for both the mother and the child.[179] Intensive behavioral counseling is recommended in those who are both obese and have other risk factors for heart disease.[180]
+
+Five medications have evidence for long-term use orlistat, lorcaserin, liraglutide, phentermine–topiramate, and naltrexone–bupropion.[181] They result in weight loss after one year ranged from 3.0 to 6.7 kg (6.6-14.8 lbs) over placebo.[181] Orlistat, liraglutide, and naltrexone–bupropion are available in both the United States and Europe, whereas lorcaserin and phentermine–topiramate are available only in the United States.[182] European regulatory authorities rejected the latter two drugs in part because of associations of heart valve problems with lorcaserin and more general heart and blood vessel problems with phentermine–topiramate.[182] Orlistat use is associated with high rates of gastrointestinal side effects[183] and concerns have been raised about negative effects on the kidneys.[184] There is no information on how these drugs affect longer-term complications of obesity such as cardiovascular disease or death.[5]
+
+The most effective treatment for obesity is bariatric surgery.[6] The types of procedures include laparoscopic adjustable gastric banding, Roux-en-Y gastric bypass, vertical-sleeve gastrectomy, and biliopancreatic diversion.[181] Surgery for severe obesity is associated with long-term weight loss, improvement in obesity-related conditions,[185] and decreased overall mortality. One study found a weight loss of between 14% and 25% (depending on the type of procedure performed) at 10 years, and a 29% reduction in all cause mortality when compared to standard weight loss measures.[186] Complications occur in about 17% of cases and reoperation is needed in 7% of cases.[185] Due to its cost and risks, researchers are searching for other effective yet less invasive treatments including devices that occupy space in the stomach.[187]
+Epidemiology
+Main article: Epidemiology of obesity
+A map of the world with countries colored to reflect the percentage of men who are obese. Obese males and females have higher prevalence (above 30%) in the US and some Middle Eastern and Oceanian countries, medium prevalence in the rest of North America and Europe, and lower prevalence (<5%) in most of Asia and Africa.
+World obesity prevalence among males (left) and females (right) in 2008.[188]
+  <5%
+  5–10%
+  10–15%
+
+	
+  15–20%
+  20–25%
+  25–30%
+
+	
+  30–35%
+  35–40%
+  40–45%
+
+	
+  45–50%
+  50–55%
+  >55%
+
+►
+See or edit source data.
+Percentage of the population either overweight or obese by year.[189]
+
+In earlier historical periods obesity was rare, and achievable only by a small elite, although already recognised as a problem for health. But as prosperity increased in the Early Modern period, it affected increasingly larger groups of the population.[190]
+
+In 1997 the WHO formally recognized obesity as a global epidemic.[94] As of 2008 the WHO estimates that at least 500 million adults (greater than 10%) are obese, with higher rates among women than men.[191] The percentage of adults affected in the United States as of 2015–2016 is about 39.6% overall (37.9% of males and 41.1% of females).[192]
+
+The rate of obesity also increases with age at least up to 50 or 60 years old[193] and severe obesity in the United States, Australia, and Canada is increasing faster than the overall rate of obesity.[29][194][195] The OECD has projected an increase in obesity rates until at least 2030, especially in the United States, Mexico and England with rates reaching 47%, 39% and 35% respectively.[196]
+
+Once considered a problem only of high-income countries, obesity rates are rising worldwide and affecting both the developed and developing world.[44] These increases have been felt most dramatically in urban settings.[191] The only remaining region of the world where obesity is not common is sub-Saharan Africa.[2]
+History
+Etymology
+
+Obesity is from the Latin obesitas, which means "stout, fat, or plump". Ēsus is the past participle of edere (to eat), with ob (over) added to it.[197] The Oxford English Dictionary documents its first usage in 1611 by Randle Cotgrave.[198]
+Historical attitudes
+A very obese gentleman with a prominent double chin and mustache dressed in black with a sword at his left side.
+During the Middle Ages and the Renaissance obesity was often seen as a sign of wealth, and was relatively common among the elite: The Tuscan General Alessandro del Borro, attributed to Charles Mellin, 1645[199]
+A carved stone miniature figurine depicted an obese female.
+Venus of Willendorf created 24,000–22,000 BC
+
+Ancient Greek medicine recognizes obesity as a medical disorder, and records that the Ancient Egyptians saw it in the same way.[190] Hippocrates wrote that "Corpulence is not only a disease itself, but the harbinger of others".[2] The Indian surgeon Sushruta (6th century BCE) related obesity to diabetes and heart disorders.[200] He recommended physical work to help cure it and its side effects.[200] For most of human history mankind struggled with food scarcity.[201] Obesity has thus historically been viewed as a sign of wealth and prosperity. It was common among high officials in Europe in the Middle Ages and the Renaissance[199] as well as in Ancient East Asian civilizations.[202] In the 17th century, English medical author Tobias Venner is credited with being one of the first to refer to the term as a societal disease in a published English language book.[190][203]
+
+With the onset of the Industrial Revolution it was realized that the military and economic might of nations were dependent on both the body size and strength of their soldiers and workers.[94] Increasing the average body mass index from what is now considered underweight to what is now the normal range played a significant role in the development of industrialized societies.[94] Height and weight thus both increased through the 19th century in the developed world. During the 20th century, as populations reached their genetic potential for height, weight began increasing much more than height, resulting in obesity.[94] In the 1950s increasing wealth in the developed world decreased child mortality, but as body weight increased heart and kidney disease became more common.[94][204] During this time period, insurance companies realized the connection between weight and life expectancy and increased premiums for the obese.[2]
+
+Many cultures throughout history have viewed obesity as the result of a character flaw. The obesus or fat character in Ancient Greek comedy was a glutton and figure of mockery. During Christian times the food was viewed as a gateway to the sins of sloth and lust.[15] In modern Western culture, excess weight is often regarded as unattractive, and obesity is commonly associated with various negative stereotypes. People of all ages can face social stigmatization, and may be targeted by bullies or shunned by their peers.[205]
+
+Public perceptions in Western society regarding healthy body weight differ from those regarding the weight that is considered ideal  – and both have changed since the beginning of the 20th century. The weight that is viewed as an ideal has become lower since the 1920s. This is illustrated by the fact that the average height of Miss America pageant winners increased by 2% from 1922 to 1999, while their average weight decreased by 12%.[206] On the other hand, people's views concerning healthy weight have changed in the opposite direction. In Britain, the weight at which people considered themselves to be overweight was significantly higher in 2007 than in 1999.[207] These changes are believed to be due to increasing rates of adiposity leading to increased acceptance of extra body fat as being normal.[207]
+
+Obesity is still seen as a sign of wealth and well-being in many parts of Africa. This has become particularly common since the HIV epidemic began.[2]
+The arts
+
+The first sculptural representations of the human body 20,000–35,000 years ago depict obese females. Some attribute the Venus figurines to the tendency to emphasize fertility while others feel they represent "fatness" in the people of the time.[15] Corpulence is, however, absent in both Greek and Roman art, probably in keeping with their ideals regarding moderation. This continued through much of Christian European history, with only those of low socioeconomic status being depicted as obese.[15]
+
+During the Renaissance some of the upper class began flaunting their large size, as can be seen in portraits of Henry VIII of England and Alessandro dal Borro.[15] Rubens (1577–1640) regularly depicted full-bodied women in his pictures, from which derives the term Rubenesque. These women, however, still maintained the "hourglass" shape with its relationship to fertility.[208] During the 19th century, views on obesity changed in the Western world. After centuries of obesity being synonymous with wealth and social status, slimness began to be seen as the desirable standard.[15]
+Society and culture
+Economic impact
+
+In addition to its health impacts, obesity leads to many problems including disadvantages in employment[209][210] and increased business costs. These effects are felt by all levels of society from individuals, to corporations, to governments.
+
+In 2005, the medical costs attributable to obesity in the US were an estimated $190.2 billion or 20.6% of all medical expenditures,[211][212][213] while the cost of obesity in Canada was estimated at CA$2 billion in 1997 (2.4% of total health costs).[81] The total annual direct cost of overweight and obesity in Australia in 2005 was A$21 billion. Overweight and obese Australians also received A$35.6 billion in government subsidies.[214] The estimate range for annual expenditures on diet products is $40 billion to $100 billion in the US alone.[215]
+
+The Lancet Commission on Obesity in 2019 called for a global treaty — modelled on the WHO Framework Convention on Tobacco Control — committing countries to address obesity and undernutrition, explicitly excluding the food industry from policy development. They estimate the global cost of obesity $2 trillion a year, about or 2.8% of world GDP.[216]
+
+Obesity prevention programs have been found to reduce the cost of treating obesity-related disease. However, the longer people live, the more medical costs they incur. Researchers, therefore, conclude that reducing obesity may improve the public's health, but it is unlikely to reduce overall health spending.[217]
+An extra wide chair beside a number of normal sized chairs.
+Services accommodate obese people with specialized equipment such as much wider chairs.[218]
+
+Obesity can lead to social stigmatization and disadvantages in employment.[209] When compared to their normal weight counterparts, obese workers on average have higher rates of absenteeism from work and take more disability leave, thus increasing costs for employers and decreasing productivity.[219] A study examining Duke University employees found that people with a BMI over 40 kg/m2 filed twice as many workers' compensation claims as those whose BMI was 18.5–24.9 kg/m2. They also had more than 12 times as many lost work days. The most common injuries in this group were due to falls and lifting, thus affecting the lower extremities, wrists or hands, and backs.[220] The Alabama State Employees' Insurance Board approved a controversial plan to charge obese workers $25 a month for health insurance that would otherwise be free unless they take steps to lose weight and improve their health. These measures started in January 2010 and apply to those state workers whose BMI exceeds 35 kg/m2 and who fail to make improvements in their health after one year.[221]
+
+Some research shows that obese people are less likely to be hired for a job and are less likely to be promoted.[205] Obese people are also paid less than their non-obese counterparts for an equivalent job; obese women on average make 6% less and obese men make 3% less.[222]
+
+Specific industries, such as the airline, healthcare and food industries, have special concerns. Due to rising rates of obesity, airlines face higher fuel costs and pressures to increase seating width.[223] In 2000, the extra weight of obese passengers cost airlines US$275 million.[224] The healthcare industry has had to invest in special facilities for handling severely obese patients, including special lifting equipment and bariatric ambulances.[225] Costs for restaurants are increased by litigation accusing them of causing obesity.[226] In 2005 the US Congress discussed legislation to prevent civil lawsuits against the food industry in relation to obesity; however, it did not become law.[226]
+
+With the American Medical Association's 2013 classification of obesity as a chronic disease,[16] it is thought that health insurance companies will more likely pay for obesity treatment, counseling and surgery, and the cost of research and development of fat treatment pills or gene therapy treatments should be more affordable if insurers help to subsidize their cost.[227] The AMA classification is not legally binding, however, so health insurers still have the right to reject coverage for a treatment or procedure.[227]
+
+In 2014, The European Court of Justice ruled that morbid obesity is a disability. The Court said that if an employee's obesity prevents him from "full and effective participation of that person in professional life on an equal basis with other workers", then it shall be considered a disability and that firing someone on such grounds is discriminatory.[228]
+Size acceptance
+United States President William Howard Taft was often ridiculed for being overweight
+See also: Fat acceptance movement, Social stigma of obesity, Health at Every Size, and Fat fetishism
+
+The principal goal of the fat acceptance movement is to decrease discrimination against people who are overweight and obese.[229][230] However, some in the movement are also attempting to challenge the established relationship between obesity and negative health outcomes.[231]
+
+A number of organizations exist that promote the acceptance of obesity. They have increased in prominence in the latter half of the 20th century.[232] The US-based National Association to Advance Fat Acceptance (NAAFA) was formed in 1969 and describes itself as a civil rights organization dedicated to ending size discrimination.[233]
+
+The International Size Acceptance Association (ISAA) is a non-governmental organization (NGO) which was founded in 1997. It has more of a global orientation and describes its mission as promoting size acceptance and helping to end weight-based discrimination.[234] These groups often argue for the recognition of obesity as a disability under the US Americans With Disabilities Act (ADA). The American legal system, however, has decided that the potential public health costs exceed the benefits of extending this anti-discrimination law to cover obesity.[231]
+Industry influence on research
+
+In 2015 the New York Times published an article on the Global Energy Balance Network, a nonprofit founded in 2014 that advocated for people to focus on increasing exercise rather than reducing calorie intake to avoid obesity and to be healthy. The organization was founded with at least $1.5M in funding from the Coca-Cola Company, and the company has provided $4M in research funding to the two founding scientists Gregory A. Hand and Steven N. Blair since 2008.[235][236]
+Childhood obesity
+Main article: Childhood obesity
+
+The healthy BMI range varies with the age and sex of the child. Obesity in children and adolescents is defined as a BMI greater than the 95th percentile.[23] The reference data that these percentiles are based on is from 1963 to 1994 and thus has not been affected by the recent increases in rates of obesity.[24] Childhood obesity has reached epidemic proportions in the 21st century, with rising rates in both the developed and the developing world. Rates of obesity in Canadian boys have increased from 11% in the 1980s to over 30% in the 1990s, while during this same time period rates increased from 4 to 14% in Brazilian children.[237] In the UK, there were 60% more obese children in 2005 compared to 1989.[238] In the US, the percentage of overweight and obese children increased to 16% in 2008, a 300% increase over the prior 30 years.[239]
+
+As with obesity in adults, many factors contribute to the rising rates of childhood obesity. Changing diet and decreasing physical activity are believed to be the two most important causes for the recent increase in the incidence of child obesity.[240] Antibiotics in the first 6 months of life have been associated with excess weight at age seven to twelve years of age.[148] Because childhood obesity often persists into adulthood and is associated with numerous chronic illnesses, children who are obese are often tested for hypertension, diabetes, hyperlipidemia, and fatty liver disease.[81] Treatments used in children are primarily lifestyle interventions and behavioral techniques, although efforts to increase activity in children have had little success.[241] In the United States, medications are not FDA approved for use in this age group.[237] Multi-component behaviour change interventions that include changes to dietary and physical activity may reduce BMI in the short term in children aged 6 to 11 years, although the benefits are small and quality of evidence is low.[242]
+Other animals
+Main article: Obesity in pets
+
+Obesity in pets is common in many countries. In the United States, 23–41% of dogs are overweight, and about 5.1% are obese.[243] The rate of obesity in cats was slightly higher at 6.4%.[243] In Australia the rate of obesity among dogs in a veterinary setting has been found to be 7.6%.[244] The risk of obesity in dogs is related to whether or not their owners are obese; however, there is no similar correlation between cats and their owners.[245] 

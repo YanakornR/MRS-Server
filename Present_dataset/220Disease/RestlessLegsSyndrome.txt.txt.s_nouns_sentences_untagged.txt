@@ -1,0 +1,121 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN song|NN leg|NN man|NN biscuit|NN bono|NN 
+restless_legs_syndrome|DS name|NN restless_legs_syndrome|DS restless_legs_syndrome|DS restless_legs_syndrome|DS restless_legs_syndrome|DS sleep|NN pattern|NN diagram|NN sleep|NN pattern|NN person|NN restless_legs_syndrome|DS red|NN sleep|NN pattern|NN blue|NN 
+sleep|NN medicine|NN symptom|NN feel|NN leg|NN complication|NN daytime|NN sleepiness|NN energy|NN irritability|ST mood|NN onset|NN age|NN risk|NN factor|NN iron|NN level|NN kidney|NN failure|NN disease|NN diabete|NN mellitus|NN arthritis|DS pregnancy|NN medication|NN method|NN symptom|NN rule|NN cause|NN treatment|NN lifestyle|NN change|NN medication|NN dopamine|NN agonist|NN frequency|NN 
+restless_legs_syndrome|DS restless_legs_syndrome|DS term|NN disorder|NN urge|NN leg|NN feel|NN leg|NN tingle|NN nature|NN arm|NN feel|NN rest|NN disturbance|NN sleep|NN people|NN restless_legs_syndrome|DS daytime|NN sleepiness|NN energy|NN irritability|ST mood|NN limb|NN sleep|NN 
+risk|NN factor|NN restless_legs_syndrome|DS iron|NN level|NN kidney|NN failure|NN disease|NN diabete|NN mellitus|NN arthritis|DS pregnancy|NN number|NN medication|NN disorder|NN antidepressant|NN antihistamine|NN calcium|NN channel|NN blocker|NN type|NN onset|NN restless_legs_syndrome|DS age|NN run|NN family|NN time|NN onset|NN restless_legs_syndrome|DS age|NN diagnosis|NN person|NN symptom|NN rule|NN cause|NN 
+leg|NN syndrome|NN problem|NN treatment|NN lifestyle|NN change|NN medication|NN lifestyle|NN change|NN stop|NN alcohol|NN tobacco|NN use|NN sleep|NN hygiene|NN dopamine|NN agonist|NN restless_legs_syndrome|DS 2515|NN population|NN female|NN male|NN age|NN content|NN 
+sign|NN symptom|NN cause|NN genetics|NN mechanism|NN diagnosis|NN diagnosis|NN treatment|NN measure|NN iron|NN epidemiology|NN history|NN nomenclature|NN controversy|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN 
+restless_legs_syndrome|DS sensation|NN range|NN pain|ST muscle|NN itch|ST cant|NN sensation|NN tickle|NN wont|NN feel|NN limb|NN 
+sensation|NN wakefulness|NN read|NN 
+spectrum|NN disease|NN people|NN annoyance|NN disruption|NN sleep|NN impairment|NN quality|NN life|NN 
+sensationsand|NN need|NN return|NN movement|NN time|NN 
+restless_legs_syndrome|DS age|NN childhood|NN disease|NN symptom|NN survey|NN member|NN restless_legs_syndrome|DS foundation|NN patient|NN symptom|NN age|NN year|NN 
+urge|NN sensation|NN leg|NN arm|NN 
+sensation|NN sensation|NN 
+restless_legs_syndrome|DS time|NN word|NN phrase|NN itch|ST pin|NN needle|NN buzz|NN numbness|NN 
+limb|NN sense|NN awareness|NN area|NN 
+sensation|NN urge|NN body|NN part|NN location|NN leg|NN arm|NN 
+people|NN sensation|NN urge|NN 
+motor|NN restlessness|NN activity|NN urge|NN 
+movement|NN relief|NN 
+walk|NN yoga|NN bike|NN activity|NN symptom|NN 
+movement|NN leg|NN leg|NN sensation|NN bay|NN 
+movement|NN person|NN 
+worsening|NN symptom|NN relaxation|NN 
+sit|NN read|NN plane|NN ride|NN tv|NN sensation|NN urge|NN 
+severity|NN person|NN restless_legs_syndrome|DS degree|NN duration|NN inactivity|NN 
+course|NN cycle|NN symptom|NN even|NN night|NN 
+experience|NN restless_legs_syndrome|DS bedtime|NN experience|NN day|NN night|NN 
+people|NN symptom|NN even|NN morn|NN 
+leg|NN urge|NN yawn|NN leg|NN arm|NN 
+symptom|NN restless_legs_syndrome|DS patient|NN poll|NN presence|NN daytime|NN difficulty|NN condition|NN 
+problem|NN range|NN work|NN work|NN event|NN drowsiness|NN 
+patient|NN restless_legs_syndrome|DS drive|NN patient|NN restless_legs_syndrome|DS 
+daytime|NN difficulty|NN safety|NN issue|NN patient|NN society|NN 
+individual|NN restless_legs_syndrome|DS rate|NN depression|ST anxiety|ST disorder|NN 
+restless_legs_syndrome|DS cause|NN 
+restless_legs_syndrome|DS year|NN age|NN month|NN year|NN 
+restless_legs_syndrome|DS children|NN pain|ST 
+restless_legs_syndrome|DS onset|NN age|NN begine|NN 
+condition|NN use|NN drug|NN 
+cause|NN result|NN use|NN iron|NN brain|NN restless_legs_syndrome|DS iron_deficiency|DS body|NN iron|NN status|NN condition|NN disease|NN folate|NN deficiency|NN magnesium|NN deficiency|NN sleep|NN diabete|NN neuropathy|NN disease|NN autoimmune|NN disease|NN sclerosis|NN restless_legs_syndrome|DS pregnancy|NN level|NN use|NN alcohol|NN nicotine|NN product|NN caffeine|NN restless_legs_syndrome|DS adhd|NN 
+association|NN attention_deficit_hyperactivity_disorder|DS restless_legs_syndrome|DS limb|NN movement|NN disorder|NN condition|NN link|NN dysfunction|NN neurotransmitter|NN dopamine|NN medication|NN condition|NN system|NN dopamine|NN level|NN brain|NN study|NN people|NN adhd|NN restless_legs_syndrome|DS people|NN restless_legs_syndrome|DS symptom|NN condition|NN 
+medication|NN restless_legs_syndrome|DS 
+antiemetics|NN generation|NN medication|NN antidepressant|NN ssris|NN rebound|NN effect|NN drug|NN withdrawal|NN syndrome|NN tranquilizer|NN sleep|NN pill|NN alcohol|NN withdrawal|NN restless_legs_syndrome|DS movement|NN disorder|NN withdrawal|NN restless_legs_syndrome|DS 
+restless_legs_syndrome|DS surgery|NN kind|NN surgery|NN injury|NN restless_legs_syndrome|DS 
+cause|NN effect|NN condition|NN behavior|NN patient|NN weight|NN lack|NN exercise|NN depression|ST illness|NN 
+loss|NN sleep|NN restless_legs_syndrome|DS condition|NN medication|NN condition|NN restless_legs_syndrome|DS genetics|NN 
+case|NN restless_legs_syndrome|DS fashion|NN variable|NN penetrance|NN 
+research|NN brain|NN autopsy|NN system|NN iron|NN insufficiency|NN nigra|NN iron|NN cofactor|NN formation|NN l-dopa|NN precursor|NN dopamine|NN 
+locy|NN linkage|NN 
+linkage|NN locy|NN model|NN inheritance|NN 
+locus|NN family|NN map|NN chromosome|NN locus|NN inheritance|NN model|NN 
+evidence|NN locus|NN transmission|NN disequilibrium|NN test|NN family|NN second|NN restless_legs_syndrome|DS locus|NN map|NN chromosome|NN family|NN evidence|NN locus|NN family|NN association|NN study|NN sample|NN trio|NN descent|NN evidence|NN locus|NN locus|NN map|NN chromosome|NN 9p|NN family|NN evidence|NN locus|NN tdt|NN family|NN linkage|NN locus|NN locus|NN map|NN chromosome|NN 20p|NN family|NN restless_legs_syndrome|DS locus|NN map|NN chromosome|NN 2p|NN family|NN population|NN south|NN tyrol|NN locus|NN chromosome|NN 
+gene|NN btbd9|NN restless_legs_syndrome|DS role|NN restless_legs_syndrome|DS pathogenesis|NN 
+gene|NN restless_legs_syndrome|DS 
+evidence|NN limb|NN movement|NN sleep|NN plm|NN btbd9|NN chromosome|NN map2k5skor1|NN presence|NN family|NN history|NN involvement|NN etiology|NN restless_legs_syndrome|DS 
+pathophysiology|NN restless_legs_syndrome|DS dopamine|NN iron|NN system|NN anomaly|NN rhythm|NN mechanism|NN biomarker|NN rhythm|NN body|NN temperature|NN interaction|NN iron|NN uptake|NN function|NN neuromelanin-contain|NN dopamine-produce|NN cell|NN role|NN restless_legs_syndrome|DS development|NN iron_deficiency|DS brain|NN transmission|NN way|NN 
+nucley|NN role|NN restless_legs_syndrome|DS part|NN system|NN system|NN pain|ST perception|NN improvement|NN restless_legs_syndrome|DS symptom|NN people|NN dopamine|NN agonist|NN diagnosis|NN 
+test|NN restless_legs_syndrome|DS laboratory|NN test|NN rule|NN cause|NN vitamin|NN deficiency|NN 
+symptom|NN diagnosis|NN 
+urge|NN limb|NN sensation|NN 
+inactivity|NN rest|NN 
+even|NN night|NN 
+symptom|NN condition|NN 
+symptom|NN restless_legs_syndrome|DS patient|NN 
+component|NN family|NN history|NN restless_legs_syndrome|DS response|NN therapy|NN leg|NN movement|NN day|NN sleep|NN people|NN sleep|NN disturbance|NN iron|NN store|NN risk|NN factor|NN 
+classification|NN sleep_disorder|DS symptom|NN sleep|NN disturbance|NN impairment|NN order|NN restless_legs_syndrome|DS diagnosis|NN diagnosis|NN 
+condition|NN restless_legs_syndrome|DS leg|NN cramp|DS discomfort|NN leg|NN injury|NN arthritis|DS leg|NN stasis|NN neuropathy|NN foot|NN anxiety|ST akathisia|ST 
+artery|NN disease|NN arthritis|DS leg|NN pain|ST movement|NN 
+condition|NN myopathy|DS tremor|ST leg|NN toe|NN treatment|NN 
+restless_legs_syndrome|DS cause|NN frequency|NN lifestyle|NN modification|NN sleep|NN hygiene|NN exercise|NN stop|NN smoke|NN dopamine|NN agonist|NN gabapentin|NN restless_legs_syndrome|DS opioid|NN treatment|NN case|NN 
+treatment|NN restless_legs_syndrome|DS cause|NN 
+restless_legs_syndrome|DS condition|NN measure|NN 
+leg|NN muscle|NN relief|NN walk|NN leg|NN name|NN leg|NN relief|NN 
+fact|NN restless_legs_syndrome|DS need|NN walk|NN symptom|NN 
+symptom|NN walk|NN 
+vibratory|NN device|NN people|NN restless_legs_syndrome|DS sleep|NN iron|NN 
+evidence|NN iron|NN supplementation|NN restlessness|NN people|NN restless_legs_syndrome|DS medication|NN 
+restless_legs_syndrome|DS sleep|NN activity|NN medication|NN 
+evidence|NN use|NN dopamine|NN agonist|NN ropinirole|NN symptom|NN sleep|NN quality|NN quality|NN life|NN levodopa|NN association|NN risk|NN heart|NN disease|NN onset|NN duration|NN patch|NN plasma|NN drug|NN concentration|NN effect|NN patient|NN symptom|NN day|NN review|NN 
+issue|NN use|NN dopamine|NN agonist|NN augmentation|NN 
+condition|NN drug|NN symptom|NN severity|NN day|NN 
+agonist|NN rebound|NN symptom|NN drug|NN 
+case|NN dopamine|NN agonist|NN risk|NN augmentation|NN rebound|NN severity|NN symptom|NN 
+study|NN dopamine|NN agonist|NN leg|NN syndrome|NN increase|NN gamble|NN 
+treatment|NN restless_legs_syndrome|DS case|NN measure|NN rate|NN side|NN effect|NN constipation|ST fatigue|ST headache|ST opioid|NN case|NN measure|NN side|NN effect|NN safety|NN 
+treatment|NN restless_legs_syndrome|DS dopamine|NN agonist|NN patient|NN dopamine|NN syndrome|NN mean|NN pattern|NN dopamine|NN replacement|NN therapy|NN 
+disturbance|NN impulse|NN control|NN disorder|NN gamble|NN purchase|NN eate|NN indication|NN dopamine|NN agonist|NN treatment|NN impact|NN resolution|NN enhancement|NN impulse|NN control|NN disorder|NN people|NN dopamine|NN agonist|NN withdrawal|NN syndrome|NN 
+diazepam|NN effectiveness|NN line|NN agent|NN risk|NN side|NN effect|NN blood|NN 
+restless_legs_syndrome|DS symptom|NN age|NN form|NN restless_legs_syndrome|DS people|NN condition|NN therapy|NN disorder|NN symptom|NN period|NN sleep|NN 
+addition|NN people|NN remission|NN period|NN symptom|NN decrease|NN day|NN week|NN month|NN symptom|NN restless_legs_syndrome|DS disease|NN disease|NN restless_legs_syndrome|DS symptom|NN time|NN drug|NN therapy|NN effect|NN augmentation|NN symptom|NN day|NN affect|NN movement|NN limb|NN cure|NN restless_legs_syndrome|DS epidemiology|NN 
+restless_legs_syndrome|DS 2515|NN population|NN minority|NN population|NN experience|NN symptom|NN restless_legs_syndrome|DS women|NN men|NN caucasian|NN restless_legs_syndrome|DS people|NN descent|NN restless_legs_syndrome|DS individual|NN region|NN east|NN factor|NN diet|NN role|NN prevalence|NN syndrome|NN restless_legs_syndrome|DS age|NN course|NN restless_legs_syndrome|DS individual|NN iron_deficiency|DS pregnancy|NN kidney|NN disease|NN health|NN 
+risk|NN factor|NN restless_legs_syndrome|DS age|NN family|NN history|NN pregnancy|NN uremia|DS 
+prevalence|NN restless_legs_syndrome|DS age|NN severity|NN duration|NN symptom|NN 
+prevalence|NN restless_legs_syndrome|DS pregnancy|NN women|NN symptom|NN recovery|NN restless_legs_syndrome|DS week|NN delivery|NN 
+patient|NN uremia|DS dialysis|NN prevalence|NN patient|NN kidney|NN transplant|NN enhancement|NN dialysis|NN 
+condition|NN restless_legs_syndrome|DS disease|NN cerebellar|NN atrophy|DS radiculopathy|NN disease|NN type|NN people|NN restless_legs_syndrome|DS limb|NN movement|NN disorder|NN jerk|NN flexion|NN body|NN part|NN 
+sleep|NN limb|NN movement|NN sleep|NN plmwperiodic|NN limb|NN movement|NN wake|NN 
+sleep|NN foundation|NN sleep|NN america|NN poll|NN percent|NN women|NN restless_legs_syndrome|DS trimester|NN history|NN 
+description|NN restless_legs_syndrome|DS sir|NN thomas|NN willis|NN willis|NN sleep|NN disruption|NN limb|NN movement|NN people|NN restless_legs_syndrome|DS 
+de|NN anima|NN english|NN london|NN practice|NN willis|NN 
+arm|NN leg|NN contraction|NN tendon|NN restlessness|NN toss|NN member|NN place|NN torture|NN 
+term|NN leg|NN century|NN 
+description|NN restless_legs_syndrome|DS francois|NN de|NN magnus|NN george|NN miller|NN beard|NN georges|NN gilles|NN de|NN la|NN hermann|NN oppenheim|NN frederick|NN gerard|NN allison|NN century|NN willis|NN ekbom|NN report|NN condition|NN thesis|NN leg|NN study|NN disease|NN term|NN leg|NN work|NN disorder|NN career|NN 
+symptom|NN differential|NN diagnosis|NN condition|NN prevalence|NN relation|NN anemia|DS occurrence|NN pregnancy|NN 
+work|NN arthur|NN s|NN 
+walters|NN wayne|NN 
+landmark|NN publication|NN paper|NN criteria|NN journal|NN parkinsonism|DS restless_legs_syndrome|DS peer-review|NN access|NN journal|NN publish|NN research|NN disease|NN neurologist|NN dr|NN 
+abdul|NN qayyum|NN rana|NN 
+decade|NN name|NN disease|NN restless_legs_syndrome|DS 
+restless_legs_syndrome|DS foundation|NN restless_legs_syndrome|DS foundation|NN use|NN name|NN restless_legs_syndrome|DS reason|NN 
+name|NN restless_legs_syndrome|DS 
+descriptorsthe|NN condition|NN part|NN body|NN leg|NN ease|NN use|NN trivialization|NN disease|NN treatment|NN media|NN description|NN sir|NN thomas|NN willis|NN description|NN dr|NN 
+karl|NN axel|NN 
+point|NN confusion|ST restless_legs_syndrome|DS parasitosis|NN condition|NN syndrome|NN syndrome|NN person|NN restless_legs_syndrome|DS restless_legs_syndrome|DS syndrome|NN usage|NN name|NN restless_legs_syndrome|DS restless_legs_syndrome|DS clarity|NN 
+doctor|NN view|NN incidence|NN leg|NN syndrome|NN manufacturer|NN drug|NN underrecognize|NN disorder|NN advertisement|NN use|NN drug|NN treatment|NN restless_legs_syndrome|DS support|NN group|NN 
+website|NN statement|NN use|NN ropinirole|NN restless_legs_syndrome|DS 
+abpy|NN gsk|NN case|NN research|NN 
+measurement|NN treatment|NN restless_legs_syndrome|DS 
+rate|NN score|NN restless_legs_syndrome|DS rate|NN scale|NN restless_legs_syndrome|DS impression|NN cgi|NN patient|NN impression|NN quality|NN life|NN questionnaire|NN information|NN severity|NN progress|NN disease|NN person|NN quality|NN life|NN sleep|NN polysomnography|NN parameter|NN resource|NN evidence|NN sleep|NN disturbance|NN restless_legs_syndrome|DS symptom|NN 

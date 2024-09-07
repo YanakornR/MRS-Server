@@ -1,0 +1,228 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN influenza|DS 
+use|NN influenza|DS disambiguation|NN disambiguation|NN 
+influenza|DS name|NN influenza|DS influenza|DS em|NN influenza|DS influenza|DS virus|NN time|NN disease|NN symptom|NN fever|ST nose|NN throat|NN muscle|NN pain|ST headache|ST cough|ST sneez|NN feel|NN onset|NN day|NN exposure|NN duration|NN week|NN cause|NN influenza|DS viruse|NN prevention|NN mask|NN influenza|DS vaccine|NN drug|NN frequency|NN year|NN death|NN year|NN 
+influenza|DS influenza|DS disease|NN influenza|DS virus|NN symptom|NN symptom|NN fever|ST nose|NN throat|NN muscle|NN pain|ST headache|ST cough|ST sneez|NN feel|NN symptom|NN day|NN exposure|NN virus|NN week|NN cough|ST week|NN children|NN vomit|NN adult|NN vomit|NN gastroenteritis|DS disease|NN stomach|NN influenza|DS influenza|DS complication|NN influenza|DS pneumonia|DS pneumonia|DS sinus|NN infection|NN worsen|NN health|NN problem|NN asthma|DS heart|NN failure|NN 
+type|NN influenza|DS viruse|NN human|NN type|NN type|NN type|NN c|NN type|NN d|NN human|NN potential|NN virus|NN air|NN cough|ST distance|NN surface|NN virus|NN mouth|NN eye|NN person|NN time|NN symptom|NN infection|NN throat|NN sputum|ST nose|NN virus|NN number|NN test|NN people|NN infection|NN result|NN type|NN polymerase|NN chain|NN reaction|NN rna|NN 
+hand|NN wash|NN risk|NN spread|NN mask|NN vaccination|NN influenza|DS world|NN health|NN organization|NN risk|NN vaccine|NN type|NN influenza|DS vaccine|NN year|NN year|NN virus|NN drug|NN inhibitor|NN influenza|DS benefit|NN drug|NN risk|NN benefit|NN health|NN problem|NN 
+influenza|DS world|NN outbreak|NN case|NN illness|NN 250000|NN death|NN children|NN adult|NN year|NN part|NN world|NN outbreak|NN winter|NN equator|NN outbreak|NN time|NN year|NN death|NN health|NN problem|NN outbreak|NN pandemics|NN century|NN influenza|DS pandemics|NN influenza|DS death|NN influenza|DS death|NN hong|NN kong|NN influenza|DS death|NN world|NN health|NN organization|NN outbreak|NN type|NN influenza|DS ah1n1|NN june|NN influenza|DS animal|NN pig|NN horse|NN bird|NN influenza|DS media|NN video|NN summary|NN script|NN content|NN 
+sign|NN symptom|NN symptom|NN influenza|DS emergency|NN warn|NN sign|NN type|NN virus|NN structure|NN property|NN subtype|NN nomenclature|NN mechanism|NN transmission|NN prevention|NN vaccination|NN infection|NN control|NN diagnosis|NN treatment|NN epidemiology|NN variation|NN spread|NN history|NN society|NN culture|NN research|NN animal|NN bird|NN influenza|DS swine_influenza|DS reference|NN read|NN link|NN 
+sign|NN symptom|NN symptom|NN influenza|DS sensitivity|NN specificity|NN fever|ST cough|ST congestion|NN 
+find|NN fever|ST people|NN year|NN age|NN 
+symptom|NN influenza|DS fever|ST symptom|NN 
+people|NN influenza|DS 
+symptom|NN influenza|DS day|NN infection|NN 
+symptom|NN chill|NN body|NN ache|NN fever|ST infection|NN body|NN temperature|NN c|NN f|NN people|NN bed|NN day|NN ache|NN pain|ST body|NN back|NN leg|NN symptom|NN influenza|DS 
+fever|ST chill|NN congestion|NN nose|NN throat|NN muscle|NN pain|ST fatigue|ST headache|ST water|NN eye|NN eye|NN skin|NN face|NN mouth|NN throat|NN nose|NN rash|ST children|NN symptom|NN vomit|NN pain|ST children|NN influenza|DS b|NN 
+cold|NN influenza|DS stage|NN infection|NN influenza|DS symptom|NN mixture|NN symptom|NN cold|NN pneumonia|DS body|NN ache|NN headache|ST fatigue|ST 
+symptom|NN influenza|DS adult|NN case|NN bird|NN influenza|DS symptom|NN children|NN symptom|NN influenza|DS table|NN 
+combination|NN fever|ST cough|ST predictor|NN accuracy|NN increase|NN body|NN temperature|NN decision|NN analysis|NN study|NN outbreak|NN influenza|DS prevalence|NN absence|NN outbreak|NN diagnosis|NN influenza|DS season|NN prevalence|NN 
+united|NN states|NN center|NN disease|NN control|NN prevention|NN cdc|NN summary|NN laboratory|NN test|NN cdc|NN test|NN sensitivity|NN 5075|NN specificity|NN 9095|NN culture|NN 
+influenza|DS illness|NN pneumonia|DS pneumonia|DS symptom|NN trouble|NN breath|NN 
+addition|NN child|NN adult|NN relapse|NN fever|ST danger|NN sign|NN relapse|NN pneumonia|DS 
+influenza|DS presentation|NN confusion|ST syndrome|NN emergency|NN warn|NN sign|NN 
+shortness|NN breath|NN chest_pain|ST confusion|ST vomit|NN influenza|DS symptom|NN relapse|NN fever|ST cough|ST pneumonia|DS fever|ST rash|ST 
+inability|NN influenza|DS id|NN 
+sign|NN dehydration|NN 
+infant|NN diaper|NN influenza|DS id|NN infant|NN tear|NN 
+type|NN virus|NN structure|NN influenza|DS virion|NN 
+hemagglutinin|NN na|NN protein|NN surface|NN particle|NN 
+rna|NN genome|NN coil|NN particle|NN rnp|NN 
+virus|NN classification|NN influenza|DS viruse|NN rna|NN viruse|NN genera|NN family|NN 
+influenza|DS virus|NN influenza|DS virus|NN b|NN influenza|DS virus|NN c|NN influenza|DS virus|NN d|NN 
+viruse|NN para|NN influenza|DS viruse|NN rna|NN viruse|NN family|NN cause|NN infection|NN children|NN croup|DS disease|NN influenza|DS adult|NN 
+family|NN influenza|DS viruse|NN 2016|NN influenza|DS d|NN type|NN specy|NN family|NN influenza|DS d|NN virus|NN influenza|DS virus|NN 
+genus|NN specy|NN influenza|DS virus|NN 
+bird|NN host|NN variety|NN influenza|DS 
+viruse|NN specy|NN outbreak|NN poultry|NN rise|NN influenza|DS type|NN viruse|NN pathogen|NN influenza|DS type|NN disease|NN 
+influenza|DS virus|NN serotype|NN antibody|NN response|NN viruse|NN serotype|NN human|NN number|NN death|NN 
+influenza|DS swine_influenza|DS h2n2|NN influenza|DS hong|NN kong|NN influenza|DS bird|NN influenza|DS potential|NN human|NN pig|NN bird|NN h7n3|NN epidemic|NN china|NN potential|NN type|NN subtype|NN person|NN 
+influenza|DS virus|NN influenza|DS virus|NN nomenclature|NN fujian|NN influenza|DS virus|NN 
+genus|NN specy|NN influenza|DS b|NN virus|NN 
+influenza|DS b|NN human|NN influenza|DS 
+animal|NN influenza|DS b|NN infection|NN seal|NN ferret|NN type|NN influenza|DS mutate|NN rate|NN time|NN type|NN influenza|DS b|NN result|NN lack|NN diversity|NN degree|NN immunity|NN influenza|DS b|NN age|NN 
+influenza|DS b|NN immunity|NN rate|NN change|NN host|NN range|NN cross|NN specy|NN shift|NN pandemics|NN influenza|DS b|NN influenza|DS virus|NN c|NN 
+genus|NN specy|NN influenza|DS c|NN virus|NN human|NN dog|NN pig|NN illness|NN epidemics|NN influenza|DS c|NN type|NN disease|NN children|NN influenza|DS virus|NN 
+genus|NN specy|NN influenza|DS d|NN virus|NN pig|NN cattle|NN 
+virus|NN potential|NN human|NN case|NN structure|NN property|NN subtype|NN nomenclature|NN 
+influenza|DS viruse|NN structure|NN virus|NN particle|NN virion|NN diameter|NN virion|NN shape|NN length|NN particle|NN fact|NN influenza|DS excess|NN virion|NN shape|NN particle|NN influenza|DS viruse|NN composition|NN envelope|NN type|NN glycoprotein|NN core|NN 
+core|NN rna|NN genome|NN protein|NN package|NN rna|NN 
+rna|NN case|NN virus|NN genome|NN piece|NN acid|NN piece|NN negative-sense|NN rna|NN piece|NN rna|NN gene|NN code|NN gene|NN product|NN protein|NN example|NN influenza|DS genome|NN gene|NN piece|NN rna|NN encod|NN protein|NN na|NN np|NN matrix|NN protein|NN protein|NN name|NN nep|NN export|NN protein|NN pa|NN polymerase|NN 
+glycoprotein|NN outside|NN particle|NN 
+lectin|NN bind|NN virus|NN target|NN cell|NN entry|NN genome|NN target|NN cell|NN na|NN release|NN progeny|NN virus|NN cell|NN sugar|NN particle|NN protein|NN target|NN drug|NN antigen|NN antibody|NN 
+influenza|DS viruse|NN subtype|NN antibody|NN response|NN 
+type|NN basis|NN h|NN n|NN distinction|NN example|NN n|NN subtype|NN h|NN human|NN host|NN cell|NN invasion|NN replication|NN influenza|DS virus|NN 
+step|NN process|NN text|NN 
+viruse|NN live|NN cell|NN influenza|DS infection|NN replication|NN process|NN virus|NN cell|NN genome|NN site|NN copy|NN protein|NN rna|NN component|NN particle|NN exit|NN host|NN cell|NN 
+influenza|DS viruse|NN hemagglutinin|NN acid|NN sugar|NN surface|NN cell|NN nose|NN throat|NN lung|NN mammal|NN intestine|NN bird|NN stage|NN infection|NN figure|NN hemagglutinin|NN protease|NN cell|NN import|NN virus|NN 
+organize|NN center|NN endosome|NN target|NN genome|NN release|NN 
+cell|NN condition|NN cause|NN event|NN part|NN protein|NN envelope|NN membrane|NN ion|NN channel|NN proton|NN envelope|NN core|NN virus|NN core|NN disassemble|NN release|NN rna|NN core|NN protein|NN rna|NN molecule|NN accessory|NN protein|NN rna|NN polymerase|NN cytoplasm|NN stage|NN ion|NN channel|NN drug|NN infection|NN 
+core|NN protein|NN form|NN complex|NN cell|NN nucleus|NN rna|NN polymerase|NN positive-sense|NN step|NN vrna|NN cytoplasm|NN step|NN nucleus|NN 
+protein|NN apparatus|NN cell|NN surface|NN case|NN neuraminidase|NN step|NN nucleus|NN form|NN genome|NN particle|NN step|NN 
+protein|NN action|NN host|NN cell|NN mrna|NN nucleotide|NN synthesis|NN translation|NN mrna|NN 
+form|NN genome|NN viruse|NN rna|NN polymerase|NN protein|NN virion|NN 
+molecule|NN cluster|NN bulge|NN cell|NN membrane|NN 
+vrna|NN core|NN protein|NN nucleus|NN membrane|NN protrusion|NN step|NN 
+virus|NN bud|NN cell|NN sphere|NN host|NN membrane|NN hemagglutinin|NN neuraminidase|NN membrane|NN coat|NN step|NN viruse|NN cell|NN hemagglutinin|NN viruse|NN neuraminidase|NN acid|NN residue|NN host|NN cell|NN release|NN influenza|DS viruse|NN host|NN cell|NN 
+absence|NN rna|NN enzyme|NN rna|NN polymerase|NN genome|NN error|NN nucleotide|NN length|NN influenza|DS vrna|NN 
+majority|NN influenza|DS viruse|NN mutant|NN cause|NN drift|NN change|NN antigen|NN surface|NN time|NN separation|NN genome|NN segment|NN vrna|NN mix|NN reassortment|NN vrna|NN type|NN influenza|DS virus|NN cell|NN 
+change|NN genetics|NN shift|NN change|NN antigen|NN 
+change|NN virus|NN host|NN specy|NN immunity|NN emergence|NN pandemics|NN section|NN epidemiology|NN 
+mechanism|NN transmission|NN 
+person|NN sneeze|NN cough|ST virus|NN particle|NN adult|NN influenza|DS virus|NN time|NN person|NN person|NN day|NN infection|NN peak|NN day|NN duration|NN daysbut|NN day|NN symptom|NN infection|NN individual|NN symptom|NN shed|NN pattern|NN shed|NN illness|NN day|NN children|NN adult|NN shed|NN virus|NN symptom|NN week|NN infection|NN people|NN shed|NN week|NN 
+influenza|DS way|NN transmission|NN person|NN mucus|NN eye|NN nose|NN mouth|NN person|NN route|NN aerosol|NN person|NN cough|ST sneez|NN spit|NN hand-to-nose|NN transmission|NN surface|NN contact|NN handshake|NN 
+importance|NN mode|NN transmission|NN spread|NN virus|NN route|NN droplet|NN people|NN m|NN diameter|NN droplet|NN infection|NN sneeze|NN droplet|NN droplet|NN air|NN influenza|DS droplet|NN influenza|DS ence|NN level|NN humidity|NN radiation|NN humidity|NN lack|NN sunlight|NN winter|NN survival|NN 
+influenza|DS virus|NN outside|NN body|NN surface|NN banknote|NN switche|NN household|NN item|NN length|NN time|NN virus|NN surface|NN virus|NN day|NN surface|NN plastic|NN metal|NN minute|NN paper|NN tissue|NN minute|NN skin|NN virus|NN mucus|NN period|NN day|NN banknote|NN influenza|DS viruse|NN heate|NN c|NN f|NN minimum|NN minute|NN acid|NN ph|NN site|NN infection|NN red|NN h1n1|NN h5n1|NN 
+influenza|DS lethality|NN ability|NN spread|NN 
+mechanism|NN influenza|DS infection|NN symptom|NN human|NN 
+mechanism|NN inhibition|NN hormone|NN level|NN gene|NN strain|NN human|NN infection|NN strain|NN pathophysiology|NN 
+instance|NN part|NN process|NN influenza|DS viruse|NN cell|NN cleavage|NN hemagglutinin|NN protein|NN protease|NN viruse|NN structure|NN hemagglutinin|NN protease|NN throat|NN lung|NN viruse|NN tissue|NN 
+strain|NN hemagglutinin|NN variety|NN protease|NN virus|NN body|NN 
+hemagglutinin|NN protein|NN specy|NN strain|NN tract|NN strain|NN influenza|DS strain|NN people|NN protein|NN receptor|NN part|NN tract|NN nose|NN throat|NN mouth|NN 
+contrast|NN h5n1|NN strain|NN receptor|NN lung|NN difference|NN site|NN infection|NN part|NN reason|NN strain|NN pneumonia|DS lung|NN people|NN cough|ST sneez|NN 
+symptom|NN influenza|DS fever|ST headache|ST fatigue|ST result|NN amount|NN cytokine|NN chemokine|NN interferon|NN tumor|NN necrosis|NN factor|NN influenza|DS cell|NN contrast|NN rhinovirus|NN influenza|DS tissue|NN damage|NN symptom|NN response|NN response|NN cytokine|NN storm|NN 
+effect|NN cause|NN lethality|NN influenza|DS strain|NN possibility|NN amount|NN cytokine|NN result|NN level|NN replication|NN strain|NN response|NN disease|NN influenza|DS cell|NN death|NN apoptosis|NN prevention|NN vaccination|NN article|NN influenza|DS vaccine|NN influenza|DS vaccination|NN 
+influenza|DS vaccine|NN world|NN health|NN organization|NN united|NN states|NN center|NN disease|NN control|NN prevention|NN cdc|NN group|NN children|NN health|NN care|NN worker|NN people|NN illness|NN asthma|DS diabete|NN heart|NN disease|NN adult|NN amount|NN influenza|DS symptom|NN population|NN children|NN age|NN vaccine|NN chance|NN influenza|DS children|NN disease|NN vaccination|NN asthma|DS evidence|NN rate|NN influenza|DS illness|NN group|NN cancer|DS post|NN organ|NN transplant|NN risk|NN immunization|NN risk|NN heart|NN disease|NN health|NN care|NN worker|NN patient|NN outcome|NN review|NN evidence|NN evidence|NN 
+mutation|NN rate|NN virus|NN influenza|DS vaccine|NN protection|NN year|NN 
+year|NN world|NN health|NN organization|NN strain|NN virus|NN year|NN reformulation|NN influenza|DS vaccine|NN company|NN vaccine|NN immunity|NN strain|NN vaccine|NN season|NN influenza|DS strain|NN strain|NN world|NN season|NN 
+month|NN manufacturer|NN dose|NN deal|NN epidemics|NN strain|NN time|NN vaccination|NN strain|NN vaccine|NN vaccine|NN week|NN vaccine|NN system|NN body|NN infection|NN symptom|NN cold|NN influenza|DS symptom|NN infection|NN symptom|NN symptom|NN influenza|DS 
+effect|NN reaction|NN virus|NN material|NN residue|NN hen|NN egg|NN influenza|DS reaction|NN 
+2018|NN cochrane|NN review|NN children|NN health|NN immunization|NN risk|NN influenza|DS season|NN 
+vaccine|NN risk|NN influenza|DS season|NN 
+data|NN conclusion|NN complication|NN pneumonia|DS hospitalization|NN 
+adult|NN 2018|NN cochrane|NN review|NN vaccine|NN incidence|NN influenza|DS reduction|NN risk|NN 
+influenza|DS illness|NN symptom|NN cough|ST fever|ST headache|ST nose|NN ache|NN pain|ST vaccine|NN risk|NN 
+reduction|NN risk|NN 
+difference|NN fact|NN viruse|NN symptom|NN influenza|DS virus|NN 
+cost-effectiveness|NN influenza|DS vaccination|NN group|NN set|NN intervention|NN children|NN result|NN evaluation|NN influenza|DS vaccination|NN assumption|NN infection|NN control|NN information|NN influenza|DS prevention|NN 
+way|NN influenza|DS 
+transmission|NN person|NN mucus|NN eye|NN nose|NN mouth|NN person|NN route|NN aerosol|NN person|NN cough|ST sneez|NN hand-to-nose|NN transmission|NN surface|NN contact|NN hand-shake|NN 
+way|NN transmission|NN influenza|DS health|NN hygiene|NN habit|NN eye|NN nose|NN mouth|NN hand|NN wash|NN soap|NN water|NN hand|NN cough|ST sneeze|NN contact|NN people|NN home|NN 
+spit|NN face|NN mask|NN transmission|NN evidence|NN effect|NN community|NN smoke|NN risk|NN influenza|DS disease|NN symptom|NN 
+influenza|DS aerosol|NN contact|NN surface|NN surface|NN infection|NN alcohol|NN sanitizer|NN influenza|DS viruse|NN ammonium|NN compound|NN alcohol|NN effect|NN hospital|NN ammonium|NN compound|NN bleach|NN room|NN equipment|NN people|NN influenza|DS symptom|NN chlorine|NN bleach|NN 
+distance|NN strategy|NN past|NN close|NN school|NN churche|NN theater|NN spread|NN virus|NN effect|NN death|NN rate|NN gather|NN example|NN close|NN school|NN workplace|NN transmission|NN people|NN influenza|DS area|NN measure|NN number|NN people|NN risk|NN transmission|NN diagnosis|NN yr|NN 
+number|NN test|NN influenza|DS 
+assay|NN tract|NN specimen|NN mucus|NN swab|NN swab|NN day|NN symptom|NN onset|NN shed|NN spiral|NN treatment|NN article|NN influenza|DS treatment|NN 
+people|NN influenza|DS rest|NN drink|NN plenty|NN liquid|NN alcohol|NN tobacco|NN medication|NN paracetamol|NN fever|ST muscle|NN ache|NN influenza|DS contrast|NN evidence|NN support|NN corticosteroid|NN therapy|NN influenza|DS contact|NN spread|NN infection|NN children|NN teenager|NN influenza|DS symptom|NN fever|ST aspirin|NN influenza|DS infection|NN influenza|DS type|NN reyes|NN syndrome|NN disease|NN liver|NN influenza|DS virus|NN antibiotics|NN effect|NN infection|NN infection|NN pneumonia|DS 
+medication|NN hour|NN symptom|NN strain|NN influenza|DS resistance|NN drug|NN concern|NN quality|NN research|NN individual|NN children|NN women|NN system|NN doctor|NN drug|NN 
+emergency|NN warn|NN sign|NN emergency|NN room|NN 
+class|NN drug|NN influenza|DS inhibitor|NN laninamivir|NN peramivir|NN protein|NN inhibitor|NN derivative|NN 
+benefit|NN inhibitor|NN risk|NN benefit|NN health|NN problem|NN influenza|DS length|NN time|NN symptom|NN day|NN risk|NN complication|NN hospitalization|NN pneumonia|DS resistance|NN inhibitor|NN researcher|NN drug|NN mechanism|NN action|NN inhibitor|NN 
+drug|NN ion|NN channel|NN protein|NN replication|NN influenza|DS virus|NN drug|NN influenza|DS infection|NN influenza|DS b|NN viruse|NN drug|NN target|NN resistance|NN amantadine|NN rimantadine|NN isolate|NN h3n2|NN level|NN resistance|NN availability|NN amantadine|NN part|NN remedy|NN country|NN china|NN russia|NN use|NN outbreak|NN influenza|DS poultry|NN cdc|NN inhibitor|NN 200506|NN influenza|DS season|NN level|NN drug|NN resistance|NN 
+influenza|DS effect|NN cold|NN 
+people|NN week|NN complication|NN pneumonia|DS 
+influenza|DS system|NN people|NN system|NN people|NN hiv|DS infection|NN transplant|NN people|NN system|NN transplant|NN organ|NN rejection|NN disease|NN women|NN children|NN risk|NN complication|NN 
+influenza|DS health|NN problem|NN 
+people|NN emphysema|DS bronchitis|DS asthma|DS shortness|NN breath|NN influenza|DS influenza|DS worsen|NN heart|NN disease|NN heart|NN failure|NN smoke|NN risk|NN factor|NN disease|NN mortality|NN influenza|DS 
+world|NN health|NN organization|NN winter|NN people|NN influenza|DS 
+work|NN week|NN risk|NN death|NN illness|NN 
+death|NN toll|NN people|NN year|NN country|NN number|NN authority|NN influenza|DS influenza|DS illness|NN 
+people|NN problem|NN influenza|DS age|NN 
+people|NN year|NN women|NN children|NN people|NN age|NN condition|NN complication|NN influenza|DS pneumonia|DS bronchitis|DS sinus|NN ear|NN infection|NN 
+case|NN autoimmune|NN response|NN influenza|DS infection|NN development|NN syndrome|NN infection|NN risk|NN disease|NN influenza|DS cause|NN epidemics|NN syndrome|NN side|NN effect|NN influenza|DS vaccine|NN 
+review|NN incidence|NN case|NN vaccination|NN influenza|DS risk|NN death|NN risk|NN gb|NN level|NN level|NN vaccine|NN involvement|NN time|NN estimate|NN 
+center|NN disease|NN control|NN prevention|NN cdc|NN children|NN age|NN condition|NN children|NN influenza|DS 
+influenza|DS complication|NN children|NN pneumonia|DS death|NN 
+influenza|DS encephalitis|DS mry|NN 
+disorder|NN brain|NN cord|NN palsy|NN epilepsy|DS seizure|NN disorder|NN disability|NN delay|NN dystrophy|NN cord|NN injury|NN 
+condition|NN swallow|NN airway|NN case|NN breath|NN 
+influenza|DS symptom|NN epidemiology|NN variation|NN information|NN influenza|DS season|NN risk|NN area|NN influenza|DS aprilnovember|NN red|NN 
+influenza|DS peak|NN prevalence|NN winter|NN hemisphere|NN winter|NN time|NN year|NN influenza|DS season|NN year|NN 
+world|NN health|NN organization|NN influenza|DS center|NN recommendation|NN vaccine|NN formulation|NN year|NN hemisphere|NN 
+puzzle|NN outbreak|NN influenza|DS year|NN 
+explanation|NN people|NN winter|NN contact|NN transmission|NN person|NN person|NN 
+travel|NN hemisphere|NN winter|NN holiday|NN season|NN role|NN factor|NN temperature|NN lead|NN drier|NN air|NN mucus|NN particle|NN 
+particle|NN period|NN 
+virus|NN surface|NN temperature|NN aerosol|NN transmission|NN virus|NN environment|NN humidity|NN air|NN humidity|NN winter|NN cause|NN influenza|DS transmission|NN region|NN 
+change|NN infection|NN rate|NN region|NN country|NN peak|NN infection|NN season|NN change|NN contact|NN rate|NN school|NN term|NN factor|NN childhood|NN disease|NN measle|NN pertussis|DS role|NN influenza|DS 
+combination|NN effect|NN resonance|NN disease|NN cycle|NN exhibit|NN seasonality|NN human|NN bird|NN 
+hypothesis|NN seasonality|NN influenza|DS infection|NN effect|NN vitamin|NN level|NN immunity|NN virus|NN idea|NN robert|NN edgar|NN cause|NN influenza|DS epidemics|NN winter|NN influenza|DS ctuation|NN vitamin|NN skin|NN influenza|DS ence|NN radiation|NN 
+influenza|DS winter|NN season|NN people|NN sun|NN vitamin|NN d|NN level|NN fall|NN 
+spread|NN information|NN influenza|DS 
+influenza|DS variety|NN specy|NN strain|NN viruse|NN year|NN strain|NN epidemics|NN strain|NN 
+year|NN influenza|DS season|NN hemisphere|NN case|NN illness|NN death|NN definition|NN influenza|DS epidemic|NN incidence|NN influenza|DS year|NN death|NN hospitalization|NN influenza|DS year|NN united|NN states|NN method|NN influenza|DS mortality|NN estimate|NN death|NN year|NN united|NN states|NN method|NN center|NN disease|NN control|NN prevention|NN cdc|NN range|NN low|NN death|NN high|NN 49000|NN year|NN 
+time|NN century|NN proportion|NN world|NN population|NN people|NN section|NN 
+study|NN strain|NN virulence|NN influenza|DS people|NN shift|NN novel|NN strain|NN influenza|DS 
+influenza|DS viruse|NN mutation|NN mutation|NN change|NN hemagglutinin|NN neuraminidase|NN antigen|NN surface|NN virus|NN 
+drift|NN variety|NN strain|NN people|NN strain|NN 
+variant|NN strain|NN population|NN epidemic|NN strain|NN drift|NN strain|NN people|NN 
+contrast|NN influenza|DS viruse|NN antigensfor|NN example|NN reassortment|NN strain|NN strain|NN shift|NN 
+influenza|DS virus|NN antigen|NN influenza|DS contrast|NN model|NN pandemics|NN drift|NN approach|NN pandemics|NN interaction|NN set|NN strain|NN population|NN set|NN immunity|NN strain|NN generation|NN time|NN influenza|DS time|NN infection|NN day|NN 
+influenza|DS epidemics|NN start|NN finish|NN time|NN scale|NN month|NN 
+health|NN point|NN view|NN influenza|DS epidemics|NN 
+influenza|DS virus|NN strain|NN individual|NN individual|NN reproduction|NN number|NN influenza|DS 
+generation|NN time|NN influenza|DS time|NN person|NN person|NN day|NN 
+generation|NN time|NN influenza|DS epidemics|NN peak|NN month|NN month|NN decision|NN influenza|DS epidemic|NN decision|NN back|NN data|NN 
+problem|NN individual|NN people|NN quarantine|NN health|NN intervention|NN person|NN shed|NN peak|NN day|NN symptom|NN peak|NN day|NN history|NN influenza|DS etymology|NN 
+word|NN influenza|DS language|NN mean|NN influenza|DS ence|NN cause|NN disease|NN illness|NN influenza|DS ence|NN 
+english|NN century|NN epidemic|NN term|NN influenza|DS epidemic|NN catarrh|NN grippe|NN molyneaux|NN sweate|NN sickness|NN fever|ST influenza|DS strain|NN information|NN influenza|DS influenza|DS hong|NN kong|NN influenza|DS difference|NN influenza|DS mortality|NN age|NN distribution|NN epidemic|NN epidemics|NN 
+death|NN person|NN age|NN group|NN united|NN states|NN year|NN line|NN year|NN line|NN image|NN camera|NN screen|NN airport|NN terminal|NN greece|NN 2009|NN influenza|DS 
+image|NN body|NN temperature|NN sign|NN swine_influenza|DS 
+symptom|NN influenza|DS hippocrates|NN year|NN virus|NN epidemics|NN history|NN data|NN influenza|DS symptom|NN disease|NN disease|NN europe|NN americas|NN colonization|NN americas|NN population|NN antilles|NN epidemic|NN influenza|DS arrival|NN christopher|NN columbus|NN 
+record|NN influenza|DS outbreak|NN russia|NN spread|NN europe|NN africa|NN 
+rome|NN people|NN city|NN 
+century|NN quarter|NN people|NN 
+outbreak|NN influenza|DS spanish|NN influenza|DS type|NN influenza|DS subtype|NN 
+estimate|NN range|NN people|NN holocaust|NN history|NN people|NN death|NN death|NN toll|NN infection|NN rate|NN severity|NN symptom|NN cytokine|NN storm|NN symptom|NN influenza|DS cholera|DS typhoid|DS 
+observer|NN complication|NN mucous|NN membrane|NN nose|NN stomach|NN intestine|NN 
+ear|NN petechial|NN skin|NN 
+majority|NN death|NN pneumonia|DS infection|NN influenza|DS virus|NN people|NN hemorrhage|NN edema|ST lung|NN 
+influenza|DS spread|NN pacific|NN island|NN 
+disease|NN percent|NN influenza|DS epidemic|NN mortality|NN rate|NN feature|NN adult|NN influenza|DS death|NN people|NN adult|NN year|NN influenza|DS age|NN age|NN 
+mortality|NN world|NN population|NN 
+week|NN contrast|NN year|NN 
+influenza|DS type|NN strain|NN hong|NN kong|NN influenza|DS type|NN strain|NN outbreak|NN people|NN 
+antibiotics|NN infection|NN mortality|NN influenza|DS influenza|DS name|NN date|NN death|NN case|NN fatality|NN rate|NN index|NN influenza|DS influenza|DS 015|NN na|NN influenza|DS influenza|DS influenza|DS hong|NN kong|NN influenza|DS 075|NN influenza|DS count|NN na|NN h1n1|NN na|NN influenza|DS 20092010|NN 003|NN na|NN 
+influenza|DS virus|NN poultry|NN agent|NN disease|NN fowl|NN plague|DS filter|NN pore|NN bacteria|NN cause|NN influenza|DS virus|NN family|NN pig|NN richard|NN discovery|NN isolation|NN virus|NN human|NN group|NN patrick|NN laidlaw|NN research|NN council|NN kingdom|NN wendell|NN stanley|NN tobacco|NN mosaic|NN virus|NN nature|NN viruse|NN 
+type|NN influenza|DS viruse|NN human|NN 
+square|NN appearance|NN strain|NN influenza|DS 
+line|NN strain|NN identification|NN 
+step|NN influenza|DS development|NN vaccine|NN influenza|DS thomas|NN francis|NN jr|NN 
+work|NN frank|NN macfarlane|NN burnet|NN virus|NN virulence|NN hen|NN egg|NN application|NN observation|NN francis|NN group|NN researcher|NN university|NN michigan|NN influenza|DS vaccine|NN support|NN 
+army|NN army|NN research|NN experience|NN influenza|DS world|NN war|NN troop|NN virus|NN matter|NN month|NN comparison|NN vaccine|NN development|NN influenza|DS drug|NN year|NN class|NN drug|NN inhibitor|NN society|NN culture|NN information|NN impact|NN 
+influenza|DS cost|NN productivity|NN treatment|NN cost|NN measure|NN 
+united|NN states|NN influenza|DS result|NN average|NN cost|NN 
+cost|NN dollar|NN cost|NN impact|NN pandemics|NN author|NN influenza|DS effect|NN income|NN growth|NN reduction|NN population|NN depressive|NN effect|NN study|NN cost|NN influenza|DS economy|NN worker|NN 
+sickness|NN rate|NN length|NN illness|NN product|NN 
+cost|NN treatment|NN people|NN cost|NN 
+government|NN dollar|NN potential|NN influenza|DS cost|NN purchase|NN drug|NN vaccine|NN disaster|NN drill|NN strategy|NN border|NN control|NN november|NN united|NN states|NN president|NN george|NN w|NN 
+bush|NN strategy|NN danger|NN influenza|DS request|NN congress|NN plan|NN january|NN donor|NN nation|NN bird|NN influenza|DS pledge|NN conference|NN avian|NN influenza|DS china|NN 
+assessment|NN 2009|NN country|NN hemisphere|NN data|NN country|NN time-limit|NN effect|NN decrease|NN tourism|NN due|NN fear|NN disease|NN 
+impact|NN research|NN information|NN influenza|DS research|NN dr|NN 
+terrence|NN reconstruction|NN influenza|DS virus|NN level|NN environment|NN 
+research|NN influenza|DS study|NN virology|NN virus|NN disease|NN pathogenesis|NN host|NN response|NN virus|NN epidemiology|NN 
+study|NN influenza|DS example|NN understand|NN system|NN response|NN vaccine|NN development|NN picture|NN influenza|DS cell|NN aid|NN development|NN drug|NN 
+research|NN program|NN influenza|DS genome|NN sequence|NN project|NN library|NN influenza|DS sequence|NN library|NN factor|NN strain|NN gene|NN virus|NN time|NN 
+research|NN vaccine|NN vaccine|NN year|NN 
+sequence|NN influenza|DS genome|NN dna|NN technology|NN generation|NN vaccine|NN strain|NN scientist|NN antigen|NN vaccine|NN strain|NN technology|NN viruse|NN cell|NN culture|NN yield|NN quality|NN surge|NN capacity|NN research|NN influenza|DS vaccine|NN domain|NN transmembrane|NN protein|NN m2e|NN university|NN ghent|NN walter|NN xavier|NN team|NN phase|NN trial|NN 
+research|NN success|NN influenza|DS vaccine|NN antibody|NN protein|NN coat|NN shot|NN protection|NN 
+number|NN vaccine|NN immunobiologics|NN treatment|NN infection|NN viruse|NN 
+biologics|NN response|NN virus|NN antigen|NN 
+pathway|NN drug|NN cell|NN lymphocyte|NN macrophage|NN antigen|NN cell|NN effort|NN response|NN effect|NN virus|NN 
+influenza|DS model|NN influenza|DS model|NN effect|NN biologics|NN 
+example|NN modulator|NN growth|NN model|NN influenza|DS animal|NN transmission|NN electron|NN micrograph|NN avian|NN influenza|DS virusesjpg|NN 
+influenza|DS virus|NN subtype|NN structure|NN infection|NN mortality|NN spread|NN impact|NN 
+information|NN influenza|DS virus|NN h5n1|NN transmission|NN infection|NN 
+influenza|DS animal|NN specy|NN transfer|NN strain|NN specy|NN 
+bird|NN animal|NN reservoir|NN influenza|DS viruse|NN form|NN hemagglutinin|NN form|NN neuraminidase|NN 
+subtype|NN bird|NN subtype|NN human|NN dog|NN horse|NN pig|NN population|NN camel|NN ferret|NN cat|NN seal|NN mink|NN whale|NN evidence|NN infection|NN exposure|NN influenza|DS variant|NN influenza|DS virus|NN specy|NN strain|NN 
+variant|NN convention|NN bird|NN influenza|DS influenza|DS swine_influenza|DS horse|NN influenza|DS dog|NN influenza|DS 
+cat|NN influenza|DS rhinotracheitis|NN calicivirus|NN infection|NN influenza|DS virus|NN 
+pig|NN horse|NN dog|NN influenza|DS symptom|NN human|NN cough|ST fever|ST loss|NN appetite|NN frequency|NN animal|NN disease|NN infection|NN outbreak|NN influenza|DS seal|NN seal|NN death|NN new|NN england|NN coast|NN outbreak|NN pig|NN mortality|NN vaccine|NN poultry|NN influenza|DS 
+vaccine|NN strain|NN part|NN strategy|NN cull|NN attempt|NN outbreak|NN bird|NN influenza|DS 
+influenza|DS symptom|NN bird|NN symptom|NN infection|NN influenza|DS feather|NN reduction|NN egg|NN production|NN weight_loss|ST disease|NN symptom|NN diagnosis|NN field|NN track|NN spread|NN influenza|DS laboratory|NN test|NN sample|NN bird|NN 
+strain|NN h9n2|NN poultry|NN symptom|NN mortality|NN form|NN influenza|DS chicken|NN turkey|NN appearance|NN symptom|NN mortality|NN day|NN virus|NN condition|NN farm|NN chicken|NN turkey|NN outbreak|NN loss|NN poultry|NN farmer|NN 
+avian-adapt|NN strain|NN h5n1|NN ah5n1|NN influenza|DS virus|NN type|NN subtype|NN cause|NN influenza|DS influenza|DS bird|NN influenza|DS bird|NN population|NN southeast|NN asia|NN 
+lineage|NN strain|NN ah5n1|NN 
+epidemic|NN non-human|NN disease|NN animal|NN specy|NN area|NN kill|NN bird|NN cull|NN bird|NN attempt|NN spread|NN 
+reference|NN media|NN bird|NN influenza|DS reference|NN h5n1|NN strain|NN 
+disease|NN evidence|NN transmission|NN ah5n1|NN 
+case|NN contact|NN bird|NN strain|NN human-to-human|NN transmission|NN 
+change|NN lethality|NN virulence|NN h5n1|NN presence|NN host|NN reservoir|NN virus|NN world|NN threat|NN 200607|NN influenza|DS season|NN dollar|NN potential|NN influenza|DS inspector|NN airplane|NN passenger|NN fever|ST symptom|NN swine_influenza|DS 
+march|NN government|NN case|NN influenza|DS infection|NN human|NN 
+strain|NN virus|NN human|NN mid-april|NN person|NN h7n9|NN 
+case|NN family|NN cluster|NN shanghai|NN cluster|NN girl|NN boy|NN beijing|NN raise|NN possibility|NN transmission|NN 
+point|NN cluster|NN case|NN lab|NN matter|NN baseline|NN information|NN viruse|NN transmission|NN condition|NN contact|NN community|NN outbreak|NN swine_influenza|DS 
+pig|NN swine_influenza|DS fever|ST lethargy|NN sneez|NN cough|ST difficulty|NN breath|NN appetite|NN case|NN infection|NN abortion|NN 
+mortality|NN virus|NN weight_loss|ST growth|NN loss|NN farmer|NN pig|NN pound|NN body|NN weight|NN 3-|NN period|NN transmission|NN influenza|DS virus|NN pig|NN human|NN swine_influenza|DS 
+case|NN virus|NN century|NN death|NN 
+swine-origin|NN virus|NN strain|NN swine_influenza|DS 2009|NN influenza|DS evidence|NN pig|NN swine_influenza|DS transmission|NN pig|NN people|NN virus|NN person|NN person|NN strain|NN reassortment|NN strain|NN h1n1|NN human|NN bird|NN pig|NN 

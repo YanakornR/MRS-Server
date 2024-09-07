@@ -1,0 +1,75 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN salmonellosis|DS electron|NN micrograph|NN salmonella|NN typhimurium|NN cell|NN disease|NN symptom|NN fever|ST cramp|DS complication|NN arthritis|DS bowel|NN syndrome|NN onset|NN day|NN exposure|NN duration|NN day|NN type|NN cause|NN salmonella|NN risk|NN factor|NN system|NN bottle|NN feed|NN proton|NN pump|NN inhibitor|NN method|NN stool|NN test|NN blood|NN test|NN diagnosis|NN type|NN gastroenteritis|DS prevention|NN preparation|NN cook|NN food|NN treatment|NN mouth|NN fluid|NN antibiotics|NN frequency|NN case|NN year|NN death|NN 
+salmonellosis|DS infection|NN bacteria|NN salmonella|NN type|NN symptom|NN fever|ST cramp|DS vomit|NN symptom|NN hour|NN hour|NN exposure|NN day|NN disease|NN dehydration|NN system|NN disease|NN type|NN salmonella|NN fever|ST fever|ST 
+specy|NN salmonella|NN salmonella|NN salmonella|NN enterica|NN subspecy|NN infection|NN meat|NN egg|NN milk|NN food|NN disease|NN contact|NN manure|NN number|NN pet|NN cat|NN dog|NN reptile|NN infection|NN diagnosis|NN stool|NN test|NN blood|NN test|NN 
+effort|NN disease|NN wash|NN preparation|NN cook|NN food|NN disease|NN treatment|NN case|NN treatment|NN electrolyte|NN problem|NN fluid|NN replacement|NN risk|NN disease|NN intestine|NN antibiotics|NN 
+salmonellosis|DS cause|NN 90300|NN death|NN salmonellosis|DS 178000|NN death|NN salmonellosis|DS united|NN states|NN case|NN death|NN nontyphoidal|NN salmonellosis|DS year|NN europe|NN second|NN foodborne|NN disease|NN content|NN 
+sign|NN symptom|NN fever|ST cause|NN prevention|NN hygiene|NN treatment|NN epidemiology|NN united|NN states|NN europe|NN history|NN regulation|NN reference|NN link|NN 
+sign|NN symptom|NN enteritis|NN 
+incubation|NN period|NN hour|NN day|NN bacteria|NN intestine|NN inflammation|NN enteritis|NN 
+people|NN salmonellosis|DS fever|ST vomit|NN cramp|DS hour|NN infection|NN diarrhea|ST case|NN illness|NN day|NN treatment|NN 
+case|NN diarrhea|ST patient|NN 
+hospital|NN patient|NN fluid|NN dehydration|NN medication|NN relief|NN fever|ST reduction|NN 
+case|NN salmonella|NN infection|NN intestine|NN blood|NN stream|NN body|NN site|NN death|NN person|NN antibiotics|NN 
+adult|NN symptom|NN 
+sepsis|DS complication|NN immunocompromise|NN 
+people|NN risk|NN infant|NN children|NN salmonella|NN infection|NN complication|NN 
+infant|NN dehydration|NN state|NN toxicity|NN 
+salmonella|NN meningitis|DS children|NN 
+children|NN anemia|DS salmonella|NN 
+treatment|NN osteomyelitis|DS case|NN ciprofloxacin|NN acid|NN 
+symptom|NN bowel|NN habit|NN month|NN fever|ST fever|ST fever|ST 
+fever|ST salmonella|NN bacteria|NN system|NN form|NN salmonellosis|DS 
+act|NN apparatus|NN permeability|NN tone|NN vessel|NN regulation|NN vomit|NN diarrhea|ST 
+form|NN disease|NN electrolyte|NN fluid|NN balance|NN cause|NN electrolyte|NN imbalance|NN decrease|NN blood|NN volume|NN pressure|NN cause|NN shock|NN 
+shock|NN character|NN sign|NN hypovolemic|NN shock|NN salmonellosis|DS 
+case|NN result|NN involvement|NN hypoxia|NN 
+salmonellosis|DS bowel|NN syndrome|NN bowel|NN disease|NN evidence|NN cause|NN 
+number|NN people|NN salmonellosis|DS experience|NN arthritis|DS month|NN year|NN arthritis|DS anemia|DS due|NN salmonella|NN infection|NN population|NN 
+salmonella|NN infection|NN cause|NN osteomyelitis|DS people|NN sickle-cel|NN cause|NN staphylococcus|NN infection|NN 
+carrier|NN shed|NN case|NN year|NN infographic|NN salmonella|NN bacteria|NN farm|NN 
+food|NN look|NN smell|NN kitchen|NN hygiene|NN kitchen|NN restaurant|NN outbreak|NN people|NN animal|NN animal|NN surface|NN water|NN stand|NN water|NN shower|NN hose|NN water|NN dispenser|NN poultry|NN meltwater|NN bacteria|NN association|NN reptile|NN pet|NN tortoise|NN snake|NN iguana|NN turtle|NN frog|NN 
+salmonella|NN bacteria|NN time|NN host|NN water|NN contamination|NN excrement|NN carrier|NN animal|NN 
+food|NN safety|NN authority|NN turkey|NN meat|NN consumer|NN people|NN food|NN supply|NN chain|NN attention|NN food|NN hygiene|NN 
+142000|NN american|NN year|NN salmonella|NN chicken|NN egg|NN shell|NN egg|NN salmonella|NN feces|NN environment|NN interior|NN yolk|NN penetration|NN bacteria|NN shell|NN hen|NN ovary|NN egg|NN egg|NN formation|NN 
+interior|NN egg|NN yolk|NN contamination|NN condition|NN rate|NN infection|NN study|NN egg|NN hen|NN 
+prevention|NN control|NN point|NN 
+food|NN drug|NN administration|NN fda|NN guideline|NN chance|NN salmonellosis|DS food|NN liquid|NN soup|NN gravy|NN 
+kill|NN salmonella|NN level|NN 
+salmonella|NN environment|NN peanut|NN butter|NN 
+antibody|NN nontyphoidal|NN salmonella|NN malawi|NN children|NN research|NN 
+researcher|NN antibody|NN children|NN infection|NN blood|NN nontyphoidal|NN salmonella|NN 
+study|NN queen|NN elizabeth|NN hospital|NN blantyre|NN children|NN year|NN antibody|NN aid|NN bacteria|NN 
+salmonella|NN vaccine|NN human|NN 
+study|NN vaccine|NN chicken|NN protection|NN salmonellosis|DS 
+vaccination|NN chicken|NN salmonella|NN disease|NN united|NN kingdom|NN 
+approach|NN united|NN states|NN food|NN drug|NN administration|NN mandate|NN vaccination|NN hen|NN hygiene|NN 
+denmark|NN case|NN salmonella|NN country|NN salmonella|NN vaccine|NN antibiotics|NN infection|NN breeder|NN stock|NN measure|NN infection|NN policy|NN salmonella|NN chicken|NN treatment|NN 
+rehydration|NN supplement|NN salt|NN sodium|NN chloride|NN potassium|NN chloride|NN 
+antibiotics|NN bacteria|NN case|NN typhoid|DS population|NN drug|NN ceftriaxone|NN 
+recommendation|NN choice|NN antibiotic|NN antibiotic|NN resistance|NN 
+epidemiology|NN united|NN states|NN article|NN salmonellosis|DS united|NN states|NN 
+people|NN state|NN year|NN salmonella|NN chicken|NN egg|NN die|NN 
+analysis|NN death|NN certificate|NN united|NN states|NN total|NN death|NN 
+adult|NN government|NN chicken|NN salmonella|NN 
+united|NN states|NN control|NN salmonella|NN infection|NN rate|NN infection|NN 
+usda|NN plant|NN salmonella|NN excess|NN percent|NN average|NN time|NN test|NN beef|NN argument|NN salmonella|NN appeal|NN court|NN court|NN issue|NN kevin|NN law|NN meat|NN poultry|NN reduction|NN enforcement|NN act|NN component|NN food|NN safety|NN modernization|NN act|NN law|NN fda|NN usda|NN usda|NN initiative|NN office|NN management|NN budget|NN europe|NN 
+outbreak|NN salmonellosis|DS northern|NN europe|NN july|NN salmonella|NN 
+infection|NN salmon|NN manufacturer|NN contamination|NN 
+infection|NN netherlands|NN infection|NN subspecy|NN fatality|NN 
+case|NN infection|NN eu|NN country|NN 
+people|NN salmonella|NN serovar|NN stanley|NN s|NN 
+stanley|NN region|NN southeast|NN asia|NN 
+dna|NN analyse|NN point|NN strain|NN ecdce|NN fsa|NN risk|NN assessment|NN report|NN turkey|NN production|NN source|NN infection|NN 
+germany|NN food|NN poison|NN infection|NN number|NN case|NN 200000|NN 
+march|NN people|NN salmonellosis|DS food|NN governor|NN reception|NN krasnoyarsk|NN russia|NN 
+people|NN ball|NN march|NN consequence|NN sandwiche|NN 
+people|NN chocolate|NN cake|NN bakery|NN chain|NN singapore|NN december|NN history|NN 
+salmonellosis|DS microorganism|NN genus|NN salmonella|NN name|NN coin|NN daniel|NN e|NN 
+salmon|NN surgeon|NN 
+help|NN theobald|NN smith|NN bacterium|NN pig|NN 
+salmonella|NN enterica|NN cause|NN epidemic|NN new|NN spain|NN regulation|NN 
+regulation|NN law|NN name|NN regulation|NN 
+fda|NN sale|NN turtle|NN carapace|NN length|NN inche|NN cm|NN 
+regulation|NN fda|NN health|NN impact|NN salmonellosis|DS 
+case|NN children|NN turtle|NN mouth|NN restriction|NN 
+attack|NN salmonella|NN outbreak|NN outbreak|NN salmonella|NN list|NN illness|NN outbreak|NN 

@@ -1,0 +1,190 @@
+encyclopedia|NN disease|NN jump|NN navigation|NN jump|NN search|NN Sickle cell disease|Disease name|NN Sickle cell disease|Disease sickle|NN cell|NN figure|NN blood|NN cell|NN vein|NN
+inset|NN cross|NN section|NN blood|NN cell|NN haemoglobin|NN
+figure|NN blood|NN cell|NN point|NN vein|NN
+inset|NN image|NN cross-section|NN sickle|NN cell|NN sickle|NN haemoglobin|NN strand|NN cell|NN shape|NN crescent|NN
+symptom|NN attack|NN pain|NN hand|NN feet|NN infection|NN stroke|NN complication|NN pain|NN onset|NN month|NN age|NN cause|NN method|NN blood|NN test|NN treatment|NN vaccination|NN antibiotics|NN fluid|NN intake|NN acid|NN supplementation|NN pain|NN medication|NN blood|NN transfusion|NN life|NN expectancy|NN year|NN world|NN frequency|NN death|NN
+Sickle cell disease|Disease Sickle cell disease|Disease group|NN blood|NN disorder|NN person|NN parent|NN type|NN sickle|NN cell|NN anaemia|NN abnormality|NN protein|NN haemoglobin|NN blood|NN cell|NN sickle-like|NN shape|NN circumstance|NN problem|NN Sickle cell disease|Disease month|NN age|NN number|NN health|NN problem|NN attack|NN pain|NN sickle|NN cell|NN crisis|NN hand|NN feet|NN infection|NN stroke|NN pain|NN people|NN average|NN life|NN expectancy|NN world|NN year|NN
+Sickle cell disease|Disease person|NN copy|NN haemoglobin|NN gene|NN parent|NN gene|NN chromosome|NN subtype|NN mutation|NN haemoglobin|NN gene|NN attack|NN temperature|NN change|NN stress|NN dehydration|NN altitude|NN person|NN copy|NN symptom|NN sickle|NN cell|NN trait|NN people|NN carrier|NN diagnosis|NN blood|NN test|NN country|NN baby|NN birth|NN disease|NN diagnosis|NN pregnancy|NN
+care|NN people|NN Sickle cell disease|Disease infection|NN prevention|NN vaccination|NN antibiotics|NN fluid|NN intake|NN acid|NN supplementation|NN pain|NN medication|NN measure|NN blood|NN transfusion|NN medication|NN percentage|NN people|NN transplant|NN bone|NN marrow|NN cell|NN
+people|NN Sickle cell disease|Disease sickle|NN cell|NN trait|NN Sickle cell disease|Disease case|NN africa|NP part|NN india|NP peninsula|NN people|NN origin|NN live|NN part|NN world|NN death|NN condition|NN literature|NN physician|NN james|NP b|NP
+herrick|NP transmission|NN e|NP
+effect|NN malaria|NN sickle|NN cell|NN trait|NN content|NN
+sign|NN symptom|NN sickle|NN cell|NN crisis|NN crisis|NN sequestration|NN crisis|NN chest|NN syndrome|NN crisis|NN crisis|NN genetics|NN diagnosis|NN management|NN acid|NN penicillin|NN malaria|NN prevention|NN crisis|NN chest|NN crisis|NN blood|NN transfusion|NN bone|NN marrow|NN transplant|NN necrosis|NN therapy|NN complication|NN epidemiology|NN africa|NP united|NP states|NP france|NP united|NP kingdom|NP east|NN india|NP nepal|NP caribbean|NP islands|NP history|NN society|NN culture|NN
+security|NN research|NN cord|NN blood|NN transplant|NN gene|NP therapy|NN note|NN reference|NN read|NN link|NN
+sign|NN symptom|NN sickle|NN cell|NN anaemia|NN sickle|NN cell|NN blood|NN blood|NN cell|NN cell|NN
+blood|NN cell|NN sickle|NN blood|NN cell|NN scan|NN electron|NN microscope|NN image|NN
+sign|NN Sickle cell disease|Disease childhood|NN
+severity|NN symptom|NN person|NN person|NN Sickle cell disease|Disease complication|NN mortality|NN rate|NN sickle|NN cell|NN crisis|NN
+term|NN sickle|NN cell|NN crisis|NN crisis|NN condition|NN patient|NN Sickle cell disease|Disease
+Sickle cell disease|Disease result|NN anaemia|NN crise|NN type|NN crisis|NN crisis|NN sequestration|NN crisis|NN crisis|NN
+episode|NN sickle|NN cell|NN crise|NN day|NN infection|NN dehydration|NN acidosis|NN favor|NN trigger|NN instance|NN cause|NN
+crisis|NN blood|NN cell|NN capillary|NN blood|NN flow|NN organ|NN ischaemia|NN pain|NN necrosis|NN organ|NN damage|NN
+frequency|NN severity|NN duration|NN crise|NN
+crise|NN hydration|NN analgesics|NN blood|NN transfusion|NN pain|NN management|NN administration|NN interval|NN crisis|NN
+crise|NN subgroup|NN patient|NN drug|NN nsaids|NP
+crise|NN patient|NN inpatient|NN management|NN opioid|NN analgesia|NN device|NN set|NN
+crisis|NN organ|NN penis|NN lung|NN emergency|NN cell|NN transfusion|NN
+incentive|NN technique|NN breath|NN development|NN atelectasis|NN sequestration|NN crisis|NN
+vessel|NN function|NN blood|NN cell|NN spleen|NN end|NN childhood|NN individual|NN sickle|NN cell|NN anaemia|NN
+spleen|NN damage|NN risk|NN infection|NN organism|NN antibiotics|NN vaccination|NN spleen|NN function|NN
+sequestration|NN crise|NN enlargement|NN spleen|NN trap|NN cell|NN fall|NN haemoglobin|NN level|NN potential|NN shock|NN
+crise|NN emergency|NN
+patient|NN hour|NN failure|NN
+management|NN blood|NN transfusion|NN
+crise|NN hour|NN day|NN chest|NN syndrome|NN
+chest|NN syndrome|NN acs|NN sign|NN symptom|NN chest|NN pain|NN fever|NN abnormality|NN symptom|NN complication|NN death|NN patient|NN Sickle cell disease|Disease
+case|NN crise|NN acs|NN patient|NN crise|NN acs|NN
+crise|NN worsen|NN patient|NN baseline|NN anaemia|NN appearance|NN heart|NN rate|NN fatigue|NN
+crisis|NN b19|NN production|NN blood|NN cell|NN cell|NN precursor|NN infection|NN blood|NN cell|NN production|NN day|NN
+individual|NN consequence|NN cell|NN life|NN Sickle cell disease|Disease patient|NN result|NN situation|NN
+count|NN disease|NN reticulocytopenia|NN turnover|NN cell|NN drop|NN haemoglobin|NN
+crisis|NN day|NN week|NN
+patient|NN need|NN blood|NN transfusion|NN crisis|NN
+crise|NN drop|NN haemoglobin|NN level|NN
+blood|NN cell|NN rate|NN
+patient|NN deficiency|NN management|NN blood|NN transfusion|NN
+manifestation|NN month|NN age|NN children|NN sickle|NN cell|NN trait|NN crisis|NN month|NN type|NN sickle|NN crisis|NN chest|NN syndrome|NN fever|NN chest|NN pain|NN difficulty|NN breath|NN chest|NN x-ray|NN
+pneumonia|NN sickle|NN lung|NN symptom|NN patient|NN condition|NN crisis|NN infection|NN opiate|NN administration|NN surgery|NN
+citation|NN ulcer|NN genetics|NN Sickle cell disease|Disease pattern|NN
+distribution|NN sickle|NN cell|NN trait|NN distribution|NN malaria|NN europe|NP distribution|NN malaria|NN
+human|NN haemoglobin|NN alpha|NN beta|NN chain|NN haemoglobin|NN alpha|NN delta|NN chain|NN haemoglobin|NN f|NP consist|NN alpha|NN gamma|NN chain|NN body|NN
+type|NN haemoglobin|NN f|NP week|NN age|NN
+haemoglobin|NN life|NN people|NN Sickle cell disease|Disease
+subunit|NN haemoglobin|NN haemoglobin|NN s|NP
+sickle|NN cell|NN anaemia|NN form|NN Sickle cell disease|Disease haemoglobin|NN
+subunit|NN haemoglobin|NN
+sickle|NN cell|NN condition|NN pattern|NN inheritance|NN parent|NN type|NN haemoglobin|NN person|NN blood|NN cell|NN haemoglobin|NN gene|NN parent|NN
+parent|NN sickle|NN cell|NN anaemia|NN sickle|NN cell|NN trait|NN child|NN chance|NN Sickle cell disease|Disease chance|NN sickle|NN cell|NN trait|NN
+parent|NN sickle|NN cell|NN trait|NN child|NN chance|NN Sickle cell disease|Disease sickle|NN cell|NN allele|NN condition|NN
+sickle|NN cell|NN gene|NN mutation|NN area|NN restriction|NN endonuclease|NN analysis|NN
+variant|NN cameroon|NP senegal|NP benin|NP bantu|NP saudi-asian|NP
+importance|NN level|NN senegal|NP saudi-asian|NP variant|NN disease|NN
+gene|NN defect|NN nucleotide|NN mutation|NN polymorphism|NN snp|NP gag|NP codon|NN chang|NN gtg|NN
+gene|NN acid|NN vval|NN position|NN s|NP mutation|NN adult|NN
+mutation|NN effect|NN structure|NN haemoglobin|NN condition|NN oxygen|NN concentration|NN
+oxygen|NN concentration|NN hb|NN form|NN precipitate|NN form|NN haemoglobin|NN patch|NN protein|NN e|NN f|NP helice|NN
+people|NN carrier|NN haemoglobin|NN polymerisation|NN problem|NN allele|NN haemoglobin|NN
+people|NN presence|NN polymer|NN hb|NN shape|NN blood|NN cell|NN doughnut-like|NN shape|NN spike|NN capillary|NN
+carrier|NN symptom|NN oxygen|NN example|NN mountain|NN
+gene|NN sickle|NN cell|NN anaemia|NN p|NN arm|NN chromosome|NN position|NN
+allele|NN sickle|NN cell|NN anaemia|NN arm|NN chromosome|NN
+person|NN gene|NN father|NN mother|NN disease|NN person|NN allele|NN disease|NN carrier|NN heterozygote|NN
+contract|NN malaria|NN symptom|NN
+advantage|NN heterozygote|NN disease|NN people|NN ancestry|NN area|NN africa|NP india|NP east|NN malaria|NN europe|NP century|NN exception|NN case|NN
+malaria|NN parasite|NN lifecycle|NN part|NN blood|NN cell|NN
+carrier|NN presence|NN malaria|NN parasite|NN blood|NN cell|NN haemoglobin|NN rupture|NN plasmodium|NN parasite|NN
+polymerization|NN hb|NP ability|NN parasite|NN hb|NP place|NN
+area|NN malaria|NN problem|NN people|NN chance|NN survival|NN increase|NN sickle|NN cell|NN trait|NN selection|NN heterozygote|NN
+united|NP states|NP malaria|NN prevalence|NN sickle|NN cell|NN anaemia|NN people|NN ancestry|NN people|NN west|NP africa|NP
+malaria|NN sickle|NN cell|NN mutation|NN decline|NN population|NN selection|NN screen|NN
+community|NN admixture|NN group|NN descendant|NN survivor|NN slavery|NN slave|NN trade|NN
+degree|NN dilution|NN crossbreed|NN people|NN health-selective|NN pressure|NN slavery|NN slave-trade|NN passage|NN explanation|NN prevalence|NN sickle|NN cell|NN anaemia|NN disease|NN american|NN west|NN african|NN
+factor|NN spread|NN sickle|NN cell|NN gene|NN north|NP america|NP absence|NN polygamy|NN
+society|NN male|NN father|NN children|NN partner|NN electron|NN micrograph|NN mixture|NN blood|NN cell|NN morphology|NN sickle|NN elongation|NN bend|NN
+loss|NN blood|NN cell|NN elasticity|NN pathophysiology|NN Sickle cell disease|Disease
+blood|NN cell|NN cell|NN capillary|NN
+Sickle cell disease|Disease oxygen|NN tension|NN blood|NN cell|NN episode|NN damage|NN cell|NN membrane|NN cell|NN elasticity|NN
+cell|NN shape|NN oxygen|NN tension|NN
+consequence|NN blood|NN cell|NN capillary|NN vessel|NN occlusion|NN ischaemia|NN
+anaemia|NN illness|NN haemolysis|NN destruction|NN cell|NN shape|NN
+bone|NN marrow|NN attempt|NN cell|NN rate|NN destruction|NN blood|NN cell|NN function|NN day|NN cell|NN day|NN diagnosis|NN
+blood|NN count|NN haemoglobin|NN level|NN range|NN gdl|NN reticulocyte|NN count|NN bone|NN marrow|NN destruction|NN cell|NN blood|NN cell|NN
+form|NN Sickle cell disease|Disease hb|NP level|NN
+blood|NN film|NN feature|NN hyposplenism|NN target|NN cell|NN body|NN
+sickling|NP blood|NN cell|NN blood|NN film|NN addition|NN sodium|NN
+presence|NN sickle|NN haemoglobin|NN sickle|NN solubility|NN test|NN
+mixture|NN haemoglobin|NN s|NP hbs|NP solution|NN sodium|NN appearance|NN hb|NP solution|NN
+haemoglobin|NN form|NN haemoglobin|NN electrophoresis|NN form|NN gel|NN electrophoresis|NN type|NN haemoglobin|NN move|NN speed|NN
+sickle|NN cell|NN haemoglobin|NN haemoglobin|NN
+diagnosis|NN chromatography|NN
+test|NN investigation|NN hb|NN hbc|NN
+sickle|NN cell|NN crisis|NN infection|NN
+urinalysis|NN occult|NN tract|NN infection|NN chest|NN x-ray|NN occult|NN pneumonia|NN
+people|NN carrier|NN disease|NN child|NN
+test|NN child|NN disease|NN blood|NN sample|NN fetus|NN sample|NN fluid|NN
+blood|NN sample|NN fetus|NN risk|NN test|NN
+screen|NN method|NN detection|NN individual|NN Sickle cell disease|Disease identification|NN group|NN people|NN sickle|NN cell|NN trait|NN management|NN information|NN pain|NN management|NN children|NN
+treatment|NN number|NN measure|NN
+use|NN fda|NN start|NN age|NN complication|NN acid|NN penicillin|NN
+birth|NN year|NN age|NN penicillin|NN due|NN system|NN childhood|NN illness|NN supplementation|NN acid|NN cochrane|NP review|NN use|NN effect|NN supplementation|NN anaemia|NN symptom|NN anaemia|NN due|NN lack|NN evidence|NN malaria|NN prevention|NN advantage|NN sickle|NN cell|NN disease|NN blood|NN cell|NN response|NN malaria|NN
+effect|NN sickle|NN cell|NN trait|NN people|NN Sickle cell disease|Disease fact|NN malaria|NN cause|NN crise|NN country|NN infection|NN malaria|NN
+people|NN Sickle cell disease|Disease live|NN country|NN medication|NN prevention|NN crisis|NN
+people|NN Sickle cell disease|Disease episode|NN crise|NN
+frequency|NN severity|NN duration|NN crise|NN
+crise|NN pain|NN medication|NN pain|NN management|NN administration|NN interval|NN crisis|NN
+crise|NN subgroup|NN patient|NN nsaids|NP
+crise|NN patient|NN inpatient|NN management|NN opioid|NN analgesia|NN pca|NN device|NN set|NN
+agent|NN doctor|NN control|NN itch|NN use|NN opioid|NN
+citation|NN chest|NN crisis|NN
+management|NN crisis|NN addition|NN antibiotics|NN quinolone|NN macrolide|NN cell|NN bacteria|NN syndrome|NN oxygen|NN supplementation|NN hypoxia|NN observation|NN
+oxygen|NN requirement|NN blood|NN transfusion|NN exchange|NN transfusion|NN
+exchange|NN portion|NN person|NN cell|NN mass|NN cell|NN percent|NN haemoglobin|NN patient|NN blood|NN
+patient|NN chest|NN syndrome|NN hospital|NN gradient|NN indication|NN icu|NN admission|NN
+drug|NN treatment|NN sickle|NN cell|NN anaemia|NN number|NN severity|NN attack|NN study|NN increase|NN survival|NN time|NN study|NN part|NN haemoglobin|NN production|NN place|NN haemoglobin|NN s|NP sickle|NN cell|NN anaemia|NN
+chemotherapy|NN agent|NN concern|NN use|NN risk|NN benefit|NN risk|NN blood|NN transfusion|NN
+blood|NN transfusion|NN management|NN Sickle cell disease|Disease case|NN complication|NN number|NN blood|NN cell|NN sickle|NN blood|NN cell|NN children|NN blood|NN cell|NN transfusion|NN therapy|NN risk|NN stroke|NN stroke|NN transcranial|NP doppler|NP ultrasonography|NN blood|NN flow|NN stroke|NN event|NN risk|NN stroke|NN stroke|NN bone|NN marrow|NN transplant|NN
+bone|NN marrow|NN transplant|NN children|NN
+bone|NN marrow|NN transplant|NN cure|NN Sickle cell disease|Disease bone|NN marrow|NN transplant|NN hla|NP type|NN
+relative|NN bone|NN marrow|NN transplantation|NN
+necrosis|NN bone|NN people|NN Sickle cell disease|Disease aim|NN treatment|NN pain|NN mobility|NN treatment|NN option|NN therapy|NN pain|NN relief|NN medicine|NN replacement|NN surgery|NN bone|NN graft|NN quality|NN trial|NN treatment|NN option|NN combination|NN therapy|NN surgery|NN therapy|NN therapy|NN
+therapy|NN patient|NN education|NN therapy|NN therapy|NN psychotherapy|NN aim|NN treatment|NN research|NN effectiveness|NN
+people|NN age|NN age|NN study|NN jamaica|NP survival|NN people|NN sickle|NN cell|NN year|NN men|NN year|NN women|NN Sickle cell disease|Disease life|NN expectancy|NN world|NN complication|NN
+sickle|NN cell|NN anaemia|NN complication|NN
+risk|NN infection|NN loss|NN function|NN spleen|NN tissue|NN risk|NN infection|NN spleen|NN
+infection|NN organism|NN pneumoniae|NN haemophilus|NN
+penicillin|NN prophylaxis|NN treatment|NN childhood|NN treatment|NN
+patient|NN routine|NN vaccination|NN s|NP stroke|NN narrow|NN blood|NN vessel|NN oxygen|NN brain|NN
+infarction|NN children|NN haemorrhage|NN adult|NN
+citation|NN stroke|NN symptom|NN damage|NN brain|NN
+stroke|NN time|NN stroke|NN
+children|NN Sickle cell disease|Disease stroke|NN stroke|NN patient|NN gallstone|NN cholecystitis|NN bilirubin|NN production|NN precipitation|NN haemolysis|NN
+necrosis|NN bone|NN necrosis|NN hip|NN joint|NN result|NN ischaemia|NN reaction|NN hyposplenism|NN malfunction|NN spleen|NN infarction|NN penis|NN bone|NN infection|NN cause|NN osteomyelitis|NN Sickle cell disease|Disease salmonella|NP serotype|NN salmonella|NP typhimurium|NN salmonella|NP enteritidis|NP salmonella|NP salmonella|NP b|NP staphylococcus|NP aureus|NN bacilly|NN sickle|NN bowel|NN infarction|NN papillary|NN necrosis|NN kidney|NN leg|NN ulcer|NN eye|NN background|NN retinopathy|NN retinopathy|NN haemorrhage|NN detachment|NN blindness|NN eye|NN check|NN
+pregnancy|NN growth|NN retardation|NN abortion|NN pain|NN absence|NN vaso-occlusive|NN pain|NN patient|NN pain|NN hypertension|NN pressure|NN artery|NN strain|NN ventricle|NN risk|NN heart|NN failure|NN symptom|NN shortness|NN breath|NN exercise|NN tolerance|NN episode|NN syncope|NN
+citation|NN children|NN adult|NN evidence|NN hypertension|NN walk|NN distance|NN mortality|NN kidney|NN failure|NN nephropathy|NN hypertension|NN protein|NN loss|NN urine|NN loss|NN blood|NN cell|NN urine|NN anaemia|NN
+failure|NN prognosis|NN
+frequency|NN Sickle cell disease|Disease region|NN africa|NP region|NN india|NP east|NN migration|NN population|NN prevalence|NN area|NN prevalence|NN country|NN europe|NP decade|NN country|NN Sickle cell disease|Disease condition|NN haemophilia|NN fibrosis|NN death|NN
+Sickle cell disease|Disease people|NN ancestor|NN region|NN malaria|NN
+malaria|NN sickle|NN cell|NN allele|NN trait|NN advantage|NN human|NN allele|NN Sickle cell disease|Disease show|NN symptom|NN malaria|NN
+condition|NN pattern|NN copy|NN gene|NN cell|NN mutation|NN
+parent|NN copy|NN gene|NN sign|NN symptom|NN condition|NN africa|NP
+sickle|NN cell|NN case|NN africa|NP
+report|NN newborn|NN nigeria|NP sickle|NN cell|NN anaemia|NN total|NN children|NN year|NN nigeria|NP
+carrier|NN frequency|NN range|NN africa|NP north|NN coast|NN south|NP africa|NP study|NN africa|NP show|NN decrease|NN infant|NN mortality|NN rate|NN age|NN month|NN sickle|NN cell|NN trait|NN
+area|NN case|NN united|NP states|NP
+number|NN people|NN disease|NN united|NP states|NP american|NN descent|NN institute|NN health|NN united|NP states|NP children|NN 36000|NN children|NN sickle|NN cell|NN anaemia|NN Sickle cell disease|Disease american|NN infant|NN Sickle cell disease|Disease state|NN routine|NN screen|NN
+state|NN screen|NN Sickle cell disease|Disease part|NN screen|NN patient|NN advocate|NN Sickle cell disease|Disease government|NN research|NN fund|NN disease|NN fibrosis|NN researcher|NN elliott|NP show|NN discrimination|NN role|NN wealth|NN health|NN care|NN advocacy|NN france|NP
+result|NN population|NN growth|NN region|NN france|NP immigration|NN north|NN africa|NP mainland|NN france|NP Sickle cell disease|Disease health|NN problem|NN france|NP Sickle cell disease|Disease disease|NN country|NN birth|NN prevalence|NN 12415|NN france|NP phenylketonuria|NN hypothyroidism|NN hyperplasia|NN fibrosis|NN reference|NN period|NN
+screen|NN Sickle cell disease|Disease level|NN newborn|NN risk|NN Sickle cell disease|Disease origin|NN parent|NN africa|NP north|NP africa|NP area|NN south|NP italy|NP greece|NP turkey|NP peninsula|NN island|NN subcontinent|NN united|NP kingdom|NP
+kingdom|NN 12000|NN people|NN Sickle cell disease|Disease 250000|NN carrier|NN condition|NN england|NP
+number|NN carrier|NN baby|NN uk|NP routine|NN blood|NN test|NN screen|NN condition|NN adult|NN group|NN carrier|NN women|NN partner|NN couple|NN screen|NN counsel|NN sickle|NN cell|NN trait|NN addition|NN blood|NN donor|NN group|NN carrier|NN blood|NN filter|NN donor|NN carrier|NN blood|NN group|NN Sickle cell disease|Disease blood|NN transfusion|NN east|NN
+saudi|NP arabia|NP population|NN sickle|NN cell|NN trait|NN Sickle cell disease|Disease
+prevalence|NN province|NN population|NN gene|NN Sickle cell disease|Disease saudi|NP arabia|NP test|NN hb|NP electrophoresis|NN incidence|NN Sickle cell disease|Disease thalassemia|NN
+bahrain|NP study|NN people|NN hospital|NN bahrain|NP Sickle cell disease|Disease people|NN sickle|NN cell|NN trait|NN carrier|NN gene|NN mutation|NN disease|NN country|NN screen|NN women|NN mother|NN carrier|NN
+law|NN couple|NN counsel|NN
+program|NN education|NN campaign|NN india|NP nepal|NP
+Sickle cell disease|Disease group|NN india|NP linkage|NN community|NN prevalence|NN area|NN madhya|NP pradesh|NP rajasthan|NP chhattisgarh|NP people|NN nepal|NP india|NP incidence|NN malaria|NN live|NN malaria|NN zone|NN caribbean|NP islands|NP
+jamaica|NP population|NN sickle|NN cell|NN gene|NN disorder|NN country|NN history|NN
+report|NN Sickle cell disease|Disease autopsy|NN slave|NN find|NN absence|NN spleen|NN report|NN slave|NN united|NP states|NP resistance|NN malaria|NN leg|NN ulcer|NN characteristics|NN blood|NN cell|NN name|NN condition|NN ernest|NP e|NP
+iron|NN intern|NN chicago|NP cardiologist|NN professor|NN medicine|NN james|NP b|NP
+iron|NN cell|NN blood|NN man|NN walter|NP clement|NP noel|NP student|NN grenada|NP
+noel|NP chicago|NP hospital|NN december|NP suffer|NN anaemia|NN noel|NP time|NN year|NN rheumatism|NN attack|NN study|NN capital|NN grenada|NP st|NP
+georges|NP practice|NN dentistry|NN
+pneumonia|NN cemetery|NN sauteur|NN north|NN grenada|NP report|NN herrick|NP case|NN virginia|NP semi-monthly|NN title|NN blood|NN case|NN anemia|NN
+article|NN patient|NN university|NN virginia|NP hospital|NN november|NP description|NN verne|NP mason|NP name|NN sickle|NN cell|NN anemia|NN childhood|NN problem|NN sickle|NN cell|NN disease|NN fact|NN population|NN
+memphis|NP physician|NN diggs|NP researcher|NN Sickle cell disease|Disease distinction|NN Sickle cell disease|Disease trait|NN characteristics|NN james|NP
+year|NN behaviour|NN haemoglobin|NN abnormality|NN molecule|NN change|NN hbs|NP vernon|NP ingram|NP understand|NN link|NN malaria|NN Sickle cell disease|Disease
+introduction|NN haemoglobin|NN electrophoresis|NN discovery|NN subtype|NN disease|NN
+scale|NN history|NN study|NN intervention|NN study|NN use|NN prophylaxis|NN infection|NN intervention|NN
+bill|NP cosbys|NP tv|NN movie|NN friend|NN shore|NP story|NN parent|NN child|NN suffer|NN Sickle cell disease|Disease development|NN hydroxycarbamide|NN report|NN cure|NN bone|NN marrow|NN transplantation|NN
+text|NN society|NN culture|NN
+security|NN administration|NN policy|NN interpretation|NN rule|NN background|NN information|NN Sickle cell disease|Disease description|NN security|NN disease|NN adjudication|NN process|NN disability|NN claim|NN research|NN cord|NN blood|NN transplant|NN
+cord|NN blood|NN transplant|NN condition|NN donor|NN people|NN people|NN result|NN procedure|NN graft|NN host|NN disease|NN gene|NP therapy|NN
+Sickle cell disease|Disease mice|NN gene|NN therapy|NN researcher|NN vector|NN micewhich|NN defect|NN Sickle cell disease|Disease production|NN haemoglobin|NN individual|NN birth|NN
+human|NN production|NN hbf|NN Sickle cell disease|Disease symptom|NN
+researcher|NN gene|NN therapy|NN method|NN way|NN production|NN
+phase|NN trial|NN gene|NN therapy|NN Sickle cell disease|Disease human|NN
+trial|NN safety|NN bone|NN marrow|NN adult|NN Sickle cell disease|Disease trial|NN case|NN report|NN person|NN march|NP people|NN
+gene|NP edit|NN platform|NN crisprcas9|NP mutation|NN stem|NN cell|NN person|NN condition|NN technique|NN study|NN note|NN
+number|NN acid|NN residue|NN position|NN methionine|NN start|NN codon|NN protein|NN amino|NN acid|NN position|NN number|NN
+nomenclature|NN call|NN methionine|NN amino|NN acid|NN acid|NN residue|NN position|NN
+reference|NN position|NN clarity|NN

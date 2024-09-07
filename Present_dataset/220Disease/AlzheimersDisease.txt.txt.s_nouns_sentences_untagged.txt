@@ -1,0 +1,216 @@
+encyclopedia|NN alzheimers|NN jump|NN navigation|NN jump|NN search|NN alzheimer|NN 
+use|NN alzheimer|NN disambiguation|NN 
+alzheimer's_disease|DS name|NN alzheimer's_disease|DS alzheimer's_disease|DS alzheimer's_disease|DS brain|NN comparison|NN brain|NN left|NN brain|NN person|NN alzheimer's_disease|DS right|NN 
+symptom|NN difficulty|NN event|NN problem|NN language|NN disorientation|NN mood|NN onset|NN year|NN duration|NN term|NN cause|NN risk|NN factor|NN genetics|NN head|NN injury|NN depression|ST hypertension|DS method|NN symptom|NN test|NN rule|NN cause|NN diagnosis|NN age|NN inhibitor|NN nmda|NN receptor|NN antagonist|NN benefit|NN life|NN expectancy|NN year|NN frequency|NN death|NN 
+alzheimer's_disease|DS alzheimer's_disease|DS alzheimer's_disease|DS neurodegenerative|NN disease|NN time|NN cause|NN 6070|NN case|NN dementia|DS symptom|NN difficulty|NN event|NN disease|NN advance|NN symptom|NN problem|NN language|NN disorientation|NN mood|NN swing|NN loss|NN motivation|NN self|NN care|NN issue|NN person|NN condition|NN family|NN society|NN function|NN death|NN speed|NN progression|NN life|NN expectancy|NN diagnosis|NN year|NN 
+cause|NN alzheimer's_disease|DS risk|NN person|NN parent|NN gene|NN risk|NN factor|NN history|NN head|NN injury|NN depression|ST hypertension|DS disease|NN process|NN plaque|NN tangle|NN brain|NN diagnosis|NN history|NN illness|NN test|NN image|NN blood|NN test|NN rule|NN cause|NN symptom|NN examination|NN brain|NN tissue|NN diagnosis|NN exercise|NN obesity|NN risk|NN alzheimer's_disease|DS evidence|NN recommendation|NN medication|NN supplement|NN decrease|NN risk|NN 
+treatment|NN stop|NN progression|NN symptom|NN people|NN assistance|NN burden|NN caregiver|NN pressure|NN element|NN program|NN respect|NN activity|NN live|NN outcome|NN problem|NN psychosis|DS dementia|DS antipsychotics|NN benefit|NN risk|NN death|NN 
+people|NN alzheimer's_disease|DS people|NN year|NN age|NN case|NN alzheimer's_disease|DS people|NN year|NN dementia|DS death|NN psychiatrist|NN pathologist|NN alois|NN alzheimer|NN country|NN alzheimer's_disease|DS disease|NN content|NN 
+sign|NN symptom|NN cause|NN hypothesis|NN hypothesis|NN tau|NN hypothesis|NN hypothese|NN biochemistry|NN disease|NN mechanism|NN diagnosis|NN criteria|NN technique|NN prevention|NN lifestyle|NN diet|NN management|NN intervention|NN epidemiology|NN history|NN society|NN culture|NN cost|NN burden|NN media|NN research|NN direction|NN prevention|NN transmission|NN image|NN diagnosis|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN stage|NN alzheimer's_disease|DS 
+effect|NN age|NN memory|NN alzheimer's_disease|DS 
+thing|NN item|NN memory|NN loss|NN detail|NN 
+stage|NN alzheimer's_disease|DS 
+episode|NN forgetfulness|NN name|NN family|NN friend|NN change|NN friend|NN relative|NN confusion|ST situation|NN 
+stage|NN alzheimer's_disease|DS 
+greater|NN difficulty|NN information|NN confusion|ST circumstance|NN problem|NN sleep|NN trouble|NN location|NN 
+stage|NN alzheimer's_disease|DS 
+ability|NN problem|NN conversation|NN 
+disease|NN course|NN stage|NN pattern|NN impairment|NN 
+symptom|NN stress|NN test|NN difficulty|NN year|NN person|NN criteria|NN diagnosis|NN alzheimer's_disease|DS symptom|NN activity|NN live|NN deficit|NN term|NN memory|NN loss|NN difficulty|NN fact|NN inability|NN information|NN 
+problem|NN executive|NN function|NN attentiveness|NN plan|NN flexibility|NN think|NN impairment|NN memory|NN memory|NN mean|NN concept|NN relationship|NN stage|NN alzheimer's_disease|DS apathy|ST stage|NN neuropsychiatric|NN symptom|NN course|NN disease|NN symptom|NN irritability|ST awareness|NN memory|NN difficulty|NN stage|NN disease|NN impairment|NN stage|NN age|NN dementia|DS 
+variety|NN symptom|NN memory|NN loss|NN symptom|NN stage|NN alzheimer's_disease|DS 
+people|NN alzheimer's_disease|DS impairment|NN learn|NN memory|NN diagnosis|NN 
+percentage|NN difficulty|NN language|NN executive|NN function|NN perception|NN execution|NN movement|NN apraxia|DS memory|NN problem|NN alzheimer's_disease|DS memory|NN capacity|NN 
+memory|NN person|NN life|NN memory|NN fact|NN memory|NN memory|NN memory|NN body|NN thing|NN fork|NN glass|NN degree|NN fact|NN memory|NN 
+language|NN problem|NN vocabulary|NN word|NN fluency|NN impoverishment|NN language|NN stage|NN person|NN alzheimer's_disease|DS idea|NN motor|NN task|NN write|NN draw|NN dress|NN movement|NN coordination|NN plan|NN difficulty|NN apraxia|DS disease|NN people|NN alzheimer's_disease|DS task|NN assistance|NN supervision|NN activity|NN 
+deterioration|NN independence|NN subject|NN activity|NN live|NN speech|NN difficulty|NN due|NN inability|NN vocabulary|NN word|NN substitution|NN 
+reading|NN write|NN skill|NN complex|NN motor|NN sequence|NN time|NN pass|NN alzheimer's_disease|DS risk|NN increase|NN phase|NN memory|NN problem|NN person|NN relative|NN memory|NN 
+manifestation|NN irritability|ST affect|NN cry|NN outburst|NN aggression|NN resistance|NN sundown|NN people|NN alzheimer's_disease|DS misidentification|NN delusional|NN symptom|NN subject|NN insight|NN disease|NN process|NN limitation|NN incontinence|NN symptom|NN stress|NN relative|NN carer|NN person|NN home|NN care|NN care|NN facility|NN 
+stage|NN patient|NN language|NN phrase|NN word|NN loss|NN speech|NN loss|NN language|NN ability|NN people|NN signal|NN 
+aggressiveness|NN apathy|ST exhaustion|NN symptom|NN 
+people|NN alzheimer's_disease|DS task|NN muscle|NN mass|NN mobility|NN point|NN 
+cause|NN death|NN factor|NN infection|NN pressure|NN ulcer|NN pneumonia|DS disease|NN 
+cause|NN alzheimer's_disease|DS case|NN case|NN difference|NN hypothese|NN cause|NN disease|NN 
+heritability|NN alzheimer's_disease|DS memory|NN component|NN review|NN twin|NN family|NN study|NN range|NN case|NN form|NN autosomal|NN inheritance|NN onset|NN age|NN form|NN disease|NN onset|NN alzheimer's_disease|DS 
+alzheimer's_disease|DS mutation|NN gene|NN precursor|NN protein|NN app|NN mutation|NN app|NN presenilin|NN gene|NN production|NN protein|NN 
+component|NN plaque|NN mutation|NN ratio|NN 
+level|NN gene|NN alzheimer's_disease|DS 
+case|NN alzheimer's_disease|DS inheritance|NN alzheimer's_disease|DS difference|NN risk|NN factor|NN 
+risk|NN factor|NN inheritance|NN 
+allele|NN e|NN people|NN alzheimer's_disease|DS apoe|NN 
+allele|NN apoe|NN 
+allele|NN risk|NN disease|NN time|NN heterozygote|NN time|NN homozygote|NN disease|NN effect|NN modifier|NN result|NN penetrance|NN 
+example|NN population|NN relationship|NN dose|NN 
+incidence|NN age-of-onset|NN alzheimer's_disease|DS population|NN attempt|NN candidate|NN gene|NN association|NN alzheimer's_disease|DS alzheimer's_disease|DS yield|NN genome-wide|NN association|NN study|NN area|NN gene|NN risk|NN gene|NN celf1|NN inpp5d|NN ptk2b|NN slc24a4|NN cr1|NN abca7|NN 
+gene|NN time|NN risk|NN alzheimer's_disease|DS mechanism|NN action|NN variant|NN blood|NN cell|NN brain|NN amount|NN beta|NN amyloid|NN present|NN 
+snp|NN alzheimer's_disease|DS study|NN snp|NN alzheimer's_disease|DS category|NN memory|NN language|NN executive|NN function|NN hypothesis|NN 
+drug|NN therapy|NN hypothesis|NN alzheimer's_disease|DS synthesis|NN neurotransmitter|NN acetylcholine|NN 
+hypothesis|NN support|NN medication|NN acetylcholine|NN deficiency|NN amyloid|NN hypothesis|NN 
+hypothesis|NN beta|NN 
+deposit|NN cause|NN disease|NN support|NN postulate|NN location|NN gene|NN precursor|NN protein|NN app|NN chromosome|NN fact|NN people|NN trisomy|DS syndrome|NN gene|NN copy|NN symptom|NN alzheimer's_disease|DS year|NN age|NN isoform|NN apoe4|NN risk|NN factor|NN alzheimer's_disease|DS 
+breakdown|NN beta|NN amyloid|NN isoform|NN task|NN buildup|NN brain|NN evidence|NN find|NN mice|NN mutant|NN form|NN app|NN gene|NN plaque|NN alzheimer's_disease|DS brain|NN pathology|NN learn|NN deficit|NN 
+vaccine|NN plaque|NN trial|NN effect|NN dementia|DS researcher|NN 
+oligomer|NN aggregate|NN monomer|NN form|NN 
+oligomer|NN ligand|NN alzheimer's_disease|DS bind|NN surface|NN receptor|NN neuron|NN structure|NN synapse|NN communication|NN receptor|NN 
+oligomer|NN prion|NN protein|NN protein|NN cow|NN disease|NN condition|NN disease|NN mechanism|NN disorder|NN alzheimer's_disease|DS 
+theory|NN relative|NN protein|NN beta-amyloid|NN culprit|NN disease|NN 
+theory|NN mechanism|NN connection|NN brain|NN phase|NN life|NN process|NN life|NN wither|NN alzheimer's_disease|DS fragment|NN app|NN peptide|NN app|NN enzyme|NN 
+pathway|NN bind|NN receptor|NN death|NN receptor|NN dr6|NN brain|NN region|NN alzheimer's_disease|DS pathway|NN brain|NN cause|NN damage|NN 
+model|NN role|NN function|NN 
+2017|NN trial|NN verubecestat|NN protein|NN protein|NN panel|NN chance|NN effect|NN 2018|NN trial|NN aducanumab|NN beta|NN concentration|NN validity|NN hypothesis|NN tau|NN hypothesis|NN alzheimer's_disease|DS change|NN tau|NN protein|NN lead|NN disintegration|NN microtubule|NN brain|NN cell|NN 
+tau|NN hypothesis|NN tau|NN protein|NN abnormality|NN disease|NN cascade|NN model|NN tau|NN pair|NN thread|NN tau|NN 
+tangle|NN nerve|NN cell|NN body|NN microtubule|NN structure|NN cell|NN neuron|NN transport|NN system|NN malfunction|NN communication|NN neuron|NN death|NN cell|NN hypothese|NN 
+hypothesis|NN function|NN barrier|NN infection|NN dementia|DS 
+homeostasis|NN copper|NN iron|NN zinc|NN alzheimer's_disease|DS change|NN protein|NN 
+ion|NN tau|NN app|NN apoe|NN dysregulation|NN stress|NN pathology|NN quality|NN study|NN link|NN majority|NN researcher|NN connection|NN aluminium|NN 
+smoke|NN alzheimer's_disease|DS risk|NN factor|NN marker|NN system|NN risk|NN factor|NN alzheimer's_disease|DS 
+evidence|NN exposure|NN air|NN pollution|NN factor|NN development|NN alzheimer's_disease|DS 
+hypothesis|NN dysfunction|NN oligodendrocyte|NN myelin|NN age|NN axon|NN damage|NN production|NN tau|NN side|NN effect|NN 
+hypothesis|NN development|NN progress|NN alzheimer's_disease|DS barry|NN hypothesis|NN fetus|NN process|NN begine|NN neurulation|NN end|NN myelination|NN brain|NN people|NN alzheimer's_disease|DS go|NN reverse|NN process|NN start|NN demyelination|NN death|NN axon|NN matter|NN end|NN death|NN matter|NN hypothesis|NN infant|NN state|NN development|NN people|NN alzheimer's_disease|DS go|NN process|NN impairment|NN assessment|NN tool|NN assessment|NN tool|NN care|NN people|NN alzheimer's_disease|DS stage|NN disease|NN progression|NN advice|NN kind|NN care|NN stage|NN 
+association|NN disease|NN study|NN increase|NN dementia|DS overal|NN cd|NN review|NN association|NN type|NN dementia|DS alzheimer's_disease|DS article|NN biochemistry|NN alzheimer's_disease|DS image|NN plaque|NN cortex|NN person|NN alzheimer's_disease|DS onset|NN 
+silver|NN impregnation|NN 
+alzheimer's_disease|DS loss|NN neuron|NN synapse|NN cortex|NN region|NN 
+loss|NN result|NN atrophy|DS region|NN degeneration|NN lobe|NN lobe|NN part|NN cortex|NN gyrus|NN degeneration|NN brainstem|NN nucley|NN locus|NN study|NN mry|NN pet|NN reduction|NN size|NN brain|NN region|NN people|NN alzheimer's_disease|DS impairment|NN alzheimer's_disease|DS comparison|NN image|NN adult|NN 
+plaque|NN tangle|NN microscopy|NN brain|NN alzheimer's_disease|DS plaque|NN deposit|NN peptide|NN material|NN outside|NN neuron|NN 
+tangle|NN aggregate|NN protein|NN tau|NN cell|NN 
+individual|NN plaque|NN tangle|NN consequence|NN brain|NN people|NN alzheimer's_disease|DS number|NN brain|NN region|NN lobe|NN body|NN brain|NN people|NN alzheimer's_disease|DS biochemistry|NN act|NN app|NN amyloid|NN precursor|NN protein|NN fragment|NN 
+fragment|NN formation|NN plaque|NN alzheimer's_disease|DS 
+alzheimer's_disease|DS protein|NN disease|NN plaque|NN accumulation|NN beta|NN protein|NN tau|NN protein|NN brain|NN peptide|NN amino|NN acid|NN length|NN beta|NN 
+fragment|NN precursor|NN protein|NN app|NN 
+app|NN transmembrane|NN protein|NN neuron|NN membrane|NN 
+app|NN neuron|NN growth|NN survival|NN repair|NN alzheimer's_disease|DS gamma|NN beta|NN act|NN process|NN app|NN fragment|NN fragment|NN rise|NN fibril|NN beta|NN form|NN clump|NN deposit|NN neuron|NN formation|NN plaque|NN 
+alzheimer's_disease|DS due|NN aggregation|NN tau|NN protein|NN 
+neuron|NN cytoskeleton|NN support|NN structure|NN structure|NN 
+act|NN track|NN nutrient|NN molecule|NN body|NN cell|NN end|NN axon|NN back|NN 
+protein|NN tau|NN microtubule|NN protein|NN 
+alzheimer's_disease|DS tau|NN change|NN pair|NN thread|NN tangle|NN neuron|NN transport|NN system|NN tau|NN death|NN element|NN disease|NN mechanism|NN 
+disturbance|NN production|NN aggregation|NN peptide|NN rise|NN pathology|NN alzheimer's_disease|DS hypothesis|NN accumulation|NN peptide|NN event|NN neuron|NN degeneration|NN 
+accumulation|NN fibril|NN form|NN protein|NN cell|NN calcium|NN ion|NN homeostasis|NN cell|NN death|NN apoptosis|NN 
+mitochondria|NN cell|NN alzheimer's_disease|DS brain|NN enzyme|NN function|NN utilisation|NN glucose|NN neuron|NN 
+process|NN cytokine|NN role|NN pathology|NN alzheimer's_disease|DS 
+marker|NN tissue|NN damage|NN disease|NN tissue|NN damage|NN alzheimer's_disease|DS marker|NN response|NN evidence|NN interaction|NN neuron|NN mechanism|NN brain|NN 
+obesity|NN inflammation|NN process|NN disease|NN progression|NN 
+alteration|NN distribution|NN neurotrophic|NN factor|NN expression|NN receptor|NN brain-derive|NN factor|NN bdnf|NN alzheimer's_disease|DS diagnosis|NN pet|NN scan|NN brain|NN person|NN alzheimer's_disease|DS loss|NN function|NN lobe|NN 
+alzheimer's_disease|DS person|NN history|NN history|NN relative|NN observation|NN 
+presence|NN feature|NN absence|NN condition|NN image|NN tomography|NN ct|NN resonance|NN image|NN mry|NN emission|NN tomography|NN positron|NN emission|NN tomography|NN pet|NN pathology|NN subtype|NN dementia|DS conversion|NN stage|NN impairment|NN alzheimer's_disease|DS 
+assessment|NN function|NN memory|NN test|NN state|NN disease|NN organisation|NN criteria|NN ease|NN process|NN physician|NN 
+diagnosis|NN accuracy|NN post-mortem|NN brain|NN material|NN criteria|NN 
+institute|NN disorder|NN stroke|NN alzheimer's_disease|DS disorder|NN association|NN alzheimer's_disease|DS alzheimer's_disease|DS association|NN alzheimer's_disease|DS rda|NN alzheimer's_disease|DS criteria|NN diagnosis|NN criteria|NN presence|NN impairment|NN dementia|DS syndrome|NN test|NN diagnosis|NN alzheimer's_disease|DS 
+confirmation|NN examination|NN brain|NN tissue|NN diagnosis|NN 
+reliability|NN validity|NN criteria|NN confirmation|NN domain|NN alzheimer's_disease|DS memory|NN language|NN skill|NN attention|NN motor|NN skill|NN orientation|NN problem|NN solve|NN executive|NN ability|NN 
+domain|NN nincds-|NN alzheimer's_disease|DS alzheimer's_disease|DS criteria|NN manual|NN disorder|NN association|NN technique|NN screen|NN test|NN diagnosis|NN alzheimer's_disease|DS 
+test|NN people|NN copy|NN draw|NN picture|NN word|NN number|NN 
+test|NN state|NN examination|NN impairment|NN diagnosis|NN 
+test|NN array|NN reliability|NN result|NN stage|NN disease|NN examination|NN alzheimer's_disease|DS result|NN impairment|NN disease|NN process|NN cause|NN dementia|DS 
+examination|NN diagnosis|NN alzheimer's_disease|DS disease|NN interview|NN family|NN member|NN assessment|NN disease|NN 
+information|NN live|NN ability|NN decrease|NN time|NN person|NN function|NN viewpoint|NN person|NN alzheimer's_disease|DS deficit|NN time|NN family|NN difficulty|NN detection|NN dementia|DS symptom|NN information|NN physician|NN 
+test|NN information|NN feature|NN disease|NN rule|NN diagnose|NN 
+blood|NN test|NN cause|NN dementia|DS alzheimer's_disease|DS cause|NN case|NN function|NN test|NN rule|NN syphilis|DS rule|NN problem|NN test|NN kidney|NN function|NN electrolyte|NN level|NN diabete|NN level|NN metal|NN mercury|NN anaemia|NN 
+rule|NN delirium|DS 
+test|NN depression|ST depression|ST alzheimer's_disease|DS depression|ST alzheimer's_disease|DS sign|NN impairment|NN cause|NN 
+accuracy|NN scan|NN tool|NN development|NN alzheimer's_disease|DS people|NN sign|NN impairment|NN use|NN 
+pet|NN scan|NN test|NN people|NN alzheimer's_disease|DS evidence|NN prevention|NN activity|NN chess|NN interaction|NN risk|NN alzheimer's_disease|DS study|NN relationship|NN 
+evidence|NN measure|NN alzheimer's_disease|DS study|NN measure|NN onset|NN alzheimer's_disease|DS result|NN 
+study|NN relationship|NN factor|NN diet|NN risk|NN product|NN activity|NN population|NN likelihood|NN alzheimer's_disease|DS 
+research|NN trial|NN factor|NN alzheimer's_disease|DS medication|NN 
+risk|NN factor|NN hypercholesterolaemia|NN hypertension|DS diabete|NN smoke|NN risk|NN onset|NN course|NN alzheimer's_disease|DS cholesterol|NN lower|NN drug|NN course|NN disease|NN 
+usage|NN drug|NN nsaids|NN likelihood|NN alzheimer's_disease|DS evidence|NN notion|NN nsaids|NN inflammation|NN plaque|NN trial|NN event|NN prevention|NN trial|NN treatment|NN candidate|NN hormone|NN replacement|NN therapy|NN menopause|NN risk|NN dementia|DS lifestyle|NN 
+people|NN activity|NN read|NN board|NN game|NN crossword|NN puzzle|NN instrument|NN interaction|NN risk|NN alzheimer's_disease|DS reserve|NN theory|NN life|NN experience|NN result|NN function|NN individual|NN reserve|NN onset|NN dementia|DS manifestation|NN education|NN onset|NN alzheimer's_disease|DS syndrome|NN duration|NN disease|NN second|NN language|NN life|NN alzheimer's_disease|DS activity|NN risk|NN alzheimer's_disease|DS exercise|NN rate|NN dementia|DS exercise|NN symptom|NN severity|NN alzheimer's_disease|DS diet|NN 
+people|NN japanese|NN diet|NN risk|NN alzheimer's_disease|DS diet|NN outcome|NN disease|NN diet|NN fat|NN carbohydrate|NN risk|NN diet|NN effect|NN mechanism|NN action|NN 
+conclusion|NN component|NN time|NN result|NN study|NN trial|NN evidence|NN light|NN use|NN alcohol|NN wine|NN risk|NN alzheimer's_disease|DS evidence|NN caffeine|NN number|NN food|NN cocoa|NN wine|NN tea|NN risk|NN alzheimer's_disease|DS 
+review|NN use|NN vitamin|NN mineral|NN evidence|NN 
+vitamin|NN form|NN vitamin|NN selenium|NN zinc|NN acid|NN vitamin|NN evidence|NN trial|NN form|NN vitamin|NN decline|NN evidence|NN quality|NN trial|NN acid|NN b|NN vitamin|NN association|NN decline|NN acid|NN supplement|NN plant|NN fish|NN docosahexaenoic|NN acid|NN dha|NN people|NN alzheimer's_disease|DS 
+benefit|NN people|NN evidence|NN animal|NN evidence|NN effect|NN impairment|NN dementia|DS 2008|NN evidence|NN symptom|NN alzheimer's_disease|DS dementia|DS research|NN endocannabinoids|NN management|NN 
+cure|NN alzheimer's_disease|DS treatment|NN benefit|NN nature|NN 
+model|NN donepezil|NN inhibitor|NN treatment|NN alzheimer's_disease|DS symptom|NN structure|NN memantine|NN medication|NN alzheimer's_disease|DS symptom|NN 
+medication|NN problem|NN alzheimer's_disease|DS inhibitor|NN galantamine|NN donepezil|NN memantine|NN nmda|NN receptor|NN antagonist|NN 
+benefit|NN use|NN medication|NN delay|NN halt|NN progression|NN disease|NN 
+reduction|NN activity|NN neuron|NN feature|NN alzheimer's_disease|DS inhibitor|NN rate|NN acetylcholine|NN concentration|NN ach|NN brain|NN loss|NN ach|NN death|NN neuron|NN evidence|NN efficacy|NN medication|NN alzheimer's_disease|DS evidence|NN use|NN stage|NN use|NN drug|NN impairment|NN effect|NN delay|NN onset|NN alzheimer's_disease|DS side|NN effect|NN nausea|ST excess|NN 
+side|NN effect|NN user|NN severity|NN medication|NN dose|NN effect|NN muscle|NN cramp|DS heart|NN rate|NN appetite|NN weight|NN acid|NN production|NN 
+neurotransmitter|NN system|NN amount|NN brain|NN cell|NN death|NN process|NN overstimulation|NN glutamate|NN receptor|NN 
+alzheimer's_disease|DS disease|NN disease|NN sclerosis|NN memantine|NN nmda|NN receptor|NN antagonist|NN agent|NN 
+system|NN nmda|NN receptor|NN overstimulation|NN glutamate|NN benefit|NN treatment|NN alzheimer's_disease|DS event|NN memantine|NN hallucination|ST confusion|ST dizziness|ST headache|ST fatigue|ST combination|NN memantine|NN donepezil|NN effectiveness|NN 
+aggression|NN psychosis|DS people|NN alzheimer's_disease|DS advantage|NN effect|NN stroke|NN movement|NN difficulty|NN decline|NN mortality|NN use|NN group|NN people|NN 
+evidence|NN use|NN intervention|NN 
+intervention|NN adjunct|NN treatment|NN emotion-|NN approache|NN 
+research|NN efficacy|NN alzheimer's_disease|DS dementia|DS 
+intervention|NN antecedent|NN consequence|NN problem|NN behaviour|NN 
+approach|NN success|NN function|NN problem|NN behaviour|NN incontinence|NN lack|NN quality|NN data|NN effectiveness|NN technique|NN behaviour|NN problem|NN music|NN therapy|NN symptom|NN 
+intervention|NN reminiscence|NN therapy|NN validation|NN therapy|NN psychotherapy|NN integration|NN presence|NN therapy|NN 
+cochrane|NN review|NN evidence|NN psychotherapy|NN study|NN clinician|NN people|NN illness|NN reminiscence|NN therapy|NN rt|NN discussion|NN experience|NN group|NN time|NN aid|NN photograph|NN household|NN item|NN music|NN sound|NN record|NN item|NN past|NN 
+review|NN effectiveness|NN rt|NN effect|NN size|NN significance|NN presence|NN therapy|NN spt|NN attachment|NN theory|NN record|NN voice|NN relative|NN person|NN alzheimer's_disease|DS 
+evidence|NN behaviour|NN validation|NN therapy|NN acceptance|NN reality|NN truth|NN experience|NN integration|NN exercise|NN sense|NN 
+evidence|NN usefulness|NN therapy|NN 
+aim|NN treatment|NN reality|NN orientation|NN retrain|NN reduction|NN deficit|NN 
+reality|NN orientation|NN presentation|NN information|NN time|NN place|NN person|NN understand|NN person|NN surround|NN place|NN 
+hand|NN retrain|NN capacity|NN exercitation|NN ability|NN 
+efficacy|NN capacity|NN study|NN effect|NN effect|NN frustration|NN 
+treatment|NN art|NN music|NN pet|NN therapy|NN exercise|NN kind|NN activity|NN 
+stimulation|NN support|NN behaviour|NN mood|NN extent|NN function|NN 
+effect|NN support|NN use|NN stimulation|NN therapy|NN change|NN person|NN routine|NN efficacy|NN brain|NN stimulation|NN brain|NN stimulation|NN alzheimer's_disease|DS information|NN dementia|DS 
+alzheimer's_disease|DS cure|NN people|NN need|NN treatment|NN course|NN disease|NN 
+stage|NN modification|NN live|NN environment|NN lifestyle|NN patient|NN safety|NN caretaker|NN burden|NN example|NN modification|NN adherence|NN routine|NN place|NN safety|NN lock|NN label|NN household|NN item|NN cue|NN person|NN disease|NN use|NN life|NN object|NN eate|NN food|NN piece|NN difficulty|NN use|NN feed|NN tube|NN 
+case|NN efficacy|NN ethics|NN feed|NN consideration|NN caregiver|NN family|NN member|NN use|NN restraint|NN stage|NN disease|NN situation|NN harm|NN person|NN alzheimer's_disease|DS caregiver|NN 
+disease|NN issue|NN disease|NN pressure|NN ulcer|NN malnutrition|NN hygiene|NN problem|NN skin|NN eye|NN infection|NN 
+management|NN treatment|NN stage|NN disease|NN treatment|NN discomfort|NN death|NN help|NN hospice|NN life|NN year|NN alzheimer|NN dementia|DS inhabitant|NN 
+90110|NN 150170|NN 230250|NN 
+stage|NN alzheimer's_disease|DS 
+diagnosis|NN impairment|NN compromise|NN live|NN activity|NN person|NN 
+symptom|NN problem|NN memory|NN loss|NN stage|NN disturbance|NN possibility|NN live|NN stage|NN disease|NN 
+life|NN expectancy|NN people|NN alzheimer's_disease|DS diagnosis|NN year|NN 
+people|NN year|NN disease|NN feature|NN survival|NN severity|NN impairment|NN level|NN history|NN fall|NN disturbance|NN examination|NN 
+disease|NN heart|NN problem|NN diabete|NN history|NN alcohol|NN abuse|NN survival|NN age|NN onset|NN survival|NN year|NN life|NN expectancy|NN population|NN men|NN survival|NN prognosis|NN women|NN 
+pneumonia|DS dehydration|NN cause|NN death|NN alzheimer's_disease|DS cancer|DS cause|NN death|NN population|NN epidemiology|NN rate|NN age|NN age|NN 
+measure|NN study|NN incidence|NN prevalence|NN 
+incidence|NN number|NN case|NN unit|NN persontime|NN risk|NN number|NN case|NN prevalence|NN number|NN case|NN disease|NN population|NN time|NN 
+incidence|NN cohort|NN study|NN study|NN population|NN year|NN rate|NN personyear|NN dementia|DS alzheimer's_disease|DS dementia|DS case|NN year|NN alzheimer's_disease|DS 
+age|NN risk|NN factor|NN disease|NN incidence|NN rate|NN age|NN year|NN age|NN risk|NN disease|NN person|NN year|NN sex|NN difference|NN incidence|NN rate|NN women|NN risk|NN alzheimer's_disease|DS population|NN united|NN states|NN risk|NN alzheimer's_disease|DS population|NN population|NN population|NN risk|NN population|NN death|NN person|NN due|NN alzheimer's_disease|DS 2545|NN 3761266|NN 
+prevalence|NN alzheimer's_disease|DS population|NN factor|NN incidence|NN survival|NN 
+incidence|NN alzheimer's_disease|DS increase|NN age|NN age|NN population|NN interest|NN 
+united|NN states|NN alzheimer|NN prevalence|NN age|NN group|NN rate|NN group|NN group|NN prevalence|NN rate|NN region|NN world|NN health|NN organization|NN 0379|NN people|NN dementia|DS prevalence|NN 0556|NN study|NN conclusion|NN study|NN 040|NN world|NN population|NN range|NN number|NN range|NN alzheimer's_disease|DS prevalence|NN rate|NN number|NN history|NN alzheimer's_disease|DS alois|NN alzheimer's_disease|DS patient|NN auguste|NN deter|NN 
+case|NN alzheimer's_disease|DS 
+greek|NN philosopher|NN physician|NN age|NN dementia|DS psychiatrist|NN alois|NN alzheimer|NN case|NN alzheimer's_disease|DS woman|NN auguste|NN d|NN 
+case|NN year|NN case|NN literature|NN term|NN alzheimer's_disease|DS disease|NN disease|NN emil|NN delusion|ST hallucination|ST feature|NN change|NN report|NN auguste|NN d|NN alzheimer's_disease|DS dementia|DS kraepelin|NN subtype|NN dementia|DS edition|NN textbook|NN psychiatry|NN july|NN 
+century|NN diagnosis|NN alzheimer's_disease|DS individual|NN age|NN symptom|NN dementia|DS 
+terminology|NN conference|NN alzheimer's_disease|DS manifestation|NN dementia|DS author|NN possibility|NN cause|NN diagnosis|NN alzheimer's_disease|DS independent|NN age|NN term|NN dementia|DS alzheimer|NN type|NN sdat|NN time|NN condition|NN alzheimer's_disease|DS 
+term|NN alzheimer's_disease|DS nomenclature|NN individual|NN age|NN symptom|NN pattern|NN disease|NN course|NN society|NN culture|NN alzheimer's_disease|DS organisation|NN cost|NN 
+dementia|DS alzheimer's_disease|DS disease|NN society|NN europe|NN united|NN states|NN cost|NN country|NN argentina|NN south|NN korea|NN 
+cost|NN age|NN society|NN problem|NN 
+alzheimer's_disease|DS cost|NN cost|NN home|NN care|NN nonmedical|NN cost|NN day|NN care|NN cost|NN productivity|NN patient|NN caregiver|NN number|NN study|NN dementia|DS cost|NN cost|NN alzheimer's_disease|DS united|NN states|NN year|NN 
+origin|NN cost|NN society|NN care|NN health|NN care|NN professional|NN institutionalisation|NN cost|NN society|NN cost|NN live|NN home|NN cost|NN family|NN time|NN earn|NN account|NN 
+cost|NN increase|NN dementia|DS severity|NN presence|NN disturbance|NN caregive|NN time|NN provision|NN care|NN treatment|NN decline|NN delay|NN institutionalisation|NN hour|NN benefit|NN 
+evaluation|NN treatment|NN result|NN burden|NN information|NN dementia|DS 
+role|NN caregiver|NN spouse|NN alzheimer's_disease|DS burden|NN caregiver|NN aspect|NN home|NN care|NN people|NN alzheimer's_disease|DS family|NN option|NN delay|NN need|NN level|NN care|NN home|NN resident|NN 
+dementia|DS caregiver|NN subject|NN rate|NN disorder|NN factor|NN problem|NN caregiver|NN person|NN home|NN carer|NN spouse|NN behaviour|NN person|NN depression|ST disturbance|NN hallucination|ST sleep|NN problem|NN walk|NN disruption|NN isolation|NN problem|NN family|NN time|NN work|NN hour|NN week|NN average|NN person|NN alzheimer's_disease|DS cost|NN care|NN 
+cost|NN care|NN alzheimer's_disease|DS patient|NN average|NN 18000|NN 77500|NN year|NN united|NN states|NN study|NN 
+therapy|NN teach|NN cope|NN strategy|NN group|NN efficacy|NN health|NN media|NN article|NN alzheimer's_disease|DS media|NN 
+alzheimer's_disease|DS film|NN iris|NN john|NN memoir|NN wife|NN iris|NN murdoch|NN notebook|NN nicholas|NN sparks|NN novel|NN name|NN moment|NN memory|NN ashita|NN kioku|NN hiroshi|NN novel|NN name|NN alice|NN munros|NN story|NN bear|NN mountain|NN alice|NN columbia|NN university|NN professor|NN onset|NN alzheimer's_disease|DS lisa|NN novel|NN name|NN moore|NN title|NN role|NN 
+alzheimer's_disease|DS malcolm|NN barbara|NN love|NN story|NN malcolm|NN barbara|NN love|NN farewel|NN malcolm|NN pointon|NN research|NN direction|NN 
+decade|NN compound|NN phase|NN phase|NN phase|NN trial|NN fda|NN approval|NN pipeline|NN effectiveness|NN people|NN alzheimer's_disease|DS symptom|NN 
+area|NN research|NN disease|NN pathology|NN 
+reduction|NN level|NN target|NN compound|NN investigation|NN 
+vaccination|NN protein|NN treatment|NN modality|NN study|NN vaccination|NN therapy|NN people|NN 
+concept|NN train|NN system|NN attack|NN reverse|NN deposition|NN amyloid|NN course|NN disease|NN example|NN vaccine|NN investigation|NN trial|NN agent|NN antibody|NN anti-amyloid|NN antibody|NN agent|NN drug|NN reaction|NN image|NN abnormality|NN approache|NN agent|NN interaction|NN attenuation|NN agent|NN tnf|NN 
+fusion|NN protein|NN result|NN 
+2008|NN trial|NN result|NN course|NN disease|NN alzheimer's_disease|DS chloride|NN drug|NN tau|NN aggregation|NN antihistamine|NN phase-iiy|NN trial|NN dimebon|NN effect|NN endpoint|NN work|NN chloride|NN gut|NN feed|NN stomach|NN acidity|NN dose|NN formulation|NN lmtx|NN trial|NN prevention|NN 
+research|NN effect|NN meditation|NN memory|NN function|NN stage|NN review|NN intervention|NN onset|NN impairment|NN alzheimer's_disease|DS transmission|NN 
+case|NN transmission|NN people|NN growth|NN hormone|NN patient|NN 
+herpe|NN simplex|NN virus|NN area|NN plaque|NN possibility|NN alzheimer's_disease|DS medication|NN study|NN antiviral|NN cell|NN culture|NN result|NN 
+infection|NN alzheimer's_disease|DS brain|NN hypothesis|NN microbiologist|NN l|NN 
+group|NN correlation|NN mycose|NN alzheimer's_disease|DS work|NN infection|NN brain|NN region|NN alzheimer's_disease|DS patient|NN control|NN individual|NN infection|NN symptom|NN alzheimer's_disease|DS patient|NN 
+progression|NN alzheimer's_disease|DS fit|NN nature|NN infection|NN hypothese|NN alzheimer's_disease|DS hypothese|NN hypothesis|NN system|NN response|NN infection|NN cns|NN r|NN 
+moir|NN r|NN 
+mouse|NN worm|NN model|NN alzheimer's_disease|DS 
+image|NN redsvg|NN 
+article|NN event|NN information|NN 
+update|NN 28072381|NN pmid|NN april|NN 2018|NN 
+image|NN technique|NN photon|NN emission|NN tomography|NN alzheimer's_disease|DS type|NN dementia|DS level|NN accuracy|NN test|NN history|NN analysis|NN advance|NN proposal|NN criteria|NN 
+pet|NN pet|NN scan|NN longer-last|NN radionuclide|NN fluorine-18|NN tool|NN alzheimer's_disease|DS 
+image|NN conjunction|NN marker|NN alternative|NN mry|NN change|NN size|NN brain|NN region|NN 
+region|NN atrophy|DS progress|NN alzheimer's_disease|DS promise|NN indicator|NN 
+image|NN method|NN study|NN 
+fda|NN panel|NN approval|NN florbetapir|NN image|NN agent|NN alzheimer's_disease|DS brain|NN plaque|NN scan|NN plaque|NN diagnosis|NN alzheimer's_disease|DS diagnosis|NN 
+emphasis|NN alzheimer's_disease|DS research|NN condition|NN symptom|NN number|NN test|NN detection|NN 
+test|NN analysis|NN fluid|NN tau|NN protein|NN tau181p|NN protein|NN concentration|NN draw|NN csf|NN draw|NN 
+blood|NN test|NN mirna|NN biomarker|NN alternative|NN indicator|NN 

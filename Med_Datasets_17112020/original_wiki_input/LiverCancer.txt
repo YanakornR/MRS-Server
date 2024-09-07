@@ -1,0 +1,163 @@
+Liver cancer,hepatic cancer,primary hepatic cancer,primary hepatic malignancy,primary liver cancer
+
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Liver cancer
+Other names	Hepatic cancer, primary hepatic malignancy, primary liver cancer
+CT cholangioca.jpg
+CT scan of a liver with cholangiocarcinoma
+Specialty	Oncology Edit this on Wikidata
+Symptoms	Lump or pain in the right side below the rib cage, swelling of the abdomen, yellowish skin, easy bruising, weight loss, weakness[1]
+Usual onset	55 to 65 years old[2]
+Causes	Cirrhosis due to hepatitis B, hepatitis C, or alcohol, aflatoxin, non-alcoholic fatty liver disease, liver flukes[3][4]
+Diagnostic method	Blood tests, medical imaging, tissue biopsy[1]
+Prevention	Immunization against hepatitis B, treating those infected with hepatitis B or C[3]
+Treatment	Surgery, targeted therapy, radiation therapy[1]
+Prognosis	Five-year survival rates ~18% (US)[2]
+Frequency	618,700 (point in time in 2015)[5]
+Deaths	810,500 (2015)[6]
+
+Liver cancer, also known as hepatic cancer and primary hepatic cancer, is cancer that starts in the liver.[1] Cancer which has spread from elsewhere to the liver, known as liver metastasis, is more common than that which starts in the liver.[3] Symptoms of liver cancer may include a lump or pain in the right side below the rib cage, swelling of the abdomen, yellowish skin, easy bruising, weight loss and weakness.[1]
+
+The leading cause of liver cancer is cirrhosis due to hepatitis B, hepatitis C or alcohol.[4] Other causes include aflatoxin, non-alcoholic fatty liver disease and liver flukes.[3] The most common types are hepatocellular carcinoma (HCC), which makes up 80% of cases, and cholangiocarcinoma.[3] Less common types include mucinous cystic neoplasm and intraductal papillary biliary neoplasm.[3] The diagnosis may be supported by blood tests and medical imaging, with confirmation by tissue biopsy.[1]
+
+Preventive efforts include immunization against hepatitis B and treating those infected with hepatitis B or C.[3] Screening is recommended in those with chronic liver disease.[3] Treatment options may include surgery, targeted therapy and radiation therapy.[1] In certain cases, ablation therapy, embolization therapy or liver transplantation may be used.[1] Small lumps in the liver may be closely followed.[1]
+
+Primary liver cancer is globally the sixth-most frequent cancer (6%) and the second-leading cause of death from cancer (9%).[3][7] In 2012, it occurred in 782,000 people, and in 2015 it resulted in 810,500 deaths.[7][6] In 2015, 263,000 deaths from liver cancer were due to hepatitis B, 245,000 to alcohol and 167,000 to hepatitis C.[6] Higher rates of liver cancer occur where hepatitis B and C are common, including Asia and sub-Saharan Africa.[3] Males are more often affected with HCC than females.[3] Diagnosis is most frequent among those 55 to 65 years old.[2] Five-year survival rates are 18% in the United States.[2] The word "hepatic" is from the Greek hêpar, meaning "liver".[8]
+Contents
+
+    1 Signs and symptoms
+    2 Causes
+        2.1 Viral infection
+        2.2 Cirrhosis
+        2.3 Aflatoxin
+        2.4 Other causes in adults
+        2.5 Children
+    3 Diagnosis
+        3.1 Classification
+    4 Prevention
+    5 Treatment
+        5.1 Hepatocellular carcinoma
+        5.2 Cholangiocarcinoma
+        5.3 Hepatoblastoma
+    6 Epidemiology
+        6.1 India
+        6.2 United Kingdom
+        6.3 United States
+    7 Research
+    8 See also
+    9 References
+    10 External links
+
+Signs and symptoms
+
+Because liver cancer is an umbrella term for many types of cancer, the signs and symptoms depend on what type of cancer is present. Cholangiocarcinoma is associated with sweating, jaundice, abdominal pain, weight loss and liver enlargement.[9] Hepatocellular carcinoma is associated with abdominal mass, abdominal pain, emesis, anemia, back pain, jaundice, itching, weight loss and fever.[10]
+Causes
+Viral infection
+This electron micrograph shows hepatitis B virus "Dane particles", or virions.
+
+Viral infection with either hepatitis C virus (HCV) or Hepatitis B virus (HBV) is the chief cause of liver cancer in the world today, accounting for 80% of hepatocellular carcinoma (HCC).[11][12][13] The viruses cause HCC because massive inflammation, fibrosis, and eventual cirrhosis occurs within the liver. HCC usually arises after cirrhosis, with an annual incidence of 1.7% in cirrhotic HCV-infected individuals.[14] Around 5-10% of individuals that become infected with HBV become chronic carriers, and around 30% of these acquire chronic liver disease, which can lead to HCC.[11] HBV infection is also linked to cholangiocarcinoma.[15] The role of viruses other than HCV or HBV in liver cancer is much less clear, even though there is some evidence that co-infection of HBV and hepatitis D virus may increase the risk for HCC.[16]
+
+Many genetic and epigenetic changes are formed in liver cells during HCV and HBV infection, which is a major factor in the production of the liver tumors. The viruses induce malignant changes in cells by altering gene methylation, affecting gene expression, and promoting or repressing cellular signal transduction pathways. By doing this, the viruses can prevent cells from undergoing a programmed form of cell death (apoptosis) and promote viral replication and persistence.[11][14]
+
+HBV and HCV also induce malignant changes by causing DNA damage and genomic instability. This is by creating reactive oxygen species, express proteins that interfere with DNA repair enzymes, and HCV causes activation of a mutator enzyme.[17][18]
+Cirrhosis
+High magnification micrograph of a liver with cirrhosis. Trichrome stain. The most common cause of cirrhosis in the Western world is alcohol abuse - the cause of cirrhosis in this case.
+
+In addition to virus-related cirrhosis described above, other causes of cirrhosis can lead to HCC. Alcohol intake correlates with risk of HCC, and the risk is far greater in individuals with an alcohol-induced cirrhotic liver. There are a few disorders that are known to cause cirrhosis and lead to cancer, including hereditary hemochromatosis and primary biliary cirrhosis.[19]
+Aflatoxin
+
+Aflatoxin exposure can lead to the development of HCC. The aflatoxins are a group of chemicals produced by the fungi Aspergillus flavus (the name comes from A. flavus toxin) and A. parasiticus. Food contamination by the fungi leads to ingestion of the chemicals, which are very toxic to the liver. Common foodstuffs contaminated with the toxins are cereals, peanuts, and other vegetables. Contamination of food is common in Africa, South-East Asia, and China. Concurrent HBV infection and aflatoxin exposure increases the risk for liver cancer to over three times that seen in HBV infected individuals without aflatoxin exposure. The mechanism by which aflatoxins cause cancer is through mutations and epigenetic alterations. Aflatoxins induce a spectrum of mutations[20][21] including a very frequent mutation in the p53 tumor suppressor gene.[20] Mutation in p53, presumably in conjunction with other aflatoxin-induced mutations and epigenetic alterations,[22] is likely a common cause of aflatoxin-induced carcinogenesis.
+Other causes in adults
+
+    High grade dysplastic nodules are precancerous lesions of the liver. Within two years, there is a risk for cancer arising from these nodules of 30-40%.[23]
+    Obesity has emerged as an important risk factor, as it can lead to steatohepatitis.[13][24]
+    Diabetes increases the risk for HCC.[24]
+    Smoking increases the risk for HCC compared to non-smokers and previous smokers.[24]
+    There is around 5-10% lifetime risk of cholangiocarcinoma in people with primary sclerosing cholangitis.[25]
+    Liver fluke infection increases the risk for cholangiocarcinoma, and this is the reason why Thailand has particularly high rates of this cancer.[26]
+
+Children
+
+Increased risk for liver cancer in children can be caused by Beckwith–Wiedemann syndrome (associated with hepatoblastoma),[27][28] familial adenomatous polyposis (associated with hepatoblastoma),[28] low birth weight (associated with hepatoblastoma),[29] Progressive familial intrahepatic cholestasis (associated with HCC)[30] and Trisomy 18 (associated with hepatoblastoma).[28]
+Diagnosis
+Further information: Hepatocellular carcinoma § Diagnosis
+
+Many imaging modalities are used to aid in the diagnosis of primary liver cancer. For HCC these include sonography (ultrasound), computed tomography (CT) and magnetic resonance imaging (MRI). When imaging the liver with ultrasound, a mass greater than 2 cm has more than 95% chance of being HCC. The majority of cholangiocarcimas occur in the hilar region of the liver, and often present as bile duct obstruction. If the cause of obstruction is suspected to be malignant, endoscopic retrograde cholangiopancreatography (ERCP), ultrasound, CT, MRI and magnetic resonance cholangiopancreatography (MRCP) are used.[31]
+
+Tumor markers, chemicals sometimes found in the blood of people with cancer, can be helpful in diagnosing and monitoring the course of liver cancers. High levels of alpha-fetoprotein (AFP) in the blood can be found in many cases of HCC and intrahepatic cholangiocarcinoma. Cholangiocarcinoma can be detected with these commonly used tumor markers: carbohydrate antigen 19-9 (CA 19-9), carcinoembryonic antigen (CEA) and cancer antigen 125 (CA125). These tumour markers are found in primary liver cancers, as well as in other cancers and certain other disorders.[32][33]
+Classification
+
+The most frequent liver cancer, accounting for approximately 75% of all primary liver cancers, is hepatocellular carcinoma (HCC) (also named hepatoma, which is a misnomer because adenomas are usually benign). HCC is a cancer formed by liver cells, known as hepatocytes, that become malignant. Another type of cancer formed by liver cells is hepatoblastoma, which is specifically formed by immature liver cells.[34] It is a rare malignant tumor that primarily develops in children, and accounts for approximately 1% of all cancers in children and 79% of all primary liver cancers under the age of 15. Most hepatoblastomas form in the right lobe.[29]
+
+Liver cancer can also come from other structures within the liver such as the bile duct, blood vessels and immune cells. Cancer of the bile duct (cholangiocarcinoma and cholangiocellular cystadenocarcinoma) account for approximately 6% of primary liver cancers.[34] There is also a variant type of HCC that consists of both HCC and cholangiocarcinoma.[35] Tumors of the blood vessels (angiosarcoma and hemangioendothelioma, embryonal sarcoma and fibrosarcoma are produced from a type of connective tissue known as mesenchyme. Cancers produced from muscle in the liver are leiomyosarcoma and rhabdomyosarcoma. Other less common liver cancers include carcinosarcomas, teratomas, yolk sac tumours, carcinoid tumours and lymphomas.[34] Lymphomas usually have diffuse infiltration to liver, but It may also form a liver mass in rare occasions.
+
+Many cancers found in the liver are not true liver cancers, but are cancers from other sites in the body that have spread to the liver (known as metastases). Frequently, the site of origin is the gastrointestinal tract, since the liver is close to many of these metabolically active, blood-rich organs near to blood vessels and lymph nodes (such as pancreatic cancer, stomach cancer, colon cancer and carcinoid tumors mainly of the appendix), but also from breast cancer, ovarian cancer, lung cancer, renal cancer, prostate cancer.
+Prevention
+
+Prevention of cancers can be separated into primary, secondary, and tertiary prevention. Primary prevention preemptively reduces exposure to a risk factor for liver cancer. One of the most successful primary liver cancer preventions is vaccination against hepatitis B. Vaccination against the hepatitis C virus is currently unavailable. Other forms of primary prevention are aimed at limiting transmission of these viruses by promoting safe injection practices, screening blood donation products, and screening high-risk asymptomatic individuals. Aflatoxin exposure can be avoided by post-harvest intervention to discourage mold, which has been effective in west Africa. Reducing alcohol abuse, obesity, and diabetes would also reduce rates of liver cancer. Diet control in hemochromatosis could decrease the risk of iron overload, decreasing the risk of cancer.[36]
+
+Secondary prevention includes both cure of the agent involved in the formation of cancer (carcinogenesis) and the prevention of carcinogenesis if this is not possible. Cure of virus-infected individuals is not possible, but treatment with antiviral drugs such as interferon can decrease the risk of liver cancer. Chlorophyllin may have potential in reducing the effects of aflatoxin.[36]
+
+Tertiary prevention includes treatments to prevent the recurrence of liver cancer. These include the use of chemotherapy drugs and antiviral drugs.[36]
+Treatment
+Hepatocellular carcinoma
+Ambox current red.svg
+	
+This section needs to be updated. Please update this article to reflect recent events or newly available information. (June 2017)
+Left lobe liver tumor in a 50-year-old male, operated in King Saud Medical Complex, Riyadh, Saudi Arabia
+
+Partial surgical resection is the optimal treatment for hepatocellular carcinoma (HCC) when patients have sufficient hepatic function reserve. Increased risk of complications such as liver failure can occur with resection of cirrhotic (i.e. less-than-optimally functional) livers. 5-year survival rates after resection have massively improved over the last few decades and can now exceed 50%. However, recurrence rates after resection can exceed 70%, whether due to spread of the initial tumor or formation of new tumors .[37] Liver transplantation can also be considered in cases of HCC where this form of treatment can be tolerated and the tumor fits specific criteria (such as the Milan criteria). In general, patients who are being considered for liver transplantation have multiple hepatic lesions, severe underlying liver dysfunction, or both. Less than 30-40% of individuals with HCC are eligible for surgery and transplant because the cancer is often detected at a late stage. Also, HCC can progress during the waiting time for liver transplants, which can prevent transplant due to the strict criteria.
+
+Percutaneous ablation is the only non-surgical treatment that can offer cure. There are many forms of percutaneous ablation, which consist of either injecting chemicals into the liver (ethanol or acetic acid) or producing extremes of temperature using radio frequency ablation, microwaves, lasers or cryotherapy. Of these, radio frequency ablation has one of the best reputations in HCC, but the limitations include inability to treat tumors close to other organs and blood vessels due to heat generation and the heat sink effect, respectively.[38][39] In addition, long-term of outcomes of percutaneous ablation procedures for HCC have not been well studied. In general, surgery is the preferred treatment modality when possible.
+
+Systemic chemotherapeutics are not routinely used in HCC, although local chemotherapy may be used in a procedure known as transarterial chemoembolization. In this procedure, cytotoxic drugs such as doxorubicin or cisplatin with lipiodol are administered and the arteries supplying the liver are blocked by gelatin sponge or other particles. Because most systemic drugs have no efficacy in the treatment of HCC, research into the molecular pathways involved in the production of liver cancer produced sorafenib, a targeted therapy drug that prevents cell proliferation and blood cell growth. Sorafenib obtained FDA approval for the treatment of advanced hepatocellular carcinoma in November 2007.[40] This drug provides a survival benefit for advanced HCC.[39]
+
+Radiotherapy is not often used in HCC because the liver is not tolerant to radiation. Although with modern technology it is possible to provide well-targeted radiation to the tumor, minimizing the dose to the rest of the liver. Dual treatments of radiotherapy plus chemoembolization, local chemotherapy, systemic chemotherapy or targeted therapy drugs may show benefit over radiotherapy alone.[41]
+A surgeon performing photodynamic therapy
+Cholangiocarcinoma
+
+Resection is an option in cholangiocarcinoma, but fewer than 30% of cases of cholangiocarcinoma are resectable at diagnosis. After surgery, recurrence rates are up to 60%.[42][43] Liver transplant may be used where partial resection is not an option, and adjuvant chemoradiation may benefit some cases.[25]
+
+60% of cholangiocarcinomas form in the perihilar region and photodynamic therapy can be used to improve quality of life and survival time in these unresectable cases. Photodynamic therapy is a novel treatment that utilitizes light activated molecules to treat the tumor. The compounds are activated in the tumor region by laser light, which causes the release of toxic reactive oxygen species, killing tumor cells.[42][44]
+
+Systemic chemotherapies such as gemcitabine and cisplatin are sometimes used in inoperable cases of cholangiocarcinoma.[25]
+
+Radio frequency ablation, transarterial chemoembolization and internal radiotherapy (brachytherapy) all show promise in the treatment of cholangiocarcinoma.[43]
+
+Radiotherapy may be used in the adjuvant setting or for palliative treatment of cholangiocarcinoma.[45]
+Hepatoblastoma
+
+Removing the tumor by either surgical resection or liver transplant can be used in the treatment of hepatoblastoma. In some cases surgery can offer a cure. Chemotherapy may be used before and after surgery and transplant.[46]
+
+Chemotherapy, including cisplatin, vincristine, cyclophosphamide, and doxorubicin are used for the systemic treatment of hepatoblastoma. Out of these drugs, cisplatin seems to be the most effective.[47]
+Epidemiology
+Deaths from liver cancer per million persons in 2012
+  6–18
+  19–24
+  25–32
+  33–40
+  41–50
+  51–65
+  66–72
+  73–90
+  91–122
+  123–479
+
+Globally, as of 2010, liver cancer resulted in 754,000 deaths, up from 460,000 in 1990, making it the third leading cause of cancer death after lung and stomach.[48] In 2012, it represented 7% of cancer diagnoses in men, the 5th most diagnosed cancer that year.[49] Of these deaths 340,000 were secondary to hepatitis B, 196,000 were secondary to hepatitis C, and 150,000 were secondary to alcohol.[48] HCC, the most common form of liver cancer, shows a striking geographical distribution. China has 50% of HCC cases globally, and more than 80% of total cases occur in sub-Saharan Africa or in East-Asia due to hepatitis B virus.[26][50] Cholangiocarcinoma also has a significant geographical distribution, with Thailand showing the highest rates worldwide due to the presence of liver fluke.[26][51]
+India
+
+The number of new cases of hepatocellular carcinoma per year in India in males is about 4.1 and for females 1.2 per 100,000. It typically occurs between 40 and 70 years of age.[52]
+United Kingdom
+
+Liver cancer is the eighteenth most common cancer in the UK (around 4,300 people were diagnosed with liver cancer in the UK in 2011), and it is the twelfth most common cause of cancer death (around 4,500 people died of the disease in 2012).[53]
+United States
+
+Liver cancer death rates for adults aged 25 and over increased 43 percent from 7.2 per 100,000 U.S. standard population in 2000 to 10.3 in 2016. Liver cancer death rates increased 43 percent from 10.5 in 2000 to 15.0 in 2016 for men and 40 percent from 4.5 to 6.3 for women. The death rate for men was between 2.0–2.5 times the rate for women throughout this period.[54]
+Research
+
+Hepcortespenlisimut-L is an oral immunotherapy that is going through a phase 3 clinical trial for HCC.[55]
+See also
+
+    Timeline of liver cancer

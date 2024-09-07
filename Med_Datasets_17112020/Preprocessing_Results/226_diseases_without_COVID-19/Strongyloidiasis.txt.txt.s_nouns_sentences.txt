@@ -1,0 +1,74 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN infection|NN
+organism|NN stercoralis|NN
+Strongyloidiasis|Disease strongyloide|NN mag|NN Strongyloidiasis|Disease fragment|NN worm|NN right|NN hand|NN corner|NN
+Strongyloidiasis|Disease disease|NN nematode|NN stercoralis|NN s|NP type|NN
+group|NN nematode|NN
+worm|NN number|NN symptom|NN people|NN skin|NN symptom|NN pain|NN weight|NN loss|NN symptom|NN disease|NN life|NN condition|NN
+people|NN corticosteroid|NN medication|NN syndrome|NN death|NN
+diagnosis|NN blood|NN stool|NN test|NN
+medication|NN ivermectin|NN Strongyloidiasis|Disease
+Strongyloidiasis|Disease type|NN helminthiasis|NN
+estimate|NN people|NN country|NN estimate|NN infection|NN people|NN group|NN disease|NN effort|NN infection|NN content|NN
+sign|NN symptom|NN disease|NN disease|NN diagnosis|NN treatment|NN history|NN reference|NN link|NN
+sign|NN symptom|NN life|NN cycle|NN
+infection|NN form|NN
+infection|NN larvae|NN symptom|NN syndrome|NN
+infection|NN symptom|NN
+reinfection|NN larvae|NN body|NN skin|NN lung|NN intestine|NN skin|NN symptom|NN
+syndrome|NN symptom|NN organ|NN system|NN system|NN disease|NN
+system|NN symptom|NN pain|NN diarrhea|NN constipation|NN
+symptom|NN syndrome|NN migration|NN larvae|NN
+manifestation|NN rashe|NN buttock|NN waist|NN area|NN larva|NN eosinophilia|NN
+Strongyloidiasis|Disease patient|NN Strongyloidiasis|Disease
+distinction|NN dissemination|NN hyperinfection|NN
+dissemination|NN worm|NN burden|NN symptom|NN dissemination|NN term|NN hyperinfection|NN
+level|NN dissemination|NN pain|NN distension|NN shock|NN complication|NN sepsis|NN haemorrhage|NN malabsorption|NN combination|NN degree|NN number|NN severity|NN symptom|NN
+worm|NN bloodstream|NN bowel|NN wall|NN entry|NN bowel|NN bacteria|NN escherichia|NP coly|NN
+symptom|NN sepsis|NN bloodstream|NN infection|NN bacteria|NN organ|NN infection|NN meningitis|NN dissemination|NN hyperinfection|NN degree|NN symptom|NN
+dissemination|NN decade|NN infection|NN dose|NN corticosteroid|NN organ|NN transplant|NN instance|NN cause|NN immunosuppression|NN hiv|NP lepromatous|NP leprosy|NN syphilis|NN malnutrition|NN tuberculosis|NN radiation|NN poison|NN patient|NN immunosuppression|NN Strongyloidiasis|Disease screen|NN test|NN country|NN prevalence|NN Strongyloidiasis|Disease screen|NN area|NN
+reality|NN travel|NN need|NN healthcare|NN world|NN area|NN test|NN screen|NN disease|NN Strongyloidiasis|Disease
+eosinophilia|NN disease|NN
+absence|NN eosinophilia|NN infection|NN tract|NN prognosis|NN eosinophilia|NN infection|NN
+dissemination|NN potential|NN
+infection|NN immunosuppression|NN variety|NN variable|NN degree|NN symptom|NN condition|NN aspect|NN individual|NN disease|NN diagnose|NN
+addition|NN symptom|NN cachexia|NN lassitude|NN infection|NN individual|NN weight|NN loss|NN body|NN mass|NN index|NN
+citation|NN diagnosis|NN
+diagnosis|NN identification|NN larvae|NN stool|NN fluid|NN
+examination|NN sample|NN stool|NN examination|NN sample|NN larvae|NN case|NN week|NN infection|NN passage|NN larvae|NN stool|NN
+stool|NN mount|NN
+concentration|NN acetate|NN recovery|NN larvae|NN funnel|NN technique|NN culture|NN filter|NN paper|NN technique|NN culture|NN agar|NN plate|NN
+culture|NN technique|NN west|NN
+uk|NP culture|NN school|NN medicine|NN liverpool|NP london|NP
+examination|NN stool|NN hookworm|NN egg|NN hatch|NN cool|NN larvae|NN
+stool|NN test|NN
+stool|NN sample|NN biopsy|NN infection|NN
+fluid|NN technique|NN string|NN aspiration|NN sputum|NN patient|NN Strongyloidiasis|Disease
+ability|NN stool|NN examination|NN antibody|NN elisa|NP parasite|NN year|NN treatment|NN patient|NN patient|NN eosinophil|NN count|NN average|NN eosinophil|NN count|NN series|NN eosinophilia|NN infection|NN response|NN output|NN infection|NN
+lack|NN eosinophilia|NN evidence|NN absence|NN infection|NN
+combination|NN suspicion|NN antibody|NN eosinophilia|NN infection|NN
+advance|NN sensitivity|NN mean|NN diagnosis|NN problem|NN proof|NN cure|NN
+diagnosis|NN reason|NN proof|NN cure|NN treatment|NN
+consensus|NN drug|NN choice|NN treatment|NN Strongyloidiasis|Disease ivermectin|NN
+drug|NN choice|NN study|NN challenge|NN ivermectin|NN Strongyloidiasis|Disease ivermectin|NN larvae|NN adult|NN worm|NN dose|NN infection|NN
+cycle|NN week|NN ivermectin|NN dose|NN blood|NN larvae|NN bowel|NN drug|NN mgkg|NN mg|NN maximum|NN patient|NN risk|NN Strongyloidiasis|Disease
+duration|NN treatment|NN patient|NN infection|NN
+treatment|NN Strongyloidiasis|Disease treatment|NN cycle|NN individual|NN decade|NN treatment|NN
+treatment|NN blood|NN stool|NN monitor|NN symptom|NN
+fact|NN infection|NN bloodwork|NN false-positive|NN stool|NN sample|NN diagnose|NN gold|NN standard|NN proof|NN cure|NN lack|NN methodology|NN diagnosis|NN eradication|NN standard|NN Strongyloidiasis|Disease degree|NN suspicion|NN treatment|NN difficulty|NN criteria|NN detect|NN larvae|NN adult|NN importance|NN diagnosis|NN treatment|NN variability|NN exclusioninclusion|NN collection|NN symptom|NN
+mis-ascribe|NN disorder|NN Strongyloidiasis|Disease professional|NN consideration|NN campaign|NN locale|NN world|NN world|NN disease|NN
+cost|NN stromectol|NN drug|NN ivermectin|NN formula|NN government|NN program|NN area|NN population|NN infection|NN progress|NN support|NN medication|NN individual|NN region|NN community|NN treatment|NN
+report|NN drug|NN treatment|NN
+ineffectiveness|NN drug|NN resistance|NN thiabendazole|NN side|NN effect|NN country|NN inroad|NN development|NN medication|NN drug|NN protocol|NN Strongyloidiasis|Disease disease|NN
+textile|NN vermicularis|NN
+person|NN person|NN contagiousness|NN infection|NN
+organ|NN transplantation|NN vietnam|NP war|NN veteran|NN hyperinfection|NN decade|NN infection|NN treatment|NN wive|NN contract|NN infection|NN skin|NN exposure|NN soil|NN pote|NN soil|NN water|NN lack|NN sanitation|NN factor|NN vector|NN
+transmission|NN person|NN person|NN sex|NN closeness|NN contact|NN cough|NN
+situation|NN scenario|NN secretion|NN direly|NN
+case|NN treatment|NN proximity|NN symptom|NN precaution|NN exposure|NN vector|NN screen|NN serology|NN stool|NN sample|NN infection|NN
+steroid|NN screen|NN infection|NN individual|NN order|NN infection|NN
+cohort|NN mortality|NN rate|NN immunosuppression|NN application|NN steroid|NN
+caution|NN respect|NN risk|NN death|NN consequence|NN treatment|NN course|NN diagnosis|NN history|NN
+disease|NN physician|NN louis|NP alexis|NP normand|NP work|NN hospital|NN toulon|NN adult|NN worm|NN arthur|NP jean|NP baptiste|NP inspector|NN health|NN adult|NN form|NN larvae|NN stool|NN
+german|NN rudolf|NP leuckart|NP observation|NN life|NN cycle|NN parasite|NN physician|NN paul|NP van|NP build|NN observation|NN german|NN arthur|NP looss|NP mode|NN infection|NN skin|NN
+german|NN friedrich|NP fülleborn|NP way|NN Strongyloidiasis|Disease intestine|NN
+interest|NN condition|NN infection|NN immunosuppression|NN syndrome|NN

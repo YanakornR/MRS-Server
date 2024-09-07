@@ -1,0 +1,219 @@
+Tinnitus
+From Wikipedia, the free encyclopedia
+  (Redirected from Tinitus)
+Jump to navigation
+Jump to search
+For the Norwegian radio show, see Tinitus (radio show).
+Tinnitus
+2010-07-20 Black windup alarm clock face.jpg
+Tinnitus often results in the sound of ringing.
+Pronunciation	
+
+    /ˈtɪnɪtəs/ or /tɪˈnaɪtəs/ 
+
+Specialty	Otorhinolaryngology, audiology
+Symptoms	Hearing sound when no external sound is present[1]
+Complications	Depression, anxiety, poor concentration[2]
+Usual onset	Gradual[3]
+Causes	Noise-induced hearing loss, ear infections, disease of the heart or blood vessels, Ménière's disease, brain tumors, emotional stress[2][4]
+Diagnostic method	Based on symptoms, audiogram, neurological exam[1][3]
+Treatment	Counseling, sound generators, hearing aids[2][5]
+Frequency	~12.5%[5]
+
+Tinnitus is the hearing of sound when no external sound is present.[1] While often described as a ringing, it may also sound like a clicking, hiss or roaring.[2] Rarely, unclear voices or music are heard.[3] The sound may be soft or loud, low pitched or high pitched and appear to be coming from one ear or both.[2] Most of the time, it comes on gradually.[3] In some people, the sound causes depression or anxiety and can interfere with concentration.[2]
+
+Tinnitus is not a disease but a symptom that can result from a number of underlying causes.[2] One of the most common causes is noise-induced hearing loss.[2] Other causes include ear infections, disease of the heart or blood vessels, Ménière's disease, brain tumors, emotional stress, exposure to certain medications, a previous head injury, and earwax.[2][4] It is more common in those with depression.[3]
+
+The diagnosis of tinnitus is usually based on the person's description.[3] A number of questionnaires exist that may help to assess how much tinnitus is interfering with a person's life.[3] The diagnosis is commonly supported by an audiogram and a neurological examination.[1][3] If certain problems are found, medical imaging, such as with MRI, may be performed.[3] Other tests are suitable when tinnitus occurs with the same rhythm as the heartbeat.[3] Rarely, the sound may be heard by someone else using a stethoscope, in which case it is known as objective tinnitus.[3] Spontaneous otoacoustic emissions, which are sounds produced normally by the inner ear, may also occasionally result in tinnitus.[6]
+
+Prevention involves avoiding loud noise.[2] If there is an underlying cause, treating it may lead to improvements.[3] Otherwise, typically, management involves talk therapy.[5] Sound generators or hearing aids may help some.[2] As of 2013, there were no effective medications.[3] It is common, affecting about 10–15% of people.[5] Most, however, tolerate it well, and it is a significant problem in only 1–2% of people.[5] The word tinnitus is from the Latin tinnīre which means "to ring".[3]
+Contents
+
+    1 Signs and symptoms
+        1.1 Course
+        1.2 Psychological
+    2 Causes
+        2.1 Subjective tinnitus
+        2.2 Objective tinnitus
+        2.3 Pulsatile tinnitus
+    3 Pathophysiology
+    4 Diagnosis
+        4.1 Audiology
+        4.2 Psychoacoustics
+        4.3 Severity
+        4.4 Pulsatile tinnitus
+        4.5 Differential diagnosis
+    5 Prevention
+    6 Management
+        6.1 Psychological
+        6.2 Medications
+        6.3 Other
+        6.4 Alternative medicine
+    7 Prognosis
+    8 Epidemiology
+        8.1 Adults
+        8.2 Children
+    9 See also
+    10 References
+    11 External links
+
+Signs and symptoms
+
+Tinnitus can be perceived in one or both ears or in the head. It is the description of a noise inside a person’s head in the absence of auditory stimulation. The noise can be described in many different ways. It is usually described as a ringing noise, but in some patients, it takes the form of a high-pitched whining, electric buzzing, hissing, humming, tinging or whistling, ticking, clicking, roaring, "crickets", "tree frogs", "locusts (cicadas)", tunes, songs, beeping, sizzling, or sounds that slightly resemble human voices or even a pure steady tone like that heard during a hearing test.[4] Tinnitus can be intermittent or continuous: in the latter case, it can be the cause of great distress. In some individuals, the intensity can be changed by shoulder, head, tongue, jaw or eye movements.[7] Most people with tinnitus have some degree of hearing loss.[8]
+
+The sound perceived may range from a quiet background noise to one that can be heard even over loud external sounds. The specific type of tinnitus called pulsatile tinnitus is characterized by hearing the sounds of one's own pulse or muscle contractions, which is typically a result of sounds that have been created by the movement of muscles near to one's ear, or the sounds are related to blood flow of the neck or face.[9]
+Course
+
+Due to variations in study designs, data on the course of tinnitus showed few consistent results. Generally, the prevalence increased with age in adults, whereas the ratings of annoyance decreased with duration.[10][11][12]
+Psychological
+
+Persistent tinnitus may cause anxiety and depression.[13][14] Tinnitus annoyance is more strongly associated with psychological condition than loudness or frequency range.[15][16] Psychological problems such as depression, anxiety, sleep disturbances and concentration difficulties are common in those with strongly annoying tinnitus.[17][18] 45% of people with tinnitus have an anxiety disorder at some time in their life.[19]
+
+Psychological research has looked at the tinnitus distress reaction (TDR) to account for differences in tinnitus severity.[17][20][21][22] These findings suggest that at the initial perception of tinnitus, conditioning links tinnitus with negative emotions, such as fear and anxiety from unpleasant stimuli at the time. This enhances activity in the limbic system and autonomic nervous system, thus increasing tinnitus awareness and annoyance.[23]
+Causes
+
+There are two types of tinnitus: subjective tinnitus and objective tinnitus.[3] Tinnitus is usually subjective, meaning that there is no sound detectable by other means.[3] Subjective tinnitus has also been called "tinnitus aurium", "non-auditory" or "non-vibratory" tinnitus. In very rare cases tinnitus can be heard by someone else using a stethoscope, and in less rare – but still uncommon – cases it can be measured as a spontaneous otoacoustic emission (SOAE) in the ear canal. In such cases it is objective tinnitus,[3] also called "pseudo-tinnitus" or "vibratory" tinnitus.
+Subjective tinnitus
+
+Subjective tinnitus is the most frequent type of tinnitus. It can have many possible causes, but most commonly it results from hearing loss. When the tinnitus is caused by disorders of the inner ear or auditory nerve it is called otic (from the Greek word for ear).[24] These otological or neurological conditions include those triggered by infections or drugs.[25] A frequent cause is noise exposure that damages hair cells in the inner ear.
+
+When there does not seem to be a connection with a disorder of the inner ear or auditory nerve, the tinnitus is called nonotic (i.e. not otic). In some 30% of tinnitus cases, the tinnitus is influenced by the somatosensory system, for instance people can increase or decrease their tinnitus by moving their face, head, or neck.[26] This type is called somatic or craniocervical tinnitus, since it is only head or neck movements that have an effect.[24]
+
+There is a growing body of evidence suggesting that some tinnitus is a consequence of neuroplastic alterations in the central auditory pathway. These alterations are assumed to result from a disturbed sensory input, caused by hearing loss.[27] Hearing loss could indeed cause a homeostatic response of neurons in the central auditory system, and therefore cause tinnitus.[28]
+Hearing loss
+
+The most common cause of tinnitus is noise-induced hearing loss. Hearing loss may have many different causes, but among those with tinnitus, the major cause is cochlear damage.[27]
+
+Ototoxic drugs can also cause subjective tinnitus, as they may cause hearing loss, or increase the damage done by exposure to loud noise. Those damages can occur even at doses that are not considered ototoxic.[29] Over 260 medications have been reported to cause tinnitus as a side effect.[30] In many cases, however, no underlying cause could be identified.[2]
+
+Tinnitus can also occur due to the discontinuation of therapeutic doses of benzodiazepines. It can sometimes be a protracted symptom of benzodiazepine withdrawal and may persist for many months.[31][32] Medications such as bupropion may also result in tinnitus.[33] In many cases, however, no underlying cause can be identified.[34]
+Associated factors
+
+Factors associated with tinnitus include:[35]
+
+    ear problems and hearing loss:
+        conductive hearing loss
+            acoustic shock
+            loud noise or music[36]
+            middle ear effusion
+            otitis
+            otosclerosis
+            Eustachian tube dysfunction
+        sensorineural hearing loss
+            excessive or loud noise
+            presbycusis (age-associated hearing loss)
+            Ménière's disease
+            endolymphatic hydrops
+            superior canal dehiscence
+            acoustic neuroma
+            mercury or lead poisoning
+            ototoxic medications
+    neurologic disorders:
+        Arnold–Chiari malformation
+        multiple sclerosis
+        head injury
+        temporomandibular joint dysfunction
+        giant cell arteritis
+    metabolic disorders:
+        vitamin B12 deficiency[37]
+        iron deficiency anemia
+    psychiatric disorders
+        depression
+        anxiety disorders
+    other factors:
+        vasculitis
+        Some psychedelic drugs can produce temporary tinnitus-like symptoms as a side effect
+            5-MeO-DET[38]
+            diisopropyltryptamine (DiPT)[39]
+        benzodiazepine withdrawal[31][32]
+        intracranial hyper or hypotension caused by, for example, encephalitis or a cerebrospinal fluid leak
+
+Objective tinnitus
+
+Objective tinnitus can be detected by other people and is sometimes caused by an involuntary twitching of a muscle or a group of muscles (myoclonus) or by a vascular condition. In some cases, tinnitus is generated by muscle spasms around the middle ear.[9]
+
+Spontaneous otoacoustic emissions (SOAEs), which are faint high-frequency tones that are produced in the inner ear and can be measured in the ear canal with a sensitive microphone, may also cause tinnitus.[6] About 8% of those with SOAEs and tinnitus have SOAE-linked tinnitus,[need quotation to verify] while the percentage of all cases of tinnitus caused by SOAEs is estimated at about 4%.[6]
+Pulsatile tinnitus
+
+Some people experience a sound that beats in time with their pulse, known as pulsatile tinnitus or vascular tinnitus.[40] Pulsatile tinnitus is usually objective in nature, resulting from altered blood flow, increased blood turbulence near the ear, such as from atherosclerosis or venous hum,[41] but it can also arise as a subjective phenomenon from an increased awareness of blood flow in the ear.[40] Rarely, pulsatile tinnitus may be a symptom of potentially life-threatening conditions such as carotid artery aneurysm[42] or carotid artery dissection.[43] Pulsatile tinnitus may also indicate vasculitis, or more specifically, giant cell arteritis. Pulsatile tinnitus may also be an indication of idiopathic intracranial hypertension.[44] Pulsatile tinnitus can be a symptom of intracranial vascular abnormalities and should be evaluated for irregular noises of blood flow (bruits).[45]
+Pathophysiology
+
+The mechanisms of subjective tinnitus are often obscure. While it is not surprising that direct trauma to the inner ear can cause tinnitus, other apparent causes (e.g., temporomandibular joint dysfunction) are difficult to explain.
+
+It may be caused by increased neural activity in the auditory brainstem, where the brain processes sounds, causing some auditory nerve cells to become over-excited. The basis of this theory is that many with tinnitus also have hearing loss.[8]
+
+Three reviews of 2016 emphasized the large range and possible combinations of pathologies involved in tinnitus, which in turn result in a great variety of symptoms demanding specifically adapted therapies.[46][47][48]
+Diagnosis
+
+The diagnosistic approach is based on a history of the condition and an examination head, neck, and neurological system.[34] Typically an audiogram is done, and occasionally medical imaging or electronystagmography.[34] Treatable conditions may include middle ear infection, acoustic neuroma, concussion, and otosclerosis.[49]
+
+Evaluation of tinnitus can include a hearing test (audiogram), measurement of acoustic parameters of the tinnitus like pitch and loudness, and psychological assessment of comorbid conditions like depression, anxiety, and stress that are associated with severity of the tinnitus.
+
+The accepted definition of chronic tinnitus, as compared to normal ear noise experience, is five minutes of ear noise occurring at least twice a week.[50] However, people with chronic tinnitus often experience the noise more frequently than this and can experience it continuously or regularly, such as during the night when there is less environmental noise to mask the sound.
+Audiology
+
+Since most persons with tinnitus also have hearing loss, a pure tone hearing test resulting in an audiogram may help diagnose a cause, though some persons with tinnitus do not have hearing loss. An audiogram may also facilitate fitting of a hearing aid in those cases where hearing loss is significant. The pitch of tinnitus is often in the range of the hearing loss. Hearing test using mobile application, also resulting in an audiogram, in spite of errors in hearing thresholds measuring, can help to diagnose hearing loss.[51] This audiogram can be used to configure hearing aid application.[52]
+Psychoacoustics
+
+Acoustic qualification of tinnitus will include measurement of several acoustic parameters like frequency in cases of monotone tinnitus or frequency range and bandwidth in cases of narrow band noise tinnitus, loudness in dB above hearing threshold at the indicated frequency, mixing-point, and minimum masking level.[53] In most cases, tinnitus pitch or frequency range is between 5 kHz and 10 kHz,[54] and loudness between 5 and 15 dB above the hearing threshold.[55]
+
+Another relevant parameter of tinnitus is residual inhibition, the temporary suppression or disappearance of tinnitus following a period of masking. The degree of residual inhibition may indicate how effective tinnitus maskers would be as a treatment modality.[56][57]
+
+An assessment of hyperacusis, a frequent accompaniment of tinnitus,[58] may also be made.[59] The measured parameter is Loudness Discomfort Level (LDL) in dB, the subjective level of acute discomfort at specified frequencies over the frequency range of hearing. This defines a dynamic range between the hearing threshold at that frequency and the loudnes discomfort level. A compressed dynamic range over a particular frequency range is associated with subjectve hyperacusis. Normal hearing threshold is generally defined as 0–20 decibels (dB). Normal loudness discomfort levels are 85–90+ dB, with some authorities citing 100 dB. A dynamic range of 55 dB or less is indicative of hyperacusis.[60][61]
+Severity
+
+The condition is often rated on a scale from "slight" to "catastrophic" according to the effects it has, such as interference with sleep, quiet activities and normal daily activities.[62] In an extreme case, a man committed suicide after being told there was no cure.[63]
+
+Assessment of psychological processes related to tinnitus involves measurement of tinnitus severity and distress (i.e., nature and extent of tinnitus-related problems), measured subjectively by validated self-report tinnitus questionnaires.[17] These questionnaires measure the degree of psychological distress and handicap associated with tinnitus, including effects on hearing, lifestyle, health and emotional functioning.[64][65][66] A broader assessment of general functioning, such as levels of anxiety, depression, stress, life stressors and sleep difficulties, is also important in the assessment of tinnitus due to higher risk of negative well-being across these areas, which may be affected by or exacerbate the tinnitus symptoms for the individual.[67] Overall, current assessment measures are aimed to identify individual levels of distress and interference, coping responses and perceptions of tinnitus in order to inform treatment and monitor progress. However, wide variability, inconsistencies and lack of consensus regarding assessment methodology are evidenced in the literature, limiting comparison of treatment effectiveness.[68] Developed to guide diagnosis or classify severity, most tinnitus questionnaires have been shown to be treatment-sensitive outcome measures.[69]
+Pulsatile tinnitus
+
+If the examination reveals a bruit (sound due to turbulent blood flow), imaging studies such as transcranial doppler (TCD) or magnetic resonance angiography (MRA) should be performed.[70][71][72]
+Differential diagnosis
+
+Other potential sources of the sounds normally associated with tinnitus should be ruled out. For instance, two recognized sources of high-pitched sounds might be electromagnetic fields common in modern wiring and various sound signal transmissions. A common and often misdiagnosed condition that mimics tinnitus is radio frequency (RF) hearing, in which subjects have been tested and found to hear high-pitched transmission frequencies that sound similar to tinnitus.[73][74]
+Prevention
+Safety sign from the UK Government Regulations requiring ear protection
+
+Prolonged exposure to loud sound or noise levels can lead to tinnitus.[75] Ear plugs or other measures can help with prevention. Employers may use hearing loss prevention programs to help educate and prevent dangerous levels of exposure to noise. Groups like NIOSH and OSHA help set regulations to ensure employees, if following the protocol, should have minimal risk to permanent damage to their hearing.[76]
+
+Several medicines have ototoxic effects, and can have a cumulative effect that can increase the damage done by noise. If ototoxic medications must be administered, close attention by the physician to prescription details, such as dose and dosage interval, can reduce the damage done.[77][78][79]
+Management
+
+If there is an underlying cause, treating it may lead to improvements.[3] Otherwise, the primary treatment for tinnitus is talk therapy,[5] sound therapy, or hearing aids. There are no effective medications or supplements that treat tinnitus.[3][80]
+Psychological
+
+The best supported treatment for tinnitus is a type of counseling called cognitive behavioral therapy (CBT) which can be delivered via the internet or in person.[5][69][81] It decreases the amount of stress those with tinnitus feel.[82] These benefits appear to be independent of any effect on depression or anxiety in an individual.[81] Acceptance and commitment therapy (ACT) also shows promise in the treatment of tinnitus.[83] Relaxation techniques may also be useful.[3] A clinical protocol called Progressive Tinnitus Management for treatment of tinnitus has been developed by the United States Department of Veterans Affairs.[84]
+Medications
+
+As of 2018 there were no medications effective for idiopathic tinnitus.[3][75][85] There is not enough evidence to determine if antidepressants[86] or acamprosate are useful.[87] There is no high-quality evidence to support the use of benzodiazepines for tinnitus.[3][85][88] Usefulness of melatonin, as of 2015, is unclear.[89] It is unclear if anticonvulsants are useful for treating tinnitus.[3][90] Steroid injections into the middle ear also do not seem to be effective.[91][92] There is no evidence to suggest that the use of betahistine to treat tinnitius is effective.[93]
+
+Botulinum toxin injection has been tried with some success in some of the rare cases of objective tinnitus from a palatal tremor.[94]
+
+Caroverine is used in a few countries to treat tinnitus.[95] The evidence for its usefulness is very weak.[96]
+Other
+
+The use of sound therapy by either hearing aids or tinnitus maskers helps the brain ignore the specific tinnitus frequency. Although these methods are poorly supported by evidence, there are no negative effects.[3][97][98] There are several approaches for tinnitus sound therapy. The first is sound modification to compensate for the individual’s hearing loss. The second is a signal spectrum notching to eliminate energy close to the tinnitus frequency.[99][100] There is some tentative evidence supporting tinnitus retraining therapy,which is aimed at reducing tinnitus related neuronal activity.[3][101][102] There are preliminary data on an alternative tinnitus treating method using mobile applications, including various methods: masking, sound therapy, relaxing exercises and other.[103][104] These applications can work as a separate device or as a hearing aid control system.[105] There is little evidence supporting the use of transcranial magnetic stimulation.[3][106] It is thus not recommended.[75] As of 2017 there was limited evidence as to whether neurofeedback is or is not helpful.[107]
+Alternative medicine
+
+Ginkgo biloba does not appear to be effective.[85][108] The American Academy of Otolaryngology recommends against taking melatonin or zinc supplements to relieve symptoms of tinnitus.[75] In addition, a 2016 Cochrane Review concluded that evidence is not sufficient to support taking zinc supplements to reduce symptoms associated with tinnitus.[109]
+Prognosis
+
+While there is no cure, most people with tinnitus get used to it over time; for a minority, it remains a significant problem.[5]
+Epidemiology
+Adults
+
+Tinnitus affects 10–15% of people.[5] About a third of North Americans over 55 experience tinnitus.[110] Tinnitus affects one third of adults at some time in their lives, whereas ten to fifteen percent are disturbed enough to seek medical evaluation.[111]
+Children
+
+Tinnitus is commonly thought of as a symptom of adulthood, and is often overlooked in children. Children with hearing loss have a high incidence of tinnitus, even though they do not express the condition or its effect on their lives.[112] Children do not generally report tinnitus spontaneously and their complaints may not be taken seriously.[113] Among those children who do complain of tinnitus, there is an increased likelihood of associated otological or neurological pathology such as migraine, juvenile Meniere’s disease or chronic suppurative otitis media.[114] Its reported prevalence varies from 12% to 36% in children with normal hearing thresholds and up to 66% in children with a hearing loss and approximately 3–10% of children have been reported to be troubled by tinnitus.[115]
+See also
+
+    iconMedicine portal
+
+    Health effects from noise
+    List of people with tinnitus
+    List of unexplained sounds
+    Phantom vibration syndrome
+    Zwicker tone
+    Auditory hallucination
+

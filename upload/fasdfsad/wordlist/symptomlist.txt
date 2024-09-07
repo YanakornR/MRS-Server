@@ -1,0 +1,218 @@
+anorexia
+weight loss
+cachexia
+chills
+shivering
+convulsion
+deformity
+mucopurulent discharge
+discharge
+dizziness
+vertigo
+fatigue
+malaise
+weakness
+asthenia
+hypothermia
+jaundice
+muscle weakness
+fever
+pyrexia
+perspiration
+sweats
+swelling
+lymphadenopathy
+weight gain
+heart arrhythmia
+arrhythmia
+bradycardia
+chest pain
+claudication
+palpitations
+tachycardia
+xerostomia
+dry mouth
+nosebleed
+epistaxis
+bad breath
+halitosis
+hearing loss
+rhinorrhea
+nasal discharge
+ear pain
+otalgia
+otitis media
+otorrhea
+sore throat
+toothache
+tinnitus
+trismus
+abdominal pain
+bloating
+burping
+belching
+gastrointestinal bleeding
+bleeding
+hematemesis
+blood in stool
+melena
+hematochezia
+constipation
+diarrhea
+dysphagia
+indigestion
+dyspepsia
+fecal incontinence
+flatulence
+heartburn
+nausea
+odynophagia
+proctalgia fugax
+heartburn
+pyrosis
+rectal tenesmus
+steatorrhea
+vomiting
+hair loss
+alopecia
+hirsutism
+hypertrichosis
+abrasion
+anasarca
+petechia
+purpura
+ecchymosis
+bruise
+bruising
+blister
+edema
+itch
+janeway lesions
+osler's node
+wound
+laceration
+rash
+urticaria
+abnormal posturing
+acalculia
+agnosia
+alexia
+alexia
+amnesia
+anomic aphasia
+anomia
+anosognosia
+aphasia
+apraxia
+ataxia
+cataplexy
+altered state of consciousness
+confusion
+dysarthria
+dysdiadochokinesia
+dysgraphia
+hallucination
+headache
+hypokinesia
+hypokinetic movement disorder
+akinesia
+bradykinesia
+akathisia
+athetosis
+hemiballismus
+ballismus
+blepharospasm
+chorea
+dystonia
+fasciculation
+cramp
+muscle cramps
+myoclonus
+opsoclonus
+tic
+tremor
+asterixis
+flapping tremor
+insomnia
+lhermitte's sign
+unconsciousness
+loss of consciousness
+syncope 
+neck stiffness
+opisthotonus
+pain
+paralysis
+paresis
+paresthesia
+prosopagnosia
+somnolence
+vaginal bleeding
+abnormal vaginal bleeding
+miscarriage
+vaginal bleeding in early pregnancy
+miscarriage
+antepartum haemorrhage
+vaginal bleeding in late pregnancy
+amenorrhea
+infertility
+dyspareunia
+painful intercourse
+chronic pelvic pain
+pelvic pain
+vaginal discharge
+amaurosis fugax
+amaurosis
+blurred vision
+dalrymple's sign
+diplopia
+double vision
+exophthalmos
+mydriasis
+miosis
+pathologic nystagmus
+nystagmus
+amusia
+anhedonia
+anxiety
+apathy
+confabulation
+depression
+depression
+delusion
+euphoria 
+euphoria
+homicidal ideation
+irritability
+mania
+paranoia
+paranoid ideation
+phobia
+suicidal ideation
+apnea
+hypopnea
+cough
+shortness of breath
+dyspnea
+bradypnea
+tachypnea
+orthopnea
+platypnea
+trepopnea
+hemoptysis
+pleuritic chest pain
+sputum
+arthralgia
+back pain
+sciatica
+dysuria
+hematospermia
+hematuria
+impotence
+polyuria
+retrograde ejaculation
+strangury
+urethra
+urethral discharge
+urinary frequency
+urinary incontinence
+urinary retention

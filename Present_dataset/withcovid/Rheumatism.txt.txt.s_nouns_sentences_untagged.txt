@@ -1,0 +1,22 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+rod|NN rheumatism|DS name|NN rheumatism|DS rheumatology|NN 
+rheumatism|DS rheumatism|DS umbrella|NN term|NN condition|NN pain|ST joint|NN tissue|NN 
+study|NN intervention|NN disorder|NN rheumatology|NN term|NN rheumatism|DS disorder|NN cover|NN condition|NN 
+source|NN rheumatism|DS rheumatism|DS condition|NN pain|ST rheumatism|DS pain|ST syndrome|NN tissue|NN rheumatism|DS term|NN rheumatism|DS mesh|NN tissue|NN disorder|NN content|NN 
+type|NN treatment|NN history|NN reference|NN read|NN link|NN 
+rheumatism|DS pain|ST disease|NN 
+etiology|NN century|NN lyme_disease|DS valley|NN fever|ST chikungunya|DS india|NN myriad|NN cause|NN arthritis|DS arthritis|DS example|NN fever|ST group|NN infection|NN whipple_disease|DS 
+major|NN rheumatism|DS 
+back_pain|ST bursitistendinitis|NN shoulder|NN wrist|NN bicep|NN leg|NN knee|NN cap|NN ankle|NN hip|NN achille|NN tendon|NN neck|NN pain|ST rheumatism|DS form|NN arthritis|DS 
+disorder|NN term|NN epidemiology|NN characteristics|NN pain|ST 
+lupus|NN arthritis|DS gout|DS arthritis|DS arthritis|DS syndrome|NN dermatomyositis|DS disease|NN arthritis|DS 
+number|NN remedy|NN rheumatism|DS medicine|NN alternative|NN rheumatism|DS cause|NN cause|NN kind|NN treatment|NN 
+therapy|NN rheumatological|NN disease|NN analgesics|NN paracetamol|NN drug|NN nsaids|NN member|NN 
+greek|NN bee|NN venom|NN effect|NN type|NN rheumatism|DS 
+bee|NN ant|NN sting|NN folk|NN remedy|NN century|NN physician|NN treatment|NN formic|NN acid|NN injection|NN tribe|NN use|NN fire|NN ant|NN sting|NN remedy|NN ache|NN pain|ST 
+cod|NN liver|NN oil|NN remedy|NN 
+tree|NN oil|NN east|NN culture|NN remedy|NN history|NN 
+term|NN rheumatism|DS stem|NN latin|NN rheumatism|DS 
+flux|NN mean|NN fluid|NN discharge|ST blood|NN fluid|NN 
+century|NN pain|ST humour|NN joint|NN gout|DS word|NN english|NN french|NN drop|NN gout|DS rheumatism|DS day|NN term|NN excess|NN acid|NN 
+term|NN rheumatism|DS sense|NN use|NN century|NN pain|ST flow|NN rheum|NN fluid|NN 

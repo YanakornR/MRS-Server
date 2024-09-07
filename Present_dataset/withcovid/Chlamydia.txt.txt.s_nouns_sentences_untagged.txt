@@ -1,0 +1,62 @@
+encyclopedia|NN chlamydia|NN jump|NN navigation|NN jump|NN search|NN chlamydia|NN 
+use|NN chlamydia|NN disambiguation|NN 
+chlamydia|NN name|NN chlamydia|NN smear|NN vacuole|NN smear|NN c|NN disease|NN symptom|NN discharge|ST discharge|ST penis|NN burn|NN urination|NN complication|NN pain|ST testicle|NN disease|NN infertility|ST pregnancy|NN onset|NN week|NN exposure|NN cause|NN chlamydia|NN spread|NN intercourse|NN childbirth|NN method|NN urine|NN swab|NN cervix|NN vagina|NN urethra|ST prevention|NN sex|NN condom|NN sex|NN noninfect|NN person|NN treatment|NN antibiotics|NN frequency|NN women|NN men|NN death|NN 
+chlamydia|NN chlamydia|NN infection|NN bacterium|NN chlamydia|NN people|NN symptom|NN symptom|NN week|NN infection|NN symptom|NN women|NN discharge|ST burn|NN urination|NN symptom|NN men|NN discharge|ST penis|NN burn|NN urination|NN pain|ST swell|NN testicle|NN infection|NN tract|NN women|NN disease|NN future|NN infertility|ST pregnancy|NN infection|NN eye|NN treatment|NN cause|NN blindness|NN world|NN 
+chlamydia|NN sex|NN mother|NN baby|NN childbirth|NN eye|NN infection|NN contact|NN fly|NN towel|NN area|NN sanitation|NN chlamydia|NN human|NN diagnosis|NN screen|NN women|NN age|NN risk|NN visit|NN test|NN urine|NN swab|NN cervix|NN vagina|NN urethra|ST mouth|NN swab|NN infection|NN area|NN 
+prevention|NN sex|NN use|NN condom|NN sex|NN person|NN chlamydia|NN antibiotics|NN baby|NN pregnancy|NN partner|NN people|NN sex|NN day|NN symptom|NN gonorrhea|NN syphilis|DS hiv|DS treatment|NN people|NN month|NN 
+chlamydia|NN infection|NN women|NN men|NN case|NN united|NN states|NN case|NN infection|NN age|NN women|NN men|NN infection|NN death|NN word|NN chlamydia|NN 
+mean|NN cloak|NN content|NN 
+sign|NN symptom|NN disease|NN eye|NN disease|NN joint|NN infant|NN condition|NN transmission|NN diagnosis|NN prevention|NN screen|NN treatment|NN epidemiology|NN reference|NN link|NN 
+sign|NN symptom|NN disease|NN inflammation|NN cervix|NN female|NN chlamydia|NN discharge|ST redness|NN inflammation|NN 
+male|NN discharge|ST tip|NN penis|NN 
+chlamydia|NN infection|NN cervix|NN neck|NN womb|NN infection|NN symptom|NN 5070|NN women|NN 
+infection|NN sex|NN 
+infection|NN doctor|NN disease|NN term|NN infection|NN uterus|NN tube|NN ovary|NN 
+scare|NN organ|NN complication|NN pain|ST difficulty|NN pregnancy|NN complication|NN pregnancy|NN 
+chlamydia|NN epidemic|NN women|NN symptom|NN 7080|NN case|NN month|NN year|NN 
+sign|NN symptom|NN bleed|NN discharge|ST pain|ST intercourse|NN fever|ST urination|NN urge|NN urgency|NN 
+women|NN screen|NN risk|NN infection|NN risk|NN factor|NN history|NN chlamydia|NN infection|NN partner|NN condom|NN use|NN guideline|NN women|NN emergency|NN contraceptive|NN chlamydia|NN test|NN study|NN women|NN year|NN chlamydia|NN men|NN 
+men|NN chlamydia|NN infection|NN show|NN symptom|NN inflammation|NN urethra|ST case|NN symptom|NN sensation|NN discharge|ST penis|NN pain|ST swell|NN fever|ST 
+chlamydia|NN men|NN testicle|NN case|NN sterility|NN chlamydia|NN cause|NN inflammation|NN men|NN relevance|NN prostatitis|DS contamination|NN urethritis|NN eye|NN disease|NN article|NN due|NN chlamydia|NN 
+chlamydia|NN conjunctivitis|DS cause|NN blindness|NN role|NN blindness|NN case|NN trachoma|DS infection|NN eye|NN eye|NN finger|NN towel|NN cloth|NN fly|NN chlamydia|NN eye|NN infection|NN childbirth|NN 
+strategy|NN acronym|NN surgery|NN in-grow|NN in-turn|NN lashe|NN antibiotics|NN cleanliness|NN improvement|NN world|NN health|NN organization|NN aim|NN elimination|NN trachoma|DS initiative|NN joint|NN 
+chlamydia|NN triad|NN arthritis|DS inflammationespecially|NN men|NN 
+men|NN arthritis|DS chlamydia|NN year|NN 
+sexe|NN men|NN 
+infant|NN mother|NN chlamydia|NN disease|NN 
+chlamydia|NN infant|NN abortion|NN birth|NN blindness|NN pneumonia|DS chlamydia|NN week|NN birth|NN cause|NN hour|NN day|NN 
+serovar|NN chlamydia_trachomatis|DS cause|NN lymphogranuloma|NN infection|NN lymph|NN node|NN lymphatics|NN 
+ulceration|NN lymph|NN node|NN groin|NN inflammation|NN fever|ST lymph|NN node|NN region|NN body|NN transmission|NN 
+chlamydia|NN sex|NN contact|NN tissue|NN 
+chlamydia|NN mother|NN baby|NN childbirth|NN 
+chlamydia|NN ability|NN association|NN host|NN cell|NN 
+host|NN cell|NN nutrient|NN amino|NN acid|NN example|NN iron|NN vitamin|NN consequence|NN chlamydia|NN organism|NN host|NN cell|NN nutrient|NN 
+cohort|NN study|NN year|NN year|NN year|NN 
+chlamydia|NN growth|NN state|NN cell|NN division|NN size|NN organism|NN growth|NN state|NN condition|NN host|NN cell|NN 
+debate|NN persistence|NN relevance|NN 
+chlamydia|NN cause|NN chlamydia|NN disease|NN 
+growth|NN state|NN diagnosis|NN chlamydia|NN inclusion|NN body|NN mccoy|NN cell|NN culture|NN 
+diagnosis|NN chlamydia|NN infection|NN 
+acid|NN amplification|NN test|NN polymerase|NN chain|NN reaction|NN pcr|NN transcription|NN amplification|NN tma|NN dna|NN strand|NN displacement|NN amplification|NN sda|NN mainstay|NN 
+chlamydia|NN swab|NN specimen|NN cervix|NN women|NN urethra|ST men|NN swab|NN urine|NN naat|NN sensitivity|NN specificity|NN sample|NN swab|NN urine|NN specimen|NN women|NN sty|NN clinic|NN urine|NN test|NN swab|NN time|NN 
+present|NN naat|NN approval|NN test|NN specimen|NN research|NN result|NN specimen|NN 
+test|NN accuracy|NN ease|NN specimen|NN management|NN convenience|NN specimen|NN management|NN ease|NN screen|NN men|NN women|NN naat|NN culture|NN gold|NN standard|NN chlamydia|NN diagnosis|NN probe|NN test|NN 
+test|NN 6080|NN infection|NN women|NN result|NN 
+culture|NN circumstance|NN assay|NN test|NN specimen|NN 
+method|NN chain|NN reaction|NN antibody|NN rest|NN enzyme|NN immunoassay|NN cell|NN culture|NN prevention|NN 
+prevention|NN sex|NN use|NN condom|NN sex|NN person|NN screen|NN 
+women|NN screen|NN risk|NN infection|NN risk|NN factor|NN history|NN chlamydia|NN infection|NN partner|NN condom|NN use|NN women|NN guideline|NN screen|NN women|NN age|NN risk|NN factor|NN 
+service|NN task|NN force|NN screen|NN women|NN academy|NN family|NN physician|NN screen|NN women|NN 
+college|NN obstetrician|NN screen|NN risk|NN center|NN disease|NN control|NN prevention|NN screen|NN women|NN uspstf|NN community|NN risk|NN factor|NN infection|NN ethnicity|NN recommendation|NN screen|NN initiation|NN interval|NN termination|NN men|NN uspstf|NN evidence|NN screen|NN men|NN chlamydia|NN screen|NN men|NN risk|NN hiv|DS syphilis|DS infection|NN 
+united|NN kingdom|NN health|NN service|NN nhs|NN aim|NN 
+control|NN chlamydia|NN detection|NN treatment|NN infection|NN transmission|NN partner|NN consequence|NN infection|NN test|NN percent|NN population|NN treatment|NN 
+c|NN infection|NN antibiotics|NN 
+guideline|NN erythromycin|NN agent|NN pregnancy|NN amoxicillin|NN 
+option|NN partner|NN chlamydia|NN gonorrhea|NN partner|NN therapy|NN practice|NN sex|NN partner|NN index|NN case|NN prescription|NN medication|NN patient|NN partner|NN health|NN care|NN provider|NN partner|NN 
+treatment|NN people|NN month|NN reinfection|NN epidemiology|NN life|NN year|NN chlamydia|NN inhabitant|NN data|NN 
+3040|NN 6070|NN 90100|NN 
+chlamydia|NN people|NN women|NN men|NN death|NN 
+united|NN states|NN case|NN 2016|NN cdc|NN estimate|NN case|NN year|NN people|NN chlamydia|NN infection|NN infection|NN uk|NN 
+chlamydia|NN case|NN epididymitis|DS year|NN 
+chlamydia|NN cause|NN case|NN pid|NN year|NN united|NN states|NN 
+women|NN chlamydia|NN time|NN hiv|DS 

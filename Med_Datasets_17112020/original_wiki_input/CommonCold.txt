@@ -1,0 +1,136 @@
+Common cold,cold,acute viral nasopharyngitis,nasopharyngitis,viral rhinitis,rhinopharyngitis,acute coryza,head cold
+From Wikipedia, the free encyclopedia
+Jump to navigation
+Jump to search
+Common cold
+Other names	Cold, acute viral nasopharyngitis, nasopharyngitis, viral rhinitis, rhinopharyngitis, acute coryza, head cold[1]
+Rhinovirus.PNG
+A representation of the molecular surface of one variant of human rhinovirus
+Specialty	Infectious disease
+Symptoms	Cough, sore throat, runny nose, fever[2][3]
+Complications	Otitis media, sinusitis[4]
+Usual onset	~2 days from exposure[5]
+Duration	1–3 weeks[2][6]
+Causes	Viral[7]
+Differential diagnosis	Allergic rhinitis, bronchitis, pertussis, sinusitis[4]
+Prevention	Hand washing, face mask[2]
+Treatment	Symptomatic therapy,[2] zinc[8]
+Medication	NSAIDs[9]
+Frequency	2–4 per year (adults); 6–8 per year (young children)[10]
+
+The common cold, also known simply as a cold, is a viral infectious disease of the upper respiratory tract that primarily affects the nose.[7] The throat, sinuses, and larynx may also be affected.[5] Signs and symptoms may appear less than two days after exposure to the virus.[5] These may include coughing, sore throat, runny nose, sneezing, headache, and fever.[2][3] People usually recover in seven to ten days,[2] but some symptoms may last up to three weeks.[6] Occasionally those with other health problems may develop pneumonia.[2]
+
+Well over 200 virus strains are implicated in causing the common cold, with rhinoviruses being the most common.[11] They spread through the air during close contact with infected people or indirectly through contact with objects in the environment, followed by transfer to the mouth or nose.[2] Risk factors include going to child care facilities, not sleeping well, and psychological stress.[5] The symptoms are mostly due to the body's immune response to the infection rather than to tissue destruction by the viruses themselves.[12] In contrast, those affected by influenza can show similar symptoms as people with a cold, but symptoms are usually more severe.[5] Additionally, influenza is less likely to result in a runny nose.[13]
+
+There is no vaccine for the common cold.[2] The primary methods of prevention are hand washing; not touching the eyes, nose or mouth with unwashed hands; and staying away from sick people.[2] Some evidence supports the use of face masks.[14] There is also no cure, but the symptoms can be treated.[2] Zinc may reduce the duration and severity of symptoms if started shortly after the onset of symptoms.[8] Nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen may help with pain.[9] Antibiotics, however, should not be used[15] and there is no good evidence for cough medicines.[5][16]
+
+The common cold is the most frequent infectious disease in humans.[17] The average adult gets two to three colds a year, while the average child may get six to eight.[7][10] Infections occur more commonly during the winter.[2] These infections have existed throughout human history.[18]
+Contents
+
+    1 Signs and symptoms
+        1.1 Progression
+    2 Cause
+        2.1 Viruses
+        2.2 Transmission
+        2.3 Weather
+        2.4 Other
+    3 Pathophysiology
+    4 Diagnosis
+    5 Prevention
+    6 Management
+        6.1 Symptomatic
+        6.2 Antibiotics and antivirals
+        6.3 Alternative medicine
+    7 Prognosis
+    8 Epidemiology
+    9 History
+    10 Society and culture
+    11 Research directions
+    12 References
+    13 External links
+
+Signs and symptoms
+
+The typical symptoms of a cold include cough, runny nose, sneezing, nasal congestion, and a sore throat, sometimes accompanied by muscle ache, fatigue, headache, and loss of appetite.[19] A sore throat is present in about 40% of cases and a cough in about 50%,[7] while muscle ache occurs in about half.[3] In adults, a fever is generally not present but it is common in infants and young children.[3] The cough is usually mild compared to that accompanying influenza.[3] While a cough and a fever indicate a higher likelihood of influenza in adults, a great deal of similarity exists between these two conditions.[20] A number of the viruses that cause the common cold may also result in asymptomatic infections.[21][22]
+
+The color of the sputum or nasal secretion may vary from clear to yellow to green and does not indicate the class of agent causing the infection.[23]
+Progression
+
+A cold usually begins with fatigue, a feeling of being chilled, sneezing, and a headache, followed in a couple of days by a runny nose and cough.[19] Symptoms may begin within sixteen hours of exposure[24] and typically peak two to four days after onset.[3][25] They usually resolve in seven to ten days, but some can last for up to three weeks.[6] The average duration of cough is eighteen days[26] and in some cases people develop a post-viral cough which can linger after the infection is gone.[27] In children, the cough lasts for more than ten days in 35–40% of cases and continues for more than 25 days in 10%.[28]
+Cause
+Viruses
+Coronaviruses are a group of viruses known for causing the common cold. They have a halo or crown-like (corona) appearance when viewed under an electron microscope.
+
+The common cold is a viral infection of the upper respiratory tract. The most commonly implicated virus is a rhinovirus (30–80%), a type of picornavirus with 99 known serotypes.[29][30] Other commonly implicated viruses include human coronavirus (≈ 15%),[31][32] influenza viruses (10–15%),[33] adenoviruses (5%),[33] human respiratory syncytial virus, enteroviruses other than rhinoviruses, human parainfluenza viruses, and metapneumovirus.[34] Frequently more than one virus is present.[35] In total over 200 viral types are associated with colds.[3]
+Transmission
+
+The common cold virus is typically transmitted via airborne droplets (aerosols), direct contact with infected nasal secretions, or fomites (contaminated objects).[7][36] Which of these routes is of primary importance has not been determined.[37] The viruses may survive for prolonged periods in the environment (over 18 hours for rhinoviruses) and can be picked up by people's hands and subsequently carried to their eyes or nose where infection occurs.[36] Transmission is common in daycare and at school due to the proximity of many children with little immunity and frequently poor hygiene.[38] These infections are then brought home to other members of the family.[38] There is no evidence that recirculated air during commercial flight is a method of transmission.[36] People sitting in close proximity appear to be at greater risk of infection.[37]
+
+Rhinovirus-caused colds are most infectious during the first three days of symptoms; they are much less infectious afterwards.[39]
+Weather
+
+The traditional theory is that a cold can be "caught" by prolonged exposure to cold weather such as rain or winter conditions, which is how the disease got its name.[40] Some of the viruses that cause the common colds are seasonal, occurring more frequently during cold or wet weather.[41] The reason for the seasonality has not been conclusively determined.[42] Possible explanations may include cold temperature-induced changes in the respiratory system,[43] decreased immune response,[44] and low humidity causing an increase in viral transmission rates, perhaps due to dry air allowing small viral droplets to disperse farther and stay in the air longer.[45]
+
+The apparent seasonality may also be due to social factors, such as people spending more time indoors, near infected people,[43] and specifically children at school.[38][42] There is some controversy over the role of low body temperature as a risk factor for the common cold; the majority of the evidence suggests that it may result in greater susceptibility to infection.[44]
+Other
+
+Herd immunity, generated from previous exposure to cold viruses, plays an important role in limiting viral spread, as seen with younger populations that have greater rates of respiratory infections.[46] Poor immune function is a risk factor for disease.[46][47] Insufficient sleep and malnutrition have been associated with a greater risk of developing infection following rhinovirus exposure; this is believed to be due to their effects on immune function.[48][49] Breast feeding decreases the risk of acute otitis media and lower respiratory tract infections among other diseases,[50] and it is recommended that breast feeding be continued when an infant has a cold.[51] In the developed world breast feeding may not be protective against the common cold in and of itself.[52]
+Pathophysiology
+The common cold is a disease of the upper respiratory tract.
+
+The symptoms of the common cold are believed to be primarily related to the immune response to the virus.[12] The mechanism of this immune response is virus specific. For example, the rhinovirus is typically acquired by direct contact; it binds to human via ICAM-1 receptors and the CDHR3 receptor through unknown mechanisms to trigger the release of inflammatory mediators.[12] These inflammatory mediators then produce the symptoms.[12] It does not generally cause damage to the nasal epithelium.[3] The respiratory syncytial virus (RSV), on the other hand, is contracted by direct contact and airborne droplets. It then replicates in the nose and throat before frequently spreading to the lower respiratory tract.[53] RSV does cause epithelium damage.[53] Human parainfluenza virus typically results in inflammation of the nose, throat, and bronchi.[54] In young children when it affects the trachea it may produce the symptoms of croup due to the small size of their airways.[54]
+Diagnosis
+
+The distinction between viral upper respiratory tract infections is loosely based on the location of symptoms with the common cold affecting primarily the nose, pharyngitis (the throat), and bronchitis (the lungs).[7] There can be significant overlap and more than one area can be affected.[7] The common cold is frequently defined as nasal inflammation with varying amount of throat inflammation.[55] Self-diagnosis is frequent.[3] Isolation of the viral agent involved is rarely performed,[55] and it is generally not possible to identify the virus type through symptoms.[3]
+Prevention
+
+The only useful ways to reduce the spread of cold viruses are physical measures[14] such as hand washing and face masks; in the healthcare environment, gowns and disposable gloves are also used.[14] Isolation or quarantine is not used as the disease is so widespread and symptoms are non-specific. Vaccination has proved difficult as there are many viruses involved and they mutate rapidly.[14] Creation of a broadly effective vaccine is, thus, highly improbable.[56]
+
+Regular hand washing appears to be effective in reducing the transmission of cold viruses, especially among children.[57] Whether the addition of antivirals or antibacterials to normal hand washing provides greater benefit is unknown.[57] Wearing face masks when around people who are infected may be beneficial; however, there is insufficient evidence for maintaining a greater social distance.[57]
+
+It is unclear if zinc supplements affect the likelihood of contracting a cold.[58] Routine vitamin C supplements do not reduce the risk or severity of the common cold, though they may reduce its duration.[59] Gargling with water was found useful in one small trial.[60]
+Management
+Poster from 1937 encouraging citizens to "consult your physician" for treatment of the common cold
+
+Treatment for the common cold primarily involves medications and other therapies for symptomatic relief.[10] Getting plenty of rest, drinking fluids to maintain hydration, and gargling with warm salt water are reasonable conservative measures.[34] Much of the benefit from symptomatic treatment is, however, attributed to the placebo effect.[61] No medications or herbal remedies have been conclusively demonstrated to shorten the duration of infection.[62]
+Symptomatic
+
+Treatments that may help with symptoms include simple pain medication and medications for fevers such as ibuprofen[9] and acetaminophen (paracetamol).[63] It, however, is not clear if acetaminophen helps with symptoms.[64] It is not known if over the counter cough medications are effective for treating an acute cough.[65] Cough medicines are not recommended for use in children due to a lack of evidence supporting effectiveness and the potential for harm.[66][67] In 2009, Canada restricted the use of over-the-counter cough and cold medication in children six years and under due to concerns regarding risks and unproven benefits.[66] The misuse of dextromethorphan (an over-the-counter cough medicine) has led to its ban in a number of countries.[68] Intranasal corticosteroids have not been found to be useful.[69]
+
+In adults short term use of nasal decongestants may have a small benefit.[70] Antihistamines may improve symptoms in the first day or two; however, there is no longer-term benefit and they have adverse effects such as drowsiness.[71] Other decongestants such as pseudoephedrine appear effective in adults.[72][70] Combined oral analgesics, antihistaminics and decongestants are generally effective for older children and adults.[73] Ipratropium nasal spray may reduce the symptoms of a runny nose but has little effect on stuffiness.[74] The safety and effectiveness of nasal decongestant use in children is unclear.[70]
+
+Due to lack of studies, it is not known whether increased fluid intake improves symptoms or shortens respiratory illness.[75] As of 2017 heated and humidified air, such as via RhinoTherm, is of unclear benefit.[76] One study has found chest vapor rub to provide some relief of nocturnal cough, congestion, and sleep difficulty.[77]
+
+Some advise to avoid physical exercise if there are symptoms such as fever, widespread muscle aches or fatigue.[78][79] It is regarded as safe to perform moderate exercise if the symptoms are confined to the head, including runny nose, nasal congestion, sneezing, or a minor sore throat.[78][79] There is an old wives tale that having a hot drink can help with cold symptoms, but evidence to support this is very limited.[80]
+Antibiotics and antivirals
+
+Antibiotics have no effect against viral infections or against the viruses that cause the common cold.[81] Due to their side effects, antibiotics cause overall harm but are still frequently prescribed.[81][82] Some of the reasons that antibiotics are so commonly prescribed include people's expectations for them, physicians' desire to help, and the difficulty in excluding complications that may be amenable to antibiotics.[83] There are no effective antiviral drugs for the common cold even though some preliminary research has shown benefits.[10][84]
+Alternative medicine
+
+While there are many alternative treatments used for the common cold, there is insufficient scientific evidence to support the use of most.[10] As of 2018 there is insufficient evidence to recommend for or against honey.[85] As of 2015, there is tentative evidence to support nasal irrigation.[86]
+
+Zinc supplements may shorten the duration and reduce the severity of symptoms if supplementation begins within 24 hours of the onset of symptoms.[8][58][87][88] Some zinc remedies directly applied to the inside of the nose have led to the loss of the sense of smell.[89] A 2017 expert panel, however, found the evidence to be insufficient to recommend zinc's use.[16]
+
+Vitamin C's effect on the common cold, while extensively researched, is disappointing, except in limited circumstances: specifically, individuals exercising vigorously in cold environments.[59][90] There is no firm evidence that Echinacea products provide any meaningful benefit in treating or preventing colds.[91] It is unknown if garlic is effective.[92] A single trial of vitamin D did not find benefit.[93] Evidence for Chinese herbal medicines is sufficient to support their use.[94]
+Prognosis
+
+The common cold is generally mild and self-limiting with most symptoms generally improving in a week.[7] Half of cases go away in 10 days and 90% in 15 days.[95] Severe complications, if they occur, are usually in the very old, the very young, or those who are immunosuppressed.[17] Secondary bacterial infections may occur resulting in sinusitis, pharyngitis, or an ear infection.[96] It is estimated that sinusitis occurs in 8% and ear infection in 30% of cases.[97]
+Epidemiology
+
+The common cold is the most common human disease[17] and affects people all over the globe.[38] Adults typically have two to three infections annually,[7] and children may have six to ten colds a year (and up to twelve colds a year for school children).[10] Rates of symptomatic infections increase in the elderly due to declining immunity.[46]
+
+Native Americans and Inuit are more likely to be infected with colds and develop complications such as otitis media than Caucasians.[33] This may be explained by issues such as poverty and overcrowding rather than by ethnicity.[33]
+History
+A British poster from World War II describing the cost of the common cold[98]
+
+While the cause of the common cold has only been identified since the 1950s, the disease has been with humanity throughout history.[18] Its symptoms and treatment are described in the Egyptian Ebers papyrus, the oldest existing medical text, written before the 16th century BCE.[99] The name "cold" came into use in the 16th century, due to the similarity between its symptoms and those of exposure to cold weather.[100]
+
+In the United Kingdom, the Common Cold Unit was set up by the Medical Research Council in 1946 and it was where the rhinovirus was discovered in 1956.[101] In the 1970s, the CCU demonstrated that treatment with interferon during the incubation phase of rhinovirus infection protects somewhat against the disease,[102] but no practical treatment could be developed. The unit was closed in 1989, two years after it completed research of zinc gluconate lozenges in the prophylaxis and treatment of rhinovirus colds, the only successful treatment in the history of the unit.[103]
+Society and culture
+
+The economic impact of the common cold is not well understood in much of the world.[97] In the United States, the common cold leads to 75–100 million physician visits annually at a conservative cost estimate of $7.7 billion per year. Americans spend $2.9 billion on over-the-counter drugs and another $400 million on prescription medicines for symptom relief.[104] More than one-third of people who saw a doctor received an antibiotic prescription, which has implications for antibiotic resistance.[104] An estimated 22–189 million school days are missed annually due to a cold. As a result, parents missed 126 million workdays to stay home to care for their children. When added to the 150 million workdays missed by employees suffering from a cold, the total economic impact of cold-related work loss exceeds $20 billion per year.[34][104] This accounts for 40% of time lost from work in the United States.[105]
+Research directions
+
+Antivirals have been tested for effectiveness in the common cold; as of 2009, none had been both found effective and licensed for use.[84] There are ongoing trials of the anti-viral drug pleconaril which shows promise against picornaviruses as well as trials of BTA-798.[106] The oral form of pleconaril had safety issues and an aerosol form is being studied.[106] DRACO, a broad-spectrum antiviral therapy, has shown preliminary effectiveness in treating rhinovirus, as well as other infectious viruses.[107]
+
+The genomes for all known human rhinovirus strains have been sequenced.[108] 

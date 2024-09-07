@@ -1,0 +1,118 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Stomach cancer|Disease name|NN Stomach cancer|Disease adenocarcinoma|NN stomachjpg|NN stomach|NN ulcer|NN cancer|NN biopsy|NN oncology|NN symptom|NN pain|NN nausea|NN loss|NN appetite|NN weight|NN loss|NN yellow|NN skin|NN white|NN eye|NN difficulty|NN blood|NN stool|NN onset|NN year|NN type|NN carcinoma|NN lymphoma|NN tumor|NN cause|NN helicobacter|NN pylory|NN genetics|NN risk|NN factor|NN smoke|NN factor|NN vegetable|NN obesity|NN method|NN biopsy|NN endoscopy|NN prevention|NN diet|NN smoke|NN treatment|NN surgery|NN chemotherapy|NN radiation|NN therapy|NN therapy|NN survival|NN rate|NN s|NP
+korea|NP frequency|NN death|NN
+Stomach cancer|Disease Stomach cancer|Disease cancer|NN line|NN stomach|NN symptom|NN heartburn|NN pain|NN nausea|NN loss|NN appetite|NN sign|NN symptom|NN weight|NN loss|NN yellow|NN skin|NN white|NN eye|NN difficulty|NN swallow|NN blood|NN stool|NN cancer|NN stomach|NN part|NN body|NN liver|NN lung|NN bone|NN line|NN abdomen|NN lymph|NN node|NN
+cause|NN infection|NN bacterium|NN helicobacter|NN pylory|NN account|NN case|NN type|NN h|NP pylory|NN risk|NN factor|NN vegetable|NN obesity|NN risk|NN factor|NN case|NN family|NN case|NN syndrome|NN person|NN parent|NN Stomach cancer|Disease case|NN Stomach cancer|Disease carcinoma|NN type|NN number|NN subtype|NN tumor|NN stomach|NN time|NN Stomach cancer|Disease stage|NN year|NN diagnosis|NN biopsy|NN endoscopy|NN image|NN disease|NN part|NN body|NN japan|NP south|NP korea|NP country|NN rate|NN disease|NN screen|NN Stomach cancer|Disease
+diet|NN risk|NN cancer|NN stop|NN smoke|NN evidence|NN h|NP pylory|NN risk|NN cancer|NN case|NN treatment|NN combination|NN surgery|NN chemotherapy|NN radiation|NN therapy|NN therapy|NN care|NN outcome|NN survival|NN rate|NN people|NN condition|NN present|NN disease|NN united|NP states|NP survival|NN south|NP korea|NP screen|NN effort|NN
+Stomach cancer|Disease type|NN cancer|NN cause|NN death|NN cancer|NN case|NN death|NN 2012|NN people|NN death|NN world|NN country|NN cause|NN death|NN cancer|NN rate|NN death|NN area|NN world|NN eate|NN food|NN result|NN development|NN refrigeration|NN method|NN food|NN Stomach cancer|Disease east|NP asia|NP europe|NP male|NN female|NN content|NN
+sign|NN symptom|NN cause|NN smoke|NN diet|NN genetics|NN diagnosis|NN prevention|NN management|NN surgery|NN therapy|NN radiation|NN epidemiology|NN animal|NN reference|NN link|NN
+sign|NN symptom|NN image|NN linitis|NN type|NN Stomach cancer|Disease stomach|NN leather|NN appearance|NN blood|NN
+image|NN Stomach cancer|Disease stage|NN
+histology|NN adenocarcinoma|NN signet|NN ring|NN cell|NN
+left|NN right|NN acetate|NN aim|NN
+Stomach cancer|Disease symptom|NN symptom|NN symptom|NN disorder|NN stage|NN
+time|NN symptom|NN cancer|NN stage|NN part|NN body|NN reason|NN prognosis|NN Stomach cancer|Disease sign|NN symptom|NN
+cancer|NN indigestion|NN sensation|NN heartburn|NN
+people|NN endoscopy|NN indigestion|NN cancer|NN discomfort|NN loss|NN appetite|NN meat|NN
+Stomach cancer|Disease tissue|NN weakness|NN fatigue|NN bloat|NN stomach|NN meal|NN pain|NN abdomen|NN nausea|NN vomit|NN constipation|NN
+enlargement|NN weight|NN loss|NN bleed|NN vomit|NN blood|NN blood|NN stool|NN discolouration|NN
+tumour|NN cardia|NN extension|NN tumour|NN esophagus|NN
+symptom|NN problem|NN stomach|NN virus|NN ulcer|NN sprue|NN
+Stomach cancer|Disease result|NN factor|NN male|NN female|NN
+women|NN development|NN form|NN cancer|NN
+helicobacter|NN pylory|NN infection|NN risk|NN factor|NN 6580|NN Stomach cancer|Disease people|NN helicobacter|NN infection|NN Stomach cancer|Disease mechanism|NN h|NP pylory|NN Stomach cancer|Disease inflammation|NN action|NN h|NP pylory|NN virulence|NN factor|NN virus|NN case|NN year|NN aid|NN risk|NN smoke|NN
+smoke|NN risk|NN Stomach cancer|Disease risk|NN smoker|NN increase|NN smoker|NN
+Stomach cancer|Disease due|NN smoke|NN part|NN stomach|NN esophagus|NN study|NN risk|NN alcohol|NN consumption|NN diet|NN sequence|NN scintiscan|NN injection|NN left|NN minute|NN hour|NN hour|NN
+concentration|NN radio-iodine|NN mucosa|NN stomach|NN gland|NN mucosa|NN periencephalic|NN fluid|NN left|NN
+gland|NN i-concentration|NN reservoir|NN minute|NN hour|NN dose|NN
+factor|NN cause|NN association|NN Stomach cancer|Disease food|NN beverage|NN food|NN food|NN salt|NN salt-rich|NN food|NN meat|NN meat|NN vegetable|NN bracken|NN risk|NN Stomach cancer|Disease nitrate|NN nitrite|NN meat|NN bacteria|NN h|NP pylory|NN compound|NN cause|NN Stomach cancer|Disease animal|NN
+fruit|NN vegetable|NN intake|NN fruit|NN intake|NN intake|NN risk|NN Stomach cancer|Disease diet|NN rate|NN Stomach cancer|Disease aspirin|NN use|NN
+obesity|NN risk|NN factor|NN risk|NN adenocarcinoma|NN development|NN reflux|NN disease|NN mechanism|NN obesity|NN cause|NN
+study|NN fat|NN pressure|NN stomach|NN due|NN excess|NN tissue|NN role|NN data|NN risk|NN cardia|NN adenocarcinoma|NN present|NN time|NN person|NN correlation|NN iodine|NN deficiency|NN Stomach cancer|Disease genetics|NN
+case|NN family|NN case|NN syndrome|NN person|NN parent|NN Stomach cancer|Disease
+risk|NN factor|NN Stomach cancer|Disease defect|NN gene|NN Stomach cancer|Disease
+gene|NN code|NN e-cadherin|NN ly|NN chromosome|NN gene|NN mutation|NN Stomach cancer|Disease mechanism|NN mutation|NN mean|NN carrier|NN children|NN mutation|NN diagnosis|NN Stomach cancer|Disease place|NN case|NN family|NN member|NN parent|NN grandparent|NN age|NN diagnosis|NN case|NN family|NN case|NN age|NN
+cancer|NN genome|NN consortium|NN effort|NN change|NN Stomach cancer|Disease percentage|NN Stomach cancer|Disease cdh1|NN gene|NN
+test|NN treatment|NN option|NN family|NN risk|NN
+risk|NN diabete|NN gastritis|NN disease|NN hypersecretory|NN gastropathy|NN metaplasia|NN diagnosis|NN
+cause|NN symptom|NN doctor|NN patient|NN history|NN exam|NN laboratory|NN study|NN
+patient|NN exam|NN
+exam|NN method|NN choice|NN
+insertion|NN fibre|NN optic|NN camera|NN stomach|NN gi|NN series|NN barium|NN
+tomography|NN ct|NN scan|NN abdomen|NN Stomach cancer|Disease
+invasion|NN tissue|NN presence|NN spread|NN lymph|NN node|NN
+wall|NN thicken|NN cm|NN eccentric|NN favour|NN malignancy|NN
+scientist|NN pilot|NN study|NN breath|NN test|NN Stomach cancer|Disease chemical|NN need|NN endoscopy|NN trial|NN technology|NN
+tissue|NN examination|NN surgeon|NN gastroenterologist|NN
+tissue|NN pathologist|NN examination|NN microscope|NN presence|NN cell|NN
+biopsy|NN analysis|NN way|NN presence|NN cancer|NN cell|NN
+gastroscopic|NN modality|NN increase|NN yield|NN mucosa|NN dye|NN cell|NN structure|NN area|NN dysplasia|NN
+magnification|NN structure|NN area|NN dysplasia|NN
+gastroscopic|NN modality|NN coherence|NN tomography|NN application|NN
+number|NN condition|NN Stomach cancer|Disease
+condition|NN hyperplasia|NN skin|NN axilla|NN groin|NN nigrican|NN cancer|NN Stomach cancer|Disease
+manifestation|NN Stomach cancer|Disease tripe|NN palm|NN hyperplasia|NN skin|NN palm|NN sign|NN development|NN skin|NN lesion|NN keratose|NN
+blood|NN test|NN blood|NN count|NN cbc|NP anaemia|NN occult|NN blood|NN test|NN blood|NN stool|NN
+adenocarcinoma|NN stomach|NN
+signet|NN ring|NN cell|NN carcinoma|NN
+adenocarcinoma|NP stomach|NN metaplasia|NN
+adenocarcinoma|NN tumour|NN epithelium|NN mucosa|NN
+Stomach cancer|Disease adenocarcinoma|NN type|NN adenocarcinoma|NN lauren|NP classification|NN type|NN type|NN
+wall|NN muscularis|NN mucosae|NN submucosa|NN muscularis|NN propria|NN
+type|NN adenocarcinoma|NN tumour|NN cell|NN structure|NN multiple|NN stroma|NN back|NN back|NN aspect|NN
+metaplasia|NN mucosa|NN
+architecture|NN adenocarcinoma|NN degree|NN differentiation|NN
+type|NN adenocarcinoma|NN linitis|NN stomach|NN tumour|NN cell|NN mucus|NN interstitium|NN pool|NN space|NN
+mucus|NN tumour|NN cell|NN nucleus|NN periphery|NN cell|NN
+malignancy|NN lymphoma|NN malt|NN lymphoma|NN tumor|NN
+staging|NP t|NP stage|NN Stomach cancer|Disease
+cancer|NN cell|NN tissue|NN sample|NN step|NN stage|NN extent|NN disease|NN
+test|NN cancer|NN part|NN body|NN
+Stomach cancer|Disease liver|NN pancrea|NN organ|NN stomach|NN lung|NN doctor|NN ct|NN scan|NN pet|NN scan|NN ultrasound|NN exam|NN test|NN area|NN
+blood|NN test|NN tumor|NN marker|NN antigen|NN carbohydrate|NN antigen|NN ca|NP level|NN extent|NN metastasis|NN liver|NN cure|NN rate|NN
+surgeon|NN lymph|NN node|NN sample|NN tissue|NN area|NN abdomen|NN examination|NN pathologist|NN
+stage|NN Stomach cancer|Disease
+line|NN stomach|NN
+resection|NN routine|NN screen|NN gastrectomy|NN lymphadenectomy|NN need|NN chemotherapy|NN radiation|NN
+second|NN layer|NN stomach|NN stage|NN layer|NN lymph|NN node|NN stage|NN
+stage|NN surgery|NN removal|NN omentum|NN
+stage|NN chemotherapy|NN 5-fluorouracil|NN radiation|NN therapy|NN
+layer|NN lymph|NN node|NN layer|NN lymph|NN node|NN layer|NN lymph|NN node|NN
+stage|NN chemotherapy|NN
+layer|NN lymph|NN node|NN penetration|NN layer|NN tissue|NN lymph|NN node|NN
+stage|NN cure|NN case|NN
+cancer|NN tissue|NN lymph|NN node|NN organ|NN
+cure|NN stage|NN
+technique|NN life|NN symptom|NN laser|NN treatment|NN surgery|NN stent|NN tract|NN chemotherapy|NN drug|NN cisplatin|NN oxaliplatin|NN
+Stomach cancer|Disease metastasize|NN lung|NN
+stage|NN system|NN
+study|NN endoscopy|NN scotland|NP patient|NN stage|NN stage|NN stage|NN minnesota|NP population|NN stage|NN stage|NN stage|NN population|NN province|NN chile|NP patient|NN stage|NN stage|NN prevention|NN
+h|NP pylory|NN decrease|NN risk|NN Stomach cancer|Disease meta-analysis|NN study|NN diet|NN fruit|NN mushroom|NN garlic|NN onion|NN risk|NN Stomach cancer|Disease population|NN dose|NN vitamin|NN diet|NN decrease|NN risk|NN Stomach cancer|Disease review|NN supplementation|NN evidence|NN outcome|NN management|NN
+cancer|NN stomach|NN stage|NN
+Stomach cancer|Disease symptom|NN disease|NN diagnosis|NN
+treatment|NN Stomach cancer|Disease surgery|NN chemotherapy|NN radiation|NN therapy|NN treatment|NN approache|NN gene|NN therapy|NN way|NN method|NN trial|NN surgery|NN anatomy|NN surgery|NN Stomach cancer|Disease
+surgery|NN therapy|NN Stomach cancer|Disease technique|NN resection|NN emr|NN treatment|NN Stomach cancer|Disease tumor|NN mucosa|NN japan|NP united|NP states|NP center|NN procedure|NN tumor|NN line|NN stomach|NN mucosa|NN wall|NN stomach|NN wire|NN loop|NN endoscope|NN
+advantage|NN operation|NN stomach|NN submucosal|NN dissection|NN esd|NN technique|NN japan|NP area|NN mucosa|NN piece|NN examination|NN specimen|NN resection|NN invasion|NN tumor|NN patient|NN stomach|NN resection|NN 2016|NP cochrane|NP review|NN quality|NN evidence|NN difference|NN mortality|NN gastrectomy|NN removal|NN stomach|NN benefit|NN harm|NN gastrectomy|NN post-operatively|NN people|NN gastrectomy|NN complication|NN dump|NN syndrome|NN reflux|NN construction|NN pouch|NN stomach|NN substitute|NN incidence|NN dump|NN syndrome|NN reflux|NN improvement|NN outcome|NN body|NN mass|NN index|NN
+disease|NN time|NN presentation|NN surgery|NN due|NN possibility|NN complication|NN surgery|NN fact|NN chemotherapy|NN data|NN survival|NN rate|NN approach|NN
+use|NN chemotherapy|NN treat|NN Stomach cancer|Disease standard|NN care|NN Stomach cancer|Disease drug|NN chemotherapy|NN size|NN tumor|NN symptom|NN disease|NN increase|NN survival|NN time|NN drug|NN Stomach cancer|Disease treatment|NN fluorouracil|NN analog|NN methyl-ccnu|NN adriamycin|NN c|NP cisplatin|NN drug|NN combination|NN benefit|NN drug|NN combination|NN researcher|NN benefit|NN chemotherapy|NN surgery|NN tumor|NN therapy|NN surgery|NN cancer|NN cell|NN therapy|NN
+treatment|NN growth|NN factor|NN receptor|NN inhibitor|NN trastuzumab|NN survival|NN carcinoma|NN gene|NN her2|NN patient|NN Stomach cancer|Disease note|NN neoplasia|NN minority|NN tumor|NN cell|NN Stomach cancer|Disease her2|NN tumor|NN cell|NN
+expression|NN account|NN test|NN sample|NN biopsy|NN evaluation|NN bioptic|NN sample|NN radiation|NN
+radiation|NN therapy|NN radiotherapy|NN Stomach cancer|Disease adjuvant|NN chemotherapy|NN surgery|NN
+prognosis|NN Stomach cancer|Disease due|NN fact|NN tumour|NN time|NN discovery|NN fact|NN people|NN condition|NN age|NN year|NN presentation|NN survival|NN rate|NN Stomach cancer|Disease percent|NN
+gene|NN outcome|NN Stomach cancer|Disease gene|NN expression|NN survival|NN favorable|NN gene|NN expression|NN survival|NN time|NN example|NN prognosis|NN gene|NN
+epidemiology|NN Stomach cancer|Disease death|NN person|NN 2533|NN 77102|NN 176400|NN
+Stomach cancer|Disease most-common|NN cancer|NN case|NN 2012|NN men|NN country|NN 2012|NN cancer|NN case|NN men|NN most-common|NN cancer|NN men|NN 2012|NN number|NN death|NN 774000|NN make|NN cause|NN death|NN lung|NN cancer|NN liver|NN cancer|NN
+Stomach cancer|Disease people|NN year|NN age|NN age-group|NN age-group|NN
+Stomach cancer|Disease death|NN case|NN china|NP Stomach cancer|Disease death|NN case|NN rate|NN Stomach cancer|Disease mongolia|NP case|NN people|NN
+united|NP kingdom|NP Stomach cancer|Disease most-common|NN cancer|NN people|NN Stomach cancer|Disease most-common|NN cause|NN death|NN people|NN
+incidence|NN mortality|NN rate|NN Stomach cancer|Disease africa|NP
+system|NN method|NN rate|NN country|NN incidence|NN mortality|NN rate|NN country|NN lack|NN access|NN registry|NN system|NN country|NN variation|NN rate|NN 03100000|NN botswana|NP mali|NP uganda|NP incidence|NN Stomach cancer|Disease measurement|NN 08100000|NN Stomach cancer|Disease present|NN country|NN incidence|NN japan|NP china|NP
+cause|NN variation|NN africa|NP country|NN strain|NN helicobacter|NN pylory|NN bacteria|NN
+trend|NN commonly-seen|NN pylory|NN infection|NN risk|NN Stomach cancer|Disease
+case|NN africa|NP phenomenon|NN name|NN enigma|NN bacteria|NN africa|NP evidence|NN strain|NN mutation|NN genotype|NN difference|NN cancer|NN development|NN country|NN continent|NN access|NN health|NN care|NN treatment|NN measure|NN incidence|NN uganda|NP animal|NN stomach|NN organ|NN tract|NN food|NN process|NN juice|NN
+cancer|NN stomach|NN adenocarcinoma|NN type|NN
+sign|NN blood|NN weight|NN loss|NN lack|NN appetite|NN
+bowel|NN movement|NN tarry|NN nature|NN
+order|NN cancer|NN stomach|NN x-ray|NN ultrasound|NN
+test|NN instrument|NN endoscope|NN stomach|NN tool|NN sample|NN mass|NN analysis|NN cancer|NN
+method|NN cancer|NN diagnosis|NN biopsy|NN stomach|NN evidence|NN spread|NN lymph|NN node|NN liver|NN make|NN treatment|NN
+lymphoma|NN surgery|NN treatment|NN option|NN Stomach cancer|Disease risk|NN

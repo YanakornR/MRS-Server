@@ -1,0 +1,94 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN disease|NN
+virus|NN Rubella|Disease virus|NN
+Rubella|Disease name|NN Rubella|Disease Rubella|Disease rash|NN Rubella|Disease back|NN due|NN Rubella|Disease back|NN
+area|NN measle|NN rash|NN
+disease|NN symptom|NN lymph|NN node|NN fever|NN throat|NN feel|NN complication|NN inflammation|NN nerve|NN Rubella|Disease syndrome|NN miscarriage|NN onset|NN week|NN exposure|NN duration|NN day|NN cause|NN Rubella|Disease virus|NN spread|NN air|NN method|NN virus|NN blood|NN throat|NN urine|NN antibody|NN test|NN prevention|NN Rubella|Disease vaccine|NN treatment|NN care|NN frequency|NN area|NN
+Rubella|Disease Rubella|Disease Rubella|Disease infection|NN Rubella|Disease virus|NN disease|NN people|NN rash|NN week|NN exposure|NN day|NN face|NN rest|NN body|NN rash|NN measle|NN lymph|NN node|NN week|NN fever|NN throat|NN fatigue|NN adult|NN pain|NN complication|NN problem|NN swell|NN inflammation|NN nerve|NN infection|NN pregnancy|NN child|NN Rubella|Disease syndrome|NN crs|NP miscarriage|NN symptom|NN crs|NP problem|NN eye|NN cataract|NN ear|NN deafness|NN heart|NN brain|NN problem|NN week|NN pregnancy|NN
+Rubella|Disease air|NN cough|NN people|NN people|NN week|NN appearance|NN baby|NN crs|NP virus|NN year|NN human|NN insect|NN disease|NN people|NN infection|NN test|NN immunity|NN diagnosis|NN virus|NN blood|NN throat|NN urine|NN blood|NN antibody|NN
+Rubella|Disease Rubella|Disease vaccine|NN dose|NN combination|NN measle|NN vaccine|NN mump|NN vaccine|NN vaccine|NN population|NN women|NN childbear|NN age|NN immunity|NN infection|NN vaccination|NN crs|NP rate|NN treatment|NN
+Rubella|Disease infection|NN area|NN world|NN year|NN case|NN Rubella|Disease syndrome|NN rate|NN disease|NN area|NN result|NN vaccination|NN effort|NN disease|NN april|NP world|NN health|NN organization|NN americas|NP Rubella|Disease transmission|NN name|NN Rubella|Disease red|NN disease|NN physician|NN name|NN Rubella|Disease content|NN
+sign|NN symptom|NN Rubella|Disease syndrome|NN cause|NN diagnosis|NN prevention|NN treatment|NN epidemiology|NN history|NN reference|NN link|NN
+sign|NN symptom|NN boy|NN characteristic|NN rash|NN Rubella|Disease rash|NN abdomen|NN Rubella|Disease
+Rubella|Disease symptom|NN flu|NN
+symptom|NN Rubella|Disease virus|NN infection|NN appearance|NN exanthem|NN face|NN trunk|NN limb|NN day|NN Rubella|Disease
+rash|NN part|NN body|NN
+symptom|NN grade|NN fever|NN gland|NN lymphadenopathy|NN pain|NN headache|NN conjunctivitis|NN
+gland|NN lymph|NN node|NN week|NN fever|NN c|NP f|NP
+rash|NN Rubella|Disease red|NN
+rash|NN itch|NN day|NN
+rash|NN day|NN stain|NN peel|NN skin|NN
+rash|NN skin|NN flake|NN rash|NN
+sign|NN case|NN papule|NN area|NN palate|NN
+Rubella|Disease age|NN
+adult|NN women|NN arthritis|NN pain|NN
+children|NN Rubella|Disease symptom|NN day|NN
+begine|NN face|NN rest|NN body|NN
+fever|NN c|NP f|NP
+children|NN adult|NN symptom|NN
+gland|NN symptom|NN joint|NN women|NN
+complication|NN Rubella|Disease
+brain|NN inflammation|NN encephalitis|NN platelet|NN count|NN ear|NN infection|NN
+Rubella|Disease pneumonia|NN pneumonia|NN pneumonia|NN bronchitis|NN bronchitis|NN bronchitis|NN Rubella|Disease syndrome|NN article|NN Rubella|Disease syndrome|NN Rubella|Disease syndrome|NN
+Rubella|Disease Rubella|Disease syndrome|NN sequela|NN Rubella|Disease
+syndrome|NN crs|NP infection|NN Rubella|Disease virus|NN defect|NN prematurity|NN birth|NN weight|NN thrombocytopenia|NN hepatitis|NN
+risk|NN defect|NN organogenesis|NN infection|NN trimester|NN
+crs|NP reason|NN vaccine|NN Rubella|Disease
+mother|NN contract|NN Rubella|Disease trimester|NN miscarriage|NN baby|NN
+fetus|NN infection|NN heart|NN disorder|NN patent|NN blindness|NN deafness|NN organ|NN disorder|NN
+skin|NN manifestation|NN muffin|NN lesion|NN reason|NN Rubella|Disease complex|NN infection|NN
+case|NN condition|NN year|NN article|NN Rubella|Disease virus|NN transmission|NN electron|NN micrograph|NN Rubella|Disease viruse|NN
+disease|NN Rubella|Disease virus|NN togavirus|NN rna|NN genome|NN virus|NN route|NN nasopharynx|NN lymph|NN node|NN
+virus|NN blood|NN day|NN infection|NN body|NN
+virus|NN property|NN placenta|NN fetus|NN cell|NN incubation|NN period|NN patient|NN week|NN heshe|NN rash|NN week|NN
+susceptibility|NN infection|NN indication|NN factor|NN haplotype|NN virus|NN infection|NN non-resolution|NN disease|NN diagnosis|NN
+Rubella|Disease virus|NN igm|NN antibody|NN people|NN Rubella|Disease virus|NN antibody|NN year|NN test|NN result|NN caution|NN presence|NN antibody|NN time|NN rash|NN diagnosis|NN prevention|NN information|NN vaccine|NN
+Rubella|Disease infection|NN immunisation|NN program|NN virus|NN vaccine|NN
+virus|NN vaccine|NN ra|NP strain|NN prevention|NN adult|NN disease|NN
+use|NN female|NN fall|NN incidence|NN rate|NN crs|NP uk|NP
+reduction|NN immunisation|NN children|NN
+vaccine|NN part|NN vaccine|NN
+dose|NN month|NN age|NN dose|NN month|NN
+women|NN immunity|NN Rubella|Disease
+women|NN baby|NN vaccine|NN virus|NN
+immunisation|NN program|NN
+cuba|NP disease|NN center|NN disease|NN control|NN prevention|NN form|NN Rubella|Disease united|NP states|NP world|NN health|NN organisation|NN australia|NP Rubella|Disease october|NP
+screen|NN Rubella|Disease susceptibility|NN history|NN vaccination|NN serology|NN united|NP states|NP women|NN childbear|NN age|NN preconception|NN visit|NN incidence|NN Rubella|Disease syndrome|NN crs|NP non-pregnant|NN women|NN childbear|NN age|NN Rubella|Disease vaccination|NN concern|NN use|NN vaccine|NN pregnancy|NN women|NN period|NN treatment|NN
+treatment|NN Rubella|Disease management|NN matter|NN symptom|NN discomfort|NN
+treatment|NN baby|NN management|NN complication|NN
+heart|NN defect|NN cataract|NN surgery|NN
+management|NN Rubella|Disease syndrome|NN crs|NP degeneration|NN monitor|NN provision|NN vision|NN device|NN
+Rubella|Disease infection|NN children|NN adult|NN
+prognosis|NN children|NN crs|NP epidemiology|NN
+virus|NN peak|NN spring|NN country|NN climate|NN
+vaccine|NN Rubella|Disease outbreak|NN year|NN united|NP states|NP year|NN europe|NP children|NN year|NN age|NN group|NN introduction|NN vaccine|NN occurrence|NN country|NN uptake|NN rate|NN
+vaccination|NN transmission|NN Rubella|Disease americas|NP case|NN february|NP vaccination|NN virus|NN continent|NN vaccination|NN rate|NN americas|NP drop|NN epidemic|NN Rubella|Disease virus|NN infection|NN pregnancy|NN stillbirth|NN children|NN result|NN crs|NP immunisation|NN level|NN herd|NN immunity|NN control|NN epidemics|NN Rubella|Disease
+uk|NP population|NN men|NN Rubella|Disease
+outbreaks|NP Rubella|Disease men|NN uk|NP infection|NN women|NN immigrant|NN
+country|NN vaccine|NN
+japan|NP case|NN Rubella|Disease case|NN Rubella|Disease syndrome|NN surveillance|NN disease|NN october|NP march|NP 201213|NN Rubella|Disease outbreak|NN japan|NP
+men|NN age|NN adult|NN history|NN disease|NN Rubella|Disease
+Rubella|Disease century|NN
+friedrich|NP hoffmann|NP description|NN Rubella|Disease de|NP bergen|NP
+george|NP de|NP disease|NN measle|NN fever|NN
+physician|NN disease|NN röteln|NN mean|NN
+fact|NN german|NN name|NN Rubella|Disease henry|NP artillery|NN surgeon|NN outbreak|NN india|NP
+name|NN Rubella|Disease word|NN mean|NN red|NN
+entity|NN congress|NN medicine|NN london|NP alfred|NP fabian|NP hess|NP Rubella|Disease virus|NN work|NN monkey|NN disease|NN children|NN wash|NN case|NN
+epidemic|NN Rubella|Disease australia|NP
+ophthalmologist|NN norman|NP mcallister|NP gregg|NP case|NN cataract|NN infant|NN mother|NN Rubella|Disease pregnancy|NN gregg|NP account|NN Rubella|Disease mother|NN
+variety|NN problem|NN Rubella|Disease syndrome|NN crs|NP mother|NN damage|NN
+vaccine|NN magazine|NN idea|NN Rubella|Disease party|NN children|NN disease|NN children|NN girl|NN life|NN disease|NN virus|NN tissue|NN culture|NN group|NN physician|NN paul|NP douglas|NP thomas|NP weller|NP
+Rubella|Disease start|NN europe|NP spread|NN united|NP states|NP year|NN united|NP states|NP Rubella|Disease case|NN
+miscarriage|NN abortion|NN case|NN Rubella|Disease syndrome|NN
+new|NP york|NP crs|NP birth|NN
+virus|NN vaccine|NN vaccine|NN measle|NN mump|NN Rubella|Disease viruse|NN case|NN americas|NP year|NN
+outbreak|NN argentina|NP brazil|NP chile|NP case|NN year|NN
+january|NP world|NN health|NN organization|NN pan|NP health|NN organization|NN colombia|NP Rubella|Disease country|NN disease|NN border|NN april|NP americas|NP region|NN disease|NN
+case|NN 2009|NN argentina|NP brazil|NP
+health|NN organization|NN director|NN fight|NN Rubella|Disease year|NN health|NN achievement|NN century|NN
+declaration|NN health|NN record|NN case|NN strain|NN virus|NN
+Rubella|Disease region|NN world|NN susan|NP e|NP
+reef|NN team|NN lead|NN Rubella|Disease cdc|NP
+immunization|NN division|NN announcement|NN chance|NN Rubella|Disease disease|NN hemisphere|NN vaccination|NN smallpox|NN polio|NN
+name|NN Rubella|Disease name|NN measle|NN country|NN disease|NN language|NN Rubella|Disease rubeola|NN synonym|NN rubeola|NN name|NN measle|NN rubeola|NN Rubella|Disease measle|NN
+eradication|NP disease|NN infantum|NN

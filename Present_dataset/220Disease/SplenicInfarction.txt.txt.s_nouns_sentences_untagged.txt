@@ -1,0 +1,27 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN splenic|NN infarction|NN infarct|NN ct|NN surgery|NN 
+splenic|NN infarction|NN condition|NN blood|NN flow|NN supply|NN spleen|NN infarction|NN tissue|NN death|NN oxygen|NN shortage|NN organ|NN 
+splenic|NN infarction|NN artery|NN branche|NN example|NN blood|NN clot|NN 
+symptom|NN pain|ST quadrant|NN abdomen|NN shoulder|NN 
+fever|ST chill|NN case|NN cause|NN abdomen|NN 
+ct|NN scan|NN modality|NN diagnosis|NN ultrasound|NN 
+treatment|NN disorder|NN pain|ST relief|NN 
+removal|NN spleen|NN splenectomy|NN complication|NN removal|NN infection|NN 
+series|NN patient|NN mortality|NN complication|NN spleen|NN abscess|NN spleen|NN example|NN cause|NN formation|NN 
+risk|NN rupture|NN content|NN 
+cause|NN infarction|NN reference|NN link|NN 
+cause|NN infarct|NN ct|NN infarct|NN 
+factor|NN tendency|NN clot|NN formation|NN infection|NN source|NN cytomegalovirus|DS infection|NN malaria|DS clote|NN disorder|NN factor|NN leiden|NN syndrome|NN malignancy|NN cancer|DS metastasis|NN combination|NN factor|NN 
+condition|NN blood|NN clot|NN form|NN part|NN system|NN part|NN body|NN spleen|NN 
+disorder|NN fibrillation|NN patent|NN foramen|NN endocarditis|DS cholesterol|NN embolism|NN 
+splenic|NN infarction|NN disorder|NN splenomegaly|DS disorder|NN 
+cause|NN splenomegaly|DS example|NN disease|NN infarction|NN 
+splenic|NN infarction|NN sickle|NN cell|NN crisis|NN patient|NN sickle|NN cell|NN 
+tendency|NN clot|NN formation|NN feature|NN condition|NN 
+sickle|NN cell|NN disease|NN splenic|NN infarction|NN lead|NN spleen|NN 
+factor|NN compromise|NN artery|NN infarction|NN 
+example|NN trauma|NN dissection|NN torsion|NN artery|NN example|NN spleen|NN compression|NN artery|NN tumor|NN 
+complication|NN procedure|NN 
+splenic|NN infarction|NN coagulation|NN 
+condition|NN splenic|NN infarction|NN case|NN report|NN example|NN polyangiitis|NN treatment|NN medication|NN vasospasm|NN blood|NN clot|NN formation|NN varice|NN sumatriptan|NN bevacizumab|NN 
+case|NN review|NN people|NN hospital|NN diagnosis|NN splenic|NN infarction|NN etiology|NN fibrillation|NN autoimmune|NN disease|NN infection|NN malignancy|NN spite|NN risk|NN factor|NN splenic|NN infarction|NN people|NN 
+antiphospholipid_syndrome|DS valve|NN disease|NN infarction|NN splenic|NN infarction|NN treatment|NN condition|NN portal_hypertension|DS injury|NN splenectomy|NN prevention|NN blood|NN loss|NN 

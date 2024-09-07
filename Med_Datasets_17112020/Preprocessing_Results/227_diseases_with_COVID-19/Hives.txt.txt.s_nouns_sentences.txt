@@ -1,0 +1,179 @@
+encyclopedia|NN Hives|Disease jump|NN navigation|NN jump|NN search|NN use|NN disambiguation|NN
+Hives|Disease name|NN Hives|Disease Hives|Disease arm|NN symptom|NN bump|NN duration|NN day|NN cause|NN infection|NN result|NN reaction|NN risk|NN factor|NN hay|NP fever|NN asthma|NN method|NN symptom|NN patch|NN test|NN treatment|NN corticosteroid|NN leukotriene|NN inhibitor|NN frequency|NN
+Hives|Disease Hives|Disease kind|NN skin|NN rash|NN bump|NN patche|NN move|NN day|NN skin|NN change|NN case|NN week|NN condition|NN
+Hives|Disease infection|NN result|NN reaction|NN medication|NN insect|NN bite|NN food|NN stress|NN temperature|NN vibration|NN trigger|NN case|NN cause|NN risk|NN factor|NN condition|NN hay|NN fever|NN asthma|NN diagnosis|NN appearance|NN patch|NN test|NN allergy|NN
+prevention|NN cause|NN condition|NN treatment|NN ranitidine|NN case|NN corticosteroid|NN leukotriene|NN inhibitor|NN temperature|NN cool|NN case|NN week|NN
+people|NN case|NN duration|NN male|NN female|NN case|NN duration|NN female|NN case|NN duration|NN children|NN case|NN duration|NN Hives|Disease time|NN hippocrates|NP term|NN Hives|Disease urtica|NN mean|NN nettle|NN content|NN
+sign|NN symptom|NN cause|NN food|NN infection|NN agent|NN Hives|Disease pressure|NN pressure|NN stress|NN solar|NN Hives|Disease exercise|NN Hives|Disease Hives|Disease Hives|Disease histamine|NN poison|NN stress|NN Hives|Disease diagnosis|NN condition|NN management|NN steroid|NN antagonist|NN research|NN history|NN reference|NN link|NN
+sign|NN symptom|NN Hives|Disease chest|NN wall|NN
+Hives|Disease draw|NN Hives|Disease
+area|NN base|NN Hives|Disease surface|NN skin|NN
+trigger|NN release|NN mediator|NN histamine|NN mast|NN cell|NN result|NN fluid|NN leakage|NN blood|NN vessel|NN
+size|NN inche|NN diameter|NN
+condition|NN cause|NN fluid|NN leakage|NN blood|NN vessel|NN submucosal|NN layer|NN
+Hives|Disease hour|NN bruise|NN condition|NN Hives|Disease
+Hives|Disease skin|NN appearance|NN condition|NN Hives|Disease
+Hives|Disease agent|NN
+substance|NN environment|NN Hives|Disease medication|NN food|NN agent|NN
+people|NN Hives|Disease cause|NN autoimmune|NN reaction|NN
+drug|NN reaction|NN Hives|Disease sulphate|NN morphia|NN aspirin|NN penicillin|NN sulfonamide|NN vaccine|NN drug|NN
+antidiabetic|NN glimepiride|NN reaction|NN Hives|Disease
+Hives|Disease effect|NN failure|NN
+citation|NN food|NN
+food|NN allergy|NN adult|NN shellfish|NN nut|NN
+food|NN allergy|NN children|NN shellfish|NN nut|NN egg|NN wheat|NN
+study|NN balsam|NN peru|NP food|NN cause|NN contact|NN Hives|Disease cause|NN exposure|NN bacteria|NN specy|NN helicobacter|NN pylory|NN infection|NN agent|NN
+Hives|Disease Hives|Disease complication|NN symptom|NN infection|NN
+rash|NN poison|NN ivy|NN poison|NN oak|NN poison|NN contact|NN Hives|Disease
+rash|NN contact|NN urushiol|NN result|NN form|NN contact|NN dermatitis|NN contact|NN dermatitis|NN
+contact|NN grease-|NN detergent|NN water|NN rub|NN ointment|NN
+Hives|Disease article|NN Hives|Disease
+Hives|Disease dermatographism|NN skin|NN write|NN appearance|NN weal|NN welt|NN skin|NN result|NN scratch|NN firm|NN stroke|NN skin|NN
+population|NN type|NN Hives|Disease skin|NN
+skin|NN reaction|NN scratch|NN minute|NN
+form|NN subset|NN Hives|Disease Hives|Disease
+contrast|NN redden|NN people|NN
+case|NN cause|NN infection|NN antibiotic|NN therapy|NN
+tongue|NN blade|NN skin|NN arm|NN back|NN
+Hives|Disease minute|NN
+skin|NN treatment|NN
+response|NN case|NN patient|NN
+citation|NN pressure|NN pressure|NN
+type|NN Hives|Disease pressure|NN stimulus|NN response|NN pressure|NN skin|NN
+form|NN Hives|Disease hour|NN application|NN pressure|NN skin|NN
+circumstance|NN Hives|Disease Hives|Disease
+protrusion|NN area|NN
+Hives|Disease hour|NN day|NN
+source|NN pressure|NN skin|NN cloth|NN belt|NN cloth|NN strap|NN walk|NN object|NN stand|NN surface|NN
+area|NN body|NN hand|NN feet|NN trunk|NN abdomen|NN buttock|NN leg|NN face|NN
+difference|NN skin|NN area|NN
+form|NN skin|NN disease|NN
+citation|NN stress|NN article|NN Hives|Disease
+Hives|Disease cu|NP Hives|Disease event|NN exercise|NN bath|NN environment|NN stress|NN
+Hives|Disease Hives|Disease
+subtype|NN treatment|NN information|NN Hives|Disease
+type|NN Hives|Disease exposure|NN skin|NN damp|NN condition|NN form|NN
+form|NN Hives|Disease body|NN hour|NN exposure|NN
+form|NN Hives|Disease onset|NN Hives|Disease face|NN neck|NN hand|NN exposure|NN
+Hives|Disease average|NN year|NN
+population|NN adult|NN year|NN
+people|NN condition|NN dermographism|NN Hives|Disease
+reaction|NN exposure|NN water|NN swim|NN water|NN cause|NN reaction|NN
+discharge|NN histamine|NN blood|NN pressure|NN shock|NN loss|NN life|NN
+Hives|Disease ice|NN cube|NN skin|NN forearm|NN minute|NN
+hive|NN patient|NN Hives|Disease
+redness|NN people|NN Hives|Disease
+patient|NN Hives|Disease drop|NN body|NN temperature|NN
+antidepressant|NN doxepin|NN block|NN agent|NN histamine|NN
+medication|NN mast|NN cell|NN histamine|NN success|NN
+citation|NN Hives|Disease article|NN solar|NN Hives|Disease
+form|NN disease|NN area|NN skin|NN sun|NN condition|NN minute|NN exposure|NN
+citation|NN article|NN water|NN Hives|Disease
+type|NN Hives|Disease contact|NN water|NN
+response|NN skin|NN form|NN disease|NN
+appearance|NN Hives|Disease minute|NN contact|NN water|NN minute|NN hour|NN
+kind|NN Hives|Disease histamine|NN discharge|NN Hives|Disease
+researcher|NN condition|NN skin|NN sensitivity|NN additive|NN water|NN chlorine|NN
+water|NN Hives|Disease tap|NN water|NN water|NN skin|NN response|NN
+Hives|Disease capsaicin|NN skin|NN
+treatment|NN shingle|NN
+benefit|NN instance|NN histamine|NN factor|NN
+citation|NN exercise|NN
+people|NN exercise|NN Hives|Disease experience|NN Hives|Disease shortness|NN breath|NN blood|NN pressure|NN minute|NN begine|NN exercise|NN
+symptom|NN shock|NN death|NN
+jog|NN exercise|NN cause|NN shower|NN fever|NN
+minute|NN food|NN wheat|NN shellfish|NN
+individual|NN injure|NN food|NN exercise|NN symptom|NN
+patient|NN exercise|NN symptom|NN
+method|NN caution|NN resuscitative|NN measure|NN hand|NN
+Hives|Disease water|NN immersion|NN test|NN
+test|NN patient|NN water|NN c|NP f|NP
+Hives|Disease person|NN Hives|Disease Hives|Disease neck|NN chest|NN
+symptom|NN type|NN epinephrine|NN airway|NN support|NN
+prior|NN exercise|NN
+mast|NN cell|NN histamine|NN release|NN Hives|Disease disorder|NN
+exercise|NN food|NN symptom|NN
+circumstance|NN tolerance|NN exercise|NN supervision|NN
+citation|NN list|NN leukocyte|NN antigen|NN allele|NN condition|NN
+skin|NN lesion|NN Hives|Disease disease|NN reaction|NN skin|NN leakage|NN capillary|NN dermis|NN edema|NN fluid|NN cell|NN
+Hives|Disease release|NN histamine|NN mediator|NN inflammation|NN cytokine|NN cell|NN skin|NN
+process|NN result|NN reaction|NN elicit|NN mechanism|NN histamine|NN release|NN Hives|Disease
+proinflammatory|NN substance|NN mast|NN cell|NN skin|NN tissue|NN response|NN bind|NN antibody|NN cell|NN surface|NN receptor|NN
+cell|NN release|NN histamine|NN mediator|NN role|NN Hives|Disease disease|NN
+case|NN Hives|Disease result|NN autoimmune|NN trigger|NN
+patient|NN Hives|Disease autoantibody|NN receptor|NN fc|NP
+ri|NP skin|NN mast|NN cell|NN
+stimulation|NN receptor|NN Hives|Disease
+patient|NN autoimmune|NN condition|NN autoimmune|NN disease|NN type|NN diabete|NN arthritis|NN syndrome|NN lupus|NN
+rashe|NN illness|NN cold|NN
+day|NN cold|NN day|NN cold|NN
+mechanism|NN interaction|NN histamine|NN release|NN mast|NN cell|NN
+drug|NN example|NN morphine|NN histamine|NN release|NN immunoglobulin|NN molecule|NN
+group|NN substance|NN Hives|Disease
+porphyria|NN coproporphyria|NN variegate|NN Hives|Disease
+occurrence|NN Hives|Disease
+igg|NN bind|NN
+histamine|NN poison|NN
+food|NN poison|NN
+ingestion|NP histamine|NN decay|NN fish|NN flesh|NN rapid-onset|NN symptom|NN complex|NN Hives|Disease
+Hives|Disease scombroid|NN stress|NN Hives|Disease
+Hives|Disease stress|NN body|NN evidence|NN association|NN condition|NN well-be|NN quality|NN life|NN link|NN stress|NN condition|NN study|NN association|NN life|NN event|NN bereavement|NN divorce|NN Hives|Disease association|NN stress|NN Hives|Disease diagnosis|NN
+cause|NN Hives|Disease case|NN allergy|NN test|NN period|NN time|NN hope|NN insight|NN evidence|NN allergy|NN test|NN result|NN identification|NN problem|NN relief|NN people|NN Hives|Disease allergy|NN test|NN people|NN Hives|Disease
+Hives|Disease presence|NN wheal|NN week|NN Hives|Disease minute|NN person|NN allergen|NN
+outbreak|NN week|NN Hives|Disease week|NN
+Hives|Disease reaction|NN food|NN case|NN trigger|NN
+food|NN cause|NN bee|NN wasp|NN sting|NN skin|NN contact|NN fragrance|NN
+infection|NN cause|NN Hives|Disease exanthem|NN
+cause|NN Hives|Disease friction|NN pressure|NN temperature|NN extreme|NN exercise|NN sunlight|NN
+Hives|Disease Hives|Disease presence|NN wheal|NN week|NN case|NN year|NN
+survey|NN Hives|Disease year|NN sufferer|NN year|NN
+Hives|Disease swell|NN layer|NN dermis|NN Hives|Disease subcutis|NN
+swell|NN mouth|NN eye|NN throat|NN abdomen|NN location|NN
+Hives|Disease response|NN allergen|NN concern|NN case|NN angioedema|NN throat|NN
+form|NN angioedema|NN response|NN contact|NN vibration|NN
+symptom|NN minute|NN contact|NN object|NN hour|NN
+patient|NN disorder|NN dermographism|NN pressure|NN Hives|Disease
+device|NN laboratory|NN vortex|NN machine|NN forearm|NN minute|NN
+swell|NN forearm|NN arm|NN
+treatment|NN avoidance|NN stimulant|NN
+citation|NN management|NN
+mainstay|NN therapy|NN Hives|Disease education|NN trigger|NN
+Hives|Disease disability|NN
+form|NN 5080|NN people|NN Hives|Disease trigger|NN
+people|NN Hives|Disease remission|NN year|NN treatment|NN management|NN
+individual|NN Hives|Disease medication|NN addition|NN antihistamine|NN control|NN symptom|NN
+patient|NN Hives|Disease emergency|NN treatment|NN condition|NN
+treatment|NN guideline|NN management|NN Hives|Disease practice|NN parameter|NN treatment|NN step|NN approach|NN
+step|NN second|NN generation|NN receptor|NN block|NN
+glucocorticoid|NN episode|NN disease|NN term|NN list|NN side|NN effect|NN
+step|NN dose|NN antihistamine|NN antihistamine|NN leukotriene|NN receptor|NN antagonist|NN
+step|NN treatment|NN hydroxyzine|NN doxepin|NN
+individual|NN step|NN symptom|NN
+point|NN medication|NN cyclosporin|NN medication|NN omalizumab|NN
+option|NN detail|NN
+block|NN histamine|NN receptor|NN line|NN therapy|NN
+generation|NN diphenhydramine|NN block|NN receptor|NN
+generation|NN cetirizine|NN receptor|NN generation|NN
+people|NN dose|NN dose|NN switch|NN non-sedate|NN leukotriene|NN antagonist|NN antihistamine|NN steroid|NN
+antagonist|NN addition|NN h1-antagonists|NP Hives|Disease evidence|NN efficacy|NN steroid|NN
+glucocorticoid|NN symptom|NN Hives|Disease list|NN effect|NN suppression|NN weight|NN gain|NN osteoporosis|NN
+use|NN couple|NN week|NN
+addition|NN study|NN glucocorticoid|NN antihistamine|NN time|NN symptom|NN control|NN leukotriene-receptor|NN antagonist|NN
+mast|NN cell|NN histamine|NN
+medication|NN block|NN leukotriene|NN receptor|NN treatment|NN isolation|NN patient|NN cu|NP
+medication|NN patient|NN nsaid|NP cu|NP
+option|NN symptom|NN Hives|Disease medication|NN
+agent|NN sulfasalazine|NN hydroxychloroquine|NN
+agent|NN prostaglandin|NN leukotriene|NN activity|NN
+case|NN patient|NN deficiency|NN
+derivative|NN adenosine|NN release|NN mast|NN cell|NN degranulation|NN sulfasalazine|NN option|NN people|NN anemia|NN
+agent|NN t|NP lymphocyte|NN
+fda|NN 2014|NN patient|NN year|NN Hives|Disease
+improvement|NN pruritus|NN quality|NN life|NN phase|NN control|NN trial|NN
+cu|NP tacrolimus|NN
+inhibitor|NN cell|NN responsiveness|NN mast|NN cell|NN product|NN cell|NN activity|NN
+expert|NN symptom|NN evidence|NN use|NN treatment|NN Hives|Disease report|NN line|NN therapy|NN case|NN potential|NN effect|NN
+Hives|Disease treatment|NN
+antagonist|NN evidence|NN use|NN history|NN
+term|NN Hives|Disease physician|NN william|NP cullen|NP word|NN mean|NN hair|NN nettle|NN presentation|NN contact|NN flower|NN plant|NN history|NN Hives|Disease date|NN bc|NP reference|NN rash|NN book|NN emperor|NN classic|NN neij|NN
+hippocrate|NN century|NN Hives|Disease knidosis|NN word|NN nettle|NN discovery|NN mast|NN cell|NN paul|NP Hives|Disease condition|NN idea|NN condition|NN

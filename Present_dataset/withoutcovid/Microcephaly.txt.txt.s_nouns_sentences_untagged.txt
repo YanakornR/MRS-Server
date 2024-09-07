@@ -1,0 +1,82 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN 
+genus|NN beetle|NN genus|NN 
+microcephaly|DS microcephaly|DS baby|NN microcephaly|DS left|NN baby|NN head|NN size|NN genetics|NN psychiatry|NN 
+microcephaly|DS condition|NN brain|NN head|NN microcephaly|DS birth|NN year|NN life|NN people|NN disorder|NN disability|NN motor|NN function|NN speech|NN feature|NN seizure|NN quality|NN life|NN 
+disorder|NN variety|NN condition|NN growth|NN brain|NN syndrome|NN abnormality|NN 
+mutation|NN gene|NN microcephaly|DS indication|NN warn|NN sign|NN uniformity|NN definition|NN 
+head|NN circumference|NN hc|NN deviation|NN mean|NN age|NN sex|NN academics|NN head|NN circumference|NN deviation|NN mean|NN age|NN sex|NN 
+treatment|NN head|NN size|NN life|NN expectancy|NN individual|NN microcephaly|DS prognosis|NN brain|NN function|NN 
+case|NN intelligence|NN head|NN content|NN 
+sign|NN symptom|NN cause|NN onset|NN relation|NN treatment|NN history|NN case|NN reference|NN link|NN 
+sign|NN symptom|NN 
+defect|NN seizure|NN 
+development|NN disturbance|NN motor|NN function|NN life|NN 
+infant|NN microcephaly|DS head|NN size|NN 
+head|NN face|NN rate|NN child|NN head|NN forehead|NN scalp|NN 
+child|NN smallness|NN skull|NN body|NN 
+development|NN motor|NN function|NN speech|NN 
+disability|NN occurrence|NN degree|NN 
+motor|NN ability|NN clumsiness|NN quadriplegia|DS 
+citation|NN cause|NN scan|NN skull|NN left|NN case|NN microcephaly|DS right|NN 
+microcephaly|DS type|NN disorder|NN 
+type|NN onset|NN 
+section|NN citation|NN verification|NN 
+article|NN citation|NN source|NN 
+source|NN microcephaly|DS new|NN newspaper|NN book|NN scholar|NN february|NN template|NN message|NN 
+microcephaly|DS microcephaly|DS microcephaly|DS rearrangement|NN ring|NN chromosome|NN 
+poland_syndrome|DS syndrome|NN edward|NN syndrome|NN syndrome|NN rearrangement|NN 
+gene|NN deletion|NN 
+4p|NN deletion|NN syndrome|NN 5p|NN deletion|NN deletion|NN williams_syndrome|DS deletion|NN syndrome|NN 
+gene|NN defect|NN 
+syndrome|NN syndrome|NN cornelia_de_lange_syndrome|DS microcephaly|DS syndrome|NN 
+stroke|NN stroke|NN death|NN twin|NN 
+cytomegalovirus|DS infection|NN rubella|DS syndrome|NN virus|NN fever|ST microcephaly|DS 
+hydantoin|NN syndrome|NN alcohol|NN syndrome|NN 
+radiation|NN exposure|NN mother|NN malnutrition|NN phenylketonuria|DS diabete|NN hypothyroidism|DS insufficiency|NN 
+section|NN citation|NN verification|NN 
+article|NN citation|NN source|NN 
+source|NN microcephaly|DS new|NN newspaper|NN book|NN scholar|NN february|NN template|NN message|NN 
+error|NN metabolism|NN 
+disorder|NN glycosylation|NN disorder|NN disorder|NN transporter|NN defect|NN disease|NN disorder|NN amino|NN acid|NN metabolism|NN acidemia|NN 
+gene|NN deletion|NN 
+deletion|NN syndrome|NN 
+gene|NN defect|NN 
+syndrome|NN girl|NN nijmegen_breakage_syndrome|DS genitalia|NN syndrome|NN cohen_syndrome|DS syndrome|NN 
+brain|NN injury|NN encephalopathy|NN stroke|NN stroke|NN 
+hiv|DS encephalopathy|NN meningitis|DS 
+lead|NN poison|NN failure|NN 
+heart|NN disease|NN 
+factor|NN role|NN case|NN microcephaly|DS 
+relationship|NN autism|DS duplication|NN chromosome|NN macrocephaly|NN side|NN 
+side|NN relationship|NN schizophrenia|DS deletion|NN chromosome|NN microcephaly|DS association|NN variant|NN microcephaly|DS gene|NN cdk5rap2|NN variation|NN brain|NN structure|NN resonance|NN image|NN mry|NN 
+brain|NN surface|NN area|NN brain|NN volume|NN 
+spread|NN mosquito-borne|NN virus|NN level|NN microcephaly|DS society|NN disease|NN center|NN disease|NN control|NN prevention|NN zika|NN woman|NN fetus|NN 
+brain|NN malformation|NN birth|NN defect|NN study|NN new|NN england|NN journal|NN medicine|NN case|NN evidence|NN virus|NN brain|NN fetus|NN morphology|NN microcephaly|DS microencephaly|DS 
+microcephaly|DS microcephalia|NN greek|NN 
+classification|NN smallness|NN brain|NN 
+update|NN linguistics|NN term|NN culture|NN 
+size|NN brain|NN size|NN skull|NN use|NN microencephaly|DS literature|NN case|NN microcephaly|DS article|NN 
+microcephaly|DS brain|NN surface|NN sulcy|NN gyry|NN 
+case|NN microlissencephaly|NN family|NN inheritance|NN 
+drop|NN bomb|NN boy|NN hiroshima|NN man|NN nagasaki|NN women|NN ground|NN zero|NN time|NN birth|NN children|NN microcephaly|DS microcephaly|DS prevalence|NN group|NN women|NN week|NN gestation|NN blast|NN km|NN ground|NN zero|NN 
+proximity|NN bomb|NN women|NN utero|NN children|NN radiation|NN dose|NN due|NN neutron|NN output|NN boy|NN microcephaly|DS malformation|NN abnormality|NN children|NN hiroshima|NN nagasaki|NN relation|NN 
+volume|NN pathology|NN size|NN brain|NN 
+microcephaly|DS size|NN part|NN brain|NN cortex|NN condition|NN development|NN stem|NN cell|NN proliferation|NN death|NN stem|NN cell|NN neuron|NN combination|NN factor|NN research|NN animal|NN model|NN rodent|NN gene|NN brain|NN growth|NN 
+example|NN pathway|NN gene|NN balance|NN stem|NN cell|NN proliferation|NN neurogenesis|NN stem|NN cell|NN layer|NN zone|NN mutation|NN gene|NN microcephaly|DS mice|NN microcephaly|DS mutation|NN spindle-like|NN microcephaly|DS gene|NN microcephaly|DS human|NN knockout|NN model|NN ferret|NN microcephaly|DS addition|NN viruse|NN cytomegalovirus|DS stem|NN cell|NN cell|NN loss|NN daughter|NN neuron|NN severity|NN condition|NN time|NN infection|NN pregnancy|NN 
+treatment|NN baby|NN microcephaly|DS therapy|NN session|NN 
+cure|NN microcephaly|DS treatment|NN history|NN 
+people|NN microcephaly|DS show|NN north|NN america|NN europe|NN century|NN name|NN 
+specy|NN monkey|NN man|NN link|NN example|NN pinhead|NN microcephaly|DS pinhead|NN film|NN 
+men|NN influence|NN development|NN strip|NN character|NN zippy|NN pinhead|NN bill|NN griffith|NN case|NN 
+section|NN source|NN 
+section|NN citation|NN source|NN 
+february|NN 2016|NN template|NN message|NN 
+dwarf|NN punt|NN somalia|NN clan|NN tribute|NN ruler|NN kingdom|NN pepi|NN dynasty|NN bce|NN person|NN 
+letter|NN museum|NN king|NN instruction|NN letter|NN 
+men|NN service|NN escort|NN soldier|NN sailor|NN guard|NN care|NN dwarf|NN head|NN sleep|NN voyage|NN palace|NN 
+time|NN reason|NN microcephaly|DS jester|NN duke|NN ren|NN anjou|NN court|NN 
+jenny|NN lee|NN snow|NN elvira|NN snow|NN stage|NN name|NN pip|NN sister|NN microcephaly|DS film|NN 
+surtees|NN simon|NN metz|NN sideshow|NN performer|NN actor|NN 
+lester|NN beetlejuice|NN green|NN member|NN radio|NN host|NN howard|NN sterns|NN pack|NN 
+right|NN portal|NN portal|NN 
+rubicon|NN syndrome|NN microcephaly|DS 

@@ -1,0 +1,47 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN article|NN loss|NN body|NN water|NN 
+use|NN dehydration|NN disambiguation|NN 
+dehydration|NN cholera|DS rehydration|NN nurse|NN patient|NN rehydration|NN solution|NN combination|NN dehydration|NN cholera|DS 
+cholera|DS gi|NN loss|NN water|NN dehydration|NN sodium|NN volume|NN 
+care|NN medicine|NN 
+physiology|NN dehydration|NN deficit|NN body|NN water|NN disruption|NN process|NN 
+water|NN loss|NN water|NN intake|NN disease|NN temperature|NN 
+dehydration|NN immersion|NN risk|NN decompression_sickness|DS diver|NN 
+people|NN percent|NN decrease|NN body|NN water|NN difficulty|NN health|NN effect|NN 
+percent|NN decrease|NN fatigue|ST dizziness|ST 
+loss|NN percent|NN body|NN water|NN deterioration|NN thirst|NN 
+death|NN loss|NN percent|NN body|NN water|NN dehydration|NN thirst|NN discomfort|NN rehydration|NN 
+dehydration|NN level|NN sodium|NN ion|NN blood|NN loss|NN blood|NN volume|NN blood|NN plasma|NN 
+sign|NN symptom|NN cause|NN diagnosis|NN definition|NN prevention|NN treatment|NN reference|NN read|NN link|NN 
+sign|NN symptom|NN ultrasound|NN week|NN media|NN ultrasound|NN blood|NN vessel|NN neck|NN diagnosis|NN dehydration|NN 
+hallmark|NN dehydration|NN thirst|NN change|NN headache|ST discomfort|NN loss|NN appetite|NN urine|NN volume|NN cause|NN dehydration|NN confusion|ST tiredness|NN fingernail|NN seizure|NN 
+symptom|NN dehydration|NN body|NN water|NN loss|NN 
+body|NN water|NN loss|NN dehydration|NN performance|NN people|NN age|NN thirst|NN sensation|NN age|NN 
+citizen|NN symptom|NN dehydration|NN 
+dehydration|NN morbidity|NN condition|NN water|NN loss|NN weather|NN 
+cochrane|NN review|NN subject|NN dehydration|NN people|NN serum|NN osmolality|NN symptom|NN fatigue|ST drink|NN meal|NN impedance|NN analysis|NN cause|NN 
+risk|NN factor|NN dehydration|NN weather|NN habitation|NN altitude|NN endurance|NN athletics|NN adult|NN infant|NN children|NN people|NN live|NN illness|NN 
+dehydration|NN side|NN effect|NN type|NN drug|NN medication|NN 
+response|NN thirst|NN ability|NN water|NN face|NN water|NN loss|NN cause|NN dehydration|NN water|NN water|NN body|NN way|NN loss|NN vomit|NN diarrhea|ST water|NN loss|NN skin|NN tract|NN 
+human|NN dehydration|NN range|NN disease|NN state|NN water|NN homeostasis|NN body|NN 
+thirstwater|NN access|NN sodium|NN excess|NN diagnosis|NN definition|NN 
+dehydration|NN water|NN intake|NN water|NN process|NN breath|NN urination|NN perspiration|ST cause|NN diarrhea|ST vomit|NN 
+dehydration|NN lead|NN seizure|NN arrest|NN risk|NN edema|ST rehydration|NN 
+term|NN dehydration|NN proxy|NN condition|NN decrease|NN volume|NN blood|NN plasma|NN mechanism|NN human|NN distinction|NN treatment|NN prevention|NN 
+routine|NN activity|NN thirst|NN guide|NN hydration|NN water|NN intake|NN weight|NN environment|NN diet|NN genetics|NN exercise|NN exposure|NN environment|NN thirst|NN response|NN water|NN 
+athlete|NN competition|NN drink|NN thirst|NN performance|NN safety|NN weight_loss|ST study|NN thirst|NN weight|NN exercise|NN 
+weather|NN exertion|NN water|NN loss|NN human|NN capacity|NN secretion|NN sweat|NN 
+sweat|NN loss|NN men|NN lh|NN sport|NN rate|NN lh|NN exercise|NN heat|NN amount|NN water|NN perspiration|ST electrolyte|NN sodium|NN 
+athlete|NN hour|NN sweat|NN sodium|NN concentration|NN sodium|NN body|NN store|NN store|NN mmol|NN g|NN person|NN loss|NN people|NN 
+inclusion|NN sodium|NN fluid|NN replacement|NN drink|NN benefit|NN risk|NN fluid|NN mainstay|NN dehydration|NN prevention|NN replacement|NN water|NN loss|NN 
+consumption|NN food|NN dehydration|NN treatment|NN article|NN management|NN dehydration|NN 
+treatment|NN dehydration|NN drink|NN water|NN stop|NN fluid|NN loss|NN 
+plain|NN water|NN volume|NN blood|NN plasma|NN thirst|NN mechanism|NN solute|NN level|NN food|NN fluid|NN loss|NN vomit|NN urine|NN concentration|NN frequency|NN dehydration|NN 
+case|NN correction|NN state|NN replenishment|NN water|NN electrolyte|NN rehydration|NN therapy|NN fluid|NN replacement|NN therapy|NN 
+rehydration|NN treatment|NN choice|NN dehydration|NN 
+citation|NN solution|NN rehydration|NN 
+citation|NN water|NN vein|NN breakdown|NN lysis|NN blood|NN cell|NN erythrocyte|NN 
+water|NN sea|NN desert|NN seawater|NN ethanol|NN condition|NN 
+urine|NN solute|NN concentration|NN seawater|NN guide|NN consumption|NN survival|NN situation|NN hospital|NN 
+case|NN dehydration|NN unconsciousness|ST symptom|NN patient|NN stand|NN think|NN emergency|NN attention|NN 
+balance|NN replacement|NN electrolyte|NN assessment|NN electrolyte|NN status|NN resolution|NN norm|NN case|NN 
+fluid|NN terminal|NN dehydration|NN rehydration|NN therapy|NN 

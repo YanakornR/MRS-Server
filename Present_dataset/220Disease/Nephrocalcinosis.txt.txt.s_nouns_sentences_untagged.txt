@@ -1,0 +1,45 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN nephrocalcinosis|DS name|NN nephrocalcinosis|DS 
+nephrocalcinosis|DS nephrocalcinosis|DS fuller|NN albright|NN term|NN deposition|NN calcium|NN salt|NN parenchyma|NN 
+term|NN nephrocalcinosis|DS deposition|NN calcium|NN calcium|NN phosphate|NN kidney|NN injury|NN 
+parenchymal|NN radiology|NN condition|NN kidney|NN dysfunction|NN 
+outline|NN mass|NN stage|NN nephrocalcinosis|DS x-ray|NN mottle|NN outline|NN 
+find|NN sponge|NN kidney|NN x-ray|NN 
+acidosis|NN end|NN stage|NN failure|NN disruption|NN tissue|NN calcium|NN 
+symptom|NN cause|NN nephrocalcinosis|DS hypercalciuria|NN hypercalcemia|DS mechanism|NN diagnosis|NN stage|NN nephrocalcinosis|DS treatment|NN research|NN reference|NN link|NN 
+condition|NN symptom|NN process|NN sympotom|NN blood|NN urine|NN fever|ST chill|NN nausea|ST pain|ST belly|NN area|NN flank|NN back|NN groin|NN testicle|NN 
+polyuria|ST polydipsia|NN 
+nephrolithiasis|DS patient|NN hypercalciuria|NN body|NN system|NN nocturia|NN concentrate|NN capacity|NN diabete|NN nephrocalcinosis|DS cause|NN children|NN syndrome|NN salt|NN reabsorption|NN 
+cause|NN nephrocalcinosis|DS failure|NN tumor|NN lysis|NN syndrome|NN phosphate|NN nephropathy|DS case|NN hyperoxaluria|DS cause|NN 
+nephrocalcinosis|DS condition|NN hyperphosphatemia|NN excretion|NN calcium|NN phosphate|NN urine|NN 
+urine|NN ph|NN nephrocalcinosis|DS hypercalciuria|NN hypocitraturia|NN citrate|NN crystallization|NN calcium|NN 
+conjunction|NN nephrocalcinosis|DS hypercalcemia|DS follow|NN 
+hyperparathyroidism|DS nephrocalcinosis|DS symptom|NN hyperparathyroidism|DS nephrocalcinosis|DS symptom|NN vitamin|NN d|NN therapy|NN nephrocalcinosis|DS vitamin|NN therapy|NN increase|NN absorption|NN calcium|NN bone|NN resorption|NN hypercalcemia|DS hypercalciuria|NN 
+nephrocalcinosis|DS nephrocalcinosis|DS 
+sponge|NN kidney|NN acidosis|NN 
+papillary|NN necrosis|NN 
+cause|NN hypercalcemia|DS 
+syndrome|NN d|NN myeloma|NN 
+condition|NN nephrocalcinosis|DS association|NN hypercalciuria|NN 
+acidosis|NN sponge|NN kidney|NN neonatal|NN nephrocalcinosis|DS loop|NN diuretics|NN hypokalemia|DS beta|NN 
+nephrocalcinosis|DS increase|NN excretion|NN calcium|NN phosphate|NN nephrocalcinosis|DS nephrolithiasis|DS patient|NN condition|NN case|NN calcium|NN calcium|NN phosphate|NN crystal|NN form|NN concentration|NN reactant|NN limit|NN 
+deposit|NN medullary|NN basement|NN membrane|NN limb|NN loop|NN henle|NN calcium|NN phosphate|NN plaque|NN tissue|NN rupture|NN lumen|NN calcium|NN stone|NN formation|NN diagnosis|NN 
+nephrocalcinosis|DS part|NN image|NN technique|NN 
+image|NN ultrasound|NN film|NN ct|NN image|NN technique|NN ct|NN 
+nephrocalcinosis|DS radiologist|NN diagnosis|NN ct|NN 
+case|NN biopsy|NN image|NN nephrocalcinosis|DS 
+diagnosis|NN test|NN cause|NN condition|NN treatment|NN reason|NN nephrocalcinosis|DS test|NN serum|NN electrolyte|NN calcium|NN phosphate|NN urine|NN ph|NN cause|NN urine|NN collection|NN hour|NN measurement|NN excretion|NN calcium|NN phosphate|NN citrate|NN creatinine|NN stage|NN nephrocalcinosis|DS 
+chemical|NN nephrocalcinosis|DS increase|NN calcium|NN concentration|NN x-ray|NN nephrocalcinosis|DS microscope|NN tissue|NN sample|NN biopsy|NN 
+x-ray|NN nephrocalcinosis|DS x-ray|NN 
+fluid|NN intake|NN urine|NN output|NN day|NN patient|NN nephrocalcinosis|DS 
+patient|NN hypercalciuria|NN calcium|NN excretion|NN animal|NN protein|NN sodium|NN intake|NN day|NN potassium|NN intake|NN 
+diet|NN reduction|NN hypercalciuria|NN diuretic|NN patient|NN 
+solubility|NN calcium|NN urine|NN limit|NN development|NN nephrocalcinosis|DS 
+patient|NN urine|NN ph|NN 
+prognosis|NN nephrocalcinosis|DS cause|NN 
+case|NN nephrocalcinosis|DS end|NN stage|NN disease|NN dysfunction|NN hypercalciuric|NN nephrocalcinosis|DS disease|NN nephrocalcinosis|DS reversal|NN patient|NN treatment|NN hypercalciuria|NN surgery|NN research|NN 
+find|NN predisposition|NN factor|NN 
+factor|NN excretion|NN risk|NN factor|NN 
+correlation|NN show|NN gene|NN polymorphism|NN stone|NN formation|NN receptor|NN vitamin|NN d|NN receptor|NN calcium|NN stone|NN sponge|NN kidney|NN mutation|NN gene|NN gene|NN gene|NN morphogenesis|NN conjunction|NN gene|NN research|NN theory|NN disease|NN 
+particle|NN theory|NN 
+theory|NN concentration|NN solute|NN segment|NN nephron|NN formation|NN growth|NN collection|NN crystal|NN lumen|NN process|NN stone|NN formation|NN back|NN theory|NN speed|NN growth|NN crystal|NN diameter|NN segment|NN nephron|NN transit|NN time|NN nephron|NN 
+show|NN support|NN theory|NN 

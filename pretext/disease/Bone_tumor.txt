@@ -1,0 +1,137 @@
+bone|NN cancer|DS micrograph|NN of|NN osteosarcoma|DS bone_tumor|DS 
+specialty|NN oncology|NN bone_tumor|DS bone_tumor|DS growth|NN of|NN tissue|NN in|NN bone|NN 
+abnormal|NN growth|NN in|NN bone|NN 
+survival|NN in|NN state|NN bone|NN cancer|DS 
+content|NN symptom|NN type|NN bone_tumor|DS bone_tumor|DS treatment|NN chemotherapy|NN radiotherapy|NN medication|NN treatment|NN ablation|NN technique|NN prognosis|NN see|NN link|NN common|NN symptom|NN of|NN bone_tumor|DS pain|ST time|NN 
+person|NN week|NN month|NN year|NN help|NN pain|ST increase|NN growth|NN of|NN tumor|NN 
+symptom|NN fatigue|ST fever|ST weight_loss|ST anemia|DS nausea|ST bone|NN fracture|NN 
+patient|NN symptom|NN mass|NN 
+bone_tumor|DS structure|NN of|NN bone|NN pathologic|NN fracture|NN 
+type|NN bone_tumor|DS tumor|NN in|NN bone|NN cell|NN tissue|NN tumor|NN in|NN site|NN spread|NN skeleton|NN 
+carcinoma|NN of|NN prostate|NN breast|NN lung|NN thyroid|NN kidney|NN carcinoma|NN bone|NN 
+malignant|NN bone_tumor|DS time|NN common|NN bone|NN cancer|DS 
+bone_tumor|DS tumor|NN of|NN bone_tumor|DS cancer|DS 
+common|NN benign|NN bone_tumor|DS traumatic|NN inflammatory|NN in|NN etiology|NN 
+tumor|NN neoplasm|NN hamartoma|NN osteochondroma|NN 
+common|NN location|NN tumor|NN benign|NN femur|NN tibia|NN knee|NN joint|NN 
+example|NN of|NN bone_tumor|DS osteoma|NN osteoma|NN osteochondroma|NN osteoblastoma|NN enchondroma|NN cell|NN tumor|NN of|NN bone|NN bone|NN cyst|NN 
+bone|NN osteosarcoma|DS chondrosarcoma|NN sarcoma|NN fibrosarcoma|NN type|NN 
+tumor|NN histiocytoma|NN mfh|NN sarcoma|NN primary|NN in|NN bone|NN paradigm|NN tend|NN wastebasket|NN diagnosis|NN trend|NN test|NN tumor|NN tumor|NN class|NN 
+multiple|NN myeloma|NN cancer|DS in|NN bone|NN marrow|NN bone|NN lesions|NN 
+study|NN 
+of|NN cell|NN bone_tumor|DS in|NN head|NN of|NN metacarpal|NN of|NN hand|NN 
+midline|NN of|NN germ|NN cell|NN tumor|NN teratoma|NN originate|NN in|NN sacrum|NN coccyx|NN 
+teratoma|NN treatment|NN 
+arm|NN bone_tumor|DS bone_tumor|DS definition|NN bone_tumor|DS bone_tumor|DS lesions|NN organ|NN carcinoma|NN of|NN breast|NN lung|NN prostate|NN 
+statistic|NN incidence|NN prevalence|NN mortality|NN of|NN bone_tumor|DS in|NN year|NN of|NN age|NN carcinoma|NN bone|NN biopsy|NN origin|NN of|NN tumor|NN in|NN case|NN 
+diagnosis|NN radiography|NN image|NN modality|NN bone_tumor|DS 
+ct|NN histopathology|NN in|NN diagnosis|NN thereof|NN 
+stage|NN cancer|DS bone|NN stage|NN cancer|DS bone|NN stage|NN cancer|DS bone|NN stage|NN cancer|DS bone|NN stage|NN cancer|DS bone|NN treatment|NN treatment|NN of|NN bone_tumor|DS type|NN of|NN tumor|NN 
+chemotherapy|NN radiotherapy|NN chemotherapy|NN radiotherapy|NN in|NN tumor|NN sarcoma|NN in|NN others|NN chondrosarcoma|NN 
+variety|NN of|NN chemotherapy|NN treatment|NN protocol|NN bone_tumor|DS 
+protocol|NN survival|NN in|NN child|NN adult|NN protocol|NN tumor|NN response|NN arteriogram|NN 
+tumor|NN response|NN necrosis|NN intervention|NN 
+medication|NN of|NN major|NN concern|NN bone|NN density|NN bone|NN loss|NN 
+bisphosphonates|NN bone|NN strength|NN prescription|NN pill|NN 
+metastron|NN chloride|NN medication|NN pain|ST in|NN month|NN interval|NN 
+strontium|NN chloride|NN injection|NN up|NN version|NN of|NN metastron|NN 
+treatment|NN treatment|NN bone|NN cancer|DS surgery|NN amputation|NN limb|NN spar|NN surgery|NN in|NN combination|NN chemotherapy|NN radiation|NN therapy|NN 
+limb|NN surgery|NN salvage|NN surgery|NN limb|NN amputation|NN 
+of|NN amputation|NN bone|NN in|NN of|NN way|NN bone|NN graft|NN in|NN bone|NN body|NN b|NN artificial|NN bone|NN in|NN 
+in|NN leg|NN surgery|NN salvage|NN prosthesis|NN 
+surgery|NN van|NN ne|NN rotation|NN rotationplasty|NN form|NN of|NN amputation|NN in|NN patient|NN foot|NN upwards|NN in|NN degree|NN turn|NN foot|NN knee|NN 
+type|NN of|NN amputation|NN leg|NN knee|NN knee|NN symes|NN disarticulation|NN hemipelvectomy|NN hindquarter|NN in|NN whole|NN leg|NN half|NN of|NN pelvis|NN arm|NN elbow|NN elbow|NN shoulder|NN disarticulation|NN forequarter|NN amputation|NN of|NN arm|NN shoulder|NN blade|NN clavicle|NN of|NN amputation|NN translumbar|NN amputation|NN legs|NN pelvis|NN urinary|NN system|NN excretory|NN system|NN area|NN in|NN male|NN in|NN female|NN 
+operation|NN in|NN stage|NN 
+stage|NN colostomy|NN urinary|NN conduit|NN stage|NN amputation|NN 
+operation|NN resort|NN 
+pelvic|NN exenteration|NN in|NN case|NN of|NN cancer|DS ablation|NN technique|NN decade|NN ct|NN radiofrequency|NN ablation|NN alternative|NN resection|NN in|NN care|NN of|NN bone_tumor|DS osteoma|NN 
+in|NN technique|NN sedation|NN rf|NN probe|NN tumor|NN nidus|NN ct|NN guidance|NN heat|NN tumor|NN cell|NN 
+procedure|NN treatment|NN of|NN osteoma|NN in|NN early|NN in|NN study|NN in|NN bone|NN destruction|NN safety|NN efficacy|NN technique|NN of|NN patient|NN freedom|NN symptom|NN 
+success|NN rate|NN rfa|NN recurrence|NN rfa|NN treatment|NN study|NN recurrence|NN rate|NN of|NN treatment|NN 
+ablation|NN technique|NN in|NN treatment|NN of|NN painful|NN bone|NN disease|NN 
+beam|NN radiation|NN therapy|NN standard|NN of|NN care|NN patient|NN bone|NN pain|ST disease|NN 
+majority|NN of|NN patient|NN relief|NN of|NN pain|ST radiation|NN therapy|NN effect|NN in|NN study|NN transient|NN in|NN half|NN of|NN patient|NN 
+patient|NN therapy|NN 
+radiation|NN therapy|NN chemotherapy|NN surgery|NN medication|NN ablation|NN technique|NN alternative|NN pain|ST reduction|NN 
+trial|NN efficacy|NN of|NN rfa|NN in|NN treatment|NN of|NN pain|ST in|NN patient|NN bone|NN disease|NN decrease|NN in|NN patient|NN pain|ST treatment|NN 
+study|NN patient|NN site|NN pain|ST multiple|NN tumor|NN therapy|NN 
+cryoablation|NN alternative|NN area|NN of|NN destruction|NN technique|NN ct|NN rfa|NN advantage|NN tumor|NN structure|NN 
+prognosis|NN outlook|NN type|NN of|NN tumor|NN 
+outcome|NN people|NN tumor|NN type|NN of|NN tumor|NN 
+bone_tumor|DS patient|NN cure|NN cure|NN rate|NN type|NN of|NN cancer|DS location|NN size|NN factor|NN 
+see|NN bone|NN scintigraphy|NN reference|NN 1|NN 
+seer|NN stat|NN fact|NN sheet|NN bone|NN cancer|DS http|NN 
+nci|NN 
+june|NN 
+2|NN 
+question|NN answer|NN bone|NN cancer|DS http|NN pdf|NN 
+center|NN disease|NN control|NN prevention|NN 
+jeon|NN dg|NN song|NN w|NN cb|NN jr|NN sy|NN 
+mfh|NN of|NN bone|NN osteosarcoma|DS show|NN survival|NN chemosensitivity|NN 
+clin|NN orthop|NN rel|NN 
+costelloe|NN madewell|NN john|NN 
+radiography|NN in|NN diagnosis|NN of|NN bone_tumor|DS 
+journal|NN of|NN roentgenology|NN 
+1|NN 
+http|NN 
+s|NN 
+bone_tumor|DS mount|NN sinai|NN hospital|NN york|NN 
+year|NN survival|NN in|NN osteosarcoma|DS http|NN survival|NN in|NN adult|NN osteosarcoma|DS mfh|NN of|NN bone|NN http|NN 
+drug|NN approval|NN http|NN 
+food|NN drug|NN administration|NN 
+rosenthal|NN d|NN i|NN alexander|NN rosenberg|NN e|NN d|NN 
+ablation|NN of|NN osteoma|NN electrode|NN procedure|NN 
+radiology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+rimondi|NN eugenio|NN mavrogenis|NN rossi|NN giuseppe|NN ciminari|NN rosanna|NN tranfaglia|NN cristina|NN vanel|NN daniel|NN ruggieri|NN pietro|NN 
+radiofrequency|NN ablation|NN osteoma|NN in|NN patient|NN 
+radiology|NN 
+1|NN http|NN 
+pmid|NN http|NN 
+rosenthal|NN hornicek|NN martin|NN gebhardt|NN mark|NN j|NN 
+osteoma|NN treatment|NN radiofrequency|NN energy|NN 
+radiology|NN 
+1|NN 
+http|NN 
+pmid|NN http|NN 
+weber|NN david|NN omlor|NN wiedenhöfer|NN bernd|NN kauczor|NN rehnitz|NN christoph|NN 
+term|NN outcome|NN success|NN cost|NN analysis|NN of|NN radiofrequency|NN ablation|NN treatment|NN of|NN osteoblastoma|NN osteoid|NN osteoma|NN in|NN comparison|NN resection|NN 
+radiology|NN 
+http|NN 
+http|NN 
+pmid|NN http|NN 
+rosenthal|NN hornicek|NN jennings|NN candace|NN gebhardt|NN mark|NN j|NN 
+radiofrequency|NN coagulation|NN of|NN osteoma|NN http|NN 
+j|NN bone|NN joint|NN surg|NN 
+citeseerx|NN http|NN 
+http|NN 2|NN 
+pmid|NN http|NN 
+tong|NN daphne|NN gillick|NN laurence|NN hendrickson|NN 
+palliation|NN of|NN metastasis|NN result|NN of|NN study|NN radiation|NN therapy|NN oncology|NN group|NN 
+cncr2820500515|NN http|NN 
+dupuy|NN dawei|NN hartfeil|NN donna|NN hanna|NN lucy|NN lopez|NN robert|NN safran|NN howard|NN dipetrillo|NN thomas|NN 
+radiofrequency|NN ablation|NN of|NN painful|NN metastasis|NN http|NN 
+cancer|DS 
+http|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+goetz|NN callstrom|NN charboneau|NN william|NN farrell|NN sloan|NN jeff|NN j|NN 
+radiofrequency|NN ablation|NN of|NN painful|NN metastasis|NN bone|NN multicenter|NN study|NN http|NN 
+journal|NN of|NN oncology|NN 
+2|NN 
+http|NN 
+pmid|NN http|NN 
+callstrom|NN dupuy|NN beres|NN davis|NN ricardo|NN hoffman|NN cheryl|NN 
+cryoablation|NN of|NN painful|NN metastasis|NN bone|NN http|NN 
+cancer|DS 
+http|NN 
+p|NN 
+pmc|NN http|NN 
+pmid|NN http|NN 
+link|NN classification|NN c40|NN d|NN p|NN http|NN 
+http|NN x|NN d001859|NN tps|NN ter|NN diseasesdb|NN http|NN medlineplus|NN http|NN resource|NN http|NN page|NN december|NN 2019|NN utc|NN 
+text|NN common|NN license|NN term|NN 
+site|NN term|NN of|NN use|NN privacy|NN policy|NN 
+trademark|NN of|NN wikimedia|NN foundation|NN organization|NN 

@@ -1,0 +1,115 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN use|NN chickenpox|DS disambiguation|NN 
+use|NN chickenpox|DS disambiguation|NN 
+fowlpox|NN smallpox|DS 
+chickenpox|DS name|NN chickenpox|DS person|NN chickenpox|DS disease|NN symptom|NN blister|ST headache|ST loss|NN appetite|NN tiredness|NN fever|ST onset|NN day|NN exposure|NN duration|NN day|NN cause|NN chickenpox|DS virus|NN prevention|NN chickenpox|DS vaccine|NN lotion|NN paracetamol|NN death|NN year|NN shingle|NN 
+chickenpox|DS chickenpox|DS disease|NN infection|NN chickenpox|DS virus|NN vzv|NN disease|NN result|NN skin|NN rash|ST blister|ST scab|NN chest|NN back|NN face|NN rest|NN body|NN symptom|NN fever|ST tiredness|NN headache|ST symptom|NN day|NN complication|NN pneumonia|DS inflammation|NN brain|NN skin|NN infection|NN disease|NN adult|NN children|NN symptom|NN day|NN exposure|NN virus|NN 
+chickenpox|DS disease|NN cough|ST sneeze|NN person|NN day|NN rash|ST lesion|NN contact|NN blister|ST shingle|NN chickenpox|DS contact|NN blister|ST disease|NN present|NN symptom|NN case|NN polymerase|NN chain|NN reaction|NN pcr|NN test|NN blister|ST fluid|NN scab|NN antibody|NN person|NN people|NN chickenpox|DS virus|NN reinfection|NN symptom|NN 
+introduction|NN chickenpox|DS vaccine|NN decrease|NN number|NN case|NN complication|NN disease|NN percent|NN people|NN disease|NN benefit|NN disease|NN routine|NN immunization|NN children|NN country|NN day|NN exposure|NN outcome|NN children|NN treatment|NN lotion|NN itch|ST fingernail|NN decrease|NN injury|NN scratch|NN use|NN paracetamol|NN fever|ST risk|NN complication|NN medication|NN 
+chickenpox|DS part|NN world|NN 2013|NN case|NN chickenpox|DS herpe|NN routine|NN immunization|NN number|NN case|NN year|NN number|NN people|NN immunization|NN number|NN infection|NN united|NN states|NN chickenpox|DS death|NN 8900|NN death|NN case|NN chickenpox|DS smallpox|DS century|NN connection|NN shingle|NN use|NN term|NN chicken|NN pox|NN explanation|NN use|NN chicken|NN name|NN mildness|NN disease|NN content|NN 
+sign|NN symptom|NN pregnancy|NN neonate|NN shingle|NN diagnosis|NN prevention|NN hygiene|NN measure|NN treatment|NN children|NN adult|NN epidemiology|NN society|NN culture|NN exposure|NN animal|NN research|NN reference|NN link|NN 
+sign|NN symptom|NN blister|ST stage|NN rash|ST 
+prodromal|NN symptom|NN adolescent|NN adult|NN nausea|ST loss|NN appetite|NN muscle|NN headache|ST 
+rash|ST sore|NN malaise|ST fever|ST signal|NN presence|NN disease|NN 
+manifestation|NN disease|NN rash|ST 
+children|NN illness|NN symptom|NN sign|NN rash|ST spot|NN cavity|NN 
+rash|ST dot|NN face|NN scalp|NN torso|NN arm|NN leg|NN hour|NN bump|NN blister|ST pustule|NN umbilication|NN formation|NN scab|NN 
+blister|ST stage|NN itch|ST 
+palm|NN sole|NN area|NN 
+evidence|NN disease|NN cavity|NN tonsil|NN area|NN form|NN ulcer|NN rash|ST rash|ST day|NN 
+symptom|NN chickenpox|DS day|NN exposure|NN person|NN 
+adult|NN rash|ST fever|ST experience|NN complication|NN chickenpox|DS pneumonia|DS 
+discharge|ST virus|NN rash|ST ulcer|NN day|NN person|NN day|NN recognition|NN disease|NN 
+lesion|NN crust|NN scab|NN day|NN time|NN shed|NN virus|NN condition|NN couple|NN week|NN rash|ST month|NN 
+chickenpox|DS adult|NN men|NN women|NN children|NN 
+women|NN system|NN risk|NN complication|NN 
+ischemic|NN stroke|NN ais|NN chickenpox|DS year|NN account|NN childhood|NN ais|NN complication|NN chickenpox|DS shingle|NN herpe|NN reactivation|NN chickenpox|DS virus|NN decade|NN initial|NN childhood|NN chickenpox|DS infection|NN 
+back|NN male|NN day|NN rash|ST 
+girl|NN chickenpox|DS rash|ST torso|NN 
+lower|NN leg|NN child|NN chickenpox|DS 
+child|NN chickenpox|DS 
+child|NN chickenpox|DS face|NN 
+pregnancy|NN neonate|NN 
+pregnancy|NN danger|NN fetus|NN vzv|NN infection|NN month|NN 
+trimester|NN mother|NN symptom|NN women|NN antibody|NN result|NN immunization|NN infection|NN placenta|NN fetus|NN chickenpox|DS infection|NN women|NN placenta|NN infection|NN fetus|NN 
+infection|NN week|NN gestation|NN chickenpox|DS syndrome|NN chickenpox|DS syndrome|NN effect|NN fetus|NN severity|NN toe|NN finger|NN bladder|NN malformation|NN 
+brain|NN encephalitis|DS aplasia|DS brain|NN damage|NN eye|NN optic|NN stalk|NN optic|NN cup|NN len|NN vesicle|NN cataract|DS optic_atrophy|DS disorder|NN damage|NN cord|NN deficit|NN tendon|NN reflexe|NN syndrome|NN damage|NN body|NN hypoplasia|NN extremity|NN bladder|NN dysfunction|NN skin|NN disorder|NN skin|NN lesion|NN 
+infection|NN gestation|NN birth|NN chickenpox|DS infection|NN delivery|NN 
+risk|NN baby|NN disease|NN exposure|NN infection|NN period|NN day|NN delivery|NN day|NN birth|NN 
+baby|NN virus|NN sible|NN contact|NN concern|NN mother|NN 
+symptom|NN risk|NN pneumonia|DS complication|NN disease|NN article|NN chickenpox|DS virus|NN 
+exposure|NN vzv|NN child|NN production|NN host|NN immunoglobulin|NN g|NN igg|NN immunoglobulin|NN m|NN igm|NN immunoglobulin|NN iga|NN antibody|NN igg|NN antibody|NN life|NN immunity|NN 
+response|NN scope|NN duration|NN chickenpox|DS infection|NN 
+infection|NN vzv|NN lesion|NN nerve|NN 
+vzv|NN ganglion|NN cell|NN nerve|NN 
+reactivation|NN vzv|NN result|NN syndrome|NN herpe|NN shingle|NN neuralgia|NN ramsay|NN hunt|NN syndrome|NN type|NN chickenpox|DS artery|NN neck|NN head|NN stroke|NN childhood|NN latency|NN period|NN year|NN shingle|NN article|NN herpe|NN 
+chickenpox|DS infection|NN virus|NN nerve|NN tissue|NN 
+system|NN virus|NN bay|NN life|NN adult|NN form|NN infection|NN shingle|NN herpe|NN united|NN states|NN committee|NN practice|NN adult|NN age|NN year|NN herpe|NN vaccine|NN 
+shingle|NN adult|NN chickenpox|DS children|NN cancer|DS hiv|DS condition|NN 
+stress|NN shingle|NN scientist|NN connection|NN shingle|NN adult|NN age|NN chickenpox|DS age|NN diagnosis|NN chickenpox|DS 
+diagnosis|NN chickenpox|DS sign|NN symptom|NN symptom|NN rash|ST 
+confirmation|NN diagnosis|NN examination|NN fluid|NN vesicle|NN rash|ST test|NN blood|NN evidence|NN immunologic|NN response|NN 
+fluid|NN smear|NN test|NN antibody|NN 
+fluid|NN attempt|NN virus|NN fluid|NN sample|NN 
+blood|NN test|NN response|NN infection|NN igm|NN infection|NN immunity|NN igg|NN 
+diagnosis|NN chickenpox|DS infection|NN ultrasound|NN delay|NN week|NN infection|NN 
+pcr|NN dna|NN test|NN mother|NN fluid|NN risk|NN abortion|NN amniocentesis|NN procedure|NN risk|NN chickenpox|DS syndrome|NN prevention|NN hygiene|NN measure|NN 
+spread|NN chickenpox|DS individual|NN 
+exposure|NN droplet|NN contact|NN lesion|NN period|NN day|NN onset|NN rash|ST day|NN onset|NN rash|ST chickenpox|DS virus|NN disinfectant|NN chlorine|NN bleach|NN sodium|NN hypochlorite|NN 
+viruse|NN desiccation|NN heat|NN detergent|NN 
+article|NN chickenpox|DS vaccine|NN 
+chickenpox|DS vaccine|NN country|NN country|NN chickenpox|DS vaccination|NN exemption|NN school|NN 
+dose|NN year|NN immunization|NN person|NN case|NN chickenpox|DS immunization|NN day|NN household|NN contact|NN infection|NN rate|NN severity|NN children|NN 
+part|NN routine|NN immunization|NN schedule|NN country|NN part|NN vaccination|NN children|NN country|NN vaccine|NN cost|NN uk|NN 2014|NN vaccine|NN people|NN chickenpox|DS 
+virus|NN circulation|NN population|NN virus|NN age|NN occurrence|NN shingle|NN chickenpox|DS exposure|NN virus|NN life|NN population|NN immunity|NN clinician|NN enzyme|NN immunoassay|NN 
+immunoassay|NN level|NN antibody|NN virus|NN immunity|NN person|NN 
+level|NN antibody|NN titer|NN reimmunization|NN treatment|NN 
+treatment|NN symptom|NN 
+measure|NN people|NN home|NN disease|NN 
+nail|NN glove|NN scratch|NN risk|NN infection|NN 
+study|NN effectiveness|NN application|NN lotion|NN barrier|NN preparation|NN zinc|NN oxide|NN intervention|NN safety|NN profile|NN hygiene|NN clean|NN skin|NN water|NN infection|NN risk|NN infection|NN 
+acetaminophen|NN aspirin|NN fever|ST 
+aspirin|NN use|NN chickenpox|DS disease|NN liver|NN brain|NN syndrome|NN 
+people|NN risk|NN complication|NN exposure|NN virus|NN chickenpox|DS globulin|NN preparation|NN titre|NN antibody|NN chickenpox|DS virus|NN ward|NN disease|NN 
+aciclovir|NN mouth|NN hour|NN onset|NN symptom|NN day|NN effect|NN complication|NN rate|NN use|NN individual|NN function|NN 
+children|NN year|NN month|NN drug|NN condition|NN risk|NN complication|NN 
+treatment|NN chickenpox|DS children|NN symptom|NN system|NN deal|NN virus|NN 
+children|NN year|NN nail|NN part|NN treatment|NN blister|ST adult|NN 
+aspirin|NN children|NN year|NN syndrome|NN adult|NN 
+infection|NN adult|NN treatment|NN drug|NN hour|NN onset|NN remedy|NN symptom|NN chickenpox|DS adult|NN children|NN 
+adult|NN medication|NN severity|NN condition|NN likelihood|NN complication|NN 
+medicine|NN virus|NN 
+adult|NN water|NN intake|NN dehydration|NN headache|ST 
+paracetamol|NN acetaminophen|NN itch|ST symptom|NN fever|ST pain|ST 
+itch|ST case|NN itch|ST sleep|NN sedative|NN 
+children|NN medication|NN adult|NN complication|NN 
+women|NN people|NN system|NN 
+duration|NN blister|ST chickenpox|DS virus|NN children|NN day|NN appearance|NN blister|ST day|NN 
+chickenpox|DS infection|NN children|NN treatment|NN sodium|NN bicarbonate|NN bath|NN medication|NN itch|ST 
+aspirin|NN product|NN aspirin|NN children|NN chickenpox|DS syndrome|NN 
+adult|NN disease|NN incidence|NN 
+infection|NN adult|NN morbidity|NN mortality|NN pneumonia|DS pneumonia|DS pneumonia|DS bronchitis|DS bronchitis|DS bronchitis|DS hepatitis|DS encephalitis|DS women|NN chickenpox|DS pneumonia|DS severity|NN onset|NN gestation|NN 
+england|NN wales|NN death|NN chickenpox|DS adult|NN brain|NN encephalitis|DS individual|NN risk|NN herpe|NN fasciitis|NN complication|NN 
+chickenpox|DS adult|NN immunity|NN 
+number|NN people|NN group|NN hiv|DS epidemic|NN use|NN therapy|NN chickenpox|DS problem|NN hospital|NN patient|NN system|NN drug|NN steroid|NN hiv|DS 
+infection|NN skin|NN lesion|NN cellulitis|NN complication|NN children|NN 
+chickenpox|DS infection|NN immunocompromise|NN morbidity|NN 
+percent|NN case|NN chickenpox|DS pneumonia|DS adult|NN population|NN 
+complication|NN chickenpox|DS hepatitis|DS glomerulonephritis|DS 
+complication|NN immunocompromise|NN immunosuppress|NN population|NN children|NN adult|NN 
+syndrome|NN chickenpox|DS postinfectious|NN purpura|DS purpura|DS 
+syndrome|NN course|NN purpura|DS syndrome|NN outcome|NN 
+contrast|NN chickenpox|DS purpura|DS condition|NN mortality|NN rate|NN 
+cause|NN hemorrhagic|NN chickenpox|DS syndrome|NN epidemiology|NN 
+chickenpox|DS country|NN 
+chickenpox|DS death|NN 8900|NN death|NN 
+country|NN chickenpox|DS disease|NN children|NN case|NN winter|NN spring|NN due|NN school|NN contact|NN 
+disease|NN childhood|NN prevalence|NN age|NN group|NN 
+rubella|DS children|NN 
+chickenpox|DS infection|NN rate|NN contact|NN 
+country|NN people|NN adulthood|NN adult|NN 
+tropics|NN chickenpox|DS people|NN disease|NN adult|NN mark|NN scar|NN children|NN 
+united|NN states|NN center|NN disease|NN control|NN prevention|NN cdc|NN state|NN health|NN department|NN report|NN infection|NN chickenpox|DS state|NN information|NN study|NN media|NN disease|NN surveillance|NN tool|NN report|NN chickenpox|DS infection|NN facebook|NN measure|NN rank|NN state|NN infection|NN capita|NN maryland|NN tennessee|NN illinois|NN top|NN society|NN culture|NN 
+term|NN chickenpox|DS disease|NN chickpea|NN resemblance|NN vesicle|NN chickpea|NN rash|ST chicken|NN peck|NN suggestion|NN designation|NN chicken|NN child|NN child|NN pox|NN corruption|NN itching-pox|NN idea|NN disease|NN chicken|NN samuel|NN johnson|NN designation|NN danger|NN exposure|NN 
+chickenpox|DS adult|NN children|NN parent|NN children|NN virus|NN example|NN chickenpox|DS party|NN doctor|NN counter|NN children|NN vaccine|NN form|NN virus|NN disease|NN exposure|NN chickenpox|DS animal|NN 
+human|NN specy|NN disease|NN chickenpox|DS primate|NN chimpanzee|NN gorilla|NN research|NN 
+analog|NN treatment|NN chickenpox|DS adult|NN case|NN report|NN trial|NN efficacy|NN speculation|NN dose|NN aciclovir|NN mouth|NN period|NN time|NN vzv|NN host|NN trial|NN eradication|NN 

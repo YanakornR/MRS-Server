@@ -1,0 +1,92 @@
+encyclopedia|NN foot|NN fungus|NN jump|NN navigation|NN jump|NN article|NN disease|NN 
+footwear|NN company|NN athlete's_foot|DS 
+athlete's_foot|DS name|NN athlete's_foot|DS athlete's_foot|DS athlete's_foot|DS case|NN athlete's_foot|DS disease|NN symptom|NN scale|NN redness|NN foot|NN cause|NN epidermophyton|NN method|NN symptom|NN culture|NN microscopy|NN prevention|NN walk|NN shower|NN toenail|NN shoe|NN sock|NN treatment|NN medication|NN skin|NN mouth|NN frequency|NN population|NN 
+athlete's_foot|DS athlete's_foot|DS skin|NN infection|NN feet|NN fungus|NN sign|NN symptom|NN itch|ST scale|NN crack|NN redness|NN case|NN skin|NN athlete's_foot|DS fungus|NN part|NN foot|NN toe|NN area|NN bottom|NN foot|NN fungus|NN nail|NN hand|NN member|NN group|NN disease|NN 
+athlete's_foot|DS number|NN fungy|NN specy|NN trichophyton|NN condition|NN contact|NN skin|NN fungus|NN environment|NN place|NN fungy|NN swim|NN pool|NN locker|NN room|NN animal|NN diagnosis|NN sign|NN symptom|NN culture|NN microscope|NN 
+method|NN prevention|NN walk|NN shower|NN toenail|NN shoe|NN sock|NN feet|NN sandal|NN treatment|NN medication|NN skin|NN infection|NN medication|NN mouth|NN use|NN cream|NN week|NN 
+athlete's_foot|DS athlete's_foot|DS population|NN male|NN female|NN children|NN adult|NN condition|NN use|NN shoe|NN health|NN club|NN war|NN travel|NN content|NN 
+sign|NN symptom|NN complication|NN cause|NN transmission|NN risk|NN factor|NN diagnosis|NN prevention|NN treatment|NN treatment|NN treatment|NN epidemiology|NN reference|NN link|NN 
+sign|NN symptom|NN athlete's_foot|DS 
+athlete's_foot|DS category|NN presentation|NN athlete's_foot|DS athlete's_foot|DS aka|NN athlete's_foot|DS athlete's_foot|DS athlete's_foot|DS interdigital|NN toe|NN 
+sole|NN foot|NN 
+condition|NN lesion|NN border|NN soften|NN skin|NN exposure|NN moisture|NN 
+disease|NN type|NN disease|NN vesicle|NN blister|ST 
+vesicle|NN bullae|NN lesion|NN size|NN vesicle|NN mm|NN bulla|NN mm|NN definition|NN 
+athlete's_foot|DS toe|NN space|NN digit|NN case|NN athlete's_foot|DS rubrum|NN skin|NN toe|NN skin|NN 
+variant|NN athlete's_foot|DS t|NN mentagrophytes|NN pain|ST maceration|NN skin|NN erosion|NN fissure|NN skin|NN due|NN infection|NN 
+athlete's_foot|DS athlete's_foot|DS t|NN plaque|NN area|NN redness|NN skin|NN form|NN surface|NN foot|NN hyperkeratotic|NN scale|NN 
+type|NN athlete's_foot|DS t|NN outbreak|NN blister|ST vesicle|NN base|NN sole|NN foot|NN 
+subtype|NN athlete's_foot|DS infection|NN pyogene|NN staphylococcus|NN aureus|NN complication|NN 
+disease|NN skin|NN skin|NN infection|NN inflammation|NN vessel|NN athlete's_foot|DS fungus|NN toenail|NN keratin|NN condition|NN 
+athlete's_foot|DS scratch|NN reflex|NN host|NN area|NN 
+skin|NN condition|NN fungus|NN 
+itch|ST sensation|NN athlete's_foot|DS host|NN wound|ST infection|NN 
+scratch|NN scab|NN heal|NN process|NN 
+area|NN fungus|NN finger|NN fingernail|NN 
+finger|NN fingernail|NN skin|NN nail|NN 
+person|NN touche|NN part|NN body|NN environment|NN 
+skin|NN scale|NN environment|NN spread|NN 
+athlete's_foot|DS fungus|NN skin|NN particle|NN environment|NN clothe|NN shoe|NN bathroom|NN people|NN host|NN 
+example|NN feet|NN sock|NN shoe|NN feet|NN fungus|NN spore|NN 
+ease|NN fungus|NN area|NN body|NN finger|NN complication|NN 
+fungus|NN part|NN body|NN feet|NN feet|NN 
+condition|NN place|NN hold|NN ringworm|DS jock|NN itch|ST person|NN disease|NN 
+individual|NN response|NN fungus|NN id|NN reaction|NN blister|ST vesicle|NN area|NN hand|NN chest|NN arm|NN treatment|NN infection|NN result|NN disappearance|NN id|NN reaction|NN cause|NN 
+athlete's_foot|DS form|NN infection|NN skin|NN fungy|NN layer|NN skin|NN digest|NN dermatophyte|NN fungy|NN host|NN 
+athlete's_foot|DS mold|NN rubrum|NN t|NN epidermophyton|NN case|NN athlete's_foot|DS population|NN t|NN majority|NN athlete's_foot|DS case|NN athlete|NN t|NN transmission|NN 
+health|NN service|NN athlete|NN foot|NN contact|NN 
+disease|NN infection|NN 
+people|NN disease|NN contact|NN item|NN clothe|NN towel|NN surface|NN bathroom|NN shower|NN locker|NN room|NN floor|NN 
+fungy|NN athlete's_foot|DS environment|NN 
+finger|NN feet|NN skin|NN cell|NN body|NN 
+athlete's_foot|DS fungy|NN skin|NN particle|NN flake|NN sock|NN shoe|NN clothe|NN people|NN pet|NN pet|NN bed|NN sheet|NN shower|NN sink|NN counter|NN towel|NN rug|NN floor|NN carpet|NN 
+fungus|NN pet|NN hand|NN finger|NN people|NN 
+pet|NN flea|NN itch|ST 
+way|NN contract|NN athlete's_foot|DS infection|NN body|NN 
+fungy|NN athlete's_foot|DS area|NN body|NN feet|NN area|NN fungus|NN finger|NN feet|NN 
+fungus|NN name|NN condition|NN change|NN body|NN infection|NN 
+example|NN infection|NN ringworm|DS torso|NN limb|NN jock|NN itch|ST itch|ST groin|NN 
+clothe|NN shoe|NN body|NN heat|NN sweat|NN skin|NN environment|NN fungus|NN 
+risk|NN factor|NN 
+mode|NN transmission|NN risk|NN factor|NN increase|NN chance|NN athlete's_foot|DS 
+person|NN athlete's_foot|DS 
+adult|NN athlete's_foot|DS children|NN 
+men|NN chance|NN athlete's_foot|DS women|NN people|NN diabete|NN system|NN disease|NN 
+system|NN risk|NN athlete's_foot|DS 
+sweate|NN risk|NN infection|NN treatment|NN diagnosis|NN view|NN athlete's_foot|DS fungus|NN 
+doctor|NN diagnosis|NN procedure|NN 
+patient|NN history|NN record|NN risk|NN factor|NN interview|NN doctor|NN question|NN itch|ST scratch|NN examination|NN athlete's_foot|DS inspection|NN skin|NN symptom|NN itch|ST area|NN 
+diagnosis|NN microscopy|NN potassium|NN hydroxide|NN preparation|NN skin|NN scrape|NN test|NN diagnosis|NN athlete's_foot|DS help|NN rule|NN cause|NN candidiasis|DS contact_dermatitis|DS eczema|DS psoriasis|DS cause|NN athlete's_foot|DS hyphae|NN microscopy|NN 
+woods|NN lamp|NN light|NN infection|NN scalp|NN capitis|NN athlete's_foot|DS dermatophyte|NN cause|NN disease|NN light|NN prevention|NN 
+foot|NN hygiene|NN measure|NN athlete's_foot|DS recurrence|NN 
+feet|NN clip|NN toenail|NN nail|NN clipper|NN toenail|NN sock|NN cotton|NN moisture|NN material|NN moisture|NN skin|NN footwear|NN chang|NN sock|NN sandal|NN area|NN gym|NN shower|NN locker|NN room|NN 
+center|NN disease|NN control|NN prevention|NN nail|NN 
+nail|NN infection|NN 
+recurrence|NN athlete's_foot|DS use|NN powder|NN feet|NN 
+fungy|NN cause|NN athlete's_foot|DS warmth|NN moisture|NN 
+risk|NN infection|NN exposure|NN environment|NN boot|NN feet|NN environment|NN shower|NN pool|NN treatment|NN tub|NN chlorine|NN bleach|NN disinfectant|NN household|NN cleaner|NN 
+clean|NN surface|NN chlorine|NN bleach|NN solution|NN disease|NN spread|NN contact|NN 
+clean|NN shower|NN bathroom|NN floor|NN sink|NN counter|NN bleach|NN help|NN spread|NN disease|NN reinfection|NN 
+sock|NN shoe|NN bleach|NN wash|NN way|NN fungy|NN hold|NN spread|NN 
+share|NN boot|NN shoe|NN way|NN transmission|NN 
+athlete's_foot|DS share|NN footwear|NN person|NN 
+shoe|NN form|NN 
+towel|NN fungy|NN towel|NN 
+athlete's_foot|DS medication|NN 3040|NN case|NN medication|NN rate|NN cure|NN 
+treatment|NN feet|NN application|NN medication|NN 
+skin|NN layer|NN reinfection|NN treatment|NN layer|NN skin|NN week|NN symptom|NN 
+feet|NN hygiene|NN section|NN prevention|NN fungus|NN reinfection|NN 
+sock|NN shoe|NN fungy|NN feet|NN 
+sock|NN wash|NN bleach|NN wash|NN water|NN c|NN f|NN wash|NN bleach|NN shoe|NN way|NN disease|NN pair|NN shoe|NN shoe|NN 
+treatment|NN area|NN toenail|NN hand|NN torso|NN 
+infection|NN back|NN area|NN 
+example|NN infection|NN nail|NN rest|NN foot|NN athlete's_foot|DS 
+treatment|NN athlete's_foot|DS 
+skin|NN infection|NN treatment|NN medication|NN 
+antifungal|NN drug|NN treatment|NN athlete's_foot|DS nitrate|NN thiocarbamate|NN hydrochloride|NN hydrochloride|NN acid|NN 
+infection|NN agent|NN form|NN spray|NN powder|NN cream|NN gel|NN 
+application|NN cream|NN week|NN week|NN case|NN athlete's_foot|DS application|NN miconazole|NN athlete's_foot|DS treatment|NN presence|NN hyperkeratotic|NN skin|NN sole|NN foot|NN medication|NN urea|NN acid|NN ointment|NN acid|NN adjunct|NN medication|NN penetration|NN agent|NN skin|NN glucocorticoid|NN inflammation|NN itch|ST infection|NN 
+solution|NN potassium|NN permanganate|NN water|NN alternative|NN drug|NN potassium|NN permanganate|NN salt|NN oxidize|NN agent|NN 
+case|NN athlete's_foot|DS terbinafine|NN fluconazole|NN athlete's_foot|DS infection|NN effect|NN medication|NN epidemiology|NN 
+infection|NN population|NN adult|NN athlete's_foot|DS individual|NN footwear|NN boot|NN vinyl|NN shoe|NN country|NN region|NN experience|NN rate|NN athlete's_foot|DS population|NN shoe|NN result|NN disease|NN penalty|NN civilization|NN study|NN men|NN time|NN women|NN 
+fungus|NN infection|NN toenail|NN trench|NN foot|NN 

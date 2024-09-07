@@ -1,0 +1,250 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN redirect|NN 
+beverage|NN drink|NN 
+song|NN starsailor|NN song|NN 
+alcoholism|NN name|NN alcoholism|NN alcoholism|NN alcoholism|NN king|NN alcohol|NN ministerjpg|NN king|NN alcohol|NN minister|NN 
+psychiatry|NN toxicology|NN addiction|NN medicine|NN symptom|NN amount|NN alcohol|NN period|NN difficulty|NN cute|NN alcohol|NN lot|NN time|NN usage|NN problem|NN withdrawal|NN complication|NN illness|NN syndrome|NN heartbeat|NN cirrhosis|NN liver|NN cancer|DS alcohol|NN spectrum|NN disorder|NN suicide|NN duration|NN term|NN cause|NN factor|NN factor|NN stress|NN anxiety|ST method|NN questionnaire|NN blood|NN test|NN treatment|NN alcohol|NN detoxification|NN benzodiazepine|NN counsel|NN frequency|NN adult|NN death|NN 
+alcoholism|NN alcoholism|NN alcoholism|NN term|NN drink|NN alcohol|NN result|NN health|NN problem|NN disorder|NN type|NN alcohol|NN abuse|NN alcohol_dependence|DS context|NN alcoholism|NN condition|NN person|NN drink|NN amount|NN alcohol|NN time|NN period|NN difficulty|NN alcohol|NN deal|NN time|NN alcohol|NN usage|NN result|NN responsibility|NN usage|NN result|NN problem|NN usage|NN result|NN health|NN problem|NN usage|NN result|NN situation|NN withdrawal|NN stop|NN alcohol|NN tolerance|NN use|NN situation|NN drink|NN drive|NN sex|NN thing|NN alcohol|NN use|NN part|NN body|NN brain|NN heart|NN liver|NN pancrea|NN system|NN illness|NN syndrome|NN heartbeat|NN response|NN liver_cirrhosis|DS cancer|DS risk|NN disease|NN pregnancy|NN damage|NN baby|NN alcohol|NN spectrum|NN disorder|NN women|NN men|NN effect|NN alcohol|NN 
+factor|NN genetics|NN component|NN alcoholism|NN risk|NN parent|NN sible|NN alcoholism|NN time|NN alcoholic|NN factor|NN influence|NN stress|NN level|NN anxiety|ST alcohol|NN cost|NN accessibility|NN increase|NN risk|NN people|NN symptom|NN withdrawal|NN person|NN drink|NN alcohol|NN level|NN withdrawal|NN month|NN alcoholism|NN illness|NN questionnaire|NN blood|NN test|NN people|NN alcoholism|NN information|NN diagnosis|NN 
+prevention|NN alcoholism|NN sale|NN alcohol|NN alcohol|NN cost|NN treatment|NN treatment|NN step|NN problem|NN withdrawal|NN alcohol|NN detoxification|NN method|NN use|NN medication|NN diazepam|NN health|NN care|NN institution|NN person|NN community|NN supervision|NN illness|NN addiction|NN treatment|NN detoxification|NN support|NN group|NN therapy|NN support|NN group|NN person|NN drink|NN form|NN support|NN group|NN alcoholics|NN medication|NN disulfiram|NN drink|NN 
+world|NN health|NN organization|NN people|NN alcoholism|NN population|NN year|NN age|NN united|NN states|NN adult|NN age|NN year|NN age|NN male|NN adult|NN middle|NN age|NN africa|NN rate|NN europe|NN alcoholism|NN death|NN 2013|NN death|NN total|NN death|NN death|NN alcohol|NN person|NN life|NN expectancy|NN year|NN united|NN states|NN cost|NN term|NN people|NN alcoholism|NN expression|NN drunkard|NN world|NN health|NN organization|NN use|NN alcoholism|NN due|NN mean|NN alcoholism|NN content|NN 
+sign|NN symptom|NN misuse|NN warn|NN sign|NN alcohol|NN withdrawal|NN cause|NN availability|NN gender|NN difference|NN variation|NN diagnosis|NN definition|NN barrier|NN screen|NN urine|NN blood|NN test|NN prevention|NN management|NN detoxification|NN addiction|NN epidemiology|NN history|NN society|NN culture|NN research|NN lsd|NN reference|NN link|NN 
+sign|NN symptom|NN alcohol|NN media|NN effect|NN alcohol|NN body|NN 
+risk|NN alcohol_dependence|DS level|NN drink|NN increase|NN volume|NN alcohol|NN pattern|NN amount|NN occasion|NN point|NN intoxication|NN binge|NN drink|NN 
+adult|NN risk|NN binge|NN drink|NN 
+citation|NN misuse|NN effect|NN ethanol|NN individual|NN 
+women|NN alcohol|NN alcohol|NN syndrome|NN 
+alcoholism|NN tolerance|NN alcohol|NN individual|NN alcohol_dependence|DS alcohol|NN individual|NN consumption|NN 
+dependency|NN alcohol|NN individual|NN urge|NN drink|NN alcohol|NN 
+characteristics|NN role|NN alcoholics|NN ability|NN drink|NN alcoholism|NN effect|NN health|NN disorder|NN risk|NN suicide|NN 
+mood|NN symptom|NN alcohol|NN drinker|NN warn|NN sign|NN 
+warn|NN sign|NN alcoholism|NN consumption|NN amount|NN alcohol|NN intoxication|NN preoccupation|NN drink|NN exclusion|NN activity|NN drink|NN failure|NN promise|NN inability|NN blackout|NN personality|NN change|NN drink|NN denial|NN make|NN excuse|NN refusal|NN drink|NN dysfunction|NN problem|NN work|NN school|NN loss|NN interest|NN appearance|NN hygiene|NN problem|NN complaint|NN health|NN loss|NN appetite|NN infection|NN anxiety|ST effect|NN article|NN effect|NN alcohol|NN 
+drink|NN blood|NN alcohol|NN concentration|NN bac|NN improvement|NN mood|NN euphoria|ST feel|NN self-confidence|NN sociability|NN anxiety|ST appearance|NN face|NN judgment|NN muscle|NN coordination|NN 
+bac|NN 009|NN cause|NN lethargy|NN sedation|NN balance|NN problem|NN vision|NN 
+bac|NN 018|NN cause|NN confusion|ST speech|NN speech|NN dizziness|ST vomit|NN 
+bac|NN 025|NN cause|NN stupor|NN unconsciousness|ST amnesia|DS vomit|NN death|NN inhalation|NN vomit|NN aspiration|NN depression|ST 
+bac|NN 035|NN cause|NN coma|NN unconsciousness|ST depression|ST alcohol|NN poison|NN 
+beverage|NN drive|NN aircraft|NN machinery|NN risk|NN accident|NN country|NN penalty|NN drive|NN 
+effect|NN effect|NN alcohol|NN consumption|NN 
+drink|NN day|NN women|NN drink|NN men|NN risk|NN heart|NN disease|NN blood|NN pressure|NN fibrillation|NN stroke|NN risk|NN people|NN binge|NN drink|NN violence|NN accident|NN death|NN death|NN alcohol|NN year|NN alcoholism|NN person|NN life|NN expectancy|NN year|NN alcohol|NN use|NN cause|NN death|NN united|NN states|NN association|NN people|NN drink|NN wine|NN alcohol|NN abuse|NN number|NN symptom|NN cirrhosis|NN liver|NN pancreatitis|NN epilepsy|DS dementia|DS heart|NN disease|NN deficiency|NN ulcer|NN dysfunction|NN 
+effect|NN risk|NN disease|NN malabsorption|NN liver|NN disease|NN cancer|DS 
+system|NN system|NN alcohol|NN consumption|NN range|NN defect|NN fragility|NN addition|NN tendency|NN injury|NN propensity|NN bone|NN fracture|NN 
+women|NN complication|NN alcohol_dependence|DS men|NN 
+women|NN mortality|NN rate|NN alcoholism|NN men|NN example|NN complication|NN brain|NN heart|NN liver|NN damage|NN risk|NN breast_cancer|DS 
+drink|NN time|NN effect|NN function|NN women|NN 
+result|NN dysfunction|NN mass|NN problem|NN irregularity|NN cycle|NN menopause|NN ketoacidosis|NN individual|NN abuse|NN alcohol|NN history|NN binge|NN amount|NN alcohol|NN effect|NN sexe|NN 
+dosage|NN alcohol|NN men|NN women|NN result|NN women|NN blood|NN alcohol|NN concentration|NN women|NN percentage|NN body|NN fat|NN volume|NN distribution|NN alcohol|NN men|NN stomach|NN men|NN alcohol|NN 
+misuse|NN alcohol|NN range|NN health|NN problem|NN 
+problem|NN percent|NN dementia|DS case|NN alcohol|NN consumption|NN cause|NN dementia|DS alcohol|NN use|NN damage|NN brain|NN function|NN health|NN time|NN skill|NN people|NN alcoholism|NN due|NN effect|NN alcohol|NN brain|NN cortex|NN area|NN brain|NN 
+skill|NN alcohol|NN abuse|NN impairment|NN emotion|NN prosody|NN perception|NN problem|NN theory|NN mind|NN deficit|NN ability|NN humour|NN alcohol|NN abuser|NN disorder|NN alcoholics|NN percent|NN disturbance|NN 
+symptom|NN anxiety|ST depression|ST disorder|NN 
+symptom|NN alcohol|NN withdrawal|NN abstinence|NN confusion|ST brain|NN syndrome|NN alcohol|NN misuse|NN misdiagnosis|NN schizophrenia|DS panic_disorder|DS result|NN alcohol|NN misuse|NN 
+co-occurrence|NN depressive|NN disorder|NN alcoholism|NN occurrence|NN distinction|NN depressive|NN episode|NN remit|NN alcohol|NN abstinence|NN depressive|NN episode|NN abstinence|NN episode|NN use|NN drug|NN risk|NN depression|ST disorder|NN gender|NN 
+women|NN disorder|NN diagnosis|NN depression|ST anxiety|ST panic_disorder|DS bulimia|NN stress|NN disorder|NN borderline_personality_disorder|DS 
+men|NN disorder|NN diagnosis|NN personality|NN disorder|NN disorder|NN schizophrenia|DS impulse|NN disorder|NN attention|NN disorder|NN women|NN alcoholism|NN assault|NN abuse|NN violence|NN women|NN population|NN instance|NN disorder|NN dependence|NN alcohol|NN 
+effect|NN crime|NN 
+problem|NN alcoholism|NN dilemma|NN change|NN brain|NN effect|NN alcohol|NN alcohol|NN abuse|NN risk|NN offence|NN child|NN abuse|NN violence|NN rape|NN burglary|NN assault|NN alcoholism|NN loss|NN employment|NN problem|NN 
+drink|NN time|NN behavior|NN judgment|NN consequence|NN charge|NN drive|NN disorder|NN penalty|NN behavior|NN sentence|NN 
+alcoholics|NN behavior|NN impairment|NN isolation|NN family|NN friend|NN 
+isolation|NN conflict|NN divorce|NN violence|NN 
+alcoholism|NN child|NN neglect|NN damage|NN development|NN alcoholics|NN children|NN reason|NN children|NN parent|NN number|NN problem|NN 
+example|NN parent|NN mood|NN 
+addition|NN amount|NN shame|NN inadequacy|NN parent|NN alcoholism|NN 
+result|NN failure|NN self-image|NN depression|ST alcohol|NN withdrawal|NN article|NN alcohol_withdrawal_syndrome|DS withdrawal|NN temperance|NN poster|NN union|NN des|NN franaises|NN contre|NN union|NN women|NN alcohol|NN 
+nation|NN alcohol|NN 
+substance|NN mechanism|NN barbiturate|NN benzodiazepine|NN withdrawal|NN alcohol_dependence|DS effect|NN increase|NN stimulation|NN receptor|NN system|NN depression|ST 
+consumption|NN alcohol|NN receptor|NN number|NN tolerance|NN dependence|NN 
+alcohol|NN consumption|NN person|NN system|NN synapse|NN fire|NN 
+symptom|NN anxiety|ST seizure|NN delirium|DS hallucination|ST shake|NN heart|NN failure|NN neurotransmitter|NN system|NN dopamine|NN nmda|NN glutamate|NN 
+withdrawal|NN symptom|NN delirium|DS seizure|NN post|NN cessation|NN alcohol|NN 
+withdrawal|NN phase|NN week|NN 
+period|NN week|NN cessation|NN anxiety|ST depression|ST sleep|NN disturbance|NN fatigue|ST tension|NN week|NN part|NN withdrawal|NN syndrome|NN quarter|NN alcoholics|NN experience|NN anxiety|ST depression|ST year|NN 
+withdrawal|NN symptom|NN animal|NN model|NN alcohol_dependence|DS withdrawal|NN 
+kindle|NN effect|NN alcoholics|NN withdrawal|NN syndrome|NN withdrawal|NN episode|NN result|NN period|NN abstinence|NN re-exposure|NN alcohol|NN 
+individual|NN withdrawal|NN episode|NN seizure|NN experience|NN anxiety|ST withdrawal|NN alcohol|NN individual|NN history|NN alcohol|NN withdrawal|NN episode|NN 
+kindle|NN effect|NN change|NN brain|NN circuit|NN gene|NN expression|NN result|NN intensification|NN symptom|NN alcohol|NN withdrawal|NN decision|NN tool|NN questionnaire|NN guide|NN physician|NN alcohol|NN withdrawal|NN 
+example|NN ciwa-ar|NN alcohol|NN withdrawal|NN symptom|NN order|NN guide|NN therapy|NN decision|NN interview|NN time|NN usefulness|NN validity|NN reliability|NN care|NN withdrawal|NN patient|NN danger|NN death|NN cause|NN william|NN hogarths|NN gin|NN lane|NN 
+mixture|NN factor|NN risk|NN development|NN alcoholism|NN gene|NN metabolism|NN alcohol|NN risk|NN alcoholism|NN family|NN history|NN alcoholism|NN paper|NN alcohol|NN use|NN age|NN expression|NN gene|NN risk|NN alcohol_dependence|DS individual|NN disposition|NN alcoholism|NN drink|NN age|NN age|NN onset|NN drink|NN risk|NN development|NN alcoholism|NN percent|NN alcoholics|NN adolescence|NN 
+association|NN researcher|NN view|NN 
+childhood|NN trauma|NN increase|NN risk|NN drug|NN dependency|NN lack|NN peer|NN family|NN support|NN risk|NN alcoholism|NN genetics|NN adolescence|NN sensitivity|NN effect|NN alcohol|NN abuse|NN 
+degeneration|NN effect|NN behaviour|NN development|NN persistence|NN severity|NN alcoholism|NN 
+evidence|NN abstinence|NN reversal|NN alcohol|NN system|NN damage|NN use|NN cannabis|NN problem|NN alcohol|NN use|NN alcohol|NN use|NN probability|NN use|NN tobacco|NN drug|NN cannabis|NN availability|NN 
+alcohol|NN drug|NN 
+beer|NN world|NN beverage|NN drink|NN overal|NN water|NN tea|NN beverage|NN gender|NN difference|NN 
+data|NN survey|NN drug|NN use|NN health|NN rate|NN alcohol_dependence|DS abuse|NN person|NN level|NN alcohol|NN use|NN month|NN drinker|NN binge|NN drinker|NN month|NN drinker|NN alcohol|NN month|NN criteria|NN alcohol_dependence|DS abuse|NN year|NN 
+male|NN rate|NN female|NN measure|NN drink|NN month|NN alcohol|NN use|NN binge|NN drink|NN alcohol|NN use|NN male|NN female|NN criteria|NN alcohol_dependence|DS abuse|NN year|NN variation|NN addiction|NN factor|NN 
+difference|NN group|NN risk|NN alcohol_dependence|DS 
+example|NN difference|NN east|NN group|NN alcohol|NN 
+factor|NN rate|NN alcohol_dependence|DS group|NN alcohol|NN dehydrogenase|NN allele|NN metabolism|NN alcohol|NN 
+allele|NN descent|NN tribe|NN 
+american|NN american|NN allele|NN risk|NN alcoholism|NN american|NN rate|NN alcoholism|NN case|NN risk|NN factor|NN effect|NN trauma|NN rate|NN alcoholism|NN american|NN alcoholism|NN level|NN 
+association|NN study|NN individual|NN variant|NN gene|NN transmembrane|NN protein|NN 
+alcohol|NN consumption|NN 
+element|NN cell|NN surface|NN receptor|NN hormone|NN modulation|NN appetite|NN sugar|NN alcohol|NN diagnosis|NN addiction|NN medicine|NN definition|NN man|NN drink|NN bottle|NN liquor|NN boardwalk|NN 
+picture|NN photographer|NN emil|NN mayer|NN 
+misuse|NN problem|NN use|NN abuse|NN use|NN alcohol|NN use|NN alcohol|NN harm|NN drinker|NN guideline|NN american|NN use|NN beverage|NN day|NN men|NN beverage|NN day|NN women|NN drinker|NN ml|NN alcohol|NN day|NN drink|NN period|NN institute|NN alcohol|NN abuse|NN alcoholism|NN niaaa|NN binge|NN drink|NN amount|NN alcohol|NN blood|NN alcohol|NN content|NN bac|NN 008|NN adult|NN drink|NN men|NN women|NN period|NN 
+men|NN risk|NN problem|NN alcohol|NN consumption|NN drink|NN week|NN drink|NN day|NN women|NN risk|NN drink|NN week|NN drink|NN day|NN 
+drink|NN bottle|NN beer|NN glass|NN wine|NN ounce|NN spirit|NN risk|NN report|NN survey|NN drug|NN use|NN health|NN drinker|NN binge|NN drinker|NN criteria|NN criteria|NN alcohol_dependence|DS drinker|NN criteria|NN 
+inference|NN study|NN policy|NN strategy|NN service|NN binge|NN drink|NN addiction|NN treatment|NN case|NN alcoholism|NN 
+term|NN alcoholism|NN laypeople|NN word|NN 
+call|NN alcoholism|NN term|NN use|NN variable|NN mean|NN use|NN term|NN expert|NN committee|NN 
+book|NN alcoholics|NN state|NN person|NN alcoholic|NN term|NN alcoholic|NN context|NN 
+bill|NN w|NN co-founder|NN alcoholics|NN aa|NN 
+alcoholism|NN disease|NN disease|NN entity|NN 
+example|NN thing|NN heart|NN disease|NN 
+heart|NN ailment|NN combination|NN 
+wrong|NN profession|NN alcoholism|NN disease|NN entity|NN 
+illness|NN malady|NN term|NN 
+research|NN context|NN term|NN alcoholism|NN alcohol|NN abuse|NN alcohol_dependence|DS alcohol_dependence|DS 
+talbot|NN alcoholism|NN disease|NN model|NN course|NN person|NN condition|NN 
+consequence|NN life|NN johnson|NN progression|NN addict|NN response|NN alcohol|NN 
+drink|NN drink|NN phase|NN 
+mood|NN swing|NN 
+person|NN alcohol|NN culture|NN age|NN person|NN feel|NN 
+stage|NN cost|NN 
+mood|NN swing|NN 
+person|NN feel|NN euphoria|ST phase|NN drink|NN intoxication|NN effect|NN 
+stage|NN consequence|NN 
+stage|NN consequence|NN hangover|NN family|NN problem|NN work|NN problem|NN 
+person|NN problem|NN 
+stage|NN johnson|NN risk|NN death|NN 
+person|NN feel|NN guilt|NN remorse|NN anxiety|ST shame|NN 
+deterioration|NN stage|NN 
+theorist|NN focus|NN deterioration|NN alcohol|NN consumption|NN cause|NN 
+process|NN stage|NN 
+stage|NN person|NN symptom|NN capacity|NN drink|NN alcohol|NN problem|NN 
+change|NN increase|NN tolerance|NN drinker|NN 
+stage|NN stage|NN symptom|NN 
+symptom|NN drink|NN withdrawal|NN symptom|NN 
+addict|NN drink|NN withdrawal|NN sickness|NN amount|NN 
+drink|NN problem|NN intoxication|NN 
+deterioration|NN stage|NN organ|NN drink|NN 
+treatment|NN rehabilitation|NN center|NN change|NN death|NN 
+dsm|NN icd|NN 
+psychology|NN psychiatry|NN dsm|NN standard|NN medicine|NN standard|NN icd|NN 
+organization|NN term|NN definition|NN alcohol|NN abuse|NN alcohol_dependence|DS 
+alcohol|NN abuse|NN use|NN consequence|NN alcohol_dependence|DS alcohol|NN abuse|NN tolerance|NN withdrawal|NN drive|NN term|NN alcoholism|NN alcohol|NN abuse|NN alcohol_dependence|DS dsm-iii-r|NN symptom|NN abuse|NN dependence|NN alcohol|NN abuse|NN alcohol_dependence|DS entry|NN disorder|NN 
+alcohol|NN use|NN alcoholism|NN definition|NN dsm-iv|NN 
+world|NN health|NN organization|NN term|NN alcoholism|NN alcoholism|NN concept|NN use|NN abuse|NN icd-10|NN damage|NN absence|NN dependence|NN term|NN alcoholism|NN icd|NN icd-8icda-8|NN icd-9|NN 
+diagnosis|NN alcohol_dependence|DS approach|NN definition|NN alcoholism|NN 
+part|NN development|NN research|NN protocol|NN find|NN 
+dsm-iv|NN alcohol_dependence|DS diagnosis|NN alcohol|NN use|NN impairment|NN follow|NN period|NN tolerance|NN withdrawal|NN amount|NN time|NN course|NN desire|NN attempt|NN use|NN deal|NN time|NN use|NN activity|NN use|NN knowledge|NN sequelae|NN 
+imprecision|NN term|NN attempt|NN word|NN alcoholism|NN 
+council|NN alcoholism|NN drug|NN dependence|NN disease|NN control|NN drink|NN preoccupation|NN drug|NN alcohol|NN use|NN alcohol|NN consequence|NN distortion|NN think|NN 
+entry|NN alcoholism|NN reference|NN definition|NN 
+aa|NN alcoholism|NN illness|NN allergy28|NN allergy|NN mean|NN medicine|NN obsession23|NN doctor|NN addiction|NN specialist|NN dr|NN 
+william|NN d|NN 
+md|NN behalf|NN aa|NN alcoholics|NN crave|NN controlxxvy|NN study|NN e|NN 
+morton|NN jellinek|NN foundation|NN disease|NN theory|NN alcoholism|NN definition|NN use|NN word|NN alcoholism|NN history|NN 
+definition|NN alcoholism|NN time|NN 
+association|NN word|NN alcoholism|NN disease|NN barrier|NN 
+attitude|NN stereotype|NN barrier|NN detection|NN treatment|NN alcohol|NN abuse|NN 
+barrier|NN women|NN men|NN 
+fear|NN stigmatization|NN women|NN condition|NN drink|NN 
+pattern|NN turn|NN family|NN physician|NN woman|NN alcoholic|NN contrast|NN fear|NN stigma|NN men|NN condition|NN drink|NN drink|NN group|NN 
+pattern|NN turn|NN family|NN physician|NN man|NN screen|NN 
+screen|NN age|NN tool|NN loss|NN control|NN alcohol|NN use|NN 
+tool|NN questionnaire|NN form|NN 
+theme|NN score|NN tally|NN sum|NN severity|NN alcohol|NN use|NN 
+questionnaire|NN question|NN example|NN screen|NN patient|NN doctor|NN office|NN 
+response|NN respondent|NN 
+questionnaire|NN question|NN 
+people|NN drink|NN 
+drink|NN thing|NN morn|NN nerve|NN hangover|NN 
+questionnaire|NN effectiveness|NN problem|NN limitation|NN people|NN problem|NN women|NN college|NN student|NN 
+test|NN detection|NN alcohol_dependence|DS alcohol_dependence|DS data|NN questionnaire|NN test|NN questionnaire|NN 
+diagnosis|NN alcohol_dependence|DS alcohol|NN use|NN michigan|NN alcohol|NN screen|NN test|NN mast|NN screen|NN tool|NN alcoholism|NN court|NN sentence|NN people|NN offense|NN drive|NN influence|NN 
+alcoholism|NN identification|NN test|NN alcoholism|NN screen|NN questionnaire|NN world|NN health|NN organization|NN country|NN 
+questionnaire|NN set|NN question|NN score|NN investigation|NN paddington|NN alcohol|NN test|NN pat|NN screen|NN problem|NN accident|NN emergency|NN department|NN 
+alcoholism|NN questionnaire|NN time|NN blood|NN test|NN alcoholism|NN urine|NN blood|NN test|NN 
+test|NN use|NN alcohol|NN test|NN blood|NN alcohol|NN content|NN bac|NN test|NN alcoholics|NN drink|NN effect|NN body|NN 
+mcv|NN ggt|NN elevation|NN ast|NN alt|NN ast|NN alt|NN ratio|NN carbohydrate|NN cdt|NN 
+regard|NN alcoholism|NN bac|NN alcohol|NN tolerance|NN turn|NN sign|NN alcoholism|NN acid-base|NN abnormality|NN hypomagnesemia|NN acidosis|NN alkalosis|NN alcoholics|NN 
+blood|NN test|NN marker|NN screen|NN questionnaire|NN 
+prevention|NN information|NN alcohol|NN education|NN 
+world|NN health|NN organization|NN union|NN body|NN government|NN parliament|NN alcohol|NN policy|NN order|NN harm|NN alcoholism|NN adolescent|NN adult|NN step|NN harm|NN alcohol|NN abuse|NN 
+age|NN drug|NN abuse|NN alcohol|NN ban|NN advertise|NN alcohol|NN way|NN harm|NN alcohol_dependence|DS abuse|NN 
+evidence|NN campaign|NN media|NN consequence|NN alcohol|NN abuse|NN 
+guideline|NN parent|NN alcohol|NN abuse|NN adolescent|NN people|NN health|NN problem|NN management|NN 
+treatment|NN perspective|NN alcoholism|NN 
+alcoholism|NN condition|NN disease|NN treatment|NN instance|NN condition|NN choice|NN 
+treatment|NN focus|NN people|NN alcohol|NN intake|NN life|NN train|NN support|NN return|NN alcohol|NN use|NN 
+alcoholism|NN factor|NN person|NN relapse|NN 
+example|NN kind|NN treatment|NN detoxification|NN combination|NN therapy|NN attendance|NN group|NN development|NN cope|NN mechanism|NN 
+treatment|NN community|NN alcoholism|NN zero|NN tolerance|NN approach|NN approach|NN detoxification|NN article|NN alcohol|NN detoxification|NN 
+alcohol|NN detoxification|NN detox|NN alcoholics|NN stop|NN alcohol|NN drink|NN substitution|NN drug|NN benzodiazepine|NN effect|NN alcohol|NN withdrawal|NN 
+individual|NN risk|NN mild|NN withdrawal|NN symptom|NN outpatient|NN 
+individual|NN risk|NN withdrawal|NN syndrome|NN comorbid|NN condition|NN inpatient|NN 
+detoxification|NN alcoholism|NN detoxification|NN treatment|NN program|NN alcohol_dependence|DS abuse|NN risk|NN relapse|NN symptom|NN alcohol|NN withdrawal|NN mood|NN anxiety|ST week|NN month|NN symptom|NN alcoholism|NN effect|NN brain|NN function|NN average|NN year|NN abstinence|NN deficit|NN alcohol|NN abuse|NN service|NN center|NN alcoholics|NN 
+form|NN group|NN therapy|NN psychotherapy|NN issue|NN alcohol|NN addiction|NN relapse|NN prevention|NN skill|NN 
+mutual-help|NN approach|NN way|NN alcoholics|NN sobriety|NN alcoholics|NN organization|NN nonprofessional|NN 
+recovery|NN recovery|NN women|NN sobriety|NN organization|NN ration|NN moderation|NN program|NN moderation|NN management|NN abstinence|NN 
+alcoholics|NN drink|NN way|NN return|NN drink|NN 
+study|NN institute|NN alcohol|NN abuse|NN alcoholism|NN percent|NN individual|NN alcohol|NN year|NN prior|NN drink|NN 
+group|NN symptom|NN dependency|NN 
+study|NN subject|NN remission|NN 20012002|NN rate|NN return|NN problem|NN drink|NN 
+study|NN abstinence|NN alcohol|NN form|NN remission|NN alcoholics|NN year|NN follow-up|NN group|NN men|NN return|NN drink|NN decade|NN relapse|NN evolution|NN abstinence|NN 
+internet|NN measure|NN term|NN 
+united|NN states|NN medication|NN alcoholism|NN method|NN naltrexone|NN disulfiram|NN 
+brain|NN chemistry|NN alcohol_dependence|DS action|NN glutamate|NN neurotransmitter|NN phase|NN nmda|NN activity|NN onset|NN alcohol|NN withdrawal|NN alcohol|NN withdrawal|NN acamprosate|NN risk|NN relapse|NN person|NN antagonist|NN receptor|NN effect|NN endorphin|NN opioid|NN 
+decrease|NN crave|NN alcohol|NN abstinence|NN 
+alcohol|NN body|NN release|NN endorphin|NN turn|NN release|NN dopamine|NN reward|NN pathway|NN body|NN effect|NN alcohol|NN evidence|NN risk|NN relapse|NN person|NN decrease|NN drink|NN manner|NN sinclair|NN method|NN approach|NN antagonist|NN alcoholism|NN person|NN medication|NN hour|NN drink|NN alcohol|NN medication|NN reinforcement|NN effect|NN ethanol|NN person|NN drink|NN drink|NN elimination|NN acetaldehyde|NN chemical|NN body|NN ethanol|NN 
+acetaldehyde|NN cause|NN hangover|NN symptom|NN alcohol|NN use|NN 
+effect|NN discomfort|NN alcohol|NN hangover|NN 
+drug|NN investigation|NN 
+management|NN alcohol|NN withdrawal|NN outcome|NN alcoholism|NN 
+alcoholics|NN benzodiazepine|NN rate|NN abstinence|NN alcohol|NN benzodiazepine|NN 
+class|NN drug|NN alcoholics|NN insomnia|ST anxiety|ST management|NN prescription|NN benzodiazepine|NN sedative-hypnotics|NN individual|NN recovery|NN rate|NN relapse|NN author|NN report|NN quarter|NN people|NN 
+user|NN benzodiazepine|NN anxiety|ST panic|NN risk|NN factor|NN relapse|NN alcohol|NN abuse|NN 
+regime|NN month|NN intensity|NN withdrawal|NN calcium|NN way|NN disulfiram|NN advantage|NN effect|NN disulfiram|NN drowsiness|NN calcium|NN carbimide|NN evidence|NN people|NN genetics|NN evidence|NN ondansetron|NN problem|NN alcohol|NN 
+evidence|NN use|NN serotonin|NN reuptake|NN inhibitor|NN antidepressant|NN antipsychotics|NN addiction|NN dependence|NN 
+alcoholics|NN treatment|NN drug|NN addiction|NN drug|NN 
+dependence|NN syndrome|NN alcohol_dependence|DS dependence|NN study|NN percent|NN individual|NN problem|NN dependence|NN misuse|NN problem|NN drug|NN diazepam|NN clonazepam|NN 
+drug|NN alcohol|NN 
+doctor|NN anxiety|ST problem|NN mood|NN disorder|NN drug|NN 
+use|NN crave|NN alcohol|NN volume|NN alcohol|NN problem|NN drinker|NN dependency|NN reduction|NN dosage|NN withdrawal|NN syndrome|NN health|NN consequence|NN 
+dependence|NN sedative-hypnotics|NN opiate|NN drug|NN alcoholics|NN 
+alcohol|NN sedative-hypnotic|NN sedative-hypnotics|NN barbiturate|NN benzodiazepine|NN nonbenzodiazepine|NN 
+dependence|NN withdrawal|NN sedative-hypnotics|NN alcohol|NN withdrawal|NN risk|NN psychosis|DS seizure|NN epidemiology|NN life|NN year|NN alcoholism|NN inhabitant|NN 
+data|NN 290410|NN 650770|NN 10101130|NN alcohol|NN consumption|NN litre|NN alcohol|NN 
+world|NN health|NN organization|NN people|NN alcoholism|NN population|NN year|NN age|NN substance|NN use|NN disorder|NN health|NN problem|NN country|NN 
+substance|NN abusedependence|NN patient|NN treatment|NN alcohol|NN 
+united|NN kingdom|NN number|NN drinker|NN adult|NN alcohol_dependence|DS problem|NN time|NN life|NN united|NN states|NN western|NN europe|NN percent|NN men|NN percent|NN women|NN point|NN live|NN criteria|NN alcoholism|NN estonia|NN death|NN rate|NN alcohol|NN europe|NN population|NN united|NN states|NN people|NN hospital|NN problem|NN alcohol|NN 
+community|NN consensus|NN alcoholism|NN disease|NN state|NN 
+example|NN association|NN alcohol|NN drug|NN drug|NN addiction|NN relapse|NN brain|NN disease|NN drug|NN use|NN consequence|NN 
+interplay|NN vulnerability|NN exposure|NN factor|NN stage|NN brain|NN maturity|NN 
+alcoholism|NN prevalence|NN men|NN decade|NN proportion|NN alcoholics|NN evidence|NN men|NN women|NN alcoholism|NN percent|NN percent|NN influence|NN alcoholics|NN alcoholism|NN adolescence|NN adulthood|NN percent|NN college|NN student|NN sign|NN alcohol|NN abuse|NN percent|NN alcohol|NN 
+definition|NN alcoholics|NN percent|NN college|NN student|NN criteria|NN alcoholism|NN death|NN person|NN 2012|NN 2137|NN 
+alcoholism|NN person|NN life|NN expectancy|NN year|NN cause|NN death|NN alcoholics|NN complication|NN rate|NN suicide|NN alcoholics|NN person|NN drink|NN 
+percent|NN alcoholics|NN suicide|NN research|NN percent|NN suicide|NN alcohol|NN drug|NN dependence|NN 
+alcohol|NN distortion|NN brain|NN chemistry|NN isolation|NN 
+suicide|NN alcohol|NN abuser|NN percent|NN suicide|NN adolescent|NN alcohol|NN abuse|NN alcohol_dependence|DS year|NN criteria|NN drink|NN percent|NN group|NN treatment|NN breakdown|NN percent|NN percent|NN remission|NN symptom|NN percent|NN drinker|NN consumption|NN chance|NN relapse|NN percent|NN percent|NN drinker|NN percent|NN contrast|NN result|NN 60-year|NN follow-up|NN group|NN men|NN return|NN drink|NN decade|NN relapse|NN evolution|NN abstinence|NN 
+drink|NN study|NN mirage|NN 
+history|NN inn|NN peasant|NN advertisement|NN alcoholism|NN disease|NN 
+name|NN dipsomania|NN physician|NN cw|NN 
+alcoholism|NN term|NN mean|NN term|NN alcoholism|NN physician|NN magnus|NN huss|NN effect|NN alcohol|NN alcohol|NN history|NN use|NN misuse|NN history|NN 
+egyptian|NN source|NN history|NN abuse|NN dependence|NN alcohol|NN 
+culture|NN alcohol|NN abuse|NN 
+alcohol|NN misuse|NN drunkenness|NN problem|NN year|NN 
+define|NN drunkenness|NN consequence|NN century|NN 
+monk|NN alcohol|NN misuse|NN toxicity|NN system|NN body|NN range|NN disorder|NN seizure|NN paralysis|ST 
+effect|NN alcohol|NN abuse|NN drunkenness|NN membership|NN temperance|NN movement|NN prohibition|NN alcohol|NN united|NN states|NN ban|NN production|NN importation|NN transportation|NN sale|NN beverage|NN place|NN policy|NN decline|NN death|NN rate|NN cirrhosis|NN alcoholism|NN alcohol_dependence|DS abuse|NN economy|NN dollar|NN year|NN cancer|DS obesity|NN society|NN culture|NN 
+health|NN problem|NN alcohol|NN consumption|NN society|NN example|NN money|NN cost|NN injury|NN drunkenness|NN organ|NN damage|NN use|NN treatment|NN cost|NN cost|NN rehabilitation|NN facility|NN detoxification|NN center|NN 
+alcohol|NN use|NN factor|NN head|NN injury|NN motor|NN vehicle|NN accident|NN drive|NN violence|NN assault|NN 
+cost|NN alcohol|NN consumption|NN cost|NN family|NN friend|NN instance|NN alcohol|NN consumption|NN woman|NN alcohol|NN syndrome|NN condition|NN estimate|NN cost|NN alcohol|NN abuse|NN world|NN health|NN organization|NN percent|NN gdp|NN estimate|NN alcohol|NN cost|NN drug|NN abuse|NN study|NN alcohol|NN share|NN study|NN cost|NN uk|NN form|NN alcohol|NN misuse|NN cost|NN united|NN states|NN 2235|NN 
+stereotypes|NN alcoholics|NN fiction|NN culture|NN 
+town|NN drunk|NN stock|NN character|NN culture|NN 
+stereotypes|NN drunkenness|NN racism|NN xenophobia|NN depiction|NN drinker|NN study|NN psychologist|NN greeley|NN attempt|NN document|NN prevalence|NN alcohol|NN consumption|NN america|NN alcohol|NN consumption|NN culture|NN united|NN states|NN australia|NN 
+country|NN product|NN drink|NN country|NN country|NN united|NN states|NN 
+country|NN product|NN alcohol|NN consumption|NN study|NN immigrant|NN canada|NN alcohol|NN part|NN meal|NN time|NN solo|NN drink|NN 
+alcohol|NN event|NN conversation|NN 
+caucasian|NN abstinence|NN rate|NN tolerance|NN symptom|NN drink|NN alcohol|NN drink|NN 
+acculturation|NN culture|NN culture|NN caucasian|NN practice|NN agent|NN promise|NN alcoholism|NN 
+alcohol|NN american|NN agent|NN choice|NN ritual|NN research|NN 
+derivative|NN sugar|NN d-fructose|NN alcoholics|NN amount|NN 
+evidence|NN glutamate|NN receptor|NN dopamine|NN release|NN gamma-aminobutyric|NN acid|NN function|NN 
+review|NN effectiveness|NN topiramate|NN result|NN trial|NN data|NN conjunction|NN compliance|NN agent|NN alcohol_dependence|DS review|NN alcohol|NN option|NN 
+crave|NN alcohol|NN withdrawal|NN severity|NN baclofen|NN 
+receptor|NN agonist|NN study|NN treatment|NN alcoholism|NN review|NN evidence|NN conclusion|NN safety|NN efficacy|NN evidence|NN quality|NN baclofen|NN market|NN use|NN alcoholism|NN treatment|NN drug|NN agency|NN treatment|NN 
+antagonist|NN promise|NN treatment|NN lsd|NN 
+analysis|NN study|NN psychotherapy|NN potential|NN treatment|NN alcoholism|NN bill|NN wilson|NN founder|NN alcoholics|NN lsd|NN alcoholics|NN sobriety|NN 
+personality|NN traffic|NN crashe|NN united|NN states|NN alcoholism|NN family|NN system|NN study|NN genetics|NN alcoholism|NN screen|NN test|NN drug|NN list|NN country|NN alcohol|NN consumption|NN 

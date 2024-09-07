@@ -1,0 +1,54 @@
+encyclopedia|NN jump|NN navigation|NN jump|NN search|NN Myocarditis|Disease name|NN Myocarditis|Disease Myocarditis|Disease microscope|NN image|NN Myocarditis|Disease autopsy|NN person|NN onset|NN heart|NN failure|NN symptom|NN breath|NN chest|NN pain|NN ability|NN heartbeat|NN complication|NN heart|NN failure|NN cardiomyopathy|NN arrest|NN duration|NN hour|NN month|NN cause|NN infection|NN infection|NN medication|NN toxin|NN autoimmune|NN disorder|NN method|NN blood|NN heart|NN mry|NN heart|NN biopsy|NN treatment|NN defibrillator|NN heart|NN transplant|NN inhibitor|NN beta|NN blocker|NN diuretics|NN corticosteroid|NN immunoglobulin|NN frequency|NN cardiomyopathy|NN death|NN cardiomyopathy|NN
+Myocarditis|Disease Myocarditis|Disease inflammation|NN heart|NN muscle|NN symptom|NN shortness|NN breath|NN chest|NN pain|NN ability|NN exercise|NN heartbeat|NN duration|NN problem|NN hour|NN month|NN complication|NN heart|NN failure|NN cardiomyopathy|NN arrest|NN
+Myocarditis|Disease infection|NN cause|NN infection|NN medication|NN toxin|NN autoimmune|NN disorder|NN diagnosis|NN electrocardiogram|NN ecg|NN heart|NN mry|NN heart|NN biopsy|NN ultrasound|NN heart|NN cause|NN heart|NN valve|NN problem|NN
+treatment|NN severity|NN cause|NN inhibitor|NN beta|NN blocker|NN diuretics|NN period|NN exercise|NN recovery|NN immunoglobulin|NN case|NN case|NN defibrillator|NN heart|NN transplant|NN
+2013|NN case|NN Myocarditis|Disease people|NN age|NN male|NN female|NN case|NN cardiomyopathy|NN Myocarditis|Disease death|NN 294000|NN description|NN condition|NN content|NN
+sign|NN symptom|NN cause|NN agent|NN mechanism|NN diagnosis|NN treatment|NN surgery|NN medicine|NN epidemiology|NN history|NN reference|NN link|NN
+sign|NN symptom|NN
+sign|NN symptom|NN Myocarditis|Disease inflammation|NN myocardium|NN weakness|NN heart|NN muscle|NN inflammation|NN
+sign|NN symptom|NN Myocarditis|Disease
+chest|NN pain|NN stab|NN character|NN heart|NN failure|NN shortness|NN breath|NN liver|NN congestion|NN heart|NN rhythm|NN heart|NN death|NN adult|NN Myocarditis|Disease case|NN death|NN fever|NN fever|NN symptom|NN children|NN malaise|NN appetite|NN pain|NN cough|NN
+stage|NN illness|NN symptom|NN work|NN breath|NN asthma|NN
+Myocarditis|Disease illness|NN patient|NN history|NN symptom|NN infection|NN fever|NN rash|NN pain|NN
+Myocarditis|Disease pericarditis|NN people|NN Myocarditis|Disease present|NN sign|NN symptom|NN Myocarditis|Disease time|NN
+number|NN cause|NN Myocarditis|Disease cause|NN
+europe|NP north|NP america|NP viruse|NN culprit|NN
+cause|NN disease|NN illness|NN south|NP america|NP infection|NN trypanosoma|NN cause|NN protozoa|NN fungy|NN parasite|NN allergy|NN autoimmune|NN disorder|NN drug|NN cause|NN Myocarditis|Disease
+adenovirus|NN virus|NN rubella|NN virus|NN polio|NN virus|NN virus|NN hepatitis|NN c|NP protozoan|NP trypanosoma|NP disease|NN toxoplasma|NN gondiy|NN gonococcus|NN actinomyce|NN vibrio|NN burgdorfery|NN mycoplasma|NN aspergillus|NN echinococcus|NN westermany|NN solium|NN larva|NN bancrofty|NN
+Myocarditis|Disease patient|NN immunodeficiency|NN
+drug|NN alcohol|NN form|NN chemotherapy|NN clozapine|NN designer|NN drug|NN
+acetazolamide|NN rejection|NN heart|NN transplant|NN lupus|NN sarcoidosis|NN granulomatosis|NN polyangiitis|NN granulomatosis|NN polyangiitis|NP kawasaki|NP disease|NN hypereosinophilic|NN syndrome|NN arsenic|NN shock|NN syndrome|NN toxin|NN carbon|NN monoxide|NN snake|NN venom|NN metal|NN copper|NN iron|NN
+shock|NN radiation|NN
+form|NN Myocarditis|Disease infiltration|NN heart|NN tissue|NN type|NN blood|NN cell|NN lymphocyte|NN macrophage|NN descendant|NN cell|NN cell|NN macrophage|NN
+Myocarditis|Disease subtype|NN Myocarditis|Disease tissue|NN type|NN blood|NN cell|NN eosinophil|NN
+Myocarditis|Disease Myocarditis|Disease set|NN cause|NN treatment|NN diagnosis|NN st|NP elevation|NN male|NN Myocarditis|Disease biopsy|NN specimen|NN eosinophilic|NN endocardium|NN myocardium|NN eosin|NN stain|NN
+Myocarditis|Disease process|NN inflammation|NN injury|NN heart|NN
+inflammation|NN heart|NN consequence|NN insult|NN
+cause|NN heart|NN attack|NN inflammation|NN myocardium|NN diagnosis|NN Myocarditis|Disease evidence|NN inflammation|NN myocardium|NN
+inflammation|NN basis|NN ecg|NN result|NN protein|NN crp|NP andor|NP erythrocyte|NN sedimentation|NN rate|NN esr|NP igm|NN viruse|NN myocardium|NN
+markers|NP damage|NN kinase|NN isoenzyme|NN
+ecg|NN find|NN Myocarditis|Disease t|NP wave|NN inversion|NN elevation|NN
+gold|NN standard|NN biopsy|NN myocardium|NN general|NN set|NN angiography|NN
+tissue|NN sample|NN endocardium|NN myocardium|NN pathologist|NN microscopy|NN andif|NN stain|NN method|NN
+feature|NN interstitium|NN edema|NN lymphocyte|NN macrophage|NN
+destruction|NN myocyte|NN pump|NN failure|NN
+resonance|NN image|NN cmr|NP Myocarditis|Disease marker|NN inflammation|NN myocardium|NN consensus|NN criteria|NN diagnosis|NN Myocarditis|Disease cmr|NP
+ultrasound|NN week|NN media|NN
+shock|NN Myocarditis|Disease ultrasound|NN week|NN media|NN
+shock|NN Myocarditis|Disease ultrasound|NN week|NN media|NN
+shock|NN Myocarditis|Disease
+infection|NN treatment|NN form|NN therapy|NN form|NN Myocarditis|Disease phase|NN therapy|NN bed|NN rest|NN
+people|NN symptom|NN diuretics|NN
+people|NN dysfunction|NN function|NN use|NN phase|NN therapy|NN inhibitor|NN
+corticosteroid|NN effect|NN people|NN Myocarditis|Disease data|NN usefulness|NN corticosteroid|NN caution|NN adult|NN study|NN children|NN lack|NN control|NN group|NN
+cochrane|NP review|NN evidence|NN benefit|NN immunoglobulin|NN adult|NN benefit|NN children|NN evidence|NN surgery|NN
+people|NN therapy|NN candidate|NN bridge|NN therapy|NN device|NN
+heart|NN transplantation|NN people|NN therapy|NN
+membrane|NN oxygenation|NN arrest|NN alternative|NN medicine|NN
+study|NN benefit|NN use|NN medicine|NN cause|NN mortality|NN Myocarditis|Disease epidemiology|NN
+incidence|NN Myocarditis|Disease
+series|NN routine|NN patient|NN evidence|NN inflammation|NN
+adult|NN case|NN death|NN Myocarditis|Disease
+patient|NN hiv|NP Myocarditis|Disease find|NN autopsy|NN prevalence|NN history|NN
+case|NN Myocarditis|Disease term|NN Myocarditis|Disease process|NN myocardium|NN physician|NN joseph|NP friedrich|NP term|NN condition|NN hypertension|NN heart|NN disease|NN admonition|NN use|NN Myocarditis|Disease diagnosis|NN authority|NN cardiologist|NN sir|NP thomas|NP lewis|NP cardiologist|NN co-founder|NN heart|NN association|NN paul|NP white|NP Myocarditis|Disease
+Myocarditis|Disease inflammation|NN myocardium|NN definition|NN classification|NN diagnosis|NN treatment|NN subject|NN controversy|NN biopsy|NN history|NN Myocarditis|Disease correlation|NN
